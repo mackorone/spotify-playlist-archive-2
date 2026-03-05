@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Hades66
 
-[Spotify](https://open.spotify.com/user/spotify) - 551,741 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 551,784 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 39 | [Pa' No Llorar](https://open.spotify.com/track/2oYWQCDw7z9M26LEy25wiy) | [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B) | [Pa' No Llorar](https://open.spotify.com/album/2IaFEtCmiVJRh9XqDfWwu0) | 3:19 |
 | 40 | [Kileros](https://open.spotify.com/track/1wigcF8smPqZxhZ2nvanjd) | [Uriel Gaxiola](https://open.spotify.com/artist/4fQPqLk2LwWrrc6OBMzXZj), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Kileros](https://open.spotify.com/album/0Wbq8ySv9eu4uKCvpIRNhL) | 2:53 |
 | 41 | [En El Club](https://open.spotify.com/track/1jt1JLQB7iopUUuxzhPBgS) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Cuarto Rojo](https://open.spotify.com/album/5mYT6LZHPYbpGdmYPJZKEK) | 2:24 |
-| 42 | [Rico Todo](https://open.spotify.com/track/1YN16kju6Q2pPcwjZvF7bm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a) | [Rico Todo](https://open.spotify.com/album/4h8xFiXHebah2qlydteLYV) | 2:35 |
+| 42 | [Rico Todo](https://open.spotify.com/track/1YN16kju6Q2pPcwjZvF7bm) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Bravvs](https://open.spotify.com/artist/2EstnBv92UlKvEoCLSPOOh), [Zor Beats](https://open.spotify.com/artist/4PRnYjyIiHXm9sQz1bFYen) | [Rico Todo](https://open.spotify.com/album/4h8xFiXHebah2qlydteLYV) | 2:35 |
 | 43 | [Hospeda](https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX) | [TORRRES](https://open.spotify.com/artist/34PYzJSu4DHKEyhdBfsn0E), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Hospeda](https://open.spotify.com/album/5DHNV0mhhIrULt79CQpxCf) | 2:42 |
 | 44 | [GANJAH \- REMIX](https://open.spotify.com/track/3SmYs0dIDrATZCUxad3rRH) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [GANJAH \(REMIX\)](https://open.spotify.com/album/7HwxMey8fZzvwbbPoeYq8U) | 4:17 |
 | 45 | [EN EL BARRIO DE LAS FLORES](https://open.spotify.com/track/2dq4b2x87XYMl8EY7fT12G) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1) | [EL PLUGGG 3 OVA 2](https://open.spotify.com/album/0c6D3rRgLwIoV00tdf84wx) | 3:21 |

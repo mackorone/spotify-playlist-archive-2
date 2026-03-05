@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64981,
+  "num_followers": 64982,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Jazz Mariachi",
+        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
+      },
+      "artists": [
+        {
+          "name": "Tino Contreras",
+          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
+      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
         "url": "https://open.spotify.com/album/6627kcDKivQe10EdHUDmok"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Jazz Mariachi",
-        "url": "https://open.spotify.com/album/3aoFmJGzas336JTwS4DGFh"
-      },
-      "artists": [
-        {
-          "name": "Tino Contreras",
-          "url": "https://open.spotify.com/artist/48kCMQ00lfjWnQZCUPOYrX"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Luna Taxque\u00f1a - Jazz Mariachi",
-      "url": "https://open.spotify.com/track/3KV4Rqy4xUPFDxtNQ9yTqp"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mezcal",
-        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+        "name": "What's The Rush? (Remastered)",
+        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Oropeza Tr\u00edo",
-          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+          "name": "Joe d'Etienne Big Band",
+          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
         }
       ],
-      "duration_ms": 393786,
-      "name": "La Cigarra",
-      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+      "duration_ms": 403946,
+      "name": "Temporary Insanity",
+      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -717,20 +717,36 @@
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
+      "added_at": "2022-01-14 03:44:06",
       "album": {
-        "name": "What's The Rush? (Remastered)",
-        "url": "https://open.spotify.com/album/5DDmmIEbBj1Af44uYbDPqi"
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
       },
       "artists": [
         {
-          "name": "Joe d'Etienne Big Band",
-          "url": "https://open.spotify.com/artist/4w0SEpB31C1FOxXUirTg3M"
+          "name": "Leonardo Prieto",
+          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
         }
       ],
-      "duration_ms": 403946,
-      "name": "Temporary Insanity",
-      "url": "https://open.spotify.com/track/4Y4brKstYyDiKZlfu9xtmL"
+      "duration_ms": 458280,
+      "name": "Horizonte Lejano",
+      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+      },
+      "artists": [
+        {
+          "name": "Cha/Co Project",
+          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+        }
+      ],
+      "duration_ms": 384415,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -751,34 +767,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/11r4oKZ7DA9XEnCmhlN08o"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Cha/Co Project",
-          "url": "https://open.spotify.com/artist/5CbKyLdwHF109D2YqnDxsK"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 384415,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/2ozAiy8UhKYlwAdxZ997Tv"
-    },
-    {
-      "added_at": "2022-01-14 03:44:06",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Prieto",
-          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
-        }
-      ],
-      "duration_ms": 458280,
-      "name": "Horizonte Lejano",
-      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2023-11-23 03:14:06",

@@ -831,6 +831,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "All Sufficient Merit (Live)",
+        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 330502,
+      "name": "All Sufficient Merit - Live",
+      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "TEN",
         "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 310200,
       "name": "Because Of Christ",
       "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "All Sufficient Merit (Live)",
-        "url": "https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 330502,
-      "name": "All Sufficient Merit - Live",
-      "url": "https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -919,6 +919,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
+        "name": "Hello Maker",
+        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
+      },
+      "artists": [
+        {
+          "name": "Bright City",
+          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
+        }
+      ],
+      "duration_ms": 300854,
+      "name": "Rock of Our Salvation",
+      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
-        "name": "Hello Maker",
-        "url": "https://open.spotify.com/album/22pKUdahZtdO78K72hNK1j"
-      },
-      "artists": [
-        {
-          "name": "Bright City",
-          "url": "https://open.spotify.com/artist/5hYRBkg6k7yq787YZedMaR"
-        }
-      ],
-      "duration_ms": 300854,
-      "name": "Rock of Our Salvation",
-      "url": "https://open.spotify.com/track/0xIWuowu94DVPnePfM04uX"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Zion (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
+        "name": "Passion: Salvation\u2019s Tide Is Rising",
+        "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
       },
       "artists": [
         {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
         }
       ],
-      "duration_ms": 535962,
-      "name": "Oceans (Where Feet May Fail)",
-      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+      "duration_ms": 268466,
+      "name": "My Victory",
+      "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1271,22 +1271,22 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Passion: Salvation\u2019s Tide Is Rising",
-        "url": "https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop"
+        "name": "Zion (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
         },
         {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
         }
       ],
-      "duration_ms": 268466,
-      "name": "My Victory",
-      "url": "https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB"
+      "duration_ms": 535962,
+      "name": "Oceans (Where Feet May Fail)",
+      "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
     },
     {
       "added_at": "2025-04-11 04:00:15",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2025-04-11 04:00:15",
       "album": {
-        "name": "Wonder",
-        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 411000,
-      "name": "So Will I (100 Billion X)",
-      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
-    },
-    {
-      "added_at": "2025-04-11 04:00:15",
-      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1387,6 +1367,26 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
+    },
+    {
+      "added_at": "2025-04-11 04:00:15",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 411000,
+      "name": "So Will I (100 Billion X)",
+      "url": "https://open.spotify.com/track/1ed3wNCecRIp6SugyR0w2J"
     },
     {
       "added_at": "2025-04-11 04:00:15",

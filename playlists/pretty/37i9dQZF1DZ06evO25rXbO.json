@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1230034,
+  "num_followers": 1230273,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABl/bQ7RsN5MxihZS2jvHQ0",
+  "snapshot_id": "aaYkgAAAAADNGXeWqd4SyhO1QaqWkNRZ",
   "tracks": [
     {
       "added_at": null,
@@ -224,13 +224,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Tony Allen",
-          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
         }
       ],
-      "duration_ms": 138264,
-      "name": "The Hardest Thing (feat. Tony Allen)",
-      "url": "https://open.spotify.com/track/2jSbuzSLLvFYO7xAMEU85i"
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf"
     },
     {
       "added_at": null,
@@ -304,13 +304,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Sparks",
-          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
         }
       ],
-      "duration_ms": 284775,
-      "name": "The Happy Dictator (feat. Sparks)",
-      "url": "https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf"
+      "duration_ms": 138264,
+      "name": "The Hardest Thing (feat. Tony Allen)",
+      "url": "https://open.spotify.com/track/2jSbuzSLLvFYO7xAMEU85i"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
       "artists": [
         {
@@ -540,13 +540,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 197546,
-      "name": "Andromeda (feat. DRAM)",
-      "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
+      "duration_ms": 230141,
+      "name": "Oil (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
       "artists": [
         {
@@ -616,13 +616,13 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 230141,
-      "name": "Oil (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
+      "duration_ms": 197546,
+      "name": "Andromeda (feat. DRAM)",
+      "url": "https://open.spotify.com/track/2C0KFbb4v9CNWR5c9jWcKC"
     },
     {
       "added_at": null,
@@ -647,6 +647,26 @@
       "duration_ms": 194969,
       "name": "The Plastic Guru (feat. Johnny Marr and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/68nwsIBVoGDO38VKhtvKzD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Adeleye Omotayo",
+          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
+        }
+      ],
+      "duration_ms": 266338,
+      "name": "Silent Running (feat. Adeleye Omotayo)",
+      "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
     },
     {
       "added_at": null,
@@ -695,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Adeleye Omotayo",
-          "url": "https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT"
-        }
-      ],
-      "duration_ms": 266338,
-      "name": "Silent Running (feat. Adeleye Omotayo)",
-      "url": "https://open.spotify.com/track/0ZGWe02EtMpw40QAzOVZD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleeping Powder",
         "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Souk Eye",
-      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Humanz (Deluxe)",
         "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
@@ -779,6 +763,38 @@
       "duration_ms": 181906,
       "name": "Saturnz Barz (feat. Popcaan)",
       "url": "https://open.spotify.com/track/7l9CE3wmEGOUYw1j4ETjnL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Souk Eye",
+      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 220105,
+      "name": "Baby Queen",
+      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
     },
     {
       "added_at": null,
@@ -803,38 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 220105,
-      "name": "Baby Queen",
-      "url": "https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Magic City",
-      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Song Machine, Season One: Strange Timez (Deluxe)",
         "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
       },
@@ -855,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gorillaz",
-        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
       "artists": [
         {
@@ -864,9 +848,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 162080,
-      "name": "5/4",
-      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
+      "duration_ms": 239613,
+      "name": "Magic City",
+      "url": "https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi"
     },
     {
       "added_at": null,
@@ -891,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+        "name": "Gorillaz",
+        "url": "https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F"
       },
       "artists": [
         {
@@ -900,9 +884,9 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         }
       ],
-      "duration_ms": 233373,
-      "name": "Fire Flies",
-      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
+      "duration_ms": 162080,
+      "name": "5/4",
+      "url": "https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN"
     },
     {
       "added_at": null,
@@ -916,13 +900,29 @@
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
         },
         {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
         }
       ],
-      "duration_ms": 192880,
-      "name": "Pac-Man (feat. ScHoolboy Q)",
-      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
+      "duration_ms": 333053,
+      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
+      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Fire Flies",
+      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
     },
     {
       "added_at": null,
@@ -947,6 +947,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
+        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "duration_ms": 192880,
+      "name": "Pac-Man (feat. ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/4hURm1oP1rE1KZ4zd7mRay"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 248493,
       "name": "Kansas",
       "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Song Machine, Season One: Strange Timez (Deluxe)",
-        "url": "https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 333053,
-      "name": "D\u00e9sol\u00e9 (feat. Fatoumata Diawara) - Extended Version",
-      "url": "https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO"
     }
   ],
   "unique_name": "This Is Gorillaz",

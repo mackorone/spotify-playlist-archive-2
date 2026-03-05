@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,934 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,953 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 40 | [トラストフォール](https://open.spotify.com/track/2gye4ERAfgttO9sCm56AaJ) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [トラストフォール](https://open.spotify.com/album/2v83WTF5BbwwBxHMKXdovN) | 2:32 |
 | 41 | [ガールズバンドは死なない](https://open.spotify.com/track/3EldcMHt5Y7oyebSdur2tQ) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [ガールズバンドは死なない](https://open.spotify.com/album/0IUx923kbZZaAcz6MVdzGP) | 3:59 |
 | 42 | [Unknown Island](https://open.spotify.com/track/0DFdHBXkNHzkErWowep6Ak) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/0imMfpeWlSPj9E5Sy0Bgui) | 4:16 |
-| 43 | [Track 1](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 0:00 |
+| 43 | [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 |
 | 44 | [HAZY \(Prod\. A.G.O\)](https://open.spotify.com/track/0UTXzsR3yu5wRmphb8dzla) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 3:19 |
 | 45 | [Catch me when I fall](https://open.spotify.com/track/33LDbIdCNl9ppEdDJ0Vwee) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Catch me when I fall](https://open.spotify.com/album/5E0sDzjtAUQAkdCPSJn92Z) | 3:45 |
 | 46 | [SAKURA](https://open.spotify.com/track/3rFbWHG2YFfXWIYYQaqpEC) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [ZOOM IN PEOPLE](https://open.spotify.com/album/1fG7X6oyx5KB0hBMp2adEM) | 3:21 |

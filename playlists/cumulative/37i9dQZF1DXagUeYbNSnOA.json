@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Nina del R\u00edo. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Esty. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 192525,
       "name": "aguasanta",
       "url": "https://open.spotify.com/track/5rCGHU2wuEJknHXIKtGAMQ"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 189605,
       "name": "amarillo",
       "url": "https://open.spotify.com/track/2vcS73KJUZ3eQBNj1qcOju"
@@ -5818,6 +5818,32 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
+    },
+    {
+      "album": {
+        "name": "Barra Payan",
+        "url": "https://open.spotify.com/album/4kyRtcVqVxmWpT5fPT9Wx7"
+      },
+      "artists": [
+        {
+          "name": "Planta Industrial",
+          "url": "https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw"
+        },
+        {
+          "name": "aka the darknight",
+          "url": "https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j"
+        },
+        {
+          "name": "Saso",
+          "url": "https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "Barra Payan",
+      "url": "https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR"
     },
     {
       "album": {
@@ -9880,6 +9906,24 @@
       "duration_ms": 138109,
       "name": "contratiempo",
       "url": "https://open.spotify.com/track/1MC66QbWw8yNMK27foDnOR"
+    },
+    {
+      "album": {
+        "name": "Control Remoto",
+        "url": "https://open.spotify.com/album/7wHwrbMxMEFCvzIK7lgYIr"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207652,
+      "name": "Control Remoto",
+      "url": "https://open.spotify.com/track/6Y7ZyDKzOVOaowCYDWGxoh"
     },
     {
       "album": {
@@ -16414,7 +16458,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 181333,
       "name": "En Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/0k0mn8mOgjkJg1HK4QqMjF"
@@ -16490,6 +16534,24 @@
       "duration_ms": 186518,
       "name": "En Sue\u00f1os",
       "url": "https://open.spotify.com/track/6Bxt3SlBHvAt6haq2uTUjQ"
+    },
+    {
+      "album": {
+        "name": "En Tercera Persona",
+        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
+      },
+      "artists": [
+        {
+          "name": "More",
+          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211435,
+      "name": "En Tercera Persona",
+      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
     },
     {
       "album": {
@@ -20012,7 +20074,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 167575,
       "name": "GOSTOSO",
       "url": "https://open.spotify.com/track/39XX2TpTpctv1iKkA1PXE4"
@@ -20670,7 +20732,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 160426,
       "name": "Hesitated",
       "url": "https://open.spotify.com/track/27AUhLeLRWJPtth1zjsq5R"
@@ -29419,6 +29481,28 @@
     },
     {
       "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
+    },
+    {
+      "album": {
         "name": "Mi Tesoro",
         "url": "https://open.spotify.com/album/15cwX5OlZbafn6Pluoajf2"
       },
@@ -32102,7 +32186,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190000,
       "name": "no eras para m\u00ed",
       "url": "https://open.spotify.com/track/5LGSckE52rD9e0EDYYMTfR"
@@ -34480,7 +34564,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 181106,
       "name": "OJOS AZUL",
       "url": "https://open.spotify.com/track/2mZX0HH0Juzga2wYK3B1ho"
@@ -35032,7 +35116,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 199423,
       "name": "Otra Nota",
       "url": "https://open.spotify.com/track/2fcIrUYN0ihui4wBHfpUuA"
@@ -39169,6 +39253,24 @@
     },
     {
       "album": {
+        "name": "rapido",
+        "url": "https://open.spotify.com/album/1uSV4PSq5nrpMBKikjMlPU"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "rapido",
+      "url": "https://open.spotify.com/track/2BtgiZCI2hOczOJVIMpklJ"
+    },
+    {
+      "album": {
         "name": "Rayo De Mayo",
         "url": "https://open.spotify.com/album/7DQFOxQSP8uzOWYtQbvR2F"
       },
@@ -41019,6 +41121,28 @@
     },
     {
       "album": {
+        "name": "Se supone (feat. Bebo Dumont)",
+        "url": "https://open.spotify.com/album/5xONfL8DpCHx24SLfVKjst"
+      },
+      "artists": [
+        {
+          "name": "SNENiE",
+          "url": "https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Se supone (feat. Bebo Dumont)",
+      "url": "https://open.spotify.com/track/5bIeUMuNG0NIjb8I4LsN7R"
+    },
+    {
+      "album": {
         "name": "Canciones para una Casa Chiquita",
         "url": "https://open.spotify.com/album/2SvnG0t614rPuHE9d2cy0s"
       },
@@ -42584,7 +42708,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 228519,
       "name": "SO GOOD",
       "url": "https://open.spotify.com/track/1248JYGuWRNzUcvAK9H8si"
@@ -42888,6 +43012,24 @@
       "duration_ms": 203076,
       "name": "Sola [Parte 2]",
       "url": "https://open.spotify.com/track/6JNwgS1IqIX1igkbWjkpVe"
+    },
+    {
+      "album": {
+        "name": "Sola Esta",
+        "url": "https://open.spotify.com/album/0lGHBfSyAGQAklhNAX0cZU"
+      },
+      "artists": [
+        {
+          "name": "Luna Luna",
+          "url": "https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147169,
+      "name": "Sola Esta",
+      "url": "https://open.spotify.com/track/5HQlVdA27m9XIYoEWdwaTu"
     },
     {
       "album": {
@@ -47251,6 +47393,24 @@
     },
     {
       "album": {
+        "name": "Triste en Febrero",
+        "url": "https://open.spotify.com/album/0ceN0mtWztTSRpyf5YUTi6"
+      },
+      "artists": [
+        {
+          "name": "AloSofia",
+          "url": "https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136313,
+      "name": "Triste en Febrero",
+      "url": "https://open.spotify.com/track/0T5s7FtDLEfoxcdMTW1LzC"
+    },
+    {
+      "album": {
         "name": "Tristella",
         "url": "https://open.spotify.com/album/56w1q8N2YHIYoKruoUrAlK"
       },
@@ -48908,6 +49068,24 @@
       "duration_ms": 263280,
       "name": "Urge",
       "url": "https://open.spotify.com/track/2sv9MHEg3lMT3dLhJtbVfq"
+    },
+    {
+      "album": {
+        "name": "V3n3n0",
+        "url": "https://open.spotify.com/album/5LyM77yIdYgqoHCtgUB1To"
+      },
+      "artists": [
+        {
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152320,
+      "name": "V3n3n0",
+      "url": "https://open.spotify.com/track/5dKKCA9ULz6TYWAlVEmhDu"
     },
     {
       "album": {

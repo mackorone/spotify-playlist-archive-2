@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,167 songs - 9 day 5 hr 33 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,168 songs - 9 day 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4175,5 +4175,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4165 | [Point Blank](https://open.spotify.com/track/5dfzwXpEpeeM6szvocxFBR) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Point Blank](https://open.spotify.com/album/4dERb041ujbOvXGUJurgez) | 3:07 |
 | 4166 | [Still with you](https://open.spotify.com/track/02Q3WXt6U1wWojhvkgUpzB) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Still with you](https://open.spotify.com/album/72ltBH7CK5WNr8N4qL3ldO) | 3:59 |
 | 4167 | [It Grows](https://open.spotify.com/track/36bjfCNFgMgS6PzTRsDpQI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/3wEMVRIEFI3SxYeooos05I) | 3:24 |
+| 4168 | [duda dela fe](https://open.spotify.com/track/5DwIozHasjA4zwXrXLfZB8) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 2:38 |
 
-Snapshot ID: `AAAHpCQOTc6wAD3Zuc/6FtU8g1tSi83g`
+Snapshot ID: `AAAHpSZxvMlLTwAmT0pTfGcxCkuSgANy`

@@ -4,7 +4,7 @@
 
 > a strictly smooth mood...cover: Kehlani
 
-277 songs - 14 hr 36 min
+278 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-24 |  |
 | [Bad Guy](https://open.spotify.com/track/6W5rO5aAoL9FYVN1wnnmmX) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Bad Guy](https://open.spotify.com/album/5niMHtwj8tiOzWqn3hYIeT) | 2:23 | 2024-03-14 | 2024-10-05 |
 | [Barely Holdin' On](https://open.spotify.com/track/7kSBvPr9it26XjylB5LJkx) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Barely Holdin' On](https://open.spotify.com/album/7A9wYUkASCE7q4z0kGPGEA) | 2:53 | 2024-03-14 | 2024-10-05 |
-| [Bet](https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Bet](https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j) | 2:02 | 2026-02-19 |  |
+| [Bet](https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Bet](https://open.spotify.com/album/0OYistQeliN0hrwOmOUd7j) | 2:02 | 2026-02-19 | 2026-03-05 |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-21 |  |
 | [Blame It On Me](https://open.spotify.com/track/6pZBCJsupkHOMqsLNKC2IH) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Blame It On Me](https://open.spotify.com/album/5MFIzCR04bQxJDTfgbjbGY) | 2:51 | 2025-07-24 | 2026-02-20 |
 | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/track/3rXlcLZk3MCaRPND5g9QiW) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Blow for Blow \(feat\. J\. Cole\)](https://open.spotify.com/album/3X327wwUvZhYQYlA6cfk9S) | 3:30 | 2024-10-04 | 2025-05-24 |
@@ -199,6 +199,7 @@
 | [Remain The Same](https://open.spotify.com/track/18ykDJYV2RmdSpkRxf3etO) | [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Remain The Same](https://open.spotify.com/album/6wUlv3fppZczotLINqceBd) | 3:05 | 2024-03-14 | 2024-10-05 |
 | [REMEMBER](https://open.spotify.com/track/5wppg6fkzk5pw07L6WhrI0) | [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp), [Aunty Rae](https://open.spotify.com/artist/5FTzpMPBPt5FoAbfvXzh1h) | [DOG 4 LOVE](https://open.spotify.com/album/0Fyi5CrPr0JpBVb1vhPhk4) | 3:25 | 2025-05-23 | 2025-07-25 |
 | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/track/7pFzbZz89oXVsRxhUvO7q2) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ring Ring \(feat\. Travis Scott, Don Toliver, Quavo & Ty Dolla $ign\)](https://open.spotify.com/album/6Op5Oqgnb443EjcHdAR5eY) | 3:06 | 2024-03-14 | 2024-07-30 |
+| [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 | 2025-10-13 |  |
 | [Rolling Stone](https://open.spotify.com/track/4fzlbYTl8CWMigIqsd5gI6) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [Rolling Stone](https://open.spotify.com/album/4HqdElx5myiCasQwHkh82T) | 1:56 | 2025-02-13 | 2025-07-08 |
 | [Rome](https://open.spotify.com/track/3rhSiVVcD04GFBW0k6gkQC) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Rome](https://open.spotify.com/album/1U04RT9MW5HAD1R43qjBkR) | 2:28 | 2024-03-14 | 2024-10-05 |
 | [run & hide](https://open.spotify.com/track/6n1m6WaQYfXpiT4XHw31wo) | [Citizen Kay](https://open.spotify.com/artist/5Lk4v9lO1NoZATNftqFznj), [Keo](https://open.spotify.com/artist/4y8VK3yTqoXo5VJSrsv8TE) | [so, where are we?](https://open.spotify.com/album/19iVe4JbdgMsv6CXyD5M8o) | 3:23 | 2024-03-14 | 2024-10-05 |

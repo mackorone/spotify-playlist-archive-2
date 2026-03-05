@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269386,
+  "num_followers": 269418,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "Diet Coke",
+        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
+        }
+      ],
+      "duration_ms": 155624,
+      "name": "Diet Coke",
+      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/1sCsiqGXef6RuggffHQKSS"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 187279,
       "name": "Contact",
       "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "Diet Coke",
-        "url": "https://open.spotify.com/album/0TPFuZo9pI9Fvbbx59wHUO"
-      },
-      "artists": [
-        {
-          "name": "Fallon",
-          "url": "https://open.spotify.com/artist/73LVVE6OYOwlXlIJAFNJdR"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Diet Coke",
-      "url": "https://open.spotify.com/track/2AJzSl2iYq7Thk2P535MwI"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "TYPE SH*T",
         "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
@@ -1039,18 +1055,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
       },
       "artists": [
         {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 163384,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ"
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1075,26 +1095,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1zVywztGQJXkOlWgmLNrsl"
       },
@@ -1115,6 +1115,22 @@
       "duration_ms": 236291,
       "name": "Free",
       "url": "https://open.spotify.com/track/1eGJxyyyQn4s8NVLLtkNkm"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1183,22 +1199,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
-        {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        }
-      ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Campe\u00f3n",
         "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
       },
@@ -1211,22 +1211,6 @@
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1247,6 +1231,22 @@
       "duration_ms": 205546,
       "name": "4 Ya Mind",
       "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Not Gonna Be Your Boo (feat. Robin S)",
-        "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
+        "name": "Circuit",
+        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Robin S",
-          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+          "name": "Limbo Slice",
+          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
         }
       ],
-      "duration_ms": 174550,
-      "name": "Not Gonna Be Your Boo (feat. Robin S)",
-      "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
+      "duration_ms": 205517,
+      "name": "Circuit",
+      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1419,22 +1419,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Circuit",
-        "url": "https://open.spotify.com/album/0LqvCQ7bp65mVsHYUGakWE"
+        "name": "Not Gonna Be Your Boo (feat. Robin S)",
+        "url": "https://open.spotify.com/album/7BXYWdQZdWmgybac99Dwy4"
       },
       "artists": [
         {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "Limbo Slice",
-          "url": "https://open.spotify.com/artist/5flDeddXEgK6WWsI6PZk3d"
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
         }
       ],
-      "duration_ms": 205517,
-      "name": "Circuit",
-      "url": "https://open.spotify.com/track/4nZzqjNQoKD3c6afgxLNdg"
+      "duration_ms": 174550,
+      "name": "Not Gonna Be Your Boo (feat. Robin S)",
+      "url": "https://open.spotify.com/track/36Umek5lUvL6pXI74dnRct"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Bang That",
         "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 170898,
       "name": "Bang That",
       "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
+        }
+      ],
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -1865,6 +1865,26 @@
       "url": "https://open.spotify.com/track/0PsdtLApDW2Uk5ufs9nXy0"
     },
     {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "l!sten",
+        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
+      },
+      "artists": [
+        {
+          "name": "Saka",
+          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
+        },
+        {
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
+        }
+      ],
+      "duration_ms": 185589,
+      "name": "l!sten",
+      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
+    },
+    {
       "added_at": "2026-02-20 05:00:37",
       "album": {
         "name": "dollaz n dollaz",
@@ -1907,22 +1927,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "CHARIOT",
-        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
-      },
-      "artists": [
-        {
-          "name": "ROSSY",
-          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "move! (that body)",
-      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Control Myself",
         "url": "https://open.spotify.com/album/62UY4BFIpHaJuikn68pd9U"
       },
@@ -1943,6 +1947,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "CHARIOT",
+        "url": "https://open.spotify.com/album/6rxJtynr8rSzkzwecAtUYA"
+      },
+      "artists": [
+        {
+          "name": "ROSSY",
+          "url": "https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "move! (that body)",
+      "url": "https://open.spotify.com/track/3X4OWjiycrvZ4VLwFvZnwn"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "Lick It",
         "url": "https://open.spotify.com/album/4mT1c8jk8dlzROX7mSMvWD"
       },
@@ -1955,26 +1975,6 @@
       "duration_ms": 204695,
       "name": "Lick It",
       "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
-        "name": "l!sten",
-        "url": "https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P"
-      },
-      "artists": [
-        {
-          "name": "Saka",
-          "url": "https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv"
-        },
-        {
-          "name": "Arya",
-          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
-        }
-      ],
-      "duration_ms": 185589,
-      "name": "l!sten",
-      "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -2107,30 +2107,6 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
-        "name": "Everybody Knows (feat. IRAH)",
-        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
-      },
-      "artists": [
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "GorillaT",
-          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
-        },
-        {
-          "name": "IRAH",
-          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Everybody Knows - feat. IRAH",
-      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
         "name": "Go Mode",
         "url": "https://open.spotify.com/album/1gYtMfHRgHAUICRGG2FIZG"
       },
@@ -2151,6 +2127,30 @@
       "duration_ms": 232031,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/1JFteRyORpC1dXMIKenftc"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
+        "name": "Everybody Knows (feat. IRAH)",
+        "url": "https://open.spotify.com/album/0fx8GvBGpImoH4eOBkZY84"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "GorillaT",
+          "url": "https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Everybody Knows - feat. IRAH",
+      "url": "https://open.spotify.com/track/5gGJVjDk6msTOGZ4cJA5CI"
     },
     {
       "added_at": "2026-02-20 05:00:37",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2026-02-20 05:00:37",
       "album": {
+        "name": "ERRRDAY",
+        "url": "https://open.spotify.com/album/3gqAD81mGL41C8dkmLuB4h"
+      },
+      "artists": [
+        {
+          "name": "The Holy",
+          "url": "https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz"
+        }
+      ],
+      "duration_ms": 201617,
+      "name": "ERRRDAY",
+      "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
+    },
+    {
+      "added_at": "2026-02-20 05:00:37",
+      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/41LWZn8Un2XTwRXs4MyLK9"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 204545,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/752jwWUjjewYUdkyXQbUMe"
-    },
-    {
-      "added_at": "2026-02-20 05:00:37",
-      "album": {
-        "name": "ERRRDAY",
-        "url": "https://open.spotify.com/album/3gqAD81mGL41C8dkmLuB4h"
-      },
-      "artists": [
-        {
-          "name": "The Holy",
-          "url": "https://open.spotify.com/artist/1TbvivzNnNhTp6UlWh1xqz"
-        }
-      ],
-      "duration_ms": 201617,
-      "name": "ERRRDAY",
-      "url": "https://open.spotify.com/track/1aUOWXtItL7nOSzUbaUGTq"
     }
   ],
   "unique_name": "Bangers",

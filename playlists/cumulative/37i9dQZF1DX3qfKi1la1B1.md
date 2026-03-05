@@ -4,7 +4,7 @@
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-476 songs - 1 day 6 hr 26 min
+477 songs - 1 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Chill Pad Deluxe](https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People / Afterhours](https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4) | 2:51 | 2023-11-16 | 2024-01-12 |
 | [Chocolate Hills](https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 3:10 | 2022-10-20 | 2023-06-01 |
 | [Christmas Dreaming](https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday!](https://open.spotify.com/album/7eiV9goVEhwtGs7Y33PJ06) | 2:33 | 2023-11-09 | 2024-01-19 |
-| [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-25 |  |
+| [Clay](https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Clay](https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt) | 3:05 | 2026-02-25 | 2026-03-05 |
 | [Close As We Get \(feat\. Vicky Farewell\)](https://open.spotify.com/track/1NQkfnJg8dHS1sAOrRh3cp) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [Vicky Farewell](https://open.spotify.com/artist/6LpKqwp5tMWhUS3Cosbwb4) | [The Programme](https://open.spotify.com/album/00TmoTB679RXXCQLdrrNWn) | 5:06 | 2024-06-07 | 2024-07-27 |
 | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Closer \(feat\. Andreya Triana\)](https://open.spotify.com/album/7tE9gx7J5h4NKc4K3hVcmt) | 4:18 | 2023-11-23 | 2023-12-08 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2022-10-20 | 2024-04-19 |
@@ -207,6 +207,7 @@
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-07 | 2024-09-27 |
 | [Icicle](https://open.spotify.com/track/0BP0Zu7rDQeoMFYXAKvGYO) | [tuLaLa](https://open.spotify.com/artist/4wIQiuAfiuUrZa9Evt64Cd) | [Icicle](https://open.spotify.com/album/4LCWkPFhiOwI1JrIm7A3fc) | 2:57 | 2023-02-24 | 2023-06-30 |
 | [If I Knew \(feat\. Burniss Travis & Mark Guiliana\)](https://open.spotify.com/track/4IIc906zptQIdB6S9lyM4w) | [Gretchen Parlato](https://open.spotify.com/artist/76Gi1qoWLrIerL5FcL0TZb), [Lionel Loueke](https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig), [Burniss Travis](https://open.spotify.com/artist/4Y4dR3x2kFHqIEJJ7SaH9c), [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [If I Knew \(feat\. Burniss Travis & Mark Guiliana\)](https://open.spotify.com/album/6zRfxt8Gca0NVO8MJ7c3NG) | 4:26 | 2023-03-18 | 2023-04-07 |
+| [IKAROS](https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:38 | 2026-02-25 |  |
 | [In My Room](https://open.spotify.com/track/3SM7uIYEz3v3BGy9RHp7oU) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/1tI6mIu9HHp0OuD0U0i9AB) | 2:57 | 2022-10-20 | 2023-02-01 |
 | [In My Room](https://open.spotify.com/track/7CiDwKE62N6ey3LyG6s7xc) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [In My Room](https://open.spotify.com/album/3WmjP2w94BdrRraDmCHosq) | 2:57 | 2023-02-02 | 2024-04-19 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-09 | 2025-01-20 |

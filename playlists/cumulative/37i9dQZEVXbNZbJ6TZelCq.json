@@ -12695,6 +12695,28 @@
     },
     {
       "album": {
+        "name": "Dor Sa Te Ador",
+        "url": "https://open.spotify.com/album/79ba5JOeZydzrysl6cfmXF"
+      },
+      "artists": [
+        {
+          "name": "Doddy",
+          "url": "https://open.spotify.com/artist/5j11BMuSj9oaTlYqHKAjqB"
+        },
+        {
+          "name": "Lora",
+          "url": "https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198991,
+      "name": "Dor Sa Te Ador",
+      "url": "https://open.spotify.com/track/5w3USA7vA4NTm9UEozPfe5"
+    },
+    {
+      "album": {
         "name": "Doua Bagaboante",
         "url": "https://open.spotify.com/album/4shVg6f1kNmsw2c8K8VBOw"
       },
@@ -13480,7 +13502,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -15068,7 +15090,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 174375,
       "name": "FATA DIN FAVELA",
       "url": "https://open.spotify.com/track/6nj14fIUcALDS3EadVnQHC"
@@ -25160,7 +25182,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -25930,7 +25952,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 176000,
       "name": "Mananca gagica bio",
       "url": "https://open.spotify.com/track/1aNgsgAip1JfeFNkWVM4hv"
@@ -28928,7 +28950,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -35060,7 +35082,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -43350,7 +43372,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 148474,
       "name": "Toat\u0103 seara",
       "url": "https://open.spotify.com/track/5G0qHzsdgZGoTROnafSKvp"

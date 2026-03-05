@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 
 > Get to know our 2026 Artists to Watch.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,189 likes - 35 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 35 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I51YwwOUVo.md) - [plain]
 | 28 | [Freaks](https://open.spotify.com/track/7bG0hRGfBwj7BgSzvdjKki) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Freaks](https://open.spotify.com/album/76ZnUEK0Fwp8SFYg5YKMTY) | 3:35 |
 | 29 | [I CHOSE YOU](https://open.spotify.com/track/1PjO51wQ3ZdzaLorG3M7M1) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 3:44 |
 | 30 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
-| 31 | [Won't Force You](https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Won't Force You](https://open.spotify.com/album/6jzHblS8sSvp157rtAyLtp) | 3:26 |
-| 32 | [PEACE](https://open.spotify.com/track/3ReoBWqpM0ceIUNmu7Gii9) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/0UQAktHlWTgQtvt8QjMSho) | 2:17 |
+| 31 | [PEACE](https://open.spotify.com/track/3ReoBWqpM0ceIUNmu7Gii9) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [PEACE](https://open.spotify.com/album/0UQAktHlWTgQtvt8QjMSho) | 2:17 |
+| 32 | [Won't Force You](https://open.spotify.com/track/4fsaFXJwoADL5w4iw9IKJO) | [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [Won't Force You](https://open.spotify.com/album/6jzHblS8sSvp157rtAyLtp) | 3:26 |
 | 33 | [Throw Yourself to the Sword](https://open.spotify.com/track/75OVKbV5IlBcT4DvBQxNGk) | [Die Spitz](https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE) | [Something To Consume](https://open.spotify.com/album/2njlELTfA1tcJ7LnE2855T) | 2:40 |
 | 34 | [Drugs Callin](https://open.spotify.com/track/2XD6tyY8edYhB3suNRNFAy) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Perfect Storm: Sorry 4 The Rain](https://open.spotify.com/album/4QMV0g9J5HS87XSvCxAf7i) | 2:36 |
 | 35 | [Bien Bien](https://open.spotify.com/track/3CeetJ3dioCxE9qNaAvXHO) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Bien Bien](https://open.spotify.com/album/4XZScJixPo8QOp3G5RrCNR) | 2:02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 
 > Some favorites across multiple genres\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 559,120 likes - 71 songs - 4 hr 15 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 559,371 likes - 71 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/5uUVyS9PTP8pXBi5nuwLZP.md) - [plain]
 | 36 | [Fade Away](https://open.spotify.com/track/5H5oqAEByqyztO7I3l7sq6) | [moe stellaris](https://open.spotify.com/artist/3kewoTlwuk0kzZA7FPYEQl) | [Fade Away](https://open.spotify.com/album/17wVfyajhYm07G1KSa1tOE) | 4:54 |
 | 37 | [Sil3ncio Amor](https://open.spotify.com/track/0BJVKyspLIPJQl4UX2wVNI) | [Lee C\. Dwyer](https://open.spotify.com/artist/1A9MlwvAwlMezsDWivdZLx) | [Silencio](https://open.spotify.com/album/3TWzwSdkEpVMFZjPcGC1aL) | 3:41 |
 | 38 | [Broforce Theme Song](https://open.spotify.com/track/4ZiMrrjGZjk4VUYtNutGQ1) | [Deon Van Heerden](https://open.spotify.com/artist/42wTrYXmXiolE9DV5IFCh0), [Strident](https://open.spotify.com/artist/4mCThE6GfGfwmtkZNOGyHn) | [Broforce \(Original Game Soundtrack\)](https://open.spotify.com/album/4iAbYl2dMF3Q3EVEXifL9h) | 4:29 |
-| 39 | [Do DIS FI REAL](https://open.spotify.com/track/1kPDtQqxZ6c3gJBbGEuHgS) | [PG RAYGON](https://open.spotify.com/artist/1tQiqAhmBPEIfSiQpTbe8t) | [Do DIS FI REAL](https://open.spotify.com/album/7tdbcLQgEK7KvyplygUjzP) | 3:40 |
+| 39 | [DO DIS FI REAL](https://open.spotify.com/track/1kPDtQqxZ6c3gJBbGEuHgS) | [PG RAYGON](https://open.spotify.com/artist/5qDONKlJxOY4AzPoEHsp1O) | [DO DIS FI REAL](https://open.spotify.com/album/7tdbcLQgEK7KvyplygUjzP) | 3:40 |
 | 40 | [The Great Escape](https://open.spotify.com/track/072RXqSJjwD32MQThcUeAn) | [Jason Zimmerman](https://open.spotify.com/artist/32aOY7csf8fQHk8muv9xuw) | [A Happy Time](https://open.spotify.com/album/3GqeFSVHqxTchaPvSKLIdn) | 3:35 |
 | 41 | [Up All Night](https://open.spotify.com/track/1tdbj7FgirplpkaIQ86DyH) | [Robert Alan Sieben](https://open.spotify.com/artist/3JVNVn9KJtyI9Tde6CvgMu) | [Up All Night](https://open.spotify.com/album/6SlRoyPl7CiaNWRs2MJ4dK) | 2:33 |
 | 42 | [The One](https://open.spotify.com/track/03ZV4UhsyJoPwvEi1P5GMI) | [Deejay Bluemoon](https://open.spotify.com/artist/5y3YDoIHwhJ99cKJ6JNOBo), [Iadan](https://open.spotify.com/artist/4wtXNam3lK5zlZTxIzKh2R), [Melogirl](https://open.spotify.com/artist/52DCEdMBua9Y4gQ9lM4VIT) | [The One](https://open.spotify.com/album/5YgAyDkxUE8xBnLgY2b6Xz) | 4:04 |

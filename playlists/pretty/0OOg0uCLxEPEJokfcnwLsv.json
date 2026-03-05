@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 749,
+  "num_followers": 753,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAFNNizx8OhMKn2teNSL2n4rV3n6GDm",
+  "snapshot_id": "AAAFNvKgGz3uawzgMcPEW8RPm7qVMrns",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -907,6 +907,38 @@
       "duration_ms": 165947,
       "name": "\u0414\u0432\u0430 \u0441\u0435\u0440\u0446\u044f",
       "url": "https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7"
+    },
+    {
+      "added_at": "2026-03-04 01:56:11",
+      "album": {
+        "name": "Songs I Wrote Instead of Texting You",
+        "url": "https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo"
+      },
+      "artists": [
+        {
+          "name": "Zack King",
+          "url": "https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf"
+        }
+      ],
+      "duration_ms": 195459,
+      "name": "What's on your Mind?",
+      "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
+    },
+    {
+      "added_at": "2026-03-04 02:58:47",
+      "album": {
+        "name": "Devil Begone",
+        "url": "https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s"
+      },
+      "artists": [
+        {
+          "name": "Tirada",
+          "url": "https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v"
+        }
+      ],
+      "duration_ms": 279537,
+      "name": "Devil Begone",
+      "url": "https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT"
     }
   ],
   "unique_name": "Unsigned Rock",

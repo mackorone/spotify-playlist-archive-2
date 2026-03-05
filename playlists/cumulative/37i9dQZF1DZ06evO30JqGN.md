@@ -4,7 +4,7 @@
 
 > This is Summer Walker\. The essential tracks, all in one playlist.
 
-77 songs - 3 hr 54 min
+78 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Let It Go](https://open.spotify.com/track/6qwLieyhZ2vhn3xuIOrw32) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:11 | 2025-11-01 | 2025-11-05 |
 | [Love Cycle \(with Summer Walker\)](https://open.spotify.com/track/3JP7KdSVvcX3mTfitBp2Ec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Poetic Pain](https://open.spotify.com/album/353P9S1WpRssEgUvXW4kvo) | 3:35 | 2024-12-19 | 2025-03-18 |
 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 | 2024-10-05 |  |
+| [No](https://open.spotify.com/track/6LP8B6nA0k4QaQTkHkBG4K) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It \(The Afterparty\)](https://open.spotify.com/album/4ms0fTBX5E76Ho0Ke4az0Q) | 2:26 | 2026-03-05 |  |
 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 | 2025-11-16 | 2026-01-15 |
 | [Number One \(with Brent Faiyaz\)](https://open.spotify.com/track/45Dbuxv3884YEuIaZ4F6iN) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:47 | 2026-02-20 |  |
 | [Playing Games \(with Bryson Tiller\) \- Extended Version](https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:23 | 2024-10-05 |  |

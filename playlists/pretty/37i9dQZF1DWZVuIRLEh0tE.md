@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > pq no to' e' dembow en rd loko\. Portada: Amenazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,862 likes - 90 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,916 likes - 90 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 26 | [Pa Mi](https://open.spotify.com/track/5aZFoXYhPCLzgnULgqZ9GF) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah) | [Pa Mi](https://open.spotify.com/album/32decoZu7IfrwH2dkdt4qO) | 2:36 |
 | 27 | [KTEDE](https://open.spotify.com/track/6FSeXu3pKURyJZldwEr0aI) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [KTEDE](https://open.spotify.com/album/3HeFz3W4d3pYIJ0IKsvdBd) | 2:14 |
 | 28 | [Bristow](https://open.spotify.com/track/7q4eMua3XhvpLsFxVdofX5) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Slayter](https://open.spotify.com/artist/44cW3xznP61BXbu0e7fgxn), [Gatillero 23](https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k), [Papy Crish](https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6) | [Bristow](https://open.spotify.com/album/71UNhbUbnkdpxVGv3hBTmJ) | 3:36 |
-| 29 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
+| 29 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [SHB](https://open.spotify.com/artist/4uiEeT7dw0guTJ5CPMsX83) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
 | 30 | [30 MILLAS](https://open.spotify.com/track/5K5W8gHk0AGTESkxLEVF7O) | [La Greña](https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX), [BASTY](https://open.spotify.com/artist/1RjIaNqPp6x0lJ90ghEq83) | [30 MILLAS](https://open.spotify.com/album/4sbufBApTom9ZQrvK7tBH7) | 1:56 |
 | 31 | [El Rio Sonó](https://open.spotify.com/track/7pqGaBzLBlmhVj2wWJNe2y) | [Lil Naay](https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ) | [El Rio Sonó](https://open.spotify.com/album/6s5y02tAaz62YlyMvfckfs) | 2:28 |
 | 32 | [La Musa](https://open.spotify.com/track/5z4J3IH8wzJkZaoyOI8Wo6) | [Luis Brown](https://open.spotify.com/artist/1f7FtdbdaRjeeOr0gK9f3L) | [La Musa](https://open.spotify.com/album/6fWDaBgTNzP5yyFfmgU70g) | 2:13 |

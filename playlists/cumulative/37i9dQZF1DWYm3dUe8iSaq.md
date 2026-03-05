@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-403 songs - 23 hr 42 min
+405 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-04-29 | 2025-09-10 |
 | [Danny](https://open.spotify.com/track/0SodyCDKktmOihlKE7jL9p) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Danny](https://open.spotify.com/album/25ffmsqPglf3Mx2WqBEn1z) | 4:38 | 2026-01-30 |  |
 | [Dark](https://open.spotify.com/track/7ISN0i74VnNtGFd6nIfhfT) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Dark](https://open.spotify.com/album/5bpI3ZiTcaJzxAIwZb7de1) | 3:13 | 2024-04-29 | 2024-10-07 |
+| [Dark Eyed Sailor](https://open.spotify.com/track/5dzk2Upt3yF2uDThmsqeJX) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [Dark Eyed Sailor](https://open.spotify.com/album/1R4KuR0eEdoQH6c9SokpsH) | 5:10 | 2026-03-04 |  |
 | [Deathbed](https://open.spotify.com/track/7dAVPHQM9ohyzNsnebx4tz) | [Will Killen](https://open.spotify.com/artist/53mpvc3wWbaO6a7LKWQ73N) | [Deathbed](https://open.spotify.com/album/5bdvG7rir6bMQA3YF61GLz) | 3:08 | 2022-04-08 | 2022-08-27 |
 | [Decimal](https://open.spotify.com/track/1uliNs1keVwYclj74JX44R) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Decimal / Halloween](https://open.spotify.com/album/7pHnMBs0r27GLi2EL3nEH8) | 2:58 | 2022-04-08 | 2022-11-17 |
 | [Decimal](https://open.spotify.com/track/6eusWfAal7mOOLr0XFLkiY) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 2:58 | 2022-10-07 | 2023-04-09 |
@@ -112,7 +113,7 @@
 | [Father Brown's](https://open.spotify.com/track/6LYIGbuRodiM14X2jhvYsJ) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [Father Brown's](https://open.spotify.com/album/3gHQRNWfZC0pac0DTk53WO) | 4:59 | 2025-06-06 | 2025-07-01 |
 | [Feathers, Cash](https://open.spotify.com/track/4pRAniAuecvaZyfHNYo56I) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:27 | 2026-01-16 |  |
 | [Fever Dream](https://open.spotify.com/track/4m25RlfLwq6cNsdovfAAFG) | [Adam Youngman](https://open.spotify.com/artist/3K8XkFDgyQhbHQGzD0xz8Y) | [Fever Dream](https://open.spotify.com/album/0wh19fdjJXbt1tynRG0aS2) | 1:42 | 2023-02-24 | 2023-05-20 |
-| [Finest Work](https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bargaining](https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK) | 2:53 | 2026-01-16 |  |
+| [Finest Work](https://open.spotify.com/track/0ry7byytV1WoXLtUreDvDU) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [Bargaining](https://open.spotify.com/album/08yLEdKzlgvqzV6w4k6KWK) | 2:53 | 2026-01-16 | 2026-03-05 |
 | [Firefight](https://open.spotify.com/track/4dnRA4RkcxIPtKpvKpo7um) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Firefight](https://open.spotify.com/album/1EFQeU8UvvTF0416pl5vOq) | 3:52 | 2024-07-19 | 2024-10-07 |
 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 | 2023-01-13 | 2024-04-30 |
 | [Folding](https://open.spotify.com/track/6DO7jBbwOWkjdbC3BoLvG1) | [Abimaro](https://open.spotify.com/artist/6ZrBzUQXpmwFpiUIlqSLbm) | [Folding](https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL) | 3:47 | 2022-04-08 |  |
@@ -201,7 +202,7 @@
 | [Jacob](https://open.spotify.com/track/26qFewy8bvThU3YwLl4Gus) | [Rachel Sermanni](https://open.spotify.com/artist/65e1Cbe2aHPAXiLWBJaYbk) | [Dreamer Awake](https://open.spotify.com/album/12jj5kr4VuIImcN2lqXbah) | 3:14 | 2023-08-11 | 2023-11-18 |
 | [James](https://open.spotify.com/track/6NPiQiMsP3aJoVHO9eYXfv) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [James](https://open.spotify.com/album/6HdqpAopizBzDcJXYw3I5v) | 3:10 | 2025-06-06 | 2025-08-29 |
 | [June in July](https://open.spotify.com/track/08eZYNlEShS5cV2zKTe2ys) | [Murdo Mitchell](https://open.spotify.com/artist/1hxBd0Mu9CDjEoBuEpxpxt) | [June in July](https://open.spotify.com/album/6rW5WavhcmgFDRdkcwiG0S) | 3:16 | 2023-11-17 | 2026-01-17 |
-| [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 | 2025-09-11 |  |
+| [Just Be Simple](https://open.spotify.com/track/6qyGUBuAZWg0gFbjmq2K0U) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Just Be Simple / Leave The City](https://open.spotify.com/album/7n4TY3ymPr4l8tEOHw8gEx) | 3:56 | 2025-09-11 | 2026-03-05 |
 | [Karaoke Friday](https://open.spotify.com/track/1TXiuhwr1Ymqc08OFIC7NC) | [My Mercury](https://open.spotify.com/artist/2YHh4iJPUC1rhEbRw9mi0U) | [Karaoke Friday](https://open.spotify.com/album/3MPoYDKXUpsqSujiKo8vgt) | 3:54 | 2026-02-27 |  |
 | [kickin](https://open.spotify.com/track/7dCBUjjAsLorCkDdddJgts) | [not dvr](https://open.spotify.com/artist/5Xpb5H2bMANDgdjX287U6k) | [kickin](https://open.spotify.com/album/08OXFLUMb7ZdrHk0w0dXJ6) | 2:56 | 2024-10-06 | 2024-11-28 |
 | [Knock on a Hollow \- Alternative Version](https://open.spotify.com/track/7ylKBPnAcazcOBnBebVZgC) | [Tom Joshua](https://open.spotify.com/artist/1Bj310qWCdWOMTCubqgaPj) | [Knock on a Hollow \(Alternative Version\)](https://open.spotify.com/album/61JuggFrlqJyrzg3m7wl5O) | 3:31 | 2022-04-08 | 2022-05-21 |
@@ -264,6 +265,7 @@
 | [Ocean Breeze](https://open.spotify.com/track/6dAJrQ7NfsKHayPci16l0j) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Ocean Breeze](https://open.spotify.com/album/2brAsWtoiQQosqcPUsNtgs) | 2:29 | 2024-10-06 | 2025-03-22 |
 | [Of Amber](https://open.spotify.com/track/022C1o8aZqq4JDhXY9b7Ml) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO) | 2:39 | 2025-06-06 |  |
 | [Old Friend Night](https://open.spotify.com/track/4XQ0jF6YJ1BF7y3kC6okq5) | [Maja Lena](https://open.spotify.com/artist/5kpYXOF43Px1wc9wECKmL0) | [The Keeper](https://open.spotify.com/album/6TVrNauoPcbsT5wYGE7YrW) | 3:40 | 2022-04-08 | 2022-07-02 |
+| [Old Holy Feeling](https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Old Holy Feeling](https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj) | 5:06 | 2026-03-04 |  |
 | [Old Times](https://open.spotify.com/track/2LpnnVITgcXV3vaQysj37V) | [Tamu Massif](https://open.spotify.com/artist/2kU7oX1Uxv4xalarIEjMpm) | [Old Times](https://open.spotify.com/album/6Ub6Ympxgyntxct4EgrpKw) | 4:34 | 2022-04-08 | 2024-01-20 |
 | [oMo \(Man\)](https://open.spotify.com/track/373XAEtCUiQCCHQZxOjihL) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [oMo \(Man\)](https://open.spotify.com/album/4HbYYzLD9gLtWOvUVjuBhI) | 3:08 | 2023-10-06 | 2024-02-11 |
 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-10-06 |  |

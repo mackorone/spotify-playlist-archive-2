@@ -1680,7 +1680,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 205022,
       "name": "Daughter, Daughter",
       "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
@@ -3374,7 +3374,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 260311,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb"
@@ -5993,6 +5993,28 @@
     },
     {
       "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
+    },
+    {
+      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg"
       },
@@ -8536,6 +8558,24 @@
       "duration_ms": 274573,
       "name": "Whiskey & Wonder",
       "url": "https://open.spotify.com/track/4TlOVtxbJpd9XTwjuVLHeM"
+    },
+    {
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296380,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
     },
     {
       "album": {

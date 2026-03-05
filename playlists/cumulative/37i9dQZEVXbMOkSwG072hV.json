@@ -32020,7 +32020,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 147214,
       "name": "Foi assim",
       "url": "https://open.spotify.com/track/6fPALIGFkjmlHKuiiZLRl6"
@@ -64296,6 +64296,36 @@
     {
       "album": {
         "name": "Pique Anos 80",
+        "url": "https://open.spotify.com/album/42wuaeLBsSTbUHuojs4LCL"
+      },
+      "artists": [
+        {
+          "name": "Kaue Mc",
+          "url": "https://open.spotify.com/artist/4Amq40B1awicYgOZlACbU7"
+        },
+        {
+          "name": "WR Original",
+          "url": "https://open.spotify.com/artist/3i6ctIgUbjQQpqrDVlxvtx"
+        },
+        {
+          "name": "DJ CLEBER",
+          "url": "https://open.spotify.com/artist/1Hd0OkFbOEllOnmQj6nurm"
+        },
+        {
+          "name": "DJ LP Malvad\u00e3o",
+          "url": "https://open.spotify.com/artist/2u5PN9VIp4WFd6PeHp7eJ5"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Pique Anos 80",
+      "url": "https://open.spotify.com/track/2cIvKoAOC7w5eltdvf9ZXP"
+    },
+    {
+      "album": {
+        "name": "Pique Anos 80",
         "url": "https://open.spotify.com/album/1NnQabuzqHfICeVw2wL6Ax"
       },
       "artists": [
@@ -64318,7 +64348,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 135692,
       "name": "Pique Anos 80",
       "url": "https://open.spotify.com/track/4m3nNqcqRDefROgesL4rAG"
@@ -75974,7 +76004,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 216226,
       "name": "Sinais de fogo",
       "url": "https://open.spotify.com/track/7D9BJEcWwRqvQVqPbj1dbF"
@@ -82854,7 +82884,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -91538,6 +91568,36 @@
       "duration_ms": 153485,
       "name": "Xonei - Ao Vivo",
       "url": "https://open.spotify.com/track/1DcOyAXIULvDeLBBY9BMnU"
+    },
+    {
+      "album": {
+        "name": "Xota, Agua, Xau, Bom Dia",
+        "url": "https://open.spotify.com/album/32M3NcOKOniOVoZ8c895Jt"
+      },
+      "artists": [
+        {
+          "name": "Danado do Recife",
+          "url": "https://open.spotify.com/artist/1m2ae8UiHCWhIARPw33Xhx"
+        },
+        {
+          "name": "Escama Reels",
+          "url": "https://open.spotify.com/artist/0fmDWiAf7kyzpdGn1O3hx0"
+        },
+        {
+          "name": "Zoinho no Beat",
+          "url": "https://open.spotify.com/artist/236esLzg1nwfAAKhtmfDJT"
+        },
+        {
+          "name": "Mc Lysa",
+          "url": "https://open.spotify.com/artist/6xnXWvVPKAOt7SY2bg38r7"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142399,
+      "name": "Xota, Agua, Xau, Bom Dia",
+      "url": "https://open.spotify.com/track/49I2hNnUxBRQulhfbhv0cE"
     },
     {
       "album": {

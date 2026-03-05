@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,079 likes - 50 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,090 likes - 50 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 47 | [Mattersville](https://open.spotify.com/track/2NnnVb5986T5L0qyLdMqmT) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:28 |
 | 48 | [And Now For Something Completely Similar](https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Pump Up The Valuum](https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE) | 0:58 |
 | 49 | [Cigarette Girl](https://open.spotify.com/track/5WQ6T2qB3FTdgrFUxscm2t) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [A to H](https://open.spotify.com/album/5pUkSUz92gUxkgVsI79PmP) | 2:10 |
-| 50 | [I Wanna Be an Alcoholic](https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The Longest EP](https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5) | 0:30 |
+| 50 | [13 Stitches](https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 1:55 |
 
-Snapshot ID: `aaTTAAAAAAD3gG8D+Y4stfVR5r/5MhSb`
+Snapshot ID: `aaYkgAAAAAC/1RVeSt/VOHrgY109o3Zs`

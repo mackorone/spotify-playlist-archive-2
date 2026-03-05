@@ -1,6 +1,6 @@
 {
   "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover:  <a href=\"spotify:artist:0b2xjUWoDTDaDbr4fNqGtc\">susk</a>",
-  "num_followers": 42346,
+  "num_followers": 42340,
   "original_name": "GLOW Polska",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "P\u0142achta na byka",
-        "url": "https://open.spotify.com/album/4etEFOg5xzLVpdAdqoK9NF"
-      },
-      "artists": [
-        {
-          "name": "IKARVS",
-          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
-        }
-      ],
-      "duration_ms": 198615,
-      "name": "P\u0142achta na byka",
-      "url": "https://open.spotify.com/track/34HtvhUnPuvpwMLRwCMcLc"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
         "name": "Dance!",
         "url": "https://open.spotify.com/album/5eRN6g3cg6FJKOHh8Ev6hi"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 200930,
       "name": "Dance!",
       "url": "https://open.spotify.com/track/0T6N7HbshVqL42SyUydGWW"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
+        "name": "P\u0142achta na byka",
+        "url": "https://open.spotify.com/album/4etEFOg5xzLVpdAdqoK9NF"
+      },
+      "artists": [
+        {
+          "name": "IKARVS",
+          "url": "https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg"
+        }
+      ],
+      "duration_ms": 198615,
+      "name": "P\u0142achta na byka",
+      "url": "https://open.spotify.com/track/34HtvhUnPuvpwMLRwCMcLc"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "IV!II",
-        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
-      },
-      "artists": [
-        {
-          "name": "Baasch",
-          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
-        }
-      ],
-      "duration_ms": 194418,
-      "name": "Mosty",
-      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
       },
@@ -1035,34 +1019,18 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+        "name": "IV!II",
+        "url": "https://open.spotify.com/album/7BELcwwQV0zG1PakfT5sA4"
       },
       "artists": [
         {
-          "name": "Stysio",
-          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+          "name": "Baasch",
+          "url": "https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
-        "name": "warszawa",
-        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
-      },
-      "artists": [
-        {
-          "name": "god.wifi",
-          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "warszawa",
-      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+      "duration_ms": 194418,
+      "name": "Mosty",
+      "url": "https://open.spotify.com/track/4JRrVtPC12gjpkj6IirObO"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -1087,6 +1055,38 @@
       "duration_ms": 147391,
       "name": "Krasnoludki",
       "url": "https://open.spotify.com/track/2zkrbub73Y4oGFwrgrBg6r"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
+        "name": "warszawa",
+        "url": "https://open.spotify.com/album/6gndWfVMLLYiDhs5ySjHyV"
+      },
+      "artists": [
+        {
+          "name": "god.wifi",
+          "url": "https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "warszawa",
+      "url": "https://open.spotify.com/track/6yau709RM3ze1xkkxi31Or"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/7vBSmec8G7ST9ble2orZEB"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/7rCkGuPH5dbEx2seHeFE2N"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
+        "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+        "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
+      },
+      "artists": [
+        {
+          "name": "Kamil Hasselhoff",
+          "url": "https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9"
+        }
+      ],
+      "duration_ms": 164404,
+      "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
+      "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
         "name": "Poczt\u00f3wka z wakacji",
         "url": "https://open.spotify.com/album/1aGcXa2O61ytcoceh7xOu6"
       },
@@ -1223,34 +1239,22 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
-        "url": "https://open.spotify.com/album/5UIIUdZhqvd8maBB8zSfF0"
+        "name": "I_N_T_E_R_V_A_L_S",
+        "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
       },
       "artists": [
         {
-          "name": "Kamil Hasselhoff",
-          "url": "https://open.spotify.com/artist/1XHvLGFiaNYB5zU9QSVYm9"
-        }
-      ],
-      "duration_ms": 164404,
-      "name": "dlaczego w tym mie\u015bcie NIKT nie umar\u0142 z mi\u0142o\u015bci?",
-      "url": "https://open.spotify.com/track/7GNHldDKTddtGLNJSyGmu1"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
-        "name": "NPNC (no pic no chat)",
-        "url": "https://open.spotify.com/album/6i8v4agnR5yy4lE6GUXhbz"
-      },
-      "artists": [
+          "name": "MANOID",
+          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
+        },
         {
-          "name": "RAF",
-          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
+          "name": "Milkbaby",
+          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
         }
       ],
-      "duration_ms": 141000,
-      "name": "NPNC (no pic no chat)",
-      "url": "https://open.spotify.com/track/2dlFWwqFJ7n0fq3DD8Wd5E"
+      "duration_ms": 367226,
+      "name": "Moonsong",
+      "url": "https://open.spotify.com/track/699PNgLiQWfmcaFSO3dhFB"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "I_N_T_E_R_V_A_L_S",
-        "url": "https://open.spotify.com/album/1lWe1UoaNbUi3074ATSOOk"
+        "name": "NPNC (no pic no chat)",
+        "url": "https://open.spotify.com/album/6i8v4agnR5yy4lE6GUXhbz"
       },
       "artists": [
         {
-          "name": "MANOID",
-          "url": "https://open.spotify.com/artist/5Rg0LJq558IASL2xYbsTSM"
-        },
-        {
-          "name": "Milkbaby",
-          "url": "https://open.spotify.com/artist/4YzP1FK2pLJpsNIwQOFzvX"
+          "name": "RAF",
+          "url": "https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk"
         }
       ],
-      "duration_ms": 367226,
-      "name": "Moonsong",
-      "url": "https://open.spotify.com/track/699PNgLiQWfmcaFSO3dhFB"
+      "duration_ms": 141000,
+      "name": "NPNC (no pic no chat)",
+      "url": "https://open.spotify.com/track/2dlFWwqFJ7n0fq3DD8Wd5E"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "Nie",
-        "url": "https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE"
-      },
-      "artists": [
-        {
-          "name": "Ganczarska",
-          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Nie",
-      "url": "https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
         "name": "Doskonale",
         "url": "https://open.spotify.com/album/3IqbO4JQwOXpRvht7A1PB7"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 182493,
       "name": "Drap mnie",
       "url": "https://open.spotify.com/track/6dkbUSu6hHnWeKtSpHEmAb"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
+        "name": "Nie",
+        "url": "https://open.spotify.com/album/199hvcH6xuvllSrgTu3wYE"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Nie",
+      "url": "https://open.spotify.com/track/2QffcGEpWlwtZXcZ1zPtGW"
     },
     {
       "added_at": "2026-02-09 23:00:02",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-02-09 23:00:02",
       "album": {
-        "name": "Jaskrawe historie",
-        "url": "https://open.spotify.com/album/6cgBvG0403ClRCNnJoJU66"
-      },
-      "artists": [
-        {
-          "name": "Ganczarska",
-          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Jaskrawe historie",
-      "url": "https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD"
-    },
-    {
-      "added_at": "2026-02-09 23:00:02",
-      "album": {
         "name": "Not My First Rodeo",
         "url": "https://open.spotify.com/album/6n2TMDdMpqnCONCEh1qALd"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 307213,
       "name": "Harvest",
       "url": "https://open.spotify.com/track/3HQeUn8KcfKgPOl2NSrdf7"
+    },
+    {
+      "added_at": "2026-02-09 23:00:02",
+      "album": {
+        "name": "Jaskrawe historie",
+        "url": "https://open.spotify.com/album/6cgBvG0403ClRCNnJoJU66"
+      },
+      "artists": [
+        {
+          "name": "Ganczarska",
+          "url": "https://open.spotify.com/artist/3q26cqbn7bDj4LfrDHg5xo"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Jaskrawe historie",
+      "url": "https://open.spotify.com/track/7nvyxWLQStZp4rGVV9duGD"
     },
     {
       "added_at": "2026-02-09 23:00:02",

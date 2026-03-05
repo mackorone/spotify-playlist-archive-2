@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
-  "num_followers": 313025,
+  "num_followers": 313019,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "You're Dreaming",
         "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 143939,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "The Returner",
-        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 230920,
-      "name": "The Returner",
-      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 227894,
       "name": "To Learn Her",
       "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "The Returner",
+        "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 230920,
+      "name": "The Returner",
+      "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
         "name": "En Los Shadows de San Antone",
         "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 286146,
       "name": "Femme Fatale",
       "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
       },
       "artists": [
         {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+          "name": "Haroula Rose",
+          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
         }
       ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+      "duration_ms": 220866,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Margo",
-        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
       "artists": [
         {
-          "name": "Haroula Rose",
-          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Margo",
-      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2026-02-06 05:00:30",

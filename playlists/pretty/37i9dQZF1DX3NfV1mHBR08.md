@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,608 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,610 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 46 | [Breath](https://open.spotify.com/track/5r3nfTCyrc3KzNexD5pXyU) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [Resident Playbook, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1JToGfIzudNvACOhEzDk6P) | 3:52 |
 | 47 | [Waterfall](https://open.spotify.com/track/4HQ8ZB2ZKBhdhTZPzgqRJU) | [PARK BO GUM](https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 7](https://open.spotify.com/album/1EZbKSF8GxSnqNVtsYdRjm) | 3:17 |
 | 48 | [Start Line](https://open.spotify.com/track/1DAG3QIXTHl4UQZmYqlJAI) | [IRENE](https://open.spotify.com/artist/1FCug8HMxqearaZB5qwWQj) | [Like A Flower \- The 1st Mini Album](https://open.spotify.com/album/7wf9YjsrbjqPq8orPOW2Rw) | 2:58 |
-| 49 | [The Moments](https://open.spotify.com/track/464diat2OMMnSutMSOuQXU) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Typhoon Family, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg) | 3:13 |
-| 50 | [Being an Adult](https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Being an Adult](https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH) | 3:45 |
+| 49 | [Being an Adult](https://open.spotify.com/track/0OatopllsqPHbb7RQiJ1No) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Being an Adult](https://open.spotify.com/album/73GAMGtPKswNL17lAv92jH) | 3:45 |
+| 50 | [The Moments](https://open.spotify.com/track/464diat2OMMnSutMSOuQXU) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Typhoon Family, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6Bf3rU6pU4XceCrk5pGKKg) | 3:13 |
 
 Snapshot ID: `AAAAABzOBRWm5wIX3vVYTEvwvkLVOmu3`

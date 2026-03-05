@@ -1,6 +1,6 @@
 {
   "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
-  "num_followers": 219857,
+  "num_followers": 219853,
   "original_name": "RUSH HOUR: \uac13\uc0dd ON!",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-03-03 08:59:42",
       "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
+    },
+    {
+      "added_at": "2026-03-03 08:59:42",
+      "album": {
         "name": "NewJeans 'Super Shy'",
         "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 181192,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2026-03-03 08:59:42",
-      "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "added_at": "2026-03-03 08:59:42",
@@ -847,18 +847,18 @@
     {
       "added_at": "2026-03-03 08:59:42",
       "album": {
-        "name": "DxS 1st Mini Album 'Serenade'",
-        "url": "https://open.spotify.com/album/3y4DPsgAsvEMFLrm4yHmG7"
+        "name": "Pretty Please",
+        "url": "https://open.spotify.com/album/6OKTuIMgKFuvdkiXWi3Vpt"
       },
       "artists": [
         {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 209000,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7KOijaSUhe0dyiKNZLsl8X"
+      "duration_ms": 204322,
+      "name": "Pretty Please",
+      "url": "https://open.spotify.com/track/6oBDhkYQDhFS2q0wQ6xZLO"
     }
   ],
   "unique_name": "RUSH HOUR: \uac13\uc0dd ON!",

@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "Solace & The Vices",
+        "url": "https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128002,
+      "name": "Autumn Drive",
+      "url": "https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB"
+    },
+    {
+      "album": {
         "name": "B.B. King Freestyle",
         "url": "https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271"
       },
@@ -3735,6 +3753,28 @@
     },
     {
       "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237075,
+      "name": "More Mentors",
+      "url": "https://open.spotify.com/track/58B7NiSMxVuKP4O8I6MQZH"
+    },
+    {
+      "album": {
         "name": "Poo Bear Presents: Bearthday Music",
         "url": "https://open.spotify.com/album/4IibNIC3LGip4ppu6Mnin9"
       },
@@ -3754,6 +3794,28 @@
       "duration_ms": 132659,
       "name": "Moves",
       "url": "https://open.spotify.com/track/27N58DOG7k1qksZ2EeyEMi"
+    },
+    {
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205627,
+      "name": "Mula",
+      "url": "https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux"
     },
     {
       "album": {

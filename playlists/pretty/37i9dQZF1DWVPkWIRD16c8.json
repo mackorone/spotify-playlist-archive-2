@@ -1,6 +1,6 @@
 {
   "description": "Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!",
-  "num_followers": 250523,
+  "num_followers": 250642,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-12 22:21:53",
       "album": {
-        "name": "I'm Here For You",
-        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 209951,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
-    },
-    {
-      "added_at": "2025-12-12 22:21:53",
-      "album": {
         "name": "Greatest Hits (Acoustic)",
         "url": "https://open.spotify.com/album/2bwstN2RquejYuJvxz8lZK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 216624,
       "name": "Remind Me Who I Am - Acoustic",
       "url": "https://open.spotify.com/track/1rvB0BJ6JxbnwlmDPBrDae"
+    },
+    {
+      "added_at": "2025-12-12 22:21:53",
+      "album": {
+        "name": "I'm Here For You",
+        "url": "https://open.spotify.com/album/4k3H2ZFyssNiUyF5v3vg9l"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 209951,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/3GC7jZ05UuZVPNy2JMgPHf"
     },
     {
       "added_at": "2025-12-12 22:21:53",

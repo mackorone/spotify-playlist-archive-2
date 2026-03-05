@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 
 > This is Vanessa Zamora\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,274 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,275 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 17 | [Nada](https://open.spotify.com/track/2ns0ysIuOca9iRBFuKM6cH) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Nave Especial](https://open.spotify.com/album/60d7LXNCFHzJke9A1bZo2t) | 3:29 |
 | 18 | [DUALIDAD \- feat\. Esteman](https://open.spotify.com/track/7xo6WF4Q2eY3qZ542FfsKg) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [DUALIDAD](https://open.spotify.com/album/1vR1AMrmkMaD9oDzflWAGl) | 3:21 |
 | 19 | [LENTO](https://open.spotify.com/track/4tsqTxwsSejvLnnwW30kpx) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:44 |
-| 20 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
-| 21 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 |
+| 20 | [AYER](https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP) | 3:55 |
+| 21 | [TRANSFORMANDO \- feat\. Ximena Sariñana](https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [TRANSFORMANDO](https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY) | 2:56 |
 | 22 | [Te Quiero Olvidar](https://open.spotify.com/track/4uCHHK49lwYfn0qWTWtWDs) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:09 |
 | 23 | [SUBCONSCIENTE](https://open.spotify.com/track/19RUZ3VZgMmWDi3JGz8PlZ) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:38 |
 | 24 | [Puro Pasado](https://open.spotify.com/track/3pjRiGXyrXcRwrcHHhyzO0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC), [DAMALEONA](https://open.spotify.com/artist/47INoGlowmUlhVIsSTpsz8) | [Tornaluna](https://open.spotify.com/album/0PY6ZHeBBwSkJxt85dzyz8) | 4:20 |
@@ -53,7 +53,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2avZ2E.md) - [plain]
 | 43 | [Para Siempre](https://open.spotify.com/track/6PGLPvCkSt4RIFVPd4HZ61) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:08 |
 | 44 | [beso](https://open.spotify.com/track/2yfPXsp4mdT8C92n1v60sA) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 3:50 |
 | 45 | [Fue Solo un Sueño](https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Fue Solo un Sueño](https://open.spotify.com/album/6K7AkVSKQgpFuXYbzJmtfC) | 3:49 |
-| 46 | [Hasta la Fantasía](https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Hasta la Fantasía](https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl) | 3:23 |
-| 47 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
+| 46 | [presente](https://open.spotify.com/track/619ZqPO66ar2Eqfuo5Sy8F) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [música para una película que no existe](https://open.spotify.com/album/3h972ADORDAR4Dptn2koMd) | 1:34 |
 
-Snapshot ID: `aaTTAAAAAABCHfEqLnVjEwqiGF8FPcD9`
+Snapshot ID: `aaYkgAAAAABOQ8K6ahhF2lLZuNWlXGun`

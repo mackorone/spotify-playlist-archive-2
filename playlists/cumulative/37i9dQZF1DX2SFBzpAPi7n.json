@@ -7179,6 +7179,24 @@
     },
     {
       "album": {
+        "name": "Sanullim 50th Anniversary full length album Vol. 3",
+        "url": "https://open.spotify.com/album/3U0OA2EGUsG8HV7EwOLua5"
+      },
+      "artists": [
+        {
+          "name": "YB",
+          "url": "https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413194,
+      "name": "Heukseok-dong",
+      "url": "https://open.spotify.com/track/1YAOfACashdIviwvQbXodh"
+    },
+    {
+      "album": {
         "name": "Heukseok-dong \u3008Sanullim's 50th Anniversary Collaboration Album\u3009",
         "url": "https://open.spotify.com/album/1h3aXRHMtuiUTnEymDWKGo"
       },
@@ -7316,7 +7334,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 207000,
       "name": "HIGHLIGHT",
       "url": "https://open.spotify.com/track/5IglhxcMfaLhZWmynKaNcA"
@@ -7686,6 +7704,24 @@
       "duration_ms": 177853,
       "name": "How Time Flies (feat. BIGONE & Dive)",
       "url": "https://open.spotify.com/track/033StetXuelKeMeQ7JWEgI"
+    },
+    {
+      "album": {
+        "name": "Archive. 1",
+        "url": "https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Human Extinction",
+      "url": "https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr"
     },
     {
       "album": {
@@ -11458,7 +11494,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 230861,
       "name": "More than Noise",
       "url": "https://open.spotify.com/track/5zS9sl1aT9q8lxO5jhRkeu"
@@ -12800,7 +12836,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 246739,
       "name": "Ours",
       "url": "https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN"
@@ -17280,7 +17316,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 223026,
       "name": "The 6th Summer",
       "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"

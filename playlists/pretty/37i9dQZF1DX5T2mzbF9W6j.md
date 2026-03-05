@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,542 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,542 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 39 | [Angels' Share](https://open.spotify.com/track/1UNVWbwbIEnxElW8b0PTFL) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo), [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Angels' Share](https://open.spotify.com/album/2iTs57ox6KJn1IjuH3IMWl) | 2:40 |
 | 40 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/35zrCdjDsVSuTvqjz1wrzA) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Nie mówię tak, nie mówię nie](https://open.spotify.com/album/3p5a6AcHEnFJS9Fl0EQMRd) | 2:39 |
 | 41 | [Póki Mam Ciebie](https://open.spotify.com/track/7I3rXFOYOXyHfimFAdOoC0) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [IMI](https://open.spotify.com/artist/3u4cVaeeRXjComKa6guF0I), [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak) | [Póki Mam Ciebie](https://open.spotify.com/album/6Vf7UxIJeTLSFazrwu6TDy) | 2:20 |
-| 42 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
+| 42 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
 | 43 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
-| 44 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
+| 44 | [Caroline](https://open.spotify.com/track/6iWK4oyy9z1qBVbsAlwRhm) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [RUSHMERE](https://open.spotify.com/album/6Ztf9NgYuS1j2df55TXi9r) | 3:20 |
 | 45 | [Pierwszy raz](https://open.spotify.com/track/2ihiNri1NnpPqce4TbC9xE) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Znajdź mnie w tym](https://open.spotify.com/album/3ejpPh0fWw2YEzyd2Rl17R) | 2:49 |
 | 46 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
 | 47 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 52 | [Miłość itd.](https://open.spotify.com/track/7BfQIV2V28FVblkqVegwnj) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Miłość itd.](https://open.spotify.com/album/4LNqtIipHftDkT0ZnFUK58) | 4:14 |
 | 53 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 |
 | 54 | [mario](https://open.spotify.com/track/6aqgWYvzUhw53ZyaiHQiR9) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [mario](https://open.spotify.com/album/0Nl6cjFMv3HsWbOjooWtID) | 2:45 |
-| 55 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
-| 56 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
+| 55 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
+| 56 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
 | 57 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 |
 | 58 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
-| 59 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 60 | [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 |
+| 59 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
+| 60 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 
-Snapshot ID: `AAAAAI8Gfm8NTIOdLZeCVLbeqMth5dzI`
+Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

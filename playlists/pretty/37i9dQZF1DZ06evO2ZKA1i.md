@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 
 > This is Deep Purple\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,434 likes - 50 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,441 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 28 | [King of Dreams](https://open.spotify.com/track/4HomPKDsqVz9xAtW2zyMO2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Slaves and Masters \(Bonus Track Version\)](https://open.spotify.com/album/5SKeGHkVddRpKf0pqVBJAR) | 5:26 |
 | 29 | [Sail Away \- Remastered 2004](https://open.spotify.com/track/29cnidbkZ13mYcNXnpqlre) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 5:52 |
 | 30 | [Smoke On the Water \- 1997 Remix](https://open.spotify.com/track/2nILGstCPTvCM0RMeVa4Wu) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Machine Head \- 25th Anniversary Edition](https://open.spotify.com/album/3XXboc1gvm976jCATDdunA) | 6:18 |
-| 31 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 |
+| 31 | [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 |
 | 32 | [Bad Attitude](https://open.spotify.com/track/3wByUjupfz8iTROjmeJdt3) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:46 |
 | 33 | [Might Just Take Your Life \- Remastered 2004](https://open.spotify.com/track/2CCabtrP0Y8JNYuV0mo8w8) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:40 |
 | 34 | [Bloodsucker \- 1995 Remaster](https://open.spotify.com/track/4f2Mreghv4pgUIWVDJG0X7) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Deep Purple in Rock \(Anniversary Edition\)](https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ) | 4:13 |
-| 35 | [Nobody's Home](https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 4:00 |
+| 35 | [Son Of Alerik](https://open.spotify.com/track/2dNaODA8kNiR6oAJnDs6wM) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Perfect Strangers](https://open.spotify.com/album/1FOmatanDRxS9EGcxjXKuO) | 10:02 |
 | 36 | [The Unwritten Law](https://open.spotify.com/track/2FTkYd4wvAJXVEwruv3IU2) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The House Of Blue Light](https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC) | 4:37 |
 | 37 | [Lay Down, Stay Down \- Remastered 2004](https://open.spotify.com/track/1oFprMb1Z5ngadqfFeWgjZ) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Burn \(30th Anniversary Edition\)](https://open.spotify.com/album/3wR7UC2ij2dx0TbtiMP4J9) | 4:20 |
 | 38 | [All the Time in the World](https://open.spotify.com/track/34ZHOp9qnbLOR2BjNKlySt) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Now What ?!](https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ZKA1i.md) - [plain]
 | 49 | [Rapture of the Deep \- 20th Anniversary Remix](https://open.spotify.com/track/7ayF99jzq2CWQ8CVyrWw7K) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Rapture of the Deep \(20th Anniversary Remix\)](https://open.spotify.com/album/5TasmBOdZjpsaD7MYW2MOO) | 5:54 |
 | 50 | [Lady Double Dealer \- 2009 Digital Remaster](https://open.spotify.com/track/2HVmjaLefp248iCaaYtpBR) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [Stormbringer \(Remastered\)](https://open.spotify.com/album/3k4Sw1t7tzEaE0LAR1J4YU) | 3:21 |
 
-Snapshot ID: `aaTTAAAAAADyH0UVVwVsESFP9X9hex7O`
+Snapshot ID: `aaYkgAAAAABX3ZRSB8pK+WTx2O5xl2Pz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,599 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,645 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 11 | [Middle Of It](https://open.spotify.com/track/5cetSeER6lWASv4jLdkKzS) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:26 |
 | 12 | [Pieces](https://open.spotify.com/track/73rxH6rYJQZtwfjKNb4mwZ) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Turn Back Time](https://open.spotify.com/album/1YTUy55SBqVmOTSJHJ8ken) | 3:16 |
 | 13 | [Dirty Looks](https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:14 |
-| 14 | [Nosedive \(Feat\. Lainey Wilson\)](https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:12 |
+| 14 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:22 |
 | 15 | [Devil Don’t Go There](https://open.spotify.com/track/14Tb6lAFBbE5HJUCyL0Ei3) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:30 |
-| 16 | [Would If I Could \(feat\. Lainey Wilson\)](https://open.spotify.com/track/06x6BAgvOIZGnHQVBoF6US) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [NASHVILLE, TENNESSEE](https://open.spotify.com/album/7txdao9C0jYls2zBxFojzJ) | 3:22 |
+| 16 | [Nosedive \(Feat\. Lainey Wilson\)](https://open.spotify.com/track/25uMKq5kygC2woAfeetEfE) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:12 |
 | 17 | [Weak\-End](https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:28 |
 | 18 | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Nice To Meet You \(feat\. Lainey Wilson\)](https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi) | 2:56 |
 | 19 | [Call A Cowboy](https://open.spotify.com/track/5KPDO23ZYI5BRlnlNoWKyg) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 46 | [Rolling Stone](https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:59 |
 | 47 | [Workin' Overtime](https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Workin' Overtime](https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O) | 3:17 |
 | 48 | [Rock and Roll, Hoochie Koo \- Spotify Singles](https://open.spotify.com/track/4h9GMqQ7bG7XbsC5kdXzNw) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Spotify Singles](https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ) | 3:53 |
-| 49 | [I Wrote You A Song \(with Lainey Wilson\)](https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse) | 3:25 |
-| 50 | [Dead End Red Dirt Road \- From The Gray House Original Soundtrack](https://open.spotify.com/track/3E4CIrrbH6m5n6kevRkw4m) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Gray House \(Original Soundtrack From the Amazon Series\)](https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO) | 3:30 |
+| 49 | [Dead End Red Dirt Road \- From The Gray House Original Soundtrack](https://open.spotify.com/track/3E4CIrrbH6m5n6kevRkw4m) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [The Gray House \(Original Soundtrack From the Amazon Series\)](https://open.spotify.com/album/1AdKCZKrCgn4IALU4grzqO) | 3:30 |
+| 50 | [I Wrote You A Song \(with Lainey Wilson\)](https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse) | 3:25 |
 
-Snapshot ID: `aaTTAAAAAADGR03kLfBsJExnk0G0woy6`
+Snapshot ID: `aaYkgAAAAABALaDA0KHCf4XC3nMNSydX`

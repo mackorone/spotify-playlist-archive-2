@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 56958,
+  "num_followers": 56997,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
         "name": "STINGY",
         "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
       },
@@ -935,26 +955,6 @@
       "duration_ms": 159335,
       "name": "Choice",
       "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
+        "name": "Go Crazy",
+        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Carder",
+          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
         "name": "High Spirit",
         "url": "https://open.spotify.com/album/1HNIge0hzBU9TJIsGS83Rj"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 169678,
       "name": "Shayo",
       "url": "https://open.spotify.com/track/56N21lxpXGBDoDhJ8YcIna"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Go Crazy",
-        "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
-      },
-      "artists": [
-        {
-          "name": "Kidd Carder",
-          "url": "https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
         "name": "Awilo",
         "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 163200,
       "name": "Awilo",
       "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1207,6 +1207,26 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
+        "name": "Wins & Losses",
+        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 179825,
+      "name": "Wins & Losses",
+      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1235,42 +1255,18 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
-        "name": "Wins & Losses",
-        "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
+        "name": "Stick to the Plan",
+        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         }
       ],
-      "duration_ms": 179825,
-      "name": "Wins & Losses",
-      "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Dare You",
-        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 182044,
-      "name": "Dare You",
-      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
+      "duration_ms": 117362,
+      "name": "Stick to the Plan",
+      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1299,22 +1295,22 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
-        "name": "Namipa",
-        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+        "name": "Dare You",
+        "url": "https://open.spotify.com/album/4UfnbpqyLkQULrkf2jkfTp"
       },
       "artists": [
         {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
         },
         {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
         }
       ],
-      "duration_ms": 141521,
-      "name": "Namipa",
-      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+      "duration_ms": 182044,
+      "name": "Dare You",
+      "url": "https://open.spotify.com/track/2SJYvOEDMMiVXlctHQ8WJ2"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1335,6 +1331,42 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
+        "name": "Namipa",
+        "url": "https://open.spotify.com/album/2O6QjA5omcQkQqL3WRXm95"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 141521,
+      "name": "Namipa",
+      "url": "https://open.spotify.com/track/3Seq53VDoEMol2gwIroF1U"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
         "name": "I'm Available",
         "url": "https://open.spotify.com/album/0ZHpEgfNlcyqDCqVTrkMZ8"
       },
@@ -1347,66 +1379,6 @@
       "duration_ms": 196530,
       "name": "I'm Available",
       "url": "https://open.spotify.com/track/0OBUEQiL8nzKcOg80cgGke"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
-      },
-      "artists": [
-        {
-          "name": "TiMi",
-          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
-        },
-        {
-          "name": "Kpee",
-          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
-        },
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 194098,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/15MPPsOE0MnSIpWBGpbiLy"
-      },
-      "artists": [
-        {
-          "name": "Garnic",
-          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
-        },
-        {
-          "name": "Welmz",
-          "url": "https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/5n9qMXcyuYEMyBB9yUu4NG"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Stick to the Plan",
-        "url": "https://open.spotify.com/album/1Qg0C5ICE3bsQTSym87OaL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 117362,
-      "name": "Stick to the Plan",
-      "url": "https://open.spotify.com/track/2RkUTD0pHL6zWVWpfWqnIT"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1451,6 +1423,50 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/15MPPsOE0MnSIpWBGpbiLy"
+      },
+      "artists": [
+        {
+          "name": "Garnic",
+          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
+        },
+        {
+          "name": "Welmz",
+          "url": "https://open.spotify.com/artist/1tQiHnuwQxWAAaFHyTqRFu"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/5n9qMXcyuYEMyBB9yUu4NG"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
+      },
+      "artists": [
+        {
+          "name": "TiMi",
+          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
+        },
+        {
+          "name": "Kpee",
+          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
+        },
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+        }
+      ],
+      "duration_ms": 194098,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
+    },
+    {
+      "added_at": "2026-02-27 00:01:28",
+      "album": {
         "name": "AWAY",
         "url": "https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc"
       },
@@ -1467,38 +1483,34 @@
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/55CLjgXBq4zuAnGYeGM8VB"
+        "name": "Kontrollah",
+        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
         }
       ],
-      "duration_ms": 160800,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/4FQD13B32eYtCBH7PDMYZw"
+      "duration_ms": 155924,
+      "name": "Kontrollah",
+      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
     },
     {
       "added_at": "2026-02-27 00:01:28",
       "album": {
-        "name": "Over The Moon",
-        "url": "https://open.spotify.com/album/34FtA5y3NfmDleizvsjiWD"
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/6XUgrldDupyhi4bmDKScIP"
       },
       "artists": [
         {
           "name": "Johnny Drille",
           "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 165714,
-      "name": "Over The Moon",
-      "url": "https://open.spotify.com/track/5CHi28woINyyaqdi1t7FZM"
+      "duration_ms": 234000,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/1sX6eJVTDmuLxcHfVTYfCA"
     },
     {
       "added_at": "2026-02-27 00:01:28",
@@ -1519,22 +1531,6 @@
       "duration_ms": 195589,
       "name": "Dive In",
       "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
-    },
-    {
-      "added_at": "2026-02-27 00:01:28",
-      "album": {
-        "name": "Kontrollah",
-        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
-      },
-      "artists": [
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 155924,
-      "name": "Kontrollah",
-      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
     }
   ],
   "unique_name": "AfroBae",

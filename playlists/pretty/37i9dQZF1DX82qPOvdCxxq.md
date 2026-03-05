@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Justin Radford
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,976 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,987 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 99 | [BROKEN BUT I RISE](https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm) | [New Path Worship](https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx) | [BROKEN BUT I RISE](https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri) | 3:19 |
 | 100 | [Holy Water](https://open.spotify.com/track/3s3z9k5thcjKZtyXoTrzgg) | [Casey Kleeman](https://open.spotify.com/artist/0Hv1mYCGTjwcRNzi9ecVTw) | [Holy Water](https://open.spotify.com/album/4SV3c9gkDhZ0YLEXPxS0rd) | 4:44 |
 
-Snapshot ID: `AAAAAIic4e7QZqifRWVw7mMlyxzAgHB0`
+Snapshot ID: `AAAAAKlZgd3XXW+3Z+OR4CF/aLo6yQmW`

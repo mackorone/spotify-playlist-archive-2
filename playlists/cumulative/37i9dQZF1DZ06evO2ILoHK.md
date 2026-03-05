@@ -4,7 +4,7 @@
 
 > This is Basement\. The essential tracks, all in one playlist.
 
-40 songs - 1 hr 53 min
+42 songs - 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bad Apple](https://open.spotify.com/track/0k17MALHbaR6i6879Wasql) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 2:57 | 2022-09-16 |  |
 | [Be Here Now](https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:29 | 2022-09-16 |  |
 | [Breathe \- alt version](https://open.spotify.com/track/3b0edfzz29UqcQb9S5FhP9) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Breathe \(alt version\)](https://open.spotify.com/album/3SLx9AyAbtj8gFPlzLSlBI) | 3:12 | 2022-10-01 | 2022-12-20 |
+| [Broken By Design](https://open.spotify.com/track/7gTds4MeC6opy5Y30x67kt) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc) | 3:12 | 2026-03-05 |  |
 | [Brother's Keeper](https://open.spotify.com/track/481wkzrQ20aCvtlvhtLLcb) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Promise Everything \(Deluxe\)](https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP) | 2:59 | 2022-09-16 |  |
 | [Canada Square](https://open.spotify.com/track/3kxwJBSk2hvzMtYnek6aFW) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 4:08 | 2022-09-16 |  |
 | [Changing Lanes](https://open.spotify.com/track/0OLe5X5aibmw8Dg7jcrssZ) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 1:24 | 2022-09-16 | 2026-02-11 |
@@ -47,6 +48,7 @@
 | [Ultraviolet](https://open.spotify.com/track/1uNsNmK3BoXyZLHIrsIhYA) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Beside Myself](https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO) | 3:56 | 2026-02-11 |  |
 | [White Elephant](https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Songs About The Weather](https://open.spotify.com/album/3Alr3YRWtyH8J315fqb9wT) | 2:46 | 2022-09-16 |  |
 | [Whole](https://open.spotify.com/track/29EPImPtRiMHXONTJGMhip) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [Colourmeinkindness](https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb) | 3:10 | 2022-09-16 |  |
+| [WIRED](https://open.spotify.com/track/2VSNcIG1cSDoa9VJXwyBMK) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/4caafgxMxHkEo80ypjLfuc) | 2:33 | 2026-03-05 |  |
 | [Yoke](https://open.spotify.com/track/6pmNRKHIbO8hTmhLNZpA0p) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [I Wish I Could Stay Here](https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG) | 2:25 | 2024-09-25 |  |
 
 \*This playlist was first scraped on 2022-09-17. Prior content cannot be recovered.

@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6x3Jiy9Tb3ju6huNiXGzxq"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 211991,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/2h9qRt8R214yJEBfoPAv3B"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Cowboys Cry Too (with Noah Kahan)",
+        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 230600,
+      "name": "Cowboys Cry Too (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
     },
     {
       "added_at": "2025-07-04 04:00:22",

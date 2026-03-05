@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Altrove",
+        "url": "https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc"
+      },
+      "artists": [
+        {
+          "name": "The Recoveries",
+          "url": "https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204378,
+      "name": "Altrove",
+      "url": "https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A"
+    },
+    {
+      "album": {
         "name": "AMIGOS",
         "url": "https://open.spotify.com/album/7kdkuaPkb7hxAn62YURevg"
       },
@@ -128,6 +146,24 @@
       "duration_ms": 191310,
       "name": "AMIGOS",
       "url": "https://open.spotify.com/track/6OBUF3YnAuiVJFcmMYVQYV"
+    },
+    {
+      "album": {
+        "name": "Boxing Day (Deluxe)",
+        "url": "https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h"
+      },
+      "artists": [
+        {
+          "name": "Lauren Minear",
+          "url": "https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176814,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA"
     },
     {
       "album": {
@@ -186,6 +222,24 @@
       "duration_ms": 269775,
       "name": "Bad Attitude",
       "url": "https://open.spotify.com/track/5zM9Qohifqmxn2vzxfpx2C"
+    },
+    {
+      "album": {
+        "name": "Badly Scripted Film",
+        "url": "https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7"
+      },
+      "artists": [
+        {
+          "name": "Grae Taylor",
+          "url": "https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203025,
+      "name": "Badly Scripted Film",
+      "url": "https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2"
     },
     {
       "album": {
@@ -560,7 +614,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 236450,
       "name": "Dans",
       "url": "https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8"
@@ -582,6 +636,24 @@
       "duration_ms": 319000,
       "name": "Days, Years & Months",
       "url": "https://open.spotify.com/track/45nZXh0QNDfot6DifudLZe"
+    },
+    {
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/58YBu5f6ErbSiJf8xuojxc"
+      },
+      "artists": [
+        {
+          "name": "Microfunk Band",
+          "url": "https://open.spotify.com/artist/4BEoveed0d10Qd1Cf4EcoR"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278326,
+      "name": "De Costa a Costa",
+      "url": "https://open.spotify.com/track/4mmNt648AwIq9FkI5c6gVL"
     },
     {
       "album": {
@@ -744,6 +816,28 @@
       "duration_ms": 224773,
       "name": "Don't Be The Victim",
       "url": "https://open.spotify.com/track/3GfM3bTP0qnoD43WPBBeqD"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up On Me",
+        "url": "https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7"
+      },
+      "artists": [
+        {
+          "name": "IAMDWX",
+          "url": "https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU"
+        },
+        {
+          "name": "Kevin Hadley",
+          "url": "https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169561,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali"
     },
     {
       "album": {
@@ -1148,6 +1242,24 @@
       "duration_ms": 235226,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy"
+    },
+    {
+      "album": {
+        "name": "11 Miles from Everywhere",
+        "url": "https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We"
+      },
+      "artists": [
+        {
+          "name": "3Towns",
+          "url": "https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293207,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/4ma25GBIHco2FLwqkgd4Et"
     },
     {
       "album": {
@@ -2863,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "SuperNatural Man",
+        "url": "https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX"
+      },
+      "artists": [
+        {
+          "name": "Hope Noel",
+          "url": "https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229433,
+      "name": "SuperNatural Man",
+      "url": "https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr"
+    },
+    {
+      "album": {
         "name": "SUPREME",
         "url": "https://open.spotify.com/album/26CoKHg8FTNbHbKN8gOKfF"
       },
@@ -3285,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "Blue, Deepest Blue",
+        "url": "https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm"
+      },
+      "artists": [
+        {
+          "name": "Bad Script",
+          "url": "https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j"
+        },
+        {
+          "name": "Eisbaer",
+          "url": "https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361442,
+      "name": "Valley",
+      "url": "https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45"
+    },
+    {
+      "album": {
         "name": "Velvet Afterglow",
         "url": "https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ"
       },
@@ -3624,6 +3776,24 @@
       "duration_ms": 234529,
       "name": "Would Be Better",
       "url": "https://open.spotify.com/track/4caeJi0QJyfrgCwcfS5XZU"
+    },
+    {
+      "album": {
+        "name": "XOXO (Ex oh, Ex ow!)",
+        "url": "https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop"
+      },
+      "artists": [
+        {
+          "name": "Lord Sebastian",
+          "url": "https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188387,
+      "name": "XOXO (Ex oh, Ex ow!)",
+      "url": "https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4"
     },
     {
       "album": {

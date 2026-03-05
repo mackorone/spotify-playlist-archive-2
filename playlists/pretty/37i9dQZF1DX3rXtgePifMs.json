@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 118193,
+  "num_followers": 118196,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1060,16 +1060,16 @@
       },
       "artists": [
         {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        },
-        {
           "name": "Serum",
           "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         },
         {
           "name": "Agent Sasco (Assassin)",
           "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
         }
       ],
       "duration_ms": 155071,
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "We Are The Ones (FC24 Version)",
+        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 135950,
+      "name": "We Are The Ones - FC24 Version",
+      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "The World\u2019s Biggest Paving Slab",
         "url": "https://open.spotify.com/album/3ducN0Lrdg8qwP5xnoJ5X6"
       },
@@ -1371,6 +1387,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
+      },
+      "artists": [
+        {
+          "name": "KABEAUSH\u00c9",
+          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
+      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "DICHOTOMY",
         "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
       },
@@ -1387,38 +1419,6 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "We Are The Ones (FC24 Version)",
-        "url": "https://open.spotify.com/album/0PgSzrzBZiMHbOGQVFKUuO"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 135950,
-      "name": "We Are The Ones - FC24 Version",
-      "url": "https://open.spotify.com/track/0e9puAKZblpFaZyEZ0ZcJ6"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-        "url": "https://open.spotify.com/album/7taQKL7ALK6QeXr8pva6O4"
-      },
-      "artists": [
-        {
-          "name": "KABEAUSH\u00c9",
-          "url": "https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "THESE DISHES AIN'T GONNA DO THEMSELVES",
-      "url": "https://open.spotify.com/track/5IHOTDXjEwmjzvbt7yldMZ"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Pinking Shears",
+        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
+      },
+      "artists": [
+        {
+          "name": "Mandy, Indiana",
+          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
+        }
+      ],
+      "duration_ms": 152420,
+      "name": "Pinking Shears",
+      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
         "url": "https://open.spotify.com/album/4KPCyFjgJvvCdAPHDWTHJb"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 111044,
       "name": "Oh Ah (with Paul Beaubrun & Cimafunk)",
       "url": "https://open.spotify.com/track/1IWxBDOExMnTPR9lJ0lGTS"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Pinking Shears",
-        "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
-      },
-      "artists": [
-        {
-          "name": "Mandy, Indiana",
-          "url": "https://open.spotify.com/artist/2nDJxXJ7PtW7eLpFXcGH3u"
-        }
-      ],
-      "duration_ms": 152420,
-      "name": "Pinking Shears",
-      "url": "https://open.spotify.com/track/25nJyg6wnbRLN1zkmbX8cF"
     },
     {
       "added_at": "2023-11-20 15:00:00",

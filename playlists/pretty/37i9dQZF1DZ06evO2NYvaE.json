@@ -1,12 +1,12 @@
 {
   "description": "This is Spiritbox. The essential tracks, all in one playlist.",
-  "num_followers": 49755,
+  "num_followers": 49786,
   "original_name": "This Is Spiritbox",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABkz442vjX0gzB1Hm+kPK1+",
+  "snapshot_id": "aaYkgAAAAABJkQwcXTo1fDJBBAGqhnq3",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Fear of Fear",
+        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 281052,
+      "name": "Too Close / Too Late",
+      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
         "url": "https://open.spotify.com/album/7KkQ2wX2VoNoEyFCfRzHwO"
       },
@@ -319,38 +351,6 @@
       "duration_ms": 231848,
       "name": "Ties That Bind (feat. Courtney LaPlante of Spiritbox)",
       "url": "https://open.spotify.com/track/75AOHT6wkAr1XzaXTZiK6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fear of Fear",
-        "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 281052,
-      "name": "Too Close / Too Late",
-      "url": "https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 236320,
+      "name": "Everything's Eventual",
+      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 236320,
-      "name": "Everything's Eventual",
-      "url": "https://open.spotify.com/track/1YhdBg2KGOcFZ4XJkm7Ttv"
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": null,

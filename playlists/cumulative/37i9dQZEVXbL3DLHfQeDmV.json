@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 243760,
       "name": "Dancing On The Wall",
       "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
@@ -4052,7 +4052,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 163327,
       "name": "HOW FAR",
       "url": "https://open.spotify.com/track/0LtlZUDZ016cvT9Dp7J21j"
@@ -4442,7 +4442,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 196426,
       "name": "I'll Change for You",
       "url": "https://open.spotify.com/track/0MRooJn2J6iXQnzFdFSpRR"
@@ -5308,6 +5308,24 @@
       "duration_ms": 134095,
       "name": "Look Good",
       "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
+    },
+    {
+      "album": {
+        "name": "VSQ Performs the Hits of 2024",
+        "url": "https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk"
+      },
+      "artists": [
+        {
+          "name": "Vitamin String Quartet",
+          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210653,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/35iyVLyvKlQJIsF4YIs2Rl"
     },
     {
       "album": {

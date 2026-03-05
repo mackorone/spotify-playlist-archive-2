@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 147073,
+  "num_followers": 147086,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2025-10-25 00:54:25",
       "album": {
+        "name": "A Encomenda da Minha Vida",
+        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 178644,
+      "name": "A Encomenda da Minha Vida",
+      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
+    },
+    {
+      "added_at": "2025-10-25 00:54:25",
+      "album": {
         "name": "When The Wind Blows (Private Sessions)",
         "url": "https://open.spotify.com/album/5uIK4JP9LtfXupQkOSDEmc"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 162214,
       "name": "Minha Voz",
       "url": "https://open.spotify.com/track/1IStorlI3jeYGN5agXweMa"
-    },
-    {
-      "added_at": "2025-10-25 00:54:25",
-      "album": {
-        "name": "A Encomenda da Minha Vida",
-        "url": "https://open.spotify.com/album/3qdT1eBgzXQjaAwsys5zvR"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 178644,
-      "name": "A Encomenda da Minha Vida",
-      "url": "https://open.spotify.com/track/4hYcZfeUkOw4GoV5APKMdV"
     },
     {
       "added_at": "2025-10-25 00:54:25",

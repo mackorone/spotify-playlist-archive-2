@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,286 likes - 145 songs - 8 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,286 likes - 150 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,5 +153,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 143 | [Gem](https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Gem](https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui) | 3:44 |
 | 144 | [I Want You Back](https://open.spotify.com/track/7q4Iqyw5CAs1aNKDpoIPrn) | [Max Cooper III](https://open.spotify.com/artist/5VwbADUdH8ryktypdkpX06) | [I Want You Back](https://open.spotify.com/album/1aiRCxVwHHvX14A8RtAD2D) | 1:40 |
 | 145 | [Cool Breeze](https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR) | [Ben Carringer](https://open.spotify.com/artist/5Xs7la5VzfvqDJD2KfVhL6) | [Cool Breeze](https://open.spotify.com/album/5mcOE9xiQGH9rvaAW1H8Op) | 3:35 |
+| 146 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 |
+| 147 | [Worldwide](https://open.spotify.com/track/69lZeRIuoN9pr5YajQQ8ml) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [Worldwide](https://open.spotify.com/album/3qJlKlv2nnDPcUnHSqGGHH) | 3:19 |
+| 148 | [Who Knows \- Remix](https://open.spotify.com/track/4YLuehHCimOg0RD2U825Dp) | [Xandre Augs](https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn) | [a u g y](https://open.spotify.com/album/0jl0huXGuyDmGWyW72h2kX) | 2:09 |
+| 149 | [Те, що я люблю](https://open.spotify.com/track/1huOrpKupXu1KDBe9Wq5Ot) | [YANKEE](https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V) | [Те, що я люблю](https://open.spotify.com/album/6sUYSApXZgF2KjzlLbJ7ps) | 2:31 |
+| 150 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 |
 
-Snapshot ID: `AAARLrTE2QPFJyGwMbP3rXVsg7QGgTqB`
+Snapshot ID: `AAARMwXYwyq6RMaEe9MCD2iysQT5hxSQ`

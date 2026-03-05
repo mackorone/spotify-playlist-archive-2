@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 > This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,598 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,611 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 9 | [Hay Unos Ojos](https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [No Vengas A Rogarme](https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji) | 3:00 |
 | 10 | [Del Otro Lado del Portón](https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [El Número 100](https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi) | 2:53 |
 | 11 | [Mi Piquito De Oro](https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Mi Piquito De Oro](https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu) | 2:09 |
-| 12 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:26 |
-| 13 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 |
+| 12 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 |
+| 13 | [Recuérdame Y Ven A Mí](https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:26 |
 | 14 | [Central Camionera](https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 3:22 |
-| 15 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
-| 16 | [Mi Tesoro](https://open.spotify.com/track/6mUBSPJ6SORgOLz1uaMYTc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:06 |
+| 15 | [Mi Tesoro](https://open.spotify.com/track/6mUBSPJ6SORgOLz1uaMYTc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 3:06 |
+| 16 | [Que Me Lleve El Diablo](https://open.spotify.com/track/5u4cu3oA6jpNlfb6taXmE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos Con \(Vol.II\)](https://open.spotify.com/album/2GCQzIsTqogXju7LHbEG6l) | 3:30 |
 | 17 | [Puño De Tierra Aka Un Puño De Tierra](https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Puño De Tierra](https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5) | 3:47 |
 | 18 | [Entiérrenme Cantando](https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 4:12 |
 | 19 | [Corrido de Chito Cano](https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [CORRIDOS FAMOSOS VOL\. 2 \(Grabación Original Remasterizada\)](https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7) | 3:27 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 23 | [Vestida De Color De Rosa](https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 3:05 |
 | 24 | [Qué Casualidad](https://open.spotify.com/track/7lgsl2ESXS9D5rvpl2bBsc) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Qué Casualidad](https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w) | 3:03 |
 | 25 | [Cuando Yo Era Un Jovencito](https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Rama De Mezquite](https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07) | 2:47 |
-| 26 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
-| 27 | [No Porque Seas Tú](https://open.spotify.com/track/0jrWPhV7jnyuIViH1XAjZs) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 2:21 |
-| 28 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
+| 26 | [Quisiera Tener Alas](https://open.spotify.com/track/4nCp7z2Lym4btfP1zoimYY) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Quisiera Tener Alas](https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q) | 3:31 |
+| 27 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
+| 28 | [No Porque Seas Tú](https://open.spotify.com/track/0jrWPhV7jnyuIViH1XAjZs) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Éxitos](https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ) | 2:21 |
 | 29 | [Recuerdos Tristes](https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Recuérdame Y Ven A Mí](https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU) | 3:05 |
 | 30 | [Y Lloro Por Ella Mi Gorrión](https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:53 |
 | 31 | [Un Puño De Tierra](https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 3:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Pero Yo No La Conozco](https://open.spotify.com/track/5r2EghLxCJyxe3gJGV6seB) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Pero Yo No La Conozco](https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP) | 2:57 |
 | 50 | [Paulita Gutiérrez](https://open.spotify.com/track/6wF7xuEiAxZVbe3AvfqI0k) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Que Suerte La Mía](https://open.spotify.com/album/5Hm0fRTMWfCaGqkNKWqXcs) | 3:05 |
 
-Snapshot ID: `aaTTAAAAAADUv4WJ2PB+0/dG/3zGNlpt`
+Snapshot ID: `aaYkgAAAAAB57YF/cOCvyX6WzA8sWjAc`

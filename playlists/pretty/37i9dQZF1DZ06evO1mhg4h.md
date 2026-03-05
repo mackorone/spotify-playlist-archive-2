@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,772 likes - 31 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,783 likes - 31 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 30 | [惑う星 \-We will B\- Live ver.](https://open.spotify.com/track/6sbzdTd7hLv5ULaZY8DuUJ) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:48 |
 | 31 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
 
-Snapshot ID: `aaTTAAAAAAD4jKLwVBATK5R6kCDW4tet`
+Snapshot ID: `aaYkgAAAAABX3HxlWdz8YwxAlsHzMTIb`

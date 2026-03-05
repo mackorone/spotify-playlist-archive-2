@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 
 > Necessities from LGBTQIA+ artists\. Cover: Arlo Parks
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,974 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,970 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSCHxQyDbKJ.md) - [plain]
 | 41 | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/track/3ymm3O5OgoFy7QX4z9YgtN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Lay Me Down \(feat\. IZA\)](https://open.spotify.com/album/56Qppa3R5hdP06bCBWFDVE) | 4:13 |
 | 42 | [The Beat](https://open.spotify.com/track/3sSvL4QtYlXAae7TyUgCzh) | [Mandidextrous](https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp), [GEA](https://open.spotify.com/artist/3OHl7zl5cliNK2ADa18ZxL) | [The Beat](https://open.spotify.com/album/3sgObgnVBBMppg1qMoVP7i) | 3:26 |
 | 43 | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/track/5PmpmP9Z7lxKhriEoafUNr) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [Reason Why \(feat\. Kim Petras & BC Kingdom\)](https://open.spotify.com/album/5elJWlKT79phbaxMD20WWm) | 3:52 |
-| 44 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 |
-| 45 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
-| 46 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 44 | [Higher](https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP) | [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Higher](https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T) | 3:03 |
+| 45 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 |
+| 46 | [Anything](https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW) | [Polly Money](https://open.spotify.com/artist/7Aem5tZTNcNDFBh3HBdOON) | [Anything](https://open.spotify.com/album/0kCsEG4eJcywmJb1tewQwR) | 3:25 |
 | 47 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 |
 | 48 | [Better ft\. Cuco](https://open.spotify.com/track/1zWAkeQBhzpJWJoQqG8NuX) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Better ft\. Cuco](https://open.spotify.com/album/5MzxuiP1oQEO7jvUuE0Arx) | 2:57 |
 | 49 | [breakdown.](https://open.spotify.com/track/7JoooKqsYju9N1isa5FjFw) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [breakdown\. \(Underworld Rework\)](https://open.spotify.com/album/7MyZuMRuXeArfRZYZCcCs4) | 2:43 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,720 likes - 110 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,725 likes - 110 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 39 | [Decir Adiós](https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X) | [10 QUI](https://open.spotify.com/artist/7IdLxoTRYCmshnnFh8V6Fq), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Decir Adiós](https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v) | 3:00 |
 | 40 | [Saltas Por Mí](https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Luister La Voz](https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII) | [Saltas Por Mí](https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW) | 2:40 |
 | 41 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
-| 42 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
-| 43 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 |
+| 42 | [Conexión Total](https://open.spotify.com/track/73AxVFai5zsrY8JBgF1pIA) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Deja](https://open.spotify.com/album/5znLnc0oe8wA9On08nv8gd) | 3:35 |
+| 43 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 |
 | 44 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 45 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
 | 46 | [No me opongo](https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [R\-A\-B\-I\-A](https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33) | 3:05 |

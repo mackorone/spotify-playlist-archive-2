@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:artist:5oDtp2FC8VqBjTx1aT4P5j\">Shy FX</a>'s favorite tracks. Updated regularly. Curated by Shy FX. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 78417,
+  "num_followers": 78431,
   "original_name": "Shy FX's track IDs",
   "owner": {
     "name": "Spotify",
@@ -240,12 +240,12 @@
           "url": "https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR"
         },
         {
-          "name": "S\u00e2lo",
-          "url": "https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN"
-        },
-        {
           "name": "MC Moose",
           "url": "https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O"
+        },
+        {
+          "name": "S\u00e2lo",
+          "url": "https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN"
         }
       ],
       "duration_ms": 255172,

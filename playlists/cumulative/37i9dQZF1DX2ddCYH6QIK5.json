@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: TumirWeh, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Miyu Hansen Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 158709,
       "name": "..lowkey",
       "url": "https://open.spotify.com/track/6Oe3rQRJv6we0g4E0NKMfu"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 185978,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7L2Xv2vNjfAgoiSzfg9bSe"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 136366,
       "name": "bitters\u00fc\u00df",
       "url": "https://open.spotify.com/track/0RzNGx6VUOF7Dx8vrT5k3q"
@@ -4081,6 +4081,24 @@
     },
     {
       "album": {
+        "name": "Bussi",
+        "url": "https://open.spotify.com/album/2QPeygUWUFiZfdy09YcWhR"
+      },
+      "artists": [
+        {
+          "name": "FESCH",
+          "url": "https://open.spotify.com/artist/7y78NE05jUeQmUgkIBUezP"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187861,
+      "name": "Bussi",
+      "url": "https://open.spotify.com/track/4oJnrR1IuAumWsnRo3EH5f"
+    },
+    {
+      "album": {
         "name": "Busy Overthinking",
         "url": "https://open.spotify.com/album/5V0h8Vw3Gw8oaZ93AgpRp1"
       },
@@ -4450,6 +4468,24 @@
       "duration_ms": 168491,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/1Fd8AUBFy6c815N5VTBpc0"
+    },
+    {
+      "album": {
+        "name": "Catch Me (If you can)",
+        "url": "https://open.spotify.com/album/3IhjH655WUH0DXUOHGgu8V"
+      },
+      "artists": [
+        {
+          "name": "EALA",
+          "url": "https://open.spotify.com/artist/0cGH3EskO1vx9loNjpBZnl"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Catch Me (If you can)",
+      "url": "https://open.spotify.com/track/2A0GfvCb9EGBeZU9GzgPpZ"
     },
     {
       "album": {
@@ -6467,6 +6503,24 @@
     },
     {
       "album": {
+        "name": "Disco Boy",
+        "url": "https://open.spotify.com/album/49qZygjhSrxWMyp2FdUQ1V"
+      },
+      "artists": [
+        {
+          "name": "SAFARI SURFERS",
+          "url": "https://open.spotify.com/artist/36B7CTnO4UBf03jXh5rJ81"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222446,
+      "name": "Disco Boy",
+      "url": "https://open.spotify.com/track/1HyfxqR4hpHVryaivUZoJe"
+    },
+    {
+      "album": {
         "name": "Disco im Kopf",
         "url": "https://open.spotify.com/album/0ARqT7wSTlGv0WL0U2DKN0"
       },
@@ -6500,7 +6554,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 166889,
       "name": "disko verliebt",
       "url": "https://open.spotify.com/track/5IrZWSbniZfH6LlKrqEfY3"
@@ -7875,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Engelsblick",
+        "url": "https://open.spotify.com/album/1YUAB87bptXpJ1ATweR3Ac"
+      },
+      "artists": [
+        {
+          "name": "Joshua Pepe",
+          "url": "https://open.spotify.com/artist/55HInP1JDlodSo302q1wQZ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Engelsblick",
+      "url": "https://open.spotify.com/track/0G1lGhOqoy0zI5MTnjxB0S"
+    },
+    {
+      "album": {
         "name": "Enough, Enough, Enough",
         "url": "https://open.spotify.com/album/6FEnRvhnDVwqI3b30BSQeP"
       },
@@ -7926,6 +7998,24 @@
       "duration_ms": 162782,
       "name": "Entweder oder",
       "url": "https://open.spotify.com/track/4echOeuilueThzzmrTl9kY"
+    },
+    {
+      "album": {
+        "name": "er ist anders",
+        "url": "https://open.spotify.com/album/1frbRsUISl5eyvC9Jz4Xvx"
+      },
+      "artists": [
+        {
+          "name": "rosa roth",
+          "url": "https://open.spotify.com/artist/4V6eOZ1sdK3SgSXP7oZt0l"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142207,
+      "name": "er ist anders",
+      "url": "https://open.spotify.com/track/7CseMwM25Tx762et5VIa8D"
     },
     {
       "album": {
@@ -10248,7 +10338,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 223880,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3ewCbG1yn5d20wp1OlkogH"
@@ -10959,6 +11049,24 @@
     },
     {
       "album": {
+        "name": "Haunted House",
+        "url": "https://open.spotify.com/album/1HGHMVLD5dLLXJ3OICfvOr"
+      },
+      "artists": [
+        {
+          "name": "Miyu Hansen",
+          "url": "https://open.spotify.com/artist/5DJDdhg9Qijhlqf6F1Mu5L"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182456,
+      "name": "Haunted House",
+      "url": "https://open.spotify.com/track/7v40SKK5kBOHC8mGUh8FuF"
+    },
+    {
+      "album": {
         "name": "Haunting Ghosts",
         "url": "https://open.spotify.com/album/6zyhYoKAS8V0Y4I3pmUfHf"
       },
@@ -10974,6 +11082,24 @@
       "duration_ms": 184598,
       "name": "Haunting Ghosts",
       "url": "https://open.spotify.com/track/6tI9Mzeizbc7aiDoUrHml4"
+    },
+    {
+      "album": {
+        "name": "Hauptrolle",
+        "url": "https://open.spotify.com/album/6bKHxqPc4ZINvji8SITPPW"
+      },
+      "artists": [
+        {
+          "name": "felii",
+          "url": "https://open.spotify.com/artist/11u28igRawgdpNFvOPqpxn"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155844,
+      "name": "Hauptrolle",
+      "url": "https://open.spotify.com/track/1QhjmPs0aBoQOhi0RCDUy9"
     },
     {
       "album": {
@@ -14208,7 +14334,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 168750,
       "name": "Keiner Wei\u00df",
       "url": "https://open.spotify.com/track/726b35bTUD5HQHDvdb0b1O"
@@ -15092,7 +15218,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 130049,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/4Jnw8kbvjWO8tOQdiKfoRX"
@@ -18386,7 +18512,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 221500,
       "name": "Nothing Worth Waiting for More",
       "url": "https://open.spotify.com/track/4Z2FlUGApb50DfLKhioyuH"
@@ -21718,7 +21844,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 149333,
       "name": "sag etwas (zu mir)",
       "url": "https://open.spotify.com/track/55ZPXvZ2ey61SH65srZi4M"
@@ -21938,6 +22064,24 @@
       "duration_ms": 197538,
       "name": "Say!",
       "url": "https://open.spotify.com/track/0uLtK2oYlZ1Lhvbe8JuEeB"
+    },
+    {
+      "album": {
+        "name": "Scandal",
+        "url": "https://open.spotify.com/album/5FClUnV2SvpocVaIZcKRJD"
+      },
+      "artists": [
+        {
+          "name": "greenwald",
+          "url": "https://open.spotify.com/artist/6Ss71l0oixtjxVvqnTWKhe"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Scandal",
+      "url": "https://open.spotify.com/track/2XlPUJGv0XefW5lVzU3n6f"
     },
     {
       "album": {
@@ -24843,6 +24987,28 @@
     },
     {
       "album": {
+        "name": "Talk Shit Get High",
+        "url": "https://open.spotify.com/album/36AFQ4pO92JMjNGYhmFZZj"
+      },
+      "artists": [
+        {
+          "name": "Olafur Mowa",
+          "url": "https://open.spotify.com/artist/2X6EKI5skOSXrcGjaNe2Zl"
+        },
+        {
+          "name": "Donkey Kid",
+          "url": "https://open.spotify.com/artist/2FJBOBjXqWC5s3kDfs9nY4"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193337,
+      "name": "Talk Shit Get High",
+      "url": "https://open.spotify.com/track/0bBdhBmfmqBfUcc6m5Z8Hr"
+    },
+    {
+      "album": {
         "name": "Tango",
         "url": "https://open.spotify.com/album/14wstzdTpLgzY4NGmxocFP"
       },
@@ -27714,7 +27880,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 226272,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/6fYAXuHXOZIWmmo8hAF7Ox"
@@ -28220,6 +28386,24 @@
       "duration_ms": 156807,
       "name": "When I Was Born",
       "url": "https://open.spotify.com/track/0FRodw2mg6dJJ44fzhjJrn"
+    },
+    {
+      "album": {
+        "name": "WHEN I WAS SIX",
+        "url": "https://open.spotify.com/album/2EX5IqmZDcI8Tmyi8aKjvn"
+      },
+      "artists": [
+        {
+          "name": "PURPLE",
+          "url": "https://open.spotify.com/artist/4Ipvi1vK7lMhA5E5i3WjKr"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "WHEN I WAS SIX",
+      "url": "https://open.spotify.com/track/44JXawv2ZPm9oX8qvb85Lx"
     },
     {
       "album": {

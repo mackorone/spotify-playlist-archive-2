@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2644969,
+  "num_followers": 2644951,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 224153,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 326706,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "Bookends",
         "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215285,
       "name": "America",
       "url": "https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 326706,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 300862,
-      "name": "Shelter from the Storm",
-      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "The Best of Bread",
         "url": "https://open.spotify.com/album/27PnJozrSZByyLlqFtiVtx"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 155773,
       "name": "If",
       "url": "https://open.spotify.com/track/1Fu3gq55GH3P6OF352rEIc"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 300862,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Rumor And Sigh",
-        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
-      },
-      "artists": [
-        {
-          "name": "Richard Thompson",
-          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
-        }
-      ],
-      "duration_ms": 283493,
-      "name": "1952 Vincent Black Lightning",
-      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
         "name": "It's So Hard To Tell Who's Going To Love You The Best",
         "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 156893,
       "name": "Little Bit Of Rain",
       "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
+        "name": "Rumor And Sigh",
+        "url": "https://open.spotify.com/album/5udGf9RoW9Sjda4yD0R7mQ"
+      },
+      "artists": [
+        {
+          "name": "Richard Thompson",
+          "url": "https://open.spotify.com/artist/5w75MoT8FfcGOMgjgrj1cz"
+        }
+      ],
+      "duration_ms": 283493,
+      "name": "1952 Vincent Black Lightning",
+      "url": "https://open.spotify.com/track/1KueOLeUZpaNRK2InckxVT"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "Judee Sill",
+        "url": "https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf"
+      },
+      "artists": [
+        {
+          "name": "Judee Sill",
+          "url": "https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL"
+        }
+      ],
+      "duration_ms": 165480,
+      "name": "Crayon Angels",
+      "url": "https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
       },
@@ -1111,34 +1127,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Judee Sill",
-        "url": "https://open.spotify.com/album/2zaIMRTlztlfkxLoo5nPtf"
+        "name": "There But For Fortune",
+        "url": "https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe"
       },
       "artists": [
         {
-          "name": "Judee Sill",
-          "url": "https://open.spotify.com/artist/2IkwqvwEnXFlZEq6eFP1wL"
+          "name": "Phil Ochs",
+          "url": "https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo"
         }
       ],
-      "duration_ms": 165480,
-      "name": "Crayon Angels",
-      "url": "https://open.spotify.com/track/7iKnwGAMdY6LYLILGnsGhT"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "Hickory Wind",
-        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 245202,
-      "name": "Red Dirt Girl",
-      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
+      "duration_ms": 253573,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "There But For Fortune",
-        "url": "https://open.spotify.com/album/5uhYaHfiH4leO4tbdEOZJe"
+        "name": "Hickory Wind",
+        "url": "https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX"
       },
       "artists": [
         {
-          "name": "Phil Ochs",
-          "url": "https://open.spotify.com/artist/3JhQGw54MOytJP3GZ8KNPo"
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
         }
       ],
-      "duration_ms": 253573,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/0yQ9vnsC7CyPMwAQ3BlWcJ"
+      "duration_ms": 245202,
+      "name": "Red Dirt Girl",
+      "url": "https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Tea For The Tillerman (Remastered)",
+        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1543,18 +1543,18 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
-        "name": "Tea For The Tillerman (Remastered)",
-        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
       "artists": [
         {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 200173,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2026-01-26 17:08:09",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-01-26 17:08:09",
       "album": {
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2026-01-26 17:08:09",
+      "album": {
         "name": "Rubber Soul (Remastered)",
         "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 146333,
       "name": "In My Life - Remastered",
       "url": "https://open.spotify.com/track/5QqdvVeYLL1xvZ1ndUjxnO"
-    },
-    {
-      "added_at": "2026-01-26 17:08:09",
-      "album": {
-        "name": "Music For The Motion Picture Into The Wild",
-        "url": "https://open.spotify.com/album/3H2Mr0PkWDtgdgVKt6c8c6"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 321760,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/54dAM9PfABaX5vJ3aFSepP"
     }
   ],
   "unique_name": "Classic Acoustic",

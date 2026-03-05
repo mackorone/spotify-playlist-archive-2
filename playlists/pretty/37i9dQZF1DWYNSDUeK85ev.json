@@ -1,6 +1,6 @@
 {
   "description": "La playlist que prende la fiesta.",
-  "num_followers": 695662,
+  "num_followers": 695681,
   "original_name": "Joda",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Inocente",
-        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
-      },
-      "artists": [
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Inocente",
-      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Inocente",
+        "url": "https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk"
+      },
+      "artists": [
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Inocente",
+      "url": "https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -611,26 +611,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Si Me Tomo una Cerveza",
-        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Alico",
-          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
-        }
-      ],
-      "duration_ms": 182198,
-      "name": "Si Me Tomo Una Cerveza",
-      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "ROZE | DJ TAO Turreo Sessions #22",
         "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 155291,
       "name": "ROZE | DJ TAO Turreo Sessions #22",
       "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Si Me Tomo una Cerveza",
+        "url": "https://open.spotify.com/album/5TXzXK8XclNSvQccVUiCf2"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Alico",
+          "url": "https://open.spotify.com/artist/7n3wAgh1j3RRbxYzfZTQDF"
+        }
+      ],
+      "duration_ms": 182198,
+      "name": "Si Me Tomo Una Cerveza",
+      "url": "https://open.spotify.com/track/3lCbsHaN1wCxyDzcNN2x4N"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "POSEIDON",
+        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 142234,
+      "name": "POSEIDON",
+      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "Linda (Remix)",
         "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "POSEIDON",
-        "url": "https://open.spotify.com/album/0oHVJ97dewqN8vxZGNn79L"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 142234,
-      "name": "POSEIDON",
-      "url": "https://open.spotify.com/track/174aKoJaBUSw87F0erUV5y"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "El Mismo Aire",
         "url": "https://open.spotify.com/album/6LXcy5pa27VqUaqLmM6AH6"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 209414,
       "name": "El Mismo Aire",
       "url": "https://open.spotify.com/track/7onMf0QvWgRba2MRxG27yj"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Ahi Ahi",
-        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
-      },
-      "artists": [
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 176796,
-      "name": "Ahi Ahi",
-      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -891,6 +875,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
+        "name": "Ahi Ahi",
+        "url": "https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 176796,
+      "name": "Ahi Ahi",
+      "url": "https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
         "name": "No Aguanto M\u00e1s",
         "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
       },
@@ -907,6 +907,26 @@
       "duration_ms": 194690,
       "name": "No Aguanto M\u00e1s",
       "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Mala Costumbre",
+        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "duration_ms": 230728,
+      "name": "Mala Costumbre",
+      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -935,46 +955,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Mala Costumbre",
-        "url": "https://open.spotify.com/album/1YJjyV8YutIhzL4MWAB1LY"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        }
-      ],
-      "duration_ms": 230728,
-      "name": "Mala Costumbre",
-      "url": "https://open.spotify.com/track/70uX4beGHc1nQikXveOknp"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Mu\u00f1ecas",
         "url": "https://open.spotify.com/album/3N60ysBDxJsDwM5bpwqqwR"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 156318,
       "name": "Mu\u00f1ecas",
       "url": "https://open.spotify.com/track/1PAvhqefivTNdxZ4u8RT1d"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1371,18 +1371,26 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
+        "name": "Controlando el Ki",
+        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
       },
       "artists": [
         {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "CamiMusic",
+          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
         }
       ],
-      "duration_ms": 428438,
-      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
+      "duration_ms": 159101,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1411,26 +1419,18 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Controlando el Ki",
-        "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
       "artists": [
         {
-          "name": "Sayian Jimmy",
-          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
-        },
-        {
-          "name": "Nysix Music",
-          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
-        },
-        {
-          "name": "CamiMusic",
-          "url": "https://open.spotify.com/artist/21E0RTFtdVsObx00mUO98s"
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 159101,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1451,26 +1451,6 @@
       "duration_ms": 168994,
       "name": "CALLEJERO FINO | Mission 10",
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Nahuel Pennisi",
-          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
-        }
-      ],
-      "duration_ms": 217072,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1515,6 +1495,26 @@
       "duration_ms": 171428,
       "name": "La Chispa Es Una",
       "url": "https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/2QJA6xKUpxD0PoLg0SEFLj"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "duration_ms": 217072,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/2oA9whiinAF0PBKmz2X3Lx"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Te Mentir\u00eda",
-        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
-      },
-      "artists": [
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        }
-      ],
-      "duration_ms": 218431,
-      "name": "Te Mentir\u00eda",
-      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "cuatro veinte",
         "url": "https://open.spotify.com/album/2nanRnmnKHM3TsZRGeKidH"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 133894,
       "name": "cuatro veinte",
       "url": "https://open.spotify.com/track/1TpZKxGnHp37ohJRszTSiq"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Te Mentir\u00eda",
+        "url": "https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "duration_ms": 218431,
+      "name": "Te Mentir\u00eda",
+      "url": "https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1691,22 +1691,18 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
+        "name": "Una Cerveza",
+        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+      "duration_ms": 204640,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Una Cerveza",
-        "url": "https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/43bRAoXHmsKR7rt92ciFU3"
         }
       ],
-      "duration_ms": 204640,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/5PBglLuGrJFWg7Z3mRqFYi"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
-      },
-      "artists": [
-        {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Deprimida",
         "url": "https://open.spotify.com/album/0dOBkQ254idF8FLdnwkZZ3"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 217627,
       "name": "Deprimida",
       "url": "https://open.spotify.com/track/41yHlQmNvtjRpoexYcSyJp"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -2031,30 +2031,6 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "Mix Los Palmeras - (Fer Palacio Remix)",
-        "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Fer Palacio",
-          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
-        },
-        {
-          "name": "Fer Palacio Records",
-          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
-        }
-      ],
-      "duration_ms": 593909,
-      "name": "Mix Los Palmeras (Fer Palacio Remix) El Bomb\u00f3n/ El Embrujo/ Perra/ La Cola/ Ll\u00e9vame Contigo/ Qu\u00e9 Quiere La Chola/ Sabalero",
-      "url": "https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu"
-    },
-    {
-      "added_at": "2026-02-20 03:00:09",
-      "album": {
         "name": "Remake",
         "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
       },
@@ -2087,6 +2063,30 @@
       "duration_ms": 332000,
       "name": "Remake",
       "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
+    },
+    {
+      "added_at": "2026-02-20 03:00:09",
+      "album": {
+        "name": "Mix Los Palmeras - (Fer Palacio Remix)",
+        "url": "https://open.spotify.com/album/23uaZbNiaoyRW3ajEQaP4G"
+      },
+      "artists": [
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        },
+        {
+          "name": "Fer Palacio",
+          "url": "https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB"
+        },
+        {
+          "name": "Fer Palacio Records",
+          "url": "https://open.spotify.com/artist/4D6KpZSbhJCAeEdnyAXhRr"
+        }
+      ],
+      "duration_ms": 593909,
+      "name": "Mix Los Palmeras (Fer Palacio Remix) El Bomb\u00f3n/ El Embrujo/ Perra/ La Cola/ Ll\u00e9vame Contigo/ Qu\u00e9 Quiere La Chola/ Sabalero",
+      "url": "https://open.spotify.com/track/2K23Qshovdda3cgSRbHQKu"
     },
     {
       "added_at": "2026-02-20 03:00:09",
@@ -2135,30 +2135,18 @@
     {
       "added_at": "2026-02-20 03:00:09",
       "album": {
-        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
-        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+        "name": "Tus Poses",
+        "url": "https://open.spotify.com/album/5BKKUlMDOGTW0rF02Owg33"
       },
       "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
         }
       ],
-      "duration_ms": 229426,
-      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
-      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+      "duration_ms": 201200,
+      "name": "Tus Poses",
+      "url": "https://open.spotify.com/track/5g7gOcJf2CInnuZWnmEfRK"
     }
   ],
   "unique_name": "Joda",

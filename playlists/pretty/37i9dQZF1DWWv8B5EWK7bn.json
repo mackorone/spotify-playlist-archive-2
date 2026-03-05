@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 206429,
+  "num_followers": 206449,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "wanderlust",
-        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
-      },
-      "artists": [
-        {
-          "name": "naya m\u00f6",
-          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
-        }
-      ],
-      "duration_ms": 184504,
-      "name": "wanderlust",
-      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "wanderlust",
+        "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "duration_ms": 184504,
+      "name": "wanderlust",
+      "url": "https://open.spotify.com/track/4mhDe4IN1xEuDSogRvSfEA"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Modern Meta Physic",
+        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
+      },
+      "artists": [
+        {
+          "name": "Peel Dream Magazine",
+          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
+        }
+      ],
+      "duration_ms": 321509,
+      "name": "Art Today",
+      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "love is not the poison",
         "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
       },
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vallahi Yok / Kirik Cam",
-        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 277810,
-      "name": "Vallahi Yok",
-      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Modern Meta Physic",
-        "url": "https://open.spotify.com/album/6pwbRbZ8bOflLkA0lK2dFN"
-      },
-      "artists": [
-        {
-          "name": "Peel Dream Magazine",
-          "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
-        }
-      ],
-      "duration_ms": 321509,
-      "name": "Art Today",
-      "url": "https://open.spotify.com/track/1kPyw0cNzcsY97Wy5vQudq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Counter Melodies",
         "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
       },
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+        "name": "Vallahi Yok / Kirik Cam",
+        "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
+      "duration_ms": 277810,
+      "name": "Vallahi Yok",
+      "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1211,6 +1195,22 @@
       "duration_ms": 363346,
       "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1467,18 +1467,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+        "name": "Island Family (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
       },
       "artists": [
         {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+          "name": "Pictish Trail",
+          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
+        },
+        {
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+      "duration_ms": 269399,
+      "name": "Island Family - uh Remix",
+      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1499,22 +1503,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Island Family (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc"
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
       },
       "artists": [
         {
-          "name": "Pictish Trail",
-          "url": "https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F"
-        },
-        {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
         }
       ],
-      "duration_ms": 269399,
-      "name": "Island Family - uh Remix",
-      "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "For You, Please",
-        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
-      },
-      "artists": [
-        {
-          "name": "Arhkota",
-          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
-        },
-        {
-          "name": "Lubna Maher",
-          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
-        }
-      ],
-      "duration_ms": 205205,
-      "name": "For You, Please",
-      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "isomonstrosity",
         "url": "https://open.spotify.com/album/4Zu4oPIIukPnJaVSlOMBzr"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 223947,
       "name": "watch it burn",
       "url": "https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "For You, Please",
+        "url": "https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL"
+      },
+      "artists": [
+        {
+          "name": "Arhkota",
+          "url": "https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ"
+        },
+        {
+          "name": "Lubna Maher",
+          "url": "https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb"
+        }
+      ],
+      "duration_ms": 205205,
+      "name": "For You, Please",
+      "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
     },
     {
       "added_at": "2025-11-18 17:38:22",

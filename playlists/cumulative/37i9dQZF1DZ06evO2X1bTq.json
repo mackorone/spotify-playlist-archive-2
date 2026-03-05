@@ -938,7 +938,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 259200,
       "name": "Numb",
       "url": "https://open.spotify.com/track/14QtCWJaRgMj6dkUs6dkcT"
@@ -1162,6 +1162,24 @@
       "duration_ms": 292845,
       "name": "Red Hill Mining Town",
       "url": "https://open.spotify.com/track/2G4F5Fc0DUFkkODwhWnbmt"
+    },
+    {
+      "album": {
+        "name": "The Joshua Tree",
+        "url": "https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292866,
+      "name": "Red Hill Mining Town - Remastered 2007",
+      "url": "https://open.spotify.com/track/4gE5Z3sOcWYyR0SezjvAj5"
     },
     {
       "album": {

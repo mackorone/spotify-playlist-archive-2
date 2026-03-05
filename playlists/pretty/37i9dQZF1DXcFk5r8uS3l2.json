@@ -1,13 +1,29 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Tedeschi Trucks Band",
-  "num_followers": 1067267,
+  "num_followers": 1067281,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACqMgH1ir6/pN7C2gIIf3XxSdvCP",
+  "snapshot_id": "AAAAAIj3HH5+5Z+ID3oQDbIof4G39/Rq",
   "tracks": [
+    {
+      "added_at": "2026-03-04 15:51:29",
+      "album": {
+        "name": "Who Am I",
+        "url": "https://open.spotify.com/album/46k1LmapSWGKQWalvlFPNQ"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 296380,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/6DaUU43SjEQuCk9d67bxPr"
+    },
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
@@ -71,22 +87,6 @@
       "duration_ms": 228399,
       "name": "Pour Me Out",
       "url": "https://open.spotify.com/track/4J6jZp2wdRIprg7Ya0QBLM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "I Got You",
-        "url": "https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 260311,
-      "name": "I Got You",
-      "url": "https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Another Man's Tears",
-        "url": "https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6"
-      },
-      "artists": [
-        {
-          "name": "Jac Ross",
-          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
-        }
-      ],
-      "duration_ms": 189176,
-      "name": "Another Man's Tears",
-      "url": "https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Act I",
         "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
       },
@@ -227,6 +211,38 @@
       "duration_ms": 242174,
       "name": "Southern Man",
       "url": "https://open.spotify.com/track/2kcnL45FePWWwqSifGzxMm"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Another Man's Tears",
+        "url": "https://open.spotify.com/album/4E7gmm3XCuSclr43xEHcK6"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Another Man's Tears",
+      "url": "https://open.spotify.com/track/5UkiqdWIGSR5nzF6jwzseG"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Blacksnake Blues",
+        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 674000,
+      "name": "Blacksnake Blues",
+      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -251,22 +267,6 @@
       "duration_ms": 303765,
       "name": "Better Than Ever [Feat. Wendy Moten]",
       "url": "https://open.spotify.com/track/3xNy8TMHYO6bhrfoHYASuO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Blacksnake Blues",
-        "url": "https://open.spotify.com/album/0x9kL2LgGGnwUVm6ZesWCz"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 674000,
-      "name": "Blacksnake Blues",
-      "url": "https://open.spotify.com/track/6FttMYQiHyM0lVZafG3eXO"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR"
     },
     {
+      "added_at": "2026-03-04 15:51:29",
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/3HWmAVWwH6PGfEdePj3ik9"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 221239,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/6O3eodXH5dYjU1uhFW7v3F"
+    },
+    {
       "added_at": "2026-02-13 05:00:37",
       "album": {
         "name": "Roll Mega",
@@ -399,6 +419,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Greyhound Bus Blues",
         "url": "https://open.spotify.com/album/5ZUDaN0h2tX01R0EYd9nOv"
       },
@@ -415,22 +451,6 @@
       "duration_ms": 152824,
       "name": "Greyhound Bus Blues",
       "url": "https://open.spotify.com/track/3kFo9yQT1AcBMUQjwExLd2"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -627,6 +647,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Fancy Drones (Fracture Me)",
+      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Let the Music Get Down in Your Soul",
         "url": "https://open.spotify.com/album/1rozu7rLvTKozl701ahTly"
       },
@@ -643,18 +679,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+        "name": "Wine On Venus",
+        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
       },
       "artists": [
         {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+          "name": "Grace Bowers & The Hodge Podge",
+          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Fancy Drones (Fracture Me)",
-      "url": "https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj"
+      "duration_ms": 146360,
+      "name": "Madame President",
+      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -675,22 +711,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 347674,
-      "name": "Shoot From The Hip",
-      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Goodbye's Kickin' In",
         "url": "https://open.spotify.com/album/0aoHbXtMcuzHSOaukOaT9G"
       },
@@ -707,18 +727,18 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Wine On Venus",
-        "url": "https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB"
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/5E70e2MBXgU2aG9yPUHMfS"
       },
       "artists": [
         {
-          "name": "Grace Bowers & The Hodge Podge",
-          "url": "https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Madame President",
-      "url": "https://open.spotify.com/track/43VObA0RahYQ9dP9Sr3IRP"
+      "duration_ms": 347674,
+      "name": "Shoot From The Hip",
+      "url": "https://open.spotify.com/track/0IqQ6QaM4ALeR3mmRgJy07"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -839,6 +859,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Blues Worse Than I Ever Had",
+        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Blues Worse Than I Ever Had",
+      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "What's Not To Love?",
         "url": "https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2"
       },
@@ -855,22 +891,6 @@
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Blues Worse Than I Ever Had",
-        "url": "https://open.spotify.com/album/1nmEVJtFdtgi57jDtmLBUg"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Blues Worse Than I Ever Had",
-      "url": "https://open.spotify.com/track/5RXTvloOBm9W714kbJU0gQ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -959,22 +979,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Plus One",
-        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
-      },
-      "artists": [
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Love Like Whiskey",
-      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -987,6 +991,22 @@
       "duration_ms": 236219,
       "name": "Oh Betty",
       "url": "https://open.spotify.com/track/1caexDoRB92w8ph8YLYQvu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Plus One",
+        "url": "https://open.spotify.com/album/5I11qjCOCm0tLcBwX82sMj"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Love Like Whiskey",
+      "url": "https://open.spotify.com/track/6opRiNYlpcAzBN5fYlzWfX"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1039,22 +1059,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Liberation",
-        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
-      },
-      "artists": [
-        {
-          "name": "ZZ Ward",
-          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
-        }
-      ],
-      "duration_ms": 170399,
-      "name": "Liberation",
-      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Reconcile",
         "url": "https://open.spotify.com/album/2gybW4tM9V6oUvYSw6YHV4"
       },
@@ -1071,6 +1075,22 @@
       "duration_ms": 219453,
       "name": "Reconcile",
       "url": "https://open.spotify.com/track/40KisYYaB1CQZ32qDkdo2L"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Liberation",
+        "url": "https://open.spotify.com/album/3jxanQOwCwfBi8lSY8ep26"
+      },
+      "artists": [
+        {
+          "name": "ZZ Ward",
+          "url": "https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi"
+        }
+      ],
+      "duration_ms": 170399,
+      "name": "Liberation",
+      "url": "https://open.spotify.com/track/7edtRdOTDQuJudfReugLJw"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1123,22 +1143,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Love On My Brain",
-        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 273121,
-      "name": "Love On My Brain",
-      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -1159,6 +1163,22 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
         "name": "Love in the Lead",
         "url": "https://open.spotify.com/album/3nrir3zbX5CRkjerljLtBN"
       },
@@ -1175,22 +1195,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Time is a Thief (Deluxe)",
-        "url": "https://open.spotify.com/album/46upZj2t2hft857WHMp3fQ"
-      },
-      "artists": [
-        {
-          "name": "Marc Broussard",
-          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "You Deserve More - Magic Bus Sessions",
-      "url": "https://open.spotify.com/track/0S8Rr1eEh348hp2CYLuTV9"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
       },
@@ -1203,6 +1207,22 @@
       "duration_ms": 278457,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Time is a Thief (Deluxe)",
+        "url": "https://open.spotify.com/album/46upZj2t2hft857WHMp3fQ"
+      },
+      "artists": [
+        {
+          "name": "Marc Broussard",
+          "url": "https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "You Deserve More - Magic Bus Sessions",
+      "url": "https://open.spotify.com/track/0S8Rr1eEh348hp2CYLuTV9"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1303,22 +1323,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "All The Things I Said",
-        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 287986,
-      "name": "All The Things I Said",
-      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Let's Get Loud",
         "url": "https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n"
       },
@@ -1331,6 +1335,22 @@
       "duration_ms": 288256,
       "name": "Muddy Water",
       "url": "https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "All The Things I Said",
+        "url": "https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 287986,
+      "name": "All The Things I Said",
+      "url": "https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1355,22 +1375,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Leaning On The Altar",
-        "url": "https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI"
-      },
-      "artists": [
-        {
-          "name": "Phillip-Michael Scales",
-          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
-        }
-      ],
-      "duration_ms": 199185,
-      "name": "Leaning On The Altar",
-      "url": "https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Run Out of Love (with Lisa Loeb)",
         "url": "https://open.spotify.com/album/6QKfjajavauKgHu9faeZNJ"
       },
@@ -1387,6 +1391,22 @@
       "duration_ms": 277026,
       "name": "Run Out of Love - with Lisa Loeb",
       "url": "https://open.spotify.com/track/34JpLfR2gIJtsq93RnbRCu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Leaning On The Altar",
+        "url": "https://open.spotify.com/album/7m4eR6wscTSsBwHuUvvBmI"
+      },
+      "artists": [
+        {
+          "name": "Phillip-Michael Scales",
+          "url": "https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ"
+        }
+      ],
+      "duration_ms": 199185,
+      "name": "Leaning On The Altar",
+      "url": "https://open.spotify.com/track/7MoKznrE12IEinL9CtE8V3"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1439,22 +1459,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 220970,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Flang Dang",
         "url": "https://open.spotify.com/album/4cQSa2VndbpHShN7e2VC36"
       },
@@ -1467,6 +1471,22 @@
       "duration_ms": 218746,
       "name": "99 Ways",
       "url": "https://open.spotify.com/track/5eF2CfvURFWBXjxTP9prbc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 220970,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1499,6 +1519,22 @@
       "duration_ms": 207931,
       "name": "Seasons Change",
       "url": "https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "The Circle Session, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1539,22 +1575,6 @@
     {
       "added_at": "2026-02-13 05:00:37",
       "album": {
-        "name": "The Circle Session, 2023",
-        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 216838,
-      "name": "Oceans Of Emotions - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -1567,6 +1587,22 @@
       "duration_ms": 247013,
       "name": "Hey! You Know You Wanna!",
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2026-02-13 05:00:37",
+      "album": {
+        "name": "Bad Spell (Acoustic)",
+        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 194970,
+      "name": "Bad Spell - Acoustic",
+      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1591,22 +1627,6 @@
       "duration_ms": 185306,
       "name": "Not Bad",
       "url": "https://open.spotify.com/track/2V6eMMkl8FvFfqztA37UmC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Bad Spell (Acoustic)",
-        "url": "https://open.spotify.com/album/5ZyvNeLITovl8Vuk6vKNxX"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 194970,
-      "name": "Bad Spell - Acoustic",
-      "url": "https://open.spotify.com/track/3LUs0x2Cq9RZH2Luvnn0bx"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -1699,26 +1719,6 @@
       "duration_ms": 143606,
       "name": "The Rain Done Fell on Me, Pt. 1",
       "url": "https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7"
-    },
-    {
-      "added_at": "2026-02-13 05:00:37",
-      "album": {
-        "name": "Daughter, Daughter",
-        "url": "https://open.spotify.com/album/0OaUiE3t8fSKBr0yJva0vw"
-      },
-      "artists": [
-        {
-          "name": "Cris Jacobs",
-          "url": "https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "Daughter, Daughter",
-      "url": "https://open.spotify.com/track/1GLsKI9ZvoahRB8UTsKBxC"
     }
   ],
   "unique_name": "Blues Roots",

@@ -1,6 +1,6 @@
 {
   "description": "\u0e1f\u0e31\u0e07\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48\u0e01\u0e31\u0e19. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: INC MATAWEE. Artwork: Isu Kim",
-  "num_followers": 12118,
+  "num_followers": 12119,
   "original_name": "Fresh Finds Thailand",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
+        "name": "\u0e09\u0e31\u0e19\u0e04\u0e07\u0e40\u0e01\u0e25\u0e35\u0e22\u0e14\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b",
+        "url": "https://open.spotify.com/album/3zoG07vJeEHMowMwUiK6eZ"
+      },
+      "artists": [
+        {
+          "name": "Romancerr",
+          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
+        }
+      ],
+      "duration_ms": 285428,
+      "name": "\u0e09\u0e31\u0e19\u0e04\u0e07\u0e40\u0e01\u0e25\u0e35\u0e22\u0e14\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b",
+      "url": "https://open.spotify.com/track/1VFEytfGYF19H6On6WIPew"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
         "name": "\u0e23\u0e30\u0e22\u0e30\u0e2b\u0e31\u0e27\u0e43\u0e08 (Near U)",
         "url": "https://open.spotify.com/album/1vB0weMenTP8P7ikHJqUa0"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 306240,
       "name": "\u0e02\u0e22\u0e32\u0e14",
       "url": "https://open.spotify.com/track/11wWA2snYlWvbso0l2DHDN"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e09\u0e31\u0e19\u0e04\u0e07\u0e40\u0e01\u0e25\u0e35\u0e22\u0e14\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b",
-        "url": "https://open.spotify.com/album/3zoG07vJeEHMowMwUiK6eZ"
-      },
-      "artists": [
-        {
-          "name": "Romancerr",
-          "url": "https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X"
-        }
-      ],
-      "duration_ms": 285428,
-      "name": "\u0e09\u0e31\u0e19\u0e04\u0e07\u0e40\u0e01\u0e25\u0e35\u0e22\u0e14\u0e14\u0e32\u0e27\u0e17\u0e35\u0e48\u0e40\u0e2d\u0e32\u0e40\u0e18\u0e2d\u0e44\u0e1b",
-      "url": "https://open.spotify.com/track/1VFEytfGYF19H6On6WIPew"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -171,22 +171,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
-        "url": "https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX"
-      },
-      "artists": [
-        {
-          "name": "Baramee",
-          "url": "https://open.spotify.com/artist/09hKKwE42dwRfbWcbz0OH4"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
-      "url": "https://open.spotify.com/track/50NUvhWIm12zI81GLjboWo"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
         "url": "https://open.spotify.com/album/5vaYFcgmYuiwo8n6kQ5srY"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 218821,
       "name": "\u0e08\u0e30\u0e44\u0e21\u0e48\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e40\u0e18\u0e2d\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Childish)",
       "url": "https://open.spotify.com/track/66GaGy5M98QcerWdWBDrZF"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
+        "url": "https://open.spotify.com/album/2gnmLixPZNUNl2nkRr7mNX"
+      },
+      "artists": [
+        {
+          "name": "Baramee",
+          "url": "https://open.spotify.com/artist/09hKKwE42dwRfbWcbz0OH4"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e40\u0e01\u0e34\u0e19\u0e01\u0e0f\u0e2b\u0e21\u0e32\u0e22\u0e01\u0e33\u0e2b\u0e19\u0e14",
+      "url": "https://open.spotify.com/track/50NUvhWIm12zI81GLjboWo"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
-        "url": "https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD"
-      },
-      "artists": [
-        {
-          "name": "Rocket Mellow",
-          "url": "https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
-      "url": "https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "4SEASONS",
         "url": "https://open.spotify.com/album/49IORLW4Lj2BCQXaCpKfDQ"
       },
@@ -283,18 +267,34 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-        "url": "https://open.spotify.com/album/5hh7QUvhveqKRp0Pxgja9I"
+        "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
+        "url": "https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD"
       },
       "artists": [
         {
-          "name": "Arm Sarawut",
-          "url": "https://open.spotify.com/artist/5pLHBTehBn3LVAYaHMdeTs"
+          "name": "Rocket Mellow",
+          "url": "https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW"
         }
       ],
-      "duration_ms": 200025,
-      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
-      "url": "https://open.spotify.com/track/322V4MGbCbcpCN0HZOUthS"
+      "duration_ms": 276000,
+      "name": "\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e1e\u0e23\u0e32\u0e30 (Sorrow)",
+      "url": "https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Losing Myself)",
+        "url": "https://open.spotify.com/album/3uRGHcjHTK6cpIcTgzBZSc"
+      },
+      "artists": [
+        {
+          "name": "THREETIME",
+          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+        }
+      ],
+      "duration_ms": 184444,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 - Losing Myself",
+      "url": "https://open.spotify.com/track/1NIxC8dG4p2Vz09t1BTgJB"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -339,34 +339,18 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 (Losing Myself)",
-        "url": "https://open.spotify.com/album/3uRGHcjHTK6cpIcTgzBZSc"
+        "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+        "url": "https://open.spotify.com/album/5hh7QUvhveqKRp0Pxgja9I"
       },
       "artists": [
         {
-          "name": "THREETIME",
-          "url": "https://open.spotify.com/artist/7v2soIsagtyu1JGioFHVcV"
+          "name": "Arm Sarawut",
+          "url": "https://open.spotify.com/artist/5pLHBTehBn3LVAYaHMdeTs"
         }
       ],
-      "duration_ms": 184444,
-      "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e15\u0e31\u0e27\u0e40\u0e2d\u0e07 - Losing Myself",
-      "url": "https://open.spotify.com/track/1NIxC8dG4p2Vz09t1BTgJB"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
-        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
-      },
-      "artists": [
-        {
-          "name": "SWANOVFIELD",
-          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
-        }
-      ],
-      "duration_ms": 236691,
-      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
-      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
+      "duration_ms": 200025,
+      "name": "\u0e0a\u0e48\u0e27\u0e22\u0e40\u0e25\u0e34\u0e01\u0e44\u0e14\u0e49\u0e44\u0e2b\u0e21",
+      "url": "https://open.spotify.com/track/322V4MGbCbcpCN0HZOUthS"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -383,6 +367,22 @@
       "duration_ms": 237333,
       "name": "URGIRL",
       "url": "https://open.spotify.com/track/2MnWbwCesAl8FQibKPl4gA"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+        "url": "https://open.spotify.com/album/69ydaTMWuuO7Vngzszjugb"
+      },
+      "artists": [
+        {
+          "name": "SWANOVFIELD",
+          "url": "https://open.spotify.com/artist/3DOyQq6QzQaXTP6f2LP3lc"
+        }
+      ],
+      "duration_ms": 236691,
+      "name": "\u0e08\u0e32\u0e01\u0e01\u0e31\u0e19\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08 (Anhedonia)",
+      "url": "https://open.spotify.com/track/04T2wqBL7TxrunD5fpgOK0"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
-        "url": "https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw"
-      },
-      "artists": [
-        {
-          "name": "PAIRY",
-          "url": "https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep"
-        }
-      ],
-      "duration_ms": 148474,
-      "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
-      "url": "https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
         "url": "https://open.spotify.com/album/1rz60S5bk1lwu02hjL6zpu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192989,
       "name": "\u0e40\u0e18\u0e2d\u0e0a\u0e48\u0e27\u0e22\u0e21\u0e2d\u0e07\u0e1a\u0e48\u0e2d\u0e22\u0e46 (capture)",
       "url": "https://open.spotify.com/track/0xEaxZdDAoYO4ckyTfh1S6"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
+        "url": "https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw"
+      },
+      "artists": [
+        {
+          "name": "PAIRY",
+          "url": "https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep"
+        }
+      ],
+      "duration_ms": 148474,
+      "name": "\u0e01\u0e47\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e22\u0e43\u0e08",
+      "url": "https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd"
     },
     {
       "added_at": "2026-02-20 08:15:54",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-02-20 08:15:54",
       "album": {
-        "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
-        "url": "https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET"
-      },
-      "artists": [
-        {
-          "name": "Aesia",
-          "url": "https://open.spotify.com/artist/3gwJkZwWf9dbTts5c2OhwN"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
-      "url": "https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH"
-    },
-    {
-      "added_at": "2026-02-20 08:15:54",
-      "album": {
         "name": "Growing Wings",
         "url": "https://open.spotify.com/album/0Jyiu1lkUMjaSpkQbFfG2r"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 204356,
       "name": "\u0e01\u0e38\u0e0d\u0e41\u0e08\u0e2b\u0e49\u0e2d\u0e07\u0e0b\u0e48\u0e2d\u0e19\u0e44\u0e27\u0e49\u0e17\u0e35\u0e48\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/7vKrQvhRIWZx6wAHjehLOB"
+    },
+    {
+      "added_at": "2026-02-20 08:15:54",
+      "album": {
+        "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
+        "url": "https://open.spotify.com/album/6uNPzZpnVyCxdLOWaJVRET"
+      },
+      "artists": [
+        {
+          "name": "Aesia",
+          "url": "https://open.spotify.com/artist/3gwJkZwWf9dbTts5c2OhwN"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "\u0e23\u0e39\u0e49\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32",
+      "url": "https://open.spotify.com/track/6C2VLOtIeJcblw0bKBhVVH"
     },
     {
       "added_at": "2026-02-20 08:15:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,778 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,793 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 2 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
 | 3 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 4 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 |
-| 5 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 |
-| 6 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
+| 5 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
+| 6 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 |
 | 7 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
 | 8 | [Mighty Mighty Man](https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Boogie At Midnight](https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC) | 2:23 |
 | 9 | [Wild Wild Young Men](https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:33 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 27 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
 | 28 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
 | 29 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
-| 30 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
-| 31 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
+| 30 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
+| 31 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
 | 32 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
 | 33 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
 | 34 | [Soft](https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection..\. Plus](https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl) | 2:33 |

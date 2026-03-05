@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 
 > lo alt, raro y cool\. Gorillaz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,978 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,021 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0Zsena4JFh.md) - [plain]
 | 30 | [Delete Ya](https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Delete Ya](https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK) | 3:23 |
 | 31 | [Let's Do It Again!](https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Let's Do It Again!](https://open.spotify.com/album/5pZ5WWoM7SbZhxMKPKPSce) | 4:31 |
 | 32 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 33 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 34 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 |
-| 35 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
+| 33 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
+| 34 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
+| 35 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 |
 | 36 | [Where's My Love \- with Carla](https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Where's My Love \(with Carla\)](https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu) | 4:03 |
 | 37 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 |
 | 38 | [Billie Toppy](https://open.spotify.com/track/5jyj2XKWILHQxDoz59ddCT) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Billie Toppy](https://open.spotify.com/album/0FpoXXhnwamDJbLSWLRgvN) | 3:15 |

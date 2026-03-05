@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 169302,
+  "num_followers": 169353,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABa6M9RCVs+hyZ+aHgyPksf",
+  "snapshot_id": "aaYkgAAAAAC19wQmi3ndPXjI+01X9CBT",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 172943,
-      "name": "East Liberty",
-      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PARTYNEXTDOOR 3 (P3)",
         "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 175211,
       "name": "Only U",
       "url": "https://open.spotify.com/track/3Ox7FJrgNNBfctIGPgj40s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172943,
+      "name": "East Liberty",
+      "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
     },
     {
       "added_at": null,

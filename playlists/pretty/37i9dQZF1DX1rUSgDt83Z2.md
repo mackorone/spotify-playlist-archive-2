@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,130 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,141 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 11 | [We Leven Nu](https://open.spotify.com/track/6iwZINFNsfDcfKZFarAsTn) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [We Leven Nu](https://open.spotify.com/album/5C3EV0dEs7nycg5r0zTxhS) | 3:10 |
 | 12 | [Patronen](https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 2:53 |
 | 13 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 |
-| 14 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
-| 15 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
+| 14 | [Mijn Liefste](https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Mijn Liefste](https://open.spotify.com/album/71nFE5PVazkBHpII8Z08zo) | 3:10 |
+| 15 | [Zo Stil](https://open.spotify.com/track/08HQVzUkFF7QjUs9FmO4VH) | [Jan Dulles](https://open.spotify.com/artist/0BAXn1g8tr7qMwiVuOwEAw), [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2025 \(KiKa aflevering\)](https://open.spotify.com/album/4PE10sIWGmeGCGyoFCseQP) | 3:54 |
 | 16 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 |
 | 17 | [Bang Dat Ik Je Stem Vergeet](https://open.spotify.com/track/1LmGCG8AOvCsVvjOPbiY54) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:54 |
 | 18 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |

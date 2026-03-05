@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 66437,
+  "num_followers": 66526,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
@@ -339,18 +339,22 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Sue\u00f1o Y Realidad",
-        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
       },
       "artists": [
         {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
         }
       ],
-      "duration_ms": 177040,
-      "name": "Piensa En M\u00ed",
-      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -371,22 +375,18 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+        "name": "Sue\u00f1o Y Realidad",
+        "url": "https://open.spotify.com/album/3jVJ1fTyUxYdpzb8Pt9V6U"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
+      "duration_ms": 177040,
+      "name": "Piensa En M\u00ed",
+      "url": "https://open.spotify.com/track/1xKP7GVLY33i5jmx1bB1Kk"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "CORAZ\u00d3N VAC\u00cdO",
-        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 160535,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
-    },
-    {
-      "added_at": "2024-06-25 16:31:02",
-      "album": {
         "name": "\u00bfD\u00f3nde Nos Quedamos?",
         "url": "https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 246387,
       "name": "Perderme Contigo",
       "url": "https://open.spotify.com/track/7mHFWWfVlhqGjeIQ5qt9i2"
+    },
+    {
+      "added_at": "2024-06-25 16:31:02",
+      "album": {
+        "name": "CORAZ\u00d3N VAC\u00cdO",
+        "url": "https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 160535,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh"
     },
     {
       "added_at": "2024-06-25 16:31:02",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-06-25 16:31:02",
       "album": {
-        "name": "Cheo",
-        "url": "https://open.spotify.com/album/7dJT6ZBo7VxF41pw5tSrli"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/2bTu4nn4DgRJqXAINqbrQd"
       },
       "artists": [
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
         }
       ],
-      "duration_ms": 253253,
-      "name": "Anacaona",
-      "url": "https://open.spotify.com/track/0NP1zQ8Oqlz43Q2QEjmghg"
+      "duration_ms": 281933,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/2arXuCWrLfgcELqYogQDbt"
     }
   ],
   "unique_name": "\u00a1A Limpiar con Ritmo!",

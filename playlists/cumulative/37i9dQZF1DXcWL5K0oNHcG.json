@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-26",
-  "description": "Fresh jazz by independent artists every Wednesday. Cover: VLADKO. Artwork: Joy Yamusangie.",
+  "description": "Fresh jazz by independent artists every Wednesday. Cover: Yetii. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
   "tracks": [
     {
@@ -1068,6 +1068,28 @@
       "duration_ms": 433773,
       "name": "Action Potential",
       "url": "https://open.spotify.com/track/5HvvqVwjcv1aIGpU2vvJES"
+    },
+    {
+      "album": {
+        "name": "Afar",
+        "url": "https://open.spotify.com/album/7nDgsmLy4P4lDCALxLF052"
+      },
+      "artists": [
+        {
+          "name": "Yetii",
+          "url": "https://open.spotify.com/artist/7mi5mm8MFU7ialhdbwzss6"
+        },
+        {
+          "name": "Alex Veitch",
+          "url": "https://open.spotify.com/artist/47l2FPOS83ZogFrkEVXGLr"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292933,
+      "name": "Afar",
+      "url": "https://open.spotify.com/track/78UoK9UNGaj7ReYDSqnk42"
     },
     {
       "album": {
@@ -3998,7 +4020,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 277445,
       "name": "Boundaries",
       "url": "https://open.spotify.com/track/4iDRc7gJ4Uvhrn5r0sMHKy"
@@ -7611,6 +7633,24 @@
     },
     {
       "album": {
+        "name": "I Grew Up",
+        "url": "https://open.spotify.com/album/7FWWEsRF7qK9y80dvwC8mo"
+      },
+      "artists": [
+        {
+          "name": "Camilla Vaitaitis",
+          "url": "https://open.spotify.com/artist/4bI9KINBmBuAplY6uM5OVc"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83333,
+      "name": "Doe",
+      "url": "https://open.spotify.com/track/3D0joMWtdQqhy3h15cLFkQ"
+    },
+    {
+      "album": {
         "name": "Dog Dad",
         "url": "https://open.spotify.com/album/1NCtxst9iKyHJhz8AaXG9f"
       },
@@ -9676,7 +9716,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 368872,
       "name": "Fickle",
       "url": "https://open.spotify.com/track/5AhPkv3zSizBpobL7rrUoS"
@@ -11464,7 +11504,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 235000,
       "name": "Good Friends Call Me E",
       "url": "https://open.spotify.com/track/0NH6yKue0LAEc0MitqOmwx"
@@ -16022,6 +16062,28 @@
       "duration_ms": 368015,
       "name": "Life Express",
       "url": "https://open.spotify.com/track/3CLssHFLxEnYgYWWR0LRlC"
+    },
+    {
+      "album": {
+        "name": "Life Sketching #06",
+        "url": "https://open.spotify.com/album/20lyx6pMB2y3Laa75SWtgV"
+      },
+      "artists": [
+        {
+          "name": "Dani de Mor\u00f3n",
+          "url": "https://open.spotify.com/artist/5q5hdofWygpLCkmorAyttW"
+        },
+        {
+          "name": "Sergio Fargas",
+          "url": "https://open.spotify.com/artist/0rbe1Kvx8fCsYh57Ggxulz"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295335,
+      "name": "Life Sketching #06",
+      "url": "https://open.spotify.com/track/2Be8SkcUTaXE8Rchq8QmqD"
     },
     {
       "album": {
@@ -28285,6 +28347,24 @@
     },
     {
       "album": {
+        "name": "The Leopard",
+        "url": "https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310976,
+      "name": "The Leopard",
+      "url": "https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR"
+    },
+    {
+      "album": {
         "name": "Molasses",
         "url": "https://open.spotify.com/album/6pVAp4fmmmMmsLisAgW5Yb"
       },
@@ -28898,7 +28978,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 403747,
       "name": "The Toro",
       "url": "https://open.spotify.com/track/5N2KR3R4mvvAst6J71Hv8S"

@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 75 | [I Just Do!](https://open.spotify.com/track/3bcLNMckHtoZ3Gds38DSlR) | [girlpuppy](https://open.spotify.com/artist/2dV0D4uKMB4c8VhYHzt360) | [Sweetness](https://open.spotify.com/album/00CNmHlBN88lF6nc7NYPaF) | 3:09 |
 | 76 | [You're So Impatient](https://open.spotify.com/track/2kqc0DW78CyMemrXnK0PQA) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [The Night the Zombies Came](https://open.spotify.com/album/2kL3JicKZpvBfIeDeDPDUX) | 2:08 |
 | 77 | [A Cowboy Song](https://open.spotify.com/track/3Hdku7zeAZSuEFysqkZpLk) | [Kean Kavanagh](https://open.spotify.com/artist/7bSUVGOUQn87z2HRy0Ha3B) | [A Cowboy Song](https://open.spotify.com/album/1IgP1X3hrG6GenTiZCuWc1) | 3:34 |
-| 78 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
-| 79 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
+| 78 | [Vain](https://open.spotify.com/track/6gmLt2fSHmI04GFp3dcBOQ) | [Basht.](https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE) | [Vain](https://open.spotify.com/album/7K3ynbeFFjIy39mj9idlQE) | 2:36 |
+| 79 | [Sinking Feeling](https://open.spotify.com/track/3lTj6VhUedrKhpCsw5Rnbb) | [LEAP](https://open.spotify.com/artist/538iX6YCTybcgzsrjDTrFi) | [Sinking Feeling](https://open.spotify.com/album/1BfIqHOVWRBcqzUUc4jIey) | 3:47 |
 | 80 | [Vespers](https://open.spotify.com/track/0dVe5DhGeNN2TUEtzQp63W) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/2I25MrGGWAIRtjjcZcf6xP) | 3:25 |
 
 Snapshot ID: `AAAAAONZlfRIMkiurdKOgs/9GFBilNF5`

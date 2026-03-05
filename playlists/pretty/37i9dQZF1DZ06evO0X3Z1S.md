@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 
 > This is Jonas Blue\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,954 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,953 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 37 | [Naked](https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Naked](https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV) | 3:30 |
 | 38 | [Mistakes](https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Mistakes](https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT) | 3:06 |
 | 39 | [Don't Give Up \- Jonas Blue Remix](https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Don't Give Up \(Jonas Blue Remix\)](https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA) | 3:21 |
-| 40 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 |
-| 41 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 |
+| 40 | [Fast Car \- Club Mix](https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car \(Remixes\)](https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F) | 5:30 |
+| 41 | [All Night Long](https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [All Night Long](https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ) | 3:26 |
 | 42 | [Fly Away \- Jonas Blue Remix](https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Fly Away \(Jonas Blue Remix\)](https://open.spotify.com/album/7ht7IVG2XY9izYyaXvIwze) | 3:12 |
 | 43 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
 | 44 | [I Wanna Dance](https://open.spotify.com/track/1CW7tYkpJ95c7bQkRf6CcK) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Wanna Dance](https://open.spotify.com/album/3niF8tyjfJw8pmfc6VYKGa) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 49 | [Now or Never](https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:05 |
 | 50 | [Billboard](https://open.spotify.com/track/2juIjirI5mIXuActwbOTaX) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Tifa Chen](https://open.spotify.com/artist/4wFuWGEWjHjTmZOtBp8cnW) | [Billboard](https://open.spotify.com/album/2yoJj4dEy7GPGX7F63xJWr) | 2:52 |
 
-Snapshot ID: `aaTTAAAAAABgIo8PQOxqHhsEO5F1mCem`
+Snapshot ID: `aaYkgAAAAAB4RTZB+dvzgiALoD9HoKW+`

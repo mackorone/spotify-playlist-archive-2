@@ -1,6 +1,6 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Bikini Kill",
-  "num_followers": 205270,
+  "num_followers": 205268,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Sistahs",
-        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 176617,
-      "name": "Fall Asleep",
-      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Mackerel's Funky Mission",
         "url": "https://open.spotify.com/album/1PZHj7UZQmyzbtIjGFeNxV"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 224440,
       "name": "Mackerel's Funky Mission",
       "url": "https://open.spotify.com/track/40vNItT9RcL9FOD9M2p6wb"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Sistahs",
+        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 176617,
+      "name": "Fall Asleep",
+      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Get Awkward",
+        "url": "https://open.spotify.com/album/19ROncpBALfjlbLdXSLSzr"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Becky",
+      "url": "https://open.spotify.com/track/2JXWrZnKf0PMklRuJapQgT"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Steady Damage",
         "url": "https://open.spotify.com/album/5HUQeqljtaqllg6WYiwISk"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 196947,
       "name": "Famous",
       "url": "https://open.spotify.com/track/1tvpEck0Jz4LPRr4sWAgWe"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Impeach My Bush",
-        "url": "https://open.spotify.com/album/7xCGkKOjMAcKqUE5ggdntD"
-      },
-      "artists": [
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Boys Wanna Be Her",
-      "url": "https://open.spotify.com/track/47PLgd0njLIMcyLuQOOlEn"
     }
   ],
   "unique_name": "Queercore",

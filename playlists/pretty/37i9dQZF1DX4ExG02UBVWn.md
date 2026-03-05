@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,651 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,654 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 95 | [Intertwined](https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5), [PEACH.](https://open.spotify.com/artist/5HyiFvRV3bQjLAdOyfTvt6) | [Intertwined](https://open.spotify.com/album/2VK00iADYTVoLVqf2GxFVt) | 5:52 |
 | 96 | [iwtwbaigwap](https://open.spotify.com/track/3lUc5HxGOxHH4muIZSeOp6) | [Leo Chavez](https://open.spotify.com/artist/6npO5NDb1R8inkVKOF67Xv) | [iwtwbaigwap](https://open.spotify.com/album/01qWaldD9EFvYQ2s8sqomL) | 3:55 |
 | 97 | [Took My Heart](https://open.spotify.com/track/2vvvuTHoXC7NssfRG2RQXI) | [00ab](https://open.spotify.com/artist/0LWbBMbzVxCHLe3tebI4Yo) | [Took My Heart](https://open.spotify.com/album/4uhayZ7yExOD4Cq3QZ1yi8) | 2:52 |
-| 98 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 |
-| 99 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
+| 98 | [Extinction](https://open.spotify.com/track/0Y7VFF8nJCvHegOTNRmQ8r) | [Sofia Grant](https://open.spotify.com/artist/00k1APrXylDwP3HInytxvI) | [Extinction](https://open.spotify.com/album/74yG8sHvJqr50AQaVW2l04) | 4:51 |
+| 99 | [Out of Style](https://open.spotify.com/track/1yYHHDEniESPk9iNFr5nyR) | [Holly Munro](https://open.spotify.com/artist/2n9jieS7R5I7zRVKoYTziq) | [Out of Style](https://open.spotify.com/album/4GWriL3zDCxyzpD2ZIpBjC) | 2:44 |
 | 100 | [Helicopter](https://open.spotify.com/track/5u3NtpxaJ1OUxlM3dsMDOK) | [Ruby Francis](https://open.spotify.com/artist/7fnUWKPwdb4svzQ7xQF83U) | [Helicopter](https://open.spotify.com/album/797Abj1cvYKD5cgdArm4CX) | 2:42 |
 
 Snapshot ID: `AAAAABuR/nhS7kSCkN2lnBC5NkzGKoyO`

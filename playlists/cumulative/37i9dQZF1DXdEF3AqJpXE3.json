@@ -5120,7 +5120,7 @@
       ],
       "date_added": "2025-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 123517,
       "name": "like JENNIE",
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
@@ -6102,7 +6102,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 196275,
       "name": "my forever",
       "url": "https://open.spotify.com/track/4dixbLTmSVdkkex9IZmrs2"
@@ -7444,6 +7444,24 @@
       "duration_ms": 138213,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "album": {
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
       "album": {
@@ -10586,7 +10604,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"
@@ -10907,6 +10925,24 @@
     },
     {
       "album": {
+        "name": "\u55ae\u7a0b\u7968",
+        "url": "https://open.spotify.com/album/2SotDVVlfqOy4gdA0F7wSj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221952,
+      "name": "\u55ae\u7a0b\u7968",
+      "url": "https://open.spotify.com/track/3woBOD3Ldh81fAwpsnD8yC"
+    },
+    {
+      "album": {
         "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
         "url": "https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a"
       },
@@ -10980,7 +11016,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 238363,
       "name": "\u5927\u4eba\u7684\u5feb\u6a02",
       "url": "https://open.spotify.com/track/6YoPW9BzF3a0jQYfUXbs6L"
@@ -11042,7 +11078,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 221551,
       "name": "\u597d\u597d\u5403\u98ef",
       "url": "https://open.spotify.com/track/7cWYLUAThDaMeIXAL8icm0"
@@ -11226,6 +11262,24 @@
       "duration_ms": 195483,
       "name": "\u6211\u4f1a\u7b49",
       "url": "https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/77DbiSm5R4EduZCAk6ZH7x"
+      },
+      "artists": [
+        {
+          "name": "JJ Lin",
+          "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282320,
+      "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/72yIlZtNNS4i2b4FfVm619"
     },
     {
       "album": {
@@ -11540,7 +11594,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 195717,
       "name": "\u798f\u6c14\u9a6c\u4e0a\u6765",
       "url": "https://open.spotify.com/track/3b6RZmPmYzg2mRyfoIznYS"
@@ -11770,6 +11824,24 @@
       "duration_ms": 292907,
       "name": "\u9752\u6625\u8981\u7528\u5e7e\u884c\u8a69\u4f86\u5beb (\u96fb\u8996\u5287\u300a\u984f\u5fc3\u8a18\u300b\u63a8\u5ee3\u66f2)",
       "url": "https://open.spotify.com/track/5BMwkhL43UiAOshkAW7NVP"
+    },
+    {
+      "album": {
+        "name": "\u98de\u7011\u800c\u4e0b",
+        "url": "https://open.spotify.com/album/5TggiwkQVxrJdFAthMTKZl"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291793,
+      "name": "\u98de\u7011\u800c\u4e0b",
+      "url": "https://open.spotify.com/track/4hSJqNfEZAPT9IJzGUtfmg"
     },
     {
       "album": {

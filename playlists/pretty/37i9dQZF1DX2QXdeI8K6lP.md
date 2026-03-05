@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,714 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,769 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 20 | [Estoy Perdido](https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Las Estrellas Del Fonografo RCA Victor](https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW) | 3:13 |
 | 21 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 |
 | 22 | [Candilejas](https://open.spotify.com/track/4g3eltN2tS9SFZAEYN4sqv) | [Trio Delfines](https://open.spotify.com/artist/1qvmo3M2lo0qpzRhzNTgIm) | [Trio Delfines](https://open.spotify.com/album/6uJI3BirtwHzbsYO8waeeb) | 2:45 |
-| 23 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
+| 23 | [Linda](https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [¿Y Linda?](https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7) | 2:45 |
 | 24 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
-| 25 | [Linda](https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [¿Y Linda?](https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7) | 2:45 |
+| 25 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
 | 26 | [El Andariego](https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA) | [Alvaro Carrillo](https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp) | [La Coleccion Del Siglo](https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT) | 2:29 |
-| 27 | [Total](https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:54 |
+| 27 | [Jacarandá](https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL) | [Los Santos](https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI) | [Los Santos](https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR) | 2:56 |
 | 28 | [Luna de octubre](https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN) | [Trio Hermanos Michel](https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK) | [Serenatas](https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ) | 2:40 |
 | 29 | [Solamente una Vez](https://open.spotify.com/track/3KXT4z3ZtA8yasFoqltxzP) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Mi Primer Piano..\. Y Mis Primeras Canciones](https://open.spotify.com/album/2JRYd3QxaIm8bzIpY8V6Ci) | 2:41 |
 | 30 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 67 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
 | 68 | [Guantanamera](https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Vamos a la Cumbancha](https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb) | 3:18 |
 | 69 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
-| 70 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 |
-| 71 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 70 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 71 | [Ven](https://open.spotify.com/track/65zy1w1ji5H6Vo9fwc9s8M) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c), [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:11 |
 | 72 | [Estoy Enamorado](https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR) | [Antonio Badu](https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl) | [Antonio Badu/Claudio Estrada \- Dos Bohemios Romanticos](https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ) | 2:33 |
 | 73 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 74 | [Noche No Te Vayas](https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [Romanticamente Trios Vol\. 9](https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA) | 2:28 |

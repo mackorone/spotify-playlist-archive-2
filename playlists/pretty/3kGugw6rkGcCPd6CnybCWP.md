@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 94 songs - 5 hr 23 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 104 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,15 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 92 | [Deep in the Misery](https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx) | [Indigo](https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu) | [Deep in the Misery](https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn) | 3:32 |
 | 93 | [The rain](https://open.spotify.com/track/0aQjPawnFa3hynnDmGJKhv) | [fown](https://open.spotify.com/artist/4BNwLwHxGLvefZnkS5AHiK), [whitefool](https://open.spotify.com/artist/4jjQtcHXjNjWop8MMKnP4Y) | [The rain](https://open.spotify.com/album/5wZD7DvWapqfX14BW6k6SU) | 4:25 |
 | 94 | [Yellow](https://open.spotify.com/track/7oIGfvvszUPBy3RbcybSsy) | [The Funky Ducklings](https://open.spotify.com/artist/74wI7y9osStJVIegvAq1IQ) | [Album.1](https://open.spotify.com/album/3qQaVYuxi4JzyokTTFqyBg) | 4:35 |
+| 95 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 |
+| 96 | [De Costa a Costa](https://open.spotify.com/track/4mmNt648AwIq9FkI5c6gVL) | [Microfunk Band](https://open.spotify.com/artist/4BEoveed0d10Qd1Cf4EcoR) | [De Costa a Costa](https://open.spotify.com/album/58YBu5f6ErbSiJf8xuojxc) | 4:38 |
+| 97 | [Don't Give Up On Me](https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali) | [IAMDWX](https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU), [Kevin Hadley](https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk) | [Don't Give Up On Me](https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7) | 2:49 |
+| 98 | [SuperNatural Man](https://open.spotify.com/track/4EyLW8sJKRY7kaUOwG6dOr) | [Hope Noel](https://open.spotify.com/artist/4K4odNjWzexJSElZI2hfKf) | [SuperNatural Man](https://open.spotify.com/album/3HArl6pz8rXfdlpsqZGGaX) | 3:49 |
+| 99 | [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 |
+| 100 | [Ghosts](https://open.spotify.com/track/4ma25GBIHco2FLwqkgd4Et) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:53 |
+| 101 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
+| 102 | [Valley](https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j), [Eisbaer](https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 6:01 |
+| 103 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 |
+| 104 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 |
 
-Snapshot ID: `AAANf4ab8sqovm+3y2ZLtwNTNsFIi+xq`
+Snapshot ID: `AAANiY/kjX5M4ThGFUEajErWZQpIn83h`

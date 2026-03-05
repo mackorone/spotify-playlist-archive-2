@@ -1,12 +1,12 @@
 {
   "description": "This is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda. The essential tracks, all in one playlist.",
-  "num_followers": 903820,
+  "num_followers": 903984,
   "original_name": "This Is Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAftRyRrqjOVFmejhKtuEkY",
+  "snapshot_id": "aaYkgAAAAADrql6o5kKb8TrUwcpdizQh",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Aferrado",
-        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
+        "name": "42 18",
+        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 161906,
-      "name": "Pong\u00e1monos De Acuerdo",
-      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
+      "duration_ms": 189524,
+      "name": "Cero Empat\u00eda",
+      "url": "https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "42 18",
-        "url": "https://open.spotify.com/album/3UhsBsZzqW0rktyx1rfwQE"
+        "name": "El Aferrado",
+        "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 189524,
-      "name": "Cero Empat\u00eda",
-      "url": "https://open.spotify.com/track/18OMTIWpHGvhTcQjg83CtQ"
+      "duration_ms": 161906,
+      "name": "Pong\u00e1monos De Acuerdo",
+      "url": "https://open.spotify.com/track/1OZpgVRQKkxcoeEocqTMRZ"
     },
     {
       "added_at": null,

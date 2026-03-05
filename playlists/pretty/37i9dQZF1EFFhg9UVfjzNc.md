@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774 likes - 118 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 775 likes - 118 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 86 | [Entrega](https://open.spotify.com/track/36dN66P4nDS98xP3RY1akX) | [Chris Duran](https://open.spotify.com/artist/1cuygaMWRUavQ2vfL4v5ex) | [Entrega](https://open.spotify.com/album/5RoCRCrhaE4r9DQzJusMGk) | 6:13 |
 | 87 | [Só Quero A Ti \- Ao Vivo](https://open.spotify.com/track/1FNCYDOhNVb01oq6ml8ksR) | [Matheus Goulart](https://open.spotify.com/artist/0ktFffygQwR4rvwb44CYMh) | [YESHUA \(Ao Vivo\)](https://open.spotify.com/album/5tnaxda44kE1nD11u9sJh8) | 6:03 |
 | 88 | [Nos Rendemos a Ti \(Toma O Teu Lugar\)](https://open.spotify.com/track/6c7Ch0zIb7926oTWhQZA8q) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 7:30 |
-| 89 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/35SDRXTWiAxqySCJ3KTH3m) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [És Bem\-Vindo \(Ao Vivo\)](https://open.spotify.com/album/5RVH864KmNlqqUii3jyBOg) | 7:46 |
-| 90 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 |
+| 89 | [Vem Habitar / Lugar Secreto \- Ao Vivo](https://open.spotify.com/track/1wJs0TM87njimCs1tkOdsA) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Mari Rocha](https://open.spotify.com/artist/3kOU0Zi90LGs8q9kIlrvq6) | [Nada Mais \(Ao Vivo\)](https://open.spotify.com/album/1yDqFhqtcaX8yzN9RgKYd9) | 12:43 |
+| 90 | [És Bem\-Vindo \- Ao Vivo](https://open.spotify.com/track/35SDRXTWiAxqySCJ3KTH3m) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Amauri Knevitz Jr](https://open.spotify.com/artist/0F62U3eJ9UOEpoOqdiuzGd), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [És Bem\-Vindo \(Ao Vivo\)](https://open.spotify.com/album/5RVH864KmNlqqUii3jyBOg) | 7:46 |
 | 91 | [Digno É O Cordeiro • BRAVE Night \- Ao Vivo](https://open.spotify.com/track/5LVhsXEMFeYNzgo6KWUB3z) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Juliana Kontopp](https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J) | [Digno É O Cordeiro • BRAVE Night \(Ao Vivo\)](https://open.spotify.com/album/6POG9vscV9bFOsyGNRIQCW) | 9:51 |
 | 92 | [Que Se Abram Os Portais](https://open.spotify.com/track/1R5utqC4ZIyIyjmmw52OuI) | [Fernanda Ferro](https://open.spotify.com/artist/080EtCY2JWqzfNFmEJUW3x) | [Céu na Terra](https://open.spotify.com/album/6um3WlqCMSWWT8auIqxtlG) | 4:54 |
 | 93 | [Existe Uma Geração \- Ao Vivo](https://open.spotify.com/track/4AUcOvhHNakk911GBWvY8J) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade e Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/5j0f8bR03wez6tjrHpiKUN) | 5:27 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 117 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 | 118 | [O Grande Eu Sou](https://open.spotify.com/track/2IzQ2AStmrCIAaFehDIetF) | [Luiza Gomes](https://open.spotify.com/artist/0NbsghSxR8ckzFpJoZVSGB) | [O Grande Eu Sou](https://open.spotify.com/album/6POcry86OqWkWGwOTVmhHr) | 4:26 |
 
-Snapshot ID: `AcLLFgAAAADmVPcNMHnA7pWanJExE2+3`
+Snapshot ID: `AcLQrAAAAAAQpjBfiseRzC/5/ec4xWTY`

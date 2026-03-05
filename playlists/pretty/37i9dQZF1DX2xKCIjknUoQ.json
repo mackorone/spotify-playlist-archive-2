@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 56113,
+  "num_followers": 56127,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
+        "name": "Can Be Late",
+        "url": "https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h"
+      },
+      "artists": [
+        {
+          "name": "Skip the Use",
+          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
+        }
+      ],
+      "duration_ms": 188533,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
         "name": "Never Trust A Guy Who After Having Been A Punk Is Now Playing Electro",
         "url": "https://open.spotify.com/album/3sJnvkL4jX1c9y3m9jtQXH"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 186440,
       "name": "Matador",
       "url": "https://open.spotify.com/track/4eNR2akrNSKuDAJSJ8qLor"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
-        "name": "Can Be Late",
-        "url": "https://open.spotify.com/album/4A3OeAAQMzcBSmyDpLSu6h"
-      },
-      "artists": [
-        {
-          "name": "Skip the Use",
-          "url": "https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/59p3L2BcqN4L2DBBeg0KlQ"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "\u00c7a me vexe",
-        "url": "https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0"
-      },
-      "artists": [
-        {
-          "name": "Mademoiselle K",
-          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
-        }
-      ],
-      "duration_ms": 207933,
-      "name": "\u00c7a me vexe",
-      "url": "https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Coming Out (Standard)",
         "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 213800,
       "name": "Elle m'a dit",
       "url": "https://open.spotify.com/track/631aobaJggPYE0nIh3mo2t"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "\u00c7a me vexe",
+        "url": "https://open.spotify.com/album/2uI9jvUZPBUFXiDbpwF9F0"
+      },
+      "artists": [
+        {
+          "name": "Mademoiselle K",
+          "url": "https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI"
+        }
+      ],
+      "duration_ms": 207933,
+      "name": "\u00c7a me vexe",
+      "url": "https://open.spotify.com/track/5LKdAzDeMyMXezSTIHkXcE"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "La t\u00eate en arri\u00e8re",
-        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
-      },
-      "artists": [
-        {
-          "name": "Luke",
-          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Notre Epoque",
         "url": "https://open.spotify.com/album/3nKsRvwwToIvCoodMywDeo"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 214666,
       "name": "Notre Epoque",
       "url": "https://open.spotify.com/track/0tas4ZLkePk8aTjt5eesp6"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "La t\u00eate en arri\u00e8re",
+        "url": "https://open.spotify.com/album/69kNfBXJtvtkIm4PJUYrL2"
+      },
+      "artists": [
+        {
+          "name": "Luke",
+          "url": "https://open.spotify.com/artist/4JPtvdV0f0CWOKhCIsF8qO"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/2HGJqKtabrDzhXrWw1RylG"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Anomalie",
-        "url": "https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf"
-      },
-      "artists": [
-        {
-          "name": "Louise Attaque",
-          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
-        }
-      ],
-      "duration_ms": 189520,
-      "name": "Anomalie",
-      "url": "https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Cr\u00e8vecoeur (2019 remastered)",
         "url": "https://open.spotify.com/album/5brOhiGaSGy404g0CaY3Yf"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "La bonne attitude",
-        "url": "https://open.spotify.com/album/7COmZfBtnEJ1BAdk0bX1If"
+        "name": "Anomalie",
+        "url": "https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf"
       },
       "artists": [
         {
-          "name": "Sinclair",
-          "url": "https://open.spotify.com/artist/27DUNSbKmWQsjfXFjCv3Q4"
+          "name": "Louise Attaque",
+          "url": "https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9"
         }
       ],
-      "duration_ms": 296040,
-      "name": "Si c'est bon comme \u00e7a",
-      "url": "https://open.spotify.com/track/6lHHjwoRmbQkQcni9EOj3H"
+      "duration_ms": 189520,
+      "name": "Anomalie",
+      "url": "https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -799,18 +783,34 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/5NAlRXuJEAqDjuYlzuGewb"
+        "name": "La bonne attitude",
+        "url": "https://open.spotify.com/album/7COmZfBtnEJ1BAdk0bX1If"
       },
       "artists": [
         {
-          "name": "Detroit",
-          "url": "https://open.spotify.com/artist/4t5BWOtBj0BZwYlntlKKDj"
+          "name": "Sinclair",
+          "url": "https://open.spotify.com/artist/27DUNSbKmWQsjfXFjCv3Q4"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Droit Dans Le Soleil",
-      "url": "https://open.spotify.com/track/4rpeOY4yFkKFcImfFxZqqu"
+      "duration_ms": 296040,
+      "name": "Si c'est bon comme \u00e7a",
+      "url": "https://open.spotify.com/track/6lHHjwoRmbQkQcni9EOj3H"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "About Love",
+        "url": "https://open.spotify.com/album/0hQaUyf3aWK1UqeID5xA7x"
+      },
+      "artists": [
+        {
+          "name": "Plastiscines",
+          "url": "https://open.spotify.com/artist/6L3Af26OWMQw1uHTcxTVxP"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Bitch",
+      "url": "https://open.spotify.com/track/1ymXKqHO6CGAWlhERwf3Ug"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

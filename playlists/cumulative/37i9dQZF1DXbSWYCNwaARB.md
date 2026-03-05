@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: BLACKPINK\)
+> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: EVERGLOW\)
 
-606 songs - 1 day 7 hr 26 min
+607 songs - 1 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,8 +56,8 @@
 | [BADITUDE](https://open.spotify.com/track/5cwvqvUg378HuUo5QRrU7B) | [SOOJIN](https://open.spotify.com/artist/0kB3Vlf3xDNZQz6NjAPJV8) | [BADITUDE](https://open.spotify.com/album/0rrvytckaTbb4mE1H82iZ9) | 2:32 | 2025-09-01 | 2025-10-01 |
 | [BADVILLAIN](https://open.spotify.com/track/3BBBK2wYC1TLOyBLnSfWTI) | [BADVILLAIN](https://open.spotify.com/artist/2Y7fY3aflbCTxp6h5hw0CV) | [OVERSTEP](https://open.spotify.com/album/15rdrWfjFtnMnzdZIemvoQ) | 3:09 | 2024-06-03 | 2024-08-01 |
 | [Bam Yang Gang](https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bam Yang Gang](https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O) | 2:26 | 2024-02-27 | 2024-09-07 |
-| [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 | 2026-02-10 | 2026-02-24 |
-| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-09 |  |
+| [BANG BANG](https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/5tBbxrd5aHP9Q8pv50pQgY) | 2:57 | 2026-02-10 |  |
+| [BANG BANG](https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [BANG BANG](https://open.spotify.com/album/7hAOMYfbwqF6NPnJdEyyx7) | 2:58 | 2026-02-09 | 2026-03-05 |
 | [BARCODE](https://open.spotify.com/track/1ZThXKcKkKkZRQGYGd8UU4) | [lilli lilli](https://open.spotify.com/artist/5jPgE32O5ejQyRJXiiy52V) | [BARCODE](https://open.spotify.com/album/0IZZIwintx6HphavroWxdN) | 3:36 | 2021-11-14 | 2022-07-22 |
 | [BATTER UP](https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [BATTER UP](https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7) | 3:08 | 2023-12-04 |  |
 | [BBB](https://open.spotify.com/track/1Xj89xyCM5Edza6AqTpRuB) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [BXX](https://open.spotify.com/album/3xX7eBfa5HTqDZXepyvjfw) | 2:46 | 2024-03-19 | 2024-03-28 |
@@ -109,6 +109,7 @@
 | [CLIK CLAK](https://open.spotify.com/track/0Rq9lIn9fl4wiW9Tg72ifr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 2:49 | 2024-11-01 |  |
 | [Close to Me](https://open.spotify.com/track/1wzP4k1w8nprsfb6n8wpoz) | [BLACKSWAN](https://open.spotify.com/artist/2ujaWf015QoP7x1u20Yq5G) | [Close to Me](https://open.spotify.com/album/1N2bEyzPBd9CwU7BTXaoEt) | 3:17 | 2021-12-20 | 2022-06-09 |
 | [CLOSER](https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [Chaotic & Confused](https://open.spotify.com/album/171v7mbXgzaMBk7S0QmCWu) | 2:38 | 2025-08-11 | 2025-10-21 |
+| [CODE](https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [CODE](https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt) | 2:35 | 2026-03-04 |  |
 | [Cold Blooded](https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [Cold Blooded](https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ) | 2:30 | 2021-11-14 | 2022-08-13 |
 | [Come See Me](https://open.spotify.com/track/5KrvZAR95aP5Otmsiwp9pC) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [NEW MOON](https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5) | 3:22 | 2021-01-19 | 2021-03-16 |
 | [COOL](https://open.spotify.com/track/7Cz1Ny3XhRz6KBT0YHVHyf) | [Weki Meki](https://open.spotify.com/artist/5LWkv2hDbDwZL3zNwZYNPx) | [Weki Meki 4th Mini Album \[NEW RULES\]](https://open.spotify.com/album/3VRhzwIZ6kfd7CSirU2E7x) | 3:29 | 2020-10-13\* | 2022-04-16 |
@@ -363,7 +364,7 @@
 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 | 2022-07-25 | 2024-04-19 |
 | [MONEY](https://open.spotify.com/track/7ifLrhXBoQ5MDFTRpIYkfA) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/0IL9eNM4gfkmTqdwiJy63d) | 2:48 | 2021-09-13 | 2022-07-29 |
 | [MONEY TALK](https://open.spotify.com/track/6a6cnjH0vYI704cATcHlzY) | [GIRLKIND XJR](https://open.spotify.com/artist/0nc69UwK3NVQq2Q0Y3Qq6C) | [Life is Diamond](https://open.spotify.com/album/2Cqk097a0kRJ7kdJ8wICic) | 3:04 | 2021-02-27 | 2022-04-16 |
-| [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 | 2026-01-27 |  |
+| [Mono \(Feat\. skaiwater\)](https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [Mono \(Feat\. skaiwater\)](https://open.spotify.com/album/5DxK3xKAeE2h66JGxZYKAC) | 2:50 | 2026-01-27 | 2026-03-05 |
 | [Monster](https://open.spotify.com/track/6c1QaQHdDhtFMfUkhueuXK) | [Red Velvet \- IRENE & SEULGI](https://open.spotify.com/artist/6bwp9ObI8FWvMPCIWVBmhl) | [Monster \- The 1st Mini Album](https://open.spotify.com/album/4DFheSBXhfewjz7SSe4Kyc) | 2:58 | 2020-10-13\* | 2022-05-22 |
 | [Moonlight](https://open.spotify.com/track/1FQiMjvNvvrbTUOjRtverL) | [GeeGu](https://open.spotify.com/artist/6NZF9gEyv9EcC6BORk3aFO) | [Moonlight](https://open.spotify.com/album/3LPKRcJU5tQ9LcbXPMTAz6) | 3:08 | 2021-02-12 | 2022-04-18 |
 | [MOONLIGHT](https://open.spotify.com/track/1HfIy5HVfg8CmRVuym7eIz) | [NeonPunch](https://open.spotify.com/artist/1j2VjoyNduKvjsQqiQ6Z5d) | [NeonPunch 1st Debut Album 'MOONLIGHT'](https://open.spotify.com/album/4i9CSy97ek0xx7wL84e9D9) | 3:13 | 2021-02-03 | 2022-04-20 |

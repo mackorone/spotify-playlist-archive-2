@@ -4,7 +4,7 @@
 
 > the final boss of house playlists\. \| Trades: tuffhouse@proton.me \| FISHER, Mau P, Dom Dolla, Max Styler, John Summit, Matroda, Joshwa \| minimal tech \- tech house 2026 \- car music \- club mix \- dj music \- workout music \- bass house \- housewerk
 
-2,454 songs - 5 day 17 hr 58 min
+2,455 songs - 5 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1825,6 +1825,7 @@
 | [Se Acabo](https://open.spotify.com/track/3bST0KX0eCc7mtavsH0q7W) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Se Acabo](https://open.spotify.com/album/15NLsvEYlYOTzsce83xXjp) | 2:34 | 2023-07-15 | 2023-08-05 |
 | [Se Va](https://open.spotify.com/track/6KSrK117BG0DfCdnKAnf1l) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/5KlTXz9q18qHaH9uOEIO6S) | 3:16 | 2022-10-14 | 2022-10-29 |
 | [Second Guessing](https://open.spotify.com/track/0vnUYIci7W2JoTY5rYRe6w) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Second Guessing](https://open.spotify.com/album/5V4RJbimCinH8EzkcTgggH) | 2:45 | 2025-11-21 | 2026-01-18 |
+| [Seductive](https://open.spotify.com/track/5VE473clBtdpr9JradB3ve) | [Alex Imperiale](https://open.spotify.com/artist/3nanhJqdXtLs7pCNkdxdIS) | [Seductive](https://open.spotify.com/album/10YNQ3IPi1svsjLoU9JJJi) | 3:20 | 2026-03-04 |  |
 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 | 2022-11-05 | 2022-11-12 |
 | [SEE ME GIVE IT](https://open.spotify.com/track/69IORvhAh5xA3P2o9iI2NW) | [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [SEE ME GIVE IT](https://open.spotify.com/album/61BmA7b5VBmT0CuEViZLrC) | 3:20 | 2023-02-10 | 2023-02-18 |
 | [See The Light](https://open.spotify.com/track/0S2RADfs7vrFyyor0okdkM) | [Sacha Robotti](https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf), [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [AK RENNY](https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX) | [See The Light](https://open.spotify.com/album/0RNKWw3y5HiXYqLMRP6onD) | 3:30 | 2023-02-10 | 2023-02-18 |

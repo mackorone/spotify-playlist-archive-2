@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,786 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,784 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,7 +180,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 170 | [Стеклянная](https://open.spotify.com/track/2mvP5OEZXWL0QefQSq7z6b) | [GUMA](https://open.spotify.com/artist/4yFkTmeaCYPBuKpzaEHelE) | [Стеклянная](https://open.spotify.com/album/72xfX71QfgYilDXn0fhr1F) | 2:46 |
 | 171 | [Крышу сносит](https://open.spotify.com/track/67Me2LmeUSJZGGSvVQUqbB) | [LXNER](https://open.spotify.com/artist/0u32PEQJMO9ufiSInHtKXt), [quiizzzmeow](https://open.spotify.com/artist/2znSAMoC2z72k1BNWVMzKW) | [Крышу сносит](https://open.spotify.com/album/3URDUiopN6UnnaOc6SYcAZ) | 2:54 |
 | 172 | [молчи](https://open.spotify.com/track/4NjcBu9yymywoxK1l9tdBE) | [кис\-кис](https://open.spotify.com/artist/4jIvmo6hfAQ04NSOWPVVA3) | [Магазин игрушек для взрослых](https://open.spotify.com/album/5aMa4f9Jn8BANK62xzWywu) | 3:18 |
-| 173 | [Демоны](https://open.spotify.com/track/4H15QMzixtVgXvaLPzXN3V) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Любовь, аддикция и марафоны](https://open.spotify.com/album/6OasynjIXg8lVjr5zqRyX9) | 3:24 |
+| 173 | [Демоны](https://open.spotify.com/track/4H15QMzixtVgXvaLPzXN3V) | [Три дня дождя](https://open.spotify.com/artist/5q1NzLZwErZ9ujzqZKL0YZ) | [Любовь, аддикция и ...](https://open.spotify.com/album/6OasynjIXg8lVjr5zqRyX9) | 3:24 |
 | 174 | [Ненавижу море](https://open.spotify.com/track/1LTVr7GJ6lPvgPoDYvYfzO) | [Never Get Used To People](https://open.spotify.com/artist/0j5kVHxvTgUN4nBIPKCLRJ) | [Ненавижу](https://open.spotify.com/album/5xK3sakSTu6eADUACyaIuc) | 2:06 |
 | 175 | [VANTABLACK](https://open.spotify.com/track/3gNPEnAFeHwNDK2euRNWHr) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [Netuh](https://open.spotify.com/artist/2kppis5CDjgY0jeNIFgKUG) | [VANTABLACK](https://open.spotify.com/album/5seeqwxPtvyedxT17DXoOG) | 1:59 |
 | 176 | [WARRIOR](https://open.spotify.com/track/5AMRRp5Rjp1GQsF5ubsGl9) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [WARRIOR](https://open.spotify.com/album/7kYmA4k1b50gCazI6gTjUu) | 2:10 |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: CHASE B
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,845 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,851 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 1 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 2 | [Made It On Our Own](https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Made It On Our Own](https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF) | 2:49 |
 | 3 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
 | 4 | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Watch Me Now! \(with NLE Choppa\)](https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4) | 2:15 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 8 | [B.B.B.](https://open.spotify.com/track/2Vmb54sq94SOhDobcf4gxp) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [B.B.B.](https://open.spotify.com/album/3aS5keGWpo2QNDIGnL2Spd) | 2:20 |
 | 9 | [LOVE ME](https://open.spotify.com/track/4Pvk6rjCSRGOloZ6B3IfrC) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [LOVE ME](https://open.spotify.com/album/2lbh6daYXOxiqCDAJ6NPPp) | 3:18 |
 | 10 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 |
-| 11 | [Find Out](https://open.spotify.com/track/0pjZY5xynsULz9101zZCeb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [Find Out](https://open.spotify.com/album/7A3rWo7QpUBvxiAabjRT4q) | 3:14 |
+| 11 | [Find Out](https://open.spotify.com/track/0pjZY5xynsULz9101zZCeb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [Find Out](https://open.spotify.com/album/7A3rWo7QpUBvxiAabjRT4q) | 3:15 |
 | 12 | [Backstage](https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 3:15 |
 | 13 | [FLAMMABLE](https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [FLAMMABLE](https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH) | 3:17 |
 | 14 | [TNT \(feat\. Nemzzz\)](https://open.spotify.com/track/5XGMPxrNLiKgd5HRa76HPg) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:36 |

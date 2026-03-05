@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Bad Bunny",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e2e\u0e34\u0e15 \u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: VARITDA",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 183975,
       "name": "Always Everywhere",
       "url": "https://open.spotify.com/track/6fGapufucZHPva1kvCqceA"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
@@ -2406,6 +2406,24 @@
       "duration_ms": 170106,
       "name": "Chains of Love",
       "url": "https://open.spotify.com/track/3obedb2fnHaTE8bPlr9TNK"
+    },
+    {
+      "album": {
+        "name": "Champagne Flying",
+        "url": "https://open.spotify.com/album/5aI0h5vWUrm8MWYexYrtdv"
+      },
+      "artists": [
+        {
+          "name": "VARITDA",
+          "url": "https://open.spotify.com/artist/5wwlhvoD6LFYdiIjOHhcUB"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Champagne Flying",
+      "url": "https://open.spotify.com/track/2xL8UYp4kVr36tPvtOa7bc"
     },
     {
       "album": {
@@ -4429,6 +4447,24 @@
     },
     {
       "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "album": {
         "name": "Finger paint",
         "url": "https://open.spotify.com/album/1u2X9wnfWv6MKrzYuLrzrw"
       },
@@ -4964,7 +5000,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 206511,
       "name": "Get In Girl",
       "url": "https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ"
@@ -6531,6 +6567,24 @@
     },
     {
       "album": {
+        "name": "How I Get",
+        "url": "https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219866,
+      "name": "How I Get",
+      "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
+    },
+    {
+      "album": {
         "name": "Howl's",
         "url": "https://open.spotify.com/album/5Ceqr1e2gw83C2lxzow6uH"
       },
@@ -7124,6 +7178,24 @@
       "duration_ms": 207380,
       "name": "Imaginary Playerz",
       "url": "https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt"
+    },
+    {
+      "album": {
+        "name": "IMPERFECT",
+        "url": "https://open.spotify.com/album/48y2g90jsYmS0yCGyOqJ0V"
+      },
+      "artists": [
+        {
+          "name": "Mew Suppasit",
+          "url": "https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144629,
+      "name": "IMPERFECT",
+      "url": "https://open.spotify.com/track/5d7jk7ShsLehGHRqRAquuI"
     },
     {
       "album": {
@@ -7768,6 +7840,28 @@
       "duration_ms": 130231,
       "name": "Keep a Secret",
       "url": "https://open.spotify.com/track/1ipDqVFgmVOAcboxe9Yiei"
+    },
+    {
+      "album": {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "url": "https://open.spotify.com/album/58x92u1JINTa5K7lTzfU02"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170786,
+      "name": "Keychain - FROM THE FILM K-POPS!",
+      "url": "https://open.spotify.com/track/3Q3WZ7sJLoIZQKY7hWFyQu"
     },
     {
       "album": {
@@ -9263,6 +9357,24 @@
     },
     {
       "album": {
+        "name": "songs i couldn't forget",
+        "url": "https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168737,
+      "name": "mariah",
+      "url": "https://open.spotify.com/track/6hNqL8ihYM8NuJNBWPPu9M"
+    },
+    {
+      "album": {
         "name": "MATADOR (Man I Adore)",
         "url": "https://open.spotify.com/album/2vbBCJdXJQFzhYesG1opeM"
       },
@@ -10498,6 +10610,24 @@
       "duration_ms": 194112,
       "name": "Night On Earth",
       "url": "https://open.spotify.com/track/1zHzIoKAvXhel5VmzukPLf"
+    },
+    {
+      "album": {
+        "name": "Nightingale Lane.",
+        "url": "https://open.spotify.com/album/22FLublraJkicHyrK2egu0"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302623,
+      "name": "Nightingale Lane.",
+      "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
       "album": {
@@ -12116,7 +12246,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 218526,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa"
@@ -12316,6 +12446,24 @@
       "duration_ms": 201869,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
     },
     {
       "album": {
@@ -14328,7 +14476,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 279798,
       "name": "Suburban Requiem",
       "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
@@ -16092,7 +16240,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 232238,
       "name": "This must be the place",
       "url": "https://open.spotify.com/track/3rDfFPybJVMqBiFbhMGDMi"
@@ -16853,6 +17001,24 @@
     },
     {
       "album": {
+        "name": "Tales of a Failed Shapeshifter",
+        "url": "https://open.spotify.com/album/2RL64278RxtHMgDH04qzex"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148179,
+      "name": "Unicorn",
+      "url": "https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X"
+    },
+    {
+      "album": {
         "name": "Unsteady (feat. Aitch)",
         "url": "https://open.spotify.com/album/7fRgTdUiXjdXFW5ssi3jds"
       },
@@ -16868,7 +17034,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 173000,
       "name": "Unsteady (feat. Aitch)",
       "url": "https://open.spotify.com/track/3GXQNQj4AXv0DsSvkQnZBZ"
@@ -17852,7 +18018,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 234049,
       "name": "White Feather Hawk Tail Deer Hunter",
       "url": "https://open.spotify.com/track/7IM4xK4W4n06UAV48ZXMup"
@@ -18448,7 +18614,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 139379,
       "name": "\u00c7ike \u00c7ike",
       "url": "https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8"

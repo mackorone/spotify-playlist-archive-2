@@ -1,12 +1,12 @@
 {
   "description": "\u30cb\u30b3\u30cb\u30b3\u52d5\u753b\u4e0a\u306b\u304a\u3051\u308bVOCALOID\u66f2\u306e\u4eba\u6c17\u3092\u6e2c\u308b\u30c1\u30e3\u30fc\u30c8\u3002\u52d5\u753b\u518d\u751f\u6570\u3084\u3001\u4f5c\u6210\u6570\u3001\u30b3\u30e1\u30f3\u30c8\u6570\u3001\u3044\u3044\u306d\u6570\u306a\u3069\u306e\u30c7\u30fc\u30bf\u306b\u30d3\u30eb\u30dc\u30fc\u30c9\u304c\u72ec\u81ea\u958b\u767a\u3057\u305f\u4fc2\u6570\u3092\u4e57\u3058\u3066\u4e0a\u4f4d20\u4f4d\u307e\u3067\u306e\u30e9\u30f3\u30ad\u30f3\u30b0\u3092\u751f\u6210\u3057\u3066\u3044\u307e\u3059\u3002Supported by \u30cb\u30b3\u30cb\u30b3",
-  "num_followers": 22,
+  "num_followers": 23,
   "original_name": "\u30cb\u30b3\u30cb\u30b3 VOCALOID SONGS TOP20",
   "owner": {
     "name": "Netmune",
     "url": "https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm"
   },
-  "snapshot_id": "AAADfZAmCxV+TSOP88pfsuWJFirLL0Ha",
+  "snapshot_id": "AAADkCZW6E+NF+YdTs5TFdbh3yKY/svT",
   "tracks": [
     {
       "added_at": "2026-02-25 06:52:46",
@@ -23,6 +23,22 @@
       "duration_ms": 122888,
       "name": "\u30d6\u30ec\u30a4\u30f3\u30ed\u30c3\u30c8",
       "url": "https://open.spotify.com/track/1C1skAeFtnguXNlCYRQoCr"
+    },
+    {
+      "added_at": "2026-03-04 06:17:09",
+      "album": {
+        "name": "\u4e09\u4e0d\u7c98\u3092\u30a8\u30ed\u3044\u76ee\u3067\u898b\u308b\u306a",
+        "url": "https://open.spotify.com/album/41jzJYR2WINEVSiwq8Faur"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c",
+          "url": "https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU"
+        }
+      ],
+      "duration_ms": 146766,
+      "name": "\u4e09\u4e0d\u7c98\u3092\u30a8\u30ed\u3044\u76ee\u3067\u898b\u308b\u306a",
+      "url": "https://open.spotify.com/track/3X3bdG1bq1qI44XcR5mMxm"
     },
     {
       "added_at": "2026-02-25 08:14:06",
@@ -49,6 +65,62 @@
       "url": "https://open.spotify.com/track/0Hu6nUJMqkoOmHY0FVBSYk"
     },
     {
+      "added_at": "2026-02-25 06:59:38",
+      "album": {
+        "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce\u30fb\u30ad\u30f3\u30bf\u30ed\u30ad\u30e3\u30f3\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/4Ef22Oayl9RrppN43UDRr8"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce",
+          "url": "https://open.spotify.com/artist/2NCBtQRDl7uaYosK11b9DP"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce\u30fb\u30ad\u30f3\u30bf\u30ed\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/0arXXBikMmbfLu6V3rzLH7"
+    },
+    {
+      "added_at": "2026-03-04 06:17:49",
+      "album": {
+        "name": "\u4e73\u9996\u306a\u305e\u306a\u305e",
+        "url": "https://open.spotify.com/album/1pbmrfxXElMsrSDnghCUhj"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c",
+          "url": "https://open.spotify.com/artist/00fzpOBrYFD3sfklXqTkBU"
+        }
+      ],
+      "duration_ms": 144320,
+      "name": "\u4e73\u9996\u306a\u305e\u306a\u305e",
+      "url": "https://open.spotify.com/track/0jN8MPOaJOZiw8VwHueA5P"
+    },
+    {
+      "added_at": "2026-03-04 06:18:24",
+      "album": {
+        "name": "\u3042\u306e\u5b50\u307f\u305f\u3044\u306b (feat. \u91cd\u97f3\u30c6\u30c8 & \u77e5\u58f0)",
+        "url": "https://open.spotify.com/album/12USkd6DI36ycGFTk6UTF0"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u6728\u30ab\u30ec\u30ad",
+          "url": "https://open.spotify.com/artist/23VSPVWfZJ8RuMKD0wiHaj"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        },
+        {
+          "name": "Chis-A",
+          "url": "https://open.spotify.com/artist/4kmZaUQhElz6uF2s4Bd1Av"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u3042\u306e\u5b50\u307f\u305f\u3044\u306b (feat. \u91cd\u97f3\u30c6\u30c8 & \u77e5\u58f0)",
+      "url": "https://open.spotify.com/track/1H6PjQxKMMl9wJ1haxwgjj"
+    },
+    {
       "added_at": "2026-02-25 06:56:38",
       "album": {
         "name": "\u82b1\u3073\u3089\u54c0\u6b4c (feat. \u91cd\u97f3\u30c6\u30c8)",
@@ -69,80 +141,44 @@
       "url": "https://open.spotify.com/track/1e4Yn677QJli5USVpagHWs"
     },
     {
-      "added_at": "2026-02-18 07:25:47",
+      "added_at": "2026-03-04 06:19:06",
       "album": {
-        "name": "\u611b\u8a00\u8449V",
-        "url": "https://open.spotify.com/album/7uW6r1LE0p2VB94cCauFhk"
+        "name": "\u518d\u73fe.leaper (feat. \u661f\u5c18Infinity)",
+        "url": "https://open.spotify.com/album/3HhF9lnZhtvbUpTtqd8cqc"
       },
       "artists": [
         {
-          "name": "DECO*27",
-          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+          "name": "\u594f",
+          "url": "https://open.spotify.com/artist/5nonBPpWazDcBBBHa2g3Sz"
+        },
+        {
+          "name": "\u661f\u5c18Infinity",
+          "url": "https://open.spotify.com/artist/4bt1JFKukFNgBrMlBusd8h"
         }
       ],
-      "duration_ms": 219026,
-      "name": "\u611b\u8a00\u8449V",
-      "url": "https://open.spotify.com/track/78Kmvc9j6E8e0B1wNPVN8k"
+      "duration_ms": 184874,
+      "name": "\u518d\u73fe.leaper (feat. \u661f\u5c18Infinity)",
+      "url": "https://open.spotify.com/track/61XqGTv4byQCiUGvTcfGi1"
     },
     {
-      "added_at": "2026-02-25 06:58:00",
+      "added_at": "2026-03-04 06:20:09",
       "album": {
-        "name": "UniTECH",
-        "url": "https://open.spotify.com/album/090atwet7ih23L3xUIs2kZ"
+        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/23fpOlEQVNLeM6jRvfDpqW"
       },
       "artists": [
         {
-          "name": "\u306a\u307f\u3050\u308b",
-          "url": "https://open.spotify.com/artist/32ljht9dPnlZACgqyVTn6c"
+          "name": "Omoi",
+          "url": "https://open.spotify.com/artist/1infnYC6dYWHOK0xtPRmAq"
         },
         {
           "name": "Hatsune Miku",
           "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
         }
       ],
-      "duration_ms": 180707,
-      "name": "UniTECH (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/0NlyD9PKPT0HhRUbQwGh8t"
-    },
-    {
-      "added_at": "2026-02-25 06:58:22",
-      "album": {
-        "name": "\u7279\u5225\u6551\u6e08\u59d4\u54e1\u4f1a",
-        "url": "https://open.spotify.com/album/0SzXXVJqmwvRwT8YHxzVEU"
-      },
-      "artists": [
-        {
-          "name": "32ki",
-          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "GUMI",
-          "url": "https://open.spotify.com/artist/2XEx6N3gknSmtshM0PVuxu"
-        },
-        {
-          "name": "IA",
-          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
-        },
-        {
-          "name": "v4 flower",
-          "url": "https://open.spotify.com/artist/00cIZbjCgo4DfJzJoaZRT6"
-        },
-        {
-          "name": "\u53ef\u4e0d",
-          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
-        },
-        {
-          "name": "\u91cd\u97f3\u30c6\u30c8",
-          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "\u7279\u5225\u6551\u6e08\u59d4\u54e1\u4f1a (feat. \u521d\u97f3\u30df\u30af&GUMI&IA&v4 flower&\u53ef\u4e0d&\u91cd\u97f3\u30c6\u30c8)",
-      "url": "https://open.spotify.com/track/4vvUB1Rfz8eHR1ORQ6NH4k"
+      "duration_ms": 208563,
+      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/01RfcnlgOJRqPANze1CPji"
     },
     {
       "added_at": "2026-02-25 06:58:51",
@@ -163,22 +199,6 @@
       "duration_ms": 124655,
       "name": "MTMTM (feat. Hatsune Miku)",
       "url": "https://open.spotify.com/track/1ElobvxjNGURDREqbCY4R4"
-    },
-    {
-      "added_at": "2026-02-25 06:59:38",
-      "album": {
-        "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce\u30fb\u30ad\u30f3\u30bf\u30ed\u30ad\u30e3\u30f3\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/4Ef22Oayl9RrppN43UDRr8"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce",
-          "url": "https://open.spotify.com/artist/2NCBtQRDl7uaYosK11b9DP"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "\u30cf\u30e0\u30d1\u30c1\u30fc\u30ce\u30fb\u30ad\u30f3\u30bf\u30ed\u30ad\u30e3\u30f3\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/0arXXBikMmbfLu6V3rzLH7"
     }
   ],
   "unique_name": "\u30cb\u30b3\u30cb\u30b3 VOCALOID SONGS TOP20",

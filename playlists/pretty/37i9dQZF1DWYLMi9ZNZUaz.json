@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: HIEUTHUHAI\n",
-  "num_followers": 119100,
+  "num_followers": 119131,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
-        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
-      },
-      "artists": [
-        {
-          "name": "HIEUTHUHAI",
-          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
-        }
-      ],
-      "duration_ms": 206111,
-      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
-      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
         "name": "Y\u00eau 5",
         "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 240000,
       "name": "Y\u00eau 5",
       "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
+        "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+        "url": "https://open.spotify.com/album/0it2YRYxtq66pqOfKvh11i"
+      },
+      "artists": [
+        {
+          "name": "HIEUTHUHAI",
+          "url": "https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY"
+        }
+      ],
+      "duration_ms": 206111,
+      "name": "N\u01b0\u1edbc M\u1eaft C\u00e1 S\u1ea5u",
+      "url": "https://open.spotify.com/track/39XiO6D9cuMfJXObD6gVjY"
     },
     {
       "added_at": "2026-02-15 05:08:55",
@@ -511,6 +511,26 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
+        "name": "99%",
+        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
+      },
+      "artists": [
+        {
+          "name": "RPT MCK",
+          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
+        },
+        {
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
+      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
         "name": "Don't C\u00f4i",
         "url": "https://open.spotify.com/album/2gaxwzgOYY6DxVicv6EGkC"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 215850,
       "name": "Hai \u0111\u1ee9a nh\u00f3c",
       "url": "https://open.spotify.com/track/3AjXaNF3TPcdi5vTiQZxva"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
-        "name": "99%",
-        "url": "https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu"
-      },
-      "artists": [
-        {
-          "name": "RPT MCK",
-          "url": "https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL"
-        },
-        {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "Ch\u1ec9 M\u1ed9t \u0110\u00eam N\u1eefa Th\u00f4i",
-      "url": "https://open.spotify.com/track/28bxbqNcAuNxYDZYet6eZ7"
     },
     {
       "added_at": "2026-02-15 05:08:55",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-02-15 05:08:55",
       "album": {
+        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
+      },
+      "artists": [
+        {
+          "name": "Andree Right Hand",
+          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
+        }
+      ],
+      "duration_ms": 160848,
+      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
+      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
+    },
+    {
+      "added_at": "2026-02-15 05:08:55",
+      "album": {
         "name": "Ch\u1ea5m H\u1ebft",
         "url": "https://open.spotify.com/album/6wqFfap6TzhtFy9krk8OQj"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 186823,
       "name": "Ch\u1ea5m H\u1ebft",
       "url": "https://open.spotify.com/track/75weJdjMaaF016Df8BNl0f"
-    },
-    {
-      "added_at": "2026-02-15 05:08:55",
-      "album": {
-        "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-        "url": "https://open.spotify.com/album/7qPMuPHg2shbQIGyxOd09A"
-      },
-      "artists": [
-        {
-          "name": "Andree Right Hand",
-          "url": "https://open.spotify.com/artist/4grjJqg7iwQ8RKHs8d9Snh"
-        }
-      ],
-      "duration_ms": 160848,
-      "name": "Ch\u01a1i Nh\u01b0 T\u1ee5i M\u1ef9",
-      "url": "https://open.spotify.com/track/255vSRpVq5YYKBJiem1BVx"
     },
     {
       "added_at": "2026-02-15 05:08:55",

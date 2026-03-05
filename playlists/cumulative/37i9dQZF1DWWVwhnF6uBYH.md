@@ -4,7 +4,7 @@
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-384 songs - 20 hr 1 min
+385 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/29LOQe4F0ahBUdRnZkm6xw) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 | 2023-08-08 | 2024-11-16 |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2023-08-08 | 2023-11-25 |
 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 | 2023-08-08 | 2023-10-07 |
-| [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 | 2024-11-06 |  |
+| [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 | 2024-11-06 | 2026-03-05 |
 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 | 2024-11-15 | 2026-02-10 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-01-03 |  |
 | [Corum](https://open.spotify.com/track/5Nic01Mo4dZzAgyU3hy4da) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:32 | 2025-07-30 | 2025-09-12 |
@@ -210,6 +210,7 @@
 | [LA PEOPLE](https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:33 | 2023-09-25 | 2024-03-16 |
 | [La Suma](https://open.spotify.com/track/1tzj4DDVNp6X2ltpdTGtZW) | [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl) | [La Suma](https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR) | 3:18 | 2023-12-22 |  |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2023-08-22 | 2025-01-04 |
+| [La Yoguriza](https://open.spotify.com/track/6Eezs4B0SeNyYJT5Y7bDUz) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Corridos Premium](https://open.spotify.com/album/1LncFLBzeDfYJ2uxSdbEVI) | 2:52 | 2026-02-27 |  |
 | [Labios de Cereza 2](https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capítulo 1: El Regreso Del Dragon](https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0) | 3:46 | 2024-10-18 | 2025-09-12 |
 | [LADY GAGA](https://open.spotify.com/track/0WCxpmafw3tOlUmiilGbsy) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6) | 3:32 | 2024-04-16 | 2024-10-19 |
 | [LADY GAGA](https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:32 | 2023-08-08 | 2024-04-19 |

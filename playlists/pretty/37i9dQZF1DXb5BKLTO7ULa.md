@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Lil Kleine, Samuel Welten & Bankzitters, Bruno Mars en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,879 likes - 104 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,881 likes - 104 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

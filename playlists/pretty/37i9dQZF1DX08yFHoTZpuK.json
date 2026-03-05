@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 23763,
+  "num_followers": 23808,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -899,22 +899,34 @@
     {
       "added_at": "2026-02-25 02:46:06",
       "album": {
-        "name": "Big Love (feat. Liset Alea)",
-        "url": "https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC"
+        "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
+        "url": "https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO"
       },
       "artists": [
         {
-          "name": "Snowk",
-          "url": "https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r"
+          "name": "TYT",
+          "url": "https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw"
         },
         {
-          "name": "Liset Alea",
-          "url": "https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv"
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        },
+        {
+          "name": "YAKSA",
+          "url": "https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR"
+        },
+        {
+          "name": "TJO",
+          "url": "https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN"
+        },
+        {
+          "name": "Tyler Carter",
+          "url": "https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s"
         }
       ],
-      "duration_ms": 293170,
-      "name": "Big Love (feat. Liset Alea)",
-      "url": "https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln"
+      "duration_ms": 238288,
+      "name": "\u4e0d\u591c\u57ce - FUYAJO feat. Tyler Carter",
+      "url": "https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt"
     }
   ],
   "unique_name": "Tokyo Club Beat",

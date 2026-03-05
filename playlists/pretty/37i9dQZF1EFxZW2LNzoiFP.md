@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130 likes - 281 songs - 16 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 281 songs - 16 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,8 +154,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 144 | [Palomita Negrita](https://open.spotify.com/track/2dOBdBDLjEZlcpc6lC2mQ6) | [Gabriela Richardson](https://open.spotify.com/artist/69YKwunlA0xl2yMS12cyMu) | [ISOLA](https://open.spotify.com/album/0oBxa56yxjesMkTF5StVML) | 4:05 |
 | 145 | [Wildfire](https://open.spotify.com/track/0a2J1ldF52r3veAXui3MJL) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:40 |
 | 146 | [Route 44](https://open.spotify.com/track/0W10s9dFD9kQF6FpuCkVuv) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:34 |
-| 147 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
-| 148 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 147 | [No Time](https://open.spotify.com/track/3EWzmnpmKKwwM7lUT2q22u) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [The Drama](https://open.spotify.com/album/7t04xptRT83AnNFdsajTYQ) | 3:43 |
+| 148 | [Dancing](https://open.spotify.com/track/2GaMidZlf2kO3L1ZvORSP5) | [Spencer Barnett](https://open.spotify.com/artist/036LxbpsZt0VzZAgxYOEM5) | [Dancing](https://open.spotify.com/album/6ztdw1jAN5UZjj8RPioBIq) | 2:41 |
 | 149 | [Prom Dress](https://open.spotify.com/track/07RKsrgVVYNuHjJeI1EVpa) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Prom Dress](https://open.spotify.com/album/4tx8bkWjPjYLNNyzJfqFUq) | 3:07 |
 | 150 | [Spinning Around](https://open.spotify.com/track/351gVsgUdQGkWk1RdlvB9S) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 3:22 |
 | 151 | [In My Head](https://open.spotify.com/track/6UQy3o1wtZP4LUBhG1dCFQ) | [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [In My Head](https://open.spotify.com/album/4cgbsjwhZDUJPSMQsUX0EP) | 3:51 |
@@ -290,4 +290,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 280 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 | 281 | [Moving On](https://open.spotify.com/track/2WFd4EE5LLW0hqwyMTS7iS) | [R E N](https://open.spotify.com/artist/1uUI6SnnLWwpurgqePyxRv) | [Moving On](https://open.spotify.com/album/0aSBgOE9wpT7qw00WXjzWL) | 4:08 |
 
-Snapshot ID: `AcLLFgAAAAAiToXLcW39UBE9oVpHrCWx`
+Snapshot ID: `AcLQrAAAAACNXaxuyCSNGZ2C5jRATpMd`

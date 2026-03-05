@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,876 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,880 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 30 | [BP Love](https://open.spotify.com/track/7mDbzMJplzWKZxrula4ddy) | [Jessica Allossery](https://open.spotify.com/artist/40GxtoOMHs0ux7Wfs3C8Ob), [The Butterfly Room](https://open.spotify.com/artist/6iPsFW8Vx81G68wYEaioQA) | [BP Love](https://open.spotify.com/album/2DZbccCK8sWid5r8GCwtS2) | 2:06 |
 | 31 | [A Beautiful Life](https://open.spotify.com/track/08tISrq05HwXHhSHG0ABbQ) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [A Beautiful Life](https://open.spotify.com/album/79aSUbgxr9M52YmWOeNzz8) | 3:16 |
 | 32 | [Sugar in the Tank](https://open.spotify.com/track/02DPSOj7dXlKBbKZ5BTSJj) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Sugar in the Tank](https://open.spotify.com/album/4IQsbsp2zlYEWgijqZk2ar) | 3:42 |
-| 33 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
-| 34 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
+| 33 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 |
+| 34 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 35 | [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 |
 | 36 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
 | 37 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |

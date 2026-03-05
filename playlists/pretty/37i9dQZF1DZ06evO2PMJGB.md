@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,035 likes - 46 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,042 likes - 46 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 30 | [Onde Anda Você](https://open.spotify.com/track/1Ir4ixntD7SXBLK1OZI2fr) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:32 |
 | 31 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
 | 32 | [ANACONDA \*o\* \~\~\~](https://open.spotify.com/track/2342lPAZ9zddhgAQEiLx4V) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 3:03 |
-| 33 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
+| 33 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
 | 34 | [Carta ao Tom 74](https://open.spotify.com/track/4zkEPGEg0k40aFpUDlX47g) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:34 |
-| 35 | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/track/2m6ZDDrTvDQtKbwNFyI3r5) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [MAMA.CITA \(hasta la vista\)](https://open.spotify.com/album/4LphJdIxg6Mf8FzNOa5hbX) | 2:32 |
+| 35 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 |
 | 36 | [INTERE$$EIRA](https://open.spotify.com/track/0Iw6WyxOrleibC0j0fRJmk) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [DOCE 22](https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x) | 2:10 |
 | 37 | [CACHORRINHAS](https://open.spotify.com/track/7KWKWJnbGJ3Soag6Oopion) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CACHORRINHAS](https://open.spotify.com/album/290wcRNv42S3KICKFYmTu6) | 2:14 |
 | 38 | [Só Tinha de Ser Com Você](https://open.spotify.com/track/4sXcwMbKlD9eEy4gTK4t2L) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Bossa Sempre Nova](https://open.spotify.com/album/5GD7XtF06kvgZZSkdUM1xU) | 2:34 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 45 | [NOT Ü](https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [NOT Ü](https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk) | 2:19 |
 | 46 | [Não Sirvo \- Ao Vivo](https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Não Sirvo \(Ao Vivo\)](https://open.spotify.com/album/2ZcRV9LpoGmX7kgRTOD7VN) | 2:41 |
 
-Snapshot ID: `aaTTAAAAAABL8I2Z3IRdQp/5xsn8n2JF`
+Snapshot ID: `aaYkgAAAAAB8sq1aYE2QMnE6BA0De+hL`

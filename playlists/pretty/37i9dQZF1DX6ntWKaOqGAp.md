@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: Maverick Mom
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,988 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,986 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 33 | [lulu.](https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [lulu.](https://open.spotify.com/album/2bgYqKlmGJkD5ugrOyK4bI) | 4:30 |
 | 34 | [My Answer](https://open.spotify.com/track/5sb1ngao5lKvPfGBiBsQW8) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [My Answer](https://open.spotify.com/album/0P2qYoVgXNwR6zsxSYhyn8) | 3:32 |
 | 35 | [Tokyo God Street Boys](https://open.spotify.com/track/3kOq5gclHD2iue7sZtzbg9) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [THE GOLDEN PROTOTYPE.](https://open.spotify.com/album/1U452pfURCdxtWKA63hxtk) | 3:50 |
-| 36 | [Track 3](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 0:00 |
+| 36 | [爪色とグラスの縁](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 3:48 |
 | 37 | [ありがとう、ロックンロール](https://open.spotify.com/track/5IXlFGg8M1JD1j0l4DP7wo) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [ありがとう、ロックンロール](https://open.spotify.com/album/0NDKp63QJVSLEoNpbMyVMP) | 5:18 |
 | 38 | [きらめきだった](https://open.spotify.com/track/2Y3n8cbfyRJoRiNT0Jcgcp) | [omeme tenten](https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC) | [きらめきだった](https://open.spotify.com/album/4hrD4p9UPL6Uf9rCT19kEq) | 3:55 |
 | 39 | [バグモンスター](https://open.spotify.com/track/4ZDNHbZ8TfDOvN75MO2awA) | [神が残した夢を喰う。](https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o) | [バグモンスター](https://open.spotify.com/album/4WYaA3zNRLPdVbiMYKDKiR) | 3:41 |

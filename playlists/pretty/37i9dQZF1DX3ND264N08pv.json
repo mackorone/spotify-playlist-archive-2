@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 93133,
+  "num_followers": 93200,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
-        "name": "Pennywise (Deadly Guns Remix)",
-        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Pennywise - Deadly Guns Remix",
-      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
         "name": "Bass Go Boom",
         "url": "https://open.spotify.com/album/7h3i3y44K4yQDUgCxt9CKk"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 160000,
       "name": "Bass Go Boom",
       "url": "https://open.spotify.com/track/7Iy0uVPtplh8WsntcIXP0J"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
+        "name": "Pennywise (Deadly Guns Remix)",
+        "url": "https://open.spotify.com/album/3pYxt3quOJYXUecq92TgFb"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Pennywise - Deadly Guns Remix",
+      "url": "https://open.spotify.com/track/6m8neHWouA9kxypGPNwDA4"
     },
     {
       "added_at": "2026-02-26 23:00:48",
@@ -395,30 +395,6 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
-        "name": "Dynamite (2025 OST)",
-        "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        },
-        {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
-        }
-      ],
-      "duration_ms": 173055,
-      "name": "Dynamite - 2025 OST",
-      "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
         "name": "Burn Out",
         "url": "https://open.spotify.com/album/0qTZSwiA8pCbsKxbWOSE7w"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 161684,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/1nN8uMR9h1pk6wvXYuLG5R"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
+        "name": "Dynamite (2025 OST)",
+        "url": "https://open.spotify.com/album/570rtLwHNT8n9L9Cc6zkPZ"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        },
+        {
+          "name": "Satirized",
+          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
+        },
+        {
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+        }
+      ],
+      "duration_ms": 173055,
+      "name": "Dynamite - 2025 OST",
+      "url": "https://open.spotify.com/track/2gl1NQubq0fUi8bgEtPHFK"
     },
     {
       "added_at": "2026-02-26 23:00:48",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
+        "name": "Kick Train",
+        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
+      },
+      "artists": [
+        {
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
+        },
+        {
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "Kick Train",
+      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
         "name": "The FOMO",
         "url": "https://open.spotify.com/album/4LINhO5yRImXtNG2BPtvbx"
       },
@@ -519,26 +539,6 @@
       "duration_ms": 208800,
       "name": "The FOMO",
       "url": "https://open.spotify.com/track/5wfRtFvcoeRQh03fuXOd6q"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
-        "name": "Kick Train",
-        "url": "https://open.spotify.com/album/4V2pEdpdqcX2mjgj1CUiv1"
-      },
-      "artists": [
-        {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        },
-        {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Kick Train",
-      "url": "https://open.spotify.com/track/7GKvhhQfOGUNqT1AvVigEJ"
     },
     {
       "added_at": "2026-02-26 23:00:48",
@@ -747,42 +747,6 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
-        "name": "Jackpot Killah",
-        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        },
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Jackpot Killah",
-      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
-        "name": "The Nightmare Man",
-        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
-      },
-      "artists": [
-        {
-          "name": "Angerfist",
-          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "The Nightmare Man",
-      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
         "name": "CHUCKY",
         "url": "https://open.spotify.com/album/1anIjBMlI6h1uSvTj2tiGO"
       },
@@ -807,6 +771,22 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
+        "name": "The Nightmare Man",
+        "url": "https://open.spotify.com/album/3oXDaPVMjVKy0QdScVeYyU"
+      },
+      "artists": [
+        {
+          "name": "Angerfist",
+          "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "The Nightmare Man",
+      "url": "https://open.spotify.com/track/1KylFXhenI0dDY3tdg2abD"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
         "name": "WE DONT PLAY",
         "url": "https://open.spotify.com/album/47g3muCTnVTUgBtaE3uxau"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 141346,
       "name": "WE DONT PLAY",
       "url": "https://open.spotify.com/track/3hzb7yFb33bHzEXn3Cc8wm"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
+        "name": "Jackpot Killah",
+        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Jackpot Killah",
+      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
     },
     {
       "added_at": "2026-02-26 23:00:48",
@@ -935,6 +935,30 @@
     {
       "added_at": "2026-02-26 23:00:48",
       "album": {
+        "name": "BASS CANNON",
+        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
+      },
+      "artists": [
+        {
+          "name": "Slaughterhouse",
+          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
+        },
+        {
+          "name": "N-Vitral",
+          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
+        },
+        {
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+        }
+      ],
+      "duration_ms": 129970,
+      "name": "BASS CANNON",
+      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
+    },
+    {
+      "added_at": "2026-02-26 23:00:48",
+      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I"
       },
@@ -959,30 +983,6 @@
       "duration_ms": 173055,
       "name": "Nothing To Lose",
       "url": "https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:48",
-      "album": {
-        "name": "BASS CANNON",
-        "url": "https://open.spotify.com/album/4IJqXcnHeWcENkMBKwcvBD"
-      },
-      "artists": [
-        {
-          "name": "Slaughterhouse",
-          "url": "https://open.spotify.com/artist/5xIrxXqP6GhNa8AX6wYSV9"
-        },
-        {
-          "name": "N-Vitral",
-          "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
-        },
-        {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
-        }
-      ],
-      "duration_ms": 129970,
-      "name": "BASS CANNON",
-      "url": "https://open.spotify.com/track/7fB5h3FffLhYp3HrH9JkWp"
     },
     {
       "added_at": "2026-02-26 23:00:48",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,740 songs - 10 day 14 hr 0 min
+4,741 songs - 10 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1939,7 +1939,7 @@
 | [idyll](https://open.spotify.com/track/0GirVGtZ50YAHXdtcrVIgy) | [Jonjthan](https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx) | [idyll](https://open.spotify.com/album/4BrYq3nCEijPj9k8IvTDOB) | 1:13 | 2023-11-21 | 2023-11-27 |
 | [idyll](https://open.spotify.com/track/4DDUkQ9uqDpWBzJQuPErrI) | [Jonjthan](https://open.spotify.com/artist/3SjhqYt7O9ANKZgMNnbcfx) | [idyll](https://open.spotify.com/album/5SrwygCxFLQtFY1NNWJuPA) | 1:13 | 2023-11-15 | 2023-11-18 |
 | [idyll](https://open.spotify.com/track/3hDGLi1TjRpnZ2NbpQv42R) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [idyll](https://open.spotify.com/album/0tD93sRLtDnm47FQvHqmhQ) | 1:13 | 2023-11-20 | 2023-11-22 |
-| [If I Didn't Know You](https://open.spotify.com/track/6naFuQGWFBHThc3fppOjbT) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [If I Didn't Know You](https://open.spotify.com/album/1sNV3qzZJDjB9Hc7K5BsFp) | 3:28 | 2026-03-03 |  |
+| [If I Didn't Know You](https://open.spotify.com/track/6naFuQGWFBHThc3fppOjbT) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [If I Didn't Know You](https://open.spotify.com/album/1sNV3qzZJDjB9Hc7K5BsFp) | 3:28 | 2026-03-03 | 2026-03-05 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-21 | 2025-01-30 |
 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 | 2023-05-16 | 2023-05-23 |
 | [if u think i'm pretty](https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [if u think i'm pretty](https://open.spotify.com/album/4bH2fufFWKIdtVbOI8em1u) | 2:08 | 2023-11-10 | 2023-12-05 |
@@ -2531,6 +2531,7 @@
 | [Mania De Você](https://open.spotify.com/track/6owwZC8gUvrBuygvOHaYXb) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO) | 4:55 | 2023-05-11 | 2023-05-18 |
 | [MANIAC](https://open.spotify.com/track/7BDHDiidJ8WV349p3HTxTV) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ODDINARY](https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF) | 3:02 | 2022-04-12 | 2022-04-20 |
 | [MANIAC](https://open.spotify.com/track/618OKP1lBkNJL8uZdNSvQE) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 4th Mini Album 'VERSUS'](https://open.spotify.com/album/56EQPw5TQ6OPVYbbmuzw7y) | 3:15 | 2023-11-21 | 2023-12-03 |
+| [MANIFESTAZIONE D'AMORE](https://open.spotify.com/track/5Ydf2WBhw0PVcvqJtpXNAw) | [Mazzariello](https://open.spotify.com/artist/2EvBrGxfXTPDSZLkYAeiO1) | [GRANDI SUCCESSI](https://open.spotify.com/album/0YCxr5WiOLY1xQp79275Dn) | 3:04 | 2026-03-04 |  |
 | [Manike \(From "Thank God"\)](https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo) | [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Surya Ragunaathan](https://open.spotify.com/artist/0GiAC4VvvYCypjRH6IiasK) | [Manike \(From "Thank God"\)](https://open.spotify.com/album/30CfQvXOWrJx6kCglMcbo3) | 3:17 | 2022-10-11 | 2022-11-02 |
 | [Mann im Spiegel](https://open.spotify.com/track/1BE3EIYISnygOwhIvoCRs4) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5) | [PLATINBLOCK](https://open.spotify.com/album/0rvvkv9MNmAx7HSS6kYknL) | 2:49 | 2025-11-05 | 2025-11-12 |
 | [Manolya](https://open.spotify.com/track/6MUv30zouC8LeRCB2VCcK3) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Manolya](https://open.spotify.com/album/1bXqjBmgsbKO0I8lUdGCKb) | 3:05 | 2023-08-01 | 2023-08-13 |

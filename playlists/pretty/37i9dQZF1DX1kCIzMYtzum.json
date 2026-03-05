@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 476424,
+  "num_followers": 476974,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -691,18 +691,22 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "LIGHTS GO OUT",
-        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
+        "name": "I Wanna Go - John Summit Remix",
+        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
       },
       "artists": [
         {
           "name": "John Summit",
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 158333,
-      "name": "LIGHTS GO OUT",
-      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
+      "duration_ms": 163478,
+      "name": "I Wanna Go - John Summit Remix",
+      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -803,22 +807,18 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "I Wanna Go - John Summit Remix",
-        "url": "https://open.spotify.com/album/0KlzqKIka3JbqCcpm1rteS"
+        "name": "LIGHTS GO OUT",
+        "url": "https://open.spotify.com/album/2Ha5IAL4jtiVibo7sv86Fj"
       },
       "artists": [
         {
           "name": "John Summit",
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 163478,
-      "name": "I Wanna Go - John Summit Remix",
-      "url": "https://open.spotify.com/track/7J3YKBt70o8iB3UXGtUiho"
+      "duration_ms": 158333,
+      "name": "LIGHTS GO OUT",
+      "url": "https://open.spotify.com/track/2iyMHe42Q6bY0mKp29KaHw"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -939,22 +939,26 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
+        "name": "Silence (John Summit Remix)",
+        "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
         },
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+          "name": "Sarah McLachlan",
+          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
+        },
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         }
       ],
-      "duration_ms": 215583,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
+      "duration_ms": 274736,
+      "name": "Silence - John Summit Remix",
+      "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -979,26 +983,22 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Silence (John Summit Remix)",
-        "url": "https://open.spotify.com/album/1aB8GfR2SZqPihzjfWDj9p"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft"
       },
       "artists": [
         {
-          "name": "Delerium",
-          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Sarah McLachlan",
-          "url": "https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp"
-        },
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
         }
       ],
-      "duration_ms": 274736,
-      "name": "Silence - John Summit Remix",
-      "url": "https://open.spotify.com/track/2OP7UAuQF1OJbjeYXa5fhm"
+      "duration_ms": 215583,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "AXMO",
+          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
+        }
+      ],
+      "duration_ms": 131207,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
         "name": "He's A Pirate (Save Me)",
         "url": "https://open.spotify.com/album/2SPjOq3MyMAlksxhwMCu6z"
       },
@@ -1447,28 +1467,8 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
-      },
-      "artists": [
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        },
-        {
-          "name": "AXMO",
-          "url": "https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc"
-        }
-      ],
-      "duration_ms": 131207,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+        "name": "Go Back (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
       },
       "artists": [
         {
@@ -1476,13 +1476,17 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
         }
       ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 220538,
+      "name": "Go Back (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1527,30 +1531,6 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "\u2060\u2060Butterflies",
-      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
         "name": "Axel F (Take It To The Floor) (with Gabry Ponte)",
         "url": "https://open.spotify.com/album/1j7bXnp1uQSvoiL3AFu1WD"
       },
@@ -1575,8 +1555,32 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/0e1KpmhEst3f1TPw8xJY8S"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 227735,
+      "name": "\u2060\u2060Butterflies",
+      "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
@@ -1584,17 +1588,13 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1611,38 +1611,6 @@
       "duration_ms": 231365,
       "name": "Delete",
       "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "Fight Machine (feat. NAIIM)",
-        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
-      },
-      "artists": [
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Stylo",
-          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
-        },
-        {
-          "name": "Eli & Dani",
-          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
-        },
-        {
-          "name": "NAIIM",
-          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Fight Machine (feat. NAIIM)",
-      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1683,26 +1651,34 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Inside Our Hearts",
-        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
+        "name": "Fight Machine (feat. NAIIM)",
+        "url": "https://open.spotify.com/album/0CIjX6kABTRUYzgle1dZGS"
       },
       "artists": [
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         },
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+          "name": "Stylo",
+          "url": "https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI"
+        },
+        {
+          "name": "Eli & Dani",
+          "url": "https://open.spotify.com/artist/6wVwTnmkjVeWVAas91xIJw"
+        },
+        {
+          "name": "NAIIM",
+          "url": "https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF"
         }
       ],
-      "duration_ms": 234086,
-      "name": "Inside Our Hearts",
-      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
+      "duration_ms": 161250,
+      "name": "Fight Machine (feat. NAIIM)",
+      "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1723,6 +1699,30 @@
       "duration_ms": 181874,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/5L5kU9WFu7IPZQXzzxaRQV"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Inside Our Hearts",
+        "url": "https://open.spotify.com/album/1pUTJrfFFnXTWsyKe1Ixyh"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "duration_ms": 234086,
+      "name": "Inside Our Hearts",
+      "url": "https://open.spotify.com/track/7JxHc4FNqdIzIJyrpqYAdH"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1903,34 +1903,6 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
-        "name": "Euphoria (with Alok)",
-        "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        },
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        }
-      ],
-      "duration_ms": 151818,
-      "name": "Euphoria (with Alok)",
-      "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
       },
@@ -1999,6 +1971,34 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
+        "name": "Euphoria (with Alok)",
+        "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        }
+      ],
+      "duration_ms": 151818,
+      "name": "Euphoria (with Alok)",
+      "url": "https://open.spotify.com/track/2Fv1x10CiHukDdu96CYeHc"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/1duRCWQVzDQXiM5PVHcXVF"
       },
@@ -2063,6 +2063,26 @@
     {
       "added_at": "2026-02-27 05:00:52",
       "album": {
+        "name": "Can\u2019t Get Enough",
+        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 165276,
+      "name": "Can\u2019t Get Enough",
+      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
         "name": "Sleepless Nights",
         "url": "https://open.spotify.com/album/7oqrJHKyfWOJGJqLSG4iDW"
       },
@@ -2083,26 +2103,6 @@
       "duration_ms": 180422,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "Can\u2019t Get Enough",
-        "url": "https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 165276,
-      "name": "Can\u2019t Get Enough",
-      "url": "https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz"
     },
     {
       "added_at": "2026-02-27 05:00:52",

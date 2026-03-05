@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Devon Gilfillian
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,561 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,537 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 51 | [Funky Ghost](https://open.spotify.com/track/2UcssYWDdgSTA5SSus7DUv) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 4:08 |
 | 52 | [Reelin'](https://open.spotify.com/track/6PbIRZxg5wqwqngBSXsP0y) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Reelin'](https://open.spotify.com/album/03Mo7DOvoSR7GUcLE0w52C) | 3:28 |
 | 53 | [Stomp and Holler](https://open.spotify.com/track/21MxnjLrvBUY3XgwU7l6kn) | [Hard Working Americans](https://open.spotify.com/artist/5HFE1NUz1561kJM2lHI6AF) | [Hard Working Americans](https://open.spotify.com/album/4b8yPzgOgP0oeOU2SVeCSN) | 4:48 |
-| 54 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
-| 55 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
+| 54 | [Blue](https://open.spotify.com/track/6n2lgYmsqtJoOp2Qy4YNpJ) | [Meghan Linsey](https://open.spotify.com/artist/5CoW8VGpf9la64TUDhnkVn) | [Blue](https://open.spotify.com/album/7bFB8mpZVwH3prnKZIJJzw) | 3:06 |
+| 55 | [We Can Always Come Back To This](https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3) | [Brian Tyree Henry](https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK) | [We Can Always Come Back To This \(Music From The Series This Is Us\)](https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN) | 4:14 |
 | 56 | [Demons](https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Demons](https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE) | 4:29 |
 | 57 | [See It Through](https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 3:24 |
 | 58 | [Cold Times](https://open.spotify.com/track/1INvWY0xcIMij69ACS9JFm) | [Brent Cowles](https://open.spotify.com/artist/4leUsmAwvIuw4pXsAMwNBF) | [Cold Times](https://open.spotify.com/album/16Ms3KhV99SaBDqtY4j7y7) | 3:33 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 77 | [Trouble in Mind](https://open.spotify.com/track/0zAaoA2iJEYEL08wOc2F61) | [The Bumper Jacksons](https://open.spotify.com/artist/4orJo2KYI4j5rBsD7mAboN) | [Too Big World](https://open.spotify.com/album/0boScp6oqklWFnLxHXNlf2) | 4:37 |
 | 78 | [Fine and Mellow](https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:37 |
 | 79 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
-| 80 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
-| 81 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 |
+| 80 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 |
+| 81 | [Burn It Down](https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG) | [Jason Eady](https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Burn It Down](https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN) | 2:26 |
 | 82 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 |
 | 83 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 |
 | 84 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 86 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
 | 87 | [Circles](https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP) | [Bird and Byron](https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt) | [Circles](https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD) | 3:02 |
 | 88 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
-| 89 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
-| 90 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
+| 89 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
+| 90 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 
 Snapshot ID: `AAAAAHPr6V342HdUo1bu+8b3XGMTBBIs`

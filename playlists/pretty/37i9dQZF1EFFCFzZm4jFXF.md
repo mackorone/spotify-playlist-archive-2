@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104 likes - 126 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 105 likes - 126 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 109 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
 | 110 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
 | 111 | [Let It Out](https://open.spotify.com/track/4AqZUWdxtzz03RPUY9MaEo) | [ANIQUE](https://open.spotify.com/artist/3vtjf6C3LPZf3ZwP07fczx) | [Let It Out](https://open.spotify.com/album/6dSjheN3FKEcEUJAKIVMz8) | 2:57 |
-| 112 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
-| 113 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
+| 112 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
+| 113 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
 | 114 | [Bury Me](https://open.spotify.com/track/2KJctb7dOOZtYPpNVeXhSx) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 3:38 |
 | 115 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
 | 116 | [Enemy](https://open.spotify.com/track/68zwz4GQzRqu4ShtVRQlJk) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [The Fallout](https://open.spotify.com/album/47SL3rIIK8GLwpBJgJkGJD) | 2:34 |
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 125 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 126 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcLLSAAAAAA8xE7ffZ8g3H3KApV5yr/a`
+Snapshot ID: `AcLQrAAAAACUnMgUAoUPpAbNpNFpU4+p`

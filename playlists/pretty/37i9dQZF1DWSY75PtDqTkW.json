@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 117245,
+  "num_followers": 117254,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 242640,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
+      },
+      "artists": [
+        {
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Buffalo Springfield",
-        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Springfield",
-          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Point Of Know Return (Expanded Edition)",
         "url": "https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 206266,
       "name": "Dust in the Wind",
       "url": "https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Buffalo Springfield",
+        "url": "https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Springfield",
+          "url": "https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Toto IV",
         "url": "https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 330943,
       "name": "Rosanna",
       "url": "https://open.spotify.com/track/37BTh5g05cxBIRYMbw8g2T"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -871,6 +871,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Harvest Moon",
         "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 193200,
       "name": "Faith - Remastered",
       "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 217573,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 217386,
       "name": "Love Of My Life - Remastered 2011",
       "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 217573,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 189432,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "A Kind Of Magic (2011 Remaster)",
         "url": "https://open.spotify.com/album/0pEfDPZko6TnNOgrZMe5nn"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 264253,
       "name": "A Kind Of Magic - Remastered 2011",
       "url": "https://open.spotify.com/track/5RYLa5P4qweEAKq5U1gdcK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 189432,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 257373,
       "name": "Breakfast At Tiffany's",
       "url": "https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Chaos And The Calm",
         "url": "https://open.spotify.com/album/3GqsyMrJu3o8jLiGyBsBQW"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 238746,
       "name": "Hold Back The River",
       "url": "https://open.spotify.com/track/1KZyVnyptQcPzkx7ELCnZC"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Fire And Water",
-        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 330643,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 200666,
       "name": "Waiting On the World to Change",
       "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Fire And Water",
+        "url": "https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 330643,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/1gcESexgftSuLuML57Y69q"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/1jFhnVoJkcB4lf9tT0rSZS"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 309520,
       "name": "You've Got a Friend",
       "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Tango In The Night",
         "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
       },
@@ -3255,6 +3239,22 @@
       "duration_ms": 277480,
       "name": "I Still Haven't Found What I'm Looking For - Remastered 2007",
       "url": "https://open.spotify.com/track/7gozgbG5EBTukCFWToTRA5"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3307,22 +3307,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Woodland - EP",
-        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
@@ -3339,18 +3323,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+        "name": "Woodland - EP",
+        "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3371,18 +3355,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3407,18 +3391,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
       },
       "artists": [
         {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 288333,
-      "name": "The Boys Of Summer",
-      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3439,6 +3423,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/2yPVB4tLlnfBl8SgcX8qDv"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 288333,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/7KY40pRBPKQSaSe0j5nKUK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -3451,6 +3451,22 @@
       "duration_ms": 256653,
       "name": "Chan Chan",
       "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Welcome To The Real World",
+        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Mister",
+          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
+        }
+      ],
+      "duration_ms": 345840,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3483,22 +3499,6 @@
       "duration_ms": 215746,
       "name": "My Baby Just Cares for Me - 2013 Remastered Version",
       "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Welcome To The Real World",
-        "url": "https://open.spotify.com/album/1vmioa1hsabaxkYnYKROT1"
-      },
-      "artists": [
-        {
-          "name": "Mr. Mister",
-          "url": "https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ"
-        }
-      ],
-      "duration_ms": 345840,
-      "name": "Broken Wings",
-      "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3567,22 +3567,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
-      },
-      "artists": [
-        {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
-        }
-      ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -3595,6 +3579,22 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3667,18 +3667,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Nothing Like The Sun",
-        "url": "https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X"
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 266960,
-      "name": "Englishman In New York",
-      "url": "https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7"
+      "duration_ms": 252373,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3703,6 +3703,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Nothing Like The Sun",
+        "url": "https://open.spotify.com/album/4ecNI9MO1rG2p5Q9xUxQ4X"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 266960,
+      "name": "Englishman In New York",
+      "url": "https://open.spotify.com/track/5wVylZHmBid99XzEsz8Fk7"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Time of the Season",
         "url": "https://open.spotify.com/album/3xhlrGx740Jp150YJMD40I"
       },
@@ -3715,22 +3731,6 @@
       "duration_ms": 214026,
       "name": "Time of the Season",
       "url": "https://open.spotify.com/track/6im4Ks6SWUqwTGp7Cft1e7"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/74MfBIVOVHzQiJqfJ1dgTo"
     },
     {
       "added_at": "2024-11-13 17:10:11",

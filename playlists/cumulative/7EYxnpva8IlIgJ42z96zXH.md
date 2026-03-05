@@ -4,7 +4,7 @@
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-1,082 songs - 2 day 8 hr 50 min
+1,083 songs - 2 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Dopamine](https://open.spotify.com/track/0gy6fmn47eSk1jGMw8LABx) | [Opiuo](https://open.spotify.com/artist/69Fy7EM9qAFPdKSKLFU66b) | [Dopamine](https://open.spotify.com/album/69p7kVCg3aNBBRmucC48Ge) | 5:14 | 2022-07-29 | 2022-10-07 |
 | [DOUBLE D'Z](https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:20 | 2022-11-11 | 2023-01-13 |
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-27 | 2022-02-04 |
+| [Dracula](https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Dracula](https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4) | 3:25 | 2026-03-04 |  |
 | [Dreamin \(feat\. Daya\)](https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Dreamin \(feat\. Daya\)](https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN) | 2:51 | 2025-02-06 | 2025-06-24 |
 | [Dreamin' \(feat\. Second Chance\)](https://open.spotify.com/track/4TBD0OjfvPLnCtpIjDmqNS) | [ROËDS](https://open.spotify.com/artist/2zXCDM9a05PtruoSYRINGM), [Second Chance](https://open.spotify.com/artist/1eSBC2sgkztFVnRUcJSODE) | [Dreamin' \(feat\. Second Chance\)](https://open.spotify.com/album/2VgzCHLqwJx9zGAFRbJcYT) | 3:07 | 2021-07-24 | 2021-07-31 |
 | [Dreaming](https://open.spotify.com/track/4aq3SYTYUlDF1CKBcSnRUq) | [Royston Noell](https://open.spotify.com/artist/3ihMQzxAZJ6vjqNPdDn25O) | [Dreaming](https://open.spotify.com/album/2wEX9CEEhLpnzIS9rYQ7VQ) | 3:12 | 2023-12-08 | 2024-06-07 |

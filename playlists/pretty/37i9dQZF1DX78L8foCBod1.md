@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,337 likes - 130 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,345 likes - 130 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [VISIONS \- （『仮面ライダーゼッツ』主題歌）](https://open.spotify.com/track/3DD6HFNf1cOcCfhn1ghHIz) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VISIONS \(（『仮面ライダーゼッツ』主題歌）\)](https://open.spotify.com/album/0DY3ag3z7nQck27zY5tZN5) | 3:03 |
+| 1 | [VISIONS \- 『仮面ライダーゼッツ』主題歌](https://open.spotify.com/track/3DD6HFNf1cOcCfhn1ghHIz) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [VISIONS \(『仮面ライダーゼッツ』主題歌\)](https://open.spotify.com/album/0DY3ag3z7nQck27zY5tZN5) | 3:03 |
 | 2 | [H∅WL](https://open.spotify.com/track/62VDazmckQkZcrVvwW1syL) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [俺だけレベルアップな件 Season2 \-Arise from the Shadow\- Original Soundtrack](https://open.spotify.com/album/1RiSRSE9wGtGUxPaH9LZ5X) | 2:47 |
 | 3 | [JEOPARDY](https://open.spotify.com/track/6oMWSgvctf10gC6DxS75Al) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [JEOPARDY](https://open.spotify.com/album/7nE9ulTdvwmdZPQckPlHHL) | 3:57 |
 | 4 | [MONTAGE](https://open.spotify.com/track/35lRjn0gdvNNYpPmEjVDSa) | [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln) | [MONTAGE](https://open.spotify.com/album/3VEkzo2LI14ETYv0wM5192) | 2:59 |

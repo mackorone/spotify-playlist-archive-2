@@ -4,7 +4,7 @@
 
 > This is EARTHGANG\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 13 min
+69 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [L.O.V.E\. \(feat\. EARTHGANG, Jon Batiste & Sherwyn\)](https://open.spotify.com/track/5U5QLfYdaDd6frf5I70Xqs) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Groove Continental: Side A](https://open.spotify.com/album/4f4Mgrjdn7P6SoSLV6SWHI) | 2:49 | 2025-05-14 | 2025-05-27 |
 | [LIE TO ME](https://open.spotify.com/track/6Cd4O7wpDas5PQruBM58S4) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [GHETTO GODS](https://open.spotify.com/album/2NwAbsKSl0jrpFw7nyeX8v) | 4:07 | 2025-02-25 |  |
 | [Liquor Sto'](https://open.spotify.com/track/6fUHMhwKBSmetq2T1PvCKK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Strays with Rabies](https://open.spotify.com/album/3bYMVNcOHLDv2z6yWEl3yb) | 4:56 | 2025-02-25 | 2026-03-03 |
-| [Look Into My Eyes](https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Look Into My Eyes](https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp) | 3:03 | 2026-02-01 |  |
+| [Look Into My Eyes](https://open.spotify.com/track/4boENvqDvGPWtaZKFukgAq) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Moonglade Park](https://open.spotify.com/album/4wkiD8YFP3BFJRiyAcFZut) | 3:03 | 2026-03-05 |  |
+| [Look Into My Eyes](https://open.spotify.com/track/5ecgJKrVy6Kl7tcjo6QJg2) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Look Into My Eyes](https://open.spotify.com/album/4JoCQNTEXBtF9FdARsICHp) | 3:03 | 2026-02-01 | 2026-03-05 |
 | [LORD FORGIVE ME](https://open.spotify.com/track/3KVS5CzCxsfQ4iZcOpD7xk) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [moMINTs](https://open.spotify.com/album/2w6rI5vijQ6SnOyH0UN4S2) | 3:24 | 2025-02-25 |  |
 | [Lose Control](https://open.spotify.com/track/6xl52ErKTebAhTyH01MiE1) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [it's Franky baby!](https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9) | 2:36 | 2025-02-25 |  |
 | [Mecca \(with JID & EARTHGANG\)](https://open.spotify.com/track/7f6CWizFGRfpyOstAbyxy1) | [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [Spilligion](https://open.spotify.com/album/2L13Kv0sx6GPAHo7QTZLAy) | 4:50 | 2025-02-25 |  |

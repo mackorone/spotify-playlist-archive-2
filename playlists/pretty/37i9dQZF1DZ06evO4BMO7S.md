@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 
 > This is Japanese Breakfast\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,836 likes - 41 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,837 likes - 41 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 14 | [Diving Woman](https://open.spotify.com/track/6V7c8Dd40BKFqWIYS5zTXx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 6:32 |
 | 15 | [Mega Circuit](https://open.spotify.com/track/6ulXBujSnG7qR3vjURcw4u) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 3:04 |
 | 16 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/6fyMExLM9mmtXAQKCnTaZG) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:51 |
-| 17 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
+| 17 | [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 |
 | 18 | [Soft Sounds from Another Planet](https://open.spotify.com/track/17UaCbdhkzTaCj4DbKTrPW) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:20 |
 | 19 | [Honey Water](https://open.spotify.com/track/5JVEWVNVv8OYILCkHZkwvK) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 4:50 |
 | 20 | [The Woman That Loves You](https://open.spotify.com/track/0sCAvQ7CJ1HeCPWiJmYivu) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Psychopomp](https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G) | 2:24 |
-| 21 | [Posing In Bondage](https://open.spotify.com/track/33qgZ7mWvlH95efOGQqfzZ) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 4:04 |
+| 21 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 |
 | 22 | [Machinist](https://open.spotify.com/track/13FGWUlqQpGugvEcnEUqou) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua) | 3:37 |
 | 23 | [Here is Someone](https://open.spotify.com/track/6VfeVmzckgv3N0qYutzJOg) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 3:08 |
 | 24 | [Ibexxi Camp \(Night\)](https://open.spotify.com/track/7yD6F9iAImQr9yhpfG671w) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:30 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BMO7S.md) - [plain]
 | 40 | [Ballad 0 \- Recorded At Electric Lady Studios](https://open.spotify.com/track/4JsuDDnNj3EyhTsfcyqAzj) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Live At Electric Lady](https://open.spotify.com/album/6v1WdsONXHBh8sCWCQWYUJ) | 2:59 |
 | 41 | [Sansee \(Day\)](https://open.spotify.com/track/7oz2bT45ONhG22djgJnskz) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Sable \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY) | 2:58 |
 
-Snapshot ID: `aaTTAAAAAADkCAewhRbk5zGVgYfQdGGK`
+Snapshot ID: `aaYkgAAAAABpkgVEG8vItVf0ifGfkt8M`

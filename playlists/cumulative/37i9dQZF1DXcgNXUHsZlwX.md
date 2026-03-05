@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-564 songs - 1 day 9 hr 41 min
+565 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,6 +497,7 @@
 | [The Great Escape](https://open.spotify.com/track/1GIPP103zfsythULEpsmdw) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Close to Paradise](https://open.spotify.com/album/056yp65HkG28gOvkLPWAem) | 3:07 | 2021-10-06 | 2024-08-27 |
 | [The Pursuit of Happiness](https://open.spotify.com/track/5doM1qJXf7JN6kyGjRDlTq) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Landing](https://open.spotify.com/album/70gMWHmqFhPCpwJmdmTYxo) | 3:15 | 2021-10-09 | 2025-04-05 |
 | [The Wandering](https://open.spotify.com/track/78k51U7QHqHwMPefHUdfx1) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [The Wandering](https://open.spotify.com/album/7kHipLMzKMsBc48qETOGJW) | 3:20 | 2025-06-20 |  |
+| [They will draw halos around our heads](https://open.spotify.com/track/7F8SoTEmJwIo02xe6BCDfJ) | [Common Holly](https://open.spotify.com/artist/1UrMdRfi5y19p3ZkWSmKxk) | [They will draw halos around our heads](https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST) | 3:25 | 2026-02-27 |  |
 | [Those Years When Everything Changed](https://open.spotify.com/track/2zaWSK9c0VVy8pny45jnDI) | [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [Those Years When Everything Changed](https://open.spotify.com/album/2Khi3PQnMSlBA9aUG6IXaM) | 3:10 | 2026-01-30 |  |
 | [Toi pis moi pis c'est tout](https://open.spotify.com/track/5tOAwNMGpEPxFhgdcA40jb) | [Pat Groulx et les Bas Blancs](https://open.spotify.com/artist/7sj7sDK2ZfwTZ6vgPDcnpg) | [Toi pis moi pis c'est tout](https://open.spotify.com/album/2vDpAshyPeS95oGebMAI8g) | 3:28 | 2021-01-03\* | 2021-01-25 |
 | [tombeau](https://open.spotify.com/track/5dSPiSs9A6jOHluVuL5i9r) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [tombeau](https://open.spotify.com/album/657xhlrFfq3PAhaB7SDXUa) | 2:47 | 2022-06-10 | 2022-09-24 |
@@ -513,7 +514,7 @@
 | [Tu danses, condessa](https://open.spotify.com/track/2kM47CzCvo48ZaPGO6LFu2) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:17 | 2022-04-15 | 2025-11-06 |
 | [Tu danses, condessa](https://open.spotify.com/track/7KlRs6CShYQHqtejWyHYmZ) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Tu danses, condessa](https://open.spotify.com/album/1YTdXEYY0Hrx4v4OBY92cj) | 3:17 | 2022-02-11 | 2022-04-13 |
 | [Tu me manques \(pourtant tu es là\)](https://open.spotify.com/track/1BiKX3nYW3RDWGJmMpJ6hf) | [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Trafic](https://open.spotify.com/album/6QriOvmJsd9myTf4oyyJXB) | 4:13 | 2021-01-15 | 2021-11-13 |
-| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 |  |
+| [Tu ne seras jamais là](https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Tu ne seras jamais là](https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre) | 3:07 | 2021-10-03 | 2026-03-05 |
 | [Tu pars](https://open.spotify.com/track/0UZKY6BwwDUTtDxHDYY9dC) | [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [AVALANCHE \(n.f.\)](https://open.spotify.com/album/4MQDLiKQEN9d9Nojx2hBXb) | 3:08 | 2021-12-17 |  |
 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 | 2024-09-27 |  |
 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 | 2021-01-03\* |  |

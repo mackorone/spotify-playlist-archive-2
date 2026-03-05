@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 187 songs - 10 hr 39 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 10 likes - 188 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 185 | [1\-800](https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Ironmouse](https://open.spotify.com/artist/3rkwWB8rbBCNTrSvVUBa6C) | [1\-800](https://open.spotify.com/album/1EsY408Bg5cxj5SCa6ABaI) | 3:29 |
 | 186 | [Don't Threaten Me with a Good Time](https://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 3:33 |
 | 187 | [Emperor's New Clothes](https://open.spotify.com/track/3px2rAPu74ltbkf9eZsZ8h) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Death of a Bachelor](https://open.spotify.com/album/6twKQ0EsUJHVlAr6XBylrj) | 2:38 |
+| 188 | [Wheels Spinnin'](https://open.spotify.com/track/4ex4M0cUGAItldHZcBo0KE) | [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA) | [Good Company](https://open.spotify.com/album/1NR5naRbGSmMqV4ui1GQ67) | 3:49 |
 
-Snapshot ID: `AAABBusK0duC3gQdcgGNZh8Tems1MN1Z`
+Snapshot ID: `AAABB1o1n2xTPrXRMViQsiDjwmZnteao`

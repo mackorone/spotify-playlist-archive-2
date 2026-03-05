@@ -812,7 +812,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 164210,
       "name": "AltaFarra",
       "url": "https://open.spotify.com/track/6pC6dBA07DMsgwLk4Bz3Kv"
@@ -1914,6 +1914,32 @@
       "duration_ms": 126081,
       "name": "CCC",
       "url": "https://open.spotify.com/track/7uuqrSuCjWxPTCVyOeGMyt"
+    },
+    {
+      "album": {
+        "name": "DINAST\u00cdA (DELUXE)",
+        "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "LENCHO",
+          "url": "https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161620,
+      "name": "chiclona",
+      "url": "https://open.spotify.com/track/5Q4HTsEGKanxOwL1nYCnhQ"
     },
     {
       "album": {
@@ -9965,6 +9991,32 @@
     },
     {
       "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
+    },
+    {
+      "album": {
         "name": "Sabado",
         "url": "https://open.spotify.com/album/5Z97FpVRiVLgQrqZ3gQtWK"
       },
@@ -10862,7 +10914,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 118176,
       "name": "Te Culi\u00e9",
       "url": "https://open.spotify.com/track/6ead1xuJCtpxsGXJ8llYxq"

@@ -1681,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/6XbG3PkbCZZAF2ZtrWNjfV"
+      },
+      "artists": [
+        {
+          "name": "Dissolve US",
+          "url": "https://open.spotify.com/artist/0kLUBXOguFVq1IO9GMNpWI"
+        },
+        {
+          "name": "Extortionist",
+          "url": "https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200969,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/5UL1zKgQS6mCR849t6w2qM"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc"
       },
@@ -4107,6 +4129,24 @@
     },
     {
       "album": {
+        "name": "Disinhibition",
+        "url": "https://open.spotify.com/album/4kAK5H247U6hbLyKrQo2pM"
+      },
+      "artists": [
+        {
+          "name": "What Awaits Us",
+          "url": "https://open.spotify.com/artist/6LwPSi3RtIwbgcbEt7FYHk"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179111,
+      "name": "Disinhibition",
+      "url": "https://open.spotify.com/track/591PDhW8dDp3P9HutTyWm5"
+    },
+    {
+      "album": {
         "name": "Dissonanze",
         "url": "https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8"
       },
@@ -4732,6 +4772,24 @@
       "duration_ms": 223548,
       "name": "Eighty-Six",
       "url": "https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf"
+    },
+    {
+      "album": {
+        "name": "Electric Venom",
+        "url": "https://open.spotify.com/album/4D3uv2VBZd1Y3E8cWDx7HD"
+      },
+      "artists": [
+        {
+          "name": "vE3nOmM",
+          "url": "https://open.spotify.com/artist/3BA9T2JOjMbAgFk312F5Ep"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169719,
+      "name": "Electric Venom",
+      "url": "https://open.spotify.com/track/5SlcqXaD8zgLcpLQF8iHbA"
     },
     {
       "album": {
@@ -6797,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "Hellfire",
+        "url": "https://open.spotify.com/album/5rzOXIrIawdZM8zcNdpF6t"
+      },
+      "artists": [
+        {
+          "name": "Lonely wanderer",
+          "url": "https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207125,
+      "name": "Hellfire",
+      "url": "https://open.spotify.com/track/1oRFsvliJI0aZQeyCrBKwF"
+    },
+    {
+      "album": {
         "name": "HELLO DENIAL",
         "url": "https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd"
       },
@@ -7082,7 +7158,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 185975,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz"
@@ -13363,6 +13439,24 @@
     },
     {
       "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/4bb8pxp5PmMAJ02pRhF0cg"
+      },
+      "artists": [
+        {
+          "name": "HAPPY GENERATION",
+          "url": "https://open.spotify.com/artist/4cVghRRnmwq10vWKhENbXK"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173770,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/1tbnU7U1hQqdVsC0o3L9Gr"
+    },
+    {
+      "album": {
         "name": "Smoke 'em if you got 'em",
         "url": "https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff"
       },
@@ -16674,6 +16768,24 @@
       "duration_ms": 228626,
       "name": "Useless",
       "url": "https://open.spotify.com/track/10KZ7d58qC7JdRIyfTEbyy"
+    },
+    {
+      "album": {
+        "name": "VALIDATION",
+        "url": "https://open.spotify.com/album/6DVlGk6n7Rn8fX8drjMpRr"
+      },
+      "artists": [
+        {
+          "name": "PepeTheMenace",
+          "url": "https://open.spotify.com/artist/44BruGvujao9q3HWgJhKuQ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155299,
+      "name": "VALIDATION",
+      "url": "https://open.spotify.com/track/1Z3STtnRmKQ910xzDjMIZY"
     },
     {
       "album": {

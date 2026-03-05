@@ -1,12 +1,12 @@
 {
   "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 57397,
+  "num_followers": 57401,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADSz4jxGXha7ZNKEcm402MX",
+  "snapshot_id": "aaYkgAAAAADr5rxe+LxpzIvQSSOig5ga",
   "tracks": [
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cora",
-        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 164597,
-      "name": "Legendarios",
-      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Guadalajara",
         "url": "https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 229977,
       "name": "Guadalajara",
       "url": "https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cora",
+        "url": "https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 164597,
+      "name": "Legendarios",
+      "url": "https://open.spotify.com/track/5F37FuiLSSah3vW8Pr5sQD"
     },
     {
       "added_at": null,

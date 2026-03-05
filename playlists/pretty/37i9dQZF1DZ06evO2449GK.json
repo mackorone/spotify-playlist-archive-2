@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 62560,
+  "num_followers": 62578,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADy1+YP3pIGvM+ALsK9Utjq",
+  "snapshot_id": "aaYkgAAAAADR/C7PoXEtKHOAeUHdWVLz",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Funa",
-        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 210989,
-      "name": "La Funa",
-      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 244137,
       "name": "El Remate",
       "url": "https://open.spotify.com/track/5YQmvLdcJ7HrAt31eU4jBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Funa",
+        "url": "https://open.spotify.com/album/02wmDilrBYFz0cSkkhpmmI"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "La Funa",
+      "url": "https://open.spotify.com/track/3hs125LehJcsqxtgvzlU9e"
     },
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sancocho en Le\u00f1a",
-        "url": "https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Sancocho en Le\u00f1a",
-      "url": "https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 185806,
       "name": "Suero Casero",
       "url": "https://open.spotify.com/track/7qnyvO9BqJFON0Vh3IE0Kv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sancocho en Le\u00f1a",
+        "url": "https://open.spotify.com/album/0TgM0NVtPWfm1aPCYrbWaa"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Sancocho en Le\u00f1a",
+      "url": "https://open.spotify.com/track/1QUqKGKN1GvzA2qvAYi2cp"
     },
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ba\u00f1o de Ruda",
-        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 189318,
-      "name": "Ba\u00f1o de Ruda",
-      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 232000,
       "name": "Medellificaci\u00f3n",
       "url": "https://open.spotify.com/track/5WT2uE1Nd3m5nG3lhmyFfE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ba\u00f1o de Ruda",
+        "url": "https://open.spotify.com/album/4aOWw1CCZUHRPSqd7DQ7Td"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 189318,
+      "name": "Ba\u00f1o de Ruda",
+      "url": "https://open.spotify.com/track/1zuxs70IPIWEsqlrmhohDQ"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
-        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "Fruko y Sus Presos (2.018)",
-      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 223461,
       "name": "El Rey del Despecho",
       "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Letras May\u00fasculas (Reedici\u00f3n 2018)",
+        "url": "https://open.spotify.com/album/4pnGRjkikanhqwLk0F98iW"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "Fruko y Sus Presos (2.018)",
+      "url": "https://open.spotify.com/track/3wLZplvZc5OOSpKRxr9Uky"
     },
     {
       "added_at": null,
@@ -335,24 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "N.A.D.A.",
-      "url": "https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
-        "url": "https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD"
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
       "artists": [
         {
@@ -366,7 +350,23 @@
       ],
       "duration_ms": 235000,
       "name": "TNT",
-      "url": "https://open.spotify.com/track/1fvzWAi2LRov2P1xN6vMWh"
+      "url": "https://open.spotify.com/track/0eaXWFl4NKrL14zGqOVRt8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "N.A.D.A.",
+      "url": "https://open.spotify.com/track/6VpPd9Ka03ktsqQ4ucW1BD"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Chang\u00f3",
-      "url": "https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anarcolirykoz",
         "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220000,
       "name": "Estetograma",
       "url": "https://open.spotify.com/track/6i9kgNiuLPFKr8hepwkatB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Chang\u00f3",
+      "url": "https://open.spotify.com/track/3QhblCgkjpbYIkB6kfMsyE"
     },
     {
       "added_at": null,
@@ -475,26 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Servicios Ambulatorioz",
-        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
-      },
-      "artists": [
-        {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Rulaz Plazco",
-          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
-        }
-      ],
-      "duration_ms": 231413,
-      "name": "G\u00e9nero Rural",
-      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viejas Recetas Remixes y Otras Rarezas",
         "url": "https://open.spotify.com/album/3D9RotS2JIfLMEVT1lfBu8"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 183400,
       "name": "Los Genios de la Botella - Remix Gambeta",
       "url": "https://open.spotify.com/track/1vJKRRBEYz034bWewZz146"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Servicios Ambulatorioz",
+        "url": "https://open.spotify.com/album/13AZK07VZhsbPB5KhlRaw2"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Rulaz Plazco",
+          "url": "https://open.spotify.com/artist/04sQWOLwOBQW1EIAQGJF0s"
+        }
+      ],
+      "duration_ms": 231413,
+      "name": "G\u00e9nero Rural",
+      "url": "https://open.spotify.com/track/7oOKkNyeZaOzrjWNYsjr5P"
     },
     {
       "added_at": null,

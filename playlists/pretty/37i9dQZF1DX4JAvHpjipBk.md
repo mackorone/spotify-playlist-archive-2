@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Bruno Mars, Alex Warren, RAYE, Mitski, Swae Lee and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,522,834 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,522,616 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 36 | [Jamie](https://open.spotify.com/track/1CixWJUzpYMzFWkViPYcri) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Glory \(Extended\)](https://open.spotify.com/album/5ybA8BfD2SVzJQ0rwWIcCz) | 5:02 |
 | 37 | [My Loving](https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK) | [My Loving](https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3) | 2:50 |
 | 38 | [I Did You Wrong](https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi) | 2:52 |
-| 39 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 39 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 40 | [3 SYRUPS \(feat\. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest\)](https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 3:35 |
 | 41 | [BLACKHOLE](https://open.spotify.com/track/2ytQFMxdreEFPPZTtyDdqM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/5T94fnmXJxSmPVjWb6M50x) | 3:14 |
 | 42 | [MEJORES PASOS](https://open.spotify.com/track/2O0YSN8ReTbm777LSCFu5S) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [MEJORES PASOS](https://open.spotify.com/album/09MDaH5lux6DddzHIKiiWu) | 3:47 |

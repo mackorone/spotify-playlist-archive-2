@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 54592,
+  "num_followers": 54596,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,22 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
+        "name": "Nujabes PRAY Reflections",
+        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 275195,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
         "name": "\u591a\u5909\u6570",
         "url": "https://open.spotify.com/album/6lWSo35E2z9FBgbHuAEElU"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 184166,
       "name": "\u591a\u5909\u6570",
       "url": "https://open.spotify.com/track/1yrb9lYmUnu8jTC0gwGyUk"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
-        "name": "Nujabes PRAY Reflections",
-        "url": "https://open.spotify.com/album/2twxbqlVdtk1kzg8610aiM"
-      },
-      "artists": [
-        {
-          "name": "haruka nakamura",
-          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
-        }
-      ],
-      "duration_ms": 275195,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/3NNbuvmcBYQiTN1eKL3WVo"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "Jetty (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 69720,
-      "name": "Boardwalk",
-      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Pockets",
         "url": "https://open.spotify.com/album/5TauarB0YPZ45d4PvOxpbl"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 200489,
       "name": "Pockets",
       "url": "https://open.spotify.com/track/2aAeIDcFTkSEFh1mx6YNnD"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "Jetty (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ia7tMgfKYEGdYi7yWpHfD"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 69720,
+      "name": "Boardwalk",
+      "url": "https://open.spotify.com/track/1zmVh7dWFDF5SLgRhGEzzI"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "Yura Yura",
-        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
-      },
-      "artists": [
-        {
-          "name": "paniyolo",
-          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
-        }
-      ],
-      "duration_ms": 138426,
-      "name": "Yura Yura",
-      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "wave wave wave",
         "url": "https://open.spotify.com/album/6rPhVonnLIK2t1FuUMMyxP"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 294193,
       "name": "The Next vacation",
       "url": "https://open.spotify.com/track/2d25XyY84xgT4DFM2ANt1e"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "Yura Yura",
+        "url": "https://open.spotify.com/album/4I6LEZPwd2lRIsbRgfbOBd"
+      },
+      "artists": [
+        {
+          "name": "paniyolo",
+          "url": "https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr"
+        }
+      ],
+      "duration_ms": 138426,
+      "name": "Yura Yura",
+      "url": "https://open.spotify.com/track/5clAgVJ2jUqP9diNgNuV82"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "Sushi In Tokyo",
-        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
-      },
-      "artists": [
-        {
-          "name": "DVNA",
-          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
-        }
-      ],
-      "duration_ms": 211999,
-      "name": "Sushi In Tokyo",
-      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2SLHWaAJIjIO47xyKGVFYl"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 228196,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1qfyXSeN0JBmqLibE6J2nQ"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "Sushi In Tokyo",
+        "url": "https://open.spotify.com/album/4VaSmqWNTq0WV2YO0NKJHx"
+      },
+      "artists": [
+        {
+          "name": "DVNA",
+          "url": "https://open.spotify.com/artist/6yADvjIe1epS2B0tUJcfu1"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Sushi In Tokyo",
+      "url": "https://open.spotify.com/track/4SYjKQ4GmsRNfC4odrRENP"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -755,8 +755,8 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+        "name": "rias",
+        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
         }
       ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+      "duration_ms": 283170,
+      "name": "rias",
+      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -847,8 +847,8 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "rias",
-        "url": "https://open.spotify.com/album/5VTcKFRS2N17XvHvutoF2A"
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
       },
       "artists": [
         {
@@ -856,25 +856,9 @@
           "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
         }
       ],
-      "duration_ms": 283170,
-      "name": "rias",
-      "url": "https://open.spotify.com/track/3CZCrLdOuNdpprDXXjeH0S"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -895,6 +879,22 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
         "name": "UP AND DOWN Original Soundtrack",
         "url": "https://open.spotify.com/album/5j3KO0IOWfXbkjn4YlM3Y6"
       },
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "SHIBUYA 246",
-        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 171851,
-      "name": "SHIBUYA 246",
-      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Connection",
         "url": "https://open.spotify.com/album/3iFigjuA451SneLjONrGiK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 102000,
       "name": "Breezy",
       "url": "https://open.spotify.com/track/6SIm7CDSu8rzx0TajGOJXx"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "SHIBUYA 246",
+        "url": "https://open.spotify.com/album/40vdY6VAsuAgGXaWK6YO7U"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "SHIBUYA 246",
+      "url": "https://open.spotify.com/track/5BGcu5bwV51odilErIUURl"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "Day of the Moon",
-        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Day of the Moon",
-      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Reminisce",
         "url": "https://open.spotify.com/album/4uC5dQp9iXETYGVKaa6pso"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 172833,
       "name": "Reminisce",
       "url": "https://open.spotify.com/track/7LVs0f78kMJHBlIDrmE7u2"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "Day of the Moon",
+        "url": "https://open.spotify.com/album/0zV35xorjvTb9h7IZzZQJk"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Day of the Moon",
+      "url": "https://open.spotify.com/track/2iNw9WE8JjY1FxRaijrYFQ"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "tide sketch",
-        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 130908,
-      "name": "tide sketch",
-      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Sunrise",
         "url": "https://open.spotify.com/album/6hI75GsBZzJ5MaMXgdgFeB"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 168750,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4tZu0tRlNf8ZVsHUJd8vfy"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "tide sketch",
+        "url": "https://open.spotify.com/album/4n2xL62SCpwN2kuQWZ2DSm"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 130908,
+      "name": "tide sketch",
+      "url": "https://open.spotify.com/track/3olx1vNPEziegPrjO44r8O"
     },
     {
       "added_at": "2026-02-18 05:24:58",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-02-18 05:24:58",
       "album": {
-        "name": "Dragon Collection",
-        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
-      },
-      "artists": [
-        {
-          "name": "Four Face",
-          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
-        }
-      ],
-      "duration_ms": 222222,
-      "name": "Dragon Collection",
-      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
-    },
-    {
-      "added_at": "2026-02-18 05:24:58",
-      "album": {
         "name": "Meditation Loop",
         "url": "https://open.spotify.com/album/7u0RdGp0lZfmZGmU4bx1pc"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 256551,
       "name": "Meditation Loop",
       "url": "https://open.spotify.com/track/3O3x1XjurQCpCH6ATdF6AR"
+    },
+    {
+      "added_at": "2026-02-18 05:24:58",
+      "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
     },
     {
       "added_at": "2026-02-18 05:24:58",

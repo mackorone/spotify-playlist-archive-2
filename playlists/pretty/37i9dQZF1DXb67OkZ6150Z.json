@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 303180,
+  "num_followers": 303196,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
-        "name": "The Loved Ones",
-        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
-      },
-      "artists": [
-        {
-          "name": "Flyte",
-          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
-        }
-      ],
-      "duration_ms": 149637,
-      "name": "Archie, Marry Me",
-      "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
-    },
-    {
-      "added_at": "2026-02-25 16:53:43",
-      "album": {
         "name": "I Would Die 4 U",
         "url": "https://open.spotify.com/album/5vyzQPL0Qt25KNAc7co9FA"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
-        "name": "Put Your Head On My Shoulder",
-        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+        "name": "The Loved Ones",
+        "url": "https://open.spotify.com/album/2LaZxSt2InMpVEu7Wo4dng"
       },
       "artists": [
         {
-          "name": "Solya",
-          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
         }
       ],
-      "duration_ms": 151649,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
+      "duration_ms": 149637,
+      "name": "Archie, Marry Me",
+      "url": "https://open.spotify.com/track/0rcwROyUguj5RQa5pPKajI"
     },
     {
       "added_at": "2026-02-25 16:53:43",
@@ -791,6 +775,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2026-02-25 16:53:43",
+      "album": {
+        "name": "Put Your Head On My Shoulder",
+        "url": "https://open.spotify.com/album/2FmUCUROgEVXZB1FBFjVCc"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 151649,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2FlU4KkUdASLidKT7bo47p"
     },
     {
       "added_at": "2026-02-25 16:53:43",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
+        "name": "Steal My Sunshine / Novocaine For The Soul",
+        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 240002,
+      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+    },
+    {
+      "added_at": "2026-02-25 16:53:43",
+      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
       },
@@ -855,26 +875,6 @@
       "duration_ms": 182080,
       "name": "Our House",
       "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
-    },
-    {
-      "added_at": "2026-02-25 16:53:43",
-      "album": {
-        "name": "Steal My Sunshine / Novocaine For The Soul",
-        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
-      },
-      "artists": [
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 240002,
-      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     },
     {
       "added_at": "2026-02-25 16:53:43",
@@ -1003,26 +1003,6 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
-        "name": "2000 Miles (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "2000 Miles (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
-    },
-    {
-      "added_at": "2026-02-25 16:53:43",
-      "album": {
         "name": "Pure Shores",
         "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 239643,
       "name": "Come Give Me Love",
       "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2026-02-25 16:53:43",
+      "album": {
+        "name": "2000 Miles (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/4THFp0pVKS4HCMUMDrTJYe"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
+        }
+      ],
+      "duration_ms": 189372,
+      "name": "2000 Miles (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/1CmWAnDKY4W13XRH6dC5XX"
     },
     {
       "added_at": "2026-02-25 16:53:43",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
-    },
-    {
-      "added_at": "2026-02-25 16:53:43",
-      "album": {
         "name": "del mar county fair 2008",
         "url": "https://open.spotify.com/album/0uPCMgLfg1DpVnsjoVDok9"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 174888,
       "name": "del mar county fair 2008",
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
+    },
+    {
+      "added_at": "2026-02-25 16:53:43",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2026-02-25 16:53:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-02-25 16:53:43",
       "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
-    },
-    {
-      "added_at": "2026-02-25 16:53:43",
-      "album": {
         "name": "Charm You (Blondshell Version)",
         "url": "https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 178928,
       "name": "Charm You - Blondshell Version",
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
+    },
+    {
+      "added_at": "2026-02-25 16:53:43",
+      "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
     },
     {
       "added_at": "2026-02-25 16:53:43",

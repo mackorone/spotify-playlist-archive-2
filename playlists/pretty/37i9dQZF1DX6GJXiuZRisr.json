@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1609651,
+  "num_followers": 1609745,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -979,30 +979,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
-        },
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "Super Powers",
         "url": "https://open.spotify.com/album/22SPaE9g83ouMfV19VdZoi"
       },
@@ -1019,6 +995,22 @@
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 209899,
+      "name": "Melancholia",
+      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1047,18 +1039,26 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb"
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/7k18E2rVMfzex1XQ6TTVzG"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        },
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
         }
       ],
-      "duration_ms": 209899,
-      "name": "Melancholia",
-      "url": "https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa"
+      "duration_ms": 171428,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0iO8YEbZyUozUvgtgAhPqT"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1115,30 +1115,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Wherever You Are",
-        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Shaun Farrugia",
-          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
-        }
-      ],
-      "duration_ms": 207992,
-      "name": "Wherever You Are",
-      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/4x87urW3BcnGOCcKeSvl6Y"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 211905,
       "name": "Believe",
       "url": "https://open.spotify.com/track/55bRlRgB1055cuJ0xnvo8R"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Wherever You Are",
+        "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Shaun Farrugia",
+          "url": "https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw"
+        }
+      ],
+      "duration_ms": 207992,
+      "name": "Wherever You Are",
+      "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Reborn",
-        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Reborn",
-      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/4uR2mPMozlwPnL65llfXh9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 226000,
       "name": "Into The Light",
       "url": "https://open.spotify.com/track/7pxBdeweQKCFLnXOIDLVz2"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/0ik3Z4zEU1HbFCKUZmZR3w"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/3wTA4xEmnv08k6DT3T3wNI"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
-      },
-      "artists": [
-        {
-          "name": "PARISI",
-          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
-        }
-      ],
-      "duration_ms": 207638,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "before you go",
         "url": "https://open.spotify.com/album/0bRvZ6flyoQTRHOfSB83WS"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 258750,
       "name": "before you go",
       "url": "https://open.spotify.com/track/4y2wDeRQzaq6Yq2TiGTVCd"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0r55E05K16FLF3pFe4qlL5"
+      },
+      "artists": [
+        {
+          "name": "PARISI",
+          "url": "https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT"
+        }
+      ],
+      "duration_ms": 207638,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4Ba1bjL3Qa6QB0RYdjUc2k"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "Drop That Beat",
-        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        },
-        {
-          "name": "Ixxel",
-          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
-        }
-      ],
-      "duration_ms": 208915,
-      "name": "Drop That Beat",
-      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "Caught in a Moment",
         "url": "https://open.spotify.com/album/45l9SKxkBvjKvVwKbK3XA0"
       },
@@ -1779,6 +1759,26 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
+        "name": "Drop That Beat",
+        "url": "https://open.spotify.com/album/5HSSnZBsoHxq1Ch7LH9niU"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        },
+        {
+          "name": "Ixxel",
+          "url": "https://open.spotify.com/artist/4FuPIvoA4iAe0sVoEfXhal"
+        }
+      ],
+      "duration_ms": 208915,
+      "name": "Drop That Beat",
+      "url": "https://open.spotify.com/track/1zdpuot7uYIIPUAqKUcMap"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
         "name": "nocturnal",
         "url": "https://open.spotify.com/album/6GNVg7nMm1kKw8kS2MNcOg"
       },
@@ -1791,46 +1791,6 @@
       "duration_ms": 215734,
       "name": "nocturnal",
       "url": "https://open.spotify.com/track/0zpqJjeoccMVhzGuMqqz6G"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
-        "name": "Need A Little Love",
-        "url": "https://open.spotify.com/album/3Nsk5gtRDbZzdBc6K03Crs"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        },
-        {
-          "name": "CMD/CTRL",
-          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Need A Little Love",
-      "url": "https://open.spotify.com/track/7AMdIDKxQZkHOuRuMLqZ1z"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        },
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1855,6 +1815,46 @@
       "duration_ms": 220952,
       "name": "Cheating Heart",
       "url": "https://open.spotify.com/track/3PxsFDOgkVFphkop92aeXs"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/4VoDJLEzNcvNIMDSZ684yk"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        },
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6Qjj2GM9yVFD4mM9L3EfUx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "Need A Little Love",
+        "url": "https://open.spotify.com/album/3Nsk5gtRDbZzdBc6K03Crs"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Need A Little Love",
+      "url": "https://open.spotify.com/track/7AMdIDKxQZkHOuRuMLqZ1z"
     },
     {
       "added_at": "2026-02-27 05:00:44",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-02-27 05:00:44",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Gate",
-          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
-        }
-      ],
-      "duration_ms": 213281,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:44",
-      "album": {
         "name": "Each Other",
         "url": "https://open.spotify.com/album/47Rrq2YDYjBVgkEqvhsApv"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 197272,
       "name": "Wherever You Go",
       "url": "https://open.spotify.com/track/1EbzSgAawjmMdC4onsVj3Q"
+    },
+    {
+      "added_at": "2026-02-27 05:00:44",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/411WDzcQy7CVDVt1UYUiPj"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Gate",
+          "url": "https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS"
+        }
+      ],
+      "duration_ms": 213281,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6srHm0yHwDO6bALuR253JJ"
     },
     {
       "added_at": "2026-02-27 05:00:44",

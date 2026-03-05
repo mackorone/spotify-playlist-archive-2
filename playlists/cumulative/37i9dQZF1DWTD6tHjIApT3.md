@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: にしな Nishina
 
-3,703 songs - 9 day 20 hr 1 min
+3,703 songs - 9 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1914,7 +1914,6 @@
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2022-12-01 | 2022-12-07 |
 | [Toumeina](https://open.spotify.com/track/0d14hdzPAmU2OrhiTImPBo) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [Toumeina](https://open.spotify.com/album/3ZQyhAM2TQ5bsILlw4K0jh) | 3:59 | 2022-08-05 | 2022-08-10 |
 | [Trace](https://open.spotify.com/track/5x9WF5tsjeTZNBQmVmmqe5) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [The Story of Us](https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB) | 4:00 | 2026-03-03 |  |
-| [Track 1](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 0:00 | 2026-03-03 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-01 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
 | [Transparent](https://open.spotify.com/track/6dBrabvqXERdkVD7iAGRvs) | [HARUKATOMIYUKI](https://open.spotify.com/artist/6NEfWGRmyUfFmRTzlfWUWl) | [Transparent](https://open.spotify.com/album/6t4I19WNLvi4ouIwR9Q8M0) | 4:12 | 2022-06-24 | 2022-07-06 |
@@ -3381,6 +3380,7 @@
 | [淡雪](https://open.spotify.com/track/4MtS7gCstq3BrVINPW444c) | [Blu\-Swing](https://open.spotify.com/artist/3dKCIyXK94LWUnyvD8LepD) | [淡雪](https://open.spotify.com/album/2RIcS21eGsyF3OhWgKFbYW) | 3:22 | 2025-05-21 | 2025-05-28 |
 | [渚のアンラッキーボーイズ](https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD), [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [渚のアンラッキーボーイズ](https://open.spotify.com/album/1xFfuM57uda9hb7wMizQPS) | 5:21 | 2022-05-29 | 2022-06-01 |
 | [渦 \(neon\)](https://open.spotify.com/track/3Fis4bk5TSHQ9yupVAI1IB) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [neon](https://open.spotify.com/album/6MFq8UGpeyZW8dxFR6PNMp) | 5:13 | 2022-06-14 | 2022-07-19 |
+| [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 | 2026-03-03 |  |
 | [溶愛](https://open.spotify.com/track/18gSUw02jJnLiCzbB8ayFO) | [透花。](https://open.spotify.com/artist/6JKgk9U7uueLjmXyQ9QYXE) | [溶愛](https://open.spotify.com/album/4mJfNVOjMxW9dxY6GT3ggc) | 3:49 | 2022-05-31 | 2022-06-01 |
 | [漂流教室](https://open.spotify.com/track/3de6nOtyZc1KGPL4yITXiV) | [宮本沙也佳](https://open.spotify.com/artist/7fpqf4zJPZiobNSMbCmTo7) | [ギター弾き語り10番勝負](https://open.spotify.com/album/5RHHOfQlPEBUgB1EVrMm5g) | 2:32 | 2023-11-21 | 2023-11-29 |
 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 | 2023-06-06 | 2023-06-14 |

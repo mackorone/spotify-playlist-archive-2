@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Mackenzie Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,624 likes - 210 songs - 11 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,646 likes - 210 songs - 11 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

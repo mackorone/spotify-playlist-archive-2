@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > My love language is all of em, do all that $\#\*!
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,711 likes - 110 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,708 likes - 110 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faith Lies](https://open.spotify.com/track/7EoDxj5kugBVwOwc7oM9tL) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [With No Due Respect](https://open.spotify.com/album/78jeewfDxvpJB2SyLKjLSJ) | 3:45 |
-| 2 | [ily](https://open.spotify.com/track/7xHjE0jdQwzGIXBGQLrn8C) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 1:53 |
-| 3 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
-| 4 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 |
-| 5 | [Rosary \(feat\. Travis Scott\)](https://open.spotify.com/track/4FUQtedaG22FWZ6lGyRApm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:14 |
+| 2 | [Secondhand \(feat\. Rema\)](https://open.spotify.com/track/4Z5KKoBGxpJo8YbDcGQXd5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:46 |
+| 3 | [ily](https://open.spotify.com/track/7xHjE0jdQwzGIXBGQLrn8C) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 1:53 |
+| 4 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
+| 5 | [STAY HERE 4 LIFE \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2xsTsnA5QOFCnFXdEHGkli) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 5:46 |
 | 6 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 7 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 |
 | 8 | [Maybe](https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt) | [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Maybe](https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm) | 3:02 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 | 109 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 |
 | 110 | [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:36 |
 
-Snapshot ID: `AAAAADhC71xf1p36N592xzYagCPpGN/F`
+Snapshot ID: `AAAAAImyVgkzs4jYKW3zlGQiRQdcJB98`

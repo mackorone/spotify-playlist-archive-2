@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Ditonellapiaga in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 636,395 likes - 72 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 636,435 likes - 72 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

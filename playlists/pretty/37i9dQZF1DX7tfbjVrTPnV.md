@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,942 likes - 150 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,960 likes - 150 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 87 | [Barbeque](https://open.spotify.com/track/0nD3fm9ipkRVKeAmFbLMYl) | [Robert Earl Keen](https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP) | [The Party Never Ends](https://open.spotify.com/album/4lhMWQupmo7IWJX0cJt1gc) | 4:42 |
 | 88 | [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 |
 | 89 | [I'll Get Away](https://open.spotify.com/track/7kWysjLOai5rinqXAqkYRp) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Let It Go](https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0) | 4:08 |
-| 90 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
-| 91 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 90 | [The Damage](https://open.spotify.com/track/1vrPTLdGbLQjGo5mACEkqw) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Damage](https://open.spotify.com/album/4nDGBeKD6H3WJdzp3difOu) | 4:01 |
+| 91 | [Can't Be There Today](https://open.spotify.com/track/1djMyPP3cehzcLzwUyztXF) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Can't Be There Today](https://open.spotify.com/album/71bCOP5okbh8Gw5x5mc5m8) | 3:44 |
 | 92 | [Taxes on the Farmer Feeds Us All](https://open.spotify.com/track/1byebBYLkyIUdTNKUp8qS8) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [1970 \- 1987](https://open.spotify.com/album/7wp12pjjsFjBOxFOifOZzj) | 3:56 |
 | 93 | [Troublesome Waters](https://open.spotify.com/track/1SV7mIySMGQDOQNgZ2p6YA) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 5:18 |
 | 94 | [New York City](https://open.spotify.com/track/7swVIXSZYH9uO6UPOJttfO) | [Robby Hecht](https://open.spotify.com/artist/0ZDm55WIaMpvEkX8cY1AAk) | [Robby Hecht](https://open.spotify.com/album/6sDlcuZxmy17fvfZo1oac4) | 3:41 |

@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "Introducing...Lamont Landers",
+        "url": "https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ"
+      },
+      "artists": [
+        {
+          "name": "Lamont Landers",
+          "url": "https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166795,
+      "name": "Lotta Love",
+      "url": "https://open.spotify.com/track/6eY845OhNVvZaKgTG94pjl"
+    },
+    {
+      "album": {
         "name": "Love Me To Heaven",
         "url": "https://open.spotify.com/album/1UOsUheDy5xGJtpyHhu1t9"
       },
@@ -642,6 +660,28 @@
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212574,
+      "name": "Never Forget You",
+      "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
     },
     {
       "album": {
@@ -887,6 +927,24 @@
     },
     {
       "album": {
+        "name": "The Good Part",
+        "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "The Good Part",
+      "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
+    },
+    {
+      "album": {
         "name": "Girls and Boys",
         "url": "https://open.spotify.com/album/5S6f5k6au5uJpGhhQ0wgBw"
       },
@@ -960,6 +1018,24 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "Made by These Moments",
+        "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
+      },
+      "artists": [
+        {
+          "name": "The Red Clay Strays",
+          "url": "https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217307,
+      "name": "Wanna Be Loved",
+      "url": "https://open.spotify.com/track/0htNDNNRkFmQuESkq4eoqj"
     },
     {
       "album": {
@@ -1086,6 +1162,28 @@
       "duration_ms": 180757,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "album": {
+        "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+        "url": "https://open.spotify.com/album/4QQj3QOSKqEEuJ1RdhJiAf"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206504,
+      "name": "You\u2019ll Be The Proof (feat. Joy Williams)",
+      "url": "https://open.spotify.com/track/3IC5qtXccheQyYw27oSSD4"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWX4K9PXQnAXv"

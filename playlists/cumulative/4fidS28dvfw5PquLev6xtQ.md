@@ -2,9 +2,9 @@
 
 ### [RYM Top 100 Songs \(updated "bi"weekly\)](https://open.spotify.com/playlist/4fidS28dvfw5PquLev6xtQ)
 
-> She cube on my vore till I mash my triggers and make a flower for all y&\#x27;all gamers 💐 1440&\#x2F;100
+> What a two weeks this has been and why is there a triple song in the top 100!? Just adding Were Are and Is as it&\#x27;s the least popular\. Thanks Unwound 💖
 
-106 songs - 13 hr 35 min
+107 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Purple Rain](https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/2umoqwMrmjBBPeaqgYu6J9) | 8:41 | 2025-08-06 |  |
 | [Rapp Snitch Knishes](https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Mr\. Fantastik](https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb) | [MM..FOOD](https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N) | 2:52 | 2025-08-06 |  |
 | [Roundabout \- 2024 Remaster](https://open.spotify.com/track/466C6kwoJHLUJ8VHG98hCY) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Super Deluxe\)](https://open.spotify.com/album/78tN6vBPHHyNk4sZYnS5X4) | 8:36 | 2025-08-06 |  |
-| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2025-08-06 |  |
+| [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2025-08-06 | 2026-03-05 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/3srCbzeE3z0LupnOpdwh4h) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/1ww8GdNvrF0dgJbrnVZmAr) | 5:00 | 2025-08-06 |  |
 | [Shine On You Crazy Diamond, Pts\. 1\-5 \- 2011 Remaster](https://open.spotify.com/track/32dnKMni3I3gwUbWp4mi45) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(Remastered Version\)](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc) | 13:30 | 2025-08-06 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2025-08-06 |  |
@@ -103,6 +103,7 @@
 | [Voodoo Child \(Slight Return\)](https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 5:13 | 2026-01-08 | 2026-02-07 |
 | [War Pigs / Luke's Wall \- 2012 \- Remaster](https://open.spotify.com/track/2rd9ETlulTbz6BYZcdvIE1) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 7:54 | 2025-08-06 |  |
 | [Weird Fishes / Arpeggi](https://open.spotify.com/track/4wajJ1o7jWIg62YqpkHC7S) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 5:18 | 2025-08-06 |  |
+| [Were, Are and Was or Is](https://open.spotify.com/track/2eIwLOVPGud368M3OrNj5q) | [Unwound](https://open.spotify.com/artist/4YjpqCSDD7zwMQgPYJMqb0) | [Fake Train](https://open.spotify.com/album/0s9B9VnN71Msp8Yozx0xCM) | 5:44 | 2026-03-04 |  |
 | [Wesley's Theory](https://open.spotify.com/track/7Ks4VCY1wFebnOdJrM13t6) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [To Pimp A Butterfly](https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP) | 4:47 | 2025-08-06 |  |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2025-08-06 |  |
 | [When the Sun Hits](https://open.spotify.com/track/7aXUzHn4A6fGKofVPGCoeT) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/4i21O3uVh5palcfFhCjlT7) | 4:47 | 2025-08-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: LDA e Aka 7even
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,384 likes - 86 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,372 likes - 86 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 24 | [Canzone D'Amore](https://open.spotify.com/track/0Ufi0vac6DDTUAkgEAkb7B) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Canzone D'Amore](https://open.spotify.com/album/3IgaAZrMsLvmNEuJph8nnA) | 2:45 |
 | 25 | [Non è mica te](https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione](https://open.spotify.com/album/3EpWXMt9LJ5LCaqlCVkXoP) | 3:07 |
 | 26 | [Balorda nostalgia](https://open.spotify.com/track/0ZmhDgy5eWjdLOQFEEe3bm) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Balorda nostalgia](https://open.spotify.com/album/5ugzj4AP2B0n1FlDAb25kZ) | 3:17 |
-| 27 | [FRECCIA\->ROSSA](https://open.spotify.com/track/7H0c3Yx7EFawZ51yA3hvvs) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE) | [FRECCIA\->ROSSA](https://open.spotify.com/album/1Sev4ogwCUtff5TJCY1via) | 2:26 |
+| 27 | [FRECCIA\->ROSSA](https://open.spotify.com/track/7H0c3Yx7EFawZ51yA3hvvs) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Outrun](https://open.spotify.com/artist/42nNTwCQV8v6S33yqQYqXO) | [FRECCIA\->ROSSA](https://open.spotify.com/album/1Sev4ogwCUtff5TJCY1via) | 2:26 |
 | 28 | [e chissà se ricordo](https://open.spotify.com/track/20Z0C8sO3t1SaTaHnOEGST) | [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CHE ME NE FACCIO DEL TEMPO](https://open.spotify.com/album/7wo8Dh80MUfpde8P135MQR) | 2:55 |
 | 29 | [CANZONE D'AMORE](https://open.spotify.com/track/4oAmcoWAsnEKF47gYNryAc) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:00 |
 | 30 | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 |

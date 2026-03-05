@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 8 hr 20 min
+179 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2025-06-01 |  |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/3AjQQWTwJGwxMrh6B5H9Af) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:25 | 2025-07-20 |  |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 | 2025-06-01 | 2025-07-21 |
+| [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/track/55QDC1UHFcqlnH0xSvvB7T) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [EVERYWHERE I GO \(REMIND ME\) feat\. Kid Cudi](https://open.spotify.com/album/05U0USUzKB8vLfdOWggfqC) | 3:37 | 2026-03-04 |  |
 | [EXPLOSION!](https://open.spotify.com/track/5w5WCIXV2vfdR5gdBDDtgy) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/6PwnanHJ5C4hV9VB7vhIHb) | 1:29 | 2025-12-19 |  |
 | [EXPLOSION!](https://open.spotify.com/track/6ef0T3U0xLCCuGBqv2VVBq) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Delbo's World](https://open.spotify.com/album/2QewB7aov4vSgKcrYHhdZC) | 1:29 | 2025-06-01 | 2025-12-20 |
 | [fafo](https://open.spotify.com/track/59N5Xs2k47ESLEeRB84hWW) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/2As0TCvNIO3mJ4yAthXtYZ) | 2:38 | 2025-06-01 |  |
@@ -139,6 +140,7 @@
 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 | 2025-06-11 |  |
 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 | 2025-06-01 |  |
 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 | 2025-11-13 |  |
+| [Rose Colored \(with Yeat\)](https://open.spotify.com/track/3x7Y0Rn7EjPfB2zbddbDVg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Piss In The Wind](https://open.spotify.com/album/7MLyEn1CPizpS8bjZ7zzrT) | 2:33 | 2026-03-04 |  |
 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 | 2025-08-10 |  |
 | [S.M.O.](https://open.spotify.com/track/7v5VghHzM0iIoSQXGuZNzb) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [S.M.O.](https://open.spotify.com/album/7ilhlxCjjjIXwlpnJ8xuUy) | 4:30 | 2025-08-06 | 2025-08-11 |
 | [scream my name](https://open.spotify.com/track/3msVzpk6BgRwIu9ywpWzfa) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:52 | 2025-06-01 |  |

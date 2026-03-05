@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Bruno Mars on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,677 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,728 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 47 | [Flex It](https://open.spotify.com/track/3xuUg8w6c9mXkaCrkhx9Vm) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof), [Æ](https://open.spotify.com/artist/4Jp6hHKtWHf0Skka44mbJe) | [Flex It](https://open.spotify.com/album/4WjCHpeBmDFJOYl3dVP81O) | 2:56 |
 | 48 | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY) | [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Disco Neil](https://open.spotify.com/artist/1HSo2p6kMvBVyt5BZay3r0), [Bashment](https://open.spotify.com/artist/6q6II3boTwoBG0jP88smLb) | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ) | 2:44 |
 | 49 | [People Like Us](https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ), [Charlie Shell](https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk) | [People Like Us](https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM) | 3:12 |
-| 50 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 50 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 51 | [3 SYRUPS \(feat\. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest\)](https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 3:35 |
 | 52 | [mettle](https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [mettle](https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw) | 2:56 |
 | 53 | [Douwannabwitastar!?](https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O) | [GENA](https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ) | [The Pleasure Is Yours](https://open.spotify.com/album/2PW3hhgsQRGgJbPIhHCYrS) | 2:45 |

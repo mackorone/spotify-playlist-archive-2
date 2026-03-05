@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-295 songs - 13 hr 47 min
+296 songs - 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Earth Awakening](https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2) | [Yin Gaya](https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML) | [Earth Awakening](https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu) | 2:47 | 2024-05-01 | 2025-06-12 |
 | [Echoes](https://open.spotify.com/track/38GHW30hLw28Noczz5ALKg) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Echoes](https://open.spotify.com/album/3WEaYyzm7R1aCw2Tr5JJy6) | 2:50 | 2025-06-11 | 2025-12-06 |
 | [Eden of the East](https://open.spotify.com/track/20XKE857W1BKrod2y6zETQ) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Eden of the East](https://open.spotify.com/album/730BK0VQLn2mMzPcyl1JTL) | 3:24 | 2026-01-21 |  |
+| [Eden's Twilight](https://open.spotify.com/track/4tvXduo2sBOLHwfQzsBNGr) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Eden's Twilight](https://open.spotify.com/album/644DxTa0f7DUPilf8u2wRQ) | 2:30 | 2026-01-21 |  |
 | [Empathy Through Nature](https://open.spotify.com/track/4rZKmona0FutPWsrRZt00l) | [Echoes and Frequencies](https://open.spotify.com/artist/4GiTtneqRxV5TqUD5KjgeJ) | [Empathy Through Nature](https://open.spotify.com/album/7LN049499H3XRYnDdcAG6t) | 3:15 | 2024-03-20 |  |
 | [Enchanted Sonata](https://open.spotify.com/track/18SdEvypE4zZjqgHiECdXu) | [Dancing and Dreaming](https://open.spotify.com/artist/0og1CmJP5QtC99aDftPaOt) | [Enchanted Sonata](https://open.spotify.com/album/4aeodo8iBTwEaIUicB49wS) | 2:34 | 2024-10-01 | 2025-10-10 |
 | [Eosphoros T.Merula](https://open.spotify.com/track/5engCD94A1A16P51xvAFiP) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Eosphoros T.Merula](https://open.spotify.com/album/5gpgkGsWmiKDrBl6m5WVwC) | 2:14 | 2023-03-03 | 2025-03-01 |
@@ -114,7 +115,7 @@
 | [Forest Retreat](https://open.spotify.com/track/4hgmQr8jUSbcnuRVICCu5R) | [Rika Linn](https://open.spotify.com/artist/3fqx8RiPwj5t3AiBvNcbib) | [Forest Retreat](https://open.spotify.com/album/5455rZrk03dQkAsjToAgwY) | 3:40 | 2026-01-21 |  |
 | [Forest Retreat](https://open.spotify.com/track/5x1SM4426jF89HQPaGp6s8) | [Sacred Dreams](https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc) | [Forest Retreat](https://open.spotify.com/album/0XToDY4gtqpEu4CrWDgnP2) | 2:40 | 2024-06-03 |  |
 | [Forest Rhodes](https://open.spotify.com/track/2EZ9pD380RJJANsQR8NJTg) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Forest Rhodes](https://open.spotify.com/album/1Isn7pNhAwOzz2QkbVn7gv) | 2:51 | 2025-01-15 |  |
-| [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 |  |
+| [Forest Springs](https://open.spotify.com/track/0gbgqU8bsNSv5A5mL4BLEa) | [Aiyo](https://open.spotify.com/artist/6CK2nmnsqef5YFU7ckNTqH) | [Forest Springs](https://open.spotify.com/album/3rPqj0BK1CLWdvGhreDybN) | 3:22 | 2025-09-24 | 2026-03-05 |
 | [Forest Water](https://open.spotify.com/track/0Tne2gAPuA298VvTZ3Q87w) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Forest Water](https://open.spotify.com/album/4zPa0muGVcqjeGwlicz27m) | 3:07 | 2025-06-11 |  |
 | [Foresta Andante](https://open.spotify.com/track/0AwHuLliwOhYjcpY1J1MCX) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Green Andante](https://open.spotify.com/album/0qDEQyyYhIWIcIF2ZonWHy) | 2:37 | 2024-06-03 | 2026-02-03 |
 | [Forgotten letters](https://open.spotify.com/track/1ZCeUv9xi2ZPuRbLBXfNaR) | [My Dream Escape](https://open.spotify.com/artist/4X3g5HpVJZUww98e0Qf39d) | [Back to life](https://open.spotify.com/album/79BCV4DaRDOXHyLlljIvVS) | 2:21 | 2023-03-03 | 2024-09-05 |

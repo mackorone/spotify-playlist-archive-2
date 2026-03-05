@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130900,
+  "num_followers": 130902,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -519,26 +519,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
-        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
-      },
-      "artists": [
-        {
-          "name": "Firdhaus",
-          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
-        },
-        {
-          "name": "DIOR \u5927\u7a4e",
-          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
-        }
-      ],
-      "duration_ms": 236239,
-      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
-      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "If Only...",
         "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 240285,
       "name": "\u7b49\u5f85\u4f60\u90a3\u5929",
       "url": "https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a (Acoustic Version)",
+        "url": "https://open.spotify.com/album/17eQy9BdSIdKAh6KnWBEIH"
+      },
+      "artists": [
+        {
+          "name": "Firdhaus",
+          "url": "https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv"
+        },
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        }
+      ],
+      "duration_ms": 236239,
+      "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a - Acoustic Version",
+      "url": "https://open.spotify.com/track/6k1mngK84iZ1PA8HRlRBCW"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
-      },
-      "artists": [
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
-      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 216689,
       "name": "\u6211\u9084\u5728\u4f60\u7684\u5922\u88e1\u55ce",
       "url": "https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+        "url": "https://open.spotify.com/album/5UmY655yGRPTqGn6LsyD17"
+      },
+      "artists": [
+        {
+          "name": "JOYCE \u5c31\u4ee5\u65af",
+          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "\u4f60\u8aaa\u8a71\u7684\u8072\u97f3\u597d\u7d30",
+      "url": "https://open.spotify.com/track/1dYe1XLA9FMBRgsDBjUpFs"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u541b",
-        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
-      },
-      "artists": [
-        {
-          "name": "\u55ae\u4f9d\u7d14",
-          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
-        }
-      ],
-      "duration_ms": 168471,
-      "name": "\u541b",
-      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u5e95\u7247\u88e1\u7684\u590f\u5361\u723e",
         "url": "https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4"
       },
@@ -683,6 +667,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
+        "name": "\u541b",
+        "url": "https://open.spotify.com/album/3nsFQo4sPQ9XbZxMsh9Oed"
+      },
+      "artists": [
+        {
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        }
+      ],
+      "duration_ms": 168471,
+      "name": "\u541b",
+      "url": "https://open.spotify.com/track/4XLW8SQNciud0pTp7Urj49"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
         "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
         "url": "https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 221073,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "Same Stories, Different Narratives",
+        "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
+      },
+      "artists": [
+        {
+          "name": "The Crane",
+          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
+        },
+        {
+          "name": "Waa Wei",
+          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
+        }
+      ],
+      "duration_ms": 272424,
+      "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
+      "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -747,26 +767,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "Same Stories, Different Narratives",
-        "url": "https://open.spotify.com/album/0r2OL5wdLUFAetMaihWFoZ"
-      },
-      "artists": [
-        {
-          "name": "The Crane",
-          "url": "https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL"
-        },
-        {
-          "name": "Waa Wei",
-          "url": "https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y"
-        }
-      ],
-      "duration_ms": 272424,
-      "name": "\u5fc3\u81df\u7684\u53f3\u908a / Right Side of My Heart (feat. \u9b4f\u5982\u8431)",
-      "url": "https://open.spotify.com/track/4FKYYP70R2bAt6X9po9h54"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "\u9752\u7a7a\u672a\u4f86",
         "url": "https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u5d4c\u5165\u751f\u9577",
-        "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
-      },
-      "artists": [
-        {
-          "name": "\u52a0\u6728",
-          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
-        }
-      ],
-      "duration_ms": 233949,
-      "name": "\u5074\u81c9",
-      "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
-    },
-    {
-      "added_at": "2026-02-12 16:00:30",
-      "album": {
         "name": "Say You\u2019re Sorry",
         "url": "https://open.spotify.com/album/2M7nzvHlpzA994Rn4X1UwH"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 136400,
       "name": "Say You\u2019re Sorry",
       "url": "https://open.spotify.com/track/6y5lesBZeZEaP0jLJx0s9S"
+    },
+    {
+      "added_at": "2026-02-12 16:00:30",
+      "album": {
+        "name": "\u5d4c\u5165\u751f\u9577",
+        "url": "https://open.spotify.com/album/4WzTaRTT9piXbAzXyYIXvN"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u6728",
+          "url": "https://open.spotify.com/artist/45aOa6C5ieGIXh7yExsvVl"
+        }
+      ],
+      "duration_ms": 233949,
+      "name": "\u5074\u81c9",
+      "url": "https://open.spotify.com/track/37bdVVPemdUmN8FTqQXWYz"
     },
     {
       "added_at": "2026-02-12 16:00:30",

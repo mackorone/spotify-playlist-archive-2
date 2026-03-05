@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 
 > A perfect link up to soundtrack your day\. Cover: MOLIY, bees & honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,990 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,981 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdeMORbC1XNa.md) - [plain]
 | 18 | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/track/6FXRZs4H5N8YytItv9OMVo) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Muhammad Ali \(Can't Relate\)](https://open.spotify.com/album/5xK7SCijmxllxKrLCiQSVp) | 2:39 |
 | 19 | [Escaladizzy](https://open.spotify.com/track/78lEwmE6xpWtwHhS8D9Fw2) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [WAVE$TAR](https://open.spotify.com/artist/35l6bXa97M4hhvQ3e058PZ) | [Escaladizzy](https://open.spotify.com/album/12X7eTRII9XQr1ZRDPfx5k) | 2:44 |
 | 20 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 |
-| 21 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
-| 22 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
+| 21 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
+| 22 | [FLAKO](https://open.spotify.com/track/4gNOP9BGhyl2apkm8Xy7Eg) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [FLAKO](https://open.spotify.com/album/0JPDGiGSSfjSw0VPFXKHjX) | 2:54 |
 | 23 | [Worthwhile](https://open.spotify.com/track/4GVkOSoojuaTTWQgPqGjPj) | [NESTA](https://open.spotify.com/artist/0TWVX68OyQscge2TZzChPx) | [Worthwhile](https://open.spotify.com/album/1OcnDnSl6uryQgYcjJWHS0) | 2:53 |
 | 24 | [Kai!](https://open.spotify.com/track/0UKX2OlSnobdX77f0Y1jok) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kai!](https://open.spotify.com/album/2Pp0uBbh3uo5EAkyGYrRru) | 2:55 |
 | 25 | [Toro \- A COLORS SHOW](https://open.spotify.com/track/5ch484wWUkTPp6saoxACAN) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Toro \- A COLORS SHOW](https://open.spotify.com/album/04VbzJIXJCG2AZ3j4at6by) | 3:14 |

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-336 songs - 20 hr 54 min
+338 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Deathbed Confession](https://open.spotify.com/track/272fKwbSnBABixCNI3gqEO) | [Foolish Manure](https://open.spotify.com/artist/3iqKlvnEXhmugZRypumXlS) | [Sugarfoot](https://open.spotify.com/album/02niz58UNJFpGGgOB3HOrO) | 2:41 | 2026-01-07 | 2026-02-02 |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2026-01-11 | 2026-02-02 |
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-12 | 2026-01-05 |
+| [Devil Begone](https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Devil Begone](https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s) | 4:39 | 2026-03-04 |  |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 | 2025-12-28 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 | 2025-12-28 |
 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 | 2026-02-20 |  |
@@ -324,6 +325,7 @@
 | [Wasn't Born To Follow](https://open.spotify.com/track/0Rx5hdjmYdBeaYDvSsCOeR) | [Silverbird](https://open.spotify.com/artist/035EbN0ZDZgyxcR2nzZUvW) | [Wasn't Born To Follow](https://open.spotify.com/album/73KhJvGUfv9oRYbHlYp4xa) | 3:21 | 2025-10-20 |  |
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2025-11-26 | 2026-01-05 |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 | 2025-12-12 |
+| [What's on your Mind?](https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P) | [Zack King](https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf) | [Songs I Wrote Instead of Texting You](https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo) | 3:15 | 2026-03-04 |  |
 | [what's your co\-star](https://open.spotify.com/track/69ttQ5ci1qNndmLxLkesFA) | [size eleven](https://open.spotify.com/artist/2xw4IuGVbXLY2v5LM2IMOq) | [what's your co\-star](https://open.spotify.com/album/6C7e35f5HqUfWJXcDAUoiJ) | 2:00 | 2025-11-06 | 2025-12-12 |
 | [WHATS NEXT](https://open.spotify.com/track/3V7NCUrWKzHAvGQKSThf12) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [WHATS NEXT](https://open.spotify.com/album/12O9cLYMwQlPlFOmrxfE8o) | 2:15 | 2026-01-17 | 2026-02-18 |
 | [When All Else Fails..\. They Take You to War](https://open.spotify.com/track/64TRi6Duj1W24iLoERg6wt) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [When All Else Fails..\. They Take You to War](https://open.spotify.com/album/2BAzDBqvFrluusRqb4AVOI) | 4:00 | 2026-02-23 |  |

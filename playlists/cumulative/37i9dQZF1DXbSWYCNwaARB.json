@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: BLACKPINK)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: EVERGLOW)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -904,7 +904,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 177000,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4MII9R3syMugyhdDvB8G0u"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/4HEBNeUYxEpjDglZbjYz7o"
@@ -1864,6 +1864,24 @@
       "duration_ms": 158917,
       "name": "CLOSER",
       "url": "https://open.spotify.com/track/5XsrVitCrmP41A6pq827Yq"
+    },
+    {
+      "album": {
+        "name": "CODE",
+        "url": "https://open.spotify.com/album/6ppaIu8fzPJZZjdLPKKSTt"
+      },
+      "artists": [
+        {
+          "name": "EVERGLOW",
+          "url": "https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "CODE",
+      "url": "https://open.spotify.com/track/00bnKgDRZxvwpnWDJg7Por"
     },
     {
       "album": {
@@ -6574,7 +6592,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 170653,
       "name": "Mono (Feat. skaiwater)",
       "url": "https://open.spotify.com/track/2KYKOG5dNgY4sZHWf5hr3g"

@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Big Up",
-  "num_followers": 291341,
+  "num_followers": 291345,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFr980y393rP/JJ15NX3wnalm3da",
+  "snapshot_id": "AAAAABIRapLmGp/+dkGzD3PT3a8j36nC",
   "tracks": [
     {
       "added_at": "2026-02-23 14:14:13",
@@ -319,30 +319,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "N\u00e3o Sei Lidar",
-        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        },
-        {
-          "name": "Rapha Ren\u00f3",
-          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "N\u00e3o Sei Lidar",
-      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 291166,
       "name": "Ladeira da Vida",
       "url": "https://open.spotify.com/track/6xKnsvZ0O06BvQcT2Prt2A"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "N\u00e3o Sei Lidar",
+        "url": "https://open.spotify.com/album/5Qo8KTueq978fxx186j7wk"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        },
+        {
+          "name": "Rapha Ren\u00f3",
+          "url": "https://open.spotify.com/artist/3ppCUye5DRGnRwevs13CAh"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "N\u00e3o Sei Lidar",
+      "url": "https://open.spotify.com/track/7JCZoa3kdK7D5AJAYjiut8"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
-        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
-      },
-      "artists": [
-        {
-          "name": "BIN",
-          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 186486,
-      "name": "Quem sabe?",
-      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Pensando Em N\u00f3s",
         "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 192786,
       "name": "Pensando Em N\u00f3s",
       "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Para todas as mulheres que j\u00e1 rimei Pt. 2",
+        "url": "https://open.spotify.com/album/2IN1uMCXQMgEkAmQO48apf"
+      },
+      "artists": [
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "Quem sabe?",
+      "url": "https://open.spotify.com/track/5HPvLVF78LE2OD8fboFDo1"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -651,30 +651,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        }
+      ],
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Risco de se Apaixonar",
-        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
-      },
-      "artists": [
-        {
-          "name": "Marcello Melo Jr.",
-          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
-        },
-        {
-          "name": "Bela Maria",
-          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Risco de se Apaixonar",
-      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Risco de se Apaixonar",
+        "url": "https://open.spotify.com/album/6Z0MhQqyXLFBAJG2PBRuIH"
+      },
+      "artists": [
+        {
+          "name": "Marcello Melo Jr.",
+          "url": "https://open.spotify.com/artist/0XQQJpFjY8KkTGUIgVq9zp"
+        },
+        {
+          "name": "Bela Maria",
+          "url": "https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Risco de se Apaixonar",
+      "url": "https://open.spotify.com/track/1M6puHONy969ZeGYemki1M"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
-        "name": "Vinho",
-        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
-      },
-      "artists": [
-        {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 176050,
-      "name": "t\u00e3o bem",
-      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
         "name": "Seu Z\u00e9",
         "url": "https://open.spotify.com/album/7s3KnsNmFhgSyUxhfLcS3N"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
+        "name": "Vinho",
+        "url": "https://open.spotify.com/album/2uzAaxLP1X1JVNpN9kJa1h"
+      },
+      "artists": [
+        {
+          "name": "Delacruz",
+          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 176050,
+      "name": "t\u00e3o bem",
+      "url": "https://open.spotify.com/track/1BNDkF22V7G872oUwwQ5Ca"
     },
     {
       "added_at": "2026-02-23 14:14:13",
@@ -1543,6 +1543,26 @@
     {
       "added_at": "2026-02-23 14:14:13",
       "album": {
+        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
+      },
+      "artists": [
+        {
+          "name": "Rafael Mike",
+          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
+        },
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
+      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
+    },
+    {
+      "added_at": "2026-02-23 14:14:13",
+      "album": {
         "name": "O Amor \u00c9 Cego",
         "url": "https://open.spotify.com/album/0xtIrrJED43w9Ic4mRi97g"
       },
@@ -1563,26 +1583,6 @@
       "duration_ms": 144444,
       "name": "O Amor \u00c9 Cego",
       "url": "https://open.spotify.com/track/5qVkfOE2iXVVWDj0aC5mN6"
-    },
-    {
-      "added_at": "2026-02-23 14:14:13",
-      "album": {
-        "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-        "url": "https://open.spotify.com/album/18QGVtWc2zVwqfFJBZVdfk"
-      },
-      "artists": [
-        {
-          "name": "Rafael Mike",
-          "url": "https://open.spotify.com/artist/6V1iaF6ZHSygJlLPk7grXr"
-        },
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "Viver de Amores (S\u00f3 F\u00e9 Paz Paz)",
-      "url": "https://open.spotify.com/track/13geKSmq1aiArFwqVTedZq"
     },
     {
       "added_at": "2026-02-23 14:14:13",

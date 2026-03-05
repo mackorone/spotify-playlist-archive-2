@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 
 > Meticulously selected by Spotify music experts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,926 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,914 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 32 | [Bodies](https://open.spotify.com/track/4zhdSsssstuVDXyGDb3pYi) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies](https://open.spotify.com/album/5xHE0icKPFByUlGL0ygWd6) | 2:58 |
 | 33 | [WHIM WHAMIEE](https://open.spotify.com/track/4eULTkHVLAhn5J5DOSNbdP) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [WHIM WHAMIEE](https://open.spotify.com/album/0cU7tn9mTCW4cDQWsxrbWO) | 2:21 |
 | 34 | [IMPOSTOR](https://open.spotify.com/track/4Jx56iDETiOYzYSgW1CcmM) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [PAPOTA](https://open.spotify.com/album/1NDJk94691Vydq1IrIeGC0) | 2:37 |
-| 35 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
-| 36 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
-| 37 | [The Sofa](https://open.spotify.com/track/1gqxVK8URuPT86iFbv2vVL) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:26 |
+| 35 | [The Sofa](https://open.spotify.com/track/1gqxVK8URuPT86iFbv2vVL) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/3QGtV6BMgF31PYEy3I4Epn) | 4:26 |
+| 36 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 |
+| 37 | [Vivid Light](https://open.spotify.com/track/5AvrkGFKSu7Hj66y7BPiBE) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Essex Honey](https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel) | 4:22 |
 | 38 | [Elderberry Wine](https://open.spotify.com/track/00lSB9CSyOcsxKVtbPbniL) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:35 |
 | 39 | [Everything Is Peaceful Love](https://open.spotify.com/track/4XosapYiYaXGcxc83p3DD9) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 3:30 |
 | 40 | [Before You I Just Forget](https://open.spotify.com/track/1oVAmJ2oaHv5NWFH99jCWE) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Romance \(Deluxe Edition\)](https://open.spotify.com/album/1eKVHMQJt9UVkuOb4gE3wy) | 3:56 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 56 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 |
 | 57 | [Room Of Fools](https://open.spotify.com/track/1CqyErlQstROOe9hAn93oI) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [EUSEXUA](https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF) | 4:25 |
 | 58 | [The Actor](https://open.spotify.com/track/4LtcR3gIVqoNDTf1KyTxdu) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Now Would Be A Good Time](https://open.spotify.com/album/6SSsPPOxMvAiDA6B8AWH3y) | 2:50 |
-| 59 | [Burn The River](https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Same Day Cleaning](https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9) | 3:46 |
-| 60 | [SPIDERS](https://open.spotify.com/track/5mb9fbIUMvKroqaBhHIWLk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/3WWlaZfbZEgAgAkKIdQ4Sd) | 4:27 |
+| 59 | [SPIDERS](https://open.spotify.com/track/5mb9fbIUMvKroqaBhHIWLk) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [SPIDERS](https://open.spotify.com/album/3WWlaZfbZEgAgAkKIdQ4Sd) | 4:27 |
+| 60 | [Burn The River](https://open.spotify.com/track/4ZLiHdZHDe0hpzElVQEvDT) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Same Day Cleaning](https://open.spotify.com/album/3Ph1OGPvuAHe4BN00WNYi9) | 3:46 |
 | 61 | [PUDDLE \( OF ME \)](https://open.spotify.com/track/4xNl7wvrgaTDofpLenB9Mo) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 4:11 |
 | 62 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 |
 | 63 | [Small Talk](https://open.spotify.com/track/7qGSwh7ZhKy0iHIXsDfn0N) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Small Talk](https://open.spotify.com/album/4uFrzWn4YGeEgtugDyhcmB) | 3:13 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5nJIJzhA8f.md) - [plain]
 | 69 | [Too Pretty For Buffalo](https://open.spotify.com/track/0YSLuLkd42sfo1CYXcdijR) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Too Pretty For Buffalo](https://open.spotify.com/album/4vDyjgRIPNAQTirFdySzoY) | 3:56 |
 | 70 | [Sunshine & Laughter](https://open.spotify.com/track/6I0LY1eT4Kt6FgRkDJhXbb) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Krisirie](https://open.spotify.com/artist/6YbnHs5DVZuxFOQVktt95m) | [Sunshine & Laughter](https://open.spotify.com/album/6tMYT7PeWiTIO7zRmeBVWG) | 2:56 |
 | 71 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |
-| 72 | [Still Above](https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:28 |
-| 73 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
+| 72 | [Diva](https://open.spotify.com/track/0f5JzkjAfuxwDDDkcX2lrY) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Pirouette](https://open.spotify.com/album/3MAtJ9jJmvkBZTGUhAHupj) | 4:16 |
+| 73 | [Still Above](https://open.spotify.com/track/3cTjgotFYaQcI6u8Ocny5U) | [mark william lewis](https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k) | [Mark William Lewis](https://open.spotify.com/album/1vbTtLdHvOUjv3rfVRr45Y) | 2:28 |
 | 74 | [A BUG'S LIFE](https://open.spotify.com/track/2Bb9jsaeHdjnDy6ZGIM5tY) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [A BUG'S LIFE](https://open.spotify.com/album/112vEhb67dIIWu6QOQB8qh) | 3:07 |
 | 75 | [When Will The Love Rain Down](https://open.spotify.com/track/3gb4jKjy2PG4d5N7kl1qe3) | [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Preacher Kids](https://open.spotify.com/album/1fr0maIiPbbXdPyI5hLxnV) | 5:43 |
 | 76 | [B A D I D E A](https://open.spotify.com/track/5qDvHAFgbVJrGkBb7sJM07) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [B A D I D E A](https://open.spotify.com/album/66w1jC2ICwyggAeHCPCBmr) | 1:49 |

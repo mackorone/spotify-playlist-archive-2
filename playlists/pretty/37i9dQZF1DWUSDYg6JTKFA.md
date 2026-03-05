@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,025 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,043 likes - 100 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,17 +55,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 45 | [PEACE](https://open.spotify.com/track/4qHVQTNhEKyCty4Edqn33c) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/76MAve42IxCPmmr6FGkqfQ) | 4:19 |
 | 46 | [Gold \- Live](https://open.spotify.com/track/6Uq3aMPuxk07NAie8SrS8G) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Church Volume One \(Live\)](https://open.spotify.com/album/06wlpmt4p99xMXHibcgoVj) | 8:19 |
 | 47 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |
-| 48 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
-| 49 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
+| 48 | [Broken & Restored](https://open.spotify.com/track/2k7YZwfEWUEzDnpp0tD9qT) | [People of The Earth](https://open.spotify.com/artist/05fX9C5f0vRtX6WhiaaGL5) | [Broken & Restored](https://open.spotify.com/album/0VTANFGgpI7TbTUs4iQtHu) | 4:47 |
+| 49 | [Holding Onto You](https://open.spotify.com/track/0FtUnLtfdfeJ27b0h4OQpa) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Holding Onto You](https://open.spotify.com/album/5M0ZVocrG0n4DRcKfsLO72) | 3:50 |
 | 50 | [Just Hold On](https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Just Hold On](https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u) | 2:47 |
 | 51 | [Where You Are](https://open.spotify.com/track/4IjgGxTQDs9Bf31TGtdxOv) | [Mitch Langley](https://open.spotify.com/artist/3LtLqBXTdKiroUNFlqZLOM), [Jasmine Murray](https://open.spotify.com/artist/3RsGHkHYZW0WkXcEf0CRdR), [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [Where You Are](https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ) | 2:27 |
 | 52 | [Praise Opens Prison Doors \- Live](https://open.spotify.com/track/4hiRAyATem0OCmor3JSqAB) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Praise Opens Prison Doors \(Live\)](https://open.spotify.com/album/58XlLMgCX56JVfNJnaZfHt) | 5:23 |
 | 53 | [Good Lord \(feat\. Katy Nichole\)](https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ) | [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE), [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Good Lord](https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt) | 3:22 |
 | 54 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 |
 | 55 | [It Is Well \- Live](https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 7:06 |
-| 56 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |
+| 56 | [How Long?](https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [How Long?](https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq) | 2:06 |
 | 57 | [Hold On](https://open.spotify.com/track/6njtDzvCTECqQQCGjnQcSS) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Hold On](https://open.spotify.com/album/0r1SPhUGL54zILNycUBKsE) | 3:34 |
-| 58 | [How Long?](https://open.spotify.com/track/0q26Gae4J6oq6BswvzIu2l) | [Sarah Juers](https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG) | [How Long?](https://open.spotify.com/album/48hqK0OMQ1PTPcZFXHNWCq) | 2:06 |
+| 58 | [Glory and Majesty](https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Glory and Majesty](https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF) | 4:44 |
 | 59 | [Hope On the Horizon \- Live](https://open.spotify.com/track/0jjPSLrVJDxyImNGJ252vI) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Rich & Lydia Dicas](https://open.spotify.com/artist/2sEjWVN7e55lGoxddfXAaY) | [Hope on the Horizon \(Live\)](https://open.spotify.com/album/6ZvQTly9coK3Cg34zvfwZd) | 7:19 |
 | 60 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 |
 | 61 | [Time](https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Time](https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL) | 4:01 |

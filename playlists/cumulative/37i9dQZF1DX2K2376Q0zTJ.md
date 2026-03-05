@@ -4,7 +4,7 @@
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: HANA
 
-1,456 songs - 3 day 13 hr 18 min
+1,456 songs - 3 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [HERO](https://open.spotify.com/track/2BfCg6kP5lhQq1Pq71lcZu) | [SHACHI](https://open.spotify.com/artist/7cbMeZ6uWpXjamJTYM5KFy) | [HERO](https://open.spotify.com/album/7ryfO5tIUkRaRQxc8sr0HE) | 3:14 | 2022-02-01 | 2022-03-08 |
 | [hi cheese](https://open.spotify.com/track/4Zyxca7r0qONFXynfkGXx1) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [hi cheese](https://open.spotify.com/album/3DtrM2FBODS8HtBpDaldRJ) | 2:40 | 2024-06-20 | 2024-07-31 |
 | [High \(feat\. Campanella\)](https://open.spotify.com/track/3TMHpzaiMmou90bOIWnetM) | [Kuro](https://open.spotify.com/artist/1pvdS8wUgkkSZNPwkb6qg0), [Campanella](https://open.spotify.com/artist/1HCVppGB3oVA6Kt7pRVifZ) | [翡翠 \( hisui \)](https://open.spotify.com/album/2jwl1zSw7jRfVNbgXa1tU8) | 4:16 | 2022-10-04 | 2022-11-09 |
+| [High Life Diva](https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8) | [Ms.Independent](https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX) | 2:41 | 2026-03-03 |  |
 | [Higher](https://open.spotify.com/track/5fvVRGba4CPOHRMnBRMqBQ) | [MONONKVL](https://open.spotify.com/artist/74wEL751mFGO8riAZadLmM) | [Higher](https://open.spotify.com/album/33puTLfeTdH7qtYckm305L) | 3:54 | 2022-07-05 | 2022-08-03 |
 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/1sOyY88KV1kIIkuj0CWrZk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/4Mn0L5WRGTvLhsQinoApud) | 3:21 | 2023-10-03 | 2023-11-12 |
 | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/track/0Q85VZZG5tdNZMS0XyI55z) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Highlight no Nakade Bokura Zutto](https://open.spotify.com/album/0XSYmRn68wPGVdhjwzz3Jb) | 3:24 | 2023-11-07 | 2023-11-30 |
@@ -943,7 +944,6 @@
 | [Toryanse](https://open.spotify.com/track/6Zdy0Snyt41k4Bg8Imtq7r) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Toryanse](https://open.spotify.com/album/5tHcuKjRQIAwAvm1eoQIqI) | 2:36 | 2024-02-06 | 2024-03-06 |
 | [touch](https://open.spotify.com/track/2WG6srwUczML0t7Dv1sYwB) | [Emi Okamoto](https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li), [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [touch](https://open.spotify.com/album/48pfaNnmIJpOIKRw1sOZEv) | 3:39 | 2022-07-05 | 2022-08-03 |
 | [Toukakanseinoyoru](https://open.spotify.com/track/4MkvoRmOboUayXIj63S7XC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Works.ep](https://open.spotify.com/album/7Dt2tewXcLRyDHteQ660DM) | 3:52 | 2023-02-28 | 2023-04-05 |
-| [Track 1](https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Ms.Independent](https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX) | 0:00 | 2026-03-03 |  |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-11-07 | 2023-11-30 |
 | [Treasure You](https://open.spotify.com/track/04SeXEZGiH1tse4UtyUBmE) | [KIRA](https://open.spotify.com/artist/384MAG8fZLUBFQoO2KgDVG) | [Birthday](https://open.spotify.com/album/0ItyQ5hpzupHOAAsQJjbRe) | 3:54 | 2023-05-02 | 2023-06-07 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-03-07 | 2022-04-06 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 42793,
+  "num_followers": 42813,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAC7fUqJQl9zWdi+oU57hehn",
+  "snapshot_id": "aaYkgAAAAADxlmbvXe5zDgnVnk2+58VD",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dinero No Tenia (En Vivo)",
-        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 208107,
-      "name": "Dinero No Tenia - En Vivo",
-      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Olv\u00eddame T\u00fa",
         "url": "https://open.spotify.com/album/2tSsIQp0KZgCOl99gCC5Is"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 220760,
       "name": "Olv\u00eddame T\u00fa",
       "url": "https://open.spotify.com/track/66IMXYjOUbJcImGLpyC2Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico El Asunto (En Vivo)",
-        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Belico El Asunto (En Vivo)",
-      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/39VyjyZRf9Rctib71z1A0I"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 267300,
       "name": "La Que Se Fue",
       "url": "https://open.spotify.com/track/1iYx0oRtpqkM6yMUll6eQY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belico El Asunto (En Vivo)",
+        "url": "https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Belico El Asunto (En Vivo)",
+      "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TODO PENDEJO",
-        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190359,
-      "name": "TODO PENDEJO",
-      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
         "url": "https://open.spotify.com/album/36QxJlstLErfxZ2m1HI1jg"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 160484,
       "name": "\u00bfPara Qu\u00e9 Hacernos Da\u00f1o?",
       "url": "https://open.spotify.com/track/5GLGvYyZDnfsMM0UP5Q8uu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Compas Vol. 1",
-        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 196031,
-      "name": "Ant\u00eddoto de Amor",
-      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 188655,
       "name": "Blindado El Carro",
       "url": "https://open.spotify.com/track/7DCqwMSct0rBmgG0v0FxNi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Compas Vol. 1",
+        "url": "https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 196031,
+      "name": "Ant\u00eddoto de Amor",
+      "url": "https://open.spotify.com/track/2l8XMlszk4UXd0mK5hA4BA"
     },
     {
       "added_at": null,

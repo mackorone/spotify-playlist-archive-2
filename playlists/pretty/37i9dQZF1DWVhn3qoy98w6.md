@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Todos los miércoles, lo nuevo de la escena independiente española\. Foto: Laaza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,826 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,827 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [DELIRIOS](https://open.spotify.com/track/33DzBSxYTTnfutMewSFW2z) | [Miqui Brightside](https://open.spotify.com/artist/3Ej5fhuE6M1aEsPq9L5FlQ) | [DELIRIOS](https://open.spotify.com/album/4xkx4eLOgYokiTcsGCNIfi) | 2:53 |
 | 50 | [3ayni](https://open.spotify.com/track/3sPh93jP3IWfHhfp8Sfhfs) | [Sabah](https://open.spotify.com/artist/6ioCCK1VodUI3DEL0d5Kau) | [3ayni](https://open.spotify.com/album/4kiv12nWhmrDd5U14ZncQz) | 2:54 |
 
-Snapshot ID: `AAAAALrYEC/E+4bjZqmefbcLdGyZiEck`
+Snapshot ID: `AAAAAAxthGt4PUd1IOyVUzZ2ov9Q0J/C`

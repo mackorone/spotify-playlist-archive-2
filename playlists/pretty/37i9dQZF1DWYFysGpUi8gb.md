@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes us feel interesting, featuring max winter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,408 likes - 85 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,395 likes - 85 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 84 | [Excruciating Heights](https://open.spotify.com/track/57133ll3L1wgpVmMTgbbdT) | [Search Results](https://open.spotify.com/artist/26WnkHydmkuHAgHS0ZbZjM) | [Excruciating Heights](https://open.spotify.com/album/3tb7hYhY92Z9kK4becvnEj) | 2:40 |
 | 85 | [starburn](https://open.spotify.com/track/5vxJWk68XR1eXjRIutqcuA) | [crushed](https://open.spotify.com/artist/5U7wHWp1AmjN0mzvAfA6YM) | [no scope](https://open.spotify.com/album/1MoHchytw6sq4hhC28JZ7x) | 4:11 |
 
-Snapshot ID: `AAAAAHr55o6UcXDTvituooaTXTvlaACC`
+Snapshot ID: `AAAAALyANOLi888v0yXrzy/hVh4OU/bH`

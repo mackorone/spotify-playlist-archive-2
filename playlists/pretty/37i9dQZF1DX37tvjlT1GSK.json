@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Aldo Trujillo en cover.",
-  "num_followers": 821098,
+  "num_followers": 821197,
   "original_name": "Sierre\u00f1o 2025",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Aqui Voy",
+        "url": "https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "duration_ms": 242232,
+      "name": "Aqui Voy",
+      "url": "https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Mi Morenita",
         "url": "https://open.spotify.com/album/1TFykciPJZ54BYl8iZybM1"
       },
@@ -1123,22 +1139,6 @@
       "duration_ms": 149450,
       "name": "Mi Morenita",
       "url": "https://open.spotify.com/track/4Xly6Wx7KtcJc739Y4myOt"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Aqui Voy",
-        "url": "https://open.spotify.com/album/6tQC4IL4LPhYP2iXvgCt6F"
-      },
-      "artists": [
-        {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
-        }
-      ],
-      "duration_ms": 242232,
-      "name": "Aqui Voy",
-      "url": "https://open.spotify.com/track/5kJRw7qC03YRRAUo6An5AO"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "En Vivo EP, Vol. 1 (En vivo)",
-        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
-      },
-      "artists": [
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 228545,
-      "name": "Te Apuesto - En vivo",
-      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Pr\u00e9stame Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 182073,
       "name": "Pr\u00e9stame Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "En Vivo EP, Vol. 1 (En vivo)",
+        "url": "https://open.spotify.com/album/6ewLeV1GpI2Jg1vMXqXBIN"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "duration_ms": 228545,
+      "name": "Te Apuesto - En vivo",
+      "url": "https://open.spotify.com/track/7wnO6pBzcWWT8zT4vFx7hM"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "Ya Fue",
         "url": "https://open.spotify.com/album/73bfayCFQWsMsU2Y9IsU1S"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 194805,
       "name": "Ya Fue",
       "url": "https://open.spotify.com/track/5ZTPaP0AYqHhf8txyfGb2i"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "todo me vale madre",
+        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 176382,
+      "name": "todo me vale madre",
+      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "GXLE 3",
         "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
       },
@@ -1667,22 +1683,6 @@
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "todo me vale madre",
-        "url": "https://open.spotify.com/album/6Un1jeqwMNafxhOHfjYXEx"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 176382,
-      "name": "todo me vale madre",
-      "url": "https://open.spotify.com/track/2JXwNWEICIo5Utov8kBot1"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1779,6 +1779,22 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 136182,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
         "name": "La Bestia",
         "url": "https://open.spotify.com/album/1MVzuXnt954MHjpUhvsjqS"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 186368,
       "name": "La Bestia",
       "url": "https://open.spotify.com/track/59BnHrWc6ZBIscPQSBnuYn"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/3ZbYDSja58714wMC2XO5kl"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 136182,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/6iCsgZgikqbQSOLbpEK5R5"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2026-02-13 05:00:40",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        },
-        {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
-        }
-      ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
-    },
-    {
-      "added_at": "2026-02-13 05:00:40",
-      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
+    },
+    {
+      "added_at": "2026-02-13 05:00:40",
+      "album": {
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+        }
+      ],
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2026-02-13 05:00:40",

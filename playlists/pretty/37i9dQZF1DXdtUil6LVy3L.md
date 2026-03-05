@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,459 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,450 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 8 | [Blue Christmas](https://open.spotify.com/track/5Xsw49uHfrolDpzV1S0R3n) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [A Child Is Born](https://open.spotify.com/album/5i3P1z4tgoe8qMFnsFG9Bb) | 2:20 |
 | 9 | [When Christmas Comes To Town](https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [When Christmas Comes To Town](https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO) | 3:29 |
 | 10 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 |
-| 11 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
-| 12 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 11 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
+| 12 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
 | 13 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 |
 | 14 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 15 | [The greatest gift we've got](https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [The greatest gift we've got](https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr) | 3:37 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 63 | [O Come, O Come Emmanuel](https://open.spotify.com/track/0GlynfYCzLa4rjZqbJcVyS) | [N.B.H\-Trio](https://open.spotify.com/artist/5oooIIdGmAuNyfQiWehfmX) | [O Come, O Come Emmanuel](https://open.spotify.com/album/3JnBzkJI52l6jJkAX84pVV) | 4:10 |
 | 64 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
 | 65 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
-| 66 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
-| 67 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
+| 66 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
+| 67 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
 | 68 | [Here We Come A\-Caroling](https://open.spotify.com/track/6dAElJFsKJmqRrqaHYoJfg) | [Goblin Quartet](https://open.spotify.com/artist/0ceEvbf4gmN9my4kriQVfm) | [Here We Come A\-Caroling](https://open.spotify.com/album/3egzz4FGBjVceoI4hO89BI) | 2:23 |
 | 69 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 70 | [O Little Town Of Bethlehem](https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j) | [Jason Starman](https://open.spotify.com/artist/52a7FDR4OUPloosqc20P3K) | [O Little Town Of Bethlehem](https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb) | 2:01 |

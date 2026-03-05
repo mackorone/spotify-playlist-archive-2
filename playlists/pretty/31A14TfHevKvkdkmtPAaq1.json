@@ -1,12 +1,12 @@
 {
   "description": "March is Christian Music Month - a time to celebrate the songs that uplift, inspire, and bring hope! From timeless worship anthems to fresh new sounds, this playlist is all about faith, encouragement, and joy. Hit play, turn it up, and share the love! Discover more at ChristianMusicMonth.com",
-  "num_followers": 286,
+  "num_followers": 287,
   "original_name": "Christian Music Month",
   "owner": {
     "name": "gospelmusicassoc",
     "url": "https://open.spotify.com/user/gospelmusicassoc"
   },
-  "snapshot_id": "AAAAYMdVFVSwoMcfvrvlu1I6tZqQBe4z",
+  "snapshot_id": "AAAAdGwgHNBi5gqrI8EI2ioUQ6N9CtN5",
   "tracks": [
     {
       "added_at": "2026-03-02 21:47:51",
@@ -105,6 +105,30 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "No One Like The Lord/Nadie Como El Se\u00f1or (Live)",
+        "url": "https://open.spotify.com/album/6YdYTtyFK5MlfzPv849u5Z"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 468466,
+      "name": "No One Like The Lord/Nadie Como El Se\u00f1or - Live",
+      "url": "https://open.spotify.com/track/4fzC4XMxdP5prBebf3mjSR"
+    },
+    {
       "added_at": "2026-03-02 21:49:22",
       "album": {
         "name": "Awake",
@@ -155,6 +179,30 @@
       "duration_ms": 136960,
       "name": "UP!",
       "url": "https://open.spotify.com/track/1Bgj8C4oHOR5M3wuzb6Mmq"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Solo Dios Sabe (God Only Knows)",
+        "url": "https://open.spotify.com/album/4vdRB1EwNphVttSyop63ib"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Joseph Prielozny",
+          "url": "https://open.spotify.com/artist/3Nns4yhUzo0UbuY2nD3hm9"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Solo Dios Sabe (God Only Knows)",
+      "url": "https://open.spotify.com/track/0Mzv5taM5yLazmQPMVRcrX"
     },
     {
       "added_at": "2026-03-02 21:49:45",
@@ -229,6 +277,26 @@
       "url": "https://open.spotify.com/track/5nb2I3N8WYRsiJKx9aQBih"
     },
     {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/60A7ZBZ41jcHBa6MAtL0md"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 178536,
+      "name": "Worthy (Spanglish Version)",
+      "url": "https://open.spotify.com/track/0ThxLVRBGQJxBxyJhI5lVD"
+    },
+    {
       "added_at": "2026-03-02 21:49:45",
       "album": {
         "name": "How To Start A Housefire (Pt. II)",
@@ -255,6 +323,26 @@
       "duration_ms": 232855,
       "name": "I Thank God",
       "url": "https://open.spotify.com/track/7GJeMVJbLzRgNuabsQ8RXt"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "S\u00e9 Fuerte (Live Set)",
+        "url": "https://open.spotify.com/album/2L7vIznTCaHBH2CgwGwdAy"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 337239,
+      "name": "S\u00e9 Fuerte - Live Set",
+      "url": "https://open.spotify.com/track/4vl7en9sudHqIn4lrWSBKi"
     },
     {
       "added_at": "2026-03-02 21:49:45",
@@ -315,6 +403,30 @@
       "duration_ms": 200168,
       "name": "Coming in Hot",
       "url": "https://open.spotify.com/track/3Qn0mv9MQjPk6Y3mI0jFVl"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/5KVE4Jj6hK3LTKjqohRQFi"
+      },
+      "artists": [
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        }
+      ],
+      "duration_ms": 201787,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/1w4xJlYy91E64vp3anuXsR"
     },
     {
       "added_at": "2026-03-02 21:49:45",
@@ -387,6 +499,50 @@
       "duration_ms": 179448,
       "name": "Praying For Me",
       "url": "https://open.spotify.com/track/2lGbBT4T68twkCzvGrj6DK"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Holy Forever (Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/7uhv3AlIkn9PgQ4W1CsSLl"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 317805,
+      "name": "Holy Forever - Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/0ZxUHxwz0iPK0wnTCetbss"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Praise - EP",
+        "url": "https://open.spotify.com/album/21SNreb0thegvE2kG4kzGW"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Unified Sound",
+          "url": "https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf"
+        }
+      ],
+      "duration_ms": 302050,
+      "name": "Alaba",
+      "url": "https://open.spotify.com/track/3QQ0AJAFCEWKaIAR8XLJLZ"
     },
     {
       "added_at": "2026-03-02 21:49:45",
@@ -521,6 +677,42 @@
       "url": "https://open.spotify.com/track/34n8xD9eHSdpwIGffhSLvW"
     },
     {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3bHkIxCLH1CmadBBWuRLxO"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/0K1XXuhaJBPWMcgjj3ug3u"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/5nRTZBd8Yrfs9FeIdy8MId"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 252765,
+      "name": "Al Estar Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0HFAsob0Ua78Tsjeu6LfxR"
+    },
+    {
       "added_at": "2026-03-02 21:49:45",
       "album": {
         "name": "Still Waters",
@@ -569,6 +761,26 @@
       "url": "https://open.spotify.com/track/7uIR8E4J8aIPnN3HYJns1j"
     },
     {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Suelto EP (Deluxe)",
+        "url": "https://open.spotify.com/album/3797Emf6FNRgoPOvzgehXI"
+      },
+      "artists": [
+        {
+          "name": "Sarai Rivera",
+          "url": "https://open.spotify.com/artist/202VnAr2CvQpJJrYXK78jk"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 228435,
+      "name": "Suelto (I Give You My Dreams)",
+      "url": "https://open.spotify.com/track/4T6x7bNGR83ftNAfQFU86p"
+    },
+    {
       "added_at": "2026-03-02 21:49:45",
       "album": {
         "name": "My Jesus",
@@ -583,6 +795,34 @@
       "duration_ms": 217680,
       "name": "My Jesus",
       "url": "https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm"
+    },
+    {
+      "added_at": "2026-03-04 16:41:34",
+      "album": {
+        "name": "Fe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bKsoKI16zKzu8YtLQdFBJ"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 253634,
+      "name": "Am\u00e9n",
+      "url": "https://open.spotify.com/track/7o2bahNuFGhiOX15tpyegD"
     },
     {
       "added_at": "2026-03-02 21:49:45",

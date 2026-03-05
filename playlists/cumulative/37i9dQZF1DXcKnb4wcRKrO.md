@@ -4,7 +4,7 @@
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-170 songs - 8 hr 31 min
+173 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Beverly Hills Cruise Beats](https://open.spotify.com/track/7vfIeSd3wJWbkIjr2Y1VeO) | [Carlton Ranks](https://open.spotify.com/artist/4VngY0qfXhW72MMv33xrfM) | [Beverly Hills Cruise Beats](https://open.spotify.com/album/348hqkK3q5M3gEWRhOYmgu) | 2:26 | 2025-12-19 |  |
 | [Blue Velocity](https://open.spotify.com/track/7xOgWonAlkYsvDJ9AnSQ3T) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf) | [Blue Velocity](https://open.spotify.com/album/73TZklRtwcc2Y4W4oQbhHC) | 2:14 | 2025-04-28 |  |
 | [Boulangerie](https://open.spotify.com/track/4W5HVY99GDQSNmTPKQBxaf) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Zimbr](https://open.spotify.com/artist/3cuw872KIDxTbChB71VKL3), [Erwo](https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq) | [Boulangerie](https://open.spotify.com/album/59Pz1L0gL30rltM1EiQo1S) | 1:44 | 2026-02-27 |  |
+| [Brushed](https://open.spotify.com/track/563zLgTKwJrVAvLMlUk0nc) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Brushed](https://open.spotify.com/album/413eyQrwmLKmydZfH2iBhU) | 2:37 | 2026-03-04 |  |
 | [Bungalow](https://open.spotify.com/track/09ipJgU2qrFphh9I3udSiN) | [West & Zander](https://open.spotify.com/artist/2Zjic6AMVbL0WvXf5ll1lA) | [Bungalow](https://open.spotify.com/album/6TnYHvCgw120FlshN6K5lH) | 3:04 | 2025-04-28 |  |
 | [Café al Sol](https://open.spotify.com/track/4503OvQbmelzRQ1m65OYC5) | [Onda Kura](https://open.spotify.com/artist/1KLWNkshpPh67SV3yyM1gJ) | [Café al Sol](https://open.spotify.com/album/2gowgV1p7aIa4ZQdP72yzE) | 2:10 | 2026-01-16 |  |
 | [Café cigarette](https://open.spotify.com/track/2FJ2ukpPWwKu9JzR4Ymx2x) | [Yambow](https://open.spotify.com/artist/5sNyTakkzqmmMTA8GgiCRS) | [Café cigarette](https://open.spotify.com/album/2FiOmnJxoQRdAmnmfUTxpX) | 2:44 | 2025-04-28 |  |
@@ -49,10 +50,10 @@
 | [CPH](https://open.spotify.com/track/1p7OcSfDwx3kr4m4E23UPB) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [CPH](https://open.spotify.com/album/6HdAgTAOjWIZXSoWmVtG3T) | 2:05 | 2025-04-28 |  |
 | [Crystal Flow](https://open.spotify.com/track/3G34vT5cNtczeGt5hvf4Zl) | [Part2](https://open.spotify.com/artist/07NTW8rhDS0FTuXB9eBuex) | [Crystal Flow](https://open.spotify.com/album/2uKeWG6KP9pV1Yi3NDrrCQ) | 3:45 | 2026-01-16 |  |
 | [Cyan](https://open.spotify.com/track/2Rgd3kLMiXAfE2RQDWk4l2) | [Sun Fighters](https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S) | [Cyan](https://open.spotify.com/album/6NoeIi1NtTZklCWzu8apTb) | 2:00 | 2025-09-12 |  |
-| [Daily Hustle and Such](https://open.spotify.com/track/2fmFmwWUU9nDuKPDM2qGEC) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Daily Hustle and Such](https://open.spotify.com/album/4ZZto4uWHH3eC68fo7vuH4) | 2:18 | 2025-11-21 |  |
+| [Daily Hustle and Such](https://open.spotify.com/track/2fmFmwWUU9nDuKPDM2qGEC) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Daily Hustle and Such](https://open.spotify.com/album/4ZZto4uWHH3eC68fo7vuH4) | 2:18 | 2025-11-21 | 2026-03-05 |
 | [De Vere](https://open.spotify.com/track/5QBuldX6YpnOtKfuQPlamh) | [Mack Walker](https://open.spotify.com/artist/1pdJH1yIymKtEcpperdsEx) | [De Vere](https://open.spotify.com/album/0h1g063kNhrEGgIwniBBcM) | 2:27 | 2025-07-02 |  |
 | [Detour](https://open.spotify.com/track/3by9FL229vI2ofAhvlsh8w) | [Molife](https://open.spotify.com/artist/5evuJYN1sgxxSQWs9mw1e3) | [Detour](https://open.spotify.com/album/6wgHlnjiA6cJ1E4ifmewgC) | 3:56 | 2025-04-28 |  |
-| [devious](https://open.spotify.com/track/2N7pJgapWS9Ws86koONAu8) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [devious](https://open.spotify.com/album/2PlAY1Wbs65utKH6u7Ahi3) | 2:14 | 2025-07-02 |  |
+| [devious](https://open.spotify.com/track/2N7pJgapWS9Ws86koONAu8) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [devious](https://open.spotify.com/album/2PlAY1Wbs65utKH6u7Ahi3) | 2:14 | 2025-07-02 | 2026-03-05 |
 | [Dimmed Lights](https://open.spotify.com/track/2W95IQmxs3PBkHJgXcM7AI) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Dimmed Lights](https://open.spotify.com/album/0fZZbVN5wsAJb7Fc22lDQs) | 2:16 | 2025-10-20 |  |
 | [Don't Worry](https://open.spotify.com/track/2xiGIym6L3C987k7wIP1nU) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [Don't Worry](https://open.spotify.com/album/7KFG2x2Ts82qohnEncS6Y8) | 2:15 | 2025-04-28 |  |
 | [Drifting On](https://open.spotify.com/track/0OCT3zd8kEYOUU1gjRBVo2) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Doble Espresso](https://open.spotify.com/album/2Ub48SgCtdDBsf1ZatJpXY) | 6:41 | 2025-06-20 | 2026-02-28 |
@@ -115,7 +116,7 @@
 | [Ocean Sofa](https://open.spotify.com/track/130dc1ozKqoenP7oMpeDcf) | [Noir Vista](https://open.spotify.com/artist/2lEM5VYK095SC5NRXvQSoJ) | [Ocean Sofa](https://open.spotify.com/album/1WcPPKr0zvlcMcQKXuEvmL) | 2:24 | 2026-02-13 |  |
 | [On & On](https://open.spotify.com/track/6Khjz6ZTdxhVujmB4fUWsK) | [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [On & On](https://open.spotify.com/album/4XvcHGJNQVWOVbpigdS10Y) | 3:27 | 2026-02-13 |  |
 | [On My Mind](https://open.spotify.com/track/4lVyKOiNZzMaDLrTIuBueR) | [Berner Sen](https://open.spotify.com/artist/78ChEYEGQx7KzLDQJRMpdX) | [On My Mind](https://open.spotify.com/album/11JTZnQI2LHUKY7R8IGkF9) | 2:32 | 2025-04-28 | 2025-07-26 |
-| [On My Own](https://open.spotify.com/track/6TpLC7ywTcj6z8hqlkhZm5) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [On My Own](https://open.spotify.com/album/3RylGkmKHFebiktl4JKv6V) | 2:01 | 2025-06-13 |  |
+| [On My Own](https://open.spotify.com/track/6TpLC7ywTcj6z8hqlkhZm5) | [Jajoi](https://open.spotify.com/artist/0Z6mxb1MO8OcangtXO3RSh) | [On My Own](https://open.spotify.com/album/3RylGkmKHFebiktl4JKv6V) | 2:01 | 2025-06-13 | 2026-03-05 |
 | [One Day](https://open.spotify.com/track/0dxvLgMHkYyA50mq1WXgjX) | [King Bøb](https://open.spotify.com/artist/41zvJbIz0wTbdM8KBB6vRy) | [One Day](https://open.spotify.com/album/1GM1uQbmpVBLCzuKLQ6KzF) | 2:41 | 2025-04-28 |  |
 | [Optimism](https://open.spotify.com/track/6xBWgPmOSPJ9unCuXPbFfm) | [Jordan Moon](https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1) | [Optimism](https://open.spotify.com/album/4DWzSyzQf9LFdQFNNa4Gmv) | 3:08 | 2025-09-12 | 2026-02-14 |
 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 | 2025-05-30 |  |
@@ -152,6 +153,7 @@
 | [Sunsets](https://open.spotify.com/track/4TvRslVhVW2ULg7nhgAzn9) | [Ajmw](https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R), [Blanc](https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw) | [Days In The Sun](https://open.spotify.com/album/4jrMiOto4gfVQVapKnhIJx) | 4:40 | 2025-04-28 |  |
 | [Sunshine Dance](https://open.spotify.com/track/52D3PnojEgC52Cvn2HK1MA) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Sunshine Dance](https://open.spotify.com/album/2rm4qnsPiUIenrpLzrQt06) | 2:27 | 2025-09-12 |  |
 | [Swing It](https://open.spotify.com/track/6itXfDv6NMTGuciHIXrY9j) | [Bear Frantz](https://open.spotify.com/artist/1nEOXCXHk8zFrNecfXhgrr) | [Swing It](https://open.spotify.com/album/1Lt7uDxByEAV00SqNHqh1I) | 2:29 | 2026-02-13 |  |
+| [Take a Seat](https://open.spotify.com/track/5PMUq6WAdiAUILZN2TI9OY) | [kuki](https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV) | [Take a Seat](https://open.spotify.com/album/2OyCtBRGxZ5E4RMmHAOy27) | 2:03 | 2026-03-04 |  |
 | [Take It Easy](https://open.spotify.com/track/632RZGZzWGjciRdT43DBDH) | [Painted Dunes](https://open.spotify.com/artist/4FZVF3aF1aWqAXJZmsRUkw), [bari](https://open.spotify.com/artist/4JSQ2UfsInSo0H2p3fnOOE) | [Take It Easy](https://open.spotify.com/album/2W6KO7atmhRu4HVAHg7Fj5) | 3:03 | 2026-02-27 |  |
 | [Talk to me.](https://open.spotify.com/track/2CjCINQC9GwKJnkmxZM8X9) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Talk to me.](https://open.spotify.com/album/3pOyuefXEHtWqCw3BsW5Wb) | 1:43 | 2025-04-28 |  |
 | [Tomorrow](https://open.spotify.com/track/0rhGbOnbGcYjofYEPsWN4g) | [BONJ](https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL) | [Tomorrow](https://open.spotify.com/album/7lUzas492ModXZJrjCuXtw) | 2:46 | 2025-12-19 |  |
@@ -159,6 +161,7 @@
 | [traveling](https://open.spotify.com/track/0WJmUMzYaJ8EGbLUrHoKcG) | [Ocean Silhouette](https://open.spotify.com/artist/2LWa52RmMEwEQF5q2EvjxL) | [traveling](https://open.spotify.com/album/4uOfw0DqfRggW2j2iEILbd) | 2:14 | 2026-01-16 |  |
 | [Trifecta](https://open.spotify.com/track/7gum4Pf0fZkHjSKFUBTJw6) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Trifecta](https://open.spotify.com/album/21HIET5g95CTnSNAiA8SxW) | 3:00 | 2025-08-29 |  |
 | [Tropical Luxury](https://open.spotify.com/track/35qZ5s83cjjbFxVvrcaBEp) | [Juando](https://open.spotify.com/artist/5QdanLFGUCg40u4E9OMgBv) | [Tropical Luxury](https://open.spotify.com/album/0PF5NoO7uahb4UfICzvV0B) | 3:57 | 2026-02-27 |  |
+| [Turquoise](https://open.spotify.com/track/1kxu1MLt2SsXGso9l6Tsdw) | [NRMNT](https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA) | [Turquoise](https://open.spotify.com/album/1OAA2a1kmc4eRzxY17FvvM) | 3:04 | 2026-03-04 |  |
 | [U MAKE ME](https://open.spotify.com/track/0VVHGDqNSRlZ7zeEEGHAgj) | [ELWD](https://open.spotify.com/artist/3UIr0NbZyET0Dt7ErPmPGd) | [U MAKE ME](https://open.spotify.com/album/460HQd8uWfO6pPfrkUdsRd) | 3:21 | 2025-04-28 |  |
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2025-04-28 | 2025-08-30 |
 | [Velvet Booth](https://open.spotify.com/track/7nr7FBOjNubyavoqhoRkMb) | [Mr Rawlings](https://open.spotify.com/artist/5IjVKmCZM7Sy41wQISlmRI) | [Velvet Booth](https://open.spotify.com/album/3VInFJGz32nL7s5aCWRxIa) | 2:14 | 2025-09-12 |  |

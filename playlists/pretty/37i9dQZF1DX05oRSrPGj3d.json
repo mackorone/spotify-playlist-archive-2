@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 287188,
+  "num_followers": 287200,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "The Late Great Townes Van Zandt",
-        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
-      },
-      "artists": [
-        {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Poncho & Lefty",
-      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "George Jones - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 197400,
       "name": "He Stopped Loving Her Today",
       "url": "https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Poncho & Lefty",
+      "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
-        "name": "Burning The Day",
-        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 281653,
-      "name": "Interstate",
-      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
         "name": "Life Of The Party",
         "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 262866,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
+        "name": "Burning The Day",
+        "url": "https://open.spotify.com/album/56Eev1ECimoTdex4w7yjpY"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 281653,
+      "name": "Interstate",
+      "url": "https://open.spotify.com/track/2bSakZfbGt38Z9sViKpNXc"
     },
     {
       "added_at": "2026-02-11 22:47:27",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-11 22:47:27",
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "New Strings",
+      "url": "https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5"
+    },
+    {
+      "added_at": "2026-02-11 22:47:27",
+      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/3N1fyo5kFjZhMYVsiEsRKB"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 272160,
       "name": "Mendocino County Line",
       "url": "https://open.spotify.com/track/41cm0jYZCvTcBeYZQ8lnwV"
-    },
-    {
-      "added_at": "2026-02-11 22:47:27",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "New Strings",
-      "url": "https://open.spotify.com/track/3aLD4sG82hq2c1xVpiIkK5"
     },
     {
       "added_at": "2026-02-11 22:47:27",

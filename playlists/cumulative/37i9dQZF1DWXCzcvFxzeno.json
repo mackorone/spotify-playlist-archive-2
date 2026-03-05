@@ -2702,7 +2702,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 134709,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh"
@@ -3118,7 +3118,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 271968,
       "name": "Havana Bounce",
       "url": "https://open.spotify.com/track/3yDlsbUiSWvViojyF0244u"
@@ -5010,7 +5010,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-19",
+      "date_removed": null,
       "duration_ms": 259023,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/3LgA6sFAEZ30TqeTWmGDlV"
@@ -6212,6 +6212,24 @@
       "duration_ms": 206068,
       "name": "Tamara",
       "url": "https://open.spotify.com/track/0iXHcWtw4npb2FPf6Gh5js"
+    },
+    {
+      "album": {
+        "name": "TASTE MY LOVE",
+        "url": "https://open.spotify.com/album/19Uc3mdOToJZ1iEfMhUlrR"
+      },
+      "artists": [
+        {
+          "name": "FoxTune",
+          "url": "https://open.spotify.com/artist/1DVM9Xl4WPgdIYN5m8m2Lu"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185343,
+      "name": "TASTE MY LOVE",
+      "url": "https://open.spotify.com/track/6niooL3ngDNKK1iF10U4nB"
     },
     {
       "album": {

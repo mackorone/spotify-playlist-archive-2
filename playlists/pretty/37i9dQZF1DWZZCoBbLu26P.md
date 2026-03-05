@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > We're born naked and the rest is drag\. Cover: The Vivienne
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,138 likes - 80 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,144 likes - 80 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 36 | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/track/07i9T9SDDHXuDuqs1wVAHb) | [Latrice Royale](https://open.spotify.com/artist/1MPCKhktsStR2Hnj1s2fvC), [Epiphany Mattel](https://open.spotify.com/artist/0KjBV7nJq8mr5QDsyWzvyy) | [Weight \(feat\. Epiphany Mattel\)](https://open.spotify.com/album/0youfwaLvfbBFw0iWK4Wi3) | 3:25 |
 | 37 | [Hurt My Feelings](https://open.spotify.com/track/2XE14vp7hkDhredi6SQ9Oz) | [Tatianna](https://open.spotify.com/artist/5sNf4pPJimYJ0Qg8nipo5a) | [Hurt My Feelings](https://open.spotify.com/album/6RYqcj0gjuIjuDaxmiuna8) | 3:57 |
 | 38 | [Everyone Is A Little Bit Gay](https://open.spotify.com/track/04M8IuMRVeBjNpFmTzfyzW) | [Ash Gordon](https://open.spotify.com/artist/0VovWkTz0WMOVbVTYcU6MF), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Everyone Is A Little Bit Gay](https://open.spotify.com/album/0ecCfZt9jcLvm3rRv9n9Q5) | 3:10 |
-| 39 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
-| 40 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
+| 39 | [Rodeo](https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [Rodeo](https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp) | 3:30 |
+| 40 | [Arrogant](https://open.spotify.com/track/6MmI4fwcClbnQJeIvtmJPm) | [DJ Mitch Ferrino](https://open.spotify.com/artist/2nkkdrHs13Onop9WadmkUK), [Tamisha Iman](https://open.spotify.com/artist/6hrrcYYzghli8qayZzHzoy) | [Arrogant](https://open.spotify.com/album/00pmG07qlKUF2GB28EwLrc) | 3:42 |
 | 41 | [Gimme What I Want](https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym) | [Rosé](https://open.spotify.com/artist/1xghNLbXhJmc9CG6jv5aDD) | [Gimme What I Want](https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4) | 2:30 |
 | 42 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 |
 | 43 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 |

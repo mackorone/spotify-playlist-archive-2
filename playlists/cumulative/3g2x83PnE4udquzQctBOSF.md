@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-514 songs - 1 day 7 hr 19 min
+515 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [The Spree](https://open.spotify.com/track/7eIGCVqTAmEK2AYiYSQjob) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [The Spree](https://open.spotify.com/album/7MBdsaS4VeFNemvbJ12NC1) | 3:49 | 2024-05-19 | 2024-07-08 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-07-30 | 2023-08-28 |
 | [The Unknown](https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [The Unknown](https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M) | 2:56 | 2024-05-19 | 2024-07-08 |
+| [The Vinci Code](https://open.spotify.com/track/5KSiKAMi4HisvlKB0qrI3t) | [LUX VINCI](https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt) | [Neon Renaissance](https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ) | 2:00 | 2026-03-04 |  |
 | [This Is Test](https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [This Is Test](https://open.spotify.com/album/6H42cNi6CpjPdeUAbqM1CF) | 3:17 | 2024-04-14 | 2024-05-20 |
 | [Throw Your Hands](https://open.spotify.com/track/3qXzSsbqXAKdvuqQs9ngLl) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Throw Your Hands](https://open.spotify.com/album/3keETtjEnJS2M0AUuNNiZw) | 3:11 | 2023-05-14 | 2023-06-12 |
 | [Thugs in the House](https://open.spotify.com/track/1tVrfhxuD9iWGoHEgq90Hp) | [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Thugs in the House](https://open.spotify.com/album/7epCOePzrS0UoYnXnceTdd) | 3:22 | 2023-09-17 | 2023-12-14 |

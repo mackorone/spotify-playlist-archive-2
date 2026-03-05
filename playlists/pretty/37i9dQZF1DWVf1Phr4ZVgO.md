@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 
 > Big bands and tuxedos\. The playlist for the wedding or just an elegant evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,192,705 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,742 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf1Phr4ZVgO.md) - [plain]
 | 55 | [I've Got The World On A String](https://open.spotify.com/track/2bksvLO7cIYbVxe6HcSS8Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:12 |
 | 56 | [Two Sleepy People](https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V) | [Sammy Davis Jr.](https://open.spotify.com/artist/1NAWG3AngjBXyKbmPaz92D), [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Boy Meets Girl: Sammy Davis Jr\. And Carmen McRae On Decca](https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge) | 2:50 |
 | 57 | [Qu'est\-ce que tu crois ?](https://open.spotify.com/track/3wpp9Sk66Onv8Kv42n8KN1) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs), [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Platinum Collection](https://open.spotify.com/album/6oDOhdspMCyj3grZIsUqaT) | 2:55 |
-| 58 | [All The Things You Are](https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Sunday Morning](https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq) | 3:49 |
-| 59 | [You Are There \(Orchestral Version\)](https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [Wild Woman Tells All](https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT) | 5:44 |
+| 58 | [You Are There \(Orchestral Version\)](https://open.spotify.com/track/4pwPTfmcuwKetSybXcQl9i) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [Wild Woman Tells All](https://open.spotify.com/album/2fvQLg0izPKs5QeweZskcT) | 5:44 |
+| 59 | [All The Things You Are](https://open.spotify.com/track/1tTOZjvzrkQSSf6XZFS2AY) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [Sunday Morning](https://open.spotify.com/album/1WzKyOIFW45U8ZSuLVHGLq) | 3:49 |
 | 60 | [You Make Me Feel So Young](https://open.spotify.com/track/3BvRGVwn9sBfbxGClUEvD3) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Manilow Sings Sinatra](https://open.spotify.com/album/1VHZYvdQ2xcit0EkFzq0oj) | 2:59 |
 | 61 | [I Let a Song Go out of My Heart](https://open.spotify.com/track/1DgQyMa4f1myDWa21BwgVq) | [Alice Babs](https://open.spotify.com/artist/3omPckNeXtMpCdOXVfcOST) | [Swingtime Again](https://open.spotify.com/album/26aZe5wY5BaADUQ2ndQeQK) | 2:45 |
 | 62 | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/track/7yi1OPcs7d2nfIQVPYAkky) | [Jake Mason Trio](https://open.spotify.com/artist/2qsUIL8cjpY7fO2ucmTaXP), [Kate Ceberano](https://open.spotify.com/artist/6E4eoLJTZYyIC5cZVg6fDx) | [Stop Searching for Love \(feat\. Kate Ceberano\)](https://open.spotify.com/album/6s063r0rmt7nFgsyobzQvr) | 5:06 |

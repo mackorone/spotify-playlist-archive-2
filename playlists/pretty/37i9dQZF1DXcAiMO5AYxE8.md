@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,669 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,697 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 5 | [Don't Leave Me This Way \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4vYauy3ABO65vTXggGYaZg) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Wake Up Everybody \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0) | 6:03 |
 | 6 | [Blame It On The Boogie](https://open.spotify.com/track/70RnDnl6ctOyXHICnWOnMb) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:30 |
 | 7 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
-| 8 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
-| 9 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 8 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
+| 9 | [I Love to Love](https://open.spotify.com/track/5jWI1xNxABzDRFTnD2yp8L) | [Tina Charles](https://open.spotify.com/artist/7Jbs4wPCLaKXPxrTxZ2zaa) | [I Love To Love \- The Best Of](https://open.spotify.com/album/4tQ54MqaSzOZmi5aL2G647) | 3:03 |
 | 10 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 |
 | 11 | [It's Raining Men](https://open.spotify.com/track/7iFwfXNYy0goAL54aupC7Q) | [The Weather Girls](https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH) | [Super Hits](https://open.spotify.com/album/31eNtoMOM0eUpPwJKtAxTL) | 5:26 |
 | 12 | [I'm in the Mood for Dancing](https://open.spotify.com/track/4aGVpNl4csfQ2W1i4Ao40q) | [The Nolans](https://open.spotify.com/artist/2H32fphWQj9hhVuCOKkchM) | [Altogether](https://open.spotify.com/album/4ht5RbpnT3PA1rk2M8P0OS) | 3:18 |

@@ -605,6 +605,28 @@
     },
     {
       "album": {
+        "name": "Apple vs. 7G",
+        "url": "https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II"
+      },
+      "artists": [
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "umru",
+          "url": "https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217189,
+      "name": "2021 (umru Remix)",
+      "url": "https://open.spotify.com/track/5EOnAuVdMefq2KD2pboK2L"
+    },
+    {
+      "album": {
         "name": "Broke with Expensive Taste",
         "url": "https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Nali and Coi Leray
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,027 likes - 155 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,037 likes - 155 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

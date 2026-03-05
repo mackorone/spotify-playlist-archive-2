@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1970s.",
-  "num_followers": 31584,
+  "num_followers": 31590,
   "original_name": "70s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Honky Chateau",
-        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
         "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 254293,
       "name": "Starman - 2012 Remaster",
       "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 302626,
-      "name": "Hollywood Nights",
-      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "The Grand Illusion",
         "url": "https://open.spotify.com/album/6MFIBPVrZjHjP0pPkVF3IU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 367000,
       "name": "Come Sail Away",
       "url": "https://open.spotify.com/track/0PsbWiVtix5FoTZ1s00mEl"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 302626,
+      "name": "Hollywood Nights",
+      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 263746,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Cosmo's Factory (Expanded Edition)",
         "url": "https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 161466,
       "name": "Up Around The Bend",
       "url": "https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 263746,
+      "name": "I Shot The Sheriff",
+      "url": "https://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "It Ain't Easy",
-        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Mama Told Me (Not To Come) - Single Version",
-      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Desolation Angels (2009 Remaster)",
         "url": "https://open.spotify.com/album/1yNIJqbC4vSPFcc8mKEWZp"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 197466,
       "name": "Rock 'n' Roll Fantasy - 2009 Remaster",
       "url": "https://open.spotify.com/track/71GMl3Q7U4JnrTqI9kfcoN"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Mama Told Me (Not To Come) - Single Version",
+      "url": "https://open.spotify.com/track/1CAO7hiNOxJRPW4nFv2aRO"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
+        "name": "Songs Of Yesterday",
+        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
+      },
+      "artists": [
+        {
+          "name": "Free",
+          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "All Right Now",
+      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
         "name": "Best Of Blondie",
         "url": "https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 185066,
       "name": "Sunday Girl",
       "url": "https://open.spotify.com/track/23yv078f5kc08Kj6DMpO0t"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Songs Of Yesterday",
-        "url": "https://open.spotify.com/album/1V3HZsFh7CaYBQLA1af5CK"
-      },
-      "artists": [
-        {
-          "name": "Free",
-          "url": "https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "All Right Now",
-      "url": "https://open.spotify.com/track/5Yuvfj0aCUvWE01bnMWtjV"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1388,9 +1388,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 289360,
-      "name": "Over the Hills and Far Away - 1990 Remaster",
-      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
+      "duration_ms": 261773,
+      "name": "D'yer Mak'er - 1990 Remaster",
+      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1468,25 +1468,25 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 261773,
-      "name": "D'yer Mak'er - 1990 Remaster",
-      "url": "https://open.spotify.com/track/6UCb3me83cyCV19sjvucte"
+      "duration_ms": 289360,
+      "name": "Over the Hills and Far Away - 1990 Remaster",
+      "url": "https://open.spotify.com/track/5KXdflxoxCcE9m5F2QoAUY"
     },
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+        "name": "10cc",
+        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
       },
       "artists": [
         {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
         }
       ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
+      "duration_ms": 318853,
+      "name": "Rubber Bullets",
+      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1503,6 +1503,22 @@
       "duration_ms": 280360,
       "name": "Back In the Saddle",
       "url": "https://open.spotify.com/track/0ZGLuduCPjgWY1n85ykgMe"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1539,22 +1555,6 @@
     {
       "added_at": "2024-07-12 14:53:15",
       "album": {
-        "name": "10cc",
-        "url": "https://open.spotify.com/album/1NefUKCblMkMNlspyQrJEH"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Rubber Bullets",
-      "url": "https://open.spotify.com/track/1QQgSUKCG8GakzMOwi4lFS"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
         "name": "Since We've Been Gone",
         "url": "https://open.spotify.com/album/7zRC8iLx8ixniN0rfJwdzc"
       },
@@ -1567,6 +1567,22 @@
       "duration_ms": 209186,
       "name": "Substitute",
       "url": "https://open.spotify.com/track/5po2HCMZvJ0aPSxRRGKm3p"
+    },
+    {
+      "added_at": "2024-07-12 14:53:15",
+      "album": {
+        "name": "Back and Fourth",
+        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
+      },
+      "artists": [
+        {
+          "name": "Lindisfarne",
+          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Run for Home",
+      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
     },
     {
       "added_at": "2024-07-12 14:53:15",
@@ -1599,22 +1615,6 @@
       "duration_ms": 230173,
       "name": "Get Down and Get With It",
       "url": "https://open.spotify.com/track/3rEUXKfkeb6kPH6NCxkgCo"
-    },
-    {
-      "added_at": "2024-07-12 14:53:15",
-      "album": {
-        "name": "Back and Fourth",
-        "url": "https://open.spotify.com/album/4k1bBW9n9T1kkByxHFWokQ"
-      },
-      "artists": [
-        {
-          "name": "Lindisfarne",
-          "url": "https://open.spotify.com/artist/4AgFg0hHythyklEs4t7XKt"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Run for Home",
-      "url": "https://open.spotify.com/track/6JoQg3P42ngcpyBNoTFWPC"
     }
   ],
   "unique_name": "70s Summer Rock",

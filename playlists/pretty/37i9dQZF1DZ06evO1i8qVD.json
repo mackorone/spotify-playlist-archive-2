@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 38366,
+  "num_followers": 38381,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAx406eXCcUbahHOXbB2P0K",
+  "snapshot_id": "aaYkgAAAAAD8GPsDBuXA3mFCHbaaBPA/",
   "tracks": [
     {
       "added_at": null,
@@ -163,22 +163,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "B.B. King's Blues Summit 100",
-        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
       },
       "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 284413,
-      "name": "Sweet Little Angel",
-      "url": "https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc"
+      "duration_ms": 317320,
+      "name": "What Kind Of Woman Is This?",
+      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
     },
     {
       "added_at": null,
@@ -199,18 +195,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bring 'Em In",
-        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+        "name": "B.B. King's Blues Summit 100",
+        "url": "https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6"
       },
       "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 317320,
-      "name": "What Kind Of Woman Is This?",
-      "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+      "duration_ms": 284413,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/49jvNTBdS4idoirNOiraQc"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Out",
         "url": "https://open.spotify.com/album/0ssT151vDQvOAL1dcf4zZY"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 228019,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/6L5nqMCbzcg9Xq8ZE6PC91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -603,22 +583,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 174466,
-      "name": "Snatch It Back And Hold It",
-      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
+      "duration_ms": 219200,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -639,6 +619,26 @@
       "duration_ms": 275680,
       "name": "Where Is the Next One Coming From (feat. Mark Knopfler)",
       "url": "https://open.spotify.com/track/2yJPlXbIlR9rQEFp7hB4by"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Snatch It Back And Hold It",
+      "url": "https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 505906,
+      "name": "Five Long Years",
+      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 126933,
       "name": "Hoodoo Man Blues",
       "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 505906,
-      "name": "Five Long Years",
-      "url": "https://open.spotify.com/track/5kNUT32bVoptcf1j88ldAU"
     },
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Buddy's Baddest: The Best Of Buddy Guy",
+        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 390533,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 277906,
       "name": "Where The Blues Begins (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buddy's Baddest: The Best Of Buddy Guy",
-        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 390533,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -867,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
       },
       "artists": [
         {
@@ -876,9 +892,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+      "duration_ms": 289603,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 229409,
       "name": "Love On A Budget",
       "url": "https://open.spotify.com/track/2PHyfhg9Eqdkm6gMMsfy43"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Chase The Blues Away",
-        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 289603,
-      "name": "Blues Chase The Blues Away",
-      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,

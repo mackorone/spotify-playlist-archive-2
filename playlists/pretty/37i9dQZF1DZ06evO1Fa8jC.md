@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 > This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,356 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,377 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 38 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 39 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
 | 40 | [Capitán Pelusa](https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:07 |
-| 41 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
-| 42 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
-| 43 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 |
-| 44 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
-| 45 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
+| 41 | [Mi Aliento](https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [¿Quién da Más ?](https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG) | 4:03 |
+| 42 | [Mientras tanto](https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:14 |
+| 43 | [Quedándote O Yéndote](https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:25 |
+| 44 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
+| 45 | [Perdón](https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 4:54 |
 | 46 | [Corazoncito](https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hombre Simple](https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9) | 3:52 |
 | 47 | [Flor del Potrero](https://open.spotify.com/track/3OLZc8KQSTfpc7zcGrqKyM) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 3:51 |
 | 48 | [Sinsemilla](https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Frecuencia Cafre](https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK) | 4:45 |
 | 49 | [Acto Salvaje](https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Acto Salvaje](https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ) | 4:08 |
 | 50 | [Prefiero](https://open.spotify.com/track/3i6m98djJi8AJnyCWyhXWV) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 3:28 |
 
-Snapshot ID: `aaTTAAAAAADkIMUOym9OZDReDP3qYZp4`
+Snapshot ID: `aaYkgAAAAAAt7Sl0TiNqUq1Cj7FSn9vM`

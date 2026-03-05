@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,121 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,121 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 35 | [Dancing Queen](https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:09 |
 | 36 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
 | 37 | [Eenie Meenie](https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Eenie Meenie](https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l) | 2:22 |
-| 38 | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL) | 1:34 |
-| 39 | [DAMN DANIEL \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:52 |
+| 38 | [DAMN DANIEL \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:52 |
+| 39 | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Bow \(feat\. Baby Tate\)](https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL) | 1:34 |
 | 40 | [A Ballad for Homegirls \(feat\. Baby Tate\)](https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 4:22 |
 | 41 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 42 | [Straight](https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:37 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 47 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
 | 48 | [Face The World](https://open.spotify.com/track/1yJBqUwbi23dbGDyB0IqjV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 2:58 |
 | 49 | [That Girl](https://open.spotify.com/track/1eGW9NUzLN1roVpWWyjVI8) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS](https://open.spotify.com/album/3KExRXeulCEJWUYr6IP2lk) | 4:30 |
-| 50 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
+| 50 | [Sailor Moon \- 2.0](https://open.spotify.com/track/1A7HVN4G4guzWvk2InwDTA) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:17 |
 
-Snapshot ID: `aaTTAAAAAAAwYA1jEnnTrclkTlgkAtyA`
+Snapshot ID: `aaYkgAAAAACnShiqIQJYoRrvSTfFrPOn`

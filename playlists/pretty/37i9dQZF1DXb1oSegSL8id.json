@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 862790,
+  "num_followers": 862806,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Vento Forte",
-        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
-      },
-      "artists": [
-        {
-          "name": "Mc Jacare\u0301",
-          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
-        },
-        {
-          "name": "Dj Tk",
-          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
-        }
-      ],
-      "duration_ms": 123711,
-      "name": "Vento Forte",
-      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Figurinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 206001,
       "name": "Figurinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Vento Forte",
+        "url": "https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "Dj Tk",
+          "url": "https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN"
+        }
+      ],
+      "duration_ms": 123711,
+      "name": "Vento Forte",
+      "url": "https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177805,
-      "name": "A Fila Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Churrasquinho Menos \u00c9 Mais, Vol. 2",
         "url": "https://open.spotify.com/album/0ni6zhrp00jfoI0lswSrGv"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 381011,
       "name": "Carona do Amor / Shortinho Saint-Tropez / Novos Tempos",
       "url": "https://open.spotify.com/track/3cWzutz7qMSKXmoZRFCNnB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177805,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Cobaia",
         "url": "https://open.spotify.com/album/7CbERGprCKdr9eR5TNG5Rd"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 219442,
       "name": "Cobaia",
       "url": "https://open.spotify.com/track/6qDvzHbstT1Tr45okT8eN4"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1623,18 +1623,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Conquistas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
+        "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
       },
       "artists": [
         {
           "name": "Os Bar\u00f5es Da Pisadinha",
           "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        },
+        {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
         }
       ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
+      "duration_ms": 142187,
+      "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1711,26 +1719,18 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/2Qx3M26c84kJ2q6UxHftfL"
+        "name": "Conquistas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1GAEkzl2H1mXS5byOsrc5f"
       },
       "artists": [
         {
           "name": "Os Bar\u00f5es Da Pisadinha",
           "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        },
-        {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
         }
       ],
-      "duration_ms": 142187,
-      "name": "N\u00e3o Que Eu V\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5fPBQtHOZYg1UioxFpOqPR"
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/7KBzs7p4IqxQ3GS06TvOwG"
     },
     {
       "added_at": "2024-07-09 12:43:17",

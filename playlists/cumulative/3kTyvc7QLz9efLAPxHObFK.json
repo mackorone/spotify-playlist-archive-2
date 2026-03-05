@@ -46359,6 +46359,28 @@
     },
     {
       "album": {
+        "name": "SIN",
+        "url": "https://open.spotify.com/album/4KIJjpJlyi8YkF3lPaTXQb"
+      },
+      "artists": [
+        {
+          "name": "TerrorClown",
+          "url": "https://open.spotify.com/artist/4zL9MTFtg43EJgwarYpPAz"
+        },
+        {
+          "name": "Xelerate",
+          "url": "https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143052,
+      "name": "SIN",
+      "url": "https://open.spotify.com/track/4TciCN4v2O1uQanFPPjbAQ"
+    },
+    {
+      "album": {
         "name": "Sing To Me",
         "url": "https://open.spotify.com/album/0PhEJ1rpvAIfZMq5baRQSo"
       },

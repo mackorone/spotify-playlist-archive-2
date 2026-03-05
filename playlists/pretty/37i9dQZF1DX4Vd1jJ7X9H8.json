@@ -1,6 +1,6 @@
 {
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
-  "num_followers": 342175,
+  "num_followers": 342203,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-02-27 17:33:06",
       "album": {
+        "name": "Metamodernity",
+        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 162663,
+      "name": "Metamodernity",
+      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
+    },
+    {
+      "added_at": "2026-02-27 17:33:06",
+      "album": {
         "name": "Lose My Cool (Remixes)",
         "url": "https://open.spotify.com/album/1UG98QDB2VZMhJtYZaRQAA"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 257301,
       "name": "Lose My Cool - Franc Moody Remix",
       "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ"
-    },
-    {
-      "added_at": "2026-02-27 17:33:06",
-      "album": {
-        "name": "Metamodernity",
-        "url": "https://open.spotify.com/album/1lgZZELIZZwafQJDycr47q"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 162663,
-      "name": "Metamodernity",
-      "url": "https://open.spotify.com/track/4RGWHfQeJftd5XrP8JUgFj"
     },
     {
       "added_at": "2026-02-27 17:33:06",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-02-27 17:33:06",
       "album": {
+        "name": "Ungodly Hour",
+        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Ungodly Hour",
+      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
+    },
+    {
+      "added_at": "2026-02-27 17:33:06",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 176773,
       "name": "Experience",
       "url": "https://open.spotify.com/track/2oap3QptGISyIvwKpnJJId"
-    },
-    {
-      "added_at": "2026-02-27 17:33:06",
-      "album": {
-        "name": "Ungodly Hour",
-        "url": "https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS"
-      },
-      "artists": [
-        {
-          "name": "Chloe x Halle",
-          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
-        }
-      ],
-      "duration_ms": 255893,
-      "name": "Ungodly Hour",
-      "url": "https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu"
     },
     {
       "added_at": "2026-02-27 17:33:06",

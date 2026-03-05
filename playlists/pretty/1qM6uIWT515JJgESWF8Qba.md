@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 354 likes - 56 songs - 3 hr 39 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 358 likes - 58 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 54 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 |
 | 55 | [Cliffhanger](https://open.spotify.com/track/4JX8FWiyo3AeYQ2B5EZ5wL) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Tides](https://open.spotify.com/album/6IcFYhUAnyprfDg7kRlRZZ) | 3:43 |
 | 56 | [Royal Kush \- 2026 Remix](https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush \(2026 Remix\)](https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri) | 3:36 |
+| 57 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 |
+| 58 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 |
 
-Snapshot ID: `AAABQ1qbD9KX8voTx69fnL/Xh6U6HyyH`
+Snapshot ID: `AAABRZOyLVka36tZIHrddn6E65FLfTcr`

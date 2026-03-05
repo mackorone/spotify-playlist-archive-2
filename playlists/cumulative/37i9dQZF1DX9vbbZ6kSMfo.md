@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9vbbZ6kSMfo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9vbbZ6kSMfo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9vbbZ6kSMfo)
 
-### [Hip\-Hop's Next Leaders?](https://open.spotify.com/playlist/37i9dQZF1DX9vbbZ6kSMfo)
+### [Hip\-Hop's Next Leaders](https://open.spotify.com/playlist/37i9dQZF1DX9vbbZ6kSMfo)
 
-> Who's going to lead hip\-hop’s next generation?
+> The fans have spoken: Baby Keem, Lil Tecca and Doechii will lead hip\-hop’s next generation.
 
 48 songs - 2 hr 11 min
 

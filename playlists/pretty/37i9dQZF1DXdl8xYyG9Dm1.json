@@ -1,6 +1,6 @@
 {
   "description": "The latest straight bars and Afro-Trap. Cover:  Nasty C",
-  "num_followers": 186660,
+  "num_followers": 186705,
   "original_name": "Afro Bars ",
   "owner": {
     "name": "Spotify",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-02-27 00:01:27",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+    },
+    {
+      "added_at": "2026-02-27 00:01:27",
+      "album": {
         "name": "then 1t g0t crazier",
         "url": "https://open.spotify.com/album/6mtVRC0YNXKqsB7g7aWaU5"
       },
@@ -463,18 +479,22 @@
     {
       "added_at": "2026-02-27 00:01:27",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
+        "name": "Emeka Must Shine",
+        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
       },
       "artists": [
         {
-          "name": "Nasty C",
-          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Head Up",
-      "url": "https://open.spotify.com/track/4JCsiKMqONz7092YpQnT6M"
+      "duration_ms": 187368,
+      "name": "NO SLEEP $$$ (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-02-27 00:01:27",
@@ -495,26 +515,6 @@
       "duration_ms": 185454,
       "name": "Motho Waka",
       "url": "https://open.spotify.com/track/0V5v4EMQA5zlXwfQugIgJR"
-    },
-    {
-      "added_at": "2026-02-27 00:01:27",
-      "album": {
-        "name": "Emeka Must Shine",
-        "url": "https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 187368,
-      "name": "NO SLEEP $$$ (feat. Young Jonn)",
-      "url": "https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW"
     },
     {
       "added_at": "2026-02-27 00:01:27",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-02-27 00:01:27",
       "album": {
-        "name": "Kilos Milos",
-        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 157560,
-      "name": "Kilos Milos",
-      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
-    },
-    {
-      "added_at": "2026-02-27 00:01:27",
-      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/5uE4icrIPuWXaMFcCGyC1y"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 134237,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/1lWcw1YdBbYbFzJ9BKyDqc"
+    },
+    {
+      "added_at": "2026-02-27 00:01:27",
+      "album": {
+        "name": "Kilos Milos",
+        "url": "https://open.spotify.com/album/2GWGoafnaAHShlzm6oICnL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 157560,
+      "name": "Kilos Milos",
+      "url": "https://open.spotify.com/track/4PPjesO0Xyf0unsdHAL4h8"
     },
     {
       "added_at": "2026-02-27 00:01:27",

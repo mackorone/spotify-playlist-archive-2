@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from  Msaki & Jesse Clegg, Nomfundo Moh, LaCabra, MOLIY and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,877 likes - 91 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,900 likes - 91 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 2 | [Risk It All](https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:24 |
 | 3 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
 | 4 | [Uzophumelela](https://open.spotify.com/track/5r5B9F336V8Z28mTjQ65Cm) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Uzophumelela](https://open.spotify.com/album/4IBjT3s0Ws23421NY1lc2J) | 4:07 |
-| 5 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 5 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 6 | [The Vision](https://open.spotify.com/track/78PJkJsUq2V2uqAlMvZjfd) | [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [MR BULLY](https://open.spotify.com/album/1FyVaKbWHOA1xXUbCNjX9S) | 3:22 |
 | 7 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 |
 | 8 | [GO](https://open.spotify.com/track/0mYa3o6tlUN5HRippmKmwH) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC) | 3:15 |

@@ -4,7 +4,7 @@
 
 > This is Rob Zombie\. The essential tracks, all in one playlist.
 
-88 songs - 4 hr 51 min
+89 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Girl On Fire](https://open.spotify.com/track/4d8rLkF805Bv2HlFlPHmpo) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:29 | 2026-01-06 |  |
 | [Halloween \(She's So Mean\)](https://open.spotify.com/track/2m1cWmzEI3wxGlYd16jdJp) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [Halloween Hootenanny](https://open.spotify.com/album/7xbEDCU4OTLtq2rrpog79t) | 2:50 | 2022-10-18 | 2025-11-28 |
 | [Hands Of Death \(Burn Baby Burn\)](https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 4:12 | 2022-05-30 | 2025-11-02 |
-| [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-23 |  |
+| [Heathen Days](https://open.spotify.com/track/1LaemmWc1Cl2McmJy8dtfb) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Heathen Days](https://open.spotify.com/album/26yuduRZqt1jG6UQ953rQP) | 2:17 | 2025-11-23 | 2026-03-05 |
+| [Heathen Days](https://open.spotify.com/track/3iH9Ab8O4AWkKK33cWiltm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 2:17 | 2026-03-05 |  |
 | [Helter Skelter](https://open.spotify.com/track/2ztuZjGZ7uHwQ3jTKZyQKm) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [Helter Skelter](https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e) | 3:35 | 2022-05-30 |  |
 | [House Of 1000 Corpses](https://open.spotify.com/track/4drs4Khk9JMBtKI3Rxa2R1) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 9:26 | 2022-05-30 | 2022-10-13 |
 | [In The Age Of The Consecrated Vampire We All Get High](https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:15 | 2022-05-30 |  |
@@ -87,7 +88,7 @@
 | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/track/5mf3p8pyhLHoS4EWeD354I) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Triumph of King Freak \(A Crypt of Preservation and Superstition\)](https://open.spotify.com/album/7mdbCagfxurdPgceZXaccP) | 4:07 | 2022-10-31 | 2022-12-08 |
 | [Thunder Kiss '65 \- JDevil Number Of The Beast Remix](https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5), [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8), [Jonathan Davis](https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW) | [Mondo Sex Head](https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV) | 3:49 | 2022-05-30 | 2025-09-28 |
 | [Two\-Lane Blacktop](https://open.spotify.com/track/4VIM6bcYnJZsrmIOAbWoxF) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Past, Present & Future](https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz) | 3:02 | 2022-05-30 |  |
-| [Welcome To The Electric Age](https://open.spotify.com/track/4PFoEQomauHqjGEHNdDZTf) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:54 | 2026-03-02 |  |
+| [Welcome To The Electric Age](https://open.spotify.com/track/4PFoEQomauHqjGEHNdDZTf) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Great Satan](https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I) | 0:54 | 2026-03-02 | 2026-03-05 |
 | [Well, Everybody's Fucking In A U.F.O.](https://open.spotify.com/track/3KAS4vmuvRGP2BUQcxmu5i) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser](https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K) | 2:43 | 2022-05-30 |  |
 | [Werewolf Women of the SS](https://open.spotify.com/track/2NakapiJVH4YULWTS0rxoN) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:01 | 2022-06-09 | 2022-08-05 |
 | [Werewolf, Baby!](https://open.spotify.com/track/7fv6wqJX3Mnu7z1dj7i0Ca) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe 2 \(Special Edition\)](https://open.spotify.com/album/1lRP2viDsQVnL5FZwTsFwB) | 3:59 | 2022-05-30 | 2026-03-01 |

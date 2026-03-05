@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,798 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,803 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 32 | [Pumping](https://open.spotify.com/track/49TDyRgRbpvpDOZJOslDlh) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 3:21 |
 | 33 | [Summer Cannibals](https://open.spotify.com/track/4DYuuaIJ05vMp1FaISwkyn) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:11 |
 | 34 | [Hymn](https://open.spotify.com/track/2kUbcJVJCJXQrhlCMdbAZS) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 1:12 |
-| 35 | [Snowball](https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 3:14 |
-| 36 | [Distant Fingers](https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:19 |
-| 37 | [After the Gold Rush](https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:13 |
-| 38 | [Dream of Life](https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:39 |
-| 39 | [The Hunter Gets Captured by The Game](https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 2:54 |
-| 40 | [Poppies](https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 7:06 |
-| 41 | [Peaceable Kingdom](https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr) | 5:09 |
-| 42 | [Citizen Ship](https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:12 |
+| 35 | [After the Gold Rush](https://open.spotify.com/track/6aqJhVpN3T3n2SppOM0Vh5) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 4:13 |
+| 36 | [Poppies](https://open.spotify.com/track/6Y2b9a0krc2a0nQEnAWRZE) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 7:06 |
+| 37 | [Snowball](https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 3:14 |
+| 38 | [Citizen Ship](https://open.spotify.com/track/3h95pVJF0P5cWBO6dNWqK8) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 5:12 |
+| 39 | [Dream of Life](https://open.spotify.com/track/4e5jxoZq36xrhQzc1R675L) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:39 |
+| 40 | [Distant Fingers](https://open.spotify.com/track/5fI00jX4cWUfCGpYvchDjR) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Radio Ethiopia](https://open.spotify.com/album/7jmAoRWQ9qUXtRXUOW2agu) | 4:19 |
+| 41 | [The Hunter Gets Captured by The Game](https://open.spotify.com/track/2CYP4cDBByvEysHN9VpQ5O) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(50th Anniversary\)](https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm) | 2:54 |
+| 42 | [Peaceable Kingdom](https://open.spotify.com/track/3cus7Q6wCCgN4BAGLszFQV) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Trampin'](https://open.spotify.com/album/5pykpXlDqoTpxVkeaHOQLr) | 5:09 |
 | 43 | [Looking for You \(I Was\)](https://open.spotify.com/track/4amGL7ISvnFCO00PgYKn8f) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Dream Of Life](https://open.spotify.com/album/3TxNFi3uBnjDBFlfnbmIPe) | 4:06 |
 | 44 | [1959](https://open.spotify.com/track/6E1y6W1ZTojaBdtHGKDbGK) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Peace & Noise](https://open.spotify.com/album/3ZsYwM93Semk99fceeRz2r) | 3:58 |
-| 45 | [Everybody Hurts](https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 6:17 |
-| 46 | [Gone Again](https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:16 |
+| 45 | [Gone Again](https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:16 |
+| 46 | [Everybody Hurts](https://open.spotify.com/track/33iQ7flnKWXFKyRW9QF7WZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 6:17 |
 | 47 | [Glitter In Their Eyes](https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gung Ho](https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE) | 3:03 |
 | 48 | [Seneca](https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 5:40 |
-| 49 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 |
-| 50 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
+| 49 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
+| 50 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 |
 
-Snapshot ID: `aaTTAAAAAABjSqLuoc9AGEEdJFxW4lD+`
+Snapshot ID: `aaYkgAAAAABzhjiwE4m8Joqw9QzKU2kv`

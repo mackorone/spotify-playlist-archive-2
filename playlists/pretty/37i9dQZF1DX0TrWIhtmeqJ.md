@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Sade Olutola
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,706 likes - 69 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,696 likes - 69 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

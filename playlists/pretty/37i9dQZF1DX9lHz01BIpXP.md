@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: Ziggy4x
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,291 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,293 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 28 | [Spitbraai](https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG) | [Spitbraai](https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu) | 3:18 |
 | 29 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 |
 | 30 | [Koepie Gevrietie](https://open.spotify.com/track/7Dy4POL2thHmuMk7Fy6cD9) | [Maintjie](https://open.spotify.com/artist/3XAYWDIMwPLQUXr0j5jTpb), [TYREAKE](https://open.spotify.com/artist/5uHVVOJq0zlg0BSy7TKyBe) | [Koepie Gevrietie](https://open.spotify.com/album/3t6muPDJ2IoGG1WMajYf4T) | 3:19 |
-| 31 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
-| 32 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 31 | [Grammadoelas](https://open.spotify.com/track/6NTJdN3XkNb7ZSFD0ulNHK) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Grammadoelas](https://open.spotify.com/album/1J34TIvVyMaThKgphKhHd5) | 2:03 |
+| 32 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
 | 33 | [Niks Te Laat](https://open.spotify.com/track/441g3bc9gbGl60UFyZdePp) | [R.M.R Music](https://open.spotify.com/artist/3QzXOzRO97jRlp2CS8giA2) | [Niks Te Laat](https://open.spotify.com/album/5WUyk7e2lVJ2bXdnQsJOag) | 2:22 |
-| 34 | [Doen Net Jou Ding](https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Doen Net Jou Ding](https://open.spotify.com/album/04vidULT9fMJlj3dLCyMpe) | 3:05 |
+| 34 | [Nooit Geweet](https://open.spotify.com/track/1rHhU7OhbroF5xlVufAy3b) | [Bigbforever](https://open.spotify.com/artist/3cMa6RJNuOUYxyyQXLf10i), [Jemaine Julies](https://open.spotify.com/artist/2RPCXr1hloBKtXRyMfqBRf) | [Nooit Geweet](https://open.spotify.com/album/1a4nonlQYgzxEG9E5rQRy4) | 3:16 |
 | 35 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 |
 | 36 | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/1xoyJhjSZdgmHeZHuHmpQ8) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Get This Bag \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/4trfwLm2ZaXX0hVuXWi1hH) | 2:52 |
 | 37 | [Noem My 'n Goen](https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Noem My 'n Goen](https://open.spotify.com/album/76OmCJogI0TxyzEPaxqhQp) | 2:32 |

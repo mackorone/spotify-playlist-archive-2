@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 437722,
+  "num_followers": 437658,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Ant\u00eddoto - Ao Vivo",
-      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "VIVA (Ao Vivo)",
         "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 180001,
       "name": "choque t\u00e9rmico - ao vivo",
       "url": "https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Ant\u00eddoto - Ao Vivo",
+      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 136977,
-      "name": "A Gente Continua - Ao Vivo",
-      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mui\u00e9 Brava",
         "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 201560,
       "name": "Mui\u00e9 brava",
       "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 136977,
+      "name": "A Gente Continua - Ao Vivo",
+      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -979,6 +979,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Quem Ensinou Fui Eu",
+        "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 151082,
+      "name": "Quem Ensinou Fui Eu",
+      "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Quem Ensinou Fui Eu",
-        "url": "https://open.spotify.com/album/1NY84KlDbmKBDevpfRzazH"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 151082,
-      "name": "Quem Ensinou Fui Eu",
-      "url": "https://open.spotify.com/track/1mBx8G3GBajrV0eTeYQshc"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1479,22 +1479,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Compartilhando M\u00e1goa",
-        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
+        "name": "Short Jeans (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
       "artists": [
         {
-          "name": "George Henrique & Rodrigo",
-          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
         },
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 170038,
-      "name": "Compartilhando M\u00e1goa",
-      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
+      "duration_ms": 180500,
+      "name": "Short Jeans - Ao Vivo",
+      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1531,22 +1531,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Short Jeans (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
+        "name": "Compartilhando M\u00e1goa",
+        "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
       },
       "artists": [
         {
-          "name": "Hugo Henrique",
-          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
         },
         {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Short Jeans - Ao Vivo",
-      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+      "duration_ms": 170038,
+      "name": "Compartilhando M\u00e1goa",
+      "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
     },
     {
       "added_at": "2026-01-16 03:03:24",

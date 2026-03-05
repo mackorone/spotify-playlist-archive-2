@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,520 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,624 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 46 | [Barbara Ann](https://open.spotify.com/track/2KOt2JrCB720UxIbyzweQo) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Spirit Of America](https://open.spotify.com/album/1j3ak8bXvTij3YcWXb6laH) | 2:13 |
 | 47 | [Mustang Sally](https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Wicked Pickett](https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC) | 3:07 |
 | 48 | [Sunshine, Lollipops And Rainbows](https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 1:36 |
-| 49 | [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 |
-| 50 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
+| 49 | [Nowhere To Run](https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Dance Party](https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ) | 3:01 |
+| 50 | [The Wanderer](https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Best Of Dion](https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N) | 2:47 |
 | 51 | [The House of the Rising Sun](https://open.spotify.com/track/3TETmhGNWOcquUTtcr6RIR) | [The Animals](https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP) | [The House of the Rising Sun: Best of The Animals](https://open.spotify.com/album/2GkmC6hsvA8854l5kLsTOg) | 4:29 |
 | 52 | [I Feel Free](https://open.spotify.com/track/62nYkaIBesfvQSSwTjPnYS) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Fresh Cream](https://open.spotify.com/album/6iyKqDoL9pRSHUsDBYemlB) | 2:51 |
 | 53 | [Take Good Care Of My Baby](https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [Take Good Care Of My Baby](https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu) | 2:29 |
@@ -121,9 +121,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 111 | [All Day and All of the Night](https://open.spotify.com/track/78JmElAFmrPNhLjovDR9Jm) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Kinks \(Deluxe\)](https://open.spotify.com/album/08G3mGQXuHItbbsFAz50gJ) | 2:21 |
 | 112 | [Friday on My Mind](https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi) | [The Easybeats](https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu) | [Easy](https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9) | 2:43 |
 | 113 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
-| 114 | [You Never Can Tell](https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [You Never Can Tell: His Complete Chess Recordings 1960 \-1966](https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM) | 2:41 |
-| 115 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
-| 116 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
+| 114 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
+| 115 | [You Never Can Tell](https://open.spotify.com/track/7xcFTtcCiyRvqLLq8s61WF) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [You Never Can Tell: His Complete Chess Recordings 1960 \-1966](https://open.spotify.com/album/1dDdgIg8pDTCfsqQwdHJJM) | 2:41 |
+| 116 | [Needles and Pins \- Mono](https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra) | [The Searchers](https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe) | [Needles & Pins](https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0) | 2:11 |
 | 117 | [Bus Stop](https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [20 Golden Greats](https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42) | 2:54 |
 | 118 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 |
 | 119 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |

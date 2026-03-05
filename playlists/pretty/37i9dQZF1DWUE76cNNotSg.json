@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes \ud83c\udf1e the music you need at golden hour ",
-  "num_followers": 696733,
+  "num_followers": 696770,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
-        "name": "Blood Remixed",
-        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        },
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 310133,
-      "name": "Feel Your Weight - Poolside Remix",
-      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
         "name": "Ease My Mind",
         "url": "https://open.spotify.com/album/5tNyT64HOXFDppBvxj1S6h"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 191704,
       "name": "Ease My Mind",
       "url": "https://open.spotify.com/track/04gs2fDnnjT6995ruR1qbk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Blood Remixed",
+        "url": "https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        },
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 310133,
+      "name": "Feel Your Weight - Poolside Remix",
+      "url": "https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ"
     },
     {
       "added_at": "2026-02-27 05:00:49",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
-        "name": "open this wall",
-        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 156688,
-      "name": "open this wall",
-      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
         "name": "I Do (Vandelux Remix)",
         "url": "https://open.spotify.com/album/7buYOcQDCOELG8eJuS5Zif"
       },
@@ -1787,6 +1771,22 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
+        "name": "open this wall",
+        "url": "https://open.spotify.com/album/1NjMj1u1EQxn8oESg40bPA"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 156688,
+      "name": "open this wall",
+      "url": "https://open.spotify.com/track/4m30cfL2qOwlFsuGqMOZ8k"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
         "name": "Too Young To Know Better",
         "url": "https://open.spotify.com/album/4Qp2LgbXKN2iRV2FlxI2oB"
       },
@@ -1803,18 +1803,26 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
-        "name": "Happy Music",
-        "url": "https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0"
+        "name": "Opening Soon",
+        "url": "https://open.spotify.com/album/5YX88yWrZXIXhyPTpNQhHb"
       },
       "artists": [
         {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
         }
       ],
-      "duration_ms": 194962,
-      "name": "Keep It Rising",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN"
+      "duration_ms": 217226,
+      "name": "You Make Me Feel So Good",
+      "url": "https://open.spotify.com/track/6lx8BAoZxATQV3cDPitrbB"
     }
   ],
   "unique_name": "golden hour",

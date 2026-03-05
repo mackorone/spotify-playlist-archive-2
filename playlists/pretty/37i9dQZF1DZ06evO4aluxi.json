@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 19092,
+  "num_followers": 19095,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADNjYDiS3nrDIxkCTxeOrB4",
+  "snapshot_id": "aaYkgAAAAACNCSHznz+MocljnyR6Kwcs",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Sing Your Praise To The Lord",
-      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 300560,
       "name": "I Will Remember You",
       "url": "https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Sing Your Praise To The Lord",
+      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart In Motion",
         "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 213733,
       "name": "Every Heartbeat",
       "url": "https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 196301,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 262880,
-      "name": "In A Little While",
-      "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unsung Hero (The Inspired By Soundtrack)",
         "url": "https://open.spotify.com/album/3pldpOkIoJqYnkuOTWTipi"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 202360,
       "name": "Lead Me On",
       "url": "https://open.spotify.com/track/4lNWo2a9HjTMWbrfGTSLCh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 262880,
+      "name": "In A Little While",
+      "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 181853,
-      "name": "Big Yellow Taxi",
-      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
+      "duration_ms": 276933,
+      "name": "House Of Love",
+      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
     },
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 236800,
-      "name": "River Lullaby",
-      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+      "duration_ms": 239493,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
     },
     {
       "added_at": null,
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 276933,
-      "name": "House Of Love",
-      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 239493,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
+      "duration_ms": 181853,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 231706,
       "name": "Power In The Blood",
       "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FAITHFUL: Go and Speak",
         "url": "https://open.spotify.com/album/0mm5FD6nio4NSm9YMa0Vum"
       },
@@ -731,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "My Jesus, I Love Thee",
-      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -759,6 +759,38 @@
       "duration_ms": 252333,
       "name": "Raining On The Inside",
       "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 244920,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/0tZekzPg5NdiJkGiJ9ijnX"
     },
     {
       "added_at": null,
@@ -783,38 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Still And Know... Hymns & Faith",
-        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 244920,
-      "name": "'Tis So Sweet To Trust In Jesus",
-      "url": "https://open.spotify.com/track/0tZekzPg5NdiJkGiJ9ijnX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart In Motion",
-        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 260440,
-      "name": "Galileo",
-      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy...Hymns & Faith",
         "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
       },
@@ -831,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
       },
       "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        },
         {
           "name": "Amy Grant",
           "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
         }
       ],
-      "duration_ms": 290600,
-      "name": "These are the Days (feat. Amy Grant)",
-      "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
     },
     {
       "added_at": null,

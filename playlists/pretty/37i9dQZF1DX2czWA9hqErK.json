@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1328603,
+  "num_followers": 1328529,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
+      },
+      "artists": [
+        {
+          "name": "Will Swinton",
+          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
+        }
+      ],
+      "duration_ms": 148597,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3YEP83sxNbOfRmnXfxFpFW"
-      },
-      "artists": [
-        {
-          "name": "Will Swinton",
-          "url": "https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh"
-        }
-      ],
-      "duration_ms": 148597,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/32eaSGv3EUiBtQYeI31tig"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v"
+        "name": "Someone That's Better",
+        "url": "https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8"
       },
       "artists": [
         {
-          "name": "Charlie Noordewier",
-          "url": "https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk"
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
         }
       ],
-      "duration_ms": 315245,
-      "name": "Little Miss Sunshine",
-      "url": "https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy"
+      "duration_ms": 133059,
+      "name": "Someone That's Better",
+      "url": "https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx"
     }
   ],
   "unique_name": "Easy",

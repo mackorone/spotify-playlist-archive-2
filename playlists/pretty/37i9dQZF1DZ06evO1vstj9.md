@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 
 > This is Elmiene\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,241 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,250 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 17 | [Until It's Dust](https://open.spotify.com/track/616o0X9kcvy732UKKnL68j) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 2:35 |
 | 18 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 |
 | 19 | [Different Too](https://open.spotify.com/track/4A69nC7B7l17CuO6lLVSC4) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:45 |
-| 20 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
+| 20 | [I Want In](https://open.spotify.com/track/58OYkYalN6lTulISeBYz64) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:06 |
 | 21 | [Ode To Win](https://open.spotify.com/track/65UWAyUkE0VWlvEMnrXBc6) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 4:07 |
-| 22 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
+| 22 | [Open Light](https://open.spotify.com/track/0SYNPBvXt0bDUlcFpftz8h) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:38 |
 | 23 | [Dull Jewellery](https://open.spotify.com/track/14dH3pJ865OU7LDKX3lbMd) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:24 |
-| 24 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 |
-| 25 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
-| 26 | [I Want In](https://open.spotify.com/track/58OYkYalN6lTulISeBYz64) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:06 |
+| 24 | [Anyways](https://open.spotify.com/track/2Oz4HbXcWm8kFWptHFEUW0) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyways](https://open.spotify.com/album/66EFzvYO27ivn7FpjjAN22) | 2:56 |
+| 25 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 |
+| 26 | [Why \(Spare Me Tears\)](https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Why \(Spare Me Tears\)](https://open.spotify.com/album/2ZvAaqvOosY2dLtq35C8NM) | 3:25 |
 | 27 | [Give Me A Smile](https://open.spotify.com/track/1r9wRselEkfiKoN8tpzOGl) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:57 |
 | 28 | [Promise Me A Rose](https://open.spotify.com/track/6poSI6Yb9qbuHWbGCI6XhQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [For The Deported](https://open.spotify.com/album/1ElxyRN9oENPlRi6cDEuDY) | 3:21 |
 | 29 | [Dark Out \(Season of Thieves\)](https://open.spotify.com/track/1SPFL35pZpYPMKyelBR0tB) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Anyway I Can](https://open.spotify.com/album/4W9ybKAbPeQ0VNIyAeKu17) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1vstj9.md) - [plain]
 | 49 | [About Us](https://open.spotify.com/track/0CePgbdhXaopN3T58u4fEU) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Yesterday Is Heavy](https://open.spotify.com/album/4RRWbTmBBpmf43GbLEtlTR) | 3:19 |
 | 50 | [Breaking Point \- Live From Brussels](https://open.spotify.com/track/5dWRG9Zv96UKVcOxVLlxZK) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Live From Brussels](https://open.spotify.com/album/7ixr34j4QSL8AOKoglFfaU) | 3:18 |
 
-Snapshot ID: `aaTTAAAAAADzPzNls3hfNq95Gqyd3Qoq`
+Snapshot ID: `aaYkgAAAAAAOk/NU9ffNKqTjqi5HN/Y2`

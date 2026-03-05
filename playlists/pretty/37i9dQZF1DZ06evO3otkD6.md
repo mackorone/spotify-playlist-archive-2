@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,565 likes - 47 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,586 likes - 47 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 41 | [Me Encantaría](https://open.spotify.com/track/1APLK79zZo67ny370NLO4F) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Me Encantaría](https://open.spotify.com/album/6fnWWfMSRAztQvuJTAfmlw) | 2:57 |
 | 42 | [Bugatti](https://open.spotify.com/track/2wItyN3Yjbopuogk1Ql4Eh) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Bugatti](https://open.spotify.com/album/3MccaxTp3l7Gb0iZvpANxC) | 2:45 |
 | 43 | [Sal De Mi Piel](https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
-| 44 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
+| 44 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 |
 | 45 | [Boba Niña Nice \- Teenage Superstar](https://open.spotify.com/track/7oIXQNqGfaijrHJdyW52J1) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:00 |
-| 46 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
-| 47 | [Constantemente Mía](https://open.spotify.com/track/5UdcpI2rTqFz0xmATiXMXg) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Más Que Amor](https://open.spotify.com/album/3QaqLzZFTHXfIREgiHM4FX) | 4:05 |
+| 46 | [Blink Twice \- Dos Veces Remix](https://open.spotify.com/track/6SNHfk6CipQOSALhblynof) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Blink Twice \(Dos Veces Remix\)](https://open.spotify.com/album/29rcLP1Uni7elTtxuiXF1J) | 2:34 |
+| 47 | [Sueño de Ti](https://open.spotify.com/track/0lLygnowX78lFphF2235qe) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [MLKMN](https://open.spotify.com/artist/7rIVXlBjb6tSrRC27vkzmz) | [Prisma](https://open.spotify.com/album/7FVRWDkCucNcU8NNUit5xv) | 4:20 |
 
-Snapshot ID: `aaTTAAAAAACVPY/9WqR37Pc0I6WXnb7o`
+Snapshot ID: `aaYkgAAAAAAXRELO9wai2RqAyEXoMB2+`

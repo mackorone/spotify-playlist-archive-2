@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kianna, HARKA, AOTO and Siero \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,321 songs - 4 day 20 hr 59 min
+2,322 songs - 4 day 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,6 +235,7 @@
 | [Be Okay](https://open.spotify.com/track/6nJhj9WxACmME1v7jzcPeP) | [YELLADIGOS](https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [Y.L.F\. EP](https://open.spotify.com/album/1a1R7iGEBEScUfpb6W4IJY) | 3:36 | 2023-10-31 | 2023-11-02 |
 | [Be Okay \(Chi, Chi\)](https://open.spotify.com/track/6GbEscXY1vx8CeFSyBjicy) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Be Okay \(Chi, Chi\)](https://open.spotify.com/album/2P55vwv1If8Tg2nadp16Rs) | 3:36 | 2024-04-18 | 2024-06-12 |
 | [BE THE MONSTER](https://open.spotify.com/track/2vXeK0sw7rosotTVRN0wsQ) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [BE THE MONSTER](https://open.spotify.com/album/4jjL7ScXT5c2dKWNRs4OSc) | 2:50 | 2023-12-20 | 2024-01-24 |
+| [BEACH BOY$](https://open.spotify.com/track/6fvnzvyjQN2FzU7KF8Fxk0) | [7AWERA](https://open.spotify.com/artist/64xVR1PVZ9DtDmaKXxNumC), [3CS](https://open.spotify.com/artist/2vdXVyyoB7zL8zjreg36d4) | [$ouvenir II](https://open.spotify.com/album/7cF0IgQiSve3a93UXN9WTA) | 2:55 | 2026-03-04 |  |
 | [Beautiful](https://open.spotify.com/track/38pCBW3vsaop7ZGebuf6NA) | [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [Ftheworld](https://open.spotify.com/album/0S5nb7Wr2M4ZoTZN20VHfk) | 3:04 | 2024-11-06 | 2025-01-08 |
 | [Beautiful Days](https://open.spotify.com/track/3X8GOksWYe2mdQKpQBGO1J) | [Kee Rooz](https://open.spotify.com/artist/6aelVE9DrlIT69rDWD29lh) | [Nobody Knows Me 2](https://open.spotify.com/album/644lBotN5zpIwgbEJgZuJR) | 1:40 | 2025-04-13 | 2025-04-16 |
 | [Beautiful Girl](https://open.spotify.com/track/3cxB64JstpsKu7TceDE5QJ) | [Need a Flex](https://open.spotify.com/artist/3ZcQbdZsBGBSRICDFtAtaA), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Beautiful Girl](https://open.spotify.com/album/0W5GfNQiucZbUH0GdIO4f6) | 2:47 | 2026-02-03 | 2026-02-25 |

@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Nikola Jokić
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Shai Gilgeous\-Alexander and Karl\-Anthony Towns
 
 887 songs - 1 day 21 hr 14 min
 

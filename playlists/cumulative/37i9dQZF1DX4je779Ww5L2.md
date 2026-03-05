@@ -4,7 +4,7 @@
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-100 songs - 6 hr 18 min
+101 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Birds Of Paradise](https://open.spotify.com/track/5y3rW5XMct8Rp1P0iRCuTj) | [Hydrogen Sea](https://open.spotify.com/artist/5MdGszDt9p0CjdUYOidTBH) | [Wolves EP](https://open.spotify.com/album/0bxlRfsXldvLDC0RxGkfd7) | 2:26 | 2025-08-08 |  |
 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 | 2025-08-29 |  |
 | [Bright Belief](https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Bright Belief](https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD) | 4:42 | 2025-08-08 |  |
+| [Bring Me Back To Life](https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 3:24 | 2026-03-04 |  |
 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 | 2025-08-08 |  |
 | [Clover](https://open.spotify.com/track/072IesDWOkpw6SKWz21reJ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Clover](https://open.spotify.com/album/2qMQmSseamd7D1EaywOo2Z) | 3:30 | 2025-08-08 | 2025-09-27 |
 | [Cold Comfort](https://open.spotify.com/track/08P9JuQ2LGJDTue3lUsTt6) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [Cold Comfort](https://open.spotify.com/album/4tO6Fxl8uuoQjeYpUT00t6) | 2:44 | 2025-08-08 |  |

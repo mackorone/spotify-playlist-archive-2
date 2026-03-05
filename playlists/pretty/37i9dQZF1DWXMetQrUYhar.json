@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 111290,
+  "num_followers": 111289,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -392,22 +392,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -419,6 +403,22 @@
       "duration_ms": 252240,
       "name": "Movement - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -537,22 +537,6 @@
       "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
     },
     {
-      "added_at": "2025-01-27 20:00:12",
-      "album": {
-        "name": "flower boy - Spotify Singles",
-        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
-      },
-      "artists": [
-        {
-          "name": "King Isis",
-          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
-        }
-      ],
-      "duration_ms": 174630,
-      "name": "flower boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
-    },
-    {
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
@@ -567,6 +551,22 @@
       "duration_ms": 217855,
       "name": "mother tongue - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2nfUHDtJdrsDBurr05mTJx"
+    },
+    {
+      "added_at": "2025-01-27 20:00:12",
+      "album": {
+        "name": "flower boy - Spotify Singles",
+        "url": "https://open.spotify.com/album/0XJmr9bXAu9lqnDzu3CQiq"
+      },
+      "artists": [
+        {
+          "name": "King Isis",
+          "url": "https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw"
+        }
+      ],
+      "duration_ms": 174630,
+      "name": "flower boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/6K9U3U3C5wIB8MCXiPppFa"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -924,22 +924,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229341,
-      "name": "You're The One - Spotify Singles",
-      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
       },
       "artists": [
@@ -951,6 +935,22 @@
       "duration_ms": 214750,
       "name": "Hunger - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229341,
+      "name": "You're The One - Spotify Singles",
+      "url": "https://open.spotify.com/track/0VGgkl6AAAmr6V2jvG98CZ"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225366,
       "name": "Dance In The Dark (Spotify Singles)",
       "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1536,22 +1536,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
-      },
-      "artists": [
-        {
-          "name": "Lewis Del Mar",
-          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
       },
       "artists": [
@@ -1563,6 +1547,22 @@
       "duration_ms": 208159,
       "name": "Headlock - Spotify Singles",
       "url": "https://open.spotify.com/track/4yV8LRKH4TC8J6kPlBwPcv"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3mAukfV30IyEPuX6ZxOgCq"
+      },
+      "artists": [
+        {
+          "name": "Lewis Del Mar",
+          "url": "https://open.spotify.com/artist/2oqwwcM17wrP9hBD25zKSR"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Painting (Masterpiece) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4jM6E6vRCy5fz2ML9X644v"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1696,22 +1696,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 212449,
-      "name": "Softly - Spotify Singles",
-      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L"
       },
       "artists": [
@@ -1723,6 +1707,22 @@
       "duration_ms": 287960,
       "name": "Ups & Downs - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5086U7EXKa23260GlpbLUy"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 212449,
+      "name": "Softly - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 199575,
+      "name": "Genghis Khan - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 250000,
       "name": "Alemania - Spotify Singles (Blackpaw Remix)",
       "url": "https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 199575,
-      "name": "Genghis Khan - Jim Eno Sessions",
-      "url": "https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1812,22 +1812,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb"
-      },
-      "artists": [
-        {
-          "name": "Hundred Waters",
-          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
-        }
-      ],
-      "duration_ms": 303195,
-      "name": "Blanket Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ"
       },
       "artists": [
@@ -1839,6 +1823,22 @@
       "duration_ms": 231729,
       "name": "Born Again - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb"
+      },
+      "artists": [
+        {
+          "name": "Hundred Waters",
+          "url": "https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO"
+        }
+      ],
+      "duration_ms": 303195,
+      "name": "Blanket Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd"
     },
     {
       "added_at": "2023-01-11 22:54:33",

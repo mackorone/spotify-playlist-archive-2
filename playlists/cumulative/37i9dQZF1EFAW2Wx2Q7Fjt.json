@@ -5045,6 +5045,28 @@
     },
     {
       "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "With Your Love",
+      "url": "https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo"
+    },
+    {
+      "album": {
         "name": "Without Me",
         "url": "https://open.spotify.com/album/7z6R3gcDlPrczUIi5Rqp8b"
       },

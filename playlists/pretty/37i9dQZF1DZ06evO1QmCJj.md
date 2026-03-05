@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,358 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,362 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 24 | [DE PLASTILINA](https://open.spotify.com/track/6HyNrYrY8gegxrZQuQQ1GJ) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Pepe y Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 3:29 |
 | 25 | [Q SOMOS?](https://open.spotify.com/track/3IR71S2uR3T6ZRoOqttO1W) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:29 |
 | 26 | [COMO ESTÁS BB](https://open.spotify.com/track/0gwokSEwgcwf1QHJq7gH4B) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL TIBURÓN](https://open.spotify.com/album/4ASAFxOzKAivUFqMoLoI5t) | 3:02 |
-| 27 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 |
-| 28 | [Caramello](https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Caramello](https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn) | 3:17 |
+| 27 | [Caramello](https://open.spotify.com/track/6O1rGDWqL1pgp7H59G2q80) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG), [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Caramello](https://open.spotify.com/album/3b1ZGAlTG0Dn81o1D4I8Fn) | 3:17 |
+| 28 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 |
 | 29 | [MI COLETA](https://open.spotify.com/track/5qNG1mZvQp3Oq7yOVipssf) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [NAVE DRAGÓN](https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ) | 3:07 |
 | 30 | [LA TIRITA](https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH) | 2:52 |
 | 31 | [4 besos](https://open.spotify.com/track/49QwoSLuV69Fd8bwTqdZvs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [4 besos](https://open.spotify.com/album/6Giz4BUSi7vyoEIr2NmPIC) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 49 | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \- Remix](https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3) | [Autoestima \(Feat\. Lola Indigo, Alizzz\) \[Remix\]](https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu) | 3:27 |
 | 50 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 |
 
-Snapshot ID: `aaTTAAAAAAAjA4K3Q19+Qq8TknDJERoa`
+Snapshot ID: `aaYkgAAAAAAAJj4Ksy91Eda7qRsEzM54`

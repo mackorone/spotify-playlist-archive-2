@@ -1,6 +1,6 @@
 {
   "description": "Perreo con \u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 444335,
+  "num_followers": 444365,
   "original_name": "Romantiqueo",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,30 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
+        "name": "Cosmo",
+        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        }
+      ],
+      "duration_ms": 206103,
+      "name": "Pa Ti Estoy",
+      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
         "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
         "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
@@ -655,30 +679,6 @@
       "duration_ms": 197721,
       "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
       "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
-        "name": "Cosmo",
-        "url": "https://open.spotify.com/album/3nEa7WJXcruywRIZXu6qRE"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        }
-      ],
-      "duration_ms": 206103,
-      "name": "Pa Ti Estoy",
-      "url": "https://open.spotify.com/track/3j5zNcb0aSk7dx3W3mAKzw"
     },
     {
       "added_at": "2026-01-22 23:00:53",
@@ -1687,26 +1687,6 @@
     {
       "added_at": "2026-01-22 23:00:53",
       "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
-    },
-    {
-      "added_at": "2026-01-22 23:00:53",
-      "album": {
         "name": "EL AMOR DE TU VIDA",
         "url": "https://open.spotify.com/album/4xar1X3zTK8oN2eq5yfQKE"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 177245,
       "name": "EL AMOR DE TU VIDA",
       "url": "https://open.spotify.com/track/3MBzcfMRsUvA97JDiB7zN0"
+    },
+    {
+      "added_at": "2026-01-22 23:00:53",
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     },
     {
       "added_at": "2026-01-22 23:00:53",

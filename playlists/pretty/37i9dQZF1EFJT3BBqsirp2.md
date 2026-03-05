@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 38 | [Emotional](https://open.spotify.com/track/6QhqEJFZKUV3DKIsoXbTTH) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Number 1 Angel](https://open.spotify.com/album/37rI2gAtakAmSFtbIE9THq) | 3:53 |
 | 39 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 40 | [Eyes of the World featuring Sky Ferreira](https://open.spotify.com/track/1md8v8FG46KecYiMap2XTD) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:43 |
-| 41 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 |
-| 42 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
+| 41 | [My Reminder](https://open.spotify.com/track/1b3GqFU0UlFPnnM0Psv0kM) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
+| 42 | [Somebody Like You](https://open.spotify.com/track/07OnuLnONfO6tyukgyB2qh) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Somebody Like You](https://open.spotify.com/album/7nVydeGRiMiYR2787ztXOd) | 3:53 |
 | 43 | [LITTLE NOKIA](https://open.spotify.com/track/6Hf3lTdh7gNQO3GoVw9CEM) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [2000AND4EVA](https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt) | 2:19 |
 | 44 | [Funny Mouth](https://open.spotify.com/track/1lTp6SSihcLUxoiTPUJ6lA) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wuthering Heights](https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e) | 3:33 |
 | 45 | [JUST LIKE THAT](https://open.spotify.com/track/4alytlIn91jJgzsu6rSONb) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [JUST LIKE THAT](https://open.spotify.com/album/17Wk4tqPJ8rMH1hFCW4eLf) | 2:18 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT3BBqsirp2.md) - [plain]
 | 82 | [They’re So Smart](https://open.spotify.com/track/5fZJZbIM6GWLmPZG2EcXxs) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 2:29 |
 | 83 | [Damaged III](https://open.spotify.com/track/5pJEHO4Yi6IZyIqNF003Ui) | [Finn Keane](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [ACOUSTIC](https://open.spotify.com/album/6GaiPPXFiQrZ6mXs6BLGl5) | 1:36 |
 
-Snapshot ID: `AcLLFgAAAADGGApTFeHtsEtNhbGtB52q`
+Snapshot ID: `AcLQrAAAAAC2G4MMGeA7L/uo4km3YXJo`

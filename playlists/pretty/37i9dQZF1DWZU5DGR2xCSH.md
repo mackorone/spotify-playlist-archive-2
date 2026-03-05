@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 
 > Los abanderados del rock argentino y sus himnos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,195 likes - 70 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,127,168 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 27 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
 | 28 | [Milonga del marinero y el capitán](https://open.spotify.com/track/4Ha3yYGXzyBSC7LdxWXDY0) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:26 |
 | 29 | [Sueles Dejarme Solo \- Remasterizado 2007](https://open.spotify.com/track/51M33m6vHnkJ9SJPES3Lu4) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 3:46 |
-| 30 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 4:46 |
-| 31 | [Es Por Amor](https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 5:10 |
+| 30 | [Es Por Amor](https://open.spotify.com/track/3qoszL1tH1tYkdJIVisYIZ) | [GIT](https://open.spotify.com/artist/21o0KNjooi1XjygW6V70NM) | [Aire De Todos \- Antología 1984 \- 1986](https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV) | 5:10 |
+| 31 | [Mejor No Hablar de Ciertas Cosas](https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Divididos Por La Felicidad](https://open.spotify.com/album/0iMPnRq7PL82Zrah0gTQBR) | 4:46 |
 | 32 | [Todas las Hojas Son del Viento](https://open.spotify.com/track/689lBKIELtWGHfsPWpR6rv) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 2:10 |
 | 33 | [Barro Tal Vez](https://open.spotify.com/track/1y96w7WDPlwByq9aISEi6G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Kamikaze](https://open.spotify.com/album/3mUwlh7aK2PHj8aUrI9Nyt) | 3:17 |
 | 34 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU5DGR2xCSH.md) - [plain]
 | 56 | [Veinte Ciudades](https://open.spotify.com/track/17a6EMs038tuh87eggDJ1G) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 2:59 |
 | 57 | [De Nada Sirve](https://open.spotify.com/track/5zR2HBjuNk68vpMDUutZ7r) | [Moris](https://open.spotify.com/artist/6nDtQCSWqly8rUM8s0JZa5) | [Treinta Minutos de Vida](https://open.spotify.com/album/68sHSdp4YABOmihgZ3ATNT) | 7:43 |
 | 58 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
-| 59 | [Salgan al Sol](https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s) | [Billy Bond y La Pesada](https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY) | [Billy Bond y la Pesada del Rock And Roll](https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG) | 3:19 |
-| 60 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 |
+| 59 | [Desconfío \- En Vivo](https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Se Vuelve Cada Día Mas Loca por Amor al Blues \(En Vivo\)](https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp) | 6:20 |
+| 60 | [Salgan al Sol](https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s) | [Billy Bond y La Pesada](https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY) | [Billy Bond y la Pesada del Rock And Roll](https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG) | 3:19 |
 | 61 | [Agua de Río](https://open.spotify.com/track/1Sa25LKUNSTCxfd1METeBT) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Ya No Mires Atrás](https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa) | 5:26 |
 | 62 | [Seminare \- 2021 Remasterizado](https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Serú Girán \(2021 Remasterizado\)](https://open.spotify.com/album/23jPuEGchD65GA5PGJRwJo) | 3:22 |
-| 63 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 |
-| 64 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 63 | [Un Ángel para Tu Soledad](https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Lobo Suelto](https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF) | 3:51 |
+| 64 | [Tan Solo](https://open.spotify.com/track/6vNaGz1KH44XJ9zRyCE81I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Chac Tu Chac](https://open.spotify.com/album/40WRsRybH7Qnm4WAC3wmBJ) | 4:00 |
 | 65 | [Mil Horas](https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun) | [Los Abuelos De La Nada](https://open.spotify.com/artist/5R3NywPPOyhLfdvutgg0me) | [Vasos Y Besos](https://open.spotify.com/album/5O8onsit6TM3W7qqxshwqN) | 2:50 |
 | 66 | [Genesis](https://open.spotify.com/track/1cDLMjThGJp4btQTYNALjU) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 6:38 |
 | 67 | [Viernes, 3AM \- 2019 Remasterizado](https://open.spotify.com/track/6zjME4Vo9ze9Uk4t9kUMJZ) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [La Grasa de las Capitales: Edición 40º Aniversario \(2019 Remasterizado\)](https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3) | 4:25 |
-| 68 | [Demoliendo Hoteles](https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 2:15 |
-| 69 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 |
+| 68 | [Vencedores Vencidos](https://open.spotify.com/track/7EFMYtN7FFFNLzxOa9OgGC) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Un Baión para el Ojo Idiota](https://open.spotify.com/album/3bSPbmYHqouqpTO2dw0EW5) | 3:28 |
+| 69 | [Demoliendo Hoteles](https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Piano Bar](https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL) | 2:15 |
 | 70 | [Los Viejos Vinagres](https://open.spotify.com/track/1im6qBIKkKI74toy5Htaur) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 3:15 |
 
 Snapshot ID: `AAAAAEAfZMx1zQF9vJuJNNmOSxc+EQPB`

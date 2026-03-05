@@ -140,7 +140,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 140587,
       "name": "1/1",
       "url": "https://open.spotify.com/track/16CgEHkJE7g4l6NDcnP3Yo"
@@ -4192,7 +4192,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 105625,
       "name": "BIENVENIDA",
       "url": "https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx"
@@ -9741,6 +9741,32 @@
     },
     {
       "album": {
+        "name": "TY x 3",
+        "url": "https://open.spotify.com/album/2OkiqE7Qd7jWbDoZA6r0Fr"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        },
+        {
+          "name": "Bryant LR",
+          "url": "https://open.spotify.com/artist/73uwZQQfha8JhNvBqVW1DL"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140727,
+      "name": "Despejando",
+      "url": "https://open.spotify.com/track/35oSBuIK689AnEig4wb7QC"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -10502,7 +10528,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -17200,7 +17226,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 234828,
       "name": "Imitadora",
       "url": "https://open.spotify.com/track/6r46lnXFbE9fr2d3KNaGbe"
@@ -18366,7 +18392,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 134400,
       "name": "KTEDE",
       "url": "https://open.spotify.com/track/6FSeXu3pKURyJZldwEr0aI"
@@ -19972,7 +19998,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -32164,7 +32190,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 137590,
       "name": "Que Sensaci\u00f3n",
       "url": "https://open.spotify.com/track/6HKM31OYl260uEXGNRdsPz"

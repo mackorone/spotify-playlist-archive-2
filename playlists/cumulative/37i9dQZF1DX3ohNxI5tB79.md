@@ -4,7 +4,7 @@
 
 > Start your morning right with this collection of soul & jazz.
 
-363 songs - 23 hr 15 min
+364 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Flower Moon](https://open.spotify.com/track/42ff9QhhQJM5StZgnHNAe9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flower Moon](https://open.spotify.com/album/7GzYgcJWzgwKQI9BkcATYh) | 4:56 | 2026-03-03 |  |
 | [Fly Muhammed](https://open.spotify.com/track/0unEr0PIuxsQBeIndTBEUf) | [Jsoul](https://open.spotify.com/artist/2spNFooYN3fnvGVuA7TSb8) | [For the Summer](https://open.spotify.com/album/0Ni6RztNu23LRYsX7l7ujF) | 3:26 | 2024-04-11 | 2025-02-11 |
 | [Fly Muhammed](https://open.spotify.com/track/4tacqwtjU9HBYKELJfRJrR) | [Jsoul](https://open.spotify.com/artist/2spNFooYN3fnvGVuA7TSb8) | [For the Summer](https://open.spotify.com/album/5HH3TKKy5hVmATTMMDTrbC) | 3:26 | 2022-12-05 | 2024-04-19 |
-| [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 | 2025-07-04 |  |
+| [Flying away](https://open.spotify.com/track/7a9RyCvNuctoNFlPi8eyBu) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Flying away](https://open.spotify.com/album/5v18LwFNg1ZiI4lwUV7gzx) | 4:08 | 2025-07-04 | 2026-03-05 |
 | [Fool of Me](https://open.spotify.com/track/3Fw7pl6UpksTfmYcXLbvx3) | [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Bitter](https://open.spotify.com/album/3acZy0MqbDAet78jYKYOyR) | 3:32 | 2021-12-13 | 2022-12-03 |
 | [For Roy](https://open.spotify.com/track/10d2cJq5gUpMfJ7sO1VtIK) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [For Roy](https://open.spotify.com/album/0FAN1nY9LMj2mShCOorekg) | 3:43 | 2023-04-20 | 2025-03-08 |
 | [for the both of us](https://open.spotify.com/track/1oLDkSgl8zCu4aW4eMmzYx) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [for the both of us](https://open.spotify.com/album/5tpWWM9Sbnd7Wg2MYCdsKs) | 3:22 | 2021-12-13 | 2022-01-11 |
@@ -153,6 +153,7 @@
 | [Iconoclasts](https://open.spotify.com/track/2dRShVpRxGWdFt1icMTYSK) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Education & Recreation](https://open.spotify.com/album/2x4fBy7xBQe7tsKx5nnCqZ) | 3:38 | 2022-10-30 | 2024-02-24 |
 | [Imagineering](https://open.spotify.com/track/2TgTGJyiWf1ptW5g3QG938) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Imagineering](https://open.spotify.com/album/3x3A2rWKuw1QFZIutuVL6n) | 4:34 | 2021-12-13 | 2024-07-27 |
 | [Imagineering](https://open.spotify.com/track/3s768KxqbbRHoOcIt4FDSN) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 4:34 | 2023-01-26 | 2024-04-19 |
+| [Imperfections](https://open.spotify.com/track/6TxasceeUTemPYb9odpm64) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 5:08 | 2026-03-04 |  |
 | [In Our Veins](https://open.spotify.com/track/5t3kJCjFtc69B80hDQQwYZ) | [Cézanne](https://open.spotify.com/artist/0vodNqnsmfqjOqxS7sfOp3), [Superfuse](https://open.spotify.com/artist/4H6l4uxiqZ7uaUwpLkrr3f), [Uevo](https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV), [Prime8](https://open.spotify.com/artist/6QdTv5ondFNAz1tdwVy3gP) | [In Our Veins](https://open.spotify.com/album/5FRHz9MPosdmWqUWdvPGLa) | 3:40 | 2025-09-20 |  |
 | [In Your River](https://open.spotify.com/track/3LKLHWfZ5R4aenoIJ3jLNE) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don’t Explain](https://open.spotify.com/album/1imktBT09BUnIjACM1byQH) | 3:54 | 2022-07-05 | 2022-10-13 |
 | [In Your River](https://open.spotify.com/track/3W87VCtPfwh9Kr0SGRRKHG) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Don't Explain](https://open.spotify.com/album/0KiANF0hNVLXbL9HHwFFpB) | 3:54 | 2021-12-13 | 2022-07-29 |

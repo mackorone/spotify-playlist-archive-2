@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Gui Neris",
-  "num_followers": 112248,
+  "num_followers": 112249,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
-      },
-      "artists": [
-        {
-          "name": "BRAVE",
-          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
-        },
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 246680,
-      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Flutuar",
         "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
@@ -103,6 +83,26 @@
       "duration_ms": 214191,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KvHxcXLS03Lx9CkisZnQF"
+      },
+      "artists": [
+        {
+          "name": "BRAVE",
+          "url": "https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h"
+        },
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 246680,
+      "name": "Le\u00e3o de Jud\u00e1 \u2022 BRAVE Sessions - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SL6BVNoPMuccnrVDdGojX"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -279,22 +279,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Zoe",
-          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
-        }
-      ],
-      "duration_ms": 685714,
-      "name": "Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Esperarei com Paci\u00eancia",
         "url": "https://open.spotify.com/album/53C192EeqK9cTA0dohXePM"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 329500,
       "name": "Esperarei Com Paci\u00eancia",
       "url": "https://open.spotify.com/track/1QPj2hLuGuxqU8bHlUoUNS"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0dZnuPgRHF7sGF5ttPVghh"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Zoe",
+          "url": "https://open.spotify.com/artist/6bxqwbU9pD8GXcuSmNSSHU"
+        }
+      ],
+      "duration_ms": 685714,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/4YAoTTQIiaMc37309bOjtX"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        }
-      ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "At\u00e9 Sermos Um",
         "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 178446,
       "name": "At\u00e9 Sermos Um",
       "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Alegria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Silas Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
-        }
-      ],
-      "duration_ms": 298703,
-      "name": "Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 207667,
       "name": "A Chave",
       "url": "https://open.spotify.com/track/6kk7NYRUwebj54yAHZWU7j"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Alegria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        }
+      ],
+      "duration_ms": 298703,
+      "name": "Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Um Conselho",
-        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
-      },
-      "artists": [
-        {
-          "name": "Milena Pina",
-          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
-        }
-      ],
-      "duration_ms": 147810,
-      "name": "Um Conselho",
-      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Sonhar",
         "url": "https://open.spotify.com/album/7vVCfO9Xrgps6yj1IvjcSK"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 138080,
       "name": "Sonhar",
       "url": "https://open.spotify.com/track/3jIKSwXaVi8iC5WBw3ncGC"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Um Conselho",
+        "url": "https://open.spotify.com/album/0C1dCxtnM7l2bA3YAMRJnQ"
+      },
+      "artists": [
+        {
+          "name": "Milena Pina",
+          "url": "https://open.spotify.com/artist/5X6tyKMy92BmrhSJaxlmAt"
+        }
+      ],
+      "duration_ms": 147810,
+      "name": "Um Conselho",
+      "url": "https://open.spotify.com/track/6r4hoG9Hwx2fcZXivQH4jS"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Ponto de Paz",
-        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 180864,
-      "name": "Ponto de Paz",
-      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Amor Perfeito",
         "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 155789,
       "name": "Amor Perfeito",
       "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Ponto de Paz",
+        "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 180864,
+      "name": "Ponto de Paz",
+      "url": "https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
         "name": "Mostra-Me Tua Gl\u00f3ria",
         "url": "https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 256874,
       "name": "Voltar",
       "url": "https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2025-12-15 18:47:45",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-15 18:47:45",
       "album": {
-        "name": "Te Vejo",
-        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 210125,
-      "name": "Te Vejo",
-      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
-    },
-    {
-      "added_at": "2025-12-15 18:47:45",
-      "album": {
         "name": "Casulo",
         "url": "https://open.spotify.com/album/4qMEh38ilE4hFKebd2Akva"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 219903,
       "name": "Casulo",
       "url": "https://open.spotify.com/track/74YwOpRL2QlSo4Z1c2XpZs"
+    },
+    {
+      "added_at": "2025-12-15 18:47:45",
+      "album": {
+        "name": "Te Vejo",
+        "url": "https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv"
+      },
+      "artists": [
+        {
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
+        }
+      ],
+      "duration_ms": 210125,
+      "name": "Te Vejo",
+      "url": "https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1"
     },
     {
       "added_at": "2025-12-15 18:47:45",

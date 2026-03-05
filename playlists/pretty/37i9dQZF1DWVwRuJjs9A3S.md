@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Elise Elvira
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,865 likes - 231 songs - 13 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,877 likes - 231 songs - 13 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 500672,
+  "num_followers": 500790,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2025-12-12 06:18:40",
       "album": {
+        "name": "Ganas de Vivir",
+        "url": "https://open.spotify.com/album/1LX6lEi66BNQEV4GgxcvXk"
+      },
+      "artists": [
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Ganas de Vivir",
+      "url": "https://open.spotify.com/track/6367glu3JEfj7oJ03oAe7L"
+    },
+    {
+      "added_at": "2025-12-12 06:18:40",
+      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -1775,26 +1791,6 @@
       "duration_ms": 465335,
       "name": "De Lo M\u00e1s Profundo",
       "url": "https://open.spotify.com/track/4ldw8AP89yMbSrbJviQxBb"
-    },
-    {
-      "added_at": "2025-12-12 06:18:40",
-      "album": {
-        "name": "La Bater\u00eda",
-        "url": "https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
-        }
-      ],
-      "duration_ms": 175942,
-      "name": "La Bater\u00eda",
-      "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
     }
   ],
   "unique_name": "Cl\u00e1sicos Cristianos",

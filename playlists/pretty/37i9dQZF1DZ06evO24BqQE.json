@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 46105,
+  "num_followers": 46145,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACbFj0jgfqFiJxkOUjsrB4D",
+  "snapshot_id": "aaYkgAAAAAASil092NB/lyQmlCPmr9gI",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 149481,
+      "name": "Sweet Tea (Aduke)",
+      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Your Type",
         "url": "https://open.spotify.com/album/1EnMBq5umZbGIs9EmAmLA6"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 168205,
       "name": "Your Type",
       "url": "https://open.spotify.com/track/59XJEMBDqZM420GWBm3n3m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 149481,
-      "name": "Sweet Tea (Aduke)",
-      "url": "https://open.spotify.com/track/7eo9YPXQqZjB1DxYAnvHqy"
     },
     {
       "added_at": null,

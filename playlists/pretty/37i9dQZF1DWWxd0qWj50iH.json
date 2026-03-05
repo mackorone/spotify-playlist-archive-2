@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 617316,
+  "num_followers": 617290,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -281,22 +281,6 @@
       "url": "https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6"
     },
     {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 169519,
-      "name": "Dream police",
-      "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
-    },
-    {
       "added_at": "2024-05-31 15:25:10",
       "album": {
         "name": "how can i pretend?",
@@ -311,6 +295,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 169519,
+      "name": "Dream police",
+      "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
-      },
-      "artists": [
-        {
-          "name": "sign crushes motorist",
-          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "I'm Always Here",
-      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 213000,
       "name": "33 \u201cGOD\u201d",
       "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/2iv4j11JOrhPnIz67C9UCT"
+      },
+      "artists": [
+        {
+          "name": "sign crushes motorist",
+          "url": "https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "I'm Always Here",
+      "url": "https://open.spotify.com/track/485XGXNp7cvrPSaxJJbJ99"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -847,6 +847,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Notes On A Conditional Form",
+        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 264006,
+      "name": "Jesus Christ 2005 God Bless America",
+      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "UFO",
         "url": "https://open.spotify.com/album/1L45glxk9MvLdNLysyJPsJ"
       },
@@ -863,18 +879,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Notes On A Conditional Form",
-        "url": "https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi"
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 264006,
-      "name": "Jesus Christ 2005 God Bless America",
-      "url": "https://open.spotify.com/track/6zjBevD0Y6eCbOXaqQ79Xj"
+      "duration_ms": 398783,
+      "name": "Posing For Cars",
+      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
     },
     {
       "added_at": "2024-08-29 19:59:48",
@@ -895,22 +911,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 398783,
-      "name": "Posing For Cars",
-      "url": "https://open.spotify.com/track/525BSr4N8jG8MpWbFTd6A9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Process",
-        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "(No One Knows Me) Like the Piano",
-      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "All I Need To Hear",
         "url": "https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/4fRcYn1zNOHY5LJXuRmJHI"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "(No One Knows Me) Like the Piano",
+      "url": "https://open.spotify.com/track/3D1VUmjj0IlhdHqGConc7C"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 326490,
-      "name": "About You",
-      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "COCONUT PERFUME",
         "url": "https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 165250,
       "name": "COCONUT PERFUME",
       "url": "https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 326490,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9"
     },
     {
       "added_at": "2024-10-10 23:35:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
+        "name": "Since July",
+        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "See For Miles",
+      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
         "name": "New Heart Designs",
         "url": "https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 141940,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Since July",
-        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
-      },
-      "artists": [
-        {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
-        }
-      ],
-      "duration_ms": 197826,
-      "name": "See For Miles",
-      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1457,6 +1457,22 @@
       "url": "https://open.spotify.com/track/4MTRui4ZDCOc0a6D2g0qgw"
     },
     {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Meet Me At The Record Store",
+        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
+      },
+      "artists": [
+        {
+          "name": "Pa Sheehy",
+          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
+        }
+      ],
+      "duration_ms": 233111,
+      "name": "Meet Me At The Record Store",
+      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
+    },
+    {
       "added_at": "2024-10-10 23:35:59",
       "album": {
         "name": "Glu",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Meet Me At The Record Store",
-        "url": "https://open.spotify.com/album/0TjsMhmfPwlXwk7Z2WK0S8"
-      },
-      "artists": [
-        {
-          "name": "Pa Sheehy",
-          "url": "https://open.spotify.com/artist/7n17tju4Xhlj1IkZR4Q2LX"
-        }
-      ],
-      "duration_ms": 233111,
-      "name": "Meet Me At The Record Store",
-      "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "life's a beach",
         "url": "https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 213671,
       "name": "homesickness",
       "url": "https://open.spotify.com/track/1Mq6UisCNxfqN9wxiV8NCj"
+    },
+    {
+      "added_at": "2024-10-10 23:35:59",
+      "album": {
+        "name": "A Stranger Desired",
+        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "duration_ms": 180479,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1539,22 +1555,6 @@
       "duration_ms": 214419,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/1bDVV1hatwd8ULeoYvsKHU"
-    },
-    {
-      "added_at": "2024-10-10 23:35:59",
-      "album": {
-        "name": "A Stranger Desired",
-        "url": "https://open.spotify.com/album/0x56WwFMhKCTmSvXqo0UTC"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 180479,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/5GaYakwOtqZPxI2XYHFtdx"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Part Of Me",
-        "url": "https://open.spotify.com/album/74ZR82j0ucverIwnm6yrei"
+        "name": "Younger & Dumber",
+        "url": "https://open.spotify.com/album/6p8GkgR2aYrKcr1OVMS25k"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        },
-        {
-          "name": "Arny Margret",
-          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 208702,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/6Rc8Z7D778SVkwuoFSJvxQ"
+      "duration_ms": 279040,
+      "name": "Younger & Dumber",
+      "url": "https://open.spotify.com/track/0EWHn0McVO8Ewbkqvh53AD"
     }
   ],
   "unique_name": "Gentle",

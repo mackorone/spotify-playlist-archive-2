@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-366 songs - 18 hr 35 min
+367 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,7 +247,7 @@
 | [Really Rosie](https://open.spotify.com/track/5VY8GdeUT4ytQkqwD57kIh) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 1:50 | 2023-12-30 | 2025-06-01 |
 | [Really Rosie](https://open.spotify.com/track/4Af5QDykrTYYZ0uTPA6air) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:50 | 2025-05-31 |  |
 | [Ride the Music](https://open.spotify.com/track/2ksn4hYRvqgpS0GGr6LZJ8) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 3:11 | 2023-12-30 |  |
-| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2025-11-22 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2025-11-22 | 2026-03-05 |
 | [Runaround Sue](https://open.spotify.com/track/1DndHckdH9m5rp6gYP086b) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Runaround Sue](https://open.spotify.com/album/20vUqyMzF8fgQhkdLdtzi7) | 2:51 | 2023-12-30 | 2026-02-15 |
 | [Runaround Sue](https://open.spotify.com/track/7Jc7mgV9J5DzYPWycCFyqg) | [The Belmonts](https://open.spotify.com/artist/02oFrWT7l0AKMEnJI6iTIB), [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [Dream, Dream!](https://open.spotify.com/album/0q8dM3iEHtaJ0j52vL4IZd) | 2:52 | 2026-02-14 |  |
 | [Sacred Heart of Stone](https://open.spotify.com/track/2PCAd74jNyJIc2HnOmR1M4) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 3:47 | 2025-01-09 | 2025-04-12 |
@@ -257,6 +257,7 @@
 | [Screaming and Yelling](https://open.spotify.com/track/2oM2lFz3AscyEWb3aT5nj0) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 1:17 | 2025-05-31 |  |
 | [See Them A Come](https://open.spotify.com/track/1UDd9KiROrar9stu4qSXqo) | [Culture](https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz) | [Two Sevens Clash](https://open.spotify.com/album/2xP6fksOqdajg0gha4TeqH) | 3:20 | 2023-12-30 |  |
 | [Seeing Red](https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 | 2023-12-30 |  |
+| [Sh\-Boom](https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA) | [The Chords](https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T) | [Life Could Be a Dream: The Sh\-Boom Sound of The Chords](https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE) | 2:24 | 2026-03-04 |  |
 | [Sharing You](https://open.spotify.com/track/4ypZEpTX71A1i5HY8ofw2K) | [Bobby Vee](https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO) | [A Bobby Vee Recording Session](https://open.spotify.com/album/5HVg69JrZiQStID8kndZ7K) | 2:02 | 2023-12-30 | 2025-11-23 |
 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 | 2023-12-30 |  |
 | [Simple Things](https://open.spotify.com/track/7lIQgzo0Z0dFoPla143iCC) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:41 | 2023-12-30 |  |

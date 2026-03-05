@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack to your girl dinner. cover: Charli XCX",
-  "num_followers": 212620,
+  "num_followers": 213042,
   "original_name": "hot girl sh*t",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2026-02-22 13:00:22",
       "album": {
-        "name": "Thootie (feat. Tokischa)",
-        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 151611,
-      "name": "Thootie (feat. Tokischa)",
-      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
-    },
-    {
-      "added_at": "2026-02-22 13:00:22",
-      "album": {
         "name": "Boy's a liar Pt. 2",
         "url": "https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
+    },
+    {
+      "added_at": "2026-02-22 13:00:22",
+      "album": {
+        "name": "Thootie (feat. Tokischa)",
+        "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 151611,
+      "name": "Thootie (feat. Tokischa)",
+      "url": "https://open.spotify.com/track/6mHIYI9coRzaIlqE6rPNN5"
     },
     {
       "added_at": "2026-02-22 13:00:22",

@@ -1,6 +1,6 @@
 {
   "description": "Antes de entrar, permita salir.",
-  "num_followers": 76940,
+  "num_followers": 77032,
   "original_name": "Coraz\u00f3n Chilango",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "La Ultima Sombra",
-      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 267226,
       "name": "Kumbala",
       "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "La Ultima Sombra",
+      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Avalancha de \u00e9xitos",
         "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 214880,
       "name": "Como te extra\u00f1o mi amor",
       "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "No Me Llames Mas",
-        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
-      },
-      "artists": [
-        {
-          "name": "Alcalde La Sonora",
-          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
-        }
-      ],
-      "duration_ms": 267415,
-      "name": "No Me Llames Mas",
-      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 211813,
       "name": "Muchachita Consentida",
       "url": "https://open.spotify.com/track/1zVDbrBG7zCd6AXGLmbGj4"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "No Me Llames Mas",
+        "url": "https://open.spotify.com/album/1kGauj7au3yzXtrajKOnjd"
+      },
+      "artists": [
+        {
+          "name": "Alcalde La Sonora",
+          "url": "https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ"
+        }
+      ],
+      "duration_ms": 267415,
+      "name": "No Me Llames Mas",
+      "url": "https://open.spotify.com/track/73NQ9fWD3g74wsUh5LTdfF"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 283240,
-      "name": "Rumba Cha-Cha-Cha",
-      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Una rola para los minusv\u00e1lidos",
         "url": "https://open.spotify.com/album/1gk6tISd64foZA1eWwDnNg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 198040,
       "name": "Las piedras rodantes",
       "url": "https://open.spotify.com/track/1gd7Q7mxviLWkG5HgvAMAc"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 283240,
+      "name": "Rumba Cha-Cha-Cha",
+      "url": "https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 230713,
       "name": "Cuarto para las Dos",
       "url": "https://open.spotify.com/track/2wOMnyjpDSU20v9fwLFITn"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 359226,
-      "name": "Nuestro Sue\u00f1o",
-      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Exitos Originales",
         "url": "https://open.spotify.com/album/1XonZgPSw1RXw5oWJdAlYy"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 310973,
       "name": "Si Supieras",
       "url": "https://open.spotify.com/track/2YzhQEikYymq0HR9oc0EGT"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 359226,
+      "name": "Nuestro Sue\u00f1o",
+      "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Esta Cobard\u00eda",
-        "url": "https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj"
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz y Su Orquesta",
-          "url": "https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh"
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
         }
       ],
-      "duration_ms": 303412,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd"
+      "duration_ms": 188917,
+      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "Esta Cobard\u00eda",
+        "url": "https://open.spotify.com/album/6fcH0RHemRnvokMVf2Ogjj"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Frankie Ruiz y Su Orquesta",
+          "url": "https://open.spotify.com/artist/6W5KPtMeIS9zMqHCGxGwzh"
         }
       ],
-      "duration_ms": 188917,
-      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
-      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+      "duration_ms": 303412,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/5ONnbTPRBGp25qlQutPCAd"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "20 Exitos",
-        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 192426,
-      "name": "Perfume de Gardenias",
-      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Victimas Del Doctor Cerebro",
         "url": "https://open.spotify.com/album/4dcFGAgSnvjUK2fBUWoWSv"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 221640,
       "name": "El Esqueleto",
       "url": "https://open.spotify.com/track/1Z05BEFLTKxdp9xSjUnPGX"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1387,8 +1387,8 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Mas Grande Que Nunca",
-        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
+        "name": "Frankie Ruiz La Leyenda",
+        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
       },
       "artists": [
         {
@@ -1396,9 +1396,9 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 281186,
-      "name": "Dese\u00e1ndote",
-      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
+      "duration_ms": 295160,
+      "name": "T\u00fa Me Vuelves Loco",
+      "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1467,8 +1467,8 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Frankie Ruiz La Leyenda",
-        "url": "https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ"
+        "name": "Mas Grande Que Nunca",
+        "url": "https://open.spotify.com/album/3jjv7kRQ4vXoGg35jrazQz"
       },
       "artists": [
         {
@@ -1476,9 +1476,9 @@
           "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 295160,
-      "name": "T\u00fa Me Vuelves Loco",
-      "url": "https://open.spotify.com/track/1hiy2Mm4Xw57Vh6tiWbyam"
+      "duration_ms": 281186,
+      "name": "Dese\u00e1ndote",
+      "url": "https://open.spotify.com/track/6eRmG7DPom2FfRNAoCmjqb"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "El Poder De La Cumbia",
-        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 297293,
-      "name": "Rumba Quimbumba",
-      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
         "name": "Para Qu\u00e9 Llorar",
         "url": "https://open.spotify.com/album/1z50aUk8ypdjqTzqxuQ0ig"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 196186,
       "name": "La Cumbia de los Monjes",
       "url": "https://open.spotify.com/track/35C7JhYFEXS21yxJy6zR4g"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "El Poder De La Cumbia",
+        "url": "https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 297293,
+      "name": "Rumba Quimbumba",
+      "url": "https://open.spotify.com/track/0trX1nThTl4NfJuctzJVA3"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2279,6 +2279,22 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Corazon de Acero",
+        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 225953,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Ahora M\u00e1s Que Nunca",
         "url": "https://open.spotify.com/album/23TxGN2lFbBkvSIL1yVDKk"
       },
@@ -2295,18 +2311,18 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Corazon de Acero",
-        "url": "https://open.spotify.com/album/3BqW7Zt2KkIJaxrqvhyklo"
+        "name": "96 - 05",
+        "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
       },
       "artists": [
         {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
         }
       ],
-      "duration_ms": 225953,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/1SZMZCqVHIWgyEy2dIHsZR"
+      "duration_ms": 131039,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2343,24 +2359,8 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "96 - 05",
-        "url": "https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 131039,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
       "artists": [
         {
@@ -2368,25 +2368,9 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Grupo Ca\u00f1averal, Vol. III",
-        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 280826,
-      "name": "Echarme Al Olvido",
-      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2403,6 +2387,22 @@
       "duration_ms": 230225,
       "name": "Manos de Tijera",
       "url": "https://open.spotify.com/track/5bbDOmtSTUeAmzYDUv8eVF"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Grupo Ca\u00f1averal, Vol. III",
+        "url": "https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 280826,
+      "name": "Echarme Al Olvido",
+      "url": "https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2439,8 +2439,8 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
       },
       "artists": [
         {
@@ -2448,25 +2448,9 @@
           "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "Hasta El Cielo Lloro",
-        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 326640,
-      "name": "Vuelvo A Sentir",
-      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     },
     {
       "added_at": "2025-09-26 06:00:27",
@@ -2487,6 +2471,38 @@
     {
       "added_at": "2025-09-26 06:00:27",
       "album": {
+        "name": "Hasta El Cielo Lloro",
+        "url": "https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "Vuelvo A Sentir",
+      "url": "https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
+        "name": "Septimo Sentido",
+        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 312006,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
+    },
+    {
+      "added_at": "2025-09-26 06:00:27",
+      "album": {
         "name": "Zayda",
         "url": "https://open.spotify.com/album/5Xltwg9RR39wz6oiyl9O2H"
       },
@@ -2499,22 +2515,6 @@
       "duration_ms": 260109,
       "name": "Lo Quiero a Morir",
       "url": "https://open.spotify.com/track/1UUh3mwMdY0ruEllPXrroj"
-    },
-    {
-      "added_at": "2025-09-26 06:00:27",
-      "album": {
-        "name": "La Perla Colombiana 20 Exitos (Vol 1)",
-        "url": "https://open.spotify.com/album/1boTDcBDk41mklPCQTQfnu"
-      },
-      "artists": [
-        {
-          "name": "Perla Colombiana",
-          "url": "https://open.spotify.com/artist/28DMUdkRLYzfNz8Jb6mU14"
-        }
-      ],
-      "duration_ms": 218853,
-      "name": "Agua de vida",
-      "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
     },
     {
       "added_at": "2025-09-26 06:00:27",

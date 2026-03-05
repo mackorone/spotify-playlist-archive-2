@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 116761,
+  "num_followers": 116765,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABO+T5s1kD63eMYoHsZVzdT",
+  "snapshot_id": "aaYkgAAAAADljX6mWel7fQlf+CathnC7",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tetelestai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 272786,
-      "name": "Azeite (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz"
+      "duration_ms": 226240,
+      "name": "Hist\u00f3ria",
+      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+        "name": "Tetelestai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Hist\u00f3ria",
-      "url": "https://open.spotify.com/track/5dnPxV8jRadA1sClQEtNSX"
+      "duration_ms": 272786,
+      "name": "Azeite (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
       "duration_ms": 191552,
       "name": "Eu Tenho Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/6scM0ZJ4QxPaAXkl7OCxcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 205266,
+      "name": "Sua Paz",
+      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
     },
     {
       "added_at": null,
@@ -483,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 205266,
-      "name": "Sua Paz",
-      "url": "https://open.spotify.com/track/6IxxbIlg3rgzaULZm3DDxG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tetelestai (Ao Vivo)",
         "url": "https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj"
       },
@@ -511,6 +511,26 @@
       "duration_ms": 420453,
       "name": "Se Eu Pudesse (Ao Vivo)",
       "url": "https://open.spotify.com/track/3Z7YY7XHEGrDjTtg4dxySG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Jo\u00e3o Figueiredo",
+          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
+        }
+      ],
+      "duration_ms": 230773,
+      "name": "M\u00e1scaras",
+      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        },
-        {
-          "name": "Jo\u00e3o Figueiredo",
-          "url": "https://open.spotify.com/artist/15CxFRwagxbz4bOHEeTGXL"
-        }
-      ],
-      "duration_ms": 230773,
-      "name": "M\u00e1scaras",
-      "url": "https://open.spotify.com/track/1nrJ9z7TpHGZjcN55Qzwu1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ovelhinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/7mSTc7HSnNJ4mu41Vvmo3y"
       },
@@ -591,6 +591,22 @@
       "duration_ms": 298948,
       "name": "Cruz em Ti (Ao Vivo)",
       "url": "https://open.spotify.com/track/02hhlzmgrAtjEFDNwZfxNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 265906,
+      "name": "Processo",
+      "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
     },
     {
       "added_at": null,
@@ -631,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 265906,
-      "name": "Processo",
-      "url": "https://open.spotify.com/track/1YVzZ98wN0QQB19fP6M4Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Volta ao Seu Lugar",
         "url": "https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bra\u00e7os de Amor",
-        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Bra\u00e7os de Amor",
-      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palavras e Palavras (Ao Vivo)",
         "url": "https://open.spotify.com/album/1olSAUdtz26YmJofmGylw8"
       },
@@ -715,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resultado",
-        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+        "name": "Bra\u00e7os de Amor",
+        "url": "https://open.spotify.com/album/7DAsKDdhuzSZynB1fsCpig"
       },
       "artists": [
         {
@@ -724,9 +708,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 200453,
-      "name": "Resultado",
-      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
+      "duration_ms": 332333,
+      "name": "Bra\u00e7os de Amor",
+      "url": "https://open.spotify.com/track/4ukZTbuGOaOhn0npxg2aQS"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resultado",
+        "url": "https://open.spotify.com/album/3Yon9LyJOWdwpwDcoDCvaH"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Resultado",
+      "url": "https://open.spotify.com/track/7aBQQ6sJixQFZCuC3HPVHI"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Ellie Rowsell of Wolf Alice",
-  "num_followers": 780259,
+  "num_followers": 780316,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 201372,
-      "name": "Mirtazapine",
-      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Bricks Are Heavy",
         "url": "https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "From The Pyre",
-        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
         }
       ],
-      "duration_ms": 238930,
-      "name": "Count The Ways",
-      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
+      "duration_ms": 201372,
+      "name": "Mirtazapine",
+      "url": "https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -843,6 +827,22 @@
       "duration_ms": 266141,
       "name": "HEARTLESS",
       "url": "https://open.spotify.com/track/3i4Re2d1ObCP9U4xoCJzDa"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "From The Pyre",
+        "url": "https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 238930,
+      "name": "Count The Ways",
+      "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
+        "name": "mettle",
+        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+      },
+      "artists": [
+        {
+          "name": "she's green",
+          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "mettle",
+      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -1331,18 +1347,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "mettle",
-        "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
+        "name": "Mantis / Sugar Plum",
+        "url": "https://open.spotify.com/album/1krTI5LpA4bUKMdBvDzIyx"
       },
       "artists": [
         {
-          "name": "she's green",
-          "url": "https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY"
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
         }
       ],
-      "duration_ms": 176853,
-      "name": "mettle",
-      "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+      "duration_ms": 280547,
+      "name": "Mantis",
+      "url": "https://open.spotify.com/track/3iM77HJU9PIWyfMhxw3LGt"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1375,22 +1391,6 @@
       "duration_ms": 199819,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
-        "name": "Mantis / Sugar Plum",
-        "url": "https://open.spotify.com/album/1krTI5LpA4bUKMdBvDzIyx"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 280547,
-      "name": "Mantis",
-      "url": "https://open.spotify.com/track/3iM77HJU9PIWyfMhxw3LGt"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "R is for Rocket",
-        "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
-      },
-      "artists": [
-        {
-          "name": "Rocket",
-          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "No Obligation",
         "url": "https://open.spotify.com/album/0hHBHXLrTlYfLXrp8yb6N6"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 201187,
       "name": "All In My Head",
       "url": "https://open.spotify.com/track/7uHpXA3rYfs1EqFHogCwDj"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "R is for Rocket",
+        "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
+      },
+      "artists": [
+        {
+          "name": "Rocket",
+          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Nurse Depression",
-        "url": "https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5"
-      },
-      "artists": [
-        {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
-        }
-      ],
-      "duration_ms": 125562,
-      "name": "Nurse Depression",
-      "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Take Your Aim",
         "url": "https://open.spotify.com/album/3ZYRmGFXWmTHDu08QRPuM0"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200520,
       "name": "Take Your Aim",
       "url": "https://open.spotify.com/track/0rDq4W12BQzwKYYuYP0EIj"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Nurse Depression",
+        "url": "https://open.spotify.com/album/6kYfN2e5eh0SHLB6mRAaF5"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "duration_ms": 125562,
+      "name": "Nurse Depression",
+      "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
     },
     {
       "added_at": "2026-03-02 21:45:43",

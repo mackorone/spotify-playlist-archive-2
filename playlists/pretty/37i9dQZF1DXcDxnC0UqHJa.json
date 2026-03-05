@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 445413,
+  "num_followers": 445384,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Lennon Bermuda",
-        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
-      },
-      "artists": [
-        {
-          "name": "Heather Nova",
-          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
-        }
-      ],
-      "duration_ms": 143547,
-      "name": "Norwegian Wood",
-      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/7vlApA4V6FDavmJBpr3R5N"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 257941,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0d5tb0XcClqZo7CJ4GQuBm"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Lennon Bermuda",
+        "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
+      },
+      "artists": [
+        {
+          "name": "Heather Nova",
+          "url": "https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z"
+        }
+      ],
+      "duration_ms": 143547,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
-        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 216773,
-      "name": "Remembering Mountains",
-      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Ohio / After The Gold Rush",
         "url": "https://open.spotify.com/album/0DstfAvDUGVokiUpr8k2ci"
       },
@@ -1075,22 +1059,6 @@
       "duration_ms": 294142,
       "name": "After The Gold Rush",
       "url": "https://open.spotify.com/track/0YDtSXyLnPVYSl31N3bF54"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1119,18 +1087,34 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
       },
       "artists": [
         {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197540,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Remembering Mountains : Unheard Songs By Karen Dalton",
+        "url": "https://open.spotify.com/album/0zH32ejJgyMAlwF0V3p6EI"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 216773,
+      "name": "Remembering Mountains",
+      "url": "https://open.spotify.com/track/2zW0oWOUOc8KDLBCJXT80T"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/4xiAPrGgnwcfTJtdOwxKf4"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 145280,
-      "name": "Pink Moon",
-      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
+      "duration_ms": 197540,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/1AcMGe32z1DoV61PPCFTFn"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1187,6 +1171,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/5SW6BhWTAJenEneGruiijj"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "I Still Haven't Found What I'm Looking For / my future",
-        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 191757,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Mr. Brightside",
         "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 267602,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "I Still Haven't Found What I'm Looking For / my future",
+        "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 191757,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
-      },
-      "artists": [
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        }
-      ],
-      "duration_ms": 264930,
-      "name": "Sledgehammer",
-      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 201985,
       "name": "Green Rocky Road",
       "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2NBpiTeWOyrP088gUj6J2y"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 264930,
+      "name": "Sledgehammer",
+      "url": "https://open.spotify.com/track/7cWTvfOdnO2slD9Xm7DK87"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Concrete And Barbed Wire",
         "url": "https://open.spotify.com/album/5WLiyVvHgcoxSy8hAwB77Z"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 193274,
       "name": "Concrete And Barbed Wire",
       "url": "https://open.spotify.com/track/40IUlFkad6oRItApO3TDG5"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "i'm not okay",
-        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "i'm not okay",
-      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "We Don't Eat",
         "url": "https://open.spotify.com/album/0F9QZJSssWELg5ZTJp1NQy"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 215589,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/35dMUmp6Jh3AE9IaqM0Osn"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "i'm not okay",
+        "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "i'm not okay",
+      "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 282715,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Joni 75: A Joni Mitchell Birthday Celebration (Live)",
+        "url": "https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 350149,
+      "name": "Down To You - Live",
+      "url": "https://open.spotify.com/track/0Gn207mWAoAztT808PNoYK"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Joni 75: A Joni Mitchell Birthday Celebration (Live)",
-        "url": "https://open.spotify.com/album/1YTSVDA02Rm7YKZkxQrQYY"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 350149,
-      "name": "Down To You - Live",
-      "url": "https://open.spotify.com/track/0Gn207mWAoAztT808PNoYK"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1951,18 +1951,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "God Only Knows",
-        "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/7hkImNgsAoOS5CtitpnFOb"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "Dan Wilson",
+          "url": "https://open.spotify.com/artist/045EiHd7X7cCjlamF0LV2M"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
         }
       ],
-      "duration_ms": 194251,
-      "name": "God Only Knows",
-      "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
+      "duration_ms": 291093,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/3S7BZqv1qZO5hxku8u8fqB"
     }
   ],
   "unique_name": "Folksy Covers",

@@ -1,6 +1,6 @@
 {
   "description": "lo alt, raro y cool. Gorillaz en portada.",
-  "num_followers": 686978,
+  "num_followers": 687021,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-02-27 06:00:25",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
+    },
+    {
+      "added_at": "2026-02-27 06:00:25",
+      "album": {
         "name": "Essex Honey",
         "url": "https://open.spotify.com/album/5RUma3H9uzDLXxwT7JzTel"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9"
-    },
-    {
-      "added_at": "2026-02-27 06:00:25",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-02-27 06:00:25",

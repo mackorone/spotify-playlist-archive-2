@@ -879,6 +879,24 @@
     },
     {
       "album": {
+        "name": "Erasing",
+        "url": "https://open.spotify.com/album/0ZcUHGcqabOhjb5rgGw2px"
+      },
+      "artists": [
+        {
+          "name": "Jeong Jinwoon",
+          "url": "https://open.spotify.com/artist/0TP4BhbuNVvO5aIPJlTFjh"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204420,
+      "name": "Erasing",
+      "url": "https://open.spotify.com/track/5AwOBcjHB9fVX3xMpeS1gX"
+    },
+    {
+      "album": {
         "name": "Episode 25",
         "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
       },
@@ -1063,6 +1081,32 @@
     },
     {
       "album": {
+        "name": "Get It? (feat.HA:TFELT, Cheetah)",
+        "url": "https://open.spotify.com/album/34epUfJu6aCZzevk3nzeHC"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/6ftZYkensUYXNiMM7nFwhE"
+        },
+        {
+          "name": "HA:TFELT",
+          "url": "https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "Get It? (feat.HA:TFELT, Cheetah)",
+      "url": "https://open.spotify.com/track/4OLpu3EcgdcBExx0z0gq75"
+    },
+    {
+      "album": {
         "name": "We are",
         "url": "https://open.spotify.com/album/6yawSZpyFEU0wPKhXcEIHI"
       },
@@ -1110,7 +1154,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 187061,
       "name": "Go Away",
       "url": "https://open.spotify.com/track/25G0ZRKQYoJDuyd1Ghdm7Q"
@@ -1862,7 +1906,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 171506,
       "name": "LIAR",
       "url": "https://open.spotify.com/track/0mTBrzI39Yr1I30re3esfO"
@@ -2340,7 +2384,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190680,
       "name": "Pity Party",
       "url": "https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk"
@@ -3082,6 +3126,28 @@
       "duration_ms": 210705,
       "name": "\ub0a8\uc790 \uc5c6\uc774 \uc798 \uc0b4\uc544",
       "url": "https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX"
+    },
+    {
+      "album": {
+        "name": "\ub728\uac81\uc9c0\uac00 \uc54a\uc544",
+        "url": "https://open.spotify.com/album/7yCR5uUQwAI6o60UuNyX28"
+      },
+      "artists": [
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        },
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192928,
+      "name": "\ub728\uac81\uc9c0\uac00 \uc54a\uc544",
+      "url": "https://open.spotify.com/track/0qvvVjOfRfiAlUrt0TDPdU"
     },
     {
       "album": {

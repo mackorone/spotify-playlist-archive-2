@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,754 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,773 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 18 | [Retribution](https://open.spotify.com/track/4yCl1tAjhIR9glGuyM5Bw7) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Rjz](https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G), [Kay t](https://open.spotify.com/artist/7u2iiXMEcQ13jXOb1xZmIi), [Mantse](https://open.spotify.com/artist/6nntfefHU1AUQ5RpcMeo7M) | [Retribution](https://open.spotify.com/album/0UgJp0LHjY5MdWbQCYaF8S) | 4:22 |
 | 19 | [Soma Obi](https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:41 |
 | 20 | [Masua Adeɛ](https://open.spotify.com/track/7kOYEpuROieNGPzsd4Ppxg) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Masua Adeɛ](https://open.spotify.com/album/180eJKKw93qShZlba2nfCH) | 3:25 |
-| 21 | [Millicent](https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Millicent](https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt) | 3:07 |
+| 21 | [Millicent](https://open.spotify.com/track/5nPGRuOVcUdlZd7GI4989o) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Millicent](https://open.spotify.com/album/1AdznG4ODTPvszpmYALbwt) | 3:07 |
 | 22 | [Lord I'm Amazed](https://open.spotify.com/track/6u1G4pHAwnkOQBJCvl6D3O) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Lord I'm Amazed](https://open.spotify.com/album/3u7exEZx2J3pCtvQxGHiQ9) | 2:26 |
 | 23 | [Fresh](https://open.spotify.com/track/78XEIgiwRkYr45jkArEu0U) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Fresh](https://open.spotify.com/album/2NskfGi4IDjVbEJBzZXhxP) | 2:46 |
 | 24 | [Jesus Christ 2](https://open.spotify.com/track/0YgtgUHRS8vC9bytCETMZB) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Jesus Christ 2](https://open.spotify.com/album/13CeX9JSszCuegkdi883CA) | 3:37 |

@@ -4,7 +4,7 @@
 
 > This is Laurie Spiegel\. The essential tracks, all in one playlist.
 
-19 songs - 1 hr 18 min
+20 songs - 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,10 +22,11 @@
 | [Sparks](https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 3:38 | 2026-03-04 |  |
 | [Strand of Life \("Viroid"\)](https://open.spotify.com/track/038kVJ5c2qXrdSnx79DnzG) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:21 | 2026-03-04 |  |
 | [Taking It Further](https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:51 | 2026-03-04 |  |
-| [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 | 2026-03-04 |  |
+| [The Hollows](https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 4:51 | 2026-03-04 | 2026-03-05 |
 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 | 2026-03-04 |  |
 | [Three Sonic Spaces I](https://open.spotify.com/track/40YsslZstSIWncQEt8NNls) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 1:36 | 2026-03-04 |  |
 | [Three Sonic Spaces III](https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 5:53 | 2026-03-04 |  |
+| [Two Archetypes: Hurricane's Eye – II](https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Unseen Worlds](https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS) | 3:35 | 2026-03-05 |  |
 | [Where Do We Go](https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r) | [VooCha](https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW), [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [Static](https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK) | 2:38 | 2026-03-04 |  |
 
 \*This playlist was first scraped on 2026-03-04. Prior content cannot be recovered.

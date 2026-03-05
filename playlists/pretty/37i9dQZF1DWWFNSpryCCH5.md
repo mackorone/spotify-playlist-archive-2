@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > puras canciones desenchufadas\. Cover: Maná
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,069,965 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,069,929 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 21 | [Un Misil En Mi Placard \- MTV Unplugged](https://open.spotify.com/track/7IJC1qatyg2t8SZiwJRvID) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 4:34 |
 | 22 | [About A Girl \- Live](https://open.spotify.com/track/48YkpE5enOln5c7jXSTuHL) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/1To7kv722A8SpZF789MZy7) | 3:38 |
 | 23 | [La Chica De Humo \- MTV Unplugged](https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [MTV Unplugged: Con El Alma Desnuda](https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J) | 4:58 |
-| 24 | [Fuera de mí](https://open.spotify.com/track/5XH286garUg3tcciTKR50O) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:58 |
-| 25 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 24 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
+| 25 | [Fuera de mí](https://open.spotify.com/track/5XH286garUg3tcciTKR50O) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:58 |
 | 26 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 27 | [Te necesito \- Acústico](https://open.spotify.com/track/61ZvRYNgX7WliB1kgQB32a) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi), [Beto Cuevas](https://open.spotify.com/artist/0kUZTk2JLPEAUyCWoN6eoL) | [Estrella De Mar](https://open.spotify.com/album/61ubSwllNCZJux3IG7G83T) | 4:05 |
 | 28 | [Bésame Mucho \- Live](https://open.spotify.com/track/04YCoK8SspDy9Gv52aUrz8) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 5:37 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 45 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |
 | 46 | [Cita En El Quirófano \- MTV Unplugged](https://open.spotify.com/track/7pxQFizSwS8IN39T0dlc2W) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Panda MTV Unplugged \(Live\)](https://open.spotify.com/album/1vtmvP6HpYWljDR2vplT3b) | 3:56 |
 | 47 | [Y sólo se me ocurre amarte](https://open.spotify.com/track/5mj44pCWLmC6KVBQjGFngi) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Y solo se me ocurre amarte \(Unplugged\) \- video](https://open.spotify.com/album/2mSEhXAn73acIZWlx94mS8) | 4:24 |
-| 48 | [Llueve Sobre la Ciudad \- MTV Unplugged](https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 6:06 |
+| 48 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 |
 | 49 | [Es Por Ti \- MTV Unplugged](https://open.spotify.com/track/3f5vubhmEGPL8JoVi49hm4) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 4:55 |
-| 50 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 |
+| 50 | [Llueve Sobre la Ciudad \- MTV Unplugged](https://open.spotify.com/track/11wdpfVtZZLimMAnHM5pTj) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Los Bunkers \(MTV Unplugged\)](https://open.spotify.com/album/3v9WTwGpwKCwYyCLoI3kjj) | 6:06 |
 
 Snapshot ID: `AAAAACZdaJ+xgjzfPkdBlx6sPghVaVdn`

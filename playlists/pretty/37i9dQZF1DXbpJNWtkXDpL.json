@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de las escenas en M\u00e9xico en compa\u00f1\u00eda de Malcriada",
-  "num_followers": 92166,
+  "num_followers": 92169,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -131,8 +131,8 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MTY",
-        "url": "https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97"
+        "name": "MONICA",
+        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
       },
       "artists": [
         {
@@ -142,15 +142,11 @@
         {
           "name": "Ezya",
           "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
-        },
-        {
-          "name": "Fntwxy",
-          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
         }
       ],
-      "duration_ms": 130909,
-      "name": "MTY",
-      "url": "https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6"
+      "duration_ms": 131134,
+      "name": "Monica",
+      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -235,8 +231,8 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "MONICA",
-        "url": "https://open.spotify.com/album/0TS7Hux0Ie6cv7x8zP3ST3"
+        "name": "MTY",
+        "url": "https://open.spotify.com/album/1F5BssS4Z96oE0U7kn1U97"
       },
       "artists": [
         {
@@ -246,11 +242,15 @@
         {
           "name": "Ezya",
           "url": "https://open.spotify.com/artist/5UFABCQ4gZ6kZAweVndK1F"
+        },
+        {
+          "name": "Fntwxy",
+          "url": "https://open.spotify.com/artist/6rxrgRFcJO761tilGL0VPH"
         }
       ],
-      "duration_ms": 131134,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/6HoSGc6iNoXHByugz9eMAz"
+      "duration_ms": 130909,
+      "name": "MTY",
+      "url": "https://open.spotify.com/track/3fT8Xnj4T4gtKUSmIPXZL6"
     },
     {
       "added_at": "2025-10-03 06:00:06",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-10-03 06:00:06",
       "album": {
-        "name": "CRUJIN",
-        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
-        }
-      ],
-      "duration_ms": 109016,
-      "name": "TUTOGERME",
-      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
-    },
-    {
-      "added_at": "2025-10-03 06:00:06",
-      "album": {
         "name": "amar t duele",
         "url": "https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 150000,
       "name": "amar t duele",
       "url": "https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E"
+    },
+    {
+      "added_at": "2025-10-03 06:00:06",
+      "album": {
+        "name": "CRUJIN",
+        "url": "https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM"
+        }
+      ],
+      "duration_ms": 109016,
+      "name": "TUTOGERME",
+      "url": "https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe"
     },
     {
       "added_at": "2025-10-03 06:00:06",

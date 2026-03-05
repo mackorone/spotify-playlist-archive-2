@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,770 likes - 118 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,789 likes - 118 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

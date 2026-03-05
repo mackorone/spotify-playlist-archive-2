@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,654 likes - 49 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,655 likes - 49 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 20 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
 | 21 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
 | 22 | [The Front Door](https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:14 |
-| 23 | [I Am In Love](https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:36 |
+| 23 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
 | 24 | [Why The Bright Stars Glow](https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:25 |
 | 25 | [Twined and Twisted](https://open.spotify.com/track/3ZJOBOxFUaxHX1ovXxQdCG) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:13 |
-| 26 | [Look At Miss Ohio](https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:25 |
+| 26 | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL) | 2:49 |
 | 27 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 |
 | 28 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
-| 29 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
-| 30 | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/track/4cBLEBRM8SqBlZ9o6JKie3) | [Paula Boggs Band](https://open.spotify.com/artist/00vtUBkRansXWuoZ8XBTjv), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ain't Gonna Let Nobody Turn Me 'Round](https://open.spotify.com/album/0vKVm6BzOYeKcjBXmeyBNL) | 2:49 |
-| 31 | [Sweet Things Just for You](https://open.spotify.com/track/3Njnztq7RcqwQycbOzaI8i) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:37 |
+| 29 | [Look At Miss Ohio](https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:25 |
+| 30 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
+| 31 | [I Am In Love](https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:36 |
 | 32 | [Rollin’ and Tumblin’](https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Rollin' and Tumblin'](https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1) | 3:28 |
 | 33 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
 | 34 | [Stay](https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:01 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 48 | [Maybellene](https://open.spotify.com/track/24hETT7D6udJomPK5XyQi3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Maybellene](https://open.spotify.com/album/65XndCDZ1CsBBQtHpuK61a) | 3:14 |
 | 49 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 
-Snapshot ID: `aaTTAAAAAABTx+nbxggm/4zynglvey2f`
+Snapshot ID: `aaYkgAAAAADZbPTFtAgrQesiW3Fpbl69`

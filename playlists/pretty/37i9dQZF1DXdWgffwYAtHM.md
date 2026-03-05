@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:12dibRyPTOMitNNhVmlgnG">Medo em Cia.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,922 likes - 10 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,926 likes - 11 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdWgffwYAtHM.md) - [plain]
 | 8 | [\#84 A epidemia de piscose causada pela I.A.](https://open.spotify.com/episode/1vpAULqPatN2vQRJRsBNBA) | [Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 32:47 |
 | 9 | [RESOLVENDO TUDO NA GAMBIARRA 🔧 – DON \#113](https://open.spotify.com/episode/54AKrYUmDvGZF6obpF2XeQ) | [Don Podcast](https://open.spotify.com/show/0ilOR20NgwNiwJXM9Uwd4p) | [Don Podcast](https://open.spotify.com/album/0ilOR20NgwNiwJXM9Uwd4p) | 2:06:23 |
 | 10 | [lealdades invisíveis com a nossa família ](https://open.spotify.com/episode/4A7aNcTCAplm3Y44WRSWuk) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:20 |
+| 11 | [Manda áudio 23](https://open.spotify.com/episode/2tBLK0elMUNjuzefWEDLZe) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 5:50 |
 
 Snapshot ID: `AAAAAALuJkh0TEign/2cd9qH2JUdnJaA`

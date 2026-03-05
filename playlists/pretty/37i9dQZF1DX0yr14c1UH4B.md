@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song  🎧 cover: Kingfishr<br/>📍Somewhere between indie, pop, folk and country
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,487 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,357 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 99 | [Man on the Run](https://open.spotify.com/track/02WWKquFQWZYHYYEHpcOBz) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Bracing For Impact](https://open.spotify.com/album/6yQAIt35n1JPwzIfvCxZrI) | 5:11 |
 | 100 | [3pm](https://open.spotify.com/track/1whTnjNbMF5Hz0hiYe1gBX) | [Haquin](https://open.spotify.com/artist/73G2lmEVqDvqJtWQaaRZXb) | [3pm](https://open.spotify.com/album/3GhkKLjnrt57EEI5lwfhKj) | 4:02 |
 
-Snapshot ID: `AAAAANsZYHf7uzemm2SQrRqxXRVKbUdn`
+Snapshot ID: `AAAAAPtRNDpTgWsMqcSvXTZsU1Q+8Anp`

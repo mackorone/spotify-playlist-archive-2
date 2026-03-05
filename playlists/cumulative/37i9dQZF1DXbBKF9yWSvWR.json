@@ -1785,6 +1785,24 @@
     },
     {
       "album": {
+        "name": "Melancholia",
+        "url": "https://open.spotify.com/album/66uED3xG184HSGVqHc83gF"
+      },
+      "artists": [
+        {
+          "name": "JELISA",
+          "url": "https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Bring Me Back To Life",
+      "url": "https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j"
+    },
+    {
+      "album": {
         "name": "\u274d",
         "url": "https://open.spotify.com/album/6SqBrEivEyGR1kg0QuJKK0"
       },
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 238930,
       "name": "Count The Ways",
       "url": "https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs"

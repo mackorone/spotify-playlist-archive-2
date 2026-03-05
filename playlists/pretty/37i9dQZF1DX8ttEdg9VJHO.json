@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 365971,
+  "num_followers": 366065,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "WIR",
-        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
-      },
-      "artists": [
-        {
-          "name": "KAFFKIEZ",
-          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
-        }
-      ],
-      "duration_ms": 207113,
-      "name": "In N\u00e4chten Wie Diesen",
-      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 189413,
       "name": "Lost The Breakup",
       "url": "https://open.spotify.com/track/58VF5ob7qRB3yUzOYEAhyf"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "WIR",
+        "url": "https://open.spotify.com/album/1wp44a0tNqS2ex2Vlp7KLd"
+      },
+      "artists": [
+        {
+          "name": "KAFFKIEZ",
+          "url": "https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo"
+        }
+      ],
+      "duration_ms": 207113,
+      "name": "In N\u00e4chten Wie Diesen",
+      "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "The Hardest Part",
-      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "The Good Witch",
         "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 225266,
       "name": "There It Goes",
       "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "The Hardest Part",
+        "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 141971,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Mehr davon",
         "url": "https://open.spotify.com/album/7u16dLnOhtHtBXt9FAVImm"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 175413,
       "name": "Mehr davon",
       "url": "https://open.spotify.com/track/7rwAzZpANJEN0vn0pzYONW"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/3NMyirgSjJz5O7dkrMLRpa"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 141971,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/2r7BOWS3bEYjEUbLiH8kVM"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -1003,6 +1003,22 @@
       "duration_ms": 154496,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5ELSNOIEl2Iqq3f8MEsc8Y"
+    },
+    {
+      "added_at": "2026-02-27 11:00:00",
+      "album": {
+        "name": "Let Me Love You",
+        "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
+      },
+      "artists": [
+        {
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
+        }
+      ],
+      "duration_ms": 193181,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA"
     },
     {
       "added_at": "2026-02-27 11:00:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "I swear to god",
-        "url": "https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00ebl & Jonas",
-          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
-        }
-      ],
-      "duration_ms": 155187,
-      "name": "I swear to god",
-      "url": "https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH"
-    },
-    {
-      "added_at": "2026-02-27 11:00:00",
-      "album": {
         "name": "Love U Again",
         "url": "https://open.spotify.com/album/5cFXaCUePIMWmBLw0xbN5M"
       },
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2026-02-27 11:00:00",
       "album": {
-        "name": "Small Steps",
-        "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
+        "name": "I swear to god",
+        "url": "https://open.spotify.com/album/6EuH1cHAX0T1JKWX0DtWnY"
       },
       "artists": [
         {
-          "name": "Tom Gregory",
-          "url": "https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu"
+          "name": "Ma\u00ebl & Jonas",
+          "url": "https://open.spotify.com/artist/1JIyU8QP1uefijZtptLeTp"
         }
       ],
-      "duration_ms": 166991,
-      "name": "Small Steps",
-      "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
+      "duration_ms": 155187,
+      "name": "I swear to god",
+      "url": "https://open.spotify.com/track/4BfR1NmB6ut6VFDWkXuBSH"
     }
   ],
   "unique_name": "Feelgood Pop",

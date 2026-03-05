@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 
 > Relaxing choral and instrumental classical music from the Renaissance era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,832 likes - 79 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,868 likes - 79 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CM2xT3aAkN.md) - [plain]
 | 15 | [Sonata "La Follia" Op\. 1 n\. 12 RV 63](https://open.spotify.com/track/31phRRDd6MwLhE88ZXt8hn) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Jordi Savall](https://open.spotify.com/artist/3faEZMpTmZFXpELU1EwWNL), [Hespèrion XXI](https://open.spotify.com/artist/6P09QK8EvzRliYA86yl6nt) | [Altre Follie \(1500\-1750\)](https://open.spotify.com/album/3UAuDhWEmWffV1h6I1okjZ) | 9:48 |
 | 16 | [Regina caeli laetare](https://open.spotify.com/track/7puFe7KqwMeE5gM9tv5VBZ) | [Francisco Guerrero](https://open.spotify.com/artist/08Zj51hTSWpmC9a5WMjqcc), [RIAS Kammerchor](https://open.spotify.com/artist/2UVXU77knJMYOM6Avvw6Yx), [Justin Doyle](https://open.spotify.com/artist/4VPMDJE3CTPpPDAvCtriKE) | [Regina caeli laetare](https://open.spotify.com/album/0Uh7Nxt9sSWeb6vLBREJ3k) | 3:49 |
 | 17 | [O Bone Iesu](https://open.spotify.com/track/27HoHsQWBg6lxnlFip2fwi) | [Giovanni Pierluigi da Palestrina](https://open.spotify.com/artist/0BS8IrFmvK1tXenMULjwem), [Sistine Chapel Choir](https://open.spotify.com/artist/44mVUbyXXXCjiOpbleXk1F), [Massimo Palombella](https://open.spotify.com/artist/5HCYO2b77nY538cmZ4tYLl) | [Palestrina](https://open.spotify.com/album/1c70yzdOtmUlEna6jp9kwf) | 1:36 |
-| 18 | [A Worcester Ladymass: O Maria virgo pia](https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Trio Mediæval](https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC) | [A Worcester Ladymass](https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA) | 1:57 |
+| 18 | [A Worcester Ladymass: O Maria virgo pia](https://open.spotify.com/track/0ScXUttqeQecpcFgfE8wRI) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Trio Mediæval](https://open.spotify.com/artist/4FdQQ2c3CdaOqUhak3CqFC) | [A Worcester Ladymass](https://open.spotify.com/album/7wrMP7g5B16KwC7She64gA) | 1:57 |
 | 19 | [Tallis: Spem in Alium \- 3\. Respice](https://open.spotify.com/track/58NvTRGdi4UpNf8D3k4iDE) | [The Tallis Scholars](https://open.spotify.com/artist/3vENFkiF5PZRluBBtQiwcG), [Peter Phillips](https://open.spotify.com/artist/3Yu1KWrCZ0X79c0BhryYPk) | [Spem in Alium \- The Tallis Scholars Sing Thomas Tallis \(With 3 Bonus Tracks\)](https://open.spotify.com/album/0oP0XZoe62zQPxBNlayPmP) | 0:59 |
 | 20 | [Recercare](https://open.spotify.com/track/1MXE1uNdZ2TLQGwUcSKPR7) | [Francesco Spinacino](https://open.spotify.com/artist/2RFTpR1OggyhKhPAhCs1ih), [Robert Meunier](https://open.spotify.com/artist/7J9NDzCbObDXUGri1irrZD) | [Vergine Bella \- Italian Renaissance Music](https://open.spotify.com/album/4WqFd1iJGzdEzRqYpqgIJv) | 2:09 |
 | 21 | [The Shoemaker's Wife\. A Toy, P 58](https://open.spotify.com/track/2k2Hky9hJbd6E0F1no47sG) | [John Dowland](https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk), [Paul O'Dette](https://open.spotify.com/artist/50x7umX0AIHNXkSwumHPRg) | [My favorite Dowland](https://open.spotify.com/album/5rtYJS08d8srvj4yt02pIh) | 1:06 |

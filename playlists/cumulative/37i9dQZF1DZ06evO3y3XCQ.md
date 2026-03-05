@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Darker Forest](https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:39 | 2022-10-27 | 2026-03-03 |
+| [A Darker Forest](https://open.spotify.com/track/52rlffXbQz0acv4hYV3YDr) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:39 | 2022-10-27 |  |
 | [A Hole In The World](https://open.spotify.com/track/5fNCiYldS7oqIuOuTuKRGM) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:27 | 2022-10-31 | 2025-01-06 |
 | [A Sketch For Time's Arrow](https://open.spotify.com/track/7f1BLzNWamtnJlF7YG52Am) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 1:38 | 2022-10-27 | 2025-10-22 |
 | [A0001](https://open.spotify.com/track/6eTB6rE8DV7uFsK51mY5eO) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 0:36 | 2026-02-05 | 2026-02-17 |
@@ -39,7 +39,7 @@
 | [Last Call](https://open.spotify.com/track/4LKXbWFPS9uTbkziBl3L7g) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:03 | 2022-10-27 |  |
 | [Love Has Led Us Astray](https://open.spotify.com/track/5jA3QscamkgTWvlw44eIo4) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Common Existence \(Deluxe Edition\)](https://open.spotify.com/album/5LHF03QKaoBRZeMcXMrsRj) | 4:39 | 2022-10-27 |  |
 | [Magnets Caught in a Metal Heart](https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:41 | 2022-10-27 |  |
-| [No Answers](https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:52 | 2022-10-27 |  |
+| [No Answers](https://open.spotify.com/track/1bOU4Dk4iw4N2XXP3JRm0P) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 4:52 | 2022-10-27 | 2026-03-05 |
 | [Open Quotes](https://open.spotify.com/track/6WAUbmWiAowlCpmf6AkpRP) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [No Devolución](https://open.spotify.com/album/4PEVf6yDaXTssEolwgf3cT) | 3:01 | 2026-02-06 | 2026-02-07 |
 | [Panic On The Streets Of Health Care City](https://open.spotify.com/track/3bVrg3T1DUbhHYGVdcK78x) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Kill The House Lights](https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP) | 3:14 | 2022-10-27 | 2025-12-17 |
 | [Paris In Flames](https://open.spotify.com/track/1WCTdTsR7PTHtuTXIzg5BZ) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 4:33 | 2022-10-27 |  |

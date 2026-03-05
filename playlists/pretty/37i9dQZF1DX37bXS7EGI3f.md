@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beyond The Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,148 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,181 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 94 | [Fairy of the Bog](https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Fairy of the Bog](https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1) | 4:36 |
 | 95 | [The Wicked Rule The Night](https://open.spotify.com/track/7GuZED83VYeWCoXJPysg7e) | [Avantasia](https://open.spotify.com/artist/1Ih0fEQQsy9EeAJbYEeQRa), [Ralf Scheepers](https://open.spotify.com/artist/0r4DFjrsHb3Qf3L8NBdPGV) | [The Wicked Rule The Night](https://open.spotify.com/album/7jMuIzBQ7Wz3h9uLvUHCJf) | 4:24 |
 | 96 | [The Apostate](https://open.spotify.com/track/1vAb78bGwENFZmf3T79ABo) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Pro Xristou](https://open.spotify.com/album/3oXblizhnWNqlsWJrpagaB) | 5:01 |
-| 97 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
+| 97 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
 | 98 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
-| 99 | [Legends Never Die](https://open.spotify.com/track/6cgJhYBsmqtDLNEdQ7Wg4f) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm) | [Legends Never Die](https://open.spotify.com/album/4LXwDEQoiBqFe7ypPJkhjC) | 3:54 |
+| 99 | [On the Sea](https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [On the Sea](https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR) | 3:53 |
 | 100 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 
 Snapshot ID: `AAAAAO/BxpoIh+k7QtXSmzrhF1CNpRHl`

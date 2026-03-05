@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 97886,
+  "num_followers": 97896,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAf3IYplIwOjkmO9xdRTz6k",
+  "snapshot_id": "aaYkgAAAAAACq7HIL0uWkfA8kFgdkxOA",
   "tracks": [
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
+      "duration_ms": 167758,
+      "name": "Porque para Siempre",
+      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 167758,
-      "name": "Porque para Siempre",
-      "url": "https://open.spotify.com/track/1snvuOpocJJRNXLVAR7QVI"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/67ibn8cmXlzQtOjCprZ08w"
     },
     {
       "added_at": null,
@@ -879,22 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Jes\u00fas",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 406987,
-      "name": "Con Tu sangre",
-      "url": "https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Coraz\u00f3n (En Vivo desde el Auditorio Nacional)",
         "url": "https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 93254,
       "name": "Dios Ha Sido Bueno - En Vivo desde el Auditorio Nacional",
       "url": "https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 406987,
+      "name": "Con Tu sangre",
+      "url": "https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ"
     },
     {
       "added_at": null,

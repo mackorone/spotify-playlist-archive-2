@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de M\u00fasica Mexicana de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 576971,
+  "num_followers": 577147,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-20 08:40:34",
       "album": {
-        "name": "Culpable T\u00fa",
-        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
-      },
-      "artists": [
-        {
-          "name": "Alta Consigna",
-          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
-        }
-      ],
-      "duration_ms": 231760,
-      "name": "Culpable T\u00fa",
-      "url": "https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO"
-    },
-    {
-      "added_at": "2026-02-20 08:40:34",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2026-02-20 08:40:34",
+      "album": {
+        "name": "Culpable T\u00fa",
+        "url": "https://open.spotify.com/album/1fovMxvYso6MyMdxVrATDC"
+      },
+      "artists": [
+        {
+          "name": "Alta Consigna",
+          "url": "https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb"
+        }
+      ],
+      "duration_ms": 231760,
+      "name": "Culpable T\u00fa",
+      "url": "https://open.spotify.com/track/2KGzDt4jfP39i8INV4rpdO"
     },
     {
       "added_at": "2026-02-20 08:40:34",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-02-20 08:40:34",
       "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
-    },
-    {
-      "added_at": "2026-02-20 08:40:34",
-      "album": {
         "name": "TU TU TU",
         "url": "https://open.spotify.com/album/4WkJSoeofaut2WwjCfa6p0"
       },
@@ -1663,22 +1647,18 @@
     {
       "added_at": "2026-02-20 08:40:34",
       "album": {
-        "name": "Felicidades",
-        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 189696,
-      "name": "Felicidades",
-      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": "2026-02-20 08:40:34",
@@ -1695,6 +1675,26 @@
       "duration_ms": 137183,
       "name": "Andamos Mejor",
       "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+    },
+    {
+      "added_at": "2026-02-20 08:40:34",
+      "album": {
+        "name": "Felicidades",
+        "url": "https://open.spotify.com/album/6yZG4ygkTClT7lTi73n9fl"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 189696,
+      "name": "Felicidades",
+      "url": "https://open.spotify.com/track/3RxqFMGljx897MC9yApidW"
     },
     {
       "added_at": "2026-02-20 08:40:34",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-02-20 08:40:34",
       "album": {
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 165200,
+      "name": "De Compas",
+      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
+    },
+    {
+      "added_at": "2026-02-20 08:40:34",
+      "album": {
         "name": "Ctrl + Z (En Vivo)",
         "url": "https://open.spotify.com/album/0evVM9Y8MYKfSJWNGVbaiF"
       },
@@ -1771,22 +1787,6 @@
       "duration_ms": 161480,
       "name": "Ctrl + Z (En Vivo)",
       "url": "https://open.spotify.com/track/3TSIabMcU2C3lx41wPtW5s"
-    },
-    {
-      "added_at": "2026-02-20 08:40:34",
-      "album": {
-        "name": "Palabra De To's",
-        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
-      },
-      "artists": [
-        {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 165200,
-      "name": "De Compas",
-      "url": "https://open.spotify.com/track/3TBZeHcQXNPyXbsqzNgcYm"
     },
     {
       "added_at": "2026-02-20 08:40:34",

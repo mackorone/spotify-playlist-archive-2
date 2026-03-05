@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > The best in current indie rock\. Cover: Phantastic Ferniture
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,148 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,143 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 37 | [Empty Words](https://open.spotify.com/track/1wCeYLO97jxvaSpihs5JpT) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Empty Words](https://open.spotify.com/album/3qA0YD7inXnMoZySJcSK2Y) | 2:49 |
 | 38 | [Peace Song](https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Peace Song](https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm) | 3:10 |
 | 39 | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/track/0o2JLyPbVzGDVGSZ3MhPb7) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [I’ve Never Met Anyone I Thought I Could Really Love \(Until I Met You\)](https://open.spotify.com/album/4cLGjXCAyGx2HEbyICOK0k) | 2:47 |
-| 40 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
+| 40 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
 | 41 | [If Our Love Is Dead](https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [PRATTS & PAIN \(It Ain't Over Til It Ends Edition\)](https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx) | 2:53 |
-| 42 | [I Lied, Amber](https://open.spotify.com/track/3aJShMWzA2RAM7knX50XmG) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [I Lied, Amber](https://open.spotify.com/album/26D33v9Xg1x2UrNQL9gi8p) | 3:31 |
+| 42 | [Mistakes](https://open.spotify.com/track/5UNkHg4vuQuaIzOSi88gwf) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [QUIT QUIETLY](https://open.spotify.com/album/09vb3SEUS4LSx8sh8TKAxg) | 2:49 |
 | 43 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
 | 44 | [Prep\-School Gangsters](https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 3:48 |
 | 45 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 53 | [Outlast](https://open.spotify.com/track/1ctDUAAad7Em6JenrjdMNC) | [Racing Mount Pleasant](https://open.spotify.com/artist/5zaSiNpGxS2lOvZTIZiOQX) | [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv) | 5:01 |
 | 54 | [Beta Fish](https://open.spotify.com/track/0durAcZD9jCazXAGO8co1U) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Surgery and Pleasure](https://open.spotify.com/album/3HQBA8C1q7gUKFkEcPuq9T) | 3:39 |
 | 55 | [Born In Early May](https://open.spotify.com/track/62RtrW0grZ2EUF3FetcbOK) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Together We Are One, You and I](https://open.spotify.com/album/2WOw5ZQrrab9Gxr3ZYxrk3) | 5:12 |
-| 56 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
+| 56 | [willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 |
 | 57 | [Love & Money](https://open.spotify.com/track/3ZYMLd8UWBWqC3VUdWtjMP) | [Luvcat](https://open.spotify.com/artist/2IprcYDAYTYzCl4AJH3AuT) | [Love & Money](https://open.spotify.com/album/0o7tZI8zaOJjOnS5j4UbJ8) | 3:49 |
-| 58 | [willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 |
+| 58 | [Shut You Out](https://open.spotify.com/track/76U8YEyo2El1OejrPzqKEW) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Shut You Out](https://open.spotify.com/album/7DuY9zQbN205TwHbS8DzVE) | 3:54 |
 | 59 | [Year of the Snake](https://open.spotify.com/track/2MEgMkZ0VtzHqjgw427cb5) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Year of the Snake](https://open.spotify.com/album/40kcviBHQOANd1C29Qwp25) | 5:10 |
 | 60 | [EXHAUST THE TOPIC](https://open.spotify.com/track/6mK1tNEFc23r92Aa663GRq) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [SAYA](https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE) | 5:10 |
 | 61 | [Clueless](https://open.spotify.com/track/55Hlg31EQDXQn71p1KIr8r) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Clueless](https://open.spotify.com/album/2H3XOt3oaqB6rAVKhmdUd3) | 3:28 |
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 77 | [Zombieland](https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Zombieland](https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD) | 2:42 |
 | 78 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 79 | [Little Chaos](https://open.spotify.com/track/2UGWhW5YmrEDUDRB3H1fif) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Little Chaos](https://open.spotify.com/album/7xP8WWOKNqBhItpZ2j7OXM) | 2:54 |
-| 80 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 |
+| 80 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
 | 81 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 |
-| 82 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
+| 82 | [this is my california](https://open.spotify.com/track/43cAeXFkMQvARz9NDqXPTf) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this is my california](https://open.spotify.com/album/0IpI61Av7JVRPhXb3RJFdq) | 4:58 |
 | 83 | [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 |
 | 84 | [Backseat Driver](https://open.spotify.com/track/34J3yVYrXQJWNvdJeYXgSe) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Everybody Needs a Hero](https://open.spotify.com/album/00JkCQwC0mjcE55t4R4nqe) | 2:55 |
-| 85 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
-| 86 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 |
-| 87 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 |
+| 85 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/1BRFtDfFuoi9hJWBH5exGb) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/album/7FwHGe6SjBkHNiYjBIhD9q) | 4:05 |
+| 86 | [Tacklebox](https://open.spotify.com/track/6eMWMTmsTwApiQCUeCFGpA) | [Ruby Fields](https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3) | [Tacklebox](https://open.spotify.com/album/1bCK8Bfvp53mLqLixJDiYJ) | 3:12 |
+| 87 | [Through My Teeth](https://open.spotify.com/track/1HPjqA8j8yVb4DoqD7dJpx) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Through My Teeth](https://open.spotify.com/album/4x7Jd8pLbRyJdhuIrlhnBZ) | 3:25 |
 | 88 | [Skullcrusher](https://open.spotify.com/track/1j8JWDMamXR6VCzcGDqHRm) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Skullcrusher](https://open.spotify.com/album/48aMSR076f1DZ74DjJf9zi) | 2:07 |
 | 89 | [Inside Out](https://open.spotify.com/track/5qGF9n1aXKPRGJnbgkXiFn) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Inside Out](https://open.spotify.com/album/2ahECDJ7RaEDeFH8dK19x9) | 2:13 |
 | 90 | [Breakaway](https://open.spotify.com/track/4l4ZcaqSRHe0gq10eIPFzJ) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Breakaway](https://open.spotify.com/album/4OwB45W8PEKoMgWk4vLpzW) | 3:13 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 94 | [Girls Are God’s Machines](https://open.spotify.com/track/3qq1DyClNrvBdaMK4QOXrw) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [Girls Are God’s Machines](https://open.spotify.com/album/4O4KojyFZOemy3xyW1ACB5) | 2:45 |
 | 95 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
 | 96 | [God Of Everything Else](https://open.spotify.com/track/0hRS0vTwEtGQrpOHqIEJBB) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Clouds In The Sky They Will Always Be There For Me](https://open.spotify.com/album/2iXwKeYYKuXjalgAXtx9sd) | 3:24 |
-| 97 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
-| 98 | [Frontrunner](https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 2:52 |
-| 99 | [steamroller](https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [steamroller](https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP) | 3:10 |
+| 97 | [steamroller](https://open.spotify.com/track/5CUEuD86qqiZuwUqhrtdNu) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [steamroller](https://open.spotify.com/album/2VUuUIOLNcmGAiL0hfgHoP) | 3:10 |
+| 98 | [Blood On The Hospital Floor](https://open.spotify.com/track/25F8cFTmgPdTjNDYXJ5XPZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Blood On The Hospital Floor](https://open.spotify.com/album/1Fn4QYdXIwFfTJ7HFDEgw0) | 3:06 |
+| 99 | [Frontrunner](https://open.spotify.com/track/0zWfDeOJvTkHWfLWSsbFqe) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Phonetics On and On](https://open.spotify.com/album/7C51cbjlLSILLTMVnxbrOc) | 2:52 |
 | 100 | [Echoes](https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Echoes](https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt) | 3:41 |
 
 Snapshot ID: `AAAAAHp36ahmluqVdcDmLkumh5Vli/cn`

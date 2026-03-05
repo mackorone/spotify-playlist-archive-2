@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Celebrating all the songs with more than a billion streams on Spotify. Cover: Bad Bunny",
+  "description": "Celebrating all the songs with more than a billion streams on Spotify. Cover: Benson Boone",
   "name": "BILLIONS CLUB",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 211066,
       "name": "...Baby One More Time",
       "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
+    },
+    {
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208186,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
     },
     {
       "album": {
@@ -140,6 +158,28 @@
       "duration_ms": 123986,
       "name": "2055",
       "url": "https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo"
+    },
+    {
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
     },
     {
       "album": {
@@ -2876,6 +2916,28 @@
       "duration_ms": 193400,
       "name": "Call Me Maybe",
       "url": "https://open.spotify.com/track/3TGRqZ0a2l1LRblBkJoaDx"
+    },
+    {
+      "album": {
+        "name": "One of One",
+        "url": "https://open.spotify.com/album/2N4iwSbYJckBM8IneH2tY6"
+      },
+      "artists": [
+        {
+          "name": "Starley",
+          "url": "https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV"
+        },
+        {
+          "name": "Ryan Riback",
+          "url": "https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Call on Me - Ryan Riback Remix",
+      "url": "https://open.spotify.com/track/0BZ5YlY2xnwfUmyGdiOMje"
     },
     {
       "album": {
@@ -5618,6 +5680,24 @@
       "duration_ms": 276920,
       "name": "Empire State Of Mind",
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO"
+    },
+    {
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352186,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0"
     },
     {
       "album": {
@@ -10823,6 +10903,28 @@
     },
     {
       "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/7L2vCH0rBeI5pKefCgWcV9"
       },
@@ -11282,6 +11384,24 @@
       "duration_ms": 195428,
       "name": "Lemonade (feat. NAV)",
       "url": "https://open.spotify.com/track/1p0rEzrK7YtdRZVtiyV7RN"
+    },
+    {
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/01MRGgNbfWrE291tQjw9ta"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
     },
     {
       "album": {
@@ -14457,6 +14577,28 @@
     },
     {
       "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268320,
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/59dLtGBS26x7kc0rHbaPrq"
+    },
+    {
+      "album": {
         "name": "Late Night Feelings",
         "url": "https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA"
       },
@@ -16539,6 +16681,28 @@
     },
     {
       "album": {
+        "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+        "url": "https://open.spotify.com/album/2vBLKFrI1rZqB7VtGxcsR5"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204640,
+      "name": "Right Round",
+      "url": "https://open.spotify.com/track/3GpbwCm3YxiWDvy29Uo3vP"
+    },
+    {
+      "album": {
         "name": "Dream Your Life Away (Special Edition)",
         "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
@@ -17160,6 +17324,24 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
+    },
+    {
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "Say It Right",
+      "url": "https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t"
     },
     {
       "album": {
@@ -18150,6 +18332,24 @@
       "duration_ms": 188174,
       "name": "Slow Hands",
       "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Slow It Down",
+      "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
     },
     {
       "album": {

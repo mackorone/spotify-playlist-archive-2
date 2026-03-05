@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2118437,
+  "num_followers": 2118446,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "Does This Go Faster?",
-        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "Does This Go Faster?",
-      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
-    },
-    {
-      "added_at": "2026-02-06 05:12:29",
-      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "added_at": "2026-02-06 05:12:29",
+      "album": {
+        "name": "Does This Go Faster?",
+        "url": "https://open.spotify.com/album/3guYncfNvLNSUqNOZMXOur"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "Does This Go Faster?",
+      "url": "https://open.spotify.com/track/7jVPR3wXtkVsv4JyWHzywb"
     },
     {
       "added_at": "2026-02-06 05:12:29",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "Sweet Unknown",
-      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
-    },
-    {
-      "added_at": "2026-02-06 05:12:29",
-      "album": {
         "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
+        "name": "Brighter Day",
+        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+      },
+      "artists": [
+        {
+          "name": "Michael Franti & Spearhead",
+          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Brighter Day",
+      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+    },
+    {
+      "added_at": "2026-02-06 05:12:29",
+      "album": {
         "name": "Heartless",
         "url": "https://open.spotify.com/album/4yJlgo1yOViRYT0lMTIbxm"
       },
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "Brighter Day",
-        "url": "https://open.spotify.com/album/3WHIuZn32kLNVwQ1wIckKT"
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
       },
       "artists": [
         {
-          "name": "Michael Franti & Spearhead",
-          "url": "https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB"
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Brighter Day",
-      "url": "https://open.spotify.com/track/1mS9SLlDMbUSjBHuJroaw9"
+      "duration_ms": 238933,
+      "name": "Sweet Unknown",
+      "url": "https://open.spotify.com/track/6ypf8ClLV8sPrJPp2WwFoh"
     },
     {
       "added_at": "2026-02-06 05:12:29",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        },
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Go In Light",
-      "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
-    },
-    {
-      "added_at": "2026-02-06 05:12:29",
-      "album": {
         "name": "Adeline",
         "url": "https://open.spotify.com/album/5vhWPJmfv17WuWHpmMtbUb"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 229000,
       "name": "Adeline (feat. Kathleen)",
       "url": "https://open.spotify.com/track/4upefrum9ayh1aAgo52f4k"
+    },
+    {
+      "added_at": "2026-02-06 05:12:29",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        },
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Go In Light",
+      "url": "https://open.spotify.com/track/1mUZTXHmvSUR7Hv3g5NXYq"
     },
     {
       "added_at": "2026-02-06 05:12:29",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "Yours in the Morning",
-        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 214919,
-      "name": "Yours in the Morning",
-      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
-    },
-    {
-      "added_at": "2026-02-06 05:12:29",
-      "album": {
         "name": "Did I Make You Up?",
         "url": "https://open.spotify.com/album/5BFctZsAHYCWm2QOF3GRHc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 149773,
       "name": "Did I Make You Up?",
       "url": "https://open.spotify.com/track/4RE7fFJNIZiO9ngs883gFG"
+    },
+    {
+      "added_at": "2026-02-06 05:12:29",
+      "album": {
+        "name": "Yours in the Morning",
+        "url": "https://open.spotify.com/album/02xpqau9cUbcYGk6chdNO5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 214919,
+      "name": "Yours in the Morning",
+      "url": "https://open.spotify.com/track/602rw0d0jQLoSCAfqdeY7Z"
     },
     {
       "added_at": "2026-02-06 05:12:29",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2026-02-06 05:12:29",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2026-02-06 05:12:29",
-      "album": {
         "name": "In Bloom",
         "url": "https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 193000,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve"
+    },
+    {
+      "added_at": "2026-02-06 05:12:29",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2026-02-06 05:12:29",

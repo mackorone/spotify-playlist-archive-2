@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > All new Worship songs on the rise! Cover: Chandler Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,289 likes - 99 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,311 likes - 99 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 22 | [Father's Hands](https://open.spotify.com/track/0hyhFuDRsuJMceVanQLqtD) | [Gateway ALL IN](https://open.spotify.com/artist/4UBVmZZCusAPfH11kGImxO), [Sabrina Osborn](https://open.spotify.com/artist/0kUM5Yu2FyNLGlXJiyC1B8) | [Father's Hands \(Live\)](https://open.spotify.com/album/5OzE4Eo55ZI6LhcfIBGKBf) | 7:42 |
 | 23 | [Oh You Bring](https://open.spotify.com/track/5IMoWQsNHcX70rtAUimNU9) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Oh You Bring](https://open.spotify.com/album/2i8NNT7kXq1IgnZXOXIBsl) | 4:04 |
 | 24 | [Forever and a Lifetime \- Acoustic](https://open.spotify.com/track/5cq9HcmbMG0uxxFwN2q75F) | [Pure Mosaic Collective](https://open.spotify.com/artist/3rS6Cfw5eepDVLsJTkUUXZ), [Madison Street Worship](https://open.spotify.com/artist/5nLMpemYPN9MZMgpEqiv53) | [Forever and a Lifetime \(Acoustic\)](https://open.spotify.com/album/3mZGj3RbfTENtjIRsQpjxQ) | 5:08 |
-| 25 | [YOUR WAY'S BETTER](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [YOUR WAY'S BETTER](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 |
+| 25 | [Your Way's Better](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [Your Way's Better](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 |
 | 26 | [Help My Unbelief](https://open.spotify.com/track/4aHALbYCCyv0tqs5d9WWdy) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:29 |
 | 27 | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq) | 5:47 |
 | 28 | [Hosanna](https://open.spotify.com/track/7LcufkZ8en3eUP7NbkMrqk) | [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Hosanna](https://open.spotify.com/album/2HmNNkm5dX8awwSlfZGgZN) | 7:56 |

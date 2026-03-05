@@ -17819,6 +17819,32 @@
     },
     {
       "album": {
+        "name": "Rockin The Drums",
+        "url": "https://open.spotify.com/album/0xAROySekkV0IaXtg1LiUQ"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "MC Hughie Babe",
+          "url": "https://open.spotify.com/artist/7nX9rrmXIm4MtQNgt3moE3"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133181,
+      "name": "Rockin The Drums",
+      "url": "https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB"
+    },
+    {
+      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Elaine Martins. The essential tracks, all in one playlist.",
-  "num_followers": 15719,
+  "num_followers": 15721,
   "original_name": "This Is Elaine Martins",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAqzQHEQQiJ3TnlJ49dqlLK",
+  "snapshot_id": "aaYkgAAAAAAIPH18bA6M07F2njMSl19t",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 269360,
+      "name": "Sobrevivi (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 164165,
       "name": "Crian\u00e7a Nota 10",
       "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 269360,
-      "name": "Sobrevivi (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Elaine Martins (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 313946,
+      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Teu Querer",
         "url": "https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 297679,
       "name": "Vasos Quebrados",
       "url": "https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elaine Martins (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 313946,
-      "name": "Ningu\u00e9m Explica Deus (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0ncjOJnEhVGr4oJaTzEDsY"
     },
     {
       "added_at": null,
@@ -719,38 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e1gina em Branco (Ao Vivo)",
-        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 309243,
-      "name": "P\u00e1gina em Branco (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reaja",
-        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Reaja",
-      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Nuvem (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jstVTarzo7eH8hpLShPIe"
       },
@@ -763,6 +731,22 @@
       "duration_ms": 249426,
       "name": "A Nuvem (Ao Vivo)",
       "url": "https://open.spotify.com/track/1OLbdsQGY4jU8WiGvqXFWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e1gina em Branco (Ao Vivo)",
+        "url": "https://open.spotify.com/album/075EOV324SMWzffd3uO7QX"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 309243,
+      "name": "P\u00e1gina em Branco (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0Gyk2A7L0fVsmoCzWnsFI8"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reaja",
+        "url": "https://open.spotify.com/album/17r33aBrTu1nRgMKdnWWrB"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Reaja",
+      "url": "https://open.spotify.com/track/7DpeczFLm2elOLEw6Q2jLe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hist\u00f3ria Linda de Viver (Ao Vivo)",
         "url": "https://open.spotify.com/album/3VboLnoznp1VpoVaHV2HZt"
       },
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
+        "name": "Rompendo",
+        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 257416,
-      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
+      "duration_ms": 247756,
+      "name": "O Melhor da Festa",
+      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompendo",
-        "url": "https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L"
+        "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Rb7OhdbUkLCe77OP7NGpS"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
         }
       ],
-      "duration_ms": 247756,
-      "name": "O Melhor da Festa",
-      "url": "https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4"
+      "duration_ms": 257416,
+      "name": "Oceano de L\u00e1grimas (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1WiYrYNgvI7Bqc7LY2r40h"
     },
     {
       "added_at": null,
@@ -915,18 +915,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ora Um Pouco Mais",
-        "url": "https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702"
+        "name": "Filho Volta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
       },
       "artists": [
         {
           "name": "Elaine Martins",
           "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
         }
       ],
-      "duration_ms": 278517,
-      "name": "Ora Um Pouco Mais",
-      "url": "https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY"
+      "duration_ms": 260062,
+      "name": "Filho Volta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
     }
   ],
   "unique_name": "This Is Elaine Martins",

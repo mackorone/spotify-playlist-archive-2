@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 567,921 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,956 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 40 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 41 | [De Pies a Cabeza](https://open.spotify.com/track/7iBioaqKNozrqB88QQVoBD) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Pies a Cabeza](https://open.spotify.com/album/4eXjEM5eGaxmoRBOYti17F) | 3:18 |
 | 42 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
-| 43 | [Todos en la Cuadra Bien Locos \(feat\. C\-kan, Gera MX, Santa Fe Klan & Neto Peña\)](https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 5:49 |
-| 44 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 |
+| 43 | [Está Caliente](https://open.spotify.com/track/40q3AqR9WiKOTlA79Iyv9h) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:47 |
+| 44 | [Todos en la Cuadra Bien Locos \(feat\. C\-kan, Gera MX, Santa Fe Klan & Neto Peña\)](https://open.spotify.com/track/0w1C8mth2DlHIdwMAIxtrl) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 5:49 |
 | 45 | [No Te Metas](https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [No Te Metas](https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS) | 3:39 |
 | 46 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
 | 47 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [Si Preguntan por Mí](https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Si Preguntan por Mí](https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY) | 3:48 |
 | 50 | [Infiel](https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Infiel](https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS) | 3:42 |
 
-Snapshot ID: `aaTTAAAAAACvuSk5d/i89nRsLh+uhRDs`
+Snapshot ID: `aaYkgAAAAAC1K4FXum6LddzPE14B9mAR`

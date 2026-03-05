@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 691,373 likes - 45 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 691,416 likes - 45 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 31 | [Wanna Be \(with Megan Thee Stallion & Cardi B\) \- Remix](https://open.spotify.com/track/0LMNckdqhd2eQr5xV5NGRi) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wanna Be \(Remix Alternate Versions\)](https://open.spotify.com/album/2YhNUDVeFFJshlJDkppXY6) | 3:44 |
 | 32 | [I Do \(feat\. SZA\)](https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:20 |
 | 33 | [ErrTime](https://open.spotify.com/track/2cBtsB7Pi89q9yWk59a2sX) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:26 |
-| 34 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
-| 35 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
+| 34 | [Rodeo](https://open.spotify.com/track/4ak7xjvBeBOcJGWFDX9w5n) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:38 |
+| 35 | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 3:29 |
 | 36 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 |
 | 37 | [Press](https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Press](https://open.spotify.com/album/4OYI54WJJQRkCG4FVmIuTZ) | 2:23 |
 | 38 | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/track/0PpfPNtQOOvbMNVJijTQj0) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Backin' It Up \(feat\. Cardi B\)](https://open.spotify.com/album/4g9y8J8mzpl6rxnOjhKrwH) | 3:10 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 44 | [Thotiana \(Remix\)](https://open.spotify.com/track/6JhP3KShSV3PlniSWYHYAl) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Famous Cryp \(Reloaded\)](https://open.spotify.com/album/1bLGOKqe1vcQtUv6q5Mz0h) | 4:57 |
 | 45 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 |
 
-Snapshot ID: `aaTTAAAAAACDbI4TKNuRgZ4GOSZlAdgw`
+Snapshot ID: `aaYkgAAAAABwA3O0IVp5vRoQqdprDmkN`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,684 likes - 103 songs - 4 hr 49 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,680 likes - 103 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

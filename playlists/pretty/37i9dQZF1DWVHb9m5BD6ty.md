@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHb9m5BD6ty.md) - [plain]
 
 > The newest from UK & Ireland driving the current\. Cover: Olivia Dean
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,521 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,527 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

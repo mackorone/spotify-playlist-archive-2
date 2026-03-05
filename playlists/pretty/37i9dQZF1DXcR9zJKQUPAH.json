@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 161208,
+  "num_followers": 161215,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "For Crying Out Loud (Deluxe)",
-        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
-      },
-      "artists": [
-        {
-          "name": "Kasabian",
-          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
-        }
-      ],
-      "duration_ms": 215737,
-      "name": "You're in Love with a Psycho",
-      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 233280,
       "name": "I Dare You",
       "url": "https://open.spotify.com/track/3pAw0BXL8acShtjUwLosw8"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "For Crying Out Loud (Deluxe)",
+        "url": "https://open.spotify.com/album/0ymsF6XO1mZM1VKqI680jU"
+      },
+      "artists": [
+        {
+          "name": "Kasabian",
+          "url": "https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue"
+        }
+      ],
+      "duration_ms": 215737,
+      "name": "You're in Love with a Psycho",
+      "url": "https://open.spotify.com/track/0AJhcuRl3i1FfPNr88ZScv"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Cooks",
-        "url": "https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 174105,
-      "name": "Cooks",
-      "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 224133,
       "name": "On Hold",
       "url": "https://open.spotify.com/track/5w3CRkbTWXfbYepIdFpGUN"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Cooks",
+        "url": "https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 174105,
+      "name": "Cooks",
+      "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lighting Matches (Deluxe)",
-        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 190986,
-      "name": "Found What I've Been Looking For",
-      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 237920,
       "name": "Idle Town",
       "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Lighting Matches (Deluxe)",
+        "url": "https://open.spotify.com/album/3NBXFA91U38BuJt3SlMwlI"
+      },
+      "artists": [
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
+        }
+      ],
+      "duration_ms": 190986,
+      "name": "Found What I've Been Looking For",
+      "url": "https://open.spotify.com/track/4Gw1SXoN1MlAmdM3J1NjmR"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Everything Now",
-        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 353240,
-      "name": "Put Your Money on Me",
-      "url": "https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Fangs",
         "url": "https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 234285,
       "name": "Fangs",
       "url": "https://open.spotify.com/track/6T7xC3rDjOCkMkvcFVdu6Z"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Everything Now",
+        "url": "https://open.spotify.com/album/1DNojVW079FU9YnAMk3Cgr"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 353240,
+      "name": "Put Your Money on Me",
+      "url": "https://open.spotify.com/track/0SaEmR2rdtfsZawPjMYkWg"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Blood Type",
-        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Cold War",
-      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Blood Type",
+        "url": "https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "raingurl",
-        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 237231,
-      "name": "raingurl",
-      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1"
       },
@@ -1435,66 +1419,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "raingurl",
+        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 262231,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+      "duration_ms": 237231,
+      "name": "raingurl",
+      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1515,18 +1451,50 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "You Say I'm in Love",
-        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
       "artists": [
         {
-          "name": "Banes World",
-          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 176760,
-      "name": "You Say I'm in Love",
-      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/6pxElwU80zhjbCC77Vn8EI"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/51pSyGziPFv8ajzF7ilUAr"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 262231,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/47Bg6IrMed1GPbxRgwH2aC"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1543,6 +1511,38 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "You Say I'm in Love",
+        "url": "https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN"
+      },
+      "artists": [
+        {
+          "name": "Banes World",
+          "url": "https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG"
+        }
+      ],
+      "duration_ms": 176760,
+      "name": "You Say I'm in Love",
+      "url": "https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT"
     },
     {
       "added_at": "2024-03-18 13:08:31",

@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65652,
+  "num_followers": 65656,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAQ1pCkDHgnix2zD8/Z2trK",
+  "snapshot_id": "aaYkgAAAAADq054hYaEesVFwCV/22Qw7",
   "tracks": [
     {
       "added_at": null,
@@ -627,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay (With Me).",
-        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
+        "name": "Don't You Love Me? - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 303355,
-      "name": "Stay (With Me).",
-      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
+      "duration_ms": 267110,
+      "name": "Don't You Love Me? - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
     },
     {
       "added_at": null,
@@ -663,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Love Me? - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/1WPY8kRB01objem7KdBwya"
+        "name": "Stay (With Me).",
+        "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
       "artists": [
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 267110,
-      "name": "Don't You Love Me? - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/03WTbSK3hT3RthWeaie1aV"
+      "duration_ms": 303355,
+      "name": "Stay (With Me).",
+      "url": "https://open.spotify.com/track/1lYF2cFAjKU8DG6FfGU4CE"
     },
     {
       "added_at": null,

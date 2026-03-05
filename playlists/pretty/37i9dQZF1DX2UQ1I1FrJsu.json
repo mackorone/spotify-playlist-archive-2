@@ -1,6 +1,6 @@
 {
   "description": "smooth, crisp, not too tannic. ",
-  "num_followers": 145059,
+  "num_followers": 145115,
   "original_name": "Wine Bar",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-02-27 05:00:51",
       "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 229853,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+    },
+    {
+      "added_at": "2026-02-27 05:00:51",
+      "album": {
         "name": "Let My People Go",
         "url": "https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2026-02-27 05:00:51",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
         }
       ],
-      "duration_ms": 229853,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/6QlSPjiXHc1XwGKeEls6Gh"
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-02-27 05:00:51",
@@ -1459,22 +1475,6 @@
       "duration_ms": 176599,
       "name": "Basta Ya",
       "url": "https://open.spotify.com/track/4CUTUsBGjHslu2Bd3AOXGg"
-    },
-    {
-      "added_at": "2026-02-27 05:00:51",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-02-27 05:00:51",

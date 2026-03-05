@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Fern.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,667 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,713 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Biglaan](https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Biglaan](https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O) | 3:48 |
 | 100 | [Masunog Man](https://open.spotify.com/track/1DlJsnh0xE51pkSAWXz4W3) | [Maymay Entrata](https://open.spotify.com/artist/4JliYPIw09GespZAmZv6rI) | [Masunog Man](https://open.spotify.com/album/3KQHSKJK0Kgtq7NdJq3blO) | 3:27 |
 
-Snapshot ID: `AAAAAEsKJ9Fpm4350OOQY7lOMorQQ6Uh`
+Snapshot ID: `AAAAAH0Et7SHCf+DEIu1NMjYR40PcO+m`

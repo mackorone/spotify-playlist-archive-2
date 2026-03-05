@@ -8540,7 +8540,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 185506,
       "name": "Ditto",
       "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
@@ -9018,7 +9018,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Don\u2019t Twice",
       "url": "https://open.spotify.com/track/0ZxYCSdLYFDrGS2o6rxN39"
@@ -15475,6 +15475,24 @@
     },
     {
       "album": {
+        "name": "THE CORE - \u6838",
+        "url": "https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170625,
+      "name": "HYPNOTIZE",
+      "url": "https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo"
+    },
+    {
+      "album": {
         "name": "OneRepublic (Japan Paradise Tour Edition)",
         "url": "https://open.spotify.com/album/33inEak0hNKMDePhjGxE61"
       },
@@ -17760,6 +17778,36 @@
       "duration_ms": 204852,
       "name": "Karma",
       "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "album": {
+        "name": "KC3",
+        "url": "https://open.spotify.com/album/2m8rq4ip4MPBvceEHdgH5G"
+      },
+      "artists": [
+        {
+          "name": "KC",
+          "url": "https://open.spotify.com/artist/0hQTMC0zU4pFW0Lc7ExB6f"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "NOWIMYOUNG",
+          "url": "https://open.spotify.com/artist/66LxteaHD7NvxCnkQoyw2G"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169042,
+      "name": "KARMA COLLECTOR",
+      "url": "https://open.spotify.com/track/5p8i6Pp37EBIqceXmfnrxa"
     },
     {
       "album": {
@@ -22234,7 +22282,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 89985,
       "name": "MONTAGEM HIKARI",
       "url": "https://open.spotify.com/track/0XqgE9UN4MCo5ooIwUYm7l"
@@ -38814,7 +38862,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 135955,
       "name": "\uc544\ud06c\ub77c\ud3ec\ube45 (Akrapovic)",
       "url": "https://open.spotify.com/track/3YVcnTV3v6DEFJeAnxGTBj"

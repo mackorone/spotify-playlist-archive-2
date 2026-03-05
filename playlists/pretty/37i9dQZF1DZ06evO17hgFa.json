@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 148421,
+  "num_followers": 148429,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAfyONs2d8DcGCjixzQPTjT",
+  "snapshot_id": "aaYkgAAAAABRp3m6BEXUqoFw7o3zfnHF",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lady Sings",
-        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Good Morning Heartache",
-      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+        "name": "The Lady Sings",
+        "url": "https://open.spotify.com/album/12Ie61TJvvha9qm27suytg"
       },
       "artists": [
         {
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
         }
       ],
-      "duration_ms": 378400,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
+      "duration_ms": 188160,
+      "name": "Good Morning Heartache",
+      "url": "https://open.spotify.com/track/5jGqJTsejbAy7QdhAH2Qwp"
     },
     {
       "added_at": null,
@@ -495,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 378400,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady Sings The Blues",
         "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
       },
@@ -527,6 +527,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Distingu\u00e9 Lovers",
-        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 333200,
-      "name": "Just One Of Those Things - Take 8 - Master Take",
-      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
-        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Teddy Wilson",
-          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1",
-      "url": "https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia - Vol. 2",
         "url": "https://open.spotify.com/album/61OLLuUN2R0ZO24IrS3W2T"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 180066,
       "name": "The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2",
       "url": "https://open.spotify.com/track/7Ma4ykGEYiOofyWiR6tfEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
+        "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Teddy Wilson",
+          "url": "https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1",
+      "url": "https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF"
     },
     {
       "added_at": null,

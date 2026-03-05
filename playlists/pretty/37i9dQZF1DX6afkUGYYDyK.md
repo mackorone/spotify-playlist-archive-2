@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,997 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,022 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 47 | [Give Thanks \- Live](https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [The Bloody Win \(Live\)](https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk) | 6:32 |
 | 48 | [Thankful](https://open.spotify.com/track/2FwCB8L7sokQegvJC7VC0j) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Thankful](https://open.spotify.com/album/6wzBCFYgHmhrVgjgfWJ6LC) | 11:50 |
 | 49 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
-| 50 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
-| 51 | [Thank You \(feat\. MARTY\)](https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Thank You \(feat\. MARTY\)](https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T) | 3:22 |
+| 50 | [Thank You \(feat\. MARTY\)](https://open.spotify.com/track/0RQ6OOrbl8qGN5kK12GUfi) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW), [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK) | [Thank You \(feat\. MARTY\)](https://open.spotify.com/album/5LkMAO9tqPO5tgVWuSA11T) | 3:22 |
+| 51 | [Oh Give Thanks \- Live](https://open.spotify.com/track/7cEjdAwmvaoqQExOvMujq7) | [Vincent Bohanan & SOV](https://open.spotify.com/artist/6dT6h1tNvW5ZA4lyMdXfTk) | [Live in Chicago](https://open.spotify.com/album/6a4q65e7oxn0FAMI8iWOSZ) | 5:29 |
 | 52 | [Thank You \- Live](https://open.spotify.com/track/5pctb5fQMqfncJqRRAMsRh) | [Mercy Culture Worship](https://open.spotify.com/artist/7qbjOkkH57gPl41xfR8RuI) | [Thank You \(Live\)](https://open.spotify.com/album/15wpZmn1wOJmDyS3dymey4) | 10:47 |
 | 53 | [Be Thankful](https://open.spotify.com/track/4UqpMOSIlRbizfXeDa2KSB) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Thankful](https://open.spotify.com/album/5KUru32rxqL7jGIKyi0HXp) | 3:52 |
 | 54 | [Satisfied](https://open.spotify.com/track/2WobN5LbCC0ekXYoJkSQmM) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Satisfied](https://open.spotify.com/album/5ZdSBocJrPHJxtTDGaM8ax) | 3:17 |

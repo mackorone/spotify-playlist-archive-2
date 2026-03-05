@@ -2,9 +2,9 @@
 
 ### [BIASBOYS](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your bias K\-Pop boy group? \(Cover: NCT JNJM\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your bias K\-Pop boy group? \(Cover: WOODZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-825 songs - 1 day 20 hr 46 min
+827 songs - 1 day 20 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-12-08 | 2024-09-13 |
 | [How Can I Do](https://open.spotify.com/track/2e9IAFsDNri6u0t4Sf9iZ2) | [EVNNE](https://open.spotify.com/artist/6SYJFHPxXkr4SZJR8aLEml) | [LOVE ANECDOTE\(S\)](https://open.spotify.com/album/0hffupnkBt5Q4tP7kf2713) | 3:02 | 2025-08-05 | 2025-08-12 |
 | [Hug](https://open.spotify.com/track/1Yy0eOzubrYK75bXH3rFbF) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Hug](https://open.spotify.com/album/7lov2nZxGiyLarQgDSnCv2) | 3:54 | 2025-01-08 | 2025-04-04 |
+| [Human Extinction](https://open.spotify.com/track/6lsMGAukr1a1MpRObHuzWr) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [Archive\. 1](https://open.spotify.com/album/4b2SRu119PeGbPd4LEC0fs) | 3:26 | 2026-03-04 |  |
 | [Humph!](https://open.spotify.com/track/0m3W71Oliiv3gQWXi2YAmJ) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [SUM\(ME:R\)](https://open.spotify.com/album/4hlhRlDPvdfc7hQoD8gxZ1) | 3:12 | 2022-02-15 | 2022-07-23 |
 | [HUNTER](https://open.spotify.com/track/4UEzFP2sv1QEcuC2lMiym8) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [HUNTER \- The 3rd Album](https://open.spotify.com/album/6fPWZQDk1qrrfK0y3Pls6i) | 2:43 | 2025-08-12 | 2025-08-27 |
 | [HWEEK](https://open.spotify.com/track/7muY2OFMX8iuDqk1wP10kn) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [4SHO](https://open.spotify.com/album/0RPXqJPuiBeXYkjpqDd7YU) | 3:18 | 2023-07-04 | 2023-07-21 |
@@ -517,7 +518,7 @@
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-17 |
 | [Next to Me](https://open.spotify.com/track/35pgNknwrEIUQByD7ZcGQH) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [The Beginning : 飛上](https://open.spotify.com/album/5jiLdsyFP8bDMu2LcSL8e4) | 3:20 | 2023-05-18 | 2023-05-23 |
 | [Nice Guy](https://open.spotify.com/track/6pqyZNnLKyJKtrlf42FQoq) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [19.99](https://open.spotify.com/album/4AvNQasUXJ4uHHmtypy6BF) | 2:44 | 2024-09-12 | 2025-07-16 |
-| [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-09 |  |
+| [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/track/1mX9SZZfCeTbetghcrp8Jr) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Nice to see you again \(Korean Ver.\)](https://open.spotify.com/album/5f9A7BAiotThsnwicDQWzf) | 2:26 | 2026-02-09 | 2026-03-05 |
 | [No Air](https://open.spotify.com/track/0mve4vxmwumqI6gnw7euma) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd MINI ALBUM \[THE ONLY\]](https://open.spotify.com/album/0OQZQq2066KZgauv3M24CK) | 4:04 | 2021-12-08 | 2022-07-24 |
 | [No Doubt](https://open.spotify.com/track/44hqFxUWsADWewEJELnncj) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\-](https://open.spotify.com/album/380UbSJnNQ9SioALGRB0Cf) | 2:47 | 2024-11-11 |  |
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2022-03-22 | 2022-06-15 |
@@ -538,6 +539,7 @@
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS) | 4:06 | 2022-04-15 | 2022-04-17 |
 | [On And On](https://open.spotify.com/track/2xeVbsz4Ab2cFX9TgOoZA0) | [AMPERS&ONE](https://open.spotify.com/artist/4T0Chh3DGxJrEs3gM0biqg) | [AMPERSAND ONE](https://open.spotify.com/album/1DgPFXEedQx7BmeLpVLcyx) | 3:11 | 2023-11-15 | 2023-12-07 |
 | [One day](https://open.spotify.com/track/4y0CM8FtV1GjKgDciWyldN) | [BAE173](https://open.spotify.com/artist/60315n11JElel8KhdHg8jM) | [NEW CHAPTER : DESEAR](https://open.spotify.com/album/0mfYIP5Ppy5mdfMi6CZDqP) | 3:09 | 2025-10-13 | 2025-10-22 |
+| [One Man Army](https://open.spotify.com/track/1aDAGBfqF7akmLAqAVrTeY) | [Big Ocean](https://open.spotify.com/artist/0ly1nCJ50by9Vc0UxPHvwY) | [THE GREATEST BATTLE](https://open.spotify.com/album/3i7eiszamKu66caVqosS0j) | 2:53 | 2026-03-04 |  |
 | [ONE&ONLY](https://open.spotify.com/track/6mSThPrnX93XDEKiM8vAlb) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [ONE&ONLY](https://open.spotify.com/album/4RYmZ3shUlylRyXu3YS7PX) | 4:11 | 2022-03-22 | 2022-04-15 |
 | [ONLY FUN](https://open.spotify.com/track/4R1jgnxwFfRykfmTtUn2SX) | [XODIAC](https://open.spotify.com/artist/1Yhs3H3tkZhk4mSQgzECWb) | [ONLY FUN](https://open.spotify.com/album/421dpUKWOk5hBbv4mn2Z6w) | 2:58 | 2023-10-30 | 2023-11-03 |
 | [ONLY ONE](https://open.spotify.com/track/2h5pUNnd98Lhr2OAaJE8u7) | [JBJ95](https://open.spotify.com/artist/7G6wtLzZON7qJQ2Cw2kxVp) | [ONLY ONE](https://open.spotify.com/album/5DeS90uKqOWhS3ysZ00V14) | 3:31 | 2022-03-22 | 2022-07-18 |
@@ -609,7 +611,7 @@
 | [ROCK THE NATION](https://open.spotify.com/track/5eUqyBKFdnSDjaljStvIbC) | [WHIB](https://open.spotify.com/artist/4pTBL6fTowmWTa61ef7RNb) | [ROCK THE NATION](https://open.spotify.com/album/2TjwZqt5ndVe6sQTNrS6bF) | 2:34 | 2026-02-01 | 2026-02-10 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-08 |  |
 | [Rooftop](https://open.spotify.com/track/2LwH6T39A5IODRgPv9XitR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [FLY HIGH PROJECT \#2 'Rooftop'](https://open.spotify.com/album/6UGXwkMNagPJ3jhSMTv4V5) | 3:30 | 2023-04-30 | 2023-05-10 |
-| [ROOMBADOOMBA](https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [FIRST:DELIVERY](https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6) | 2:28 | 2026-02-23 |  |
+| [ROOMBADOOMBA](https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [FIRST:DELIVERY](https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6) | 2:28 | 2026-02-23 | 2026-03-05 |
 | [ROSES](https://open.spotify.com/track/6u0b2IZ23RxH18ZsvGRbme) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [ROSES](https://open.spotify.com/album/3bIZ5FREocfX2tLIUnnOdr) | 2:21 | 2026-01-23 | 2026-02-05 |
 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 | 2023-03-15 | 2026-02-12 |
 | [RPM](https://open.spotify.com/track/7b8ZfUQRsc5ebULhUgCyck) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [RPM](https://open.spotify.com/album/3QljHmM1wr3KJ4fLEWFOHx) | 3:21 | 2022-03-22 | 2022-04-08 |

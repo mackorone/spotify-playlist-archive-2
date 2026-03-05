@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Andr\u00e9s Su\u00e1rez.",
-  "num_followers": 348650,
+  "num_followers": 348662,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "50 Palos",
-        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 185743,
-      "name": "Humo",
-      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
         "name": "Qu\u00e9 bonito",
         "url": "https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 230000,
       "name": "Qu\u00e9 bonito",
       "url": "https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "50 Palos",
+        "url": "https://open.spotify.com/album/0U70gjCcYSvuBtgRbHAXnB"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 185743,
+      "name": "Humo",
+      "url": "https://open.spotify.com/track/64b4H2swBOouj8J0AZ4buE"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "Moreno",
-        "url": "https://open.spotify.com/album/4hk5ODgRTAVk9jv4Mo6n8N"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "Moreno",
-      "url": "https://open.spotify.com/track/0fjLfvd70UrT4Gbx5krquK"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
         "name": "Deseos de cosas imposibles",
         "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 214881,
       "name": "Deseos de cosas imposibles",
       "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "Moreno",
+        "url": "https://open.spotify.com/album/4hk5ODgRTAVk9jv4Mo6n8N"
+      },
+      "artists": [
+        {
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        }
+      ],
+      "duration_ms": 179090,
+      "name": "Moreno",
+      "url": "https://open.spotify.com/track/0fjLfvd70UrT4Gbx5krquK"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1223,30 +1223,6 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "Amigos M\u00edos",
-        "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Ariel Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
-        },
-        {
-          "name": "Hector Zeoli",
-          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
-        }
-      ],
-      "duration_ms": 278920,
-      "name": "Alfonsina Y El Mar",
-      "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1279,6 +1255,30 @@
       "duration_ms": 442680,
       "name": "Ahora Que Te Encuentro",
       "url": "https://open.spotify.com/track/6hCgPpGpAgV6ExrOj9MGXH"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "Amigos M\u00edos",
+        "url": "https://open.spotify.com/album/1fnfqWQnHLlWKSLmuf8eAn"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Ariel Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW"
+        },
+        {
+          "name": "Hector Zeoli",
+          "url": "https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN"
+        }
+      ],
+      "duration_ms": 278920,
+      "name": "Alfonsina Y El Mar",
+      "url": "https://open.spotify.com/track/1fsNhKJoPB4sHd3bVL1bcw"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "Auterretratos",
-        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "La Belleza",
-      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "Ef\u00edmera",
-        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
+        "name": "Auterretratos",
+        "url": "https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
         }
       ],
-      "duration_ms": 193294,
-      "name": "Ef\u00edmera",
-      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
+      "duration_ms": 233000,
+      "name": "La Belleza",
+      "url": "https://open.spotify.com/track/5oMnRH2HJ3N3leLRh3AWCw"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
+        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
+        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuel",
+          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+        }
+      ],
+      "duration_ms": 251666,
+      "name": "Solo Pienso en Ti",
+      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
         "name": "Quererte",
         "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
       },
@@ -1519,50 +1519,18 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "Pensando en ti",
-        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
+        "name": "Ef\u00edmera",
+        "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
       },
       "artists": [
         {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 195537,
-      "name": "Pensando en ti",
-      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
-        }
-      ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
-        "name": "Cecilia",
-        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Dama Dama (Album Version)",
-      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
+      "duration_ms": 193294,
+      "name": "Ef\u00edmera",
+      "url": "https://open.spotify.com/track/1W76QpRI7fzJZS93KVZ9Hw"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1579,6 +1547,38 @@
       "duration_ms": 232080,
       "name": "Mar\u00eda la portuguesa",
       "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "Pensando en ti",
+        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 195537,
+      "name": "Pensando en ti",
+      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Dama Dama (Album Version)",
+      "url": "https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC"
     },
     {
       "added_at": "2026-02-27 09:17:09",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-27 09:17:09",
       "album": {
-        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
-        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
-    },
-    {
-      "added_at": "2026-02-27 09:17:09",
-      "album": {
         "name": "Contigo En La Distancia",
         "url": "https://open.spotify.com/album/7bouBjt8bjfdAHivSZ6hui"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+    },
+    {
+      "added_at": "2026-02-27 09:17:09",
+      "album": {
+        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
+        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
     },
     {
       "added_at": "2026-02-27 09:17:09",

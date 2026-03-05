@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 12918,
+  "num_followers": 12925,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
         "name": "Water from an Ancient Well",
         "url": "https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 244278,
       "name": "Water from an Ancient Well - Single Edit",
       "url": "https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2026-02-13 11:57:24",

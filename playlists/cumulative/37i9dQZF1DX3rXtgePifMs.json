@@ -2468,16 +2468,16 @@
       },
       "artists": [
         {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        },
-        {
           "name": "Serum",
           "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
         },
         {
           "name": "Agent Sasco (Assassin)",
           "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
         }
       ],
       "date_added": "2023-09-20",

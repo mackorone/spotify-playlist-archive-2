@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 
 > This is Within Temptation\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,092 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,106 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,13 +29,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 19 | [Light Can Only Shine In The Darkness](https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [OPVS NOIR Vol\. 1](https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6) | 3:36 |
 | 20 | [Ice Queen](https://open.spotify.com/track/140cSu65JC8smYw53nPP0q) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:22 |
 | 21 | [Mercy Mirror](https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 3:49 |
-| 22 | [A Demon's Fate](https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
-| 23 | [Covered by Roses](https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:47 |
+| 22 | [Covered by Roses](https://open.spotify.com/track/4Lg1lKgxeR0UeGBVShfs6N) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Hydra \(Deluxe Edition\)](https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI) | 4:47 |
+| 23 | [A Demon's Fate](https://open.spotify.com/track/6UsQsPIPP7gjdtlISXx3F2) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 5:30 |
 | 24 | [Jillian \(I'd Give My Heart\)](https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:46 |
 | 25 | [Endless War](https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:09 |
 | 26 | [Mother Earth](https://open.spotify.com/track/0vZzCD8Gy1w6ph5PzLctVo) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Mother Earth](https://open.spotify.com/album/1Ly5R8riIWwOfcugMwC7t3) | 5:31 |
-| 27 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
-| 28 | [Summertime Sadness](https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 4:06 |
+| 27 | [Summertime Sadness](https://open.spotify.com/track/0tVxMtLxFlc6y4xSX41vKX) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Q\-Music Sessions](https://open.spotify.com/album/1MjWXMQjJUaNzhpur6nzdb) | 4:06 |
+| 28 | [Wireless](https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Wireless](https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB) | 4:41 |
 | 29 | [Raise Your Banner](https://open.spotify.com/track/0lNhWQBiA483reJSVovSWF) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Anders Friden](https://open.spotify.com/artist/0Klbvzc9XSbVqjUAccOcsf) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 5:34 |
 | 30 | [Sing Like A Siren](https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Sing Like A Siren](https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD) | 3:12 |
 | 31 | [See Who I Am](https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1U3NAY.md) - [plain]
 | 49 | [Cyanide Love](https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:04 |
 | 50 | [Worth Dying For](https://open.spotify.com/track/1Q5chsQiz6iC0edatkj3KM) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Bleed Out](https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY) | 4:53 |
 
-Snapshot ID: `aaTTAAAAAACEjX+cdozqXshzEvp0cVvJ`
+Snapshot ID: `aaYkgAAAAAAqMM/YDzWJWKP4mkjOatbz`

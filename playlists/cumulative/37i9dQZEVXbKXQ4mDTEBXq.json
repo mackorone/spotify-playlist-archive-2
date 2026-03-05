@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "Bakuretsu Aishiteru",
       "url": "https://open.spotify.com/track/73WjupQhQmQUOgCl7dXpvN"
@@ -2247,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/2ZujTUIlfon5IhGbUfFaYO"
+      },
+      "artists": [
+        {
+          "name": "ARASHI",
+          "url": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Five",
+      "url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre"
+    },
+    {
+      "album": {
         "name": "GOD_i",
         "url": "https://open.spotify.com/album/5H6luqWnHTkwrl30T8D8GD"
       },
@@ -2392,7 +2410,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 215032,
       "name": "GOD_i",
       "url": "https://open.spotify.com/track/0burgYTcpItZGiRjvWhJjM"
@@ -3328,7 +3346,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 252722,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
@@ -6622,7 +6640,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "Sukisugite METSU!",
       "url": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
@@ -11036,7 +11054,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 212400,
       "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
       "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
@@ -11180,7 +11198,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 252722,
       "name": "\u602a\u7363",
       "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
@@ -11198,7 +11216,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 224804,
       "name": "\u602a\u7363\u306e\u82b1\u5504",
       "url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S"
@@ -12388,7 +12406,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 205333,
       "name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
       "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"

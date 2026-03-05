@@ -1,6 +1,6 @@
 {
   "description": "The breeziest songs to get you through the day.",
-  "num_followers": 530946,
+  "num_followers": 530954,
   "original_name": "Light & Easy",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2025-11-12 03:57:47",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Un-Break My Heart",
-      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
-    },
-    {
-      "added_at": "2025-11-12 03:57:47",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2025-11-12 03:57:47",
       "album": {
-        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
-        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 296480,
-      "name": "Somebody To Love - Remastered 2011",
-      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
+      "duration_ms": 270333,
+      "name": "Un-Break My Heart",
+      "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"
     },
     {
       "added_at": "2025-11-12 03:57:47",
@@ -671,6 +655,22 @@
       "duration_ms": 258333,
       "name": "Glory of Love",
       "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2025-11-12 03:57:47",
+      "album": {
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 296480,
+      "name": "Somebody To Love - Remastered 2011",
+      "url": "https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI"
     },
     {
       "added_at": "2025-11-12 03:57:47",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-11-12 03:57:47",
       "album": {
-        "name": "EVE: ROMANCE",
-        "url": "https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y"
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
         }
       ],
-      "duration_ms": 193040,
-      "name": "Scott and Zelda",
-      "url": "https://open.spotify.com/track/1MJyiTlVdSLAjI9aclZ3hL"
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     }
   ],
   "unique_name": "Light & Easy",

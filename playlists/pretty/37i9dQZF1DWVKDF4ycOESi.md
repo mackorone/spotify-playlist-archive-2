@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di Bruno Mars,  Sayf, Ditonellapiaga, nayt, RAYE, Alex Warren e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,118 likes - 77 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,106 likes - 77 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

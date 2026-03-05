@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: lene 3000
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,196 likes - 127 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,207 likes - 127 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

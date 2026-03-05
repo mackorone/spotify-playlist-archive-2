@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 121062,
       "name": "6pm",
       "url": "https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas"
@@ -22524,6 +22524,24 @@
       "duration_ms": 195950,
       "name": "Everybody Else",
       "url": "https://open.spotify.com/track/4AOsnDTdsJ9IhRtDNV5XEX"
+    },
+    {
+      "album": {
+        "name": "EVERYBODY KNOW",
+        "url": "https://open.spotify.com/album/2algVHmBMOzvr0scYeJoxj"
+      },
+      "artists": [
+        {
+          "name": "Sweatbaby",
+          "url": "https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137844,
+      "name": "EVERYBODY KNOW",
+      "url": "https://open.spotify.com/track/22Eril89EV5bWP0CZivVMp"
     },
     {
       "album": {

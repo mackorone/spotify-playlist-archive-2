@@ -4148,7 +4148,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 159776,
       "name": "CITY NIGHTS",
       "url": "https://open.spotify.com/track/6ocFfBgr6V96yLuIc9594i"
@@ -6290,7 +6290,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -7134,7 +7134,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 94084,
       "name": "ex-freundin",
       "url": "https://open.spotify.com/track/16lBbgE9PBhxX09S2UYNyh"
@@ -9878,7 +9878,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 114461,
       "name": "HEAVENLY JUMPSTYLE",
       "url": "https://open.spotify.com/track/6kamZOSWb8ahxRkrYARPNG"
@@ -11120,7 +11120,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 96475,
       "name": "i love u so much",
       "url": "https://open.spotify.com/track/6sNbTxsdC7ZWag9whC6M8a"
@@ -12353,6 +12353,24 @@
     },
     {
       "album": {
+        "name": "Just a Boy",
+        "url": "https://open.spotify.com/album/1pWW41Z7PZWhpr2fLA7x12"
+      },
+      "artists": [
+        {
+          "name": "DrINsaNE",
+          "url": "https://open.spotify.com/artist/6EkdbqjOzxxXRn1wgbUPDg"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Just a Boy",
+      "url": "https://open.spotify.com/track/2R3GCnbZ5zThJ6fnMH3VeT"
+    },
+    {
+      "album": {
         "name": "THE DEATH OF PEACE OF MIND",
         "url": "https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA"
       },
@@ -13562,7 +13580,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -16906,7 +16924,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 228346,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/6mQRbuEmqiAf1ABQYDPwF7"
@@ -16924,7 +16942,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -18393,6 +18411,36 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Kara Jackson",
+          "url": "https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208461,
+      "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
+      "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"
+    },
+    {
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -18430,7 +18478,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 144627,
       "name": "Outlaws Get No Entry",
       "url": "https://open.spotify.com/track/7eRdX2HLQZmQ9n1bbAsfHp"
@@ -19812,7 +19860,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 128659,
       "name": "Queen St",
       "url": "https://open.spotify.com/track/6o86CKQQc85ql8pMHrvJpo"
@@ -20010,7 +20058,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190682,
       "name": "Rampant",
       "url": "https://open.spotify.com/track/0cVboiKN2ysfbmECdgDdCB"
@@ -22196,6 +22244,24 @@
       "duration_ms": 182840,
       "name": "Smeraldo Garden Marching Band (feat. Loco)",
       "url": "https://open.spotify.com/track/1kPhV0KQui1phEpjnWIqUN"
+    },
+    {
+      "album": {
+        "name": "SMS",
+        "url": "https://open.spotify.com/album/4TlSeRlWr3xa4kCAZRs72n"
+      },
+      "artists": [
+        {
+          "name": "UncleFlexxx",
+          "url": "https://open.spotify.com/artist/7ETrbkVb3uLwquyjX0T05M"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138565,
+      "name": "SMS",
+      "url": "https://open.spotify.com/track/1uOJvoXHYPly6AyvoZlOfS"
     },
     {
       "album": {

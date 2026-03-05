@@ -1,6 +1,6 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
-  "num_followers": 33912,
+  "num_followers": 33914,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
+        "name": "fusion.",
+        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
       },
       "artists": [
         {
-          "name": "Joe Barbieri",
-          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
+        },
+        {
+          "name": "Sans Soucis",
+          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
         }
       ],
-      "duration_ms": 244632,
-      "name": "Zenzero e cannella",
-      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
+      "duration_ms": 220797,
+      "name": "Battiti in parole",
+      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -587,22 +591,18 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "fusion.",
-        "url": "https://open.spotify.com/album/5aDct9hn71QRnhcCiAJN54"
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/0aI4EqaeC7USjpfB8qXoKO"
       },
       "artists": [
         {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        },
-        {
-          "name": "Sans Soucis",
-          "url": "https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc"
+          "name": "Joe Barbieri",
+          "url": "https://open.spotify.com/artist/70S7xGDXv69V2vUv3z1PeT"
         }
       ],
-      "duration_ms": 220797,
-      "name": "Battiti in parole",
-      "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+      "duration_ms": 244632,
+      "name": "Zenzero e cannella",
+      "url": "https://open.spotify.com/track/01R4j8moUGlLxkmhR9sA5t"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Amalia Gr\u00e8",
-        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
-      },
-      "artists": [
-        {
-          "name": "Amalia Gre'",
-          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "Io Cammino Di Notte Da Sola",
-      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Prati Bagnati Del Monte Analogo",
         "url": "https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 566966,
       "name": "Hula Om",
       "url": "https://open.spotify.com/track/1xBke1qBIpQHmM9q3hKemz"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Amalia Gr\u00e8",
+        "url": "https://open.spotify.com/album/1id44YJbf1yx3GOKi8Q4VZ"
+      },
+      "artists": [
+        {
+          "name": "Amalia Gre'",
+          "url": "https://open.spotify.com/artist/12uNjzynmyMGS18wFjnsxv"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "Io Cammino Di Notte Da Sola",
+      "url": "https://open.spotify.com/track/4XggtZPzgMmc3E66zjXvNU"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
+      },
+      "artists": [
+        {
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
         "name": "You've Changed",
         "url": "https://open.spotify.com/album/7hGEPf44dnLcXPOfs3RBdX"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 302689,
       "name": "Per Ricordarmi Di Te",
       "url": "https://open.spotify.com/track/4vYAHjRiwV0kjb4JIzLlHX"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Morabeza",
-        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
-        },
-        {
-          "name": "Gabriele Mirabassi",
-          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
-        }
-      ],
-      "duration_ms": 165573,
-      "name": "Giuramento (feat. Gabriele Mirabassi)",
-      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 245200,
       "name": "Southern Dub",
       "url": "https://open.spotify.com/track/157HG6YWfRczb2oksDZXNZ"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Morabeza",
+        "url": "https://open.spotify.com/album/3n55TgC6Qv30oyw7yj11mY"
+      },
+      "artists": [
+        {
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/2QezBWDHOoFeVCM3wlzTDu"
+        },
+        {
+          "name": "Gabriele Mirabassi",
+          "url": "https://open.spotify.com/artist/1McRzmSwfysOGYy2GPaSNE"
+        }
+      ],
+      "duration_ms": 165573,
+      "name": "Giuramento (feat. Gabriele Mirabassi)",
+      "url": "https://open.spotify.com/track/15zNDagxqRrKm4HWtcvTZv"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Jazz vs Corona Vol. 1",
-        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
-      },
-      "artists": [
-        {
-          "name": "Bebo Ferra",
-          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
-        }
-      ],
-      "duration_ms": 209551,
-      "name": "Luna di mezzogiorno",
-      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/1gqjxM0wGTsEhA9GNCD1Gi"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 276862,
       "name": "It's Easy to Remember",
       "url": "https://open.spotify.com/track/44swRdyN58zo6GzdRtHcub"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Jazz vs Corona Vol. 1",
+        "url": "https://open.spotify.com/album/7lx39OHaqoPliLZWcnjjlb"
+      },
+      "artists": [
+        {
+          "name": "Bebo Ferra",
+          "url": "https://open.spotify.com/artist/7x68038NwGK0HcnZh49aMB"
+        }
+      ],
+      "duration_ms": 209551,
+      "name": "Luna di mezzogiorno",
+      "url": "https://open.spotify.com/track/2zPjGvbjXbK0RSBrR17Pe4"
     },
     {
       "added_at": "2026-02-05 23:01:01",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-02-05 23:01:01",
       "album": {
-        "name": "Dualism",
-        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
-      },
-      "artists": [
-        {
-          "name": "N\u0101dt Orchestra",
-          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
-        }
-      ],
-      "duration_ms": 281466,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
-    },
-    {
-      "added_at": "2026-02-05 23:01:01",
-      "album": {
         "name": "Kair\u00f2s",
         "url": "https://open.spotify.com/album/20FcZHGXk5gO2HRTXC0wbQ"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 279570,
       "name": "Bajone",
       "url": "https://open.spotify.com/track/19OFvkqZzpzoxupIWbHJy3"
+    },
+    {
+      "added_at": "2026-02-05 23:01:01",
+      "album": {
+        "name": "Dualism",
+        "url": "https://open.spotify.com/album/23LG3jcqw0PVQ4BnAOXcVQ"
+      },
+      "artists": [
+        {
+          "name": "N\u0101dt Orchestra",
+          "url": "https://open.spotify.com/artist/6sQxDnGsXiapNQM0sevsLT"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
     }
   ],
   "unique_name": "Jazz Italia",

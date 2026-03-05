@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : הילה רוח
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,349 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,357 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 47 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
 | 48 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
 | 49 | [קרימינל](https://open.spotify.com/track/3tpI2k1hXu4dxOPtVQvlBr) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd) | [360](https://open.spotify.com/album/3VhmehVwpYqJN1R3BFD2xA) | 2:51 |
-| 50 | [I Don't Know When, I Don't Know How, I Don't Know Why](https://open.spotify.com/track/2NZc3vxC1wSUkjfHOUe5ek) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Unfurl](https://open.spotify.com/album/3Ee0iWoBRVVol6fHUbKzyx) | 4:20 |
+| 50 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |
 
 Snapshot ID: `AAAAAB+/qPyIVJMzgCUBv7YNE8l5LQgK`

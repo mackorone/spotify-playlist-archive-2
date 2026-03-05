@@ -1594,7 +1594,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 180376,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/23WxsmliKISYaCfam8iPPG"
@@ -24036,7 +24036,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 156393,
       "name": "Jamaican (Bam Bam)",
       "url": "https://open.spotify.com/track/1ExjoMeJQxAYtHFke6eW31"
@@ -30551,6 +30551,24 @@
     },
     {
       "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Me and my",
+      "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
+    },
+    {
+      "album": {
         "name": "MALA M\u00cdA",
         "url": "https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy"
       },
@@ -36446,7 +36464,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
@@ -43530,7 +43548,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 180582,
       "name": "Someone Out Of Town",
       "url": "https://open.spotify.com/track/4QrE7JVAi54WYRTO4y0yKb"
@@ -43548,7 +43566,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 181173,
       "name": "Someone Out of Town",
       "url": "https://open.spotify.com/track/3Tb6RlqXPldaQVasxc68cP"
@@ -48526,7 +48544,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 92365,
       "name": "TRILLIUM HARDTEKK",
       "url": "https://open.spotify.com/track/7hPwUxGo7YgQFFYDynDQwp"
@@ -53588,7 +53606,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 169090,
       "name": "Yeralt\u0131",
       "url": "https://open.spotify.com/track/2Y61A6novk13FZr0dRMLOg"

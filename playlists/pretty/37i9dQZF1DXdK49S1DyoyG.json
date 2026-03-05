@@ -1,6 +1,6 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 97264,
+  "num_followers": 97312,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2026-02-16 22:44:16",
+      "album": {
         "name": "Nick Jonas X2",
         "url": "https://open.spotify.com/album/4G4Azv5cwPBv3vCA0mD6ei"
       },
@@ -1267,34 +1283,18 @@
     {
       "added_at": "2026-02-16 22:44:16",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
       },
       "artists": [
         {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
         }
       ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
-    },
-    {
-      "added_at": "2026-02-16 22:44:16",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "He Wasn't Man Enough",
-      "url": "https://open.spotify.com/track/7f1Dmr246cJ9uQYdbplTbh"
+      "duration_ms": 256026,
+      "name": "Bills, Bills, Bills",
+      "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
     }
   ],
   "unique_name": "Ros\u00e9 on Tap",

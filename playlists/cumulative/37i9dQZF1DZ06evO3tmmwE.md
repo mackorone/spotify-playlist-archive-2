@@ -4,13 +4,13 @@
 
 > This is Bo Bundy\. The essential tracks, all in one playlist.
 
-64 songs - 2 hr 52 min
+65 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [135](https://open.spotify.com/track/1FaOmKrjEERabl63Kcr3NU) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:15 | 2025-11-14 |  |
 | [25 Lighters](https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [The Lonestar \(Side B\)](https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D) | 2:22 | 2023-03-10 |  |
-| [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 | 2023-03-10 |  |
+| [3 Noches](https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:15 | 2023-03-10 | 2026-03-05 |
 | [Alpaca Hearts](https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Alpaca Hearts](https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt) | 3:18 | 2023-03-10 |  |
 | [Alto Calibre](https://open.spotify.com/track/0kKsJ0Pws7KiHQbFMRxGvS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Young Tapz](https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y), [Tapz Money](https://open.spotify.com/artist/4cdMZM15Wtqv9u9Ih4DXTt) | [Alto Calibre](https://open.spotify.com/album/1dvxCTaYYJme526U0WEAek) | 2:40 | 2023-03-10 | 2024-08-12 |
 | [Baila Esta Cumbia](https://open.spotify.com/track/58uqJXtPu8nzTLMJxVN45C) | [Esebree](https://open.spotify.com/artist/2tGm14JsABUh9tc7GmS0ft), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Calle 360](https://open.spotify.com/album/4pZxhIj55GzPJcR9OP5Cpf) | 2:45 | 2025-12-21 | 2026-02-02 |
@@ -49,6 +49,7 @@
 | [Mi Barrio](https://open.spotify.com/track/3kfQEcsyEEYgQtXrXwkjZq) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:41 | 2023-03-10 |  |
 | [Money Manziel](https://open.spotify.com/track/4ZlgEjgVTgnOgCC7uEI9XR) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Glock Simmons](https://open.spotify.com/artist/3HcXn8TlSRaOcRCtGNvCzL) | [Contra el Mundo](https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK) | 2:51 | 2023-03-10 | 2024-03-16 |
 | [Nave 687](https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [Nave 687](https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8) | 3:27 | 2023-03-10 |  |
+| [Nawfside](https://open.spotify.com/track/1EmRFtS35fBaJs89E5m3uD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [El Unico Desmadre De Mi Madre](https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW) | 2:13 | 2026-03-05 |  |
 | [No Bailes Asi \- Remix](https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe) | [Santos Jaguar](https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE), [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [No Bailes Asi \(Remix\)](https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD) | 2:33 | 2023-09-15 |  |
 | [Pa los Hombres](https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Andy Hernandez](https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:04 | 2023-03-10 |  |
 | [Pa Mi Gente](https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS), [Prolifek](https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX), [Sam King](https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r) | [Pa Mi Gente](https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X) | 4:21 | 2023-03-10 |  |

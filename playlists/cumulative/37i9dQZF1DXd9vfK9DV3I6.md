@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-319 songs - 23 hr 10 min
+320 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [OUD](https://open.spotify.com/track/5DHTIZv1cqrkV5KbOwvCXl) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [OUD](https://open.spotify.com/album/2DWVPYDAb0Zyxdh6ge6wWo) | 7:15 | 2020-11-19 | 2022-11-14 |
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-01-21 | 2023-03-18 |
 | [Oud Love](https://open.spotify.com/track/6yo4vfCNw1VD1JKCbJhPEO) | [Camil Kanouni](https://open.spotify.com/artist/2VeXGGayrfgFEFhI9EWqWC) | [O.M.M.A](https://open.spotify.com/album/6pCX9dYSV33ZDQYje78efe) | 3:41 | 2020-10-18\* | 2023-08-06 |
-| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* |  |
+| [Oud Trip](https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg) | [DJ Oscar Sharm](https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ), [DJ A Ego](https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9) | [Oud Trip](https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF) | 4:32 | 2020-10-18\* | 2026-03-05 |
 | [Overdose \- Sait Esmeray Remix](https://open.spotify.com/track/7v3ARZ3TuBQGFA6fKdyIOW) | [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [BRUJA](https://open.spotify.com/artist/6yoocPjo7xJwFxSvbZYUT9), [Sait Esmeray](https://open.spotify.com/artist/0ay99LpZruYu1GkaQxWWe4) | [Overdose \(Sait Esmeray Remix\)](https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq) | 2:38 | 2021-05-22 |  |
 | [Painter](https://open.spotify.com/track/6qv84G0V4Bkgijp6dgZBAs) | [Lady Ocean](https://open.spotify.com/artist/6E4wyKIW6mC6zKaRgufLQn) | [Painter](https://open.spotify.com/album/1Y7GDhx7EjS2RLv8Es2eFJ) | 3:23 | 2021-06-07 |  |
 | [Play the Game](https://open.spotify.com/track/1Z9SkXBBMTpdrWwl085zRv) | [ReMan](https://open.spotify.com/artist/1dLHiu9aDXqtHzF5MLyUeR), [Deepest](https://open.spotify.com/artist/3JqbRDna3cMqW6EbuAVYXz), [AMHouse](https://open.spotify.com/artist/6pUq01lliyxlSqPxHIviNa) | [Play the Game](https://open.spotify.com/album/2CV2MKeBFeINXQRInZuS9w) | 2:22 | 2021-08-13 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [Stories](https://open.spotify.com/track/3nhRbqeV3DpVPXHVL6cO9v) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Stories](https://open.spotify.com/album/1nqNVBXnqnVTE3WToXUKqG) | 3:13 | 2021-10-11 | 2023-03-18 |
 | [Sugar & Brownies](https://open.spotify.com/track/16ih0TTm4REIQuYBMPTHm8) | [DHARIA](https://open.spotify.com/artist/1psakk7GVUl85AnTEvwtk2) | [Sugar & Brownies](https://open.spotify.com/album/4S18dTcAuVNQneDd7J3zw1) | 3:17 | 2020-10-18\* | 2021-02-15 |
 | [Sunam](https://open.spotify.com/track/01vX6r5LSjgH7wWru9ymLx) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0), [Anatolian Sessions](https://open.spotify.com/artist/7s2nu1ZnZ0hxP4PNW3xbBK), [Serdar Ayyıldız](https://open.spotify.com/artist/2k4bQt7eQsigiUFsT9VLGK) | [Sunam](https://open.spotify.com/album/2fjix5nVHiyACZdDsgRnvt) | 4:39 | 2024-01-15 | 2024-07-23 |
+| [Sunkissed](https://open.spotify.com/track/2XBbMXVbhnW6RkXEWRf0Z8) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Sunkissed](https://open.spotify.com/album/7kfkEiLlZ0lDm8tdjggdgg) | 3:34 | 2026-02-27 |  |
 | [Sunset \(The Distance & Riddick Remix\)](https://open.spotify.com/track/3hjW2PYBIY4hxVgCwHLdOe) | [Can Sezgin](https://open.spotify.com/artist/1eqqKW8azBmxyYXkXs1DeG), [Dilara Ferit](https://open.spotify.com/artist/3V3tV0iCRgGDEYsBT7rMLW), [Emre Yazgın](https://open.spotify.com/artist/0fua7ATlfXlVZETvWnqvtM) | [Sunset \(The Distance & Riddick Remix\)](https://open.spotify.com/album/0wMQBrQHrr4qesm0ACrI49) | 5:25 | 2022-06-07 | 2022-07-24 |
 | [Syria \- Original](https://open.spotify.com/track/3rkge8kur9i26zpByFKvBu) | [Unders](https://open.spotify.com/artist/58wDbO29TUyzGTz7gZqOue) | [Syria](https://open.spotify.com/album/63QglWXaVZfTcFOKvgIi54) | 8:03 | 2020-10-18\* | 2022-10-09 |
 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2023-05-15 | 2025-08-14 |

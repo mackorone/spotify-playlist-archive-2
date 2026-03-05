@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,753 likes - 105 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,817 likes - 105 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 2 | [God Was Showing Off](https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 3:31 |
 | 3 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 4 | [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 |
-| 5 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 |
+| 5 | [Bring Me Back To Life](https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 3:24 |
 | 6 | [To Love Somebody](https://open.spotify.com/track/00XRL8YKioCRcSb088xivh) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [To Love Somebody](https://open.spotify.com/album/5mjfq6PQcF4RIDw9X30Zm1) | 3:45 |
 | 7 | [End of Time](https://open.spotify.com/track/2ue3TmvamovoPGDywzzYSj) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:46 |
 | 8 | [Grandma's Wisdom](https://open.spotify.com/track/2aPiOyvUJqi2IdiEN6SjAq) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [SLOJAY](https://open.spotify.com/artist/5HS4OHVUCSB0gbsbugOp7w) | [Grandma's Wisdom](https://open.spotify.com/album/7isfBCIfCSDvjdde0aAlz1) | 3:01 |
 | 9 | [Golden Sun](https://open.spotify.com/track/4jGh4qWS3fNstPVGNXGaxR) | [Michelle David & The True\-tones](https://open.spotify.com/artist/7on1NP7h7wh2Onwvkff1pj) | [Golden Sun](https://open.spotify.com/album/5be6RMj2mzfppeyNWwhOrq) | 3:29 |
 | 10 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 |
-| 11 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |
-| 12 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 |
-| 13 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
-| 14 | [Say Something You Mean](https://open.spotify.com/track/1FDp21yhgv3qaxbpxzWJ9E) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Say Something You Mean](https://open.spotify.com/album/4ADPerHUz25sCZn52ugOo8) | 2:55 |
-| 15 | [On My Soul](https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:54 |
-| 16 | [I Don't Understand](https://open.spotify.com/track/0aMkTHjtAa5IilVAi2pcXC) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [I Don't Understand](https://open.spotify.com/album/2Uf5avKX9UoxvXSoaul5zH) | 3:33 |
-| 17 | [Cherry Rose](https://open.spotify.com/track/4Ll2uy9CygJUYVXn8Td2qW) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:54 |
-| 18 | [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 |
-| 19 | [Bring Me Back To Life](https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 3:24 |
+| 11 | [You Went Away Too Long](https://open.spotify.com/track/7Bxor3rKUpBDuNi9lVIzpz) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [You Went Away Too Long](https://open.spotify.com/album/5NpT7rCbRYs6LRMcmBEKOD) | 3:19 |
+| 12 | [Let Me Love You](https://open.spotify.com/track/4X2wd4grYiRaGjS75UncRA) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Let Me Love You](https://open.spotify.com/album/105LdQFucx264gr5MMo2AX) | 3:13 |
+| 13 | [Honour](https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Honour / I Want In](https://open.spotify.com/album/4YryyvA3CCq7uNESscvIli) | 4:10 |
+| 14 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
+| 15 | [Say Something You Mean](https://open.spotify.com/track/1FDp21yhgv3qaxbpxzWJ9E) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Say Something You Mean](https://open.spotify.com/album/4ADPerHUz25sCZn52ugOo8) | 2:55 |
+| 16 | [On My Soul](https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Romantic](https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1) | 2:54 |
+| 17 | [I Don't Understand](https://open.spotify.com/track/0aMkTHjtAa5IilVAi2pcXC) | [MT Jones](https://open.spotify.com/artist/0DLNLJyVZ55oPrSrsbiD5m) | [I Don't Understand](https://open.spotify.com/album/2Uf5avKX9UoxvXSoaul5zH) | 3:33 |
+| 18 | [Cherry Rose](https://open.spotify.com/track/4Ll2uy9CygJUYVXn8Td2qW) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 3:54 |
+| 19 | [Let's Take Our Time](https://open.spotify.com/track/2C5G7y3CVchaQZDmCluKpG) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Let's Take Our Time b/w Flower Moon](https://open.spotify.com/album/5KnpVDm7VyjMt5b8z5Krvh) | 3:43 |
 | 20 | [You've Got Another Thing Coming \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [You've Got Another Thing Coming \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s) | 2:59 |
 | 21 | [Feeling Blue](https://open.spotify.com/track/58CHDPWwZOaHi6YqNxNvnu) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Feeling Blue](https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH) | 3:14 |
 | 22 | [To B Honest](https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [To Whom This May Concern](https://open.spotify.com/album/7mwyiTViOEtAtOeoilQ3QG) | 4:30 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 104 | [Somewhere You Can Fly](https://open.spotify.com/track/5Nmmrv8DBGlGw59yQMOwwl) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Archives Mixtape](https://open.spotify.com/album/0PZn9YuIkbAEj4iJQOt6ni) | 2:37 |
 | 105 | [The Way](https://open.spotify.com/track/7oHXs1fPp1oRHsmMZ2uGk7) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [The Way](https://open.spotify.com/album/0vUSt4xH41aj4mzNLUqZFr) | 3:38 |
 
-Snapshot ID: `AAAAABytSJthCjS1IwKJpme0YEGa42R3`
+Snapshot ID: `AAAAAIVN7Ijyr5BPnpc8o3XBTI0y7S0X`

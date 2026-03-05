@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,912 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,932 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 32 | [СВЕТЛАНА!](https://open.spotify.com/track/6glptAOL1GSNQ1kZdWEVjj) | [NEXTIME](https://open.spotify.com/artist/0KaA8HctO3Rt7xjMSu3YUk) | [СВЕТЛАНА!](https://open.spotify.com/album/2qHTtxtPswUx8iz8VsBJ3n) | 1:36 |
 | 33 | [Шёлк](https://open.spotify.com/track/3chb0SAouU1FtBPR5NPHWX) | [Ваня Дмитриенко](https://open.spotify.com/artist/1kxqshyCqWuOQJNCTgHKzM) | [Шёлк](https://open.spotify.com/album/4k9gEkLvJHBzTIkw7L1Qep) | 2:26 |
 | 34 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
-| 35 | [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:24 |
+| 35 | [ты любишь танцевать](https://open.spotify.com/track/0nukg1QtwhP7jBbmeFKoiT) | [CUPSIZE](https://open.spotify.com/artist/6piaRBSk79hfoHINy7DMGO) | [дели на два](https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I) | 2:25 |
 | 36 | [ПАПА](https://open.spotify.com/track/5b6awK2tOZ6thRJIkE9Pbh) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV), [tewiq](https://open.spotify.com/artist/48nrvNpJ4gcgWyvheEGg0L), [FORTUNA 812](https://open.spotify.com/artist/4anb8rmk0xipuQP6QZ5IlH) | [ПАПА](https://open.spotify.com/album/1bIRpktyLvf7jvPZyfmEFP) | 1:42 |
 | 37 | [гладиатор/рыцарь](https://open.spotify.com/track/5cuSyLoYilFJQsI1Yta8GT) | [fallen777angel](https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3) | [glory of heartbroken](https://open.spotify.com/album/4BQjLtnAdEzO5EG1K8TTXR) | 1:44 |
 | 38 | [Вселенная бесконечна?](https://open.spotify.com/track/5bkfPKnHLi6AUP3fJA5Xf5) | [Noize MC](https://open.spotify.com/artist/69v4ZOOomf1TNp59YYB1j7) | [Новый альбом](https://open.spotify.com/album/5O0lvSqOB9IEmHyKsYppAn) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [цветы](https://open.spotify.com/track/5GoC9yZ1KAqzV9V3Oxornv) | [тёмный принц](https://open.spotify.com/artist/3jayBSUIK2eqnLCWfJoWwV) | [мрачные треды](https://open.spotify.com/album/7CQpALyPsLg8aXe6sHxiMx) | 1:38 |
 | 50 | [Быть богатым](https://open.spotify.com/track/3fvTuOnHeSB2OGXNqsmVnd) | [Voskresenskii](https://open.spotify.com/artist/4x79BOihyDga7T7R1ULYC3), [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Быть богатым](https://open.spotify.com/album/0uW5RjINr1nmGWS1Nfa2ZY) | 2:56 |
 
-Snapshot ID: `MTpHmAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MTuWwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

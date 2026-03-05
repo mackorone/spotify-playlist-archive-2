@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,620 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,614 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 71 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |
 | 72 | [frozen waterfall](https://open.spotify.com/track/33eNqml56hGzHG8K1aMZVs) | [Rafa Figueroa](https://open.spotify.com/artist/5c8MjSwcTCJNWBtpKMWywB) | [frozen waterfall](https://open.spotify.com/album/4U8owRn60ZhIHRp8BrE047) | 2:08 |
 | 73 | [Coming Home To You](https://open.spotify.com/track/4dDi8kUvINu40e2BkiFrr7) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Coming Home To You](https://open.spotify.com/album/6v7C90jdAwnKQzKbV5FoIP) | 2:06 |
-| 74 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 |
-| 75 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
-| 76 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |
+| 74 | [That’s Christmas To Me](https://open.spotify.com/track/1gFMfxMXkETjtfHUPjAYqD) | [Sapphire Llama](https://open.spotify.com/artist/0ukEGWLjiNHntHlKL4qeF9) | [That’s Christmas To Me](https://open.spotify.com/album/6gAxwmPsSel57fMKf7aZ7k) | 2:42 |
+| 75 | [Joy to the World](https://open.spotify.com/track/0Spcvt226L8x9kasv3nV2P) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [We Wish You a Merry Christmas](https://open.spotify.com/album/4JZcGUYRVwgTXmG5iUVyVU) | 2:21 |
+| 76 | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/track/3QKWVH0KQvoPB5SqUolK8b) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [The Christmas Song \(Chestnuts Roasting\)](https://open.spotify.com/album/6dDIDkSG88Z5Cw0rQk8QIm) | 2:23 |
 | 77 | [All I Want For Xmas](https://open.spotify.com/track/3VZQzdqncXBLpMNDyLSI5o) | [sellar](https://open.spotify.com/artist/2eE2igevXc1oO8cBldYZDy) | [All I Want For Xmas](https://open.spotify.com/album/3xfPG2t5bJciY2ypx2NbzE) | 2:18 |
 | 78 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/5kdsHsHLsanmsItkkpWFo2) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/2ZapRS1wnlMvMDmOIRjWkr) | 2:39 |
 | 79 | [White Christmas](https://open.spotify.com/track/5uH9rhYpzu8g8QVZ7t6HOg) | [Jazztroopers](https://open.spotify.com/artist/5QS7J8iG53OKkSNhOQKzRI) | [Mistletoe Melodies](https://open.spotify.com/album/4RuJ1JdQDwM8hos5JqAwgs) | 2:20 |
 | 80 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
 | 81 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |
-| 82 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
-| 83 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
+| 82 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
+| 83 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
 | 84 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
 | 85 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
 | 86 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |

@@ -4,7 +4,7 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 24 min
+40 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [I Heard It Through The Grapevine \- Live On Jools Holland Hootenanny / 31st December 2006](https://open.spotify.com/track/5kB7BZY3dJJtQYiXkyesrD) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR), [Paul Weller](https://open.spotify.com/artist/7Lf3LOZp3U3u2f6cWMd3AH), [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:54 | 2025-10-28 |  |
 | [In My Bed](https://open.spotify.com/track/2TfIuZiaQK2I6Dsn0GxxdN) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 5:17 | 2025-10-28 |  |
 | [Intro / Stronger Than Me](https://open.spotify.com/track/2qPwYT63eEx3JNWdVE6bb0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 3:54 | 2025-10-28 |  |
+| [Just Friends](https://open.spotify.com/track/2i1S5Dq9SaFGcnw8mnb4ks) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:11 | 2026-03-05 |  |
 | [Love Is A Losing Game](https://open.spotify.com/track/3uliGwmB52ZA7brgpZMzyH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 2:35 | 2025-10-28 |  |
 | [Lullaby Of Birdland \- Live From The Stables / 2004](https://open.spotify.com/track/52nsOnLZuRQSNJr7940Xyb) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 2:34 | 2025-10-28 |  |
 | [Monkey Man](https://open.spotify.com/track/5JSJQNIlsfrfuXhjKTAfDa) | [Jools Holland](https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e), [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Sirens of Song](https://open.spotify.com/album/6V2rjEdJenqFpZDug9maSA) | 2:45 | 2025-10-28 |  |

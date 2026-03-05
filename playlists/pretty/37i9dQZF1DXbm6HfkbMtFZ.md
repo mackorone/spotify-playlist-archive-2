@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,162 likes - 115 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,256 likes - 115 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 48 | [I Got You](https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [I Got You](https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX) | 3:12 |
 | 49 | [fool around](https://open.spotify.com/track/1qabjFO5ij7kHIM91RSeqr) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [strongboi](https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A) | 4:44 |
 | 50 | [Cheesin’ \(with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS\)](https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1), [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [Cheesin'](https://open.spotify.com/album/6VA0Ybh6uHkRpCf1pKhlzh) | 2:18 |
-| 51 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
-| 52 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
+| 51 | [Dream Free](https://open.spotify.com/track/100hGJYbcT3bsuZnaGu7cI) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Time to Melt](https://open.spotify.com/album/7tbxSBCADgo0YnDBw4EzJW) | 4:18 |
+| 52 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
 | 53 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 |
 | 54 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 55 | [Strangers](https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Soundtrack For A Movie That Has Not Been Written Yet](https://open.spotify.com/album/64Mjew6Y6wqkhbz7qYLIxS) | 2:53 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 102 | [pocketwatch](https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ) | [Kinji](https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh) | [Thunderhead](https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed) | 2:46 |
 | 103 | [Lament for the Sky](https://open.spotify.com/track/6O20789Z3l8ttvdxHJgzqy) | [Acidslop](https://open.spotify.com/artist/0BZg8Kjli49s7olznI1vs8) | [Freedom to Talk](https://open.spotify.com/album/1TLnvPTgtZXvCGhIvzl2pf) | 3:53 |
 | 104 | [Slippin](https://open.spotify.com/track/1CMIoi2skjKw1G0R5pYWeg) | [Quadron](https://open.spotify.com/artist/3GhVFlFT3pagjVkslQPqoJ) | [Quadron](https://open.spotify.com/album/5vtu0JY9LDxsJ7ynDSsTQJ) | 4:32 |
-| 105 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
-| 106 | [Nobody But You](https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Sounds Good](https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD) | 2:14 |
+| 105 | [Nobody But You](https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Sounds Good](https://open.spotify.com/album/6Jxt4spHx2WCH5WfapgUWD) | 2:14 |
+| 106 | [One Evening \- Remix By VV](https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Open Season](https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6) | 4:00 |
 | 107 | [S.O.L.](https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Olivier St.Louis](https://open.spotify.com/artist/0HHMWJfJPFFuZqnv2rSsyI) | [S.O.L\. EP](https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk) | 5:49 |
 | 108 | [Nunca](https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv) | [Y La Bamba](https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b) | [Lucha](https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib) | 4:22 |
 | 109 | [Somebody New](https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie Sings \(45th Anniversary Edition\)](https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A) | 2:56 |

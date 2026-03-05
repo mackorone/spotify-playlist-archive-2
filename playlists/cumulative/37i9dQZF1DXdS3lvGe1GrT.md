@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Madra Salach
 
-2,030 songs - 5 day 1 hr 19 min
+2,036 songs - 5 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Blood Related](https://open.spotify.com/track/5B7CZXvrLUxuZrixyLpgD1) | [Casey Lowery](https://open.spotify.com/artist/35Bteh0kYNrDTyBOG1BDvD) | [Blood Related](https://open.spotify.com/album/4FVgGFdYZ3mH1YkpItt7Ew) | 3:43 | 2025-01-15 | 2025-04-10 |
 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 | 2024-04-24 | 2024-07-04 |
 | [Blow Wind Blow](https://open.spotify.com/track/5AtZtXNA2loJEzAIJb39fX) | [Jordan Lehning](https://open.spotify.com/artist/4TJq86PFfl12FBpxk5FS7O) | [Blow Wind Blow](https://open.spotify.com/album/6MiDRCah5wxJOOsCBp8sE2) | 3:18 | 2025-01-22 | 2025-05-15 |
+| [Blubird](https://open.spotify.com/track/1zCMk3ySbq4JIeVzU2j1Os) | [Ryann Ross](https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6) | [Blubird](https://open.spotify.com/album/3pfOPzE5MdTlxoiJjEwO0Y) | 2:16 | 2026-03-04 |  |
 | [Blue](https://open.spotify.com/track/3o1dBeb1tiv1QZEGoTTvYt) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Blue](https://open.spotify.com/album/5VQYRmhw33XinEhFdxpshF) | 3:06 | 2025-05-21 | 2025-08-07 |
 | [Blue Black Crows](https://open.spotify.com/track/5tWkLdfJzQprUfmzsjqkf9) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Blue Black Crows](https://open.spotify.com/album/10oTDg6xOkWFHH9zm8Baye) | 3:44 | 2025-08-27 | 2025-12-04 |
 | [Blue Body](https://open.spotify.com/track/7voDACHsNwr20bGP9AKUYq) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Blue Body](https://open.spotify.com/album/6VUf8z62RFYXjWVAUwwN0v) | 3:30 | 2026-02-11 |  |
@@ -1410,6 +1411,7 @@
 | [Pessimist Babe](https://open.spotify.com/track/43XzTSasS0Arc1dgldOMyb) | [Maia Toakley](https://open.spotify.com/artist/1B1J5gTh5qjRAykIQMX8Ka) | [Pessimist Babe](https://open.spotify.com/album/10GO6N8nXJ4njbiKJ1X1oe) | 3:15 | 2024-09-11 | 2024-12-05 |
 | [Phone](https://open.spotify.com/track/6CmtXPRckXzOCYh6aw0kqk) | [Anna St\. Louis](https://open.spotify.com/artist/7h5ZCPVyKFtXc8NxOVmgMD) | [Phone](https://open.spotify.com/album/0Sa7qZIblkaE3V9rS0eBLj) | 3:55 | 2023-04-05 | 2023-05-11 |
 | [Pick and Choose](https://open.spotify.com/track/7yTeopUxZZrDc31m6AfwWo) | [Daniel Nunnelee](https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs) | [Pick and Choose](https://open.spotify.com/album/62pznCH0GxT1WTDheTB5uJ) | 2:43 | 2022-11-30 | 2023-01-12 |
+| [pieces](https://open.spotify.com/track/3T75q5HwEOMfZXZgCWnstl) | [brendon b](https://open.spotify.com/artist/6hU7BmY0hzSFRIt3szp3B5) | [pieces](https://open.spotify.com/album/6kdc2r3GV5eMRucsYQLtVT) | 3:13 | 2026-03-04 |  |
 | [Pilar, NM](https://open.spotify.com/track/1iVPI1CbE7cot90mJxry4l) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Pilar, NM](https://open.spotify.com/album/5H1vDU5KUKrih7Am2VDqWJ) | 4:35 | 2026-02-18 |  |
 | [pinch me](https://open.spotify.com/track/0FSiEayrUIN4WqUbzuGDZ2) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [pinch me](https://open.spotify.com/album/4OdRU8PY2W2gf0G5gxWtEO) | 2:32 | 2023-10-26 | 2023-12-11 |
 | [Pink](https://open.spotify.com/track/4jbtHXvWKM74sUUanCVGuS) | [Leila Sunier](https://open.spotify.com/artist/699kkddUX2J9DRXT8Ql1Pn) | [Pink](https://open.spotify.com/album/1ldcl6WOuj3HwDMqwNopuU) | 4:28 | 2023-11-08 | 2023-12-11 |
@@ -1434,6 +1436,7 @@
 | [Power](https://open.spotify.com/track/5YORFuC8yrRwlNvVVGhho8) | [Sister.](https://open.spotify.com/artist/3QooTofa3QjkPWjB7sMHCY) | [Two Birds](https://open.spotify.com/album/3XK27r3GGdbvu8WIfkPbv7) | 4:18 | 2025-07-16 | 2025-11-15 |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-25 | 2022-10-06 |
 | [Predictable Life \- Stripped Version](https://open.spotify.com/track/3VuRBYFksQbWzBab1npyoB) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [I'M OK NO I'M NOT \(Deluxe Edition\)](https://open.spotify.com/album/6DirKf3fWAjsQtz4JAqybJ) | 4:27 | 2023-09-27 | 2023-12-11 |
+| [Prefab Moon](https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6) | [Field Commander Ali](https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU) | [Prefab Moon](https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj) | 6:46 | 2026-03-04 |  |
 | [Preoccupied](https://open.spotify.com/track/0VS0WcNAoDndMBMyimJxP6) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/4BPLLOB0x9kUsNs3oPCNKU) | 3:31 | 2022-11-09 | 2022-12-01 |
 | [Preoccupied](https://open.spotify.com/track/7jcBE4X9AbH5KnxFkiFzJG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [Preoccupied](https://open.spotify.com/album/6E07nHKqRmmxGbnbxAqEaj) | 3:31 | 2022-08-31 | 2022-11-17 |
 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 | 2023-05-17 | 2023-07-27 |
@@ -1447,6 +1450,7 @@
 | [Previous Life](https://open.spotify.com/track/4LJ5gbGKfDR8BDbpXxAklk) | [Francesca Morris](https://open.spotify.com/artist/01vOwLXaAp25VhQDCwYWcE) | [Previous Life](https://open.spotify.com/album/0pV8ZkAtBkhMaWod6qiN7v) | 3:26 | 2024-10-09 | 2024-12-05 |
 | [Prism](https://open.spotify.com/track/76iyiXL6GBHt7Mdb5v9GoN) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Prism](https://open.spotify.com/album/07QRxu8AgGoRmz6qYz7QrH) | 3:10 | 2022-10-12 | 2022-12-01 |
 | [Prism](https://open.spotify.com/track/3PkcrqdZh7lSCPEay8gZWr) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Prism](https://open.spotify.com/album/723bD92J0413LmJSQC2Grk) | 3:49 | 2023-01-11 | 2023-03-02 |
+| [Prisoner of Love](https://open.spotify.com/track/51hGzgzAeI72yzyyG1jxlK) | [jael](https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw) | [Prisoner of Love](https://open.spotify.com/album/4OrzHUjEoG1ONZtt9W0tNJ) | 3:09 | 2026-03-04 |  |
 | [Problem Child](https://open.spotify.com/track/2xwQBcrdVJkSAVH8hafvqM) | [Shirley Hurt](https://open.spotify.com/artist/0yVyy0jaHPJex2snbCJj0B) | [Shirley Hurt](https://open.spotify.com/album/6WQNDdUNQvFVeX6h4Z1QAf) | 3:42 | 2023-05-31 | 2023-07-27 |
 | [Promise](https://open.spotify.com/track/33xKazD1pl1Qm1w1H6hWEa) | [Mikaela Davis](https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5) | [Promise](https://open.spotify.com/album/2sJXSCwd2Gl5jBRF1iu6Tq) | 2:59 | 2023-05-17 | 2023-07-20 |
 | [Proof of Life](https://open.spotify.com/track/6lZFNwjvb5BXMoajkKn5ql) | [Gold Dust](https://open.spotify.com/artist/2gMFCVbKNRDr7HxnSnWMZ8) | [The Late Great Gold Dust](https://open.spotify.com/album/7Cvs3WHr3bCwaV5Mloh6b5) | 3:46 | 2023-06-14 | 2023-08-10 |
@@ -1567,6 +1571,7 @@
 | [Sidelines](https://open.spotify.com/track/2sxWTcS4AhbOSfXzc4FvdR) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Sidelines](https://open.spotify.com/album/5pi3oHEnvi38KFdgDqr2Ie) | 2:50 | 2023-11-08 | 2023-12-11 |
 | [Sides](https://open.spotify.com/track/3BM9tquYU4X8N6glk5OCF5) | [Gracie Gray](https://open.spotify.com/artist/2KgkkXOzFBuE67knhA4ebG) | [Sides](https://open.spotify.com/album/4tQmOiIEKT7rWRKiwVzAVn) | 4:08 | 2024-07-24 | 2024-10-10 |
 | [Silent Acknowledgement](https://open.spotify.com/track/3wFVKi2sXsM2s106hOKlnJ) | [Darryl Rahn](https://open.spotify.com/artist/2eogPRB3PTDU7KOd99s4UA) | [Silent Acknowledgement / There Ain't You](https://open.spotify.com/album/6KXxaxXLuMQlstrF2oGhbE) | 3:14 | 2025-05-07 | 2025-07-10 |
+| [Silent Century](https://open.spotify.com/track/35J73GHiFuw7IeuQDfUBnK) | [Jackie West](https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np) | [Silent Century](https://open.spotify.com/album/08xo4blniKSJZD6lpVA5wZ) | 3:12 | 2026-03-04 |  |
 | [Silk And Velvet](https://open.spotify.com/track/0DBYse5Fm3xehgr0TkscJk) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Tether](https://open.spotify.com/album/3SBuk7ZuXQCJQ6IfrOPfyz) | 2:32 | 2025-12-03 | 2026-01-15 |
 | [Silk And Velvet](https://open.spotify.com/track/5uMlfVjrj8Jr5tTxaNati8) | [Annahstasia](https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE) | [Silk and Velvet](https://open.spotify.com/album/6hOSMLuIWwf6nkTJjP4ZnR) | 2:32 | 2025-04-16 | 2025-06-19 |
 | [Silver](https://open.spotify.com/track/2SyHbnQlrFyIdDGFeyPEQe) | [Nathaniel Russell](https://open.spotify.com/artist/1e0cgBOcw5bPx0ScuTTns2) | [Silver](https://open.spotify.com/album/694zQ5EqZdgzqmzxsjPN0l) | 2:20 | 2024-04-10 | 2024-06-20 |
@@ -1695,6 +1700,7 @@
 | [Sweeter People](https://open.spotify.com/track/1mAvzrzI3LPaD1ctnXno4s) | [Grave Flowers Bongo Band](https://open.spotify.com/artist/037HE12wNTC2WM6IaGieHg) | [Sweeter People](https://open.spotify.com/album/16JuClBLP6ALD4E4i2QFSQ) | 3:16 | 2022-06-15 | 2022-09-22 |
 | [Sweetheart](https://open.spotify.com/track/2i4m4FAyMteqzmh7AzgmLs) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Sweetheart](https://open.spotify.com/album/6yMxe3j39nBVNvaRaI5cbI) | 3:00 | 2023-03-29 | 2023-05-11 |
 | [Swimming](https://open.spotify.com/track/2hcs9rYtSxPOuPP9rvyzey) | [Sam Moss](https://open.spotify.com/artist/1l5DL2eLjMMvgwKX5Ysw9j) | [Swimming](https://open.spotify.com/album/06NltVbmyzqMpQxoDOkssK) | 3:27 | 2025-03-06 | 2025-06-05 |
+| [Swimming In Blood](https://open.spotify.com/track/3DmmwbEuH8kwlT6XdXrzXu) | [Ivy Knight](https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z) | [Swimming In Blood](https://open.spotify.com/album/0thRqe5Yv2N9rY5aNw5OZz) | 3:28 | 2026-03-04 |  |
 | [Swinging](https://open.spotify.com/track/7AtflqazuSRb7XnXmuek5q) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [how come everything comes back to you?](https://open.spotify.com/album/25N1WdpJB8Gpf6p2qsrJ3q) | 2:41 | 2024-10-16 | 2024-12-05 |
 | [switchy](https://open.spotify.com/track/6btXlqxsWIHHI25wFDW5kY) | [King Howe](https://open.spotify.com/artist/7AUxtXhXm1FrUo1YyspgiV) | [switchy](https://open.spotify.com/album/17oG1wHGEfbEl7dj6k1Uvd) | 3:00 | 2025-08-27 | 2025-12-04 |
 | [sylvia's place ;; tricks](https://open.spotify.com/track/76TgZwOyAgCPC9U8sYVhXH) | [MEGGO](https://open.spotify.com/artist/77qYj3eFuD76x0w9lPXhrc) | [eavesdropper ;; death stories](https://open.spotify.com/album/4uDtb3o4vK4B2rpqUsDjmE) | 3:25 | 2025-02-05 | 2025-05-15 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Locus Noir, Die Oberherren, AlligatorX and more",
+  "description": "With Die Oberherren, AlligatorX, Locus Noir and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -222,7 +222,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 178000,
       "name": "Astronaut",
       "url": "https://open.spotify.com/track/4szCcgfvoz89xloFDOdgUS"
@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 251400,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/2f8MBmW7FByHDrSAqI2O2E"
@@ -730,7 +730,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 131027,
       "name": "By the Way",
       "url": "https://open.spotify.com/track/4SajZCUf85xVUTdYQ2vEnQ"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -1234,7 +1234,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 226568,
       "name": "Dance On My Grave",
       "url": "https://open.spotify.com/track/04kcDf6whIoJebDQ6vZh8R"
@@ -1324,7 +1324,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 246666,
       "name": "Death, That Elusive Mistress",
       "url": "https://open.spotify.com/track/6dkyykLMdt7oF2djYNOVX7"
@@ -1516,7 +1516,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -1570,7 +1570,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 245950,
       "name": "Don't Trust Anyone",
       "url": "https://open.spotify.com/track/0e9zvGl4VZMeynWO8xSZQ9"
@@ -2532,7 +2532,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 161926,
       "name": "Here's your Reaper",
       "url": "https://open.spotify.com/track/2NWCtv0HbrbQXVFu3qwriE"
@@ -3864,7 +3864,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 293422,
       "name": "Lori - Special Edition",
       "url": "https://open.spotify.com/track/3y64sLHWMzAJHBVSfGgwPX"
@@ -4044,10 +4044,28 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 255800,
       "name": "Marry the Night",
       "url": "https://open.spotify.com/track/5OBYQAk9xwkkh8dzN1XzPo"
+    },
+    {
+      "album": {
+        "name": "Martyr",
+        "url": "https://open.spotify.com/album/7x8dcPBseQggrNmc8K0FdW"
+      },
+      "artists": [
+        {
+          "name": "Dearmount",
+          "url": "https://open.spotify.com/artist/2W9sFfovcVXWFiKuWvmYBN"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272732,
+      "name": "Martyr",
+      "url": "https://open.spotify.com/track/3UOVbtjP7Sp5eB6N7Gi973"
     },
     {
       "album": {
@@ -4918,7 +4936,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 174545,
       "name": "Odin",
       "url": "https://open.spotify.com/track/1ht01WVeH0egiSMOyTGjW8"
@@ -4936,7 +4954,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 246088,
       "name": "Old Heart Falls",
       "url": "https://open.spotify.com/track/2wruwMp8j02epUMpj6CKOA"
@@ -5152,7 +5170,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 309146,
       "name": "People You Long To Forget",
       "url": "https://open.spotify.com/track/02nHmlfXcOcPLl4cqM2tSh"
@@ -5286,7 +5304,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-12",
+      "date_removed": null,
       "duration_ms": 203941,
       "name": "Prisionero del Amor",
       "url": "https://open.spotify.com/track/1RXVsrMTccnIYso9Da4WQM"
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 314414,
       "name": "Scared Dancer",
       "url": "https://open.spotify.com/track/4tIZxipGM6Bac1DrUekVKb"
@@ -5846,7 +5864,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -5864,7 +5882,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 209933,
       "name": "She Haunts the Night",
       "url": "https://open.spotify.com/track/0CBfmGzrW3mEeW3CqIJM5w"
@@ -6794,7 +6812,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -6968,7 +6986,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -7668,7 +7686,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 282985,
       "name": "Verschworen",
       "url": "https://open.spotify.com/track/71a4a9s2PKSlVuxNhJnx3K"
@@ -7758,7 +7776,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 223629,
       "name": "VoidWalker",
       "url": "https://open.spotify.com/track/56JNUY9KsCIEge6C3wKCWo"
@@ -7928,7 +7946,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 249640,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/7HhUyysH2pxR1vMJeSrIgE"
@@ -8036,7 +8054,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 204605,
       "name": "Where Cats Go to Die",
       "url": "https://open.spotify.com/track/68RqMJAZU5bOApqbEuUHYG"
@@ -8098,7 +8116,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 335466,
       "name": "Wild Horse",
       "url": "https://open.spotify.com/track/5haFM5bfeKXJ3ysbTJzFbq"
@@ -8340,7 +8358,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 301336,
       "name": "Zulu Alpha",
       "url": "https://open.spotify.com/track/2Un1wf1MC4CEAramid6OoC"
@@ -8460,7 +8478,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 221836,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY"

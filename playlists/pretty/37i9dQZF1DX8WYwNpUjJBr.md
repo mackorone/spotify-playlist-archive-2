@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WYwNpUjJBr.md) - [plain]
 
 > 유저별 맞춤으로 팝 음악들을 추천해 드립니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,830 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,849 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Booga](https://open.spotify.com/track/1d94WA0KdviIHSKlyDN2VF) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Booga](https://open.spotify.com/album/0E1xU9Ab5UPMzHL7AehdBx) | 1:52 |
-| 2 | [Crush](https://open.spotify.com/track/7w93WrvlfeUQk8bwRBX14O) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Crush](https://open.spotify.com/album/00IdJ3G6RABZ6BsNx8KdDx) | 3:44 |
-| 3 | [Remember To Dance \(Little Things\)](https://open.spotify.com/track/41eIrJ4BOf6l0QzJFB1vO8) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8), [Adrián Berenguer](https://open.spotify.com/artist/7rIUiy8qJEFQ5oooWdnhQv) | [Remember To Dance \(Little Things\)](https://open.spotify.com/album/4GncEvr8CcRpYsuMSnnAvR) | 2:43 |
-| 4 | [solo](https://open.spotify.com/track/6U5h4WhbYufaRGXQhnileY) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [solo](https://open.spotify.com/album/1FdXEZw2E4Z7HBsmhkV5E7) | 4:52 |
-| 5 | [Your techno \(feat\. Reiya Terakubo\)](https://open.spotify.com/track/4n8vBaC4uU13izmOyTKN3Y) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Gnarly](https://open.spotify.com/album/4nO0gNJNSb4XuSyJ4s9sUn) | 2:42 |
+| 1 | [PAPER LOW](https://open.spotify.com/track/3xZT6OEmmI8bpMKkmGIlwt) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [PAPER LOW](https://open.spotify.com/album/39voM6TwNAHV12EJ2lAAnl) | 2:42 |
+| 2 | [before we say goodbye](https://open.spotify.com/track/4VbA5rRWGRYnK7QLeE3aAe) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [before we say goodbye](https://open.spotify.com/album/0N39VN2rAn2wPJrrC7Pudn) | 2:27 |
+| 3 | [Sailor, Sail On](https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Sailor, Sail On](https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P) | 4:08 |
+| 4 | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/track/17Vqwvat9EmRmfDvmYqoi0) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Give Me Something \(for Arknights Endfield\)](https://open.spotify.com/album/1jQ7sLy1RAzVvdAJ2dKovB) | 2:42 |
+| 5 | [Head Rush](https://open.spotify.com/track/4DPekWzLEoCJdJErOexV84) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Head Rush](https://open.spotify.com/album/208R9Hzer2ptU4r0dPrC2k) | 2:38 |
 | 6 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:16 |
 | 7 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 8 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WYwNpUjJBr.md) - [plain]
 | 49 | [Shameless](https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:39 |
 | 50 | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/track/02BcXEH1zJYbXSabPtNlKf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [F1 The Album](https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC) | [Lose My Mind \(feat\. Doja Cat\) \[From F1® The Movie\]](https://open.spotify.com/album/157Gano57F4G2EAWL5NKP8) | 3:29 |
 
-Snapshot ID: `AAAAAG55KF+EMWV8n6vIrNhl+WL068lU`
+Snapshot ID: `AAAAAERCJgYMaHzeUKazLy9msL4gDg0Z`

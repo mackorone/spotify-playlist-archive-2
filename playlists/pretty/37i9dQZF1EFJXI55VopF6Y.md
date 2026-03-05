@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 19 | [Your Move](https://open.spotify.com/track/3Rmp4xkxopfS9X86UbaZan) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [Your Move](https://open.spotify.com/album/1AQLlITkv6bazdrKg2uyME) | 3:07 |
 | 20 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 21 | [Blame Game](https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Blame Game](https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih) | 3:32 |
-| 22 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
-| 23 | [Ma Cherry \(SANA\)](https://open.spotify.com/track/2X77m9e7LeLNRwGifHwPXQ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 1:48 |
+| 22 | [Ma Cherry \(SANA\)](https://open.spotify.com/track/2X77m9e7LeLNRwGifHwPXQ) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [PLAY](https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un) | 1:48 |
+| 23 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
 | 24 | [Snälla berätta för mig](https://open.spotify.com/track/10P8TvdoE4tARfz4JNSm51) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:23 |
 | 25 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
 | 26 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 50 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 51 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcLLIAAAAABvI7CBdG7HvHc7DCSIKXoo`
+Snapshot ID: `AcLQwAAAAABgzWEEiBDT9nvCSW7xOUsY`

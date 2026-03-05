@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIXUxXYvMa1Ob>XXXTENTACION</a>, <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIVcS7TfQj88P>Pink Floyd</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 247783,
       "name": "A TU NOMBRE",
       "url": "https://open.spotify.com/track/0ItgotO5txriRAp6lXMHJ7"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 266628,
       "name": "Aku Harus Jujur",
       "url": "https://open.spotify.com/track/5NmrJDP3qgv52028oIDRor"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 153887,
       "name": "Amorfoda",
       "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
@@ -1174,7 +1174,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 185146,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 251515,
       "name": "Badhulu Thochani",
       "url": "https://open.spotify.com/track/6N4uSSMQBgmZ6NezTRqonS"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 272707,
       "name": "Bila Rasaku Ini Rasamu",
       "url": "https://open.spotify.com/track/5v3yHNK2lYzS3gMPlsugoP"
@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3547,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Tak Lekang Oleh Waktu",
+        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282474,
+      "name": "Demi Cinta",
+      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
+    },
+    {
+      "album": {
         "name": "Depressed",
         "url": "https://open.spotify.com/album/6ebgk5LW4M1AcKRfr6NCab"
       },
@@ -3738,7 +3756,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 221887,
       "name": "Dias Nublados",
       "url": "https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8"
@@ -3904,7 +3922,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
@@ -3976,7 +3994,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 325147,
       "name": "Duka",
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
@@ -4562,7 +4580,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
@@ -5538,7 +5556,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 256626,
       "name": "Hal Terindah",
       "url": "https://open.spotify.com/track/1rq2b0GMPXfIdy2nezUAPN"
@@ -5610,7 +5628,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 175933,
       "name": "happier",
       "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
@@ -5628,7 +5646,7 @@
       ],
       "date_added": "2023-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 298899,
       "name": "Happier Than Ever",
       "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8"
@@ -7396,7 +7414,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 242942,
       "name": "Jikalau Kau Cinta",
       "url": "https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N"
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 245232,
       "name": "Jodoh Pasti Bertemu",
       "url": "https://open.spotify.com/track/4csPgl0UlCya7pFqxEwoes"
@@ -8008,7 +8026,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -8174,7 +8192,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 169353,
       "name": "Let Me Down Slowly",
       "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -9172,7 +9190,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 212112,
       "name": "Makrehtosh",
       "url": "https://open.spotify.com/track/6ETTz69AD0SQzjxiCipq7g"
@@ -9436,7 +9454,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 220000,
       "name": "Melawan Restu",
       "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
@@ -9454,7 +9472,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 253373,
       "name": "Memikirkan Dia",
       "url": "https://open.spotify.com/track/5iMfzmZXyTPJSuWA1Wg8Gi"
@@ -9858,7 +9876,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 135090,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
@@ -10834,7 +10852,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 161164,
       "name": "OYE",
       "url": "https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF"
@@ -11036,7 +11054,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Perpisahan Termanis",
       "url": "https://open.spotify.com/track/6jayp489aBXYJQxmFYKCQT"
@@ -11126,7 +11144,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 234200,
       "name": "Pilihan Yang Terbaik",
       "url": "https://open.spotify.com/track/7BhRGeqNpBw1QilknM0svo"
@@ -11328,7 +11346,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 240613,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/62clthR0fZmLbxeqxVJatQ"
@@ -11816,7 +11834,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 246730,
       "name": "Rumah Singgah",
       "url": "https://open.spotify.com/track/0f0GcqppZTmAYaAZA7GkhQ"
@@ -12194,7 +12212,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 253760,
       "name": "Saturno",
       "url": "https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz"
@@ -12470,7 +12488,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 292337,
       "name": "Seluruh Nafas Ini",
       "url": "https://open.spotify.com/track/2vzpoecVhBE1pKtHzKONaN"
@@ -12676,7 +12694,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 202333,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
@@ -12694,7 +12712,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 243724,
       "name": "Sial",
       "url": "https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o"
@@ -12860,6 +12878,24 @@
       "duration_ms": 201080,
       "name": "Skinny Love",
       "url": "https://open.spotify.com/track/4RL77hMWUq35NYnPLXBpih"
+    },
+    {
+      "album": {
+        "name": "Skyfall",
+        "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286081,
+      "name": "Skyfall",
+      "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
       "album": {
@@ -13708,6 +13744,24 @@
       "duration_ms": 260571,
       "name": "Tak Selalu Memiliki - Ipar Adalah Maut Original Soundtrack",
       "url": "https://open.spotify.com/track/778yZPIEqLgL4qSi2zUh9F"
+    },
+    {
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241688,
+      "name": "Take Me To Church",
+      "url": "https://open.spotify.com/track/3dYD57lRAUcMHufyqn9GcI"
     },
     {
       "album": {
@@ -14804,7 +14858,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
@@ -14906,7 +14960,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
@@ -15086,7 +15140,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 217200,
       "name": "Usai",
       "url": "https://open.spotify.com/track/3nHxZEe1dT7zs73DG6pNll"
@@ -15996,6 +16050,24 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338466,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
     },
     {
       "album": {

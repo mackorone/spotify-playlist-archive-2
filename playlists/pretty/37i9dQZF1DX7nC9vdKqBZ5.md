@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,509,548 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,509,516 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 77 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
 | 78 | [Dizeres](https://open.spotify.com/track/3Vc8vnid3noqupe9PvUKxP) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Dizeres](https://open.spotify.com/album/2IUHuZBQ4piQAp53ktdwvQ) | 4:17 |
 | 79 | [O Sol](https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Sol](https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY) | 3:29 |
-| 80 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
-| 81 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
+| 80 | [Meu Abrigo](https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1) | 3:51 |
+| 81 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 82 | [Frágil Coração](https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI) | [Rodrigo Alarcon](https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ) | [Frágil Coração](https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP) | 3:36 |
 | 83 | [Novo Ciclo](https://open.spotify.com/track/5HhcXOota042Ync4U2OCfc) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cabelera](https://open.spotify.com/artist/3qWbHCWsOvqbTqKXFKCbnb), [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp) | [Novo Ciclo](https://open.spotify.com/album/3Uayj41Ce88zsnjXajnGG2) | 3:50 |
 | 84 | [Morena \(Acoustic Version\)](https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Morena \(Acoustic Version\)](https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h) | 2:46 |
-| 85 | [Agora Eu Quero Ir](https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:12 |
-| 86 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
+| 85 | [Eu Não Falo Te Amo \- Acústico](https://open.spotify.com/track/2WxFY1YD1WWCdAmefTM2xd) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Não Falo Te Amo \(Acústico\)](https://open.spotify.com/album/7MMlXeCR67Tq8gkT4BtLYY) | 2:18 |
+| 86 | [Agora Eu Quero Ir](https://open.spotify.com/track/2yGnStdGP0V45lPXAJpmDb) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:12 |
 | 87 | [Alto Mar \- Sessions](https://open.spotify.com/track/1VK0D9DTlMGPVn3GHhW10b) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Alto Mar \(Sessions\)](https://open.spotify.com/album/1WM4nNIbeBe9hzYecKlMA9) | 3:20 |
 | 88 | [Só Penso Nela \(Acústico\)](https://open.spotify.com/track/3kMHVWe0BSWGVByMeYKAHu) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Só Penso Nela \(Acústico\)](https://open.spotify.com/album/2MOI0fpiNZhgJUJk4QvUT0) | 2:28 |
 | 89 | [A Cura](https://open.spotify.com/track/2I0J5YWZ8ostNNiDShh5Di) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U), [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [A Cura](https://open.spotify.com/album/3WkskrMgtz390TzYXFX5XC) | 4:05 |

@@ -4,7 +4,7 @@
 
 > pretty flippin&\#x27; peak ;\)
 
-153 songs - 9 hr 6 min
+154 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Sucka Free](https://open.spotify.com/track/7DIMKlmJ0CL6eROkbptoqi) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [DON'T TAP THE GLASS](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R) | 2:41 | 2025-07-21 |  |
 | [Sunday \(feat\. Frank Ocean\)](https://open.spotify.com/track/0fAehaneUJdlSlWXYe1KZp) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 3:25 | 2025-02-05 | 2025-09-27 |
 | [SUPERVILLAINZ](https://open.spotify.com/track/0S8DavMnMq2qL2DR5qt5Mf) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Kurious](https://open.spotify.com/artist/2eDE3plOEiudDd9q1Ev3IQ), [Mobonix](https://open.spotify.com/artist/6ZSpbt0cWK8EmgjCurjSu5), [Posdnous](https://open.spotify.com/artist/56wgxg5tOMNSd0I0nRoeuF), [Prince Paul](https://open.spotify.com/artist/7ajUo7DyiAOYvCndGLoJ1u), [Slug](https://open.spotify.com/artist/2RZjOVxms8TOu8FXCXdUuy) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:48 | 2025-05-31 |  |
+| [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2026-03-04 |  |
 | [THAT'S THAT](https://open.spotify.com/track/2Vy16OMt19FH30uQNTFdLk) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [BORN LIKE THIS](https://open.spotify.com/album/2XfBjZ0ZwKMfwYJDX0JR1O) | 2:15 | 2025-01-13 |  |
 | [The Drop](https://open.spotify.com/track/7i8BMZK89QmgxAAkyZ46WF) | [Viktor Vaughn](https://open.spotify.com/artist/0wIb0PhwT3disoWykRhq6V), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7) | 3:25 | 2025-03-04 |  |
 | [The Fever \(Aye Aye\)](https://open.spotify.com/track/5lq6hpsabgw22xRYPHVV5c) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 3:06 | 2025-03-10 | 2025-04-22 |

@@ -4,7 +4,7 @@
 
 > Du Congo, au monde 🌍 avec Tonton Fally Ipupa.
 
-724 songs - 1 day 16 hr 39 min
+725 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Good](https://open.spotify.com/track/4Gur4FdxkmXH8x3DCmYmz0) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox of Love \(Deluxe\)](https://open.spotify.com/album/5XPNisbGcTvrjvQ0jnKyxD) | 3:15 | 2023-06-30 | 2023-09-30 |
 | [Good Girl](https://open.spotify.com/track/3SP8A2N48XakBLHR8attPr) | [BMK](https://open.spotify.com/artist/7glinXeNR9Fs1UXGRcrbDk) | [Good Girl](https://open.spotify.com/album/7DEKSaSWU64dNbPqAXcnf7) | 2:40 | 2022-06-30 | 2022-08-27 |
 | [Good Vibe](https://open.spotify.com/track/1qbnqWCKJFo7MYKB013OSo) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL) | [5Melodies Du Lac](https://open.spotify.com/album/2xb2jfEBXpzvbNLmVtSsVu) | 2:33 | 2023-04-21 | 2023-09-09 |
+| [Grand Maître](https://open.spotify.com/track/0xI1KOMjRwSHpHGBod7znP) | [Master Virus](https://open.spotify.com/artist/5NnpFt7QN9o0klnFveEERF) | [Grand Maître](https://open.spotify.com/album/2CVOiqOh6kV0lMGRbWOcaa) | 3:57 | 2026-03-04 |  |
 | [Guantanamo](https://open.spotify.com/track/6V9sJD14uM8fuH7Oj4URA7) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Guantanamo](https://open.spotify.com/album/6zfhIu11roei5i5Zkd0EUe) | 2:29 | 2025-03-28 | 2025-06-21 |
 | [GUITAR](https://open.spotify.com/track/2LHZVmVg43DuSfhAgxBeYr) | [Rebo](https://open.spotify.com/artist/5hfWGpLBqAOqZxb59eiXBb) | [GUITAR](https://open.spotify.com/album/7HbZtnf9Ldb8j5haNiB2CL) | 2:24 | 2025-05-23 | 2026-01-15 |
 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 | 2025-10-17 |  |
@@ -615,7 +616,7 @@
 | [Situation](https://open.spotify.com/track/2JHiLoWqfMwgmwB3GMUC6B) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt), [Dj Cent15 Beatz](https://open.spotify.com/artist/0VW95SnxZpVFoqwuFndeqw) | [Situation](https://open.spotify.com/album/6faLPfsq2dkHF4HUIpTTOU) | 2:50 | 2025-02-21 | 2025-07-12 |
 | [Smarta With Data](https://open.spotify.com/track/7l3WsQd4D26YgKT4NadSaq) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Smarta With Data](https://open.spotify.com/album/0ds35akHlzWehrbwBaYKPg) | 3:57 | 2025-01-10 | 2025-02-01 |
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-24 | 2023-06-10 |
-| [SO EASY](https://open.spotify.com/track/5Xpg9jBPwXuD8kPuPISJco) | [NoKliché](https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [SO EASY](https://open.spotify.com/album/1sws8uUckiuCwSo1T23qW2) | 3:09 | 2026-02-20 |  |
+| [SO EASY](https://open.spotify.com/track/5Xpg9jBPwXuD8kPuPISJco) | [NoKliché](https://open.spotify.com/artist/4LqcQvo6HhY2bRVYF3RBih), [Mopao Mumu](https://open.spotify.com/artist/2FGcCdhsLNAlPS1pCpBFf3) | [SO EASY](https://open.spotify.com/album/1sws8uUckiuCwSo1T23qW2) | 3:09 | 2026-02-20 | 2026-03-05 |
 | [SOIS PAS TIMIDE](https://open.spotify.com/track/37tGmKyKlr8vyt9BVdoWQo) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [SOIS PAS TIMIDE](https://open.spotify.com/album/7aJmLrwVq0bK3qHuGcaUbs) | 2:45 | 2024-07-26 | 2024-09-14 |
 | [Soldat](https://open.spotify.com/track/0mMlg9IjOqcDYFIkWiJUnC) | [Samy palila](https://open.spotify.com/artist/0ie8C29F5qLW9CoMdogwyL), [Robinio Mundibu](https://open.spotify.com/artist/1YzBVaJOz8SAPDPcA13odz) | [Soldat](https://open.spotify.com/album/6B8xFNUP5v5zneQMo6eENp) | 3:14 | 2023-09-08 | 2023-12-16 |
 | [Solola bien](https://open.spotify.com/track/2DojN92dP5pBFCQK5YLGQJ) | [Wenge Musica Maison Mère](https://open.spotify.com/artist/5HYnodQm58vIfTGvxhA1Qp) | [Maison mère](https://open.spotify.com/album/5M8p6oL21ngPA4E5lSIGbU) | 7:02 | 2022-06-30 | 2024-05-18 |

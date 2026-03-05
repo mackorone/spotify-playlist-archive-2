@@ -1,6 +1,6 @@
 {
   "description": "Viaja al M\u00e9xico tradicional con la expresi\u00f3n de sus guitarras.",
-  "num_followers": 152519,
+  "num_followers": 152542,
   "original_name": "Guitarra Mexicana",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Toda Esta Gente",
-        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
-      },
-      "artists": [
-        {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "Toda Esta Gente",
-      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Noche Negra",
         "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 119739,
       "name": "Noche Negra",
       "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Toda Esta Gente",
+        "url": "https://open.spotify.com/album/5e5DyxOEoKX6ZwKGTAuls1"
+      },
+      "artists": [
+        {
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "Toda Esta Gente",
+      "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Siempre Te Amare",
-        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
-      },
-      "artists": [
-        {
-          "name": "Las Penas",
-          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
-        }
-      ],
-      "duration_ms": 149750,
-      "name": "Siempre Te Amare",
-      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 309933,
       "name": "Popurri de Jose Alfredo Jimenez: Ella / La Enorme Distancia / Que Te Vaya Bonito / V\u00e1monos",
       "url": "https://open.spotify.com/track/6ACOpwrtWV5oIsAZjVUrGw"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Siempre Te Amare",
+        "url": "https://open.spotify.com/album/3xuBRLDnpaa0C4kn46LzK4"
+      },
+      "artists": [
+        {
+          "name": "Las Penas",
+          "url": "https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS"
+        }
+      ],
+      "duration_ms": 149750,
+      "name": "Siempre Te Amare",
+      "url": "https://open.spotify.com/track/3chlEDJ4tTR1WnitKFVxrB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "En la Intimidad",
-        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Puente",
-          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Mi Ciudad",
-      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra",
         "url": "https://open.spotify.com/album/0LxilFXMfEsuw2dJGhk76A"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 165360,
       "name": "Piensa en Mi",
       "url": "https://open.spotify.com/track/05sLGr0JXu4Ika7jXcilYJ"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "En la Intimidad",
+        "url": "https://open.spotify.com/album/3Xof1I1qAhA7f1OrpfGOj5"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Puente",
+          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Mi Ciudad",
+      "url": "https://open.spotify.com/track/09vo3ERI7rROqzjy2c8bN3"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 285066,
       "name": "Popurri de la Revolucion: Cielito Lindo / La Valentina / La Adelita / La Rielera",
       "url": "https://open.spotify.com/track/4nT54TLQMAjnpBwg1uDwfF"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
-      },
-      "artists": [
-        {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Mexico Lindo y Querido",
-      "url": "https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 326266,
       "name": "Popurri a Vicente Fernandez: De Qu\u00e9 Manera Te Olvido? / Tu Camino y el M\u00edo / Si Acaso Vuelves / Por Tu Maldito Amor",
       "url": "https://open.spotify.com/track/2E1PZkiCEH6XDtqIP5TR2O"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/6lumfvD8xwtfHiabaaBXS6"
+      },
+      "artists": [
+        {
+          "name": "Romanticos De La Guitarra",
+          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Mexico Lindo y Querido",
+      "url": "https://open.spotify.com/track/6kUb9SK5nzn0HjDiLA61mx"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-07-11 01:27:02",
       "album": {
-        "name": "Guitarras, Lloren ... Guitarras",
-        "url": "https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t"
-      },
-      "artists": [
-        {
-          "name": "Romanticos De La Guitarra",
-          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
-        }
-      ],
-      "duration_ms": 193693,
-      "name": "No Volver\u00e9",
-      "url": "https://open.spotify.com/track/4ZQ1Y56dqtHDiank1MPOac"
-    },
-    {
-      "added_at": "2024-07-11 01:27:02",
-      "album": {
         "name": "Los Poetas de la Guitarra Popurris Inolvidables",
         "url": "https://open.spotify.com/album/09kgUfKZsxwHb5Vphl10YT"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 356360,
       "name": "Popurri de Cuco Sanchez: Anillo de Compromiso / Fallaste Coraz\u00f3n / La Cama de Piedra / La Chancla",
       "url": "https://open.spotify.com/track/149Ka0uCWWH4b9pA7GeRPZ"
+    },
+    {
+      "added_at": "2024-07-11 01:27:02",
+      "album": {
+        "name": "Guitarras, Lloren ... Guitarras",
+        "url": "https://open.spotify.com/album/0OaejbGdGCWKoMp5MguB2t"
+      },
+      "artists": [
+        {
+          "name": "Romanticos De La Guitarra",
+          "url": "https://open.spotify.com/artist/6HexP8xPE4JxhMkwxx55Pz"
+        }
+      ],
+      "duration_ms": 193693,
+      "name": "No Volver\u00e9",
+      "url": "https://open.spotify.com/track/4ZQ1Y56dqtHDiank1MPOac"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1464,13 +1464,13 @@
       },
       "artists": [
         {
-          "name": "Gilberto Puente",
-          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
+          "name": "Claudio Estrada",
+          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Que Bonita Es Mi Tierra",
-      "url": "https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2"
+      "duration_ms": 166773,
+      "name": "El Mar - Beyond the Sea [Resmasterizado]",
+      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
     },
     {
       "added_at": "2024-07-11 01:27:02",
@@ -1480,13 +1480,13 @@
       },
       "artists": [
         {
-          "name": "Claudio Estrada",
-          "url": "https://open.spotify.com/artist/0LPTWTGEL7owKrYVeu50iJ"
+          "name": "Gilberto Puente",
+          "url": "https://open.spotify.com/artist/1OBVE9oxvqZ5mGtUUR3wVR"
         }
       ],
-      "duration_ms": 166773,
-      "name": "El Mar - Beyond the Sea [Resmasterizado]",
-      "url": "https://open.spotify.com/track/4tyI1kQ3MIx58NDRIJY7oB"
+      "duration_ms": 190000,
+      "name": "Que Bonita Es Mi Tierra",
+      "url": "https://open.spotify.com/track/1duK1uz8Fpk3GG6gdXiXt2"
     },
     {
       "added_at": "2024-07-11 01:27:02",

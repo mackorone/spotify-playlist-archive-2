@@ -1,12 +1,12 @@
 {
   "description": "This is Los Invasores De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 196233,
+  "num_followers": 196267,
   "original_name": "This Is Los Invasores De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAxEDkvn833YrVlexsCfeiU",
+  "snapshot_id": "aaYkgAAAAACORInQZZzM4goXnq816kWt",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Dios No Lo Quiera",
+      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal Vez Quiere",
         "url": "https://open.spotify.com/album/50HJh1fOj3jBS7qxpJzOCW"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 152293,
       "name": "La Fuga Del Rojo",
       "url": "https://open.spotify.com/track/2cyH9j4rvR9Q6Zg5LZNvPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros \u00c9xitos",
-        "url": "https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Dios No Lo Quiera",
-      "url": "https://open.spotify.com/track/3ujr1xnvt5kxuEfAwxuvKf"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Nada Contigo",
-      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Flor De Naranjo",
         "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 150973,
       "name": "El Amor De Nosotros",
       "url": "https://open.spotify.com/track/2APZe1mAUx8lMfFVP2f7AA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Nada Contigo",
+      "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
     },
     {
       "added_at": null,

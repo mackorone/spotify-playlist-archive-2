@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Mahalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,780 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,806 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 28 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 29 | [Nature](https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb) | 2:46 |
 | 30 | [Mad Out](https://open.spotify.com/track/0bTlhD1l36iHX1SUiNa3nL) | [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Mad Out](https://open.spotify.com/album/6nR7RCfNBtfEHNW7wRVP67) | 2:33 |
-| 31 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
-| 32 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
+| 31 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
+| 32 | [Higher Life](https://open.spotify.com/track/45hcfulMM8BGDKFj6MnZv6) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Higher Life](https://open.spotify.com/album/3lhwBOftasfbBakMOQOAzX) | 3:18 |
 | 33 | [Pain](https://open.spotify.com/track/6ULweuw2Nah5Ha0F6zrBei) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:27 |
 | 34 | [Mariposa](https://open.spotify.com/track/7yCyUU23UQA4gXkPYpCF8z) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [Mariposa](https://open.spotify.com/album/296P0WTEXbp7n9NpVCsAqV) | 3:42 |
 | 35 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |

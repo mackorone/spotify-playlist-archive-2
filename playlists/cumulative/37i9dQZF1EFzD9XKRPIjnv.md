@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0ZGETGfppBycgid9gfvgIM">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-212 songs - 11 hr 52 min
+213 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/track/3ld1FzyNgpZwGn4h9cOXrq) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Love Me Not \(feat\. Rex Orange County\)](https://open.spotify.com/album/66SYFOZM5lxnGsBot10yqI) | 3:08 | 2025-07-09 |  |
 | [Love Myself \(The High Note\)](https://open.spotify.com/track/0BrSj3Jcx8hK6B4G1ZqMs8) | [Tracee Ellis Ross](https://open.spotify.com/artist/3e317QrU8NZcH2yKSckopt) | [Love Myself \(The High Note\)](https://open.spotify.com/album/168h5YSeGvlsR45g4MpllW) | 3:27 | 2021-12-27 |  |
 | [Mad at You \(with Gallant\)](https://open.spotify.com/track/4G4EoG2Dk7kjisJKv9DP5h) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Mad at You \(with Gallant\)](https://open.spotify.com/album/7dyE6UJ5D2dj2VStrMkRbI) | 3:46 | 2021-12-27 |  |
+| [Madonna](https://open.spotify.com/track/08lxQMon7L91ykAMi87rgN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Blanket](https://open.spotify.com/album/7MbhBlacUYoWPZYUhsWLxK) | 3:03 | 2026-03-04 |  |
 | [Me \(feat\. BOI\)](https://open.spotify.com/track/6fPxuq3eIFGdDozpg1YMOI) | [L D R U](https://open.spotify.com/artist/2RnDmyX1zzOkK5Cj9QPhMq), [BOI](https://open.spotify.com/artist/7y73UWza7rolywdtTdYJV4) | [Sizzlar](https://open.spotify.com/album/4AVhMub7KtxGzPlBrKJ6L7) | 3:25 | 2021-12-27 |  |
 | [MERRY GO ROUND](https://open.spotify.com/track/3X6A3gv1wfmMQ6UERbwCmW) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [MERRY GO ROUND](https://open.spotify.com/album/4iHL7KUiibZSpZRIsa6t7v) | 2:24 | 2023-04-30 |  |
 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-20 |  |

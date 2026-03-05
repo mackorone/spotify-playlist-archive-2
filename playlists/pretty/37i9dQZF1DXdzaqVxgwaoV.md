@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,548 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,539 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 41 | [Veinte Años](https://open.spotify.com/track/5bkfp7VLBka3b2tqLjC0Au) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Grandes Éxitos](https://open.spotify.com/album/2PfUQSQlXgkhCkEdCfBNmL) | 3:01 |
 | 42 | [Viejo Juguete](https://open.spotify.com/track/3T5b76vKa8URdXJ0PF5oPG) | [El Caballero Gaucho](https://open.spotify.com/artist/1Y8tkL7bBifF9JiCcEzo70) | [Coleccion Grandes Figuras](https://open.spotify.com/album/4nSqh2gtrHCfGsxisJXsUe) | 1:53 |
 | 43 | [La Ley del Amor](https://open.spotify.com/track/0nqAV0N6RFf23OUAK2XLPR) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:10 |
-| 44 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
-| 45 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 44 | [Si Pudiera](https://open.spotify.com/track/0ElVpWQhNKrkoGUvDBpr1y) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:53 |
+| 45 | [De Lejos Tierras](https://open.spotify.com/track/6J97uiyHlGoZFxYwWwU4fN) | [Lupe Y Polo](https://open.spotify.com/artist/7B3FM4BQ27FOhvWDZSslsS) | [15 Éxitos](https://open.spotify.com/album/6uowaVidZAFQIyT1jTkYBy) | 2:36 |
 | 46 | [Era un Domingo](https://open.spotify.com/track/6kO9XmOlD4VI3WSrqgbq6W) | [Los Alegres Cordillera](https://open.spotify.com/artist/4ZlDiExFa7Zjiu9Y65V608) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 3:05 |
 | 47 | [Por Retenerte](https://open.spotify.com/track/13BtA47QqoO57N9H4XHLps) | [Odilio Gonzalez](https://open.spotify.com/artist/206W0oLEf4mLQiOsFNtnH2) | [Los Grandes Exitos de Odilio González: Vol\. 7](https://open.spotify.com/album/1sdNOVvPaLGb8MR3OsZLgl) | 3:05 |
 | 48 | [Mi Gran Secreto](https://open.spotify.com/track/1w7HjjEcAgbB4BF5haaPvn) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 2:48 |

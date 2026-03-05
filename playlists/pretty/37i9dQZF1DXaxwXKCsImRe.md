@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > Spotify editors pick exciting artists for RADAR BNLX\. New: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,856 likes - 41 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,858 likes - 41 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

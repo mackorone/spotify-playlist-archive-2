@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22902,
+  "num_followers": 22908,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,30 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
+      },
+      "artists": [
+        {
+          "name": "RDD",
+          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
+        },
+        {
+          "name": "Anik Khan",
+          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
+        },
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-03-02 15:36:05",
+      "album": {
         "name": "Repare",
         "url": "https://open.spotify.com/album/0rswlyKUDeI9dEbz9KgQOE"
       },
@@ -579,30 +603,6 @@
       "duration_ms": 125672,
       "name": "PILLOW",
       "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
-    },
-    {
-      "added_at": "2026-03-02 15:36:05",
-      "album": {
-        "name": "Energy",
-        "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
-      },
-      "artists": [
-        {
-          "name": "RDD",
-          "url": "https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW"
-        },
-        {
-          "name": "Anik Khan",
-          "url": "https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa"
-        },
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Energy",
-      "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
     },
     {
       "added_at": "2026-03-02 15:36:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
-        "name": "Fatal",
-        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
-      },
-      "artists": [
-        {
-          "name": "Juniper",
-          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
-        }
-      ],
-      "duration_ms": 144940,
-      "name": "Fatal",
-      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
-    },
-    {
-      "added_at": "2026-03-02 15:36:05",
-      "album": {
         "name": "Grande",
         "url": "https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 234000,
       "name": "Me Balan\u00e7a Toda",
       "url": "https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p"
+    },
+    {
+      "added_at": "2026-03-02 15:36:05",
+      "album": {
+        "name": "Fatal",
+        "url": "https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4"
+      },
+      "artists": [
+        {
+          "name": "Juniper",
+          "url": "https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN"
+        }
+      ],
+      "duration_ms": 144940,
+      "name": "Fatal",
+      "url": "https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS"
     },
     {
       "added_at": "2026-03-02 15:36:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
-    },
-    {
-      "added_at": "2026-03-02 15:36:05",
-      "album": {
         "name": "B\u00f3ra",
         "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 235800,
       "name": "B\u00f3ra",
       "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
+    },
+    {
+      "added_at": "2026-03-02 15:36:05",
+      "album": {
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-03-02 15:36:05",

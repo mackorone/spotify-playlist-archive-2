@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 198300,
       "name": "2+2",
       "url": "https://open.spotify.com/track/2GP6UzoA55p6yYiPCGyEhg"
@@ -2898,7 +2898,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 131707,
       "name": "Chichabeba",
       "url": "https://open.spotify.com/track/5ntlWZx00S7XlXW7cuUk3g"
@@ -4912,7 +4912,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 147804,
       "name": "El Me Minti\u00f3, Mentiras, Mentiras",
       "url": "https://open.spotify.com/track/2UJwVPIghpeAiU5ERjuycq"
@@ -6610,7 +6610,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 252000,
       "name": "Hoja En Blanco - En Vivo",
       "url": "https://open.spotify.com/track/2lubZbjoBImkSyNiwagbXr"
@@ -7453,6 +7453,28 @@
     },
     {
       "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
+    },
+    {
+      "album": {
         "name": "KEEP IT UP",
         "url": "https://open.spotify.com/album/05WGAVWDAoG8uoyCSee8IQ"
       },
@@ -7682,6 +7704,24 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2sXknzW9MIR2RfZF6dgiUR"
+    },
+    {
+      "album": {
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168536,
+      "name": "La Mam\u00e1 de los Pollitos",
+      "url": "https://open.spotify.com/track/6eOJUMDFq7L93bcJmdEUmy"
     },
     {
       "album": {
@@ -8383,6 +8423,28 @@
     },
     {
       "album": {
+        "name": "Love To Be Loved",
+        "url": "https://open.spotify.com/album/7G3oABTzz3ZtRTwkdDMeoN"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Love To Be Loved",
+      "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
+    },
+    {
+      "album": {
         "name": "The King Khan & BBQ Show",
         "url": "https://open.spotify.com/album/7kHrwYwLS5HUng16CHd5rF"
       },
@@ -8986,6 +9048,24 @@
       "duration_ms": 97326,
       "name": "Max Win",
       "url": "https://open.spotify.com/track/1m5Hh6j7SCZF0G9ZvokJVQ"
+    },
+    {
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Me and my",
+      "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
     },
     {
       "album": {
@@ -10044,7 +10124,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 444983,
       "name": "No More Tears",
       "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
@@ -13871,6 +13951,28 @@
     },
     {
       "album": {
+        "name": "Fancy Some More?",
+        "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Stateside + Zara Larsson",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
@@ -14158,6 +14260,24 @@
       "duration_ms": 170977,
       "name": "Super Freaky Girl",
       "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "album": {
+        "name": "CUARTO AZUL",
+        "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "SUPERESTRELLA",
+      "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
     },
     {
       "album": {
@@ -15314,7 +15434,7 @@
       ],
       "date_added": "2025-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 121392,
       "name": "TUTA",
       "url": "https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y"

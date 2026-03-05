@@ -1,12 +1,12 @@
 {
   "description": "This is Laurie Spiegel. The essential tracks, all in one playlist.",
-  "num_followers": 457,
+  "num_followers": 458,
   "original_name": "This Is Laurie Spiegel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAC+DSMYcjsH2YCTVpvSa6KS",
+  "snapshot_id": "aaYkgAAAAAAAgrl0RoDrUlg90GjAPAzD",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donnie & Laurie",
-        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
       "artists": [
         {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
         },
         {
-          "name": "Don Christensen",
-          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 324222,
-      "name": "Donnie and Laurie",
-      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
+      "duration_ms": 174000,
+      "name": "Heliopause",
+      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
     },
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Donnie & Laurie",
+        "url": "https://open.spotify.com/album/5nsagfjuKN6coxKmbfXUSC"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        },
+        {
+          "name": "Don Christensen",
+          "url": "https://open.spotify.com/artist/3X6haiuk2rBlAqlWIpClbm"
+        }
+      ],
+      "duration_ms": 324222,
+      "name": "Donnie and Laurie",
+      "url": "https://open.spotify.com/track/5AQQFtmuIQpLyIu86vrCjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -124,25 +144,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Heliopause",
-      "url": "https://open.spotify.com/track/0rdAXMl6YbYR185e1R6veY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 158500,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
     },
     {
       "added_at": null,
@@ -179,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
       },
@@ -192,9 +212,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+      "duration_ms": 218160,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
     },
     {
       "added_at": null,
@@ -244,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/48IypreqroL9IQjDA0IgB4"
+      "duration_ms": 171874,
+      "name": "Taking It Further",
+      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
     },
     {
       "added_at": null,
@@ -260,9 +280,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 291693,
-      "name": "The Hollows",
-      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
+      "duration_ms": 353506,
+      "name": "Three Sonic Spaces III",
+      "url": "https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg"
     },
     {
       "added_at": null,
@@ -283,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
-      },
-      "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 171874,
-      "name": "Taking It Further",
-      "url": "https://open.spotify.com/track/6Ph3sAJMW1MXr0X6tAltVp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unseen Worlds",
         "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
       },
@@ -312,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 353506,
-      "name": "Three Sonic Spaces III",
-      "url": "https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,

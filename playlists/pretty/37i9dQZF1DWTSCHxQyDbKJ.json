@@ -1,6 +1,6 @@
 {
   "description": "Necessities from LGBTQIA+ artists. Cover: Arlo Parks",
-  "num_followers": 33974,
+  "num_followers": 33970,
   "original_name": "GLOW UK & Ireland ",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-02-10 09:22:04",
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
+      },
+      "artists": [
+        {
+          "name": "Paige Eliza",
+          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
+        }
+      ],
+      "duration_ms": 183839,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
+    },
+    {
+      "added_at": "2026-02-10 09:22:04",
+      "album": {
         "name": "It\u2019s not my fault (it\u2019s yours)",
         "url": "https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 205293,
       "name": "Anything",
       "url": "https://open.spotify.com/track/4C6A9i2wiawiFgnKLAruaW"
-    },
-    {
-      "added_at": "2026-02-10 09:22:04",
-      "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/42EYV7glkIuaDiFoFDKD4T"
-      },
-      "artists": [
-        {
-          "name": "Paige Eliza",
-          "url": "https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey"
-        }
-      ],
-      "duration_ms": 183839,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/4TQ5N0lCI7HC89Kn8DybZP"
     },
     {
       "added_at": "2026-02-10 09:22:04",

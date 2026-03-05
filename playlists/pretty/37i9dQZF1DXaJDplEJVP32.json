@@ -1,6 +1,6 @@
 {
   "description": "Spotify music editors' choice for the best Christian & Gospel songs of 2010s. Cover: MercyMe",
-  "num_followers": 151144,
+  "num_followers": 151167,
   "original_name": "2010s Christian & Gospel",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
       "artists": [
         {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 409986,
-      "name": "Forever - Live",
-      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
+      "duration_ms": 221079,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -403,18 +403,18 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
       },
       "artists": [
         {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
         }
       ],
-      "duration_ms": 221079,
-      "name": "Just Be Held",
-      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+      "duration_ms": 409986,
+      "name": "Forever - Live",
+      "url": "https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1327,8 +1327,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+        "name": "We Will Not Be Shaken (Live)",
+        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
       },
       "artists": [
         {
@@ -1336,13 +1336,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Jonathan David Helser",
+          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
+        },
+        {
+          "name": "Melissa Helser",
+          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
         }
       ],
-      "duration_ms": 299365,
-      "name": "King of My Heart - Live",
-      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
+      "duration_ms": 373691,
+      "name": "No Longer Slaves - Live",
+      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1423,8 +1427,8 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
-        "name": "We Will Not Be Shaken (Live)",
-        "url": "https://open.spotify.com/album/2e3CuXNmlLd5d8OoI2naop"
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
       },
       "artists": [
         {
@@ -1432,17 +1436,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 373691,
-      "name": "No Longer Slaves - Live",
-      "url": "https://open.spotify.com/track/584GnCDcDhRV6R8iZ7gzxC"
+      "duration_ms": 299365,
+      "name": "King of My Heart - Live",
+      "url": "https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6"
     },
     {
       "added_at": "2025-12-12 06:15:47",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-12-12 06:15:47",
       "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 184733,
+      "name": "Start A Fire",
+      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
+    },
+    {
+      "added_at": "2025-12-12 06:15:47",
+      "album": {
         "name": "Fresh Start",
         "url": "https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx"
-    },
-    {
-      "added_at": "2025-12-12 06:15:47",
-      "album": {
-        "name": "Unspoken",
-        "url": "https://open.spotify.com/album/3E8lDVGWQKO7BOxRmcsayi"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 184733,
-      "name": "Start A Fire",
-      "url": "https://open.spotify.com/track/5y8qfDDccV2kEn4roGPter"
     },
     {
       "added_at": "2025-12-12 06:15:47",

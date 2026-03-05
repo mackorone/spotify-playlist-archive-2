@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Kim, Neida
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,654 likes - 128 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,674 likes - 128 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

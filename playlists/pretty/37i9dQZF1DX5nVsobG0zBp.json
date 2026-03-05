@@ -1,6 +1,6 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Papillon ",
-  "num_followers": 82617,
+  "num_followers": 82645,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "MDID",
-        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 312506,
-      "name": "JAMANTAH",
-      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 214530,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/2Cq6yIgdyyaDmY7pvnADVP"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "MDID",
+        "url": "https://open.spotify.com/album/1Snh3qv0H4viIf2IUmfneS"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 312506,
+      "name": "JAMANTAH",
+      "url": "https://open.spotify.com/track/6iP058p5l6mKsWqSEgGPhD"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "Seguran\u00e7a",
+        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 177461,
+      "name": "Seguran\u00e7a",
+      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "SYSTEM",
         "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 246368,
       "name": "TRIBUNAL",
       "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Seguran\u00e7a",
-        "url": "https://open.spotify.com/album/2dXGxbtFGYkpubKsCxvDgx"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 177461,
-      "name": "Seguran\u00e7a",
-      "url": "https://open.spotify.com/track/6CQei9foPt8tr65hP8ESdQ"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
+        "name": "Stunka",
+        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "Stunka",
+      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
         "name": "Adora a bunda, odeia o rosto",
         "url": "https://open.spotify.com/album/7p7iGjCfGo43LNDWPDfGXi"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 173859,
       "name": "Adora a bunda, odeia o rosto",
       "url": "https://open.spotify.com/track/791WFhCnv7eZTPe5U8XbB4"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
-        "name": "Stunka",
-        "url": "https://open.spotify.com/album/2obSOKa79b0NKNZyVccaIf"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Stunka",
-      "url": "https://open.spotify.com/track/6GetYj6tnZOw6HgoEhb4du"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "El Chapo",
-        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 241813,
-      "name": "El Chapo",
-      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Hoji N'ka ta Rola",
         "url": "https://open.spotify.com/album/3IaC88OL226GYBYBTn3KBR"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 236526,
       "name": "Hoji N'ka ta Rola",
       "url": "https://open.spotify.com/track/3EtXiDhRO8psTWs2uY8nyA"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "El Chapo",
+        "url": "https://open.spotify.com/album/2LhRoA068ps6Ro76JXKaBw"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 241813,
+      "name": "El Chapo",
+      "url": "https://open.spotify.com/track/21eK6Nj3MWcVGholM4AqZH"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "CABARET",
-        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 135117,
-      "name": "CABARET",
-      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "PRA MIM",
         "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 153858,
       "name": "PRA MIM",
       "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "CABARET",
+        "url": "https://open.spotify.com/album/31BxT3LcIPCP5P04rZgoah"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 135117,
+      "name": "CABARET",
+      "url": "https://open.spotify.com/track/4r1Mvqp7prTkjH5OiVXC6r"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "DAKAR",
-        "url": "https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR"
-      },
-      "artists": [
-        {
-          "name": "ProfJam",
-          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
-        }
-      ],
-      "duration_ms": 224653,
-      "name": "DAKAR",
-      "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Reflexo",
         "url": "https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 232000,
       "name": "Mo Boy",
       "url": "https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "DAKAR",
+        "url": "https://open.spotify.com/album/6a0RFiFtvOADiIpxS3SfVR"
+      },
+      "artists": [
+        {
+          "name": "ProfJam",
+          "url": "https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP"
+        }
+      ],
+      "duration_ms": 224653,
+      "name": "DAKAR",
+      "url": "https://open.spotify.com/track/63q6I2XT4bhSaauCQWOYM1"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Borboletas",
-        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
-      },
-      "artists": [
-        {
-          "name": "Gama WNTD",
-          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
-        }
-      ],
-      "duration_ms": 204281,
-      "name": "Borboletas",
-      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Lua",
         "url": "https://open.spotify.com/album/7tMIxE9bA5hgemL5tUzvI1"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 192631,
       "name": "Lua",
       "url": "https://open.spotify.com/track/7BELSQR2lAJLELaKvVkct3"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Borboletas",
+        "url": "https://open.spotify.com/album/1i51I1eMbdhkaH8AShzWjh"
+      },
+      "artists": [
+        {
+          "name": "Gama WNTD",
+          "url": "https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD"
+        }
+      ],
+      "duration_ms": 204281,
+      "name": "Borboletas",
+      "url": "https://open.spotify.com/track/1h1JMmAzXR6lWJ7KnJQkU7"
     },
     {
       "added_at": "2026-01-12 15:23:48",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-01-12 15:23:48",
       "album": {
-        "name": "Bairro",
-        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
-      },
-      "artists": [
-        {
-          "name": "Wet Bed Gang",
-          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
-        }
-      ],
-      "duration_ms": 258590,
-      "name": "Bairro",
-      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
-    },
-    {
-      "added_at": "2026-01-12 15:23:48",
-      "album": {
         "name": "Mo\u00e7a",
         "url": "https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 180340,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc"
+    },
+    {
+      "added_at": "2026-01-12 15:23:48",
+      "album": {
+        "name": "Bairro",
+        "url": "https://open.spotify.com/album/430C90nJt95Ie8YPDZFA46"
+      },
+      "artists": [
+        {
+          "name": "Wet Bed Gang",
+          "url": "https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8"
+        }
+      ],
+      "duration_ms": 258590,
+      "name": "Bairro",
+      "url": "https://open.spotify.com/track/1ai9FDnFQDv18WAtFhMTIz"
     },
     {
       "added_at": "2026-01-12 15:23:48",

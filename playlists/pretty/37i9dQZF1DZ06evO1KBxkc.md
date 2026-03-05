@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 > This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,897 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,910 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 19 | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/0SvxydoxEEkXt9aMAqTfpB) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Wait \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/5hDpkIt9yuU2MYDqzdxBDE) | 3:10 |
 | 20 | [Friend Zone](https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Artist](https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z) | 3:55 |
 | 21 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 |
-| 22 | [﻿Get Away](https://open.spotify.com/track/57gmI0FUpCoixrnjBxpXpS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 2:29 |
+| 22 | [Show Me Something Real](https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 3:11 |
 | 23 | [KEKE](https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Fetty Wap](https://open.spotify.com/artist/4sUASeYbHY6bwgMMTPJwdz), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Day69: Graduation Day](https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6) | 2:31 |
 | 24 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
 | 25 | [Skeezers](https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:18 |
-| 26 | [Show Me Something Real](https://open.spotify.com/track/3LQf1YMwVTO7owyfsVbVae) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 3:11 |
+| 26 | [﻿Get Away](https://open.spotify.com/track/57gmI0FUpCoixrnjBxpXpS) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Before Artistry](https://open.spotify.com/album/3H9jMWGLMhckbBFWdTV0ez) | 2:29 |
 | 27 | [Last Drink](https://open.spotify.com/track/6HNxPQ3Atlfq5yQa5LGMIj) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Last Drink](https://open.spotify.com/album/4RAAZcbae57tp6h2joUZuu) | 2:36 |
 | 28 | [Red Light \(feat\. Trippie Redd\)](https://open.spotify.com/track/4LjylDK1ilK0Ab7ylRdO3Z) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Red Light \(feat\. Trippie Redd\)](https://open.spotify.com/album/27TLYLViRV2CpzbFnOiVYQ) | 3:26 |
 | 29 | [Just Like Me \(feat\. Young Thug\)](https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 49 | [Say A'](https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:34 |
 | 50 | [Glasses](https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:22 |
 
-Snapshot ID: `aaTTAAAAAAAL2VvPxWLsTQ37DA37BQxP`
+Snapshot ID: `aaYkgAAAAAAdJxn6pgenCiItpud/wIXt`

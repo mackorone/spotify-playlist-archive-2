@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 
 > From India to MENA, these hits will make you dance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,845 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,844 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cLxqtNO3zl.md) - [plain]
 | 35 | [YA HABIBI](https://open.spotify.com/track/2Tp6ANSbloxbty2DR0uws7) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp), [Abhishek Talented](https://open.spotify.com/artist/5D10pAEJDqDAseh6iZj5Mj) | [YA HABIBI](https://open.spotify.com/album/1xpPQ3iwkBuBGQNbRalt5Q) | 3:47 |
 | 36 | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/track/5eA1snpFbKfoUICqvYSg63) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Adel Ebrahim](https://open.spotify.com/artist/54orihTp212ScJ6Ldx71QL), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [Telagena \(Gerua \- Arabic Version\) \[From "Dilwale"\]](https://open.spotify.com/album/0QzBLvMpcBtLnHocP7CNZX) | 5:50 |
 | 37 | [Bikhtissar](https://open.spotify.com/track/2YG9XwTOEWUj0BhiU5XgpL) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [Bikhtissar](https://open.spotify.com/album/0xw0IgIfc7CVIRy6Ktlqyg) | 3:32 |
-| 38 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
-| 39 | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \- Arabic Version](https://open.spotify.com/track/00WbIozZcC3dIykrfOTJLP) | [Grini](https://open.spotify.com/artist/27QsnkMyjLpCFHFqfSdFE1), [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \[Arabic Version\]](https://open.spotify.com/album/3fPJxq7mCKPcrSuxEg4XxW) | 3:27 |
+| 38 | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \- Arabic Version](https://open.spotify.com/track/00WbIozZcC3dIykrfOTJLP) | [Grini](https://open.spotify.com/artist/27QsnkMyjLpCFHFqfSdFE1), [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [لا جوزاديرا \(feat\. Marc Anthony & Gente de Zona\) \[Arabic Version\]](https://open.spotify.com/album/3fPJxq7mCKPcrSuxEg4XxW) | 3:27 |
+| 39 | [Angel](https://open.spotify.com/track/5s6w6LGupX78gmYBnD6PyX) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP) | [Angel](https://open.spotify.com/album/6ayXe6K6BCesXlSeYFFowA) | 2:55 |
 | 40 | [Nur El Ain](https://open.spotify.com/track/1g0RCr8hsUX8GD4M5FxQCd) | [Nafees](https://open.spotify.com/artist/55NgsJHIYOrbyoZSA3CEel), [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Nur El Ain](https://open.spotify.com/album/08UbQURfNlGtjT9Liqq9Rj) | 3:06 |
 | 41 | [Mar Jawaan \(From "Fashion"\)](https://open.spotify.com/track/0XxS5PiE4vrJPsXGosiH0r) | [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [International Diva \- Priyanka Chopra](https://open.spotify.com/album/1vPFF3VMJviuU4ievj34YB) | 3:56 |
 | 42 | [Aameen 2.0](https://open.spotify.com/track/2qbNhg5R639B4SP2ROwTbU) | [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [Aameen 2.0](https://open.spotify.com/album/3XP44vQpUA7i5rw4fbuNZL) | 4:26 |

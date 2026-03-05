@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-03",
+      "date_removed": null,
       "duration_ms": 224720,
       "name": "Africain",
       "url": "https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 175390,
       "name": "Atiteha l'amour \u0639\u0637\u064a\u062a\u0647\u0627",
       "url": "https://open.spotify.com/track/0iQYnonGw7XG8m7N1tQdDz"
@@ -22008,7 +22008,7 @@
       ],
       "date_added": "2025-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 224000,
       "name": "Medical",
       "url": "https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN"
@@ -22066,7 +22066,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 201724,
       "name": "Melina",
       "url": "https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j"
@@ -22244,7 +22244,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 214364,
       "name": "Mghayer",
       "url": "https://open.spotify.com/track/5QhnCB5kD34sYkvHviU0yz"
@@ -28216,7 +28216,7 @@
       ],
       "date_added": "2023-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "Qui sait ? (feat. ElGrandeToto)",
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
@@ -33324,7 +33324,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 200000,
       "name": "TGV",
       "url": "https://open.spotify.com/track/109qPdBVwQb4kHIm4xTQu0"
@@ -34124,6 +34124,24 @@
       "duration_ms": 139420,
       "name": "Totopika",
       "url": "https://open.spotify.com/track/3Tl3NwVX0ndMY3jcPaFoVm"
+    },
+    {
+      "album": {
+        "name": "AUJ",
+        "url": "https://open.spotify.com/album/6rHJ1XmcqU0BHM2avkxBxx"
+      },
+      "artists": [
+        {
+          "name": "Aujiss",
+          "url": "https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167216,
+      "name": "Tou7chtk",
+      "url": "https://open.spotify.com/track/1tGIVt8MeK4vhF9NWQ6IUs"
     },
     {
       "album": {

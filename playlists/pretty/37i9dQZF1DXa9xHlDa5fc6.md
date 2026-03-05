@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,645 likes - 150 songs - 9 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 482,670 likes - 150 songs - 9 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,16 +98,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 88 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 89 | [Temporary Love](https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W) | [The Brinks](https://open.spotify.com/artist/4fLpQdr6R7gqNGY7xpr7Jz) | [Temporary Love](https://open.spotify.com/album/1cRv0odNNvTSxVnNFmeusc) | 3:25 |
 | 90 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 |
-| 91 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
+| 91 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
 | 92 | [I See You](https://open.spotify.com/track/3EqHFfCSbX4Z1pX8JQ0c0r) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [I See You](https://open.spotify.com/album/3dDqhWFE1ev9y7mnkEEG1p) | 3:48 |
-| 93 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
+| 93 | [GEMINI](https://open.spotify.com/track/5j99dfS5X643RxuJdyizt3) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Jackie Giroux](https://open.spotify.com/artist/5QX6gWlu1rdoTKPZ9FiwYh) | [1\-800 FANTASY](https://open.spotify.com/album/4Hc9kwSIRb2jgE441FOueK) | 2:37 |
 | 94 | [Weightless](https://open.spotify.com/track/4syzriQO4gEZR61pU5FBFd) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Weightless](https://open.spotify.com/album/6XscVw482npx8U4x0aXXyp) | 4:02 |
 | 95 | [Come Follow Me Down](https://open.spotify.com/track/5RPx9i0nwUdzpvJcYFTe1D) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Come Follow Me Down](https://open.spotify.com/album/45qH3mYvEOhFYrCVJC8QZn) | 3:12 |
 | 96 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
-| 97 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
-| 98 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 |
-| 99 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
-| 100 | [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 |
+| 97 | [Death of Me](https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi) | [Brandon Jenner](https://open.spotify.com/artist/6q6eylLazY3ORi6YqH9x4x) | [Death of Me](https://open.spotify.com/album/2UQJTykxd6XNynpRkWZtMP) | 3:34 |
+| 98 | [Taking You There](https://open.spotify.com/track/2siSRzAvp1FaN18hC9VneS) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Broods](https://open.spotify.com/album/260VhALUsA6HdgBRfCLHh4) | 3:09 |
+| 99 | [Dead Boys](https://open.spotify.com/track/0dApI39mMqaXSbSsq4J7kI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Dead Boys](https://open.spotify.com/album/45vySJkc2UuDd6DWYnJeAL) | 3:25 |
+| 100 | [Show Me How](https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Show Me How](https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz) | 4:53 |
 | 101 | [Levitate](https://open.spotify.com/track/6nlA3j4n3KAY8AgEGmos2o) | [The Palms](https://open.spotify.com/artist/1zVGInzEij1qk9ZlMlOC2X) | [Levitate](https://open.spotify.com/album/3K8q99Bi8C6OYQbmUEaeR2) | 3:50 |
 | 102 | [Guitar Beat](https://open.spotify.com/track/5xPcLp3G2eaR2rrKHKsFME) | [Prelow](https://open.spotify.com/artist/7aSRqRjQAYTEm2fFohlZZn) | [Guitar Beat](https://open.spotify.com/album/0OU7x2IHQ9NgHgYTWYrXRw) | 3:25 |
 | 103 | [Gemini](https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr) | [PLGRMS](https://open.spotify.com/artist/1KR4mZ0mbC8ATQFqljUR6k) | [Gemini](https://open.spotify.com/album/53BCrCrl3BENt20FFixjn9) | 3:45 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 105 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
 | 106 | [Perfume](https://open.spotify.com/track/5CBZHzvgJ7bOB9WPWmWbwq) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Perfume](https://open.spotify.com/album/7tbsKocOD59BcX2FJKfqUH) | 3:39 |
 | 107 | [Blades](https://open.spotify.com/track/11xCgS8k2RSzgngwkOqJV6) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Blades](https://open.spotify.com/album/2tYM85N8cMlXGIqrR1nkep) | 3:41 |
-| 108 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 |
-| 109 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 108 | [Horizons](https://open.spotify.com/track/3lHh76erVVIK364LN7KBRr) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Horizons](https://open.spotify.com/album/0TNoEusEuT3DfGVhuc3j9D) | 3:03 |
+| 109 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 |
 | 110 | [Bottom Of The Deep Blue Sea](https://open.spotify.com/track/4hg8D0wW7CXEUsc0fl9vnN) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Bottom Of The Deep Blue Sea](https://open.spotify.com/album/58CDsLKHOAKFTkAwFefW6d) | 3:51 |
 | 111 | [Just A Western](https://open.spotify.com/track/69GRL4Pmz6yxw3CUkaeP2A) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Just A Western](https://open.spotify.com/album/1vVnnj9S99ub44XnSknEXZ) | 4:29 |
 | 112 | [Stay Golden](https://open.spotify.com/track/45OEuZMTUGnI03JnjuLs7x) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Stay Golden](https://open.spotify.com/album/4dC2p95PixzWkTym8R9Z25) | 2:53 |
@@ -153,8 +153,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 143 | [Dangerous Game](https://open.spotify.com/track/2xPVwhmbfL7YiHaC6gkdml) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:01 |
 | 144 | [Honey](https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB) | [Farmer](https://open.spotify.com/artist/2ICzoFVUSRPtRIus49gmo8), [Dave Matthews](https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2) | [The Color That Suits You](https://open.spotify.com/album/1oDYS0y3zgIUpcqlrw3XGa) | 4:53 |
 | 145 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 |
-| 146 | [Flake](https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 |
-| 147 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 |
+| 146 | [Ain't Scared](https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO) | [The Tragic Thrills](https://open.spotify.com/artist/6Xk7kGyfSdpeuvIlMHx8ys) | [Ain't Scared](https://open.spotify.com/album/2YTCtKjAHW0Vefyv3KmGIw) | 4:20 |
+| 147 | [Flake](https://open.spotify.com/track/0VWV373XFV4xpX2s6bQS9n) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [How It Ends](https://open.spotify.com/album/1moZ22n6w8zWMkWHdHyjSE) | 3:07 |
 | 148 | [Breakdown](https://open.spotify.com/track/16DgQG7hAb6S7Bb783rRro) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Weakness](https://open.spotify.com/album/1jKvsyAQdJG05hNyiMwg8v) | 3:03 |
 | 149 | [Inside Your Mind](https://open.spotify.com/track/5XwJIGnCtQqASIMdcbhbx1) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [Inside Your Mind](https://open.spotify.com/album/69cUZMiLdowX4QgMjJCRI6) | 3:45 |
 | 150 | [Falling for the Evening](https://open.spotify.com/track/1hsYIJgjp93IOkZZJe00aU) | [Golden Ears](https://open.spotify.com/artist/5CfL7yszOW1OOqN9Q8CH6I) | [Falling for the Evening](https://open.spotify.com/album/1g48OrVTOAk3gD6kNhAsnI) | 4:47 |

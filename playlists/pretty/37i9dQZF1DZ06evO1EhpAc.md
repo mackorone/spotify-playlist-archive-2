@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 
 > This is Yaeji\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,641 likes - 42 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,640 likes - 42 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 26 | [Pondeggi](https://open.spotify.com/track/0uWNm9IbLnhL7dEkTG8zMj) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [E Wata](https://open.spotify.com/artist/2me33xonIRaOkg980kntBy) | [Pondeggi](https://open.spotify.com/album/7Kgg67NtyJyZ1YYzIFFCBT) | 4:39 |
 | 27 | [Done \(Let's Get It\)](https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 2:52 |
 | 28 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 |
-| 29 | [Feelings Change](https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 2:35 |
-| 30 | [Do You See Me](https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 2:07 |
+| 29 | [Do You See Me](https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Jentry Chau vs the Underworld](https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19) | [Jentry Chau vs the Underworld \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO) | 2:07 |
+| 30 | [Feelings Change](https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 2:35 |
 | 31 | [Passed Me By](https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 4:03 |
 | 32 | [When in Summer, I Forget About the Winter \- Bonus Track](https://open.spotify.com/track/23Vl5xmLj3Z4pc1zRtjUe2) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/2WCnWcLzQj6nXIdJNeVUjM) | 3:17 |
 | 33 | [Swim Me](https://open.spotify.com/track/3hqQkn1Mbb2nNZyeJfNrb5) | [Ellie Herring](https://open.spotify.com/artist/3CsuIezRpqLyi8gCer8ENB), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [What a Joy](https://open.spotify.com/album/66awLlAFni3514drN79wdh) | 3:28 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1EhpAc.md) - [plain]
 | 41 | [Noonside](https://open.spotify.com/track/6fMipfFtGlw86Bzf5EMGPB) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [Yaeji](https://open.spotify.com/album/50gVMffcuo28DBd6GCSlZk) | 3:25 |
 | 42 | [Pink Ponies](https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [TRANSA](https://open.spotify.com/album/3ZbB4lOfSxeGln33XsFyXG) | 3:05 |
 
-Snapshot ID: `aaTTAAAAAAB74UWD2/ybPQJYGv+vBG4b`
+Snapshot ID: `aaYkgAAAAACBAzp0EH9X2uwp7y9B/gIZ`

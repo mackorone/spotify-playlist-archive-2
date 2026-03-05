@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lapili.",
-  "num_followers": 21228,
+  "num_followers": 21225,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMN2xjuhzSFuLo2weZBMpYYLlbpQ",
+  "snapshot_id": "AAAAAPoghFsQUOIL5aF+L5dcjpRLgjeh",
   "tracks": [
     {
       "added_at": "2026-03-03 23:00:24",
@@ -535,6 +535,26 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
+      },
+      "artists": [
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+        },
+        {
+          "name": "Juacko",
+          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
+        }
+      ],
+      "duration_ms": 131150,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
+    },
+    {
+      "added_at": "2026-03-03 23:00:24",
+      "album": {
         "name": "MAYO SEASON",
         "url": "https://open.spotify.com/album/36spvJZroG0oL8Me4tA8Vp"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 213000,
       "name": "Nuevos Recuerdos",
       "url": "https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc"
-    },
-    {
-      "added_at": "2026-03-03 23:00:24",
-      "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/24zbNGOGUKdAzsHIsa7zxL"
-      },
-      "artists": [
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
-        },
-        {
-          "name": "Juacko",
-          "url": "https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr"
-        }
-      ],
-      "duration_ms": 131150,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/7wMmqdopL0YxhFmn6WSStr"
     },
     {
       "added_at": "2026-03-03 23:00:24",

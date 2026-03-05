@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACLw3FoJtPa4M5upSDLO0dK",
+  "snapshot_id": "aaYkgAAAAACqwGrSfgm+sTpcruJGV3TR",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wednesdays",
+        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 214586,
+      "name": "I'm Sorry And I Love You",
+      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prisoner",
         "url": "https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 194666,
       "name": "Virginia In The Rain",
       "url": "https://open.spotify.com/track/60p5ukyTsVeDnwDp51HAad"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wednesdays",
-        "url": "https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 214586,
-      "name": "I'm Sorry And I Love You",
-      "url": "https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 236254,
+      "name": "Please, Shut The Fuck Up",
+      "url": "https://open.spotify.com/track/2yHsfeMrKZoSYcwnDl9Khu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 169573,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/1V6ga9vfsrjQ0WZTGjDSJo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 236254,
-      "name": "Please, Shut The Fuck Up",
-      "url": "https://open.spotify.com/track/2yHsfeMrKZoSYcwnDl9Khu"
     },
     {
       "added_at": null,
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Blue Monday",
-      "url": "https://open.spotify.com/track/0aZ5pSRiDpjlhJelOTpzId"
+      "duration_ms": 158199,
+      "name": "I Am Dracula",
+      "url": "https://open.spotify.com/track/1tBVKNy12thGdbDXlZy7eU"
     },
     {
       "added_at": null,

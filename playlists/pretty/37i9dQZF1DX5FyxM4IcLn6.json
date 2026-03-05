@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166888,
+  "num_followers": 166893,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "As Alive As You Need Me To Be",
-        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
-      },
-      "artists": [
-        {
-          "name": "Nine Inch Nails",
-          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
-        }
-      ],
-      "duration_ms": 233562,
-      "name": "As Alive As You Need Me To Be",
-      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "EUSEXUA",
         "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 263693,
       "name": "Eusexua",
       "url": "https://open.spotify.com/track/6TeKbncyK62smlAvPy1dNa"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "As Alive As You Need Me To Be",
+        "url": "https://open.spotify.com/album/6KWRGQeL4dzohXRiSwJHK0"
+      },
+      "artists": [
+        {
+          "name": "Nine Inch Nails",
+          "url": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO"
+        }
+      ],
+      "duration_ms": 233562,
+      "name": "As Alive As You Need Me To Be",
+      "url": "https://open.spotify.com/track/1xsEHo7mtGZLEG94vFX11z"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "SINF\u00d3NICO (En Vivo)",
+        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Encantadora - Sinf\u00f3nico En Vivo",
+      "url": "https://open.spotify.com/track/06BMQ0taPFJjI4IDDkjZ00"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "FERXXO VOL X: Sagrado",
         "url": "https://open.spotify.com/album/4Fa9OpneHJPjj5jsrCQuMC"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 150370,
       "name": "DALLAX",
       "url": "https://open.spotify.com/track/5rjWda7HRizhVkcMwikjHN"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "SINF\u00d3NICO (En Vivo)",
-        "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Encantadora - Sinf\u00f3nico En Vivo",
-      "url": "https://open.spotify.com/track/06BMQ0taPFJjI4IDDkjZ00"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Palabra De To's (Seca)",
+        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 112848,
+      "name": "Ah\u00ed Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "SEEIN\u2019 STARS / BIRDS",
         "url": "https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX"
       },
@@ -1927,18 +1943,18 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Palabra De To's (Seca)",
-        "url": "https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P"
+        "name": "Middle",
+        "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
         }
       ],
-      "duration_ms": 112848,
-      "name": "Ah\u00ed Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso"
+      "duration_ms": 215236,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1959,18 +1975,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Middle",
-        "url": "https://open.spotify.com/album/66esRfCq1pX9ofsg4wwp3Q"
+        "name": "Hard Headed Woman",
+        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
       },
       "artists": [
         {
-          "name": "Jesse Welles",
-          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 215236,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/2xvIz18sQhhNWsjnVTo8OS"
+      "duration_ms": 267133,
+      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
+      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1995,26 +2015,6 @@
       "duration_ms": 221894,
       "name": "Headphones",
       "url": "https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Hard Headed Woman",
-        "url": "https://open.spotify.com/album/1q03d1hYDfMWALV5t8Rbaw"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Love Me Like You Used To Do [Feat. Tyler Childers]",
-      "url": "https://open.spotify.com/track/28520OoA1qXG46koPHUcSG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -2231,6 +2231,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Heart & Soul",
+        "url": "https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 181894,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Oh What A Beautiful World",
         "url": "https://open.spotify.com/album/7C2rtzfeP135vyNyzsmhfV"
       },
@@ -2247,22 +2263,6 @@
       "duration_ms": 240053,
       "name": "Oh What A Beautiful World - feat. Rodney Crowell",
       "url": "https://open.spotify.com/track/7ml1acXUTiwSm2WjtXYFbZ"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Heart & Soul",
-        "url": "https://open.spotify.com/album/5WvviNYHAOcmqqk2MYhXw3"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 181894,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/3qnLz54EYonvJ3Ty1tN3MD"
     },
     {
       "added_at": "2025-11-12 17:50:29",

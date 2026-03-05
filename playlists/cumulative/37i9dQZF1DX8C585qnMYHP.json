@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
+  "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -6010,7 +6010,7 @@
       ],
       "date_added": "2025-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 254599,
       "name": "B\u00e2rieh",
       "url": "https://open.spotify.com/track/4twU0LMGHLqK4dtwDaDL5x"
@@ -9219,6 +9219,24 @@
     },
     {
       "album": {
+        "name": "director's cut",
+        "url": "https://open.spotify.com/album/0xwQc1659hI1sFCtCaAiZh"
+      },
+      "artists": [
+        {
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146765,
+      "name": "director's cut",
+      "url": "https://open.spotify.com/track/61b3uyJnNh7d1v5NU7ttiT"
+    },
+    {
+      "album": {
         "name": "Witness EP",
         "url": "https://open.spotify.com/album/0bOW6rAqopRCVEnMRrMlp1"
       },
@@ -10570,7 +10588,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 312105,
       "name": "Emeralds",
       "url": "https://open.spotify.com/track/2THOplVIqdYq8FcHBd7HP4"
@@ -11898,7 +11916,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190738,
       "name": "Feeling Why Do You Follow",
       "url": "https://open.spotify.com/track/5MGeZ5lMzPlgdfcwVmVCzr"
@@ -17772,7 +17790,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 199756,
       "name": "Interlude of Life",
       "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
@@ -19990,6 +20008,24 @@
       "duration_ms": 204000,
       "name": "Liquid Planta Seeds",
       "url": "https://open.spotify.com/track/5Xca137vNBrQOyQf1x66ew"
+    },
+    {
+      "album": {
+        "name": "Systems",
+        "url": "https://open.spotify.com/album/5YrZJApYpcjxM0JF42qjBb"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Karo",
+          "url": "https://open.spotify.com/artist/7sGq5HEpX2hhJHrSI3SiC4"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Liquid Society",
+      "url": "https://open.spotify.com/track/04IuifjNEDlFZVOxsN9ByY"
     },
     {
       "album": {
@@ -22794,7 +22830,7 @@
       ],
       "date_added": "2025-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 130872,
       "name": "Muddy Shores",
       "url": "https://open.spotify.com/track/0XZo0HtwB9W3m3O4Dgc6XN"
@@ -23486,7 +23522,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 238948,
       "name": "Neptune Anteater",
       "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
@@ -26279,6 +26315,24 @@
     },
     {
       "album": {
+        "name": "notes from the air",
+        "url": "https://open.spotify.com/album/7DhmSiXiTpixAAEjWEHm2r"
+      },
+      "artists": [
+        {
+          "name": "Ciro Vitiello",
+          "url": "https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Please Please Dear Seagull",
+      "url": "https://open.spotify.com/track/1bYF5hfIPfGiKSnxGzXgTj"
+    },
+    {
+      "album": {
         "name": "Pli\u00e9",
         "url": "https://open.spotify.com/album/4gmpsOnSKBjikhEXiluCV7"
       },
@@ -27684,6 +27738,24 @@
       "duration_ms": 265000,
       "name": "Release +\u03d5",
       "url": "https://open.spotify.com/track/4z1vmPuzHvVyT4T2zRwslI"
+    },
+    {
+      "album": {
+        "name": "Remaining",
+        "url": "https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI"
+      },
+      "artists": [
+        {
+          "name": "Niels Orens",
+          "url": "https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253443,
+      "name": "Remaining",
+      "url": "https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK"
     },
     {
       "album": {
@@ -30194,7 +30266,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 164667,
       "name": "SKEPTIC TANK",
       "url": "https://open.spotify.com/track/5zjjmAAFDsHQfsKa43Ztk2"
@@ -32075,6 +32147,24 @@
     },
     {
       "album": {
+        "name": "Dreamlike Places",
+        "url": "https://open.spotify.com/album/1fyk4sOhs0IaWQTBb4onha"
+      },
+      "artists": [
+        {
+          "name": "Sacrobosco",
+          "url": "https://open.spotify.com/artist/49VdciQlH7g9UpuA3B4g1C"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289611,
+      "name": "Subway Surfer",
+      "url": "https://open.spotify.com/track/1oJyBtv3pSCDxrb3KgRjwV"
+    },
+    {
+      "album": {
         "name": "Subzero",
         "url": "https://open.spotify.com/album/55C5LPOAwNqnDhNaV1hx8o"
       },
@@ -33542,6 +33632,28 @@
       "duration_ms": 492000,
       "name": "The Burrow",
       "url": "https://open.spotify.com/track/7mKvk2J6Lx4SjGnxjj9PK4"
+    },
+    {
+      "album": {
+        "name": "Paper Masks",
+        "url": "https://open.spotify.com/album/5jc6r4gQEPMx9K9I6E7Hq8"
+      },
+      "artists": [
+        {
+          "name": "Phew",
+          "url": "https://open.spotify.com/artist/7mTJBVGJmkgbjwvbzc0Bqb"
+        },
+        {
+          "name": "Danielle De Picciotto",
+          "url": "https://open.spotify.com/artist/65K6P517Q4BXJxZtPPSxeM"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "The Cat",
+      "url": "https://open.spotify.com/track/6LAG9NnUFiH3YGmPLob5xD"
     },
     {
       "album": {
@@ -36522,6 +36634,24 @@
       "duration_ms": 197142,
       "name": "UMMA - Arssalendo Remix",
       "url": "https://open.spotify.com/track/6Zdz3j652H8aYnfR4IcYK0"
+    },
+    {
+      "album": {
+        "name": "Cardware",
+        "url": "https://open.spotify.com/album/2TEF8MO0nA2HKJNsRQJz2j"
+      },
+      "artists": [
+        {
+          "name": "Mofw",
+          "url": "https://open.spotify.com/artist/0SEWdriPzbyDyT38BWWxiH"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184922,
+      "name": "Un pomeriggio di sole mi sono accorto che stavo correndo",
+      "url": "https://open.spotify.com/track/6G53tWdq2h3EMVjNuGXRz8"
     },
     {
       "album": {

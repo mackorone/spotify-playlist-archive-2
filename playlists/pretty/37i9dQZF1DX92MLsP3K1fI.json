@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! RPLK y DannyLux en portada \u2728",
-  "num_followers": 94133,
+  "num_followers": 94145,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2026-02-27 06:00:32",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-27 06:00:32",
       "album": {
-        "name": "mani\u00e1tico",
-        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 174358,
-      "name": "mani\u00e1tico",
-      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
-    },
-    {
-      "added_at": "2026-02-27 06:00:32",
-      "album": {
         "name": "sigues aqu\u00ed?",
         "url": "https://open.spotify.com/album/3iZOS2KpqIeqayYSFgVlJ6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203555,
       "name": "sigues aqu\u00ed?",
       "url": "https://open.spotify.com/track/5KtVRCzur1RMEnTdabkIYg"
+    },
+    {
+      "added_at": "2026-02-27 06:00:32",
+      "album": {
+        "name": "mani\u00e1tico",
+        "url": "https://open.spotify.com/album/4HWDCh7os8O5GN6I06bdYG"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "mani\u00e1tico",
+      "url": "https://open.spotify.com/track/3XDVdATwLZQ7WtGAZMBmcE"
     },
     {
       "added_at": "2026-02-27 06:00:32",

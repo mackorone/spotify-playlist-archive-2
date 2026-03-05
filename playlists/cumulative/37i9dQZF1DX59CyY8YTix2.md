@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-2,005 songs - 5 day 4 hr 10 min
+2,005 songs - 5 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -900,7 +900,6 @@
 | [Tougenkyou](https://open.spotify.com/track/0rHoMzgeOOu0KtPatsphBt) | [Blumepopo](https://open.spotify.com/artist/04RNBUTa49gFIa0Kqc7UYQ) | [Tougenkyou](https://open.spotify.com/album/1VT3BG9WtHj4I6fGWVZXmV) | 3:16 | 2024-01-10 | 2024-01-17 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-21 | 2025-11-27 |
 | [TOUSOU](https://open.spotify.com/track/5062X2MkfiRzOQYuwRt4SN) | [花冷え。](https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h) | [TOUSOU](https://open.spotify.com/album/50kJ5FvdMfhDsRcGHYRk3X) | 2:51 | 2023-06-20 | 2023-10-20 |
-| [Track 3](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 0:00 | 2026-03-03 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-08-22 |
 | [Trash into the Sea \- re\-arranged by JunIzawa](https://open.spotify.com/track/6hou4tFkkHdzWqVpYyKL1z) | [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX), [JunIzawa](https://open.spotify.com/artist/7784zrMh7ieZT0RZJgxV9I) | [Trash into The Sea \(re\-arranged by JunIzawa\)](https://open.spotify.com/album/0jYL5BHGkwG5nss3ajyTO9) | 4:20 | 2022-05-31 | 2022-06-15 |
 | [Tremolo](https://open.spotify.com/track/3kIFJsq83ecH3ingfUXVMZ) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Daydream](https://open.spotify.com/album/7djGvLAgTKtlV9s9MXAXkV) | 3:11 | 2022-05-26 | 2022-07-29 |
@@ -1822,6 +1821,7 @@
 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 | 2023-10-17 | 2023-11-22 |
 | [熱中症](https://open.spotify.com/track/0aWbDC7sXAvKyNZSIta0DK) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [漂☆流](https://open.spotify.com/album/5eEElShVDpWu91AuWvNyKg) | 2:57 | 2024-04-09 | 2024-10-08 |
 | [熱帯的シンドローム](https://open.spotify.com/track/29L3dMe6SV4B9JpgpQBxon) | [Muvidat](https://open.spotify.com/artist/2nZDTiqeubNWxIrxObKyER) | [熱帯的シンドローム](https://open.spotify.com/album/5iBv9IQMKZbKsmb74rTWqZ) | 4:20 | 2022-06-07 | 2022-06-15 |
+| [爪色とグラスの縁](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 3:48 | 2026-03-03 |  |
 | [犬ころ \- ACOUSTIC ver.](https://open.spotify.com/track/23I8aRvG4XIC0stNGiynA1) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [犬ころ \(ACOUSTIC ver\)](https://open.spotify.com/album/5BMAO6e2opOWkhTuxBFG0e) | 3:56 | 2023-10-31 | 2023-11-23 |
 | [犬姫](https://open.spotify.com/track/1O8Z5URYRvYs8O8Qo1Uuja) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [犬姫](https://open.spotify.com/album/7bRCiRgKNFmtuVX8BpwZvl) | 3:05 | 2022-05-31 | 2022-06-19 |
 | [独立上昇曲 第一番](https://open.spotify.com/track/0hzicSH2fJO8RQYzmX4RJA) | [黒木渚](https://open.spotify.com/artist/2sVXEzwxq0HQIrfUIj76pL) | [独立上昇曲 第一番](https://open.spotify.com/album/2IoQpVdhjPj4YMa5OqXNdf) | 3:21 | 2022-10-25 | 2022-10-27 |

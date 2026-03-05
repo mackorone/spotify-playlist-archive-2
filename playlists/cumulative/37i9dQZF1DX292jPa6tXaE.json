@@ -5876,7 +5876,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 181625,
       "name": "Kol",
       "url": "https://open.spotify.com/track/44Z9XjIROc8t47ZXESKdiH"
@@ -7707,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Noor-e-Husn",
+        "url": "https://open.spotify.com/album/7seuQ4eZf2Fq4YGPFpMdVd"
+      },
+      "artists": [
+        {
+          "name": "Robiin Singh",
+          "url": "https://open.spotify.com/artist/7J7WiMvKDdaYEH9Qp3eKFD"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161861,
+      "name": "Noor-e-Husn",
+      "url": "https://open.spotify.com/track/2826nWlccMFgtZqz8qEgnU"
+    },
+    {
+      "album": {
         "name": "Not Bad",
         "url": "https://open.spotify.com/album/0oZJFlfGtfdqZKcxSyfGzB"
       },
@@ -9305,6 +9323,28 @@
     },
     {
       "album": {
+        "name": "Siftaan",
+        "url": "https://open.spotify.com/album/2YWckaZRhvnowKBevRaVwU"
+      },
+      "artists": [
+        {
+          "name": "Nihaash",
+          "url": "https://open.spotify.com/artist/3Ojc6eoVezxVtmm5lP6eKa"
+        },
+        {
+          "name": "Rio Beatz",
+          "url": "https://open.spotify.com/artist/448vgAMS3iU08zwPNGmPyT"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Siftaan",
+      "url": "https://open.spotify.com/track/1LbIH3zty3Bc0ABSwqdwX8"
+    },
+    {
+      "album": {
         "name": "Silence (feat. Sikander Kahlon)",
         "url": "https://open.spotify.com/album/5XiZJbEUEPisLZO6cUHnsf"
       },
@@ -10630,7 +10670,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 230103,
       "name": "TOOFAN",
       "url": "https://open.spotify.com/track/4h2phsTv6GDSpua9eTJz6q"

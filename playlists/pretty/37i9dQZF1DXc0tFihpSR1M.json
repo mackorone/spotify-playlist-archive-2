@@ -1,6 +1,6 @@
 {
   "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d",
-  "num_followers": 87417,
+  "num_followers": 87416,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,26 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
+        "name": "Alle vil til himmelen",
+        "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
+      },
+      "artists": [
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        }
+      ],
+      "duration_ms": 145733,
+      "name": "Alle vil til himmelen",
+      "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
         "name": "Lommeringe (feat. Emma Steinbakken)",
         "url": "https://open.spotify.com/album/0BPKNoGYFszX7D6whMtZMO"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 173888,
       "name": "Lommeringe (feat. Emma Steinbakken)",
       "url": "https://open.spotify.com/track/3Uu2LAOqiEG3ydnTYT4Y6l"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
-        "name": "Alle vil til himmelen",
-        "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
-      },
-      "artists": [
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 145733,
-      "name": "Alle vil til himmelen",
-      "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
     },
     {
       "added_at": "2026-02-26 23:00:42",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
-        "name": "Under v\u00e5re laken",
-        "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
-      },
-      "artists": [
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 237212,
-      "name": "Under v\u00e5re laken",
-      "url": "https://open.spotify.com/track/4sMY1lEwenHvbSuE8HkTQM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
         "name": "Greetings From Your Hometown",
         "url": "https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 157540,
       "name": "Loved You Better (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5boOfeG5brpNtAvmx8CRc5"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
+        "name": "Under v\u00e5re laken",
+        "url": "https://open.spotify.com/album/5yODFEPfLq1PmKRuNwyAQ3"
+      },
+      "artists": [
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 237212,
+      "name": "Under v\u00e5re laken",
+      "url": "https://open.spotify.com/track/4sMY1lEwenHvbSuE8HkTQM"
     },
     {
       "added_at": "2026-02-26 23:00:42",
@@ -1095,6 +1095,30 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
+        "name": "Nonchalant",
+        "url": "https://open.spotify.com/album/4u3lOfOswoiWbpKqSGKJLk"
+      },
+      "artists": [
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Synne Vo",
+          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 155440,
+      "name": "Nonchalant",
+      "url": "https://open.spotify.com/track/0nnI5UO2EtFvSFHwVlV2xu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:42",
+      "album": {
         "name": "Jeg tror Peter Pan hadde rett",
         "url": "https://open.spotify.com/album/77oadxwGqKYq1QKLBqNfA8"
       },
@@ -1127,30 +1151,6 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
-        "name": "Nonchalant",
-        "url": "https://open.spotify.com/album/4u3lOfOswoiWbpKqSGKJLk"
-      },
-      "artists": [
-        {
-          "name": "Marcus & Martinus",
-          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 155440,
-      "name": "Nonchalant",
-      "url": "https://open.spotify.com/track/0nnI5UO2EtFvSFHwVlV2xu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:42",
-      "album": {
         "name": "I Can't Lose",
         "url": "https://open.spotify.com/album/7LcGaAcnk6YyBJzNpW24LZ"
       },
@@ -1167,34 +1167,42 @@
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/5Nb4zhPvV8PyrM035JybzM"
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/27PGrw4C2AhVTAOZsTAsYU"
       },
       "artists": [
         {
-          "name": "Chris Holsten",
-          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/6pe92iYUnYByNR6uMcfZ4V"
         }
       ],
-      "duration_ms": 232484,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/5xaLNTIiiaNPZvNPGWNhAN"
+      "duration_ms": 177306,
+      "name": "Northern Lights",
+      "url": "https://open.spotify.com/track/2qLYadTIWJTXJuS8sTt7m8"
     },
     {
       "added_at": "2026-02-26 23:00:42",
       "album": {
-        "name": "BAD",
-        "url": "https://open.spotify.com/album/0e3U9hFXcAqtFyJN8Mk7rt"
+        "name": "Her vil e v\u00e6r",
+        "url": "https://open.spotify.com/album/352wPRSxAb5NP0LUOQ1mYh"
       },
       "artists": [
         {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        },
+        {
+          "name": "Isah",
+          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
         }
       ],
-      "duration_ms": 135887,
-      "name": "BAD",
-      "url": "https://open.spotify.com/track/1W40DqcO7u0WRC1Cn3CS4K"
+      "duration_ms": 167751,
+      "name": "Her vil e v\u00e6r",
+      "url": "https://open.spotify.com/track/1vrHChYEhj3ZxIT94LfOsa"
     }
   ],
   "unique_name": "Ny Pop (3)",

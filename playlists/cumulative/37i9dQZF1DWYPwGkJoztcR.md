@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-154 songs - 8 hr 54 min
+155 songs - 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Coffee Shop Boy](https://open.spotify.com/track/1iMItSsYpJoU0xzxwyNlXp) | [Zoe Hess](https://open.spotify.com/artist/3LGk1fSWkZLW6sCMGt8OJT) | [Coffee Shop Boy](https://open.spotify.com/album/3tOEPACvWdVTjBW170N7AZ) | 3:27 | 2025-06-27 | 2025-10-03 |
 | [Colourblind](https://open.spotify.com/track/290x9rCh2EWcJ9YKpfiI9z) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:29 | 2025-06-27 |  |
 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 | 2025-06-27 |  |
-| [Complicated](https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Complicated](https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD) | 2:41 | 2025-06-27 |  |
+| [Complicated](https://open.spotify.com/track/6hYqOeI5ooN5ZRnxDAnfiZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Complicated](https://open.spotify.com/album/2FnXCtCNVWMnLHgr43O1FD) | 2:41 | 2025-06-27 | 2026-03-05 |
 | [Count On Me](https://open.spotify.com/track/37t0GbjVpnXSvl1P4uyNfN) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [Count On Me](https://open.spotify.com/album/11TcP4qnRQpaaP1zO6WgL2) | 3:28 | 2025-10-02 | 2025-10-05 |
 | [Cruel Heart](https://open.spotify.com/track/4D7tOyEvUdzNvkDXuD0PQW) | [Novastar](https://open.spotify.com/artist/3r2qdoM2Ryp8aBb3S3qIG1) | [In The Cold Light of Monday](https://open.spotify.com/album/4dcllgpFwPz84zxxv0sC4i) | 2:51 | 2025-06-27 | 2025-09-04 |
 | [Cruisin’](https://open.spotify.com/track/1L7PYfV7Axk4PHqvzIctWJ) | [TOINE](https://open.spotify.com/artist/1UKhHMifOzxgAaoQvJW7no) | [Cruisin’](https://open.spotify.com/album/4ZnUyydglrmKxqYJCwLmkI) | 3:24 | 2025-06-27 |  |
@@ -148,6 +148,7 @@
 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 | 2025-06-27 |  |
 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 | 2025-06-27 |  |
 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 | 2025-06-27 |  |
+| [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 | 2026-03-02 |  |
 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 | 2025-06-27 |  |
 | [Waiting in the Wings](https://open.spotify.com/track/0lnkIwIK15rPeQDNIYF1bV) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [Happy in Hindsight](https://open.spotify.com/album/4mbTJzPO8Y5RwlOLGiZLQs) | 4:14 | 2025-06-27 | 2026-03-03 |
 | [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 | 2025-11-11 |  |

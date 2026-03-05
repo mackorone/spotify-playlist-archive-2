@@ -2157,6 +2157,24 @@
     },
     {
       "album": {
+        "name": "Beraya Dengan Saya",
+        "url": "https://open.spotify.com/album/0gMUWnZAG4GGnEUBvjZYMO"
+      },
+      "artists": [
+        {
+          "name": "Dato' Sri Siti Nurhaliza",
+          "url": "https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "Beraya Dengan Saya",
+      "url": "https://open.spotify.com/track/10a9x1AEEZdUIKYrTzJaWi"
+    },
+    {
+      "album": {
         "name": "Berbagi Hati (From \"Berbagi Suami\")",
         "url": "https://open.spotify.com/album/0Ff7d37a1Zx3lI8QRA45ZM"
       },
@@ -8628,7 +8646,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 249920,
       "name": "Kita Buat Menyenangkan",
       "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
@@ -9444,7 +9462,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 231141,
       "name": "Lembayung Tari",
       "url": "https://open.spotify.com/track/31opjDJYcVHATBEZxrGlNZ"
@@ -9510,7 +9528,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 171968,
       "name": "Liga Baru",
       "url": "https://open.spotify.com/track/0XrtmwvIsJllIexIH9sQ4t"
@@ -10752,7 +10770,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 272972,
       "name": "Menjaga Jodoh Orang Lain",
       "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
@@ -12469,6 +12487,24 @@
     },
     {
       "album": {
+        "name": "Pok Pek Raya",
+        "url": "https://open.spotify.com/album/6o1c1JcAuYOcu6MBtXR3DX"
+      },
+      "artists": [
+        {
+          "name": "De Fam",
+          "url": "https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131372,
+      "name": "Pok Pek Raya",
+      "url": "https://open.spotify.com/track/3U0PCY8mQEmMdvel0fXydj"
+    },
+    {
+      "album": {
         "name": "Semoga Dipermudahkan",
         "url": "https://open.spotify.com/album/7Fj7rpcLtwQxFIzJDPgaGm"
       },
@@ -12950,6 +12986,28 @@
       "duration_ms": 179277,
       "name": "Raya Last Minit",
       "url": "https://open.spotify.com/track/1NydXnZZF959b1cf1ZG9P9"
+    },
+    {
+      "album": {
+        "name": "Raya Macam Raya",
+        "url": "https://open.spotify.com/album/476V0fX53BKmxRCl4Ad3dD"
+      },
+      "artists": [
+        {
+          "name": "Hael Husaini",
+          "url": "https://open.spotify.com/artist/1FIUUafdGtfqLIP8pmPymL"
+        },
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165730,
+      "name": "Raya Macam Raya",
+      "url": "https://open.spotify.com/track/2gLazzeWEpohNCfXQXwqg0"
     },
     {
       "album": {
@@ -14508,6 +14566,24 @@
       "duration_ms": 203059,
       "name": "Sedih Hati",
       "url": "https://open.spotify.com/track/5wBFuNcO53iv8y1yA96Dqx"
+    },
+    {
+      "album": {
+        "name": "Sedikit Waktu",
+        "url": "https://open.spotify.com/album/3e3kWGw6C57ZYmk1OZH5Hm"
+      },
+      "artists": [
+        {
+          "name": "Imran Ajmain",
+          "url": "https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Sedikit Waktu",
+      "url": "https://open.spotify.com/track/5B8VKRe7xuUcLRJ9FAX0cv"
     },
     {
       "album": {

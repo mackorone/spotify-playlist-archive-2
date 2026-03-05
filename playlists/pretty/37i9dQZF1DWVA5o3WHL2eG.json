@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 44829,
+  "num_followers": 45135,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-03-03 23:00:23",
       "album": {
+        "name": "Traumfrau",
+        "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 130346,
+      "name": "Traumfrau",
+      "url": "https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej"
+    },
+    {
+      "added_at": "2026-03-03 23:00:23",
+      "album": {
         "name": "effy stonem",
         "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 196415,
       "name": "FU In My Head - Dirty Version",
       "url": "https://open.spotify.com/track/5Ps4Inshd22nlX3wbBsYiN"
-    },
-    {
-      "added_at": "2026-03-03 23:00:23",
-      "album": {
-        "name": "Traumfrau",
-        "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 130346,
-      "name": "Traumfrau",
-      "url": "https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej"
     },
     {
       "added_at": "2026-03-03 23:00:23",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-03-03 23:00:23",
       "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+    },
+    {
+      "added_at": "2026-03-03 23:00:23",
+      "album": {
         "name": "Ich bin viele",
         "url": "https://open.spotify.com/album/2kHAnOHVyvWnkBjBCKPBTX"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 193060,
       "name": "Ich bin viele",
       "url": "https://open.spotify.com/track/3fB6Fc5BdrJ0o9H68pJ40I"
-    },
-    {
-      "added_at": "2026-03-03 23:00:23",
-      "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
-      },
-      "artists": [
-        {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
     },
     {
       "added_at": "2026-03-03 23:00:23",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-03 23:00:23",
       "album": {
-        "name": "MEER",
-        "url": "https://open.spotify.com/album/1EGSQlGxOxYbZfHZU9EG4v"
-      },
-      "artists": [
-        {
-          "name": "ENNI",
-          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
-        }
-      ],
-      "duration_ms": 125208,
-      "name": "MEER",
-      "url": "https://open.spotify.com/track/64S9AfNoT9Ru73N9kmS2u3"
-    },
-    {
-      "added_at": "2026-03-03 23:00:23",
-      "album": {
         "name": "venedig",
         "url": "https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd"
       },
@@ -611,50 +595,18 @@
     {
       "added_at": "2026-03-03 23:00:23",
       "album": {
-        "name": "Wenn ich du w\u00e4re",
-        "url": "https://open.spotify.com/album/5KENc1diJ6AMquXmUkhyGE"
+        "name": "MEER",
+        "url": "https://open.spotify.com/album/1EGSQlGxOxYbZfHZU9EG4v"
       },
       "artists": [
         {
-          "name": "LARYSSA",
-          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
+          "name": "ENNI",
+          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
         }
       ],
-      "duration_ms": 141272,
-      "name": "Wenn ich du w\u00e4re",
-      "url": "https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca"
-    },
-    {
-      "added_at": "2026-03-03 23:00:23",
-      "album": {
-        "name": "Schenke mir ein / Musik ist kein Krieg",
-        "url": "https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj"
-      },
-      "artists": [
-        {
-          "name": "Sophia Kennedy",
-          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
-        }
-      ],
-      "duration_ms": 216050,
-      "name": "Schenke mir ein",
-      "url": "https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2"
-    },
-    {
-      "added_at": "2026-03-03 23:00:23",
-      "album": {
-        "name": "TIGER",
-        "url": "https://open.spotify.com/album/1udAdZmUV9vGZUutFSOtQ5"
-      },
-      "artists": [
-        {
-          "name": "piya",
-          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
-        }
-      ],
-      "duration_ms": 110875,
-      "name": "Tiger",
-      "url": "https://open.spotify.com/track/0KFXKZvilUouJaTQUl4Mg6"
+      "duration_ms": 125208,
+      "name": "MEER",
+      "url": "https://open.spotify.com/track/64S9AfNoT9Ru73N9kmS2u3"
     },
     {
       "added_at": "2026-03-03 23:00:23",
@@ -687,6 +639,54 @@
       "duration_ms": 144545,
       "name": "Nein sagen",
       "url": "https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT"
+    },
+    {
+      "added_at": "2026-03-03 23:00:23",
+      "album": {
+        "name": "Schenke mir ein / Musik ist kein Krieg",
+        "url": "https://open.spotify.com/album/31R7dXKQ2RAX1JSdX3slWj"
+      },
+      "artists": [
+        {
+          "name": "Sophia Kennedy",
+          "url": "https://open.spotify.com/artist/1bQat2UgYwJAsNOrZxcfa5"
+        }
+      ],
+      "duration_ms": 216050,
+      "name": "Schenke mir ein",
+      "url": "https://open.spotify.com/track/1nh7tFgkfO0Q7B6EAdUaJ2"
+    },
+    {
+      "added_at": "2026-03-03 23:00:23",
+      "album": {
+        "name": "Wenn ich du w\u00e4re",
+        "url": "https://open.spotify.com/album/5KENc1diJ6AMquXmUkhyGE"
+      },
+      "artists": [
+        {
+          "name": "LARYSSA",
+          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
+        }
+      ],
+      "duration_ms": 141272,
+      "name": "Wenn ich du w\u00e4re",
+      "url": "https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca"
+    },
+    {
+      "added_at": "2026-03-03 23:00:23",
+      "album": {
+        "name": "TIGER",
+        "url": "https://open.spotify.com/album/1udAdZmUV9vGZUutFSOtQ5"
+      },
+      "artists": [
+        {
+          "name": "piya",
+          "url": "https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh"
+        }
+      ],
+      "duration_ms": 110875,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/0KFXKZvilUouJaTQUl4Mg6"
     },
     {
       "added_at": "2026-03-03 23:00:23",

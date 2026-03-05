@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 5265,
+  "num_followers": 5267,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADtaEqrfB+OigH390qVBXSW",
+  "snapshot_id": "aaYkgAAAAAAdSLkT7Q3uQm4BaKQr35pw",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
+      },
+      "artists": [
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Bryson Camper",
+          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
+        },
+        {
+          "name": "Harmonious Gospel Choir",
+          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
+        }
+      ],
+      "duration_ms": 162295,
+      "name": "U.S.A.",
+      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
         "url": "https://open.spotify.com/album/6xV8VECyJrKC7MdlXgI74e"
       },
@@ -511,34 +539,6 @@
       "duration_ms": 346096,
       "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
       "url": "https://open.spotify.com/track/7DpfOkks38EfsrVcG9Zmhw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harmonious: Globally Inspired Music from the EPCOT Nighttime Spectacular (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6EL24CvOJteuYgnNG7xuJs"
-      },
-      "artists": [
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Bryson Camper",
-          "url": "https://open.spotify.com/artist/69Nqu9XspNUUIXeuBrACax"
-        },
-        {
-          "name": "Harmonious Gospel Choir",
-          "url": "https://open.spotify.com/artist/2pwORAeU0vGk6fRao2Ttyv"
-        }
-      ],
-      "duration_ms": 162295,
-      "name": "U.S.A.",
-      "url": "https://open.spotify.com/track/1q0agJXvSQOkiU1t7CcBiJ"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Flaws",
-      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Heavens Are Telling",
         "url": "https://open.spotify.com/album/4TTBacnUB2sdzTCfsZ0nzO"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 403906,
       "name": "You Loved Me (feat. Kierra \"Kiki\" Sheard)",
       "url": "https://open.spotify.com/track/2RMF24OOSi0TcIa51bAFLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Flaws",
+      "url": "https://open.spotify.com/track/57GQvTsith6MEe4jpjvBqQ"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 209927,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIERRA",
-        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 209927,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GRACELAND",
         "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 264346,
       "name": "Repin My God",
       "url": "https://open.spotify.com/track/2V6Vo5WQIj5pPp5DUpBgFs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G.U.T.S. (God's Up To Something)",
+        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 90008,
+      "name": "G.U.T.S. (God's Up To Something)",
+      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
     },
     {
       "added_at": null,
@@ -883,22 +899,6 @@
       "duration_ms": 376973,
       "name": "You Are - Live",
       "url": "https://open.spotify.com/track/7n1587JTlRfg9ePIdf0mUW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "G.U.T.S. (God's Up To Something)",
-        "url": "https://open.spotify.com/album/3axdrnIrP55NKd3MXIaI7R"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 90008,
-      "name": "G.U.T.S. (God's Up To Something)",
-      "url": "https://open.spotify.com/track/6lRSb2GjSyMEvMm0h4gtl3"
     },
     {
       "added_at": null,
@@ -1051,6 +1051,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Me",
+        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bold Right Life",
         "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
       },
@@ -1087,8 +1103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me",
-        "url": "https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB"
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
       "artists": [
         {
@@ -1096,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+      "duration_ms": 225990,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/6VQHvDhuHcI3af5GHI6t6G"
     },
     {
       "added_at": null,
@@ -1115,22 +1131,6 @@
       "duration_ms": 172693,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 225990,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/6VQHvDhuHcI3af5GHI6t6G"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1047138,
+  "num_followers": 1046991,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "2 Versager",
-        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
-      },
-      "artists": [
-        {
-          "name": "Magda",
-          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
-        }
-      ],
-      "duration_ms": 227202,
-      "name": "2 Versager",
-      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Fluent",
         "url": "https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 128769,
       "name": "Fluent",
       "url": "https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "2 Versager",
+        "url": "https://open.spotify.com/album/57IxQ3LBAXH622YZSXvUi2"
+      },
+      "artists": [
+        {
+          "name": "Magda",
+          "url": "https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup"
+        }
+      ],
+      "duration_ms": 227202,
+      "name": "2 Versager",
+      "url": "https://open.spotify.com/track/1raCCG5vKSpqZ3Xo1H8U1v"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -811,6 +811,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "Temberang",
+        "url": "https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf"
+      },
+      "artists": [
+        {
+          "name": "Mimifly",
+          "url": "https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw"
+        }
+      ],
+      "duration_ms": 127846,
+      "name": "Temberang",
+      "url": "https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/38U6xdDl2kTkVLWcptlXGb"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 179731,
       "name": "I Need To Sleep",
       "url": "https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Temberang",
-        "url": "https://open.spotify.com/album/0RXA0qCkmNVRq2C9stYjhf"
-      },
-      "artists": [
-        {
-          "name": "Mimifly",
-          "url": "https://open.spotify.com/artist/1m5SzX4xy5b0fdvEZAJmyw"
-        }
-      ],
-      "duration_ms": 127846,
-      "name": "Temberang",
-      "url": "https://open.spotify.com/track/7aN9KgFUrCl4qFU4pAQXI2"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "soul.food \u9748\u98df",
-        "url": "https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz"
-      },
-      "artists": [
-        {
-          "name": "Miss Ko \u845b\u4ef2\u73ca",
-          "url": "https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg"
-        }
-      ],
-      "duration_ms": 216188,
-      "name": "got.to.believe",
-      "url": "https://open.spotify.com/track/5zvE5C2JislfFqefghan0H"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3SL7IUdrQ23Xc0MqyGlGfj"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 219826,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1uvdsygNOfhOdKBehMl1f2"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "soul.food \u9748\u98df",
+        "url": "https://open.spotify.com/album/3EE25mbsYL6PQ0wizjPmNz"
+      },
+      "artists": [
+        {
+          "name": "Miss Ko \u845b\u4ef2\u73ca",
+          "url": "https://open.spotify.com/artist/4qsJVo9DrBRnCzp3itrjdg"
+        }
+      ],
+      "duration_ms": 216188,
+      "name": "got.to.believe",
+      "url": "https://open.spotify.com/track/5zvE5C2JislfFqefghan0H"
     },
     {
       "added_at": "2026-02-18 05:00:29",

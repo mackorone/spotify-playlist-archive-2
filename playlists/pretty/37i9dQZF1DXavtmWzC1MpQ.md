@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,073 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,072 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 39 | [Bird Life](https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH) | [Beyond North](https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk) | [Bird Life](https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL) | 2:26 |
 | 40 | [Rain on the Leaves](https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB) | [Sounds of the Jungle](https://open.spotify.com/artist/13JAi6QRXqwdDSK4jY60Zh) | [Soothing Jungle Sounds](https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p) | 3:05 |
 | 41 | [Birds In The Rain](https://open.spotify.com/track/4C7uEMH69SQp0nTUsj35Vb) | [Neightbirds](https://open.spotify.com/artist/2Sv82DcQL8WQoSbUjHorYJ) | [In The Tides](https://open.spotify.com/album/27qtne7V63arjRq9eMUxk7) | 2:04 |
-| 42 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
-| 43 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
+| 42 | [Tropical wet forest in Columbia](https://open.spotify.com/track/5KWY94BzZ0EubNaJFG4AEc) | [Nicoguga](https://open.spotify.com/artist/7h3EBgqROmytU7UE4UwFoS) | [Tropical wet forest in Columbia](https://open.spotify.com/album/18GNz1kQd0hrZXQU9RMDhp) | 2:06 |
+| 43 | [Soothing Birdsong by the River](https://open.spotify.com/track/1c7KLz2RGsDoW58JiTT2L1) | [El Naturel](https://open.spotify.com/artist/2OSqVGR0G4PUJkOskabGEX) | [Soothing Birdsong by the River](https://open.spotify.com/album/5Lf0jb8zb9ylmubTVx6xtf) | 3:04 |
 | 44 | [Power and Meditation](https://open.spotify.com/track/24XDOa1lefrRyMMoqEgmze) | [Yùhé 愈合](https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD) | [Terapheutic Thunder](https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3) | 2:59 |
 | 45 | [Walking In The Rainforest](https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7) | [Manaus](https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF) | [Healing Rainforest](https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB) | 3:28 |
 | 46 | [Temperate Rainforest Sounds](https://open.spotify.com/track/3av7HNGWI6Xvg8eXt9NOYr) | [Zen Sound Bath](https://open.spotify.com/artist/5doBUpyyFeJlgY7LakBaGE) | [Temperate Rainforest Sounds](https://open.spotify.com/album/0LY9Tily5yuPkUxAa4jyou) | 3:11 |

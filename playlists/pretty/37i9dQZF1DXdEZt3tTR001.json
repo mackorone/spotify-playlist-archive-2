@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 218960,
+  "num_followers": 218991,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
-        "name": "A Seat at the Table",
-        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 250970,
-      "name": "Cranes in the Sky",
-      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2026-02-27 05:00:45",
-      "album": {
         "name": "Yellow Eyes",
         "url": "https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
-        "name": "Groove Theory",
-        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+        "name": "A Seat at the Table",
+        "url": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM"
       },
       "artists": [
         {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
         }
       ],
-      "duration_ms": 236066,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
+      "duration_ms": 250970,
+      "name": "Cranes in the Sky",
+      "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
     },
     {
       "added_at": "2026-02-27 05:00:45",
@@ -695,6 +679,22 @@
       "duration_ms": 280546,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0rT9f5BSZrZ6DvzfBEckG0"
+    },
+    {
+      "added_at": "2026-02-27 05:00:45",
+      "album": {
+        "name": "Groove Theory",
+        "url": "https://open.spotify.com/album/0VVegiriO1eyyfOKrLmxtc"
+      },
+      "artists": [
+        {
+          "name": "Groove Theory",
+          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
+        }
+      ],
+      "duration_ms": 236066,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2lp8xjq0WTm3HZKHuDEweg"
     },
     {
       "added_at": "2026-02-27 05:00:45",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
+        "name": "Baduizm",
+        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 393733,
+      "name": "Other Side Of The Game",
+      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
+    },
+    {
+      "added_at": "2026-02-27 05:00:45",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2026-02-27 05:00:45",
-      "album": {
-        "name": "Baduizm",
-        "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 393733,
-      "name": "Other Side Of The Game",
-      "url": "https://open.spotify.com/track/6s4xndGKUhW0xXPYvFlwcL"
     },
     {
       "added_at": "2026-02-27 05:00:45",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 430000,
+      "name": "Orange Moon",
+      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:45",
+      "album": {
         "name": "Scene 2",
         "url": "https://open.spotify.com/album/5ncjT7Skxpg5qKSB89PBye"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+        "name": "Spark Of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Lenny Williams",
+          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
         }
       ],
-      "duration_ms": 430000,
-      "name": "Orange Moon",
-      "url": "https://open.spotify.com/track/5dlfvkyZOuBCFP1KbzRHUx"
+      "duration_ms": 429120,
+      "name": "'Cause I Love You",
+      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     },
     {
       "added_at": "2026-02-27 05:00:45",
@@ -1187,22 +1203,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2026-02-27 05:00:45",
-      "album": {
-        "name": "Spark Of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WhyyjT7SguubI15raOkDo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Williams",
-          "url": "https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN"
-        }
-      ],
-      "duration_ms": 429120,
-      "name": "'Cause I Love You",
-      "url": "https://open.spotify.com/track/25z0QF3ANJPVM04fTbty45"
     },
     {
       "added_at": "2026-02-27 05:00:45",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2026-02-27 05:00:45",
       "album": {
-        "name": "Traffic Lights (feat. Thom Yorke)",
-        "url": "https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF"
-      },
-      "artists": [
-        {
-          "name": "Flea",
-          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
-        },
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 341066,
-      "name": "Traffic Lights (feat. Thom Yorke)",
-      "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
-    },
-    {
-      "added_at": "2026-02-27 05:00:45",
-      "album": {
         "name": "The Fall That Saved Us",
         "url": "https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 187013,
       "name": "Reason (feat. Elijah Fox)",
       "url": "https://open.spotify.com/track/1r8ojhEE2Kyo4vHCumpcwl"
+    },
+    {
+      "added_at": "2026-02-27 05:00:45",
+      "album": {
+        "name": "Traffic Lights (feat. Thom Yorke)",
+        "url": "https://open.spotify.com/album/3XztKVcdPZv8EZbgvYrxrF"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        },
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 341066,
+      "name": "Traffic Lights (feat. Thom Yorke)",
+      "url": "https://open.spotify.com/track/2kSQNFlBqsHSzEw6riHR8K"
     },
     {
       "added_at": "2026-02-27 05:00:45",

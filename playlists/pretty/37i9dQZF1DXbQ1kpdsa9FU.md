@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 
 > Classic Contemporary Christian songs you can always count on! Cover: TobyMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 664,153 likes - 150 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 664,288 likes - 150 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 25 | [Living Hope](https://open.spotify.com/track/6nVm313QmsPlNllntTart1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 5:27 |
 | 26 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |
 | 27 | [Oh My Soul](https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [The Very Next Thing](https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S) | 4:16 |
-| 28 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
-| 29 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 |
+| 28 | [Burn The Ships](https://open.spotify.com/track/6qNSq6OKjNgXAn3Kj9HBKf) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [Burn The Ships](https://open.spotify.com/album/5eDLHSsctG7CccVeYSTLeh) | 4:36 |
+| 29 | [Come As You Are](https://open.spotify.com/track/6iha1ZUpCGUJrrQLDSFYux) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Neon Steeple](https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf) | 4:49 |
 | 30 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 31 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 |
 | 32 | [Only Jesus](https://open.spotify.com/track/5SVARIypUactzhS79rk6x8) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Only Jesus](https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB) | 3:43 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 58 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
 | 59 | [There Will Be A Day](https://open.spotify.com/track/2B503tiZmBFv9b8VomUHFK) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Speaking Louder Than Before](https://open.spotify.com/album/0GOyWcbeMSqnvMfCD1wQzt) | 4:39 |
 | 60 | [Your Love Never Fails](https://open.spotify.com/track/1KedGIK1fpqpl56GkW5VgB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 3:38 |
-| 61 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
-| 62 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
+| 61 | [Give Me Your Eyes](https://open.spotify.com/track/7HQn99HBIBHWkZfTMR8Kki) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [What If We](https://open.spotify.com/album/69d6G8jlDQXmnpP4aV3azk) | 3:52 |
+| 62 | [I Am Loved](https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [I Am Loved](https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem) | 7:12 |
 | 63 | [By Your Side](https://open.spotify.com/track/6qdpQ6jPiaCYE9Qw4nZVuD) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Over And Underneath](https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM) | 4:01 |
 | 64 | [Where I Belong](https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:20 |
 | 65 | [He Wants It All](https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS) | [Forever Jones](https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q) | [Get Ready](https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6) | 3:27 |
@@ -146,17 +146,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbQ1kpdsa9FU.md) - [plain]
 | 136 | [Not Today](https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Wonder](https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2) | 4:13 |
 | 137 | [Goodness of God \- Radio Version](https://open.spotify.com/track/665Ki3oftw2evstCgtmiSw) | [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Goodness of God \(Radio Version\)](https://open.spotify.com/album/6PSBzgkRIDZaILu4gdYTOE) | 3:56 |
 | 138 | [Stand In Your Love \- Radio Version](https://open.spotify.com/track/6HRU0CPcG0q3Dq8XVBWacL) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Stand In Your Love \(Radio Version\)](https://open.spotify.com/album/1ZID8iDyFaevr7kBna3Y9d) | 3:41 |
-| 139 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
-| 140 | [God Is on the Move](https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [God Is on the Move](https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0) | 2:56 |
+| 139 | [God Is on the Move](https://open.spotify.com/track/4YZkx9hCBOdaI71lzKEnOx) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [God Is on the Move](https://open.spotify.com/album/3TSVJAkYFaZXtVEaQgXED0) | 2:56 |
+| 140 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 |
 | 141 | [Drops In the Ocean](https://open.spotify.com/track/3qEOommLiDYvxoZfsB3ONu) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Diamonds](https://open.spotify.com/album/0K0cTogib6M3YiM3yA7Cik) | 3:21 |
 | 142 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 143 | [Big God](https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Big God](https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1) | 3:11 |
 | 144 | [Breathe](https://open.spotify.com/track/5gHwf3DYciXuoFWstFswKj) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [Everything Is Changing](https://open.spotify.com/album/69XzhnHoKNl3LMV3IZQGhS) | 3:33 |
-| 145 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
-| 146 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
-| 147 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
-| 148 | [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 |
-| 149 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
+| 145 | [Great I Am](https://open.spotify.com/track/2e6Tbu1hiYjUR7kgMIZpkO) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [Breathe In](https://open.spotify.com/album/4z2Reu5ayiiP2izF4w3znO) | 4:29 |
+| 146 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
+| 147 | [The Comeback](https://open.spotify.com/track/68dlSBYa5sLmwjscN4nfhv) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:11 |
+| 148 | [Revelation Song](https://open.spotify.com/track/3pZVH0mPC6fxtmjOT0i9t5) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Kari Jobe](https://open.spotify.com/album/43qobCIpLpsxshjc7PbAXb) | 6:01 |
+| 149 | [Endless Alleluia](https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Reckless Love](https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB) | 4:25 |
 | 150 | [How Can It Be](https://open.spotify.com/track/2JEcE2v4tOpKzVZFjpLR59) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/4pgbf6PoUwBlPQDBcATNq0) | 4:19 |
 
 Snapshot ID: `AAAAAHXzSRS5Vim5Asjcw0tdJTd/EWM5`

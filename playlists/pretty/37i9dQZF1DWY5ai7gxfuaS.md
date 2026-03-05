@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 
 > The future of metal is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,483 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,523 likes - 100 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 52 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 53 | [Bloodsuckers](https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 3:22 |
 | 54 | [Lost](https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ) | [Crippled Black Phoenix](https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH) | [Lost](https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ) | 8:11 |
-| 55 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
-| 56 | [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 |
+| 55 | [HIGHER POWER](https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [HIGHER POWER](https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ) | 2:43 |
+| 56 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 |
 | 57 | [Wildblood](https://open.spotify.com/track/2Ma12h5UbOSZ5j7eApuDZO) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [On Circles](https://open.spotify.com/album/2SCAxvAGQLWK3SwPsZyku1) | 6:53 |
 | 58 | [Hide in Shade](https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [Hide in Shade](https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY) | 3:38 |
 | 59 | [Touch the Corpse](https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ) | [Irving Force](https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX) | [Touch the Corpse](https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW) | 2:46 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY5ai7gxfuaS.md) - [plain]
 | 94 | [EUGH!](https://open.spotify.com/track/1kFjv9uKUcatuEkamM0Tgx) | [SPIIRAL](https://open.spotify.com/artist/2MNOsEKFbWpezBWYtSrtZC) | [EUGH!](https://open.spotify.com/album/0mEno0dMRPUrWNkp11zB8X) | 1:22 |
 | 95 | [Lifers](https://open.spotify.com/track/0cluQGCBtjYHtVTW9GJayG) | [Culted](https://open.spotify.com/artist/3YT1buuj4AVB8KiSSZdJ8F) | [Lifers](https://open.spotify.com/album/4QorJObMBo6fFHnW8CNcGB) | 4:58 |
 | 96 | [Only Paradise Lost](https://open.spotify.com/track/1w7iFvhfsK0QtFWZFGjYVG) | [vedawave](https://open.spotify.com/artist/1wEiY25dYJBXos4zDqAwz1) | [Only Paradise Lost](https://open.spotify.com/album/10Cjt3n61aOLXuAq7in5iN) | 4:00 |
-| 97 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
-| 98 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 97 | [Dante's Inspiration](https://open.spotify.com/track/0xqCqprCOqvz2zGridoiqu) | [Cryptodira](https://open.spotify.com/artist/6aaRy3pEsAC5lrbpQC5WEl) | [The Angel of History](https://open.spotify.com/album/5dhT3bPpiEtSDnMvkwjekT) | 3:33 |
+| 98 | [Concept Unification](https://open.spotify.com/track/5SDEsNpIsdw4Le3ECGHAql) | [Pinkish Black](https://open.spotify.com/artist/60Ob6q8BCjykLBKuF5aroP) | [Concept Unification](https://open.spotify.com/album/7rWHpoEFxd6qJBRmVS2EPc) | 5:13 |
 | 99 | [The Triumphal Chariot of Antimony](https://open.spotify.com/track/2UaSBb1eH8SxqUZ4qvc8fZ) | [Demon Head](https://open.spotify.com/artist/3deeuqYVw08AeSndTj9aE3) | [The Triumphal Chariot of Antimony](https://open.spotify.com/album/1EIi0O4cK8iTq79mY8PceL) | 5:39 |
 | 100 | [Wrecked](https://open.spotify.com/track/23Ct1DllhsUlFtGn6iK59R) | [Zonal](https://open.spotify.com/artist/2FEWIj8qxL0aJKlH5QoOnt) | [Wrecked](https://open.spotify.com/album/7aMDk6WilYTrT8Jjtzv5lL) | 6:26 |
 
-Snapshot ID: `AAAAAA7LpaPwwBJHg51Gmx5uWSC+5BB7`
+Snapshot ID: `AAAAANN25miR87fHk8H+IlLTh/HreXaj`

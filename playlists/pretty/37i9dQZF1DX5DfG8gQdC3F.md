@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Bruno Mars, Alex Warren, RAYE, Mitski, BLOND:ISH, BLACKPINK and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,313 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,299 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 7 | [Sorry..\. I Meant Tonight \- Bonus](https://open.spotify.com/track/0Sdy5NYNWx4ZZBU89MIu2m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Cloud 9](https://open.spotify.com/album/4ntHwySryzYS8Td67WlVVq) | 3:33 |
 | 8 | [The Moon Cave \(feat\. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought\)](https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Asha Puthli](https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Dave Jolicoeur](https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM), [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [The Mountain](https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD) | 4:57 |
 | 9 | [Don’t Tell On Me](https://open.spotify.com/track/2yM6Cs4w85hn1HtBTnxEKn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Don't Tell On Me](https://open.spotify.com/album/3s3TWoBcdu8AUX9qlORSdf) | 3:04 |
-| 10 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 10 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 11 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
 | 12 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 |
 | 13 | [Tonto](https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Tonto](https://open.spotify.com/album/2O4uIDxW5yiPcPiGFag99v) | 2:20 |

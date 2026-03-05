@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-273 songs - 14 hr 4 min
+274 songs - 14 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,6 +278,7 @@
 | [Who You Thought I'd Be](https://open.spotify.com/track/2OWo0jCRtnjDIIy5t16Oof) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area](https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0) | 3:09 | 2024-02-07 |  |
 | [WHY \(feat\. Luke Combs\)](https://open.spotify.com/track/4VDXj2X5I2fOQRN7tiztmq) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 2:57 | 2025-06-19 |  |
 | [Wind Tempos](https://open.spotify.com/track/53yn0gTKz24HM4ncMcLWwS) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 6:04 | 2024-02-07 |  |
+| [With Your Love](https://open.spotify.com/track/2HCQ2CgoxWGYr4aB8n1hxo) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 | 2026-03-04 |  |
 | [Without Me](https://open.spotify.com/track/2mP9Uzm5ZlZZlhzHPGdwsO) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Without Me](https://open.spotify.com/album/7z6R3gcDlPrczUIi5Rqp8b) | 2:38 | 2025-01-09 | 2025-04-12 |
 | [Without Me](https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:21 | 2024-02-07 |  |
 | [Work On Me](https://open.spotify.com/track/4sBu2cWKISwM1w89yWB1Iw) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Anna](https://open.spotify.com/album/7wwEW3gvrHl76efHZeRfT8) | 2:59 | 2025-10-24 |  |

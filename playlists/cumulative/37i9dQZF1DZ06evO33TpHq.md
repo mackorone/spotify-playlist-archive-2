@@ -4,7 +4,7 @@
 
 > This is Phil Wickham\. The essential tracks, all in one playlist.
 
-89 songs - 6 hr 48 min
+90 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Flowers](https://open.spotify.com/track/5P7veaw4BSq113uSBzjXbJ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:37 | 2025-09-16 | 2025-11-27 |
 | [Follow The Light](https://open.spotify.com/track/710bT4vGLhWflF4z0cE9cQ) | [Brandon Engman](https://open.spotify.com/artist/08dhzQWNxcqgrEgagEPdXP), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:36 | 2025-12-18 |  |
 | [God Is Good](https://open.spotify.com/track/00bSuPKmdXWlhdaYgyPta3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Song Of The Saints](https://open.spotify.com/album/2EENECQqPyRT1fsKVn5fbK) | 4:00 | 2025-09-16 | 2025-12-06 |
+| [God Is Good \(with CAIN\)](https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [God Is Good \(with CAIN\)](https://open.spotify.com/album/4ZGTmDyGQKNLm6hEcvi09m) | 3:26 | 2026-03-05 |  |
 | [Great Things](https://open.spotify.com/track/0jceXOZ2D9ZSzsfl3CKlxg) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Living Hope](https://open.spotify.com/album/4twbkTJHWV1ahKCStowlqv) | 4:50 | 2024-05-24 |  |
 | [He Arose](https://open.spotify.com/track/48AK0EB5FNgZS10wLBGjJ9) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [He Arose](https://open.spotify.com/album/1Ld4v9YKxyKclc8MXADZ4m) | 4:49 | 2026-02-14 |  |
 | [He Has Done Great Things](https://open.spotify.com/track/7CvI6gPRlOwsdeRXYjgVUV) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:59 | 2025-10-02 |  |
@@ -93,7 +94,7 @@
 | [Why God \- My God](https://open.spotify.com/track/4v3UsxasOoLT3BTMuJHKL3) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Miri Mesika](https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa), [Angel](https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF) | [DAVID \(Soundtrack from the Angel Original Film\)](https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq) | 3:28 | 2025-12-23 |  |
 | [Wide Awake](https://open.spotify.com/track/6W0mhlKfKltIX0FY7LgOri) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 5:07 | 2025-08-16 | 2025-08-17 |
 | [Wonderful \- Acoustic](https://open.spotify.com/track/1CoxpwlyD9fNPUPIDJWuPZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [The Ascension \(Deluxe\)](https://open.spotify.com/album/5t6ecDPo9C6nNOP3TOkHhj) | 4:26 | 2024-07-13 | 2024-07-19 |
-| [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 | 2024-05-24 |  |
+| [Worthy Of My Song](https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Worthy Of My Song](https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS) | 6:11 | 2024-05-24 | 2026-03-05 |
 | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/track/4YFy1VOf7pV1PF6rSxiz1v) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Mav City Gospel Choir](https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Worthy of My Song \(Worthy of It All\)](https://open.spotify.com/album/4JVfmmlngccdWTflavCEyu) | 8:26 | 2024-05-24 |  |
 | [You Cannot Be Stopped](https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [You Cannot Be Stopped](https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ) | 4:21 | 2024-05-24 |  |
 | [Your Love Awakens Me](https://open.spotify.com/track/0jdWct4BgFwuZVWAtAg3DL) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Children of God](https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN) | 3:53 | 2024-05-24 |  |

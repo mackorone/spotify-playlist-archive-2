@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681 likes - 258 songs - 13 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 682 likes - 258 songs - 13 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 51 | [Forever](https://open.spotify.com/track/2C5nlzIMJ81NYmeGhofNNP) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Requiem \(Deluxe\)](https://open.spotify.com/album/2eosDSiaY1MfUIS6zWugxf) | 2:51 |
 | 52 | [Like All My Friends](https://open.spotify.com/track/70Vjb8pcNJT2HVfDLC2MJo) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Like All My Friends](https://open.spotify.com/album/41cZLPaKv1sqOsLdbeGGoq) | 3:07 |
 | 53 | [Waste](https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 3:31 |
-| 54 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 |
-| 55 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 54 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
+| 55 | [WYA](https://open.spotify.com/track/4jLn0A5vbC3Nh7oaL4Cbgc) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Junk](https://open.spotify.com/album/7DfD1AIvTaHaj1HKTmGkQg) | 3:11 |
 | 56 | [Growing Up is Getting Old](https://open.spotify.com/track/5okMXP9UNHt4XhAHCbDo3Y) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 2:27 |
 | 57 | [Let Me Down Easy](https://open.spotify.com/track/2azuks8nAnGfe3K9H0dKaJ) | [Jane XØ](https://open.spotify.com/artist/5keDbKEPwrbe36cPzRpzsK), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [Let Me Down Easy](https://open.spotify.com/album/7swmVm1TlBGvcPiCKOuoxZ) | 3:12 |
 | 58 | [Polaroid](https://open.spotify.com/track/2vCEEjiWtVjFEmuCsggbAY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [THE SPEED OF NOW Part 1](https://open.spotify.com/album/4F3rUFQcKJm6b1BsJRwAbf) | 2:31 |
@@ -127,8 +127,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 117 | [Toxins](https://open.spotify.com/track/3EjnjYppRwwxYv3kHCFa3s) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Toxins](https://open.spotify.com/album/5HSb7viGPrEPdS96jE0yr9) | 3:16 |
 | 118 | [Emotional](https://open.spotify.com/track/1Sucwox3dVEqgeDLUrt1Of) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:40 |
 | 119 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 |
-| 120 | [omw](https://open.spotify.com/track/2PMmfJHouzBB44paaJTgY8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:51 |
-| 121 | [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 |
+| 120 | [Winter Dream](https://open.spotify.com/track/2b974EnbtM8L5L9cR4daoA) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [Winter Dream](https://open.spotify.com/album/6X9LXmmicLDCTWLkZfMJnA) | 2:59 |
+| 121 | [omw](https://open.spotify.com/track/2PMmfJHouzBB44paaJTgY8) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Rae](https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q) | 2:51 |
 | 122 | [Thin Air](https://open.spotify.com/track/6y6a7dT81LLvGAP0k0endw) | [Olivia Holt](https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf), [Jordan Fisher](https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2) | [Olivia](https://open.spotify.com/album/1symszvJQdIoNR4QhUc6En) | 3:35 |
 | 123 | [By The End of the Night](https://open.spotify.com/track/1oQSC1YHdh3UhkGVmtuln7) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:54 |
 | 124 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
@@ -267,4 +267,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 257 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 258 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AcLLFgAAAABE0n7mV4Q4ijpnXHxlehAs`
+Snapshot ID: `AcLQrAAAAABqBO2Z11M/rceY0cgz5fi5`

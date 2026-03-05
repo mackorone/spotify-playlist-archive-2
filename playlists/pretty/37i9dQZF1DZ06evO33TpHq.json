@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 62490,
+  "num_followers": 62507,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABjKvBxKWRKJQTKQrZISuTd",
+  "snapshot_id": "aaYkgAAAAADfrtEUR4yrUemgXQktN0S9",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Is Good (with CAIN)",
+        "url": "https://open.spotify.com/album/4ZGTmDyGQKNLm6hEcvi09m"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "God Is Good (with CAIN)",
+      "url": "https://open.spotify.com/track/3jhUsn6iGf5yLljQqrcgYO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -851,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Children of God",
-        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 289333,
-      "name": "My All in All",
-      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The King Is Still The King",
         "url": "https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS"
       },
@@ -887,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of My Song",
-        "url": "https://open.spotify.com/album/16fFn81XGGaucqyWowE7QS"
+        "name": "Children of God",
+        "url": "https://open.spotify.com/album/5Huo8k3PTFpQLlxNak5fMN"
       },
       "artists": [
         {
@@ -896,9 +900,9 @@
           "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 371640,
-      "name": "Worthy Of My Song",
-      "url": "https://open.spotify.com/track/5VYr4jdVKLv84Ekcv6tCiA"
+      "duration_ms": 289333,
+      "name": "My All in All",
+      "url": "https://open.spotify.com/track/12MyV6NyImQCOtSwqgXzHE"
     }
   ],
   "unique_name": "This Is Phil Wickham",

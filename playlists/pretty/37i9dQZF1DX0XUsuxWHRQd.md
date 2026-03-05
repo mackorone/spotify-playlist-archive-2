@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Yeat, Esdeekid, Swae Lee and Baby Keem.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,780,745 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,780,118 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 30 | [Century](https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Century](https://open.spotify.com/album/3iEInaFAamSTND6sovehX7) | 1:49 |
 | 31 | [FDO](https://open.spotify.com/track/5YbDA37CN0YcgZXF6L2cBX) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [FDO](https://open.spotify.com/album/2ME0R7wx6jnHudplZAG2be) | 5:19 |
 | 32 | [A+](https://open.spotify.com/track/3GTcDTmwv59jmHwxlpamfe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [A+](https://open.spotify.com/album/4IhzvC0VK80RzT9Dz5jf1W) | 2:35 |
-| 33 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 33 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 34 | [me & you](https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 2:29 |
 | 35 | [3 SYRUPS \(feat\. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest\)](https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 3:35 |
 | 36 | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/track/0HtowIRBzj2HqgO1XW6eJC) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [ROCKSTAR RAGING \(feat\. Swae Lee\)](https://open.spotify.com/album/5gFv6vDkIvIAuEyXAqMa7Y) | 4:38 |

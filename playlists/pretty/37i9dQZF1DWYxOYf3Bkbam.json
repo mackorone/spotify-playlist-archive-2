@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 63733,
+  "num_followers": 63751,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Correntinas II",
         "url": "https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 159363,
       "name": "Puerto Tirol",
       "url": "https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Festejando los 30 A\u00f1os",
-        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
-      },
-      "artists": [
-        {
-          "name": "Los Criollos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
-        }
-      ],
-      "duration_ms": 142320,
-      "name": "Sargento Sapo",
-      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Sin Fronteras",
         "url": "https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 202786,
       "name": "Km. 11",
       "url": "https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Festejando los 30 A\u00f1os",
+        "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
+      },
+      "artists": [
+        {
+          "name": "Los Criollos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu"
+        }
+      ],
+      "duration_ms": 142320,
+      "name": "Sargento Sapo",
+      "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1515,22 +1515,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Fuerte No Soy",
-        "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
+        "name": "Lluvia, Campo Y Chamam\u00e9",
+        "url": "https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        },
-        {
-          "name": "El Suppe'r De Oro",
-          "url": "https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya"
+          "name": "Crescencio Lezcano",
+          "url": "https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy"
         }
       ],
-      "duration_ms": 208579,
-      "name": "Fuerte No Soy",
-      "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
+      "duration_ms": 172333,
+      "name": "Arroyo San Juan",
+      "url": "https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasicas aconchegantes para aquecer a alma nos dias frios.",
-  "num_followers": 333382,
+  "num_followers": 333363,
   "original_name": "Friozinho",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "It'll Be Okay",
-        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "It'll Be Okay",
-      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/66FPnVL9G4CMKy3wvaGTcr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/7lPN2DXiMsVn7XUKtOW1CS"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
+        "name": "It'll Be Okay",
+        "url": "https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "It'll Be Okay",
+      "url": "https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD"
     },
     {
       "added_at": "2025-06-20 19:25:41",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "Put A Little Love On Me",
-        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 224585,
-      "name": "Put A Little Love On Me",
-      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
+        "name": "Put A Little Love On Me",
+        "url": "https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 224585,
+      "name": "Put A Little Love On Me",
+      "url": "https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT"
     },
     {
       "added_at": "2025-06-20 19:25:41",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "Bigger Love",
-        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        },
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 223933,
-      "name": "U Move, I Move (feat. Jhene Aiko)",
-      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
-    },
-    {
-      "added_at": "2025-06-20 19:25:41",
-      "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 205613,
       "name": "YOU & I (feat. Khalid)",
       "url": "https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ"
+    },
+    {
+      "added_at": "2025-06-20 19:25:41",
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 223933,
+      "name": "U Move, I Move (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
     },
     {
       "added_at": "2025-06-20 19:25:41",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2025-06-20 19:25:41",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/1K5R5JjqMQnT9wFFCGMGnw"
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 194141,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     }
   ],
   "unique_name": "Friozinho",

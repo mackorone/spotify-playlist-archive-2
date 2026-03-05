@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,378 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,365 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 23 | [Maldita Historia](https://open.spotify.com/track/1wws0f3qk1EUV7TrtbGmPw) | [De La Tierra](https://open.spotify.com/artist/765lwJRjITnyzWPOjM4Vc1) | [De La Tierra](https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k) | 4:26 |
 | 24 | [Infiel a Dos Mentiras "Vida"](https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa) | [Kilcrops](https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw) | [Javhe Karma](https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1) | 7:40 |
 | 25 | [Nuevo Orden Mundial](https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU) | [Malon](https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL) | [Nuevo Orden Mundial](https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r) | 3:51 |
-| 26 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
-| 27 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
+| 26 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
+| 27 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 28 | [Vida Eterna](https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv) | [Lörihen](https://open.spotify.com/artist/4HgUPVt7LhvdpUbZhmotgx) | [Bajo la Cruz](https://open.spotify.com/album/66dGx46zunw5g7zcaAJ2Fj) | 4:55 |
 | 29 | [En la Eternidad](https://open.spotify.com/track/1qdL50KCmGmGjKTT0bT8Kd) | [Plan 4](https://open.spotify.com/artist/1MDbZWN49HRGDTkcIKTT54) | [Lleva Tu Mente al Limite](https://open.spotify.com/album/394QJVw2uXdfwi31NcXj9H) | 3:09 |
 | 30 | [Satanic Lust](https://open.spotify.com/track/3qRnT9wYaNkM30Dd29rmRl) | [Sarcófago](https://open.spotify.com/artist/3bPSw3qkTeBZXnfDFUqmPG) | [Inri](https://open.spotify.com/album/2nMT6EXsWDFCOZcdKk1liX) | 3:08 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 47 | [Poseido Por Mezcal](https://open.spotify.com/track/1OqhBWdoqAhKxucWfyL6Dp) | [Gore and Carnage](https://open.spotify.com/artist/17iNOJcVt7aZW0XhoIfHON) | [Carnage Drinking Party](https://open.spotify.com/album/7aepstukqCVA5U97ZbaEYR) | 2:50 |
 | 48 | [Reinará el Caos](https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z) | [Serpentor](https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM) | [Legiones](https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf) | 6:14 |
 | 49 | [Outsider God Creation \(O.G.C\)](https://open.spotify.com/track/5TbhsLhD3xjvjp2uzpfkNJ) | [Tulkas](https://open.spotify.com/artist/4wdDuxUi2q03Md9qXRWDOD) | [The Beginning of the End](https://open.spotify.com/album/2K9YBzwC1T2aSiF3Gh7pBM) | 3:43 |
-| 50 | [Deceitful Idols](https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz) | [Anima Tempo](https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5) | [Deceitful Idols](https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw) | 5:31 |
+| 50 | [Exoplanets](https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t) | [SYRACUSÆ](https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy) | [Radix Nebulæ](https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX) | 4:01 |
 
 Snapshot ID: `AAAAAP2OW3hy7Ps67JOGKAv3PD8rQsW5`

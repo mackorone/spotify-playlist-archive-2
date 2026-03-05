@@ -1,6 +1,6 @@
 {
   "description": "El t\u00edtulo says it all, a whole mood! ",
-  "num_followers": 379408,
+  "num_followers": 380033,
   "original_name": "Fiesta y Desmadre",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 156266,
-      "name": "A La Antig\u00fcita",
-      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
         "name": "El Del Palenque",
         "url": "https://open.spotify.com/album/68E2POwB230AnjcgLc7ynn"
       },
@@ -943,22 +927,18 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
-        "name": "A Mis 20",
-        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/5yYCc4KdgGsTDnOoSI45vj"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 213943,
-      "name": "Porte Exuberante",
-      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+      "duration_ms": 156266,
+      "name": "A La Antig\u00fcita",
+      "url": "https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -983,6 +963,26 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
+        "name": "A Mis 20",
+        "url": "https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/5yYCc4KdgGsTDnOoSI45vj"
+        }
+      ],
+      "duration_ms": 213943,
+      "name": "Porte Exuberante",
+      "url": "https://open.spotify.com/track/4DdnffqoFr9wDRlCACNmGf"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
         "name": "Un Scar",
         "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 299381,
       "name": "Un Scar",
       "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 237826,
-      "name": "La Ultima Sombra",
-      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1047,6 +1031,22 @@
       "duration_ms": 287679,
       "name": "Triple Lavada (feat. Victor Mendivil) - Remix",
       "url": "https://open.spotify.com/track/7DkOpEOBOwHg6VBj4blikS"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "La Ultima Sombra",
+      "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
+        "name": "Las Guardadas",
+        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 271859,
+      "name": "El AV",
+      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
         "name": "NO PASA NADA",
         "url": "https://open.spotify.com/album/1GYvleTMaxQUICBntl1rau"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 136000,
       "name": "NO PASA NADA",
       "url": "https://open.spotify.com/track/2Oj3iCVLQgwjwRF9VHo7gt"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
-        "name": "Las Guardadas",
-        "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 271859,
-      "name": "El AV",
-      "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
         "name": "Soy Buen Amigo",
         "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
       },
@@ -1627,6 +1643,22 @@
       "duration_ms": 153967,
       "name": "Soy Buen Amigo",
       "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
+        "name": "Andamos Triunfando",
+        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 148506,
+      "name": "Andamos Triunfando",
+      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1647,38 +1679,6 @@
       "duration_ms": 183500,
       "name": "Beses Asi",
       "url": "https://open.spotify.com/track/7hI8ffEBErrm820TRaS0dV"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
-        "name": "Andamos Triunfando",
-        "url": "https://open.spotify.com/album/3GohRnAdahedoEBNCAjIEU"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Andamos Triunfando",
-      "url": "https://open.spotify.com/track/23t0H71t1k6QqrYYRLjXk5"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 187280,
-      "name": "En Preparacion",
-      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1795,18 +1795,18 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+      "duration_ms": 187280,
+      "name": "En Preparacion",
+      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
       "added_at": "2026-02-06 11:12:41",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-02-06 11:12:41",
       "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2026-02-06 11:12:41",
-      "album": {
         "name": "Dinero No Tenia (En Vivo)",
         "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 187880,
       "name": "Me Gusta Tu Vieja",
       "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
+    },
+    {
+      "added_at": "2026-02-06 11:12:41",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     }
   ],
   "unique_name": "Fiesta y Desmadre",

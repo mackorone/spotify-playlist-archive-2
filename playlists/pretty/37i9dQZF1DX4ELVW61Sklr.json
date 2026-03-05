@@ -1,6 +1,6 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 237196,
+  "num_followers": 237169,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Winter Loversland",
-        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
-      },
-      "artists": [
-        {
-          "name": "Tamar Braxton",
-          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
-        }
-      ],
-      "duration_ms": 117231,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Christmas in Baltimore",
         "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 216933,
       "name": "Favorite Time of Year",
       "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "duration_ms": 117231,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Red & Green",
-        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
         }
       ],
-      "duration_ms": 235049,
-      "name": "Forever Mistletoe",
-      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
     },
     {
       "added_at": "2025-12-09 03:51:54",
@@ -1135,26 +1139,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Here (For Christmas)",
-        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Jade Novah",
-          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
-        }
-      ],
-      "duration_ms": 253046,
-      "name": "Here (For Christmas)",
-      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Merry Like This",
         "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 180588,
       "name": "Merry Like This",
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Red & Green",
+        "url": "https://open.spotify.com/album/2msUdJTMMBdkK30onLIAi2"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "duration_ms": 235049,
+      "name": "Forever Mistletoe",
+      "url": "https://open.spotify.com/track/4ITRXrlcGDCfu7JRcajD5k"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 211200,
       "name": "Christmas Kisses",
       "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 212755,
-      "name": "Have Yourself a Merry Little Christmas",
-      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 190799,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "In December",
         "url": "https://open.spotify.com/album/2ae65TpzMw6I9b8gJQG6Op"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 227160,
       "name": "Make It Home (feat. PJ Morton & Sevyn Streeter)",
       "url": "https://open.spotify.com/track/3hmJxTHHlEoMeBfH8KUiGU"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas With Brandy",
-        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 190799,
-      "name": "The Christmas Song",
-      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "To: You (a holiday joint)",
+        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 192455,
+      "name": "To: You",
+      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Home For The Holidays",
         "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "To: You (a holiday joint)",
-        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 192455,
-      "name": "To: You",
-      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "His Gift",
         "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 250266,
       "name": "Glory To The King - His Gift Version",
       "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2025-10-24 15:07:41",

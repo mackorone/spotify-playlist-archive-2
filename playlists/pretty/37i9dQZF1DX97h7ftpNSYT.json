@@ -1,6 +1,6 @@
 {
   "description": "Taking it back to the 2010s. Cover: Big Sean",
-  "num_followers": 378138,
+  "num_followers": 378208,
   "original_name": "2010s Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1670,15 +1670,11 @@
         {
           "name": "ScHoolboy Q",
           "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 278066,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
+      "duration_ms": 216013,
+      "name": "Man Of The Year",
+      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
     },
     {
       "added_at": "2025-02-28 05:00:52",
@@ -1762,11 +1758,15 @@
         {
           "name": "ScHoolboy Q",
           "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "BJ The Chicago Kid",
+          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
         }
       ],
-      "duration_ms": 216013,
-      "name": "Man Of The Year",
-      "url": "https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm"
+      "duration_ms": 278066,
+      "name": "Studio",
+      "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
     },
     {
       "added_at": "2025-02-28 05:00:52",

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 38473,
+  "num_followers": 38486,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABw82DnIFgUOFyWGffhOlbq",
+  "snapshot_id": "aaYkgAAAAACuNtgr+ThqNV5Dxlmy3BPV",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 136226,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Que No Me Olvides",
         "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 191866,
       "name": "Para Que No Me Olvides",
       "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 136226,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 205933,
-      "name": "Coraz\u00f3n De Oro",
-      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 174040,
       "name": "Dos Gotas de Agua",
       "url": "https://open.spotify.com/track/6685gkTvHOFLb3go14K2I0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 205933,
+      "name": "Coraz\u00f3n De Oro",
+      "url": "https://open.spotify.com/track/54tuiMglLHCTpUgs7sdEV4"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
-        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 142573,
-      "name": "Coraz\u00f3n Corazoncito",
-      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lagrimas De Sangre",
         "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 161560,
       "name": "Lagrimas de Sangre",
       "url": "https://open.spotify.com/track/3oyOsqtU1QWWoYY9sxafFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
+        "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 142573,
+      "name": "Coraz\u00f3n Corazoncito",
+      "url": "https://open.spotify.com/track/4YWANfWRanPow7VxlBRTuD"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mundo Gira",
+        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 182920,
+      "name": "Hambriento Como Lobo",
+      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tumbando Ca\u00f1a (Serie Cl\u00e1sica)",
         "url": "https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 170799,
       "name": "El Coco",
       "url": "https://open.spotify.com/track/0bxzFnyeD1AHh0AHyZyeVU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mundo Gira",
-        "url": "https://open.spotify.com/album/1vimqXrW4MdMYpPeliSFF9"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 182920,
-      "name": "Hambriento Como Lobo",
-      "url": "https://open.spotify.com/track/07aDuwUcm8pP66ebJxnDoU"
     },
     {
       "added_at": null,

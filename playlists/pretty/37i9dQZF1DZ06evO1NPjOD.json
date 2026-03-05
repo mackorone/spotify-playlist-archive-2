@@ -1,12 +1,12 @@
 {
   "description": "This is City Girls. The essential tracks, all in one playlist.",
-  "num_followers": 39688,
+  "num_followers": 39692,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABcd3zwouXYMqZLr2UwSDPi",
+  "snapshot_id": "aaYkgAAAAAABMQy0fUGNttm8aGnQ3BrX",
   "tracks": [
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 119893,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
+      "duration_ms": 200560,
+      "name": "Where The Bag At",
+      "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Where The Bag At",
-      "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
+      "duration_ms": 119893,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JT First Day Out",
-        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "JT First Day Out",
-      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen of Da Souf",
         "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 194526,
       "name": "In n Out (feat. City Girls)",
       "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JT First Day Out",
+        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "JT First Day Out",
+      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
     },
     {
       "added_at": null,
@@ -911,6 +911,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 202226,
       "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shisha",
-        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
-      },
-      "artists": [
-        {
-          "name": "Saucy Santana",
-          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Shisha",
-      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
     },
     {
       "added_at": null,

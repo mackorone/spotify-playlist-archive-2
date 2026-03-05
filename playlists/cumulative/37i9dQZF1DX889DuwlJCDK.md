@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Sundae May Club
 
-1,646 songs - 4 day 3 hr 22 min
+1,646 songs - 4 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -679,7 +679,6 @@
 | [Tonight](https://open.spotify.com/track/7tCiJvYESKIz7JSyWpTs1p) | [ねぎ塩豚丼](https://open.spotify.com/artist/6oV6Z93crY9rgbJtOyKE0X) | [Tonight](https://open.spotify.com/album/36GMRcK5viznaaN6qgGZFy) | 3:05 | 2025-12-16 | 2026-01-15 |
 | [Toumeiningen](https://open.spotify.com/track/1aSSUbMAjJwOmYRhN5xD6k) | [Bocchi](https://open.spotify.com/artist/6C9FJEK44GiyGG5ORRO0Cb) | [Sora Ni Kaoru Wa Natsu No Kage](https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo) | 4:36 | 2025-05-27 | 2025-06-18 |
 | [Touring](https://open.spotify.com/track/4rFKtS8EG2r9RdfhqL3C8I) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [Touring](https://open.spotify.com/album/3HsD5XohZlTaBQ6Dgpc1B4) | 4:07 | 2025-10-14 | 2026-01-15 |
-| [Track 3](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 0:00 | 2026-03-03 |  |
 | [tragedy](https://open.spotify.com/track/2gBHAPP6S0KYN7v0586hCd) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [tragedy](https://open.spotify.com/album/1tORqfJ2N9ZMMSeDgZq3E9) | 2:43 | 2025-04-29 | 2025-11-26 |
 | [Transform](https://open.spotify.com/track/6M87GvTGFoy3Foo2duOZNu) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Transform](https://open.spotify.com/album/40BiBHKivD2uvHsAnNPfDH) | 4:15 | 2025-07-22 | 2025-07-30 |
 | [Trapped in the Neon Lights](https://open.spotify.com/track/2U1ZEejCS3AM1JCxPiwK3T) | [The Mighty Project](https://open.spotify.com/artist/1Uz7BX5Tgwzc08SzJytGJg) | [The Best Die Immortalised](https://open.spotify.com/album/4G8oWo1Lb45TAWb97IGk38) | 3:46 | 2025-05-27 | 2025-06-04 |
@@ -1510,6 +1509,7 @@
 | [燦然と輝くとは](https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [燦然と輝くとは](https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS) | 1:14 | 2024-01-02 | 2024-01-19 |
 | [爆速論理ness](https://open.spotify.com/track/3JT0OG84nHM2wjomQRwgiR) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [爆速論理ness](https://open.spotify.com/album/7bFYDEEKvOPkOft06Tvf8L) | 2:32 | 2025-03-18 | 2026-02-12 |
 | [爆音の鳴る場所で](https://open.spotify.com/track/1E0Hr5u7okK9EhsL6oRWWI) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [ヨル ヲ ムカエニ](https://open.spotify.com/album/4mxo3trB2Ziv7ARCIGtTQ6) | 1:05 | 2023-07-27 | 2023-08-16 |
+| [爪色とグラスの縁](https://open.spotify.com/track/2Dm3EfY1JydBqqw7NE9uQW) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [心の微熱](https://open.spotify.com/album/6MD084CmlPIeNIg952bHsu) | 3:48 | 2026-03-03 |  |
 | [片想いトリップ](https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [片想いトリップ](https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn) | 2:56 | 2025-11-11 | 2026-01-15 |
 | [犬とタバコ](https://open.spotify.com/track/0aoJ8iIBbJpVvL9MELSCdk) | [浪漫派マシュマロ](https://open.spotify.com/artist/0Y2vXzpo1eVUcgIku1UQIn) | [わたしのe.p](https://open.spotify.com/album/0t87DQnOGGrRx3ftcf3tub) | 4:07 | 2023-12-19 | 2024-01-05 |
 | [犬とバカ猫](https://open.spotify.com/track/5CifiKtU7pNzCQ9GdV3xfE) | [セカンドバッカー](https://open.spotify.com/artist/1eoddE8A9kEX2amRoYSZJr) | [犬とバカ猫](https://open.spotify.com/album/65467rSxnHNRnRlHHY6412) | 3:14 | 2025-09-16 | 2025-11-05 |

@@ -4,7 +4,7 @@
 
 > Wekelijkse update met de beste Indie releases\. Cover: Lumï
 
-755 songs - 1 day 20 hr 21 min
+756 songs - 1 day 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Breaking Up The Band](https://open.spotify.com/track/5lerKhat5mus1Wix1Fkzo3) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Breaking Up The Band](https://open.spotify.com/album/6R84EKCuid4UtDC7gLb8Zc) | 4:28 | 2025-08-29 | 2025-11-20 |
 | [Brick Houses](https://open.spotify.com/track/29ewkYh7Tw1hWthUUxjxho) | [Few Bits](https://open.spotify.com/artist/6z5v5w5cm1HaNkQbO6V2Pc) | [Brick Houses](https://open.spotify.com/album/4ZgDC3RMyDFX65CVjYWz23) | 3:19 | 2024-10-03 | 2024-12-19 |
 | [BRING ME BACK](https://open.spotify.com/track/6wo8bpKsehRyHBP2GLnmFE) | [Jean Valery](https://open.spotify.com/artist/3nKZLWQbRQ57Tj4ZfeGEek) | [MY ALBUM RELEASES FEB 14TH!!](https://open.spotify.com/album/2jwk6BtXJ3L5D3kaFsZrZr) | 3:43 | 2024-11-28 | 2025-02-18 |
+| [Bring Me Back To Life](https://open.spotify.com/track/08S4kt4ZCBSjASw7rRaD1j) | [JELISA](https://open.spotify.com/artist/0KaC2z2SJoxk3vCDdl1AKx) | [Melancholia](https://open.spotify.com/album/66uED3xG184HSGVqHc83gF) | 3:24 | 2026-03-04 |  |
 | [Broken](https://open.spotify.com/track/4Tpptkiz0q19v4Kly1ByrR) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [❍](https://open.spotify.com/album/6SqBrEivEyGR1kg0QuJKK0) | 2:22 | 2025-07-10 | 2025-09-27 |
 | [Broken Bottles](https://open.spotify.com/track/2ankNd24u6zEyE0EhN32cS) | [Waltzburg](https://open.spotify.com/artist/69vKqcCUoTUAwHaooT1pzv) | [Broken Bottles](https://open.spotify.com/album/5mWU14MdyONaYi7wW8nGQe) | 3:35 | 2024-11-14 | 2025-02-08 |
 | [BROKEN MEMORY](https://open.spotify.com/track/0J1SDgfuweuPywDSDqYEXf) | [Loyk](https://open.spotify.com/artist/018KlCBuuEPsRQRWu2AJ27) | [BROKEN MEMORY](https://open.spotify.com/album/53epiQ72ShkhjDgNxCKlWO) | 2:59 | 2025-03-06 | 2025-05-17 |
@@ -154,7 +155,7 @@
 | [confused](https://open.spotify.com/track/5mVD6EqHjznlT9vjOQV2bA) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [confused](https://open.spotify.com/album/3BBLwN3zv6PHbJiSTosUog) | 3:25 | 2024-08-30 | 2024-12-03 |
 | [Confused Kids](https://open.spotify.com/track/78QoSOKOC9p5iJgxLq3203) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Confused Kids](https://open.spotify.com/album/6xn3au00GLnkJw3zYjHcG9) | 3:39 | 2025-05-01 | 2025-07-11 |
 | [Confused Kids \- Alternate](https://open.spotify.com/track/2ZWOX0cB7odheL4vKAjomS) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Confused Kids \(Alternate\)](https://open.spotify.com/album/2802e8Z0WLAHa5djfqKojQ) | 3:28 | 2025-08-08 | 2025-09-27 |
-| [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-21 |  |
+| [Count The Ways](https://open.spotify.com/track/1GLpxKAMh0NvdfFD6F8uXs) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [From The Pyre](https://open.spotify.com/album/0EAXMn91yQml5xvO6LtVhk) | 3:58 | 2025-10-21 | 2026-03-05 |
 | [Crack My Mind](https://open.spotify.com/track/5a96ur60EMxFODZSqzfs6j) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Crack My Mind](https://open.spotify.com/album/4rIfEkwxvFQKJyWOQtgIW9) | 3:59 | 2025-08-29 | 2025-11-20 |
 | [Crystal](https://open.spotify.com/track/1IqmnPLGtWJn8p4GkJdk8A) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Crystal](https://open.spotify.com/album/48rRfUJBOsGw9KgU86iKn2) | 3:42 | 2025-03-13 | 2025-05-27 |
 | [Crystallize](https://open.spotify.com/track/79LyefZAVqlwWCjpNb6EEm) | [Crybabies](https://open.spotify.com/artist/2acTwdggTAVdQELkyHdUK8) | [Crybabies](https://open.spotify.com/album/3lPkJOnHgRAkQlP5a81L1U) | 3:39 | 2025-11-03 | 2026-02-14 |

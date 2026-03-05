@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 
 > This is Dave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,681 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,780 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 24 | [Streatham](https://open.spotify.com/track/02E0dT8YgueiXzJBpOijOs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:25 |
 | 25 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/1vdP5l03rrRobswkVke5qP) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:24 |
 | 26 | [No Words](https://open.spotify.com/track/4USHZ3omhEBGjHLD9BIJYs) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [MoStack](https://open.spotify.com/artist/14H15rElxdGClICOZXEYHP) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:30 |
-| 27 | [Hangman](https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Hangman](https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg) | 3:54 |
+| 27 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
 | 28 | [Environment](https://open.spotify.com/track/1yfjDqsnu8yPHWlFFniXtn) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 3:22 |
 | 29 | [System \(feat\. WizKid\)](https://open.spotify.com/track/0McUpkmKSZI5JYbgOYwxPu) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:01 |
-| 30 | [Incredible Sauce \(feat\. Dave\)](https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 4:03 |
+| 30 | [Hangman](https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Hangman](https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg) | 3:54 |
 | 31 | [Our 25th Birthday](https://open.spotify.com/track/4vIPKDgaUQYtwrCKTKhiBP) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/6hYu2ck2RYqcgT0pyfwzrH) | 5:07 |
 | 32 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 |
 | 33 | [Twenty To One](https://open.spotify.com/track/0UHfIL5GqruPrdgMZKIxQk) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Y4Tg4.md) - [plain]
 | 49 | [Children Of The Internet \- Ezra Collective Remix](https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Es Devlin](https://open.spotify.com/artist/2zBduxEdOsDLDT5Fk0wTut) | [Children Of The Internet \(Remixes\)](https://open.spotify.com/album/3gN1nwpbmzQ5t56rAyE6ww) | 5:53 |
 | 50 | [Mercury](https://open.spotify.com/track/1kVdMi8bWDhjp6NCf7s712) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [Titanium & Mercury](https://open.spotify.com/album/1JFnSZYrevjvTv4lXpddpr) | 5:23 |
 
-Snapshot ID: `aaTTAAAAAACv/0G7HY6mXxo5qA1zglBc`
+Snapshot ID: `aaYkgAAAAACAqz6G2v9Ie4CxnARnTmmF`

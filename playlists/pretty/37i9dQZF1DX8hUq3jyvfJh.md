@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Julia Mestre e mais mulheres incríveis no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,895 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,894 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 12 | [saudade, saudade](https://open.spotify.com/track/4vWsnXbf6XGVVqBTbPZaVl) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [saudade, saudade](https://open.spotify.com/album/6jghljedA79R0FIWFc9af3) | 3:00 |
 | 13 | [Segredo Clichê](https://open.spotify.com/track/1S2LcqKdkhC3R7JW14T9h7) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 3:22 |
 | 14 | [Varanda Suspensa](https://open.spotify.com/track/1GpCZ2VpFKuuVGIZq12dum) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Tropix](https://open.spotify.com/album/3OjQpMNunvljKP0tFVGip4) | 4:48 |
-| 15 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
-| 16 | [Casca](https://open.spotify.com/track/5uhzSItR5e7IFMnTkhIRUB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 2:39 |
+| 15 | [Casca](https://open.spotify.com/track/5uhzSItR5e7IFMnTkhIRUB) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Divina Casca](https://open.spotify.com/album/0Nh68tMKWUKi8weMHlSKnm) | 2:39 |
+| 16 | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/track/0cZGeLbUQm3veTaoI6rHmN) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Wet & Wild \(feat\. DUDA BEAT\)](https://open.spotify.com/album/3JHZvYvOucexDDHgqsZUHj) | 3:18 |
 | 17 | [Azul](https://open.spotify.com/track/6FAabpbqQbU8B4k78oux1m) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Azul](https://open.spotify.com/album/2RPr3q2h13RAgg08PiR1V4) | 2:48 |
 | 18 | [AMAReSÓ \- Ao Vivo Com Orquestra](https://open.spotify.com/track/498FzWbDkd8P6fGGs5lU5o) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [AMAReSÓ \(Ao Vivo Com Orquestra\)](https://open.spotify.com/album/07NbVUuc0xr43mBItwki9i) | 3:00 |
 | 19 | [Não Quero Te Querer](https://open.spotify.com/track/0ciIs0Cw2gV9E4W3xMQkDk) | [Mariana Volker](https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Não Quero Te Querer](https://open.spotify.com/album/6ynXVWAUOFYjmaOHxxLg4W) | 3:01 |

@@ -3465,6 +3465,24 @@
     },
     {
       "album": {
+        "name": "Good Company",
+        "url": "https://open.spotify.com/album/1NR5naRbGSmMqV4ui1GQ67"
+      },
+      "artists": [
+        {
+          "name": "Shane MauX",
+          "url": "https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229455,
+      "name": "Wheels Spinnin'",
+      "url": "https://open.spotify.com/track/4ex4M0cUGAItldHZcBo0KE"
+    },
+    {
+      "album": {
         "name": "Counterfeit Arcade",
         "url": "https://open.spotify.com/album/3OdykG7E7VoQwsG38E2Bux"
       },

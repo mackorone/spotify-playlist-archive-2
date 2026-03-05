@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 142824,
+  "num_followers": 142895,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Explorations",
-        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Haunted Heart",
-      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The Awakening",
         "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 442440,
       "name": "I Love Music",
       "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Explorations",
+        "url": "https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Haunted Heart",
+      "url": "https://open.spotify.com/track/7d4JNWqXjsa4iNv9v9Nf8H"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Count 'Em 88",
-        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
+        "name": "Standards",
+        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
       },
       "artists": [
         {
-          "name": "Ahmad Jamal Trio",
-          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
         }
       ],
-      "duration_ms": 232506,
-      "name": "Volga Boatman",
-      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
+      "duration_ms": 241226,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -455,18 +455,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Standards",
-        "url": "https://open.spotify.com/album/20CL0GYrvQaf6haE8i2QOf"
+        "name": "Count 'Em 88",
+        "url": "https://open.spotify.com/album/2d54BGhB7D9tjUGsYPYiX3"
       },
       "artists": [
         {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 241226,
-      "name": "Gee Baby, Ain't I Good To You",
-      "url": "https://open.spotify.com/track/5EV1wV9ZvK2PsSAwnJSNgb"
+      "duration_ms": 232506,
+      "name": "Volga Boatman",
+      "url": "https://open.spotify.com/track/4qnvL2jtPBFzQ3W3u8JphU"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -567,18 +567,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Blues and Ballads",
-        "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
       },
       "artists": [
         {
-          "name": "Brad Mehldau Trio",
-          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
         }
       ],
-      "duration_ms": 565480,
-      "name": "And I Love Her",
-      "url": "https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU"
+      "duration_ms": 324160,
+      "name": "Dat Dere",
+      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -599,34 +599,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "This Here Is Bobby Timmons",
-        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+        "name": "Blues and Ballads",
+        "url": "https://open.spotify.com/album/68Z45vi66VWZw7nqcOQEwP"
       },
       "artists": [
         {
-          "name": "Bobby Timmons",
-          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+          "name": "Brad Mehldau Trio",
+          "url": "https://open.spotify.com/artist/5sQJzc7ZGwC4olbhp2kqqX"
         }
       ],
-      "duration_ms": 324160,
-      "name": "Dat Dere",
-      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
+      "duration_ms": 565480,
+      "name": "And I Love Her",
+      "url": "https://open.spotify.com/track/4J4ZBdkwfS3DCnLVPsJowU"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -647,26 +631,18 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 301773,
-      "name": "I Can't Give You Anything But Love",
-      "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
+      "duration_ms": 284400,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -695,18 +671,26 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
       },
       "artists": [
         {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
         }
       ],
-      "duration_ms": 392840,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
+      "duration_ms": 301773,
+      "name": "I Can't Give You Anything But Love",
+      "url": "https://open.spotify.com/track/04md2B5nmsojIkTSUWff2C"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -723,6 +707,22 @@
       "duration_ms": 378426,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/64vJj4Hdf7YTJl07TGQftP"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 392840,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/1FSf2JmNY7qCq5GK8ZB67w"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Profile",
-        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
-      },
-      "artists": [
-        {
-          "name": "Duke Pearson",
-          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Kenny Drew And His Progressive Piano",
         "url": "https://open.spotify.com/album/3xelKHGo8Hcp0Eml2S95pe"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 204506,
       "name": "52nd Street Theme",
       "url": "https://open.spotify.com/track/63AH56BdSoBHKJAnsB6KiR"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Profile",
+        "url": "https://open.spotify.com/album/1cde7Qcv0eKPegg7uVxgkG"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/0JCipYWmZT7sYHkunRqoRi"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Someday My Prince Will Come",
-        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 186136,
-      "name": "Someday My Prince Will Come",
-      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Mary Lou Williams Presents Black Christ of the Andes",
         "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 190680,
       "name": "My Blue Heaven",
       "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Someday My Prince Will Come",
+        "url": "https://open.spotify.com/album/6BhGuQjC5OwiqLEaMIWFFA"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 186136,
+      "name": "Someday My Prince Will Come",
+      "url": "https://open.spotify.com/track/4K7VsIEk8jyAcvss7HJtas"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Serenade To \"Laura\"",
-        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "The John Lewis Piano",
         "url": "https://open.spotify.com/album/3TpGQijqIYEBpr1rAtYqeA"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 269666,
       "name": "Little Girl Blue",
       "url": "https://open.spotify.com/track/2oNkZcL1A2rhRZ4yKKxxcF"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Serenade To \"Laura\"",
+        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
     },
     {
       "added_at": "2026-01-22 13:51:53",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-22 13:51:53",
       "album": {
-        "name": "Nightconcert",
-        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 333581,
-      "name": "No More Shadows",
-      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
-    },
-    {
-      "added_at": "2026-01-22 13:51:53",
-      "album": {
         "name": "Jazz Impressions Of New York",
         "url": "https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 147333,
       "name": "Theme From \"Mr. Broadway\"",
       "url": "https://open.spotify.com/track/0XV5KWGsFVYsZTjK9Jsj5N"
+    },
+    {
+      "added_at": "2026-01-22 13:51:53",
+      "album": {
+        "name": "Nightconcert",
+        "url": "https://open.spotify.com/album/784DdGI83hMQqhFsfjwf96"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 333581,
+      "name": "No More Shadows",
+      "url": "https://open.spotify.com/track/1cSvJkzOWAyZZKQSWWdNo9"
     },
     {
       "added_at": "2026-01-22 13:51:53",

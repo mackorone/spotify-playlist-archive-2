@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 177979,
+  "num_followers": 177987,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABPxv7KN3bjbx/XczXQiqqo",
+  "snapshot_id": "aaYkgAAAAACAYei0XwCyhzh21MmqsV3k",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Dark Side of Your Room",
-      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
+      "duration_ms": 204306,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 204306,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
+      "duration_ms": 206306,
+      "name": "Dark Side of Your Room",
+      "url": "https://open.spotify.com/track/0ergYUxazsLy0qWK3h0YJd"
     },
     {
       "added_at": null,

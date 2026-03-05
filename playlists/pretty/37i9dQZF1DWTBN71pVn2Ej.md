@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The future of noise\. Cover: Failure
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,173 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,140 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 47 | [Aviator](https://open.spotify.com/track/6oz4BYPua3p3pPI8D1GZcY) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [Aviator](https://open.spotify.com/album/41CShOqI2mPWU5i7Txarws) | 4:55 |
 | 48 | [malaise](https://open.spotify.com/track/10KBD8xydgndnxqXmYnYgM) | [Rehash](https://open.spotify.com/artist/10WfoBIKKTSqCvkeG1XW9T) | [malaise](https://open.spotify.com/album/7y7qJK61KEWXwzSedjQ62y) | 3:14 |
 | 49 | [Tomorrow](https://open.spotify.com/track/2Xe437hf0Ft1qNvtBTi54n) | [Distressor](https://open.spotify.com/artist/4diMJUr4FlHqyKOpyO3ZTf), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Tomorrow](https://open.spotify.com/album/1dZC6BwH2Wim99CAxdJrFS) | 4:24 |
-| 50 | [Graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 |
+| 50 | [graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 |
 | 51 | [my mind is a mountain](https://open.spotify.com/track/6vBRAhaSk91csuuWtttPf8) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [my mind is a mountain](https://open.spotify.com/album/0cysnMmyD2V1SK3JRhCfnG) | 2:50 |
 | 52 | [Brother](https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5) | [Flycatcher](https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn) | [Brother](https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA) | 2:56 |
 | 53 | [Control](https://open.spotify.com/track/4gXfCK4PkuJQt6PkQbsWjP) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 3:29 |

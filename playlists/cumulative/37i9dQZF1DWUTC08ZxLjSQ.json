@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Namak. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Qetoo. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -150,6 +150,32 @@
       "duration_ms": 162102,
       "name": "3ALA BALI",
       "url": "https://open.spotify.com/track/6Ne0DGBMgtmY1Maj3QAVIF"
+    },
+    {
+      "album": {
+        "name": "3WASF",
+        "url": "https://open.spotify.com/album/09q62UUzEX2zwHm8nEzhiB"
+      },
+      "artists": [
+        {
+          "name": "OTT",
+          "url": "https://open.spotify.com/artist/038gck90liF5ILjX8xJhrr"
+        },
+        {
+          "name": "AFYOON",
+          "url": "https://open.spotify.com/artist/6d9Gz70K2H80BR3OyHqQk0"
+        },
+        {
+          "name": "Nxptune",
+          "url": "https://open.spotify.com/artist/7ErBXnmLu4a6BNs0tvPik7"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184937,
+      "name": "3WASF",
+      "url": "https://open.spotify.com/track/5MP1iB1ErqjEUztOU7h1IX"
     },
     {
       "album": {
@@ -2110,7 +2136,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 261928,
       "name": "EXODUS",
       "url": "https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0"
@@ -4399,6 +4425,28 @@
     },
     {
       "album": {
+        "name": "MAFESH TAQA",
+        "url": "https://open.spotify.com/album/6kiftEgkJald31vs4FqQoA"
+      },
+      "artists": [
+        {
+          "name": "Bloodymarry",
+          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
+        },
+        {
+          "name": "MOAZ",
+          "url": "https://open.spotify.com/artist/3WJj9WOHSMcZRwZJpTopnt"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176456,
+      "name": "MAFESH TAQA",
+      "url": "https://open.spotify.com/track/208UcAYZsbege0I5fAnOOI"
+    },
+    {
+      "album": {
         "name": "Magnesium",
         "url": "https://open.spotify.com/album/4EmTcy8IQD4PDLyj5KoUAk"
       },
@@ -5676,7 +5724,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 131925,
       "name": "ODABLE",
       "url": "https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj"
@@ -6390,6 +6438,28 @@
       "duration_ms": 149538,
       "name": "Sabba7 Sabba7 - \u0635\u0628\u062d \u0635\u0628\u062d",
       "url": "https://open.spotify.com/track/7sMJXgBb0ArDsXNIwTkO0t"
+    },
+    {
+      "album": {
+        "name": "Saheb El Aaraf",
+        "url": "https://open.spotify.com/album/02bCHp1Q6PyfhnlRo84pgK"
+      },
+      "artists": [
+        {
+          "name": "Mr. H",
+          "url": "https://open.spotify.com/artist/1GUPC6ruZ3VXpLc0C0UOSL"
+        },
+        {
+          "name": "Khateeb",
+          "url": "https://open.spotify.com/artist/1m6jdeBwe3zUQKl5hof9ib"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Saheb El Aaraf",
+      "url": "https://open.spotify.com/track/5q2pUOsoUeMxsaox3vce8b"
     },
     {
       "album": {
@@ -8414,7 +8484,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 172721,
       "name": "Zaymat",
       "url": "https://open.spotify.com/track/47OlWN8ccCht8FVRWJJSOR"

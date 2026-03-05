@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 
 > All your favourite holiday jazz classics for your christmas dinner party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,932 likes - 125 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,924 likes - 125 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 16 | [Frosty The Snowman \- Remastered 2006](https://open.spotify.com/track/35MqcEIVZ7svbBpRt4N30g) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:13 |
 | 17 | [In the Bleak Midwinter](https://open.spotify.com/track/5QCub19WJvIa3TDtJaHl8I) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [I Saw Three Ships](https://open.spotify.com/album/72Eg5ywjro4gFFqgG8ewqS) | 2:27 |
 | 18 | [The Christmas Waltz \- Remastered 1999](https://open.spotify.com/track/6G7QhTqDsP5vIdLQTYXXOU) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:01 |
-| 19 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
-| 20 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
+| 19 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
+| 20 | [It's Not Christmas 'Til You Come Home \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5DoGwwQAlYumpSSlDNMOwY) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spotify Singles \- Holiday](https://open.spotify.com/album/1knkuS0R3qoY1pmwYrMQ4N) | 3:12 |
 | 21 | [When Christmas Comes To Town](https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV) | [Taylor Owen Trio](https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca) | [When Christmas Comes To Town](https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO) | 3:29 |
 | 22 | [Cool Yule](https://open.spotify.com/track/33GkcZ89Aj254FaJoFwCl9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [The Commanders](https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 2:56 |
 | 23 | [Little Saint Nick](https://open.spotify.com/track/3ZujkFo6UN8jihSZirvbWz) | [Ryder Quartet](https://open.spotify.com/artist/03feorh2ud2VxCrgRcsaLx) | [Little Saint Nick](https://open.spotify.com/album/4N7C1nhf0lCBLoMVJEo80H) | 2:41 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DJLSJvJ3bH.md) - [plain]
 | 65 | [Give love on christmas day](https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Give love on christmas day](https://open.spotify.com/album/5JcVL1T06yF9q8CoEsGBM4) | 3:21 |
 | 66 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 67 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
-| 68 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
-| 69 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
+| 68 | [Winter Blessings](https://open.spotify.com/track/06jYhkarVbcRsKcQaTZXJz) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Winter Blessings](https://open.spotify.com/album/32JOvhQnz5jSywHgKYgRGb) | 4:10 |
+| 69 | [The North Pole Express](https://open.spotify.com/track/1WpxDIN7ccKey5xJm5wTen) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [The North Pole Express](https://open.spotify.com/album/1NbfF4vlT8Eq9rhi78B9S2) | 2:50 |
 | 70 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/6YlfwPv17X9gr6K22dR3QY) | [Luke Marantz Trio](https://open.spotify.com/artist/6skWyJ0S6yQ2bKBQb1klxo) | [Silver Bells](https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq) | 3:20 |
 | 71 | [Suzy Snowflake](https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt) | [Prism Trio](https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE) | [Suzy Snowflake](https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki) | 2:48 |
 | 72 | [Little Drummer Boy](https://open.spotify.com/track/4YKOgDDwKW2lrbwrvqFcVI) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [Little Drummer Boy](https://open.spotify.com/album/2LheEqGdlCtcbCTvPZOQtG) | 3:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > This is Morocco right now\. Cover: Dave, Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,370 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 680,400 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 | 49 | [Jedi ou Jedek](https://open.spotify.com/track/1v8fRuVvA9JhBcCcoP70tE) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Jedi ou Jedek](https://open.spotify.com/album/21zMNUhHDMFXmMPzyRhXOv) | 3:02 |
 | 50 | [Zina Zina](https://open.spotify.com/track/0vm4E4FMXOn72D0RYNTAaM) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [Zina Zina](https://open.spotify.com/album/0M2SI231gHU8QtA31csehN) | 3:07 |
 
-Snapshot ID: `AAAAAIoRZwlBCC466PkYKTXAg2EOaAbJ`
+Snapshot ID: `AAAAAAFrtZVllPVuDAwwDh1GSeKw8x6i`

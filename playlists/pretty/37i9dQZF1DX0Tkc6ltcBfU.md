@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the South\. Cover: J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,172 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,209 likes - 100 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [She Ready](https://open.spotify.com/track/5rqFBpdgiNjjhrYJoF15Uh) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockaveli: All Eyez On Key](https://open.spotify.com/album/1xilmbBVUsZj9oXCLHS81F) | 2:59 |
 | 2 | [Bruce Wayne](https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:56 |
 | 3 | [Feed the Streets](https://open.spotify.com/track/35Gc7ihva3XEo5gw8gazRa) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Feed the Streets](https://open.spotify.com/album/3aw4rnv0BLiiEqFbYZHBdN) | 2:58 |
-| 4 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 4 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 5 | [Dangerous](https://open.spotify.com/track/5b3QlErg4XqEe5hMaUXB0C) | [Hurricane Wisdom](https://open.spotify.com/artist/4PooHx6BstbetDtBMrLyV7) | [Dangerous](https://open.spotify.com/album/2U5A3ty7PaoIEg1Br31jLz) | 2:00 |
 | 6 | [Poor Thang](https://open.spotify.com/track/1nhNz1tWU8p5WvFAAgFW2h) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:50 |
 | 7 | [3 SYRUPS \(feat\. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest\)](https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 3:35 |

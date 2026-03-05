@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
+    },
+    {
+      "album": {
         "name": "not safe",
         "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },

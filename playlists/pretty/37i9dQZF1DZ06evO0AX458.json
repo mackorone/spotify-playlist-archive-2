@@ -1,13 +1,33 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4619,
+  "num_followers": 4620,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABGtuw8AqM7kKQ6snfcnqKi",
+  "snapshot_id": "aaYkgAAAAABPiYDvJZURSoDEUS5YPJ8X",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rapture (Gloom Version)",
+        "url": "https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "duration_ms": 215428,
+      "name": "Rapture - Gloom Version",
+      "url": "https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL"
+    },
     {
       "added_at": null,
       "album": {
@@ -152,9 +172,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 191946,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57"
+      "duration_ms": 146520,
+      "name": "Palm Dreams",
+      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
     },
     {
       "added_at": null,
@@ -220,9 +240,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 146520,
-      "name": "Palm Dreams",
-      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
+      "duration_ms": 131186,
+      "name": "Displacement",
+      "url": "https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf"
     },
     {
       "added_at": null,
@@ -252,9 +272,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 200871,
-      "name": "Lament",
-      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
     },
     {
       "added_at": null,
@@ -284,9 +304,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 131186,
-      "name": "Displacement",
-      "url": "https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf"
+      "duration_ms": 92040,
+      "name": "Eight Seconds",
+      "url": "https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l"
     },
     {
       "added_at": null,
@@ -316,9 +336,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 168225,
-      "name": "Feign",
-      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
     },
     {
       "added_at": null,
@@ -348,9 +368,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 92040,
-      "name": "Eight Seconds",
-      "url": "https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l"
+      "duration_ms": 167746,
+      "name": "Posing Holy",
+      "url": "https://open.spotify.com/track/3U0AAwk53JEcv2Tcu9kpjz"
     },
     {
       "added_at": null,

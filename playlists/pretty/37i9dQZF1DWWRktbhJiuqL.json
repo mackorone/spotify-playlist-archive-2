@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2032826,
+  "num_followers": 2032864,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Blood Sugar Sex Magik (Deluxe Edition)",
         "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 282906,
       "name": "Give It Away",
       "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Who's Next (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 300400,
-      "name": "Baba O'Riley",
-      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Morrison Hotel",
         "url": "https://open.spotify.com/album/6AFLOkpJjFF652jevcSOZX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 243826,
       "name": "Roadhouse Blues",
       "url": "https://open.spotify.com/track/1Q5kgpp4pmyGqPwNBzkSrw"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Who's Next (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 300400,
+      "name": "Baba O'Riley",
+      "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Rock and Roll - Remaster",
-      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "News Of The World (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 122066,
       "name": "We Will Rock You - Remastered 2011",
       "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+        "name": "Higher Truth",
+        "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
         }
       ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+      "duration_ms": 234426,
+      "name": "Nearly Forgot My Broken Heart",
+      "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Higher Truth",
-        "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
       "artists": [
         {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 234426,
-      "name": "Nearly Forgot My Broken Heart",
-      "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Chronicles Of The Kid",
-        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 217582,
-      "name": "Blood In The Water",
-      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Royal Blood",
         "url": "https://open.spotify.com/album/76fT51C9WtCgCcRJlt3PnG"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 187853,
       "name": "Ten Tonne Skeleton",
       "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Chronicles Of The Kid",
+        "url": "https://open.spotify.com/album/4WKj32syBddfrr4Wj7KNnp"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 217582,
+      "name": "Blood In The Water",
+      "url": "https://open.spotify.com/track/5mQCd8RqgT91gK4S9eDG1t"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "A Million Knives",
-        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
-      },
-      "artists": [
-        {
-          "name": "The Velveteers",
-          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
-        }
-      ],
-      "duration_ms": 232041,
-      "name": "Take It From The Top",
-      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "As Above, So Below",
         "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 247716,
       "name": "Plastic Boxes",
       "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "A Million Knives",
+        "url": "https://open.spotify.com/album/3HWdBSozGCPDONMpCmnKDf"
+      },
+      "artists": [
+        {
+          "name": "The Velveteers",
+          "url": "https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq"
+        }
+      ],
+      "duration_ms": 232041,
+      "name": "Take It From The Top",
+      "url": "https://open.spotify.com/track/6nmK3NF1rek4lCTpRoH6DO"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Hard Working Man",
-        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 217066,
-      "name": "Hard Working Man",
-      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Just Another Rainbow",
         "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 336218,
       "name": "Just Another Rainbow",
       "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Hard Working Man",
+        "url": "https://open.spotify.com/album/49kNMARqo9FtWJ8OFIGF7s"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Hard Working Man",
+      "url": "https://open.spotify.com/track/2DaEFCMaprAH4vZmzQYaxc"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "The Longest Kiss (Radio Edit)",
-        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
-      },
-      "artists": [
-        {
-          "name": "The Darkness",
-          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
-        }
-      ],
-      "duration_ms": 164047,
-      "name": "The Longest Kiss - Radio Edit",
-      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Superblood Wolfmoon",
         "url": "https://open.spotify.com/album/7B3s01FXwxQR7vUqajnLpg"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 229466,
       "name": "Superblood Wolfmoon",
       "url": "https://open.spotify.com/track/2PETsovNFRjQOSMWj8gNii"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "The Longest Kiss (Radio Edit)",
+        "url": "https://open.spotify.com/album/5fPJk3b3OVytk7bz2U0433"
+      },
+      "artists": [
+        {
+          "name": "The Darkness",
+          "url": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+        }
+      ],
+      "duration_ms": 164047,
+      "name": "The Longest Kiss - Radio Edit",
+      "url": "https://open.spotify.com/track/70SGUSGBpAD1FIEkmWM4PX"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v"
-      },
-      "artists": [
-        {
-          "name": "The Raconteurs",
-          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
-        }
-      ],
-      "duration_ms": 233596,
-      "name": "Blank Generation (Studio Version) - Recorded at Electric Lady Studios",
-      "url": "https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Vilified",
         "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 271346,
       "name": "Vilified",
       "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/1AP1CpLlnQa4nPzDT8rR2v"
+      },
+      "artists": [
+        {
+          "name": "The Raconteurs",
+          "url": "https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc"
+        }
+      ],
+      "duration_ms": 233596,
+      "name": "Blank Generation (Studio Version) - Recorded at Electric Lady Studios",
+      "url": "https://open.spotify.com/track/7rklSHokP7SFLERdaCbheh"
     },
     {
       "added_at": "2026-02-20 05:00:51",

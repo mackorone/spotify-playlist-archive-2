@@ -2577,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "songs i couldn't forget",
+        "url": "https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180754,
+      "name": "fake it",
+      "url": "https://open.spotify.com/track/1bU5mjzGlU3iyZn2cUy1J4"
+    },
+    {
+      "album": {
         "name": "Dancing In The Dark",
         "url": "https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF"
       },
@@ -2738,7 +2756,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
@@ -4442,6 +4460,24 @@
       "duration_ms": 176688,
       "name": "In The Stars - French Version",
       "url": "https://open.spotify.com/track/0GucRM0BPRGxuzYPN3tF6T"
+    },
+    {
+      "album": {
+        "name": "songs i couldn't forget",
+        "url": "https://open.spotify.com/album/7fMoS9P6G3ULbORP52stef"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211351,
+      "name": "insecure",
+      "url": "https://open.spotify.com/track/7rpsDhcHu6mJ1aMRupHtGa"
     },
     {
       "album": {

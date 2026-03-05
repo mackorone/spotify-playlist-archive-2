@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: 名誉伝説
 
-2,224 songs - 5 day 15 hr 33 min
+2,224 songs - 5 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1190,7 +1190,6 @@
 | [Touch](https://open.spotify.com/track/3ryDbC3kOcEsuSG4uRqhSJ) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [Touch](https://open.spotify.com/album/6pQ7DktgOWUl0U4xHZ9PEj) | 3:31 | 2025-06-17 | 2025-09-03 |
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-01-15 |
 | [Toxins](https://open.spotify.com/track/27nMYBA1K8GYpqFYoYXmaA) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8), [TARVETHZ](https://open.spotify.com/artist/67Ofry6ZPlecTnaGUS5tVR) | [Toxins](https://open.spotify.com/album/3FU6pbiCCpQoE3lhTnxgYR) | 3:00 | 2022-10-04 | 2022-10-19 |
-| [Track 1](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 0:00 | 2026-03-03 |  |
 | [tradition](https://open.spotify.com/track/3jqm9iYwxyYQBM3WLoPiAx) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:27 | 2024-01-24 | 2024-02-07 |
 | [Trank](https://open.spotify.com/track/2irdYmwlo484IdCkgyaySA) | [ako](https://open.spotify.com/artist/02XxVaFe2ZUm1LMIvWRYlo) | [Trank](https://open.spotify.com/album/4nCOdzjEjD7bxMAKLzYB0U) | 2:57 | 2023-09-12 | 2023-11-29 |
 | [trank](https://open.spotify.com/track/5tJasimBMGlOR9y15v1ATu) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [trank](https://open.spotify.com/album/0mcReQHeeMJzIG8BFCyQJf) | 2:57 | 2023-09-12 | 2023-09-14 |
@@ -2050,6 +2049,7 @@
 | [深夜徘徊](https://open.spotify.com/track/4eW39rkFgCZ31dPTsbT3cz) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [深夜徘徊](https://open.spotify.com/album/09lUXmuYLgFciEYNns0Nuy) | 2:51 | 2022-05-10 | 2022-05-25 |
 | [渋谷](https://open.spotify.com/track/6r7UWUoUuGwuF7WREfVPfW) | [イトハ](https://open.spotify.com/artist/2FvMNFgv7sVbpbA32TK2Mq) | [渋谷](https://open.spotify.com/album/7mL7yin2dbHNaCdMIcaKTA) | 4:16 | 2022-04-05 | 2022-04-13 |
 | [渚](https://open.spotify.com/track/4tSJfQosT5D2KlzhtIJzmB) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [Recipe](https://open.spotify.com/album/47RmvUJTXC3QRzpiDN8MiF) | 3:35 | 2024-07-30 | 2024-10-16 |
+| [温度と一部](https://open.spotify.com/track/0HNUvAmscgfyIMyQfsZn5x) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ghost walk e.p.](https://open.spotify.com/album/5TJTOPc0NuRLPCNs9fBuqj) | 3:57 | 2026-03-03 |  |
 | [満月の時は](https://open.spotify.com/track/08aohpizPZGq8r3Ohmr1Bm) | [ぎがもえか](https://open.spotify.com/artist/0cT2SUuJQREIkdEyTgDkl2) | [all ok](https://open.spotify.com/album/4s5vxe9XrBSLYKncZfeNkt) | 3:32 | 2023-10-24 | 2023-12-01 |
 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 | 2023-06-06 | 2023-07-26 |
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |

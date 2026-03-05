@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Rawayana & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,530 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,531 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 66 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 | 67 | [Tu Eres Ajena](https://open.spotify.com/track/7rK8ZDv0TpSf95HUC59bxz) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Exitos De](https://open.spotify.com/album/3y8cbEFw6qI5hsFKBbLEYr) | 4:55 |
 | 68 | [El Bote](https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 2:51 |
-| 69 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
-| 70 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 69 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 70 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
 | 71 | [Por Ti Amor](https://open.spotify.com/track/3xjmbjoWIl5TMJm9IgJjsU) | [Liz](https://open.spotify.com/artist/4zLCaxN5L394pfzaKd3Yqb) | [Por Ti Amor](https://open.spotify.com/album/7sBvD6jvzrUMZOx1l2kRE5) | 4:17 |
 | 72 | [Que Cara Más Bonita](https://open.spotify.com/track/2qiSUrwneShMuE5UQYUx0U) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Merengue De Amor Vol.1](https://open.spotify.com/album/08Z2fmvNTcpnFJGeEsXdoS) | 4:10 |
 | 73 | [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 |

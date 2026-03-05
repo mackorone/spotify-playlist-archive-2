@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Billie Isak",
-  "num_followers": 37763,
+  "num_followers": 37765,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
+        "name": "Pare Repo",
+        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Pare Repo",
+      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
         "name": "San To Louloudi",
         "url": "https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 193274,
       "name": "San To Louloudi",
       "url": "https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
-        "name": "Pare Repo",
-        "url": "https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Pare Repo",
-      "url": "https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq"
     },
     {
       "added_at": "2026-02-26 22:00:20",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
-        "name": "Leei Leei Leei",
-        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Leei Leei Leei",
-      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
         "name": "Mavra Matia",
         "url": "https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 181894,
       "name": "Mavra Matia",
       "url": "https://open.spotify.com/track/3KpyeBandv07ri3WUu111o"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
+        "name": "Leei Leei Leei",
+        "url": "https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Leei Leei Leei",
+      "url": "https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1"
     },
     {
       "added_at": "2026-02-26 22:00:20",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
-        "name": "Ayto Einai Sosto",
-        "url": "https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt"
-      },
-      "artists": [
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
-        }
-      ],
-      "duration_ms": 134201,
-      "name": "Ayto Einai Sosto",
-      "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
         "name": "Pou Ti Vrike?",
         "url": "https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 188470,
       "name": "Pou Ti Vrike?",
       "url": "https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
+        "name": "Ayto Einai Sosto",
+        "url": "https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt"
+      },
+      "artists": [
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 134201,
+      "name": "Ayto Einai Sosto",
+      "url": "https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW"
     },
     {
       "added_at": "2026-02-26 22:00:20",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
-        "name": "Perno Tin Efthini",
-        "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
-        }
-      ],
-      "duration_ms": 215003,
-      "name": "Perno Tin Efthini",
-      "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
         "name": "Me Sighorite",
         "url": "https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 210007,
       "name": "Me Sighorite",
       "url": "https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
+        "name": "Perno Tin Efthini",
+        "url": "https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "duration_ms": 215003,
+      "name": "Perno Tin Efthini",
+      "url": "https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP"
     },
     {
       "added_at": "2026-02-26 22:00:20",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
-        "name": "Krata",
-        "url": "https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2"
-      },
-      "artists": [
-        {
-          "name": "Stan",
-          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
-        }
-      ],
-      "duration_ms": 175890,
-      "name": "Krata",
-      "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
         "name": "M' Akous",
         "url": "https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 200564,
       "name": "Kerasmena",
       "url": "https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
+        "name": "Krata",
+        "url": "https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2"
+      },
+      "artists": [
+        {
+          "name": "Stan",
+          "url": "https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2"
+        }
+      ],
+      "duration_ms": 175890,
+      "name": "Krata",
+      "url": "https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7"
     }
   ],
   "unique_name": "Laika tou Simera",

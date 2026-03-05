@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 32503,
+  "num_followers": 32508,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Lorena Canta al Cuchi",
-        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
-      },
-      "artists": [
-        {
-          "name": "Lorena Astudillo",
-          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
-        }
-      ],
-      "duration_ms": 260623,
-      "name": "Lavanderas de Rio Chico",
-      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Conviccion",
         "url": "https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 204226,
       "name": "Cuando Me Abandone el Alma",
       "url": "https://open.spotify.com/track/29gHclPMgMqLMDna8aNvzR"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Lorena Canta al Cuchi",
+        "url": "https://open.spotify.com/album/0h61QvK5npqN6hf9XG1rX0"
+      },
+      "artists": [
+        {
+          "name": "Lorena Astudillo",
+          "url": "https://open.spotify.com/artist/0r10toqQZwzicT4CjvWM0Y"
+        }
+      ],
+      "duration_ms": 260623,
+      "name": "Lavanderas de Rio Chico",
+      "url": "https://open.spotify.com/track/6PqlcAD1TCO4peWsXif4UF"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Entre Algarroba y Durazno",
-        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
-      },
-      "artists": [
-        {
-          "name": "Clara Cantore",
-          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
-        }
-      ],
-      "duration_ms": 250329,
-      "name": "Entre Algarroba y Durazno",
-      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Roble 10 A\u00f1os",
         "url": "https://open.spotify.com/album/358kTYUCrGTRWRT9gYz99K"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 299978,
       "name": "Zamba azul",
       "url": "https://open.spotify.com/track/0pKhy2EtXwK26sTRCFUdKB"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Entre Algarroba y Durazno",
+        "url": "https://open.spotify.com/album/6qDLBo0CkWfr4e8xNIipBC"
+      },
+      "artists": [
+        {
+          "name": "Clara Cantore",
+          "url": "https://open.spotify.com/artist/2B8KhsQddQcf5L3qRmQyUe"
+        }
+      ],
+      "duration_ms": 250329,
+      "name": "Entre Algarroba y Durazno",
+      "url": "https://open.spotify.com/track/1AfCPo4rfYVvLmLcwDeuXM"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -687,26 +687,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Rosa de los Vientos",
-        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
-      },
-      "artists": [
-        {
-          "name": "Suna Rocha",
-          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
-        },
-        {
-          "name": "Pedro Aznar",
-          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
-        }
-      ],
-      "duration_ms": 286627,
-      "name": "El Seclante\u00f1o",
-      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Uno M\u00e1s 6",
         "url": "https://open.spotify.com/album/42qrvB9s6yNephFUgJKsCf"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 143346,
       "name": "Campo Afuera",
       "url": "https://open.spotify.com/track/1SSoBes2WyDEFaBZbYMAJG"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Rosa de los Vientos",
+        "url": "https://open.spotify.com/album/5Iah6Ecl6pm0CAhBpMdBMy"
+      },
+      "artists": [
+        {
+          "name": "Suna Rocha",
+          "url": "https://open.spotify.com/artist/3SGdv7Nnxz36kYLYcSWuJf"
+        },
+        {
+          "name": "Pedro Aznar",
+          "url": "https://open.spotify.com/artist/2FFrhWZS9vJsh2UvxYPRr6"
+        }
+      ],
+      "duration_ms": 286627,
+      "name": "El Seclante\u00f1o",
+      "url": "https://open.spotify.com/track/3mvqXHClXJg09S59sD5MTZ"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "La Diablera",
-        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
-      },
-      "artists": [
-        {
-          "name": "Hilda Herrera",
-          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Chacarera del Santiague\u00f1o",
-      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 235245,
       "name": "La Jardinera",
       "url": "https://open.spotify.com/track/4DRgbwHJSiXx1698WHUcvz"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "La Diablera",
+        "url": "https://open.spotify.com/album/42r79ADDoRR1RIh27z9rdS"
+      },
+      "artists": [
+        {
+          "name": "Hilda Herrera",
+          "url": "https://open.spotify.com/artist/0qzpjA8ZRuHJnJJN6OsePI"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Chacarera del Santiague\u00f1o",
+      "url": "https://open.spotify.com/track/1N8GNBG9WzqMWLTGBSO6xn"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1167,6 +1167,34 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Aleteo",
+        "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
+      },
+      "artists": [
+        {
+          "name": "Carolina del Carmen Peleritti",
+          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
+        },
+        {
+          "name": "Luciana Jury",
+          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+        },
+        {
+          "name": "Victoria Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB"
+        }
+      ],
+      "duration_ms": 212100,
+      "name": "Zamba del Renacer",
+      "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1199,34 +1227,6 @@
       "duration_ms": 271640,
       "name": "La Negra Ulogia",
       "url": "https://open.spotify.com/track/6hqPLgA3474q9IlIQ2ni7U"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Aleteo",
-        "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
-      },
-      "artists": [
-        {
-          "name": "Carolina del Carmen Peleritti",
-          "url": "https://open.spotify.com/artist/33LPGnKzL0GTbMraTPlPYd"
-        },
-        {
-          "name": "Luciana Jury",
-          "url": "https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
-        },
-        {
-          "name": "Victoria Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/6IptlypanXnLQv0rfKUrlB"
-        }
-      ],
-      "duration_ms": 212100,
-      "name": "Zamba del Renacer",
-      "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "A Mercedes, Vol. II",
+        "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
+      },
+      "artists": [
+        {
+          "name": "Maril\u00ed Machado",
+          "url": "https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Esa Musiquita",
+      "url": "https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Desnudando el coraz\u00f3n",
         "url": "https://open.spotify.com/album/71H7JoIcmwgwRnhu6KhEfY"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 156368,
       "name": "Astilla de Tus Montes",
       "url": "https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "A Mercedes, Vol. II",
-        "url": "https://open.spotify.com/album/2U8svikAMZKenkjZWU0wC7"
-      },
-      "artists": [
-        {
-          "name": "Maril\u00ed Machado",
-          "url": "https://open.spotify.com/artist/38ikTZxvFSdHLo3EIodMRI"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Esa Musiquita",
-      "url": "https://open.spotify.com/track/0z5QRQFqvQWSXM5nOGwK5v"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Memoria de la Semilla",
-        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
-      },
-      "artists": [
-        {
-          "name": "Florencia D\u00e1valos",
-          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
-        }
-      ],
-      "duration_ms": 261760,
-      "name": "Zamba Enamorada (feat. Liliana Herrero)",
-      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Los Clasicos Del Folklore",
         "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 157226,
       "name": "Recopilacion De Carnavalitos",
       "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Memoria de la Semilla",
+        "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
+      },
+      "artists": [
+        {
+          "name": "Florencia D\u00e1valos",
+          "url": "https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq"
+        }
+      ],
+      "duration_ms": 261760,
+      "name": "Zamba Enamorada (feat. Liliana Herrero)",
+      "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Lo Que Estalla",
-        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
-      },
-      "artists": [
-        {
-          "name": "Vero Marjbein",
-          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
-        }
-      ],
-      "duration_ms": 135164,
-      "name": "Lo Que Estalla",
-      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Jazm\u00edn",
         "url": "https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 238746,
       "name": "Baguala para las dos",
       "url": "https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Lo Que Estalla",
+        "url": "https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE"
+      },
+      "artists": [
+        {
+          "name": "Vero Marjbein",
+          "url": "https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi"
+        }
+      ],
+      "duration_ms": 135164,
+      "name": "Lo Que Estalla",
+      "url": "https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj"
     },
     {
       "added_at": "2025-08-21 21:06:28",

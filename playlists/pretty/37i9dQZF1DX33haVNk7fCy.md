@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,302 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,394 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 20 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 |
 | 21 | [Aaj Bhi 2](https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Aaj Bhi 2](https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630) | 4:19 |
 | 22 | [Titliaan](https://open.spotify.com/track/1980E4Grgu5xAhNbFZ1mb1) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Sargun Mehta](https://open.spotify.com/artist/5rOZMdrXGCOXnmmCICga2Z) | [Titliaan](https://open.spotify.com/album/1Wh4r7BE6zZogUSTcMtiku) | 3:15 |
-| 23 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
+| 23 | [Paon Ki Jutti](https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Paon Ki Jutti](https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3) | 3:28 |
 | 24 | [Mujhe Peene Do](https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Mujhe Peene Do](https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc) | 3:16 |
-| 25 | [Paon Ki Jutti](https://open.spotify.com/track/0TrsGqtFXMWCrF9pPMICY9) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Bunny](https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o) | [Paon Ki Jutti](https://open.spotify.com/album/0kvLQHTVY3ocSh0K64f7I3) | 3:28 |
+| 25 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 |
 | 26 | [Chhor Denge](https://open.spotify.com/track/5SYcKZYmQnHBW1LGLOi8sH) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA) | [Chhor Denge](https://open.spotify.com/album/14oX4JyIMaxhjb54CkfbQ9) | 4:17 |
 | 27 | [Achha Sila Diya](https://open.spotify.com/track/0WVMcPw0MpCyckkjdGt0p4) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5) | [Achha Sila Diya](https://open.spotify.com/album/7cwXuOBoenVpKagfx3BAzF) | 5:17 |
 | 28 | [Intezaar](https://open.spotify.com/track/6p2o4ep90wpkh0qzUmyFuO) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Intezaar](https://open.spotify.com/album/71whGqTrr3pCoiAsZx0SAe) | 4:27 |

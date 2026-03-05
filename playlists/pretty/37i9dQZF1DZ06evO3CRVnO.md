@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 
 > This is Playboi Carti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,538 likes - 47 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,581 likes - 47 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CRVnO.md) - [plain]
 | 41 | [Summer Bummer \(feat\. A$AP Rocky & Playboi Carti\)](https://open.spotify.com/track/5QqyRUZeBE04yJxsD1OC0I) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:20 |
 | 42 | [DIFFERENT DAY](https://open.spotify.com/track/0dApSLrXvnYWy1wagJOmpp) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC \- SORRY 4 DA WAIT](https://open.spotify.com/album/7sFZGbkCitoqQz7Rt3LoKg) | 2:46 |
 | 43 | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [flex fm \(freddit\) feat\. Future, Lil Yachty, Playboi Carti](https://open.spotify.com/album/7GzNHtb9w0K7sEjsKj8jmT) | 4:06 |
-| 44 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
-| 45 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
+| 44 | [Uh Uh \- feat\. Playboi Carti](https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Mansion Musick](https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4) | 2:46 |
+| 45 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV) | 3:12 |
 | 46 | [Fire Your Manager \(feat\. Playboi Carti\)](https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MASA](https://open.spotify.com/album/2jkrBfnQoV4eDTaoXWnVhg) | 3:53 |
 | 47 | [Baguettes in the Face \(feat\. NAV, Playboi Carti & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 2:54 |
 
-Snapshot ID: `aaTTAAAAAAA9VK5Lxfwl6opbu/kahCPL`
+Snapshot ID: `aaYkgAAAAACgl+zBLXw+QhA/pz8DDULU`

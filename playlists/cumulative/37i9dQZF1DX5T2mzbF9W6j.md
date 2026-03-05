@@ -4,7 +4,7 @@
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-322 songs - 16 hr 10 min
+323 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Hiroszima, mon amour](https://open.spotify.com/track/3gMwIRYyZV3hpE5WhBCkNQ) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Niesamowita Trupa Pana Hiroszimy](https://open.spotify.com/album/0keblXeuVMoglZxtBUGYfE) | 3:31 | 2025-10-10 | 2026-01-25 |
 | [Holy Water](https://open.spotify.com/track/5Xnkr4b6swk6BA5IinCIlU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Holy Water](https://open.spotify.com/album/6DD756fhA5jj74FmDBncgU) | 2:29 | 2025-08-08 | 2026-01-24 |
 | [Honey \- Single Version](https://open.spotify.com/track/60QsPPI3raXwut6iyO2gsk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Honey](https://open.spotify.com/album/6gBBt9gof7vgnhgacXRv2T) | 2:54 | 2024-06-28 | 2024-07-19 |
-| [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-19 |  |
+| [Hot!](https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov), [Holly Hebe](https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t) | [Hot!](https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0) | 2:45 | 2025-12-19 | 2026-03-05 |
 | [How Bad Do U Want Me](https://open.spotify.com/track/2rvd6akG8qEtBNUvQpN7iY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:58 | 2025-10-10 | 2026-01-24 |
 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 | 2024-06-28 | 2024-11-09 |
 | [I FOUND YOU](https://open.spotify.com/track/06EtCEDJ762K9frHeSkJS5) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w), [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk) | [I FOUND YOU](https://open.spotify.com/album/5bEQqVxc2VDjMHGvxiXx5p) | 2:53 | 2024-11-08 | 2025-02-08 |
@@ -288,6 +288,7 @@
 | [The Way I Want It](https://open.spotify.com/track/3dnGjCQrJqsqYjVwOYqBUj) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [The Way I Want It](https://open.spotify.com/album/273PYkxoYVyKhsNdKnNyiT) | 2:13 | 2024-06-28 | 2024-07-19 |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:57 | 2025-10-10 |  |
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-23 |  |
+| [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 | 2026-02-23 |  |
 | [Toast](https://open.spotify.com/track/2XISunP6qRt8bSryfn1cvl) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Toast](https://open.spotify.com/album/1INrmmxjFbjwOq7gPwcQT2) | 2:31 | 2026-01-23 | 2026-02-24 |
 | [TOKSYNA](https://open.spotify.com/track/2eJnIhTFimR9GSXQIeXqRZ) | [Aron x Krux](https://open.spotify.com/artist/3bEHrOv4S7ITrX3PAt4HwP), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id), [Bajorson](https://open.spotify.com/artist/3kLH6xiJVhBa6JOqS3x7RS) | [TOKSYNA](https://open.spotify.com/album/18b8YnPhpv0CDkFPLIR3sF) | 3:36 | 2025-10-10 |  |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-09-07 |

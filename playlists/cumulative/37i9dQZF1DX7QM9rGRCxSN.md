@@ -4,7 +4,7 @@
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-137 songs - 9 hr 2 min
+138 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Mi Sangre](https://open.spotify.com/track/1ZXvT95QolAhFYQ3xUfVDI) | [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU), [Luz Futuro](https://open.spotify.com/artist/3BaSeTuHgL69zvtazv2XvA) | [Cólera / Mi Sangre](https://open.spotify.com/album/6i6RWwpYyUuASuBWLw4MKd) | 2:50 | 2021-10-19 | 2023-03-25 |
 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 | 2021-10-19 |  |
 | [Mojo \- Radio](https://open.spotify.com/track/53xkHtcZ2rSa8xhS4jJBX2) | [Daniel Craft](https://open.spotify.com/artist/5rFUl5OY8z9cs2tAlE2Gpb) | [Mojo](https://open.spotify.com/album/7eDd7AKrhofbs4mNZ28U3M) | 4:35 | 2023-09-03 | 2023-11-25 |
+| [Molécula](https://open.spotify.com/track/32UdSDXOtw9Gsgxfb4lb8y) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Molécula](https://open.spotify.com/album/4kAdjofUEyvQsc9e7YyY0c) | 3:34 | 2025-10-24 |  |
 | [Montaña](https://open.spotify.com/track/0uvezRcyGHpeFw1doCRSGw) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK) | [Montaña](https://open.spotify.com/album/5MKdiz7q1engXf22GmeXAY) | 1:50 | 2024-08-22 | 2024-10-06 |
 | [Morir de Amor </3](https://open.spotify.com/track/6kRVdk5YVE7TH5yWDeCTcO) | [Melted Ice Cream](https://open.spotify.com/artist/5sM0rohMauU34KstMcmrw9) | [Morir de Amor </3](https://open.spotify.com/album/65ClgMHw387ScepCOtkoDN) | 2:42 | 2021-10-19 | 2023-03-25 |
 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 | 2021-11-25 |  |
@@ -117,7 +118,7 @@
 | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/track/7nscz2qQM4pUj9x3MrHruV) | [Ramona Flores](https://open.spotify.com/artist/4nwf3ZjNlcteyEGCh3KSrk) | [Recibe lo que hay en mí \(que eres tú\)](https://open.spotify.com/album/0T8FT4IjeI7gyne5qiGYUf) | 3:55 | 2024-08-23 | 2024-10-05 |
 | [Reflejo](https://open.spotify.com/track/0sC6ho1eyJnxsWZCsTMTqn) | [MJ Baez](https://open.spotify.com/artist/0Pror4vlY4kxMAStXy9faN), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Reflejo](https://open.spotify.com/album/5tWdkHKPFKj8P2txmQm1pM) | 2:57 | 2024-09-27 | 2025-02-22 |
 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 | 2023-03-24 | 2025-12-18 |
-| [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 |  |
+| [S.O.S.](https://open.spotify.com/track/4ga2J6JnKKeas11GofO65K) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [S.O.S.](https://open.spotify.com/album/4RvKYGUHWX2X38wce7NufG) | 2:57 | 2023-05-05 | 2026-03-05 |
 | [Sailor](https://open.spotify.com/track/4TdfjUGOTNgBFUtCWXGKu4) | [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Sailor](https://open.spotify.com/album/0008B9l9FQcE2EMP3Avbch) | 4:14 | 2024-10-04 |  |
 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 | 2021-10-19 |  |
 | [seguiremos siendo](https://open.spotify.com/track/6zX7KSFicewSnSeT3W2tvN) | [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [seguiremos siendo](https://open.spotify.com/album/4KkPCRsBQnbv25qKv8dkpI) | 3:14 | 2022-02-01 | 2023-03-25 |

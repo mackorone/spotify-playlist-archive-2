@@ -1,6 +1,6 @@
 {
   "description": "El soundtrack del verano 2026 \ud83c\udfdd\ufe0f Cover: ELENA ROSE",
-  "num_followers": 3527001,
+  "num_followers": 3526372,
   "original_name": "Verano Forever",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
+        "name": "NI BORRACHO",
+        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 248440,
+      "name": "NI BORRACHO",
+      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
         "name": "VITAMINA",
         "url": "https://open.spotify.com/album/6jf5qinEHzsxyBQgvrW916"
       },
@@ -599,22 +615,6 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
-        "name": "NI BORRACHO",
-        "url": "https://open.spotify.com/album/56abbxkslQf53jbbIInCD3"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 248440,
-      "name": "NI BORRACHO",
-      "url": "https://open.spotify.com/track/3ltpc2goYCfKT8AbWwqQvc"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
+        "name": "TUCHAT",
+        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 221224,
+      "name": "TUCHAT",
+      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -683,22 +699,6 @@
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
-        "name": "TUCHAT",
-        "url": "https://open.spotify.com/album/3ZltFv8UTH4QZ5GUSKESwe"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 221224,
-      "name": "TUCHAT",
-      "url": "https://open.spotify.com/track/3bAAv8knmzFpYQsLFoK6de"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
-        "name": "NUBES",
-        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        },
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        }
-      ],
-      "duration_ms": 271801,
-      "name": "NUBES",
-      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
         "name": "ori\u00f3N",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 240964,
       "name": "ori\u00f3N",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
+        "name": "NUBES",
+        "url": "https://open.spotify.com/album/3aPk0LChKmVjZv5cto6GUF"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "duration_ms": 271801,
+      "name": "NUBES",
+      "url": "https://open.spotify.com/track/31we7ZzWdSBEOKs5Ln6QVF"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 201935,
-      "name": "offline",
-      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
         "name": "COSITA LINDA",
         "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 139483,
       "name": "COSITA LINDA",
       "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
+        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
+        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 186341,
+      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
+      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
         "name": "Indeciso",
         "url": "https://open.spotify.com/album/4qecT0ZJrf35thz2WaEm6P"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 217253,
       "name": "Indeciso",
       "url": "https://open.spotify.com/track/59s0s39NFWScuHDbHytI14"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
-        "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
-        "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 186341,
-      "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE - Rework",
-      "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
-        "name": "THANK YOU BB",
-        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "THANK YOU BB",
-      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 216621,
       "name": "ILY",
       "url": "https://open.spotify.com/track/5ru2w4Y7xP58IXE6m4orW0"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
+        "name": "THANK YOU BB",
+        "url": "https://open.spotify.com/album/0unKULX7KuJFIwyXGm6DRa"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "THANK YOU BB",
+      "url": "https://open.spotify.com/track/5AmmZXncdHhO7FGPIL6Vm8"
     },
     {
       "added_at": "2026-02-27 03:59:40",
@@ -1831,26 +1831,6 @@
     {
       "added_at": "2026-02-27 03:59:40",
       "album": {
-        "name": "GUAYA",
-        "url": "https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0"
-      },
-      "artists": [
-        {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 194680,
-      "name": "GUAYA",
-      "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
-    },
-    {
-      "added_at": "2026-02-27 03:59:40",
-      "album": {
         "name": "Pa las girlas (con DJ Urba) [Remix]",
         "url": "https://open.spotify.com/album/74nPXmgXFFSdwKsX0Ty6c9"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 260254,
       "name": "Pa las girlas (con DJ Urba) - Remix",
       "url": "https://open.spotify.com/track/2kvSCKwcdYB8CaBoZm7sa9"
+    },
+    {
+      "added_at": "2026-02-27 03:59:40",
+      "album": {
+        "name": "GUAYA",
+        "url": "https://open.spotify.com/album/2P1RZBxXlf4Kr0c2rrt6a0"
+      },
+      "artists": [
+        {
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 194680,
+      "name": "GUAYA",
+      "url": "https://open.spotify.com/track/75hHR4TZqvB22EY0ntZfk1"
     },
     {
       "added_at": "2026-02-27 03:59:40",

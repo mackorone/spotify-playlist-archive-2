@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3LRQHA0f13JHI5UZH2JLsz">Spencer Stewart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 788 likes - 145 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 787 likes - 145 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,12 +94,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 84 | [doyouseeit](https://open.spotify.com/track/2IJgmcPWwfUxQVLBnquwPU) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:29 |
 | 85 | [no cinderella](https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [no cinderella](https://open.spotify.com/album/1H0KnxzyaQmncQHMqbRJ3D) | 2:23 |
 | 86 | [masturbation song](https://open.spotify.com/track/0OHLcL7NuXEMD7UvWjXoz0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:14 |
-| 87 | [Memo Blue](https://open.spotify.com/track/5RS7GUxBaEAVjd1zEsriZI) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:06 |
-| 88 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 |
-| 89 | [No Interference](https://open.spotify.com/track/2MKqF5RzJgIUDEFdVPFSuj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 3:47 |
-| 90 | [Christmas Magic](https://open.spotify.com/track/4OxwhmXaw5tQGTKsMUcLdF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0uQi9pGprBB8IEQgjkP1AS) | 3:10 |
-| 91 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 |
-| 92 | [How I Get](https://open.spotify.com/track/5Xos1UTwFeG3c2GWfLdxMi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/0V8XBtfNf15WcdXHxwlBCT) | 3:39 |
+| 87 | [How I Get](https://open.spotify.com/track/5Xos1UTwFeG3c2GWfLdxMi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/0V8XBtfNf15WcdXHxwlBCT) | 3:39 |
+| 88 | [Memo Blue](https://open.spotify.com/track/5RS7GUxBaEAVjd1zEsriZI) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:06 |
+| 89 | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/track/2yg0AEBcHGfMIPVaA5W7o8) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Charge It \(with Masego, Jozzy & Bayka\)](https://open.spotify.com/album/2UsEip5hKV0iVICEfTXPVB) | 2:47 |
+| 90 | [No Interference](https://open.spotify.com/track/2MKqF5RzJgIUDEFdVPFSuj) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Moongate](https://open.spotify.com/album/0teV5HNso0WGi7EwyASosR) | 3:47 |
+| 91 | [Christmas Magic](https://open.spotify.com/track/4OxwhmXaw5tQGTKsMUcLdF) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0uQi9pGprBB8IEQgjkP1AS) | 3:10 |
+| 92 | [How Do I Know?](https://open.spotify.com/track/4mzRgafmXg0S1FBwGdwFXC) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [How Do I Know?](https://open.spotify.com/album/2hsNeLymE4V8YTHPWLaAxf) | 3:18 |
 | 93 | [Don't Take Me Home](https://open.spotify.com/track/5sgS3JUiUA3E4dYlmp6U0z) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Solitude](https://open.spotify.com/album/23PT15hHxagTUIyhCC97bY) | 3:54 |
 | 94 | [stripclub music](https://open.spotify.com/track/1LXSFybvpHuMEcZqq4c1xR) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 2:54 |
 | 95 | [The Risk](https://open.spotify.com/track/724VTAYwzZowMcN1jC9HF5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Big Bold Beautiful Journey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47kkQLC0hzwsp0uFdhikZP) | 3:58 |
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJz1gREcIti0.md) - [plain]
 | 144 | [Free Fall \- Edit](https://open.spotify.com/track/5rQtSoeRRO4y3d54z1Kd1f) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [Free Fall](https://open.spotify.com/album/4df4LmPcayUQczAkV63sn4) | 3:01 |
 | 145 | [Mockingbird](https://open.spotify.com/track/1AlxrPQuJNXOl3wQOXyv68) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Rave](https://open.spotify.com/album/4ETd0GtmlvoPnD8woGy2sX) | 3:28 |
 
-Snapshot ID: `AcLLIAAAAAAzjjPxrIolUfTjSpLdjitL`
+Snapshot ID: `AcLQwAAAAAC+Ps9zrd6IL+UXGVoVal2s`

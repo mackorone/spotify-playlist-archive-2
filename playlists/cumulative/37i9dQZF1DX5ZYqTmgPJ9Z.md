@@ -4,7 +4,7 @@
 
 > Grab a drink and let us help you see off the evening.
 
-102 songs - 6 hr 17 min
+103 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Add the Bassline](https://open.spotify.com/track/1oQbDSv5togt85za7IsTsc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 2:38 | 2024-12-17 |  |
 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 | 2024-12-17 |  |
 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 | 2024-12-17 |  |
-| [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 | 2024-12-17 |  |
+| [All In My Head](https://open.spotify.com/track/3Bu9F59w6ubEnnLIcbJgfD) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [All In My Head](https://open.spotify.com/album/4xNvPi6XSLvxkNaeOJhfxF) | 5:07 | 2024-12-17 | 2026-03-05 |
 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 | 2024-12-17 |  |
 | [Alright](https://open.spotify.com/track/3fVoaJNF8ALQlL0MG5XpWa) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Groove Curse](https://open.spotify.com/album/2uWJhbEKI42yC1GZR8GaXx) | 4:35 | 2024-12-17 |  |
 | [Are You Waiting?](https://open.spotify.com/track/2fLYnFeaVotT1ApBoDfkLZ) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [From Here](https://open.spotify.com/album/5XXLPt0MNFWzAMvSE4c9ZT) | 3:10 | 2024-12-17 |  |
@@ -63,6 +63,7 @@
 | [Mad About You](https://open.spotify.com/track/5fBjPtOxhgdpU6LNWLyVHv) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 3:33 | 2024-12-17 |  |
 | [Malibu Jane](https://open.spotify.com/track/4NbOXgHL0Gu5ga0qD6z2WN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:38 | 2024-12-17 |  |
 | [meanie](https://open.spotify.com/track/48Feq4hOZdIMhVkIGkzNQI) | [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [Just a Girl \(stripped\)](https://open.spotify.com/album/2tjb8brG7VnVrR3kW1QxYl) | 4:08 | 2024-12-17 |  |
+| [Midnight Mischief \- Tom Misch Remix](https://open.spotify.com/track/3O5JIwSON3KBaoyMUsjLjn) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Midnight Mischief \(Tom Misch Remix\)](https://open.spotify.com/album/3ssz8pi55szsiCBRpJr4xV) | 4:26 | 2024-12-17 |  |
 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 | 2024-12-17 |  |
 | [Mountains](https://open.spotify.com/track/6Jh41Y8aIEqRRNs9kaMk5u) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Mountains](https://open.spotify.com/album/5LuXAbVIu78TH6P0fTVuhi) | 2:37 | 2024-12-17 |  |
 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 | 2024-12-17 |  |

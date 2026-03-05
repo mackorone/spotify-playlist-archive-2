@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "Brushed",
+        "url": "https://open.spotify.com/album/413eyQrwmLKmydZfH2iBhU"
+      },
+      "artists": [
+        {
+          "name": "Ajmw",
+          "url": "https://open.spotify.com/artist/64StAk1W7veJKQ9x0rlE2R"
+        },
+        {
+          "name": "Blanc",
+          "url": "https://open.spotify.com/artist/6V9LzOosiqNwijdIFjDzYw"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157377,
+      "name": "Brushed",
+      "url": "https://open.spotify.com/track/563zLgTKwJrVAvLMlUk0nc"
+    },
+    {
+      "album": {
         "name": "Bungalow",
         "url": "https://open.spotify.com/album/6TnYHvCgw120FlshN6K5lH"
       },
@@ -810,7 +832,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 138524,
       "name": "Daily Hustle and Such",
       "url": "https://open.spotify.com/track/2fmFmwWUU9nDuKPDM2qGEC"
@@ -864,7 +886,7 @@
       ],
       "date_added": "2025-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 134777,
       "name": "devious",
       "url": "https://open.spotify.com/track/2N7pJgapWS9Ws86koONAu8"
@@ -2050,7 +2072,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 121043,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6TpLC7ywTcj6z8hqlkhZm5"
@@ -2769,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Take a Seat",
+        "url": "https://open.spotify.com/album/2OyCtBRGxZ5E4RMmHAOy27"
+      },
+      "artists": [
+        {
+          "name": "kuki",
+          "url": "https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "Take a Seat",
+      "url": "https://open.spotify.com/track/5PMUq6WAdiAUILZN2TI9OY"
+    },
+    {
+      "album": {
         "name": "Take It Easy",
         "url": "https://open.spotify.com/album/2W6KO7atmhRu4HVAHg7Fj5"
       },
@@ -2896,6 +2936,24 @@
       "duration_ms": 237500,
       "name": "Tropical Luxury",
       "url": "https://open.spotify.com/track/35qZ5s83cjjbFxVvrcaBEp"
+    },
+    {
+      "album": {
+        "name": "Turquoise",
+        "url": "https://open.spotify.com/album/1OAA2a1kmc4eRzxY17FvvM"
+      },
+      "artists": [
+        {
+          "name": "NRMNT",
+          "url": "https://open.spotify.com/artist/6V62SYeLMiw1QoaglwU0oA"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "Turquoise",
+      "url": "https://open.spotify.com/track/1kxu1MLt2SsXGso9l6Tsdw"
     },
     {
       "album": {

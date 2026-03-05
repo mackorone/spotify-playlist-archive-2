@@ -1,6 +1,6 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Bullet For My Valentine",
-  "num_followers": 1374067,
+  "num_followers": 1374538,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Life Is Killing Me",
-        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
       },
       "artists": [
         {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 308826,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
+      "duration_ms": 245226,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -331,18 +331,18 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+        "name": "Life Is Killing Me",
+        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
         }
       ],
-      "duration_ms": 245226,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
+      "duration_ms": 308826,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Eat You Alive",
-      "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Lost and Found",
         "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 216426,
       "name": "Happy?",
       "url": "https://open.spotify.com/track/0INUE1K7cEiE8VH63Rv5RJ"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/0EtzpDX05udzfLcGntGbGU"
     },
     {
       "added_at": "2025-11-24 12:44:55",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-11-24 12:44:55",
       "album": {
-        "name": "Rasputin",
-        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
-      },
-      "artists": [
-        {
-          "name": "Turisas",
-          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
-        }
-      ],
-      "duration_ms": 233520,
-      "name": "Rasputin",
-      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
-    },
-    {
-      "added_at": "2025-11-24 12:44:55",
-      "album": {
         "name": "Confession [Special Edition]",
         "url": "https://open.spotify.com/album/24xOhyTbtUHw0NTWemb1md"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 196853,
       "name": "How Can I Live",
       "url": "https://open.spotify.com/track/4dSAuM3CkN1a9mhqn1xB4J"
+    },
+    {
+      "added_at": "2025-11-24 12:44:55",
+      "album": {
+        "name": "Rasputin",
+        "url": "https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC"
+      },
+      "artists": [
+        {
+          "name": "Turisas",
+          "url": "https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI"
+        }
+      ],
+      "duration_ms": 233520,
+      "name": "Rasputin",
+      "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
       "added_at": "2025-11-24 12:44:55",

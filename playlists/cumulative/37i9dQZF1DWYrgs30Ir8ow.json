@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 186421,
       "name": "BEND OVA",
       "url": "https://open.spotify.com/track/05wK2fpzjb29klShjaamxJ"
@@ -8683,6 +8683,28 @@
     },
     {
       "album": {
+        "name": "F*CK KLEINE",
+        "url": "https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7"
+      },
+      "artists": [
+        {
+          "name": "Lil Kleine",
+          "url": "https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT"
+        },
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/5k67my16ec6cSLKsAxrCEM"
+    },
+    {
+      "album": {
         "name": "Ghetto",
         "url": "https://open.spotify.com/album/3Q3X8WomzpzwEWCC8bjoH6"
       },
@@ -14132,7 +14154,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -19314,6 +19336,32 @@
       "duration_ms": 217413,
       "name": "Shining Light",
       "url": "https://open.spotify.com/track/3PqAQRlPl0yOnqqcB6Y5Cw"
+    },
+    {
+      "album": {
+        "name": "Shoulder Lean",
+        "url": "https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "GP UIT G",
+          "url": "https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p"
+        },
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154310,
+      "name": "Shoulder Lean",
+      "url": "https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2695,
+  "num_followers": 2696,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARfOVRuvApdBT0L4cODEKcRYGzbWAn",
+  "snapshot_id": "AAARfXVHrLRjsoUiyRUjNxHz1bIzlApN",
   "tracks": [
+    {
+      "added_at": "2026-03-04 17:36:38",
+      "album": {
+        "name": "Neon Renaissance",
+        "url": "https://open.spotify.com/album/0ChsRFFcUtNRfoq2PsmEvZ"
+      },
+      "artists": [
+        {
+          "name": "LUX VINCI",
+          "url": "https://open.spotify.com/artist/6wCz8IMF2F2UTgIXZuC8Bt"
+        }
+      ],
+      "duration_ms": 120250,
+      "name": "The Vinci Code",
+      "url": "https://open.spotify.com/track/5KSiKAMi4HisvlKB0qrI3t"
+    },
     {
       "added_at": "2026-03-03 18:50:48",
       "album": {

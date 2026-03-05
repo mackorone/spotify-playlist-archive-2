@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Swae Lee, Yeat, 600 ENT and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,860 likes - 59 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,953 likes - 59 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Made It On Our Own](https://open.spotify.com/track/13Z2JpNwN54a5WXacGYtLs) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Made It On Our Own](https://open.spotify.com/album/5pXYL4x2dOkvxM0aeigqwF) | 2:49 |
 | 2 | [FLAMMABLE](https://open.spotify.com/track/1d5sIc2QcHgSMYvGcnsLhe) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [FLAMMABLE](https://open.spotify.com/album/5FS2IqrUicInbFJOS4bAHH) | 3:17 |
 | 3 | [6WA](https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr), [MurdaGang PB](https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr), [Yung Hood](https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI) | [6WA](https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO) | 2:08 |
-| 4 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
+| 4 | [Facts](https://open.spotify.com/track/0vqn83gxRRty97jHU2zhxp) | [CHASE B](https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD) | [BE VERY AFRAID \(Vol\. 1\)](https://open.spotify.com/album/4K9r7DoXIz7ZsD1P6nsZz1) | 3:29 |
 | 5 | [me & you](https://open.spotify.com/track/0XczPtF9mvVPqau0WUqJAT) | [sosocamo](https://open.spotify.com/artist/6hpztnbgmaneFFGGnEOVjd), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [big country](https://open.spotify.com/album/7HkystmvAIsYWSHg68Uo0Y) | 2:29 |
 | 6 | [3 SYRUPS \(feat\. Lil Yachty, Camo!, Dc2trill, Draft Day, Honest\)](https://open.spotify.com/track/0Rb0e3DPB2PluJQflNDAEd) | [Concrete Boys](https://open.spotify.com/artist/0gUhWNBM04NdCAxYUWlSPJ), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Draft Day](https://open.spotify.com/artist/4AICNSyoGIBBcRhuZsPX5L), [Camo!](https://open.spotify.com/artist/5A6mIOIg7290CgPHiDmq2b), [Honest](https://open.spotify.com/artist/0UVv3tdAVAmHXHhhMOQyhX), [Dc2trill](https://open.spotify.com/artist/3LVus8IbMtxb8idFCCSsLI) | [It's Us Vol\. 2](https://open.spotify.com/album/7rzXMS4cXlXe58t1AvPDDS) | 3:35 |
 | 7 | [Need That](https://open.spotify.com/track/5Q4dKMJnW3TOOTuxyTTjDJ) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Need That](https://open.spotify.com/album/2zj7I1ZBHexwRudk0gXUXK) | 2:59 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 20 | [GET THE LOOT](https://open.spotify.com/track/0PXdQNTDnivFbsU9bg1HdT) | [Yakiyn](https://open.spotify.com/artist/41lqavlwvb2IVsBpmCkh4E) | [GET THE LOOT](https://open.spotify.com/album/3BLM7eas462BXq0W7yWuDG) | 2:46 |
 | 21 | [No Heart](https://open.spotify.com/track/2bFn2KpjuNdTDkHgiwMXhk) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [35 NIGHTS](https://open.spotify.com/album/4MZqDWUAJAbPkHE80UFmdn) | 2:33 |
 | 22 | [LOVE ME](https://open.spotify.com/track/4Pvk6rjCSRGOloZ6B3IfrC) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [LOVE ME](https://open.spotify.com/album/2lbh6daYXOxiqCDAJ6NPPp) | 3:18 |
-| 23 | [Find Out](https://open.spotify.com/track/0pjZY5xynsULz9101zZCeb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [Find Out](https://open.spotify.com/album/7A3rWo7QpUBvxiAabjRT4q) | 3:14 |
+| 23 | [Find Out](https://open.spotify.com/track/0pjZY5xynsULz9101zZCeb) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc) | [Find Out](https://open.spotify.com/album/7A3rWo7QpUBvxiAabjRT4q) | 3:15 |
 | 24 | [Manhunt](https://open.spotify.com/track/3VybQPFudU3wTcVChVG05W) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Rome Streetz](https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB) | [Manhunt](https://open.spotify.com/album/5OAT54oeB6x3VFbcbGwkbX) | 3:08 |
 | 25 | [Pac\-Man](https://open.spotify.com/track/7CT6uTCmVIMnFR9VVag8Hr) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Not Done](https://open.spotify.com/album/26wnCS2ge003UaGJ19XqLO) | 2:00 |
 | 26 | [SET BALL](https://open.spotify.com/track/4wHYCIPsZwM2wGFGFF8Nwk) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [SET BALL](https://open.spotify.com/album/3TkcLz0rtDxpHcANJmRNe8) | 2:32 |

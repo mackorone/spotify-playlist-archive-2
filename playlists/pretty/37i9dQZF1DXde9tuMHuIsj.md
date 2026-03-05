@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: YOVNGCHIMI, JC Reyes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,492,872 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492,869 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 84 | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/track/7y8wfdPTJT94sIs6LnGDJC) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Trending Remix \(with Myke Towers\)](https://open.spotify.com/album/0I0LtVW3UJjJtXkCJ7RPLO) | 3:45 |
 | 85 | [H E A V Y](https://open.spotify.com/track/3WZqTFGMU04pDM5JaGQBZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [PRIMERA MUSA](https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4) | 3:18 |
 | 86 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
-| 87 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
+| 87 | [Juguete](https://open.spotify.com/track/4z46E3coZuv7TeGawEd4Ze) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [SHB](https://open.spotify.com/artist/4uiEeT7dw0guTJ5CPMsX83) | [Juguete](https://open.spotify.com/album/6I7lY45BATN3V19Kqlhmnv) | 3:23 |
 | 88 | [Hablame de Dinero](https://open.spotify.com/track/6vtApjN1rhSEMM4hoemQIv) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Hablame de Dinero](https://open.spotify.com/album/23CByWK5jUxfmovn5Pemko) | 3:27 |
 | 89 | [MÍRENME AHORA](https://open.spotify.com/track/1QigNNcv8c5X2iL294bZev) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 3:07 |
 | 90 | [Baby Demon](https://open.spotify.com/track/1PGXHcJVqYWVMVkMLIDGZV) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Baby Demon](https://open.spotify.com/album/0yMErHqzYaX4PyCAz4640l) | 5:11 |

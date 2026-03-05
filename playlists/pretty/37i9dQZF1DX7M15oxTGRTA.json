@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 178746,
+  "num_followers": 178787,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "360 Degrees of Billy Paul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 284906,
-      "name": "Me and Mrs. Jones",
-      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Love Is The Way",
         "url": "https://open.spotify.com/album/63VRCc7KmT6zhL9BiGluQ0"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 179836,
       "name": "Love Is The Way",
       "url": "https://open.spotify.com/track/1CKfCj9izL24zGTrO6QTFE"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "360 Degrees of Billy Paul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2t3e2RCx9fmVO7jmhrOm3a"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 284906,
+      "name": "Me and Mrs. Jones",
+      "url": "https://open.spotify.com/track/6Ro2z4RtAUew9Kz2HZWZUi"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 299120,
-      "name": "Love T.K.O.",
-      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5GMKwvQ8GL9d92tQzzRDM9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 235680,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 299120,
+      "name": "Love T.K.O.",
+      "url": "https://open.spotify.com/track/3IVaPHncIZWWNjfg29HVLq"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -675,18 +675,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "Rapture",
-        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
       },
       "artists": [
         {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
         }
       ],
-      "duration_ms": 250266,
-      "name": "Caught Up in the Rapture",
-      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
+      "duration_ms": 352586,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -727,18 +727,18 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "All This Love",
-        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
       "artists": [
         {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
         }
       ],
-      "duration_ms": 352586,
-      "name": "All This Love",
-      "url": "https://open.spotify.com/track/6ABtlkvl08XQo6Xu24FJaf"
+      "duration_ms": 250266,
+      "name": "Caught Up in the Rapture",
+      "url": "https://open.spotify.com/track/1Df1rxgMob1qQudexDEKuu"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "The Songstress",
-        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
-      },
-      "artists": [
-        {
-          "name": "Anita Baker",
-          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
-        }
-      ],
-      "duration_ms": 300706,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Ask Rufus",
         "url": "https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 288373,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "The Songstress",
+        "url": "https://open.spotify.com/album/6Bnb3WNDoH5Ca0YWgUDIcj"
+      },
+      "artists": [
+        {
+          "name": "Anita Baker",
+          "url": "https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG"
+        }
+      ],
+      "duration_ms": 300706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/36o3La4dQ9E6gKb2x8upJS"
     },
     {
       "added_at": "2025-06-03 20:18:35",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2025-06-03 20:18:35",
       "album": {
-        "name": "A Donny Hathaway Collection",
-        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "The Closer I Get to You",
-      "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
-    },
-    {
-      "added_at": "2025-06-03 20:18:35",
-      "album": {
         "name": "Silky Soul",
         "url": "https://open.spotify.com/album/2IO8mNFG4FS3sdVWUG3qGC"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 405200,
       "name": "Silky Soul",
       "url": "https://open.spotify.com/track/13DPzltcv8RmuzQDfw2ItH"
+    },
+    {
+      "added_at": "2025-06-03 20:18:35",
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 280800,
+      "name": "The Closer I Get to You",
+      "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
     },
     {
       "added_at": "2025-06-03 20:18:35",

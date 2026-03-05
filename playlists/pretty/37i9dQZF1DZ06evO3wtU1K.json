@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37273,
+  "num_followers": 37275,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABSuTrX9RAvpkVPdB0XBTSF",
+  "snapshot_id": "aaYkgAAAAADRdNfGwx5K1i/hFP/mfqDL",
   "tracks": [
     {
       "added_at": null,
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Place Live",
-        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 376666,
-      "name": "Put A Praise On It - Live",
-      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "House Of Miracles",
         "url": "https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC"
       },
@@ -255,6 +235,26 @@
       "duration_ms": 438000,
       "name": "RATTLE!",
       "url": "https://open.spotify.com/track/2FWy9Djj2s2tKwY2A4zhwk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Place Live",
+        "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 376666,
+      "name": "Put A Praise On It - Live",
+      "url": "https://open.spotify.com/track/3yhpA3U2Ki3W6UFSVfMYPS"
     },
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Holy Water (Church Sessions)",
         "url": "https://open.spotify.com/album/0mV74LpIg6NbMUbAIOolKC"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heart. Passion. Pursuit. (Deluxe)",
+        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 166798,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TASHA",
         "url": "https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 222082,
       "name": "Already Good (Tasha Slide)",
       "url": "https://open.spotify.com/track/2t79W2Spqw1Bm2ohSYJAxa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heart. Passion. Pursuit. (Deluxe)",
-        "url": "https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 166798,
-      "name": "I Have Decided",
-      "url": "https://open.spotify.com/track/4fEhxW4pkUTJypgCDf3sSG"
     },
     {
       "added_at": null,

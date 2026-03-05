@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACPwT7v1RaYP1C6jrkgkuzE",
+  "snapshot_id": "aaYkgAAAAADHIYB65CFDzY4LRPG6yp6K",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 207430,
-      "name": "All or Nothing",
-      "url": "https://open.spotify.com/track/0BBysM0n9aupJTpYrDhtCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blame It On Eve",
         "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 207430,
+      "name": "All or Nothing",
+      "url": "https://open.spotify.com/track/0BBysM0n9aupJTpYrDhtCc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Friends",
         "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 199093,
       "name": "Beating Around The Bush",
       "url": "https://open.spotify.com/track/1bAGDBXqTpEiw1xv335cG8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 190754,
-      "name": "Changing Tunes",
-      "url": "https://open.spotify.com/track/6WRpvScDBQhxZaxopTLvj5"
     },
     {
       "added_at": null,
@@ -467,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milestones",
-        "url": "https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 216586,
-      "name": "Milestones",
-      "url": "https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get On Your Feet",
         "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 196120,
       "name": "Every Time She Walks By",
       "url": "https://open.spotify.com/track/1dUyGRhjo2fLkyUnGJ4883"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 190754,
+      "name": "Changing Tunes",
+      "url": "https://open.spotify.com/track/6WRpvScDBQhxZaxopTLvj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Milestones",
+        "url": "https://open.spotify.com/album/2iVR1Vt976L3hxNTPszaMj"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 216586,
+      "name": "Milestones",
+      "url": "https://open.spotify.com/track/5PA3JUawknYd5RPqDwPm5t"
     },
     {
       "added_at": null,
@@ -515,6 +515,26 @@
       "duration_ms": 218666,
       "name": "Love Away The Night",
       "url": "https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adam Brand and The Outlaws",
+        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "It's Five O'clock Somewhere",
+      "url": "https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76"
     },
     {
       "added_at": null,
@@ -551,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adam Brand and The Outlaws",
-        "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
       },
       "artists": [
         {
           "name": "Adam Brand",
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        },
-        {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY"
         }
       ],
-      "duration_ms": 216706,
-      "name": "It's Five O'clock Somewhere",
-      "url": "https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76"
+      "duration_ms": 235773,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA"
     },
     {
       "added_at": null,
@@ -587,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hell Of A Ride",
-        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
       },
       "artists": [
         {
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Ready For Love",
-      "url": "https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA"
+      "duration_ms": 158095,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
     },
     {
       "added_at": null,
@@ -615,22 +631,6 @@
       "duration_ms": 238240,
       "name": "This Time Of Year",
       "url": "https://open.spotify.com/track/6IEZSsTVESxddW1CqMClGs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
     },
     {
       "added_at": null,
@@ -744,29 +744,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 200293,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Oxygen",
-        "url": "https://open.spotify.com/album/4gTB1IyWqYUyLX4fgroTW3"
-      },
-      "artists": [
-        {
-          "name": "Melinda Schneider",
-          "url": "https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW"
-        },
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Love Away The Night",
-      "url": "https://open.spotify.com/track/1OzoLsteJyXgpk9HD3cZRT"
+      "duration_ms": 180533,
+      "name": "Get on Your Feet",
+      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
     },
     {
       "added_at": null,
@@ -787,6 +767,26 @@
       "duration_ms": 270782,
       "name": "Sweet Home Alabama (feat. Adam Brand)",
       "url": "https://open.spotify.com/track/2u6J72xygaq4q7YQ4fEwJC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Oxygen",
+        "url": "https://open.spotify.com/album/4gTB1IyWqYUyLX4fgroTW3"
+      },
+      "artists": [
+        {
+          "name": "Melinda Schneider",
+          "url": "https://open.spotify.com/artist/131ggn8n3rIaHaudwsQoJW"
+        },
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Love Away The Night",
+      "url": "https://open.spotify.com/track/1OzoLsteJyXgpk9HD3cZRT"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Get on Your Feet",
-      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
+      "duration_ms": 248746,
+      "name": "If Heaven Has a Soundtrack",
+      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
     },
     {
       "added_at": null,
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 248746,
-      "name": "If Heaven Has a Soundtrack",
-      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
+      "duration_ms": 200293,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO"
     }
   ],
   "unique_name": "This Is Adam Brand",

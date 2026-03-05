@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > 🤝
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,288 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,274 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 27 | [Det Løser Seg](https://open.spotify.com/track/1uvYRZPOtfnI9SbYzgqV4S) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Det Løser Seg](https://open.spotify.com/album/6hygzpsQObLO2CrgnTIO9W) | 2:12 |
 | 28 | [Oslo](https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN) | [Streetboys](https://open.spotify.com/artist/6R3OPXyzteMubaNClGZZDW) | [Oslo](https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH) | 2:31 |
 | 29 | [Se På Meg](https://open.spotify.com/track/5ZoZDdZUCvSSzMDZYrK9EH) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Se På Meg](https://open.spotify.com/album/5WaoMzn9JLXkxar2AYt656) | 2:39 |
-| 30 | [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 |
+| 30 | [Danser på kanten](https://open.spotify.com/track/1j3vLGgdnSq1BNyN1EAdik) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa) | [Danser på kanten](https://open.spotify.com/album/0OZpBz1nUsrwrDydy60EaH) | 2:09 |
 | 31 | [Positiv](https://open.spotify.com/track/2c0f6RoKEFac8rsQ42WNIl) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Positiv](https://open.spotify.com/album/19ZPN1zBZRJrDXkoCkHbvK) | 3:13 |
-| 32 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
-| 33 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
-| 34 | [Kanskje det går te helvete](https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ps\. Kanskje det går](https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq) | 3:34 |
-| 35 | [Danser på kanten](https://open.spotify.com/track/1j3vLGgdnSq1BNyN1EAdik) | [Puls](https://open.spotify.com/artist/0SOZWHKbmT868SRjpyd6Wa) | [Danser på kanten](https://open.spotify.com/album/0OZpBz1nUsrwrDydy60EaH) | 2:09 |
+| 32 | [I Wanna](https://open.spotify.com/track/6HFHQkAnQrH6noWrDAqCfl) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [I Wanna](https://open.spotify.com/album/3UC6CrM4dVIp8cC2FuGlhx) | 2:09 |
+| 33 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 |
+| 34 | [Sjarmør \(Beepolar\)](https://open.spotify.com/track/6KRzKdnFjMabdStm61TQ13) | [Problembarn](https://open.spotify.com/artist/4OL8M4X2h0li7ThNulTjmx) | [Sjarmør \(Beepolar\)](https://open.spotify.com/album/2AnzUlvs4pLnZ4RdawxOzD) | 2:43 |
+| 35 | [Kanskje det går te helvete](https://open.spotify.com/track/3xRtWrtBhtLhWR5RZ0Onvs) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ps\. Kanskje det går](https://open.spotify.com/album/0N7r8gALr0KZlDEVdNo2sq) | 3:34 |
 | 36 | [Se på meg](https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Se på meg](https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv) | 2:23 |
-| 37 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
-| 38 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
+| 37 | [Kaster Penger](https://open.spotify.com/track/0fHZ6nPa8xsN2hbJRLjs64) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Kaster Penger](https://open.spotify.com/album/6wG3xK0qg4Q1qOU2wpabVN) | 1:54 |
+| 38 | [Sjonglerer](https://open.spotify.com/track/48lgNLaCCAGBilhLDTU4zw) | [Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC) | [Sjonglerer](https://open.spotify.com/album/7FulcP1O9xEbhtGsqcvkx2) | 2:54 |
 | 39 | [TV](https://open.spotify.com/track/0Mq64VYAfJIczXcguLLHKs) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [TV](https://open.spotify.com/album/5g3sbCVGQajMNL5wiEx8lt) | 3:24 |
 | 40 | [Trouble](https://open.spotify.com/track/4IVuDp5OaR7XS4ZreqeKlC) | [Erin Kinsey](https://open.spotify.com/artist/5TtSGhhCPt56x4ZPfg7DFq) | [Gettin' Away With It](https://open.spotify.com/album/09qwD3r5RKCIxjmu4lcWdJ) | 3:13 |
 | 41 | [Zanotti](https://open.spotify.com/track/3nT3EBnBlRgn9X00yrOLHE) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 4:26 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 44 | [Fredagsbarn](https://open.spotify.com/track/2eT6tyhlP3fTkK4lclgedn) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV) | [Fredagsbarn](https://open.spotify.com/album/7onxwLHD9g5dug7NNp4lPr) | 3:10 |
 | 45 | [Cut the shit](https://open.spotify.com/track/2exlxqoHDMQVXRRN4CUQLn) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Cut the shit](https://open.spotify.com/album/25cevYblvE1sa7lZ54ERaC) | 2:33 |
 | 46 | [Memoarer](https://open.spotify.com/track/2SVKApKvdJ8NA4L1Drw4kJ) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Memoarer](https://open.spotify.com/album/2jdsLy7h5MEx8cY4K7nlEW) | 3:03 |
-| 47 | [Ordner seg](https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU) | [Ordner seg](https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu) | 2:55 |
-| 48 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
+| 47 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 |
+| 48 | [Ordner seg](https://open.spotify.com/track/55gyKCjFV2nKhuWjhF7ZR6) | [3D](https://open.spotify.com/artist/37BXAB8Czx0cPCBQ1323qU) | [Ordner seg](https://open.spotify.com/album/6SwY7z3rIsFXhpuutGdmEu) | 2:55 |
 | 49 | [Clean Fit, Fin Anledning](https://open.spotify.com/track/7qky42Br09C4K93lYdAXAs) | [Metropolen](https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi) | [Clean Fit, Fin Anledning](https://open.spotify.com/album/1CfrrqDKpfZbU2rVn2DoaA) | 2:33 |
 | 50 | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/track/2UX3g1DDHIx13BmxCs6SN1) | [El Papi](https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV), [Madeléne](https://open.spotify.com/artist/7HbJecOAhTcyj5x9P95kQz) | [Livet Slik Det Var \(feat\. Madeléne\)](https://open.spotify.com/album/3CtVuAavZZ0w3xcQgTaiKd) | 2:40 |
 

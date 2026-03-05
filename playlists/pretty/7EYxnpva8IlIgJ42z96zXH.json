@@ -1,13 +1,29 @@
 {
   "description": "Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!",
-  "num_followers": 30242,
+  "num_followers": 30240,
   "original_name": "Hot Girl Workout \ud83c\udfc3\ud83c\udffb\u200d\u2640\ufe0f Run Club / Pilates / HIIT",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAQRBAvaa9nbgG3HEU75XmVEsGZRXox",
+  "snapshot_id": "AAAQRajIzjdt+7em3f7+Vx8VvpaVA+rs",
   "tracks": [
+    {
+      "added_at": "2026-03-04 03:50:08",
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 205308,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
+    },
     {
       "added_at": "2026-02-20 00:40:54",
       "album": {

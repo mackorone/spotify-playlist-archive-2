@@ -2,7 +2,7 @@
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- gini
+> Listen to women at full volume\. Cover \- Madhubanti Bagchi
 
 626 songs - 1 day 13 hr 15 min
 

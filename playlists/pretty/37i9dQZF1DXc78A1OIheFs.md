@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,319 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,323 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 26 | [PLEASER](https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [PLEASER](https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc) | 2:45 |
 | 27 | [BLEED](https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BLEED](https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2) | 3:35 |
 | 28 | [Missing You](https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Missing You](https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B) | 3:33 |
-| 29 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
-| 30 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
+| 29 | [The Question](https://open.spotify.com/track/04rb28OYuKeNCQ1VuWYxZ0) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [The Question](https://open.spotify.com/album/4JBi6qB6f8nHn7TT3bpHHZ) | 3:16 |
+| 30 | [Drag](https://open.spotify.com/track/3L92bNW7G5XBNEOztoebiK) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Drag](https://open.spotify.com/album/1QZYrI5uyd39SSFdgPNVmZ) | 2:49 |
 | 31 | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn) | [Te Matatini](https://open.spotify.com/artist/0VmdsKXBJCrRyszIw40tv7), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [We Belong \(feat\. Corrella & L.A.B\)](https://open.spotify.com/album/1sFjvQK6wmmRgMVAxVFVDA) | 3:35 |
 | 32 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 |
 | 33 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 |
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 46 | [Harmless](https://open.spotify.com/track/7GXhQCmSEYJTFV7hd4AEx0) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Harmless](https://open.spotify.com/album/7fpdpcbXKbo8jDqwPW6M9Q) | 2:25 |
 | 47 | [Give Me That Feeling](https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B VI](https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE) | 4:14 |
 | 48 | [Under The Surface](https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Under The Surface](https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz) | 4:14 |
-| 49 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 |
-| 50 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 |
+| 49 | [What Do We Ever Really Know?](https://open.spotify.com/track/1nyCxSZlwqP4Dj6yu5r24b) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [What Do We Ever Really Know?](https://open.spotify.com/album/3yfY2tkI6g8WR2HfZBaQfv) | 3:53 |
+| 50 | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2) | [STALKER \(feat\. Ramirez\)](https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt) | 2:32 |
 | 51 | [Breakdown](https://open.spotify.com/track/0B8G8zXxETLTQQmsoNuSto) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Chrysalis](https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB) | 3:29 |
 | 52 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 53 | [You Already Know](https://open.spotify.com/track/7c8NGyFaX9Too4WKDLGnft) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [You Already Know](https://open.spotify.com/album/3K1gJcHNypQmW7qCkiplSh) | 3:06 |
-| 54 | [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 |
-| 55 | [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 |
+| 54 | [Politix](https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Politix](https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy) | 4:32 |
+| 55 | [DEATH COMES FROM THE SKY](https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [CURSE](https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41) | 2:28 |
 | 56 | [Hell Of A Night](https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [Hell Of A Night](https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2) | 3:52 |
 | 57 | [How Will I Know](https://open.spotify.com/track/1b6KsrknUg6EpziAvzjMo4) | [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX) | [How Will I Know](https://open.spotify.com/album/2dIfFPrjC3D0DMr4KNfFc0) | 3:17 |
 | 58 | [Gravity](https://open.spotify.com/track/6gQmQi4GYJWN2Lxr4cArJ2) | [Jon Toogood](https://open.spotify.com/artist/7DV3aS9YkgLlQ05vw08CG8) | [Gravity](https://open.spotify.com/album/4z6z440xRZYzZsQmmkMKWQ) | 3:34 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 61 | [Maumahara Noa Ahau](https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC), [Corrella](https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX), [Brannigan Kaa](https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy) | [Maumahara Noa Ahau](https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp) | 2:50 |
 | 62 | [Ghost in Your Bed](https://open.spotify.com/track/1xLmLJ8aqhqpfy9Y8yrvwy) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Ghost in Your Bed](https://open.spotify.com/album/4hCnWA3vA8bpwHzNcC4u7J) | 2:48 |
 | 63 | [Under One Roof](https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Under One Roof](https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3) | 4:14 |
-| 64 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
-| 65 | [Reggae Revival \- Revival 2.0](https://open.spotify.com/track/0ASUvTVvEApBOGAV9O3mIg) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival 2.0](https://open.spotify.com/album/1vgUJlj5RVNrg3y7GVhX6G) | 4:11 |
-| 66 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |
+| 64 | [thought of you](https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI) | [Teo Glacier](https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY) | [thought of you](https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab) | 3:45 |
+| 65 | [What Would It Profit](https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay) | [The Drip](https://open.spotify.com/album/4AnurorczccotGyQOVXEdp) | 3:05 |
+| 66 | [Reggae Revival \- Revival 2.0](https://open.spotify.com/track/0ASUvTVvEApBOGAV9O3mIg) | [Katchafire](https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa) | [Revival 2.0](https://open.spotify.com/album/1vgUJlj5RVNrg3y7GVhX6G) | 4:11 |
 | 67 | [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 |
 | 68 | [Don't You Die](https://open.spotify.com/track/3y3f5uaZ4xvHZ2QCGZ5BR0) | [Bean Magazine](https://open.spotify.com/artist/39f9ht0YjVFG1L7lMHc152) | [In The Shade](https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne) | 3:13 |
 | 69 | [Broken Glass](https://open.spotify.com/track/7lYyAj4YWhsP1naYx8DSZc) | [Harper Finn](https://open.spotify.com/artist/3CUxThJ21i78mhH1FfH55u) | [Broken Glass](https://open.spotify.com/album/5t31M8n1vxdpWaNlCeSeEG) | 3:16 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 72 | [Crazy Dream \- Edit](https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Crazy Dream \(Edit\)](https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR) | 2:58 |
 | 73 | [Coming Home](https://open.spotify.com/track/6KAA7BldTJgqfPv5pvqhqj) | [Blindspott](https://open.spotify.com/artist/3ygVOsvZu30UQVK26idggu) | [Vol\. 3](https://open.spotify.com/album/2ybYUrbmkPXadAjJWmtcje) | 4:06 |
 | 74 | [Chantilly](https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1) | [NO CIGAR](https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT) | [Chantilly](https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1) | 3:33 |
-| 75 | [Didn't Change A Thing](https://open.spotify.com/track/2OgPwHAA08O8gPkX2S6ujL) | [Te Wehi](https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc) | [Didn't Change A Thing](https://open.spotify.com/album/7q6gFymoUw39CUBeDQJTkr) | 2:44 |
+| 75 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 |
 
 Snapshot ID: `AAAAAIXQtGSbtKWrkmq5z7rpcoyYYx3P`

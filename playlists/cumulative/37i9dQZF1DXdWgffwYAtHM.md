@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:12dibRyPTOMitNNhVmlgnG">Medo em Cia.</a>
 
-225 songs - 6 day 10 hr 1 min
+226 songs - 6 day 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [INTIMIDADES SINTÉTICAS](https://open.spotify.com/episode/4psrr7b7VHi6nlPgjf4fxN) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:15:08 | 2025-06-02 | 2025-07-02 |
 | [lealdades invisíveis com a nossa família ](https://open.spotify.com/episode/4A7aNcTCAplm3Y44WRSWuk) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 24:20 | 2026-03-02 |  |
 | [MAL\-ESTAR NA ADOLESCÊNCIA](https://open.spotify.com/episode/2d4WGs3F6g7HmW4DvXMWHW) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 1:13:19 | 2025-04-01 | 2025-05-01 |
+| [Manda áudio 23](https://open.spotify.com/episode/2tBLK0elMUNjuzefWEDLZe) | [Até aí, ok!](https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth) | [Até aí, ok!](https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth) | 5:50 | 2026-03-02 |  |
 | [MANUAL DE SOBREVIVÊNCIA EM FESTAS \#34](https://open.spotify.com/episode/7zDO1tDQAyBZZa1MlQSA2K) | [Estavu Show](https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu) | [Estavu Show](https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu) | 34:15 | 2025-08-05 | 2025-09-04 |
 | [MATCH O PAPO & CLUBE DO ERRO \#08 \- "Ele não tomou banho"](https://open.spotify.com/episode/7cFfInpCeoEs6JxgX3kbXW) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 39:27 | 2025-02-05 | 2025-03-02 |
 | [MATCH O PAPO & CLUBE DO ERRO \#09 \- RELAÇÕES SIGILOSAS E DE MUITO APRENDIZADO](https://open.spotify.com/episode/0Rhjqtm18kFV5XP40N2ksg) | [Clube do Erro](https://open.spotify.com/show/08kk3SYhqXvEEH26Pc243s) | [Clube do Erro](https://open.spotify.com/album/08kk3SYhqXvEEH26Pc243s) | 58:44 | 2025-03-01 | 2025-04-01 |

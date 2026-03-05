@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 70422,
+  "num_followers": 70457,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach: Choral \"Herr unser Herrscher\" from Johannes-Passion",
-        "url": "https://open.spotify.com/album/0EsxGEFgKrnsvHwbzJWJ3G"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "Bach, JS: Johannes-Passion, BWV 245, Pt. 1: No. 1, Chor. \"Herr unser Herrscher\" (Transcr. Tharaud for Piano)",
-      "url": "https://open.spotify.com/track/5ZVL5r6EqwWay1Rc2GlWOX"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "Unity (Affinity)",
         "url": "https://open.spotify.com/album/5Lu9kBaAOeBYl22U9wFYGf"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 123008,
       "name": "St Matthew Passion, BWV 244, Pt. 1: No. 17, Chorale. Ich will hier bei dir stehen (Arr. for Piano by Rosey Chan)",
       "url": "https://open.spotify.com/track/5WySYyyyB3D5eTQJtkvVYW"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Bach: Choral \"Herr unser Herrscher\" from Johannes-Passion",
+        "url": "https://open.spotify.com/album/0EsxGEFgKrnsvHwbzJWJ3G"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "Bach, JS: Johannes-Passion, BWV 245, Pt. 1: No. 1, Chor. \"Herr unser Herrscher\" (Transcr. Tharaud for Piano)",
+      "url": "https://open.spotify.com/track/5ZVL5r6EqwWay1Rc2GlWOX"
     },
     {
       "added_at": "2025-12-23 12:10:07",
@@ -775,26 +775,6 @@
     {
       "added_at": "2025-12-23 12:10:07",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
-        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
-      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
-    },
-    {
-      "added_at": "2025-12-23 12:10:07",
-      "album": {
         "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
         "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 481160,
       "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
       "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
+    },
+    {
+      "added_at": "2025-12-23 12:10:07",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I",
+        "url": "https://open.spotify.com/album/0FVPuKxHqRQ2jtmfdFHjI2"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "The Well-Tempered Clavier, Book 1: Prelude & Fugue No. 15 in G Major, BWV 860",
+      "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
     },
     {
       "added_at": "2025-12-23 12:10:07",

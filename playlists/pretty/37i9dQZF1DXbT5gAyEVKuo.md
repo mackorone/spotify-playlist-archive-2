@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Sinach
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,060 likes - 75 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,101 likes - 75 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

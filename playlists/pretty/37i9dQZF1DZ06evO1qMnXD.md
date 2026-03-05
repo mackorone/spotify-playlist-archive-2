@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,635 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,671 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 20 | [Goodbye, My Danish Sweetheart](https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 2:17 |
 | 21 | [Crack Baby](https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 4:52 |
 | 22 | [Abbey](https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:46 |
-| 23 | [Rules](https://open.spotify.com/track/1sXoiYyirQoagTRjVBXvCt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 2:36 |
+| 23 | [Lightning](https://open.spotify.com/track/64E2gHCNB4vny4Vwr6JAqM) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 2:57 |
 | 24 | [I Don't Smoke](https://open.spotify.com/track/5Qk72xAbHXMzOWL6gS5Gcp) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 3:18 |
 | 25 | [Your Best American Girl](https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 3:32 |
 | 26 | [Pink in the Night](https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:16 |
-| 27 | [Lightning](https://open.spotify.com/track/64E2gHCNB4vny4Vwr6JAqM) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 2:57 |
+| 27 | [Rules](https://open.spotify.com/track/1sXoiYyirQoagTRjVBXvCt) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 2:36 |
 | 28 | [Last Words of a Shooting Star](https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 2:44 |
 | 29 | [A Burning Hill](https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:49 |
 | 30 | [Remember My Name](https://open.spotify.com/track/6QqUgSjdtWhqsEdz72XhCD) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 49 | [Working for the Knife](https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:38 |
 | 50 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
 
-Snapshot ID: `aaTTAAAAAAB7qHHE0XhYd37MIYLbq1Td`
+Snapshot ID: `aaYkgAAAAABWTsmjtLJVshLwh0JDWz9M`

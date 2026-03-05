@@ -4,7 +4,7 @@
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-86 songs - 3 hr 28 min
+88 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,9 +72,11 @@
 | [Non Fiction](https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:05 | 2022-09-22 |  |
 | [Palm Dreams](https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:26 | 2022-09-16 |  |
 | [Pathfinder](https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Parting the Sea Between Brightness and Me](https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh) | 1:06 | 2022-09-16 |  |
+| [Posing Holy](https://open.spotify.com/track/3U0AAwk53JEcv2Tcu9kpjz) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 2:47 | 2026-03-05 |  |
 | [Praise / Love](https://open.spotify.com/track/1A8DwHJSNibbVTqPLN0zlc) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 1:01 | 2022-12-19 |  |
 | [Praise / Love \- Revived \(Remixed / Remastered\)](https://open.spotify.com/track/2Zy9QUlZ3i0biDhQXtM9pg) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By \(Revived \[Remixed / Remastered\]\)](https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK) | 1:01 | 2024-01-20 | 2024-11-01 |
-| [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 | 2022-09-16 |  |
+| [Rapture](https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Stage Four \(Deluxe Edition\)](https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7) | 3:11 | 2022-09-16 | 2026-03-05 |
+| [Rapture \- Gloom Version](https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB), [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Rapture \(Gloom Version\)](https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN) | 3:35 | 2026-03-05 |  |
 | [Reminders](https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:03 | 2022-09-16 |  |
 | [Savoring](https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 2:56 | 2022-09-16 |  |
 | [Savoring \- BBC Live Version](https://open.spotify.com/track/3IUnbH0HPS7BqBkDPBfuDm) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Live On BBC Radio 1: Vol 4](https://open.spotify.com/album/0RS4Bwd7DbaV9MZIuv1TYZ) | 3:03 | 2025-08-08 | 2025-09-18 |

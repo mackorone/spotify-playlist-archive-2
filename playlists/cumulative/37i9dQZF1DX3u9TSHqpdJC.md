@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: tig3r lewis\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.  Cover: After Louise\. Artwork by Paola Saliby
 
-4,405 songs - 9 day 8 hr 25 min
+4,409 songs - 9 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [3AM](https://open.spotify.com/track/5cETeA9Fi1wyPXcWRjLlaE) | [Amber Ais](https://open.spotify.com/artist/3vPpiUL0ow9hQfhDMyGxle) | [3AM](https://open.spotify.com/album/1HAOlIxcReAfHXyXk94QnJ) | 3:46 | 2022-08-03 | 2022-09-29 |
 | [3am](https://open.spotify.com/track/6m8ol2L3I3dCkF1AVcpvGb) | [Oliver Keane](https://open.spotify.com/artist/5ZkAOoZPehfyH4V00NYVb8) | [3am](https://open.spotify.com/album/3U5siYxgEeeiptWXsrrg1Y) | 3:25 | 2022-01-19 | 2022-03-03 |
 | [3AM](https://open.spotify.com/track/5grvZwzUi8UUPqkNdUfCq2) | [Sadie Fine](https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc) | [3AM](https://open.spotify.com/album/3UezsvZOCyGkCzZrJ4OAUb) | 3:12 | 2026-01-28 |  |
-| [3days](https://open.spotify.com/track/3fjlEMZ2enkbZdRZm4neFW) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ) | [3days](https://open.spotify.com/album/03eVrBkkSvTx6gHEj42R7X) | 3:01 | 2026-01-14 |  |
+| [3days](https://open.spotify.com/track/3fjlEMZ2enkbZdRZm4neFW) | [Niall Tarmey](https://open.spotify.com/artist/0mkGsPDIeYwlu3AphfXLmJ) | [3days](https://open.spotify.com/album/03eVrBkkSvTx6gHEj42R7X) | 3:01 | 2026-01-14 | 2026-03-05 |
 | [3DM](https://open.spotify.com/track/6xMUlD4v4cSSjk3h1JdMvp) | [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [3DM](https://open.spotify.com/album/7EUwXADzq1k2T5yZyqAOZy) | 3:33 | 2023-03-01 | 2023-06-08 |
 | [40 Wishes](https://open.spotify.com/track/15bPfygzNpAGFm787vWC83) | [cultgabe](https://open.spotify.com/artist/4W0wogc0XoxtUpxLIyZkyi) | [40 Wishes](https://open.spotify.com/album/1MIo2oN2pvdbJsHyWtH8DW) | 4:31 | 2021-07-24 | 2021-08-20 |
 | [405](https://open.spotify.com/track/2RRhvqw5Uc8gwCTp13H8bV) | [Katherine Ho](https://open.spotify.com/artist/2XjmzdpCTEdJPI2KGwdeHy) | [405](https://open.spotify.com/album/0LQhcpf3mjvoa1xcTydH0G) | 3:32 | 2022-10-12 | 2022-12-01 |
@@ -885,6 +885,7 @@
 | [Cult](https://open.spotify.com/track/5PTqkTO6peswogqXZ84a8p) | [Avi Kytes](https://open.spotify.com/artist/7x5FmUosFZHo35X5rx7517) | [Cult](https://open.spotify.com/album/3KY27vbFs12yDQNk9iHEoU) | 3:01 | 2023-08-30 | 2023-10-12 |
 | [cup!](https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [cup!](https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe) | 2:14 | 2023-07-19 | 2023-09-21 |
 | [Cupids Games](https://open.spotify.com/track/29tVGZPCBXL5ElQpbgINUR) | [Zoe Sanders](https://open.spotify.com/artist/1EDU4S0vDAK3UaweNtq59X) | [Cupidon / Cupids Games](https://open.spotify.com/album/3L7V1tnYa0rzaiTvhNUdQm) | 3:18 | 2021-03-11 | 2021-04-08 |
+| [Curious](https://open.spotify.com/track/4riWIw7bjHRKCWeeCFxV3o) | [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [Aren't You Curious?](https://open.spotify.com/album/5Fdzfm44sC8htznFfFdAqA) | 3:04 | 2026-03-04 |  |
 | [Cut Deep](https://open.spotify.com/track/4O5Z3boSWzrscOFmmEPwLn) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Control](https://open.spotify.com/album/0tPkRDh3pJd9Z1OiVXQwQH) | 3:39 | 2021-05-13 | 2021-06-03 |
 | [Cut It Off](https://open.spotify.com/track/0pt5Funt9Ha0ApcLa6leUY) | [Hallie](https://open.spotify.com/artist/0I0VahDFplPkGInkRvoXPW) | [This is Love](https://open.spotify.com/album/371LvRaWCqWuAS4FD0Pc5r) | 3:33 | 2023-05-31 | 2023-08-03 |
 | [CUT IT OFF!](https://open.spotify.com/track/1KadoakLQSvHKLPldMSOlm) | [Dalia](https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p) | [CUT IT OFF!](https://open.spotify.com/album/3IIyOoNvKVHS2FpweEmMKj) | 2:57 | 2025-02-26 | 2025-05-01 |
@@ -1328,6 +1329,7 @@
 | [Firetruck](https://open.spotify.com/track/5D09TkOLzrkWTWqQxAId5V) | [SG5](https://open.spotify.com/artist/7D2TZnpK65Crptr2BgWrJ6) | [Firetruck](https://open.spotify.com/album/7bAkSGLaKkIcBb6RmhR8yN) | 2:24 | 2023-03-01 | 2023-04-06 |
 | [FiRST CLASS](https://open.spotify.com/track/2vaa854lLZJlkinXIeBLu9) | [MARiMARi](https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl) | [FiRST CLASS](https://open.spotify.com/album/6quElopRXqMhbi6QsxDA4S) | 2:22 | 2025-03-12 | 2025-05-08 |
 | [First Life Too](https://open.spotify.com/track/72CHw7eprrX9Vocquv5oDA) | [Shay O'Dowd](https://open.spotify.com/artist/1xp8arQmoMdz3b5LlJ5LJu) | [Growing Pains](https://open.spotify.com/album/71leShBwh1bPBX75n2ZM4N) | 4:05 | 2025-07-02 | 2025-08-28 |
+| [First Night of My Life](https://open.spotify.com/track/1Ii1Yq2CpoRkP9elQsUpl2) | [Alder Cote](https://open.spotify.com/artist/0CiMpVlvx7HH7YSCczLotT) | [First Night of My Life](https://open.spotify.com/album/1Tobr8qTjJ1APhKpEj90lb) | 3:04 | 2026-03-04 |  |
 | [firstavenue\_bedroom](https://open.spotify.com/track/229V8Yw0gxpHGrRmbiSCM1) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [firstavenue\_bedroom](https://open.spotify.com/album/3pzb6CGrh0pQIGOHtPOMIj) | 3:21 | 2021-10-07 | 2021-11-11 |
 | [Fish](https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21) | [PEARL](https://open.spotify.com/artist/6hZgNWpmI3Ti681I6IPEvW) | [Fish](https://open.spotify.com/album/7MiaK4y5UVaLSz9jwxHMBw) | 3:44 | 2023-06-14 | 2023-08-31 |
 | [Fit In Here](https://open.spotify.com/track/5hQ2gA6BF0NcUwmFKTXTuK) | [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [Fit In Here](https://open.spotify.com/album/6DHfxMPoiO6mz6eTLNnqhU) | 3:27 | 2022-05-04 | 2022-06-30 |
@@ -1360,6 +1362,7 @@
 | [Follow Me Into The Dark](https://open.spotify.com/track/2aQXnLW2uQwZeRDUR23VTU) | [Hajaj](https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6) | [Last Call For Coco](https://open.spotify.com/album/1dpef92yGV81tOPHCzFWeU) | 4:09 | 2021-11-11 | 2021-12-01 |
 | [FOMO](https://open.spotify.com/track/0IH3EyZ41jHj3LrgMcfcEk) | [Lelli](https://open.spotify.com/artist/6iBwpfoUpZQbRh82sBNNd5) | [FOMO](https://open.spotify.com/album/5whfBoFeqQnKjBfUVlZPUP) | 3:48 | 2021-11-11 | 2021-12-01 |
 | [FOMO](https://open.spotify.com/track/11BDQHOvdJQOtMU2gOzXX7) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [FOMO](https://open.spotify.com/album/5ovUHtnBEk8S10pKVTDDLh) | 3:00 | 2025-01-08 | 2025-01-30 |
+| [Fool](https://open.spotify.com/track/2YbCm17UJVAahRBYpliQr8) | [Maya Engen](https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm) | [Fool](https://open.spotify.com/album/4RLU9EBKgeFBgBEERtnU8x) | 4:00 | 2026-03-04 |  |
 | [Fool Moon](https://open.spotify.com/track/0uBgmv6k8EK8fqs1Ahgdvh) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm) | [Fool Moon](https://open.spotify.com/album/01lxWM1EtrpqWDVkW7T8V6) | 3:35 | 2021-07-22 | 2021-09-02 |
 | [Fool's Gold](https://open.spotify.com/track/2g7Ey0Cm30PLdrU6FbUX1f) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN \(Deluxe\)](https://open.spotify.com/album/5MYDDv0VbQOu5NcwhGu47j) | 3:24 | 2021-11-11 | 2022-01-13 |
 | [fools](https://open.spotify.com/track/7vET9IxVccjxam96d7KKNy) | [braev](https://open.spotify.com/artist/7mGCESDlw5ChfZQTQ3eUIS) | [OMAC](https://open.spotify.com/album/5gNSQyifDmKYjxZxza7hTo) | 3:21 | 2021-05-20 | 2021-06-03 |
@@ -1752,7 +1755,7 @@
 | [Honda](https://open.spotify.com/track/6ffSGfKRLfW75iyp2QYY4I) | [míra](https://open.spotify.com/artist/0WB5rykKeHBde6sSIfg4jj) | [Honda](https://open.spotify.com/album/3UAw4xdmnAEO8qatebxp2G) | 3:25 | 2021-05-06 | 2021-05-27 |
 | [Honda Civic](https://open.spotify.com/track/12Gq8nhHQbtnNyHC2JjRjJ) | [MAGGIE ANDREW](https://open.spotify.com/artist/19Eo0nJo8Luia8BtGq5MuJ) | [Honda Civic](https://open.spotify.com/album/27tjOQdXIwmmhQXWJq8xPt) | 3:28 | 2021-05-13 | 2021-07-22 |
 | [Honest](https://open.spotify.com/track/0yKBeWzLv3gnPDPTHojTNF) | [She Loves Boon](https://open.spotify.com/artist/6is8aeGtatwbYEiamvsp23), [Belis](https://open.spotify.com/artist/6j6e89Rb6ghGgLduAOpxkD) | [Honest](https://open.spotify.com/album/5BcYD4JghzAgbZJ4N74OFL) | 2:15 | 2021-10-28 | 2021-12-01 |
-| [Honest](https://open.spotify.com/track/1q5OrJbTzVmgp7ii4c0x9I) | [Theo Zellus](https://open.spotify.com/artist/4FhoAhb3rM2xpTPkoskUts) | [Honest](https://open.spotify.com/album/1AXf9KbWDmXIB2yeOYD2LN) | 2:08 | 2026-01-14 |  |
+| [Honest](https://open.spotify.com/track/1q5OrJbTzVmgp7ii4c0x9I) | [Theo Zellus](https://open.spotify.com/artist/4FhoAhb3rM2xpTPkoskUts) | [Honest](https://open.spotify.com/album/1AXf9KbWDmXIB2yeOYD2LN) | 2:08 | 2026-01-14 | 2026-03-05 |
 | [Honestly I'm Disappointed](https://open.spotify.com/track/4XeELrZsC6BNUF9RjGdDx3) | [Kate Grahn](https://open.spotify.com/artist/3uKUYOnOlOpYj7quHnLtFv) | [Honestly I'm Disappointed](https://open.spotify.com/album/4ueJumymqxktXKi8uSfzF1) | 2:19 | 2022-04-06 | 2022-05-05 |
 | [Honey](https://open.spotify.com/track/14eK2sQJqLajRdY7uVI8Ps) | [Camp 8](https://open.spotify.com/artist/2lCCNZSlmKQNJWYMsQgKpK) | [Honey](https://open.spotify.com/album/6y5XPp35EETubKbqGSFwwL) | 4:23 | 2021-05-13 | 2021-06-03 |
 | [Honey](https://open.spotify.com/track/5BQQNG3ZtdsKWhaEnqv34y) | [Sylvee](https://open.spotify.com/artist/1OmQ8TgrwtDSA6cPVWwUbR) | [Downpour](https://open.spotify.com/album/2xhqPhUuyRJ1ains9ETgDv) | 3:25 | 2023-05-03 | 2023-06-15 |
@@ -1992,7 +1995,7 @@
 | [If I Could Leave](https://open.spotify.com/track/7xThoVfQoUa8vv6Y4kOwBk) | [Jess Spink](https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz) | [Where It Goes from Here](https://open.spotify.com/album/3ZCThraJoc53sC1SVEpMIt) | 3:24 | 2021-04-29 | 2021-05-27 |
 | [if i disappear](https://open.spotify.com/track/2UJHBTzpfndcT1gcfY5yjK) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [if i disappear](https://open.spotify.com/album/2XGKC9iOHdN8acgpM0ilnC) | 3:14 | 2021-10-07 | 2021-11-11 |
 | [If I Don't](https://open.spotify.com/track/3DnBdZ1jE89TvjqrkuLuFe) | [Ally Hills](https://open.spotify.com/artist/5Ev7qjDIU1wvhqt8nSsPrl) | [If I Don't](https://open.spotify.com/album/6ODo93Uyit8i4J58hh9trt) | 2:36 | 2022-01-26 | 2022-03-03 |
-| [If I Had a God](https://open.spotify.com/track/73LPVaLPfaQ4Jlc5VhVL2s) | [Loxie](https://open.spotify.com/artist/72uIrHD3z47krMeUNZW6UW) | [If I Had a God](https://open.spotify.com/album/6o1wwk5ZmeXHa438BmIVF4) | 2:32 | 2026-01-14 |  |
+| [If I Had a God](https://open.spotify.com/track/73LPVaLPfaQ4Jlc5VhVL2s) | [Loxie](https://open.spotify.com/artist/72uIrHD3z47krMeUNZW6UW) | [If I Had a God](https://open.spotify.com/album/6o1wwk5ZmeXHa438BmIVF4) | 2:32 | 2026-01-14 | 2026-03-05 |
 | [if i had a wish...](https://open.spotify.com/track/7lAO5AorXpnM8dsAfSpPxS) | [Sloane Monroe](https://open.spotify.com/artist/01MmyFSkT8ZGwfp3gocPRQ) | [if i had a wish...](https://open.spotify.com/album/4nbZtHkosaIkBPORU7f2vw) | 2:47 | 2025-06-04 | 2025-08-07 |
 | [If I Know Myself](https://open.spotify.com/track/1pIhP5U0CM2qcaKJpdGM3n) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [If I Know Myself](https://open.spotify.com/album/6CJ1wAFyPKCDWGqAr48Vcx) | 3:09 | 2021-05-06 | 2021-05-20 |
 | [If It's Alright](https://open.spotify.com/track/4Gad4v9Cfv6HtU7xwk6b4F) | [Emerson Azarian](https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j) | [If It's Alright](https://open.spotify.com/album/46jsJCD0dUeYhgHNUKrjJv) | 1:54 | 2024-01-31 | 2024-02-22 |
@@ -2982,6 +2985,7 @@
 | [Pick at my Wounds](https://open.spotify.com/track/6wmUTdD8wvdhZ6wTTHp078) | [loe4t](https://open.spotify.com/artist/7EgzC7ivtBbXIPst8RAKNe) | [Pick at my Wounds](https://open.spotify.com/album/251jzaQbnHu62ROms2x9HP) | 2:28 | 2021-06-03 | 2021-06-18 |
 | [Pick Me Up](https://open.spotify.com/track/77d7t7SYR0YAXgXePYo8t5) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [Pick Me Up](https://open.spotify.com/album/5V5x9zEi6XCVnn15qjpDRP) | 2:44 | 2020-11-18 | 2020-12-08 |
 | [Pick up](https://open.spotify.com/track/2twgq4n0x2rxkosP5NgOME) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Pick up](https://open.spotify.com/album/4wfgzG3ScHhKvZIJLKPPDr) | 2:03 | 2023-07-26 | 2023-09-21 |
+| [Picket Fences](https://open.spotify.com/track/5VuwRqPog2d52uXN5CZx7w) | [Ocean Tisdall](https://open.spotify.com/artist/0khASnsotcq7HSvuUEaWkg) | [Picket Fences](https://open.spotify.com/album/3b02NVev87rWqepTDG8avL) | 3:33 | 2026-03-04 |  |
 | [Picking Petals](https://open.spotify.com/track/5zP2Sxr2jDIhnX25yCjZq6) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Demos 26\-30](https://open.spotify.com/album/3aRS4aKF7lh8gpb0N8dM9a) | 2:37 | 2025-04-16 | 2025-05-29 |
 | [Picture](https://open.spotify.com/track/1tUHwdqRMqbLyt2tEoB2EU) | [Loviet](https://open.spotify.com/artist/2oULrQuWXhDGUEBtWQPiA9) | [Picture](https://open.spotify.com/album/58yynwxjJ8kVRTsa8i1R5b) | 3:35 | 2021-10-21 | 2021-11-11 |
 | [Picture Perfect Standard](https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh) | [Brosie](https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB) | [Picture Perfect Standard](https://open.spotify.com/album/4Y7RlGQR1n7QpzKhdFlHde) | 2:28 | 2024-05-22 | 2024-06-28 |
@@ -3129,7 +3133,7 @@
 | [Rain](https://open.spotify.com/track/5D50LQOoqYJxSLTC6xtAbK) | [Daju](https://open.spotify.com/artist/4znXFLA1TOhbTKrgZViWev) | [Rain](https://open.spotify.com/album/0n35Yu5zqqNVdPj0Xecack) | 2:52 | 2024-08-02 | 2024-10-10 |
 | [Rain In California](https://open.spotify.com/track/7e7Ahta2Z36i0kxM6JkSxi) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/0R6IlEAhvgQkcfcsMc6E0Z) | 2:28 | 2023-05-10 | 2023-06-28 |
 | [Rain In California](https://open.spotify.com/track/3uLWWGfrQUUEbBRLru9zKO) | [VIBI](https://open.spotify.com/artist/5WXBhs4qvg2LSdklOaZCAl) | [Rain In California](https://open.spotify.com/album/7sVmdfwKVReBMtUV8wEniC) | 2:28 | 2023-05-10 | 2023-11-30 |
-| [RAIN TEARS](https://open.spotify.com/track/4oz4ks0tE4kslYXUQE6E6M) | [8TEEN](https://open.spotify.com/artist/70E13lqPpX66MJkmDhXj7P) | [RAIN TEARS](https://open.spotify.com/album/59Teir7bgUMl1qem25oXxf) | 2:23 | 2026-01-14 |  |
+| [RAIN TEARS](https://open.spotify.com/track/4oz4ks0tE4kslYXUQE6E6M) | [8TEEN](https://open.spotify.com/artist/70E13lqPpX66MJkmDhXj7P) | [RAIN TEARS](https://open.spotify.com/album/59Teir7bgUMl1qem25oXxf) | 2:23 | 2026-01-14 | 2026-03-05 |
 | [Rainbow](https://open.spotify.com/track/12Ir8MQzqu6X78vMwsublK) | [Grace Pelle](https://open.spotify.com/artist/0sBS1xdoktPWXbo6iNOx8p) | [Rainbow](https://open.spotify.com/album/0yJzuT4T9Rf5H4sV1OFGsk) | 3:24 | 2022-03-23 | 2022-04-28 |
 | [Rainbow](https://open.spotify.com/track/6QCQpnOZtQJC5Lpd610Rz4) | [The Cave](https://open.spotify.com/artist/2mW9rNrxyKxGj4GC53hVAH) | [Rainbow](https://open.spotify.com/album/6V5aFvB7xFbAMIdzBFgVlj) | 4:12 | 2025-03-05 | 2025-04-10 |
 | [Rainbow Alley](https://open.spotify.com/track/6t9iK4zQRM3ORMPYfn8rqo) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I), [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Rainbow Alley](https://open.spotify.com/album/5egodvlltbFcR4EzkZ6OXz) | 2:35 | 2022-01-26 | 2022-03-03 |

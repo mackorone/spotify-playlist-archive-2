@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,501 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,495 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 22 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2V0nezXHgQhEegaQzbpEfv) | [Sugar Chile Robinson](https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu) | [Vooey Vooey Vay!](https://open.spotify.com/album/0RWdOVW8Oek2JfwOZjKI9l) | 2:37 |
 | 23 | [A Little Bit Of Christmas Love](https://open.spotify.com/track/4ADoQpHnpFx5YlKh8UirZf) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Happy Xmas](https://open.spotify.com/album/1L3jhywNGVbRmOjprKPvzj) | 2:43 |
 | 24 | [Santa](https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Death Might Be Your Santa Claus](https://open.spotify.com/album/3SSDDxmyp0j5FZphUbCtaH) | 3:45 |
-| 25 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
-| 26 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
-| 27 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 25 | [Christmas Morning Blues](https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg) | [Smoking Time Jazz Club](https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 4:38 |
+| 26 | [Dirty Ol' Christmas Blues](https://open.spotify.com/track/0WE9iKOAPnnXnifXm5VXGJ) | [Yes Maam](https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl), [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Best of Street New Orleans Xmas](https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr) | 3:06 |
+| 27 | [Merry Christmas Baby](https://open.spotify.com/track/2QQZG6E5hulmmkSnfJVwah) | [Ike & Tina Turner](https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k) | [The 30 Most Unusual Christmas Songs](https://open.spotify.com/album/5klR7lb2L9mAyEInR6LtqK) | 2:04 |
 | 28 | [Hey Santa Claus](https://open.spotify.com/track/63RfLcMM3jf3HjmR2FVTTf) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Presenting The Moonglows](https://open.spotify.com/album/1mP0kFIDxcbuXnPhTPCo7v) | 2:25 |
 | 29 | [Bo Diddley Santa Claus](https://open.spotify.com/track/5b36XrEjIUeXE40biZ7cKF) | [The Tractors](https://open.spotify.com/artist/4cORFIWQylRGyJX9lYnqk9) | [The Big Night](https://open.spotify.com/album/0tmajlJTpuxh2HRXfZmbat) | 5:39 |
 | 30 | [Merry Christmas Baby](https://open.spotify.com/track/5nj3Z2A1DnkLNO3Z3rEYww) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ), [Johnny Moore's 3 Blazers](https://open.spotify.com/artist/5Trz1MSJiGnhDq4y0KUFK1) | [Merry Christmas Baby / Sleigh Ride](https://open.spotify.com/album/0FaHv9Z81MFmoo8MxW1yPW) | 2:39 |

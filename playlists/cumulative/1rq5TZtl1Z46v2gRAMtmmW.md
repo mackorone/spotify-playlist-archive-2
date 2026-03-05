@@ -4,7 +4,7 @@
 
 > 
 
-495 songs - 1 day 8 hr 23 min
+496 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Forever](https://open.spotify.com/track/3yZEoq8Rz599OSgIOwrU5z) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Forever](https://open.spotify.com/album/2CKEEhqgIAKmvG6pIdsKq7) | 5:36 | 2022-11-14 | 2023-02-07 |
 | [Forever \(Solomun Remix\)](https://open.spotify.com/track/6Y99Pdmhbg5GhAAxwjcbhR) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Forever \(Solomun Remix\)](https://open.spotify.com/album/09rft4QsmOVsaUzJjGrZOb) | 3:48 | 2023-08-17 | 2023-10-28 |
 | [Forever Baby](https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Janet Planet](https://open.spotify.com/artist/6WaeCF7BKSHfUuOj4ggRoq) | [Sentimental](https://open.spotify.com/album/15JwpSbmrg94260qjQQYse) | 3:18 | 2024-11-18 | 2025-03-14 |
+| [Forge](https://open.spotify.com/track/6iELW37OhvMST3JfbzzQMc) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Forge](https://open.spotify.com/album/130C9Fb8aYMPQWNTMoBTO9) | 3:48 | 2026-03-04 |  |
 | [Forgive Me \(Live\) \(ODESZA VIP Remix\)](https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Forgive Me \(Live\) / A Moment Apart \(Live\)](https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV) | 4:03 | 2024-04-16 | 2024-07-11 |
 | [Fragments of a Butterfly’s Face \- Edit](https://open.spotify.com/track/2tjotfP0A3kTyx71G42exR) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Dummy Corporation](https://open.spotify.com/album/0HZSknL80HGgxczYAi2qEU) | 3:28 | 2022-11-11 | 2023-07-15 |
 | [Free Falling](https://open.spotify.com/track/2OtkVJa0TqrxTSFRfGapXE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Free Falling](https://open.spotify.com/album/1Bs2GHQOR8Uxiv89sbhYbC) | 3:45 | 2025-10-17 | 2026-02-18 |

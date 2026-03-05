@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 10555,
+  "num_followers": 10566,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -803,30 +803,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "Wo\u0142anie",
-        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
-      },
-      "artists": [
-        {
-          "name": "Pezet",
-          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
-        },
-        {
-          "name": "Ajron",
-          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
-        },
-        {
-          "name": "Eldo",
-          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
-        }
-      ],
-      "duration_ms": 192814,
-      "name": "Wo\u0142anie",
-      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "NIE MA CB (PRZY MNIE TU)",
         "url": "https://open.spotify.com/album/2ZBuaxJT22uoSJdsJEOmiw"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 213818,
       "name": "NIE MA CB (PRZY MNIE TU)",
       "url": "https://open.spotify.com/track/6VUFiHo3hE3ZAyIAkQOyol"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "Wo\u0142anie",
+        "url": "https://open.spotify.com/album/6lDX7gUBeS1hU6yKpSNBP5"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Ajron",
+          "url": "https://open.spotify.com/artist/5dlqcZJpv99qibC0d9mJLM"
+        },
+        {
+          "name": "Eldo",
+          "url": "https://open.spotify.com/artist/5nuF8QjV4BtabUeBaXzzwK"
+        }
+      ],
+      "duration_ms": 192814,
+      "name": "Wo\u0142anie",
+      "url": "https://open.spotify.com/track/2pYHClMIvzhDOyxGiON4q6"
     },
     {
       "added_at": "2026-02-25 11:19:16",

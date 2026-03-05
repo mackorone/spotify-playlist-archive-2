@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,771 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,787 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 13 | [The Rocky Road to Dublin](https://open.spotify.com/track/5GVSpPvjk06BPsr8DhwFtM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 2:37 |
 | 14 | [Longshot](https://open.spotify.com/track/1yghEKyic4jHAhFZek4w0d) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 3:27 |
 | 15 | [Fields of Athenry](https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 4:24 |
-| 16 | [The Green Fields Of France \(No Man's Land\)](https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 4:45 |
-| 17 | [Going Out In Style](https://open.spotify.com/track/6fUSDXwV5OqMev2kLhNM2e) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq) | 4:08 |
+| 16 | [Going Out In Style](https://open.spotify.com/track/6fUSDXwV5OqMev2kLhNM2e) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/66aspK0qKetRvNP3KGbEuq) | 4:08 |
+| 17 | [The Green Fields Of France \(No Man's Land\)](https://open.spotify.com/track/2PNjn68WCzvsJwAc37eFki) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 4:45 |
 | 18 | [NEW ENGLAND FOREVER](https://open.spotify.com/track/7GTDi9XB4eyzeHSVR286XM) | [Haywire 617](https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [New England Forever](https://open.spotify.com/album/1G1Hqkn18MubbXBvN8tY0g) | 2:05 |
 | 19 | [The Big Man](https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:53 |
 | 20 | [\(F\)lannigan's Ball](https://open.spotify.com/track/7Ge0qyQI86dq4GYUXJdw7M) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 3:39 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 30 | [The Wild Rover](https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Sing Loud, Sing Proud](https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K) | 3:25 |
 | 31 | [Kiss Me I'm \#!@'faced](https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 5:34 |
 | 32 | [Cadence To Arms](https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:49 |
-| 33 | [Queen Of Suffolk County](https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:51 |
-| 34 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
+| 33 | [Amazing Grace](https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 2:38 |
+| 34 | [Queen Of Suffolk County](https://open.spotify.com/track/2QkLpiSHHSwxIedR20IYIW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Turn Up That Dial \(Expanded Version\)](https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd) | 3:51 |
 | 35 | [Walk Away](https://open.spotify.com/track/2S22odTX2oIV6GxRoRN19h) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 2:51 |
 | 36 | [Finnegan's Wake](https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 |
 | 37 | [God Willing](https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times \(Limited Edition\)](https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4s0KkM.md) - [plain]
 | 49 | [You'll Never Walk Alone](https://open.spotify.com/track/6CGlNIDb7YCC9wA2L5I9NT) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [11 Short Stories of Pain & Glory](https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB) | 3:22 |
 | 50 | [Fortunate Son](https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Singles Collection Vol\. 2](https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ) | 2:38 |
 
-Snapshot ID: `aaTTAAAAAADa75C3I3w35AIYWJRxhA6O`
+Snapshot ID: `aaYkgAAAAAAiNV3tvpEB6l9EN4XPri07`

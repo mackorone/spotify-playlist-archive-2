@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 
 > This is Arch Enemy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,430 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,429 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 10 | [My Apocalypse](https://open.spotify.com/track/7ak5dWy0Vee6yhR5dwQWO5) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 5:25 |
 | 11 | [Dream Stealer](https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 4:29 |
 | 12 | [We Will Rise](https://open.spotify.com/track/0KtQaeUT372b7vRProw9Sm) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:06 |
-| 13 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
-| 14 | [You Will Know My Name](https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:37 |
+| 13 | [You Will Know My Name](https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [War Eternal](https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN) | 4:37 |
+| 14 | [Moths](https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY) | 4:01 |
 | 15 | [The Watcher](https://open.spotify.com/track/7wwFeAgaC2pGqJaTuCVFAw) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Deceivers](https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo) | 4:58 |
 | 16 | [No Gods, No Masters](https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Khaos Legions](https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX) | 4:14 |
 | 17 | [Paper Tiger](https://open.spotify.com/track/7dNg8khl5uESWTskg2ddNX) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Blood Dynasty](https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0jmCg8.md) - [plain]
 | 49 | [Heart of Darkness](https://open.spotify.com/track/4OQ08jPQlzsufwogvCjKwB) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Wages of Sin](https://open.spotify.com/album/5QeMzsmPiNKqO8mB1hQFRZ) | 4:51 |
 | 50 | [Silent Wars](https://open.spotify.com/track/53ErZun9BFfUwC6UNKdxiE) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Anthems of Rebellion](https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7) | 4:14 |
 
-Snapshot ID: `aaTTAAAAAADLGlemOpn7IMfCHVqLZyHa`
+Snapshot ID: `aaYkgAAAAAASTBJh2RnojDCxKD9L1DUJ`

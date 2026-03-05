@@ -1,6 +1,6 @@
 {
   "description": "Pump it up with these current jams!",
-  "num_followers": 2195416,
+  "num_followers": 2195446,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 163854,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 163854,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
       },
       "artists": [
         {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 188802,
-      "name": "bandaids",
-      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1079,18 +1079,18 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/5JvfHXiAioipSTjXAHMXrX"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
         }
       ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+      "duration_ms": 188802,
+      "name": "bandaids",
+      "url": "https://open.spotify.com/track/7vlkotgJCvYzVrmRqDYNYh"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Now Or Never",
-        "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Now Or Never",
-      "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "Different Night Same Rodeo",
         "url": "https://open.spotify.com/album/2cPJrMHIIBkKarl6nxi11P"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 196578,
       "name": "Lost (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/6805NqZ8c443YjfQERNoAq"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "Now Or Never",
+        "url": "https://open.spotify.com/album/4ObwiIpULEzwOPrtLSd7xA"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Now Or Never",
+      "url": "https://open.spotify.com/track/5hG7MlKPCqUgtdwROUbBRS"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "For Life (feat. Nile Rodgers)",
         "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 175803,
       "name": "For Life (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 151986,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c"
     },
     {
       "added_at": "2026-02-06 05:42:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-02-06 05:42:15",
       "album": {
-        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
-        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
-    },
-    {
-      "added_at": "2026-02-06 05:42:15",
-      "album": {
         "name": "My Stupid Heart",
         "url": "https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 160866,
       "name": "My Stupid Heart",
       "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"
+    },
+    {
+      "added_at": "2026-02-06 05:42:15",
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/4DVNb13HLAH4FmHz8eukMg"
     },
     {
       "added_at": "2026-02-06 05:42:15",

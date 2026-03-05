@@ -2,7 +2,7 @@
 
 ### [R&B Throwback Party \| 90s & 2000s Hits](https://open.spotify.com/playlist/543ggovIEPepC3a6yaQ6Bi)
 
-> Enjoy the best R&amp;B hits from the nineties &amp; zeroes! Old school RnB classics and throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, and more\. Throwback RnB party \| Club Bangers \| Smooth Vibes Only
+> Enjoy the best ever R&amp;B hits from the nineties &amp; zeroes! Old school RnB classics and throwback party jams from TLC, Usher, Aaliyah, Chris Brown, Mario, Jennifer Lopez, Drake, Ne\-Yo, Alicia Keys, Destiny's Child, Mariah Carey, Nelly, and more\. Throwback RnB party \| Club Bangers \| Smooth Vibes Only
 
 322 songs - 22 hr 12 min
 

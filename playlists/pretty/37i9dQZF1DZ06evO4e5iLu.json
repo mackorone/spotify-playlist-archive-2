@@ -1,12 +1,12 @@
 {
   "description": "This is KAROL G. The essential tracks, all in one playlist.",
-  "num_followers": 1404209,
+  "num_followers": 1404403,
   "original_name": "This Is KAROL G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADqdXfSd5Box54XE0Em9H6s",
+  "snapshot_id": "aaYkgAAAAACJeSlx6Gpnr5tTw5qFPTcZ",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00danica",
-        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144957,
-      "name": "\u00danica",
-      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00danica",
+        "url": "https://open.spotify.com/album/12wlkuPrZmoBdnLImqvPOM"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144957,
+      "name": "\u00danica",
+      "url": "https://open.spotify.com/track/0xHAfrziD261HeNYVmYqNF"
     },
     {
       "added_at": null,

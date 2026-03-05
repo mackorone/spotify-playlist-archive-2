@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1771510,
+  "num_followers": 1771720,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
-        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
-      },
-      "artists": [
-        {
-          "name": "Energy 52",
-          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
-        },
-        {
-          "name": "Three 'N One",
-          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
-        }
-      ],
-      "duration_ms": 229600,
-      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
-      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Robyn",
         "url": "https://open.spotify.com/album/3m28E6lKOu3QVtIuIWk6yv"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 251040,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/0NEw29HKkDkt1yDyBJOgXe"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Caf\u00e9 Del Mar: The Best of the Remixes",
+        "url": "https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun"
+      },
+      "artists": [
+        {
+          "name": "Energy 52",
+          "url": "https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7"
+        },
+        {
+          "name": "Three 'N One",
+          "url": "https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0"
+        }
+      ],
+      "duration_ms": 229600,
+      "name": "Caf\u00e9 Del Mar - Three 'N One Radio Edit",
+      "url": "https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
-      },
-      "artists": [
-        {
-          "name": "Flanders",
-          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
-        }
-      ],
-      "duration_ms": 220320,
-      "name": "Behind - Callea Radio Mix",
-      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "One More Love",
         "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 211600,
       "name": "Put `em Up",
       "url": "https://open.spotify.com/track/0XJ2Ng4XAxKjzpst5drVdm"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/2ZbVWuSdf3uR01YlBSH06M"
+      },
+      "artists": [
+        {
+          "name": "Flanders",
+          "url": "https://open.spotify.com/artist/70ZMFdCGEInTJ0z9KtXQ2u"
+        }
+      ],
+      "duration_ms": 220320,
+      "name": "Behind - Callea Radio Mix",
+      "url": "https://open.spotify.com/track/2hS4wCi2VAV8CdsLPnWIoD"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pop Life",
-        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
-      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
         "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
       },
@@ -1599,34 +1583,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+        "name": "Pacha Ibiza - The House Collection (2000-2009)",
+        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        }
-      ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Put Your Hands Up For Detroit",
-        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
-      },
-      "artists": [
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
         {
-          "name": "Fedde Le Grand",
-          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
         }
       ],
-      "duration_ms": 393333,
-      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
-      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
+      "duration_ms": 281516,
+      "name": "Day 'N' Night - Club Mix",
+      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1663,22 +1635,50 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pacha Ibiza - The House Collection (2000-2009)",
-        "url": "https://open.spotify.com/album/0IeYFIikG2SL2YLxGNvzVo"
+        "name": "Pop Life",
+        "url": "https://open.spotify.com/album/48hy8LYht8Gv9sOp1x7DyF"
       },
       "artists": [
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Crookers",
-          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 281516,
-      "name": "Day 'N' Night - Club Mix",
-      "url": "https://open.spotify.com/track/5BsRZqHI8oLMc1YKsHtauE"
+      "duration_ms": 201413,
+      "name": "Love Is Gone - Fred Rister & Joachim Garraud Radio Edit Mix",
+      "url": "https://open.spotify.com/track/4V9HEnprK5MfCGL8bHHy7y"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Put Your Hands Up For Detroit",
+        "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
+      },
+      "artists": [
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 393333,
+      "name": "Put Your Hands Up for Detroit - MC Mario Edit",
+      "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
     },
     {
       "added_at": "2024-07-12 15:40:20",

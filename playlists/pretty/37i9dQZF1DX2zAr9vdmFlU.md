@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients, we bring the flavor\. Enjoy la cena...
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,321 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,320 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 65 | [Dancin' Days](https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Música para verse bien](https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ) | 4:09 |
 | 66 | [Naranjo En Flor](https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Bajofondo Tango Club](https://open.spotify.com/album/3KtZ7CB9lIVCekOB0e8HSk) | 4:36 |
 | 67 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 |
-| 68 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
-| 69 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 |
+| 68 | [Outra Vez](https://open.spotify.com/track/2Ci1wKycW15sG9tYFadSqa) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [The Music of Brazil / Elizeth Cardoso, Vol\. 1 / Recordings 1955 \- 1957](https://open.spotify.com/album/2jtHEWxRT5QVF2p872riFt) | 1:55 |
+| 69 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
 | 70 | [Porro Maracatu](https://open.spotify.com/track/3Fj0USmSNBcOwu4oeFXtZu) | [LADAMA](https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9) | [LADAMA](https://open.spotify.com/album/0ZS5LZAEaWFcZEpdqwwub6) | 3:46 |
 | 71 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
 | 72 | [American Boy](https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO) | [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [American Boy](https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW) | 3:45 |

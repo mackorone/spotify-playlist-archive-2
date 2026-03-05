@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Parker Graye
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,648 likes - 119 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,647 likes - 119 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

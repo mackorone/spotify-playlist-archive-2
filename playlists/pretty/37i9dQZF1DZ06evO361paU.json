@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 293250,
+  "num_followers": 293293,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABP7TXXINbBAw5mba/lT1/B",
+  "snapshot_id": "aaYkgAAAAADt3cZSpL6pPQFAGO+S7GJ+",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lenny",
-        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 280973,
-      "name": "Believe In Me",
-      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 312173,
       "name": "Calling All Angels",
       "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 280973,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
     },
     {
       "added_at": null,
@@ -439,6 +439,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Backatown",
         "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 221360,
       "name": "Something Beautiful",
       "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baptism",
-        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Where Are We Runnin'?",
-      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 327378,
-      "name": "TK421",
-      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baptism",
         "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 156866,
       "name": "California",
       "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 327378,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/2HxMUqKPh1uJ3a1TkOSFSG"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 290826,
-      "name": "Black Velveteen",
-      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise Vibration",
         "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
       },
       "artists": [
         {
@@ -728,9 +712,25 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 238226,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Electric Light",
+        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 379513,
+      "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
+      "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Electric Light",
-        "url": "https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi"
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 379513,
-      "name": "It\u2019s Just Another Fine Day (In This Universe of Love)",
-      "url": "https://open.spotify.com/track/4UE5VK4SyBvR21OU2O3h9P"
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
     },
     {
       "added_at": null,

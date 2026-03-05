@@ -1,6 +1,6 @@
 {
   "description": "Grandes relatos de toque reflexivo y visi\u00f3n consciente.",
-  "num_followers": 120135,
+  "num_followers": 120156,
   "original_name": "Rap Conciencia",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Ahora o Nunca",
+        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 373407,
+      "name": "En Defensa Propia",
+      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Tributos",
         "url": "https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 213097,
       "name": "Tributos",
       "url": "https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Ahora o Nunca",
-        "url": "https://open.spotify.com/album/3ZrgPlBW4UBF7iSww4ugqE"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 373407,
-      "name": "En Defensa Propia",
-      "url": "https://open.spotify.com/track/1YGRyW2Yf0U48A621H1IZR"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -443,6 +443,26 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
+        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
+        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
+      },
+      "artists": [
+        {
+          "name": "Rafael Lechowski",
+          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
+        },
+        {
+          "name": "Gla\u00e7",
+          "url": "https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm"
+        }
+      ],
+      "duration_ms": 412920,
+      "name": "Artesano del Arte Insano (Versi\u00f3n Jazz)",
+      "url": "https://open.spotify.com/track/7Cw1jx173XCK9kqvGTjG3Q"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/3pKymIkWWCw0qkkleJKg5m"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 190344,
       "name": "Afirmativo",
       "url": "https://open.spotify.com/track/51wBfbujPBrOsovd65uysU"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
-        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
-        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
-      },
-      "artists": [
-        {
-          "name": "Rafael Lechowski",
-          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
-        },
-        {
-          "name": "Gla\u00e7",
-          "url": "https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm"
-        }
-      ],
-      "duration_ms": 412920,
-      "name": "Artesano del Arte Insano (Versi\u00f3n Jazz)",
-      "url": "https://open.spotify.com/track/7Cw1jx173XCK9kqvGTjG3Q"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "La Caza de Nari\u00f1o",
-        "url": "https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW"
+        "name": "So Sad",
+        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
       },
       "artists": [
         {
-          "name": "Alcolirykoz",
-          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+          "name": "Ali Aka Mind",
+          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
         }
       ],
-      "duration_ms": 221590,
-      "name": "La Caza de Nari\u00f1o",
-      "url": "https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm"
+      "duration_ms": 217511,
+      "name": "So Sad",
+      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1063,22 +1059,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "So Sad",
-        "url": "https://open.spotify.com/album/4rHZ28db6Aczqmj65FlFZe"
-      },
-      "artists": [
-        {
-          "name": "Ali Aka Mind",
-          "url": "https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl"
-        }
-      ],
-      "duration_ms": 217511,
-      "name": "So Sad",
-      "url": "https://open.spotify.com/track/73ODDFaktSXfNuRQP4mnRK"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Plomo en el Aire",
         "url": "https://open.spotify.com/album/45LpcCIYNG7CptIGvLcMhX"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 207804,
       "name": "Plomo en el Aire",
       "url": "https://open.spotify.com/track/1mMeJH8C1LifR1QTPFdAN0"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "La Caza de Nari\u00f1o",
+        "url": "https://open.spotify.com/album/5hMkRwGOLJN3nQxJ4BkJwW"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
+        }
+      ],
+      "duration_ms": 221590,
+      "name": "La Caza de Nari\u00f1o",
+      "url": "https://open.spotify.com/track/5MeIi5WpWhvCmRAqn0ODgm"
     },
     {
       "added_at": "2025-05-23 06:00:30",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2025-05-23 06:00:30",
       "album": {
-        "name": "Huerfano Emocional",
-        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
-      },
-      "artists": [
-        {
-          "name": "Gayo Valdez",
-          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
-        },
-        {
-          "name": "Abu Barrett",
-          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
-        }
-      ],
-      "duration_ms": 166261,
-      "name": "Huerfano Emocional",
-      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
-    },
-    {
-      "added_at": "2025-05-23 06:00:30",
-      "album": {
         "name": "Nosotras Tenemos Otros Datos",
         "url": "https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 201290,
       "name": "Nosotras Tenemos Otros Datos",
       "url": "https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv"
+    },
+    {
+      "added_at": "2025-05-23 06:00:30",
+      "album": {
+        "name": "Huerfano Emocional",
+        "url": "https://open.spotify.com/album/4e3G44I1RB4ziN03Ttn9aX"
+      },
+      "artists": [
+        {
+          "name": "Gayo Valdez",
+          "url": "https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo"
+        },
+        {
+          "name": "Abu Barrett",
+          "url": "https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj"
+        }
+      ],
+      "duration_ms": 166261,
+      "name": "Huerfano Emocional",
+      "url": "https://open.spotify.com/track/1eT312VZpgFX98XZJQ44J2"
     },
     {
       "added_at": "2025-05-23 06:00:30",

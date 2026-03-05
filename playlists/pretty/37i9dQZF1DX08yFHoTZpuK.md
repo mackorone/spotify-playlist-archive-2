@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 
 > Cutting\-edge dance music emerging from Japan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,763 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,808 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08yFHoTZpuK.md) - [plain]
 | 47 | [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 |
 | 48 | [glowing arcade](https://open.spotify.com/track/4QD3PW1ziWyTbduNcIznEG) | [tamanaramen](https://open.spotify.com/artist/06rauF4YCx0U1NALbqdlE3) | [glowing arcade](https://open.spotify.com/album/5JQaDQbsFfYOO27LqAdJS2) | 2:48 |
 | 49 | [Say Less](https://open.spotify.com/track/6p8JSLla78rp2FvhoVFpGu) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [Say Less](https://open.spotify.com/album/1QgcS44kySkqDwLTkf3OJX) | 2:43 |
-| 50 | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC) | 4:53 |
+| 50 | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/track/7BCI2eDGqx0lzZbUc0hACt) | [TYT](https://open.spotify.com/artist/2qtG3DmCMRD23hlbK1DdJw), [DJ TORA](https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS), [YAKSA](https://open.spotify.com/artist/74UHQxfQtHHY7FgP7qkRzR), [TJO](https://open.spotify.com/artist/1VMMPq9feNkGKD1MUDsdXN), [Tyler Carter](https://open.spotify.com/artist/4VCAHkdzvJBHJAcPyvWY5s) | [不夜城 \- FUYAJO feat\. Tyler Carter](https://open.spotify.com/album/2HMM8JWRjH5ElRHJJ2pGoO) | 3:58 |
 
 Snapshot ID: `AAAAAAOLrrsmM6wtusgKbvBc34+yLlix`

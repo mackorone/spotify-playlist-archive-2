@@ -827,6 +827,6 @@
 | [Your Church \- Single Version](https://open.spotify.com/track/5MTrVZmB2s11vkbf0DczvZ) | [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Your Church \(Live\)](https://open.spotify.com/album/6o2Cjuwdek4LHNDHTmnQBt) | 4:17 | 2024-06-23 | 2024-11-30 |
 | [Your Name \- Live](https://open.spotify.com/track/6EBl99aH0CywyEmWqje7pW) | [LIFE Worship](https://open.spotify.com/artist/1ORYkhkN6flHlDSkWVsk4d) | [Your Name \(Live\)](https://open.spotify.com/album/3gtzVT6Ai7m4pxfdv1KnjG) | 6:25 | 2021-06-12 | 2024-06-24 |
 | [Your Presence \- Radio Edit](https://open.spotify.com/track/73BlORqLXe69dug8NwXS0J) | [SHEALY](https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61) | [Your Presence \(Deluxe Edition\)](https://open.spotify.com/album/6GhQhkxcTMUIv3qH7xiFdQ) | 4:16 | 2024-06-23 | 2024-11-30 |
-| [YOUR WAY'S BETTER](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [YOUR WAY'S BETTER](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 | 2026-02-21 |  |
+| [Your Way's Better](https://open.spotify.com/track/6vxUmCFmAu8eZ9fxh7KSRb) | [Ryan Horton](https://open.spotify.com/artist/3TYiYJLd8SVrIOprwpTGVa) | [Your Way's Better](https://open.spotify.com/album/1vcGeEluIVhjmlfqpEhWii) | 5:25 | 2026-02-21 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

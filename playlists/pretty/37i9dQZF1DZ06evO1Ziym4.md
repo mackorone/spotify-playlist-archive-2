@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 
 > This is Guns N' Roses\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,567,713 likes - 49 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567,799 likes - 49 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 27 | [Double Talkin' Jive](https://open.spotify.com/track/46AtSShP5IL2Ls3uHpxmt8) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 3:22 |
 | 28 | [Perhaps](https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Perhaps](https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb) | 3:48 |
 | 29 | [Street Of Dreams](https://open.spotify.com/track/2iFkNf2prxUIIGEOEK7yd1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 4:46 |
-| 30 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 |
+| 30 | [Shadow Of Your Love](https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Shadow Of Your Love](https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm) | 3:05 |
 | 31 | [Dead Horse](https://open.spotify.com/track/7tdJuL2ZgmKDwIIFDdNanK) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 4:17 |
-| 32 | [Shadow Of Your Love](https://open.spotify.com/track/5tqSUxm3Wpql0dlLMrIAp1) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Shadow Of Your Love](https://open.spotify.com/album/6AK5hiec0u0guq19bKlSMm) | 3:05 |
+| 32 | [Atlas](https://open.spotify.com/track/1Ys7tQV4mNK3BbjLdZX18B) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Atlas](https://open.spotify.com/album/0P33keaKPaDJ86EtpbaqFb) | 3:58 |
 | 33 | [There Was A Time](https://open.spotify.com/track/2PrmCyoClC4ulLJR42z74O) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Chinese Democracy](https://open.spotify.com/album/0suNLpB9xraAv1FcdlITjQ) | 6:40 |
 | 34 | [Hair Of The Dog](https://open.spotify.com/track/1kq4BX4zZHyr4O5cJGcduh) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [The Spaghetti Incident?](https://open.spotify.com/album/4ieR19hRkKeE81CalJPQNu) | 3:54 |
 | 35 | [Mama Kin \- Live Version](https://open.spotify.com/track/5elBPrrIM4dWbGVTluXBPl) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [G N' R Lies](https://open.spotify.com/album/6z5LStxyQzrUTrVxjiOXVU) | 3:55 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Ziym4.md) - [plain]
 | 48 | [Voodoo Child \(Slight Return\) / Civil War \- Live In New York, Ritz Theatre \- May 16, 1991](https://open.spotify.com/track/5pxwBcIYQRr01zL7Ya4SX7) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 8:49 |
 | 49 | [Wild Horses \- Live In Las Vegas, Thomas & Mack Center \- January 25, 1992](https://open.spotify.com/track/6duHxAfKPYnrvkjVBcBklR) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion \(Super Deluxe\)](https://open.spotify.com/album/1nnC02B9bhYh6IVFOoij0k) | 3:22 |
 
-Snapshot ID: `aaTTAAAAAADWBKj9sbTWm/7JrxC2LIQa`
+Snapshot ID: `aaYkgAAAAACLkB1VxLO5XJl4mVEwFuvh`

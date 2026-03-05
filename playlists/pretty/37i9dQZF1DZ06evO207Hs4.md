@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,491 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,493 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 37 | [Under the Sun, Moon and Stars](https://open.spotify.com/track/3gKNtPzCO5XCuKnrlvxU7B) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 4:06 |
 | 38 | [Raggae Down Babylon](https://open.spotify.com/track/37qZu3pX5kEslguZYdzM4e) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Hanging Fire](https://open.spotify.com/album/3f2XkrjIF5F5c1JPfcOl5n) | 4:25 |
 | 39 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
-| 40 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
+| 40 | [Hot Shot](https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:24 |
 | 41 | [Samba Reggae](https://open.spotify.com/track/5AEgVBPGMpx4jojTTSKEtJ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [War a Africa](https://open.spotify.com/album/58gv9p5fC4xs1N5ckoxPLX) | 3:56 |
 | 42 | [Treat The Youth Right](https://open.spotify.com/track/6EaSFMRbFQ6a88yTk625iS) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Reggae On The River 10th Anniversary](https://open.spotify.com/album/47n7r9GZD3DiHKVukdyPDB) | 5:09 |
 | 43 | [Special](https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:50 |
-| 44 | [Hot Shot](https://open.spotify.com/track/6Spf2fk9iQpuVLH94FVB60) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:24 |
-| 45 | [Stand Up and Fight Back](https://open.spotify.com/track/16yPyYg8xpvhDYeZNMN830) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:16 |
-| 46 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
+| 44 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
+| 45 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
+| 46 | [Stand Up and Fight Back](https://open.spotify.com/track/16yPyYg8xpvhDYeZNMN830) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:16 |
 | 47 | [On My Life](https://open.spotify.com/track/1wuQ2yrSS8mqtX9oWHs2Lg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The EMI Years 1973\-'75](https://open.spotify.com/album/58Cr3LLfMc3opkezTyXxeS) | 2:46 |
 | 48 | [Reggae Street](https://open.spotify.com/track/2lOw79S7zOpdo3aOJltFnR) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:29 |
 | 49 | [Fundamental Reggay](https://open.spotify.com/track/2v3EzjkdxRom9XXd9Ew2d2) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Unlimited](https://open.spotify.com/album/6c4nsvQdAUNOWLDGCBNyzR) | 3:01 |
 | 50 | [Wanted Man](https://open.spotify.com/track/5ZiDeyGECCx1so1CKl2yvH) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:41 |
 
-Snapshot ID: `aaTTAAAAAAC++546Szlu3Tgmsl/9t/hd`
+Snapshot ID: `aaYkgAAAAAB7ID1FldOHRdALcjpB3c69`

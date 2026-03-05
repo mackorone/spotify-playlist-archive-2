@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,733 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,751 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 7 | [El Gateao](https://open.spotify.com/track/22DsqUz2nEwX0shUrgHb9I) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [Hilvanando Recuerdos](https://open.spotify.com/album/0vAxrwxF8Xs2aEQkryfBcS) | 2:39 |
 | 8 | [Por amarte así](https://open.spotify.com/track/0kQl4zjpWRbwYVygVDQ5Wr) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Por amarte así](https://open.spotify.com/album/25iwGF0cFchT4BsOVZiCm7) | 3:32 |
 | 9 | [Meta lonja y chamamé](https://open.spotify.com/track/0kS3kKMctu2HLy2zljzsMF) | [Pastor Luna](https://open.spotify.com/artist/5OFzlWyxyqXupqotQWpUBW) | [Pastor Luna \- Chamemecero de Ley](https://open.spotify.com/album/7pPRjpDYUvkJWrO3dJv82C) | 2:57 |
-| 10 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
-| 11 | [Puerto Tirol](https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:39 |
-| 12 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
+| 10 | [El Guachito](https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:00 |
+| 11 | [Alma Guaraní](https://open.spotify.com/track/6TR8MOFRSeMPdJ3FNXaosT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm) | [Correntinas II](https://open.spotify.com/album/2meF4vZWmeuFGlUJVn9Mct) | 2:36 |
+| 12 | [Puerto Tirol](https://open.spotify.com/track/7Mp9QTrbgBI8GLewXcj4Rh) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:39 |
 | 13 | [Las Tres Marias](https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN) | [Ramona Galarza](https://open.spotify.com/artist/6SgxxKwvGosbX2WvlVyCmm), [Los Reyes Del Chamame](https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom) | [Coleccion Aniversario](https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW) | 2:00 |
 | 14 | [Seleccion de temas enganchados](https://open.spotify.com/track/1aAee98bRu8jazbnklPoKJ) | [Pancho Escalada](https://open.spotify.com/artist/69CBMfMKg8jPd6LR3LOR6f) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 3:30 |
 | 15 | [Mi Primer Amor \- Versión Chamamé](https://open.spotify.com/track/6MUOEPhADhWrwYk1JQLNQ6) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Mi Primer Amor \- Version Chamamé](https://open.spotify.com/album/6FApf1TbGRBTBuGqyhB3GE) | 2:43 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 27 | [Granja San Antonio](https://open.spotify.com/track/4eCHSv0YIbGmZL8kxABNJQ) | [Damasio Esquivel](https://open.spotify.com/artist/1BWqJJLlVyTRaKbyf6bibt) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 1:51 |
 | 28 | [La Dueña del Monte](https://open.spotify.com/track/0fDOXK3M6HYYhkdUp0Vilt) | [Emiliano Cardozo](https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn), [Los Cardocitos](https://open.spotify.com/artist/49bS4UnI47t9mUwLZFIPzv) | [Alegría y Chamamé](https://open.spotify.com/album/5KMt2a3QOU9w4b8ihoCJBq) | 2:53 |
 | 29 | [Amanecer Campero](https://open.spotify.com/track/1WOW5dpVavNNqNA83WY0IM) | [Miguel Figueroa y Su Conjunto Amanecer Campero](https://open.spotify.com/artist/32B3zRuq8jrRRCqu82YFef) | [Me Dicen el Rey](https://open.spotify.com/album/6CA6JZ9igKWBTxi18sdTo8) | 2:46 |
-| 30 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 |
-| 31 | [Km\. 11](https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt) | [Los Troperos del Chamamé](https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE) | [Sin Fronteras](https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix) | 3:22 |
+| 30 | [Km\. 11](https://open.spotify.com/track/6jzjQlZblGsdrqQKZnlkJt) | [Los Troperos del Chamamé](https://open.spotify.com/artist/6rWPHXNkJ29ThBSYOc92iE) | [Sin Fronteras](https://open.spotify.com/album/0cLWAd2Twque4NuHbsqKix) | 3:22 |
+| 31 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 |
 | 32 | [El Gaucho Gil](https://open.spotify.com/track/57Fe8WMp65ur02mOXCbYYg) | [Emiliano Cardozo Y Los Cardocitos](https://open.spotify.com/artist/1xCZcvonWAPlRE2fsy8Y1j) | [Corazón Chamamecero](https://open.spotify.com/album/0gswITpRLEupnT7EftX6sZ) | 3:28 |
 | 33 | [Caña Doble para Mi Padre](https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:01 |
 | 34 | [La Fiesta Del Chamamé](https://open.spotify.com/track/4hj1mjGwwg4fVnAegGRfX8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD) | [Sobredosis De Chamame](https://open.spotify.com/album/5mOhH6e2L60jmymgASsbuH) | 4:56 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 87 | [Barrio la Toma](https://open.spotify.com/track/71jdWvhtkU6xgOtFqxfavE) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:22 |
 | 88 | [Sentimiento Correntino](https://open.spotify.com/track/2mE721bufkCtgsJl2vlxy1) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy), [Óscar Fernández](https://open.spotify.com/artist/6vQUH7khnVVfYzJUoCiLBm) | [Muchachita Sos Mi Sueño](https://open.spotify.com/album/0QYObb1RYFFEdKtxxAQK4A) | 2:19 |
 | 89 | [Alguien mejor que yo](https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT), [Sharon y los Camperos del Chamamé](https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP) | [Alguien mejor que yo](https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p) | 3:19 |
-| 90 | [Fuerte No Soy](https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC) | [Sele Vera Y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Fuerte No Soy](https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J) | 3:28 |
+| 90 | [Arroyo San Juan](https://open.spotify.com/track/0uQA7csjc7B3uiylwKBaa4) | [Crescencio Lezcano](https://open.spotify.com/artist/4HzGhAGdDYZmg8Jmwo6Zoy) | [Lluvia, Campo Y Chamamé](https://open.spotify.com/album/2useZrRLmYZ3528GbUmYTy) | 2:52 |
 
 Snapshot ID: `AAAAALyPvP4iQye+hcqHcRJY1gg6vZVi`

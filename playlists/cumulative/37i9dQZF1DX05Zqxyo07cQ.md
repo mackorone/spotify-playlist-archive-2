@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-995 songs - 1 day 23 hr 38 min
+996 songs - 1 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Astral Mist](https://open.spotify.com/track/6HFgHAnBdNf3iZVYwqFC4a) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Astral Mist](https://open.spotify.com/album/1YrKVtvfsYGvy0rvIFt1QP) | 2:54 | 2025-03-27 | 2025-09-24 |
 | [Astralica Catharsis](https://open.spotify.com/track/05H8IxZJxZIpXlYcuaWlmI) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Astralica Catharsis](https://open.spotify.com/album/1cs7CgeSWWOnmVKVlcnOA9) | 3:29 | 2023-03-23 | 2024-02-09 |
 | [Astralyn](https://open.spotify.com/track/1NelHOEkrDhxokRNN5JO5l) | [Shimmerweave](https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s) | [Astralyn](https://open.spotify.com/album/6Lh6K2hOEyU6eTwHcbHJoP) | 2:30 | 2024-12-17 | 2025-07-10 |
-| [Astranome](https://open.spotify.com/track/6AajFjRYdvfNzOWqAgZZr3) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Astranome](https://open.spotify.com/album/7oHSx3djyPYMBa2V467ynp) | 2:54 | 2025-10-08 |  |
+| [Astranome](https://open.spotify.com/track/6AajFjRYdvfNzOWqAgZZr3) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Astranome](https://open.spotify.com/album/7oHSx3djyPYMBa2V467ynp) | 2:54 | 2025-10-08 | 2026-03-05 |
 | [Astrophia](https://open.spotify.com/track/4Zo9i0PVyKdl3nJxuwe2Pk) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Astrophia](https://open.spotify.com/album/26PPWDh6PZUJHkJWcao7BR) | 2:55 | 2024-01-17 | 2024-07-12 |
 | [At Peace](https://open.spotify.com/track/27BeHhBtul8uWpNRriw4zS) | [Sven Stierna](https://open.spotify.com/artist/5nOXbh86dUQBwqI8VZ1upA), [Clarence Öfwerman](https://open.spotify.com/artist/58c41fbN8x9viByYPYSdSc) | [At Peace](https://open.spotify.com/album/1A6JIMLYg4FMkHj03BgVln) | 2:59 | 2023-03-23 | 2024-01-18 |
 | [Atlantis Child](https://open.spotify.com/track/352umwVFzwBvpP5ptUHZYS) | [Metagalactic Chords](https://open.spotify.com/artist/2YvYBsjUjJSSj5KUYfZRhS) | [Atlantis Child](https://open.spotify.com/album/7w1FoTMjaVFa762LhNCqnL) | 2:54 | 2024-04-05 | 2024-12-06 |
@@ -994,6 +994,7 @@
 | [World Beyond](https://open.spotify.com/track/5ivvtayl4QgwCtjUd4JOB1) | [Evolving Stream](https://open.spotify.com/artist/5zL5lmsaGzjnU7dn85w2bz) | [World Beyond](https://open.spotify.com/album/7bYiEz6kPFaPZ0hxnMQnds) | 2:57 | 2023-03-23 | 2024-07-10 |
 | [Yawa](https://open.spotify.com/track/6BfCTIru9IOREx8X7K7W7v) | [Gillirium](https://open.spotify.com/artist/4dfUUvHsq6FLLkA0Qy7wqu) | [Yawa](https://open.spotify.com/album/1Q07uY5tKascOM2OSJOUZL) | 2:55 | 2025-09-23 |  |
 | [Yearning](https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO) | [Samira Tesfay](https://open.spotify.com/artist/353EbCGpBHIyVTPMgttcSy) | [Yearning](https://open.spotify.com/album/6LyHuxpp4ZHCzqizxMr6bQ) | 2:24 | 2023-03-23 | 2024-01-18 |
+| [Yesterday](https://open.spotify.com/track/0B69bEkM82b4EsNHbePSou) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Yesterday](https://open.spotify.com/album/6hSztVsQ4x1kdSkCBGCoLy) | 3:13 | 2026-02-25 |  |
 | [You, Me, and Time](https://open.spotify.com/track/1b9MfPekYhGZk48kmEnXsT) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [You, Me, and Time](https://open.spotify.com/album/24QtLl6LZIXjteWTuLA7HS) | 2:49 | 2025-04-09 |  |
 | [Yours](https://open.spotify.com/track/1JObSSGWbmXLnqsyGAMwTW) | [Vellore](https://open.spotify.com/artist/7IYQPynt9mzd6LR9XFW9zR) | [Yours](https://open.spotify.com/album/4NvYqHaSJ0b2Ue2o9ecgd3) | 2:52 | 2024-02-08 | 2024-09-14 |
 | [Zeniah](https://open.spotify.com/track/5f7PIrtLtIFlEELbLOQDp3) | [Caspar Tindra](https://open.spotify.com/artist/3c05jPudWPxfx0QAXI6fMD) | [Zeniah](https://open.spotify.com/album/1SW8apVUQyN4OnwmXWtWPR) | 3:19 | 2024-05-04 | 2024-08-20 |

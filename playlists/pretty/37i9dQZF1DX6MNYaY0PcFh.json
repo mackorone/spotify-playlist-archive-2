@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: Ghoulish",
-  "num_followers": 103904,
+  "num_followers": 103931,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Needed You",
+        "url": "https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp"
+      },
+      "artists": [
+        {
+          "name": "Strn.",
+          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
+        },
+        {
+          "name": "ALEXYS",
+          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
+        }
+      ],
+      "duration_ms": 123406,
+      "name": "Needed You",
+      "url": "https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "over you",
         "url": "https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 194782,
       "name": "Power",
       "url": "https://open.spotify.com/track/38JecELwfCbRkLTiK7KWQ8"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Needed You",
-        "url": "https://open.spotify.com/album/3xCd2AgD9A19DfwGz41nNp"
-      },
-      "artists": [
-        {
-          "name": "Strn.",
-          "url": "https://open.spotify.com/artist/4UdZWeX7Nkt2LtdoGEzlsH"
-        },
-        {
-          "name": "ALEXYS",
-          "url": "https://open.spotify.com/artist/2hZSRabELx8cqDED0Dd5jT"
-        }
-      ],
-      "duration_ms": 123406,
-      "name": "Needed You",
-      "url": "https://open.spotify.com/track/4K8aOmtSHM45q9O6bN8Hc0"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        }
+      ],
+      "duration_ms": 169130,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 196480,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/18xJ0JRAmhpsv2JMjTDbE5"
-      },
-      "artists": [
-        {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
-        }
-      ],
-      "duration_ms": 169130,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/2zflx0uUTi6e8nw25XYvMo"
     },
     {
       "added_at": "2026-02-27 00:00:43",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
+        "name": "Draw a Line",
+        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
+      },
+      "artists": [
+        {
+          "name": "Lu.Re",
+          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
+        }
+      ],
+      "duration_ms": 205162,
+      "name": "Draw a Line",
+      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
         "name": "Pied Piper 2025",
         "url": "https://open.spotify.com/album/0suNaacL8fdCVMk5fYr3V6"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "Draw a Line",
-        "url": "https://open.spotify.com/album/6013D40HaXsPO1qfGmBICH"
-      },
-      "artists": [
-        {
-          "name": "Lu.Re",
-          "url": "https://open.spotify.com/artist/4lbpVz8PpHRQaZC6vqO0EN"
-        }
-      ],
-      "duration_ms": 205162,
-      "name": "Draw a Line",
-      "url": "https://open.spotify.com/track/1UXf9TE4d3UuQqVU3baBOL"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "Dis Badman",
         "url": "https://open.spotify.com/album/7rWOE4qznyqy2eggc1jR91"
       },
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-02-27 00:00:43",
       "album": {
-        "name": "Feels Like",
-        "url": "https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3"
-      },
-      "artists": [
-        {
-          "name": "Genix",
-          "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w"
-        },
-        {
-          "name": "Bebi",
-          "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg"
-        }
-      ],
-      "duration_ms": 203222,
-      "name": "Feels Like",
-      "url": "https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU"
-    },
-    {
-      "added_at": "2026-02-27 00:00:43",
-      "album": {
         "name": "Swept Away",
         "url": "https://open.spotify.com/album/5OQWYahgccARpqqFBq0hr8"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 167518,
       "name": "Swept Away",
       "url": "https://open.spotify.com/track/13epcBWtRTdyiBHhfdimrI"
+    },
+    {
+      "added_at": "2026-02-27 00:00:43",
+      "album": {
+        "name": "Feels Like",
+        "url": "https://open.spotify.com/album/5khLbSpvHbBlBV4LBk29v3"
+      },
+      "artists": [
+        {
+          "name": "Genix",
+          "url": "https://open.spotify.com/artist/5WWUkLXiAbmGwtELcfvB2w"
+        },
+        {
+          "name": "Bebi",
+          "url": "https://open.spotify.com/artist/0b4D8JhfYU970qE77UNKSg"
+        }
+      ],
+      "duration_ms": 203222,
+      "name": "Feels Like",
+      "url": "https://open.spotify.com/track/0cpImIxbkCcaVJUiXzuYBU"
     },
     {
       "added_at": "2026-02-27 00:00:43",

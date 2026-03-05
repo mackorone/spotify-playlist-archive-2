@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "A Little Too Much",
+        "url": "https://open.spotify.com/album/6o9z1nIorieSlFTZAIIaGw"
+      },
+      "artists": [
+        {
+          "name": "Take 33",
+          "url": "https://open.spotify.com/artist/4INM5qnuvf0Hd5V25GIi9I"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143308,
+      "name": "A Little Too Much",
+      "url": "https://open.spotify.com/track/7Fd6grUE8twGlhYhoT6Vgn"
+    },
+    {
+      "album": {
         "name": "A Moment of Bliss",
         "url": "https://open.spotify.com/album/3XMIm6FvoxvEcsodputQef"
       },
@@ -3257,6 +3275,24 @@
     },
     {
       "album": {
+        "name": "Case 411",
+        "url": "https://open.spotify.com/album/5ahhndb600UDiDIjBh2Dws"
+      },
+      "artists": [
+        {
+          "name": "NuSkript",
+          "url": "https://open.spotify.com/artist/3HaDs5KOPlKWZoSawrsihg"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Case 411",
+      "url": "https://open.spotify.com/track/7JXJu8h7Pj3Uz1RPKx505d"
+    },
+    {
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/3mqLpOeoVxgrvj2s0XFzlr"
       },
@@ -4004,6 +4040,24 @@
       "duration_ms": 142759,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/5tO2hNJAG7P2pEEuSLAtFp"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0DobakSMywcT7GUaX08WPO"
+      },
+      "artists": [
+        {
+          "name": "The Ant & Ang Band",
+          "url": "https://open.spotify.com/artist/2TeYentCIfHwvfVlrWla8A"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185052,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0gSRwplxKDM7h8hYpFgjZb"
     },
     {
       "album": {
@@ -5805,6 +5859,24 @@
     },
     {
       "album": {
+        "name": "Electric Venom",
+        "url": "https://open.spotify.com/album/4D3uv2VBZd1Y3E8cWDx7HD"
+      },
+      "artists": [
+        {
+          "name": "vE3nOmM",
+          "url": "https://open.spotify.com/artist/3BA9T2JOjMbAgFk312F5Ep"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169719,
+      "name": "Electric Venom",
+      "url": "https://open.spotify.com/track/5SlcqXaD8zgLcpLQF8iHbA"
+    },
+    {
+      "album": {
         "name": "ELECTRICAL",
         "url": "https://open.spotify.com/album/4xeNayUn4eRUfcOfstb0ld"
       },
@@ -6246,6 +6318,24 @@
       "duration_ms": 174639,
       "name": "Even",
       "url": "https://open.spotify.com/track/4ObIOYpqICQUZBFxmZiuFU"
+    },
+    {
+      "album": {
+        "name": "Heart Shapes",
+        "url": "https://open.spotify.com/album/0vTrreeTwPVuUnOc4wAzyD"
+      },
+      "artists": [
+        {
+          "name": "Averlie",
+          "url": "https://open.spotify.com/artist/7rU9o7XBeXe9KxFhkHtshR"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188869,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/0g1iAXpyEwkxdmJ7wgD7gO"
     },
     {
       "album": {
@@ -9746,10 +9836,6 @@
         {
           "name": "Mark Vdh",
           "url": "https://open.spotify.com/artist/2lUhgurKH7B0YDOAtRkglH"
-        },
-        {
-          "name": "Taylor Sackson",
-          "url": "https://open.spotify.com/artist/0J4SgyQe1Mt4U1z855jZEJ"
         }
       ],
       "date_added": "2026-02-27",
@@ -11761,6 +11847,24 @@
     },
     {
       "album": {
+        "name": "LIfe is a theater",
+        "url": "https://open.spotify.com/album/2PTV7IWb0thp6igZYNymRp"
+      },
+      "artists": [
+        {
+          "name": "Painting Movies",
+          "url": "https://open.spotify.com/artist/5oQG7yFMLbOXwU1Kd4c7K0"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124559,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0dA9wcB20ZW2zShe7OxzdG"
+    },
+    {
+      "album": {
         "name": "Living Life, Igniting Hearts",
         "url": "https://open.spotify.com/album/0DXOc9Cx5K0oS0jYYGgJ66"
       },
@@ -13018,6 +13122,24 @@
       "duration_ms": 130142,
       "name": "Menace",
       "url": "https://open.spotify.com/track/6GEMrj3lBjaP5IVfWX3mZm"
+    },
+    {
+      "album": {
+        "name": "Mending First",
+        "url": "https://open.spotify.com/album/40l3HZthCUDLQ7OLjCp0tO"
+      },
+      "artists": [
+        {
+          "name": "Lily Ward",
+          "url": "https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157935,
+      "name": "Mending First",
+      "url": "https://open.spotify.com/track/0kVVKz8iuneK6gYHQ1Rrd8"
     },
     {
       "album": {
@@ -17291,6 +17413,24 @@
     },
     {
       "album": {
+        "name": "rreeaasssuurraannccee",
+        "url": "https://open.spotify.com/album/6AqXvSwoAa15p1DegZyEam"
+      },
+      "artists": [
+        {
+          "name": "SIXCENTSOIXANTESIX",
+          "url": "https://open.spotify.com/artist/5TWofz8Jgy56UgWfHHQ75t"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101108,
+      "name": "rreeaasssuurraannccee",
+      "url": "https://open.spotify.com/track/7bfKOCRcb1OR73KzgBbB6m"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/5mhI1HBxNKz79MKYuiCjJE"
       },
@@ -18823,6 +18963,24 @@
     },
     {
       "album": {
+        "name": "Protro",
+        "url": "https://open.spotify.com/album/1Kc38g6CmD2tD7PuKUmTMc"
+      },
+      "artists": [
+        {
+          "name": "Coach House",
+          "url": "https://open.spotify.com/artist/34xR4cSEOuMzw9L6Noqxgl"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241583,
+      "name": "Spark Plug",
+      "url": "https://open.spotify.com/track/3ZHDhP42ESYmVwKcHQr1TB"
+    },
+    {
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/30SRVm18psphUpHD24YGwm"
       },
@@ -19636,6 +19794,24 @@
       "duration_ms": 201000,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/3VIK73ED2ekKuETusAcMG3"
+    },
+    {
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/3SJaz0B8akI3rNEvGOQJne"
+      },
+      "artists": [
+        {
+          "name": "Steve Mack",
+          "url": "https://open.spotify.com/artist/2rxKdyjKr9WogmCOeDe0kW"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346667,
+      "name": "Take Me Higher",
+      "url": "https://open.spotify.com/track/6gmgFTNBjgrRcJisEzcXPB"
     },
     {
       "album": {
@@ -20760,6 +20936,24 @@
       "duration_ms": 187253,
       "name": "There will always be after",
       "url": "https://open.spotify.com/track/5478pnFiz0w1Tki1rNOZDL"
+    },
+    {
+      "album": {
+        "name": "There You Go",
+        "url": "https://open.spotify.com/album/0mvC9V1SPOLWMTOc417GB0"
+      },
+      "artists": [
+        {
+          "name": "David McKee",
+          "url": "https://open.spotify.com/artist/16IsiZY9MAafbYxI1rrAUy"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176799,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/7a2gr5FKlv1OIxnZNIKfOD"
     },
     {
       "album": {
@@ -22444,6 +22638,24 @@
       "duration_ms": 222230,
       "name": "When I'm With You",
       "url": "https://open.spotify.com/track/4i05UpB8rI2qMbKaNr7bb7"
+    },
+    {
+      "album": {
+        "name": "When It Comes My Way",
+        "url": "https://open.spotify.com/album/1mvmlh5yZgm1W7IMnAhVV3"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bawden",
+          "url": "https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190784,
+      "name": "When It Comes My Way",
+      "url": "https://open.spotify.com/track/57hVO6knZIXkHRV1nxYGAP"
     },
     {
       "album": {

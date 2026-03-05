@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,139 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,141 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 12 | [Ese Beso](https://open.spotify.com/track/07hnXmPXyMeBHh3nT4PeQ0) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 4:09 |
 | 13 | [Entre ella y yo](https://open.spotify.com/track/1zEmiAANU1MNkPDEbcFfXs) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Extravíate](https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb) | 3:59 |
 | 14 | [Cosas del Amor](https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 4:05 |
-| 15 | [No Renunciaré](https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 4:09 |
+| 15 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
 | 16 | [Si Me Tenías](https://open.spotify.com/track/6vKrT4AyGYxpuXD3ZDZMf6) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:53 |
-| 17 | [Acostúmbrame al cielo](https://open.spotify.com/track/1SuRXVqyizsGWkb8Jm2DZu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:08 |
+| 17 | [No Renunciaré](https://open.spotify.com/track/4MMnXhO0Heihs9pGWLq5u1) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 4:09 |
 | 18 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/46jXJPbnJvq6cNyhcYf11U) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:27 |
 | 19 | [Procuro Olvidarte](https://open.spotify.com/track/3WEKXA7d90ycQpnFk2NaUH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:05 |
 | 20 | [Entiende Que Ya](https://open.spotify.com/track/7kyNkviFUetu9nSrn1wtZr) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 2:46 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 23 | [Un Viejo Amor \(feat\. Edith Márquez\)](https://open.spotify.com/track/3B0vDiUXETnZDEHssi6D0e) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Tributo a](https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR) | 2:41 |
 | 24 | [Yo Lo Extraño A Morir](https://open.spotify.com/track/2kqiZz3VORkKuO9n0om5fg) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:43 |
 | 25 | [Ódiame](https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 2:53 |
-| 26 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
-| 27 | [Esta vez](https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:11 |
+| 26 | [Esta vez](https://open.spotify.com/track/3qAFGQR28oP4REx4m0tHcH) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Caricias del Cielo](https://open.spotify.com/album/2JdIUwPnMsr8ARYSsPrjnD) | 4:11 |
+| 27 | [Es Complicado](https://open.spotify.com/track/2xfuLkkNanQTl0pdbViHUo) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [+Mexicana](https://open.spotify.com/album/0GZi1qLTk1hMY2RXQ6YBgt) | 3:03 |
 | 28 | [En Secreto](https://open.spotify.com/track/0cyBZcUWJvgQgQc4QSZ3Yf) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:21 |
 | 29 | [Sin Él](https://open.spotify.com/track/7bdiuUevmV6VOoQl9A2CnU) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:34 |
 | 30 | [Frente a Frente](https://open.spotify.com/track/1B9RrYARiye3sMXDLIDW9z) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones II](https://open.spotify.com/album/4z0naC9oGW1YJC4gg4hwDE) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4eQ4e5.md) - [plain]
 | 49 | [Y Nos Dieron Las Diez](https://open.spotify.com/track/1JsxBaKdAavIvcbUrUISgG) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Y Nos Dieron Las Diez](https://open.spotify.com/album/72Ln8Hf1BHgUunmZlWBsRM) | 5:14 |
 | 50 | [Hazme Olvidarlo](https://open.spotify.com/track/1iDYDaqCPNhtPAIagwmedh) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Memorias Del Corazón](https://open.spotify.com/album/4AbysRanSqKVyJ4RlEaB26) | 3:59 |
 
-Snapshot ID: `aaTTAAAAAAD+PdXUFlUYlp//1eSknzuZ`
+Snapshot ID: `aaYkgAAAAABHUx3xwGma4KzsX1Rc5sKX`

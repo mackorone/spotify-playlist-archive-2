@@ -1,6 +1,6 @@
 {
   "description": "Recuerda los \u00e9xitos ochenteros que sonaron en la radio mexicana. Flans en portada.",
-  "num_followers": 1057011,
+  "num_followers": 1057217,
   "original_name": "Los 80 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "El Angel Del Rock Vol. 2",
-        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
-      },
-      "artists": [
-        {
-          "name": "Laureano Brizuela",
-          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
-        }
-      ],
-      "duration_ms": 254826,
-      "name": "Sue\u00f1os Compartidos",
-      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 266826,
       "name": "Guitarras Blancas",
       "url": "https://open.spotify.com/track/3V9dPuQWZOUQY3KYJJWnP3"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "El Angel Del Rock Vol. 2",
+        "url": "https://open.spotify.com/album/5ym9ffMyvW91QBixRrcS9x"
+      },
+      "artists": [
+        {
+          "name": "Laureano Brizuela",
+          "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+        }
+      ],
+      "duration_ms": 254826,
+      "name": "Sue\u00f1os Compartidos",
+      "url": "https://open.spotify.com/track/70ZDTO70VvcVBQB3ibtP3m"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -923,8 +923,8 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "MTV Unplugged: Con El Alma Desnuda",
-        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
+        "name": "Desnudo Emmanuel",
+        "url": "https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG"
       },
       "artists": [
         {
@@ -932,9 +932,9 @@
           "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 298546,
-      "name": "La Chica De Humo - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
+      "duration_ms": 289733,
+      "name": "Toda la Vida",
+      "url": "https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Parte De La Religion",
-        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "No Voy en Tren",
-      "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
-    },
-    {
-      "added_at": "2020-06-24 19:34:30",
-      "album": {
         "name": "Que Nada Nos Separe",
         "url": "https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 267000,
       "name": "No Hace Falta",
       "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
+    },
+    {
+      "added_at": "2020-06-24 19:34:30",
+      "album": {
+        "name": "Parte De La Religion",
+        "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "No Voy en Tren",
+      "url": "https://open.spotify.com/track/0rliTXrA8nLBuJcxDuueWU"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Desnudo Emmanuel",
-        "url": "https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG"
+        "name": "MTV Unplugged: Con El Alma Desnuda",
+        "url": "https://open.spotify.com/album/6w9N3RfyhAXpelVnAyrH2J"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 289733,
-      "name": "Toda la Vida",
-      "url": "https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c"
+      "duration_ms": 298546,
+      "name": "La Chica De Humo - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4ozSZEX79T7QuDaifobXLO"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "Duri Duri",
-        "url": "https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5"
+        "name": "30 A\u00f1os de \u00c9xitos",
+        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
       },
       "artists": [
         {
-          "name": "Click",
-          "url": "https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w"
+          "name": "Los Toreros Muertos",
+          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
         }
       ],
-      "duration_ms": 294870,
-      "name": "Duri Duri (Baila Baila)",
-      "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
+      "duration_ms": 339933,
+      "name": "Mi Ag\u00fcita Amarilla",
+      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
     },
     {
       "added_at": "2020-06-24 19:34:30",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2020-06-24 19:34:30",
       "album": {
-        "name": "30 A\u00f1os de \u00c9xitos",
-        "url": "https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo"
+        "name": "Duri Duri",
+        "url": "https://open.spotify.com/album/1OzXRIl2GY8sB0o8peOXg5"
       },
       "artists": [
         {
-          "name": "Los Toreros Muertos",
-          "url": "https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI"
+          "name": "Click",
+          "url": "https://open.spotify.com/artist/0crIJAch9BFQ3Q3RA9bY8w"
         }
       ],
-      "duration_ms": 339933,
-      "name": "Mi Ag\u00fcita Amarilla",
-      "url": "https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb"
+      "duration_ms": 294870,
+      "name": "Duri Duri (Baila Baila)",
+      "url": "https://open.spotify.com/track/7ft4Kl0QcL5no8eTGtod39"
     },
     {
       "added_at": "2020-06-24 19:34:30",

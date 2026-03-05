@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 박찬영\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,266 songs - 3 day 4 hr 39 min
+1,267 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,7 +211,7 @@
 | [Crystal Trees](https://open.spotify.com/track/52XWDiWgJZsDea3mvYyQVl) | [U\-Turn](https://open.spotify.com/artist/4mhu5X1P8QV77uRvOm9Oj0) | [Crystal Trees](https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao) | 3:23 | 2022-04-12 | 2022-04-14 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-28 | 2023-03-28 |
 | [D\-Day](https://open.spotify.com/track/0arhh9A3nyVqqDpO9JdCsn) | [Myown](https://open.spotify.com/artist/7of09TKKRNNpeibUdbHOOJ) | [D\-Day](https://open.spotify.com/album/3bMwgq9idZBnl3OLadyID6) | 3:30 | 2022-03-31 | 2022-04-15 |
-| [Daisy](https://open.spotify.com/track/3k4Llt7K7nPtXuGN6rhtjb) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Daisy](https://open.spotify.com/album/713NXRFrCBWBpfMEcPUMOw) | 2:26 | 2026-01-23 |  |
+| [Daisy](https://open.spotify.com/track/3k4Llt7K7nPtXuGN6rhtjb) | [16](https://open.spotify.com/artist/5gjVxMSvUPmjSPX95sl2Sr) | [Daisy](https://open.spotify.com/album/713NXRFrCBWBpfMEcPUMOw) | 2:26 | 2026-01-23 | 2026-03-05 |
 | [Daisy \(with 969\)](https://open.spotify.com/track/0cwQu6m9DQYmnzj8uG6F6W) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv), [969](https://open.spotify.com/artist/2aMqGFNXYTujZMuU4B2EUk) | [Daisy \(with 969\)](https://open.spotify.com/album/4a4hJD5nTbiDE5fOhRyhOC) | 3:35 | 2022-05-11 | 2022-07-29 |
 | [Dance](https://open.spotify.com/track/6mCYImXzhwllGGVXaFbt3W) | [Tomiyo](https://open.spotify.com/artist/4jQggyF869vBQbQl2Tewuj) | [Dance](https://open.spotify.com/album/5uxcyqxGIxy8nMWXdraCfs) | 4:19 | 2022-03-31 | 2022-07-28 |
 | [Dance and gulp down saliva \(feat\. The Deep\)](https://open.spotify.com/track/4Jd4MvIH7Db5TAQy6gMfiI) | [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Gulp Down Saliva](https://open.spotify.com/album/3OD3EaKKtWUvOlUxwUFnku) | 4:00 | 2024-04-30 | 2024-05-10 |
@@ -546,6 +546,7 @@
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
 | [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-05-01 |
 | [It stings!](https://open.spotify.com/track/6avPD0pubMIFY55Nn0fwe7) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [FANTASY](https://open.spotify.com/album/1nhxJmX1wipzaOkihjiH4s) | 2:29 | 2025-10-23 | 2025-12-09 |
+| [it was always me, never us.](https://open.spotify.com/track/5XTuQ4vMX1gHDLmzxhMOd6) | [Lokid](https://open.spotify.com/artist/4qrNQeAY9fmYHiQUXu7k9g) | [it was always me, never us.](https://open.spotify.com/album/4mfASakRbVp4RqrvprgXJx) | 3:56 | 2026-03-04 |  |
 | [It's Alright](https://open.spotify.com/track/00vVtTOe1npIhSPDdnA0MY) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [It's Alright](https://open.spotify.com/album/25lujKqHjleqhEQaZBXHv4) | 3:48 | 2022-03-31 | 2022-04-22 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-31 | 2022-04-21 |
 | [It's been a while](https://open.spotify.com/track/04SHCnVGwukIiqBQX1KCSH) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [It's been a while](https://open.spotify.com/album/3N7m8jfIAsOu3gBFuve1q6) | 4:54 | 2024-05-08 | 2024-07-11 |

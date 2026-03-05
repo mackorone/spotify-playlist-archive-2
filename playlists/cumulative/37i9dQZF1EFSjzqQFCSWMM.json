@@ -1604,6 +1604,24 @@
     {
       "album": {
         "name": "MM Vol. 3",
+        "url": "https://open.spotify.com/album/35MwuAE0wYpbBVV6oXNcQ1"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132950,
+      "name": "Numeri",
+      "url": "https://open.spotify.com/track/0Yj5tofXbmOYqkAL1qKfAc"
+    },
+    {
+      "album": {
+        "name": "MM Vol. 3",
         "url": "https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft"
       },
       "artists": [
@@ -1614,7 +1632,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 132950,
       "name": "Numeri",
       "url": "https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11"

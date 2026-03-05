@@ -4157,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Estilo R'S",
+        "url": "https://open.spotify.com/album/0AAD3DOO4EcVHNphsLE31J"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133564,
+      "name": "Beretta (De Los Cerros La Escuela)",
+      "url": "https://open.spotify.com/track/2T6bX3rxdMc9V7ErfOB5yG"
+    },
+    {
+      "album": {
         "name": "LUX",
         "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
       },
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 210813,
       "name": "bum bum (Quevedo)",
       "url": "https://open.spotify.com/track/5xtX1RgXrxZvpJH7hn0png"
@@ -12326,6 +12344,36 @@
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
+    },
+    {
+      "album": {
+        "name": "Ela k\u00e9 Leitada",
+        "url": "https://open.spotify.com/album/4Im21Qok3nccqN2OXrJYDw"
+      },
+      "artists": [
+        {
+          "name": "Prod.Nifour",
+          "url": "https://open.spotify.com/artist/71NQK8ufY5t7SeiMAhPB9I"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "name": "Storys Funk",
+          "url": "https://open.spotify.com/artist/2b9UFFkMRKYAN6MpqFnqow"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156708,
+      "name": "Ela k\u00e9 Leitada",
+      "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
     },
     {
       "album": {
@@ -19226,7 +19274,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190248,
       "name": "Jujuy Estrellado",
       "url": "https://open.spotify.com/track/0QkGN0oxnTtHkb7INYxF44"
@@ -32191,6 +32239,24 @@
     },
     {
       "album": {
+        "name": "Princesa",
+        "url": "https://open.spotify.com/album/7cSqQalogFvcC3NcBo7gGM"
+      },
+      "artists": [
+        {
+          "name": "Sosa 66s",
+          "url": "https://open.spotify.com/artist/7wGpe3AhCyQVeSiD7XLaNF"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "Princesa",
+      "url": "https://open.spotify.com/track/2d5NqqSUMGciDO0FdArbBf"
+    },
+    {
+      "album": {
         "name": "El Templo del Pop",
         "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
       },
@@ -40420,7 +40486,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 196511,
       "name": "Toco madera",
       "url": "https://open.spotify.com/track/0pEdOc9cVgn5hyFqOn3nns"
@@ -42079,6 +42145,28 @@
     },
     {
       "album": {
+        "name": "Inkebrantable (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
+      "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
+    },
+    {
+      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -43284,7 +43372,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 145161,
       "name": "VOS Y YO",
       "url": "https://open.spotify.com/track/0oKCWTwXJrSwytoNWWyH3u"

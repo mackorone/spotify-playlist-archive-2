@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5VS822gRfPM26j4CPZ4m1R.md) - [plain]
 
 > Playlist
 
-[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,953 likes - 635 songs - 1 day 13 hr 43 min
+[Nice Guys](https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc) - 17,955 likes - 635 songs - 1 day 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

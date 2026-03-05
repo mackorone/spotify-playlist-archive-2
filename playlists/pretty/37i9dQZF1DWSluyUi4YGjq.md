@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Cover: she's green
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,016 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,074 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 83 | [The things that I'll always miss](https://open.spotify.com/track/1Y9VdcNYrzzwkgxxtj5N8u) | [Beach Bums](https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ) | [IRL](https://open.spotify.com/album/5VXuU9m8N73IpBZel0zy1S) | 2:03 |
 | 84 | [lick the star](https://open.spotify.com/track/1X8E5Ad67vg9bNVRAuNHtX) | [Glixen](https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj) | [lick the star](https://open.spotify.com/album/7IYAs7rJtjzvgETlqWc1wG) | 5:17 |
 | 85 | [Sugarcoat](https://open.spotify.com/track/3LTjRvhLnoc0dCqlPUtU08) | [Blushing](https://open.spotify.com/artist/27rWdoCAtvpwChpCDz9PK0) | [Sugarcoat](https://open.spotify.com/album/0EQL2KDngVugkK73uORAyW) | 3:32 |
-| 86 | [Graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [Graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 |
+| 86 | [graze](https://open.spotify.com/track/1nud9LcFASdfF0aXdBWu8Q) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [graze](https://open.spotify.com/album/4vxPvTAW936GCopDV6nj64) | 4:24 |
 | 87 | [It’s Almost Like You’re Here](https://open.spotify.com/track/6dkbwlR6IEUINiPhj0t2hD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [It’s Almost Like You’re Here](https://open.spotify.com/album/1CmW2ezh4ClPrnky18Iwwr) | 3:50 |
 | 88 | [bones](https://open.spotify.com/track/2IC95ns8wvWXMmR4nFi4wo) | [w1sh](https://open.spotify.com/artist/57zmm9q6ZH4TJNa4sQgmYA) | [bones](https://open.spotify.com/album/1uuNrcp5NTu8kGcRoHwq4n) | 1:12 |
 | 89 | [Cave In](https://open.spotify.com/track/0Du0CIdm9JDAxk3oOk2Dal) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Silver Lining](https://open.spotify.com/album/5CNYoKFhRQa1ky5DE7lDFc) | 2:56 |

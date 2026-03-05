@@ -1,6 +1,6 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Morgan Evans",
-  "num_followers": 324928,
+  "num_followers": 324990,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
@@ -1239,8 +1239,8 @@
     {
       "added_at": "2026-02-17 16:42:19",
       "album": {
-        "name": "6 Months Later",
-        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
+        "name": "Am I Okay?",
+        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
       },
       "artists": [
         {
@@ -1248,9 +1248,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 182868,
-      "name": "6 Months Later",
-      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
+      "duration_ms": 235002,
+      "name": "Am I Okay?",
+      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
     },
     {
       "added_at": "2026-02-17 16:42:19",
@@ -1339,8 +1339,8 @@
     {
       "added_at": "2026-02-17 16:42:19",
       "album": {
-        "name": "Am I Okay?",
-        "url": "https://open.spotify.com/album/7l80BDHxpZwj8FXImqH8fw"
+        "name": "6 Months Later",
+        "url": "https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1"
       },
       "artists": [
         {
@@ -1348,9 +1348,9 @@
           "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 235002,
-      "name": "Am I Okay?",
-      "url": "https://open.spotify.com/track/36wAwEkSDpNQ4oQeRLYC3L"
+      "duration_ms": 182868,
+      "name": "6 Months Later",
+      "url": "https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom"
     },
     {
       "added_at": "2026-02-17 16:42:19",
@@ -1371,26 +1371,6 @@
     {
       "added_at": "2026-02-17 16:42:19",
       "album": {
-        "name": "Backup Plan (feat. Luke Combs)",
-        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 181518,
-      "name": "Backup Plan (feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
-    },
-    {
-      "added_at": "2026-02-17 16:42:19",
-      "album": {
         "name": "All The Way (feat. Bailey Zimmerman)",
         "url": "https://open.spotify.com/album/6ySeR2u4QyfkeZBVL4yORh"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 165000,
       "name": "All The Way (feat. Bailey Zimmerman)",
       "url": "https://open.spotify.com/track/73kIKvg65QWieOKXIwyLJP"
+    },
+    {
+      "added_at": "2026-02-17 16:42:19",
+      "album": {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "url": "https://open.spotify.com/album/7zSwRYnnPvr3BIljhzf9uQ"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 181518,
+      "name": "Backup Plan (feat. Luke Combs)",
+      "url": "https://open.spotify.com/track/58is1MxJ0mafkdwalyYanU"
     },
     {
       "added_at": "2026-02-17 16:42:19",

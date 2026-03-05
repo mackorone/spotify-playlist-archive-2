@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,544 likes - 40 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,576 likes - 40 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 29 | [Maajo](https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Synchro System](https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I) | 3:26 |
 | 30 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 31 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 |
-| 32 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
-| 33 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
-| 34 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
-| 35 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
+| 32 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
+| 33 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
+| 34 | [Love and Death](https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Love & Death](https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5) | 6:55 |
+| 35 | [Ndihamba Nawe](https://open.spotify.com/track/0x3T8PGQH5xeZ1towZqecI) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN) | [Sibongile](https://open.spotify.com/album/4RrSUmTqVB1mhabRH4KPGY) | 5:51 |
 | 36 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
 | 37 | [Theresa](https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6) | [Daddy Lumba](https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr) | [Daddy Lumba Essentials](https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE) | 5:37 |
 | 38 | [Come On Home](https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 5:16 |

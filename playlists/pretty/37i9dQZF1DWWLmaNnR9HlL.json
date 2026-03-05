@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 399567,
+  "num_followers": 399547,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "For Cryin' Out Loud!",
-        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 217240,
-      "name": "For Cryin' Out Loud!",
-      "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
+      "duration_ms": 329649,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+        "name": "For Cryin' Out Loud!",
+        "url": "https://open.spotify.com/album/7swV2ssDdlKc89h1DxUNh7"
       },
       "artists": [
         {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 329649,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
+      "duration_ms": 217240,
+      "name": "For Cryin' Out Loud!",
+      "url": "https://open.spotify.com/track/4nsd2DbMYqRwkvIQ51r4cp"
     },
     {
       "added_at": "2025-07-02 08:57:18",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Get Lucky (Acoustic)",
+        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
+      },
+      "artists": [
+        {
+          "name": "Linn Brikell",
+          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
+        }
+      ],
+      "duration_ms": 188605,
+      "name": "Get Lucky - Acoustic",
+      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Careless Love",
         "url": "https://open.spotify.com/album/5Abc3wXAy8U1f79eVn7AGd"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 235640,
       "name": "Dance Me To The End Of Love",
       "url": "https://open.spotify.com/track/5ztIul377mylwHJkCnIWbn"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Get Lucky (Acoustic)",
-        "url": "https://open.spotify.com/album/7kqflmHaXiCRFSF6gd7wwW"
-      },
-      "artists": [
-        {
-          "name": "Linn Brikell",
-          "url": "https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu"
-        }
-      ],
-      "duration_ms": 188605,
-      "name": "Get Lucky - Acoustic",
-      "url": "https://open.spotify.com/track/2aXBORgLuv2czaJVyeLOl7"
     },
     {
       "added_at": "2025-07-02 08:57:18",

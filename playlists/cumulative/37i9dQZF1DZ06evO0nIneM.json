@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Alles Is Liefde",
+        "url": "https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209755,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A"
+    },
+    {
+      "album": {
         "name": "3\u00d8 - We Doen Wat We Kunnen",
         "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 212106,
       "name": "Alles Is Liefde",
       "url": "https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe"
@@ -305,6 +323,28 @@
     },
     {
       "album": {
+        "name": "Hier - Het Beste Van 20 Jaar BL\u00d8F",
+        "url": "https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232666,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ"
+    },
+    {
+      "album": {
         "name": "3\u00d8 - We Doen Wat We Kunnen",
         "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
       },
@@ -320,7 +360,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 234880,
       "name": "Holiday In Spain",
       "url": "https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg"

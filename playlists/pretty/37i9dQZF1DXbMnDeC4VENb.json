@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.  ",
-  "num_followers": 195473,
+  "num_followers": 195488,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "Vayas Donde Vayas",
+        "url": "https://open.spotify.com/album/2IL8QuOn2j2hdAbx0W7jEf"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 208013,
+      "name": "Vayas Donde Vayas",
+      "url": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Si T\u00fa Te Vas",
         "url": "https://open.spotify.com/album/7cWtDxlsNhuIg4JLYJDVjV"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 209292,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2l6emeZ5kkLNTKwWVwmvnz"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "Vayas Donde Vayas",
-        "url": "https://open.spotify.com/album/2IL8QuOn2j2hdAbx0W7jEf"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 208013,
-      "name": "Vayas Donde Vayas",
-      "url": "https://open.spotify.com/track/5uVKEewXVjW1vn30Gaul3i"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Ynlpa",
-        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Ynlpa",
-      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 199757,
       "name": "Peor Que La Polic\u00eda (feat. PMP)",
       "url": "https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Ynlpa",
+        "url": "https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Ynlpa",
+      "url": "https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3519,22 +3519,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Borracho y Dolido",
-        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
-      },
-      "artists": [
-        {
-          "name": "Efecto SR",
-          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
-        }
-      ],
-      "duration_ms": 169079,
-      "name": "Borracho y Dolido",
-      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "En una Nube",
         "url": "https://open.spotify.com/album/3fODLYocKVu9M1SWXnpGbF"
       },
@@ -3551,6 +3535,22 @@
       "duration_ms": 226521,
       "name": "En una Nube",
       "url": "https://open.spotify.com/track/5qpiI7NRnRm49JFXAbQNfN"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Borracho y Dolido",
+        "url": "https://open.spotify.com/album/4U5kWPFm51SHTPhOibHsdQ"
+      },
+      "artists": [
+        {
+          "name": "Efecto SR",
+          "url": "https://open.spotify.com/artist/2do4Z40QtYI2DXXc7xIlSs"
+        }
+      ],
+      "duration_ms": 169079,
+      "name": "Borracho y Dolido",
+      "url": "https://open.spotify.com/track/21mWxC6nkXHQlDNVnDHhu5"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3807,6 +3807,26 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "Sin Poder Olvidarte",
+        "url": "https://open.spotify.com/album/4amL1nxZnYNW5hEgSUvnoa"
+      },
+      "artists": [
+        {
+          "name": "Jon Jams",
+          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
+        },
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 228548,
+      "name": "Sin Poder Olvidarte",
+      "url": "https://open.spotify.com/track/6EBdAt4GvHKeRYYsxPn02G"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Flakita",
         "url": "https://open.spotify.com/album/4S4cvQx7xl3BqA39CrsuJN"
       },
@@ -3827,26 +3847,6 @@
       "duration_ms": 171050,
       "name": "Flakita",
       "url": "https://open.spotify.com/track/75GPUVRzfOBic0OXkuO313"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "Sin Poder Olvidarte",
-        "url": "https://open.spotify.com/album/4amL1nxZnYNW5hEgSUvnoa"
-      },
-      "artists": [
-        {
-          "name": "Jon Jams",
-          "url": "https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7"
-        },
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 228548,
-      "name": "Sin Poder Olvidarte",
-      "url": "https://open.spotify.com/track/6EBdAt4GvHKeRYYsxPn02G"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3895,26 +3895,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        },
-        {
-          "name": "Chato 473",
-          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Mi Estrella",
-      "url": "https://open.spotify.com/track/0WurjPYKP2FQdL7PILZi8j"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "El Hijo de Norma",
         "url": "https://open.spotify.com/album/5r6ouetFjAMFUOYZIEGAbf"
       },
@@ -3931,6 +3911,26 @@
       "duration_ms": 195800,
       "name": "Monte de Venus",
       "url": "https://open.spotify.com/track/4A2WGBGMZFZv2wcwmchlKI"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
+      },
+      "artists": [
+        {
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Mi Estrella",
+      "url": "https://open.spotify.com/track/0WurjPYKP2FQdL7PILZi8j"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -3971,22 +3971,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Lo que se va, Se va",
-        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
-      },
-      "artists": [
-        {
-          "name": "Nuco",
-          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
-        }
-      ],
-      "duration_ms": 177274,
-      "name": "Lo que se va, Se va",
-      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Rey de Corazones Rotos",
         "url": "https://open.spotify.com/album/7fGP4JQisjbNudDBD8bnYj"
       },
@@ -3999,6 +3983,22 @@
       "duration_ms": 207993,
       "name": "No Voy a Volver",
       "url": "https://open.spotify.com/track/2UERICov7yrdE72YHnjq3V"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Lo que se va, Se va",
+        "url": "https://open.spotify.com/album/6UUxwfBnujPq9EuEkMRBnS"
+      },
+      "artists": [
+        {
+          "name": "Nuco",
+          "url": "https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS"
+        }
+      ],
+      "duration_ms": 177274,
+      "name": "Lo que se va, Se va",
+      "url": "https://open.spotify.com/track/6PpKIQMYfMdJM9G9Cll9Lz"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -4199,26 +4199,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "La \u00daltima Carta",
-        "url": "https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        },
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        }
-      ],
-      "duration_ms": 201325,
-      "name": "La \u00daltima Carta",
-      "url": "https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Lucifer",
         "url": "https://open.spotify.com/album/6sOUagzQBWZ8ihsrpX6QsH"
       },
@@ -4235,6 +4215,26 @@
       "duration_ms": 267558,
       "name": "Lucifer",
       "url": "https://open.spotify.com/track/3E3jX1CLJ9rMViuLr1hNB3"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "La \u00daltima Carta",
+        "url": "https://open.spotify.com/album/47UiSsUYKnzsuobv8GXHBM"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "La \u00daltima Carta",
+      "url": "https://open.spotify.com/track/1gRiY446uI1mYtvsiup2Uh"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -4463,6 +4463,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
+        "name": "Confesiones",
+        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 203150,
+      "name": "SE MARCHIT\u00d3 LA FLOR",
+      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/7AHKVMfKtUv9P06zjFHsGB"
       },
@@ -4591,22 +4607,6 @@
       "duration_ms": 153857,
       "name": "Sin pistola",
       "url": "https://open.spotify.com/track/008gGt53LBG5eBo7rfganm"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
-        "name": "Confesiones",
-        "url": "https://open.spotify.com/album/22ObA67YK8nPGwvkligBMb"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 203150,
-      "name": "SE MARCHIT\u00d3 LA FLOR",
-      "url": "https://open.spotify.com/track/1oYEK1fIfaA8UofLu1Phu8"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -5611,22 +5611,18 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+        "name": "Me Da Lo Mismo",
+        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+      "duration_ms": 246480,
+      "name": "Me Da Lo Mismo",
+      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -5719,18 +5715,22 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 203456,
-      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
-      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": "2026-02-06 06:00:20",
@@ -5771,22 +5771,6 @@
     {
       "added_at": "2026-02-06 06:00:20",
       "album": {
-        "name": "Me Da Lo Mismo",
-        "url": "https://open.spotify.com/album/3gyF757c6nzibRCWttR1nS"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 246480,
-      "name": "Me Da Lo Mismo",
-      "url": "https://open.spotify.com/track/220yXgkadQ5amhAdgRAlnl"
-    },
-    {
-      "added_at": "2026-02-06 06:00:20",
-      "album": {
         "name": "Prohibida",
         "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
       },
@@ -5803,6 +5787,22 @@
       "duration_ms": 206200,
       "name": "Prohibida",
       "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
+    },
+    {
+      "added_at": "2026-02-06 06:00:20",
+      "album": {
+        "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+        "url": "https://open.spotify.com/album/0D1v1FFqRnSxLhxbU93gvs"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 203456,
+      "name": "Me Gustas M\u00e1s Que Salir a Fumar",
+      "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
     }
   ],
   "unique_name": "Rimas Pa'l Cora",

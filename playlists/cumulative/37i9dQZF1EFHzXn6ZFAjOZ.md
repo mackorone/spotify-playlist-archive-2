@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-187 songs - 10 hr 36 min
+188 songs - 10 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Mother Nature](https://open.spotify.com/track/7FsETbTxNbbwx9KUjojpVP) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Mother Nature](https://open.spotify.com/album/2XDn2tAwfflLVZbQqCtJ5s) | 3:55 | 2024-05-09 |  |
 | [Natalie Don't](https://open.spotify.com/track/5CO4uJ11ZVKhsO2Lu9NUSk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/2SJm2EyIfbQQyU0ryiSqmP) | 3:14 | 2023-12-31 |  |
 | [Natalie Don't](https://open.spotify.com/track/3fEtxqmS2R9TRSMr0mRM15) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Natalie Don’t](https://open.spotify.com/album/7vLbRuvBHQFkPXvDID9xkY) | 3:17 | 2023-12-30 | 2024-02-02 |
+| [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 | 2026-03-04 |  |
 | [Not In Love](https://open.spotify.com/track/6zN256SHzVljMn5i3SCitv) | [M.O](https://open.spotify.com/artist/6Ur6METz02CC9zcJWDFicC), [Kent Jones](https://open.spotify.com/artist/3jHBxvZ9gbBkZ17wKUqVsO) | [Not In Love](https://open.spotify.com/album/0lw6II357NuP1I9Jk8f1Gm) | 3:35 | 2023-12-30 |  |
 | [On My Way](https://open.spotify.com/track/7H9YC7hkicuj0ASDn3Aati) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [PRETTYMUCH an EP](https://open.spotify.com/album/2rmcMZwrpFewSPsoaC6Dvc) | 3:52 | 2023-12-30 |  |
 | [Oscar Winning Tears.](https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:03 | 2023-12-30 |  |

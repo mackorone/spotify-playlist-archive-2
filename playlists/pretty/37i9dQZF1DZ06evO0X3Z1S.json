@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 87954,
+  "num_followers": 87953,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABgIo8PQOxqHhsEO5F1mCem",
+  "snapshot_id": "aaYkgAAAAAB4RTZB+dvzgiALoD9HoKW+",
   "tracks": [
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fast Car (Remixes)",
         "url": "https://open.spotify.com/album/40ifSsakci9ksnclgVDT8F"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 330967,
       "name": "Fast Car - Club Mix",
       "url": "https://open.spotify.com/track/38Iwduov8CqeckUz1oKmyC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: N.Y.P.D.南洋派對
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,971 likes - 99 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,984 likes - 99 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

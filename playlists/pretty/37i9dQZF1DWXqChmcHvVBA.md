@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 El Negro Tecla
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,497 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,574 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

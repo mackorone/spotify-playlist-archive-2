@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAAXYqTVaMIhhLkUKkSU4Wfm",
+  "snapshot_id": "aaYkgAAAAAC808EADyUAabq50dCUqHlw",
   "tracks": [
     {
       "added_at": null,
@@ -47,26 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All About Us",
-        "url": "https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 158500,
-      "name": "All About Us",
-      "url": "https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feels Like Yesterday",
         "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 129749,
       "name": "Feels Like Yesterday",
       "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All About Us",
+        "url": "https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "All About Us",
+      "url": "https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 91580,
-      "name": "7PM",
-      "url": "https://open.spotify.com/track/4AppRvQz4VFgXSPqEcafKq"
+      "duration_ms": 114046,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/29zpVol3cj8w6iJydFHWaZ"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 183263,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 183263,
-      "name": "Lotus",
-      "url": "https://open.spotify.com/track/0EaEPLdYm4axlYFInnxgQU"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,

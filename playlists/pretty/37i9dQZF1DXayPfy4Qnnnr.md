@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 
 > Chanson alterno, rock festif, ska ou reggae, peu importe le genre : crie\-le bien fort, use tes cordes vocales !
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,545 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,568 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Les étoiles filantes](https://open.spotify.com/track/3ChV0OY2OMofstepo4uVXy) | [Les Cowboys Fringants](https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a) | [La grand\-messe](https://open.spotify.com/album/11R4ZPmfZTbIMxy4QumstB) | 4:21 |
-| 2 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
-| 3 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
+| 2 | [Marley](https://open.spotify.com/track/0UZtknI7pCLAVGtHPLIYXZ) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Dialogue de sourds](https://open.spotify.com/album/6CyUDbu8iwTgVhpUGAenMo) | 5:12 |
+| 3 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 4 | [Les nuits parisiennes](https://open.spotify.com/track/2TaEmp0ekjFpnteScYcFXU) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Louise Attaque](https://open.spotify.com/album/2HkPAUQZm9D1wkJQeh9ENz) | 2:31 |
 | 5 | [Les moutons](https://open.spotify.com/track/5qcHNtNeQWSEVTeIwBLwss) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [La Ouache](https://open.spotify.com/album/3Jc7BaQeEeWq1KwDXmbS8g) | 3:48 |
 | 6 | [Et ta mère](https://open.spotify.com/track/2HEr6PARUW822o9VLx25mg) | [Zoufris Maracas](https://open.spotify.com/artist/2aW5pvTZYAAZxbh75uVzZD) | [Prison Dorée \(Nouvelle Edition\)](https://open.spotify.com/album/0O5XAR0ds6FBbRTtG36mlL) | 2:49 |
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayPfy4Qnnnr.md) - [plain]
 | 36 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 |
 | 37 | [Don Diego 2000](https://open.spotify.com/track/5g9HzwqUa3kS1Vmi2kSpkD) | [Dionysos](https://open.spotify.com/artist/75nb7WjICnFHCXFdVX0PkO) | [Western Sous La Neige](https://open.spotify.com/album/7n3bwYHPBrnRBb7jWYdySY) | 3:32 |
 | 38 | [Léon](https://open.spotify.com/track/3DgehxFcYGW4kipAOat5Ri) | [Karpatt](https://open.spotify.com/artist/7qU5BoLb02tqeIwv5zUs0e), [Mano Solo](https://open.spotify.com/artist/2MfAaMT9qmkHIBnU1ofzAP) | [Dans le caillou](https://open.spotify.com/album/5wMUU2L9v1euXsqWLE4lgM) | 5:25 |
-| 39 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
-| 40 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements d'Léo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
+| 39 | [L'accordéoniste](https://open.spotify.com/track/5zdsWxGjYO8Su7lAKwzvR3) | [Les Hurlements d'Léo](https://open.spotify.com/artist/5WclEPgvoYK28a034NNa8s) | [Le café des jours heureux](https://open.spotify.com/album/4f0WbqM9lzf3ygfNzVKnG8) | 3:02 |
+| 40 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
 | 41 | [International Dub](https://open.spotify.com/track/6lEvKrzQ6gtm8uHj1NIJni) | [Percubaba](https://open.spotify.com/artist/2Byn2ekDC01oao1e88L7fJ) | [Percubaba](https://open.spotify.com/album/3j2qBxrpBrEOgnPdbe90Vl) | 4:47 |
 | 42 | [Les embouteillages](https://open.spotify.com/track/0H1Ih7vJhcoU4yy6XPXvrF) | [Sanseverino](https://open.spotify.com/artist/1jKouRXGXSjxHAx2ayWolz) | [Le Tango Des Gens](https://open.spotify.com/album/14VGXNhq3B646I7GWaXo9D) | 3:08 |
-| 43 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
-| 44 | [Emmène\-moi](https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV) | [Les Tit' Nassels](https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC) | [Deux, trois trucs](https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I) | 3:05 |
+| 43 | [Emmène\-moi](https://open.spotify.com/track/4ulUmNlJ8LxT49lT5gXHkV) | [Les Tit' Nassels](https://open.spotify.com/artist/1cZthYGjUVOGcPbymiznkC) | [Deux, trois trucs](https://open.spotify.com/album/3koj7cBNbJ2cICgr4HNk6I) | 3:05 |
+| 44 | [L'odyssée du réel](https://open.spotify.com/track/6T8JxxGowkAfXH6YfwL2II) | [La Ruda Salska](https://open.spotify.com/artist/5wLQgAe9uO150K07T2MYvl) | [Passager du réel](https://open.spotify.com/album/2CtHL2zu55v3Xu1K1PUCvZ) | 4:55 |
 | 45 | [Kana diskan](https://open.spotify.com/track/3DDozsIhKdjaOhnEPwn9H3) | [Rasta Bigoud](https://open.spotify.com/artist/6bEut48ficVPo2kEIuxwSY) | [Kana diskan](https://open.spotify.com/album/3GH2MvtPq2yI84Em13I0GU) | 3:46 |
-| 46 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
-| 47 | [Les p'tits plaisirs](https://open.spotify.com/track/215xowAMaWJgaBLVWMFBUS) | [Les Blérots de R.A.V.E.L.](https://open.spotify.com/artist/03f8NxYYzXXegwRNjft7v7) | [Voleurs du dimanche](https://open.spotify.com/album/4yrLwpLLBQmOk5PraYT7pY) | 3:02 |
+| 46 | [Les p'tits plaisirs](https://open.spotify.com/track/215xowAMaWJgaBLVWMFBUS) | [Les Blérots de R.A.V.E.L.](https://open.spotify.com/artist/03f8NxYYzXXegwRNjft7v7) | [Voleurs du dimanche](https://open.spotify.com/album/4yrLwpLLBQmOk5PraYT7pY) | 3:02 |
+| 47 | [La gueule du patrimoine](https://open.spotify.com/track/1W1fQ84xvzfdMuFLBPy6Jh) | [Z.E.P](https://open.spotify.com/artist/4XAzJCyr0H69x6RkEnb2Go) | [Zone d'expression populaire](https://open.spotify.com/album/4RJzRt68IPvg9BZc53mpiN) | 4:45 |
 | 48 | [Awalpé](https://open.spotify.com/track/4cHUyhoq1PxNub0EE75Hbl) | [Les Fils De Teuhpu](https://open.spotify.com/artist/0MNXVnloSEVTmqTduBnJkt) | [La Schnek](https://open.spotify.com/album/2tC0TcdZtYpJ6mdovkEepR) | 3:01 |
 | 49 | [Contes, vents et marées](https://open.spotify.com/track/3Y4HzUg1dQGheNoTqz1BMZ) | [Les Ogres De Barback](https://open.spotify.com/artist/3avSMklPuyXhcT5Smt1h7G) | [Les ogres de Barback édition limitée](https://open.spotify.com/album/6HHZ9va8KG5gvyQnrZQBg4) | 4:02 |
 | 50 | [Les vaches](https://open.spotify.com/track/7z6ziYZ3l4zIxcTegE0h6k) | [Marcel et son Orchestre](https://open.spotify.com/artist/5YdOZp94WgelKxaAlQ2j7y) | [Crâne pas, t'es chauve !](https://open.spotify.com/album/5aWuJecySuhwuBg9mbY4d9) | 2:00 |

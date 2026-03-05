@@ -1,12 +1,12 @@
 {
   "description": "This is Vanessa Zamora. The essential tracks, all in one playlist.",
-  "num_followers": 3274,
+  "num_followers": 3275,
   "original_name": "This Is Vanessa Zamora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABCHfEqLnVjEwqiGF8FPcD9",
+  "snapshot_id": "aaYkgAAAAABOQ8K6ahhF2lLZuNWlXGun",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AYER",
+        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 235909,
+      "name": "AYER",
+      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSFORMANDO",
         "url": "https://open.spotify.com/album/6uPzRaF7Xz1UhlmiseARUY"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 176538,
       "name": "TRANSFORMANDO - feat. Ximena Sari\u00f1ana",
       "url": "https://open.spotify.com/track/6MUEil7M38zXPrZZI5wzMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AYER",
-        "url": "https://open.spotify.com/album/1x4RIIsvk0j4Yn1URB2HjP"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 235909,
-      "name": "AYER",
-      "url": "https://open.spotify.com/track/35Wj0cnOM2lm3tOlv75xOR"
     },
     {
       "added_at": null,
@@ -875,22 +875,6 @@
       "duration_ms": 229000,
       "name": "Fue Solo un Sue\u00f1o",
       "url": "https://open.spotify.com/track/5M9oyyKsP415AExylVG1Tv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta la Fantas\u00eda",
-        "url": "https://open.spotify.com/album/5nMHmrmgXZoJNTYaJ8uRHl"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 203633,
-      "name": "Hasta la Fantas\u00eda",
-      "url": "https://open.spotify.com/track/6PhefpPJIMgXBdWx2uoo0o"
     },
     {
       "added_at": null,

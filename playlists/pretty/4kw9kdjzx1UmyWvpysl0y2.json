@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124262,
+  "num_followers": 124259,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVMLEG4X1JA/tUtOV1McjAiJV+8n6O",
+  "snapshot_id": "AAAVMV0jZvtcTNFbupKVuOVhT6BWk/Zh",
   "tracks": [
+    {
+      "added_at": "2026-03-04 15:13:25",
+      "album": {
+        "name": "Rockin The Drums",
+        "url": "https://open.spotify.com/album/0xAROySekkV0IaXtg1LiUQ"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
+        },
+        {
+          "name": "MC Hughie Babe",
+          "url": "https://open.spotify.com/artist/7nX9rrmXIm4MtQNgt3moE3"
+        }
+      ],
+      "duration_ms": 133181,
+      "name": "Rockin The Drums",
+      "url": "https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB"
+    },
     {
       "added_at": "2026-03-02 15:37:56",
       "album": {

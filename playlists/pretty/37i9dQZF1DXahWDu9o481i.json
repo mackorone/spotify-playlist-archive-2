@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Baby Keem",
-  "num_followers": 72819,
+  "num_followers": 72892,
   "original_name": "Editors' Picks: Best Songs of February",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
         "url": "https://open.spotify.com/album/2baqPDpNzQ8eu8tGM98lZA"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 154931,
       "name": "Hang Wit a Bad Bitch (feat. Key Glock)",
       "url": "https://open.spotify.com/track/58kIVm8Mb2CS4j6UQa1PE4"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "My Lover",
-        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 196451,
-      "name": "City",
-      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/23YB6arrlcMYHpeMT72TaO"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "My Lover",
+        "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        }
+      ],
+      "duration_ms": 196451,
+      "name": "City",
+      "url": "https://open.spotify.com/track/1nSEAxK0L8z5pJiCnhMMqX"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
+        "name": "rager",
+        "url": "https://open.spotify.com/album/50DZmSygoelBizezheVskd"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 168111,
+      "name": "rager",
+      "url": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
         "name": "Everything Allocated",
         "url": "https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 173266,
       "name": "Everything Allocated",
       "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
-        "name": "rager",
-        "url": "https://open.spotify.com/album/50DZmSygoelBizezheVskd"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 168111,
-      "name": "rager",
-      "url": "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
     },
     {
       "added_at": "2026-03-02 12:43:35",

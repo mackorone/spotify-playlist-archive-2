@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46786,
+  "num_followers": 46789,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAD5d9CqbZ+Rk6JgSIkD5dqb",
+  "snapshot_id": "aaYkgAAAAAAvIgeBY19+zI80KVpsU0xU",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "coming of age",
+      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BUFFET",
         "url": "https://open.spotify.com/album/2rcWSO4RL6mtSA6kGjz6hV"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 110011,
       "name": "walk but in a garden (feat. mxmtoon)",
       "url": "https://open.spotify.com/track/5pqYKSkxyjVU0f3k0tLppv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "coming of age",
-      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "plum blossom",
-        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 167925,
-      "name": "the idea of you",
-      "url": "https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 139386,
       "name": "frown",
       "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "plum blossom",
+        "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 167925,
+      "name": "the idea of you",
+      "url": "https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY"
     },
     {
       "added_at": null,
@@ -511,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7"
       },
       "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 246626,
-      "name": "unspoken words",
-      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
+      "duration_ms": 196301,
+      "name": "Queen",
+      "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
     },
     {
       "added_at": null,
@@ -543,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 246626,
+      "name": "unspoken words",
+      "url": "https://open.spotify.com/track/2YhVxS6lDjg58b8pN80gxT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 209013,
       "name": "in the darkness",
       "url": "https://open.spotify.com/track/4wU7ZkSkK3nMJpzZBRxtv9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/7yXKgxE3jtv4hCDCeR7ZJ7"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196301,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/73x5oFlbHcMhWQ7Wez5z3I"
     },
     {
       "added_at": null,

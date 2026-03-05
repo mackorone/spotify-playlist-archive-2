@@ -1,6 +1,6 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Face Yourself",
-  "num_followers": 286389,
+  "num_followers": 286484,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
@@ -1175,30 +1175,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "DISSOLVING PATTERNS",
-        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
-      },
-      "artists": [
-        {
-          "name": "DeathStroke",
-          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
-        },
-        {
-          "name": "Signs of the Swarm",
-          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
-        },
-        {
-          "name": "Dave Simonich",
-          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "DISSOLVING PATTERNS",
-      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Hatred",
         "url": "https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc"
       },
@@ -1231,18 +1207,26 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "This Comfort Won't Last Here Long",
-        "url": "https://open.spotify.com/album/4npRWIZv6AQYuI0HkPUU4L"
+        "name": "DISSOLVING PATTERNS",
+        "url": "https://open.spotify.com/album/5cmgIc4QwUtEqvXwqbWBuA"
       },
       "artists": [
         {
-          "name": "Left to Suffer",
-          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+          "name": "DeathStroke",
+          "url": "https://open.spotify.com/artist/7wwl379SuQW6sSag3WjnQQ"
+        },
+        {
+          "name": "Signs of the Swarm",
+          "url": "https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS"
+        },
+        {
+          "name": "Dave Simonich",
+          "url": "https://open.spotify.com/artist/2G1B2xH6hfW70iN7IcO7Ln"
         }
       ],
-      "duration_ms": 121388,
-      "name": "This Comfort Won't Last Here Long",
-      "url": "https://open.spotify.com/track/56pPQvmNAYvUX0g4lSq8o6"
+      "duration_ms": 208000,
+      "name": "DISSOLVING PATTERNS",
+      "url": "https://open.spotify.com/track/7mPSKlMBA0tQDkCRbGZz4u"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "This Comfort Won't Last Here Long",
+        "url": "https://open.spotify.com/album/4npRWIZv6AQYuI0HkPUU4L"
+      },
+      "artists": [
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "duration_ms": 121388,
+      "name": "This Comfort Won't Last Here Long",
+      "url": "https://open.spotify.com/track/56pPQvmNAYvUX0g4lSq8o6"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Walk With Me In Hell",
         "url": "https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh"
       },
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "The Fear of God",
-        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
-      },
-      "artists": [
-        {
-          "name": "Convictions",
-          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "The Fear of God",
-      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Born To Lose",
         "url": "https://open.spotify.com/album/4vWFFMOKx27LnPbGP4HeF6"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 192553,
       "name": "Born To Lose",
       "url": "https://open.spotify.com/track/3w7hEGQDeQl6GKPIRT4hGp"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "The Fear of God",
+        "url": "https://open.spotify.com/album/6jAKZs5AgEtvtvYHTjOcyj"
+      },
+      "artists": [
+        {
+          "name": "Convictions",
+          "url": "https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "The Fear of God",
+      "url": "https://open.spotify.com/track/4rY6F8L0xmTVOC3PcHX9Ji"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "The Orphan",
+        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "duration_ms": 383037,
+      "name": "The Orphan",
+      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "FUHAI",
         "url": "https://open.spotify.com/album/1UQu0DlDXdyD5odtAQPx3g"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "The Orphan",
-        "url": "https://open.spotify.com/album/6Ht4AEKGQHhDst26WlWy62"
+        "name": "Of Truth And Sacrifice",
+        "url": "https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36"
       },
       "artists": [
         {
-          "name": "Paleface Swiss",
-          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+          "name": "Heaven Shall Burn",
+          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
         }
       ],
-      "duration_ms": 383037,
-      "name": "The Orphan",
-      "url": "https://open.spotify.com/track/33gtSwgOxlxHLqAQftK3IW"
+      "duration_ms": 298428,
+      "name": "Thoughts and Prayers",
+      "url": "https://open.spotify.com/track/6r3pdm90oqbqKm4laY8a5y"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1599,22 +1615,6 @@
       "duration_ms": 138709,
       "name": "Disappoint Me",
       "url": "https://open.spotify.com/track/4D5UuP96X7cXNzQ1YzqQiF"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "Of Truth And Sacrifice",
-        "url": "https://open.spotify.com/album/75nIP8284NK6VM5mCQCq36"
-      },
-      "artists": [
-        {
-          "name": "Heaven Shall Burn",
-          "url": "https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW"
-        }
-      ],
-      "duration_ms": 298428,
-      "name": "Thoughts and Prayers",
-      "url": "https://open.spotify.com/track/6r3pdm90oqbqKm4laY8a5y"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -1751,6 +1751,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Vermin",
+        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
+      },
+      "artists": [
+        {
+          "name": "Carcosa",
+          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
+        }
+      ],
+      "duration_ms": 218923,
+      "name": "Vermin",
+      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "leech",
         "url": "https://open.spotify.com/album/79cJKwt7LAExXQFPuKS3zj"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 177428,
       "name": "Heaven's Gate",
       "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "Vermin",
-        "url": "https://open.spotify.com/album/6uBbbKmiex1QoL17pvInab"
-      },
-      "artists": [
-        {
-          "name": "Carcosa",
-          "url": "https://open.spotify.com/artist/2bhtSpyMNiPZJlkisy4T9G"
-        }
-      ],
-      "duration_ms": 218923,
-      "name": "Vermin",
-      "url": "https://open.spotify.com/track/4O40KBkWfGWsJHqSD6waqr"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Join Me In Armageddon",
         "url": "https://open.spotify.com/album/5KpZEmnkR80qQNk9NGlNto"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 278160,
       "name": "Join Me In Armageddon",
       "url": "https://open.spotify.com/track/28uVRfGtycdhFROppf4tHA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2203,42 +2203,18 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Betrayer",
-        "url": "https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4"
+        "name": "selfish",
+        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
       },
       "artists": [
         {
-          "name": "Obey The Kraken",
-          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+          "name": "Axty",
+          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
         }
       ],
-      "duration_ms": 209523,
-      "name": "Betrayer",
-      "url": "https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "DEPTHS",
-        "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
-      },
-      "artists": [
-        {
-          "name": "SUICIDE MESSIAH",
-          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
-        },
-        {
-          "name": "ENEMY 906",
-          "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0"
-        },
-        {
-          "name": "Blegh! Label",
-          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
-        }
-      ],
-      "duration_ms": 196431,
-      "name": "DEPTHS",
-      "url": "https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL"
+      "duration_ms": 182704,
+      "name": "selfish",
+      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2263,22 +2239,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "selfish",
-        "url": "https://open.spotify.com/album/7H21DastPGNSAMfFr6GwLP"
-      },
-      "artists": [
-        {
-          "name": "Axty",
-          "url": "https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H"
-        }
-      ],
-      "duration_ms": 182704,
-      "name": "selfish",
-      "url": "https://open.spotify.com/track/74iXMAVaJXb9319uYRUSi4"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Confounder",
         "url": "https://open.spotify.com/album/3OwqYRjxbTvsiaE3JFbtV5"
       },
@@ -2295,6 +2255,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Betrayer",
+        "url": "https://open.spotify.com/album/6LosvZWkHRZw4WlE3mxKt4"
+      },
+      "artists": [
+        {
+          "name": "Obey The Kraken",
+          "url": "https://open.spotify.com/artist/0oITRenFc8yA0lD4K6a3qx"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/2xN9bE4R6JCM19IUqTzsrn"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "The Price of Grace",
         "url": "https://open.spotify.com/album/3kolLEZ68kVuXA1gwO0TJd"
       },
@@ -2307,6 +2283,30 @@
       "duration_ms": 247282,
       "name": "The Price of Grace",
       "url": "https://open.spotify.com/track/7xpjzr5PmHicXZq0R9z5sj"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "DEPTHS",
+        "url": "https://open.spotify.com/album/4Ci4DonjInElqisA3x30q3"
+      },
+      "artists": [
+        {
+          "name": "SUICIDE MESSIAH",
+          "url": "https://open.spotify.com/artist/43d9cIWGbJrzetNX3zi4JO"
+        },
+        {
+          "name": "ENEMY 906",
+          "url": "https://open.spotify.com/artist/7KxQQIZ8rQ6jOM6FcimDp0"
+        },
+        {
+          "name": "Blegh! Label",
+          "url": "https://open.spotify.com/artist/7igNgb0c4WUYyGZm84aaOl"
+        }
+      ],
+      "duration_ms": 196431,
+      "name": "DEPTHS",
+      "url": "https://open.spotify.com/track/77LUHqjZUv9vNLuqcyF2ZL"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Undead Masquerade",
-        "url": "https://open.spotify.com/album/1LYlJF6AFsTIBdKVAkBfm7"
-      },
-      "artists": [
-        {
-          "name": "Enemies Everywhere",
-          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
-        }
-      ],
-      "duration_ms": 257342,
-      "name": "Undead Masquerade",
-      "url": "https://open.spotify.com/track/4BgjjwqCyNlc05n5rpjsfY"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Scars Upon Scars",
         "url": "https://open.spotify.com/album/4U0gc1lWiU9Osb10MzVmYN"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 180500,
       "name": "Scars Upon Scars",
       "url": "https://open.spotify.com/track/4I2nxxg5Rztf5ldzh0Acc7"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+      },
+      "artists": [
+        {
+          "name": "Within Destruction",
+          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "Survival",
+      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2415,18 +2415,18 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Survival",
-        "url": "https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr"
+        "name": "Undead Masquerade",
+        "url": "https://open.spotify.com/album/1LYlJF6AFsTIBdKVAkBfm7"
       },
       "artists": [
         {
-          "name": "Within Destruction",
-          "url": "https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785"
+          "name": "Enemies Everywhere",
+          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
         }
       ],
-      "duration_ms": 199741,
-      "name": "Survival",
-      "url": "https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA"
+      "duration_ms": 257342,
+      "name": "Undead Masquerade",
+      "url": "https://open.spotify.com/track/4BgjjwqCyNlc05n5rpjsfY"
     },
     {
       "added_at": "2026-02-13 05:00:45",
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
-        "name": "Umbra",
-        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
-      },
-      "artists": [
-        {
-          "name": "Artifact",
-          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
-        }
-      ],
-      "duration_ms": 269564,
-      "name": "Atrophy",
-      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
         "name": "Rot With Me",
         "url": "https://open.spotify.com/album/3Su8dMEvhQi0XpOjiesqOz"
       },
@@ -2515,6 +2499,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "Umbra",
+        "url": "https://open.spotify.com/album/1FIRKhOl5ylnTHRHSPnG7E"
+      },
+      "artists": [
+        {
+          "name": "Artifact",
+          "url": "https://open.spotify.com/artist/114EA4vHfmjmssp3RlATTv"
+        }
+      ],
+      "duration_ms": 269564,
+      "name": "Atrophy",
+      "url": "https://open.spotify.com/track/0AOpsarmSxzloZxLrW8ZZp"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Vessel",
         "url": "https://open.spotify.com/album/2KhJHoqOjdylN8vCMyMEqr"
       },
@@ -2539,6 +2539,22 @@
     {
       "added_at": "2026-02-13 05:00:45",
       "album": {
+        "name": "The Cycle Of Violence: Chapter 1",
+        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 158365,
+      "name": "The Cycle Of Violence : Chapter 1",
+      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
+    },
+    {
+      "added_at": "2026-02-13 05:00:45",
+      "album": {
         "name": "Darksign",
         "url": "https://open.spotify.com/album/5x9VPJjSwDYIWvWEc2MVu1"
       },
@@ -2555,22 +2571,6 @@
       "duration_ms": 187500,
       "name": "Darksign",
       "url": "https://open.spotify.com/track/2MjnvcOVBjpTaXBBTuL0t1"
-    },
-    {
-      "added_at": "2026-02-13 05:00:45",
-      "album": {
-        "name": "The Cycle Of Violence: Chapter 1",
-        "url": "https://open.spotify.com/album/54Dzy1tTjwERCoPDRZm3zR"
-      },
-      "artists": [
-        {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
-        }
-      ],
-      "duration_ms": 158365,
-      "name": "The Cycle Of Violence : Chapter 1",
-      "url": "https://open.spotify.com/track/1pWTBX4TPLMxfQGi9E4uYt"
     },
     {
       "added_at": "2026-02-13 05:00:45",

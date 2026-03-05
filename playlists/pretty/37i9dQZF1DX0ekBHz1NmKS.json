@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195672,
+  "num_followers": 195667,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/55lBliVODsfCzFU4eNHACy"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/5e97Z51SUopBbANmwBBkSq"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "BL\u00c5TANDSSN\u00c4CKA",
-        "url": "https://open.spotify.com/album/23KJh81mDeOY4KzpE1ISOT"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "BL\u00c5TANDSSN\u00c4CKA",
-      "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Happy",
         "url": "https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 167407,
       "name": "Break Through The Ceiling",
       "url": "https://open.spotify.com/track/2E3BUkRT95Uy9Saqr7HffY"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "BL\u00c5TANDSSN\u00c4CKA",
+        "url": "https://open.spotify.com/album/23KJh81mDeOY4KzpE1ISOT"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "BL\u00c5TANDSSN\u00c4CKA",
+      "url": "https://open.spotify.com/track/71hki9Cz2BEI3D0fLYtCLc"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "SPELMANSLAG",
-        "url": "https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 121050,
-      "name": "SPELMANSLAG",
-      "url": "https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "WAKE UP",
         "url": "https://open.spotify.com/album/3cnpSI76GaDuSYDuhFEtEy"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 184678,
       "name": "WAKE UP",
       "url": "https://open.spotify.com/track/6ca7VFQyvV38QvWlZauvIj"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "SPELMANSLAG",
+        "url": "https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121050,
+      "name": "SPELMANSLAG",
+      "url": "https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Horses",
-        "url": "https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9"
+        "name": "Do You Hate Me Now",
+        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
       },
       "artists": [
         {
@@ -756,61 +756,9 @@
           "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 182715,
-      "name": "Horses",
-      "url": "https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "isby sessions",
-        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 162703,
-      "name": "inte tillsammans (find you) - isby sessions",
-      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Clap Song",
-        "url": "https://open.spotify.com/album/7LAapowXY9JaobinDNkO20"
-      },
-      "artists": [
-        {
-          "name": "Dolly Style",
-          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
-        }
-      ],
-      "duration_ms": 155204,
-      "name": "Clap Song",
-      "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Clay",
-        "url": "https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        },
-        {
-          "name": "ttoh",
-          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Clay",
-      "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
+      "duration_ms": 207752,
+      "name": "Do You Hate Me Now",
+      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -835,8 +783,60 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Do You Hate Me Now",
-        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
+        "name": "Clap Song",
+        "url": "https://open.spotify.com/album/7LAapowXY9JaobinDNkO20"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 155204,
+      "name": "Clap Song",
+      "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "isby sessions",
+        "url": "https://open.spotify.com/album/5LojPgU3MLaPLbD200sVSx"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 162703,
+      "name": "inte tillsammans (find you) - isby sessions",
+      "url": "https://open.spotify.com/track/0zP0wKwZQOTSu8wnMwSuhH"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Clay",
+        "url": "https://open.spotify.com/album/0e36ZQ2pyvtxVqO07ptESt"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        },
+        {
+          "name": "ttoh",
+          "url": "https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Clay",
+      "url": "https://open.spotify.com/track/5NCuTNOLyeNQ1gZjNGpOix"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Horses",
+        "url": "https://open.spotify.com/album/2J4A0g6M4TwFyPeE3S1SQ9"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 207752,
-      "name": "Do You Hate Me Now",
-      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
+      "duration_ms": 182715,
+      "name": "Horses",
+      "url": "https://open.spotify.com/track/3cfcXcHx15uP9zuZVU9CAO"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
-        "url": "https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN"
-      },
-      "artists": [
-        {
-          "name": "Division 7",
-          "url": "https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP"
-        },
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
-      "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Sweet Emotion",
         "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 157441,
       "name": "Sweet Emotion",
       "url": "https://open.spotify.com/track/5fb0VfB1Nej93xHP81z73E"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+        "url": "https://open.spotify.com/album/5snT9oFQy7RVPfsYxrsdRN"
+      },
+      "artists": [
+        {
+          "name": "Division 7",
+          "url": "https://open.spotify.com/artist/3z6F8NIRs126ddMywopmfP"
+        },
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "Himlen i handen (feat. Thomas Stenstr\u00f6m)",
+      "url": "https://open.spotify.com/track/1m2cKncanBJAAMVO1WkCRQ"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "RANSOMS",
-        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
-      },
-      "artists": [
-        {
-          "name": "Amanda Jenssen",
-          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
-        }
-      ],
-      "duration_ms": 183278,
-      "name": "RANSOMS",
-      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Always You",
         "url": "https://open.spotify.com/album/3KmGtcCu9snknpRPf4llbD"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
+        "name": "RANSOMS",
+        "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
+      },
+      "artists": [
+        {
+          "name": "Amanda Jenssen",
+          "url": "https://open.spotify.com/artist/5abrQugiw9ysKSuemQW7K9"
+        }
+      ],
+      "duration_ms": 183278,
+      "name": "RANSOMS",
+      "url": "https://open.spotify.com/track/1yamHSXDy6ECyHqESGbrQN"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ"
       },
@@ -991,22 +991,6 @@
       "duration_ms": 161450,
       "name": "Dumb",
       "url": "https://open.spotify.com/track/4T4TEH8gefIzE81kDop98h"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Prayer",
-        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 326068,
-      "name": "Prayer",
-      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
+        "name": "Prayer",
+        "url": "https://open.spotify.com/album/4DkMUoCLqAKVOBDEoItt4Q"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 326068,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0Ckx0xDsZIstBX0YMamLc5"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
         "name": "okej att d\u00f6 (igen) [isby sessions]",
         "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 174021,
       "name": "okej att d\u00f6 (igen) - isby sessions",
       "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Svartsjuk (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "Svartsjuk - Spotify Singles",
-      "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1095,22 +1079,18 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Can't Let Him Win",
-        "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
+        "name": "Svartsjuk (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6QEHew6RMgoE4MHTCYPXrV"
       },
       "artists": [
         {
-          "name": "Maria Mena",
-          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
-        },
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr"
         }
       ],
-      "duration_ms": 185628,
-      "name": "Can't Let Him Win",
-      "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
+      "duration_ms": 165676,
+      "name": "Svartsjuk - Spotify Singles",
+      "url": "https://open.spotify.com/track/7mdmE3IpTHpYPv2gheaadm"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1131,22 +1111,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Vintersaga (feat. Erik Lundin)",
-        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
+        "name": "Can't Let Him Win",
+        "url": "https://open.spotify.com/album/1MTC1u6CHauWISb9Hxz2do"
       },
       "artists": [
         {
-          "name": "Deportees",
-          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
         },
         {
-          "name": "Erik Lundin",
-          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
         }
       ],
-      "duration_ms": 179000,
-      "name": "Vintersaga (feat. Erik Lundin)",
-      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
+      "duration_ms": 185628,
+      "name": "Can't Let Him Win",
+      "url": "https://open.spotify.com/track/5S0DFXk6kIDc7sGk5pFdCW"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1163,6 +1143,26 @@
       "duration_ms": 209533,
       "name": "V\u00e4xtv\u00e4rk",
       "url": "https://open.spotify.com/track/71YshPURU1bulv8OuF9d94"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Vintersaga (feat. Erik Lundin)",
+        "url": "https://open.spotify.com/album/2AUyGofzojnDNVclq5IaM8"
+      },
+      "artists": [
+        {
+          "name": "Deportees",
+          "url": "https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4"
+        },
+        {
+          "name": "Erik Lundin",
+          "url": "https://open.spotify.com/artist/0dCSPVQ30JS4cRaCTtbEmp"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Vintersaga (feat. Erik Lundin)",
+      "url": "https://open.spotify.com/track/10UCosnyAKb33FIpMLCK20"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
+        "name": "Du fick aldrig veta",
+        "url": "https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry"
+      },
+      "artists": [
+        {
+          "name": "Amani Smith",
+          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+        }
+      ],
+      "duration_ms": 158713,
+      "name": "Du fick aldrig veta",
+      "url": "https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
         "name": "Hack i h\u00e4l",
         "url": "https://open.spotify.com/album/3ljQtz5B7PtcWF0qZlL2Dk"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Du fick aldrig veta",
-        "url": "https://open.spotify.com/album/49h6aDYiEUdoDeug3kpnry"
+        "name": "I'M DEAD",
+        "url": "https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy"
       },
       "artists": [
         {
-          "name": "Amani Smith",
-          "url": "https://open.spotify.com/artist/05ibPxjpnmCVAq5z2kOe9M"
+          "name": "Elise Elvira",
+          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
         }
       ],
-      "duration_ms": 158713,
-      "name": "Du fick aldrig veta",
-      "url": "https://open.spotify.com/track/2DL4iJs1lotbvsEtQUUtuB"
+      "duration_ms": 151058,
+      "name": "I'M DEAD",
+      "url": "https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1447,18 +1463,38 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "I'M DEAD",
-        "url": "https://open.spotify.com/album/1WfNYIhwLIanOOgQwciFQy"
+        "name": "T\u00c5RAR",
+        "url": "https://open.spotify.com/album/47Q9HTJqy6wBsl7fS6J26t"
       },
       "artists": [
         {
-          "name": "Elise Elvira",
-          "url": "https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU"
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
         }
       ],
-      "duration_ms": 151058,
-      "name": "I'M DEAD",
-      "url": "https://open.spotify.com/track/7z8n4qHDR43v3J6lP3DhSr"
+      "duration_ms": 141686,
+      "name": "T\u00c5RAR",
+      "url": "https://open.spotify.com/track/1bEaWgxOaYFUzDT9iSXMdv"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Fight!",
+        "url": "https://open.spotify.com/album/2vfZJCastJk5nbyLvvGoJO"
+      },
+      "artists": [
+        {
+          "name": "Herman Silow",
+          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
+        },
+        {
+          "name": "HOFFMAESTRO",
+          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
+        }
+      ],
+      "duration_ms": 127142,
+      "name": "Fight!",
+      "url": "https://open.spotify.com/track/2EXsWp0rm1RVFVb4FhMTYy"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1531,42 +1567,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "T\u00c5RAR",
-        "url": "https://open.spotify.com/album/47Q9HTJqy6wBsl7fS6J26t"
-      },
-      "artists": [
-        {
-          "name": "Reyn",
-          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
-        }
-      ],
-      "duration_ms": 141686,
-      "name": "T\u00c5RAR",
-      "url": "https://open.spotify.com/track/1bEaWgxOaYFUzDT9iSXMdv"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Fight!",
-        "url": "https://open.spotify.com/album/2vfZJCastJk5nbyLvvGoJO"
-      },
-      "artists": [
-        {
-          "name": "Herman Silow",
-          "url": "https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO"
-        },
-        {
-          "name": "HOFFMAESTRO",
-          "url": "https://open.spotify.com/artist/6hL8IlB7tKuRiqChLyEJGr"
-        }
-      ],
-      "duration_ms": 127142,
-      "name": "Fight!",
-      "url": "https://open.spotify.com/track/2EXsWp0rm1RVFVb4FhMTYy"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Jag har f\u00f6rlorat",
         "url": "https://open.spotify.com/album/52AFXBDfUYZZ9fm7NnUahq"
       },
@@ -1579,38 +1579,6 @@
       "duration_ms": 176394,
       "name": "Jag har f\u00f6rlorat",
       "url": "https://open.spotify.com/track/3CGAR7UtTiFLo4vAe769OV"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "Forevers",
-        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
-      },
-      "artists": [
-        {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
-        }
-      ],
-      "duration_ms": 229770,
-      "name": "Inner City Ghosts",
-      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
-        "name": "VA INTE DUM",
-        "url": "https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo"
-      },
-      "artists": [
-        {
-          "name": "ABEL",
-          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
-        }
-      ],
-      "duration_ms": 190843,
-      "name": "VA INTE DUM",
-      "url": "https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1631,6 +1599,22 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+      },
+      "artists": [
+        {
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+        }
+      ],
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
         "name": "Tro p\u00e5 en \u00e4ngel",
         "url": "https://open.spotify.com/album/42Xd3B8pJuseAuxoEeszGH"
       },
@@ -1643,6 +1627,38 @@
       "duration_ms": 160941,
       "name": "Tro p\u00e5 en \u00e4ngel",
       "url": "https://open.spotify.com/track/4c3o7jupG81TySJrmxsZmR"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "VA INTE DUM",
+        "url": "https://open.spotify.com/album/5ZtelQnle9AlgEz22V53bo"
+      },
+      "artists": [
+        {
+          "name": "ABEL",
+          "url": "https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E"
+        }
+      ],
+      "duration_ms": 190843,
+      "name": "VA INTE DUM",
+      "url": "https://open.spotify.com/track/4yyRBOlD1qXPUYBasj7QK3"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Blodsband",
+        "url": "https://open.spotify.com/album/2X3hFZyFuXZ0jcjfz1NtTD"
+      },
+      "artists": [
+        {
+          "name": "Svart Rid\u00e5",
+          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
+        }
+      ],
+      "duration_ms": 233453,
+      "name": "Blodsband",
+      "url": "https://open.spotify.com/track/62FpUQsTdZmrKuEVXyUmoP"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1679,22 +1695,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Blodsband",
-        "url": "https://open.spotify.com/album/2X3hFZyFuXZ0jcjfz1NtTD"
-      },
-      "artists": [
-        {
-          "name": "Svart Rid\u00e5",
-          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
-        }
-      ],
-      "duration_ms": 233453,
-      "name": "Blodsband",
-      "url": "https://open.spotify.com/track/62FpUQsTdZmrKuEVXyUmoP"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/4fnTauHeXz5Ixwkeio9r2j"
       },
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
-      },
-      "artists": [
-        {
-          "name": "Bellvie",
-          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Time Machine",
         "url": "https://open.spotify.com/album/1kCx0AeVglLalUMl16ad97"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 173043,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/5LTfGYb6n4oHSgrAgQAYGJ"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92"
+      },
+      "artists": [
+        {
+          "name": "Bellvie",
+          "url": "https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f"
     },
     {
       "added_at": "2026-02-27 09:58:07",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2026-02-27 09:58:07",
       "album": {
-        "name": "Modigare",
-        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 233614,
-      "name": "Modigare",
-      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
-    },
-    {
-      "added_at": "2026-02-27 09:58:07",
-      "album": {
         "name": "Blod",
         "url": "https://open.spotify.com/album/30FsiBg4znluk97LOPeDhe"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 175687,
       "name": "Blod",
       "url": "https://open.spotify.com/track/7CoZ6nUpEon9JuvGGEKm3z"
+    },
+    {
+      "added_at": "2026-02-27 09:58:07",
+      "album": {
+        "name": "Modigare",
+        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
+      },
+      "artists": [
+        {
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
+        }
+      ],
+      "duration_ms": 233614,
+      "name": "Modigare",
+      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
     }
   ],
   "unique_name": "Made in Sweden",

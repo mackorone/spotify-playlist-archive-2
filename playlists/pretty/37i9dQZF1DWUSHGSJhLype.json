@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: DJ TOPO, Yuri Redicopa, Ryuchi",
-  "num_followers": 761174,
+  "num_followers": 761154,
   "original_name": "Puro Suco do Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "Eu T\u00f4 Querendo De Novo (Ao Vivo)",
         "url": "https://open.spotify.com/album/3FUf6QnemeXXl7vITVDqf5"
       },
@@ -639,22 +655,6 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
         "name": "Morena Jambo / Miau (Ao Vivo)",
         "url": "https://open.spotify.com/album/6qxBaMq4PFxTAeesCmUngN"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 158410,
       "name": "Morena Jambo - Ao Vivo",
       "url": "https://open.spotify.com/track/5RJubPh66tvUWCBoJ1GwEY"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Vampirinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Vampirinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -715,22 +699,18 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
-        "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
+        "name": "Vampirinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
       },
       "artists": [
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 157557,
-      "name": "\u00daltima Noite",
-      "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
+      "duration_ms": 191439,
+      "name": "Vampirinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -751,6 +731,26 @@
       "duration_ms": 243129,
       "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
+        "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "\u00daltima Noite",
+      "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Baile do VJ",
+        "url": "https://open.spotify.com/album/7dHEpFCs7xjcImlBEwdPIU"
+      },
+      "artists": [
+        {
+          "name": "Eduardinho dos Teclados",
+          "url": "https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 148905,
+      "name": "Baile do VJ",
+      "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -1279,30 +1303,6 @@
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Baile do VJ",
-        "url": "https://open.spotify.com/album/7dHEpFCs7xjcImlBEwdPIU"
-      },
-      "artists": [
-        {
-          "name": "Eduardinho dos Teclados",
-          "url": "https://open.spotify.com/artist/1quJu43mKzxzA3WxItCYvx"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 148905,
-      "name": "Baile do VJ",
-      "url": "https://open.spotify.com/track/6EmbpFK7SJaZCgluPeQ50X"
     },
     {
       "added_at": "2026-02-27 03:00:06",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2026-02-27 03:00:06",
       "album": {
+        "name": "Joga A Tabaca",
+        "url": "https://open.spotify.com/album/2JTwBPNJkuqvn7EtBizwF6"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        }
+      ],
+      "duration_ms": 125373,
+      "name": "Joga A Tabaca",
+      "url": "https://open.spotify.com/track/4p6S4CVlVQDNDdzdHM3VN3"
+    },
+    {
+      "added_at": "2026-02-27 03:00:06",
+      "album": {
         "name": "Nunca Mais",
         "url": "https://open.spotify.com/album/3uIKrxKeLH3JGgQE8QT87Z"
       },
@@ -1415,30 +1439,6 @@
       "duration_ms": 175621,
       "name": "Pared\u00f5es",
       "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
-    },
-    {
-      "added_at": "2026-02-27 03:00:06",
-      "album": {
-        "name": "Joga A Tabaca",
-        "url": "https://open.spotify.com/album/2JTwBPNJkuqvn7EtBizwF6"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        }
-      ],
-      "duration_ms": 125373,
-      "name": "Joga A Tabaca",
-      "url": "https://open.spotify.com/track/4p6S4CVlVQDNDdzdHM3VN3"
     },
     {
       "added_at": "2026-02-27 03:00:06",

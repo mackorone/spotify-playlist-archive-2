@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 773104,
+  "num_followers": 773353,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABxVgFi7o2L3hgSmZjhaKxZ",
+  "snapshot_id": "aaYkgAAAAAD1vdoxB9G4okX2gB/wtZ3V",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Trenza",
-        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 203760,
-      "name": "Que S\u00ed",
-      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tornasol",
         "url": "https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 256540,
       "name": "Vuelve por Favor",
       "url": "https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Trenza",
+        "url": "https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 203760,
+      "name": "Que S\u00ed",
+      "url": "https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro"
     },
     {
       "added_at": null,

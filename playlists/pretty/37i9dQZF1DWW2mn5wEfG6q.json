@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 94368,
+  "num_followers": 94390,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Trouble Will Find Me",
-        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "I Need My Girl",
-      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Cupid Deluxe",
         "url": "https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 261360,
       "name": "You're Not Good Enough",
       "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Trouble Will Find Me",
+        "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "I Need My Girl",
+      "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -563,18 +563,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
+        "name": "Comedown Machine",
+        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 228293,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y"
+      "duration_ms": 242293,
+      "name": "One Way Trigger",
+      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -611,18 +611,18 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Comedown Machine",
-        "url": "https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV"
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/5nJ9B1KiydXoYWAcyqlG76"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 242293,
-      "name": "One Way Trigger",
-      "url": "https://open.spotify.com/track/5GKVcvTgnFYtfh25qKQtRg"
+      "duration_ms": 228293,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/5dyfHe3tR7wyzfuNo0uu3Y"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        }
-      ],
-      "duration_ms": 223186,
-      "name": "Kangaroo Court",
-      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/7axlBk3h2bJOZIIIXIQXs8"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 242773,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/7a6D9wPtTDFZs8gvVY7b6t"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
+      },
+      "artists": [
+        {
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
+        }
+      ],
+      "duration_ms": 223186,
+      "name": "Kangaroo Court",
+      "url": "https://open.spotify.com/track/1leXuBiWQMgbvOIIedqbLB"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Bankrupt!",
-        "url": "https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "Entertainment",
-      "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "The Double EP: A Sea of Split Peas",
         "url": "https://open.spotify.com/album/5lUc4iyCvw8DxpZa4Fryej"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 312226,
       "name": "Avant Gardener",
       "url": "https://open.spotify.com/track/3LueS3mbuB1yaJNN0Ale6U"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "Bankrupt!",
+        "url": "https://open.spotify.com/album/3T66rLQ5rVheco76XLrlTY"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "Entertainment",
+      "url": "https://open.spotify.com/track/3KRJUa3Z1Zfupr7Zs6JByx"
     },
     {
       "added_at": "2025-03-14 13:17:39",

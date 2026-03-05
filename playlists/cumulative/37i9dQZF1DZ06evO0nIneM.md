@@ -4,13 +4,14 @@
 
 > This is BLØF\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 46 min
+56 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aan De Kust](https://open.spotify.com/track/7yVyTfEMnR4p1LcAbo2uiF) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Naakt Onder De Hemel](https://open.spotify.com/album/01QYbTcPYUIw0kNkFRcWiq) | 3:43 | 2025-07-20 |  |
 | [Aanzoek Zonder Ringen](https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [KODO](https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 4:43 | 2025-07-20 |  |
-| [Alles Is Liefde](https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:32 | 2025-07-20 |  |
+| [Alles Is Liefde](https://open.spotify.com/track/0cKngKox9JinYgGOSNIT3A) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Is Liefde](https://open.spotify.com/album/00t8725Mi7kTI3vspkGvfQ) | 3:29 | 2026-03-05 |  |
+| [Alles Is Liefde](https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:32 | 2025-07-20 | 2026-03-05 |
 | [Beter](https://open.spotify.com/track/2r4z1ssYMrH8dlEyLXmpNU) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 3:36 | 2025-07-20 |  |
 | [Bitterzoet](https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Bitterzoet](https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB) | 3:47 | 2025-07-20 |  |
 | [Blauwe Ruis](https://open.spotify.com/track/65hR9p90SF1JUv4VCRnatj) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:27 | 2025-07-20 |  |
@@ -24,7 +25,8 @@
 | [Hemingway](https://open.spotify.com/track/783dXZcVk8s888KgelZpWi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Umoja](https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt) | 3:41 | 2025-07-20 |  |
 | [Hier](https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:08 | 2025-07-20 |  |
 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 | 2025-07-20 |  |
-| [Holiday In Spain](https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:54 | 2025-07-20 |  |
+| [Holiday In Spain](https://open.spotify.com/track/5OaQpcK7S28EitZlVQbWBQ) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/5JhhV6NYORFNFjJ7Xy270v) | 3:52 | 2026-03-05 |  |
+| [Holiday In Spain](https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [3Ø \- We Doen Wat We Kunnen](https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp) | 3:54 | 2025-07-20 | 2026-03-05 |
 | [Holiday In Spain \(feat\. Counting Crows\) \- Live op Concert at SEA 2015](https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Live op Concert at SEA 2015](https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI) | 4:42 | 2025-07-20 |  |
 | [Horizon](https://open.spotify.com/track/5R3wMUOI4P8H3s5bOsfTmS) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Horizon](https://open.spotify.com/album/78LoRz6zeaaeKhkbkkMe61) | 3:30 | 2025-07-20 |  |
 | [Hou Vol Hou Vast](https://open.spotify.com/track/4oUOerXJ5liI48Swoegk0d) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Alles Blijft Anders](https://open.spotify.com/album/5xuqk16tOPkwrru4oiwRCC) | 4:54 | 2025-07-20 |  |

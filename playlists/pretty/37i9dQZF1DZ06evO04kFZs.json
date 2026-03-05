@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 495592,
+  "num_followers": 495616,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACtlq74gvGYgnw9VLuXrlCp",
+  "snapshot_id": "aaYkgAAAAAAsza1HjG+6pd9E01J0NSk/",
   "tracks": [
     {
       "added_at": null,
@@ -79,26 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "JACKBOYS",
-        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
       "artists": [
-        {
-          "name": "JACKBOYS",
-          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
-        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 181144,
-      "name": "GATTI",
-      "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
+      "duration_ms": 190534,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5uAqN06nSD4MB2RlAsWwqc"
     },
     {
       "added_at": null,
@@ -123,22 +119,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+        "name": "JACKBOYS",
+        "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
       "artists": [
+        {
+          "name": "JACKBOYS",
+          "url": "https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq"
+        },
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 190534,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5uAqN06nSD4MB2RlAsWwqc"
+      "duration_ms": 181144,
+      "name": "GATTI",
+      "url": "https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
       "artists": [
         {
@@ -168,13 +168,17 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Woo Baby",
-      "url": "https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR"
+      "duration_ms": 212658,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
     },
     {
       "added_at": null,
@@ -203,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
       "artists": [
         {
@@ -212,17 +216,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 212658,
-      "name": "Paranoia (feat. Gunna & Young Thug)",
-      "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+      "duration_ms": 156000,
+      "name": "Woo Baby",
+      "url": "https://open.spotify.com/track/28s2lmL37j0SrdD07oRAuR"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 108160,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF"
+      "duration_ms": 108131,
+      "name": "Imperfections (Interlude)",
+      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU"
+        "name": "Meet The Woo 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2SbCbfsxJMQz8ygrfNiA7H"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 108131,
-      "name": "Imperfections (Interlude)",
-      "url": "https://open.spotify.com/track/5MfVY0rINB7xdQDrg8buWr"
+      "duration_ms": 108160,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/2r5gtqo25eRhk4bCwUMbDF"
     },
     {
       "added_at": null,
@@ -808,17 +808,21 @@
       "added_at": null,
       "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Be Clearr",
-      "url": "https://open.spotify.com/track/2SojLecJPW9zlNiwzDWmPv"
+      "duration_ms": 155277,
+      "name": "She Feelin Nice",
+      "url": "https://open.spotify.com/track/2xK83yJoJob1HLJ6brDtef"
     },
     {
       "added_at": null,

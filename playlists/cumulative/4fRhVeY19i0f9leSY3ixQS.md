@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-1,007 songs - 2 day 9 hr 18 min
+1,013 songs - 2 day 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Bllsht](https://open.spotify.com/track/1mPvLR9n3yS9C6rM1UyhM5) | [Banquise](https://open.spotify.com/artist/6mhN65o4OWOpxoSni648WG) | [Bllsht](https://open.spotify.com/album/6mZooqVyOx7Tp7dMyvr2sl) | 3:34 | 2025-12-23 | 2026-01-24 |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-12-17 | 2026-01-06 |
 | [Bloodspiller](https://open.spotify.com/track/4G0oPxRqD7ewrABOP4qA2r) | [Furi Helium](https://open.spotify.com/artist/21jqidbTWhtzu7Z1fwUpkX) | [Bloodspiller](https://open.spotify.com/album/4vqEBR15r5cdU1WJfPrpOD) | 2:43 | 2026-01-06 | 2026-02-07 |
+| [BLOOM](https://open.spotify.com/track/5UL1zKgQS6mCR849t6w2qM) | [Dissolve US](https://open.spotify.com/artist/0kLUBXOguFVq1IO9GMNpWI), [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [BLOOM](https://open.spotify.com/album/6XbG3PkbCZZAF2ZtrWNjfV) | 3:20 | 2026-03-04 |  |
 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-11-24 | 2026-01-06 |
 | [blur](https://open.spotify.com/track/6Nj8ZBw51ZPFrULEHq3AYH) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [blur](https://open.spotify.com/album/4hVWlKRMHvpHFnwaWKViZG) | 3:12 | 2025-12-29 | 2026-01-22 |
 | [Blurred Lines](https://open.spotify.com/track/7sXfJTOznJbICGUsKeMnjs) | [Red40](https://open.spotify.com/artist/2Etd7doNa5DY3N2TBNuqFV) | [Blurred Lines](https://open.spotify.com/album/0q8HHYUschGNtFK7iOTbMZ) | 3:05 | 2025-12-11 | 2026-01-06 |
@@ -233,6 +234,7 @@
 | [Disclaimer\*](https://open.spotify.com/track/1WNXukif2Uo84QFKkYe1or) | [FLAWERS](https://open.spotify.com/artist/5VnP0wjcPHZEburwioHNCv) | [Disclaimer\*](https://open.spotify.com/album/6Edik332rPxEVmkk0GPNEl) | 1:06 | 2026-02-16 |  |
 | [Disgrace](https://open.spotify.com/track/5x8SJh0vyRhPbwJaghlv7M) | [Neurasthenic](https://open.spotify.com/artist/0ybvYZgxRQWGifh9Fi3Ogr), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC), [North Pope](https://open.spotify.com/artist/2KRTFJ3tkGjQLYl5eS8obs) | [Disgrace](https://open.spotify.com/album/2qSaKUub8VjDdw69fyfgSu) | 2:19 | 2026-02-24 |  |
 | [Disgust](https://open.spotify.com/track/7B73WiWIZyPILcJbO1m81e) | [Miniluv](https://open.spotify.com/artist/4OtryTb8CSnDX2asGlYFA1) | [Disgust](https://open.spotify.com/album/5zgNYYADAR4oGmBIwdDVjD) | 2:52 | 2025-12-04 | 2025-12-24 |
+| [Disinhibition](https://open.spotify.com/track/591PDhW8dDp3P9HutTyWm5) | [What Awaits Us](https://open.spotify.com/artist/6LwPSi3RtIwbgcbEt7FYHk) | [Disinhibition](https://open.spotify.com/album/4kAK5H247U6hbLyKrQo2pM) | 2:59 | 2026-03-04 |  |
 | [Dissonanze](https://open.spotify.com/track/4it9AInqERIyIVB2xAyGeU) | [Evan Park](https://open.spotify.com/artist/0Uy6ep5p6hkzzPs1SuucDU) | [Dissonanze](https://open.spotify.com/album/2UHDgfzcwmSw24WKsJI1e8) | 2:16 | 2025-12-15 | 2026-01-06 |
 | [Do You Hear The People Scream?](https://open.spotify.com/track/5HiSejXfZK5xBQEDwL43l4) | [Prison City Brigade](https://open.spotify.com/artist/7maNFIhSlNcIFRTseqrPbh) | [Do You Hear The People Scream?](https://open.spotify.com/album/5yuzlfiWDkPgNOMtsuWxv6) | 3:15 | 2026-02-07 | 2026-02-27 |
 | [Doc](https://open.spotify.com/track/0XqRUwiwEwuset4qeNCkGZ) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Immortal](https://open.spotify.com/album/1Bww8qOOKesIVb0V0njtwe) | 4:13 | 2025-12-28 | 2026-01-22 |
@@ -267,6 +269,7 @@
 | [eden](https://open.spotify.com/track/3Pwpo5dOtreAEuGyTe3TSL) | [Soul Nest](https://open.spotify.com/artist/2zx41XZ2O2HFprarro4d8z) | [eden](https://open.spotify.com/album/6b2qqZj53HbBjhIx9ASTc3) | 3:54 | 2026-02-26 |  |
 | [ego +](https://open.spotify.com/track/2NvZTOntxXFORfVK2eZqaF) | [marȼh](https://open.spotify.com/artist/6Vrp8TrWbYOIW7ErVD3mYf) | [ego +](https://open.spotify.com/album/6HB1GhSOGUp852lQCfnwFw) | 1:40 | 2026-01-18 | 2026-02-06 |
 | [Eighty\-Six](https://open.spotify.com/track/5qx78NNc9QLN0PeWXgveUf) | [Lake Point Drive](https://open.spotify.com/artist/0gcWzPRyPbChJiJ4kTWivn) | [Eighty\-Six](https://open.spotify.com/album/1iJgSclWGAiQWpwCZvlcrG) | 3:43 | 2025-11-30 | 2025-12-24 |
+| [Electric Venom](https://open.spotify.com/track/5SlcqXaD8zgLcpLQF8iHbA) | [vE3nOmM](https://open.spotify.com/artist/3BA9T2JOjMbAgFk312F5Ep) | [Electric Venom](https://open.spotify.com/album/4D3uv2VBZd1Y3E8cWDx7HD) | 2:49 | 2026-03-04 |  |
 | [Elons Neuragazm](https://open.spotify.com/track/3vuNKGnwDSYiIJNYByIaGO) | [Simulation Defect](https://open.spotify.com/artist/4qfVotME69mQnnQC6yrnYK), [Tom Hey](https://open.spotify.com/artist/0pE8OHVLedNBkAIjFdx3lS) | [Colonize Mars](https://open.spotify.com/album/0mGkAzYFpSo0HKxxON0wqS) | 2:34 | 2025-12-16 | 2026-01-06 |
 | [Elvira](https://open.spotify.com/track/13g6NsqL8uCVFX6lr3P24R) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:55 | 2025-09-16 |  |
 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 | 2025-10-24 | 2026-01-15 |
@@ -380,6 +383,7 @@
 | [Held Down](https://open.spotify.com/track/26cgkvwuIs2GwNxrMuyA0h) | [Bailout](https://open.spotify.com/artist/0zMC0Fju9Z3pdVfssAjpNa) | [Surface Tension](https://open.spotify.com/album/5OwVt7UNBROLRM51st1mzl) | 1:40 | 2026-02-12 | 2026-03-03 |
 | [Hell in Me](https://open.spotify.com/track/6l2vpMomP0oYkyrgru539R) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Hell in Me](https://open.spotify.com/album/5CAmQ0mNQ4y01QF3AK7hbg) | 4:31 | 2025-11-27 | 2025-12-24 |
 | [Hell's Gates](https://open.spotify.com/track/6N7R6eo0Xnu0NQZl7m0hRp) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [Hell's Gates](https://open.spotify.com/album/6nsIvzkcT6SMRjUwOEcOYS) | 4:23 | 2026-02-14 |  |
+| [Hellfire](https://open.spotify.com/track/1oRFsvliJI0aZQeyCrBKwF) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [Hellfire](https://open.spotify.com/album/5rzOXIrIawdZM8zcNdpF6t) | 3:27 | 2026-03-04 |  |
 | [HELLO DENIAL](https://open.spotify.com/track/2pUc5A4RRllfzi3vqzH5gl) | [Quentin](https://open.spotify.com/artist/4GpI0u4lFwCzzYnwNlglbi) | [HELLO DENIAL](https://open.spotify.com/album/6F5VM9VZj7ZEcYSMV3tRNd) | 3:24 | 2026-02-20 |  |
 | [Hello You](https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:14 | 2025-08-03 | 2026-02-13 |
 | [Hello, Beautiful](https://open.spotify.com/track/231rZMis3ipEk8M7UPFPYd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 5:45 | 2025-08-03 |  |
@@ -395,7 +399,7 @@
 | [Hollow](https://open.spotify.com/track/0uhGLwuCMClw1JXDj6HXTb) | [Sunkeeper](https://open.spotify.com/artist/7fzEHUb9cy0LIwlWXMZfUY) | [Hollow](https://open.spotify.com/album/0RVddq3xxMv7nyMPX7sMiP) | 4:12 | 2026-01-14 | 2026-02-03 |
 | [Hollow Sun](https://open.spotify.com/track/7pR4pIdtqjey4YdfGzQMZx) | [Tyson Dickert](https://open.spotify.com/artist/7DzMrRXO3rUkDzR32YaB2p) | [Hollow Sun](https://open.spotify.com/album/1LnVYOaVOONBK3Cl8wCs5n) | 5:06 | 2026-01-26 | 2026-02-24 |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-12-23 | 2026-01-22 |
-| [Hotel](https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz) | [Parched](https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN) | [Hotel](https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv) | 3:05 | 2026-02-02 |  |
+| [Hotel](https://open.spotify.com/track/3pXKQhZErohG9N1fFVMZcz) | [Parched](https://open.spotify.com/artist/6bruCOXoELcqPEXSll0bBN) | [Hotel](https://open.spotify.com/album/23kUkSGjqtrFhTfTj2reSv) | 3:05 | 2026-02-02 | 2026-03-05 |
 | [Hunger of Hadar](https://open.spotify.com/track/7udj4TuaQohHpmu6hmtVuw) | [Crush](https://open.spotify.com/artist/5yvFvBNNtlQLLiV6QZOreL) | [Hunger of Hadar](https://open.spotify.com/album/1Mw1I3H1UWrSD2N7eL9tBV) | 4:40 | 2026-02-16 |  |
 | [Hungry For The Prize \- Edit](https://open.spotify.com/track/1CH36VOisDb0vdW3Q8XBxI) | [KEELEY](https://open.spotify.com/artist/5H98N76pS5eRu8bWuh2ric) | [Hungry For The Prize \(Edit\)](https://open.spotify.com/album/5C7g4RQ8nKPHu3tFZBB86G) | 4:08 | 2026-01-24 | 2026-02-12 |
 | [I Am The Reckoning](https://open.spotify.com/track/5rl2DsX3ILgGuy9i4dZ4vn) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [I Am The Reckoning](https://open.spotify.com/album/6RgkFI8kvfCWuWeRifJLEP) | 3:49 | 2025-12-15 | 2026-01-06 |
@@ -739,6 +743,7 @@
 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 | 2025-12-01 | 2025-12-24 |
 | [Shadows Devour](https://open.spotify.com/track/2hK8q1XtpUgJg5oNWR1zlx) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Shadows Devour](https://open.spotify.com/album/5GrEGsmB0efkNI478LlFnt) | 4:04 | 2025-11-11 | 2025-12-10 |
 | [Shallow End](https://open.spotify.com/track/6DJChk81zSNNKBV2gC9KPL) | [Ghost Tail](https://open.spotify.com/artist/46bTT0AboCJSfadZkaiQQm) | [Shallow End](https://open.spotify.com/album/7vEMzH71vz89t2AGKD7NLE) | 3:28 | 2026-01-05 | 2026-01-29 |
+| [Shame](https://open.spotify.com/track/1tbnU7U1hQqdVsC0o3L9Gr) | [HAPPY GENERATION](https://open.spotify.com/artist/4cVghRRnmwq10vWKhENbXK) | [Shame](https://open.spotify.com/album/4bb8pxp5PmMAJ02pRhF0cg) | 2:53 | 2026-03-04 |  |
 | [Shape Shifter](https://open.spotify.com/track/7sD50e8OpxIo2p66mIyucQ) | [Mollys Habit](https://open.spotify.com/artist/1bNI3vfpqAhqPgDmR0o8Il) | [Smoke 'em if you got 'em](https://open.spotify.com/album/2ifW126RK47gUKvs3ZD3Ff) | 3:36 | 2025-09-16 |  |
 | [Shatter & Bloom](https://open.spotify.com/track/3Y4OsCAxXW7STwfuAZEgEL) | [STELLVRIS](https://open.spotify.com/artist/3n9SWHa9CmQldmLrD9zfll) | [Shatter & Bloom](https://open.spotify.com/album/5jyYIGqJnb72ZavsFA87Gi) | 3:18 | 2026-02-25 |  |
 | [shattered pieces](https://open.spotify.com/track/5Yo5uIz5sTxR4LlhrnH2Lu) | [Gio](https://open.spotify.com/artist/3pZdYYAxDUV9p5ACtDk6f7) | [shattered pieces](https://open.spotify.com/album/0qN3LXo0aUubbAiGjeusgF) | 3:11 | 2026-01-16 | 2026-02-17 |
@@ -920,6 +925,7 @@
 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 | 2025-12-11 | 2026-01-06 |
 | [useless](https://open.spotify.com/track/1z7CZwKoET1NjbNdI6czPb) | [headcanons](https://open.spotify.com/artist/6prpeu1xInORPMSjyQj9j4) | [crushed aspirations](https://open.spotify.com/album/6VHTtXrRcoOteu0b0qBiKU) | 3:32 | 2026-01-09 | 2026-01-29 |
 | [Useless](https://open.spotify.com/track/10KZ7d58qC7JdRIyfTEbyy) | [Red Gordon](https://open.spotify.com/artist/6WbMDHG7ykwKbtD2iIIwp2) | [Nothing Less Than Everything](https://open.spotify.com/album/24a8fEc4lRA1dYaWIQyplk) | 3:48 | 2026-02-25 |  |
+| [VALIDATION](https://open.spotify.com/track/1Z3STtnRmKQ910xzDjMIZY) | [PepeTheMenace](https://open.spotify.com/artist/44BruGvujao9q3HWgJhKuQ) | [VALIDATION](https://open.spotify.com/album/6DVlGk6n7Rn8fX8drjMpRr) | 2:35 | 2026-03-04 |  |
 | [Varmint](https://open.spotify.com/track/4P0RSEtEaYlQo8Max87Ty2) | [Asian Cowboy](https://open.spotify.com/artist/4roPjujkVe5prnArhxLJ60) | [Varmint](https://open.spotify.com/album/1MZPMKzoNzHUtHUJZYl6wS) | 2:27 | 2026-02-23 |  |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 | 2025-12-10 |
 | [Vessel](https://open.spotify.com/track/6lfG1ve3hUeViVHq5Qqzqq) | [GLDN](https://open.spotify.com/artist/7DFqTND6l3CivKuXFL7zfW) | [Vessel](https://open.spotify.com/album/6j79vB7AG5rREwvnCYP5cu) | 3:51 | 2026-02-08 | 2026-03-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,641 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,698 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 38 | [No Me Quiero Enamorar](https://open.spotify.com/track/738iesV0OE6jDUGr1f8YZE) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [No Me Quiero Enamorar](https://open.spotify.com/album/05MOmiCmOiE1pmkUGdrMZE) | 2:39 |
 | 39 | [Promesa Cumplida](https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Posada Especial](https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi) | 5:38 |
 | 40 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
-| 41 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
-| 42 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 |
+| 41 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 |
+| 42 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
 | 43 | [Hoy Ya Me Voy](https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2) | 4:19 |
 | 44 | [El Pocho \- En Vivo](https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q) | 2:48 |
 | 45 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Me Vuelve Loco](https://open.spotify.com/track/1mujNkrbZ6RWzGBW5cDQSb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/2TglIIPT5aWVK9tmmXKASd) | 3:52 |
 | 50 | [Andar Conmigo](https://open.spotify.com/track/69qGjlSgEJJkkZSp4ZN3GC) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/21U9S9xssH5BdAzviBLUGN) | 4:07 |
 
-Snapshot ID: `aaTTAAAAAAAHpOTwAXNml5EuGisaAKn+`
+Snapshot ID: `aaYkgAAAAACJN2bWyuncn/e9pXMPBW9F`

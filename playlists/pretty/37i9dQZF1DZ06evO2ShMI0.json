@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 207689,
+  "num_followers": 207730,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACWIPmun0MkNueATEOxZ4uT",
+  "snapshot_id": "aaYkgAAAAACihajSshbeUpLlfnLcgYuM",
   "tracks": [
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Mejor No Hablemos De Amor",
-      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
+      "duration_ms": 215806,
+      "name": "Era Un Angel",
+      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 215806,
-      "name": "Era Un Angel",
-      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
+      "duration_ms": 210333,
+      "name": "Mejor No Hablemos De Amor",
+      "url": "https://open.spotify.com/track/371ndFAU7yvPcWY2jIRrSz"
     },
     {
       "added_at": null,

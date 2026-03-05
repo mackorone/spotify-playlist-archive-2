@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1384,
+  "num_followers": 1386,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADi7iR8iFqb34vo5+NPQ1Wh",
+  "snapshot_id": "aaYkgAAAAADgu7Omg0KChLGzgeq4N9sw",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "Hustle & Flow",
+        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
       },
       "artists": [
         {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+          "name": "Rozay",
+          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
         },
         {
-          "name": "Izzy93",
-          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 107000,
-      "name": "Mexicanos",
-      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
+      "duration_ms": 144014,
+      "name": "Tonta (feat. Bo Bundy)",
+      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
     },
     {
       "added_at": null,
@@ -363,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustle & Flow",
-        "url": "https://open.spotify.com/album/49ewNITw9KZVWGJoGUKuD5"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
-          "name": "Rozay",
-          "url": "https://open.spotify.com/artist/63kl9Ma06XOmqeKyT3BOxm"
-        },
-        {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Izzy93",
+          "url": "https://open.spotify.com/artist/2AfyzCxD2WTuEbV0XoZajq"
         }
       ],
-      "duration_ms": 144014,
-      "name": "Tonta (feat. Bo Bundy)",
-      "url": "https://open.spotify.com/track/1hjCOR7uTvgHasjaFyDsD8"
+      "duration_ms": 107000,
+      "name": "Mexicanos",
+      "url": "https://open.spotify.com/track/6HfnFJBz9UClB8nJKzcp2u"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 135529,
-      "name": "3 Noches",
-      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
+      "duration_ms": 133241,
+      "name": "Nawfside",
+      "url": "https://open.spotify.com/track/1EmRFtS35fBaJs89E5m3uD"
     },
     {
       "added_at": null,
@@ -559,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alpaca Hearts",
-        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+        "name": "E30",
+        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
       },
       "artists": [
+        {
+          "name": "Le$",
+          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 198164,
-      "name": "Alpaca Hearts",
-      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
+      "duration_ms": 287973,
+      "name": "Big Le$ter",
+      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
     },
     {
       "added_at": null,
@@ -611,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alpaca Hearts",
+        "url": "https://open.spotify.com/album/4RPQVDsfQ3Cvafe8WmuoJt"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 198164,
+      "name": "Alpaca Hearts",
+      "url": "https://open.spotify.com/track/384v4uRNZBhcbW5WLSrzJq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FTNSWL",
         "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
       },
@@ -647,46 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E30",
-        "url": "https://open.spotify.com/album/3wFy8XIYlQ3rVGL1g3PcAc"
-      },
-      "artists": [
-        {
-          "name": "Le$",
-          "url": "https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 287973,
-      "name": "Big Le$ter",
-      "url": "https://open.spotify.com/track/5qGkr8pCLtW4BOvfOhamnB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuerno De Chivo",
-        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
-      },
-      "artists": [
-        {
-          "name": "Young Tapz",
-          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 155376,
-      "name": "Cuerno De Chivo",
-      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Mi Gente",
         "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
       },
@@ -711,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+        "name": "Cuerno De Chivo",
+        "url": "https://open.spotify.com/album/095rXozHEwtskDElFmJC2m"
       },
       "artists": [
+        {
+          "name": "Young Tapz",
+          "url": "https://open.spotify.com/artist/3Ufjh9B15yzmuUlv5m1x3y"
+        },
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+      "duration_ms": 155376,
+      "name": "Cuerno De Chivo",
+      "url": "https://open.spotify.com/track/1x4gzzjvrJQYzzOFeCgXDG"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 188764,
       "name": "Devu\u00e9lveme a Mi Chica",
       "url": "https://open.spotify.com/track/1EcHaDsYylfnclv11dNG2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Bailes Asi (Remix)",
+        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
+      },
+      "artists": [
+        {
+          "name": "Santos Jaguar",
+          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
+        },
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "No Bailes Asi - Remix",
+      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 160000,
       "name": "Big Chains",
       "url": "https://open.spotify.com/track/7uRLpDoVtEnhlaUFJyVTfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Bailes Asi (Remix)",
-        "url": "https://open.spotify.com/album/5YUUCEPXVdHZ6o69Yz0qCD"
-      },
-      "artists": [
-        {
-          "name": "Santos Jaguar",
-          "url": "https://open.spotify.com/artist/4raGH2wc9abuAfGm1qWgyE"
-        },
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "No Bailes Asi - Remix",
-      "url": "https://open.spotify.com/track/7KGZ4RAnygOyGkplbKIWBe"
     },
     {
       "added_at": null,
@@ -863,26 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
-        }
-      ],
-      "duration_ms": 142415,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RESERVADO",
         "url": "https://open.spotify.com/album/0Mz8FhQzjW1H3rjmVjKBWh"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 151071,
       "name": "RESERVADO",
       "url": "https://open.spotify.com/track/4xmrsmRxtk81NCD4vNT2rX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
+        }
+      ],
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
     }
   ],
   "unique_name": "This Is Bo Bundy",

@@ -284,7 +284,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 291693,
       "name": "The Hollows",
       "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
@@ -342,6 +342,24 @@
       "duration_ms": 353506,
       "name": "Three Sonic Spaces III",
       "url": "https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg"
+    },
+    {
+      "album": {
+        "name": "Unseen Worlds",
+        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "album": {

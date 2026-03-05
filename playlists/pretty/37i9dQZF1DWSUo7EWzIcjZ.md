@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,147 likes - 150 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,142 likes - 150 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 34 | [Dile](https://open.spotify.com/track/7aRqroLRrcGEKDoPsb6Wbe) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Grandes Exitos](https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN) | 5:02 |
 | 35 | [Hipocresía](https://open.spotify.com/track/0k8nK5uk57o3gYEjy8KDEv) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 5:15 |
 | 36 | [Alegria](https://open.spotify.com/track/51VCeHkyRAaY8wUbsU66Ix) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 5:22 |
-| 37 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
+| 37 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
 | 38 | [Merenguero Hasta la Tambora \- Radio Version](https://open.spotify.com/track/6IGgyTBzPgG0c8RHz2PZ4Z) | [Johnny Ventura](https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus) | [Mis Favoritas](https://open.spotify.com/album/0BcspqaDGksQoDQkKSGCdO) | 3:04 |
-| 39 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
+| 39 | [Entre Tu Cuerpo y el Mio](https://open.spotify.com/track/2BeJ9CiFFnA6w3cVvRt7Ae) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Greatest Hits](https://open.spotify.com/album/7gEKwqz5pfeKeL9U1FWBnl) | 4:58 |
 | 40 | [El Perro Ajeno](https://open.spotify.com/track/2Yu3zhanQK498K7bkEntn1) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Tonto Corazon](https://open.spotify.com/album/5Hs5ycdTJOpw7hMLHTo2mW) | 4:23 |
 | 41 | [La Radio](https://open.spotify.com/track/6gbg05N7aXWUWPecVzVtJ1) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [20 Años Despues](https://open.spotify.com/album/2foqoAmVTn3w2Z22sJJkDp) | 4:05 |
 | 42 | [El Silencio, Tu Y Yo](https://open.spotify.com/track/6Fq1XeTdN5ApqxiJxieL75) | [Ramón Orlando](https://open.spotify.com/artist/2wZmh2ddEInC5pzZ8O68lt) | [20 Exitos](https://open.spotify.com/album/55dzfiC1Ut2CCvQZv5qm50) | 3:57 |

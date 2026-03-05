@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,895 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,929 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,15 +31,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 21 | [\#02 untitled](https://open.spotify.com/track/6I8f22JQnIWwj8saOnuLuU) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [\#02 untitled](https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK) | 4:17 |
 | 22 | [Water Flow](https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Water Flow](https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM) | 2:34 |
 | 23 | [Beautiful Life](https://open.spotify.com/track/0p4iFPBrB5lq4XypkIDnLU) | [Rikinish](https://open.spotify.com/artist/5p0u2sKqe1dMosR65Pumks) | [GRANDMA](https://open.spotify.com/album/2Daec6JlmOMfNkMCzcuTui) | 4:11 |
-| 24 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 |
+| 24 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 |
 | 25 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 |
-| 26 | [Cove](https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC) | [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [Carefree](https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX) | 2:01 |
+| 26 | [Bweyy](https://open.spotify.com/track/7jNIcMRDjKsOzqkVnnw1oL) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Swarvy](https://open.spotify.com/artist/1fmXn9ezSrVGjHSVc6ItcL) | [breatharian](https://open.spotify.com/album/0VtIDkYv8JNDTVh48a9GP0) | 1:18 |
 | 27 | [honestly](https://open.spotify.com/track/24PHDi7Uhz1LO8Xi2pJoDQ) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [SAILING LP](https://open.spotify.com/album/5kJ37eUXFqer0BG0Wyb57F) | 1:21 |
 | 28 | [Atélier](https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Toshiki Soejima](https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO) | [Atélier](https://open.spotify.com/album/6tZ4rSXp5XdyHxIs8kQpWE) | 3:01 |
 | 29 | [balance](https://open.spotify.com/track/4mJcc7iXKgVP7gZxQs3dNr) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [balance](https://open.spotify.com/album/40ewMDtpcM95qQaPRIPVrN) | 3:07 |
-| 30 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 |
+| 30 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 |
 | 31 | [Elnino](https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Stem.​tδpe](https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S) | 1:30 |
-| 32 | [June](https://open.spotify.com/track/1OkdNVyAXTmPwFU0XseH62) | [Iam6teen](https://open.spotify.com/artist/7DivyX8KXF3bq2iAplKTC3) | [Consider The Flowers](https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy) | 2:24 |
+| 32 | [Abeja](https://open.spotify.com/track/3mvaD4yyX71CV1idcd5lfJ) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26), [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Sofie's SOS Tape](https://open.spotify.com/album/4HSL9qNMgDUNQFngd3ODit) | 3:39 |
 | 33 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 |
 | 34 | [Everything](https://open.spotify.com/track/1UlwVFnl6JaQBL0tujTFJ8) | [7SEEDS](https://open.spotify.com/artist/4bwydHxnOMEoHGZhgXaSR1), [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [FLIP & DRAW II](https://open.spotify.com/album/3bOb4olmZMw8jigZrZVCtd) | 2:34 |
 | 35 | [Nitnoi](https://open.spotify.com/track/4kwmLBF0lsSxAz2dVGrU8M) | [Morning Breakfast](https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY), [Gold Digga](https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI) | [Morning Breakfast Vol.3](https://open.spotify.com/album/1cjUD5hSrQcU93KdOw5q8H) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdIWNEnrI0f.md) - [plain]
 | 49 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 |
 | 50 | [迷いの森](https://open.spotify.com/track/5hyzs0L6FPxvdJIZLN5eyn) | [Olive Oil](https://open.spotify.com/artist/10wpBaBV9o6cEGr1FnmYIH), [CHANNY D](https://open.spotify.com/artist/23FsJf4Uv89b1kPtqqsUFr) | [迷いの森](https://open.spotify.com/album/1xaXJ6OxH8fYZ00wMiwZT7) | 5:26 |
 
-Snapshot ID: `AAAAABrICW0yL8mD7bYH8R8h2bvu2NmJ`
+Snapshot ID: `AAAAAJj0tj3GL9sWautCH9WUBBfKxsxq`

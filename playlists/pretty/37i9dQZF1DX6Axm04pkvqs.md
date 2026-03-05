@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,882 likes - 80 songs - 11 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,944 likes - 80 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 21 | [There Is Prophecy over Me](https://open.spotify.com/track/6pKhtSc35N8WhiJNS0Dymx) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [There Is Prophecy over Me](https://open.spotify.com/album/1GxceZu3kgGHqGx8hXgDWH) | 13:20 |
 | 22 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
 | 23 | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/track/7IOvxvfah1YyRBRkZzIjgg) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [See How Far: Gratitude \(Reflections\)](https://open.spotify.com/album/7dct7NWxi1IAV9K1kXkqAW) | 19:56 |
-| 24 | [Ndum \(My Life\)](https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MR M &REVELATION](https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:02 |
+| 24 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 |
 | 25 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 26 | [Take Over](https://open.spotify.com/track/0kd6sF1sDNJmFcpoZKWKMD) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Take Over](https://open.spotify.com/album/7t8Jh2tXzb2wIbJ9XwH9ri) | 13:55 |
 | 27 | [Nekwa Mu](https://open.spotify.com/track/7e5bM94aeUAODYOC6vp2gT) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Nekwa Mu](https://open.spotify.com/album/7p2oA7LgcP0qWhCImTMj9k) | 2:42 |
 | 28 | [Iwo Loba](https://open.spotify.com/track/27YFofQ1E31ldqdR6wqA7F) | [Ucious Music](https://open.spotify.com/artist/04SC030qxHLFoyyug9Pawa), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Iwo Loba](https://open.spotify.com/album/41TyHM9fcGLKecb3k6zJyp) | 14:53 |
-| 29 | [Yeshua Hamashiach \(Overture\)](https://open.spotify.com/track/3hbjwNtFbsRjjPA08oeSLS) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [OYINKAN KOKU\-BAZUAYE](https://open.spotify.com/artist/4MsiVr0uduVTupBlpBs4D9) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:58 |
+| 29 | [Ndum \(My Life\)](https://open.spotify.com/track/4rjIjPrpDPIu2W8wwSB9Do) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MR M &REVELATION](https://open.spotify.com/artist/31piuVFPQCLSAj0tmypT9a) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:02 |
 | 30 | [Chants of Ascension](https://open.spotify.com/track/6Rkip7RaOfsHjJlOb3UY4N) | [JOSHUA BANJO](https://open.spotify.com/artist/4V02aAFEwBwBrVgPnSV49E) | [Chants of Ascension](https://open.spotify.com/album/3TX9A7yDSZfrOMvUIvbAVV) | 9:30 |
 | 31 | [Intensify](https://open.spotify.com/track/2apSO736RbDC57Uwg1X7vw) | [1Spirit & Theophilus Sunday](https://open.spotify.com/artist/6k3PaNSSf7mNa4lauJUV00) | [Eternity in View](https://open.spotify.com/album/0uWI0ToFhg1eLuNvr32eGY) | 3:34 |
 | 32 | [Oji Oku Eri Ajah](https://open.spotify.com/track/1MJ3oZLUAgjI9rK63EMYoM) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Oji Oku Eri Ajah](https://open.spotify.com/album/3EiHk4Jztk0jj4Q12Fcemv) | 11:15 |

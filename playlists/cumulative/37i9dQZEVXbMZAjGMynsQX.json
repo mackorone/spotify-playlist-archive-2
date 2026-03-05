@@ -3506,7 +3506,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 105625,
       "name": "BIENVENIDA",
       "url": "https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx"
@@ -5476,7 +5476,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 204794,
       "name": "Coleccionando Heridas",
       "url": "https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6"
@@ -8300,7 +8300,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/34vXRJ2bCSFiZKQzVUYVOb"
@@ -11142,7 +11142,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 190843,
       "name": "GANAS",
       "url": "https://open.spotify.com/track/4KE9Ne3hgh18B3Th4xcylg"
@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 207533,
       "name": "L a k e n o s h i",
       "url": "https://open.spotify.com/track/6OoYmAP9oZtBiSomWpDTWP"
@@ -28646,7 +28646,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 140816,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
@@ -28664,7 +28664,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 189456,
       "name": "top diesel",
       "url": "https://open.spotify.com/track/2QP041AcWg8PwPIWP95RKN"
@@ -32118,6 +32118,24 @@
       "duration_ms": 172127,
       "name": "Yo Perreo Sola",
       "url": "https://open.spotify.com/track/0SqqAgdovOE24BzxIClpjw"
+    },
+    {
+      "album": {
+        "name": "El SEI66EIS",
+        "url": "https://open.spotify.com/album/35Ti0k1sTuvL2UdCtSieZY"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147840,
+      "name": "YO QUIERO",
+      "url": "https://open.spotify.com/track/47sQ0h1xhlDWJ3nHbwYPrg"
     },
     {
       "album": {

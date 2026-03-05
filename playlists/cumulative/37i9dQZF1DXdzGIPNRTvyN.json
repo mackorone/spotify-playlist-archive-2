@@ -5169,6 +5169,24 @@
     },
     {
       "album": {
+        "name": "Quiet Mist",
+        "url": "https://open.spotify.com/album/7ccIHSSph5aU2ILrApAONS"
+      },
+      "artists": [
+        {
+          "name": "Lake Nebula",
+          "url": "https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139318,
+      "name": "Quiet Mist",
+      "url": "https://open.spotify.com/track/1bGwPUE5Y312J39hfnYhrg"
+    },
+    {
+      "album": {
         "name": "Quiet Nature",
         "url": "https://open.spotify.com/album/64z4d3dj2JBuXHsds54L1r"
       },
@@ -5270,7 +5288,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 192727,
       "name": "Rain Journey",
       "url": "https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN"

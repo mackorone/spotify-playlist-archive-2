@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Malcolm Rue
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,369 likes - 99 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,395 likes - 99 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 61 | [Water](https://open.spotify.com/track/7rg62pkS9UmBoBEHdlzd0n) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Water](https://open.spotify.com/album/6AWWQnjfpWdbCTbS0N76T3) | 2:54 |
 | 62 | [TAMUNO](https://open.spotify.com/track/28TXLB9iqk5d0c5omSr0dh) | [Ajay Asika](https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1) | [TAMUNO](https://open.spotify.com/album/3Hx2cSmvKNliegyB4Ok0O1) | 2:36 |
 | 63 | [We Worship You](https://open.spotify.com/track/1NWYu6SPupjCa9Oc5KPNMX) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0), [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [We Worship You](https://open.spotify.com/album/5oRoOEcDMVFptq3Tw1PBzo) | 6:12 |
-| 64 | [By My Side \- Live](https://open.spotify.com/track/2X4qsTW5afZOTV9azlJYTW) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [By My Side \(Live\)](https://open.spotify.com/album/5vv3UPGwkaHRdjmxkzNRmg) | 3:32 |
+| 64 | [By My Side \(Live\)](https://open.spotify.com/track/2X4qsTW5afZOTV9azlJYTW) | [Ethan Otedola](https://open.spotify.com/artist/68wbSl6oNKgoiTZm7vN0UK) | [By My Side \(Live\)](https://open.spotify.com/album/5vv3UPGwkaHRdjmxkzNRmg) | 3:32 |
 | 65 | [In the Dark](https://open.spotify.com/track/3YzN9xCuMHxYLgt3LDw2M4) | [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu), [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32) | [In the Dark](https://open.spotify.com/album/3hrcOFY38z9I1DX2RYJpu5) | 1:18 |
 | 66 | [Alfa En Omega](https://open.spotify.com/track/1OVhPdbKD6jBNZxyin204i) | [Arnold de Wet](https://open.spotify.com/artist/7maSsKGnUoRwDEnFSjzcMn) | [Alfa En Omega](https://open.spotify.com/album/6IJa9VEqbfdd3apiPTN5bL) | 3:07 |
 | 67 | [KÁBÍYÈSÍ RĘ \- Live](https://open.spotify.com/track/4r0LxRMfz4ZRrGCVDLDjq7) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [KÁBÍYÈSÍ RĘ \(Live\)](https://open.spotify.com/album/7FN0eyrL29SlrbvHzDq8OQ) | 9:56 |

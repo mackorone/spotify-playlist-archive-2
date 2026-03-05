@@ -1,6 +1,6 @@
 {
-  "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Carlos Sadness en portada.",
-  "num_followers": 413900,
+  "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
+  "num_followers": 413907,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 217400,
       "name": "Diazepam",
       "url": "https://open.spotify.com/track/2KrXkY8yRsncGk2kXPD4Zt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
+      },
+      "artists": [
+        {
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2024-06-14 04:59:00",

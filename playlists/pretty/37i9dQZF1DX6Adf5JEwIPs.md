@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Calibre 50
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,436 likes - 78 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,472 likes - 78 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 68 | [Ni Pedo](https://open.spotify.com/track/1M65Ie7QSyd61dgHJnfACa) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [CUERNO](https://open.spotify.com/artist/6WfZ64HOR7tT0nGmxKQ7Hq) | [Ni Pedo](https://open.spotify.com/album/165eqJAqgFFsxC47rceeFb) | 3:33 |
 | 69 | [772 Love, Pt\. 2](https://open.spotify.com/track/2lt75pwepsCMvzsNzFDnx6) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc) | [772 Love, Pt\. 2](https://open.spotify.com/album/5AQ520HTLyuXc1QppNfljg) | 2:57 |
 | 70 | [Cuando Abras Los Ojos \(En Vivo\)](https://open.spotify.com/track/0Qe97fMABeUgesEKr51Xwl) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [Cuando Abras Los Ojos \(En Vivo\)](https://open.spotify.com/album/4bVfMcEwztp8nUaqj5Pueq) | 3:20 |
-| 71 | [No Cuenta](https://open.spotify.com/track/50VpbQvTCBI7jrJOI4JLfb) | [Shaira](https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso) | [NO CUENTA](https://open.spotify.com/album/3fDmkWsicfgh8zR0HBZdHA) | 3:17 |
+| 71 | [No Cuenta](https://open.spotify.com/track/50VpbQvTCBI7jrJOI4JLfb) | [Shaira](https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso), [Francisco Sanchez](https://open.spotify.com/artist/43whPFZlD2ZysWUHqzhX6c) | [NO CUENTA](https://open.spotify.com/album/3fDmkWsicfgh8zR0HBZdHA) | 3:17 |
 | 72 | [Contigo](https://open.spotify.com/track/6lNlA9b5KffObGuZDMo3lY) | [SBZ](https://open.spotify.com/artist/57NvKo5BCGmZGvd3KLF1qm) | [Contigo](https://open.spotify.com/album/4gAlSOcgEUk1K2bGnbipdL) | 3:32 |
 | 73 | [4PF](https://open.spotify.com/track/488b1P9WXWszZK5yvJySoN) | [Danny Talavera](https://open.spotify.com/artist/3b60jobuT1yYigdrBhVlFV) | [4PF](https://open.spotify.com/album/2qGBW5HkcKxgT0tJ2Pd6lF) | 2:32 |
 | 74 | [Tus Besos](https://open.spotify.com/track/6a8hhbR0LCfEwcP3ZL2noH) | [La Doña](https://open.spotify.com/artist/5eBVoDUYv0feTepoBSz4SJ) | [Tus Besos](https://open.spotify.com/album/5RmOq4OJeW8lTs0ro5g7mS) | 2:56 |

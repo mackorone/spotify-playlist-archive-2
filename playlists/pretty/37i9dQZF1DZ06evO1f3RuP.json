@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACy4+XSyoTIy9iWxvt4WqdA",
+  "snapshot_id": "aaYkgAAAAAD3oi+3GdY5Xggi41O8z0QQ",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "stories from new york",
         "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
       },
@@ -267,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO RE-ENTRY",
+        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SuperGood",
         "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
@@ -291,22 +327,6 @@
       "duration_ms": 231118,
       "name": "Find A Way",
       "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NO RE-ENTRY",
-        "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
     },
     {
       "added_at": null,
@@ -355,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "think of drugs",
-        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "think of drugs",
-      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -387,6 +391,22 @@
       "duration_ms": 134968,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/7JWK1ujyuUTJnPauiLYpzK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "think of drugs",
+        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "think of drugs",
+      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
     },
     {
       "added_at": null,
@@ -427,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
-      },
-      "artists": [
-        {
-          "name": "That Kid",
-          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 192941,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whirlwind Of Malevolence",
         "url": "https://open.spotify.com/album/1JeoBLRWk8AKSagFSNG5EC"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 139090,
       "name": "Enter The Chat",
       "url": "https://open.spotify.com/track/1gBwEnUsHgGDp6WkrjxNo7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
+      },
+      "artists": [
+        {
+          "name": "That Kid",
+          "url": "https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0"
     },
     {
       "added_at": null,

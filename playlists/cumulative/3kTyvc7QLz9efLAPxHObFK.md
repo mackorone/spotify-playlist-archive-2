@@ -4,7 +4,7 @@
 
 > 
 
-2,893 songs - 6 day 5 hr 44 min
+2,894 songs - 6 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2247,6 +2247,7 @@
 | [Shut Up! \- Ruffer Mix](https://open.spotify.com/track/5nJl3iM4NIzIKwnSzIP8su) | [Promo](https://open.spotify.com/artist/6CG5i0dfyqWIOrqFY60ooq) | [Shut Up!](https://open.spotify.com/album/4RRbiDBcSQye6fBi4hHm3U) | 5:36 | 2025-11-16 |  |
 | [Sign Of Life](https://open.spotify.com/track/2RAWwQ1SfisdSDLdmlaHdV) | [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M), [MELOX](https://open.spotify.com/artist/1DtOSWRsesxFhGJ4BaHWyQ) | [Sign Of Life](https://open.spotify.com/album/2W7bsXddJgqS5kDjscIMrZ) | 2:36 | 2025-10-18 |  |
 | [Signal \(feat\. Such\)](https://open.spotify.com/track/2oaXAbSxNPuUVZZyJeesiY) | [rejection](https://open.spotify.com/artist/0S23vj2YyvxsVlhqqSohrk), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [Beyond core EVANGELIX 01](https://open.spotify.com/album/5mFg1Tms9cKuoG2LsnIn1V) | 5:15 | 2022-02-22 |  |
+| [SIN](https://open.spotify.com/track/4TciCN4v2O1uQanFPPjbAQ) | [TerrorClown](https://open.spotify.com/artist/4zL9MTFtg43EJgwarYpPAz), [Xelerate](https://open.spotify.com/artist/0gPwvAURbtqpxkdMWh3iko) | [SIN](https://open.spotify.com/album/4KIJjpJlyi8YkF3lPaTXQb) | 2:23 | 2026-03-04 |  |
 | [Sing To Me](https://open.spotify.com/track/067opKNYqUgf9XS8LkU8bF) | [Sabotage](https://open.spotify.com/artist/7qgWkFGpFqNfno4vKOSkkH) | [Sing To Me](https://open.spotify.com/album/0PhEJ1rpvAIfZMq5baRQSo) | 2:49 | 2024-07-12 |  |
 | [Sirius](https://open.spotify.com/track/5yzfLXH4yZoeWsgx7yVqYA) | [The Wither](https://open.spotify.com/artist/1asmhMpAyPyIZRmRuuOujU), [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [Sirius](https://open.spotify.com/album/36XvpEDkaUapj5st14IytT) | 4:30 | 2022-12-22 |  |
 | [Sitting Down Here](https://open.spotify.com/track/1yjwPwIBoJJfBCPfeOwyBK) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Sitting Down Here](https://open.spotify.com/album/667Bjun11jQGE0PdYbPSDZ) | 2:13 | 2024-08-17 |  |

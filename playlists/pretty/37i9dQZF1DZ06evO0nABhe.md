@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,853 likes - 46 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,855 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,17 +22,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 12 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |
 | 13 | [Real Life](https://open.spotify.com/track/0Aikw6pM5DPLOu4o9Vmf3P) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:44 |
 | 14 | [Sidewalks](https://open.spotify.com/track/5mXcLmgkTDJeSSqDMQnhUh) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:34 |
-| 15 | [Fall Away](https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:56 |
+| 15 | [Into The Dark](https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:27 |
 | 16 | [Bang Bang](https://open.spotify.com/track/2T8MP8QR1qP6XhCFJj4wxa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:43 |
 | 17 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
 | 18 | [In the Shadows](https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:33 |
-| 19 | [Into The Dark](https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 3:27 |
+| 19 | [Fall Away](https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:56 |
 | 20 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 |
-| 21 | [Sorry About Me](https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
+| 21 | [Can't Save You](https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
 | 22 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 |
 | 23 | [Good for Me / Feel so Bad](https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:55 |
 | 24 | [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [GALLOWS](https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4) | 3:02 |
-| 25 | [Can't Save You](https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
+| 25 | [Sorry About Me](https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
 | 26 | [Dive Right In](https://open.spotify.com/track/2hRhyzaXcVwHQHNVt23KUG) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:15 |
 | 27 | [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 |
 | 28 | [We Don't Care Anymore](https://open.spotify.com/track/0UflERiYbsLO8gIAv7JLiC) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:31 |
@@ -49,10 +49,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 39 | [How Can We Go On](https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:25 |
 | 40 | [Sleep](https://open.spotify.com/track/6ReT8BEEr3ytDn0LFEifuk) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 4:12 |
 | 41 | [The Dream Is Over](https://open.spotify.com/track/6wffAUccqKIcvdNiqgJzEA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:52 |
-| 42 | [Terrified](https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 4:00 |
+| 42 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
 | 43 | [A Part of Me](https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 4:01 |
 | 44 | [Taste the Poison](https://open.spotify.com/track/6dVIydL35YwvTjDCT4738d) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [In the Wake of Determination](https://open.spotify.com/album/5IOgRGEVVKdFVuqL88I7sy) | 3:43 |
 | 45 | [Ten Years Down](https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:53 |
-| 46 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
+| 46 | [Terrified](https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 4:00 |
 
-Snapshot ID: `aaTTAAAAAAB3DAkv3ktBGHly/sxr9ILv`
+Snapshot ID: `aaYkgAAAAADr0JgHq6g5g4k/TZ9zS8dh`

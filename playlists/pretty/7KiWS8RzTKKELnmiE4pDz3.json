@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAf3ruijf3Ut6RZiOEcPk2FdJTa891P",
+  "snapshot_id": "AAAf4wZDjCOAHekre516/I+v4ZQ+h25e",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -7571,6 +7571,134 @@
       "duration_ms": 222853,
       "name": "2.P.I.G.",
       "url": "https://open.spotify.com/track/3sgv5VRl0IZpocRJcwc5CK"
+    },
+    {
+      "added_at": "2026-03-04 17:12:03",
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Asha Puthli",
+          "url": "https://open.spotify.com/artist/6XS2GPyMwHEgAn0VspnhMf"
+        },
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        },
+        {
+          "name": "Dave Jolicoeur",
+          "url": "https://open.spotify.com/artist/7p9cQvuiCC28PPRZwHGDBM"
+        },
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "duration_ms": 297787,
+      "name": "The Moon Cave (feat. Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda and Black Thought)",
+      "url": "https://open.spotify.com/track/6VflG4mpZSlpKnqNRL3NO9"
+    },
+    {
+      "added_at": "2026-03-04 20:38:22",
+      "album": {
+        "name": "What Goes Around (Spotify Exclusive)",
+        "url": "https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 207711,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/4feKxkiKEkMJ4jIqRx6OTt"
+    },
+    {
+      "added_at": "2026-03-04 20:47:19",
+      "album": {
+        "name": "What Goes Around (Spotify Exclusive)",
+        "url": "https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Jon Connor",
+          "url": "https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Alarm Clock",
+      "url": "https://open.spotify.com/track/4COIMVA3SlBGraYdTPEOgC"
+    },
+    {
+      "added_at": "2026-03-04 20:54:43",
+      "album": {
+        "name": "What Goes Around (Spotify Exclusive)",
+        "url": "https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5"
+      },
+      "artists": [
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "duration_ms": 163927,
+      "name": "Slum Villain",
+      "url": "https://open.spotify.com/track/7HL20ipUse2JxWgj0pnBuW"
+    },
+    {
+      "added_at": "2026-03-05 00:44:22",
+      "album": {
+        "name": "Covert Coup",
+        "url": "https://open.spotify.com/album/7zAHNpdTeq8jNCmZaGK3jf"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        }
+      ],
+      "duration_ms": 138234,
+      "name": "Ventilation",
+      "url": "https://open.spotify.com/track/0a5ktgbJOj3xsYowGkUc9L"
     }
   ],
   "unique_name": "main ",

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs?si=KnVi6xcWRYS33mxz7RqYeA">Danpapa GTA</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF?si=vzaRdMYHQP6Hqzr1zbo6RA">Indi</a>\. Artwork: Isu Kim.
 
-1,431 songs - 2 day 23 hr 27 min
+1,433 songs - 2 day 23 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Ms Spender](https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio) | [Rebecca Winter](https://open.spotify.com/artist/1SbOUD9N7WuyXFV8ISYxK5) | [Ms Spender](https://open.spotify.com/album/67xLcdLseC4qphYx865KeB) | 1:54 | 2025-01-23 | 2025-03-06 |
 | [Muse \- A COLORS SHOW](https://open.spotify.com/track/4JmYe83UEo0u79arY6Zbn2) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Muse \- A COLORS SHOW](https://open.spotify.com/album/4bMaXHiewgIcNRmKzRWnkJ) | 5:03 | 2024-02-06 | 2024-03-06 |
 | [Must Have Been](https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Must Have Been](https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr) | 2:36 | 2025-04-10 | 2026-01-15 |
+| [Muzz](https://open.spotify.com/track/7Dh41uXgydFUlQjwmPAOlE) | [Zaylevelten](https://open.spotify.com/artist/6eEW31SqGa8zKe3ibfTCdH) | [Muzz](https://open.spotify.com/album/5C3Lcv1cBFZH3L46yWHL1x) | 2:02 | 2026-03-04 |  |
 | [My Arrival](https://open.spotify.com/track/02jW8RHbTkHkGL5J2httZZ) | [Blaq Platinum](https://open.spotify.com/artist/2F1SSya3JXstJwwltS4rAQ) | [My Arrival](https://open.spotify.com/album/08XA3a3aEe5O6f6CZzFmvh) | 3:00 | 2022-09-02 | 2022-10-01 |
 | [My Boo](https://open.spotify.com/track/3JHk64lUKHcRhsvUng4kv5) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM) | [My Boo](https://open.spotify.com/album/0jYsHjcfVRjNzsTUSdnVyf) | 3:27 | 2024-05-01 | 2024-06-05 |
 | [My Darling](https://open.spotify.com/track/0dB0kygJpApTy1aTYiYxlk) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [My Darling](https://open.spotify.com/album/50lQePDD6ekrIKyqhsG8oD) | 3:06 | 2023-03-29 | 2024-02-07 |
@@ -856,7 +857,7 @@
 | [My Lily](https://open.spotify.com/track/4uf1W0eA7iKN42g1VC5C77) | [B.Brefo](https://open.spotify.com/artist/5gWzR7oAi40m2VBOgGAtkv) | [My Lily](https://open.spotify.com/album/2nIlCcRIgtQrUIikTkclod) | 2:07 | 2024-10-04 | 2024-11-07 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-11-29 | 2024-02-07 |
 | [My Lover's on the Run](https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt) | [Year of Dogs](https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj) | [My Lover's on the Run](https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ) | 3:37 | 2024-11-06 | 2024-12-05 |
-| [My Rider](https://open.spotify.com/track/3yt9iLc09aR4wCsK6Jn6IY) | [HEVI](https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4) | [Hevi](https://open.spotify.com/album/3SLCfZi43xfkkBRmrNd8mY) | 3:03 | 2025-05-07 |  |
+| [My Rider](https://open.spotify.com/track/3yt9iLc09aR4wCsK6Jn6IY) | [HEVI](https://open.spotify.com/artist/5RkgtRF8H76YcZoWInG9Z4) | [Hevi](https://open.spotify.com/album/3SLCfZi43xfkkBRmrNd8mY) | 3:03 | 2025-05-07 | 2026-03-05 |
 | [My Smoke](https://open.spotify.com/track/1Q5WEyGCb6duyzvXan6RAr) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV) | [My Smoke](https://open.spotify.com/album/2KiEgxP3XdHgDakatza7e8) | 2:50 | 2024-08-07 | 2024-09-05 |
 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-09-04 | 2024-10-05 |
 | [My Way](https://open.spotify.com/track/1mKTa5l73nQ2LGHIaT6WZJ) | [Enaky](https://open.spotify.com/artist/3ve8stsOBoiayDuVU5X724) | [Wild Flower](https://open.spotify.com/album/5Olwt6TpBP1wtitZTYZQd5) | 2:36 | 2025-03-05 | 2025-04-03 |
@@ -933,7 +934,7 @@
 | [Obaa Hemaa](https://open.spotify.com/track/5ngy0dLyezwaO15C51TrMB) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Obaa Hemaa](https://open.spotify.com/album/0FhtqISRyEGe6YVxjySqN9) | 3:04 | 2023-03-05 | 2023-03-10 |
 | [OBAFEMI MARTINS](https://open.spotify.com/track/4o3Un2fL0e5ia757KjDbVv) | [OXYGINN](https://open.spotify.com/artist/1LWEHyj2ezHKQY8TlBiWQd), [Darcebeat](https://open.spotify.com/artist/4u6vioY4wpecnBBZow9XNW), [G'aza](https://open.spotify.com/artist/6gGQIiJ0aC8qbhtn8Khp2P), [CRZ CNTRL](https://open.spotify.com/artist/0efbyp13KKe0BAvuUin46r) | [OBAFEMI MARTINS](https://open.spotify.com/album/5gpLc7HfHTYdAMiRD1v6xs) | 2:12 | 2025-04-10 | 2025-11-06 |
 | [October Confessions](https://open.spotify.com/track/4SD8BdTsOBcVPW4HpJqG4J) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [October Confessions](https://open.spotify.com/album/3JlduC6ZvfwtNeeo7d04Q3) | 1:34 | 2025-11-05 | 2025-12-04 |
-| [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 | 2025-06-04 |  |
+| [Odeshi](https://open.spotify.com/track/6D3uyxSdlOQpScbqlawnME) | [Abstraktt](https://open.spotify.com/artist/2H5FFLsniz7p7rled2S4pD), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [Odeshi](https://open.spotify.com/album/6q9zanWSA5C5e8pCSUxjQ9) | 2:15 | 2025-06-04 | 2026-03-05 |
 | [Odo Aduane](https://open.spotify.com/track/1TvtubWwwJKwTu6dnwkqfB) | [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Odo Aduane](https://open.spotify.com/album/6hGinduqEgrBCJCLjEVBj5) | 2:58 | 2024-04-03 | 2024-05-02 |
 | [Off Sabbatical](https://open.spotify.com/track/2cAwWyyyZ6nShhQIBFa4p2) | [chrisdem](https://open.spotify.com/artist/1lDaj57sTgf14qAS52zvG2) | [Off Sabbatical](https://open.spotify.com/album/2VswipNG04mZXofMWsbqEx) | 3:15 | 2023-03-29 | 2023-06-06 |
 | [OFFICE DAZE](https://open.spotify.com/track/3e6giYVQntaDOrHKsWk2iS) | [ByLwansta](https://open.spotify.com/artist/08XiXTlJPbnyNFZBygX58N) | [OFFICE DAZE](https://open.spotify.com/album/2z94zHSkwAVLzCPjWEtqUl) | 3:39 | 2024-04-03 | 2024-05-02 |
@@ -1025,6 +1026,7 @@
 | [Pretty](https://open.spotify.com/track/6WdVWpAVtE7CSKophvVSKa) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Pretty](https://open.spotify.com/album/0XvhZJjWZiuvE8tTcsyjnB) | 2:31 | 2022-10-28 | 2023-01-26 |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-05-01 | 2024-06-05 |
 | [Pretty Skin](https://open.spotify.com/track/14bnrZmjiq53rCk9yFfYLR) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Pretty Skin](https://open.spotify.com/album/4lbdxmlhINAIpkt144gzgQ) | 3:19 | 2023-03-29 | 2024-02-07 |
+| [Princessa](https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh) | [Indi](https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF) | [Princessa](https://open.spotify.com/album/4mt6E3wuLqyZpS4f3Mn1VU) | 1:58 | 2026-03-04 |  |
 | [Prisoner](https://open.spotify.com/track/637zt19BccA8sBpb4taT7Y) | [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [P.Priime](https://open.spotify.com/artist/5wqjeyQhV9mvu43Bv4wiLy) | [Honey Doom](https://open.spotify.com/album/3TvKmSxLeUCvQpNRgnVgN3) | 2:50 | 2023-03-05 | 2023-03-10 |
 | [Problem](https://open.spotify.com/track/1ap13V0TDN8mn99eaaWEcd) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [Problem](https://open.spotify.com/album/23XTTIJBevXciIi6ywpOvV) | 2:34 | 2024-08-07 | 2024-09-05 |
 | [Problems](https://open.spotify.com/track/5ILZEMgDCit02Og8RQfB6h) | [Curtis J](https://open.spotify.com/artist/1myX1TbX6OkGrelfyeRwxd), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Problems](https://open.spotify.com/album/0irnt3dtaoyMB5T7uqZQws) | 3:28 | 2023-06-05 | 2023-06-28 |

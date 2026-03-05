@@ -1,13 +1,61 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Madra Salach",
-  "num_followers": 96569,
+  "num_followers": 96580,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJUNRIRmbbFg3TtRy+sldwdOwb9d",
+  "snapshot_id": "AAAAAApLn8p3yYu5beetzCtEjjnQrZOd",
   "tracks": [
+    {
+      "added_at": "2026-03-04 17:30:46",
+      "album": {
+        "name": "pieces",
+        "url": "https://open.spotify.com/album/6kdc2r3GV5eMRucsYQLtVT"
+      },
+      "artists": [
+        {
+          "name": "brendon b",
+          "url": "https://open.spotify.com/artist/6hU7BmY0hzSFRIt3szp3B5"
+        }
+      ],
+      "duration_ms": 193863,
+      "name": "pieces",
+      "url": "https://open.spotify.com/track/3T75q5HwEOMfZXZgCWnstl"
+    },
+    {
+      "added_at": "2026-03-04 18:41:42",
+      "album": {
+        "name": "Silent Century",
+        "url": "https://open.spotify.com/album/08xo4blniKSJZD6lpVA5wZ"
+      },
+      "artists": [
+        {
+          "name": "Jackie West",
+          "url": "https://open.spotify.com/artist/6i2nxb8jZ6cmWzI7UkS7Np"
+        }
+      ],
+      "duration_ms": 192272,
+      "name": "Silent Century",
+      "url": "https://open.spotify.com/track/35J73GHiFuw7IeuQDfUBnK"
+    },
+    {
+      "added_at": "2026-03-04 17:30:46",
+      "album": {
+        "name": "Prefab Moon",
+        "url": "https://open.spotify.com/album/1JNY2m9eU9O5xobCeRGttj"
+      },
+      "artists": [
+        {
+          "name": "Field Commander Ali",
+          "url": "https://open.spotify.com/artist/4TUeSXaTyrKCPiQ2X9mekU"
+        }
+      ],
+      "duration_ms": 406108,
+      "name": "Prefab Moon",
+      "url": "https://open.spotify.com/track/2ZUZV6pgiRokNtkuxCH7w6"
+    },
     {
       "added_at": "2026-02-25 17:25:45",
       "album": {
@@ -39,6 +87,38 @@
       "duration_ms": 170125,
       "name": "Desert Horse",
       "url": "https://open.spotify.com/track/6WdyBn0hIDJa33KFMKuy0A"
+    },
+    {
+      "added_at": "2026-03-04 17:30:46",
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/4OrzHUjEoG1ONZtt9W0tNJ"
+      },
+      "artists": [
+        {
+          "name": "jael",
+          "url": "https://open.spotify.com/artist/1fa5Cs0FLFymlUMabvWTtw"
+        }
+      ],
+      "duration_ms": 189320,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51hGzgzAeI72yzyyG1jxlK"
+    },
+    {
+      "added_at": "2026-03-04 17:30:46",
+      "album": {
+        "name": "Blubird",
+        "url": "https://open.spotify.com/album/3pfOPzE5MdTlxoiJjEwO0Y"
+      },
+      "artists": [
+        {
+          "name": "Ryann Ross",
+          "url": "https://open.spotify.com/artist/4LlusKGPaCxnefSJFNulY6"
+        }
+      ],
+      "duration_ms": 136773,
+      "name": "Blubird",
+      "url": "https://open.spotify.com/track/1zCMk3ySbq4JIeVzU2j1Os"
     },
     {
       "added_at": "2026-02-11 17:00:28",
@@ -75,6 +155,22 @@
     {
       "added_at": "2026-02-25 17:25:45",
       "album": {
+        "name": "Dreams I've Had",
+        "url": "https://open.spotify.com/album/24slMgYTh3mDDc8ouu5BJB"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Dreams I've Had",
+      "url": "https://open.spotify.com/track/3lWZKgwlETbjSCJXKFeuhB"
+    },
+    {
+      "added_at": "2026-02-25 17:25:45",
+      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/7L72HTWpcLkW05Ak1GoCag"
       },
@@ -105,6 +201,22 @@
       "url": "https://open.spotify.com/track/7FSWfaH7VYM96fQWovWmtn"
     },
     {
+      "added_at": "2026-03-04 17:30:46",
+      "album": {
+        "name": "Swimming In Blood",
+        "url": "https://open.spotify.com/album/0thRqe5Yv2N9rY5aNw5OZz"
+      },
+      "artists": [
+        {
+          "name": "Ivy Knight",
+          "url": "https://open.spotify.com/artist/2k3Q5efL6SiHfAsGqdXk4z"
+        }
+      ],
+      "duration_ms": 208346,
+      "name": "Swimming In Blood",
+      "url": "https://open.spotify.com/track/3DmmwbEuH8kwlT6XdXrzXu"
+    },
+    {
       "added_at": "2026-02-25 17:25:45",
       "album": {
         "name": "Class Reunion",
@@ -119,22 +231,6 @@
       "duration_ms": 251619,
       "name": "Class Reunion",
       "url": "https://open.spotify.com/track/7jFx42obhvJXv83rH2ZpKj"
-    },
-    {
-      "added_at": "2026-02-25 17:25:45",
-      "album": {
-        "name": "Dreams I've Had",
-        "url": "https://open.spotify.com/album/24slMgYTh3mDDc8ouu5BJB"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Dreams I've Had",
-      "url": "https://open.spotify.com/track/3lWZKgwlETbjSCJXKFeuhB"
     },
     {
       "added_at": "2026-02-11 17:00:28",

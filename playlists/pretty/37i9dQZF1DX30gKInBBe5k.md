@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 
 > a hardcore home for slowcore fans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,216 likes - 84 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,222 likes - 84 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30gKInBBe5k.md) - [plain]
 | 19 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 |
 | 20 | [Untitled \#1](https://open.spotify.com/track/1b3VDOKsOZLRBkp6JhkBmP) | [Spain](https://open.spotify.com/artist/1XW5L5zIBqMw7sqkkuIi5n) | [The Blue Moods Of Spain](https://open.spotify.com/album/47FyvCCghOqYY6VQyyixNC) | 6:38 |
 | 21 | [Putting The Dog To Sleep](https://open.spotify.com/track/3pUoLeK4j2XHIuuqU8FECt) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [Burst Apart](https://open.spotify.com/album/1VQq6vAHE5jKzvrRpizdx2) | 5:47 |
-| 22 | [Blue Thunder](https://open.spotify.com/track/0DXsPlfQtOQBFbL0wAaOn6) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:49 |
-| 23 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
+| 22 | [Digging Shelters](https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX) | [Neil Halstead](https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj) | [Palindrome Hunches](https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe) | 3:40 |
+| 23 | [Blue Thunder](https://open.spotify.com/track/0DXsPlfQtOQBFbL0wAaOn6) | [Galaxie 500](https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG) | [On Fire](https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M) | 3:49 |
 | 24 | [Grave Filled with Books](https://open.spotify.com/track/7sYOXMXgA34jo9WkXZLEOG) | [Giles Corey](https://open.spotify.com/artist/6mkkQ4HQo21YZRKw3tRQSv) | [Giles Corey](https://open.spotify.com/album/55U9LPwlaFmsgOsLyJnrmu) | 4:01 |
 | 25 | [Absent Friend](https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 8:20 |
-| 26 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
-| 27 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
+| 26 | [Sunflower](https://open.spotify.com/track/5MLBottNJ4s4yL6t9sIryD) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [Things We Lost in the Fire](https://open.spotify.com/album/3YWmAFuOtr9YIDdqJ2Gius) | 4:39 |
+| 27 | [she loved dogs](https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG) | [dog isle](https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx) | [i'm not a violent dog, i don't know why i bite](https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P) | 1:55 |
 | 28 | [Today Is the Day](https://open.spotify.com/track/5nunaC0CNOswAsk98i0Ugq) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Summer Sun](https://open.spotify.com/album/4NdINo3J9ncT8qeD7hfxJf) | 5:34 |
 | 29 | [D](https://open.spotify.com/track/2bMMG4vn7pHC20gj8Yb34m) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [Frigid Stars](https://open.spotify.com/album/3a7G9BVcIu4T3kf3jQFrk9) | 4:27 |
 | 30 | [The Loom](https://open.spotify.com/track/5GbOaR6pcywF3y60jnN36Z) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 5:15 |

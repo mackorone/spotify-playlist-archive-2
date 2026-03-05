@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 64337,
+  "num_followers": 64429,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 241960,
-      "name": "It's Not My Time",
-      "url": "https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 196093,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 241960,
+      "name": "It's Not My Time",
+      "url": "https://open.spotify.com/track/0uybt73QFXaLCoxuVf6fhm"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Everything You Want",
-        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
-      },
-      "artists": [
-        {
-          "name": "Vertical Horizon",
-          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Everything You Want",
-      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 205066,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Everything You Want",
+        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
+      },
+      "artists": [
+        {
+          "name": "Vertical Horizon",
+          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Everything You Want",
+      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
     },
     {
       "added_at": "2024-07-12 15:02:20",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-231 songs - 12 hr 3 min
+232 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Funk](https://open.spotify.com/track/68qpjOo2mKJ7TVxFF4rEXW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:11 | 2023-12-30 | 2025-07-12 |
 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2023-12-30 | 2025-07-12 |
 | [Genetics \(feat\. Pussycat Dolls\)](https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:57 | 2025-01-09 | 2025-04-12 |
+| [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-03-04 |  |
 | [Get Some](https://open.spotify.com/track/3jvLOq1pFRGjD2cn9WOYDr) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Get Some](https://open.spotify.com/album/3Lj2MiaSUpmy5ahGGS6VAT) | 2:49 | 2023-12-30 | 2025-07-12 |
 | [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 | 2025-12-28 |  |
 | [Good Mornin' \(feat\. Gary Trainor\)](https://open.spotify.com/track/4hJ66Ebt5fh6xSWoqGrZCC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Gary Trainor](https://open.spotify.com/artist/5keCYPArJwg1eu4rdMKFL8) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:26 | 2023-12-30 | 2025-07-12 |

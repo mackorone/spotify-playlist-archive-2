@@ -1,12 +1,12 @@
 {
   "description": "This is Stan Getz. The essential tracks, all in one playlist.",
-  "num_followers": 53588,
+  "num_followers": 53600,
   "original_name": "This Is Stan Getz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACs4mwUsZUOW3IfP29jq+Fq",
+  "snapshot_id": "aaYkgAAAAAARLgw/ELt0/WoPZkDBqI3o",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stan Getz: The Getz Songbook",
-        "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jazz Samba",
         "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 220493,
       "name": "E Luxo So",
       "url": "https://open.spotify.com/track/0J27dNCeCg9yEG9qJpEMFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stan Getz: The Getz Songbook",
+        "url": "https://open.spotify.com/album/5Gut48CGBAM7YkP37Lct4s"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6vUv75b49uBNR9H0zenin6"
     },
     {
       "added_at": null,
@@ -579,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Getz/Gilberto #2",
-        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 188280,
-      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
-      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz With Guest Artist Laurindo Almeida",
         "url": "https://open.spotify.com/album/7MpkC6j49masfrHLQlXrB9"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 402506,
       "name": "Once Again (feat. Laurindo Almeida)",
       "url": "https://open.spotify.com/track/61nUmoV7ffSJNjxIt1Uqsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Getz/Gilberto #2",
+        "url": "https://open.spotify.com/album/0Hh0eLbuqqDxYSCpy7i4Jx"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 188280,
+      "name": "Samba Da Minha Terra - Live At Carnegie Hall/1964",
+      "url": "https://open.spotify.com/track/2AtI5ezg87Wk5FTVuFjAfE"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 251137,
-      "name": "Chega De Saudade (Too Much Longing)",
-      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Jazz #14",
         "url": "https://open.spotify.com/album/4HNlvnGISvRdhCLHvxm7Yz"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 323226,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Mdo6FZj42vID4oDi6P4ZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 251137,
+      "name": "Chega De Saudade (Too Much Longing)",
+      "url": "https://open.spotify.com/track/3V0ObXYSblt6csKmAvH8jU"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Band Bossa Nova",
-        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 349218,
-      "name": "Manha De Carnaval (Morning of Carnaval)",
-      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stan Getz Plays",
         "url": "https://open.spotify.com/album/5VDjsnQKRNJyR90or4Tsjw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 202586,
       "name": "Stars Fell On Alabama",
       "url": "https://open.spotify.com/track/53xnN41m2VdT4HdN8kd8Ho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bossa Nova",
+        "url": "https://open.spotify.com/album/3leIEH1Kpst3dFViDbKuaY"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 349218,
+      "name": "Manha De Carnaval (Morning of Carnaval)",
+      "url": "https://open.spotify.com/track/7GadWPwnxZT4HMeAtBYIWV"
     },
     {
       "added_at": null,

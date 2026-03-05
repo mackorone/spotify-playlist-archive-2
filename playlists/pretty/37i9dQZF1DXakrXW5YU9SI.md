@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,750 likes - 70 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,729 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 15 | [RATHER BE \(feat\. Lithe\)](https://open.spotify.com/track/1IwA4UYENdDLtR0IlfYFnE) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6) | [BEFORE I FORGET](https://open.spotify.com/album/5apkkoLPJJYZcghFfuNTF3) | 4:24 |
 | 16 | [Co by było gdyby](https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ) | [Renata Ślesicka](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae) | [16m2](https://open.spotify.com/album/3nPcKLFpyqh1y8sssJUJlz) | 3:25 |
 | 17 | [LOVE YOU LESS](https://open.spotify.com/track/5bhTUxSNkAZ4H3uFjSJRTY) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [LOVE YOU LESS](https://open.spotify.com/album/4g944V0fgMbrZYEDG9E0OG) | 3:21 |
-| 18 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
-| 19 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
+| 18 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
+| 19 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 |
 | 20 | [How I Get](https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [How I Get](https://open.spotify.com/album/70NOPNFs2y4lZMrowJzPuY) | 3:39 |
-| 21 | [Nightingale Lane.](https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Nightingale Lane.](https://open.spotify.com/album/22FLublraJkicHyrK2egu0) | 5:02 |
+| 21 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 |
 | 22 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 23 | [Thinking 'bout You](https://open.spotify.com/track/6pxf2SRlRfBwnQKcUZCm2s) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Thinking 'bout You](https://open.spotify.com/album/6k4bQKHw4hU7spl0fobR63) | 2:20 |
 | 24 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 49 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
 | 50 | [Destiny](https://open.spotify.com/track/3lgjvBBSBYpwNpLDY1nsmR) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Destiny](https://open.spotify.com/album/4wprqrMAFplpkWVySr4kD1) | 4:37 |
 | 51 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 |
-| 52 | [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 |
-| 53 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 |
-| 54 | [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 |
-| 55 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
+| 52 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 |
+| 53 | [Riksarkivet](https://open.spotify.com/track/0TfAljSPD3XMcmFCWbReit) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Sentimental Value](https://open.spotify.com/album/5OoZ2XvZIxa511ZkAmm3cO) | 3:17 |
+| 54 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
+| 55 | [Silently](https://open.spotify.com/track/4zsyUUiiob6NEyG4kzVyaP) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Croak Dream](https://open.spotify.com/album/6c3Xs0oDVFXrqVh56D50do) | 3:29 |
 | 56 | [City Walls](https://open.spotify.com/track/6N5FNgjEiwVkPYOjRgKFo4) | [Archive](https://open.spotify.com/artist/1Q776wzj2mrtXrNu3iH6nk) | [City Walls](https://open.spotify.com/album/3TRyssHrMrPqUNH9KGeCW8) | 5:11 |
 | 57 | [Sexy doll](https://open.spotify.com/track/50jUZjVyBoAZFBGgb5UvdV) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Obywatelka K.L.](https://open.spotify.com/album/6vMKCngJxJVE6rPYjt5h9g) | 4:05 |
 | 58 | [Czemu pozwoliłeś kochać?](https://open.spotify.com/track/00ITfmQnKbU69YUMimdI1U) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Czemu pozwoliłeś kochać?](https://open.spotify.com/album/4iz3J2ypdRCNHmF406gHOx) | 2:30 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 64 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 |
 | 65 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
 | 66 | [Waniliowy](https://open.spotify.com/track/36KwEZctWZKMK6DB1YdM6b) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/1L2AKJfjbV6ZY3qXHajqtz) | 2:10 |
-| 67 | [UMEÅ](https://open.spotify.com/track/67IsNYeoc6XqpUu7B886LW) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [UMEÅ](https://open.spotify.com/album/2i2gwXBcdP6ncjlJTOXnGR) | 2:52 |
-| 68 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
-| 69 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
-| 70 | [Pełnia](https://open.spotify.com/track/0Cl0eIyCH09ydNi7FvmDD3) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY) | [Pełnia](https://open.spotify.com/album/3y5HIfYJAm3O6nFqigjvc7) | 3:07 |
+| 67 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
+| 68 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
+| 69 | [UMEÅ](https://open.spotify.com/track/67IsNYeoc6XqpUu7B886LW) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Zuza Jabłońska](https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [UMEÅ](https://open.spotify.com/album/2i2gwXBcdP6ncjlJTOXnGR) | 2:52 |
+| 70 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
 
 Snapshot ID: `AAAAAC+j/wV9uW1TuQAgNQG2QxEvMtL6`

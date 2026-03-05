@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 704097,
+  "num_followers": 704342,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "What a Difference a Day Makes",
-      "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "The Gospel Truth (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 225093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "What a Difference a Day Makes",
+      "url": "https://open.spotify.com/track/11N6MAeBhzUfNVfsBVTcL4"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 221832,
-      "name": "I've Drawn Your Face",
-      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 275043,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 221832,
+      "name": "I've Drawn Your Face",
+      "url": "https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
-        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "True Love's Flame",
         "url": "https://open.spotify.com/album/0TM2WYhRGgJl3R4NEpQROI"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 152360,
       "name": "A Place I Don\u2019t Know",
       "url": "https://open.spotify.com/track/6r5NsGB9lBN4YXT9NXWHDP"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "I Will Wait for You (with Nils Landgren & FleshQuartet)",
+        "url": "https://open.spotify.com/album/3qZhst0qZ2bq0VXr135meE"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4WQnAZU9ydRZ7XCwj4aEB5"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
-      },
-      "artists": [
-        {
-          "name": "Molly Johnson",
-          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1635,6 +1619,38 @@
       "duration_ms": 371391,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/0Ah1nUp7WQOMCPbQIGf9od"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Prisoner of Love",
+        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "Prisoner of Love",
+      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1683,22 +1699,6 @@
       "duration_ms": 217507,
       "name": "Nice Girls Don't Stay for Breakfast",
       "url": "https://open.spotify.com/track/2QqqVuUiQROd2I6xqJqZkY"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
-        "name": "Prisoner of Love",
-        "url": "https://open.spotify.com/album/2TLjsOeLtdqlP264jRsjUF"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 143746,
-      "name": "Prisoner of Love",
-      "url": "https://open.spotify.com/track/51I6YF51LiQf3bZALtnHUO"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Do You Know What It Means to Miss New Orleans",
-        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
-      },
-      "artists": [
-        {
-          "name": "Bria Skonberg",
-          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
-        }
-      ],
-      "duration_ms": 253386,
-      "name": "Do You Know What It Means to Miss New Orleans",
-      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Lonely House",
         "url": "https://open.spotify.com/album/1xMnSworE5UlOMBezVcQn5"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 211664,
       "name": "There's a Lull in My Life",
       "url": "https://open.spotify.com/track/6JLH2EyOTUR4HOHN3DieYa"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Do You Know What It Means to Miss New Orleans",
+        "url": "https://open.spotify.com/album/0Qco1GecYXsJKqhXXaaGkx"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 253386,
+      "name": "Do You Know What It Means to Miss New Orleans",
+      "url": "https://open.spotify.com/track/5DTWu4zFlUZnOD9StTy164"
     },
     {
       "added_at": "2026-02-27 12:29:52",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-02-27 12:29:52",
       "album": {
-        "name": "Boy Boredom",
-        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
-      },
-      "artists": [
-        {
-          "name": "Cosma Joy",
-          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
-        }
-      ],
-      "duration_ms": 221241,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
-    },
-    {
-      "added_at": "2026-02-27 12:29:52",
-      "album": {
         "name": "Dreamers Ball",
         "url": "https://open.spotify.com/album/0uMulVRZbsaUJpJ8Lf8uDx"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 283960,
       "name": "Dreamers Ball",
       "url": "https://open.spotify.com/track/3jh6i9T4kocrZAEGv5JaXc"
+    },
+    {
+      "added_at": "2026-02-27 12:29:52",
+      "album": {
+        "name": "Boy Boredom",
+        "url": "https://open.spotify.com/album/0xLUeJSKo5J9QjiuVMKUpN"
+      },
+      "artists": [
+        {
+          "name": "Cosma Joy",
+          "url": "https://open.spotify.com/artist/2AqDA65BH1X8DI4LsFqiEJ"
+        }
+      ],
+      "duration_ms": 221241,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/2lggWmLZzrGJoejX97Usb8"
     },
     {
       "added_at": "2026-02-27 12:29:52",

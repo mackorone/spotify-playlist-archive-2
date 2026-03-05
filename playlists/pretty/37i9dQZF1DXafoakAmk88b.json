@@ -1,6 +1,6 @@
 {
   "description": "New indie from black artists driving the current. Cover: Arlo Parks",
-  "num_followers": 57670,
+  "num_followers": 57674,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-02-09 17:39:46",
       "album": {
-        "name": "Eusexua",
-        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
-      },
-      "artists": [
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 263693,
-      "name": "Eusexua",
-      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
-    },
-    {
-      "added_at": "2026-02-09 17:39:46",
-      "album": {
         "name": "I Don't Know How But They Found Me!",
         "url": "https://open.spotify.com/album/61pSh8kSiqdyoTgDbaPG8h"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 156666,
       "name": "Let Me Be Wrong",
       "url": "https://open.spotify.com/track/7iueQDyeYZRXZc4DYYAwDw"
+    },
+    {
+      "added_at": "2026-02-09 17:39:46",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "added_at": "2026-02-09 17:39:46",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-02-09 17:39:46",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/7BO5iLc2jcVc06AFPlXTaS"
+        "name": "10",
+        "url": "https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve"
       },
       "artists": [
         {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/2lLtw3h6cRKc9711qNeYNg"
+      "duration_ms": 286856,
+      "name": "T.H.",
+      "url": "https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs"
     }
   ],
   "unique_name": "Indie Frequency",

@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Scratching
 
-4,455 songs - 10 day 5 hr 40 min
+4,456 songs - 10 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [5pm in sydney](https://open.spotify.com/track/7ero6uTw1t3jQnE6BPo7TW) | [indigomerkaba](https://open.spotify.com/artist/2tiRue9s076Ax4Iwpk6xzP) | [multifaceted](https://open.spotify.com/album/2Di9fyC9R0mbRdnOpBHBma) | 3:35 | 2024-03-07 | 2024-04-17 |
 | [6 days into winter](https://open.spotify.com/track/63cNZDg5Tu6kQAPwkfp2VE) | [Johniepee](https://open.spotify.com/artist/7D1a5RgcUUnm6nUr2VTvVy) | [6 days into winter](https://open.spotify.com/album/13jvRFJ8E8FfDaZ5zih0SE) | 3:10 | 2023-05-10 | 2023-05-31 |
 | [685](https://open.spotify.com/track/17KxDy80RJnTgfGOC5AFuz) | [Victor J Sefo](https://open.spotify.com/artist/2C1zgkYFPzuU7GBM66c1S9), [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [685](https://open.spotify.com/album/3vJ4r4fRG6baXlbysTg7jW) | 3:00 | 2022-09-21 | 2022-10-27 |
-| [6pm](https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [6pm](https://open.spotify.com/album/0fz0GoHiBaSN5W7zLJK5PF) | 2:01 | 2025-10-21 |  |
+| [6pm](https://open.spotify.com/track/7089sv3SdB56MofZo1Qsas) | [Gordon's Grandson](https://open.spotify.com/artist/1Rz6zEO0rTdy208byosnx9) | [6pm](https://open.spotify.com/album/0fz0GoHiBaSN5W7zLJK5PF) | 2:01 | 2025-10-21 | 2026-03-05 |
 | [7 FORCES](https://open.spotify.com/track/5Nln9gvv3PPKE9Ljlxx6QY) | [Bow and Arrow](https://open.spotify.com/artist/6ibOCKTIE2ZAnZY6XFwqT8) | [7 FORCES](https://open.spotify.com/album/6sZPwZZCzioaFscL7RuaDm) | 3:28 | 2023-03-22 | 2023-04-13 |
 | [7 Lovers](https://open.spotify.com/track/0k4WacRtyZclaQrAbpZffV) | [YAHYAH](https://open.spotify.com/artist/0ggYTxkFUAl6DmRMBpxM6w) | [7 Lovers](https://open.spotify.com/album/5zu9ytsT3wGU99tbFIl4mU) | 3:08 | 2023-11-15 | 2023-11-30 |
 | [7 Up](https://open.spotify.com/track/62hIVucnuhYuYKgfOpe6n4) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [7 Up](https://open.spotify.com/album/34L5h7uSglIHTkglRnC63H) | 3:07 | 2024-02-08 | 2024-04-09 |
@@ -1207,6 +1207,7 @@
 | [Every Time I Think I'm Happy](https://open.spotify.com/track/1QSv4o67AsimQlKnpskKLX) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Every Time I Think I'm Happy](https://open.spotify.com/album/3VBGJNajYbgj3q9vrI7Tp5) | 3:58 | 2023-11-08 | 2023-11-30 |
 | [Every Week](https://open.spotify.com/track/0neH7exPogmyRBzc1JLnGH) | [Soft Covers](https://open.spotify.com/artist/2Yx70cmaHNwOQnSVdoJKqn) | [Soft Serve](https://open.spotify.com/album/3DXMR9hzTSLAclModjsNVz) | 2:48 | 2023-11-22 | 2023-11-30 |
 | [Everybody Else](https://open.spotify.com/track/4AOsnDTdsJ9IhRtDNV5XEX) | [Cellarr](https://open.spotify.com/artist/40hdxU4tcrbRkopSgr0arC) | [Everybody Else](https://open.spotify.com/album/116pYV6nJqFZuksO3QoT7t) | 3:15 | 2023-09-27 | 2023-10-20 |
+| [EVERYBODY KNOW](https://open.spotify.com/track/22Eril89EV5bWP0CZivVMp) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [EVERYBODY KNOW](https://open.spotify.com/album/2algVHmBMOzvr0scYeJoxj) | 2:17 | 2026-03-04 |  |
 | [Everybody Knows My Business Now](https://open.spotify.com/track/5W1qTk15k653P4eyagi3Cq) | [Georgia Knight](https://open.spotify.com/artist/1l9cB5ft1JeezqPyDJ8JKY) | [Everybody Knows My Business Now](https://open.spotify.com/album/1wzLap5MTdV7yA0lnqUdhc) | 4:48 | 2025-10-28 | 2026-01-28 |
 | [Everybody's Going To The Same Place](https://open.spotify.com/track/1UjxUpnYC2G3Uu8J8GQsjU) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [Real Life](https://open.spotify.com/album/3TvPrkiwLoiUmQ5A8wqrBj) | 3:25 | 2024-05-07 | 2024-06-05 |
 | [Everybody's Listening to the Radio Now](https://open.spotify.com/track/4xND9G228rS05OJ7XmQpPr) | [Majak Door](https://open.spotify.com/artist/07T4q3baUiO1NImfuaAwid) | [Everybody's Listening to the Radio Now](https://open.spotify.com/album/6s6wa0VYsAWKXIsbmADS7R) | 5:33 | 2025-01-07 | 2025-02-26 |

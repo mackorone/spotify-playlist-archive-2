@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 186225,
+  "num_followers": 186261,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAABiwqaZiCYjkiv4swkKyRbm",
+  "snapshot_id": "aaYkgAAAAACvnvoIR6s131D3ZRQuoFzi",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Un Amor De La Calle",
+      "url": "https://open.spotify.com/track/6zfdqSCVV0e5Pbmsc2wyao"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Hustler",
         "url": "https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 277186,
       "name": "Qu\u00e9 L\u00edo",
       "url": "https://open.spotify.com/track/3J4krWOV6J3mE6tNYiaqn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Un Amor De La Calle",
-      "url": "https://open.spotify.com/track/6zfdqSCVV0e5Pbmsc2wyao"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 180186,
+      "name": "Emborrachame De Amor",
+      "url": "https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambol\u00e9o",
         "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 391320,
       "name": "Siento",
       "url": "https://open.spotify.com/track/2El808Nt5lh2gI1H0Vd08T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Emborrachame De Amor",
-      "url": "https://open.spotify.com/track/0XDMdFi1onaxibiQKz7slG"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 246746,
+      "name": "So\u00f1ando Despierto",
+      "url": "https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crime Pays",
         "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 338013,
       "name": "Juana Pe\u00f1a",
       "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "So\u00f1ando Despierto",
-      "url": "https://open.spotify.com/track/5T33s7r9ZphwekRhavpbmA"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Cantante De Los Cantantes",
-        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 331333,
-      "name": "Hacha Y Machete",
-      "url": "https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strikes Back",
         "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 223040,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/6hqqBWimVhXmWcA8OMzTKX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Cantante De Los Cantantes",
+        "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 331333,
+      "name": "Hacha Y Machete",
+      "url": "https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG"
     },
     {
       "added_at": null,
@@ -887,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 574800,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ"
+      "duration_ms": 205320,
+      "name": "Tu No Puedes Conmigo",
+      "url": "https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo"
     },
     {
       "added_at": null,
@@ -919,22 +923,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 205320,
-      "name": "Tu No Puedes Conmigo",
-      "url": "https://open.spotify.com/track/1Cva3BnPjMPPYuAsd2NHIo"
+      "duration_ms": 574800,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/5UCnz9Q6GSFLl6oeCSaSSZ"
     }
   ],
   "unique_name": "This Is H\u00e9ctor Lavoe",

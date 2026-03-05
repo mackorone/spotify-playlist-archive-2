@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 
 > This is Mau y Ricky\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,492 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,487 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rApNf.md) - [plain]
 | 49 | [Faldita](https://open.spotify.com/track/1R5nCcASgTubHzMx2Ic5UU) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Faldita](https://open.spotify.com/album/7KTFqkLbakkZj2zHZWuplA) | 3:10 |
 | 50 | [ME ACOSTUMBRÉ](https://open.spotify.com/track/65tCqCMNr7tGPSAWFVGvat) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 3:36 |
 
-Snapshot ID: `aaTTAAAAAAD2ZNeQswtsyBZUKTpNZ4Wy`
+Snapshot ID: `aaYkgAAAAABCxSm6wnFAvoVAfYyKhEiy`

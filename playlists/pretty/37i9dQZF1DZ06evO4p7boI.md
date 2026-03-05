@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,088 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,089 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 49 | [Daytona \- Remix](https://open.spotify.com/track/6YRxtTysuvoAvo4aTOmQmv) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Daytona \(Remix\)](https://open.spotify.com/album/2QLjscrXJ2ZsWL7VM20mjr) | 3:39 |
 | 50 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
 
-Snapshot ID: `aaTTAAAAAAAacDwHvJ3wtVqkj4RBJyIL`
+Snapshot ID: `aaYkgAAAAAD7mZvXq/O6wgjfBUx6Duex`

@@ -4,7 +4,7 @@
 
 > 50% techno, 50% house 🗣️ Tech house operators, featuring Biscits
 
-2,652 songs - 6 day 1 hr 0 min
+2,653 songs - 6 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,7 +1560,7 @@
 | [Moving Blind \- Gorgon City Remix](https://open.spotify.com/track/34R7dDteJvbpKQEFQgPVgO) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Moving Blind \(Gorgon City Remix\)](https://open.spotify.com/album/6zKv3AVjT24VgcF9d93ShW) | 3:23 | 2021-11-26 | 2022-02-26 |
 | [Moving Up](https://open.spotify.com/track/42R4QvzLx9RjoZERFzgmA1) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Moving Up](https://open.spotify.com/album/03Af0MKeD3CmqM1G00iaAl) | 3:12 | 2023-04-14 | 2023-08-12 |
 | [Moving Up](https://open.spotify.com/track/0ePRnihguyYm66ZYJ2fCsU) | [Liquid Rose](https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN) | [Moving Up](https://open.spotify.com/album/1nfJDPB27pfC8lRZ15JV2Y) | 2:36 | 2024-03-01 | 2024-03-16 |
-| [MTHRFCKR](https://open.spotify.com/track/2YfAGiJKszqiMwglOAQp2N) | [Low Voltage](https://open.spotify.com/artist/4uKokLejBwsdyaNRFmn4YS) | [MTHRFCKR](https://open.spotify.com/album/0sK3jT2gMGqdYd14PbZ9IH) | 3:26 | 2026-01-09 |  |
+| [MTHRFCKR](https://open.spotify.com/track/2YfAGiJKszqiMwglOAQp2N) | [Low Voltage](https://open.spotify.com/artist/4uKokLejBwsdyaNRFmn4YS) | [MTHRFCKR](https://open.spotify.com/album/0sK3jT2gMGqdYd14PbZ9IH) | 3:26 | 2026-01-09 | 2026-03-05 |
 | [Mucho Mambo \(Sway\)](https://open.spotify.com/track/4m1cQA02c6OK2mlAfkhDCh) | [TOOMANYLEFTHANDS](https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Mucho Mambo \(Sway\)](https://open.spotify.com/album/7vtFACz1sTgcFRGOhl1xjp) | 2:20 | 2023-06-09 | 2023-09-23 |
 | [Mucho Tiempo](https://open.spotify.com/track/58R6Ua18hdDJ7576ugCEE0) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Marco Tropeano](https://open.spotify.com/artist/1Iduln9qYbj41kvHf9yDJb) | [Mucho Tiempo](https://open.spotify.com/album/144tzxsJOE8473sAmCAeNB) | 3:20 | 2022-07-29 | 2022-08-20 |
 | [Mumba](https://open.spotify.com/track/093pNDCe1KEptfuBLXWIHI) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Mumba EP](https://open.spotify.com/album/4UnaLZo7HpgSX8MoZpOSYZ) | 2:48 | 2023-04-21 | 2023-06-10 |
@@ -2220,6 +2220,7 @@
 | [Sway](https://open.spotify.com/track/0LZzGrLgxK8e0V6IoAQtd5) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Sway](https://open.spotify.com/album/2SFHdh9jrZsQTpsrqm2Wll) | 3:30 | 2021-11-26 | 2022-01-06 |
 | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/track/0KgDKuaHnbZOzz8adnnfxd) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Sway \(feat\. Dope Earth Alien\)](https://open.spotify.com/album/5TFBzrKDfvyAfqfkWiqETf) | 2:47 | 2022-12-09 | 2023-01-26 |
 | [Sweat](https://open.spotify.com/track/5Ly2w3jKYFvHbOv6Jf4HNM) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc) | [Sweat](https://open.spotify.com/album/56eNIDF7UTbl3Z8jw1Gofs) | 3:20 | 2023-05-12 | 2023-12-16 |
+| [Sweat](https://open.spotify.com/track/4xXqzlCnVukSusVHLAnYc9) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Mad.Again](https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V) | [Sweat](https://open.spotify.com/album/2p1NJOBxUbwSljyvVC01BY) | 2:44 | 2026-03-04 |  |
 | [Sweat Couture](https://open.spotify.com/track/4PilxRwgRgEliuW5fk8OIq) | [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Sweat Couture](https://open.spotify.com/album/5hoNLzCgltbatTcharSKOF) | 2:35 | 2025-07-11 | 2025-08-12 |
 | [Sweat It Out](https://open.spotify.com/track/5PabZP313TUynvTjcGODnk) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Sweat It Out](https://open.spotify.com/album/5hnfZsd5zZwPrdRRJGhscq) | 3:12 | 2025-09-12 | 2025-10-18 |
 | [Sweet Melody](https://open.spotify.com/track/00JVkBS6jBTPxgrihQL45a) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO) | [Sweet Melody](https://open.spotify.com/album/0UUXwwkKZsd7xxg0cS8jcd) | 2:29 | 2024-04-05 | 2024-04-27 |

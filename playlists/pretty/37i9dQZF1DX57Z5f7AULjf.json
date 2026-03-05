@@ -1,6 +1,6 @@
 {
   "description": "we outside all summer 2025!",
-  "num_followers": 9559,
+  "num_followers": 9569,
   "original_name": "We Outside!",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2025-08-01 02:12:09",
       "album": {
-        "name": "It Depends (feat. Bryson Tiller)",
-        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 271875,
-      "name": "It Depends (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
+      "duration_ms": 201869,
+      "name": "Ring Ring Ring",
+      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
     },
     {
       "added_at": "2025-07-11 07:49:15",
@@ -391,18 +387,22 @@
     {
       "added_at": "2025-08-01 02:12:09",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+        "name": "It Depends (feat. Bryson Tiller)",
+        "url": "https://open.spotify.com/album/6FA7O8oQl5eReFrDYjkusP"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 201869,
-      "name": "Ring Ring Ring",
-      "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+      "duration_ms": 271875,
+      "name": "It Depends (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0t3pcqgBjuAVBgY2oEUIlH"
     },
     {
       "added_at": "2023-10-21 17:22:38",

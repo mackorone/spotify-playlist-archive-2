@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: DIESECT",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Daisy Arson",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 84738,
       "name": "All Out",
       "url": "https://open.spotify.com/track/3eAfybIuBoTMCbO14ZNstb"
@@ -2587,6 +2587,28 @@
     },
     {
       "album": {
+        "name": "Cowboys Of Doom",
+        "url": "https://open.spotify.com/album/1VC01TRAKUqqNw3QsyLfbB"
+      },
+      "artists": [
+        {
+          "name": "We Kill Cowboys",
+          "url": "https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k"
+        },
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/1qS4fe56ZPYitRYMlJsLaO"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299720,
+      "name": "Cowboys Of Doom",
+      "url": "https://open.spotify.com/track/3sLufhrnJMJ6D5SB3Kx0mC"
+    },
+    {
+      "album": {
         "name": "Craven",
         "url": "https://open.spotify.com/album/27YuAMS31ShmdMxS8hWTkd"
       },
@@ -2674,6 +2696,24 @@
       "duration_ms": 244736,
       "name": "Cross To Bear",
       "url": "https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP"
+    },
+    {
+      "album": {
+        "name": "Crucifix",
+        "url": "https://open.spotify.com/album/3IjbqCf518CMb00wprQUQh"
+      },
+      "artists": [
+        {
+          "name": "Daisy Arson",
+          "url": "https://open.spotify.com/artist/3DyUFPzUfiw6VEzhgx5p5h"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165420,
+      "name": "Crucifix",
+      "url": "https://open.spotify.com/track/211ixSQEaqHyFNn64O3xxT"
     },
     {
       "album": {
@@ -3918,6 +3958,24 @@
       "duration_ms": 196166,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/7CheusintakeDzR0GNkKUU"
+    },
+    {
+      "album": {
+        "name": "Echoes of May",
+        "url": "https://open.spotify.com/album/4BdG9XGElwQBPgrC0yyoOI"
+      },
+      "artists": [
+        {
+          "name": "GRAYSHIFT",
+          "url": "https://open.spotify.com/artist/1wdX1pAW9I0klfKeFWhBVe"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146601,
+      "name": "Echoes of May",
+      "url": "https://open.spotify.com/track/2QQXN8gSbW2LMAbFZHP9q4"
     },
     {
       "album": {
@@ -5252,7 +5310,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 178622,
       "name": "Gift of Life",
       "url": "https://open.spotify.com/track/7usTs2xTjmCXa2KpBUo91n"
@@ -5840,7 +5898,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 218397,
       "name": "Heaven Below Earth",
       "url": "https://open.spotify.com/track/0Dzw9RdDR7xCKCH4UWM9SG"
@@ -6927,6 +6985,24 @@
     },
     {
       "album": {
+        "name": "JUST WANNA ROCK (COVER)",
+        "url": "https://open.spotify.com/album/0XNys1bF1YahzCUDGJVPWD"
+      },
+      "artists": [
+        {
+          "name": "Lucifena",
+          "url": "https://open.spotify.com/artist/4el1PRZYPKpK5a70AOYEQ9"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103259,
+      "name": "JUST WANNA ROCK - COVER",
+      "url": "https://open.spotify.com/track/5W4FY7SAL5djXyRa08maE6"
+    },
+    {
+      "album": {
         "name": "Karma",
         "url": "https://open.spotify.com/album/6r4DqmvfUbesDv6NkpuZX7"
       },
@@ -7182,7 +7258,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 221140,
       "name": "LABYRINTH",
       "url": "https://open.spotify.com/track/2UXSFJ9XH3MXG7tcYwPJlx"
@@ -7298,6 +7374,24 @@
       "duration_ms": 233160,
       "name": "LEECH",
       "url": "https://open.spotify.com/track/2uiCofKLDv60IdwsKc7yxo"
+    },
+    {
+      "album": {
+        "name": "Leglock",
+        "url": "https://open.spotify.com/album/73tP2HhzzfVMIDxB0pu1Rb"
+      },
+      "artists": [
+        {
+          "name": "Dry Socket",
+          "url": "https://open.spotify.com/artist/6OPZS4R79OduZPOLxzQnSm"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124648,
+      "name": "Leglock",
+      "url": "https://open.spotify.com/track/0e025R7ZIG6QEQYq3aDWZ5"
     },
     {
       "album": {
@@ -8742,7 +8836,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 493320,
       "name": "No Such Place",
       "url": "https://open.spotify.com/track/7Md9eysoLuV8EwOUF4RcAR"
@@ -10781,6 +10875,24 @@
     },
     {
       "album": {
+        "name": "Sharp Teeth",
+        "url": "https://open.spotify.com/album/4MSbUy9NDCRRs3EjAJQBzQ"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1u1DkbYSAOpAWeBir7TEUV"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184640,
+      "name": "Sharp Teeth",
+      "url": "https://open.spotify.com/track/2iruoTNGENcCv0UtfRuN81"
+    },
+    {
+      "album": {
         "name": "She's Had Enough",
         "url": "https://open.spotify.com/album/26bxp91QjlP4zrZnGyZ47G"
       },
@@ -11744,7 +11856,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 125800,
       "name": "Switchblade",
       "url": "https://open.spotify.com/track/5puPykFiwmMozb6vMSQRKn"

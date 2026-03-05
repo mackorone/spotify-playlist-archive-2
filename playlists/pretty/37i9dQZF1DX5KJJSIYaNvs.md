@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 ### [EQUAL India](https://open.spotify.com/playlist/37i9dQZF1DX5KJJSIYaNvs)
 
-> Listen to women at full volume\. Cover \- gini
+> Listen to women at full volume\. Cover \- Madhubanti Bagchi
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,056 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,073 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Feeka](https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A) | 2:43 |
+| 1 | [Kaise Hum](https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kaise Hum](https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc) | 3:54 |
 | 2 | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Raanjhan \(From "Do Patti"\)](https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW) | 4:00 |
 | 3 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
-| 4 | [Kaise Hum](https://open.spotify.com/track/7sxx709AexC8scBIjVMCQV) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Kaise Hum](https://open.spotify.com/album/4dBKpBxxdLlV9o1aI8dbjc) | 3:54 |
+| 4 | [Feeka](https://open.spotify.com/track/0KtpHwKA3UylFJyaJcdBxv) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Feeka](https://open.spotify.com/album/76gnTOJwG2tIcpUsR6Dd0A) | 2:43 |
 | 5 | [AANKH](https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [AANKH](https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE) | 3:08 |
 | 6 | [Haan Ke Haan](https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw), [Monali Thakur](https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Maharaj](https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6) | 3:24 |
 | 7 | [Behtar](https://open.spotify.com/track/5dibYPxeDw00ClnPUpmlVS) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Behtar](https://open.spotify.com/album/2pK7DPxzdkF0LMpVpiYxTm) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 49 | [Bairagi](https://open.spotify.com/track/0V5oH9auubxDafdSA4zRXd) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Bairagi](https://open.spotify.com/album/2xUM0INHSuQ4fYasXzZGle) | 2:30 |
 | 50 | [Sajnaa](https://open.spotify.com/track/4aRzjWbBsjLkAezPWqvRSu) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F), [Pranshu Jha](https://open.spotify.com/artist/5JW6fUObHNgkNCnYBs3BQp) | [Sajnaa](https://open.spotify.com/album/7lpUjVHZ4huiSc2mjY47k6) | 3:21 |
 
-Snapshot ID: `AAAAADN7NkJt5A2dz/hC1P5dqnqc9MCI`
+Snapshot ID: `AAAAAFIAsBWBSsMU92tht9ZpLC3mLOEF`

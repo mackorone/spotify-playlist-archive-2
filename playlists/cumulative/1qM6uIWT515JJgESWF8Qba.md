@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-171 songs - 10 hr 41 min
+173 songs - 10 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [FMU Make Me Cry](https://open.spotify.com/track/5hsVJlvCBvfwtSdL7IS8A4) | [Zerchronika](https://open.spotify.com/artist/0BW0PJS70OZ0T9AbX8xJU2) | [Scattered Memories](https://open.spotify.com/album/3LdurMICJIuXrQkipmVRw1) | 2:00 | 2025-11-04 | 2025-12-28 |
 | [Fugaz](https://open.spotify.com/track/3dzGcbIkdeQqwbHCOnv4h5) | [Lirium](https://open.spotify.com/artist/0A5pTrUZAtZ9tl2TSySp3d) | [Fugaz](https://open.spotify.com/album/5ZprKugGTao6b6K1EnF84S) | 5:19 | 2025-11-06 | 2025-12-28 |
 | [GAMEOVER](https://open.spotify.com/track/13B4x0OnPzcjiQ5LbjZIfo) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Houseless](https://open.spotify.com/album/6tmGczmutrm2vYRt4y7lvB) | 4:02 | 2025-10-27 | 2025-12-28 |
+| [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 | 2026-03-04 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 | 2025-12-28 |
 | [Gullible](https://open.spotify.com/track/6YPvJW4uHwCQxqfAf1y7yT) | [Rivera](https://open.spotify.com/artist/0o3CCG8AUPD5NwZb0hqDOX) | [Gullible](https://open.spotify.com/album/19dtDjcnes6R1Ohg2tvH2a) | 3:58 | 2025-12-08 | 2025-12-28 |
 | [Happiness and Being Smart](https://open.spotify.com/track/17sNT4G9qAC6em6wL5SoIk) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:09 | 2025-12-20 | 2026-01-21 |
@@ -82,6 +83,7 @@
 | [I'm A Shooter](https://open.spotify.com/track/6e20H9h5Sq5mJ3IHxsF1GW) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:26 | 2025-09-23 |  |
 | [I'm Dead, I'm Dead](https://open.spotify.com/track/4aUVFBtIx6JA44arzHCwn1) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Borderline](https://open.spotify.com/album/5naCmg7cIFEsG4tuHeaKll) | 3:41 | 2026-02-04 | 2026-02-23 |
 | [Idun](https://open.spotify.com/track/10pE4RcZOqGPVXscREQOs7) | [Dingo](https://open.spotify.com/artist/6GOHIe6YuljpICrbzPtP7z) | [Idun](https://open.spotify.com/album/7y0Ek5WT2nIMo2MO17blCI) | 4:16 | 2025-11-04 |  |
+| [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-03-04 |  |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-06 | 2025-12-28 |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [It's Hard To Break Me](https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:11 | 2025-09-30 |  |

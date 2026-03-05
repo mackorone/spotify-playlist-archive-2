@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 
 > In Gedenken an XATAR 🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,754 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,798 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSzguhfGl55y.md) - [plain]
 | 28 | [Olé Olé](https://open.spotify.com/track/4v4ZuW2tjSyyci2BcE5bTp) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Joshi Mizu](https://open.spotify.com/artist/03bmDyr8klGV17DKQnPZVA) | [BLYAT](https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs) | 2:33 |
 | 29 | [So perfekt](https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [Marteria](https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB) | [XOXO](https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv) | 3:40 |
 | 30 | [Interpol.com](https://open.spotify.com/track/3ueXKzLXjLUXJDp0HBYWTx) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Nr\. 415 \(Premium Edition\)](https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh) | 2:31 |
-| 31 | [Neuruppin](https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Drama Kuba](https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG), [Cannibal Rob](https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:23 |
-| 32 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
+| 31 | [Kimnotyze](https://open.spotify.com/track/6Hn28vF3xTsg7ukG1pGIDF) | [DJ Tomekk](https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Trooper Da Don](https://open.spotify.com/artist/0ED9s4HNaTjWmNgujA1Mvu) | [Beat of Life, Vol\. 1](https://open.spotify.com/album/1x0sohs1p9hvf2RtLdUiXY) | 3:29 |
+| 32 | [Neuruppin](https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH) | [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05), [Drama Kuba](https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG), [Cannibal Rob](https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk) | [Hahnenkampf](https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe) | 5:23 |
 | 33 | [Troy](https://open.spotify.com/track/6QRng4ZFJxeRnjcnquKlx2) | [Die Fantastischen Vier](https://open.spotify.com/artist/748dDObrUoBetes0pLj788) | [Viel \- Jubiläums\-Edition](https://open.spotify.com/album/265fpziPcNNDSBYhwOE5YY) | 4:29 |
 | 34 | [CLA$$IC](https://open.spotify.com/track/1NiRbfSiCys2d5JLLP4vJx) | [Bushido](https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S), [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [CLA$$IC](https://open.spotify.com/album/7JXqtxSJvV1QsBkdFtgmsL) | 3:46 |
 | 35 | [Iz da](https://open.spotify.com/track/2k0cvQmGvHOuNmKo2rMYIj) | [XATAR](https://open.spotify.com/artist/6XFQvBHGEr3mRfOHcqPXv8) | [Baba aller Babas](https://open.spotify.com/album/31gn729ax0kRu9KcUr8Lg3) | 3:33 |

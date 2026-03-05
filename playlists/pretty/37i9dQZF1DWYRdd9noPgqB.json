@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299036,
+  "num_followers": 299026,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "stay with the ocean, i'll find you",
         "url": "https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 229880,
       "name": "Just Two Girls",
       "url": "https://open.spotify.com/track/5yKfoYiHtMr7v6A1dk5ooh"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
-      },
-      "artists": [
-        {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
-        }
-      ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 199477,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "un th\u00e9?",
+        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        }
+      ],
+      "duration_ms": 152659,
+      "name": "un th\u00e9?",
+      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Don't Remind Me (with Anderson .Paak)",
         "url": "https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9"
       },
@@ -467,22 +483,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Hair Down",
-        "url": "https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 191580,
-      "name": "Hair Down",
-      "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Unoriginal / Black-Eyed Susan Climb",
         "url": "https://open.spotify.com/album/6G8lUZ22qQTBDsV5EKN4MO"
       },
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "un th\u00e9?",
-        "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
+        "name": "Hair Down",
+        "url": "https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4"
       },
       "artists": [
         {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
         }
       ],
-      "duration_ms": 152659,
-      "name": "un th\u00e9?",
-      "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
+      "duration_ms": 191580,
+      "name": "Hair Down",
+      "url": "https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Wild Guess",
-        "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 166524,
-      "name": "Wild Guess",
-      "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Feel Myself / Wait For You",
         "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
       },
@@ -691,22 +675,34 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "folding chairs on the moon",
-        "url": "https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc"
+        "name": "Wild Guess",
+        "url": "https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU"
+      },
+      "artists": [
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 166524,
+      "name": "Wild Guess",
+      "url": "https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "Backflips in a Restaurant (Deluxe)",
+        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
       },
       "artists": [
         {
           "name": "grentperez",
           "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 200000,
-      "name": "folding chairs on the moon",
-      "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
+      "duration_ms": 145890,
+      "name": "Might Not Be",
+      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Backflips in a Restaurant (Deluxe)",
-        "url": "https://open.spotify.com/album/6dKDh72QTH8hJz3I4WLREI"
+        "name": "folding chairs on the moon",
+        "url": "https://open.spotify.com/album/3pNeAqZF4s1icAo94ovwOc"
       },
       "artists": [
         {
           "name": "grentperez",
           "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
         }
       ],
-      "duration_ms": 145890,
-      "name": "Might Not Be",
-      "url": "https://open.spotify.com/track/2k3DRZRm9izXjhCPkxGPee"
+      "duration_ms": 200000,
+      "name": "folding chairs on the moon",
+      "url": "https://open.spotify.com/track/6kU8m88hdo7QyQ1EPqBQVF"
     },
     {
       "added_at": "2026-02-26 23:00:32",

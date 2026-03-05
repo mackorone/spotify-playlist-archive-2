@@ -4,12 +4,12 @@
 
 > bright and cozy beats to watch the world bloom, focus, study, or chill to.
 
-50 songs - 1 hr 50 min
+51 songs - 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Bad Song Is A Sad Song](https://open.spotify.com/track/3PwFxjVz4mdyeY9FHx1NOO) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [A Bad Song Is A Sad Song](https://open.spotify.com/album/0h9cPtD7AYZKFNTc5Tu0M6) | 2:20 | 2026-02-27 |  |
-| [Avocado](https://open.spotify.com/track/4UEsOhVOTgoQliXjVdfTUF) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Avocado](https://open.spotify.com/album/2f8vHjixXb5pKCkB9G9Ts6) | 3:17 | 2026-02-27 |  |
+| [Avocado](https://open.spotify.com/track/4UEsOhVOTgoQliXjVdfTUF) | [Rebecca Mardal](https://open.spotify.com/artist/56PuDgywHPrbEFyujgPc9V) | [Avocado](https://open.spotify.com/album/2f8vHjixXb5pKCkB9G9Ts6) | 3:17 | 2026-02-27 | 2026-03-05 |
 | [bamboo](https://open.spotify.com/track/3o9ao7MVy70akFMeOLLRFG) | [raindrop delay](https://open.spotify.com/artist/34oewuGdY10tJVQxjq202Q) | [bamboo](https://open.spotify.com/album/6sz8MRA9amMmf2xPcESqVo) | 1:49 | 2026-02-27 |  |
 | [Beginnings](https://open.spotify.com/track/164ax96RIZvbBaf13Hbhxy) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Ptr.](https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o) | [Beginnings](https://open.spotify.com/album/1yBtq0ZqHLSJR4o4h3i9V6) | 2:17 | 2026-02-27 |  |
 | [Beyond](https://open.spotify.com/track/1VBs6tCL0u31DngeDQvREG) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Beyond](https://open.spotify.com/album/4EhrkJX0ev0uXsevOhLvuh) | 2:09 | 2026-02-27 |  |
@@ -25,6 +25,7 @@
 | [Coffee Break](https://open.spotify.com/track/6ZgY3qsLYw1CfEqIuBjNPG) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS) | [Coffee Break](https://open.spotify.com/album/2h2pORhQLX0TlaQGw3iM4S) | 2:08 | 2026-02-27 |  |
 | [crispy chicken](https://open.spotify.com/track/5c5LmzPH8zG62iym0TsaGb) | [Reve brumeux](https://open.spotify.com/artist/2ZlVEhVqWhxjhWl8awyoDY) | [crispy chicken](https://open.spotify.com/album/1NOegygg4fe71eIIlMxrjz) | 2:10 | 2026-02-27 |  |
 | [Dreaming Together](https://open.spotify.com/track/5Pj5eKJGsexeqoPl22Gz7l) | [anlou](https://open.spotify.com/artist/5Vlev6Ie6QielMmMbrojhH) | [Dreaming Together](https://open.spotify.com/album/4xv3UQITKFzcZ36ODwQgOY) | 2:36 | 2026-02-27 |  |
+| [Early Bird](https://open.spotify.com/track/6ChTadHDU68gvfG3tCAMOy) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Early Bird](https://open.spotify.com/album/72u2lwYnNVGDNSlmwag4zV) | 1:48 | 2026-03-04 |  |
 | [half past monday](https://open.spotify.com/track/7hCsmNzkCZVV3ktT0ARAHE) | [Faded Amber](https://open.spotify.com/artist/77peTL3rXZCTebbHNcM3e2) | [half past monday](https://open.spotify.com/album/4SpX4y2jzVH3pB4CKZ0PUS) | 2:15 | 2026-02-27 |  |
 | [Hello, Good Morning!](https://open.spotify.com/track/6XFvaJB9C6DNsprLl7708B) | [HYYPNOTIC](https://open.spotify.com/artist/7xYrUsHYH5J0hYgxHyx6PM) | [Hello, Good Morning!](https://open.spotify.com/album/3hvSsFyDFI5qCjAtK1mY0L) | 2:25 | 2026-02-27 |  |
 | [i love u](https://open.spotify.com/track/2USao3lvvIv7SqWjxmImyV) | [G Sounds](https://open.spotify.com/artist/0C7tVaY5qlP5YgYh7DSUoJ) | [i love u](https://open.spotify.com/album/0UY0O01qnUYVIl3j2Yj9or) | 1:47 | 2026-02-27 |  |

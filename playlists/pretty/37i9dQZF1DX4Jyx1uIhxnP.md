@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,278 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,283 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 13 | [Wolf Like Me](https://open.spotify.com/track/6Zgd7SomLTZkL1WPh4CUnV) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Return To Cookie Mountain](https://open.spotify.com/album/4sD8WQQ8f1x3L4YFa9qFIO) | 4:47 |
 | 14 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 15 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
-| 16 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
-| 17 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
+| 16 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
+| 17 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
 | 18 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 19 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |
 | 20 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 38 | [Little Motel](https://open.spotify.com/track/1UR0lWHLSCx2naiD7bq9FW) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Were Dead Before The Ship Even Sank](https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz) | 4:44 |
 | 39 | [Trainspotting](https://open.spotify.com/track/3N8p0hzXZ0EF0OoDGFh5G9) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Vanishing Point \(Expanded Edition\)](https://open.spotify.com/album/4VhBLFWE273FyI3rDeNx0A) | 8:04 |
 | 40 | [Skeletons](https://open.spotify.com/track/4QDlcd4wAmmXXtKryfTxnO) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz! \(Deluxe Edition\)](https://open.spotify.com/album/2SIaQf1NRVarE8HDX5j8zG) | 5:02 |
-| 41 | [The Air That I Breathe](https://open.spotify.com/track/1ovu8lOVW8uD5FjWICAxpy) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [The Air That I Breathe \- The Very Best of the Hollies](https://open.spotify.com/album/0pwTBEMVUYruspemPFnwSp) | 4:04 |
-| 42 | [After Hours](https://open.spotify.com/track/2AgiH9n8cXo0csSkEhByKe) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Brain Thrust Mastery](https://open.spotify.com/album/4RBBsBIPdyfW1FX5McFxs8) | 3:52 |
+| 41 | [After Hours](https://open.spotify.com/track/2AgiH9n8cXo0csSkEhByKe) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [Brain Thrust Mastery](https://open.spotify.com/album/4RBBsBIPdyfW1FX5McFxs8) | 3:52 |
+| 42 | [The Air That I Breathe](https://open.spotify.com/track/1ovu8lOVW8uD5FjWICAxpy) | [The Hollies](https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ) | [The Air That I Breathe \- The Very Best of the Hollies](https://open.spotify.com/album/0pwTBEMVUYruspemPFnwSp) | 4:04 |
 | 43 | [How It Ends](https://open.spotify.com/track/59Ss6VuU0ML2mbb2Px70rt) | [DeVotchKa](https://open.spotify.com/artist/0hk8VgR64voU5ueK96W2DI) | [How It Ends](https://open.spotify.com/album/36gQzGzLViSKZw4tvNbLEh) | 6:59 |
 | 44 | [Set The Fire To The Third Bar](https://open.spotify.com/track/4uhQFwOqe5Vy84bjOB5Zob) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Martha Wainwright](https://open.spotify.com/artist/67pQ8Yr09zDDzzwWw3EG9R) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 3:22 |
 | 45 | [My Rollercoaster \[Juno Film Version\]](https://open.spotify.com/track/1cVoEI9zKLytNGNGM1MVUT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Juno \- Music From The Motion Picture](https://open.spotify.com/album/3Dm3Kc5oOFtesVJe5TF1HG) | 0:53 |

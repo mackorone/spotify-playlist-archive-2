@@ -1,12 +1,12 @@
 {
   "description": "This is NOFX. The essential tracks, all in one playlist.",
-  "num_followers": 93079,
+  "num_followers": 93090,
   "original_name": "This Is NOFX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAD3gG8D+Y4stfVR5r/5MhSb",
+  "snapshot_id": "aaYkgAAAAAC/1RVeSt/VOHrgY109o3Zs",
   "tracks": [
     {
       "added_at": null,
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Longest EP",
-        "url": "https://open.spotify.com/album/68i9eBIQGNh2tl4vKVj8A5"
+        "name": "The War on Errorism",
+        "url": "https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
         }
       ],
-      "duration_ms": 30880,
-      "name": "I Wanna Be an Alcoholic",
-      "url": "https://open.spotify.com/track/49UzZVcz26sdJYjslHGf9b"
+      "duration_ms": 115426,
+      "name": "13 Stitches",
+      "url": "https://open.spotify.com/track/5qzAWlUfddVpRnnsG5P6KF"
     }
   ],
   "unique_name": "This Is NOFX",

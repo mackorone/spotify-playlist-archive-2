@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 
 > This is Jessie Murph\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,184 likes - 36 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,219 likes - 36 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 6 | [Bad As The Rest](https://open.spotify.com/track/3RzL5fTJeqNqLwqSpKJ3xh) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 3:02 |
 | 7 | [Holy Ground \(feat\. Jessie Murph\)](https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [TAKE CARE \(DELUXE\)](https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs) | 2:57 |
 | 8 | [How Could You](https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 3:07 |
-| 9 | [I'm Not There For You](https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:19 |
+| 9 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
 | 10 | [I Like How I Look](https://open.spotify.com/track/5UhmDALCzmMrY0voaPfx0z) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 2:16 |
-| 11 | [Heartbroken \(feat\. Jessie Murph & Polo G\)](https://open.spotify.com/track/60eA3QITW5G2D7Woc11uKc) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Diplo Presents Thomas Wesley: Chapter 2 \- Swamp Savant](https://open.spotify.com/album/4T2TQZ3hlWAsCe9PXK3uM9) | 3:24 |
+| 11 | [I'm Not There For You](https://open.spotify.com/track/6eb08CdSYvq2lOyrQT9pbp) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 2:19 |
 | 12 | [Pray](https://open.spotify.com/track/7MOCaEUbfGyq1K96umNVwJ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [drowning](https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN) | 2:26 |
 | 13 | [It Ain't Right](https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 2:58 |
 | 14 | [The Man That Came Back](https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria](https://open.spotify.com/album/1slf6g1SethO2KrA4cxgjq) | 4:01 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t3qNz.md) - [plain]
 | 29 | [Look Who's Cryin' Now](https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Look Who's Cryin' Now](https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID) | 2:21 |
 | 30 | [Wildflowers and Wine](https://open.spotify.com/track/3DjBBD4u8mxzAQRsS9ua1u) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 4:31 |
 | 31 | [Someone In This Room \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [That Ain't No Man That's The Devil](https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7) | 3:20 |
-| 32 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
-| 33 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
+| 32 | [Criminal \- From the Original Motion Picture Scream 7](https://open.spotify.com/track/7FzmTWZg0cmBXOr5428N8R) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Criminal \(From the Original Motion Picture Scream 7\)](https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS) | 3:19 |
+| 33 | [Sobriety](https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sobriety](https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk) | 2:06 |
 | 34 | [Hallelujah \- Live from iHeartRadio Jingle Ball 2025](https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Hallelujah \(Live from iHeartRadio Jingle Ball 2025\)](https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P) | 2:27 |
 | 35 | [When I'm Not Around](https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [When I'm Not Around](https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz) | 3:21 |
 | 36 | [No Chance](https://open.spotify.com/track/2hlqy1X7LxeE8IvBCFU7Re) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Sex Hysteria \(Deluxe\)](https://open.spotify.com/album/6TpEUt1l3llFkDLbIgpinr) | 1:57 |
 
-Snapshot ID: `aaTTAAAAAAAaAdUVNc9q6FcWWFTCSHDg`
+Snapshot ID: `aaYkgAAAAADmbc+vHUmr0y5v2PO53ZuF`

@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140736,
+  "num_followers": 140742,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Van Mij Zijn",
-        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "YAM",
-          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "Van Mij Zijn",
-      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Festival",
         "url": "https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 146778,
       "name": "Festival",
       "url": "https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Van Mij Zijn",
+        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "duration_ms": 166911,
+      "name": "Van Mij Zijn",
+      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Stiekem \u201824",
-        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 188956,
-      "name": "Stiekem \u201824",
-      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Ik Heb Je",
         "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 194347,
       "name": "Ik Heb Je (met Henkie T & Yssi SB)",
       "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Stiekem \u201824",
+        "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 188956,
+      "name": "Stiekem \u201824",
+      "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Your Season",
-        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
-      },
-      "artists": [
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Your Season",
-      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
       },
@@ -1659,18 +1635,26 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Niet Verstandig",
-        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
+        "name": "Your Season",
+        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
       },
       "artists": [
         {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         }
       ],
-      "duration_ms": 142875,
-      "name": "Niet Verstandig",
-      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
+      "duration_ms": 152000,
+      "name": "Your Season",
+      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "Niet Verstandig",
+        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 142875,
+      "name": "Niet Verstandig",
+      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "Trust",
         "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
       },
@@ -1723,22 +1723,6 @@
       "duration_ms": 172271,
       "name": "Trust",
       "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1767,30 +1751,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Zonder Mij",
-        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 203338,
-      "name": "Zonder Mij",
-      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Bon Mij",
         "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
@@ -1815,34 +1775,66 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Lira Galore (Remix)",
-        "url": "https://open.spotify.com/album/1RIBfx2LGcHp9O5BFAtOdk"
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
       },
       "artists": [
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Russ Millions",
-          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Qlas",
-          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
-        },
-        {
-          "name": "Loski",
-          "url": "https://open.spotify.com/artist/5VNMclLseLzRnVhvkrqdpn"
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
         }
       ],
-      "duration_ms": 151758,
-      "name": "Lira Galore - Remix",
-      "url": "https://open.spotify.com/track/7EQaMPLaycCb7azZrBlQMR"
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Zonder Mij",
+        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Zonder Mij",
+      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Loro Piana",
+        "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
+      },
+      "artists": [
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q"
+        },
+        {
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Loro Piana",
+      "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
     }
   ],
   "unique_name": "Pull Up Hits",

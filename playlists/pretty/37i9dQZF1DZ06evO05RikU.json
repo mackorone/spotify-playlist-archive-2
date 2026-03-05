@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43556,
+  "num_followers": 43557,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAAB5Q+ZEti4S7mvEnkLfUjiR",
+  "snapshot_id": "aaYkgAAAAAAU5nlgioN6k6zqCss+NCmy",
   "tracks": [
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT \u00dc",
-        "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
+        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
       "artists": [
         {
@@ -336,17 +336,17 @@
           "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 139322,
-      "name": "NOT \u00dc",
-      "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
+      "duration_ms": 123428,
+      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
+      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
     },
     {
       "added_at": null,
@@ -375,8 +375,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-        "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
+        "name": "NOT \u00dc",
+        "url": "https://open.spotify.com/album/6WhhFMVZAcW8dWpipOddAk"
       },
       "artists": [
         {
@@ -384,17 +384,17 @@
           "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
-      "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+      "duration_ms": 139322,
+      "name": "NOT \u00dc",
+      "url": "https://open.spotify.com/track/7GJtYstZAW9hVBoTMfkYgh"
     },
     {
       "added_at": null,

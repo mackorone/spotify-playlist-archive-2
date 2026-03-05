@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,129 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,145 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 47 | [cross my heart](https://open.spotify.com/track/5ayZLwBFGNfQpI2ZsMnnKs) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 1:30 |
 | 48 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
 | 49 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
-| 50 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
-| 51 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
+| 50 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
+| 51 | [NORTHERN LIGHTS//](https://open.spotify.com/track/3sC1NBKIjCtkR7tIOzdFSj) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [NORTHERN LIGHTS//](https://open.spotify.com/album/3bZ8pVQSBpeGqJjMC5bB43) | 4:40 |
 | 52 | [SUCKERPUNCH](https://open.spotify.com/track/09059hl1BPvc7r1SbcXisj) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [SUCKERPUNCH](https://open.spotify.com/album/32xU1E8SKaRIEu1leO1McQ) | 2:52 |
 | 53 | [Welcome To My Life](https://open.spotify.com/track/5quWKpomMVx0NofTzESmmG) | [STVW](https://open.spotify.com/artist/3yycPRFMwYENrpe3nw7L4k), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [Welcome To My Life](https://open.spotify.com/album/3Q3tSxN1bqomlhCz3CNPjT) | 2:24 |
 | 54 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 76 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 77 | [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 |
 | 78 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 79 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
-| 80 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 79 | [WOLVES](https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [RESTORATION](https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf) | 2:57 |
+| 80 | [77 \- feat\. Avril Lavigne](https://open.spotify.com/track/6cEG5stzTtXrrCLgWKYV6j) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [77 \(feat\. Avril Lavigne\)](https://open.spotify.com/album/54XHsP7QjQy7MPPGdq5Npt) | 2:53 |
 
 Snapshot ID: `AAAAAEtODSjEs11lBLpprKI6u/NlVQIZ`

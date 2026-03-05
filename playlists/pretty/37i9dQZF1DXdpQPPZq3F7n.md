@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,763,117 likes - 75 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,763,635 likes - 75 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Bandeya \- From "Dil Juunglee"](https://open.spotify.com/track/6gwnKOvdBKkTU4CQ7KpIAu) | [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Bandeya \(From "Dil Juunglee"\)](https://open.spotify.com/album/0eBjbMAR0N7knX6hBT6c3h) | 3:04 |
 | 75 | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2) | [Mohammad Faiz](https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [Dekhha Tenu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc) | 4:41 |
 
-Snapshot ID: `AAAAALHozI/syYby9Myc9NLrN49G+3Vg`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

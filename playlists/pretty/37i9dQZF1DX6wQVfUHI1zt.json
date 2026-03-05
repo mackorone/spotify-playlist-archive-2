@@ -1,6 +1,6 @@
 {
   "description": "All the Tejano classics for you to enjoy! Cover: Selena",
-  "num_followers": 243972,
+  "num_followers": 244008,
   "original_name": "Tejano Classics",
   "owner": {
     "name": "Spotify",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "Puro Tejano Gold",
-        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb"
       },
       "artists": [
         {
-          "name": "David Lee Garza",
-          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
+          "name": "Los Palominos",
+          "url": "https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe"
         }
       ],
-      "duration_ms": 186706,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
+      "duration_ms": 208440,
+      "name": "La Llama",
+      "url": "https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4OcDyb089lSW7AUAm3Uvhb"
+        "name": "Puro Tejano Gold",
+        "url": "https://open.spotify.com/album/1PrA59M1gA4Pn8sqilMhI7"
       },
       "artists": [
         {
-          "name": "Los Palominos",
-          "url": "https://open.spotify.com/artist/0PWmxlpld6uKF8DXOupfQe"
+          "name": "David Lee Garza",
+          "url": "https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke"
         }
       ],
-      "duration_ms": 208440,
-      "name": "La Llama",
-      "url": "https://open.spotify.com/track/1UoU72fMy6ztND27wRtuFb"
+      "duration_ms": 186706,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/5fLsWE6O9kHLY7MflY1Gh8"
     },
     {
       "added_at": "2024-05-02 04:14:20",
@@ -755,38 +755,6 @@
     {
       "added_at": "2024-05-02 04:14:20",
       "album": {
-        "name": "30 Del Recuerdo",
-        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
-      },
-      "artists": [
-        {
-          "name": "Gary Hobbs",
-          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Maldito Amor",
-      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
-        "name": "FOREVER MAZZ",
-        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Gonzalez Y Grupo Mazz",
-          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
-    },
-    {
-      "added_at": "2024-05-02 04:14:20",
-      "album": {
         "name": "Tejano Mix",
         "url": "https://open.spotify.com/album/0puxxMHv59vd5G047pqTrg"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 284120,
       "name": "Tejano Mix - Radio Edit",
       "url": "https://open.spotify.com/track/3XZw0d0smJsYJcgFJAsI5O"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "FOREVER MAZZ",
+        "url": "https://open.spotify.com/album/30G4uBTGgFGkn0Pq3YQxUA"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Gonzalez Y Grupo Mazz",
+          "url": "https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq"
+        }
+      ],
+      "duration_ms": 278546,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/6nUD8Q392IavYezY3OhZdk"
+    },
+    {
+      "added_at": "2024-05-02 04:14:20",
+      "album": {
+        "name": "30 Del Recuerdo",
+        "url": "https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD"
+      },
+      "artists": [
+        {
+          "name": "Gary Hobbs",
+          "url": "https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "Maldito Amor",
+      "url": "https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj"
     },
     {
       "added_at": "2024-05-02 04:14:20",

@@ -1,6 +1,6 @@
 {
   "description": "Seminal indie pop tracks from the 2010s. Cover: Blood Orange.",
-  "num_followers": 358371,
+  "num_followers": 358391,
   "original_name": " Indie Pop 2010s",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "First",
-      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/2H09itV5a5yUcGyk9u9HwY"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "First",
+      "url": "https://open.spotify.com/track/3omXshBamrREltcf24gYDC"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Gossamer",
-        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 264546,
-      "name": "Take a Walk",
-      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 188639,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/4djIFfof5TpbSGRZUpsTXq"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Gossamer",
+        "url": "https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 264546,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Pop Psychology",
-        "url": "https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G"
-      },
-      "artists": [
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "Sleeping With A Friend",
-      "url": "https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2"
-    },
-    {
-      "added_at": "2025-01-28 19:15:57",
-      "album": {
         "name": "Sunday",
         "url": "https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 305776,
       "name": "Cheer Up, My Brother",
       "url": "https://open.spotify.com/track/37D9O4De2WL1hA6gyResgl"
+    },
+    {
+      "added_at": "2025-01-28 19:15:57",
+      "album": {
+        "name": "Pop Psychology",
+        "url": "https://open.spotify.com/album/6Xi4dJ9SudvC0ZoE5Krh3G"
+      },
+      "artists": [
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "Sleeping With A Friend",
+      "url": "https://open.spotify.com/track/0K1KOCeJBj3lpDYxEX9qP2"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "If You Wait",
-        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
+        "name": "Something to Tell You",
+        "url": "https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY"
       },
       "artists": [
         {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
         }
       ],
-      "duration_ms": 275794,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
+      "duration_ms": 232120,
+      "name": "Want You Back",
+      "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
     },
     {
       "added_at": "2025-01-28 19:15:57",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-01-28 19:15:57",
       "album": {
-        "name": "Something to Tell You",
-        "url": "https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY"
+        "name": "If You Wait",
+        "url": "https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
         }
       ],
-      "duration_ms": 232120,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
+      "duration_ms": 275794,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/0QMK2WVjKy3iKdqajgDB1P"
     },
     {
       "added_at": "2025-01-28 19:15:57",

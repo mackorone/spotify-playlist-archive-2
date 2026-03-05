@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,639 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,633 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 74 | [There’s Your Trouble \- Spotify Singles \(Live from Spotify House\)](https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [There’s Your Trouble \- Spotify Singles](https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC) | 3:11 |
 | 75 | [I Told You So](https://open.spotify.com/track/3ZK8icmaq8PMW686smPDVL) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:19 |
 | 76 | [Ships That Don’t Come In](https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:44 |
-| 77 | [Yukon](https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Yukon](https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6) | 2:36 |
-| 78 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
+| 77 | [Home](https://open.spotify.com/track/78NDstvbMtbdiPsYmGrHid) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pure BS \(Deluxe Edition\)](https://open.spotify.com/album/1Y2uUDf2eqGm2KxvlvaJbe) | 3:50 |
+| 78 | [Yukon](https://open.spotify.com/track/2TBuOs6tpd4cfhS1XvkJLK) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Yukon](https://open.spotify.com/album/2sUc8TaJ6dmrOACODkIeT6) | 2:36 |
 | 79 | [Wild And Blue](https://open.spotify.com/track/6hinPiQx1Us1iN1XBN5JG5) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Wild And Blue](https://open.spotify.com/album/4QzT0aXnzuEMsQ9LMgdEyo) | 3:06 |
 | 80 | [Simple Man](https://open.spotify.com/track/57bSzHwlhpD6N6vS81P0DV) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Acoustic Covers \(Deluxe\)](https://open.spotify.com/album/2tSbrXGTWwgkNnXD6LCABm) | 4:31 |
 | 81 | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Fooled Around and Fell in Love \(feat\. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack\)](https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH) | 4:09 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 96 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 97 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 |
 | 98 | [Wicked Game](https://open.spotify.com/track/7hQ9bSd1lU9yQkykhkKsMs) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Wicked Game](https://open.spotify.com/album/13Ejb8VtVaZxegIVp2iEsQ) | 6:11 |
-| 99 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 |
-| 100 | [Neon Moon](https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Neon Moon](https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX) | 4:36 |
+| 99 | [Neon Moon](https://open.spotify.com/track/6ek5meLoh67PearowyYJ5A) | [Charly Reynolds](https://open.spotify.com/artist/0Qn2b5t1GBKkYDmtORH1Yp) | [Neon Moon](https://open.spotify.com/album/68Y8nmLqyxK7ZrLJkCNdXX) | 4:36 |
+| 100 | [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 |
 
 Snapshot ID: `AAAAAMQ8p1ZNa2zMZVqoiEM/+ut1Jngl`

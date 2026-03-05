@@ -1,12 +1,12 @@
 {
   "description": "This is Matt Maher. The essential tracks, all in one playlist.",
-  "num_followers": 27514,
+  "num_followers": 27517,
   "original_name": "This Is Matt Maher",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADhBmvBAah2CH5dhXHyiJHJ",
+  "snapshot_id": "aaYkgAAAAACxXAaWR92vk84HMt17a5qR",
   "tracks": [
     {
       "added_at": null,
@@ -795,42 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Go Tell It (Gloria)",
-        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        },
-        {
-          "name": "The Choir Room",
-          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
-        }
-      ],
-      "duration_ms": 199836,
-      "name": "Go Tell It (Gloria)",
-      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive & Breathing",
-        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 239256,
-      "name": "Lord of My Life",
-      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se\u00f1or, Te Necesito",
         "url": "https://open.spotify.com/album/6prmSJ9bjlXsxKqIQVxNxK"
       },
@@ -851,30 +815,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Kingdom of Jesus",
-        "url": "https://open.spotify.com/album/35z3a11GNkqarQjIml21nM"
+        "name": "Alive & Breathing",
+        "url": "https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9"
       },
       "artists": [
         {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        },
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 239256,
+      "name": "Lord of My Life",
+      "url": "https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Go Tell It (Gloria)",
+        "url": "https://open.spotify.com/album/0zyVJyBQiTJ5XEiRJMThbJ"
+      },
+      "artists": [
         {
           "name": "Matt Maher",
           "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
         },
         {
-          "name": "Dee Wilson",
-          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
         }
       ],
-      "duration_ms": 345815,
-      "name": "That We Might Overcome",
-      "url": "https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo"
+      "duration_ms": 199836,
+      "name": "Go Tell It (Gloria)",
+      "url": "https://open.spotify.com/track/3rBe2uBbzPxN1ldJpe2RAM"
     },
     {
       "added_at": null,
@@ -891,22 +863,6 @@
       "duration_ms": 255320,
       "name": "Holy, Holy, Holy (God With Us)",
       "url": "https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Stories I Tell Myself",
-        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "The Stories I Tell Myself",
-      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
     },
     {
       "added_at": null,
@@ -935,6 +891,50 @@
       "duration_ms": 238720,
       "name": "It's You - Tide Electric Remix",
       "url": "https://open.spotify.com/track/0BjY74508Q2LZbjyP6ASQA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Stories I Tell Myself",
+        "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "The Stories I Tell Myself",
+      "url": "https://open.spotify.com/track/4C5VoslGdB45KzAaKp4Cg7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Kingdom of Jesus",
+        "url": "https://open.spotify.com/album/35z3a11GNkqarQjIml21nM"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Dee Wilson",
+          "url": "https://open.spotify.com/artist/7C1I0Npw9kRe5vPDhm0adW"
+        }
+      ],
+      "duration_ms": 345815,
+      "name": "That We Might Overcome",
+      "url": "https://open.spotify.com/track/01IzsQif6lw1sgovKN1DVo"
     },
     {
       "added_at": null,

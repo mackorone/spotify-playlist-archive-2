@@ -1,12 +1,12 @@
 {
   "description": "This is Daphne Oram. The essential tracks, all in one playlist.",
-  "num_followers": 218,
+  "num_followers": 219,
   "original_name": "This Is Daphne Oram",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACtbecjfQN5absuP0yd17ce",
+  "snapshot_id": "aaYkgAAAAACiW7nhidTpyHGDl1GtjQ68",
   "tracks": [
     {
       "added_at": null,
@@ -104,13 +104,13 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Cosey Fanni Tutti",
-          "url": "https://open.spotify.com/artist/1xBSMtc33fBa1ZeZ0EL9DI"
+          "name": "Marta Salogni",
+          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Tributum",
-      "url": "https://open.spotify.com/track/1cNZMLHqEmxGDMyls10uQ4"
+      "duration_ms": 257600,
+      "name": "An Individual Note",
+      "url": "https://open.spotify.com/track/04PkbBCvAfZigq5rT3laZc"
     },
     {
       "added_at": null,
@@ -135,22 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty and The Beast",
-        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 87675,
-      "name": "Beauty and the Beast, Pt. 1",
-      "url": "https://open.spotify.com/track/3MSsZnD275rZGclyYo4L8b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic Sound Patterns (Remastered)",
         "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
       },
@@ -167,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beauty and The Beast",
+        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "Pulse Persephone",
+      "url": "https://open.spotify.com/track/5L1kkRgkl4ViC6Uab0HMkR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "vari/ations - Ode to Oram",
         "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
       },
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Marta Salogni",
-          "url": "https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS"
+          "name": "Cosey Fanni Tutti",
+          "url": "https://open.spotify.com/artist/1xBSMtc33fBa1ZeZ0EL9DI"
         }
       ],
-      "duration_ms": 257600,
-      "name": "An Individual Note",
-      "url": "https://open.spotify.com/track/04PkbBCvAfZigq5rT3laZc"
+      "duration_ms": 213760,
+      "name": "Tributum",
+      "url": "https://open.spotify.com/track/1cNZMLHqEmxGDMyls10uQ4"
     },
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beauty and The Beast",
-        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "Pulse Persephone",
-      "url": "https://open.spotify.com/track/5L1kkRgkl4ViC6Uab0HMkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic Sound Patterns (Remastered)",
         "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
       },
@@ -243,42 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "vari/ations - Ode to Oram",
-        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Nwando Ebizie",
-          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "The Art Of Living",
-      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "An Anthology Of Noise And Electronic Music Vol.2",
-        "url": "https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 494746,
-      "name": "Four Aspects",
-      "url": "https://open.spotify.com/track/1wFoG9wRb1XHGR5VqGUh6v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beauty and The Beast",
         "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
       },
@@ -288,25 +236,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 468111,
-      "name": "Snow",
-      "url": "https://open.spotify.com/track/0ZjTQR0a9MohtSVoPROCrI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electronic Sound Patterns (Remastered)",
-        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 52826,
-      "name": "Rhythmic Variations i",
-      "url": "https://open.spotify.com/track/4yO8htn0r3gjsAVYjkpgE7"
+      "duration_ms": 87675,
+      "name": "Beauty and the Beast, Pt. 1",
+      "url": "https://open.spotify.com/track/3MSsZnD275rZGclyYo4L8b"
     },
     {
       "added_at": null,
@@ -335,6 +267,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "An Anthology Of Noise And Electronic Music Vol.2",
+        "url": "https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 494746,
+      "name": "Four Aspects",
+      "url": "https://open.spotify.com/track/1wFoG9wRb1XHGR5VqGUh6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electronic Sound Patterns (Remastered)",
+        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 52826,
+      "name": "Rhythmic Variations i",
+      "url": "https://open.spotify.com/track/4yO8htn0r3gjsAVYjkpgE7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beauty and The Beast",
+        "url": "https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 468111,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/0ZjTQR0a9MohtSVoPROCrI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "vari/ations - Ode to Oram",
+        "url": "https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Nwando Ebizie",
+          "url": "https://open.spotify.com/artist/2iQRDca7GuLPCGAA8e3Ksx"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "The Art Of Living",
+      "url": "https://open.spotify.com/track/2R1qYqW4g1Ns5ubEGtZL6v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dr. Faustus Suite",
         "url": "https://open.spotify.com/album/6omAW7tFneti1UJiGhBQeS"
       },
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Incantations for Tape, Precocious Noise and Early Electronica Pt.1",
-        "url": "https://open.spotify.com/album/70pM3i7Co4JWiYitNMOUMA"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 37253,
-      "name": "Band 5: Rhythmic Variation, 2018 Remaster - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5FNfXkhaYlSh2pTmUjRZ9i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Electronic Sound Patterns (Remastered)",
         "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 45880,
       "name": "Ascending and Decending Sequences of Varying Nature vii",
       "url": "https://open.spotify.com/track/2F2i4rIAaPQV2oe262tTZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oramics, Vol. 1",
+        "url": "https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 89161,
+      "name": "Rockets In Ursa Major",
+      "url": "https://open.spotify.com/track/1Hj5aYZKXvxJvHu0lMW9GA"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Electronic Sound Patterns (Remastered)",
+        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 32680,
+      "name": "Ascending and Decending Sequences of Varying Nature iv",
+      "url": "https://open.spotify.com/track/52tQ2R5lWx81lUbSEUpBJo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Dreams and Public Nightmares",
         "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electronic Sound Patterns (Remastered)",
-        "url": "https://open.spotify.com/album/3Myhkd7nXEmp3NlZ57OtkA"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        }
-      ],
-      "duration_ms": 32680,
-      "name": "Ascending and Decending Sequences of Varying Nature iv",
-      "url": "https://open.spotify.com/track/52tQ2R5lWx81lUbSEUpBJo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oramics, Vol. 1",
         "url": "https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         }
       ],
-      "duration_ms": 89161,
-      "name": "Rockets In Ursa Major",
-      "url": "https://open.spotify.com/track/1Hj5aYZKXvxJvHu0lMW9GA"
+      "duration_ms": 124853,
+      "name": "Tumblewash",
+      "url": "https://open.spotify.com/track/6XRxx3nTPhSTijeaB483Rw"
     },
     {
       "added_at": null,
@@ -487,6 +487,22 @@
       "duration_ms": 208047,
       "name": "Beauty and the Beast, Pt. 2",
       "url": "https://open.spotify.com/track/22xhx09bRYIVkOiTZXDnuv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Incantations for Tape, Precocious Noise and Early Electronica Pt.1",
+        "url": "https://open.spotify.com/album/70pM3i7Co4JWiYitNMOUMA"
+      },
+      "artists": [
+        {
+          "name": "Daphne Oram",
+          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        }
+      ],
+      "duration_ms": 37253,
+      "name": "Band 5: Rhythmic Variation, 2018 Remaster - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5FNfXkhaYlSh2pTmUjRZ9i"
     },
     {
       "added_at": null,
@@ -542,11 +558,15 @@
         {
           "name": "Daphne Oram",
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
+        },
+        {
+          "name": "Vera Gray",
+          "url": "https://open.spotify.com/artist/2I8OinluiWb5vJAEQzxqCg"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Tumblewash",
-      "url": "https://open.spotify.com/track/6XRxx3nTPhSTijeaB483Rw"
+      "duration_ms": 1172511,
+      "name": "Listen, Move And Dance Nos. 1-3",
+      "url": "https://open.spotify.com/track/7HdlteQFZbZ3VT6jnjOEAf"
     },
     {
       "added_at": null,
@@ -575,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oramics, Vol. 1",
-        "url": "https://open.spotify.com/album/56A2868JLnNJNhbN4RNywW"
+        "name": "Private Dreams and Public Nightmares",
+        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
       },
       "artists": [
         {
@@ -584,13 +604,17 @@
           "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
         },
         {
-          "name": "Vera Gray",
-          "url": "https://open.spotify.com/artist/2I8OinluiWb5vJAEQzxqCg"
+          "name": "Andrea Parker",
+          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
+        },
+        {
+          "name": "Daz Quayle",
+          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
         }
       ],
-      "duration_ms": 1172511,
-      "name": "Listen, Move And Dance Nos. 1-3",
-      "url": "https://open.spotify.com/track/7HdlteQFZbZ3VT6jnjOEAf"
+      "duration_ms": 465813,
+      "name": "Now and Always Here",
+      "url": "https://open.spotify.com/track/6SfsKgUrl0A5gs8LfQ9wWV"
     },
     {
       "added_at": null,
@@ -615,30 +639,6 @@
       "duration_ms": 582173,
       "name": "Ghost Hamlet",
       "url": "https://open.spotify.com/track/6u0mEmA2x5MQtLT2q1GS6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Private Dreams and Public Nightmares",
-        "url": "https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel"
-      },
-      "artists": [
-        {
-          "name": "Daphne Oram",
-          "url": "https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs"
-        },
-        {
-          "name": "Andrea Parker",
-          "url": "https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj"
-        },
-        {
-          "name": "Daz Quayle",
-          "url": "https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk"
-        }
-      ],
-      "duration_ms": 465813,
-      "name": "Now and Always Here",
-      "url": "https://open.spotify.com/track/6SfsKgUrl0A5gs8LfQ9wWV"
     }
   ],
   "unique_name": "This Is Daphne Oram",

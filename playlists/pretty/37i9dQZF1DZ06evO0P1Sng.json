@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8232,
+  "num_followers": 8231,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADA9UzBgRI2S2mI/X+CuvNw",
+  "snapshot_id": "aaYkgAAAAABVrKhwZ1WRGO/Feluw1LKB",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afroculture",
-        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
-      },
-      "artists": [
-        {
-          "name": "Flavour",
-          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 165630,
-      "name": "Isabella",
-      "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Sesh #6",
         "url": "https://open.spotify.com/album/1Er4MbWMJTAp6C8iGmBs3V"
       },
@@ -443,6 +423,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afroculture",
+        "url": "https://open.spotify.com/album/1sM0s4b4cERAyyal6pkDpa"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 165630,
+      "name": "Isabella",
+      "url": "https://open.spotify.com/track/0Jf8KRqmVUTlYFpJHQahbP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "P\u00farpura",
         "url": "https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC"
       },
@@ -463,6 +463,26 @@
       "duration_ms": 136874,
       "name": "Hora H",
       "url": "https://open.spotify.com/track/74GeiZ69xOZYej0IeKSLYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -491,26 +511,6 @@
       "duration_ms": 163428,
       "name": "60K - Remix",
       "url": "https://open.spotify.com/track/4tRhRB2kJQLosmNCWrIsLw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -731,6 +731,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "OgEMr",
+        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 205576,
+      "name": "BRONCA",
+      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Efeito Borboleta",
         "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
       },
@@ -787,30 +811,6 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OgEMr",
-        "url": "https://open.spotify.com/album/57JDkF9dsWZhjgqQoo8yBQ"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 205576,
-      "name": "BRONCA",
-      "url": "https://open.spotify.com/track/385ADXAbI6RlUAxCilPh2o"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 240000,
       "name": "Corpo Quente",
       "url": "https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -1075,34 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Milhas",
-        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
-      },
-      "artists": [
-        {
-          "name": "A Banca Records",
-          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Da Paz",
-          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
-        }
-      ],
-      "duration_ms": 163720,
-      "name": "Milhas",
-      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOLA + 1 BECK (DELUXE)",
         "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
       },
@@ -1143,34 +1115,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Minutos",
-        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+        "name": "Milhas",
+        "url": "https://open.spotify.com/album/0cfOwK11Z4y0J0NbtkRbUW"
       },
       "artists": [
         {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+          "name": "A Banca Records",
+          "url": "https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ"
         },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
         },
         {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+          "name": "Da Paz",
+          "url": "https://open.spotify.com/artist/3Hj3HTvPzKS8Q3c1PhDgn0"
         }
       ],
-      "duration_ms": 215520,
-      "name": "2 Minutos",
-      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+      "duration_ms": 163720,
+      "name": "Milhas",
+      "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
     },
     {
       "added_at": null,
@@ -1211,6 +1179,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "2 Minutos",
+        "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        }
+      ],
+      "duration_ms": 215520,
+      "name": "2 Minutos",
+      "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tormento",
         "url": "https://open.spotify.com/album/0B8xX96n8bkqDp5eN2U8pI"
       },
@@ -1231,30 +1231,6 @@
       "duration_ms": 198454,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7eM0YTE95V1KkPw4pANo1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
     },
     {
       "added_at": null,
@@ -1335,6 +1311,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e1 Influ\u00eancia",
         "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 177253,
       "name": "As Ruas Sabem Meu Nome",
       "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
     },
     {
       "added_at": null,
@@ -1391,22 +1407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Azzy On The Radar Freestyle",
         "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
       },
@@ -1427,26 +1427,6 @@
       "duration_ms": 141923,
       "name": "Azzy On The Radar Freestyle",
       "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sua Inten\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Spinnheli",
-          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
-        }
-      ],
-      "duration_ms": 131584,
-      "name": "Sua Inten\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     },
     {
       "added_at": null,
@@ -1487,6 +1467,26 @@
       "duration_ms": 487619,
       "name": "Pra Sempre",
       "url": "https://open.spotify.com/track/5Cq98QXJoptVVspuRDOkg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sua Inten\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1wOwDz4f9eYZhZXG0KJgGS"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Spinnheli",
+          "url": "https://open.spotify.com/artist/4hlAv9C6uWQRTQvqE7xWud"
+        }
+      ],
+      "duration_ms": 131584,
+      "name": "Sua Inten\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4Yv4otyzNdft5wq4bMm3Xi"
     }
   ],
   "unique_name": "This Is Azzy",

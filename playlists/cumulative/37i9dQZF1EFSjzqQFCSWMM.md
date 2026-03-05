@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-133 songs - 6 hr 13 min
+134 songs - 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Not Sorry](https://open.spotify.com/track/7ps92YupHzzx6b1Lyhmiyc) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [STAGES](https://open.spotify.com/album/2wTHtRmJdIwS8e7F4mrCzm) | 2:06 | 2023-12-13 |  |
 | [Not Sure](https://open.spotify.com/track/2HZw9e2ph4C02ElCOLqLnj) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o), [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 4:43 | 2023-12-13 |  |
 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 | 2023-12-13 |  |
-| [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 | 2023-12-13 |  |
+| [Numeri](https://open.spotify.com/track/0Yj5tofXbmOYqkAL1qKfAc) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/35MwuAE0wYpbBVV6oXNcQ1) | 2:12 | 2026-03-04 |  |
+| [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 | 2023-12-13 | 2026-03-05 |
 | [ON 10](https://open.spotify.com/track/5qPcrnvubBiYudhiPcpPIK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:53 | 2023-12-13 |  |
 | [On My Mind](https://open.spotify.com/track/4I2dKtLNSWlk8rE0zAuin4) | [Young Rog](https://open.spotify.com/artist/3KS7WL7X3d09RoG0ZJfPuF) | [Boy Next Door](https://open.spotify.com/album/7JYIYGAFPn7gHJtAXUFAgw) | 2:28 | 2023-12-13 |  |
 | [One of One](https://open.spotify.com/track/1bxwVCnjFoTgritZiI7hEb) | [Ann Marie](https://open.spotify.com/artist/3feB1IF85It42sebtWSqws) | [Tripolar 3 \(Deluxe\)](https://open.spotify.com/album/74qn9cs3X0iSPqJHVqI5Ih) | 3:06 | 2024-03-27 |  |

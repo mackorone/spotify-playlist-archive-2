@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Daniel, Me Est\u00e1s Matando en portada.",
-  "num_followers": 547537,
+  "num_followers": 547529,
   "original_name": "nuevo bolero mexicano",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
         "name": "La Tirana",
         "url": "https://open.spotify.com/album/3m4iMb2AizcRBHVi2YWZVp"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 244059,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/50EbdrEGOfk6fWYOAIYo7I"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
-      },
-      "artists": [
-        {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-02-27 06:00:30",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
         "name": "Tu Espejo Es Mentiroso",
         "url": "https://open.spotify.com/album/2k4bXlGyj2xZoz3iikYkF2"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
         "name": "DUAL",
         "url": "https://open.spotify.com/album/0a8nzPpmgew18suqLjTQnk"
       },
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
-        "name": "El palacio de las flores",
-        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Contigo aprend\u00ed",
-      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
         "name": "El Vac\u00edo (Noches de Sal\u00f3n)",
         "url": "https://open.spotify.com/album/0f0Lm7ZkDq0x5nvcPk2d6F"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 238500,
       "name": "El Vac\u00edo - Noches de Sal\u00f3n",
       "url": "https://open.spotify.com/track/5gSH1TCwTlUFwJHLLhFXqS"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
+        "name": "El palacio de las flores",
+        "url": "https://open.spotify.com/album/5AeKNE9h7MfjCFY0llkDmg"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Contigo aprend\u00ed",
+      "url": "https://open.spotify.com/track/0pO5eDgP67Inq0SrSRbxuB"
     },
     {
       "added_at": "2026-02-27 06:00:30",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
-        "name": "Infierno Favorito",
-        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
-      },
-      "artists": [
-        {
-          "name": "Motherflowers",
-          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 214279,
-      "name": "Infierno Favorito",
-      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
         "name": "Me Vuelves Loca",
         "url": "https://open.spotify.com/album/2AuC5wOjsNXG7rWyFheYZi"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 268146,
       "name": "Me Vuelves Loca",
       "url": "https://open.spotify.com/track/4b2VrKk6vR7304vrY3v0f0"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
+        "name": "Infierno Favorito",
+        "url": "https://open.spotify.com/album/5h4XBRTNDxEB9Cr7j4FE3H"
+      },
+      "artists": [
+        {
+          "name": "Motherflowers",
+          "url": "https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 214279,
+      "name": "Infierno Favorito",
+      "url": "https://open.spotify.com/track/2VmnYX2n0eGrONLto2pg74"
     },
     {
       "added_at": "2026-02-27 06:00:30",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
         "name": "Celebrando Al Pr\u00edncipe",
         "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 242293,
       "name": "Almohada",
       "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-02-27 06:00:30",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2026-02-27 06:00:30",
       "album": {
-        "name": "Tan B\u00e1sico",
-        "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
-      },
-      "artists": [
-        {
-          "name": "Los Rumberos",
-          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
-        },
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 189155,
-      "name": "Tan B\u00e1sico",
-      "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
-    },
-    {
-      "added_at": "2026-02-27 06:00:30",
-      "album": {
         "name": "L\u00e1grimas Negras",
         "url": "https://open.spotify.com/album/3j7YBot19H5ochk5dHuwiQ"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 318893,
       "name": "L\u00e1grimas Negras",
       "url": "https://open.spotify.com/track/0LBLCeMdb0LeV9ncVdZbwB"
+    },
+    {
+      "added_at": "2026-02-27 06:00:30",
+      "album": {
+        "name": "Tan B\u00e1sico",
+        "url": "https://open.spotify.com/album/0v4BjRnKBVyXuDGanBQjzM"
+      },
+      "artists": [
+        {
+          "name": "Los Rumberos",
+          "url": "https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 189155,
+      "name": "Tan B\u00e1sico",
+      "url": "https://open.spotify.com/track/72ntzS0t7Iq1smBA9wRjMx"
     }
   ],
   "unique_name": "nuevo bolero mexicano",

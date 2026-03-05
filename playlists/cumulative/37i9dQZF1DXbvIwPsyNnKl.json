@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Flow G & Skusta Clee",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Fern., Al James, O SIDE MAFIA, Because",
   "name": "KALYE",
   "tracks": [
     {
@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 205714,
       "name": "8000",
       "url": "https://open.spotify.com/track/2FQz3geAGgd80cQliDSHTT"
@@ -390,7 +390,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 125979,
       "name": "99% SWAG",
       "url": "https://open.spotify.com/track/1Q6fWYoKuAF6DhZNoXdJow"
@@ -3404,7 +3404,7 @@
       ],
       "date_added": "2025-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 223272,
       "name": "Itim Na Van",
       "url": "https://open.spotify.com/track/0xIL9b2aLpyp2tKqPw8Mpq"
@@ -4176,6 +4176,28 @@
       "duration_ms": 191219,
       "name": "LUMAYO KANA",
       "url": "https://open.spotify.com/track/6RMuVO3C62Y8qkUxtpgdLr"
+    },
+    {
+      "album": {
+        "name": "UPTOWN JIGGY WORLD, Vol. 1",
+        "url": "https://open.spotify.com/album/65fXzZDtsZUdWXqdT1mYiH"
+      },
+      "artists": [
+        {
+          "name": "NL4L",
+          "url": "https://open.spotify.com/artist/6jaG3anlbaCJWNwanoiwDm"
+        },
+        {
+          "name": "Mark Beats",
+          "url": "https://open.spotify.com/artist/5wWx9uftlyPdzXtkKkurVM"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148292,
+      "name": "LUST",
+      "url": "https://open.spotify.com/track/1Ex6lFBCeJZvhW3NaF1tAE"
     },
     {
       "album": {
@@ -5054,6 +5076,24 @@
       "duration_ms": 120692,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/62etNFfOoyyiFcMRUjFMiI"
+    },
+    {
+      "album": {
+        "name": "No Baby",
+        "url": "https://open.spotify.com/album/6nrsoEzgJP2Ar51zOGBPRk"
+      },
+      "artists": [
+        {
+          "name": "Lightskeen Baby",
+          "url": "https://open.spotify.com/artist/5ZpjkPLzL9439XJbt7wffG"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155372,
+      "name": "No Baby",
+      "url": "https://open.spotify.com/track/7oTK88N1QOlTsg6GrU1adn"
     },
     {
       "album": {
@@ -6004,7 +6044,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 204071,
       "name": "Rehab",
       "url": "https://open.spotify.com/track/5RYbFBs1K0vFiC61H20EO2"
@@ -7392,6 +7432,42 @@
       "duration_ms": 414146,
       "name": "Tugmang Preso",
       "url": "https://open.spotify.com/track/3iF6qURjmUsozda5wS6nkz"
+    },
+    {
+      "album": {
+        "name": "Tuldok",
+        "url": "https://open.spotify.com/album/0ihrkE1fLBbJ8Jn3adznXB"
+      },
+      "artists": [
+        {
+          "name": "Apekz",
+          "url": "https://open.spotify.com/artist/76xGhfBlYK3ZLMwkGxOuQn"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381799,
+      "name": "Tuldok",
+      "url": "https://open.spotify.com/track/5qmJxQ2jAYCgG3fidAyACT"
+    },
+    {
+      "album": {
+        "name": "TUMATAK",
+        "url": "https://open.spotify.com/album/4ZgPKJtWd2Mpx8p38QuKa0"
+      },
+      "artists": [
+        {
+          "name": "Barq",
+          "url": "https://open.spotify.com/artist/4INBFlFRWAczJG69vNp1o2"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "TUMATAK",
+      "url": "https://open.spotify.com/track/1btvfzHy40Lmg49DZ1fdZL"
     },
     {
       "album": {

@@ -1,15 +1,15 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Namak. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Qetoo. Artwork: Isu Kim",
   "num_followers": 13023,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGfcGxiyBLV+gH1XqtDiAM+nfrms",
+  "snapshot_id": "AAAAAFTUzs8KV9DilUnbzb26Z/T8MNMF",
   "tracks": [
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "MOUKA",
         "url": "https://open.spotify.com/album/5dZ6vjmnu2I1TPBBFXOlgi"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4hAmFaqmjlpx5guTASQzAJ"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "1234",
         "url": "https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/04sHLus87Mi9LLRZNZqnn5"
+      },
+      "artists": [
+        {
+          "name": "Qetoo",
+          "url": "https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "MESH MOSTA2",
+      "url": "https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl"
+    },
+    {
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Idiots",
         "url": "https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj"
@@ -57,7 +73,27 @@
       "url": "https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
+      "album": {
+        "name": "Saheb El Aaraf",
+        "url": "https://open.spotify.com/album/02bCHp1Q6PyfhnlRo84pgK"
+      },
+      "artists": [
+        {
+          "name": "Mr. H",
+          "url": "https://open.spotify.com/artist/1GUPC6ruZ3VXpLc0C0UOSL"
+        },
+        {
+          "name": "Khateeb",
+          "url": "https://open.spotify.com/artist/1m6jdeBwe3zUQKl5hof9ib"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Saheb El Aaraf",
+      "url": "https://open.spotify.com/track/5q2pUOsoUeMxsaox3vce8b"
+    },
+    {
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "\u0632\u0631\u0627\u0632\u064a\u0631",
         "url": "https://open.spotify.com/album/3YzaCPbtlVeOcgiObkDj15"
@@ -81,7 +117,7 @@
       "url": "https://open.spotify.com/track/3ZDvqAWIvPM9p6HjFD4klj"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Mokazi",
         "url": "https://open.spotify.com/album/0ttvnPyMZUBUtOxhKZkPte"
@@ -101,7 +137,31 @@
       "url": "https://open.spotify.com/track/6WrurmZYqpjbj8f2j9DaCr"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
+      "album": {
+        "name": "3WASF",
+        "url": "https://open.spotify.com/album/09q62UUzEX2zwHm8nEzhiB"
+      },
+      "artists": [
+        {
+          "name": "OTT",
+          "url": "https://open.spotify.com/artist/038gck90liF5ILjX8xJhrr"
+        },
+        {
+          "name": "AFYOON",
+          "url": "https://open.spotify.com/artist/6d9Gz70K2H80BR3OyHqQk0"
+        },
+        {
+          "name": "Nxptune",
+          "url": "https://open.spotify.com/artist/7ErBXnmLu4a6BNs0tvPik7"
+        }
+      ],
+      "duration_ms": 184937,
+      "name": "3WASF",
+      "url": "https://open.spotify.com/track/5MP1iB1ErqjEUztOU7h1IX"
+    },
+    {
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Emotions Icy",
         "url": "https://open.spotify.com/album/5RwdfMw1WSsvnfODkSMc35"
@@ -117,23 +177,7 @@
       "url": "https://open.spotify.com/track/2tov1U88xrtqbQcrOflSon"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/04sHLus87Mi9LLRZNZqnn5"
-      },
-      "artists": [
-        {
-          "name": "Qetoo",
-          "url": "https://open.spotify.com/artist/6XnHQclydV6kIVoBClncdF"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "MESH MOSTA2",
-      "url": "https://open.spotify.com/track/4ChpOTg7RlVxB5BcKRK5Jl"
-    },
-    {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Shargeeya!",
         "url": "https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV"
@@ -149,7 +193,7 @@
       "url": "https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Fid\u00e8le",
         "url": "https://open.spotify.com/album/40mtyrxvEJb2Tb6zZkAbIB"
@@ -165,7 +209,7 @@
       "url": "https://open.spotify.com/track/0GXHaqVZPoV97zXhJ0rE7S"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "KIWI",
         "url": "https://open.spotify.com/album/5NrB1piyq6CiK7XE8dgBgt"
@@ -185,7 +229,7 @@
       "url": "https://open.spotify.com/track/4ijT8yTatmxES3yc4j2ZNI"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "\u063a\u0627\u0644\u064a\u0629 \u0639\u0644\u064a\u0627",
         "url": "https://open.spotify.com/album/3T0F6jPG0BphXBBrf4gKQX"
@@ -201,7 +245,27 @@
       "url": "https://open.spotify.com/track/2V0UuB9SnKJFQ6ubekgI6Y"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
+      "album": {
+        "name": "MAFESH TAQA",
+        "url": "https://open.spotify.com/album/6kiftEgkJald31vs4FqQoA"
+      },
+      "artists": [
+        {
+          "name": "Bloodymarry",
+          "url": "https://open.spotify.com/artist/4uEN26MTdsYpNuYdTYDQ40"
+        },
+        {
+          "name": "MOAZ",
+          "url": "https://open.spotify.com/artist/3WJj9WOHSMcZRwZJpTopnt"
+        }
+      ],
+      "duration_ms": 176456,
+      "name": "MAFESH TAQA",
+      "url": "https://open.spotify.com/track/208UcAYZsbege0I5fAnOOI"
+    },
+    {
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "The Plug",
         "url": "https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km"
@@ -225,7 +289,7 @@
       "url": "https://open.spotify.com/track/4Bw1x4YbA4XzGevMbkXtpV"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "matgily tany \u0645\u0627\u062a\u062c\u064a\u0644\u064a \u062a\u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm"
@@ -241,7 +305,7 @@
       "url": "https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "\u0645\u0645\u0646\u0648\u0639\u0627\u062a \u064a\u0648\u0644\u064a\u0648\u0633 \u0642\u064a\u0635\u0631",
         "url": "https://open.spotify.com/album/2uX5WusKHTUhKPjBxxQfTF"
@@ -257,7 +321,7 @@
       "url": "https://open.spotify.com/track/6JP9JWd00sYDoVjdi1tZlX"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "GEN Z",
         "url": "https://open.spotify.com/album/5ILJWyvs2L9MoVQjykB82d"
@@ -273,7 +337,7 @@
       "url": "https://open.spotify.com/track/7jWkQmvYldiqAaOrziSy1a"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6I9D29zt85tVe5crIRbjYr"
@@ -289,7 +353,7 @@
       "url": "https://open.spotify.com/track/1dX0J7ldIhzpZ4O52iZdAc"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/1o1xpojV5njTQswSZbNoqn"
@@ -313,7 +377,7 @@
       "url": "https://open.spotify.com/track/6PcO08cZ8KLtix7hCB4Oej"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "V (VOL.1)",
         "url": "https://open.spotify.com/album/068ORCN5H54XpJvqaSTRQE"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/3tiGLYpEDZMOjY1dbDJZHg"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "100 RA'AI",
         "url": "https://open.spotify.com/album/6AazyK4VPDpSNBTtj2a9AU"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/5XEW9NjDfPw4T9c8Wmxu5d"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Dhu l Qarnayn",
         "url": "https://open.spotify.com/album/36sYxO49UpeqGMC2uNi1K4"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/1UoiRFxBi6x2UtT84YkoZt"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "THE BACKSTORY OF GALILEE",
         "url": "https://open.spotify.com/album/3V84qYJgHBbIZgtPauwfla"
@@ -381,7 +445,7 @@
       "url": "https://open.spotify.com/track/2QcqzU2JMA8L2BotCVMu2D"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/26do3rDYRpKSptiGGBEKPy"
@@ -397,7 +461,7 @@
       "url": "https://open.spotify.com/track/6PLlafCH5IqQkJHX3pBllr"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Nirvana",
         "url": "https://open.spotify.com/album/3WnvwajqZLvFfi3bdy7OfE"
@@ -413,7 +477,7 @@
       "url": "https://open.spotify.com/track/30bp5UpQK5wuHSMTLMfbUt"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Z!EN GPT",
         "url": "https://open.spotify.com/album/3fIjFiV2GtzpplDSvwiQe3"
@@ -437,7 +501,7 @@
       "url": "https://open.spotify.com/track/46H1UUgdj9WfTOrDdLAjmC"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "TESHREEN",
         "url": "https://open.spotify.com/album/3xy73bLj4bMn4fS5bYiVWg"
@@ -457,7 +521,7 @@
       "url": "https://open.spotify.com/track/2kgaek3dqjuciNFMgSwxde"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "DARWIN",
         "url": "https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP"
@@ -473,7 +537,7 @@
       "url": "https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "LAMA AB\u2019A MAAK",
         "url": "https://open.spotify.com/album/7gQKuDwWXNmWgU1raWjr9Q"
@@ -489,7 +553,7 @@
       "url": "https://open.spotify.com/track/4ETJnYTY8P5TIjU5oWgFrh"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "VISION INFINIE",
         "url": "https://open.spotify.com/album/64udCfdcMantoQDkjDnvUg"
@@ -509,7 +573,7 @@
       "url": "https://open.spotify.com/track/6InRnKEvD7AuwlLMeH1IJE"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "SWITCH",
         "url": "https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K"
@@ -525,7 +589,7 @@
       "url": "https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Esh El 3amal",
         "url": "https://open.spotify.com/album/3ae4huO0tae1B2hU7Xs1tS"
@@ -541,7 +605,7 @@
       "url": "https://open.spotify.com/track/3EPHHuYAamviSf9vpNcoLx"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "\u0634\u0637 \u062c\u062f\u064a\u062f (a new shore)",
         "url": "https://open.spotify.com/album/3KnGdI9DaPzIOSEVO4xTtL"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/1ADCd0jpnbySVqVGvb1paM"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "weily weily weily",
         "url": "https://open.spotify.com/album/0mbFYz2BHc098iFKNghOrQ"
@@ -573,7 +637,7 @@
       "url": "https://open.spotify.com/track/29iUFCOui4EQiOOdjozX6e"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "law f zaman tany",
         "url": "https://open.spotify.com/album/0xBHnUAm32g1SC8AZNVVGQ"
@@ -589,7 +653,7 @@
       "url": "https://open.spotify.com/track/3LRXM9DLmDYTc4P9QP9rjx"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Midnight Cruising",
         "url": "https://open.spotify.com/album/3XcNPRMIAvKsZsOT7XkUo5"
@@ -605,7 +669,7 @@
       "url": "https://open.spotify.com/track/0xa4flflOYX1HAQIHhEjbe"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Lwad Wadi",
         "url": "https://open.spotify.com/album/42sHriXfgIFyyUXiDaynqT"
@@ -621,7 +685,7 @@
       "url": "https://open.spotify.com/track/6TVOld6LKKDZxIgFLp7gaE"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "\u0645\u0627\u0644\u064a \u0648\u0625\u0646 \u0623\u063a\u0645\u0636\u062a \u0639\u064a\u0646\u064a - Mali",
         "url": "https://open.spotify.com/album/3VrcJI3i6uGeDkfHLrHIwa"
@@ -637,27 +701,7 @@
       "url": "https://open.spotify.com/track/19Gu2pNDq4D6C18AEwUWTP"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
-      "album": {
-        "name": "ODABLE",
-        "url": "https://open.spotify.com/album/1SMPHOgcnPyeWtHFIFB9IX"
-      },
-      "artists": [
-        {
-          "name": "ODA",
-          "url": "https://open.spotify.com/artist/3OtJ7fVZzFiLcwxNoYOMou"
-        },
-        {
-          "name": "John Six",
-          "url": "https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv"
-        }
-      ],
-      "duration_ms": 131925,
-      "name": "ODABLE",
-      "url": "https://open.spotify.com/track/69mcvnHrScEU4baYJ699qj"
-    },
-    {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "HOB CYCLE",
         "url": "https://open.spotify.com/album/1c1FgOqKp5KlZaFifjlwmo"
@@ -673,27 +717,7 @@
       "url": "https://open.spotify.com/track/5qgV6qJoQrBZ4CHHJy9Yuy"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
-      "album": {
-        "name": "EXODUS",
-        "url": "https://open.spotify.com/album/7FsW7ddJp00smOK5adJH2E"
-      },
-      "artists": [
-        {
-          "name": "PH41",
-          "url": "https://open.spotify.com/artist/0vLIzPuOP0lzN7KMe09KcU"
-        },
-        {
-          "name": "Clouchae",
-          "url": "https://open.spotify.com/artist/05VV7hjJM9ZDRtqwW5RoRt"
-        }
-      ],
-      "duration_ms": 261928,
-      "name": "EXODUS",
-      "url": "https://open.spotify.com/track/2jfBDPEZ4zZRnm6u44chj0"
-    },
-    {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Hayni Hoon",
         "url": "https://open.spotify.com/album/2WrZYy9wUqMi9bQ3nN2pDr"
@@ -709,7 +733,7 @@
       "url": "https://open.spotify.com/track/4snQ2N9PijxVCyRaeefvUk"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "SOLARR ECLIPSE",
         "url": "https://open.spotify.com/album/0lFizxfo164ay2N9rTPO4V"
@@ -725,7 +749,7 @@
       "url": "https://open.spotify.com/track/23mWBNJHv0B4UF5CsYTujh"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Wein Hal Ghaybe",
         "url": "https://open.spotify.com/album/6tQQ242xkPSa0VI4gdbxhh"
@@ -741,7 +765,7 @@
       "url": "https://open.spotify.com/track/5utpreqHOAzJr8mdgW1Dp5"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "EL HOB BYLSA3 SIKA",
         "url": "https://open.spotify.com/album/2g9Ghear5Jw0KnLtd13S9o"
@@ -757,7 +781,7 @@
       "url": "https://open.spotify.com/track/21sihy54rK2RVHgpogB9AL"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "BENT LA VILLE",
         "url": "https://open.spotify.com/album/6OK3GjpMgORNbpfT9CjaGT"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/2YvytImQbrU0VT1tbudn56"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "MSH ANANEYA",
         "url": "https://open.spotify.com/album/2hIsHEVUK08rHXutBFK4i7"
@@ -789,7 +813,7 @@
       "url": "https://open.spotify.com/track/5TkWSUSXXZhcS7Ta3yBWW1"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Akhir mra andwi 3lik",
         "url": "https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt"
@@ -805,7 +829,7 @@
       "url": "https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Mio!",
         "url": "https://open.spotify.com/album/45bACcrff6jn9j3yrniTuE"
@@ -821,7 +845,7 @@
       "url": "https://open.spotify.com/track/2mjlM5jqoSXp56MypyTPSO"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "Chokran",
         "url": "https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB"
@@ -837,7 +861,7 @@
       "url": "https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B"
     },
     {
-      "added_at": "2026-02-25 09:47:52",
+      "added_at": "2026-03-04 12:07:57",
       "album": {
         "name": "70's",
         "url": "https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v"
@@ -851,22 +875,6 @@
       "duration_ms": 171837,
       "name": "70's",
       "url": "https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y"
-    },
-    {
-      "added_at": "2026-02-25 09:47:52",
-      "album": {
-        "name": "Zaymat",
-        "url": "https://open.spotify.com/album/51yTZZHYx2ZUhG7cltwFj9"
-      },
-      "artists": [
-        {
-          "name": "Khaled Ali",
-          "url": "https://open.spotify.com/artist/4usD9NgDPMmANZrcqBvgK1"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Zaymat",
-      "url": "https://open.spotify.com/track/47OlWN8ccCht8FVRWJJSOR"
     }
   ],
   "unique_name": "Fresh Finds Arabia",

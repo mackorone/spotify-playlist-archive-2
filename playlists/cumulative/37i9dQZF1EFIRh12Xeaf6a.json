@@ -4386,7 +4386,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -4556,6 +4556,24 @@
       "duration_ms": 233866,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/48vnZSAeZ2lgvFz6TDCGW2"
+    },
+    {
+      "album": {
+        "name": "Life Could Be a Dream: The Sh-Boom Sound of The Chords",
+        "url": "https://open.spotify.com/album/5MPJ9H0ko7mCsfjkyrg0xE"
+      },
+      "artists": [
+        {
+          "name": "The Chords",
+          "url": "https://open.spotify.com/artist/2iSZ41LUUYVcz5At9Xuz7T"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144493,
+      "name": "Sh-Boom",
+      "url": "https://open.spotify.com/track/2drXvACELcvwryaFRiRPdA"
     },
     {
       "album": {

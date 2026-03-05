@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 749 likes - 56 songs - 3 hr 28 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 753 likes - 58 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,5 +64,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 54 | [I Will Survive](https://open.spotify.com/track/2ntUrJmw1Vsvv342JF9HAj) | [Lonely wanderer](https://open.spotify.com/artist/7oZKXbKzbYSqj49riynY8v) | [I Will Survive](https://open.spotify.com/album/5c0tOfj6Kj7kjHz4cZ5CCo) | 3:04 |
 | 55 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 |
 | 56 | [Два серця](https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Два серця](https://open.spotify.com/album/5J6MYfGrjHdIIiSQ4Ium49) | 2:45 |
+| 57 | [What's on your Mind?](https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P) | [Zack King](https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf) | [Songs I Wrote Instead of Texting You](https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo) | 3:15 |
+| 58 | [Devil Begone](https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Devil Begone](https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s) | 4:39 |
 
-Snapshot ID: `AAAFNNizx8OhMKn2teNSL2n4rV3n6GDm`
+Snapshot ID: `AAAFNvKgGz3uawzgMcPEW8RPm7qVMrns`

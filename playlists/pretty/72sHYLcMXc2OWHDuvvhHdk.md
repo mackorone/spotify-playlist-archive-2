@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,367 songs - 5 day 18 hr 15 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,381 songs - 5 day 19 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2375,5 +2375,19 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2365 | [Christmas salvation](https://open.spotify.com/track/1rIvQcUFqjXO7sTAM20WJH) | [Tandaram Way](https://open.spotify.com/artist/7sumOQAfWLjOdW9zSTeeog) | [Christmas salvation](https://open.spotify.com/album/3p2AwffFlomvWJaDepuMmU) | 2:55 |
 | 2366 | [Still Running](https://open.spotify.com/track/0540EJSItpEHuX7wpxpNDt) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [Still Running](https://open.spotify.com/album/6oDxuEXDs2v30RmZ1T1eto) | 3:42 |
 | 2367 | [Rainy Days](https://open.spotify.com/track/1hTtSs1hUV9beg9z7Xj2EI) | [George Bacan](https://open.spotify.com/artist/1hsiZ1ezoIGPu8BdXX0MX0) | [Rainy Days](https://open.spotify.com/album/7ESeH9wjN7nKKoq1BijDq3) | 3:30 |
+| 2368 | [Distant suns](https://open.spotify.com/track/0A5CsclTXuWbL77N0cOnBd) | [Rick Barrel](https://open.spotify.com/artist/4cxeE4N0DPsuv18yJtCtRC) | [Distant suns](https://open.spotify.com/album/71lGOTwTWed5ya8zTvaT3j) | 2:24 |
+| 2369 | [Into Thin Air](https://open.spotify.com/track/0NRdZix2GsJ5Rf3EW73J9e) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:38 |
+| 2370 | [Shifting sands](https://open.spotify.com/track/7ur1asyOxPAY05E8trf0wj) | [Indie Indie](https://open.spotify.com/artist/4E6AE9M4PlKLPrnHhfGQYa), [Erica van der meer](https://open.spotify.com/artist/0tGUuhbmVkVj3nU8olGAnN) | [Fading Silhouette](https://open.spotify.com/album/5gRuEkrNfmEqhFfXkDfzsk) | 3:34 |
+| 2371 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 |
+| 2372 | [Cold Nights](https://open.spotify.com/track/1HQRV4W2NlrMkBEWHKDfW2) | [Mischa Plus](https://open.spotify.com/artist/7JS3DVlq1iHThu4k2OcmNh) | [Relic](https://open.spotify.com/album/1er6z2T7yalzORoHnEKW4V) | 3:55 |
+| 2373 | [Nido](https://open.spotify.com/track/1ChRUb58OTnqPFCTZc2jjo) | [Feriado](https://open.spotify.com/artist/17wxKB3Bz3izjVIbpH7DvQ) | [No Laborable](https://open.spotify.com/album/0rxMIXUwikUAmEvSbKNAtb) | 4:00 |
+| 2374 | [In The Silence.](https://open.spotify.com/track/3ZXncxWFyOydWbL6jF6A3t) | [BIONT](https://open.spotify.com/artist/7Ju5W94oRtrScSvbIQywkq) | [In The Silence.](https://open.spotify.com/album/5TM1kBINMqRom1fpPzCq3B) | 2:22 |
+| 2375 | [Still](https://open.spotify.com/track/6xROovAKX2O8SrMymteN7R) | [Harry Erikson](https://open.spotify.com/artist/61SNxBw2nVfWmUuiLDGvTP) | [The Breaker and The Bride](https://open.spotify.com/album/05y5v6Ei1lxTcHhuMl7URa) | 3:39 |
+| 2376 | [Il Blues del Giorno Triste](https://open.spotify.com/track/2YFJOwCkphwbWvVZy6tqIN) | [Giofly](https://open.spotify.com/artist/2I3o5VPFWRUg7FgK2ti9Gp) | [Il Blues del Giorno Triste](https://open.spotify.com/album/5Mfpd99yQEZL9GWspbrjg8) | 3:16 |
+| 2377 | [Year fifty nine](https://open.spotify.com/track/53kpDvr3PaNWuPwItJOV59) | [Robby Rockabilly](https://open.spotify.com/artist/78kw6T4KRFQYZzL5ixXEcJ) | [Year fifty nine](https://open.spotify.com/album/0vosm83Pe3CauEZQKaO366) | 3:27 |
+| 2378 | [Backwater Showdown](https://open.spotify.com/track/19EYqbVss1xiJsbKOZtTRs) | [The Riptide Rats](https://open.spotify.com/artist/1H4GD3RldeXXGmkiayJrGm) | [Backwater Showdown](https://open.spotify.com/album/6FHFX0VBlegyiCEBg7enoq) | 2:45 |
+| 2379 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
+| 2380 | [Lost Without You](https://open.spotify.com/track/3wNxuTadRJ2vLQsSELwh2X) | [desire](https://open.spotify.com/artist/5C4zPOwOLcREhxU3QfT4ki) | [Choices](https://open.spotify.com/album/4vRfouHu027G8gOu7bQ4sa) | 3:42 |
+| 2381 | [Driving In The Small Hours](https://open.spotify.com/track/4KaFxecTqmRPof1sHvWnZx) | [Claudio Charles Mougnaud](https://open.spotify.com/artist/70PBjonaBqdqdheT38wTsU) | [Driving In The Small Hours](https://open.spotify.com/album/1BWmJSnEnm1A6BrD7LLNEG) | 5:41 |
 
-Snapshot ID: `AAAJ1nTBkSkNOByTqJQeuIEvhSAOBrdQ`
+Snapshot ID: `AAAJ5F4lGG7qbuZeRHrQPhyk5rxeNPZf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,921 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,929 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 43 | [The Naughty Lady Of Shady Lane](https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 5 \(1954\)](https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM) | 2:56 |
 | 44 | [C'est si bon](https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [French Style](https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm) | 2:55 |
 | 45 | [The Man Who Plays The Mandolino](https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:55 |
-| 46 | [Under The Bridges Of Paris](https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:46 |
+| 46 | [Standing On The Corner](https://open.spotify.com/track/0ZRNBYKLlqAUZxCJrkKA3I) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:49 |
 | 47 | [In Napoli](https://open.spotify.com/track/6hqopvCkT7JW6sSwMw2tFD) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:56 |
-| 48 | [Standing On The Corner](https://open.spotify.com/track/0ZRNBYKLlqAUZxCJrkKA3I) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Sweet](https://open.spotify.com/artist/0GMf8b501ogU3obivaslNF), [Ron Furmanek](https://open.spotify.com/artist/7LrLiL3hiy4IDwbWH29vnG) | [Hey, Brother Pour The Wine](https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8) | 2:49 |
+| 48 | [Under The Bridges Of Paris](https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:46 |
 | 49 | [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 |
 | 50 | [You Belong To Me](https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:06 |
 
-Snapshot ID: `aaTTAAAAAAB70+hZjFxlV24UEm8eK8Qx`
+Snapshot ID: `aaYkgAAAAADzb9MN6O0zODm1K5tcDKP6`

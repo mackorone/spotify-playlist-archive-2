@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,185 songs - 2 day 18 hr 8 min
+1,186 songs - 2 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,6 +863,7 @@
 | [Ritual](https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe) | [Eater](https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z) | [Ritual](https://open.spotify.com/album/1Iss9QCIde69sEne4VAwep) | 2:42 | 2025-08-25 | 2025-11-14 |
 | [roadtrip](https://open.spotify.com/track/3HAYDWCgHiQ0j7RK5qaohM) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Mr\. Hilroy](https://open.spotify.com/artist/1SDhLZ6y3x0OEGEHZ96K2T) | [wonder years pt\. 2](https://open.spotify.com/album/5AUfHGT7BVlsxHPQCdlHmG) | 2:28 | 2022-05-13 | 2022-07-23 |
 | [Rocka](https://open.spotify.com/track/1C0PPfiAjOukLff0ucmzsn) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [No Etiquette](https://open.spotify.com/artist/6HXY7iEakhbnG63OH20oeh), [Tima Dee](https://open.spotify.com/artist/4pQIDKoWXRw04D9e37QzbP) | [Rocka](https://open.spotify.com/album/2yzOSjguTqnEt0SbVMC5aJ) | 3:13 | 2024-09-11 | 2024-12-04 |
+| [Rockin The Drums](https://open.spotify.com/track/4KaepqQ7soHYflZmSDS3YB) | [longstoryshort](https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp), [MC Hughie Babe](https://open.spotify.com/artist/7nX9rrmXIm4MtQNgt3moE3) | [Rockin The Drums](https://open.spotify.com/album/0xAROySekkV0IaXtg1LiUQ) | 2:13 | 2026-03-04 |  |
 | [Rockstar Bass](https://open.spotify.com/track/2zivCVM48VJ0zT7Vbtn1Ga) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Rockstar Bass](https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T) | 3:26 | 2025-08-27 | 2025-11-18 |
 | [Roots](https://open.spotify.com/track/3jOlncv2CNZ6v1479wYk4z) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots](https://open.spotify.com/album/3GC5RAYvVkAAQrYEs1S3sF) | 3:32 | 2023-08-15 | 2023-12-14 |
 | [Roots \- Festival VIP](https://open.spotify.com/track/08pKfNxr05lKXa0PF5OB0t) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Roots \(Festival VIP\)](https://open.spotify.com/album/0wTCzlXwljR7qDID6OixIG) | 3:00 | 2025-01-20 | 2025-04-15 |

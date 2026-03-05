@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADHHilYuNi17g8cVSiJDkP2",
+  "snapshot_id": "aaYkgAAAAACA8iPKKDkqTYTo6hBe5rgR",
   "tracks": [
     {
       "added_at": null,
@@ -571,22 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Sake of the World",
-        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
+        "name": "After All These Years",
+        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 408826,
-      "name": "Our Father",
-      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
+      "duration_ms": 241400,
+      "name": "For the One (Instrumental)",
+      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "After All These Years",
-        "url": "https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft"
+        "name": "For the Sake of the World",
+        "url": "https://open.spotify.com/album/6211HgvnEsZFSpCosSd52T"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 241400,
-      "name": "For the One (Instrumental)",
-      "url": "https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW"
+      "duration_ms": 408826,
+      "name": "Our Father",
+      "url": "https://open.spotify.com/track/5WfHk1NXVs9AQRtfqzc8Wt"
     },
     {
       "added_at": null,
@@ -831,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Must Respond (Live)",
-        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
-        }
-      ],
-      "duration_ms": 487925,
-      "name": "Jesus Have It All (Spontaneous) - Live",
-      "url": "https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Make Me Brave (Live)",
         "url": "https://open.spotify.com/album/1NygIJD4kcp8nC4h4VFvVm"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 366160,
       "name": "You Make Me Brave (Live)",
       "url": "https://open.spotify.com/track/3IgSDKkHpfLBEbBNoygoqb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Must Respond (Live)",
+        "url": "https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        }
+      ],
+      "duration_ms": 487925,
+      "name": "Jesus Have It All (Spontaneous) - Live",
+      "url": "https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy"
     },
     {
       "added_at": null,
@@ -971,8 +971,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Will Not Be Shaken",
-        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
+        "name": "Victory (Live)",
+        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
       },
       "artists": [
         {
@@ -980,13 +980,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brian Johnson",
-          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 332604,
-      "name": "We Will Not Be Shaken",
-      "url": "https://open.spotify.com/track/5EoXL0D8vU3dMnnX1krEg8"
+      "duration_ms": 297000,
+      "name": "Promises Never Fail (Live)",
+      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
     },
     {
       "added_at": null,
@@ -1007,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victory (Live)",
-        "url": "https://open.spotify.com/album/06EbhB1VVdMre8BVfEpkOz"
+        "name": "We Will Not Be Shaken",
+        "url": "https://open.spotify.com/album/2jOzvNrgmgcSXAOI8OuQux"
       },
       "artists": [
         {
@@ -1016,13 +1016,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+          "name": "Brian Johnson",
+          "url": "https://open.spotify.com/artist/7qTSoObqlJkIybERfumbQ9"
         }
       ],
-      "duration_ms": 297000,
-      "name": "Promises Never Fail (Live)",
-      "url": "https://open.spotify.com/track/2Lj58fGWpmUHbL8RuNbku3"
+      "duration_ms": 332604,
+      "name": "We Will Not Be Shaken",
+      "url": "https://open.spotify.com/track/5EoXL0D8vU3dMnnX1krEg8"
     }
   ],
   "unique_name": "This Is Bethel Music",

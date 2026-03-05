@@ -1,6 +1,6 @@
 {
   "description": "Get the party going with these classics from across the decades.",
-  "num_followers": 916611,
+  "num_followers": 916633,
   "original_name": "Ultimate Party Classics",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Beautiful Girls",
+        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
+      },
+      "artists": [
+        {
+          "name": "Sean Kingston",
+          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
+        }
+      ],
+      "duration_ms": 225373,
+      "name": "Beautiful Girls",
+      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "St. Elsewhere",
         "url": "https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA"
       },
@@ -311,22 +327,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Beautiful Girls",
-        "url": "https://open.spotify.com/album/71clfVkkopYLrgweVj2cow"
-      },
-      "artists": [
-        {
-          "name": "Sean Kingston",
-          "url": "https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Beautiful Girls",
-      "url": "https://open.spotify.com/track/1hGy2eLcmC8eKx7qr1tOqx"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -339,26 +339,6 @@
       "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
-        "name": "I Am",
-        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        },
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 288408,
-      "name": "Boogie Wonderland (with The Emotions)",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -383,6 +363,26 @@
       "duration_ms": 247632,
       "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        },
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 288408,
+      "name": "Boogie Wonderland (with The Emotions)",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "YMCA",
-        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
-      },
-      "artists": [
-        {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
-        }
-      ],
-      "duration_ms": 286800,
-      "name": "YMCA - Original Version 1978",
-      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "World Clique",
         "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "YMCA",
+        "url": "https://open.spotify.com/album/3I3YSq7ArvlwK3l49pq4oE"
+      },
+      "artists": [
+        {
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+        }
+      ],
+      "duration_ms": 286800,
+      "name": "YMCA - Original Version 1978",
+      "url": "https://open.spotify.com/track/54OR1VDpfkBuOY5zZjhZAY"
     },
     {
       "added_at": "2024-07-12 09:33:21",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
         "name": "I Cry When I Laugh",
         "url": "https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8"
       },
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-07-12 09:33:21",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 285093,
-      "name": "Into the Groove",
-      "url": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N"
-    },
-    {
-      "added_at": "2024-07-12 09:33:21",
-      "album": {
         "name": "TALKING IS HARD (Expanded Edition)",
         "url": "https://open.spotify.com/album/2bVVESepVYULITlO6mtmoy"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199080,
       "name": "Shut Up and Dance",
       "url": "https://open.spotify.com/track/0kzw2tRyuL9rzipi5ntlIy"
+    },
+    {
+      "added_at": "2024-07-12 09:33:21",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Into the Groove",
+      "url": "https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N"
     },
     {
       "added_at": "2024-07-12 09:33:21",

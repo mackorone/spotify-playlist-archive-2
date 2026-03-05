@@ -4,7 +4,7 @@
 
 > Nieuw: Giegs, PLUGOXHUSH, Clep N Flyy, Venti, Joella T & Vensly en meer...
 
-438 songs - 18 hr 54 min
+439 songs - 18 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [GOED GENOEG](https://open.spotify.com/track/3eZyMDYsGHRgq5Tvtzt1Lq) | [Tim Beumers](https://open.spotify.com/artist/3gWALRyQeQtkcTYxv2pi2x), [Rico Greene](https://open.spotify.com/artist/6mpb294qwS2LTTwSSONdWS) | [HAUTE CULTURE](https://open.spotify.com/album/4FqHZ3hUSont4Kvj4qGA17) | 3:49 | 2025-09-05 | 2025-10-17 |
 | [Goed Gepakt](https://open.spotify.com/track/1YqT88mO4ISuyrRn9hd4W9) | [Chief777](https://open.spotify.com/artist/5EtehYPIV85CUeD6Z0Aw71), [SURRI](https://open.spotify.com/artist/1CLP6paOGZXg1qIkYvyzHo) | [Goed Gepakt](https://open.spotify.com/album/6LIv4fvO6LuEExbHc7ZDQq) | 2:01 | 2025-09-19 | 2025-11-01 |
 | [Gone](https://open.spotify.com/track/11KcArn581AohzEpI5wa1U) | [Roets](https://open.spotify.com/artist/3K0u138EjCuhbWEwUnGwmu) | [Gone](https://open.spotify.com/album/5SP0uPzD7FAdnadQOM58YB) | 2:10 | 2025-10-23 | 2025-11-28 |
-| [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 | 2026-01-15 | 2026-02-20 |
+| [Grimmig](https://open.spotify.com/track/7mHHDz5Z4HJ3Vusz20ndns) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Grimmig](https://open.spotify.com/album/0pnHayMlrea3RqrkY0h0ay) | 2:08 | 2026-01-15 |  |
 | [Grote Verandering](https://open.spotify.com/track/3V1MwLz2DTRKSPggFaohwZ) | [Mies](https://open.spotify.com/artist/2UtiF4krqQ3xlkXVC9tgbW) | [Grote Verandering](https://open.spotify.com/album/3hOSzXYYSh3K0EvbTCBHrF) | 1:50 | 2025-12-18 | 2026-01-30 |
 | [Grow Up](https://open.spotify.com/track/2ZTyu373d44VNoPlOpHc2Y) | [Hos](https://open.spotify.com/artist/7ifVl6NLsutQy73RYugPwo), [KlikKlak](https://open.spotify.com/artist/000TJhsWOqbyNbTqCU26cW) | [Grow Up](https://open.spotify.com/album/1J18r8irzUpkpUfOKR4LTD) | 2:34 | 2026-02-05 |  |
 | [GTI](https://open.spotify.com/track/7soxmrETzoaFU4tTUbh2Uc) | [Appie Ovb](https://open.spotify.com/artist/70xzeX7n4xKVugUwpUWstN) | [GTI](https://open.spotify.com/album/6NvoGeoEzGLnbW0woRqG9X) | 1:35 | 2025-07-17 | 2025-08-15 |
@@ -396,6 +396,7 @@
 | [Toxic](https://open.spotify.com/track/3mBKRgw8M1OHdgwAslBC1o) | [Getit](https://open.spotify.com/artist/5Yc3rkj4Fs4slH5uGZaG8I) | [Toxic](https://open.spotify.com/album/2wfF5J2pyHe1E4FlArcD5m) | 2:51 | 2026-02-26 |  |
 | [TOXIC FIGHT](https://open.spotify.com/track/7abfIdlVR9lOV1PzsE3VjH) | [JLYONN](https://open.spotify.com/artist/3Sr8yFID3x8uvwq89Hg0z5), [Casso](https://open.spotify.com/artist/1yIaBf7VXDKcoIDGLoTMae) | [TOXIC FIGHT](https://open.spotify.com/album/572NkUumEViHVAeqK0SrvZ) | 2:43 | 2026-01-08 | 2026-02-13 |
 | [Tranen \(feat\. Zeno\)](https://open.spotify.com/track/6YJyBs1vCRxAz9Y0nXUS6h) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Zeno](https://open.spotify.com/artist/3DzZYAqD6HAy1XVai7Udb8) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 3:47 | 2026-01-29 | 2026-02-27 |
+| [Tranen In De Cel](https://open.spotify.com/track/3gVF52Vz9gZrxa1Kj8V3nf) | [ONA](https://open.spotify.com/artist/0qVMZghw6D4igvScey4gaZ) | [Tranen In De Cel](https://open.spotify.com/album/7c2SaKAfNJOt4rniHfwQFx) | 2:58 | 2026-03-04 |  |
 | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/track/4nPtJJKJSvQFbA1gWA7k5l) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [AG BLAXX](https://open.spotify.com/artist/0BdZi6qH5GIysWupr5kTdo) | [Trap & Dance 12 \(Alors Bonne Chance\)](https://open.spotify.com/album/03m6YRml5ChR7AFkgsVDmA) | 2:50 | 2025-11-13 | 2026-01-15 |
 | [TRAUMA'S](https://open.spotify.com/track/47fkT2ghD7ZXLCQo46DxNF) | [SKO](https://open.spotify.com/artist/4dh374pyaeKLOTy5jnUcAS), [Ralla](https://open.spotify.com/artist/4mLMkl774zwxOVGWfCUxj6) | [TRAUMA'S](https://open.spotify.com/album/2YCdiHoQ40bhOFtQHQbAu3) | 2:14 | 2025-07-17 | 2025-08-15 |
 | [Traumatized](https://open.spotify.com/track/6CvhcbW0krT8ysiSG9EQOH) | [AangenaamBK](https://open.spotify.com/artist/6KOuWujrKYQYnxrY3BwoCb) | [Traumatized](https://open.spotify.com/album/6tRMmUJX175AdKJgI2Zbyp) | 2:25 | 2026-02-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Chilled songs that you are familiar with - no surprises!",
-  "num_followers": 2201795,
+  "num_followers": 2201996,
   "original_name": "Comfort Zone",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 189109,
-      "name": "The Lazy Song",
-      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Camila",
         "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 217308,
       "name": "Havana (feat. Young Thug)",
       "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
+      },
+      "artists": [
+        {
+          "name": "Owl City",
+          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
         "url": "https://open.spotify.com/album/4i7GEsKuuCtECD5l0VUctL"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 218293,
       "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
       "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
-      },
-      "artists": [
-        {
-          "name": "Owl City",
-          "url": "https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "Beautiful Trauma",
+        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 269595,
+      "name": "What About Us",
+      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "Beautiful Trauma",
-        "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 269595,
-      "name": "What About Us",
-      "url": "https://open.spotify.com/track/0Qh38w01QRXK6KHIv0e3hb"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 196413,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Escapology",
         "url": "https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263866,
       "name": "Feel",
       "url": "https://open.spotify.com/track/2Ms33RTRCT6gArrpcrPxmo"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/5AVgN2eYblXYC4881DA9Dc"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 196413,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/4guQztGKAETkvuTekNeqBe"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Waking Up",
-        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 253306,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
+      "duration_ms": 261640,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+        "name": "Waking Up",
+        "url": "https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 261640,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/4JehYebiI9JE8sR8MisGVb"
+      "duration_ms": 253306,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/6OtCIsQZ64Vs1EbzztvAv4"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 196373,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "B'Day",
         "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 227666,
       "name": "Irreplaceable",
       "url": "https://open.spotify.com/track/1G7DcLzPnopdZjLkev0K4e"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 196373,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "duration_ms": 268120,
+      "name": "Big Girls Don't Cry (Personal)",
+      "url": "https://open.spotify.com/track/6dgWWAs5yhWPOtvE1zuoQ1"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
         "name": "The Heart Wants What It Wants",
         "url": "https://open.spotify.com/album/2iFTxCYwhF5oC1L8s1B0rI"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 331240,
       "name": "All My Life",
       "url": "https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/2knAf4wg8Gff8q1bXiXCTz"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        }
-      ],
-      "duration_ms": 268120,
-      "name": "Big Girls Don't Cry (Personal)",
-      "url": "https://open.spotify.com/track/6dgWWAs5yhWPOtvE1zuoQ1"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
-      },
-      "artists": [
-        {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
-        }
-      ],
-      "duration_ms": 256825,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2024-09-13 18:52:50",
-      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 230226,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/42ydLwx4i5V49RXHOozJZq"
+    },
+    {
+      "added_at": "2024-09-13 18:52:50",
+      "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 256825,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
     },
     {
       "added_at": "2024-09-13 18:52:50",
@@ -2551,18 +2551,22 @@
     {
       "added_at": "2024-09-13 18:52:50",
       "album": {
-        "name": "Our Version Of Events (Special Edition)",
-        "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb"
       },
       "artists": [
         {
-          "name": "Emeli Sand\u00e9",
-          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
         }
       ],
-      "duration_ms": 283706,
-      "name": "Read All About It, Pt. III",
-      "url": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje"
+      "duration_ms": 207029,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa"
     }
   ],
   "unique_name": "Comfort Zone",

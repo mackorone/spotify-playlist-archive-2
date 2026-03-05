@@ -1,6 +1,6 @@
 {
   "description": "Where your favourites hang out with your next favourites. Cover: Charlotte Day Wilson",
-  "num_followers": 41538,
+  "num_followers": 41582,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Blonde",
         "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 307151,
       "name": "Nights",
       "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Notion",
+        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
+      },
+      "artists": [
+        {
+          "name": "The Rare Occasions",
+          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
+        }
+      ],
+      "duration_ms": 195120,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Rein Me In (with Olivia Dean)",
         "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/2R4AlwtrrkMaRKojcTIzmL"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Sugarbread",
-        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
-      },
-      "artists": [
-        {
-          "name": "Soap&Skin",
-          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Me and the Devil",
-      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Sugarbread",
+        "url": "https://open.spotify.com/album/5yuGLsbL0XTjON5tewyApa"
+      },
+      "artists": [
+        {
+          "name": "Soap&Skin",
+          "url": "https://open.spotify.com/artist/2mAYpnSe3g2Y22JcZ2ddku"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Me and the Devil",
+      "url": "https://open.spotify.com/track/0wrWxW18WK2MkrfDpRHkyh"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Chit Chat",
         "url": "https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 196784,
       "name": "Sex, Drugs, Etc.",
       "url": "https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "A Little Rhythm and a Wicked Feeling",
-        "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 236363,
-      "name": "Killshot",
-      "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "A Little Rhythm and a Wicked Feeling",
+        "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 236363,
+      "name": "Killshot",
+      "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
-      "added_at": "2026-02-20 05:01:31",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 219340,
       "name": "Numb",
       "url": "https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U"
+    },
+    {
+      "added_at": "2026-02-20 05:01:31",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Being So Normal",
-        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Alrighty Aphrodite",
-      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2026-02-20 05:01:31",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2026-02-20 05:01:31",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+        "name": "Being So Normal",
+        "url": "https://open.spotify.com/album/6xduu32sm4aidoLhaxYkUA"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "duration_ms": 207813,
+      "name": "Alrighty Aphrodite",
+      "url": "https://open.spotify.com/track/6OiRh4kttAs1YWglvTcYkB"
     },
     {
       "added_at": "2026-02-20 05:01:31",

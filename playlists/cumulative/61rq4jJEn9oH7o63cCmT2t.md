@@ -4,7 +4,7 @@
 
 > I am horrifically aware of my spine
 
-69 songs - 3 hr 51 min
+70 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [The White Collar Holler](https://open.spotify.com/track/4gOLr8nLhVf6JxEZsjpCiC) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Between The Breaks Live!](https://open.spotify.com/album/72wsYn92bmcNFwR9M6he9f) | 2:38 | 2023-04-02 |  |
 | [This Year](https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ) | 3:52 | 2023-01-07 |  |
 | [Until Olympius Returns](https://open.spotify.com/track/51zqMsABxv9XNBRVOzptyU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/2FHXWD7j8HqJUQzA4ZrHDG) | 2:12 | 2023-03-03 |  |
+| [Wheels Spinnin'](https://open.spotify.com/track/4ex4M0cUGAItldHZcBo0KE) | [Shane MauX](https://open.spotify.com/artist/3ygfn18GV8qCw4XcEPJkbA) | [Good Company](https://open.spotify.com/album/1NR5naRbGSmMqV4ui1GQ67) | 3:49 | 2026-03-05 |  |
 | [Why Am I Anxious](https://open.spotify.com/track/58vdp7XF93MfrqqL8y7nwx) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [Artificial Intelligence](https://open.spotify.com/album/0p3PojNPjYC8LHkJCwinTd) | 1:50 | 2022-05-07 |  |
 
 \*This playlist was first scraped on 2024-01-09. Prior content cannot be recovered.

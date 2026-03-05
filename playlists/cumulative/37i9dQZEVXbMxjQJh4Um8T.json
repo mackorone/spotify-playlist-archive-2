@@ -1632,7 +1632,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 261081,
       "name": "Amor Infinito",
       "url": "https://open.spotify.com/track/1KTFvlTR9JCrceX0VJrVxS"
@@ -3228,7 +3228,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 105625,
       "name": "BIENVENIDA",
       "url": "https://open.spotify.com/track/7zwgHkTKv86nMOREN5k1hx"
@@ -4262,7 +4262,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 166880,
       "name": "Carry You Home",
       "url": "https://open.spotify.com/track/1wOp7yTVyH176bW1z9WAiv"
@@ -4808,7 +4808,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-05",
+      "date_removed": null,
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6J3HNhDBIwEX11bX8hzx5u"
@@ -4826,7 +4826,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 246586,
       "name": "Colors",
       "url": "https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK"
@@ -5034,7 +5034,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 240520,
       "name": "Como Eran Las Cosas",
       "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
@@ -7090,7 +7090,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -13950,7 +13950,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 195546,
       "name": "La Perla",
       "url": "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv"
@@ -14642,7 +14642,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 272649,
       "name": "Last Train to London",
       "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz"
@@ -15282,7 +15282,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 239120,
       "name": "Lokita Por M\u00ed",
       "url": "https://open.spotify.com/track/2aG4AXf3TUtlmk4s9BLYDi"
@@ -15352,7 +15352,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 150000,
       "name": "LOQUITA",
       "url": "https://open.spotify.com/track/3zkGK0pIRra9Mql8fKmROf"
@@ -16056,6 +16056,32 @@
     {
       "album": {
         "name": "Makina Time",
+        "url": "https://open.spotify.com/album/4E47K2cvE4bHOGqE0FLDN5"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "Dj Konik",
+          "url": "https://open.spotify.com/artist/47FkgvgZtCjQaBswo5E531"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130090,
+      "name": "Makina Time",
+      "url": "https://open.spotify.com/track/0pbejM4t6ipTdwmvYCQsfX"
+    },
+    {
+      "album": {
+        "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
       "artists": [
@@ -16082,7 +16108,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -16556,7 +16582,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 173573,
       "name": "ME GUSTAS CC",
       "url": "https://open.spotify.com/track/4Hkp1TiYqGYhknFwtUsbqd"
@@ -16632,7 +16658,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ"
@@ -21660,7 +21686,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -24822,7 +24848,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
@@ -25246,7 +25272,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"

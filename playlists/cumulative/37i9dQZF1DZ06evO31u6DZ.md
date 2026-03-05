@@ -4,7 +4,7 @@
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 16 min
+129 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Dreaming A Reality](https://open.spotify.com/track/5EBWBLbuw3q8ZffrJ0DcJV) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/1Sd2yj3wFNHskILXgPCf0y) | 4:54 | 2023-03-12 |  |
 | [Dying Words](https://open.spotify.com/track/7bruutlyWFNdOGoL8MP6NB) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Pull the Thorns from Your Heart](https://open.spotify.com/album/03YagIkYFMjyURv5XoMThA) | 2:47 | 2025-04-26 | 2025-04-27 |
 | [Elevator to the Gallows](https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:44 | 2022-10-25 | 2025-04-22 |
-| [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 | 2025-05-13 |  |
+| [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 | 2025-05-13 | 2026-03-05 |
 | [End of the World/A Game of Chess](https://open.spotify.com/track/2l860vihpp6XxMEKRc5n73) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/1Rj8VxOUGmuKrTDcFNISvB) | 3:56 | 2022-10-25 | 2025-04-24 |
 | [End of the World/A Game of Chess](https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:56 | 2025-04-24 |  |
 | [Every Day Is a Struggle](https://open.spotify.com/track/2Rk6o3Xsz4th844Z4sCYI7) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/76avO7AfsTAMe4dvVV3Wwj) | 3:04 | 2023-02-27 | 2023-07-26 |
@@ -81,6 +81,7 @@
 | [Lungs Like Gallows](https://open.spotify.com/track/4rTzIN2fYne7HK1f0yRaXX) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/0ebY8YG1wME8xFsFzsuDyF) | 3:20 | 2022-10-25 | 2023-12-14 |
 | [Lungs Like Gallows](https://open.spotify.com/track/7CQIwk5PSSVSB8sdJKZYbz) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:20 | 2023-12-13 |  |
 | [Lush Rimbaugh](https://open.spotify.com/track/3M3e3C2iMMFV6hn9r1VYuL) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lush Rimbaugh](https://open.spotify.com/album/2BvxQyy7BGWLErMN3KuXeY) | 3:26 | 2023-01-08 | 2023-05-31 |
+| [Lush Rimbaugh](https://open.spotify.com/track/4Dws8iZDbv2kef8TYwVt8t) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lush Rimbaugh](https://open.spotify.com/album/6J9Dwh0MwX370PYKhPnagK) | 3:26 | 2026-03-05 |  |
 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/4otAANskhQoMSLeLGsWdT9) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [M1SERY\_SYNDROME \(feat\. Buddy Nielsen\)](https://open.spotify.com/album/4cjdHX1ATubh35zQve88fn) | 3:04 | 2022-10-25 | 2023-04-09 |
 | [M1SERY\_SYNDROME \(feat\. BUDDY NIELSEN\)](https://open.spotify.com/track/5HuONHSJVsyksi8JJnLmh0) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Buddy Nielsen](https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [VOID ETERNAL](https://open.spotify.com/album/3zO5Pq3zhf3qz85rpFlDNK) | 3:04 | 2023-04-08 |  |
 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 | 2023-12-13 |  |

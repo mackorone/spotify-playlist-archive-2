@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 671433,
+  "num_followers": 671480,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAADQr5M2Y3Q9/PmgsubZyyRa",
+  "snapshot_id": "aaYkgAAAAAAhmtYKHMdFNsse3gMiAnaj",
   "tracks": [
     {
       "added_at": null,
@@ -615,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternal Grey",
-        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
+        "name": "Radical $uicide",
+        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        },
+        {
+          "name": "Getter",
+          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
         }
       ],
-      "duration_ms": 128417,
-      "name": "O Pana!",
-      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
+      "duration_ms": 116114,
+      "name": "Champion of Death",
+      "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
     },
     {
       "added_at": null,
@@ -647,22 +651,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radical $uicide",
-        "url": "https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t"
+        "name": "Eternal Grey",
+        "url": "https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB"
       },
       "artists": [
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        },
-        {
-          "name": "Getter",
-          "url": "https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA"
         }
       ],
-      "duration_ms": 116114,
-      "name": "Champion of Death",
-      "url": "https://open.spotify.com/track/0qHbOme0fFyIWLNie9HG2t"
+      "duration_ms": 128417,
+      "name": "O Pana!",
+      "url": "https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN"
     },
     {
       "added_at": null,

@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 194141,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4hpGHoJuJTtAqq9pkevLp6"
@@ -6204,6 +6204,24 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "Urbano",
+        "url": "https://open.spotify.com/album/5Tur0ZCtTdgTVLj0UQF41A"
+      },
+      "artists": [
+        {
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
+        }
+      ],
+      "date_added": "2025-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129381,
+      "name": "\u00d4 Sorte",
+      "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6e81LupkkgG"

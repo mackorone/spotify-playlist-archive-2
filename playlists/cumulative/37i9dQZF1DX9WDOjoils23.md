@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-107 songs - 12 hr 49 min
+107 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Ranjheya Ve](https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0) | [Zain Zohaib](https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP) | [Ranjheya Ve](https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1) | 4:38 | 2025-03-19 | 2026-02-27 |
 | [Rehan De Rehan De](https://open.spotify.com/track/1VhCPwvew5s51i7CXMcE39) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [Haaye Sohniye](https://open.spotify.com/album/2uhpD5sZ6ZGkgAjhnrC9lN) | 5:09 | 2025-05-13 |  |
 | [Ruh Le Gaya Dil da Jani](https://open.spotify.com/track/1NwvqenZqqhO2ibwEUTAbB) | [Ghulam Ali](https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM), [Tarranum Naaz](https://open.spotify.com/artist/3i77C8F5q6oEiuRB80xgye) | [Dil Mera Dol Da](https://open.spotify.com/album/0St1cPJ8E8BOr4ZR48KxAr) | 9:08 | 2023-02-15 |  |
-| [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 5:15 | 2025-02-01 |  |
+| [Rutba](https://open.spotify.com/track/1VtoihGms5WJk85W2OLqeP) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Kali Jotta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PX3Pa8S9mb76rDis21Ljc) | 6:44 | 2025-02-01 |  |
 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4RhgKAdnUhQUL8QlzJMQWy) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/7m7GoFsaFxblSjZ2tFcZ7d) | 6:10 | 2023-02-15 | 2024-04-19 |
 | [Ruttan Aaiyan Mera Yaar Ni Aaya](https://open.spotify.com/track/4MiqW92WfkDrdt9LMUZfs2) | [Ustad Hussain Baksh Gullo](https://open.spotify.com/artist/51RSLapvDimrmV9YZqgoWn) | [Abr Barsa Na Hawa Tez Chali](https://open.spotify.com/album/3k8WvVxXyqRbDfXLSqhehY) | 6:11 | 2023-12-18 | 2025-03-01 |
 | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/track/6kjzM5TnnaeaaleGGaTSOx) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Sajjna Wali Gall \(From "Hoshiar Singh"\)](https://open.spotify.com/album/6bXzeJZ75sf5AMKIO35W9X) | 7:13 | 2025-02-01 | 2025-08-20 |

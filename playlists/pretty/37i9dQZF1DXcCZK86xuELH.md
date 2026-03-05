@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 
 > <a href="spotify:artist:5oDtp2FC8VqBjTx1aT4P5j">Shy FX</a>'s favorite tracks\. Updated regularly\. Curated by Shy FX\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,417 likes - 54 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,431 likes - 54 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCZK86xuELH.md) - [plain]
 | 8 | [Bonesaw](https://open.spotify.com/track/0cumlrgDodkXR7VeIKwWmK) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Bonesaw](https://open.spotify.com/album/0WpOUGGwTkA7R0CcYs5Tcj) | 4:34 |
 | 9 | [Wait for You](https://open.spotify.com/track/349dbUh4GYHnmnubRwWsVJ) | [Break](https://open.spotify.com/artist/7FtCGMC0pcHPlrZWmYe9XM), [Lorna King](https://open.spotify.com/artist/0uwrXVfgTsoEzyJs4qytIC) | [Digital World](https://open.spotify.com/album/0rI8ZkRMVFFOh0u22nDISy) | 4:38 |
 | 10 | [Say No More \- Visages Remix](https://open.spotify.com/track/5jQ2sMkNSnwZaV59U4EJ9P) | [Charli Brix](https://open.spotify.com/artist/27Sc6g0Utbc8hvWrzTFVc8), [Phaction](https://open.spotify.com/artist/33CVzI4YFK6YBZsuxjKhHR), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Say No More \(Visages Remix\)](https://open.spotify.com/album/0zmLgwK8ybqDZaR6AUyYTc) | 5:18 |
-| 11 | [Daydreaming](https://open.spotify.com/track/0h6s8N4dwDIazXGIECX7Bh) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O) | [Daydreaming](https://open.spotify.com/album/1RubtkrLtdx1N3oNJx5tUm) | 4:15 |
+| 11 | [Daydreaming](https://open.spotify.com/track/0h6s8N4dwDIazXGIECX7Bh) | [L\-Side](https://open.spotify.com/artist/3Y59xKAazzqr4AwzF6LYfR), [MC Moose](https://open.spotify.com/artist/0xKEnflICsX9GtyjQdkv1O), [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Daydreaming](https://open.spotify.com/album/1RubtkrLtdx1N3oNJx5tUm) | 4:15 |
 | 12 | [Over & Done \(feat\. Pip Millett\)](https://open.spotify.com/track/27e5hiyHSRTs7E6SMqSRCn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [What Came Before](https://open.spotify.com/album/66wsQbESMquuw0lNDvgcK1) | 3:47 |
 | 13 | [Badness](https://open.spotify.com/track/4Ckz0TYl1SlRgmEfUvM9lN) | [Zoro](https://open.spotify.com/artist/5xUBYbDSo3lix43sKEzhW7), [Addicted](https://open.spotify.com/artist/29Z2ip6vZO0MhEynUazeWy) | [Badness](https://open.spotify.com/album/01iaNvcIM2Nxx6wd1yaAHT) | 4:27 |
 | 14 | [That's Tha Way Life Goes \- Breakage Remix](https://open.spotify.com/track/7FnkXCmeI6hAUcPCWRLpv3) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Sunrise Bang Ur Head Against Tha Wall \(Remixes\)](https://open.spotify.com/album/3PNutQB5BAWMKQKaxHp4Qk) | 3:05 |

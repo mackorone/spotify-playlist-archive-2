@@ -1,6 +1,6 @@
 {
   "description": "Cool \u00e9s trendi dalok Magyarorsz\u00e1gon! ",
-  "num_followers": 29349,
+  "num_followers": 29355,
   "original_name": "Most Men\u0151",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
+        "name": "KERTES H\u00c1Z",
+        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
+      },
+      "artists": [
+        {
+          "name": "LMEN PRALA",
+          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
+        }
+      ],
+      "duration_ms": 139551,
+      "name": "KERTES H\u00c1Z",
+      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
         "name": "\u00c9DEN",
         "url": "https://open.spotify.com/album/4TFfAeuhL7h30cwZv29rzI"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 190000,
       "name": "\u00c9DEN",
       "url": "https://open.spotify.com/track/37rab2ZEkXwsPboXTZxHBf"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
-        "name": "KERTES H\u00c1Z",
-        "url": "https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd"
-      },
-      "artists": [
-        {
-          "name": "LMEN PRALA",
-          "url": "https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj"
-        }
-      ],
-      "duration_ms": 139551,
-      "name": "KERTES H\u00c1Z",
-      "url": "https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
-        "name": "Pap\u00edrom",
-        "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
-      },
-      "artists": [
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
-        }
-      ],
-      "duration_ms": 159204,
-      "name": "Pap\u00edrom",
-      "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/4eddCF6C4oHNORXbMSKHvZ"
       },
@@ -819,42 +803,6 @@
       "duration_ms": 171806,
       "name": "Demo",
       "url": "https://open.spotify.com/track/3huWs5M8a0MXTgc477aORn"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
-        "name": "ICE SPICE",
-        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 121121,
-      "name": "ICE SPICE",
-      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
-        "name": "SZ\u00c9TSZEDLEK",
-        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        },
-        {
-          "name": "VZS",
-          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
-        }
-      ],
-      "duration_ms": 151421,
-      "name": "SZ\u00c9TSZEDLEK",
-      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -875,6 +823,58 @@
       "duration_ms": 184193,
       "name": "Beef",
       "url": "https://open.spotify.com/track/0aiD9jQDJOWzGoFlYOZVUe"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "ICE SPICE",
+        "url": "https://open.spotify.com/album/36MUGLrW6MAdW31yiUqlEy"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        }
+      ],
+      "duration_ms": 121121,
+      "name": "ICE SPICE",
+      "url": "https://open.spotify.com/track/1TWN7SgqSXiaHuH8LoIXZN"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "Pap\u00edrom",
+        "url": "https://open.spotify.com/album/0aBLKzoryaeL5euj0bXxsf"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 159204,
+      "name": "Pap\u00edrom",
+      "url": "https://open.spotify.com/track/1FAhDZwQTbDNxXz83zlq2B"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "SZ\u00c9TSZEDLEK",
+        "url": "https://open.spotify.com/album/4W2z0vIh10GRUf0y146kae"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        },
+        {
+          "name": "VZS",
+          "url": "https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV"
+        }
+      ],
+      "duration_ms": 151421,
+      "name": "SZ\u00c9TSZEDLEK",
+      "url": "https://open.spotify.com/track/6glRr1LaVOoIhMjQ5ZDzXe"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
-        "name": "WildWest",
-        "url": "https://open.spotify.com/album/5sv3nEmu2pcyvvBzPITP1V"
-      },
-      "artists": [
-        {
-          "name": "RZMVS",
-          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
-        }
-      ],
-      "duration_ms": 153108,
-      "name": "WildWest",
-      "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
         "name": "NINTENDO",
         "url": "https://open.spotify.com/album/5JK5KmPYSR3Ruys8nDUa7c"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 126315,
       "name": "NINTENDO",
       "url": "https://open.spotify.com/track/5MOlhGLex8jhMeyUPSsanz"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "WildWest",
+        "url": "https://open.spotify.com/album/5sv3nEmu2pcyvvBzPITP1V"
+      },
+      "artists": [
+        {
+          "name": "RZMVS",
+          "url": "https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4"
+        }
+      ],
+      "duration_ms": 153108,
+      "name": "WildWest",
+      "url": "https://open.spotify.com/track/1PUUfO1tHORNs1Ur28kVy2"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
-        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
-        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
-      },
-      "artists": [
-        {
-          "name": "gyuris",
-          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "ponyvareg\u00e9ny",
-      "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
         "name": "BABY \u00c9N NEM J\u00c1TSZOM",
         "url": "https://open.spotify.com/album/3nKzfmwfoZ5Nhc4K1EMOKk"
       },
@@ -1231,42 +1215,18 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
-        "name": "Shao Leng Leng",
-        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
+        "name": "gy\u00f3gy\u00edt\u00f3 frekvenci\u00e1k",
+        "url": "https://open.spotify.com/album/6gkKqaV7xx606MJbzt4rDG"
       },
       "artists": [
         {
-          "name": "hazetomika",
-          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
-        },
-        {
-          "name": "ekhoe",
-          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
-        },
-        {
-          "name": "Grasa",
-          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+          "name": "gyuris",
+          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
         }
       ],
-      "duration_ms": 158683,
-      "name": "Shao Leng Leng",
-      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
-    },
-    {
-      "added_at": "2026-03-02 15:14:08",
-      "album": {
-        "name": "MIT MONDHATN\u00c9K?",
-        "url": "https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U"
-      },
-      "artists": [
-        {
-          "name": "BELANO",
-          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
-        }
-      ],
-      "duration_ms": 122706,
-      "name": "MIT MONDHATN\u00c9K?",
-      "url": "https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL"
+      "duration_ms": 167244,
+      "name": "ponyvareg\u00e9ny",
+      "url": "https://open.spotify.com/track/6DrfQHh6q7ugiGeE6DSN5E"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -1291,6 +1251,46 @@
       "duration_ms": 155750,
       "name": "CSEREPAD",
       "url": "https://open.spotify.com/track/3Mie7Yrg5XVRC7RLqEjL6M"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "MIT MONDHATN\u00c9K?",
+        "url": "https://open.spotify.com/album/34NrTOzN7j9l2nIavp4h7U"
+      },
+      "artists": [
+        {
+          "name": "BELANO",
+          "url": "https://open.spotify.com/artist/3YuXDaxA5aNH0yA4SLeEPA"
+        }
+      ],
+      "duration_ms": 122706,
+      "name": "MIT MONDHATN\u00c9K?",
+      "url": "https://open.spotify.com/track/1f0aN0HJK66gBJmTNzhmCL"
+    },
+    {
+      "added_at": "2026-03-02 15:14:08",
+      "album": {
+        "name": "Shao Leng Leng",
+        "url": "https://open.spotify.com/album/4LXciJekkF6F4twsS8q6vU"
+      },
+      "artists": [
+        {
+          "name": "hazetomika",
+          "url": "https://open.spotify.com/artist/3hvIZ2TPVhx5ZcTV7Q9nHL"
+        },
+        {
+          "name": "ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Grasa",
+          "url": "https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C"
+        }
+      ],
+      "duration_ms": 158683,
+      "name": "Shao Leng Leng",
+      "url": "https://open.spotify.com/track/5fSgT2wg6JV77rmrhREIiU"
     },
     {
       "added_at": "2026-03-02 15:14:08",
@@ -1423,22 +1423,26 @@
     {
       "added_at": "2026-03-02 15:14:08",
       "album": {
-        "name": "h\u00f3angyal",
-        "url": "https://open.spotify.com/album/1x7cbY0aFqC5UEiJizAscJ"
+        "name": "JUICY",
+        "url": "https://open.spotify.com/album/3dBxIm63bMFJfX2GUGkSRO"
       },
       "artists": [
         {
-          "name": "gyuris",
-          "url": "https://open.spotify.com/artist/19w3KViMCX0eq1UjNic2W9"
+          "name": "Burai",
+          "url": "https://open.spotify.com/artist/35BhE5C6szF898n5WgUSgO"
         },
         {
-          "name": "Bal\u00e1zs-Piri Soma",
-          "url": "https://open.spotify.com/artist/2lCTYy1Odf80wtXfFLWsrK"
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw"
+        },
+        {
+          "name": "Feh\u00e9r Kriszti\u00e1n",
+          "url": "https://open.spotify.com/artist/7nU1fhLUpYpzilqF5QkVdX"
         }
       ],
-      "duration_ms": 219590,
-      "name": "h\u00f3angyal",
-      "url": "https://open.spotify.com/track/7rIhX5T8SR53HpmVTU26qn"
+      "duration_ms": 228000,
+      "name": "JUICY",
+      "url": "https://open.spotify.com/track/44EzVjXRzoEVmGW6FKHskI"
     },
     {
       "added_at": "2026-03-02 15:14:08",

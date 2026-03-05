@@ -1,6 +1,6 @@
 {
   "description": "Classics like In Da Club",
-  "num_followers": 268268,
+  "num_followers": 268491,
   "original_name": "Hip-Hop Classics Party",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Who's That Girl?",
-      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Hood Hop",
         "url": "https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 243226,
       "name": "Tipsy - Club Mix",
       "url": "https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Who's That Girl?",
+      "url": "https://open.spotify.com/track/3uVE5vLKkigiWBOQEgmdDk"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1127,62 +1127,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "Restless",
-        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
-      },
-      "artists": [
-        {
-          "name": "Xzibit",
-          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "X",
-      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "The Best of 2Pac",
-        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Roger",
-          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 284480,
-      "name": "California Love - Original Version",
-      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
-        "name": "The Dynasty: Roc La Familia",
-        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "I Just Wanna Love U (Give It 2 Me)",
-      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Here Comes The Fuzz",
         "url": "https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o"
       },
@@ -1211,6 +1155,62 @@
       "duration_ms": 209626,
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Best of 2Pac",
+        "url": "https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 284480,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3"
+      },
+      "artists": [
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Dynasty: Roc La Familia",
+        "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "I Just Wanna Love U (Give It 2 Me)",
+      "url": "https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c"
     },
     {
       "added_at": "2024-10-25 23:07:14",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-10-25 23:07:14",
       "album": {
-        "name": "The Blueprint (Explicit Version)",
-        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 240626,
-      "name": "Izzo (H.O.V.A.)",
-      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
-    },
-    {
-      "added_at": "2024-10-25 23:07:14",
-      "album": {
         "name": "Let's Get Ready",
         "url": "https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 211400,
       "name": "Danger (Been So Long) (feat. Nivea)",
       "url": "https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg"
+    },
+    {
+      "added_at": "2024-10-25 23:07:14",
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/4h5KBcltGefua73AUPYps7"
     },
     {
       "added_at": "2024-10-25 23:07:14",

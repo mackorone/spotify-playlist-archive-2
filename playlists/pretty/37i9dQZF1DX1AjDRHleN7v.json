@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 416784,
+  "num_followers": 416855,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Pipa",
-        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
       },
       "artists": [
         {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        },
-        {
-          "name": "Pedro Salom\u00e3o",
-          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         }
       ],
-      "duration_ms": 181740,
-      "name": "Pipa",
-      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -591,18 +587,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+        "name": "Pipa",
+        "url": "https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        },
+        {
+          "name": "Pedro Salom\u00e3o",
+          "url": "https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW"
         }
       ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+      "duration_ms": 181740,
+      "name": "Pipa",
+      "url": "https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr"
     },
     {
       "added_at": "2026-01-09 03:01:26",

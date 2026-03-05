@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Devil Begone",
+        "url": "https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s"
+      },
+      "artists": [
+        {
+          "name": "Tirada",
+          "url": "https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279537,
+      "name": "Devil Begone",
+      "url": "https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT"
+    },
+    {
+      "album": {
         "name": "Diagnostics",
         "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
       },
@@ -5730,6 +5748,24 @@
       "duration_ms": 234000,
       "name": "Weary Bones",
       "url": "https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr"
+    },
+    {
+      "album": {
+        "name": "Songs I Wrote Instead of Texting You",
+        "url": "https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo"
+      },
+      "artists": [
+        {
+          "name": "Zack King",
+          "url": "https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195459,
+      "name": "What's on your Mind?",
+      "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
     },
     {
       "album": {

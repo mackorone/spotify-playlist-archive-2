@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 
 > Ghanaian Highlife Classics
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,971 likes - 80 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,990 likes - 80 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5TIUNEibWO.md) - [plain]
 | 33 | [Bonwire](https://open.spotify.com/track/4bJZIgQuefmHbMq3v8P5NG) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Otoolege](https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS) | 5:43 |
 | 34 | [Akonoba](https://open.spotify.com/track/2zr71skOlEOnm1Lv7fxpX2) | [Kojo Antwi](https://open.spotify.com/artist/01ramkYSW4rTNPKnneFa9D) | [Love Classics](https://open.spotify.com/album/3MnCoc8Ya7XHPDY7eRlvJW) | 6:15 |
 | 35 | [Atadwe](https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW) | [Papa Sheee](https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw) | [Atadwe](https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk) | 6:00 |
-| 36 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
-| 37 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
+| 36 | [Akoo Te Brofo](https://open.spotify.com/track/3TYgzjwlcpEdN1GufC9C2U) | [George Darko](https://open.spotify.com/artist/2VCsvAGppsjBLBBMZr03q9) | [Akoo Te Brofo](https://open.spotify.com/album/6j9WYjUpnKSyuOSL3F6Bhw) | 9:33 |
+| 37 | [Asem Ben?](https://open.spotify.com/track/0rgKKg0pZK2qH64RK45HNK) | [Oheneba Kissi](https://open.spotify.com/artist/1PVgxPvoW5i5sfFozT2Rz4) | [Kabribi Kyere Me](https://open.spotify.com/album/03AJZ1S8YDJ9akNu1rIV0I) | 4:26 |
 | 38 | [Asew](https://open.spotify.com/track/7LK9ricpfETVGSvMIKbmWZ) | [Ofori Amponsah](https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg) | [Asew](https://open.spotify.com/album/6gGbScQPeTSBSsytwrzmD5) | 6:02 |
 | 39 | [Kɔkɔɔkɔ](https://open.spotify.com/track/5qgU9btg2VcakTumfiLbQ8) | [Akosua Adjepong](https://open.spotify.com/artist/1t71kdQ7yWIwiMlsgSy08t) | [FREMA](https://open.spotify.com/album/6iRsYXPs64Wy76Ci0He8w2) | 4:48 |
 | 40 | [Belembe](https://open.spotify.com/track/0tyLW6jM3qoTsG8srHTi16) | [Bessa Simons](https://open.spotify.com/artist/5W5greBancNhmyAm5XCbBA) | [Best of Bessa Simons](https://open.spotify.com/album/7tafil3DDAxxz4bZcwwwmq) | 6:35 |

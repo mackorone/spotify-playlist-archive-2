@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,568 likes - 43 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,569 likes - 43 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 32 | [If You Don't Start Nothing](https://open.spotify.com/track/3TdBD4lD7gylpWdNsRHx8P) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Luxury Soul 2018](https://open.spotify.com/album/3wGtvC2F8Bw7ztDIl3ly3L) | 2:37 |
 | 33 | [Better Things to Do](https://open.spotify.com/track/74PH2myT1Q271X9ygKce2I) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:12 |
 | 34 | [All I Want](https://open.spotify.com/track/0mDzUWzBdFU2qiALsa2JpM) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:20 |
-| 35 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 |
-| 36 | [You're the Only Bargain I've Got](https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 3:51 |
+| 35 | [You're the Only Bargain I've Got](https://open.spotify.com/track/7n99baQQ4F6lGKpz52SNMn) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant B\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/1uj0rWpaHgWsyNi6vTBgZu) | 3:51 |
+| 36 | [Baby I'm Yours](https://open.spotify.com/track/2WZH1nBAsdKIcaN73w1e4v) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 4:14 |
 | 37 | [Why You Wanna Do That to Me](https://open.spotify.com/track/37qqCwdo1Vx0lKV0t2v3oa) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Keep It Comin'](https://open.spotify.com/album/7vKrwEYZpsgbl84bYSZ9tJ) | 4:35 |
 | 38 | [You Threw Our Love Away](https://open.spotify.com/track/2VeJDRAffO2knNj1RuUYAI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:30 |
-| 39 | [Curious](https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:00 |
-| 40 | [Come Back](https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:35 |
+| 39 | [Come Back](https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:35 |
+| 40 | [Curious](https://open.spotify.com/track/1kG5ZtLiN8J0gTrvuAtrrB) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:00 |
 | 41 | [Sweet Ecstasy](https://open.spotify.com/track/7ohWpJGxqnwVuLq6iQrlz9) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 3:38 |
 | 42 | [What a Fool](https://open.spotify.com/track/5h1Xn0K0ke0E7fey2kXWtW) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [On Target \(Bonus Track Version\)](https://open.spotify.com/album/1dPbAxjNqX41XiJsKDjkri) | 5:44 |
-| 43 | [Somewhere Alone Tonight](https://open.spotify.com/track/7p8yn1qom6ABw7zFTYvM6b) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:05 |
+| 43 | [Merry Go Round](https://open.spotify.com/track/74rQiIDK5mNhowNZ4UXiWT) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Coming Back](https://open.spotify.com/album/2QtczsoYJCTWMXKo3221tY) | 4:25 |
 
-Snapshot ID: `aaTTAAAAAAA7vCoOpoB/cuAEOSQ2blc/`
+Snapshot ID: `aaYkgAAAAAD8IG2x1hHIV4zPMnypSTfW`

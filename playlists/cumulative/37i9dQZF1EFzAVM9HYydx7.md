@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 21 hr 16 min
+348 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [ARE YOU OK?](https://open.spotify.com/track/5Ji2rXNyEQfTIGz1PEkLK9) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [CASE STUDY 01](https://open.spotify.com/album/7lb4ck9tn2ZaJRrYjhyP9A) | 6:34 | 2025-03-02 |  |
 | [At Will](https://open.spotify.com/track/79Wuxwk61sT9gPebQ3INRm) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(Official Video\)](https://open.spotify.com/album/0nFjnffMc0lDiTjdiWnoni) | 2:55 | 2024-01-12 | 2024-02-02 |
 | [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/193hIaWPYRtzWIcTAMtkKI) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [These Things Happen Too \(Deluxe\)](https://open.spotify.com/album/2uGyQQS82uzaTXSBe2bs4A) | 2:50 | 2023-12-13 |  |
+| [Autumn Drive](https://open.spotify.com/track/65phQRcjtYszjbDfYfjoWB) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Solace & The Vices](https://open.spotify.com/album/3Xk1Mz1aaon4cx1f91Z00n) | 2:08 | 2026-03-04 |  |
 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 | 2023-12-13 |  |
 | [Back on Road](https://open.spotify.com/track/39liuGHPxn2sAyvO6DINor) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Everybody Looking](https://open.spotify.com/album/3WjDB3j2yZL4g0hBGHF04i) | 2:29 | 2023-12-13 |  |
 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 | 2023-12-13 |  |
@@ -195,7 +196,9 @@
 | [Mob Ties](https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:25 | 2023-12-13 |  |
 | [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 | 2023-12-13 |  |
 | [Money Problems / Benz Truck](https://open.spotify.com/track/3S4wKj113KHgqtZt52Dcd1) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 4:59 | 2023-12-13 |  |
+| [More Mentors](https://open.spotify.com/track/58B7NiSMxVuKP4O8I6MQZH) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Idris Elba](https://open.spotify.com/artist/0wi7qglMjD1ucDG8UCzagm) | [About Time](https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV) | 3:57 | 2026-03-04 |  |
 | [Moves](https://open.spotify.com/track/27N58DOG7k1qksZ2EeyEMi) | [Poo Bear](https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX), [Nechie](https://open.spotify.com/artist/6tZAIz71L37A8EBBVxn1fi) | [Poo Bear Presents: Bearthday Music](https://open.spotify.com/album/4IibNIC3LGip4ppu6Mnin9) | 2:12 | 2023-12-13 |  |
+| [Mula](https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [About Time](https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV) | 3:25 | 2026-03-04 |  |
 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 | 2023-12-13 |  |
 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 | 2023-12-13 |  |
 | [My Reality](https://open.spotify.com/track/0Q9HulJie8Hxe2mx1q4nCy) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 3:09 | 2023-12-13 |  |

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARLrTE2QPFJyGwMbP3rXVsg7QGgTqB",
+  "snapshot_id": "AAARMwXYwyq6RMaEe9MCD2iysQT5hxSQ",
   "tracks": [
     {
       "added_at": "2026-02-06 09:53:34",
@@ -2439,6 +2439,94 @@
       "duration_ms": 215381,
       "name": "Cool Breeze",
       "url": "https://open.spotify.com/track/0uX7UsvCZzbjbJsFyqbdUR"
+    },
+    {
+      "added_at": "2026-03-04 11:30:25",
+      "album": {
+        "name": "Marathon",
+        "url": "https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2"
+      },
+      "artists": [
+        {
+          "name": "Brassard",
+          "url": "https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27"
+        }
+      ],
+      "duration_ms": 244853,
+      "name": "The Poorest Man",
+      "url": "https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o"
+    },
+    {
+      "added_at": "2026-03-04 11:30:34",
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/3qJlKlv2nnDPcUnHSqGGHH"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        },
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        }
+      ],
+      "duration_ms": 199567,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/69lZeRIuoN9pr5YajQQ8ml"
+    },
+    {
+      "added_at": "2026-03-04 21:11:33",
+      "album": {
+        "name": "a u g y",
+        "url": "https://open.spotify.com/album/0jl0huXGuyDmGWyW72h2kX"
+      },
+      "artists": [
+        {
+          "name": "Xandre Augs",
+          "url": "https://open.spotify.com/artist/77W5blk8wl1WwplejOVMbn"
+        }
+      ],
+      "duration_ms": 129799,
+      "name": "Who Knows - Remix",
+      "url": "https://open.spotify.com/track/4YLuehHCimOg0RD2U825Dp"
+    },
+    {
+      "added_at": "2026-03-04 21:11:42",
+      "album": {
+        "name": "\u0422\u0435, \u0449\u043e \u044f \u043b\u044e\u0431\u043b\u044e",
+        "url": "https://open.spotify.com/album/6sUYSApXZgF2KjzlLbJ7ps"
+      },
+      "artists": [
+        {
+          "name": "YANKEE",
+          "url": "https://open.spotify.com/artist/2H4v0yVZxaCTgekZFBCR5V"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "\u0422\u0435, \u0449\u043e \u044f \u043b\u044e\u0431\u043b\u044e",
+      "url": "https://open.spotify.com/track/1huOrpKupXu1KDBe9Wq5Ot"
+    },
+    {
+      "added_at": "2026-03-04 21:11:47",
+      "album": {
+        "name": "L'ASCENSORE",
+        "url": "https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "duration_ms": 223392,
+      "name": "L'ASCENSORE",
+      "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
     }
   ],
   "unique_name": "New Indie Music",

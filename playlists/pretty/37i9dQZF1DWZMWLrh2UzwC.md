@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Bruno Mars, BLACKPINK, Dato' Sri Siti Nurhaliza, Black Hanifah, laufey, RAYE  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,119 likes - 115 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,123 likes - 115 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

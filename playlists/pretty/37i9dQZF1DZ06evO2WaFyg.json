@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 264982,
+  "num_followers": 265028,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaTTAAAAAACLD27rII17HGMXyhc5EfU3",
+  "snapshot_id": "aaYkgAAAAAAIyAs3qitTHak2s4I1w6qP",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "scared",
-      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trimski",
         "url": "https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "scared",
+      "url": "https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
-        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 212658,
-      "name": "Paranoia (feat. Gunna & Young Thug)",
-      "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime & B",
         "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
       },
@@ -839,6 +815,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Punk",
+        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 218596,
+      "name": "Droppin Jewels",
+      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodie SZN",
         "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
       },
@@ -855,22 +847,6 @@
       "duration_ms": 220888,
       "name": "Just Like Me (feat. Young Thug)",
       "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Punk",
-        "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 218596,
-      "name": "Droppin Jewels",
-      "url": "https://open.spotify.com/track/3q8Uyfo98yoEqByamJOIkJ"
     },
     {
       "added_at": null,
@@ -939,6 +915,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 212658,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money On Money (feat. Future)",
         "url": "https://open.spotify.com/album/17J76IiBYBQBIOyNbmnjaO"
       },
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UY SCUTI",
-        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Pipe Down (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 184093,
       "name": "Surf (feat. Gunna)",
       "url": "https://open.spotify.com/track/6igOR5QCn09zAVF2ikZjsV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UY SCUTI",
+        "url": "https://open.spotify.com/album/1PokOUCgfAho8snnJLTkMD"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Pipe Down (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/3OTSZ4ymx10oOtzsKOt4oS"
     },
     {
       "added_at": null,

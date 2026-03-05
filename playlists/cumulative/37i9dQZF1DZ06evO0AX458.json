@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167746,
+      "name": "Posing Holy",
+      "url": "https://open.spotify.com/track/3U0AAwk53JEcv2Tcu9kpjz"
+    },
+    {
+      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -1216,10 +1234,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-05",
       "duration_ms": 191946,
       "name": "Rapture",
       "url": "https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57"
+    },
+    {
+      "album": {
+        "name": "Rapture (Gloom Version)",
+        "url": "https://open.spotify.com/album/6hpaXH0l9NHA2eFwamE2pN"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Wisp",
+          "url": "https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215428,
+      "name": "Rapture - Gloom Version",
+      "url": "https://open.spotify.com/track/5XbRfCQFWSNEbLGqHsWmcL"
     },
     {
       "album": {

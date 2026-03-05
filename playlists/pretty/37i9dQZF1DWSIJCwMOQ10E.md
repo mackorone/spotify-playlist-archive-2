@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Karen Lizarazo
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,928 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,942 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 36 | [Cartagena](https://open.spotify.com/track/1UGXsiNn0ACf2MXuHXuiJE) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Cartagena](https://open.spotify.com/album/0KPZ1OkD2EUQpaWVKnnJtM) | 2:54 |
 | 37 | [Parranda en el Cafetal](https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 4:12 |
 | 38 | [Ya No Me Duele Más](https://open.spotify.com/track/0n2npnG9p4XnPAopv39USd) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Ya No Me Duele Más](https://open.spotify.com/album/0eUcBIlIkSckfugOOwJLkL) | 3:46 |
-| 39 | [Mosaico Lo De La Chula \(Tamarindo Seco, La Mata De Patilla, La Garrapata\)](https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Deja Que Te Cante](https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd) | 5:34 |
-| 40 | [Por Ella](https://open.spotify.com/track/61BoBnTname2M5evtYyU6k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Mis Favoritas](https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh) | 4:39 |
+| 39 | [Por Ella](https://open.spotify.com/track/61BoBnTname2M5evtYyU6k) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Mis Favoritas](https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh) | 4:39 |
+| 40 | [Mosaico Lo De La Chula \(Tamarindo Seco, La Mata De Patilla, La Garrapata\)](https://open.spotify.com/track/62O1pmJ6MIN9bHMQTtL51K) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Deja Que Te Cante](https://open.spotify.com/album/5YKYtTEULxuokW6tDSxsBd) | 5:34 |
 | 41 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
 | 42 | [DÉJALO EN VISTO](https://open.spotify.com/track/5phSp1VmzYJTvu1qZYdQS0) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [DÉJALO EN VISTO](https://open.spotify.com/album/5XtVHkEov3lgISXN8YUdbe) | 3:09 |
 | 43 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 |

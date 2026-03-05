@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,555 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,566 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 11 | [婀娜婀娜](https://open.spotify.com/track/6PvyXZnBK7W5cV4VH9EYLP) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [婀娜婀娜](https://open.spotify.com/album/77W5gV7qPHS2ZThS6oQuFc) | 3:57 |
 | 12 | [Pull Up](https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Pull Up](https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW) | 2:30 |
 | 13 | [ラッキーアイラブユー](https://open.spotify.com/track/5p040sCjrFbgB81NpRGWWr) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [ラッキーアイラブユー](https://open.spotify.com/album/1PvPHW1dQoqBvbrrBlIvas) | 3:58 |
-| 14 | [Track 1](https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS) | [Ms.Independent](https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX) | 0:00 |
+| 14 | [High Life Diva](https://open.spotify.com/track/48SLT9xIlpHMVZIqappWI5) | [me\-mai](https://open.spotify.com/artist/3mUSzVCF0uh8YuVH16vNJS), [EMI MARIA](https://open.spotify.com/artist/4RXIhUAlNFVdzLCWEWdRD8) | [Ms.Independent](https://open.spotify.com/album/4KybIqjkuFfB7aVr7DIUpX) | 2:41 |
 | 15 | [ラブ・デラックス](https://open.spotify.com/track/6lkxg4kEkX4REWbZPll1fD) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [ラブ・デラックス](https://open.spotify.com/album/1MhBOqeA2IXMyhIL1UokPr) | 3:04 |
 | 16 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez), [Foux](https://open.spotify.com/artist/0m9bygb96Rv5mAuRqIboP7) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |
 | 17 | [DEKKA](https://open.spotify.com/track/2fpg2unmUrZs5XOGlov4xr) | [valknee](https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn) | [DEKKA](https://open.spotify.com/album/3Vz2qBCfUYvGrUFLJUOxP2) | 2:39 |

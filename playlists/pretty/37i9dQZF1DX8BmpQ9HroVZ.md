@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Sabri Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,393 likes - 89 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,422 likes - 89 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 88 | [Piya Ghar Aaya \- Remix](https://open.spotify.com/track/55EcrWG7HgMQgm3tfM4FTs) | [Asad Khan](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Piya Ghar Aaya \(Remix\)](https://open.spotify.com/album/1IzHolkRH2R3sJXkPi7cqT) | 3:55 |
 | 89 | [5\-7](https://open.spotify.com/track/6PRFDCNAMLeSZimkPGrKMG) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [5\-7](https://open.spotify.com/album/4dXcuXW8WwIL72AdynEorK) | 2:34 |
 
-Snapshot ID: `AAAAAAFWel4PycuVcSV3O3Hd+UMeAwTO`
+Snapshot ID: `AAAAAGZkkLe0RqVBAyamwaq+YLfnIem8`
