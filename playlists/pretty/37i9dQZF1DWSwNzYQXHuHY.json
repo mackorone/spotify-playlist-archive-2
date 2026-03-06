@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12169,
+  "num_followers": 12172,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
-      },
-      "artists": [
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 183146,
-      "name": "MOVIE",
-      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "Spring Fever, Pt. 5 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0pvUvyCFRyYzFPXLAuZQcN"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 227000,
       "name": "You Are Spring",
       "url": "https://open.spotify.com/track/0LaFsGJoSqJtrwFeuytslG"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 183146,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp"
     },
     {
       "added_at": "2026-03-03 04:39:53",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 173732,
-      "name": "Still In Time",
-      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "One-way Love (Feat. h3hyeon)",
         "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 156976,
       "name": "One-way Love (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "Spring Fever, Pt. 7 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3EhkvrtYTudwpxtOnxvWuW"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 173732,
+      "name": "Still In Time",
+      "url": "https://open.spotify.com/track/2AId5fDE2y1UUbagfZVzIQ"
     },
     {
       "added_at": "2026-03-03 04:39:53",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "MY PRIDE",
-        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
-      },
-      "artists": [
-        {
-          "name": "TIOT",
-          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "MY PRIDE",
-      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "HAAN X SHIRT : Energy",
         "url": "https://open.spotify.com/album/5jHoX07f3takq1mUAfl3bT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 171964,
       "name": "\uc5f4\uc5b4\ub3c4 \ub418\uc5b4\uc694",
       "url": "https://open.spotify.com/track/4OeS83JBtLaSb0YpmDXE2I"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "MY PRIDE",
+        "url": "https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "MY PRIDE",
+      "url": "https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y"
     },
     {
       "added_at": "2026-03-03 04:39:53",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-03 04:39:53",
       "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 173106,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
-    },
-    {
-      "added_at": "2026-03-03 04:39:53",
-      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+    },
+    {
+      "added_at": "2026-03-03 04:39:53",
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 173106,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz"
     }
   ],
   "unique_name": "\uc378 !",

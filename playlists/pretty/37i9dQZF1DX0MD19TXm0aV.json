@@ -1,6 +1,6 @@
 {
   "description": "Switzerland's biggest hits right now. Cover: Bella Kay",
-  "num_followers": 106393,
+  "num_followers": 106389,
   "original_name": "Hot Hits Switzerland",
   "owner": {
     "name": "Spotify",
@@ -66,6 +66,10 @@
         {
           "name": "Samurai Jay",
           "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
         }
       ],
       "duration_ms": 188184,

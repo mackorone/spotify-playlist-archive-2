@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One",
   "name": "Rap UK",
   "tracks": [
     {
@@ -4860,6 +4860,24 @@
       "duration_ms": 148316,
       "name": "BATTY & BENCH - Freestyle pt. II",
       "url": "https://open.spotify.com/track/0V9pELwsLI9FrjrbZbjH9n"
+    },
+    {
+      "album": {
+        "name": "BBK",
+        "url": "https://open.spotify.com/album/1TgotWmUl0eqF8XGe9Deh2"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140979,
+      "name": "BBK",
+      "url": "https://open.spotify.com/track/1dbnMK6t2B51VCvgyUmBK1"
     },
     {
       "album": {
@@ -9890,6 +9908,24 @@
       "duration_ms": 150663,
       "name": "Commitment Issues",
       "url": "https://open.spotify.com/track/5w3CtwPT5e0k8zg2LyjvNN"
+    },
+    {
+      "album": {
+        "name": "Common",
+        "url": "https://open.spotify.com/album/7kYKbRyDHJ7Qgy3t0fLylF"
+      },
+      "artists": [
+        {
+          "name": "Pozer",
+          "url": "https://open.spotify.com/artist/438fi8qqvXNEPoUrYLIO7J"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119148,
+      "name": "Common",
+      "url": "https://open.spotify.com/track/1xkLsWNjxINSozZNnli0Yl"
     },
     {
       "album": {
@@ -23006,7 +23042,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 103200,
       "name": "Last Pound",
       "url": "https://open.spotify.com/track/61K1crraupVe0ozjRlPB42"
@@ -31352,7 +31388,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 216464,
       "name": "Pain",
       "url": "https://open.spotify.com/track/18JvmiOefHtdJFq7fP1FgG"
@@ -36560,7 +36596,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 155697,
       "name": "Selfridges",
       "url": "https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd"
@@ -41575,6 +41611,24 @@
     },
     {
       "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/1mdW99tJ6hs7YyPFaO11mI"
+      },
+      "artists": [
+        {
+          "name": "SL",
+          "url": "https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161516,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/3tPYn1ZloX3n0CgIrQ2eQR"
+    },
+    {
+      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/6N5ZIKMR78KHLpKaHAfG9U"
       },
@@ -42776,7 +42830,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 163043,
       "name": "twenty four",
       "url": "https://open.spotify.com/track/6AUtLIZhas25QbUrkV9qhM"
@@ -46410,6 +46464,24 @@
       "duration_ms": 135322,
       "name": "you should call mum",
       "url": "https://open.spotify.com/track/2SVIkGkmY9ZPZFniCwa7ar"
+    },
+    {
+      "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/2BLonWEwLiNzXp7cfaeFLr"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195762,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/1yCuloYO2IJNmKoMwWjlno"
     },
     {
       "album": {

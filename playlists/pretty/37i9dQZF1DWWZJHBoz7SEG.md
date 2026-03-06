@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Febrero se va, pero el mood se queda: rolitas prendidas y cero ganas de bajarle, Bruno Mars en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,146,538 likes - 89 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,146,614 likes - 89 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック cover: Kianna, HARKA, AOTO and Siero \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,586 likes - 93 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,602 likes - 93 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 25 | [Yα Boy!!](https://open.spotify.com/track/2KZeSOk8Cri20hcqnZLpjl) | [L\-Vokal](https://open.spotify.com/artist/0z0BuLfVtAv6FarxqAWrDt), [SEEDA](https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY), [C.H.E.T.](https://open.spotify.com/artist/00VsAY5Nv5zJgCIbh1LNJe) | [Yα Boy!!](https://open.spotify.com/album/4RT9pfWS6VNkU6sVckHgT3) | 3:55 |
 | 26 | [Stack](https://open.spotify.com/track/02cI2H0wxmoWRacpEl9JdG) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Stack](https://open.spotify.com/album/61GPV3k69IEoUkeJ63DBPn) | 2:44 |
 | 27 | [Siroi Koibito](https://open.spotify.com/track/61R4suSgS54iUII5XRD9CN) | [MC TYSON](https://open.spotify.com/artist/3ytVNSZdjCCJwechkDCFsB) | [Siroi Koibito](https://open.spotify.com/album/4t8DKvyK88RKTJkdtslCSI) | 2:24 |
-| 28 | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/track/5aghfxUEiaX17pkZCiqATq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/album/0ZuOdA2XI2JpxGGf033fwk) | 2:58 |
+| 28 | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/track/5aghfxUEiaX17pkZCiqATq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/album/0ZuOdA2XI2JpxGGf033fwk) | 2:58 |
 | 29 | [Dialogue](https://open.spotify.com/track/1ciEvJTM9sINjJT2znM3Py) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz) | [Uncolored](https://open.spotify.com/album/0ucGPjta6X26IczgF4IM7N) | 3:40 |
 | 30 | [火ノ鳥 \(feat\. MIKADO\)](https://open.spotify.com/track/7zYzd7daUOrutzpdveDGXy) | [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [MIKADO](https://open.spotify.com/artist/4VusyH2tzsl3IwI3sEVt96) | [WAKA MiNATi](https://open.spotify.com/album/3HUbN96U7bURiiBK5u70uR) | 3:04 |
 | 31 | [Seasons](https://open.spotify.com/track/0jOFKglRHghXaYmPT0ys01) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [Seasons](https://open.spotify.com/album/7MeKYsRWWQHQE8PKUJauNZ) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LON3R JOHNY entra na zona. ",
+  "description": "Piruka entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 126263,
       "name": "2 HORAS",
       "url": "https://open.spotify.com/track/6EToWXssCE1xbX42Gghilj"
@@ -985,6 +985,36 @@
     },
     {
       "album": {
+        "name": "AfterHours",
+        "url": "https://open.spotify.com/album/1A3KgyELfj7Npb3zZAeBJU"
+      },
+      "artists": [
+        {
+          "name": "Dbraz",
+          "url": "https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl"
+        },
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        },
+        {
+          "name": "ROCHA.SNJ",
+          "url": "https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8"
+        },
+        {
+          "name": "Simba.",
+          "url": "https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "AfterHours",
+      "url": "https://open.spotify.com/track/1liMuad86a8bz9IqisJGWJ"
+    },
+    {
+      "album": {
         "name": "AGORA NAW",
         "url": "https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx"
       },
@@ -1058,6 +1088,24 @@
       "duration_ms": 236800,
       "name": "Ainda Tou Aqui",
       "url": "https://open.spotify.com/track/6jpS1BJGffM4LmnBAynrGk"
+    },
+    {
+      "album": {
+        "name": "Al Pacino",
+        "url": "https://open.spotify.com/album/6d0P6O3pOh5gbLIBV46sOe"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144620,
+      "name": "Al Pacino",
+      "url": "https://open.spotify.com/track/2y7DbEbCTpWTuo4EYxdp3n"
     },
     {
       "album": {
@@ -1310,6 +1358,24 @@
       "duration_ms": 147170,
       "name": "Alta Cultura - Fica Calmo",
       "url": "https://open.spotify.com/track/39nLLHYcvJNgvQMck0Kd0S"
+    },
+    {
+      "album": {
+        "name": "Alta Cultura - Flavour",
+        "url": "https://open.spotify.com/album/26mkw8qlsMMtzBy3kosFRh"
+      },
+      "artists": [
+        {
+          "name": "Jimmy P",
+          "url": "https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127315,
+      "name": "Alta Cultura - Flavour",
+      "url": "https://open.spotify.com/track/5a8T4bqArgbuL0Pf3Hu75W"
     },
     {
       "album": {
@@ -1720,7 +1786,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 166666,
       "name": "Antigamente",
       "url": "https://open.spotify.com/track/0nzxggtFw6r1Irsxrs99bO"
@@ -10494,7 +10560,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 142725,
       "name": "MALVADO",
       "url": "https://open.spotify.com/track/2o0O7LnGFGr8lDh8XZ5LBW"
@@ -13050,7 +13116,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 245000,
       "name": "O Amanh\u00e3",
       "url": "https://open.spotify.com/track/3EyBjDXxhTbmfenp19AZxd"
@@ -14204,7 +14270,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 268387,
       "name": "Pelo Norte #2",
       "url": "https://open.spotify.com/track/1kkB8g1FXYonWn3C5BfBsK"
@@ -16037,6 +16103,28 @@
     },
     {
       "album": {
+        "name": "Sac 2660",
+        "url": "https://open.spotify.com/album/2z5HDH4X78AEeXJsL5AMAI"
+      },
+      "artists": [
+        {
+          "name": "PMBRUTOZ",
+          "url": "https://open.spotify.com/artist/0Q5k1FJfDShLuYFDQje0P5"
+        },
+        {
+          "name": "Stev\u00e3o NDM",
+          "url": "https://open.spotify.com/artist/5JpEb19393qOrYgRniHY6h"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Sac 2660",
+      "url": "https://open.spotify.com/track/2JhekrzSS6kInDeZOT7XXy"
+    },
+    {
+      "album": {
         "name": "SACA L\u00c1",
         "url": "https://open.spotify.com/album/2hI0hN3tuadLZ95pr8hAEC"
       },
@@ -16342,6 +16430,24 @@
       "duration_ms": 161421,
       "name": "Semana",
       "url": "https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc"
+    },
+    {
+      "album": {
+        "name": "Sensual",
+        "url": "https://open.spotify.com/album/1YIr5O4ouVmjXblI4YreQR"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Sensual",
+      "url": "https://open.spotify.com/track/19NvLcEW0g31djz4afbaQt"
     },
     {
       "album": {
@@ -18544,7 +18650,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 196276,
       "name": "T\u00f3xico (feat. Ivandro & WIU)",
       "url": "https://open.spotify.com/track/1AlA6M3Kr97ZsWzlQBCxZh"

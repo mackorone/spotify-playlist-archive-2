@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABBAYmRas06NQPVyOjQH1R5",
+  "snapshot_id": "aad2AAAAAADlqTGTaZDl2WejTh6eFLw+",
   "tracks": [
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR PIRATA",
-        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
+        "name": "ANTI-HER\u00d3I",
+        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 172963,
-      "name": "AMOR PIRATA",
-      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
+      "duration_ms": 255159,
+      "name": "A \u00daltima Noite",
+      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANTI-HER\u00d3I",
-        "url": "https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP"
+        "name": "AMOR PIRATA",
+        "url": "https://open.spotify.com/album/4wxp5gMpPpvtKup4KgDrdm"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
         }
       ],
-      "duration_ms": 255159,
-      "name": "A \u00daltima Noite",
-      "url": "https://open.spotify.com/track/1COly0kisSWSrcUQkXUMcF"
+      "duration_ms": 172963,
+      "name": "AMOR PIRATA",
+      "url": "https://open.spotify.com/track/5K5g0QQZI1a1ZS3Ag7CU5f"
     },
     {
       "added_at": null,

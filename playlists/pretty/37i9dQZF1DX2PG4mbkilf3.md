@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with RAAHiiM from Brampton, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,147 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,235 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 6 | [3am in Paris](https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [3am in Paris](https://open.spotify.com/album/7oQeXT4SPlBbbM2ntXPijn) | 2:49 |
 | 7 | [Precious](https://open.spotify.com/track/20djsOOXlbSIeO2idY99c3) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O), [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [Precious](https://open.spotify.com/album/7Mv6IVfkVlzxlyAihQspQK) | 2:32 |
 | 8 | [Remember us](https://open.spotify.com/track/68cWBpjuYI3QGzVbD1PCP5) | [Ryael](https://open.spotify.com/artist/6uTGQekql6OdGUQDk6a8Wt) | [Remember us](https://open.spotify.com/album/4zuTFIgzvayjM2W8EAEC1P) | 3:15 |
-| 9 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
+| 9 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
 | 10 | [6YRS](https://open.spotify.com/track/58jQYefzDe8XR3MSfC7nT7) | [80purppp](https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF) | [Suite 96: Late Checkout](https://open.spotify.com/album/55azbI7LCJsN2BwURS7RdB) | 2:04 |
 | 11 | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/track/1zmm0RJr87jNbbLR08eaLV) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4), [Strings From Paris](https://open.spotify.com/artist/4c520eahgQwzeJopRch4k4) | [Bloom \(feat\. Strings From Paris\)](https://open.spotify.com/album/06hyNaRnnj4Byzh8IqyZQW) | 3:19 |
 | 12 | [Great Expectations](https://open.spotify.com/track/6pQJTKEbTazGQGGutE3GT6) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [Great Expectations](https://open.spotify.com/album/3yNhczLbYrRBPTdDCqn398) | 2:08 |

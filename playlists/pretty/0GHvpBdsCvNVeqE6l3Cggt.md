@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 49 songs - 3 hr 10 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,299 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,16 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 34 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
 | 35 | [Ironic](https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:48 |
 | 36 | [Stupid Girl \- Remastered 2015](https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Absolute Garbage](https://open.spotify.com/album/6nZQaZ0is5KhtuJeay9wxP) | 4:18 |
-| 37 | [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 |
-| 38 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 |
-| 39 | [That's What We Believe](https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2) | [Neil Wells](https://open.spotify.com/artist/1II894supggID2amUinnsf) | [Live for Today](https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu) | 4:11 |
-| 40 | [Ocean](https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg) | [S\. Lithgow](https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE) | [Ocean](https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc) | 4:43 |
-| 41 | [Afterlight Rebirth](https://open.spotify.com/track/725R9MjTvuQuxCXPlEz7pL) | [Emre Kalkan](https://open.spotify.com/artist/4GR3PMuKyV1bCCZNE28NKX) | [Afterlight Rebirth](https://open.spotify.com/album/0RVaytmlV8i6N9QSjl3s3v) | 4:17 |
-| 42 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
-| 43 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 |
-| 44 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 |
-| 45 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 |
-| 46 | [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 |
-| 47 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 |
-| 48 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 |
-| 49 | [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 |
+| 37 | [Afterlight Rebirth](https://open.spotify.com/track/725R9MjTvuQuxCXPlEz7pL) | [Emre Kalkan](https://open.spotify.com/artist/4GR3PMuKyV1bCCZNE28NKX) | [Afterlight Rebirth](https://open.spotify.com/album/0RVaytmlV8i6N9QSjl3s3v) | 4:17 |
+| 38 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 |
+| 39 | [Lemon](https://open.spotify.com/track/7ywKkwyLL7MoswdS2fpf63) | [Unknown Nobody](https://open.spotify.com/artist/0RkY31biYqddsRYUZ5AEhH) | [Kitschmarkt](https://open.spotify.com/album/6o6APiZPrkdwOHcnFV859C) | 3:21 |
+| 40 | [Right Here Right Now \- Radio Mix](https://open.spotify.com/track/2aDCVvBHmCN46qrSsFhV1r) | [VB](https://open.spotify.com/artist/6bWH9AGbutBmdCkMbwJDjq) | [Right Here Right Now](https://open.spotify.com/album/1Wf2NUnnQIWkITTef2QngQ) | 2:33 |
+| 41 | [Like a River in a Storm](https://open.spotify.com/track/7FxhX5BKum3TVi3ON0IBgt) | [LeLore](https://open.spotify.com/artist/0Lui3cCsiAznp6iYOemK1U), [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Like a River in a Storm](https://open.spotify.com/album/36FBHzTI9taLfxzFSC2JEg) | 3:13 |
+| 42 | [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 |
+| 43 | [Faded photographs](https://open.spotify.com/track/1vMsBtdVxFHYHYStZJVQHt) | [Body Talk](https://open.spotify.com/artist/0T4kP9IyFYuI7fRBqQ58EJ) | [Faded photographs](https://open.spotify.com/album/2T3cj8XZ12Mpoxz8ZObbur) | 3:35 |
+| 44 | [Límite](https://open.spotify.com/track/7jVQXWrwoQq9lOQpGXlJRv) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Límite](https://open.spotify.com/album/3nxdgNuSPdm0oibOiS1J4d) | 2:48 |
+| 45 | [イマジネーション・シティ](https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj) | [陽那 京](https://open.spotify.com/artist/5kWYs6YB227vs6NZeaJhU0) | [イマジネーション・シティ](https://open.spotify.com/album/5KrzZjhziaDHf7mW7uhbE8) | 3:33 |
+| 46 | [Fool Me Once](https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts) | [Sean Blu](https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx) | [Fool Me Once](https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO) | 2:45 |
+| 47 | [Drunk on Expectations](https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia) | [Amity Hayze](https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf) | [Drunk on Expectations](https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz) | 2:57 |
 
-Snapshot ID: `AAAj+yORJMgoLfrLP00CEWzmLm/5gMsF`
+Snapshot ID: `AAAkAehCfPWUlVYo//DiM7SzB1/QTF8x`

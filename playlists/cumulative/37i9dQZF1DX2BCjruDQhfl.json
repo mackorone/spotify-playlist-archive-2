@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 174967,
       "name": "10/10",
       "url": "https://open.spotify.com/track/57QRmivEkTh1jC6S3rt4u4"
@@ -946,7 +946,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 174315,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/7N2ZpxdytE7iAvkzdcsHrR"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 169975,
       "name": "Jij weet",
       "url": "https://open.spotify.com/track/6KYGPAJ7Ied3ydTz75br4g"
@@ -2474,7 +2474,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172881,
       "name": "Laat me zien",
       "url": "https://open.spotify.com/track/6ckmOfisQCSN7ftG1xt5IL"
@@ -2648,7 +2648,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 187351,
       "name": "Love",
       "url": "https://open.spotify.com/track/5pB7zLOU7mTplExDJF1NuG"
@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2025-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 170322,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/49KNFhg09mP9x7LOYPveK1"
@@ -3556,6 +3556,24 @@
       "duration_ms": 166049,
       "name": "PART TIME BADDIE",
       "url": "https://open.spotify.com/track/3yRQmkpLEaY2axLjOKUeCl"
+    },
+    {
+      "album": {
+        "name": "Party & Bullshit",
+        "url": "https://open.spotify.com/album/0AxiKisKj3FucPCpPHvtM3"
+      },
+      "artists": [
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114582,
+      "name": "Party & Bullshit",
+      "url": "https://open.spotify.com/track/5MQi0TlGBa0DZ8OsoDXV8c"
     },
     {
       "album": {
@@ -3982,7 +4000,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 177893,
       "name": "Safe (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K"
@@ -4798,6 +4816,24 @@
     {
       "album": {
         "name": "Toxic",
+        "url": "https://open.spotify.com/album/71VYznmAATTGTh7xP9XhRT"
+      },
+      "artists": [
+        {
+          "name": "DenzelSN",
+          "url": "https://open.spotify.com/artist/3o6rBFfY6bEVAK4dfYISUZ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137857,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/5w1hwhbGikZrfoJbLrjhcX"
+    },
+    {
+      "album": {
+        "name": "Toxic",
         "url": "https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7"
       },
       "artists": [
@@ -4816,6 +4852,24 @@
       "duration_ms": 167852,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD"
+    },
+    {
+      "album": {
+        "name": "Love & Sugar",
+        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
     },
     {
       "album": {
@@ -5382,7 +5436,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 167142,
       "name": "You",
       "url": "https://open.spotify.com/track/4cVSNWNoKMkiq0gSB4x2SI"

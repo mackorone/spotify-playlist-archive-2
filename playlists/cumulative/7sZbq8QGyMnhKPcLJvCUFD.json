@@ -16771,6 +16771,28 @@
     },
     {
       "album": {
+        "name": "whatdoyousee",
+        "url": "https://open.spotify.com/album/3hYEI8WKcf4nCd7QV5hZ2a"
+      },
+      "artists": [
+        {
+          "name": "prodBigMike",
+          "url": "https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X"
+        },
+        {
+          "name": "Glitch Cat",
+          "url": "https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118615,
+      "name": "whatdoyousee",
+      "url": "https://open.spotify.com/track/3acaGdJ1lTl4WxobCEuhoG"
+    },
+    {
+      "album": {
         "name": "Whatever (ft. J\u00fcri Pootsmann)",
         "url": "https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME"
       },

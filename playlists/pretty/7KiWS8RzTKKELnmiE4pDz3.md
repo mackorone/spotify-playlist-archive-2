@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 424 songs - 1 day 1 hr 51 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 431 songs - 1 day 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -432,5 +432,12 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 422 | [Alarm Clock](https://open.spotify.com/track/4COIMVA3SlBGraYdTPEOgC) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jon Connor](https://open.spotify.com/artist/1F5zdoXcwIB9XSNfitdo7x), [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [What Goes Around \(Spotify Exclusive\)](https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5) | 3:25 |
 | 423 | [Slum Villain](https://open.spotify.com/track/7HL20ipUse2JxWgj0pnBuW) | [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [What Goes Around \(Spotify Exclusive\)](https://open.spotify.com/album/0SOFk5OyoaayDx3CH9qpB5) | 2:43 |
 | 424 | [Ventilation](https://open.spotify.com/track/0a5ktgbJOj3xsYowGkUc9L) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Covert Coup](https://open.spotify.com/album/7zAHNpdTeq8jNCmZaGK3jf) | 2:18 |
+| 425 | [DOCTOR](https://open.spotify.com/track/461AIwNM5DPn3kgAxQV2k3) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [JOHANN SEBASTIAN BACHLAVA THE DOCTOR](https://open.spotify.com/album/0rTMVd3N7czUFdf1mBfNMt) | 3:16 |
+| 426 | [S.N.O.R.T.](https://open.spotify.com/track/121dfA7j6eDlvLSeGP1ZDU) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [The Price Of Tea In China](https://open.spotify.com/album/52yTF9qryiuTlSNqhHObgd) | 3:11 |
+| 427 | [Walnut Grove](https://open.spotify.com/track/2WHhenw4jhle7mtCGK0WWy) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Criminally Attached](https://open.spotify.com/album/1StqUa5W8ZyphBT3GHQBHs) | 2:51 |
+| 428 | [Steel Doors](https://open.spotify.com/track/70acIbhFV0rmyBAGhcUheC) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [You Only Die 1nce](https://open.spotify.com/album/44k1aegQDc03y66kpRoWKt) | 2:54 |
+| 429 | [Home](https://open.spotify.com/track/4f1fSYfrN60il6267bJGFi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata \(Deluxe Edition\)](https://open.spotify.com/album/4Qvh33TMiFWZIOoSMcM4PM) | 2:13 |
+| 430 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 |
+| 431 | [Melo](https://open.spotify.com/track/3pLkjcxgCDpIP50B07aByL) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 2:45 |
 
-Snapshot ID: `AAAf4wZDjCOAHekre516/I+v4ZQ+h25e`
+Snapshot ID: `AAAf6oG0KU2yPxgi6OICzEQh0fX+Hihw`

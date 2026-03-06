@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 98224,
+  "num_followers": 98274,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -231,30 +231,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Notumato",
-        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
-      },
-      "artists": [
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
-        },
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
-        }
-      ],
-      "duration_ms": 471428,
-      "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
-      "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/6vEFTGVOAcke5UVOetvDWV"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 193285,
       "name": "Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5OnDiLZlKXnBlBk2nCC9xE"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Notumato",
+        "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
+      },
+      "artists": [
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        },
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "duration_ms": 471428,
+      "name": "Adiwele (feat. Kabza De Small & DJ Maphorisa)",
+      "url": "https://open.spotify.com/track/2dTQe0W5KXs6TNVV7yi2oS"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -559,8 +559,8 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
-        "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
+        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
       },
       "artists": [
         {
@@ -568,21 +568,25 @@
           "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
         },
         {
-          "name": "Tman Xpress",
-          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
         },
         {
-          "name": "Ndibo Ndibs",
-          "url": "https://open.spotify.com/artist/6rEdZVv3UyRT6jibugZN9x"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
         },
         {
-          "name": "Djy Zan SA",
-          "url": "https://open.spotify.com/artist/6G8cF1dY05cxy99pzEdGya"
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
         }
       ],
-      "duration_ms": 458761,
-      "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
-      "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
+      "duration_ms": 480000,
+      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
+      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -679,8 +683,8 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-        "url": "https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR"
+        "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
+        "url": "https://open.spotify.com/album/24HHO3WJUHveNkQF5gfOmL"
       },
       "artists": [
         {
@@ -688,25 +692,21 @@
           "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
         },
         {
-          "name": "Felo Le Tee",
-          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+          "name": "Tman Xpress",
+          "url": "https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx"
         },
         {
-          "name": "DJ Maphorisa",
-          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+          "name": "Ndibo Ndibs",
+          "url": "https://open.spotify.com/artist/6rEdZVv3UyRT6jibugZN9x"
         },
         {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
-        },
-        {
-          "name": "Young Stunna",
-          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+          "name": "Djy Zan SA",
+          "url": "https://open.spotify.com/artist/6G8cF1dY05cxy99pzEdGya"
         }
       ],
-      "duration_ms": 480000,
-      "name": "Bopha (feat. DJ Maphorisa, Madumane & Young Stunna)",
-      "url": "https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk"
+      "duration_ms": 458761,
+      "name": "Sweety My Loving (feat. Ndibo Ndibs & Djy Zan SA)",
+      "url": "https://open.spotify.com/track/42C3ZqhZ08eCsIOwmW3xZJ"
     },
     {
       "added_at": "2026-02-20 01:43:11",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-02-20 01:43:11",
       "album": {
-        "name": "Uyavala",
-        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        }
-      ],
-      "duration_ms": 348357,
-      "name": "Uyavala",
-      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
-    },
-    {
-      "added_at": "2026-02-20 01:43:11",
-      "album": {
         "name": "Turn Off The Lights",
         "url": "https://open.spotify.com/album/42Ma32s3CwNni8AgRWlliR"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 504703,
       "name": "Turn Off The Lights",
       "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
+    },
+    {
+      "added_at": "2026-02-20 01:43:11",
+      "album": {
+        "name": "Uyavala",
+        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        }
+      ],
+      "duration_ms": 348357,
+      "name": "Uyavala",
+      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
       "added_at": "2026-02-20 01:43:11",

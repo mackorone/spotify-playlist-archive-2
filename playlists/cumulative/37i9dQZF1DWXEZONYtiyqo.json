@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Raluka",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Alina Eremia, Andrei Banuta",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172293,
       "name": "Ai grij\u0103 de via\u021ba ta",
       "url": "https://open.spotify.com/track/75SRsA13cOVxq3i7CdwscT"
@@ -583,6 +583,24 @@
     },
     {
       "album": {
+        "name": "Amprente",
+        "url": "https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv"
+      },
+      "artists": [
+        {
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183174,
+      "name": "Amprente",
+      "url": "https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o"
+    },
+    {
+      "album": {
         "name": "Am\u00e2ndoi",
         "url": "https://open.spotify.com/album/0pUEOfOTDV5hWXdir7B23j"
       },
@@ -718,7 +736,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 212195,
       "name": "ANTIVALENTINE",
       "url": "https://open.spotify.com/track/48j5LIuuNLAsG2v8FzqPiZ"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 146470,
       "name": "Cancan & Business",
       "url": "https://open.spotify.com/track/7k8MaJlKKJbWfb6x1nwtkv"
@@ -1576,6 +1594,24 @@
       "duration_ms": 157037,
       "name": "Cerule",
       "url": "https://open.spotify.com/track/4ZeSr0aitBN1EizbCRSJAM"
+    },
+    {
+      "album": {
+        "name": "Jurnal",
+        "url": "https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161740,
+      "name": "Cetera",
+      "url": "https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N"
     },
     {
       "album": {
@@ -3383,6 +3419,24 @@
     },
     {
       "album": {
+        "name": "Arta ta",
+        "url": "https://open.spotify.com/album/4O5CwoNJ1rxS0XRV1Xf4vT"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139416,
+      "name": "Gura Lumii",
+      "url": "https://open.spotify.com/track/0sxwD8XjQ9XisBvMKyCykm"
+    },
+    {
+      "album": {
         "name": "Gura ta",
         "url": "https://open.spotify.com/album/17lqp453x6qa1MBfipsn4s"
       },
@@ -3972,6 +4026,28 @@
       "duration_ms": 152182,
       "name": "Iubire cu parfum de lavand\u0103",
       "url": "https://open.spotify.com/track/24uvX3TV4BpxgGvaIDWdzT"
+    },
+    {
+      "album": {
+        "name": "Iubirea \u00eentr-un om",
+        "url": "https://open.spotify.com/album/2bTOX3SjgOTGeszeL1lUK6"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Iubirea \u00eentr-un om",
+      "url": "https://open.spotify.com/track/4mZIx5bfX3sA6r966gmxy8"
     },
     {
       "album": {
@@ -4678,6 +4754,28 @@
       "duration_ms": 171091,
       "name": "Melo",
       "url": "https://open.spotify.com/track/4J4soOlioWLA6AJ1TqlKgw"
+    },
+    {
+      "album": {
+        "name": "Mintea Mea",
+        "url": "https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Mintea Mea",
+      "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
     },
     {
       "album": {
@@ -5904,7 +6002,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 193548,
       "name": "Pe p\u0103m\u00e2nt",
       "url": "https://open.spotify.com/track/3AkZgnB0MbEU2AR2clX4Na"
@@ -6390,6 +6488,24 @@
       "duration_ms": 165600,
       "name": "Qu\u00e9date Aqu\u00ed",
       "url": "https://open.spotify.com/track/5o1MYCoDAFXofcbhDQAOY8"
+    },
+    {
+      "album": {
+        "name": "Rai pe P\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/0Lu94fr5u1EVUMkHFfgmB4"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215735,
+      "name": "Rai pe P\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I"
     },
     {
       "album": {
@@ -7278,7 +7394,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190909,
       "name": "Ti-amintesc de Cineva",
       "url": "https://open.spotify.com/track/0lHWFezHugWATHEX0B5VRQ"
@@ -7968,7 +8084,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 195312,
       "name": "V\u00e2ntul",
       "url": "https://open.spotify.com/track/4UUDnPKoeXrXQq4MMuD7WC"

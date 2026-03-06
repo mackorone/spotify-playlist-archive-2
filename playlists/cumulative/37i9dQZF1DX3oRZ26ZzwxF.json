@@ -107,6 +107,24 @@
     },
     {
       "album": {
+        "name": "24K",
+        "url": "https://open.spotify.com/album/50EfJTC8BOToimm3f0Dio4"
+      },
+      "artists": [
+        {
+          "name": "Andy S",
+          "url": "https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155624,
+      "name": "24K",
+      "url": "https://open.spotify.com/track/36x68wZiC8zg5T8OPFjlSa"
+    },
+    {
+      "album": {
         "name": "3X NDOSS (feat. Yorssy)",
         "url": "https://open.spotify.com/album/5byzh0n87vakjorydykJgf"
       },

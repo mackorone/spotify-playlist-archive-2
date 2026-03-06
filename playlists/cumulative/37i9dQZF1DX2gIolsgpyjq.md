@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: lene 3000
+> The best new music by independent artists in the Nordics\. Cover: MYKKE
 
-1,563 songs - 3 day 10 hr 12 min
+1,571 songs - 3 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [Boxes](https://open.spotify.com/track/4BG9bmncQA5gd02FyznqPL) | [Linn Cervell](https://open.spotify.com/artist/1cNT8DVSv8F5tGV1jFwCqi), [ASHIYARI](https://open.spotify.com/artist/6rBbDGrlJGTdrtbsv1neWT) | [Boxes](https://open.spotify.com/album/6YZft98TYmMub7jPt5DqrY) | 3:13 | 2024-02-22 | 2024-03-29 |
 | [Boy, Empty](https://open.spotify.com/track/0SNuOUnmzWghN3oPcaduCA) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/4rOqXdpoXvE1PH59Jf88be) | 2:49 | 2024-02-08 | 2024-06-01 |
 | [Boy, Empty](https://open.spotify.com/track/1YmxOiVwqPiLTkkIc2eIdW) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o) | [FIRST ENCOUNTER](https://open.spotify.com/album/0fxQ72By0GepEsvbQsjgbv) | 2:49 | 2024-12-04 | 2025-01-03 |
+| [brand new](https://open.spotify.com/track/06LFZrhcOhCZriKe5gsblh) | [dilba](https://open.spotify.com/artist/6wYmfcd6UCkVp88YgUveNE) | [brand new](https://open.spotify.com/album/7oZM9tnIxAIHZg3R9XGi2p) | 2:08 | 2026-03-05 |  |
 | [break my fall](https://open.spotify.com/track/1Pm9Ccvs4z9w4vQEWKDICe) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [break my fall](https://open.spotify.com/album/3uRPMGgQ87zRkUD2WNqCUl) | 2:49 | 2025-06-19 | 2025-08-15 |
 | [Break The Wave](https://open.spotify.com/track/22tRvyxG55vSjyBjTwxJ6z) | [Parasto Sazvar](https://open.spotify.com/artist/1HWUNhdWnDLdvnWIRlWitI) | [Break The Wave](https://open.spotify.com/album/7pj8065F4DyuS54hqM9fan) | 3:45 | 2025-10-23 | 2026-02-06 |
 | [Breaking](https://open.spotify.com/track/22hPf991l1IlJ5kkq6BXqM) | [Kya Kyani](https://open.spotify.com/artist/4NtIkF6oybp3yfB1PUDYYL), [Perttu](https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK) | [Breaking](https://open.spotify.com/album/7KEBiEU9GzfRzBO0MGyj8n) | 3:24 | 2024-05-30 | 2024-07-27 |
@@ -183,6 +184,7 @@
 | [BROTHER](https://open.spotify.com/track/61FvG3igKfH3cgtIphxa1I) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [BROTHER](https://open.spotify.com/album/0xnzvqOObsdYkJBig26qPj) | 2:56 | 2025-10-16 | 2026-02-20 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2024-02-08 | 2024-03-15 |
 | [Bully](https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0CwKc5bjnFIXAccYdq6Wjp) | 3:33 | 2025-10-23 | 2026-01-16 |
+| [Burgundy Red](https://open.spotify.com/track/3YiV55nUW5daeJkBw8ZhvB) | [SKAYA](https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC) | [Burgundy Red](https://open.spotify.com/album/3wHojP4JkzVrEs9d2LaHFe) | 3:35 | 2026-03-05 |  |
 | [Business](https://open.spotify.com/track/4o0DU1TUqx26lPbYGCohyI) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Business](https://open.spotify.com/album/0cz8izYJAuuiU8SxYIv5LM) | 2:10 | 2024-03-28 | 2024-04-26 |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-20 | 2025-04-18 |
 | [But I Love It](https://open.spotify.com/track/3sZjpQC3vjGWP3VYicpq05) | [Mattias Kolstrup](https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG), [Stella](https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS) | [But I Love It](https://open.spotify.com/album/2SFRDRQiP31ZDzdqDBcXu5) | 2:50 | 2025-12-31 |  |
@@ -797,6 +799,7 @@
 | [life](https://open.spotify.com/track/5heedyAhL5XIDcHfyrpZYb) | [Carla Aakre](https://open.spotify.com/artist/73xyecF35DGHg7ic9BZF2u) | [life](https://open.spotify.com/album/4xjbxTt2FUeqsirmZFa6QE) | 3:15 | 2025-02-13 | 2025-03-14 |
 | [Life Is a Lie](https://open.spotify.com/track/70HcR9UBFNBaIjoOhZ9GVJ) | [MAÏA](https://open.spotify.com/artist/5AN0WzFqHYRzSBQrvEZnn4), [JHAS](https://open.spotify.com/artist/17Eb63yUpKbBaxdinHUZld) | [Life Is a Lie](https://open.spotify.com/album/1ZNjhgkfwAvH2pzCdkisH8) | 2:59 | 2025-03-20 | 2025-04-11 |
 | [Light](https://open.spotify.com/track/3znoDo4pQe84sKpFPRKZ2G) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Light](https://open.spotify.com/album/3ib9CGIQOVy6up6PmMEzxo) | 3:37 | 2024-03-21 | 2024-05-03 |
+| [lighthouse](https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [lighthouse](https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW) | 2:07 | 2026-03-05 |  |
 | [Lights Go Out](https://open.spotify.com/track/6fUOkiiQTO2nVazyl5VrU1) | [Skotte](https://open.spotify.com/artist/5GDfELQRat65DAU2FvjTPb) | [Lights Go Out](https://open.spotify.com/album/0N0cgQ6fxcZMULBkBeck91) | 2:04 | 2024-02-08 | 2024-02-23 |
 | [Lights Out](https://open.spotify.com/track/1RV60En6jbaegEehRnU7wM) | [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Lights Out](https://open.spotify.com/album/5RX4ysT5SAc0bMFnH6sg8p) | 5:09 | 2025-01-30 | 2025-02-21 |
 | [Like A Comet](https://open.spotify.com/track/5OdcBN0HXSkS3Z6fZKRZFD) | [Debbie Sings](https://open.spotify.com/artist/5xrpKIIiDNRsPVOi0nYlkW) | [Like A Comet](https://open.spotify.com/album/18L2aj7NVHwOeVFeMR4uTf) | 2:47 | 2025-02-06 | 2025-03-07 |
@@ -894,6 +897,7 @@
 | [Minute by Day](https://open.spotify.com/track/55wdL1VMU5irTZf3rbyKXF) | [Peace Bringa](https://open.spotify.com/artist/6lNuZfZqCWUtNZJtoiHfqM) | [Minute by Day](https://open.spotify.com/album/5BTiYThaDPEtH3QkS1pcxg) | 2:31 | 2024-02-15 | 2024-03-22 |
 | [Mio](https://open.spotify.com/track/30mf2jx7lqNfSFoHXMJjn5) | [MOLØ](https://open.spotify.com/artist/29k6IUtkDp9ErAaJrh1Tlg), [Running Pine](https://open.spotify.com/artist/6G8trVKRkLIs2SHsmq0jcY) | [Aqua Lull](https://open.spotify.com/album/0xhroZPlO1F2eFiFI0H1fk) | 7:08 | 2024-05-02 | 2025-01-03 |
 | [Miracle](https://open.spotify.com/track/77QoFtwtVcS9j8r9KecFFY) | [Fig Tape](https://open.spotify.com/artist/44kJG3Qy0qN3xmoogcJU2Z) | [Miracle](https://open.spotify.com/album/0tamNtdH2thktZvLt0U07j) | 2:44 | 2025-07-10 | 2025-09-12 |
+| [Miracle](https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:55 | 2026-03-05 |  |
 | [Miranda](https://open.spotify.com/track/1wRbOg2dFNbLN9doX1VVZA) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Miranda](https://open.spotify.com/album/7rZaeXP7J1DBUCYWr5bQy4) | 2:49 | 2025-10-30 | 2026-02-20 |
 | [Mirror](https://open.spotify.com/track/4y6tduyVsVIkMjuwJYLmz2) | [Sally F](https://open.spotify.com/artist/3W1oOTi2VTBprsvw6IWVe4) | [Mirror](https://open.spotify.com/album/5IwgOIrLulRYrAZvLmSlHJ) | 2:51 | 2025-10-23 | 2026-02-06 |
 | [mirror song](https://open.spotify.com/track/2Ds4H4rHq6Sy56Kn8O94In) | [Yony x Malla](https://open.spotify.com/artist/6eeNVSWhipIRmCDMal0zRT) | [mirror song](https://open.spotify.com/album/2k3DL7ctpQLvY74dmD4i6k) | 2:07 | 2025-11-27 |  |
@@ -1097,6 +1101,7 @@
 | [Preachers](https://open.spotify.com/track/4COBkCx7E5f28kUJx2dMx9) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Preachers](https://open.spotify.com/album/3H5gEqsgRADNRgmbRWUAxO) | 3:17 | 2025-01-16 | 2025-03-21 |
 | [Presence](https://open.spotify.com/track/61yrEA7hDI9O323sJRJ5nw) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF), [Tamaraebi](https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ) | [Presence](https://open.spotify.com/album/1014Fy5LvVwZaB7yDY82RP) | 3:15 | 2024-06-20 | 2024-08-16 |
 | [Pretending](https://open.spotify.com/track/6UKrdEn4dTLD9RBTSsrXae) | [Vilma Crow](https://open.spotify.com/artist/4icj46kOysWSwY501WX8Ww) | [Good dog for sale](https://open.spotify.com/album/579SG8DeMJ3ZvRbi82vnpw) | 4:20 | 2025-05-22 | 2025-06-27 |
+| [Pretty / Greyzone](https://open.spotify.com/track/1OwumzwpC9859CLBQBBO6L) | [MYKKE](https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX) | [Pretty / Greyzone](https://open.spotify.com/album/4Ku04bwxs2wmsSul2MbmQL) | 3:19 | 2026-03-05 |  |
 | [Pretty Girls](https://open.spotify.com/track/4prSYY5KuLnTdGXrxjUCnd) | [Adelin](https://open.spotify.com/artist/7wqIsPaUX8SiUcs4TePqeF) | [Pretty Girls](https://open.spotify.com/album/6984FgbGowM1VexmGpfFmH) | 2:54 | 2024-02-29 | 2024-05-17 |
 | [Pretty Things](https://open.spotify.com/track/2fy4RGKF7uuiLrrf3WiL2z) | [Botaii](https://open.spotify.com/artist/0FsuDCPtrx3MQka05c0rWv) | [Pretty Things](https://open.spotify.com/album/7voq3qqn4v0tBFhZ7YHIDr) | 2:38 | 2025-02-06 | 2025-03-07 |
 | [Pretty When I Cry](https://open.spotify.com/track/0NzUJ9Cm11emUvPzP7m0w1) | [Johanne Rosen](https://open.spotify.com/artist/3fDUHxQhNCg1E5pH7o13ph) | [Pretty When I Cry](https://open.spotify.com/album/1DXMET9Q9sSG6FakBVPb3j) | 3:04 | 2025-07-17 | 2025-09-12 |
@@ -1104,6 +1109,7 @@
 | [Princess Flex](https://open.spotify.com/track/6ad1mRnXsXOi5TBGuxigSQ) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej), [Instr](https://open.spotify.com/artist/1HC72NomBqdUUEcrRD6CsE) | [Princess Flex](https://open.spotify.com/album/1iDLVCNZyJas89BHFBXtWT) | 2:22 | 2025-02-13 | 2025-03-14 |
 | [PRO BRO](https://open.spotify.com/track/79SRUhEiLZcgDz2FOZ6kxL) | [J\. Ludvig III](https://open.spotify.com/artist/1PcRkI1gwX2uUYQcuTIjUr) | [PRO BRO](https://open.spotify.com/album/1g25fAfrELmSaYGvVm2pOY) | 3:58 | 2024-04-25 | 2024-06-28 |
 | [promises](https://open.spotify.com/track/2vYZsVv64YyfJnx5gEDoI6) | [abelon](https://open.spotify.com/artist/6RknJW6TTU6TQfTZDptOui) | [promises](https://open.spotify.com/album/22XBcWO5HjlmS7Jdh83YOF) | 2:29 | 2025-05-29 | 2025-07-11 |
+| [Proud of Me](https://open.spotify.com/track/4iROwbWYsgM9FQUGQS0aGU) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa), [Chino](https://open.spotify.com/artist/3S6Ruf5hbZpAWxiTbNV3OP) | [Proud of Me](https://open.spotify.com/album/3aQtRags9Rczczzk0UU4KQ) | 2:52 | 2026-03-05 |  |
 | [prove it](https://open.spotify.com/track/3pp4hNmhxiKsiZUorY2N3y) | [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF) | [prove it](https://open.spotify.com/album/6J6ag0ZGLLxoicA1Dqnvhm) | 3:05 | 2025-09-25 | 2025-12-04 |
 | [Prove Your Love](https://open.spotify.com/track/40KwVWdm42jgcUaOq0747Z) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [Prove Your Love](https://open.spotify.com/album/2kRPxmpUpFV5zgLZLJT8CT) | 3:17 | 2025-06-26 | 2025-09-02 |
 | [Provoke](https://open.spotify.com/track/4iavZgtXD0wIUEM9yGYzzt) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Provoke](https://open.spotify.com/album/7Apri4bZsKuqkOGQHk1moN) | 3:08 | 2025-01-30 | 2025-02-21 |
@@ -1242,6 +1248,7 @@
 | [So Long](https://open.spotify.com/track/1GuwD6eszgRIFoU1VP34XT) | [RIVERS](https://open.spotify.com/artist/5MMdU7Hm4rpIj3CBd5FuRS) | [So Long](https://open.spotify.com/album/0FgzcHFXSVW41CasD7pK58) | 2:41 | 2024-02-29 | 2024-03-29 |
 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-13 | 2025-04-25 |
 | [Solitude](https://open.spotify.com/track/1WwMBpinWZpaXST7q3otPR) | [Sarah von Reis](https://open.spotify.com/artist/4jhicQyPhrE5OC1aHeGrMq) | [Solitude](https://open.spotify.com/album/6bAvcQE6BXnUnvFQ0hLn7p) | 3:24 | 2024-10-03 | 2024-11-15 |
+| [solitude nest](https://open.spotify.com/track/6QnNXC3mfF27IRXFFfFM9u) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [solitude nest](https://open.spotify.com/album/2CbBnZHQq2mTvNDqKtU4n5) | 3:09 | 2026-03-05 |  |
 | [Somebody to Someone](https://open.spotify.com/track/38KfKq8yKUwM4bHPP4P3yZ) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Somebody to Someone](https://open.spotify.com/album/1cMYMj6ljcF49TByZys6Cj) | 2:48 | 2025-07-10 | 2025-09-12 |
 | [Someday](https://open.spotify.com/track/4zwUpz3LCKPkCsiJum24Mh) | [Wunderkind](https://open.spotify.com/artist/4JZIqECSVa1Bry6ApgnaGu) | [Someday](https://open.spotify.com/album/3Ww8oIdLcoGkyx0gCfCzkq) | 2:49 | 2024-09-19 | 2024-12-05 |
 | [Someday Best](https://open.spotify.com/track/7pehLR5YjBaDUucUgW8nMR) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Someday Best](https://open.spotify.com/album/42gORYjtEYqO5LSLJJ7ISZ) | 3:13 | 2024-02-08 | 2024-03-08 |
@@ -1264,6 +1271,7 @@
 | [SOV GODT](https://open.spotify.com/track/4BLFUCBe0WyPEIxTgH00de) | [READY ATLANTIC](https://open.spotify.com/artist/1qT5yTlM7pt9FftPgXeQzn) | [SOV GODT](https://open.spotify.com/album/7j8wITX3ELxvyn4NHmTb4S) | 3:42 | 2025-02-06 | 2025-02-28 |
 | [Space](https://open.spotify.com/track/12ngsrFgVmDoBrpRJZVbl9) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Space](https://open.spotify.com/album/5hXz1HRAg2BTe4hs94BHd5) | 3:06 | 2024-05-02 | 2024-05-09 |
 | [Space Rock](https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Space Rock](https://open.spotify.com/album/00SM0CTiz1f6CEnrcy9WF0) | 1:58 | 2024-11-07 | 2024-12-05 |
+| [Spaceships](https://open.spotify.com/track/2YfrGVFag50FLhf8Ks02ti) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [Spaceships](https://open.spotify.com/album/6wKvlliLiWCmQS6yJflvbA) | 3:04 | 2026-03-05 |  |
 | [Speculate](https://open.spotify.com/track/6Gb4QUbmRj6JW8wPaiuIxY) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [Speculate](https://open.spotify.com/album/3zOEXt6kycTIPYMDjm4LZ3) | 2:39 | 2025-04-24 | 2025-07-04 |
 | [Speed of Light](https://open.spotify.com/track/2pgKWrfM0vcHNR3hnRfL8s) | [Linda Bugatti](https://open.spotify.com/artist/4LabL0cr3Mywm4XkLUpgan) | [Speed of Light](https://open.spotify.com/album/4E9hEVmdVlMCPfnrwhA40j) | 2:00 | 2024-11-14 | 2024-12-05 |
 | [spells](https://open.spotify.com/track/5bpwOzqzzqAJF8SOOocI4V) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [spells](https://open.spotify.com/album/3Po5yeGa2UTPVc7qR4E31A) | 3:11 | 2024-06-13 | 2024-08-02 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-634 songs - 1 day 13 hr 33 min
+636 songs - 1 day 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Divine Energy](https://open.spotify.com/track/5Z7KxFM4Rh9G30pT7p6PRs) | [Mild Universe](https://open.spotify.com/artist/5yoKxCrbs3rGiUMUuPcknJ) | [Everything Must Change](https://open.spotify.com/album/7JrbVR92TUZZAe1b7PlYay) | 4:09 | 2024-11-14 |  |
 | [Dixie Diamond](https://open.spotify.com/track/4m2Qn0sOEeUQkrHX9Yb0nQ) | [Niall Mutter](https://open.spotify.com/artist/26nkWfI1zwh7OFESYPRn2w) | [Silver](https://open.spotify.com/album/3nJnR5Zu95pGWzWxS2HbEa) | 2:47 | 2025-11-24 |  |
 | [Do I Make You Feel Shy?](https://open.spotify.com/track/7ABDb890Jh4wqlojTElUra) | [Connan Mockasin](https://open.spotify.com/artist/247AfC9pLuqwgpH8Mo96oA) | [Caramel](https://open.spotify.com/album/1TD2nV7Pp2xwLNE2W413CS) | 3:14 | 2023-12-11 |  |
+| [dogma95](https://open.spotify.com/track/3BecayaP1Cz1heTshzBaoX) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 4:12 | 2026-03-05 |  |
 | [Don't Fall Apart on Me Tonight](https://open.spotify.com/track/0U5rOWZm4eQ0WufBimAwrJ) | [Rapallo](https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Reprise Vol\. 1](https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt) | 4:19 | 2023-10-25 |  |
 | [Don't U Think](https://open.spotify.com/track/3QEF83nsLCaLwdkwEgdOan) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [15Th Floor](https://open.spotify.com/album/3uc2UzR3TBTkZGthcr2Zke) | 3:39 | 2023-10-25 |  |
 | [Don't U Think](https://open.spotify.com/track/40fYA6RibhE7XCy3QT9quN) | [Dook Walt Jr.](https://open.spotify.com/artist/3FdI5s1SLRNYNNS7yO3vMV) | [Don't U Think](https://open.spotify.com/album/1oia3HuoIzQIZJROymI7Tt) | 3:39 | 2023-10-25 |  |
@@ -167,6 +168,7 @@
 | [Electric Company](https://open.spotify.com/track/1WA6GJ6q0ZlCHUOZ0QY1dw) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Care 2 Share](https://open.spotify.com/album/2NmeIWHpmlrfETl2PkZZJa) | 4:03 | 2023-10-25 |  |
 | [Elevator Pitch](https://open.spotify.com/track/4x3kyg5Sz92GndMR10bZnA) | [Cole Anyway](https://open.spotify.com/artist/6ctBrunhwPNeeuqu8KG7Bd) | [Elevator Pitch](https://open.spotify.com/album/6dDTt0rf4kqLRZtKNordYT) | 2:22 | 2024-10-24 |  |
 | [Employment](https://open.spotify.com/track/10xpWRJA7DJ7Tos01xlp00) | [Layten Kramer](https://open.spotify.com/artist/6N7SiBlq090aRlRDJl8mFL) | [Employment](https://open.spotify.com/album/6ZOUvVhALXSrhYaovZmtae) | 3:25 | 2023-10-25 |  |
+| [end times](https://open.spotify.com/track/6I6bqgyNdrZ21jRGUoN530) | [banzai florist](https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7) | [BF 4\-EVER](https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp) | 4:50 | 2026-03-05 |  |
 | [Equal Trouble](https://open.spotify.com/track/7Jb5HMSHWwAVAqfApS54Iq) | [Blue Material](https://open.spotify.com/artist/1Lw0UGcF4UaDqqtyPQq7wI) | [Equal Trouble](https://open.spotify.com/album/4q7YKgej4p7syDMAPpTedg) | 4:02 | 2023-10-25 |  |
 | [Everybody Dies](https://open.spotify.com/track/0beSRwRNdB94fYPRyydznN) | [World Brain](https://open.spotify.com/artist/2CiVXlqZHnOj4nWFBj3s2k) | [Peer 2 Peer](https://open.spotify.com/album/0yj7MLtNm1dfYoiqU0hONP) | 3:48 | 2023-10-25 |  |
 | [Everyroad](https://open.spotify.com/track/5233fZGEk0FY0AzdgLaWch) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Parcels](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy) | 8:35 | 2023-10-25 |  |

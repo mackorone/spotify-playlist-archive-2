@@ -6035,6 +6035,24 @@
     },
     {
       "album": {
+        "name": "Coniglietto DJ",
+        "url": "https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA"
+      },
+      "artists": [
+        {
+          "name": "Prova MI",
+          "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159959,
+      "name": "Coniglietto DJ",
+      "url": "https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8"
+    },
+    {
+      "album": {
         "name": "Brass Echo Chamber",
         "url": "https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl"
       },
@@ -27047,7 +27065,7 @@
       "artists": [
         {
           "name": "ROD",
-          "url": "https://open.spotify.com/artist/4qgkyXlovKCnOSkvOfOms7"
+          "url": "https://open.spotify.com/artist/1wIBNTCu23Gplflrlv2Cqt"
         }
       ],
       "date_added": "2025-01-22",

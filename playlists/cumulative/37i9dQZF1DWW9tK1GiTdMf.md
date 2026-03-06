@@ -4,7 +4,7 @@
 
 > musica per un inverno non proprio felice \(chiello in cover\)
 
-1,626 songs - 3 day 2 hr 36 min
+1,629 songs - 3 day 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -873,6 +873,7 @@
 | [Marta](https://open.spotify.com/track/4jZQFDIlY5FGY42Q5fMQeb) | [IN6N](https://open.spotify.com/artist/1ijW7A83I3DKVmVID7kjuE), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU), [Rhen](https://open.spotify.com/artist/3I5A4K9cZSEYMrlR0A184k) | [Marta](https://open.spotify.com/album/4T1uALEouprvIdKwaIoiTr) | 3:15 | 2023-12-21 | 2024-05-17 |
 | [Martina](https://open.spotify.com/track/1x7c9oh6TYenSNjncCU1IA) | [SVD](https://open.spotify.com/artist/59HFEHwA26XemIL3Xh9X4p) | [Martina](https://open.spotify.com/album/67kW5lKtGjyNuNScx4IkSK) | 3:06 | 2022-06-09 | 2022-06-28 |
 | [MARY](https://open.spotify.com/track/3xpKvlLHbaUyCjLvFHehVj) | [Yans](https://open.spotify.com/artist/0JMlv0THvYWc44fizfiVCX), [Fulgur](https://open.spotify.com/artist/3AgppFtvLifix2HTKhGDiC), [Kunai](https://open.spotify.com/artist/1meu0gJt7jU6ltCO5eYz1J) | [MARY](https://open.spotify.com/album/5MkHR5uIv5icj2i7IptWkX) | 2:47 | 2024-11-28 | 2025-02-07 |
+| [Massimino](https://open.spotify.com/track/1BWtKPcPzRAwGdmXwZHV6F) | [Marrakech Express](https://open.spotify.com/artist/35XLYYGJ8Cf1G6tw5XbiWU) | [Massimino](https://open.spotify.com/album/6XSBXUgjMpDmYMSa87Z07X) | 2:32 | 2026-03-05 |  |
 | [MASTICA](https://open.spotify.com/track/5Tc8vm2xGqJ0dhD8a7dFRk) | [maggio](https://open.spotify.com/artist/7bykcg3a4exhrIgiffIR2Q), [Nicolaj Serjotti](https://open.spotify.com/artist/6esxRpRlB73YqS63CDjss7) | [MASTICA](https://open.spotify.com/album/0z3z2KGzRPZai150eCijeH) | 3:07 | 2025-04-24 | 2025-05-09 |
 | [MAYDAY \(feat\. VillaBanks\)](https://open.spotify.com/track/3OXQqhbch5uALz1FdCKvWT) | [LA SAD](https://open.spotify.com/artist/1y5nSaw0Am7fIEDAkrfgjY), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [STO NELLA SAD DELUXE](https://open.spotify.com/album/2AaGTApQp7KVUYCfzlfl4S) | 2:58 | 2022-12-15 | 2024-04-05 |
 | [MDMA](https://open.spotify.com/track/6UdVZhvXWEFvi1vnhvhb2b) | [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [MDMA](https://open.spotify.com/album/5FUcrODEUTca0k7fkwJsbd) | 2:33 | 2024-07-04 | 2024-10-18 |
@@ -1139,6 +1140,7 @@
 | [Post Punk](https://open.spotify.com/track/32whoVKitdwAyuzAJmK3X1) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Post Punk](https://open.spotify.com/album/3rGqUnqIsG0tHWTvbqv30Y) | 2:32 | 2024-10-10 | 2024-11-29 |
 | [POV](https://open.spotify.com/track/5mQFiACRHdBVugZX0QXwfS) | [YTAM](https://open.spotify.com/artist/2KFd6aIoUCq0se2nNlyI8U), [Sami River](https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6) | [POV](https://open.spotify.com/album/6QUuzX73hnDFPNXtsmoAAh) | 2:40 | 2023-09-21 | 2023-10-13 |
 | [poveri coglioni](https://open.spotify.com/track/3FCRPk2AN2F9wihriSlqO6) | [mitch](https://open.spotify.com/artist/3Gpsz3kyfDYBo732RRPhvg) | [poveri coglioni](https://open.spotify.com/album/5F6PZgkYWzQdXMiCfC1lke) | 3:21 | 2026-02-12 |  |
+| [PREGA PER ME](https://open.spotify.com/track/5k3A2cF3b4gAEoUltxlet4) | [Wenzo](https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU), [Jack Out](https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI) | [PREGA PER ME](https://open.spotify.com/album/2foAJRzLi54vWWQikZhcmz) | 2:40 | 2026-03-05 |  |
 | [PREGHIERA](https://open.spotify.com/track/37p5YrDFdgOzVmfykQOQEp) | [Supernino](https://open.spotify.com/artist/1qOclNcsOrRniIPNXpvl9I) | [† LA FINE †](https://open.spotify.com/album/3jXRLMSqibST5BV9gufA2a) | 3:32 | 2024-12-05 | 2025-01-10 |
 | [PREGV PER NOI](https://open.spotify.com/track/0P6HItbIfP3Pi6zcrY29K6) | [Psyche](https://open.spotify.com/artist/0074TFvDGpuZ5tBTszIEh3) | [PREGV PER NOI](https://open.spotify.com/album/3QiMCROAjEiGdIMzHbdRaU) | 2:13 | 2025-07-10 | 2025-08-01 |
 | [pretesto](https://open.spotify.com/track/2H9iTBTZK8LkOQmVQ98hIT) | [Nil](https://open.spotify.com/artist/7sVTNMc0cXlUaSeHV77Gr1) | [pretesto](https://open.spotify.com/album/6Ym3QetM3bnq7I32Mn0boo) | 2:18 | 2023-01-19 | 2023-04-14 |
@@ -1162,6 +1164,7 @@
 | [QUALCOSA](https://open.spotify.com/track/4q7CLDddqg6EuIMJ08c10d) | [SlumpthinIdle](https://open.spotify.com/artist/334vU7FVVjO5qblDXvcnfq), [KARASHΦ](https://open.spotify.com/artist/7aOvmNW1l4DQkk24hADBoi) | [SOPHIA](https://open.spotify.com/album/43wzg3Ss5A6Of5sMazlcL7) | 3:59 | 2024-07-18 | 2024-09-20 |
 | [QUALCOSA CHE NON VA](https://open.spotify.com/track/523Ki8AGEqaOM059cwvaEK) | [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [QUALCOSA CHE NON VA](https://open.spotify.com/album/2Q2hazb2hXULAauKfVy2jt) | 2:09 | 2025-03-06 | 2025-10-17 |
 | [Quando casco di sotto](https://open.spotify.com/track/5B2gVpi7f6Tm7SXGnnjM3d) | [Frasca](https://open.spotify.com/artist/3Ej5rdXiSC43dUi85PXYAZ), [Sconforto](https://open.spotify.com/artist/39fZxJQG1MRejpGHq7r77Z) | [Quando casco di sotto](https://open.spotify.com/album/1dkuRF91vqzS9chbMjiUmU) | 3:10 | 2022-12-15 | 2023-01-06 |
+| [QUANDO DICO CERTE COSE](https://open.spotify.com/track/7GW4tvAgvulZVORYyCwP7i) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [QUANDO DICO CERTE COSE](https://open.spotify.com/album/7ATLQMgyBXWDhNEv8XpH4l) | 2:24 | 2026-03-05 |  |
 | [Quando non 6 con me](https://open.spotify.com/track/3p64u1dRDQPuRoWZQQlozC) | [Amsi](https://open.spotify.com/artist/1YTas8G2Maqo3Md0AcBgc7), [Ëgo](https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd) | [Quando non 6 con me](https://open.spotify.com/album/4nlco0dP62n2pxukmW66rr) | 2:49 | 2022-08-11 | 2022-08-26 |
 | [Quando Sarò Morto \- feat\. J\-AX](https://open.spotify.com/track/4wx82ugAwUW3ijUcBphOV7) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Milanconia](https://open.spotify.com/album/1W1rSF0qAd7ybl8Z2pb26V) | 2:46 | 2025-03-20 |  |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2025-07-31 |  |

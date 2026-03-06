@@ -1,12 +1,12 @@
 {
   "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
-  "num_followers": 166568,
+  "num_followers": 166576,
   "original_name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAASFWOEsBA5xq3Hw0HEsAN/",
+  "snapshot_id": "aad2AAAAAABBiZoI9Ochysg44OOAwd9v",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Haciendo Memoria",
-        "url": "https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC"
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
         }
       ],
-      "duration_ms": 169014,
-      "name": "Me Gustas y Se Nota",
-      "url": "https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU"
+      "duration_ms": 282353,
+      "name": "Me Llamas - En Vivo",
+      "url": "https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw"
     },
     {
       "added_at": null,
@@ -499,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
+        "name": "Haciendo Memoria",
+        "url": "https://open.spotify.com/album/0MTVPqh9dN7NLQbpqRzigC"
       },
       "artists": [
         {
           "name": "Los Plebes del Rancho de Ariel Camacho",
           "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
         }
       ],
-      "duration_ms": 282353,
-      "name": "Me Llamas - En Vivo",
-      "url": "https://open.spotify.com/track/3SqC8hNt1YsnlJj1uYPWCw"
+      "duration_ms": 169014,
+      "name": "Me Gustas y Se Nota",
+      "url": "https://open.spotify.com/track/7LYmBT9PfyeduAS32PCrBU"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
       "duration_ms": 219999,
       "name": "El G\u00fcero Colorado",
       "url": "https://open.spotify.com/track/6lY8neQ9mPQnUge2Gsex14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
+          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
+        }
+      ],
+      "duration_ms": 169225,
+      "name": "El Mencho - En Vivo",
+      "url": "https://open.spotify.com/track/7C1fq4F4tvDy9hYq90ccMG"
     },
     {
       "added_at": null,
@@ -571,26 +591,6 @@
       "duration_ms": 227986,
       "name": "El Rey De Corazones",
       "url": "https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EN VIVO con Banda Sinaloense La Tuyia de Culiac\u00e1n, Sinaloa (En Vivo)",
-        "url": "https://open.spotify.com/album/2FvlCAa5PTlKkAfH1FIC5C"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        },
-        {
-          "name": "Banda Sinaloense La Tuyia de Culiac\u00e1n",
-          "url": "https://open.spotify.com/artist/7whx9sO2nsmw8znriXYrW2"
-        }
-      ],
-      "duration_ms": 169225,
-      "name": "El Mencho - En Vivo",
-      "url": "https://open.spotify.com/track/7C1fq4F4tvDy9hYq90ccMG"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 199773,
+      "name": "Tres Botellas",
+      "url": "https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariposa Traicionera",
         "url": "https://open.spotify.com/album/4bqul3rUTpdZmilmM7WbBZ"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 199773,
-      "name": "Tres Botellas",
-      "url": "https://open.spotify.com/track/32ZUnlNEvQ8sgVi3xTtCci"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5 A\u00f1os Despues",
         "url": "https://open.spotify.com/album/2w5x87DU6Bzd3kLqwHjzd6"
       },
@@ -807,6 +807,22 @@
       "duration_ms": 210134,
       "name": "El Karma",
       "url": "https://open.spotify.com/track/6e1Kq7zm6Tu4XZrSTGxgqt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naci\u00f3 Pa' Leyenda",
+        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 201174,
+      "name": "En Un D\u00eda Como Hoy",
+      "url": "https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi"
     },
     {
       "added_at": null,
@@ -831,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 201978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Rey del Corrido: Ayer, Hoy y Siempre, Vol. 1",
         "url": "https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl"
       },
@@ -847,38 +879,6 @@
       "duration_ms": 234240,
       "name": "Cu\u00e9ntame Tus Penas",
       "url": "https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Naci\u00f3 Pa' Leyenda",
-        "url": "https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 201174,
-      "name": "En Un D\u00eda Como Hoy",
-      "url": "https://open.spotify.com/track/2hhv6z6A9H9QHjfB8o9OIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 201978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f"
     }
   ],
   "unique_name": "This Is Los Plebes del Rancho de Ariel Camacho",

@@ -1,12 +1,12 @@
 {
   "description": "This is Blondie. The essential tracks, all in one playlist.",
-  "num_followers": 140932,
+  "num_followers": 140949,
   "original_name": "This Is Blondie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAADPFtTjCMaqRFKvARJEYqN7",
+  "snapshot_id": "aad2AAAAAABRL4+omIekquqe/O3nCenM",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panic of Girls",
-        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
+        "name": "No Exit",
+        "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 197533,
-      "name": "What I Heard",
-      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
+      "duration_ms": 193173,
+      "name": "Nothing Is Real but the Girl",
+      "url": "https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Exit",
-        "url": "https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4"
+        "name": "Panic of Girls",
+        "url": "https://open.spotify.com/album/3taJK6ccQov0Z5FlKox65t"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 193173,
-      "name": "Nothing Is Real but the Girl",
-      "url": "https://open.spotify.com/track/5ZCIPSKOAyOAYfDVNM9LrQ"
+      "duration_ms": 197533,
+      "name": "What I Heard",
+      "url": "https://open.spotify.com/track/77mO1n1s6ouUD2EIZk56NH"
     },
     {
       "added_at": null,

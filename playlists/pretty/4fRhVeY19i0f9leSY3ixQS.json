@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAL9jzMJljTUF4Wh/XLT/qPh6x3Pg1R",
+  "snapshot_id": "AAAMD13Z8bjr/Zd3+57H5s3AA17o+3/i",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -23,6 +23,134 @@
       "duration_ms": 66285,
       "name": "The World Is Going Mental",
       "url": "https://open.spotify.com/track/51RbuIHF9HMv6025j3I029"
+    },
+    {
+      "added_at": "2026-03-05 05:14:33",
+      "album": {
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/34pHY28Okn87mA2Z4vGOJX"
+      },
+      "artists": [
+        {
+          "name": "Universe 25",
+          "url": "https://open.spotify.com/artist/61MdTyU5sZjonNarb3DhMW"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Still Breathing",
+      "url": "https://open.spotify.com/track/6fFkH5gfwg57znzRCZST7w"
+    },
+    {
+      "added_at": "2026-03-05 16:13:14",
+      "album": {
+        "name": "Wasteman",
+        "url": "https://open.spotify.com/album/26q1jdFdrEcXvK0H9DLKX0"
+      },
+      "artists": [
+        {
+          "name": "Lepson",
+          "url": "https://open.spotify.com/artist/4Oawws8fUxxTuPlM0Ip9Xy"
+        }
+      ],
+      "duration_ms": 255936,
+      "name": "Wasteman",
+      "url": "https://open.spotify.com/track/1esf4MKhQ8Ps1EcYqxNprR"
+    },
+    {
+      "added_at": "2026-03-05 16:08:49",
+      "album": {
+        "name": "Kill the Messenger",
+        "url": "https://open.spotify.com/album/2DBv3VFvYTi24KcUU6cNmy"
+      },
+      "artists": [
+        {
+          "name": "L\u00e1Goon",
+          "url": "https://open.spotify.com/artist/2A56TzrSVwM3FeQhmfnDvk"
+        }
+      ],
+      "duration_ms": 234798,
+      "name": "Kill the Messenger",
+      "url": "https://open.spotify.com/track/0ckSiXO2wQUDSghsrAwjlv"
+    },
+    {
+      "added_at": "2026-03-05 15:47:39",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3eEmxk6Y05TnyXRRKsVasV"
+      },
+      "artists": [
+        {
+          "name": "Internet Romance",
+          "url": "https://open.spotify.com/artist/2XeleVtPv8IBvzy6T1zHnY"
+        }
+      ],
+      "duration_ms": 253779,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/48jclVmNBWXsphL69bRatg"
+    },
+    {
+      "added_at": "2026-03-05 15:42:51",
+      "album": {
+        "name": "Blackened Seas",
+        "url": "https://open.spotify.com/album/3QTUToqcTJtue9VF1hzcMX"
+      },
+      "artists": [
+        {
+          "name": "Deluminate",
+          "url": "https://open.spotify.com/artist/4bVGbMlyoxuGWKER0ft3AY"
+        }
+      ],
+      "duration_ms": 154619,
+      "name": "Transmutated",
+      "url": "https://open.spotify.com/track/69AwPaxlvPuvunzKa6sSMR"
+    },
+    {
+      "added_at": "2026-03-05 15:36:27",
+      "album": {
+        "name": "Just Say Maybe",
+        "url": "https://open.spotify.com/album/7z6ZZDn57u116fw5Bn2zgD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Amoral",
+          "url": "https://open.spotify.com/artist/6NwioT96GnLXqYSS814noa"
+        }
+      ],
+      "duration_ms": 163400,
+      "name": "Just Say Maybe",
+      "url": "https://open.spotify.com/track/1RKsTZDIobGNG7wRcJBQkC"
+    },
+    {
+      "added_at": "2026-03-05 15:24:39",
+      "album": {
+        "name": "Dear Diary",
+        "url": "https://open.spotify.com/album/0t4W9rRrPy7LygUFiYqA7K"
+      },
+      "artists": [
+        {
+          "name": "Lollirot",
+          "url": "https://open.spotify.com/artist/4o5M4mkT59J5DNvY0EdHtC"
+        }
+      ],
+      "duration_ms": 142800,
+      "name": "Dear Diary",
+      "url": "https://open.spotify.com/track/1L39tJl5f0a8njtKvuwhcM"
+    },
+    {
+      "added_at": "2026-03-05 14:50:24",
+      "album": {
+        "name": "Split My Head",
+        "url": "https://open.spotify.com/album/5esLfxa6lMuXNEC5Vp9Sv0"
+      },
+      "artists": [
+        {
+          "name": "Off Wing",
+          "url": "https://open.spotify.com/artist/0kjIZRyDptIqkPCvruV4Ew"
+        }
+      ],
+      "duration_ms": 143563,
+      "name": "Split My Head",
+      "url": "https://open.spotify.com/track/5mo6uSX9XyT0lPuJbwa1gi"
     },
     {
       "added_at": "2026-02-26 08:38:44",
@@ -1323,70 +1451,6 @@
       "duration_ms": 125562,
       "name": "Nurse Depression",
       "url": "https://open.spotify.com/track/5xnFYRez4P0r3xvnnleejq"
-    },
-    {
-      "added_at": "2026-02-02 15:50:54",
-      "album": {
-        "name": "i root for the villain",
-        "url": "https://open.spotify.com/album/2TyfXRYCCyODgsNUPLO9Yd"
-      },
-      "artists": [
-        {
-          "name": "Charming Scars",
-          "url": "https://open.spotify.com/artist/7v5qMuaUZst9tWS4CzZSSC"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "i root for the villain",
-      "url": "https://open.spotify.com/track/4cjOGMjsYM3OC4OvKG5Ndm"
-    },
-    {
-      "added_at": "2026-02-02 15:31:11",
-      "album": {
-        "name": "Paranoid Clown",
-        "url": "https://open.spotify.com/album/4FjqObTunaclJi07rhRvWO"
-      },
-      "artists": [
-        {
-          "name": "Sludder",
-          "url": "https://open.spotify.com/artist/3gvJAv34H2rDst0emEFO8n"
-        }
-      ],
-      "duration_ms": 129776,
-      "name": "Paranoid Clown",
-      "url": "https://open.spotify.com/track/1kXsBAH2zE7qxkfAmWAenn"
-    },
-    {
-      "added_at": "2026-02-02 15:26:28",
-      "album": {
-        "name": "My Body Is Mine to Decide",
-        "url": "https://open.spotify.com/album/4DsY2SV64X2m23bmZk63YA"
-      },
-      "artists": [
-        {
-          "name": "ill jill",
-          "url": "https://open.spotify.com/artist/4kZpxiFPHZedF5zbsI8F3A"
-        }
-      ],
-      "duration_ms": 123133,
-      "name": "Banshee Cry",
-      "url": "https://open.spotify.com/track/3niZyQsYRWSeAnvTka7w1J"
-    },
-    {
-      "added_at": "2026-02-02 14:42:37",
-      "album": {
-        "name": "X Me Out",
-        "url": "https://open.spotify.com/album/07ZqaqUUQ796JElSECG59C"
-      },
-      "artists": [
-        {
-          "name": "kmikzemusic",
-          "url": "https://open.spotify.com/artist/6yHl4Y6LfsQl9XtJGUjQOW"
-        }
-      ],
-      "duration_ms": 259465,
-      "name": "X Me Out",
-      "url": "https://open.spotify.com/track/0NuuQsxnwtP3VI5vm7xRuZ"
     },
     {
       "added_at": "2025-09-16 08:32:18",
@@ -2933,118 +2997,6 @@
       "url": "https://open.spotify.com/track/4ZgBrpzGjzlgZrl6C9QNoS"
     },
     {
-      "added_at": "2026-02-14 10:51:17",
-      "album": {
-        "name": "Hell's Gates",
-        "url": "https://open.spotify.com/album/6nsIvzkcT6SMRjUwOEcOYS"
-      },
-      "artists": [
-        {
-          "name": "Citylightz",
-          "url": "https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o"
-        }
-      ],
-      "duration_ms": 263643,
-      "name": "Hell's Gates",
-      "url": "https://open.spotify.com/track/6N7R6eo0Xnu0NQZl7m0hRp"
-    },
-    {
-      "added_at": "2026-02-14 04:30:04",
-      "album": {
-        "name": "Tears",
-        "url": "https://open.spotify.com/album/3YTduhAbrWfeRnXkzHqkLO"
-      },
-      "artists": [
-        {
-          "name": "Vampire Valentine",
-          "url": "https://open.spotify.com/artist/5IFOqHlbt37UXsz73a02og"
-        }
-      ],
-      "duration_ms": 218052,
-      "name": "Tears",
-      "url": "https://open.spotify.com/track/0WjahJphJZARO9S8wi2jQc"
-    },
-    {
-      "added_at": "2026-02-13 22:30:36",
-      "album": {
-        "name": "Fast Cars, Slow Sundays (Unplugged)",
-        "url": "https://open.spotify.com/album/5zygnpwPrK5QOMgvsJwLMS"
-      },
-      "artists": [
-        {
-          "name": "FairPlay",
-          "url": "https://open.spotify.com/artist/4aFVqjsRwNkKdE4MJt3MwD"
-        }
-      ],
-      "duration_ms": 182359,
-      "name": "Fast Cars, Slow Sundays (Unplugged)",
-      "url": "https://open.spotify.com/track/2R7pyVONsPog9fM8FlSaME"
-    },
-    {
-      "added_at": "2026-02-13 15:48:14",
-      "album": {
-        "name": "SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET",
-        "url": "https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq"
-      },
-      "artists": [
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "FAKE",
-      "url": "https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE"
-    },
-    {
-      "added_at": "2026-02-14 04:33:31",
-      "album": {
-        "name": "Better Mess",
-        "url": "https://open.spotify.com/album/2zqeOUM5iYnYALYuDa8rEa"
-      },
-      "artists": [
-        {
-          "name": "Emma Solane",
-          "url": "https://open.spotify.com/artist/1a1VZfdCfLZn0gnoj34bGG"
-        }
-      ],
-      "duration_ms": 174964,
-      "name": "Better Mess",
-      "url": "https://open.spotify.com/track/13s7P7Dl3aAVfvl4de9TGD"
-    },
-    {
-      "added_at": "2026-02-14 04:34:27",
-      "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/0Don16tktB8AlPnTVNRnNT"
-      },
-      "artists": [
-        {
-          "name": "Drowning Spree",
-          "url": "https://open.spotify.com/artist/3hQb3x5dtoqt0PGaNRA7ny"
-        }
-      ],
-      "duration_ms": 177678,
-      "name": "Who Will I Be Without The Hurt I Hide?",
-      "url": "https://open.spotify.com/track/3gPpJbCPhtdWs7QPLV77DR"
-    },
-    {
-      "added_at": "2026-02-15 12:59:49",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/5EWounwm5DI4ypI4xAcZgH"
-      },
-      "artists": [
-        {
-          "name": "Hiding from Humans",
-          "url": "https://open.spotify.com/artist/6An6djnsnRfFEKVqnSr5B8"
-        }
-      ],
-      "duration_ms": 181920,
-      "name": "(turn down the) Radio",
-      "url": "https://open.spotify.com/track/7tskKEOY8Ao6oDDQupvqXd"
-    },
-    {
       "added_at": "2026-02-17 17:27:32",
       "album": {
         "name": "Drowning",
@@ -4245,6 +4197,38 @@
       "url": "https://open.spotify.com/track/2mQUlpZLQl32n1jYNj0Dpm"
     },
     {
+      "added_at": "2026-03-05 08:36:24",
+      "album": {
+        "name": "Good Night Moon",
+        "url": "https://open.spotify.com/album/4dyKKievCdI1Y3QBs9Fqpr"
+      },
+      "artists": [
+        {
+          "name": "Good Night Moon",
+          "url": "https://open.spotify.com/artist/1zeCrpTCGQmLayFC5Y6RqJ"
+        }
+      ],
+      "duration_ms": 181175,
+      "name": "Music Is My Medicine",
+      "url": "https://open.spotify.com/track/5lab3TGpj1oXzuBHP1Tmxv"
+    },
+    {
+      "added_at": "2026-03-05 08:35:56",
+      "album": {
+        "name": "Don\u2019t Let Your Boyfriends Go to Europe / America",
+        "url": "https://open.spotify.com/album/4P8bLnks0P5Ca7evdu1YG8"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "duration_ms": 213827,
+      "name": "Don\u2019t Let Your Boyfriends Go to Europe",
+      "url": "https://open.spotify.com/track/7Ch3AafJnh1R8uSsklKaq1"
+    },
+    {
       "added_at": "2026-03-04 13:13:31",
       "album": {
         "name": "Electric Venom",
@@ -4261,6 +4245,22 @@
       "url": "https://open.spotify.com/track/5SlcqXaD8zgLcpLQF8iHbA"
     },
     {
+      "added_at": "2026-03-05 12:18:49",
+      "album": {
+        "name": "No puedes saber",
+        "url": "https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf"
+      },
+      "artists": [
+        {
+          "name": "Decode",
+          "url": "https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "No puedes saber",
+      "url": "https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3"
+    },
+    {
       "added_at": "2026-03-04 12:11:51",
       "album": {
         "name": "Hellfire",
@@ -4275,6 +4275,102 @@
       "duration_ms": 207125,
       "name": "Hellfire",
       "url": "https://open.spotify.com/track/1oRFsvliJI0aZQeyCrBKwF"
+    },
+    {
+      "added_at": "2026-03-05 14:23:59",
+      "album": {
+        "name": "Mohawk",
+        "url": "https://open.spotify.com/album/2eilek8kpQe2JEjdpXTXjp"
+      },
+      "artists": [
+        {
+          "name": "Def Nettle",
+          "url": "https://open.spotify.com/artist/2ddu1INPPoExdvGdoChopV"
+        }
+      ],
+      "duration_ms": 240411,
+      "name": "Mohawk",
+      "url": "https://open.spotify.com/track/2BFe7CKvoemLrNIotMnv8p"
+    },
+    {
+      "added_at": "2026-03-05 08:35:19",
+      "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/7bk0oaTzD7vcVwcPiyfpKF"
+      },
+      "artists": [
+        {
+          "name": "Good Night Moon",
+          "url": "https://open.spotify.com/artist/1zeCrpTCGQmLayFC5Y6RqJ"
+        }
+      ],
+      "duration_ms": 168331,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/6J4FD5JSsLTw0Q8RjJXPSe"
+    },
+    {
+      "added_at": "2026-03-05 08:37:16",
+      "album": {
+        "name": "Chanel Numbers",
+        "url": "https://open.spotify.com/album/44mQxA9zMm43QSKE4RbdZu"
+      },
+      "artists": [
+        {
+          "name": "Gardening Club",
+          "url": "https://open.spotify.com/artist/4tVR6UmVssdtcN2BY6fbmg"
+        }
+      ],
+      "duration_ms": 192352,
+      "name": "Chanel Numbers",
+      "url": "https://open.spotify.com/track/4fA8HnrPaFRZ2QNvQ9Kswk"
+    },
+    {
+      "added_at": "2026-03-05 12:27:17",
+      "album": {
+        "name": "Dream No More",
+        "url": "https://open.spotify.com/album/1wQz3IFrzcTSFRS3OjyMkH"
+      },
+      "artists": [
+        {
+          "name": "Ryan Lord",
+          "url": "https://open.spotify.com/artist/3JYAoQz9q15sPpfCTMU4ww"
+        }
+      ],
+      "duration_ms": 249124,
+      "name": "Dream No More",
+      "url": "https://open.spotify.com/track/58KJQcrCaxKS5eWsvfxjMG"
+    },
+    {
+      "added_at": "2026-03-05 12:22:03",
+      "album": {
+        "name": "bloody valentine",
+        "url": "https://open.spotify.com/album/3A6d59tJB4KetxGmhoJcav"
+      },
+      "artists": [
+        {
+          "name": "Prodii",
+          "url": "https://open.spotify.com/artist/2P606xCQx03HHlD28pXMs5"
+        }
+      ],
+      "duration_ms": 130562,
+      "name": "bloody valentine",
+      "url": "https://open.spotify.com/track/0bypOSR3poZTztHXL3bSGL"
+    },
+    {
+      "added_at": "2026-03-05 14:25:01",
+      "album": {
+        "name": "Alive On Arrival",
+        "url": "https://open.spotify.com/album/3ysx7tS96uHjOAzUjam9wI"
+      },
+      "artists": [
+        {
+          "name": "Rebelmatic",
+          "url": "https://open.spotify.com/artist/6CUYmBUaJokq3auKhAzHXR"
+        }
+      ],
+      "duration_ms": 119714,
+      "name": "Alive On Arrival",
+      "url": "https://open.spotify.com/track/217vExrl85KAIJH12Cj0Kf"
     }
   ],
   "unique_name": "Shuffle Roulette",

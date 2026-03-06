@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/0ZzFPV1ksTXatHVgxNXvJz"
+    },
+    {
+      "album": {
         "name": "Beer and Blood Stains",
         "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 199747,
       "name": "Beer and Blood Stains",
       "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
@@ -1850,7 +1868,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 196027,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"

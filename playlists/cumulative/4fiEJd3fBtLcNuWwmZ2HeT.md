@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-453 songs - 1 day 2 hr 19 min
+454 songs - 1 day 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [ばかじゃないのに](https://open.spotify.com/track/1fMqXaqP3EhRWQdzxAaZqi) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 4:14 | 2024-01-31 |  |
 | [ふこうぶつ](https://open.spotify.com/track/7abGCbVHOoTyIgVOG2Ggue) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [私は怒りでできている](https://open.spotify.com/album/2gAfA53QQF1h82B5xo11da) | 2:43 | 2025-10-08 |  |
 | [よふかしのうた \- Yofukashino Uta](https://open.spotify.com/track/1j6Agt1Sn2DjQ0NA33J3r2) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [よふかしのうた](https://open.spotify.com/album/6peWfaCCNUTETgugcpNHed) | 4:00 | 2023-03-10 |  |
+| [るるちゃんの自殺配信](https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [児童カルテ](https://open.spotify.com/album/6lENS0EtwbvQiwEaHFbV3J) | 3:59 | 2026-03-05 |  |
 | [アイされヒビわれカガミのうた](https://open.spotify.com/track/3KwAPj5ErBvGeFufjjiAA0) | [きくおはな](https://open.spotify.com/artist/1GBV8C0PfGVH1G5QRqHt5k) | [第二幕](https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs) | 4:55 | 2025-09-18 |  |
 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 | 2025-10-16 |  |
 | [アディオス](https://open.spotify.com/track/5GvjB9nq8oGYJWfEIMebZ3) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [アディオス](https://open.spotify.com/album/4ugiNFkcSGCDLCPdX7Nj9w) | 3:20 | 2023-09-11 |  |

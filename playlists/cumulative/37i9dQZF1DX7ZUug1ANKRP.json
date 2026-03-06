@@ -2926,10 +2926,28 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 171200,
       "name": "Broken Angel (This is Lonely Club)",
       "url": "https://open.spotify.com/track/56PCJsbp8S0MTSMEbeGnnr"
+    },
+    {
+      "album": {
+        "name": "Bubbling Nation",
+        "url": "https://open.spotify.com/album/3VLSFQ5k1sTmcpo5A8ZqxL"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129246,
+      "name": "Bubbling Nation",
+      "url": "https://open.spotify.com/track/3MKtomdLhmdo9Cne5XVQz1"
     },
     {
       "album": {
@@ -15459,6 +15477,24 @@
     },
     {
       "album": {
+        "name": "Rave Forever",
+        "url": "https://open.spotify.com/album/6knlQtFMb15fCMDksubXCB"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137454,
+      "name": "Rave Forever",
+      "url": "https://open.spotify.com/track/78iezSkKG2QtyHkmxSv6XU"
+    },
+    {
+      "album": {
         "name": "Rave Machine",
         "url": "https://open.spotify.com/album/3f6mVN8bEhXVB2rUK6cfIn"
       },
@@ -16294,7 +16330,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 139051,
       "name": "Schlaf",
       "url": "https://open.spotify.com/track/2ZqEViKZOBwd05aYnDYGil"

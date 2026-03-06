@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,336 songs - 21 day 5 hr 40 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,337 songs - 21 day 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8344,5 +8344,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8334 | [GOCHISO様](https://open.spotify.com/track/1sZ9rkYkLg7X8i3AeiMYMY) | [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [カツラギエース \(CV\. 藤原夏海\)](https://open.spotify.com/artist/4XGQkF8hcw6jDWULBRUvCo), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD) | [GOCHISO様](https://open.spotify.com/album/1MOckS48Hgg5Leoyh3OFLw) | 3:18 |
 | 8335 | [winning the soul](https://open.spotify.com/track/6U14BtLMcKnxaXSGoefXDM) | [オグリキャップ \(CV\. 高柳知葉\)](https://open.spotify.com/artist/1Ns24VB4EsllIc7ulSh4JU), [スーパークリーク \(CV\. 優木かな\)](https://open.spotify.com/artist/7BsozDTdT8AReDSiwGvPiE), [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr), [メジロアルダン \(CV\. 会沢紗弥\)](https://open.spotify.com/artist/4SVqi1dsrUfUBfanBcF1rd), [ヤエノムテキ \(CV\. 日原あゆみ\)](https://open.spotify.com/artist/6Bm8nnruZk1A84SbLmP1Hv) | [『ウマ娘 プリティーダービー』WINNING LIVE 04](https://open.spotify.com/album/2iESyA3ihb8bINi9zjtUU7) | 4:00 |
 | 8336 | [UMA IN AMERICA](https://open.spotify.com/track/4tZR89owOggD7KD3sj7BQl) | [タイキシャトル \(CV\. 大坪由佳\)](https://open.spotify.com/artist/4b4Zo2hI74NGdyCto74mlz), [グラスワンダー \(CV\. 前田玲奈\)](https://open.spotify.com/artist/613a940AwltjxfJv9vqBgG), [ヒシアマゾン \(CV\. 巽 悠衣子\)](https://open.spotify.com/artist/60uJpPl3obcx0b9l4Lh8fG), [エルコンドルパサー \(CV\. 髙橋ミナミ\)](https://open.spotify.com/artist/3ktP294BIdJ2gnSfiy8IrE), [シーキングザパール \(CV\. 福原綾香\)](https://open.spotify.com/artist/2bs5PbDgEpU8vQoHGu0M3S), [エスポワールシチー \(CV\. 亜咲花\)](https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK), [シンボリクリスエス \(CV\. 春川芽生\)](https://open.spotify.com/artist/4KKuHqzgAY6iJu44VQ4neG), [タップダンスシチー \(CV\. 篠田みなみ\)](https://open.spotify.com/artist/4AD20lJfwX4eWwQpyUBk0e), [シーザリオ \(CV\. 佐藤榛夏\)](https://open.spotify.com/artist/4UeO844LVP3OuVBQBh4jsD), [ラヴズオンリーユー \(CV\. 久保田未夢\)](https://open.spotify.com/artist/26OO93RbesL5b0MWWhn38K), [レッドディザイア \(CV\. 関根 瞳\)](https://open.spotify.com/artist/1XBoPlixu6gvcq2VIxp6nD), [フォーエバーヤング \(CV\. 海弓シュリ\)](https://open.spotify.com/artist/1QF8S0FYYobIi8k8T5Q5qa), [マルシュロレーヌ \(CV\. 近貞月乃\)](https://open.spotify.com/artist/5pIRmsPrHSVycMf9kDtZ1S) | [UMA IN AMERICA](https://open.spotify.com/album/7kBMsA7U4NkWL1Q8p9FbIg) | 4:50 |
+| 8337 | [Let Me Be With You](https://open.spotify.com/track/6htNcBR4RpiW5b6ohUk8Mx) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/7t72sVU5CudoVwTVe91tt5) | 4:29 |
 
-Snapshot ID: `AAALI9Rrtkg0QmxaEKTmlLm0ZOM9es/B`
+Snapshot ID: `AAALJHN2R+aF0XqZdknSUo+Z3P+57zxc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,721 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,729 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 18 | [편의점](https://open.spotify.com/track/2sTdpHxC8VjvxQpkJfQLjU) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:44 |
 | 19 | [한번뿐인 인생 One Life to Live](https://open.spotify.com/track/2MvehWGMkCeHZclsQo9kCJ) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [The Real Me](https://open.spotify.com/album/6c3CcKgq0T5fVTJ9EjfIlE) | 4:33 |
 | 20 | [우리 같이해요](https://open.spotify.com/track/5sj2hMW51QPNjJ8HiER4bU) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:58 |
-| 21 | [가면 무도회 The Masquerade](https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:09 |
+| 21 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
 | 22 | [Whistle](https://open.spotify.com/track/0yqX4crC7Bf9vWCHGZem2T) | [CB MASS](https://open.spotify.com/artist/1P7AuUYePJ4GJPbEvqgPgL) | [Matics](https://open.spotify.com/album/6TgefXLn8pEGjBK2UwkiFx) | 3:57 |
 | 23 | [위대한 탄생](https://open.spotify.com/track/6J2PdRIJ7B5PI9vTjjrVFQ) | [Drunken Tiger](https://open.spotify.com/artist/1kcYSWblYWOOMVOPNgbMYI) | [Drunken Tiger Best](https://open.spotify.com/album/0rU6RhFXcJ5w6TmXIzOrZq) | 3:34 |
-| 24 | [눈을 뜨면](https://open.spotify.com/track/5KjsLl2CzFgMojgjlDYGC6) | [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Positive Mind](https://open.spotify.com/album/62jph9R2nDWa4YxtV9kv7e) | 4:14 |
+| 24 | [가면 무도회 The Masquerade](https://open.spotify.com/track/2Hi8362chY7CZhyjX15ELG) | [Fana](https://open.spotify.com/artist/4mUsQKPUlPpTe2C1MPW1QT) | [Fanatic](https://open.spotify.com/album/63R1PRmdQrDt6EHftX4laO) | 4:09 |
 | 25 | [U\-turn \(Feat\. Verbal Jint\)](https://open.spotify.com/track/43XlDyKKmCo3fkJ51aR7IP) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Enlightened](https://open.spotify.com/album/4ySrj1BHhoMUbFFKs2Uhe0) | 4:16 |
 | 26 | [탄띠](https://open.spotify.com/track/4BVPrwyyitNd21QQA6jTZT) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Best of Best](https://open.spotify.com/album/2AVhUS6I0EUAVdJlwV7iZ7) | 3:08 |
 | 27 | [훔쳐 Rob It \(feat\. Double K\)](https://open.spotify.com/track/5UaGldAL222nOHnIS78vfO) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [ILLSON](https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd) | [Thunderground](https://open.spotify.com/album/30yMI8AM6gfZEnQu25KBfw) | 3:42 |

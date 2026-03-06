@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : Meryl
 
-468 songs - 21 hr 48 min
+469 songs - 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Malade](https://open.spotify.com/track/2fD1uyUm146kEWksmxGeA0) | [Sasso](https://open.spotify.com/artist/35B6bq5keTR1PYEahq1TAF) | [Malade](https://open.spotify.com/album/2DULfClSIvw1B51yp0zMM8) | 2:46 | 2024-11-28 | 2025-01-03 |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-04 | 2024-07-27 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-15 | 2024-12-20 |
+| [Marbella](https://open.spotify.com/track/3H1lE3luysn5UFRCJgB4Lq) | [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [MPR](https://open.spotify.com/album/2j2rDJUr7F0wjZDqNOGZ8z) | 2:16 | 2026-03-05 |  |
 | [Margiela](https://open.spotify.com/track/4i7Ck0jXJc0az9i8yOI9FJ) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8), [HDPRK](https://open.spotify.com/artist/73s1HHCb3RQcuxhFgqgGG0), [G29](https://open.spotify.com/artist/33GoYRikyN9Ej7idDdY55g) | [Margiela](https://open.spotify.com/album/7yWRuAb4BfIk1I9N1WUbQI) | 3:33 | 2025-06-12 | 2025-10-10 |
 | [Margiela II](https://open.spotify.com/track/3HbGZpDMKmkJG5ypX6n5UT) | [HOUZ](https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8) | [Margiela II](https://open.spotify.com/album/4e6zt1cxWDOQy2ZkY6SBOd) | 2:39 | 2025-10-09 | 2025-11-14 |
 | [Marius](https://open.spotify.com/track/1nCTokqcdpdZL8gY7vhrpJ) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Renaissance](https://open.spotify.com/album/6j1vIDOEZpuiCr8OBU3Dly) | 2:35 | 2025-06-12 | 2025-07-04 |
@@ -461,7 +462,7 @@
 | [X\-ADV](https://open.spotify.com/track/6dOfnTgFvwBZvFTM6jju3n) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Mode Opératoire, vol\. 1](https://open.spotify.com/album/6NVuqjn7fSJtUukHKnQBAY) | 2:51 | 2024-08-08 | 2024-09-13 |
 | [Xavi Simons](https://open.spotify.com/track/2wXhGTBd3PcjKid4voF9Hg) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Xavi Simons](https://open.spotify.com/album/4ooljTllzL25meM9959c1g) | 2:23 | 2024-06-20 | 2024-07-19 |
 | [Y Dor](https://open.spotify.com/track/4m4MwgqsswdG67P8SsQEii) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Unleaded](https://open.spotify.com/artist/3zWMcT8MOIAnQMbGFmMFun), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Y Dor](https://open.spotify.com/album/5qfEAZy6hAgoH7uexHM8vR) | 2:25 | 2023-09-28 | 2024-01-26 |
-| [Y'A R](https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 1:45 | 2026-01-15 |  |
+| [Y'A R](https://open.spotify.com/track/5hXA6P3qydIe3375WfGjVk) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [ZMIG](https://open.spotify.com/album/688e1LKDyb3Zqoo4hpMwch) | 1:45 | 2026-01-15 | 2026-03-06 |
 | [Yellow](https://open.spotify.com/track/5qbP24GpHFlqe4U0jTCde0) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On), [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY) | [Yellow](https://open.spotify.com/album/0HKIayo9MXwrMS0RfqnCar) | 2:48 | 2025-07-10 | 2025-08-09 |
 | [Yemma](https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q) | [Yemma](https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA) | 2:37 | 2023-12-14 | 2024-06-21 |
 | [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-11-23 | 2024-01-12 |

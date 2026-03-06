@@ -2,7 +2,7 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Salmo in cover.
+> Punchline, storytelling, rap italiano\. Nayt in cover.
 
 376 songs - 19 hr 8 min
 

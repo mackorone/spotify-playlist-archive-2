@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : miki",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Of\u00e9",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 156736,
       "name": "Appel de d\u00e9tresse",
       "url": "https://open.spotify.com/track/0SlVqq3nMSf6ItkaOMPXfg"
@@ -644,7 +644,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 171920,
       "name": "BALLERINES DE BOURGE",
       "url": "https://open.spotify.com/track/2NGMnic5kVnqB12RLiEdOy"
@@ -1603,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "C\u0152UR TITANE",
+        "url": "https://open.spotify.com/album/0kmPpZo26WeThAFctGflS6"
+      },
+      "artists": [
+        {
+          "name": "Liv del Estal",
+          "url": "https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "C\u0152UR TITANE",
+      "url": "https://open.spotify.com/track/1UfqVe7OZltMAJxyvkoLw7"
+    },
+    {
+      "album": {
         "name": "Dania",
         "url": "https://open.spotify.com/album/5zBWA42QHQwCuroHrhwCCB"
       },
@@ -2018,6 +2036,24 @@
       "duration_ms": 128479,
       "name": "ECLIPSE",
       "url": "https://open.spotify.com/track/6YqjF5hxtVoQJmqTAsMt1z"
+    },
+    {
+      "album": {
+        "name": "ELLE TE RESSEMBLE",
+        "url": "https://open.spotify.com/album/77qo6YvBhlwwnCzmvi2I1n"
+      },
+      "artists": [
+        {
+          "name": "BLOWSOM",
+          "url": "https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170712,
+      "name": "ELLE TE RESSEMBLE",
+      "url": "https://open.spotify.com/track/6h6ZIzimyrL4eqdGxL8J0y"
     },
     {
       "album": {
@@ -3180,7 +3216,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 211413,
       "name": "Je Ne T'Aime Plus",
       "url": "https://open.spotify.com/track/0L4EzEIPK3SEcz0PKXURlp"
@@ -3670,7 +3706,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 189893,
       "name": "La d\u00e9licatesse",
       "url": "https://open.spotify.com/track/56n9Iuw4IMSWk4SCMUYMFF"
@@ -3753,6 +3789,24 @@
     },
     {
       "album": {
+        "name": "La fi\u00e8vre",
+        "url": "https://open.spotify.com/album/1zKHlKyHZUl3XfYQejT5Xq"
+      },
+      "artists": [
+        {
+          "name": "Nina Uzan",
+          "url": "https://open.spotify.com/artist/30iinzdRdXO3StiffBPiw9"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167762,
+      "name": "La fi\u00e8vre",
+      "url": "https://open.spotify.com/track/2c3AR4QkQ49CbmM1O73luX"
+    },
+    {
+      "album": {
         "name": "La Fl\u00e8che",
         "url": "https://open.spotify.com/album/4Zy92D63sSUrIKTrEALIQC"
       },
@@ -3825,6 +3879,28 @@
     },
     {
       "album": {
+        "name": "La nuit",
+        "url": "https://open.spotify.com/album/4sg8ZR9A2SAYkh5fJPkSVC"
+      },
+      "artists": [
+        {
+          "name": "VONFELT",
+          "url": "https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU"
+        },
+        {
+          "name": "Lescop",
+          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221025,
+      "name": "La nuit",
+      "url": "https://open.spotify.com/track/6gvpn1sakSHny7E03huVzq"
+    },
+    {
+      "album": {
         "name": "La pomme",
         "url": "https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ"
       },
@@ -3890,7 +3966,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 232213,
       "name": "La v\u00e9rit\u00e9 des baisers",
       "url": "https://open.spotify.com/track/1Xd6H1K9Lq1Owqux3UDsZg"
@@ -5416,7 +5492,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 182794,
       "name": "Pas le temps",
       "url": "https://open.spotify.com/track/1fH3GLZtWqNTxDUoknAMwO"
@@ -6848,7 +6924,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 180000,
       "name": "Strat\u00e9gie d'\u00e9vitement",
       "url": "https://open.spotify.com/track/62nYa9kuN26ukVARAPiszd"
@@ -6985,6 +7061,24 @@
     },
     {
       "album": {
+        "name": "SVP faites du bruit",
+        "url": "https://open.spotify.com/album/3qIYqEKukvK7pCQLr7UdTz"
+      },
+      "artists": [
+        {
+          "name": "Neniu",
+          "url": "https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "SVP faites du bruit",
+      "url": "https://open.spotify.com/track/1H73rbNesXp1PkkX5DoQzO"
+    },
+    {
+      "album": {
         "name": "sympa",
         "url": "https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd"
       },
@@ -7057,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "M\u0101rara",
+        "url": "https://open.spotify.com/album/1T3PfI7AsCc3hHXfsZTGC1"
+      },
+      "artists": [
+        {
+          "name": "15 15",
+          "url": "https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Take Off Late",
+      "url": "https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90"
+    },
+    {
+      "album": {
         "name": "TAKING MY DISTANCE",
         "url": "https://open.spotify.com/album/11o2nfD30PapyYXd00imh8"
       },
@@ -7104,7 +7216,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 177173,
       "name": "Techno boom boom",
       "url": "https://open.spotify.com/track/2wANJq48Tuxs3KUn4Qe7Pg"
@@ -7674,6 +7786,28 @@
       "duration_ms": 177454,
       "name": "Vieille meuf",
       "url": "https://open.spotify.com/track/6s1IyWxMYJ1QDKX4xNmlGw"
+    },
+    {
+      "album": {
+        "name": "Dark Star",
+        "url": "https://open.spotify.com/album/3SzAcYU1XQjWeocjF8Gn5j"
+      },
+      "artists": [
+        {
+          "name": "Marlon Magn\u00e9e",
+          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
+        },
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Viens en moi",
+      "url": "https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9"
     },
     {
       "album": {

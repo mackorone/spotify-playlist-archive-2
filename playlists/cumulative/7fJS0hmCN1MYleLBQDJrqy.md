@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/7fJS0hmCN1MYleLBQDJrqy.md) - cumulative - [plain](/playlists/plain/7fJS0hmCN1MYleLBQDJrqy) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/7fJS0hmCN1MYleLBQDJrqy)
 
-### [Studentenbangers](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
+### [Studenten Zomerhits](https://open.spotify.com/playlist/7fJS0hmCN1MYleLBQDJrqy)
 
-> De beste studentenbangers in één playlist 🍺🔥  \| Cover: Idaly, Roxy Dekker, Ronnie Flex
+> De beste studentenbangers in één playlist 🍺🔥  \| Cover: Samuel Welten, Bankzitters
 
 131 songs - 5 hr 53 min
 

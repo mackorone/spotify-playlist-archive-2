@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-733 songs - 2 day 14 hr 11 min
+734 songs - 2 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Hallelujah Highest Name](https://open.spotify.com/track/4LZ4OPBbBoRWQ4OlHvuGzW) | [Tres Dei](https://open.spotify.com/artist/0QxXcWpb9kKHHbx10pIVcC) | [Hallelujah Highest Name](https://open.spotify.com/album/07JX8kBXODKbbKJK18IQ0k) | 4:18 | 2025-06-06 | 2025-07-29 |
 | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/track/67K6tlpK5geck7OLZd5js9) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [HALLOWED \(THE ONE WHO ANSWERS PRAYERS\)](https://open.spotify.com/album/0PmiXhRIA1vUUSjHOKn1sq) | 2:28 | 2025-02-28 | 2025-05-09 |
 | [Hallowed be Your name](https://open.spotify.com/track/46rcEw6HHRMHISqGI0U5ZZ) | [Deborah\-Divine](https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ) | [Hallowed be Your name](https://open.spotify.com/album/7LFyb6Flt2msg9R00Ufnw5) | 5:35 | 2025-07-11 | 2025-08-26 |
-| [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-09 |  |
+| [He Will Provide](https://open.spotify.com/track/6Ej9JXSMgBATGtAwQq3HTb) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [He Will Provide](https://open.spotify.com/album/4uMDmd8DPzOkSKMP3CgBuo) | 5:56 | 2026-01-09 | 2026-03-06 |
 | [He Won't \(Worship Medley\)](https://open.spotify.com/track/0zGdGRc5Cv0b89wx3HfiNn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [He Won't \(Worship Medley\)](https://open.spotify.com/album/04pSAhuoZGv9xW2mdTwbgR) | 11:49 | 2025-03-28 | 2025-06-20 |
 | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/track/2a4wzlyRLx0zvz71WgseXN) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3), [NAWIRAS Mass Choir](https://open.spotify.com/artist/68FjyOBa9zUDt1UkvioE05) | [HE'S HERE \(THE KABOD\)](https://open.spotify.com/album/7Cekl5I7lIp501IHTHOSru) | 7:40 | 2024-03-01 | 2025-06-06 |
 | [Heal](https://open.spotify.com/track/2Uf3cKXiFkyGee73C8og1G) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Heal](https://open.spotify.com/album/21cNfAyXPr5Nt5kKXPvyBd) | 2:33 | 2025-06-20 | 2025-09-09 |
@@ -407,6 +407,7 @@
 | [Living Waters](https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV) | [Toprock Gospel](https://open.spotify.com/artist/4nQb0Zq2NyUUgRn93Bh9lp), [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Living Waters](https://open.spotify.com/album/1oIpFIzGcakV6rnvVTWDjP) | 3:34 | 2025-10-24 | 2025-11-28 |
 | [Lomhlengi / Uvukile \(Live\)](https://open.spotify.com/track/1Sh5lTwJdEkcZEVGGYTi8O) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Lomhlengi / Uvukile \(Live\)](https://open.spotify.com/album/2hqvjazkKC4aQLYDkhZFv5) | 11:43 | 2025-09-19 |  |
 | [Look To Me](https://open.spotify.com/track/1VFaJ2a2yVPbjTAkDBxSdn) | [ayomidetPh](https://open.spotify.com/artist/34escoJykaA5AGb5USdHiK) | [Look To Me](https://open.spotify.com/album/2VEonLO0sutdBL8cDtLjOZ) | 3:21 | 2025-06-20 | 2025-07-31 |
+| [Lord I believe](https://open.spotify.com/track/7Kr8B8QNOQQFPXBwoWEahG) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Lord I believe](https://open.spotify.com/album/7E0yZmCOLdc5zSjXAWiRtb) | 6:14 | 2026-02-27 |  |
 | [Love Greater](https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Love Greater](https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x) | 2:33 | 2025-01-17 | 2025-03-08 |
 | [Loved By You](https://open.spotify.com/track/04z6JRYVpmeZlyIZHXgV3i) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Loved By You](https://open.spotify.com/album/0GMrWWGjsqb5ofkZrb58wu) | 3:24 | 2024-06-07 | 2024-09-13 |
 | [M'manja Mwanu](https://open.spotify.com/track/7qsuw2hbLEAW8dzQx7nRhP) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [M'manja Mwanu](https://open.spotify.com/album/2djFFunGWCcsrMthfOOUP9) | 3:12 | 2024-11-29 | 2025-06-06 |

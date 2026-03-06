@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Yandel y LATIN MAFIA en portada.",
-  "num_followers": 40061,
+  "num_followers": 40066,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Palo Santo",
-        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Palo Santo",
-      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 197733,
       "name": "Duele",
       "url": "https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Palo Santo",
+        "url": "https://open.spotify.com/album/5BMEsXWO3zjkKHnVfCC7GO"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Palo Santo",
+      "url": "https://open.spotify.com/track/402e0mc3vfmrSZHsh0TlN2"
     },
     {
       "added_at": "2026-01-16 06:00:20",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-01-16 06:00:20",
       "album": {
-        "name": "Nubecita",
-        "url": "https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt"
-      },
-      "artists": [
-        {
-          "name": "Montoya",
-          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Nubecita",
-      "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
-    },
-    {
-      "added_at": "2026-01-16 06:00:20",
-      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
+    },
+    {
+      "added_at": "2026-01-16 06:00:20",
+      "album": {
+        "name": "Nubecita",
+        "url": "https://open.spotify.com/album/0hG60eOpUIfy9ERatkO3wt"
+      },
+      "artists": [
+        {
+          "name": "Montoya",
+          "url": "https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa"
+        },
+        {
+          "name": "Pedrina",
+          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Nubecita",
+      "url": "https://open.spotify.com/track/5RR90wjPUyoG8nQcvJkjMz"
     },
     {
       "added_at": "2026-01-16 06:00:20",

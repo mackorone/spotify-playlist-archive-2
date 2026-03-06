@@ -4012,7 +4012,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 163647,
       "name": "Ilmaa",
       "url": "https://open.spotify.com/track/7uMpPXrjRVAerTwnsnj7DO"
@@ -11175,6 +11175,28 @@
     },
     {
       "album": {
+        "name": "Poikayst\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "Sara Bee",
+          "url": "https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139868,
+      "name": "Poikayst\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi"
+    },
+    {
+      "album": {
         "name": "Poikii on",
         "url": "https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56"
       },
@@ -16194,7 +16216,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 161240,
       "name": "Vasara",
       "url": "https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec"

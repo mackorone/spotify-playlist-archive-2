@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 996028,
+  "num_followers": 996127,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "The Times They Are A-Changin'",
-        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 197020,
-      "name": "The Times They Are A-Changin'",
-      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 197020,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Creedence Clearwater Revival (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
-      },
-      "artists": [
-        {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
-        }
-      ],
-      "duration_ms": 271786,
-      "name": "I Put A Spell On You",
-      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
         "name": "The Singles Plus",
         "url": "https://open.spotify.com/album/1v4O55JGou3T0Vlj06fdXz"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 145693,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/0KpTFH1SzexN8SGc0GPILC"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
+        "name": "Creedence Clearwater Revival (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "duration_ms": 271786,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1147,8 +1147,8 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Led Zeppelin (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
+        "name": "Led Zeppelin II (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 166106,
-      "name": "Good Times Bad Times - Remaster",
-      "url": "https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD"
+      "duration_ms": 274009,
+      "name": "Ramble On - Remaster",
+      "url": "https://open.spotify.com/track/4WTk7vle9ubGFvRUkaGUBd"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Led Zeppelin II (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/58N1RPC3B4mRkjBaug4u3X"
+        "name": "Led Zeppelin (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
         }
       ],
-      "duration_ms": 274009,
-      "name": "Ramble On - Remaster",
-      "url": "https://open.spotify.com/track/4WTk7vle9ubGFvRUkaGUBd"
+      "duration_ms": 166106,
+      "name": "Good Times Bad Times - Remaster",
+      "url": "https://open.spotify.com/track/6sMGNw1E4q79DoAFGDCYuD"
     },
     {
       "added_at": "2024-07-05 23:26:53",

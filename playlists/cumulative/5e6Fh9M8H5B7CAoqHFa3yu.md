@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,904 songs - 4 day 17 hr 58 min
+1,905 songs - 4 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Confessions \(Everything\)](https://open.spotify.com/track/76aFw99H01hPXzeFWwTOr5) | [Nosie Katzmann](https://open.spotify.com/artist/7BrkzGmCl8LM18udHQihhn), [Maria Blatz](https://open.spotify.com/artist/3ykTHboOuDmAKdOzwLSds0) | [Confessions \(Everything\)](https://open.spotify.com/album/2dOigKRlAdSsQt9yDbjJEP) | 2:34 | 2025-11-15 |  |
 | [Confusion](https://open.spotify.com/track/5RcXrzmZ2dbmwu1xxctC3B) | [Foad Jafari](https://open.spotify.com/artist/0bD1tTxPLVkAFvaHliwAnk) | [Confusion](https://open.spotify.com/album/6QNUAr2NGrwAuq65CPUmuj) | 2:27 | 2025-11-03 |  |
 | [Confusion](https://open.spotify.com/track/0Zs5SeNJK6OTADZZg5wDja) | [Program One](https://open.spotify.com/artist/1LTNHqcrT0pIAyidatW0aF), [Carmelo Vintrici](https://open.spotify.com/artist/1IW1xEwO83b8CXSOxamoKq), [Giuseppe Cucuzza](https://open.spotify.com/artist/1hKZDCCdmSZUcvSwLTKeIu) | [Confusion](https://open.spotify.com/album/5Ek06Adn8rwha2oByixXK8) | 1:35 | 2024-11-13 |  |
+| [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 | 2026-03-06 |  |
 | [Conquering Brass](https://open.spotify.com/track/0G1SUN5paIIxAwcbgsTnMl) | [Stefanosis](https://open.spotify.com/artist/6K6rIqu7mAiORjW758KyRI), [Samson Benji](https://open.spotify.com/artist/4yh2z9mo5F6S5cQC363v2G) | [Brass Echo Chamber](https://open.spotify.com/album/5BxaCoVsHJg3Vj2xXFAKsl) | 3:20 | 2024-05-01 |  |
 | [Conscious Dub](https://open.spotify.com/track/7ooCts2V5Xk3OLq8S6l1fc) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:46 | 2024-03-25 |  |
 | [Consecuencias](https://open.spotify.com/track/1AY7Qsg1WTVGx5vTbtScu3) | [Exilio a Plutón](https://open.spotify.com/artist/0RDcwUWOCSUSxJe3mMNhqh) | [Consecuencias](https://open.spotify.com/album/1MbrJiwSAlT5Gav4b7cmCm) | 3:32 | 2025-07-01 |  |
@@ -1420,7 +1421,7 @@
 | [Santana Quantum](https://open.spotify.com/track/3HtuepZ8z6COrZmwn4UKO6) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:54 | 2025-06-16 |  |
 | [Satta Dub](https://open.spotify.com/track/0VUmktag6J6iZ5edAoM44D) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [Feel The Vibration](https://open.spotify.com/album/4dBIS62UE1vl1CqDmqGtzD) | 4:12 | 2024-06-30 |  |
 | [Saturday \(HIIT 30\-10\)](https://open.spotify.com/track/4pBJxEFPlwEOvjvwjcyQPy) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-08 |  |
-| [Save me from this dimension](https://open.spotify.com/track/3tUFw2DOlINiAqwon49BiX) | [ROD](https://open.spotify.com/artist/4qgkyXlovKCnOSkvOfOms7) | [Save me from this dimension](https://open.spotify.com/album/0t7vaJnDeApfYgktBtWuyf) | 4:26 | 2025-01-22 |  |
+| [Save me from this dimension](https://open.spotify.com/track/3tUFw2DOlINiAqwon49BiX) | [ROD](https://open.spotify.com/artist/1wIBNTCu23Gplflrlv2Cqt) | [Save me from this dimension](https://open.spotify.com/album/0t7vaJnDeApfYgktBtWuyf) | 4:26 | 2025-01-22 |  |
 | [Save My Soul](https://open.spotify.com/track/1E7yRw1pErGofcmiVCQ7WS) | [CLOUDZ](https://open.spotify.com/artist/5GvBPhDip3nBZbMU3vF3bJ) | [New Love](https://open.spotify.com/album/1cofuVlifsDSorgkGh5F1v) | 2:32 | 2025-08-20 |  |
 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 | 2025-05-28 |  |
 | [Sax on the Rooftop](https://open.spotify.com/track/1h2Lnv72OMUjOzaFjimyXx) | [Twilight Swing](https://open.spotify.com/artist/6DYvb464hkR9ZltGsFTdVX) | [Sax on the Rooftop](https://open.spotify.com/album/1zoJMzlRvJG0ndoEIe3cbj) | 5:45 | 2025-11-15 |  |

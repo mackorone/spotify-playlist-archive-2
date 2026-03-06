@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 527356,
+  "num_followers": 527400,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Yo Vengo de Cuba",
-        "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
-      },
-      "artists": [
-        {
-          "name": "FredyClan",
-          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
-        }
-      ],
-      "duration_ms": 288012,
-      "name": "Yo Vengo de Cuba",
-      "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "La Salsa Tiene mi Son",
         "url": "https://open.spotify.com/album/1cyF9OgODjh488BmdN1xmH"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 285733,
       "name": "1999 (feat. Alexander Delgado (Gente D' Zona) & Serguei Yera Madera)",
       "url": "https://open.spotify.com/track/0UFbt4HV3VdgLS4tbh7CqM"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Yo Vengo de Cuba",
+        "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
+      },
+      "artists": [
+        {
+          "name": "FredyClan",
+          "url": "https://open.spotify.com/artist/1rsRdI8sk9RqrfdPzLqmWE"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 288012,
+      "name": "Yo Vengo de Cuba",
+      "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
     },
     {
       "added_at": "2025-03-07 06:00:25",

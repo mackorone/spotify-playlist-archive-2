@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\.  Foto: Leire Martinez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,687 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,693 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 49 | [Sáfica](https://open.spotify.com/track/2l4LwK58Mlj0LAfaxtMEQe) | [Paula Felices](https://open.spotify.com/artist/4umN3hOu4rOYz2d9SfTVGf) | [Sáfica](https://open.spotify.com/album/5oNrkthEhjKCotTFqUsmlF) | 3:14 |
 | 50 | [choqué con el cristal](https://open.spotify.com/track/1O3j8z7PWhl6fsVvwSj4CZ) | [Clara deMin](https://open.spotify.com/artist/2q5t0lLdfKFrrIyw8fgv5n) | [choqué con el cristal](https://open.spotify.com/album/3w7HldjcQI72AQiWeX9nsW) | 3:30 |
 
-Snapshot ID: `AAAAAPnjeXOdqlCkN08ddfogBT8P7qFV`
+Snapshot ID: `AAAAAKoHv4o+8wh077whqg0nmVqT9K+n`

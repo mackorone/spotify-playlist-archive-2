@@ -2,9 +2,9 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Naykilla
+> The best tracks from the world of music\. Cover: Bruno Mars
 
-490 songs - 1 day 4 hr 3 min
+491 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-08 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-17 | 2024-10-17 |
 | [Alkisah Jiwa](https://open.spotify.com/track/5fWhCb1uiaz60JFIC96IHf) | [Fadhilah Intan](https://open.spotify.com/artist/452u7UZFOhNTdO5dQwbhzL), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Alkisah Jiwa](https://open.spotify.com/album/6JdprpL2BeEktoaEq7qyEV) | 4:01 | 2024-10-16 | 2024-11-13 |
+| [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 |  |
 | [Anak Raja](https://open.spotify.com/track/6gxdc7qX4ANNhpADTy5ENr) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Anak Raja](https://open.spotify.com/album/0WpYd80jGZ8njJ9fX9grNw) | 3:10 | 2024-12-11 | 2025-01-02 |
 | [Andai Tiada Dia](https://open.spotify.com/track/6WW5CDNf9VttXhFrgMX7Bx) | [Isyariana](https://open.spotify.com/artist/4OjAZGjr75Lcoej9PvkhMQ) | [Andai Tiada Dia](https://open.spotify.com/album/3w7RP3QBl4dX9WAxGX6eSv) | 3:17 | 2024-12-25 | 2025-01-30 |
 | [Angau](https://open.spotify.com/track/2JVm4VDnZzIFoVjdVXOyCP) | [Fahimi](https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd) | [Angau](https://open.spotify.com/album/0ScMd2xOV2o6OC6ldq59bL) | 2:40 | 2024-06-26 | 2024-10-03 |

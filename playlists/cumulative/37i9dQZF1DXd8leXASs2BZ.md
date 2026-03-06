@@ -2,9 +2,9 @@
 
 ### [+81 Connect FRESH](https://open.spotify.com/playlist/37i9dQZF1DXd8leXASs2BZ)
 
-> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: AOTO
+> Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Litty
 
-1,355 songs - 2 day 14 hr 28 min
+1,357 songs - 2 day 14 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,6 +753,7 @@
 | [NAKII MUSII](https://open.spotify.com/track/5zvuwo0AbFoOBfiq4be60q) | [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [NAKII MUSII](https://open.spotify.com/album/2e409sjKfaykRyYIsuCmWC) | 3:52 | 2025-05-13 | 2025-06-18 |
 | [Namae](https://open.spotify.com/track/64UiUU1vl7HkagyYh0J15Z) | [AON](https://open.spotify.com/artist/1WiAw4ZvV8crQEVAy8AQhO) | [Namae](https://open.spotify.com/album/4SOCuBCkRAX8T19XCJEtub) | 3:06 | 2023-12-07 | 2024-01-24 |
 | [NAMI](https://open.spotify.com/track/3gyXUKKJOyRkst9eZYiY3w) | [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez), [Merry Delo](https://open.spotify.com/artist/1Q1IHJA1chZCn2P0ppiOfW) | [Marina](https://open.spotify.com/album/0Wd7kzmJBgmfvebEJub5q9) | 3:36 | 2024-10-15 | 2024-10-22 |
+| [Nandaro? \(feat\. Worldwide Skippa\)](https://open.spotify.com/track/2x7eU1kw78pVAW9MGNWhp7) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 3:18 | 2026-03-05 |  |
 | [Nanishiteru?](https://open.spotify.com/track/1OgQCm898YAryLgIKDiJhf) | [TOKINE](https://open.spotify.com/artist/3Tg1uV8PDqrVWiPHOBZumU) | [Nanishiteru?](https://open.spotify.com/album/2miQa6FAN9y9XFIgIyDzue) | 3:03 | 2025-06-03 | 2025-07-16 |
 | [NARI\-A\-GARI](https://open.spotify.com/track/1qu08a7i7udyKuzl1vN8tY) | [Kay\-on](https://open.spotify.com/artist/2F81r2H2weMXa83CD2VD9H) | [NARI\-A\-GARI](https://open.spotify.com/album/62chPPgbtNWbyCoaU4AsyR) | 2:45 | 2024-01-09 | 2024-02-09 |
 | [NASHI KARA ARI \(feat\. MIKADO & Fuji Taito\)](https://open.spotify.com/track/3VO0SRlCHgt17hN2FYXSDr) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f) | [NASHI KARA ARI \(feat\. MIKADO & Fuji Taito\)](https://open.spotify.com/album/3alcWTtfZoMT7HjP08DvaS) | 2:37 | 2025-04-15 | 2025-08-13 |
@@ -887,7 +888,7 @@
 | [promise](https://open.spotify.com/track/4j2Z8fqjloC980PgxUTT0b) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/7lqYTFsnQZyr0QARHeAPAj) | 1:50 | 2024-04-16 | 2024-05-29 |
 | [promise](https://open.spotify.com/track/76kUiu6Y1BBPs0OWapOhTS) | [MARSBOY](https://open.spotify.com/artist/6o3a9ssBxskS6Tw0VVxEFe), [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [promise](https://open.spotify.com/album/3Ra83t8m1eoTpvh4tb7R9c) | 1:50 | 2024-01-11 | 2024-04-19 |
 | [PUFFY](https://open.spotify.com/track/2VNMDF9XndbjbyZasqfcje) | [Shinkai East](https://open.spotify.com/artist/3OssiXL7LArg3yDW0t2wE6) | [PUFFY](https://open.spotify.com/album/2qjBejLNSqmeaOUHk7To1z) | 2:47 | 2024-01-18 | 2024-02-16 |
-| [Pull Up](https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Pull Up](https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW) | 2:30 | 2026-01-13 |  |
+| [Pull Up](https://open.spotify.com/track/2sT9opGdkzq1rKE9toXJTb) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Pull Up](https://open.spotify.com/album/5xsIGUBxkvpStINwCNl8CW) | 2:30 | 2026-01-13 | 2026-03-06 |
 | [Pull Up \(feat\. Bene Baby\)](https://open.spotify.com/track/6t00Q5SvIXKkJeA4ZIG1VQ) | [Godzilla East](https://open.spotify.com/artist/4u8gYY3ubYwelf5UbzqZg5), [Bene Baby](https://open.spotify.com/artist/4qd1YiKsGPymzmgZLBYY8g) | [Pull Up \(feat\. Bene Baby\)](https://open.spotify.com/album/7uvu1MD7au3JI9AUcCuxTI) | 2:54 | 2025-11-25 | 2026-02-11 |
 | [Puppet Muppets](https://open.spotify.com/track/0cjncJ5ri0UbHB4gRuYBvH) | [Yay boop](https://open.spotify.com/artist/2Pe7DjrCsWCke9RS3Xywgg), [AVI](https://open.spotify.com/artist/0Fb0QJ5JJsdhN08lRK2gKM) | [Puppet Muppets](https://open.spotify.com/album/1p5grTEGutxWawVz1hAJUa) | 1:40 | 2026-01-27 |  |
 | [pure](https://open.spotify.com/track/526s517eKituXVXya59e9R) | [HekA](https://open.spotify.com/artist/2KpKJbe1qq9BW4Fm50zTwx), [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [pure](https://open.spotify.com/album/0qkIVWS6aP674wtZ5PqpKV) | 2:09 | 2024-10-01 | 2024-12-11 |
@@ -1324,6 +1325,7 @@
 | [昼はリーマン夜はラッパー](https://open.spotify.com/track/5b5KABTNzIw7ZsaRt2buUO) | [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [昼はリーマン夜はラッパー](https://open.spotify.com/album/5Y4iKeU6ZVOolbK22u8yaN) | 1:57 | 2026-01-27 | 2026-02-18 |
 | [曼陀羅](https://open.spotify.com/track/5GwfhLMLnux8LPao0FXfA6) | [six](https://open.spotify.com/artist/6sw6T0k1R1EftCvEXxi7km) | [曼陀羅](https://open.spotify.com/album/4fUNBnm8uw8TASVwNGo1u0) | 2:26 | 2024-09-24 | 2024-11-13 |
 | [最低だけど最高](https://open.spotify.com/track/2ufX2xxEysgDrPE5ANyhHy) | [Tim Pepperoni](https://open.spotify.com/artist/6XBb171OKsU4jQ5RfERNVo) | [最低だけど最高](https://open.spotify.com/album/4EZrC1LZyiTb3DV3igu8Bl) | 1:43 | 2024-03-12 | 2024-04-17 |
+| [未来の話](https://open.spotify.com/track/3KejtbrA5COvcZkYksz90Z) | [VCE NAVA](https://open.spotify.com/artist/4oG9mZoApHLm4xxMgl4giO) | [未来の話](https://open.spotify.com/album/0cCA7GHBmcyOOScBxWTiEJ) | 2:24 | 2026-03-05 |  |
 | [東京無宿](https://open.spotify.com/track/1jYypP5U3UPsDDNdOdDvrM) | [BLYY](https://open.spotify.com/artist/6yX4DVkXlVVzckdFcqer1p) | [東京無宿](https://open.spotify.com/album/4TyEPsSOhakTnVobdu9cb5) | 3:43 | 2024-01-23 | 2024-03-06 |
 | [東京逆走](https://open.spotify.com/track/66w0Y7OgItnOxr5H0dvkwa) | [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60), [Noah Cooper](https://open.spotify.com/artist/4xF4uKmgicrYuunxggf4Ik), [stb](https://open.spotify.com/artist/0rGik946QMPvmQ5neZrEjr), [Varria](https://open.spotify.com/artist/1vnPpGGXhMWPEeAJSQFpN7) | [東京逆走](https://open.spotify.com/album/5nWTVCasUiOoiUThqYEGCO) | 2:48 | 2025-11-18 | 2026-02-11 |
 | [森林に行こう](https://open.spotify.com/track/3GJ0dHjqwcsFRDT4DRiWMq) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [KUPTYTH](https://open.spotify.com/album/5FnVy3yiu3TjArc7Ku1yAj) | 2:48 | 2024-07-16 | 2024-08-07 |

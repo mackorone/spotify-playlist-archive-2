@@ -1,6 +1,6 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 334991,
+  "num_followers": 335092,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "El Chancho Come Caviar",
-      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
-    },
-    {
-      "added_at": "2025-12-01 13:20:09",
-      "album": {
         "name": "Identidad",
         "url": "https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 275720,
       "name": "Amor De Chat",
       "url": "https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i"
+    },
+    {
+      "added_at": "2025-12-01 13:20:09",
+      "album": {
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "El Chancho Come Caviar",
+      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -547,18 +547,22 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+        "name": "Si Te Agarran Las Ganas",
+        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
       },
       "artists": [
         {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        },
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+      "duration_ms": 239418,
+      "name": "Si Te Agarran Las Ganas",
+      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
     },
     {
       "added_at": "2025-12-01 13:20:09",
@@ -583,22 +587,18 @@
     {
       "added_at": "2025-12-01 13:20:09",
       "album": {
-        "name": "Si Te Agarran Las Ganas",
-        "url": "https://open.spotify.com/album/4bFq2T17EJHeimDtyWQDTz"
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
       },
       "artists": [
         {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        },
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
         }
       ],
-      "duration_ms": 239418,
-      "name": "Si Te Agarran Las Ganas",
-      "url": "https://open.spotify.com/track/3RONkAIswfbMyJ3UCXXBei"
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
     },
     {
       "added_at": "2025-12-01 13:20:09",

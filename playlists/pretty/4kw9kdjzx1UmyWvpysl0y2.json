@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124259,
+  "num_followers": 124257,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVMV0jZvtcTNFbupKVuOVhT6BWk/Zh",
+  "snapshot_id": "AAAVMu2MyFbydf/84DS3LnGHlgPaTa78",
   "tracks": [
+    {
+      "added_at": "2026-03-05 14:47:00",
+      "album": {
+        "name": "Dancing Through It All",
+        "url": "https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Dancing Through It All",
+      "url": "https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy"
+    },
     {
       "added_at": "2026-03-04 15:13:25",
       "album": {

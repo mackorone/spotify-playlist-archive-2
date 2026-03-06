@@ -1,12 +1,12 @@
 {
   "description": "Devotional tracks for an immersive Ramadan. Cover: Atif Aslam",
-  "num_followers": 16702,
+  "num_followers": 16728,
   "original_name": "Hamd-o-Naat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA7DS9SFZgeytVNX70BY0T+zgOk1",
+  "snapshot_id": "AAAAAA4pZZPHptf3RtMWiNovabkZ1+Uw",
   "tracks": [
     {
       "added_at": "2026-02-24 14:06:38",
@@ -71,6 +71,26 @@
       "duration_ms": 295818,
       "name": "Illahi Teri Chaukhat Par",
       "url": "https://open.spotify.com/track/4nGcmvrlNuw4jLeC9Kv4wh"
+    },
+    {
+      "added_at": "2026-03-05 05:23:08",
+      "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/0qnWTjT4Qkz5zco7wdmsz7"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        },
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 399898,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/6exxrgkGiWnUmJMODhqxUj"
     },
     {
       "added_at": "2026-02-24 14:06:38",
@@ -141,6 +161,22 @@
       "url": "https://open.spotify.com/track/6CyGDHyNNtd66s9BSXJk2h"
     },
     {
+      "added_at": "2026-03-05 07:30:03",
+      "album": {
+        "name": "Sohna Nabi (PBUH)",
+        "url": "https://open.spotify.com/album/732cuGNUAZRabJNxL5UQQt"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "duration_ms": 310736,
+      "name": "Sohna Nabi (PBUH)",
+      "url": "https://open.spotify.com/track/0Nh72BqVEqfIcJNxIBzNac"
+    },
+    {
       "added_at": "2026-02-24 14:06:38",
       "album": {
         "name": "Maula Ya Salli (Voice Only)",
@@ -171,6 +207,30 @@
       "duration_ms": 258413,
       "name": "Hasbi Rabbi",
       "url": "https://open.spotify.com/track/1VQI2F0o229lNoyFC9d6eh"
+    },
+    {
+      "added_at": "2026-03-05 07:30:03",
+      "album": {
+        "name": "Qaseeda Burda Shareef",
+        "url": "https://open.spotify.com/album/3MecTNycRIaPKRItlpGNER"
+      },
+      "artists": [
+        {
+          "name": "Fariha Pervez",
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
+        },
+        {
+          "name": "Humaira Arshad",
+          "url": "https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh"
+        },
+        {
+          "name": "Alhaj Muhammad Afzal Noshahi",
+          "url": "https://open.spotify.com/artist/10iv6CBPUxA12woIYzv7jF"
+        }
+      ],
+      "duration_ms": 357761,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/5SF9JwhXwcFpcEUPVUUNwI"
     },
     {
       "added_at": "2026-02-24 14:06:38",

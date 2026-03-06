@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 77425,
+  "num_followers": 77460,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Get Serious",
+        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
+      },
+      "artists": [
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
+        }
+      ],
+      "duration_ms": 265946,
+      "name": "Cool Temper",
+      "url": "https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Get Serious",
-        "url": "https://open.spotify.com/album/3qaCT1Xp7UeFmUpI0f0Gzk"
-      },
-      "artists": [
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
-        }
-      ],
-      "duration_ms": 265946,
-      "name": "Cool Temper",
-      "url": "https://open.spotify.com/track/30AtTTXstHEVGpZVWrM8iM"
     },
     {
       "added_at": "2025-08-26 11:12:59",

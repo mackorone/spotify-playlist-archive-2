@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-510 songs - 1 day 3 hr 5 min
+512 songs - 1 day 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Absolute Romance](https://open.spotify.com/track/4BRUTaXQsb1hWUV7tY6vei) | [Hanna Järver](https://open.spotify.com/artist/6JHabNWuD8rd3TQQtMf6Q5) | [Absolute Romance](https://open.spotify.com/album/5dqduEZyQ0G5E6wOf9HyQM) | 3:09 | 2025-02-27 | 2025-05-16 |
 | [Affären \(feat\. Dolce\)](https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx) | [Tjejdikter](https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc), [Dolce](https://open.spotify.com/artist/6wIPycsVyFlJaHYTW8qY0T) | [Affären \(feat\. Dolce\)](https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE) | 3:45 | 2024-08-08 | 2024-10-15 |
 | [Ain’t The Feeling](https://open.spotify.com/track/4nNz9daAQDV5D7UfQkwBi1) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Ain’t The Feeling](https://open.spotify.com/album/2SvGs7d5s8bFcArcAMKotf) | 2:45 | 2025-09-18 |  |
-| [airbnb](https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [airbnb](https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo) | 2:53 | 2025-12-04 |  |
+| [airbnb](https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A) | [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [airbnb](https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo) | 2:53 | 2025-12-04 | 2026-03-06 |
 | [Aj aj aj](https://open.spotify.com/track/58d0Vr4RlIysOjy7KLDfOd) | [Isak Friberg](https://open.spotify.com/artist/6GmrIORIM4ZZctjceeMkyx) | [Aj aj aj](https://open.spotify.com/album/0c0eCmaKMewlC0AsZCKeZp) | 3:40 | 2025-09-25 | 2025-10-03 |
 | [Aldrig gå](https://open.spotify.com/track/6j4ms9XdinHYyI2a1pphoT) | [Lov1](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Aldrig gå](https://open.spotify.com/album/3yNbVa7XXNkY04WHaIFU4d) | 3:07 | 2025-04-11 | 2025-08-08 |
 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 | 2025-01-16 | 2025-09-26 |
@@ -54,6 +54,7 @@
 | [Baddiez](https://open.spotify.com/track/7N1WN9SQPgIKsFcQN50I6k) | [Swank Mami](https://open.spotify.com/artist/70k5dAiZtWY7JVknCMSaqr) | [Baddiez](https://open.spotify.com/album/1YIpdqjHZCX4MVZGH9AXdu) | 2:43 | 2025-08-07 | 2025-09-26 |
 | [Be Mine](https://open.spotify.com/track/6h1SXb4450dK7aJhDXbG7f) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Be Mine](https://open.spotify.com/album/643USioIt1ALPPPMMuNJ92) | 3:19 | 2026-02-05 |  |
 | [Beaches](https://open.spotify.com/track/0lko8s8up1bZSqctfuoPKj) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beaches](https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66) | 3:50 | 2024-08-08 | 2025-02-24 |
+| [Been Thinking](https://open.spotify.com/track/3Zhpx3IPY7IAMYoSRK7E1d) | [Funny Weather](https://open.spotify.com/artist/43VCHVPxVOUh4TkN7Qcj55), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Been Thinking](https://open.spotify.com/album/2hNTk77i7OEb9yDjdEbOac) | 3:50 | 2026-03-05 |  |
 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-11-06 |  |
 | [BeReal](https://open.spotify.com/track/2VX7K6KHk5Qx3bcgiO4ugi) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Waterworks](https://open.spotify.com/album/4o329n3fKBiuDuE66t0s1L) | 2:08 | 2024-06-28 | 2024-08-23 |
 | [Berusad ängel](https://open.spotify.com/track/6UQ9uedlEpYPXqmvDIH0IO) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Berusad ängel](https://open.spotify.com/album/0oInNpSsVkorWAchWQsZyb) | 3:53 | 2025-09-04 | 2025-10-10 |
@@ -289,6 +290,7 @@
 | [Leave Me Alone](https://open.spotify.com/track/5asaMzNMI7NVR4QUMWjicy) | [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Leave Me Alone](https://open.spotify.com/album/5w543mJbAupEInVlJC8V6V) | 3:03 | 2024-06-28 | 2024-08-30 |
 | [Leyla](https://open.spotify.com/track/4QIzYCGDTLJxue9HQe4xaY) | [Robin Kadir](https://open.spotify.com/artist/4juMqlCDk4p6TrM7JXfSw2), [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [Leyla](https://open.spotify.com/album/6pkRBjBGXdVF8b0AUCfuUl) | 2:26 | 2025-03-13 | 2025-09-19 |
 | [LIE TO ME](https://open.spotify.com/track/0TwwvWNpQySYUrK3XsR74m) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb), [KELLYKKE](https://open.spotify.com/artist/5y0FFrqoxEKeS7oINVQAxj) | [LIE TO ME](https://open.spotify.com/album/56tTnBQQnqpSqftNMpfEOn) | 2:49 | 2025-05-30 | 2025-09-03 |
+| [lighthouse](https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [ABY iO](https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP) | [lighthouse](https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW) | 2:07 | 2026-03-05 |  |
 | [Lightyears \(with Young Thug\)](https://open.spotify.com/track/7D5JJXdw98saj80xQxukTQ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 3:12 | 2024-09-13 | 2025-02-17 |
 | [Limoncello](https://open.spotify.com/track/4f2aHUOH106PE2ZD2FUzMe) | [Bishat](https://open.spotify.com/artist/3o42mstamO9qGU4P8p50Qr) | [Limoncello](https://open.spotify.com/album/7AEW3httXe5eAFYwsYPBkj) | 2:48 | 2025-06-26 | 2025-07-04 |
 | [Little Brother](https://open.spotify.com/track/50txkiS3lmOYM0pQqxnNa1) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Little Brother](https://open.spotify.com/album/6IMtHh5NCek4Lm3UiGJXGa) | 4:56 | 2025-02-27 | 2025-04-06 |
@@ -506,7 +508,7 @@
 | [Wedding Present](https://open.spotify.com/track/0QhJXZjQpVfiApkmvjNlGi) | [OLSSON](https://open.spotify.com/artist/6InjDqElJC0wOI2rEy9ldH) | [Wedding Present](https://open.spotify.com/album/1LhDdfNuVURcfynS096kQs) | 4:05 | 2025-03-27 | 2025-04-22 |
 | [Weightless](https://open.spotify.com/track/5sLgL3nHvgZUbtYVAt5FxN) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [LOVEGRUNGE](https://open.spotify.com/album/6GgcxPxxsyPqAlIWkAGyjR) | 3:01 | 2025-04-03 | 2025-04-11 |
 | [When she holds me](https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [When she holds me](https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt) | 4:03 | 2024-06-28 | 2025-04-11 |
-| [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 | 2025-10-02 |  |
+| [Where It Hurts](https://open.spotify.com/track/2XZ3zUmLgyfpPJe4MvXIYr) | [Dandelion](https://open.spotify.com/artist/4q4PCOVbaLoCD4C3iBLs3c) | [Where It Hurts](https://open.spotify.com/album/5QJSQrvskRWa02N7XwpTRm) | 3:00 | 2025-10-02 | 2026-03-06 |
 | [Where's My Mind](https://open.spotify.com/track/0XUwVJci3g0hiU031KD6Hu) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Where's My Mind](https://open.spotify.com/album/13RSenTt0kuRapPWMMJO0h) | 3:56 | 2025-10-30 |  |
 | [Who's That Calling?](https://open.spotify.com/track/0w2PrfuXeEqjEbqH8FCCAk) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [Who's That Calling?](https://open.spotify.com/album/2aoQYhWbZEqCHuMXbf5CrJ) | 3:16 | 2026-02-12 |  |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-04-18 |

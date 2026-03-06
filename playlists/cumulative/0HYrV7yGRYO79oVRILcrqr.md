@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-343 songs - 21 hr 19 min
+346 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 |  |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
+| [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2026-03-05 |  |
 | [If Just Dreaming Isn’t Enought, Sorry! \(Version 2026\)](https://open.spotify.com/track/60UE0B8OoZy3b468b038iM) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Rock Worlds Collision](https://open.spotify.com/album/3texjmqZN34PmF4sQcYQ4l) | 5:43 | 2026-01-11 |  |
 | [Il Collezionista](https://open.spotify.com/track/0iwgPOvuMNhgVKAwymVymg) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp), [Walter](https://open.spotify.com/artist/2dopOJYUmdcTqBAIf6JNfR) | [Il Collezionista & Su Di Dosso](https://open.spotify.com/album/6LCSfJ0p09qp1LvxDOYPcY) | 4:12 | 2025-09-21 |  |
 | [In a Way Anyway](https://open.spotify.com/track/5VSywl4e3DG6JPpnpjTlji) | [Blews](https://open.spotify.com/artist/18HYO86jbN3uqsjDja6Cgx) | [In a Way Anyway](https://open.spotify.com/album/7jiJQXgJCBJSmuo4CEcEOu) | 3:11 | 2025-10-08 | 2025-11-28 |
@@ -209,6 +210,7 @@
 | [Nerves of Steel](https://open.spotify.com/track/21heBobd16ggH4cfDKll9A) | [StainTown](https://open.spotify.com/artist/3F32cBk6qpCF5882GQck5o) | [Nerves of Steel](https://open.spotify.com/album/7BoC4jIW6k1Dfjku8Lm17j) | 3:16 | 2026-02-24 |  |
 | [Ninja Rabbit Ate My Weed](https://open.spotify.com/track/54lJlTm5aYdnVY2vASLXEG) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 3:31 | 2025-11-30 | 2025-12-17 |
 | [NO](https://open.spotify.com/track/0EVKsHWoodqSaburPbBUzJ) | [MONOBERMUDO](https://open.spotify.com/artist/3LMo7RbDhqPnuLwtfGQihv) | [NO](https://open.spotify.com/album/19v34ghKtt5qmrLZySuq4K) | 1:59 | 2026-01-13 |  |
+| [No Durará Mañana](https://open.spotify.com/track/7hgsM0WZJD0Isjx6dNSVRE) | [Almur](https://open.spotify.com/artist/74i8Ww4vUGlxxRlaMzkqQV) | [No Durará Mañana](https://open.spotify.com/album/0wr5e08FOEp85lFyIRBW0B) | 3:44 | 2026-03-05 |  |
 | [No Fear](https://open.spotify.com/track/7caKs4RqUustcwHjWi3Gtp) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [No Fear](https://open.spotify.com/album/1Pz6qTKDsxqXsLRV4mfqcr) | 3:23 | 2026-02-16 |  |
 | [No me lo pidas esta noche](https://open.spotify.com/track/2otKc97JmHG7035LH4smqd) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 5:09 | 2025-11-11 | 2025-12-17 |
 | [No More](https://open.spotify.com/track/3cZiSpCRzIxnA8OT3fobl0) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [No More](https://open.spotify.com/album/4QLG7zjn0zEGbONemBieLw) | 4:23 | 2025-09-21 |  |
@@ -258,6 +260,7 @@
 | [Road home](https://open.spotify.com/track/3vWWVcx1tuc841jkIC7WHb) | [JJ Llombart](https://open.spotify.com/artist/3nUhOA1UIN29SP7hggslu9) | [Road home](https://open.spotify.com/album/0UMHEvnwS5ybVhdTXu4444) | 4:48 | 2026-01-27 |  |
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 |  |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
+| [Route 66 Storm](https://open.spotify.com/track/0SnrPl7CYenERPqiU2QXXp) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Route 66 Storm](https://open.spotify.com/album/2nIrZBoaiNbRvY4lI2WmIJ) | 3:34 | 2026-03-05 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |
 | [Runnin' Down A Dream](https://open.spotify.com/track/4cygbs2nGxNUW83x7Gceip) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 4:06 | 2026-02-05 |  |

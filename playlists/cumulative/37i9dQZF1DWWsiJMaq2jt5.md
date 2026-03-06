@@ -4,7 +4,7 @@
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7FPvltQvvREl3A8RnZ6Fyo">INA WEST</a>
 
-2,722 songs - 5 day 23 hr 42 min
+2,723 songs - 5 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1226,6 +1226,7 @@
 | [Miasto](https://open.spotify.com/track/41yoryTVfbvh49lXKqKCc7) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV) | [Miasto](https://open.spotify.com/album/0N332tMHOmZS04Gpwb4hqv) | 2:25 | 2023-02-28 | 2023-03-08 |
 | [Miasto tętni](https://open.spotify.com/track/1Z1sQqU0FQ1ZZAESeRxlhO) | [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Miasto tętni](https://open.spotify.com/album/0EtJlxmS8iAqAUQbVoATOa) | 2:24 | 2023-09-05 | 2023-10-04 |
 | [Miał 1,9m](https://open.spotify.com/track/72RF4zcYFwqI39CvEEUZqF) | [Uku.stycznie](https://open.spotify.com/artist/48VnaUqWYBYehjA2Hbzbae), [Miko Blascello](https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU) | [Miał 1,9m](https://open.spotify.com/album/56W9qSCH8NiKDw6bBii66p) | 3:52 | 2025-06-03 | 2025-07-02 |
+| [Miała Tosia Duży Brzuch](https://open.spotify.com/track/0INUk3c4yesv1gxCqKmEru) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo) | [Raj](https://open.spotify.com/album/1FZ1OCXKmVz0Gh181um9Ue) | 2:53 | 2026-03-05 |  |
 | [Miało być tak romantycznie](https://open.spotify.com/track/1muOPUokULuAUKdpdFh0YY) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Miało być tak romantycznie](https://open.spotify.com/album/2zUCVfX34wMHECtoXLEasu) | 3:11 | 2025-01-07 | 2025-02-05 |
 | [MIEJSCA](https://open.spotify.com/track/5h90iokIq0iTutieNrW9u0) | [Suzia](https://open.spotify.com/artist/5nNtMnFVruYrc8I0TMozNi) | [MIEJSCA](https://open.spotify.com/album/1H3EJbA1rGWpevebFi8Q4w) | 4:14 | 2022-10-04 | 2022-11-09 |
 | [Mieszany Mieszany](https://open.spotify.com/track/1pcQvECPomjRFKe2dzqRSa) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj), [Domin](https://open.spotify.com/artist/5BrYU5AWfh1TfOPGOEVQkn) | [Mieszany Mieszany](https://open.spotify.com/album/6Cic49CJali2zQeye8L3Lp) | 2:09 | 2026-01-06 | 2026-02-04 |
@@ -2165,7 +2166,7 @@
 | [Słowa](https://open.spotify.com/track/5GTxFQ31Nur8NswptgRFuq) | [Runo](https://open.spotify.com/artist/6QUfTc4WdzFhnJSYFGcTtk) | [Słowa](https://open.spotify.com/album/2rG5s4UplLlY8TfIYxYXlb) | 3:10 | 2026-02-03 | 2026-03-04 |
 | [słowa na K](https://open.spotify.com/track/62gdD6TgAKbZI2ARFrZf0K) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [słowa na K](https://open.spotify.com/album/4OpCie3wmUKVD0zL5ScA9D) | 2:37 | 2025-07-01 | 2026-01-15 |
 | [Słowotok](https://open.spotify.com/track/5acu3Tow2yUGr6h3mXr4p1) | [INA](https://open.spotify.com/artist/5uUDGqnu5Z8YDY3ThOEsKV) | [Słowotok](https://open.spotify.com/album/1f6Tg77RUPLx9vhMl26SBL) | 3:16 | 2022-04-05 | 2022-05-04 |
-| [Słońce](https://open.spotify.com/track/2IbYU0sLILtV66KHFQC9Ya) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Słońce](https://open.spotify.com/album/6yjBoCMfGY6jkSM3I1dmJ3) | 4:40 | 2026-03-04 |  |
+| [Słońce](https://open.spotify.com/track/2IbYU0sLILtV66KHFQC9Ya) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Słońce](https://open.spotify.com/album/6yjBoCMfGY6jkSM3I1dmJ3) | 4:40 | 2026-03-04 | 2026-03-06 |
 | [Słońce](https://open.spotify.com/track/2fxjOp42W4IL2EdHLa6QOb) | [Udoo](https://open.spotify.com/artist/4MCes2wLaA4tjXUpIdw2PE), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Słońce](https://open.spotify.com/album/5i6q7sPlEGqvzP3IOtWYTb) | 4:13 | 2022-08-02 | 2022-09-07 |
 | [tacy sami](https://open.spotify.com/track/0vtx0aJBuH2JCdDYpRvvVB) | [Sylvia Novak](https://open.spotify.com/artist/14obnajHVbTi4l9bafAfYA) | [tacy sami](https://open.spotify.com/album/6DeYUXUem8SzKPuVgqG40o) | 3:18 | 2021-12-07 | 2022-01-05 |
 | [Tadam](https://open.spotify.com/track/6hIaVqg7iwVKsffCtvcyXA) | [Iga Jaworska](https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv) | [Tadam](https://open.spotify.com/album/1K7pEZRi4a8bHgxTOkx4fl) | 2:19 | 2025-05-06 | 2025-06-04 |

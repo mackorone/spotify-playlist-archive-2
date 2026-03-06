@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter
 
-686 songs - 1 day 18 hr 8 min
+688 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -524,10 +524,12 @@
 | [Stand](https://open.spotify.com/track/3tDo6YZzIZlc5gRy31lvJD) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Life Is A Highway: Refueled Duets](https://open.spotify.com/album/7w0pDDXQFZSULKDhzuH46M) | 3:30 | 2025-06-07 | 2025-11-22 |
 | [Stand In Faith](https://open.spotify.com/track/4QKm2QRHU66cfhyuINkaa0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Stand In Faith](https://open.spotify.com/album/1UsdGQkoh2wjtHwCCgqCAd) | 3:20 | 2022-02-25 | 2022-04-29 |
 | [Stand In Your Love](https://open.spotify.com/track/7kNzdlOYkZo3qqs53eUoin) | [7eventh Time Down](https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca) | [Stand In Your Love](https://open.spotify.com/album/0hKhv4kTw4CHqcQsxGTCBn) | 3:42 | 2025-04-11 | 2025-07-12 |
+| [Stand My Ground](https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Stand My Ground](https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA) | 2:55 | 2026-02-27 |  |
 | [Started With You](https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Started With You](https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw) | 2:52 | 2025-01-17 | 2025-11-08 |
 | [Stay \(Gonna Be Okay\)](https://open.spotify.com/track/3jAlLFdrqwuiyzmKuNm5GQ) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Stay \(Gonna Be Okay\)](https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd) | 3:25 | 2024-12-11 |  |
 | [Still](https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Still](https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl) | 3:30 | 2022-05-28 | 2022-07-09 |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-07-25 |  |
+| [Still Do \(with Cole Swindell\)](https://open.spotify.com/track/4EJFSgGTN73ExICMomPHZq) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Still Do \(with Cole Swindell\)](https://open.spotify.com/album/5I1UfKeHML9TuLlq84KYrc) | 3:03 | 2026-02-27 |  |
 | [Still Pretty Good](https://open.spotify.com/track/1kW3QRFTnynPSNDdAv9DxJ) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Still Pretty Good](https://open.spotify.com/album/3S9oxeOacDh2vxRdNlR4rK) | 3:32 | 2025-09-14 | 2025-10-25 |
 | [Still Standing](https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD) | [Josh Wright](https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2) | [Still Standing](https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn) | 3:24 | 2023-10-06 | 2024-06-08 |
 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 | 2025-09-26 | 2026-02-15 |

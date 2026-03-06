@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 123020,
+  "num_followers": 123032,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "BRAT",
-        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 151125,
-      "name": "Sympathy is a knife",
-      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "She\u2019s Gone, Dance On",
         "url": "https://open.spotify.com/album/4klc9KJJVpA7fwJJT1duGq"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 226773,
       "name": "She\u2019s Gone, Dance On",
       "url": "https://open.spotify.com/track/29I9dv9Nq704w0Oc5yFGsR"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "BRAT",
+        "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 151125,
+      "name": "Sympathy is a knife",
+      "url": "https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -501,22 +501,6 @@
       "url": "https://open.spotify.com/track/1PEjhR1CCdINF8TyM5s8LX"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Beloved! Paradise! Jazz!?",
-        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
-      },
-      "artists": [
-        {
-          "name": "McKinley Dixon",
-          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Run, Run, Run",
-      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
-    },
-    {
       "added_at": "2024-10-09 21:20:16",
       "album": {
         "name": "Moon Music",
@@ -531,6 +515,22 @@
       "duration_ms": 183371,
       "name": "iAAM",
       "url": "https://open.spotify.com/track/1uwmf1x4LQLGv1P1xjJFYk"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Beloved! Paradise! Jazz!?",
+        "url": "https://open.spotify.com/album/3RDAqHBWBHXRwVSJF9T8VW"
+      },
+      "artists": [
+        {
+          "name": "McKinley Dixon",
+          "url": "https://open.spotify.com/artist/5trjmXbxVZ8E68aVhj8Nko"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Run, Run, Run",
+      "url": "https://open.spotify.com/track/7gwO0ePo0xG2qjvQTgJvRJ"
     },
     {
       "added_at": "2024-10-09 21:20:16",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Ultra 85",
-        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
-        }
-      ],
-      "duration_ms": 314826,
-      "name": "Gardens III",
-      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/0O1cJ0KJdj78G0FKTG7bkG"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 136875,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0y2dLd7mtSzqUVn13B1sa9"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Ultra 85",
+        "url": "https://open.spotify.com/album/6vVOpqIXPbM9vZWzesdTax"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "duration_ms": 314826,
+      "name": "Gardens III",
+      "url": "https://open.spotify.com/track/52Howm9AUZTymhgCKoF4O5"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "The Flower That Knew",
-        "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
-      },
-      "artists": [
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        },
-        {
-          "name": "Oh Hi Ali",
-          "url": "https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ"
-        }
-      ],
-      "duration_ms": 157424,
-      "name": "On Sight",
-      "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "SUN NO KUNI",
         "url": "https://open.spotify.com/album/36kBvq8ThgFCCIHuJfoPfu"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 238346,
       "name": "MIKOTO ~SUN NO KUNI~ (feat. Tsubaki & Awich)",
       "url": "https://open.spotify.com/track/7iykur6YUL7GvccjTt4g3e"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "The Flower That Knew",
+        "url": "https://open.spotify.com/album/6uxo9ZMU9iqsFAJ84ldEbC"
+      },
+      "artists": [
+        {
+          "name": "DijahSB",
+          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
+        },
+        {
+          "name": "Oh Hi Ali",
+          "url": "https://open.spotify.com/artist/6RaQB0xEzhoYx6mk0ADvwZ"
+        }
+      ],
+      "duration_ms": 157424,
+      "name": "On Sight",
+      "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Exactly As It Seems",
+        "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
+      },
+      "artists": [
+        {
+          "name": "Home Counties",
+          "url": "https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n"
+        }
+      ],
+      "duration_ms": 279053,
+      "name": "Uptight",
+      "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "U Want More",
         "url": "https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 213578,
       "name": "U Want More",
       "url": "https://open.spotify.com/track/7EKbzeNC4G9cKt6rjpwd5F"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Exactly As It Seems",
-        "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
-      },
-      "artists": [
-        {
-          "name": "Home Counties",
-          "url": "https://open.spotify.com/artist/7L0uKOuMgMCLXHW9RnyB8n"
-        }
-      ],
-      "duration_ms": 279053,
-      "name": "Uptight",
-      "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "c u l8r",
+        "url": "https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB"
+      },
+      "artists": [
+        {
+          "name": "Bklava",
+          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "makes me (wanna move)",
+      "url": "https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Gangsta",
         "url": "https://open.spotify.com/album/0200qF0LcG1Sr2f9aVfdsG"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 194520,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/6KuAG2WahfdjpUm6ZU1y4v"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "c u l8r",
-        "url": "https://open.spotify.com/album/1S1hN5OQuFQ5jQjlqhPkDB"
-      },
-      "artists": [
-        {
-          "name": "Bklava",
-          "url": "https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd"
-        },
-        {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "makes me (wanna move)",
-      "url": "https://open.spotify.com/track/0Ma2y8tgYCUWDGxnA9Gw3i"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
     },
     {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "samba de rua",
-        "url": "https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 154846,
-      "name": "samba de rua",
-      "url": "https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr"
-    },
-    {
       "added_at": "2024-10-18 20:43:05",
       "album": {
         "name": "Decimal",
@@ -1691,6 +1675,22 @@
       "duration_ms": 152000,
       "name": "Decimal",
       "url": "https://open.spotify.com/track/058hRZgfqpvT2YB2yfGAVr"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "samba de rua",
+        "url": "https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 154846,
+      "name": "samba de rua",
+      "url": "https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "Today",
+        "url": "https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN"
+      },
+      "artists": [
+        {
+          "name": "Freq Motif",
+          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
+        },
+        {
+          "name": "Kaleta",
+          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
+        }
+      ],
+      "duration_ms": 184615,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "Don't Forget To Breathe",
         "url": "https://open.spotify.com/album/5MBfkQZYnJJgeSHeEOGHL4"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 183920,
       "name": "Should've Known (feat. Smino & Cedxric)",
       "url": "https://open.spotify.com/track/4V8iRao70OTxshu74BMEBE"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Today",
-        "url": "https://open.spotify.com/album/7ipTPuIfLGHeL1Nmu0LiYN"
-      },
-      "artists": [
-        {
-          "name": "Freq Motif",
-          "url": "https://open.spotify.com/artist/3ZHj8c2bBRsMrD1CSKk1FK"
-        },
-        {
-          "name": "Kaleta",
-          "url": "https://open.spotify.com/artist/1nvtmWdce9bvVkKAZ5g46m"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/1iOTdh9qWWdA238ZIBuh5T"
     },
     {
       "added_at": "2024-09-16 11:00:00",

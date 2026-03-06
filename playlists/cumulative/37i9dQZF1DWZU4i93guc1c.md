@@ -4,7 +4,7 @@
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Скажи щось погане
 
-595 songs - 1 day 7 hr 15 min
+596 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Молодший син](https://open.spotify.com/track/131EoouMDRTtLLZWJrPBHV) | [sweettanok](https://open.spotify.com/artist/4LRfFXdtGaKDH1r8BtEOzn) | [Молодший син](https://open.spotify.com/album/3p3uzhP0uPNsSu0258VF6v) | 2:31 | 2025-04-24 | 2025-05-17 |
 | [Молодість](https://open.spotify.com/track/7GWTHnTSMhideso0NzMwAX) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Нормальне Літо 25](https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc) | 3:48 | 2025-10-23 |  |
 | [Момент згорання](https://open.spotify.com/track/64rIfwxUCq1w5AFrJz6OT6) | [Марія Ткачук](https://open.spotify.com/artist/76uEuRv3y0M5HUTcSpNidW) | [Момент згорання](https://open.spotify.com/album/7BFmuGNrsoT4W62eMNPnxO) | 2:57 | 2025-04-24 | 2025-05-17 |
-| [Мости](https://open.spotify.com/track/7fZ4qpHmrGv6uIIh0a8iTh) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Мости](https://open.spotify.com/album/3BOmC61PJLUOz8tuNCoYV3) | 2:47 | 2025-12-09 |  |
+| [Мости](https://open.spotify.com/track/7fZ4qpHmrGv6uIIh0a8iTh) | [Anna Petrash](https://open.spotify.com/artist/2GNNAtmPFeCU9ZF2p4exR2) | [Мости](https://open.spotify.com/album/3BOmC61PJLUOz8tuNCoYV3) | 2:47 | 2025-12-09 | 2026-03-06 |
 | [Мости](https://open.spotify.com/track/3HYcLucBMngcJxCAMiSJzn) | [Electrobirds](https://open.spotify.com/artist/6ghVa94kvVtSsFOeYX9PP9) | [Мости](https://open.spotify.com/album/5eH7zgYWs7dNPApIHpgn16) | 5:43 | 2026-01-16 |  |
 | [Мотив](https://open.spotify.com/track/4dTOJd4nnDb8mlt2Agxk0U) | [LOVERA BREAUX](https://open.spotify.com/artist/71iXh9KV482p6lhyCZnaSa) | [Мотив](https://open.spotify.com/album/23BaAeOC4TNZk3Aa8wtugk) | 3:27 | 2025-09-16 | 2025-11-21 |
 | [Моя утома](https://open.spotify.com/track/1SIkdGNpPPBwNtZqVAq4RO) | [Околиця](https://open.spotify.com/artist/5aT55rNZ3OB3zuQ8i2XKX0) | [Моя утома](https://open.spotify.com/album/4sP1lkLKPxozycub24LV3V) | 3:02 | 2024-06-27 | 2025-06-07 |
@@ -580,6 +580,7 @@
 | [Щось не так](https://open.spotify.com/track/7vhiemo74wwfrAYT4qUueG) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL), [Sasha Chemerov](https://open.spotify.com/artist/6EkxNdVClS3VI3zVWbDch9) | [Готель "Надія"](https://open.spotify.com/album/3saNINSjTgsba68yKa8aKQ) | 3:35 | 2025-12-09 |  |
 | [Я був](https://open.spotify.com/track/42nLkYXq8sJ5REilcjsive) | [Мій конфлікт](https://open.spotify.com/artist/18A2MbWAjVr4JNsBLdB21H) | [Я був](https://open.spotify.com/album/63LVPnilWuzqAhiwrEnrFs) | 2:33 | 2025-12-09 | 2026-03-03 |
 | [Я вдома](https://open.spotify.com/track/7fcIobA5JUkd90ad8y0cjO) | [Tember Blanche](https://open.spotify.com/artist/4IGHF22vbC33ColRBUHIXd) | [Я вдома](https://open.spotify.com/album/2LFrNxIvNZS3oURodrzDV0) | 2:58 | 2024-06-27 | 2024-10-19 |
+| [Я втрачаю час](https://open.spotify.com/track/0zeRnIjIsdH3YfyY1uxRO5) | [Anton Kramar](https://open.spotify.com/artist/64gEF9PqdwiBnxdqNv8fTP) | [Я втрачаю час](https://open.spotify.com/album/1S0Hrq3UHZX2210bDUz1Bb) | 2:24 | 2026-02-27 |  |
 | [Я загорну тобі на пам'ять](https://open.spotify.com/track/5g1o5GWyxzCmA4HWUFMQT8) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Я загорну тобі на пам'ять](https://open.spotify.com/album/6bQXnJc5s4w260ugdoVsI7) | 2:43 | 2025-06-30 | 2026-01-17 |
 | [Я залишусь молодим](https://open.spotify.com/track/7rFixQ34ztEYGKlG4P3JoH) | [Volodymyr Dantes](https://open.spotify.com/artist/0eFAXtLIVxGHPJgUS8gI2E) | [Я залишусь молодим](https://open.spotify.com/album/6RpPwRSbdZOGjDcQekrFcY) | 1:58 | 2024-06-27 | 2025-04-12 |
 | [Я кохатимусь під джаз](https://open.spotify.com/track/3BKV1opKoOurjeUF0Q5tTv) | [Скажи щось погане](https://open.spotify.com/artist/4j6ZTpxuwyGi9ZBa6Ckxuy) | [Я кохатимусь під джаз](https://open.spotify.com/album/3vhO51ZD7CeAfl3FscDmM6) | 3:48 | 2024-06-27 | 2025-03-04 |

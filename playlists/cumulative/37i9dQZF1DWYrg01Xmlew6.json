@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "6 AM",
+        "url": "https://open.spotify.com/album/4kj7lDisE2lqbHBVcgRbXL"
+      },
+      "artists": [
+        {
+          "name": "Navarra",
+          "url": "https://open.spotify.com/artist/5dLyEQ8oBvYid1RbqotOiw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161379,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/63Kcg6tQ7GqsAN5uOtVpir"
+    },
+    {
+      "album": {
         "name": "64 Bare",
         "url": "https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj"
       },
@@ -1296,6 +1314,24 @@
       "duration_ms": 149010,
       "name": "BESTIE",
       "url": "https://open.spotify.com/track/5w7CRd0cMtqL8XbEmafl4c"
+    },
+    {
+      "album": {
+        "name": "BIRKIN",
+        "url": "https://open.spotify.com/album/0tpd9Qp42LKZ5r2gV2K3pU"
+      },
+      "artists": [
+        {
+          "name": "Erness",
+          "url": "https://open.spotify.com/artist/0ai9hSxhZEP5cTjreUnR58"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131076,
+      "name": "BIRKIN",
+      "url": "https://open.spotify.com/track/3ClK1WV7hlIzDy82jpmsRX"
     },
     {
       "album": {
@@ -2772,6 +2808,24 @@
       "duration_ms": 166725,
       "name": "Cuore Rotto",
       "url": "https://open.spotify.com/track/5qAMsFqClevxs2nuZbReDW"
+    },
+    {
+      "album": {
+        "name": "Da Piccoli",
+        "url": "https://open.spotify.com/album/4NpL4dS34ZBx9KS55IyeWB"
+      },
+      "artists": [
+        {
+          "name": "Lina Simons",
+          "url": "https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Da Piccoli",
+      "url": "https://open.spotify.com/track/7vfpKoT4M0LBn2fIwLTYax"
     },
     {
       "album": {
@@ -9673,6 +9727,24 @@
     },
     {
       "album": {
+        "name": "ROLEX",
+        "url": "https://open.spotify.com/album/25NDj20IXZEtA9TOHWcJfG"
+      },
+      "artists": [
+        {
+          "name": "LM219",
+          "url": "https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "ROLEX",
+      "url": "https://open.spotify.com/track/7Dv22B9cWZ4BZA9FFriZzs"
+    },
+    {
+      "album": {
         "name": "Lamborghini a Via Marina",
         "url": "https://open.spotify.com/album/2Q3U7ILYYVYLfvWrOLQJXp"
       },
@@ -10090,6 +10162,24 @@
       "duration_ms": 108000,
       "name": "SCUGNIZZI X SEMPRE",
       "url": "https://open.spotify.com/track/2pakBQInXYUYEw0p1PKF7w"
+    },
+    {
+      "album": {
+        "name": "SCUSA SE TI CHIAMO",
+        "url": "https://open.spotify.com/album/7IcI9NDy5OvsOgdOkthNM5"
+      },
+      "artists": [
+        {
+          "name": "VMonster",
+          "url": "https://open.spotify.com/artist/07c4RH1uGAtmQbhhbprM7a"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107654,
+      "name": "SCUSA SE TI CHIAMO",
+      "url": "https://open.spotify.com/track/4IOC6XeklkvM83IQ1uWrQj"
     },
     {
       "album": {
@@ -11380,6 +11470,28 @@
       "duration_ms": 143611,
       "name": "Trafficant",
       "url": "https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp"
+    },
+    {
+      "album": {
+        "name": "TRANQUILLA MA",
+        "url": "https://open.spotify.com/album/0mDmjFLfGXWNNUxEXpfpaj"
+      },
+      "artists": [
+        {
+          "name": "MOWGLI",
+          "url": "https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa"
+        },
+        {
+          "name": "musa",
+          "url": "https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "TRANQUILLA MA",
+      "url": "https://open.spotify.com/track/1XXzZhwXv8NAjTVetw69Yp"
     },
     {
       "album": {

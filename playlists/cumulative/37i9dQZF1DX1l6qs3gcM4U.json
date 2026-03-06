@@ -1825,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/3N5otHQA5GL3sX9y56xOwt"
+      },
+      "artists": [
+        {
+          "name": "Avanah",
+          "url": "https://open.spotify.com/artist/4kS6NC6K4IAwuwuaAazVFY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186727,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3zHqzrkiGN7RR1OFjcS8JZ"
+    },
+    {
+      "album": {
         "name": "Bypass",
         "url": "https://open.spotify.com/album/56AgOmRUllPIKtXR56YeLv"
       },
@@ -1952,6 +1970,24 @@
       "duration_ms": 101978,
       "name": "Carta Secreta (Mano Chaba)",
       "url": "https://open.spotify.com/track/7yhvlUGCXEms4yEy5FJuDP"
+    },
+    {
+      "album": {
+        "name": "Caruso",
+        "url": "https://open.spotify.com/album/21PgGEAVFwSlsPkTaoiMe8"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232280,
+      "name": "Caruso",
+      "url": "https://open.spotify.com/track/6HTaEv7DNjkdk05kDHU7Zd"
     },
     {
       "album": {
@@ -4579,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "Gestora",
+        "url": "https://open.spotify.com/album/7eVJGPWc09JB7RpqgEbbjJ"
+      },
+      "artists": [
+        {
+          "name": "Lupambo",
+          "url": "https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA"
+        },
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Gestora",
+      "url": "https://open.spotify.com/track/2N1hEIzWuX3YJoIzEn7F1g"
+    },
+    {
+      "album": {
         "name": "Gog\u00f3 G\u00fao Go",
         "url": "https://open.spotify.com/album/2eWpNaolfGSy8Zs9m9KXw7"
       },
@@ -5787,6 +5845,28 @@
     },
     {
       "album": {
+        "name": "Levei o meu sonho",
+        "url": "https://open.spotify.com/album/7Az2yIprXaXoDrsZf7ndZU"
+      },
+      "artists": [
+        {
+          "name": "Elanor De Sousa",
+          "url": "https://open.spotify.com/artist/1mi81EagzDvjFoJkV3r4j6"
+        },
+        {
+          "name": "DJ Beleza",
+          "url": "https://open.spotify.com/artist/4de2FAdwYco7r4OntcEzlY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212450,
+      "name": "Levei o meu sonho",
+      "url": "https://open.spotify.com/track/0Q05LIozhlYRKBxxdE7L4A"
+    },
+    {
+      "album": {
         "name": "Lhe Cola",
         "url": "https://open.spotify.com/album/5fUC1NeJNIFTeA6j21I4lN"
       },
@@ -6612,7 +6692,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 216957,
       "name": "MEIA NOITE",
       "url": "https://open.spotify.com/track/63MWRE7Y134ZOr2l6VhgdY"
@@ -8568,7 +8648,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 162580,
       "name": "PAM PAM PAM",
       "url": "https://open.spotify.com/track/7HV51rFNRhOsdXRNH8iAkZ"
@@ -11726,7 +11806,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 257137,
       "name": "TROMPETE",
       "url": "https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM"
@@ -12856,7 +12936,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190445,
       "name": "Viver pra Ti",
       "url": "https://open.spotify.com/track/0ngqThz7sP2YPJBVy8xDix"

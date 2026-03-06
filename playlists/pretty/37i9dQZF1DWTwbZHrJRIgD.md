@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Tu Jhoothi Main Makkaar
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,557 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,830 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwbZHrJRIgD.md) - [plain]
 | 74 | [Prem Ki Naiyya](https://open.spotify.com/track/2JDsi7S0UmtGoyVPTda0ao) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Neeraj Shridhar](https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ), [Suzanne D'Mello](https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf) | [Ajab Prem Ki Ghazab Kahani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13t8iDyl1vkhPcO3Zl29a9) | 4:11 |
 | 75 | [Ek Main Aur Ekk Tu](https://open.spotify.com/track/4UDFr3P1lRS6seQfmzCjz7) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Anushka Manchanda](https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Ek Main Aur Ekk Tu](https://open.spotify.com/album/3EAMYk4XshI4q0OMxrAXRq) | 4:21 |
 
-Snapshot ID: `AAAAAOSoC8wMKn82hAVBr0QKDa9tIW5H`
+Snapshot ID: `AAAAAGNaIF51HmIJqIVE2rtxPWq//5p1`

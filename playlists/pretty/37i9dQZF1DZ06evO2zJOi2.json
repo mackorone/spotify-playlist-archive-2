@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 747846,
+  "num_followers": 747943,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABOAVE9MXp3V6CrwfYm+L2C",
+  "snapshot_id": "aad2AAAAAACAtsygXMaQJcybp2ZdGkY+",
   "tracks": [
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 293706,
-      "name": "Cover Me Up",
-      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
+      "duration_ms": 216573,
+      "name": "More Than My Hometown",
+      "url": "https://open.spotify.com/track/0IRZwSCWFdT5D8hNCXHzZX"
     },
     {
       "added_at": null,
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 216573,
-      "name": "More Than My Hometown",
-      "url": "https://open.spotify.com/track/0IRZwSCWFdT5D8hNCXHzZX"
+      "duration_ms": 293706,
+      "name": "Cover Me Up",
+      "url": "https://open.spotify.com/track/5AQNqdpl6SEV9rAHWy7U9w"
     },
     {
       "added_at": null,

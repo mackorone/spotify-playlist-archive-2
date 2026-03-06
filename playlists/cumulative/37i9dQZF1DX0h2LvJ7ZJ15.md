@@ -4,7 +4,7 @@
 
 > slowed, reverbed, chopped and screwed.
 
-252 songs - 13 hr 59 min
+253 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 | 2021-10-01 | 2023-12-09 |
 | [bad habits \- slowed + reverb](https://open.spotify.com/track/3fhixDZJY3oAlO5ByIyoeM) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Sarvanss](https://open.spotify.com/artist/4Egfyrp2hMmpjgUbABbyof), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [bad habits \(slowed + reverb\)](https://open.spotify.com/album/1E84p5XusaeDnAK0RGzLXl) | 3:07 | 2023-09-21 | 2023-10-11 |
 | [Bad Habits \- slowed + reverb](https://open.spotify.com/track/3XMA9wnsUcfHw0cPUye5Rm) | [No2Pencil](https://open.spotify.com/artist/20DC1aiFjxdo2DtT5x8DCV) | [Bad Habits](https://open.spotify.com/album/4RRWSD4q8OKju452y80gGv) | 3:11 | 2022-05-06 | 2022-05-18 |
-| [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 |  |
+| [BAIXO \- slowed](https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [NO GOING BACK](https://open.spotify.com/album/7pv0piZjVlLEIYUXEQKX6x) | 2:18 | 2023-12-08 | 2026-03-06 |
 | [Bananza \(Belly Dancer\) \- Slowed](https://open.spotify.com/track/5lEx9Oo3tMyP85ppH43Uar) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Slowed Radio](https://open.spotify.com/artist/7zmcKgBZSbMxqzqFe6Ac5k) | [Bananza \(Belly Dancer\) \[Remixes\]](https://open.spotify.com/album/4oMLAtWY28kQydDGxnrZxj) | 2:33 | 2022-01-28 | 2023-12-09 |
 | [BASSLINE \- SLOWED](https://open.spotify.com/track/3KpuvLHfzkUl2T7ARb5SUP) | [PXRKX](https://open.spotify.com/artist/5sj3P8OH8O5aVmey1C2mf4), [Shadow \- Plus](https://open.spotify.com/artist/6LYUNVm4A6yGEYYxmaOSsc) | [BASSLINE](https://open.spotify.com/album/7AmJYPuvIFdqLKcnhtIfNK) | 2:10 | 2024-05-24 | 2024-08-15 |
 | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/track/53NzMfJ0LsqG4myQp28ETk) | [blyden](https://open.spotify.com/artist/12WLoG3DW0U7FXw62FZeZ9) | [beauty bomb \(slowed + reverbed\)](https://open.spotify.com/album/2x3qHX6OXT0HC7WFX6MjpA) | 1:00 | 2022-01-05 | 2022-02-22 |
@@ -173,6 +173,7 @@
 | [Movin' On \(Slowed\)](https://open.spotify.com/track/0U5HAwRy23gERW9zlYtgYi) | [Zuludog](https://open.spotify.com/artist/0fhjdHktd9HuwSeyPCdT35) | [Movin' On \(Slowed\)](https://open.spotify.com/album/104FNQrLIijcGdC5suuFJ0) | 4:06 | 2021-11-12 | 2023-12-09 |
 | [Mystery Lady \- ChopNotSlop Remix](https://open.spotify.com/track/4E3KOqQvFCq8j0d8XeaNq6) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Mystery Lady \(ChopNotSlop Remix\)](https://open.spotify.com/album/240eFEHl03EpsKxbMatAXl) | 5:12 | 2021-10-02 | 2023-12-09 |
 | [Naturally \- SLOWED + REVERB](https://open.spotify.com/track/2bYke7qBGuXWr4bM2K1TFj) | [AFTXRPXRTY](https://open.spotify.com/artist/0cJwjqtnGGaFT9cIAa01Rc) | [Naturally \(SLOWED + REVERB\)](https://open.spotify.com/album/0nLlaA68Q0uvlW4Ve5ATOl) | 3:35 | 2021-10-01 | 2023-09-26 |
+| [Nevada \- Slowed + Reverb](https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik) | 4:31 | 2026-03-04 |  |
 | [Never Let Go \(Of Me\) \- Slowed](https://open.spotify.com/track/1c6d99yhgZmHyJOLF9E2oK) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:34 | 2023-12-08 |  |
 | [Never Let Go \(Of Me\) \- Slowed Extended Version](https://open.spotify.com/track/4lHOVmWsKUBwfRoikWtunT) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 7:14 | 2023-09-21 | 2023-12-09 |
 | [NEVER MET! \(feat\. Glitch Gum\) \- Slowed](https://open.spotify.com/track/2a68c5nfBcRAGDAyMOVGuX) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [NEVER MET! \(feat\. Glitch Gum\) \[Slowed\]](https://open.spotify.com/album/2q39vwyCoD2GJkY59i307W) | 2:48 | 2021-10-01 | 2023-09-26 |

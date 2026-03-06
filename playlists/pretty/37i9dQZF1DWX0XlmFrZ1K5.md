@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 
 > Enjoy songs from artists appearing on THE GLOW 2026! \(THE GLOW 2026의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 548 likes - 76 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 562 likes - 76 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0XlmFrZ1K5.md) - [plain]
 | 68 | [COMPLEX](https://open.spotify.com/track/3r4rUQn5I8v0jEiwCs2umI) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [VOL.05](https://open.spotify.com/album/3MKL72Imp4w8UuTasKigl9) | 5:11 |
 | 69 | [fireworks](https://open.spotify.com/track/7Fo28nzhklLaZSEYOE6cSh) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [01](https://open.spotify.com/album/4jBzeNHtfSEDUfFOH9yOsE) | 3:21 |
 | 70 | [echo](https://open.spotify.com/track/6znYZ3QSDGuVde8I0LV5kR) | [gongwon](https://open.spotify.com/artist/7kX37KAwZZxvbsXSF1rtpJ) | [echo](https://open.spotify.com/album/4RTph9mwBNSXPw583WX5OE) | 3:32 |
-| 71 | [MIA](https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [MIA](https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V) | 3:15 |
-| 72 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
+| 71 | [MIA](https://open.spotify.com/track/5IzjE4F631lSstz8Co5U4O) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [MIA](https://open.spotify.com/album/02mckV0mIpWEvOwYduaG4V) | 3:15 |
+| 72 | [Know me](https://open.spotify.com/track/5bvVA6idKl1R38C5G4tuxC) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Know me](https://open.spotify.com/album/4iV5wZtnTcuKrdhxb8wLVN) | 3:34 |
 | 73 | [Tomato Homicide](https://open.spotify.com/track/2ipR6ATYJhfQTpMgPj9jFn) | [DECADENT](https://open.spotify.com/artist/67yQwOzJ6h601YA5yOJA9b) | [Decadent](https://open.spotify.com/album/78SSYFTisTVQo1M3g6VS7a) | 4:29 |
 | 74 | [1 = 100](https://open.spotify.com/track/7E9mjmjvM819EK2ialT4qo) | [DECADENT](https://open.spotify.com/artist/67yQwOzJ6h601YA5yOJA9b) | [1 = 100](https://open.spotify.com/album/41HRNYTWmsvLiaJp9cJ9RC) | 3:47 |
 | 75 | [The Weakest](https://open.spotify.com/track/36cMs0d2TC5Hs7keii0hp4) | [24th](https://open.spotify.com/artist/4akrpG8RfXOP6F6DjLe4nV) | [The Weakest](https://open.spotify.com/album/3ZNY6p2IhQagEPlbWudkVt) | 3:40 |

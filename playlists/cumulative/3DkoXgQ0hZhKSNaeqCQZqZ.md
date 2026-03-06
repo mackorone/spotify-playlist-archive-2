@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-498 songs - 1 day 2 hr 19 min
+499 songs - 1 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [bunnies](https://open.spotify.com/track/20bGC5TBR7zz3bZQH7QxlI) | [polyana](https://open.spotify.com/artist/79jK2cwnyhEvk0PBwqzrbH), [Pastor's Child](https://open.spotify.com/artist/0c17IXceiF19D9zfy0PCag) | [Pollyanna](https://open.spotify.com/album/2LXR2618aXK3sfnx200Blv) | 3:14 | 2026-01-29 |  |
 | [Burn](https://open.spotify.com/track/3M9zCSQGRBgvLAdmyrkznh) | [Everender](https://open.spotify.com/artist/3YTAFkZ1pX1wi9L9ppSLh6), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Burn](https://open.spotify.com/album/40dj6oGJyFyeeYiklY4dgK) | 3:31 | 2024-07-22 | 2025-10-05 |
 | [But Here I Am](https://open.spotify.com/track/368hTXXzUrlW3uqxBrSbjA) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [Forgive Me Please](https://open.spotify.com/album/1XH0VUiya3bbunW4KiLpo7) | 2:37 | 2026-01-19 |  |
+| [Butterflies!](https://open.spotify.com/track/0SCJdGWXXSfLTi5eYACXhb) | [JerichoFoxMusic](https://open.spotify.com/artist/2oWG0jJGw2mLVwIggsVM38) | [Butterflies!](https://open.spotify.com/album/4b619JWo2PlOa3k3CK6B2t) | 3:02 | 2026-03-05 |  |
 | [By The Pier](https://open.spotify.com/track/6bVFHWOAFqqOIGPrVv7c4i) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [By The Pier](https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ) | 2:05 | 2025-10-19 | 2025-10-21 |
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2024-05-28 | 2026-03-01 |
 | [can't let go](https://open.spotify.com/track/2frSr3yYR4kavDgpntENvx) | [elliestation](https://open.spotify.com/artist/5bjBGNzmL0Ro8u0xYTnWdH) | [can't let go](https://open.spotify.com/album/0awaO9su8qwaYdGmoYMZss) | 2:34 | 2026-01-02 |  |

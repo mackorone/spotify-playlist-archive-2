@@ -1,12 +1,12 @@
 {
   "description": "Pos\u0142uchaj wszystkich nominowanych utwor\u00f3w w kategorii singiel roku. ",
-  "num_followers": 10566,
+  "num_followers": 10710,
   "original_name": "Popkillery 2026: Singiel Roku",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAESNVWpDgf34d1yFA6XcNN0bqs6O",
+  "snapshot_id": "AAAAAL3OPVBH7amy7jhMAKqKJEo5Tnid",
   "tracks": [
     {
       "added_at": "2026-02-25 11:19:16",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "KTO MA STYL",
-        "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
-      },
-      "artists": [
-        {
-          "name": "MODELKI",
-          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
-        },
-        {
-          "name": "V\u0142odarski",
-          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "KTO MA STYL",
-      "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "Zwolnij?",
         "url": "https://open.spotify.com/album/4DwwDAVVbbJgzCNMQOyL3y"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "KTO MA STYL",
+        "url": "https://open.spotify.com/album/3jCqpBKAq0S52X0O2Bd0I4"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "KTO MA STYL",
+      "url": "https://open.spotify.com/track/4LeiikqM8SP6y943JAvrqy"
     },
     {
       "added_at": "2026-02-25 11:19:16",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-02-25 11:19:16",
       "album": {
-        "name": "BUKOWSKI",
-        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
-      },
-      "artists": [
-        {
-          "name": "Ten Typ Mes",
-          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
-        }
-      ],
-      "duration_ms": 131076,
-      "name": "LOS NIE CHCIA\u0141 INACZEJ",
-      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
-    },
-    {
-      "added_at": "2026-02-25 11:19:16",
-      "album": {
         "name": "PATOPARTY",
         "url": "https://open.spotify.com/album/1KWozUxqSFnTwUPAa8lzqA"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 285714,
       "name": "PATOPARTY",
       "url": "https://open.spotify.com/track/702Qa7dwKfXvIOGremdjSc"
+    },
+    {
+      "added_at": "2026-02-25 11:19:16",
+      "album": {
+        "name": "BUKOWSKI",
+        "url": "https://open.spotify.com/album/1lSvpuKWJUxISwWHRieKui"
+      },
+      "artists": [
+        {
+          "name": "Ten Typ Mes",
+          "url": "https://open.spotify.com/artist/3AU8FAva0w5qdrf5IVu620"
+        }
+      ],
+      "duration_ms": 131076,
+      "name": "LOS NIE CHCIA\u0141 INACZEJ",
+      "url": "https://open.spotify.com/track/5h6pVFRP8dxX1F0OKHgczM"
     },
     {
       "added_at": "2026-02-25 11:19:16",

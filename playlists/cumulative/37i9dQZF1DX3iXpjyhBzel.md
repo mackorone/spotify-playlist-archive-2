@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Marco Telles, Coletivo Candiero, Filipe da Guia, Ana Heloysa
 
-378 songs - 1 day 13 hr 35 min
+379 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,8 @@
 | [Faz Arder](https://open.spotify.com/track/3I4BzHfreJ5H6aEWokBErB) | [Ane Alma](https://open.spotify.com/artist/6agfTxA0kY25JrnIKKo35r) | [Faz Arder](https://open.spotify.com/album/2PxsAb7mPbxyvAu9a49M0S) | 1:58 | 2023-09-01 | 2023-10-07 |
 | [Faz Morada](https://open.spotify.com/track/0br0GQIyOtenBfD2UzHYw9) | [Mc João Igor](https://open.spotify.com/artist/6MXfTn1naOMaOEWxZjXGuO), [Jean braguioly](https://open.spotify.com/artist/3T3n3sfgiPDU9PZpnlKw1l) | [Faz Morada](https://open.spotify.com/album/0SBPdda9oATGKKjMjhgMEa) | 4:48 | 2025-04-03 | 2025-07-20 |
 | [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 | 2023-07-22 |
-| [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-12-06 |  |
+| [Fidelidade \(Ao Vivo\)](https://open.spotify.com/track/3BHQNPlsge6KXwC0Fyzkyq) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Danielle Cristina](https://open.spotify.com/artist/0hUadX7xdewBFB84OcLRgG) | [Fidelidade \(Ao Vivo\)](https://open.spotify.com/album/05Lz6yhSIcCYWi0Ycqs59o) | 5:30 | 2024-12-06 | 2026-03-06 |
+| [Fiel é Deus](https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Fiel é Deus](https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb) | 8:23 | 2026-03-05 |  |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 | 2024-12-28 |
 | [Fogo em Teus Olhos \- Ao Vivo](https://open.spotify.com/track/12x0NIXpYNjwIZtXd2cuc7) | [Anna Clara Rocha](https://open.spotify.com/artist/1oI7Zkry0NMleoFSQoTVsI), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Fogo em Teus Olhos \(Ao Vivo\)](https://open.spotify.com/album/5FIGyq3G7Ty4SYXC57YpnQ) | 7:43 | 2025-05-16 |  |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2022-09-09 | 2024-12-14 |

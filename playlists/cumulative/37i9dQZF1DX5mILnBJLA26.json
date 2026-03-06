@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Mr JazziQ",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: Babalwa M",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -1744,6 +1744,32 @@
       "duration_ms": 402857,
       "name": "Amachukuku (feat. TXPMD, Tweestgottahalla & Wonder Flawz)",
       "url": "https://open.spotify.com/track/4MqkT3t0tmSHXdsRCBNPuS"
+    },
+    {
+      "album": {
+        "name": "AmaCorrection",
+        "url": "https://open.spotify.com/album/7kY5pK1CnS1PcbfbjgeLya"
+      },
+      "artists": [
+        {
+          "name": "Nvcho",
+          "url": "https://open.spotify.com/artist/3W0DeGwe5EHJwydiL6ECaC"
+        },
+        {
+          "name": "Babalwa M",
+          "url": "https://open.spotify.com/artist/0dUHzfa2msKEpMevzsdwqG"
+        },
+        {
+          "name": "Stixx",
+          "url": "https://open.spotify.com/artist/3rIVgeRWFhGxhFF9wgJFC2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443672,
+      "name": "AmaCorrection",
+      "url": "https://open.spotify.com/track/48C31KnJb4S5fm9R1bX7O6"
     },
     {
       "album": {
@@ -42096,7 +42122,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 406238,
       "name": "Yi Problem (feat. Scotts Maphuma)",
       "url": "https://open.spotify.com/track/74fo6GWsV2n0KYqeYeXs7P"

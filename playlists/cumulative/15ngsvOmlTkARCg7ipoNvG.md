@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-2,055 songs - 1 day 17 hr 23 min
+2,056 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [Jack And Jill Arr\. For Cello](https://open.spotify.com/track/5iBnwWLOr2XVSAn3OV9dJk) | [Wandering River](https://open.spotify.com/artist/68MLCS299SINsPPPTnMZRK) | [Jack And Jill Arr\. For Cello](https://open.spotify.com/album/7D3XCWIkSJR2sbxJj0KCYP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [January \- Cello Version](https://open.spotify.com/track/1jyUZF5c3qDO0p8Rfb2aYR) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [January Melody](https://open.spotify.com/album/0vXU5TUY60rCoUg75Alqwn) | 1:02 | 2023-04-08 | 2024-02-13 |
 | [January Lullaby](https://open.spotify.com/track/1aqnsG9hLnMYKjKPrdbXqz) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [January Lullaby](https://open.spotify.com/album/171f0QYgGvQGfuSHctLMEY) | 1:00 | 2024-12-28 |  |
+| [January Lullaby Arr\. For Cello](https://open.spotify.com/track/3z7uMB5A2y4J4aM1hFDwHO) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Two Versions Of January Lullaby](https://open.spotify.com/album/6Z870WjEfRgtRFK7jnQwHH) | 1:00 | 2026-03-05 |  |
 | [Join](https://open.spotify.com/track/70ScDxDyS7RTTWd2wLVfUa) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Join](https://open.spotify.com/album/7nYU5m1WzGeMg45dKkEQAK) | 1:00 | 2024-10-09 |  |
 | [Joining Hands](https://open.spotify.com/track/3ZmoYJ81eKaVn891ZpZwBE) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [July \- Piano Lullaby Version](https://open.spotify.com/track/2h7Q2XEUSz8mzM37JhWj9v) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [July](https://open.spotify.com/album/607WQQDShvtBHRf6oEA0HW) | 1:00 | 2024-04-18 |  |

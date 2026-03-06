@@ -2,9 +2,9 @@
 
 ### [Boy in the Moon](https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0)
 
-> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: NCT JNJM
+> グローバルで活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Boys groups/solo artists shining beyond borders\. Cover: SEVENTEEN
 
-913 songs - 2 day 1 hr 58 min
+914 songs - 2 day 2 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Burning Love](https://open.spotify.com/track/6k8JvngETY2MTjTMWKJV4M) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Lilo & Stitch \(Japanese Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3x0XUj1f9DrO20JC9yUDwY) | 2:46 | 2025-06-04 | 2025-07-15 |
 | [Butterflies](https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Social Path / Super Bowl \-Japanese ver.\-](https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW) | 3:10 | 2023-11-23 | 2023-12-20 |
 | [Butterfly](https://open.spotify.com/track/6EX2u3rBDR606W9N37iglB) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [Butterfly](https://open.spotify.com/album/4yi5BI3qDbbMKo4hbaEwv7) | 3:00 | 2025-03-06 | 2025-04-24 |
-| [BUTTERFLY EFFECT](https://open.spotify.com/track/2zrHUJLfOilgYWG5UWVoQK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2Tlb8Amtn45Rrife1VRUn4) | 3:40 | 2025-12-23 |  |
+| [BUTTERFLY EFFECT](https://open.spotify.com/track/2zrHUJLfOilgYWG5UWVoQK) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2Tlb8Amtn45Rrife1VRUn4) | 3:40 | 2025-12-23 | 2026-03-06 |
 | [Calendar](https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Calendar](https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE) | 3:38 | 2023-12-19 | 2024-01-17 |
 | [Call Me](https://open.spotify.com/track/6lmEozWswCzaSr6SS3Klsq) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [FREQUENCY \- The 6th Mini Album](https://open.spotify.com/album/6PmkuHFyelDURr3QlbFY3K) | 3:40 | 2025-03-06 | 2025-04-05 |
 | [CALL ME BACK](https://open.spotify.com/track/7EaR2YLNoIDFgmEBdTh1NS) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [CALL ME BACK](https://open.spotify.com/album/4x65qm15EE2YTLUIJLX4b5) | 3:10 | 2026-01-22 |  |
@@ -537,6 +537,7 @@
 | [Party Goes On](https://open.spotify.com/track/7DtIdfMyHkleorjPK3mSni) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Party Goes On](https://open.spotify.com/album/4qp3313b5TCH7NQ2IAqPNU) | 2:56 | 2025-04-03 | 2025-05-02 |
 | [PATIENCE](https://open.spotify.com/track/1KcTdvIP024QVjRbrQ2Zqj) | [ORβIT](https://open.spotify.com/artist/5nIjW1OJiqkhJsdHWBfKrN) | [蘭](https://open.spotify.com/album/2EV4txoYORCEyoXk1YWQTX) | 3:15 | 2024-09-17 | 2024-10-30 |
 | [Peppermint Yum](https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [Peppermint Yum](https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn) | 3:00 | 2023-12-21 | 2024-02-14 |
+| [Perfect](https://open.spotify.com/track/3MaP2Zp3fHXncEFWGiLPTr) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Perfect](https://open.spotify.com/album/4VPvwWSOKMqbaib2tjFnjC) | 2:13 | 2026-03-05 |  |
 | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/track/3UvFLfJCAKertN6IpEqwpA) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [JIMMY](https://open.spotify.com/artist/1Pl13n0hdE6rHDthDbBwZ1), [WEESA](https://open.spotify.com/artist/0Uzh2Ni1NNcieI323yZO52) | [Perfect feat\. JIMMY & WEESA](https://open.spotify.com/album/7cGVwsF1NzwU5YqB89DP6G) | 2:54 | 2024-07-09 | 2024-07-31 |
 | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/track/2gZnCAEMmZ5kgZqNVuanWm) | [YAMASHITA TOMOHISA](https://open.spotify.com/artist/3guYSm9Rp77d1f2ZKt2ZZF), [TAEHYUN](https://open.spotify.com/artist/2fjOLqKPx5dQ4Af4iMIZf4) | [Perfect Storm \(feat\. TAEHYUN of TOMORROW X TOGETHER\)](https://open.spotify.com/album/75LigNRTuWd1Mp7dNt9hQ4) | 3:04 | 2024-06-04 | 2024-07-31 |
 | [PHOTOGENIC](https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU) | [THE JET BOY BANGERZ from EXILE TRIBE](https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi) | [PHOTOGENIC](https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ) | 3:42 | 2023-11-28 | 2024-02-01 |

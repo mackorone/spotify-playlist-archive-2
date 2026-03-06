@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: Zoë Modiga
+> The best in South African and international R&B\. Cover: Joya Mooi
 
-631 songs - 1 day 10 hr 1 min
+632 songs - 1 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/track/3iHpwGD3h3Bj87KrJEBMI4) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [One Wish \(feat\. Childish Gambino\)](https://open.spotify.com/album/4zqd0pJeSANOHYaNRlR4hV) | 3:15 | 2024-09-11 | 2024-11-29 |
 | [Only](https://open.spotify.com/track/0BWXrf3aW3ZLgComAYwCR2) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Only](https://open.spotify.com/album/0CS7QjPjgW2cJnLRv2Dc3f) | 2:39 | 2023-10-12 | 2023-10-26 |
 | [Only Starrr](https://open.spotify.com/track/4OQTPJ9saa4yLletR4B6JE) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Only Starrr](https://open.spotify.com/album/3i0FNPlJ4Mufkkqg9odJeQ) | 2:15 | 2023-11-09 | 2024-01-26 |
+| [Only Water](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 | 2026-03-06 |  |
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-03 | 2024-03-22 |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-30 | 2024-09-03 |
 | [orange soda](https://open.spotify.com/track/6yMBwxntI010irzKQnph0P) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG), [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [orange soda](https://open.spotify.com/album/2K0oQZd6oTCliSHh4olsVd) | 2:25 | 2024-09-02 | 2024-09-12 |
@@ -502,7 +503,7 @@
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-29 | 2025-04-25 |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-09-11 | 2025-06-28 |
 | [Someone Like You](https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy) | [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Desires](https://open.spotify.com/album/1jxx3QjNXfKNRkpN6bkdvz) | 3:09 | 2024-02-08 | 2024-04-26 |
-| [Something New](https://open.spotify.com/track/4bPiHiin4XEnhZDPOCo9Mf) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Something New](https://open.spotify.com/album/46KvZeQrMhFyn6VxUuNlTN) | 4:33 | 2026-02-27 |  |
+| [Something New](https://open.spotify.com/track/4bPiHiin4XEnhZDPOCo9Mf) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [Something New](https://open.spotify.com/album/46KvZeQrMhFyn6VxUuNlTN) | 4:33 | 2026-02-27 | 2026-03-06 |
 | [Sonini](https://open.spotify.com/track/6Dy6xKYYOyEjI2iXFS5lri) | [siinaye](https://open.spotify.com/artist/4iCyRYyLMg9tzqpWRFbQhm), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Sonini](https://open.spotify.com/album/0nTT2okOPit3hf14FwSGtl) | 3:05 | 2025-09-05 | 2025-11-22 |
 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-01-17 | 2025-04-25 |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-09-12 |

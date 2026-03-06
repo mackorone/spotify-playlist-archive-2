@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Tom Misch",
+  "description": "Beyond titles, beyond genre. Cover: waterbaby",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 295378,
       "name": "Can You Swim?",
       "url": "https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH"
@@ -5732,7 +5732,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 229247,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/280E4oT7TC7EcdPSDjJfJJ"
@@ -8762,7 +8762,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 219786,
       "name": "Miami",
       "url": "https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5"
@@ -9268,6 +9268,28 @@
       "duration_ms": 298783,
       "name": "My Old Ways",
       "url": "https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq"
+    },
+    {
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194284,
+      "name": "Naboo",
+      "url": "https://open.spotify.com/track/2TjYrJGdFFLkldNrLZxlNi"
     },
     {
       "album": {
@@ -10687,6 +10709,24 @@
     },
     {
       "album": {
+        "name": "Pluto Baby",
+        "url": "https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9"
+      },
+      "artists": [
+        {
+          "name": "Wesley Joseph",
+          "url": "https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Pluto Baby",
+      "url": "https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK"
+    },
+    {
+      "album": {
         "name": "Pocket (montreal)",
         "url": "https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG"
       },
@@ -11834,7 +11874,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 195406,
       "name": "Scratches",
       "url": "https://open.spotify.com/track/3tpqmATobykYj8Z89YCgVq"
@@ -12580,6 +12620,24 @@
       "duration_ms": 214106,
       "name": "Spring",
       "url": "https://open.spotify.com/track/5FKYSEhkz7sBzlkyLOAXKl"
+    },
+    {
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
     },
     {
       "album": {
@@ -14982,6 +15040,28 @@
       "duration_ms": 182857,
       "name": "Watchin' U",
       "url": "https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU"
+    },
+    {
+      "album": {
+        "name": "Wayside",
+        "url": "https://open.spotify.com/album/79yM13tZQGF89zfG9Nbyn8"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239804,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/1eZswie6InLb8Kj3lXYk5n"
     },
     {
       "album": {

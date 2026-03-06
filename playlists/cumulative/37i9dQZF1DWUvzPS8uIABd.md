@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-904 songs - 1 day 21 hr 8 min
+905 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [Ikuista](https://open.spotify.com/track/5YnH11C9B6yQI8uh8QG1Jb) | [Axel Kala](https://open.spotify.com/artist/4efs3AqHijagPC7sFYksBD) | [Ikuista](https://open.spotify.com/album/63ZdyUJsIupRitpKLc3Cvd) | 3:27 | 2025-12-18 | 2026-02-08 |
 | [Ikuisuuteen](https://open.spotify.com/track/0iDngbVf0f913F88x6oWCe) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Ikuisuuteen](https://open.spotify.com/album/75nGiUV5o6XnNkQ9rxOISk) | 3:03 | 2025-04-17 | 2025-06-06 |
 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 | 2025-02-13 | 2025-06-27 |
-| [Ilmaa](https://open.spotify.com/track/7uMpPXrjRVAerTwnsnj7DO) | [Alma Alanko](https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt) | [Ilmaa](https://open.spotify.com/album/0zqV9ECz2qlx5nuLT3bMY6) | 2:43 | 2026-02-26 |  |
+| [Ilmaa](https://open.spotify.com/track/7uMpPXrjRVAerTwnsnj7DO) | [Alma Alanko](https://open.spotify.com/artist/1fFcue8MWSuhjTPVgIpRUt) | [Ilmaa](https://open.spotify.com/album/0zqV9ECz2qlx5nuLT3bMY6) | 2:43 | 2026-02-26 | 2026-03-06 |
 | [Ilmaa](https://open.spotify.com/track/0aPEp3qLmKjXvDllQ5QwLQ) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Ilmaa](https://open.spotify.com/album/0DMZ5UVQ0He31eGtyehiJC) | 3:16 | 2024-10-24 | 2025-02-28 |
 | [Ilman sua](https://open.spotify.com/track/4zfCDCuYM2r0rCRWdnhS1n) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Ilman sua](https://open.spotify.com/album/3zmhcYYQW88NrOk5QlITTY) | 3:16 | 2025-06-26 | 2025-09-18 |
 | [ILY](https://open.spotify.com/track/0jBgpqrjZsjAxgWGYE6cs7) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [ILY](https://open.spotify.com/album/7MUhZHTwzadlxv6g1ysJYq) | 2:20 | 2024-07-02 | 2024-08-10 |
@@ -583,6 +583,7 @@
 | [Pimeään](https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Pimeään](https://open.spotify.com/album/7pwKzcqSfAkTxbAbIvJilI) | 3:26 | 2025-09-18 | 2025-10-10 |
 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 | 2025-04-03 | 2025-05-02 |
 | [Pohja](https://open.spotify.com/track/0TdGwFdZobXOejSFHnU4oq) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Pohja](https://open.spotify.com/album/3qm3YWIRYZO9qSnHw7BrPB) | 3:44 | 2024-09-19 | 2024-09-27 |
+| [Poikaystävä](https://open.spotify.com/track/2cqjDWpkxpMQVHVPJENnhi) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb) | [Poikaystävä](https://open.spotify.com/album/7xGPf3ct9ufbq9Y49yaHnF) | 2:19 | 2026-03-05 |  |
 | [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 | 2025-11-13 | 2026-02-13 |
 | [Pois pois pois](https://open.spotify.com/track/6c2WnB9iEyjXlqGJOiI4B3) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn) | [Pois pois pois](https://open.spotify.com/album/573RWpBvjB5VAS88V2dXzv) | 3:32 | 2024-08-01 | 2024-08-23 |
 | [Polku \(Vain elämää kausi 15\)](https://open.spotify.com/track/3fUc4fx7Hu77LlJGgKtm9c) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Polku \(Vain elämää kausi 15\)](https://open.spotify.com/album/32yFKb5ZLMg16XhHfExHre) | 3:16 | 2024-10-17 | 2024-10-25 |
@@ -841,7 +842,7 @@
 | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/track/1rn1Ln1GWJnmxn7oYyKQes) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Vantaalainen \(Vain elämää kausi 16\)](https://open.spotify.com/album/0IlkosgcmMdnAupG47k0mo) | 2:57 | 2025-10-30 |  |
 | [Vapaus on suuri vankila \- Vain elämää kausi 16](https://open.spotify.com/track/55DSeUtrzQTXlBLCTdgWy3) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Vapaus on suuri vankila \(Vain elämää kausi 16\)](https://open.spotify.com/album/3a2NdIRAr6UDAwfCjitBhi) | 2:42 | 2025-09-26 | 2025-10-03 |
 | [Vappupallo](https://open.spotify.com/track/06HJQDA7MGlHrJliCrIL6D) | [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Vappupallo](https://open.spotify.com/album/64v95xssuHTheTem7R8ErP) | 3:11 | 2025-04-24 | 2025-06-13 |
-| [Vasara](https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Vasara](https://open.spotify.com/album/1hCscYsfkR5SRkNo7g3ant) | 2:41 | 2026-02-26 |  |
+| [Vasara](https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Vasara](https://open.spotify.com/album/1hCscYsfkR5SRkNo7g3ant) | 2:41 | 2026-02-26 | 2026-03-06 |
 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 | 2025-10-31 |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-10-10 |
 | [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-02-05 |  |

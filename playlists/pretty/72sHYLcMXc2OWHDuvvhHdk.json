@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJ5F4lGG7qbuZeRHrQPhyk5rxeNPZf",
+  "snapshot_id": "AAAJ6CZjYpQbdSRUmMXEXrBAmkQoii1p",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -37903,7 +37903,7 @@
     {
       "added_at": "2026-02-10 00:08:49",
       "album": {
-        "name": "Smoke",
+        "name": "can't catch smoke",
         "url": "https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11"
       },
       "artists": [
@@ -37917,7 +37917,7 @@
         }
       ],
       "duration_ms": 128516,
-      "name": "Smoke",
+      "name": "can't catch smoke",
       "url": "https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ"
     },
     {
@@ -39531,6 +39531,74 @@
       "duration_ms": 341250,
       "name": "Driving In The Small Hours",
       "url": "https://open.spotify.com/track/4KaFxecTqmRPof1sHvWnZx"
+    },
+    {
+      "added_at": "2026-03-05 19:34:26",
+      "album": {
+        "name": "Black Mesa",
+        "url": "https://open.spotify.com/album/6xB7i6b9e6ouQLdipMM2WO"
+      },
+      "artists": [
+        {
+          "name": "Nikki Manos",
+          "url": "https://open.spotify.com/artist/277PrHYGwOzkNgxDgsfEA6"
+        }
+      ],
+      "duration_ms": 191262,
+      "name": "Black Mesa",
+      "url": "https://open.spotify.com/track/1U3I6KECTQ7S0bFFb3VaTl"
+    },
+    {
+      "added_at": "2026-03-05 19:34:42",
+      "album": {
+        "name": "Photo",
+        "url": "https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj"
+      },
+      "artists": [
+        {
+          "name": "Miles Squiers",
+          "url": "https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v"
+        },
+        {
+          "name": "Morgan Turpin",
+          "url": "https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Photo",
+      "url": "https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom"
+    },
+    {
+      "added_at": "2026-03-05 19:35:42",
+      "album": {
+        "name": "white boy i sat next to on the plane",
+        "url": "https://open.spotify.com/album/4cDP3rmNwvZIKouMI83ZLg"
+      },
+      "artists": [
+        {
+          "name": "Kiey",
+          "url": "https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd"
+        }
+      ],
+      "duration_ms": 204750,
+      "name": "white boy i sat next to on the plane",
+      "url": "https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy"
+    },
+    {
+      "added_at": "2026-03-05 19:36:37",
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3ysNbsLSS7MjxAlskrzHLl"
+      },
+      "artists": [
+        {
+          "name": "8 Ball Nation",
+          "url": "https://open.spotify.com/artist/1NtVMvCpFHZQLsqsPuBwhZ"
+        }
+      ],
+      "duration_ms": 287279,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01"
     }
   ],
   "unique_name": "Cruise Music",

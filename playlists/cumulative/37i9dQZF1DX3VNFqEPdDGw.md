@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-398 songs - 20 hr 26 min
+399 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Sher Te Shikaar \- From "Shaunki Sardar"](https://open.spotify.com/track/7Lcb4VpehaLOqOdA9aQ63s) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL) | [Sher Te Shikaar \(From "Shaunki Sardar"\)](https://open.spotify.com/album/1tNR9s7DIJVcFcFfhId2uv) | 3:05 | 2025-04-11 | 2025-05-01 |
 | [Shine Baliye](https://open.spotify.com/track/37ELtXK0oYSuUXIyCF1nxb) | [Gurj Sidhu](https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv), [Indomi](https://open.spotify.com/artist/3ScjHmEn4buo8NtGy8J1O5) | [Shine Baliye](https://open.spotify.com/album/4eJqYuvwHNdB1kVm2gcK3R) | 3:20 | 2025-09-02 | 2026-01-27 |
 | [Signed to God](https://open.spotify.com/track/3lRzVvMNG1QJcHlhLXM0lA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 2:27 | 2021-12-18 | 2022-01-11 |
+| [SIN CITY](https://open.spotify.com/track/5nUaeCdIA5aTqbYq5Qj5KG) | [Raj Hayre](https://open.spotify.com/artist/3a8dlX2Z239nMzRJB0TdVW), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E), [Shxxn](https://open.spotify.com/artist/6AtUv88P9QQYppJ2NCZD2l) | [Hayre To Stay](https://open.spotify.com/album/06T3IUJOzSSX9hXl500oFj) | 2:36 | 2026-03-05 |  |
 | [Sip Sip](https://open.spotify.com/track/3PKEWXIkFwSJnlGdhjivCP) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Intense](https://open.spotify.com/artist/1fiV2IiPFeUHHg6LGKHF9R) | [Sip Sip](https://open.spotify.com/album/5VZK2hiVQ86cVglMLXsIga) | 3:36 | 2025-01-28 |  |
 | [Sira E Hou](https://open.spotify.com/track/31RGhwIcmQg109TxWiHteQ) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Sira E Hou](https://open.spotify.com/album/2Uil84aGsZm6kd2j2FVClR) | 3:20 | 2021-12-18 | 2025-01-09 |
 | [Snake Charmer](https://open.spotify.com/track/6CSjET6CC7SRqFNyNvQcRw) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Sukshinder Shinda](https://open.spotify.com/artist/6Mp7fezR1NJNc7tnybKo18) | [Snake Charmer](https://open.spotify.com/album/2ngFdTXwh9ehbsv2Xa8oAe) | 4:56 | 2023-02-21 | 2023-05-26 |
@@ -393,7 +394,7 @@
 | [Vibe](https://open.spotify.com/track/4cQFpei7RioqdK8BVcUN7n) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 2:50 | 2022-02-01 | 2023-05-26 |
 | [Video Call](https://open.spotify.com/track/3lqOcc7LKwXwbbCAIihRPc) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Back Stage to Front Stage](https://open.spotify.com/album/69TgJFh6UhCJoMAEEBCVmm) | 3:06 | 2022-02-01 | 2023-05-26 |
 | [Wang Da Naap](https://open.spotify.com/track/5r7k55M31Q22AEJkF1GTyw) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sonam Bajwa](https://open.spotify.com/artist/2SyZp7V9vbRK1crDWxy4Ds) | [Wang Da Naap](https://open.spotify.com/album/5rN9PlTcL6fcYHZ25DXkTl) | 2:38 | 2025-01-28 |  |
-| [Wang Tut Gayi](https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Imagination](https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503) | 3:08 | 2025-01-08 |  |
+| [Wang Tut Gayi](https://open.spotify.com/track/4zKsTcWcNpe62JvN2UKQ75) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Imagination](https://open.spotify.com/album/22Q14TeolmZFvnE7HjH503) | 3:08 | 2025-01-08 | 2026-03-06 |
 | [Wardaat 2](https://open.spotify.com/track/1m19oybJSfGtSrLrOZZ8EY) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Ellde Fazilka](https://open.spotify.com/artist/1d4aAalhBQWy4cyyorxNHc) | [Wardaat 2](https://open.spotify.com/album/3nF4DVZlZdOXBnmCQrZMSo) | 3:40 | 2025-02-28 | 2025-03-12 |
 | [Warning](https://open.spotify.com/track/59nlMDUwyzTE8RgctXbfxm) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Warning](https://open.spotify.com/album/3UeJQt0u783oAfrjMA0k0C) | 2:02 | 2025-03-28 | 2025-05-31 |
 | [What Ve](https://open.spotify.com/track/6Pxq8WosWicxmEqp9BFZ2s) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [What Ve](https://open.spotify.com/album/5uR3tuzwfgecmNPsCfxeUi) | 3:08 | 2022-01-10 | 2024-11-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 118060,
+  "num_followers": 118108,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABESGJB2sqAAVg0rkgdDP1r",
+  "snapshot_id": "aad2AAAAAABEJ5qTGQCGV065grvjP1+n",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
       },
       "artists": [
-        {
-          "name": "K-Paz De La Sierra",
-          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
-        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 212053,
-      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
-      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
+      "duration_ms": 207573,
+      "name": "Luto En El Cielo",
+      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF",
-        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
       },
       "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
         {
           "name": "Sergio Vega \"El Shaka\"",
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Luto En El Cielo",
-      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
+      "duration_ms": 212053,
+      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
+      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
     },
     {
       "added_at": null,

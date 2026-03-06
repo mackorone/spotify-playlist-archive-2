@@ -2461,6 +2461,24 @@
     },
     {
       "album": {
+        "name": "Happy Halloween",
+        "url": "https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89750,
+      "name": "Get Spooky",
+      "url": "https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0"
+    },
+    {
+      "album": {
         "name": "By Any Means",
         "url": "https://open.spotify.com/album/5ZzFFF7wSMmGaIWjAHElnW"
       },
@@ -2476,6 +2494,24 @@
       "duration_ms": 255932,
       "name": "Get up on My Level",
       "url": "https://open.spotify.com/track/6WYLTRkDw5PZj9vzI6Vnjq"
+    },
+    {
+      "album": {
+        "name": "Happy Halloween",
+        "url": "https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J"
+      },
+      "artists": [
+        {
+          "name": "Sumo's World",
+          "url": "https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145819,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G"
     },
     {
       "album": {

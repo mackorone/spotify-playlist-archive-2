@@ -4,7 +4,7 @@
 
 > 
 
-157 songs - 8 hr 9 min
+161 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,9 +55,11 @@
 | [Evil Middle](https://open.spotify.com/track/0WsHKHzrgEMeISc5ydXyXg) | [Marcos Crunk](https://open.spotify.com/artist/7GNeQ6y9JFQ6deOJfrtHjD), [BR3NX](https://open.spotify.com/artist/0YNWnKCEelU5896FKYUVl6) | [Evil Middle](https://open.spotify.com/album/3DkC03tKYGw7OCPZPIPxPH) | 2:37 | 2025-08-20 |  |
 | [Evitandome](https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3), [dodo\_wav](https://open.spotify.com/artist/6351jyBEW00GePNPjRCsj1), [Wvy Laosean](https://open.spotify.com/artist/604Lg9hn3moDuuSRJlTXmh) | [Evitandome](https://open.spotify.com/album/7DIzgZs3139vMTCDNz668P) | 3:17 | 2025-09-05 |  |
 | [Fade Away](https://open.spotify.com/track/74dhq9EPFe5EvBDIoWBIq7) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Fade Away](https://open.spotify.com/album/4sbRBZ7vQ2LSOegya4HPyA) | 2:55 | 2025-04-08 |  |
+| [Fading Light](https://open.spotify.com/track/2NXaChEQq4DKEOsEXCoE5J) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Fading Light](https://open.spotify.com/album/1L44hN7GPIZQwjrCp9yzRB) | 4:17 | 2026-03-05 |  |
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
 | [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 | 2026-01-02 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
+| [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 | 2026-03-05 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |
 | [Girl Like Me](https://open.spotify.com/track/2DstLe32Gt83sN32IEoKik) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [Girl Like Me](https://open.spotify.com/album/7rBihut7UrW4zNtODmU0lP) | 2:20 | 2025-06-06 |  |
@@ -127,6 +129,7 @@
 | [Rosemary Gold](https://open.spotify.com/track/0KRNkNKm0l88HTP56Xfso7) | [FXCELESS](https://open.spotify.com/artist/20PXVmxGDqANBC2SSezzSl) | [Rosemary Gold](https://open.spotify.com/album/4e0XQZiKL95mxpnpDFjDAg) | 2:10 | 2026-01-09 |  |
 | [ROTO](https://open.spotify.com/track/5EATqvvq7FvnNxtTYymbfe) | [Ecuaxel](https://open.spotify.com/artist/752FyhTCidwubenzuTtLtk) | [ROTO](https://open.spotify.com/album/4lleNR7Guf06eqPT1sEtKd) | 2:57 | 2026-01-18 |  |
 | [She's My Witch](https://open.spotify.com/track/0dvGMQOonbH4ZvEiOYYWKQ) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [She's My Witch](https://open.spotify.com/album/514yIpEXXdJmn2lPXrhOcu) | 2:26 | 2026-01-05 |  |
+| [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 | 2026-03-05 |  |
 | [Signals](https://open.spotify.com/track/7ueNlLSD7Y2mCj5smSMMFj) | [Ian Carpenter](https://open.spotify.com/artist/6rWRC2PEWJyQ5IVN5ioIO9) | [Emotions](https://open.spotify.com/album/6wM6OSdZalGYy6PoK0QqBD) | 5:16 | 2025-04-14 |  |
 | [Silver Forever](https://open.spotify.com/track/4YeDTYqW8vMvMuvAPCXv3B) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Silver Forever](https://open.spotify.com/album/4aX4pdjp1X7v955uJN7Yr1) | 3:21 | 2025-04-14 |  |
 | [SIN REMORDIMIENTOS](https://open.spotify.com/track/17AxppFQG4GtpsnSd9WL9h) | [Lope](https://open.spotify.com/artist/5xjht9gF2pJkmWwCu6SwHm) | [SIN REMORDIMIENTOS](https://open.spotify.com/album/7ISPuPra9vpoHernREfFBb) | 2:37 | 2025-06-06 |  |
@@ -148,6 +151,7 @@
 | [The Vastness of Consciousness \- 432hz Version](https://open.spotify.com/track/5wt45JmYqJ3NdYhzj1Bf2A) | [Violare Fobia](https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN) | [The Vastness of Consciousness \(432hz Version\)](https://open.spotify.com/album/6sxLNMlL8Cf7ibdTfdFCK7) | 3:13 | 2025-12-23 |  |
 | [The Weekender](https://open.spotify.com/track/1OnHezJi7V03g7Kk1DuF3M) | [Neu Yuck](https://open.spotify.com/artist/6T1u8DVyqblZvGOSaF7gUd) | [The Weekender](https://open.spotify.com/album/75g24joK0xD27tcJCOMGFZ) | 2:28 | 2025-10-01 |  |
 | [Throw That Ass Back](https://open.spotify.com/track/5ldc4pQnSo3kN9iuGU28FW) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [Throw That Ass Back](https://open.spotify.com/album/5tmLNvZODQPdCwj7pjnkdU) | 2:39 | 2025-07-03 |  |
+| [time to part\(y\)](https://open.spotify.com/track/0ZU8QOJ00sgMaUFh7YFpm5) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [time to part\(y\)](https://open.spotify.com/album/2jCGwUJdfsyBUzO3Kr0qTD) | 2:25 | 2026-03-05 |  |
 | [To Her](https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [To Her](https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1) | 4:40 | 2025-11-18 |  |
 | [Tu Boca](https://open.spotify.com/track/3po03pa6i2K3a6kzLw02Xk) | [Kris Ferrer](https://open.spotify.com/artist/0yIDYHbJhDpDXiGTHCLXh7) | [Tu Boca](https://open.spotify.com/album/298jSFyPbaASkohAaHEc5J) | 3:43 | 2025-04-06 |  |
 | [TU FAIS LA MORTE](https://open.spotify.com/track/3MM9zNGAgckkNknPsp2OVR) | [Doctor Ly](https://open.spotify.com/artist/28dgxNbA7czFkjfUMJN3RA) | [TU FAIS LA MORTE](https://open.spotify.com/album/3Ye99MmmiPKSJex4cxZzHO) | 3:16 | 2025-12-10 |  |

@@ -1,6 +1,6 @@
 {
   "description": "a experimental mix of rock, punk, alt & indie. Cover: Dry Cleaning",
-  "num_followers": 294525,
+  "num_followers": 294535,
   "original_name": "Noisy",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Girl with Fish",
         "url": "https://open.spotify.com/album/4lVMhVIgEdxIoTu7gS7CoT"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 205484,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Big Swimmer",
+        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 202048,
+      "name": "New York, Let's Do Nothing",
+      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
+        "name": "77 (Pt. 1)",
+        "url": "https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk"
+      },
+      "artists": [
+        {
+          "name": "Colony House",
+          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "Ready to Go",
+      "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
         "name": "EELS",
         "url": "https://open.spotify.com/album/2gQOY7nW9BsZjdztVloaFT"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "77 (Pt. 1)",
-        "url": "https://open.spotify.com/album/22yt2rjfLegUep56XOY4yk"
-      },
-      "artists": [
-        {
-          "name": "Colony House",
-          "url": "https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Ready to Go",
-      "url": "https://open.spotify.com/track/6WDQwwy5lcKA7zCjJ1kvKQ"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Sunshine and Balance Beams",
         "url": "https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4"
       },
@@ -983,38 +983,6 @@
       "duration_ms": 253208,
       "name": "Deep Clay",
       "url": "https://open.spotify.com/track/0BsFIzlsXRmseeQ44iHATK"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
-        "name": "Demon Compass (Deluxe)",
-        "url": "https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 210386,
-      "name": "Demon Compass",
-      "url": "https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
-        "name": "The Clip",
-        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "Barn Boiler",
-      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1035,34 +1003,34 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Within Dreams",
-        "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
+        "name": "The Clip",
+        "url": "https://open.spotify.com/album/2kRRNohOweKVTXaRz0F87i"
       },
       "artists": [
         {
-          "name": "Feels Like Heaven",
-          "url": "https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO"
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Volvo (On The Road)",
-      "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+      "duration_ms": 165346,
+      "name": "Barn Boiler",
+      "url": "https://open.spotify.com/track/1woE6z4opFQcHAZALxuCxc"
     },
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "EXPO",
-        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
+        "name": "Demon Compass (Deluxe)",
+        "url": "https://open.spotify.com/album/0OdlKEuLYqLiIsWUGcmUip"
       },
       "artists": [
         {
-          "name": "Ulrika Spacek",
-          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
         }
       ],
-      "duration_ms": 239746,
-      "name": "Weights & Measures",
-      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
+      "duration_ms": 210386,
+      "name": "Demon Compass",
+      "url": "https://open.spotify.com/track/5cJXzg4SyMjBsmIWttHIAb"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1083,6 +1051,38 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
+        "name": "EXPO",
+        "url": "https://open.spotify.com/album/6LLi2GeMAcPyUvwWxS2Gy7"
+      },
+      "artists": [
+        {
+          "name": "Ulrika Spacek",
+          "url": "https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu"
+        }
+      ],
+      "duration_ms": 239746,
+      "name": "Weights & Measures",
+      "url": "https://open.spotify.com/track/6EbLcYLQiOuljqOc9Jq79t"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Within Dreams",
+        "url": "https://open.spotify.com/album/4IzQFnaEIseFzvMYgdQvWB"
+      },
+      "artists": [
+        {
+          "name": "Feels Like Heaven",
+          "url": "https://open.spotify.com/artist/7a6QX0IDmM5mXo3bMB1oeO"
+        }
+      ],
+      "duration_ms": 145173,
+      "name": "Volvo (On The Road)",
+      "url": "https://open.spotify.com/track/2oKZ6jL08byMcea1Bn4Q84"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
         "name": "Name Your Sorrow",
         "url": "https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF"
       },
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 221412,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "On the Intricate Inner Workings of the System",
         "url": "https://open.spotify.com/album/6HKuDmYKRsA43eYFgPYtGH"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 266986,
       "name": "We Don't Care About That",
       "url": "https://open.spotify.com/track/6TtqsRfr3UTY53Gj3CbMYL"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0IB09v85OkHqvsjKABzKwt"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 221412,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/1mVOpAtz7FjGNHvAYYqkVi"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Jetplane",
-        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
-      },
-      "artists": [
-        {
-          "name": "Sorry",
-          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
-        }
-      ],
-      "duration_ms": 156824,
-      "name": "Jetplane",
-      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+        "name": "Jetplane",
+        "url": "https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc"
       },
       "artists": [
         {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
         }
       ],
-      "duration_ms": 177975,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
+      "duration_ms": 156824,
+      "name": "Jetplane",
+      "url": "https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1239,6 +1223,22 @@
       "duration_ms": 209946,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/1RgoyUyNhlDMX9FCb3f3Nt"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 177975,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH"
     },
     {
       "added_at": "2026-02-20 21:53:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-20 21:53:32",
       "album": {
-        "name": "All Hail (Pressure)",
-        "url": "https://open.spotify.com/album/0gtJ99FlK2cVY0f1XKE9a2"
-      },
-      "artists": [
-        {
-          "name": "Prostitute",
-          "url": "https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47"
-        }
-      ],
-      "duration_ms": 221042,
-      "name": "All Hail (Pressure)",
-      "url": "https://open.spotify.com/track/0sn6spzfUcy5yEX1J1h8JR"
-    },
-    {
-      "added_at": "2026-02-20 21:53:32",
-      "album": {
         "name": "Earthling",
         "url": "https://open.spotify.com/album/3hexPg1F7lMWXJFDpHSlOQ"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 211853,
       "name": "Earthling",
       "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
+    },
+    {
+      "added_at": "2026-02-20 21:53:32",
+      "album": {
+        "name": "All Hail (Pressure)",
+        "url": "https://open.spotify.com/album/0gtJ99FlK2cVY0f1XKE9a2"
+      },
+      "artists": [
+        {
+          "name": "Prostitute",
+          "url": "https://open.spotify.com/artist/7fY4LrglQCCiDGUpz4ts47"
+        }
+      ],
+      "duration_ms": 221042,
+      "name": "All Hail (Pressure)",
+      "url": "https://open.spotify.com/track/0sn6spzfUcy5yEX1J1h8JR"
     },
     {
       "added_at": "2026-02-20 21:53:32",

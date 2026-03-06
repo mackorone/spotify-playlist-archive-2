@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "nayt in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
+  "description": "Luch\u00e8 in cover della playlist urban pi\u00f9 grande d'Italia \ud83e\udd1d\ud83c\udffb",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -4599,6 +4599,32 @@
     },
     {
       "album": {
+        "name": "CHANELINA SOUBRETTE (feat. Disme & Ele A)",
+        "url": "https://open.spotify.com/album/6fKwRnm0PQ64ynXzqCVdHC"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Ele A",
+          "url": "https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203859,
+      "name": "CHANELINA SOUBRETTE (feat. Disme & Ele A)",
+      "url": "https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR"
+    },
+    {
+      "album": {
         "name": "Che Stai Dicenn (feat. Paky)",
         "url": "https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY"
       },
@@ -6416,6 +6442,24 @@
       "duration_ms": 118256,
       "name": "Drip a noleggio",
       "url": "https://open.spotify.com/track/2Q9JFrlIR5izV7d3y0PsI9"
+    },
+    {
+      "album": {
+        "name": "DRIP DROP",
+        "url": "https://open.spotify.com/album/3q2M54MfMzh8O64iJ9f9vV"
+      },
+      "artists": [
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "DRIP DROP",
+      "url": "https://open.spotify.com/track/2G6evQinarS5tPBgU9Zh89"
     },
     {
       "album": {

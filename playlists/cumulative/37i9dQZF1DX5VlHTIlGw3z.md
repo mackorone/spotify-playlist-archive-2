@@ -4,7 +4,7 @@
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-47 songs - 3 hr 5 min
+51 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,10 +12,13 @@
 | [American Idiot](https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [American Idiot](https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke) | 2:56 | 2025-06-03 |  |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2025-05-29 |  |
 | [Crazy Dancer](https://open.spotify.com/track/2iM4ZRQaL44nDu3nQe3irq) | [Yoru no Honki Dance](https://open.spotify.com/artist/5gDlbvRoryrIwpovz6jhua) | [DANCEABLE](https://open.spotify.com/album/0o3RQWikYCF9w9wtUdV6bO) | 3:10 | 2025-06-03 |  |
+| [DEAR MY FRIEND](https://open.spotify.com/track/4gIE68yoKi15VNb63HTrEc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 3:12 | 2026-03-05 |  |
 | [everything is my guitar](https://open.spotify.com/track/4Vks1EVnEVZzMLpddCVx6e) | [andymori](https://open.spotify.com/artist/6bCInSZj1C1H8Mz7m4LqYA) | [andymori](https://open.spotify.com/album/0Yid4tl2WsTnDK0P9kRy9z) | 2:27 | 2025-05-29 |  |
 | [IGGY POP FAN CLUB](https://open.spotify.com/track/6NkIytZwFeUreuosblTrcI) | [Number Girl](https://open.spotify.com/artist/0FXxQ0TEYtebM8gGg0xdoC) | [OMOIDE IN MY HEAD 1 ～BEST & B\-SIDES～](https://open.spotify.com/album/6ZVISn3PfMoymy86TllKg5) | 4:17 | 2025-10-14 |  |
 | [lemonade](https://open.spotify.com/track/0EyViwXzoKDRKUtLczjJwL) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Chilli Beans.](https://open.spotify.com/album/4eAn8XoBrzPRhzNGTctv4O) | 3:06 | 2025-09-03 |  |
 | [Let's ダバダバ](https://open.spotify.com/track/1IJ0O0ZYggmHLfK5AU3wLK) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [Oh! No! It's Heavy Polysick!!!](https://open.spotify.com/album/1WI2KQ2uAAiaIyOZhJxav1) | 3:19 | 2025-12-03 |  |
+| [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 | 2026-03-05 |  |
+| [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 | 2026-03-05 |  |
 | [UFOを呼ぶダンス](https://open.spotify.com/track/0Ty3ogHHmgHmoH4JrW5Gtz) | [Pop Never Dies](https://open.spotify.com/artist/09sIEZ75poO3BQBaQ7EfGm) | [戦略的生存](https://open.spotify.com/album/3YThqweWZRKmnAt8ibr5PM) | 3:43 | 2025-05-29 |  |
 | [Wonderwall](https://open.spotify.com/track/1DadkoAI2gicYJfindPY20) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Time Flies...1994\-2009](https://open.spotify.com/album/6L5KBi1wt0rv1rA88kS1W4) | 4:19 | 2025-06-03 |  |
 | [あいどんわなだい](https://open.spotify.com/track/4YDWrN8wshiHXTMckF9pKj) | [GING NANG BOYZ](https://open.spotify.com/artist/2dP0aHVXt8dDPCw5d2Jw0m) | [あいどんわなだい](https://open.spotify.com/album/6UKzA0AKcyD9zPHE8gql4V) | 5:10 | 2025-05-29 |  |
@@ -29,6 +32,7 @@
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2025-05-29 |  |
 | [スピカ](https://open.spotify.com/track/0llYDkfHwnPUM8uU6ubivX) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [花鳥風月+](https://open.spotify.com/album/3CCg3A3M9NtDtBdFmDEhK0) | 4:19 | 2025-05-29 |  |
 | [ソラニン](https://open.spotify.com/track/2H9YjQghPZ74vt0U4xHcKq) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [マジックディスク](https://open.spotify.com/album/1Pz6ADZaTvqTSUBC2ux7oI) | 4:32 | 2025-05-29 |  |
+| [デイドリーム](https://open.spotify.com/track/7bULwkgRO7FHaXHHJbvzI8) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 4:28 | 2026-03-05 |  |
 | [ドラマツルギー](https://open.spotify.com/track/44i0yotEYW72i9QbpWcn6y) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [文化](https://open.spotify.com/album/1CwKQljJ7biZM8t01FiQ1d) | 3:58 | 2025-05-29 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2025-05-29 |  |
 | [凛と](https://open.spotify.com/track/3IB0WE4bAoYWdSuZnTVtRC) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [凛と](https://open.spotify.com/album/2YAul7X7i7JkcSOkNBtFUm) | 3:34 | 2025-05-29 |  |

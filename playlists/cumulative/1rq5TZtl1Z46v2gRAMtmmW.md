@@ -4,7 +4,7 @@
 
 > 
 
-496 songs - 1 day 8 hr 27 min
+497 songs - 1 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 | 2024-07-10 | 2024-09-25 |
 | [Himmel](https://open.spotify.com/track/2VSkFvTEK9R7AsrWRLp8ON) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Himmel / Swarm](https://open.spotify.com/album/63Fj5OB3G8u7LZsYADylFd) | 3:29 | 2024-05-01 | 2024-07-16 |
 | [Holsten](https://open.spotify.com/track/1QY1JdMErccck5JBqqI7tH) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Holsten](https://open.spotify.com/album/0eO4RioDxCnbqFNO6O1hs2) | 5:41 | 2022-09-20 | 2023-04-15 |
+| [Home Ground](https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg) | [Ebbb](https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW) | [Home Ground](https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS) | 3:10 | 2026-03-05 |  |
 | [Hopecore](https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Hopecore](https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12) | 3:00 | 2024-10-24 | 2025-01-22 |
 | [Hopeful](https://open.spotify.com/track/7JXVPV3BIeuDs7JImsuN9P) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Hopeful](https://open.spotify.com/album/12Dxabl9jxz3xNFkfAotIT) | 4:08 | 2023-02-21 | 2023-04-27 |
 | [How I Became a Madman](https://open.spotify.com/track/2vWxZV2grxa10qiqyNQ51a) | [Ami Taf Ra](https://open.spotify.com/artist/2KiesFSnD8ccUdEeZZOo4q), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [How I Became a Madman](https://open.spotify.com/album/5EViAeAyM4Mry14Sb9u7Zw) | 6:53 | 2025-06-17 | 2025-11-07 |

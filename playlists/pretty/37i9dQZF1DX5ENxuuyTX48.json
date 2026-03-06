@@ -1,6 +1,6 @@
 {
   "description": "After all, we are all siblings \ud83c\uddee\ud83c\udde9 \ud83c\uddf2\ud83c\uddfe\ud83c\uddf8\ud83c\uddec  Cover: lullaboy",
-  "num_followers": 29304,
+  "num_followers": 29530,
   "original_name": "mantap vibes",
   "owner": {
     "name": "Spotify",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Terlalu Cinta",
-        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
-      },
-      "artists": [
-        {
-          "name": "Yovie Widianto",
-          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
-        },
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "Terlalu Cinta",
-      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
-    },
-    {
-      "added_at": "2026-01-30 11:45:04",
-      "album": {
         "name": "Penyangkalan",
         "url": "https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 255034,
       "name": "Pesona Sederhana",
       "url": "https://open.spotify.com/track/3k78Q9tWIFvJd6PNGtTofC"
+    },
+    {
+      "added_at": "2026-01-30 11:45:04",
+      "album": {
+        "name": "Terlalu Cinta",
+        "url": "https://open.spotify.com/album/02xTkZ9qQYEA5GtUgnsEcG"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "Terlalu Cinta",
+      "url": "https://open.spotify.com/track/3zmN19fLAcKeDaajrIdWLB"
     },
     {
       "added_at": "2026-01-30 11:45:04",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-01-30 11:45:04",
       "album": {
-        "name": "Mengudara",
-        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 285071,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
-    },
-    {
-      "added_at": "2026-01-30 11:45:04",
-      "album": {
         "name": "Sadrah",
         "url": "https://open.spotify.com/album/2w4AJncxdhdz2MIsBXgbyq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 247007,
       "name": "Sadrah",
       "url": "https://open.spotify.com/track/33UIshRVxXEBzITjCzo6al"
+    },
+    {
+      "added_at": "2026-01-30 11:45:04",
+      "album": {
+        "name": "Mengudara",
+        "url": "https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 285071,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG"
     },
     {
       "added_at": "2026-01-30 11:45:04",

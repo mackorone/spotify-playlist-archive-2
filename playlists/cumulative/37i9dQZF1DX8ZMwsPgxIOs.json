@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Techno is a state of mind. Cover: Linska, Riko Dan ",
+  "description": "Techno is a state of mind. Cover: Lilly Palmer",
   "name": "Techno State",
   "tracks": [
     {
@@ -947,6 +947,24 @@
     },
     {
       "album": {
+        "name": "Bigger Than Techno",
+        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168706,
+      "name": "Bigger Than Techno",
+      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
+    },
+    {
+      "album": {
         "name": "Blika",
         "url": "https://open.spotify.com/album/7mygxwoNaCiqZr7Ltrk03M"
       },
@@ -1852,6 +1870,32 @@
       "duration_ms": 239580,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/5nHaB4kZ5QT8cH4Ie31ssY"
+    },
+    {
+      "album": {
+        "name": "Coming On Strong",
+        "url": "https://open.spotify.com/album/6EDU8MPIrQiVsBaakZ7R6D"
+      },
+      "artists": [
+        {
+          "name": "LUSU",
+          "url": "https://open.spotify.com/artist/4bd80C9zdBA4vYZEJv7C4s"
+        },
+        {
+          "name": "Signum",
+          "url": "https://open.spotify.com/artist/3UJW5QFKMNUAE4rcW3j9WZ"
+        },
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168503,
+      "name": "Coming On Strong",
+      "url": "https://open.spotify.com/track/2I9VhRI0N3UGgnJGKXypAO"
     },
     {
       "album": {
@@ -3375,6 +3419,28 @@
     },
     {
       "album": {
+        "name": "Every Day",
+        "url": "https://open.spotify.com/album/1lZH8ac3SkxVkiKKtDqTB9"
+      },
+      "artists": [
+        {
+          "name": "Moreira (BR)",
+          "url": "https://open.spotify.com/artist/77LsvuJXab7ayPi93kuXbV"
+        },
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194090,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK"
+    },
+    {
+      "album": {
         "name": "Rascal",
         "url": "https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y"
       },
@@ -3634,6 +3700,24 @@
       "duration_ms": 234997,
       "name": "Falling For You",
       "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "album": {
+        "name": "Falling Into Acid Dreams",
+        "url": "https://open.spotify.com/album/4aPvaiQ0Y1X6gWWLf5d7Cu"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244542,
+      "name": "Falling Into Acid Dreams",
+      "url": "https://open.spotify.com/track/10c6UU4DXL2COuDV30tJcJ"
     },
     {
       "album": {
@@ -3962,6 +4046,24 @@
       "duration_ms": 184047,
       "name": "Formulate",
       "url": "https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC"
+    },
+    {
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/5MbkFyl5VbgOZUg55HVwlS"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/2u00QnVqNOPiiI7mAkno1o"
     },
     {
       "album": {
@@ -11016,6 +11118,28 @@
       "duration_ms": 254545,
       "name": "Time",
       "url": "https://open.spotify.com/track/6WuhWyOHhhXGSHOtNrJ3Is"
+    },
+    {
+      "album": {
+        "name": "Time To Burn",
+        "url": "https://open.spotify.com/album/65myrgiKAHrU1J3ol4qjDn"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0"
+        },
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291096,
+      "name": "Time To Burn - Extended Mix",
+      "url": "https://open.spotify.com/track/0QQocTkrxc9DAGKUNLjCvo"
     },
     {
       "album": {

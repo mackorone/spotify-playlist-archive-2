@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter",
-  "num_followers": 440339,
+  "num_followers": 440445,
   "original_name": "Top Contemporary Christian",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,42 @@
   },
   "snapshot_id": "AAAAACkv+Io219NxHLMUo7Myj+9rdrqg",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:41",
+      "album": {
+        "name": "Stand My Ground",
+        "url": "https://open.spotify.com/album/7pGYCXWMHwUKaVWCxcB2kA"
+      },
+      "artists": [
+        {
+          "name": "Cochren & Co.",
+          "url": "https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4"
+        }
+      ],
+      "duration_ms": 175394,
+      "name": "Stand My Ground",
+      "url": "https://open.spotify.com/track/47sscyz9PrvrpyTvmBcr28"
+    },
+    {
+      "added_at": "2026-02-27 05:00:41",
+      "album": {
+        "name": "Still Do (with Cole Swindell)",
+        "url": "https://open.spotify.com/album/5I1UfKeHML9TuLlq84KYrc"
+      },
+      "artists": [
+        {
+          "name": "Anne Wilson",
+          "url": "https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN"
+        },
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 183486,
+      "name": "Still Do (with Cole Swindell)",
+      "url": "https://open.spotify.com/track/4EJFSgGTN73ExICMomPHZq"
+    },
     {
       "added_at": "2026-02-27 05:00:41",
       "album": {

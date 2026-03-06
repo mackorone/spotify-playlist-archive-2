@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Ardhito Pramono
 
-289 songs - 20 hr 5 min
+290 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Seumpama](https://open.spotify.com/track/0IXgRbsg9XkWlTB0L9UbUI) | [Kenneth Mariw](https://open.spotify.com/artist/4Wr5Lu1ieLsS0VrDzad4rs) | [Seumpama](https://open.spotify.com/album/1sJ2WPxYHIVL08WDhAN8Ww) | 3:54 | 2022-09-02 | 2023-06-30 |
 | [Sign of Love](https://open.spotify.com/track/6e2VzhU88re1jusfK8UeHp) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [The Rhythm Service](https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019) | [Sign of Love](https://open.spotify.com/album/2HNChhmOY2HldqTW1lwh2g) | 3:24 | 2024-05-30 | 2025-07-18 |
 | [Simfoni Terindah](https://open.spotify.com/track/3uEyCGXO7k8pOa03MN5EOI) | [R.I.M.A](https://open.spotify.com/artist/5J3sqHpT5WhczXbUp3EJbv), [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Ivan Saba](https://open.spotify.com/artist/072CgAk1HmFGMjDXD9W8XH), [Ryan V](https://open.spotify.com/artist/6ANuxxQyRWG4GvsxBQJvDD), [DJ Faith](https://open.spotify.com/artist/55JM0kFrnN2lsNWhhdv1JG) | [Simfoni Terindah](https://open.spotify.com/album/2wFyzSPeGj9eTzTuCyTuZ8) | 3:20 | 2022-09-02 | 2023-08-18 |
+| [Sleepless Light \(Deluxe Version\) \- Live](https://open.spotify.com/track/0JBOJ6hCMnNx33C7b5BF43) | [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Albert Fakdawer](https://open.spotify.com/artist/1mEija09kczZccE9j1k7mv), [Dimas Pradipta](https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Sleepless Light \(Deluxe Version\) \[Live\]](https://open.spotify.com/album/19FpF3Qo0GRnZ5s18CmssU) | 7:42 | 2026-03-05 |  |
 | [Small Steps](https://open.spotify.com/track/1GTurAcZYchUWusuE9NNLh) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Small Steps \- EP](https://open.spotify.com/album/3DCU0szK5y7UMaLqUZffOW) | 1:55 | 2023-05-25 | 2024-11-16 |
 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 | 2023-06-08 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 | 2023-09-29 |

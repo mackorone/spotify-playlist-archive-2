@@ -17287,6 +17287,24 @@
     },
     {
       "album": {
+        "name": "Massimino",
+        "url": "https://open.spotify.com/album/6XSBXUgjMpDmYMSa87Z07X"
+      },
+      "artists": [
+        {
+          "name": "Marrakech Express",
+          "url": "https://open.spotify.com/artist/35XLYYGJ8Cf1G6tw5XbiWU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152241,
+      "name": "Massimino",
+      "url": "https://open.spotify.com/track/1BWtKPcPzRAwGdmXwZHV6F"
+    },
+    {
+      "album": {
         "name": "MASTICA",
         "url": "https://open.spotify.com/album/0z3z2KGzRPZai150eCijeH"
       },
@@ -22611,6 +22629,28 @@
     },
     {
       "album": {
+        "name": "PREGA PER ME",
+        "url": "https://open.spotify.com/album/2foAJRzLi54vWWQikZhcmz"
+      },
+      "artists": [
+        {
+          "name": "Wenzo",
+          "url": "https://open.spotify.com/artist/3nZjHRpNZSd3UoqJ7ELysU"
+        },
+        {
+          "name": "Jack Out",
+          "url": "https://open.spotify.com/artist/7KFzz2W8u1HdZhX2XcZCXI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160382,
+      "name": "PREGA PER ME",
+      "url": "https://open.spotify.com/track/5k3A2cF3b4gAEoUltxlet4"
+    },
+    {
+      "album": {
         "name": "\u2020 LA FINE \u2020",
         "url": "https://open.spotify.com/album/3jXRLMSqibST5BV9gufA2a"
       },
@@ -23090,6 +23130,24 @@
       "duration_ms": 190702,
       "name": "Quando casco di sotto",
       "url": "https://open.spotify.com/track/5B2gVpi7f6Tm7SXGnnjM3d"
+    },
+    {
+      "album": {
+        "name": "QUANDO DICO CERTE COSE",
+        "url": "https://open.spotify.com/album/7ATLQMgyBXWDhNEv8XpH4l"
+      },
+      "artists": [
+        {
+          "name": "Nyno",
+          "url": "https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144298,
+      "name": "QUANDO DICO CERTE COSE",
+      "url": "https://open.spotify.com/track/7GW4tvAgvulZVORYyCwP7i"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: ERRA
 
-1,522 songs - 3 day 20 hr 33 min
+1,523 songs - 3 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Aching Longing](https://open.spotify.com/track/6AgeANDgNF06cIPuMydVRs) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/1rxAll7UcrOGxZEWucxKlB) | 4:24 | 2022-07-08 | 2022-08-06 |
 | [Aching Longing](https://open.spotify.com/track/6ZhyOZ8QRgzrrvRLly2KFc) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Aching Longing](https://open.spotify.com/album/02YgVH2psjdq6a8wGoAXfC) | 4:24 | 2022-06-10 | 2022-07-29 |
 | [Acrid Canon](https://open.spotify.com/track/0DTKX0zPhXSrvIOHdJxv6q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Bleed the Future](https://open.spotify.com/album/5lWIRgkSy5WWOMrZ7xxygH) | 4:08 | 2022-07-13 | 2022-07-23 |
+| [Ad Mortem](https://open.spotify.com/track/06p9pcize5jRf60suHxXZv) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org), [Pastgloom](https://open.spotify.com/artist/1vtDoKdcE6gdsHnpXTn1OZ), [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7) | [Ad Mortem](https://open.spotify.com/album/7hHvCfJlotChMBl6Z2qR6M) | 5:01 | 2026-03-02 |  |
 | [Administer the Dagger](https://open.spotify.com/track/76oQEVB2qHnATgoUJNEXgu) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [Complete Control](https://open.spotify.com/album/32W7n2vtVx6QuMCZiMnsSa) | 4:52 | 2022-07-13 | 2022-07-23 |
 | [Advance Upon Me Brethren \- Redux](https://open.spotify.com/track/1nsnnETeOSRcomryUMJ3Az) | [Reflections](https://open.spotify.com/artist/0DTH9zFyvRb24bb8XN0iEr) | [The Fantasy Effect Redux](https://open.spotify.com/album/2bbHGhYeAS251rpr595BKx) | 4:42 | 2022-04-29 | 2022-07-28 |
 | [Aeon](https://open.spotify.com/track/39aouGYhIeMp9iWc9OEd8Y) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/6Z63V1YXcM6JG7XyWDmevd) | 3:13 | 2022-07-13 | 2022-07-15 |
@@ -1185,7 +1186,7 @@
 | [Solara](https://open.spotify.com/track/7H7WnOrs2vY34YslgI1yTe) | [Unprocessed](https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4), [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Angel](https://open.spotify.com/album/1r0jblBmqcxBPZFMwpP1dq) | 3:25 | 2025-12-12 |  |
 | [Somebody Else](https://open.spotify.com/track/0vVOeZyoCIXtjzle4chYl3) | [Awaken I Am](https://open.spotify.com/artist/3BwbgahlwovSpRfctWi8zY) | [The Only Way Out Is Through](https://open.spotify.com/album/35S40ZolHlzfsGQJopvKSP) | 3:06 | 2025-06-30 | 2025-08-31 |
 | [SOMEONE ELSE](https://open.spotify.com/track/71yPnlKcVhY98DayZdUFYH) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [SOMEONE ELSE](https://open.spotify.com/album/77UuardHSldSzZApqo95tt) | 3:26 | 2022-01-21 | 2022-04-29 |
-| [Someone Lonely](https://open.spotify.com/track/5DFmZzT4UUqil9qaRjP4Aq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Someone Lonely](https://open.spotify.com/album/4yXmJxN7s20U6j2gT30ENO) | 3:09 | 2025-10-17 |  |
+| [Someone Lonely](https://open.spotify.com/track/5DFmZzT4UUqil9qaRjP4Aq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Someone Lonely](https://open.spotify.com/album/4yXmJxN7s20U6j2gT30ENO) | 3:09 | 2025-10-17 | 2026-03-06 |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-06-04 | 2024-12-19 |
 | [Something In The Way](https://open.spotify.com/track/3V28Eb87Y8du002uxsxUDn) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Something In The Way](https://open.spotify.com/album/1ZyprDf0216EbtcBS48cjz) | 3:39 | 2025-03-31 | 2025-04-26 |
 | [Song 3](https://open.spotify.com/track/7eDUTBIo76AMC5UYqkkzDL) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Song 3](https://open.spotify.com/album/0Cxa2LwLEBIpVglPWwiias) | 3:34 | 2025-05-30 | 2025-08-15 |

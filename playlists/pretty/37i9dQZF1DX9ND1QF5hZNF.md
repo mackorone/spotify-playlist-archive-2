@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 747,038 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 747,085 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 28 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 |
 | 29 | [COLORS](https://open.spotify.com/track/45dmhJngghAsnQxYSW0YaU) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [COLORS](https://open.spotify.com/album/5hyRuLuzA6cP4Ltzb7CjEH) | 3:46 |
 | 30 | [Her Eyes](https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Her Eyes](https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by) | 3:35 |
-| 31 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [zss](https://open.spotify.com/artist/0997972c1IG9I5mtbb4oHe), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 |
+| 31 | [Kumeleli](https://open.spotify.com/track/5KSuwgDnzR9t7ld4cFMgyb) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [ZSS](https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe), [Oluhle](https://open.spotify.com/artist/3hsqJzLpc4GRAAqhnebDaT) | [Kumeleli](https://open.spotify.com/album/3PzAVIACspi26h0XBo6L3Z) | 5:24 |
 | 32 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
 | 33 | [love u](https://open.spotify.com/track/0rCtHcW3wmcZkflrMw73VT) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4), [Lily Denning](https://open.spotify.com/artist/3gY5phLoPwEPBcHXck53XX) | [love u](https://open.spotify.com/album/6XihBoq4eeJdM1Hj18fDiO) | 2:53 |
 | 34 | [Lucky Star](https://open.spotify.com/track/2IMYd9xzr2jJ6GOpYcmJ7Q) | [Superfunk](https://open.spotify.com/artist/1CbopBMbfM0ned5OAsTkv4), [Holseek](https://open.spotify.com/artist/6rtScDLmn7xeFY4F71v4e3), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Lucky Star](https://open.spotify.com/album/2LmebXVmdpNnCxnytWWhxM) | 2:30 |

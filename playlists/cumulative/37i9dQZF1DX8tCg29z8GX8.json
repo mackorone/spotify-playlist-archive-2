@@ -969,6 +969,24 @@
     },
     {
       "album": {
+        "name": "Another 365 (Happy Birthday)",
+        "url": "https://open.spotify.com/album/23EbraFueVN1bxuOSFNg5l"
+      },
+      "artists": [
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Another 365 (Happy Birthday)",
+      "url": "https://open.spotify.com/track/4KZfXltSnmDVUmehV2PWrh"
+    },
+    {
+      "album": {
         "name": "Seductive",
         "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
       },
@@ -2098,6 +2116,24 @@
       "duration_ms": 192527,
       "name": "Bend",
       "url": "https://open.spotify.com/track/4LN7BAe5snUpAqFffvxQZE"
+    },
+    {
+      "album": {
+        "name": "Bend",
+        "url": "https://open.spotify.com/album/78DAIq9EghS4HC15ztnHgn"
+      },
+      "artists": [
+        {
+          "name": "Reefer Tym",
+          "url": "https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Bend",
+      "url": "https://open.spotify.com/track/6FDxeFYzxynwcb8vzYkXlj"
     },
     {
       "album": {
@@ -7624,7 +7660,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 206051,
       "name": "Kwaku Ananse",
       "url": "https://open.spotify.com/track/2N9w3FacGQIN18o0DeFO1X"
@@ -9128,6 +9164,24 @@
       "duration_ms": 186000,
       "name": "Mmerepa",
       "url": "https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i"
+    },
+    {
+      "album": {
+        "name": "MO NTW\u0190N!",
+        "url": "https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122024,
+      "name": "MO NTW\u0190N!",
+      "url": "https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs"
     },
     {
       "album": {
@@ -11592,7 +11646,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 159905,
       "name": "Put Am on God",
       "url": "https://open.spotify.com/track/6Qw5ZCRSOXLL5WlDb4YkN3"
@@ -13022,7 +13076,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 166312,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6m71O5AaaMUJoqbIGfnILk"

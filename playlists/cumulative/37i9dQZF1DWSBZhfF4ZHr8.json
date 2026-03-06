@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Helena\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Oria\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -644,6 +644,24 @@
       "duration_ms": 180783,
       "name": "Boule au ventre",
       "url": "https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j"
+    },
+    {
+      "album": {
+        "name": "boum boum barbie",
+        "url": "https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP"
+      },
+      "artists": [
+        {
+          "name": "Marie Jay",
+          "url": "https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144558,
+      "name": "boum boum barbie",
+      "url": "https://open.spotify.com/track/51qU69BObybLoJS2grfKBG"
     },
     {
       "album": {
@@ -1759,6 +1777,24 @@
     },
     {
       "album": {
+        "name": "La fille qui a plus mal",
+        "url": "https://open.spotify.com/album/45lD7LnGP2RJwBd8Vhw98l"
+      },
+      "artists": [
+        {
+          "name": "Styleto",
+          "url": "https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Dsl pas dsl",
+      "url": "https://open.spotify.com/track/6gEw1z1oPFWocgk2ysI9xR"
+    },
+    {
+      "album": {
         "name": "D\u00e9lit de m\u00e9lancolie",
         "url": "https://open.spotify.com/album/7bq7CwAU7YweDXvtrCm2rZ"
       },
@@ -2183,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "Famille ou pas famille",
+        "url": "https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd"
+      },
+      "artists": [
+        {
+          "name": "Charles Dor\u00e9",
+          "url": "https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181160,
+      "name": "Famille ou pas famille",
+      "url": "https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx"
+    },
+    {
+      "album": {
         "name": "Fashionista",
         "url": "https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo"
       },
@@ -2594,7 +2648,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 173224,
       "name": "Hypersensible",
       "url": "https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA"
@@ -3386,7 +3440,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 159183,
       "name": "La Camisa Negra",
       "url": "https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN"
@@ -4166,7 +4220,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 179000,
       "name": "Lentement",
       "url": "https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ"
@@ -5427,6 +5481,28 @@
     },
     {
       "album": {
+        "name": "OK KO (Nouvelle \u00c9dition)",
+        "url": "https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ"
+      },
+      "artists": [
+        {
+          "name": "Superbus",
+          "url": "https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq"
+        },
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166240,
+      "name": "OK KO (feat. Kyo)",
+      "url": "https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV"
+    },
+    {
+      "album": {
         "name": "On dort",
         "url": "https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi"
       },
@@ -5760,7 +5836,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 148444,
       "name": "Pas le meilleur",
       "url": "https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC"

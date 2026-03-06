@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 32918,
+  "num_followers": 32941,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "guarda tus migajas",
-        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        }
-      ],
-      "duration_ms": 256633,
-      "name": "guarda tus migajas",
-      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "las consecuencias",
         "url": "https://open.spotify.com/album/2jcKhSAes8tIw5GXH91Ks9"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 191448,
       "name": "las consecuencias",
       "url": "https://open.spotify.com/track/0x3M7EQkASM6NQW53mNK9d"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "guarda tus migajas",
+        "url": "https://open.spotify.com/album/0e1NpDpEmr5QZEgIBxly2K"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        }
+      ],
+      "duration_ms": 256633,
+      "name": "guarda tus migajas",
+      "url": "https://open.spotify.com/track/2m9eEKD7YD8oYv3BCIYCxo"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "\u00bfC\u00f3mo decir adi\u00f3s?",
         "url": "https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 156610,
       "name": "Atardeci\u00f3 sin vos",
       "url": "https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "hastalamadre",
-        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        },
-        {
-          "name": "Andr\u00e9 Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
-        }
-      ],
-      "duration_ms": 235966,
-      "name": "hastalamadre",
-      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "La \u00daltima Ola",
         "url": "https://open.spotify.com/album/14yYxeHiP07nFfEYanYjSq"
       },
@@ -839,6 +819,26 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "hastalamadre",
+        "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        },
+        {
+          "name": "Andr\u00e9 Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/7phFXdqgpWQBixQTduLL6D"
+        }
+      ],
+      "duration_ms": 235966,
+      "name": "hastalamadre",
+      "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "no me culpes por sentir",
         "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Qu\u00e9 Tal",
-        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
-        }
-      ],
-      "duration_ms": 164266,
-      "name": "Qu\u00e9 Tal",
-      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 187649,
       "name": "M\u00e1s",
       "url": "https://open.spotify.com/track/6mBo4qsU84G7R9AlUiEH2X"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Qu\u00e9 Tal",
+        "url": "https://open.spotify.com/album/5z7Aq8OR67uY4iWTuIh8E7"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+        }
+      ],
+      "duration_ms": 164266,
+      "name": "Qu\u00e9 Tal",
+      "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Ojos Vac\u00edos",
-        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 204417,
-      "name": "Por Ahorita",
-      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Flores Muertas",
         "url": "https://open.spotify.com/album/73c1nObVrUEtZwmY89VnEC"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 328663,
       "name": "Flores Muertas",
       "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Ojos Vac\u00edos",
+        "url": "https://open.spotify.com/album/39MoSLkmTFasjXjfWGzqqB"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 204417,
+      "name": "Por Ahorita",
+      "url": "https://open.spotify.com/track/0FO7EvnAJStsLu0eIIBp73"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1291,6 +1291,22 @@
       "duration_ms": 207999,
       "name": "Veo Veo",
       "url": "https://open.spotify.com/track/4j9pS5hEbPGQYhCscA7chz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Una historia que contar",
+        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
+      },
+      "artists": [
+        {
+          "name": "Mateo Falgas",
+          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
+        }
+      ],
+      "duration_ms": 186995,
+      "name": "Una historia que contar",
+      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1363,22 +1379,6 @@
       "duration_ms": 205226,
       "name": "New Dawn",
       "url": "https://open.spotify.com/track/5BGwqU8mOCyyRP8PKmYMdV"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Una historia que contar",
-        "url": "https://open.spotify.com/album/2DTN8LKAtN4SqPHzAgh1vk"
-      },
-      "artists": [
-        {
-          "name": "Mateo Falgas",
-          "url": "https://open.spotify.com/artist/62VR2EZIOZeaTDQ3t7M41W"
-        }
-      ],
-      "duration_ms": 186995,
-      "name": "Una historia que contar",
-      "url": "https://open.spotify.com/track/0T3y7Z7Nx4RMPJH1L594EZ"
     },
     {
       "added_at": "2026-01-30 05:01:09",

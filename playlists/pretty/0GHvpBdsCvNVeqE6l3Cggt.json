@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAj+yORJMgoLfrLP00CEWzmLm/5gMsF",
+  "snapshot_id": "AAAkAehCfPWUlVYo//DiM7SzB1/QTF8x",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -585,70 +585,6 @@
       "url": "https://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU"
     },
     {
-      "added_at": "2026-02-13 08:37:42",
-      "album": {
-        "name": "I Want Your Soul",
-        "url": "https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv"
-      },
-      "artists": [
-        {
-          "name": "The Sunshine Kidz",
-          "url": "https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ"
-        }
-      ],
-      "duration_ms": 265600,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP"
-    },
-    {
-      "added_at": "2026-02-13 14:39:34",
-      "album": {
-        "name": "True Love In A Box",
-        "url": "https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy"
-      },
-      "artists": [
-        {
-          "name": "Poppet",
-          "url": "https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1"
-        }
-      ],
-      "duration_ms": 127229,
-      "name": "True Love In A Box",
-      "url": "https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ"
-    },
-    {
-      "added_at": "2026-02-19 08:14:12",
-      "album": {
-        "name": "Live for Today",
-        "url": "https://open.spotify.com/album/47kzzxLXAGWr7W0yCBDBbu"
-      },
-      "artists": [
-        {
-          "name": "Neil Wells",
-          "url": "https://open.spotify.com/artist/1II894supggID2amUinnsf"
-        }
-      ],
-      "duration_ms": 251765,
-      "name": "That's What We Believe",
-      "url": "https://open.spotify.com/track/1hg6b7A7F83lrB4A3TB6c2"
-    },
-    {
-      "added_at": "2026-02-19 17:26:46",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/6k6Mm0cN1KMKYAam21oTQc"
-      },
-      "artists": [
-        {
-          "name": "S. Lithgow",
-          "url": "https://open.spotify.com/artist/5KAF3JLJzJ6Wz290F7yzYE"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/2bFyGEUX5XbrvR7a0xb8kg"
-    },
-    {
       "added_at": "2026-02-23 08:59:59",
       "album": {
         "name": "Afterlight Rebirth",
@@ -795,6 +731,38 @@
       "duration_ms": 213698,
       "name": "\u30a4\u30de\u30b8\u30cd\u30fc\u30b7\u30e7\u30f3\u30fb\u30b7\u30c6\u30a3",
       "url": "https://open.spotify.com/track/0JBZyzlZPAvS7kdMnQbayj"
+    },
+    {
+      "added_at": "2026-03-05 08:52:07",
+      "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/0j9QcJzHJAB6e2CC689lKO"
+      },
+      "artists": [
+        {
+          "name": "Sean Blu",
+          "url": "https://open.spotify.com/artist/5G0irBhjyBtG6hfg6fuBgx"
+        }
+      ],
+      "duration_ms": 165651,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/0FQfOZAX6qhCQuXWKN34ts"
+    },
+    {
+      "added_at": "2026-03-05 08:53:12",
+      "album": {
+        "name": "Drunk on Expectations",
+        "url": "https://open.spotify.com/album/2y8QEB1F7eDQNYNmZhwEGz"
+      },
+      "artists": [
+        {
+          "name": "Amity Hayze",
+          "url": "https://open.spotify.com/artist/5NMNo5sQFABJdY3jHH53wf"
+        }
+      ],
+      "duration_ms": 177329,
+      "name": "Drunk on Expectations",
+      "url": "https://open.spotify.com/track/4i2M8BK7EBbkuZxn2CFcia"
     }
   ],
   "unique_name": "Alternative Pop Archive",

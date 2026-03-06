@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Helena
+> Les meilleures nouveautés de la variété française avec Oria
 
-440 songs - 21 hr 43 min
+444 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Bijou](https://open.spotify.com/track/025HZ4WXMzptOa0SztQ8ky) | [Jeanne Gabrielle](https://open.spotify.com/artist/01DNT67EQW5Pcj6BIXHfnZ) | [Bijou](https://open.spotify.com/album/0WPPIiYdFOTI4WTR7bd31Y) | 2:49 | 2025-10-16 | 2026-02-13 |
 | [Bollywood](https://open.spotify.com/track/6YQuwMRXGbbBHGw54F1BPl) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Bollywood](https://open.spotify.com/album/6stKRosdbqJWhxg0GFxP34) | 2:52 | 2025-04-17 | 2025-05-23 |
 | [Boule au ventre](https://open.spotify.com/track/4P3CwJ2gqym33wJKeeOl4j) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 3:00 | 2025-11-20 | 2026-01-16 |
+| [boum boum barbie](https://open.spotify.com/track/51qU69BObybLoJS2grfKBG) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [boum boum barbie](https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP) | 2:24 | 2026-03-05 |  |
 | [Butterfly](https://open.spotify.com/track/4FsPvaASzHNVGs0vFXavBo) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [RORI](https://open.spotify.com/artist/1VGFnvgAwxMlV8D729gs5I) | [Butterfly](https://open.spotify.com/album/3rOI7YmGY7hVB8m7YZ8HPY) | 3:43 | 2025-06-12 | 2025-09-13 |
 | [Bye \(feat\. Vitaa\)](https://open.spotify.com/track/7yPLuv0JNnSJrKRJjaDon5) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [+1](https://open.spotify.com/album/1eoAQ3NzpoBJwFsI79LYqO) | 2:49 | 2024-11-21 | 2025-02-07 |
 | [Bye Bye](https://open.spotify.com/track/7zSFYYKM7ygYInwcbs1Aj2) | [Eloïz](https://open.spotify.com/artist/1J7b2Snol73xTmYILnCk1t) | [Bye Bye](https://open.spotify.com/album/6EC2GZOfGX9KbIGBjZy1PP) | 2:45 | 2025-09-25 | 2026-01-02 |
@@ -103,6 +104,7 @@
 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 | 2025-07-10 | 2025-09-26 |
 | [Domino](https://open.spotify.com/track/62jHdjJuQKcwQFyn2qqU7T) | [Lenie](https://open.spotify.com/artist/2ln12LyfiK9UkmiYXOiuaF) | [Domino](https://open.spotify.com/album/0T5bkxRSeVR6yVhJpliWQv) | 2:20 | 2025-01-30 | 2025-03-21 |
 | [Dopamine](https://open.spotify.com/track/6gdygzZgltsF4FDEidLEM4) | [Esmée](https://open.spotify.com/artist/4ltaLmNRwdD98CtEsot497) | [Dopamine](https://open.spotify.com/album/1RL7YvvMwqUDqw0UNTZ37H) | 2:40 | 2026-02-12 |  |
+| [Dsl pas dsl](https://open.spotify.com/track/6gEw1z1oPFWocgk2ysI9xR) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [La fille qui a plus mal](https://open.spotify.com/album/45lD7LnGP2RJwBd8Vhw98l) | 2:54 | 2026-03-05 |  |
 | [Délit de mélancolie](https://open.spotify.com/track/4x4wAE7wdLBoZVdws13kZ2) | [Elia](https://open.spotify.com/artist/5KbznS5SUZOb7skpdIO9J6) | [Délit de mélancolie](https://open.spotify.com/album/7bq7CwAU7YweDXvtrCm2rZ) | 2:50 | 2024-06-27 | 2024-07-19 |
 | [Désolée](https://open.spotify.com/track/0AzaMqhl2gXLoYJZ8CePen) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Désolée](https://open.spotify.com/album/4Ped3CYGFTg0i1JbC557Xn) | 2:44 | 2025-01-30 | 2025-04-11 |
 | [Eau de javel](https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB), [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Nos futurs](https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T) | 2:57 | 2024-06-27 | 2024-09-13 |
@@ -125,6 +127,7 @@
 | [Extraordinaire](https://open.spotify.com/track/4rLtn4lxJDI40eDFIY78TY) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:45 | 2025-12-11 |  |
 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 | 2024-06-27 | 2024-07-27 |
 | [Falbala](https://open.spotify.com/track/3zDHDOpx6NhjLamk3F4kPP) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Falbala](https://open.spotify.com/album/2EA2AKC2rCIsHZGhgcJyeL) | 2:28 | 2025-06-26 | 2025-09-26 |
+| [Famille ou pas famille](https://open.spotify.com/track/6FnLfT6EVS0IPhPAidTTmx) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Famille ou pas famille](https://open.spotify.com/album/5RqbggO0gxtg1qSSdHCqYd) | 3:01 | 2026-03-05 |  |
 | [Fashionista](https://open.spotify.com/track/747tXUosf24taPFSdrNWOa) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Fashionista](https://open.spotify.com/album/2zoBNbOH6Yx6UTBEEvj2jo) | 2:32 | 2024-10-10 | 2025-01-10 |
 | [Femmes](https://open.spotify.com/track/0OeHU9htZa9Lm9TjSqyGtw) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Femmes](https://open.spotify.com/album/75joziTdAqT68ZtBK7rds1) | 3:00 | 2026-01-08 |  |
 | [Fighter \- Eurovision Version](https://open.spotify.com/track/6syLoIbMRXvCEr94FMVBHh) | [TALI](https://open.spotify.com/artist/6v6wot3YV1QnPry6mfrCLK) | [Fighter \(Eurovision Version\)](https://open.spotify.com/album/759G3cPO8KnudNnVPW7MV9) | 2:59 | 2024-06-27 | 2024-08-30 |
@@ -143,7 +146,7 @@
 | [Hors du temps](https://open.spotify.com/track/0MOGSIHKrUrwHymdUqljfg) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [Hors du temps](https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59) | 2:53 | 2025-06-26 | 2025-09-26 |
 | [Hyper](https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [15h22](https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1) | 3:19 | 2024-09-05 | 2024-10-25 |
 | [Hyper \- Radio Edit](https://open.spotify.com/track/1PJy77luqvCQfOGVeLIB4V) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Hyper \(Radio Edit\)](https://open.spotify.com/album/3PzybE4ndU1NFjsabkqfJU) | 3:11 | 2024-11-28 | 2025-02-07 |
-| [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 | 2025-12-04 |  |
+| [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 | 2025-12-04 | 2026-03-06 |
 | [Il suffit d'une chanson](https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34) | [Il suffit d'une chanson](https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH) | 3:07 | 2025-05-22 | 2025-08-29 |
 | [ILOVEYOU](https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU](https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy) | 3:51 | 2025-12-25 | 2026-01-17 |
 | [ILOVEYOU \- Radio Edit](https://open.spotify.com/track/47U0wny1LcR45QwrtrpOGj) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU \(Radio Edit\)](https://open.spotify.com/album/2Wv9giNmz2A9Ab1GOiOLwl) | 3:14 | 2026-01-16 | 2026-02-20 |
@@ -185,7 +188,7 @@
 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 | 2025-09-11 | 2025-10-10 |
 | [L'idylle](https://open.spotify.com/track/4HTlF3wt5o9o4ltWczJXdD) | [Trois Cafés Gourmands](https://open.spotify.com/artist/4wngxtsP87ozrQh05D90dO) | [Des ondes et des reflets \(Réédition\)](https://open.spotify.com/album/3iJmOyrpxp8kXp5m2ChnwW) | 2:55 | 2025-11-13 | 2026-01-23 |
 | [la boss](https://open.spotify.com/track/6xrDSwUTjEbFDmEaAjUQab) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [la boss](https://open.spotify.com/album/7u74BHRRxw58frd6WU1995) | 2:46 | 2026-02-19 |  |
-| [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2025-12-11 |  |
+| [La Camisa Negra](https://open.spotify.com/track/6YXzUdghHSq7ZboxgIUoPN) | [Elliott](https://open.spotify.com/artist/5wDLFAbBdYDPPwAVA9UONC) | [La Camisa Negra](https://open.spotify.com/album/2LhMTdlwGApT9EJZI6nygE) | 2:39 | 2025-12-11 | 2026-03-06 |
 | [La chanson d'amour](https://open.spotify.com/track/1Ylc7I9K1eShClEH1NLFBo) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La chanson d'amour](https://open.spotify.com/album/71VvbsJXaYjuYienm7G1j7) | 3:27 | 2026-02-05 |  |
 | [La couleur de la mer \- Edit](https://open.spotify.com/track/4Y85ePGohVZx7zmsyKeIPE) | [Petit K](https://open.spotify.com/artist/6YfkvtZmlYJ9nct7G37wY6) | [La couleur de la mer](https://open.spotify.com/album/3hGqqPnjxzG0SO1KCYHdqP) | 2:35 | 2024-06-27 | 2024-08-30 |
 | [La Différence](https://open.spotify.com/track/05zHKOB7aXxEKN5nVZC7E6) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 4:32 | 2024-06-27 | 2024-08-30 |
@@ -227,7 +230,7 @@
 | [Le tour du monde](https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd) | [Margot Abate](https://open.spotify.com/artist/0ouq6n8iijSIkvrMyW2lNZ) | [Le tour du monde](https://open.spotify.com/album/6nWL5kBOrcd6T6PbqDiiim) | 2:30 | 2024-06-27 | 2024-09-06 |
 | [Leave a message](https://open.spotify.com/track/27ky9OVkjEUT7snpeKqh0o) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Leave a message](https://open.spotify.com/album/3Cd9g4btaYrcDbK7ahqlZ6) | 3:44 | 2024-06-27 | 2024-08-02 |
 | [Lendemain de fête](https://open.spotify.com/track/5i3e6gjbom2iWqspwmCGbA) | [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [Lendemain de fête](https://open.spotify.com/album/1BlXnz1DGAT1luAvYhTMtG) | 3:03 | 2025-09-04 | 2025-11-21 |
-| [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 | 2025-11-27 |  |
+| [Lentement](https://open.spotify.com/track/0E2ZSMUTQoMJF9gud4JSvZ) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Lentement](https://open.spotify.com/album/7m80SDtHS4znhOoqxMqECv) | 2:59 | 2025-11-27 | 2026-03-06 |
 | [Les autres](https://open.spotify.com/track/0iAZ27myFIUjZySlCPuZmW) | [Cobalt](https://open.spotify.com/artist/6WgLIuTWmYjBTFN64iv7ZB) | [Sincère](https://open.spotify.com/album/77sVqb7mCGYz8dJRB5a7BB) | 2:41 | 2026-01-22 |  |
 | [les avions](https://open.spotify.com/track/0rKI4LbWhiYLrokKjVxQHt) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les avions](https://open.spotify.com/album/6PELiskolaUJaVhvFR9Pbk) | 2:38 | 2025-08-28 | 2025-10-03 |
 | [Les cités de l'amour](https://open.spotify.com/track/0QzjHbSKAG3OFYaQrk8kL6) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Les cités de l'amour](https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT) | 3:11 | 2025-04-17 | 2025-06-06 |
@@ -291,6 +294,7 @@
 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 | 2024-06-27 | 2024-09-20 |
 | [Nouveau départ](https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Nouveau départ](https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4) | 2:38 | 2024-09-05 | 2024-11-22 |
 | [Nouveau jour](https://open.spotify.com/track/7yRk1Wz8zcP3Oq8Y6osHHi) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Nouveau jour](https://open.spotify.com/album/0Ex2lKs81gEUxA9Xbe8S8p) | 2:06 | 2025-06-12 | 2025-09-19 |
+| [OK KO \(feat\. Kyo\)](https://open.spotify.com/track/69Fw8Cx50fVi0Pv7NJayhV) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok) | [OK KO \(Nouvelle Édition\)](https://open.spotify.com/album/04WoFGsAqbdlJvAWljYCdQ) | 2:46 | 2026-03-05 |  |
 | [On dort](https://open.spotify.com/track/3kooOutN1DnjDmDoVBos2Y) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [On dort](https://open.spotify.com/album/0OUEWqcp3XPSf3IFxpzwPi) | 2:38 | 2025-02-28 | 2025-03-28 |
 | [On est plein](https://open.spotify.com/track/2ICuCWhGgRjDrwWwLU6BZL) | [Léman](https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ) | [On est plein](https://open.spotify.com/album/3RaPUwYRoMim1mYm7si46l) | 2:26 | 2024-06-27 | 2024-10-18 |
 | [On s'écrira](https://open.spotify.com/track/2BCdppopkwUrAHw6nepqRD) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [On s'écrira](https://open.spotify.com/album/0cJEP5ecTZ0CObshdrHBCs) | 2:52 | 2024-09-19 | 2024-11-29 |
@@ -308,7 +312,7 @@
 | [Pas besoin de toi](https://open.spotify.com/track/28NjRNl9MQ67pc6piNL8uZ) | [EMMA](https://open.spotify.com/artist/0p6woNDdqjwgcl4uLuCX4V) | [Pas besoin de toi](https://open.spotify.com/album/1WOnAen8RbXgxclAukfOfe) | 2:28 | 2025-10-02 | 2025-10-17 |
 | [Pas d'amour](https://open.spotify.com/track/1iDb5lwBCf664RyzyxBi9X) | [Cenzo](https://open.spotify.com/artist/7ChUrEb8MmLmLGloTbj9oL) | [Pas d'amour](https://open.spotify.com/album/7usC7IUjKjVnCetlmjHFUY) | 2:40 | 2025-04-24 | 2025-06-13 |
 | [Pas d'après](https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5) | [Valentina](https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S) | [Pas d'après](https://open.spotify.com/album/5NSJgnOFxYZnCxNQk5OAkC) | 2:40 | 2024-06-27 | 2024-09-06 |
-| [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 | 2025-12-04 |  |
+| [Pas le meilleur](https://open.spotify.com/track/5IsEeoWPNMBzbHaBpYRGuC) | [Ulysse](https://open.spotify.com/artist/0IHkcxD79oKnHexJ1D7fuQ) | [Le rêveur du bal](https://open.spotify.com/album/7fi8Ksz3tnIFxAydBa6fFU) | 2:28 | 2025-12-04 | 2026-03-06 |
 | [Pasçalavie](https://open.spotify.com/track/0YHlP9nMm9DPrqZ0iwra3U) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [Pasçalavie](https://open.spotify.com/album/1YRVAX6zy7GBbQRQiRY6et) | 3:24 | 2026-01-29 |  |
 | [Perdu En Mer](https://open.spotify.com/track/0SsduTUrCZaq6Kt99XS6fS) | [Alex Roussiaux](https://open.spotify.com/artist/2gLTBD2g3G1CgXjB3sFwcV) | [Perdu En Mer](https://open.spotify.com/album/3aycKZounQ4iuQVzUY1y55) | 3:02 | 2025-11-13 | 2026-02-20 |
 | [Petit](https://open.spotify.com/track/39I0BFHXeltCjKjVXLYw6P) | [Julien Andriana](https://open.spotify.com/artist/1IpfgEWQa7m6ERlU9NCCPX) | [Petit](https://open.spotify.com/album/2Ic3DxDRFDte2DjHsEMidH) | 3:04 | 2025-04-21 | 2025-07-04 |

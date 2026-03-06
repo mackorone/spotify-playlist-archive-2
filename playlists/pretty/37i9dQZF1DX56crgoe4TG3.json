@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284255,
+  "num_followers": 284303,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Red On Blonde",
+        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
+      },
+      "artists": [
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+        }
+      ],
+      "duration_ms": 242760,
+      "name": "Senor (Tales Of Yankee Power)",
+      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Destinations and Fun Places",
         "url": "https://open.spotify.com/album/3Gj5Gbm8U9ce2FwW9kdBKl"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 256924,
       "name": "Take Me Home Country Roads",
       "url": "https://open.spotify.com/track/4pVJqLoz3kSFL2Oe1UaHgt"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Red On Blonde",
-        "url": "https://open.spotify.com/album/1g1SmW9O61u6tKktYfYcrj"
-      },
-      "artists": [
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
-        }
-      ],
-      "duration_ms": 242760,
-      "name": "Senor (Tales Of Yankee Power)",
-      "url": "https://open.spotify.com/track/1ABTia5xv1oYxqL5EFbf43"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Humming House Party! (Live)",
-        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
-      },
-      "artists": [
-        {
-          "name": "Humming House",
-          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
-        }
-      ],
-      "duration_ms": 278854,
-      "name": "My Love (Live)",
-      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Yellow Ledbetter",
         "url": "https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 245120,
       "name": "Yellow Ledbetter",
       "url": "https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Humming House Party! (Live)",
+        "url": "https://open.spotify.com/album/7Mwmi5X5ilN2j1y6LNC34k"
+      },
+      "artists": [
+        {
+          "name": "Humming House",
+          "url": "https://open.spotify.com/artist/6ls2l3WdMnYWKS0WQKghHK"
+        }
+      ],
+      "duration_ms": 278854,
+      "name": "My Love (Live)",
+      "url": "https://open.spotify.com/track/7L9CcpZEfjZQT7LsZuQFWw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Cover to Cover",
         "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "YMCA b/w Rasputin",
-        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
-      },
-      "artists": [
-        {
-          "name": "Hayseed Dixie",
-          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
-        }
-      ],
-      "duration_ms": 281287,
-      "name": "YMCA",
-      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The DeLorean Sisters",
         "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
@@ -1227,34 +1227,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+        "name": "YMCA b/w Rasputin",
+        "url": "https://open.spotify.com/album/2mL8VJ3gAD7qD5hKfR2ud6"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "Hayseed Dixie",
+          "url": "https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi"
         }
       ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
+      "duration_ms": 281287,
+      "name": "YMCA",
+      "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1275,6 +1259,22 @@
       "duration_ms": 198460,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/1gAj0rxRU8QK49emO77sjF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Me and Bobby McGee (2024 Mix)",
         "url": "https://open.spotify.com/album/60vicIcWaolwJV9qNC7vMV"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+        "name": "Ohio",
+        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
       },
       "artists": [
         {
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
+      "duration_ms": 173279,
+      "name": "Ohio",
+      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1627,8 +1627,8 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Ohio",
-        "url": "https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl"
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
       },
       "artists": [
         {
@@ -1636,9 +1636,9 @@
           "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
         }
       ],
-      "duration_ms": 173279,
-      "name": "Ohio",
-      "url": "https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7"
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",

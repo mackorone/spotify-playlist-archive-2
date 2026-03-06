@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Where afrobeats meets amapiano.\nCover:  Mavo",
+  "description": "Where afrobeats meets amapiano.\nCover:  Skyla Tylaa, Ruger, Kitty Amor",
   "name": "afro-piano",
   "tracks": [
     {
@@ -1281,6 +1281,40 @@
     },
     {
       "album": {
+        "name": "HOW FAR (Remix)",
+        "url": "https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "CIZA",
+          "url": "https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200617,
+      "name": "HOW FAR - Remix",
+      "url": "https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8"
+    },
+    {
+      "album": {
         "name": "How Low (Remix)",
         "url": "https://open.spotify.com/album/5AjYtPDHP2PVgoS8urjLkW"
       },
@@ -1428,7 +1462,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 161379,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/3RkVf1OldUGYKfhsnE35AC"
@@ -1774,6 +1808,50 @@
       "duration_ms": 167213,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/0CRU6MdxT0fuptw7GoGrrA"
+    },
+    {
+      "album": {
+        "name": "Mean 2 Me",
+        "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267904,
+      "name": "Mean 2 Me",
+      "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
+    },
+    {
+      "album": {
+        "name": "Merlinpiano",
+        "url": "https://open.spotify.com/album/5QvlD4r8B77Lcu6OoRLZG8"
+      },
+      "artists": [
+        {
+          "name": "TheFeyiii",
+          "url": "https://open.spotify.com/artist/5ZfbSFiB4X3B0RcMczWcDB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148910,
+      "name": "Merlinpiano",
+      "url": "https://open.spotify.com/track/1rfq83FlZ5A95tqaTZGsrG"
     },
     {
       "album": {
@@ -2186,7 +2264,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172716,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/1ZgdZC6apTnoccNzM7qkSm"
@@ -2556,7 +2634,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 138214,
       "name": "Slogodo",
       "url": "https://open.spotify.com/track/5WQnzL9Phe9clUJ9lKSGEQ"

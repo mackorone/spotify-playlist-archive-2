@@ -2,9 +2,9 @@
 
 ### [Puncak Klasemen](https://open.spotify.com/playlist/37i9dQZF1DWZxM58TRkuqg)
 
-> Deretan musik Indonesia terpopuler saat ini\.  Cover: Virgoun
+> Deretan musik Indonesia terpopuler saat ini\.  Cover: Paul Aro
 
-606 songs - 1 day 15 hr 30 min
+609 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Malapetaka](https://open.spotify.com/track/42elvNonmDWGnpyxBpd9Mu) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Malapetaka](https://open.spotify.com/album/5XFwxKmkc0RmrncnPKnejB) | 3:47 | 2025-06-26 |  |
 | [Maling](https://open.spotify.com/track/4jzbofXDxLM1PLiLtdYoXf) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [dua lagu sebelum album dua](https://open.spotify.com/album/0HV5jxg6IaVu5MzVt92VvI) | 3:45 | 2024-08-15 | 2025-02-14 |
 | [Malu Malu Tapi Nyaman](https://open.spotify.com/track/1jKyWssDMP83VtugbwCJ6g) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 3:39 | 2024-10-10 | 2025-09-26 |
+| [Manusia Favorit](https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr) | [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo), [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud) | [Manusia Favorit](https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3) | 3:45 | 2026-03-05 |  |
 | [Manusia Super](https://open.spotify.com/track/62mI04lTuGDUmxuUSwhBHn) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Manusia Super](https://open.spotify.com/album/1WDCOetWYCDWz6N5OvgtF2) | 4:17 | 2024-11-14 | 2025-01-24 |
 | [Masa Mudaku Habis](https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Masa Mudaku Habis](https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ) | 4:14 | 2024-01-26 | 2024-03-22 |
 | [masih ada waktunya](https://open.spotify.com/track/35ycHFidHC9uMvSfcQcUzg) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [masih ada waktunya](https://open.spotify.com/album/6s0GsQTvbGxhUw4YqN2LW4) | 4:07 | 2025-04-17 | 2025-08-15 |
@@ -468,8 +469,10 @@
 | [Selamanya Untukku](https://open.spotify.com/track/5m6ELa41WoQqdIHnURSUbT) | [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt), [Ria Laoere](https://open.spotify.com/artist/1PansziiDz3E95Tmc7DQL0) | [Cinta & Doa](https://open.spotify.com/album/4g3aTyVwe84yOlAM9LMWro) | 4:55 | 2024-06-27 | 2024-10-11 |
 | [Selamat Datang Di Realita](https://open.spotify.com/track/38lxxFoMYIwyamghtCHVZy) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [Selamat Datang Di Realita](https://open.spotify.com/album/38SGxevynExMhA61GaaPTs) | 5:41 | 2024-08-08 | 2024-08-30 |
 | [Selamat Ulang Tahun](https://open.spotify.com/track/36rqSbSPGQqFSTfLynrhja) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Andien](https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo), [Bandung Jazz Orchestra](https://open.spotify.com/artist/6UPwjfenR3el43CzhmqVuJ) | [INTONESIA](https://open.spotify.com/album/6VTHIc7lHL0edFYv37j29F) | 4:30 | 2025-04-10 | 2025-05-16 |
+| [Selasa](https://open.spotify.com/track/2e3V1tgGzM2LpXwmK8lbIJ) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Selasa](https://open.spotify.com/album/2QBswxHldGPseWu5oeBcf1) | 3:39 | 2026-03-05 |  |
 | [Selimut Hati](https://open.spotify.com/track/40snO045rENfvlBFBqfONd) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy), [Indonesian Philharmonic Orchestra](https://open.spotify.com/artist/5YynOyNW2qNfCMjnv8fDgT) | [Selimut Hati](https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16) | 4:54 | 2024-06-06 | 2024-06-28 |
 | [Selimut Hati](https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3) | [Kaleb J](https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb) | [OFF GUARD](https://open.spotify.com/album/0wKIcysg2raXx70ZiBRd1s) | 4:40 | 2024-10-18 | 2025-07-04 |
+| [Semalam](https://open.spotify.com/track/0sE2FGjmamTJ2k1ebB9Dov) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Semalam](https://open.spotify.com/album/3o6m0Q5A6Kom1q3Jk8TNdJ) | 2:41 | 2026-03-05 |  |
 | [Sembuh Kembali](https://open.spotify.com/track/4Y73IsEuBaGYJIS08iwBbB) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Sembuh Kembali](https://open.spotify.com/album/6V1lLksPRBbJejQPZmNSLp) | 4:37 | 2025-09-25 |  |
 | [Sembuh Tanpaku](https://open.spotify.com/track/77cyLF8OxRJxbdQ5Pb9lST) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sembuh Tanpaku](https://open.spotify.com/album/6AmdOHPpZxhdo4ob7Ehkf6) | 4:37 | 2026-02-19 |  |
 | [Sembuhlah Sembuh](https://open.spotify.com/track/2POnM5hqcwXwMxyojfR1J0) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Sembuhlah Sembuh](https://open.spotify.com/album/4Ecyc9QRwhf3cVA9XPZWX2) | 4:04 | 2025-08-07 | 2025-08-29 |

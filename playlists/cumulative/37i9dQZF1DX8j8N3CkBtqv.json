@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Maan Panu, Ankur Tewari, Garvit-Priyansh and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Chayan, Yudee, Yoki and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -3566,7 +3566,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 169143,
       "name": "Bekhudi",
       "url": "https://open.spotify.com/track/6e17QkGSkLlFoxZgDv5n0N"
@@ -5641,6 +5641,28 @@
     },
     {
       "album": {
+        "name": "Destiny",
+        "url": "https://open.spotify.com/album/1ddDTDDxmWq5ulI41XunqN"
+      },
+      "artists": [
+        {
+          "name": "Rishi Roy",
+          "url": "https://open.spotify.com/artist/1CPC6yBRVnK1WxibuqwNNH"
+        },
+        {
+          "name": "fyfly",
+          "url": "https://open.spotify.com/artist/1TrjPAxU5qIzFXOmLMEreW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168571,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/1MAu7Yn20Lh79Rg0bK7BTZ"
+    },
+    {
+      "album": {
         "name": "DHA",
         "url": "https://open.spotify.com/album/7hyGAoHe1IroectOWD8I6N"
       },
@@ -7476,7 +7498,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 139312,
       "name": "Farak Nahi Padta",
       "url": "https://open.spotify.com/track/1J9c9T2OJr84swGCXu1TEH"
@@ -12858,7 +12880,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 159272,
       "name": "Kehna Tumse",
       "url": "https://open.spotify.com/track/76XUvU8RskaeXOxgQn9EQ9"
@@ -16826,7 +16848,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 161739,
       "name": "Mere Maahiya",
       "url": "https://open.spotify.com/track/6uRD5I9a7bje38E3rmUUTf"
@@ -19420,7 +19442,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 178222,
       "name": "Patang (From \"UR Debut\")",
       "url": "https://open.spotify.com/track/0epXbBmjLluPZbhdZv5Vda"
@@ -24437,6 +24459,28 @@
     },
     {
       "album": {
+        "name": "Tera Naam",
+        "url": "https://open.spotify.com/album/30DEaJ3v22Z0MMaSxk03WQ"
+      },
+      "artists": [
+        {
+          "name": "Yudee",
+          "url": "https://open.spotify.com/artist/6IHpqDkyNtODjmupo71vdp"
+        },
+        {
+          "name": "Yoki",
+          "url": "https://open.spotify.com/artist/4XKqcsAJmeJ3rVC9Oy2OBG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Tera Naam",
+      "url": "https://open.spotify.com/track/5GTIiLqnrjuB0tkYFBnguR"
+    },
+    {
+      "album": {
         "name": "Tera Naam Le Liya",
         "url": "https://open.spotify.com/album/01aNIROZbVeAaLebvYgaJp"
       },
@@ -25728,6 +25772,24 @@
       "duration_ms": 166000,
       "name": "Touch",
       "url": "https://open.spotify.com/track/7rc0OXwSZGp2H4cSKpc6FM"
+    },
+    {
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2"
+      },
+      "artists": [
+        {
+          "name": "Chayan",
+          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7IoHsgosn84V7GSHUh4esd"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: WIktoria Kida, Oskar Cyms",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Margaret, Kizo",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190476,
       "name": "CALI W Z\u0141OCIE",
       "url": "https://open.spotify.com/track/06mA8YYnatA95QCPhVFJY0"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 258558,
       "name": "Chc\u0119 Wi\u0119cej",
       "url": "https://open.spotify.com/track/3bNgslgg1BObTnZzAOBUCJ"
@@ -2008,6 +2008,24 @@
       "duration_ms": 159428,
       "name": "Co noc",
       "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
+    },
+    {
+      "album": {
+        "name": "CO TOBIE ZROBI\u0118",
+        "url": "https://open.spotify.com/album/691JRSOnZn4nCan44uaNEL"
+      },
+      "artists": [
+        {
+          "name": "Paula Biskup",
+          "url": "https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220406,
+      "name": "CO TOBIE ZROBI\u0118",
+      "url": "https://open.spotify.com/track/0YwIaxDRbAAblma3DWuPSt"
     },
     {
       "album": {
@@ -2339,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Czy wie?",
+        "url": "https://open.spotify.com/album/0AblF5iiP2DmnH08RjrVUF"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177120,
+      "name": "Czy wie?",
+      "url": "https://open.spotify.com/track/4rTDbgvrOW9ICPoZjRCeTe"
+    },
+    {
+      "album": {
         "name": "Czy zapomnisz mnie?",
         "url": "https://open.spotify.com/album/2K3NYCZU6qE3z0NMrdAMEQ"
       },
@@ -2500,7 +2536,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 182124,
       "name": "Dalej, Dalej! (Chopin, Chopin!)",
       "url": "https://open.spotify.com/track/3Fhw0gcq1RsXMpSTESDYCp"
@@ -3214,6 +3250,24 @@
       "duration_ms": 222857,
       "name": "Dusze kobiet",
       "url": "https://open.spotify.com/track/5UMd99IEmciIxH9QPlkPrV"
+    },
+    {
+      "album": {
+        "name": "ETER",
+        "url": "https://open.spotify.com/album/1SzOjjlqWBxvyE1XcfFk3W"
+      },
+      "artists": [
+        {
+          "name": "Bletka",
+          "url": "https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141418,
+      "name": "Dwa dni",
+      "url": "https://open.spotify.com/track/51NPACvDHPcKsyagJ8y3xE"
     },
     {
       "album": {
@@ -4667,6 +4721,32 @@
     },
     {
       "album": {
+        "name": "INSTYNKTOWNIE",
+        "url": "https://open.spotify.com/album/3iljVddBuADcq3X9rqPcr1"
+      },
+      "artists": [
+        {
+          "name": "Pawbeats",
+          "url": "https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L"
+        },
+        {
+          "name": "Micha\u0142 Szczygie\u0142",
+          "url": "https://open.spotify.com/artist/3LnV4Ef0wfc2ATFF4IAW5z"
+        },
+        {
+          "name": "Wac Toja",
+          "url": "https://open.spotify.com/artist/5AmZdY72O0NVE0XxWdMfxv"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131306,
+      "name": "INSTYNKTOWNIE",
+      "url": "https://open.spotify.com/track/3Dih9ib6Q70vzg4QDgXkrb"
+    },
+    {
+      "album": {
         "name": "Inwokacja (A. Mickiewicz)",
         "url": "https://open.spotify.com/album/1L9euGnZPHhEvhZH2zP9tu"
       },
@@ -5072,10 +5152,32 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 201840,
       "name": "jet lag",
       "url": "https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH"
+    },
+    {
+      "album": {
+        "name": "BODY",
+        "url": "https://open.spotify.com/album/0nmQ7wSQ40StHiI5oIxn6A"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        },
+        {
+          "name": "Kizo",
+          "url": "https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178607,
+      "name": "jetlag",
+      "url": "https://open.spotify.com/track/61NYiz2JY0CD3wL1qEUgGG"
     },
     {
       "album": {
@@ -7715,6 +7817,24 @@
     },
     {
       "album": {
+        "name": "Na stacji paliw",
+        "url": "https://open.spotify.com/album/5EDPDKxzeq5njUIfbQZhx5"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183260,
+      "name": "Na stacji paliw",
+      "url": "https://open.spotify.com/track/1VzgaKsDOrRe3Gucc0e6Ti"
+    },
+    {
+      "album": {
         "name": "NA START",
         "url": "https://open.spotify.com/album/6NDtqLGmhW4yWZ6VCXxKlS"
       },
@@ -8210,7 +8330,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 142951,
       "name": "NIE CHCESZ WIEDZIE\u0106",
       "url": "https://open.spotify.com/track/4xKjBNiwqtM9aZwTvQzELZ"
@@ -9194,6 +9314,24 @@
     {
       "album": {
         "name": "Ob\u0142\u0119d",
+        "url": "https://open.spotify.com/album/2NQxzPIEjLv4HQoHTrXchd"
+      },
+      "artists": [
+        {
+          "name": "Anna Wyszkoni",
+          "url": "https://open.spotify.com/artist/2QhdFVWTX2oEpTJjYm8iv0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169216,
+      "name": "Ob\u0142\u0119d",
+      "url": "https://open.spotify.com/track/0LIacwubd6SiRm38Lf7yOL"
+    },
+    {
+      "album": {
+        "name": "Ob\u0142\u0119d",
         "url": "https://open.spotify.com/album/2XwXYiM4iwFDjLaDuUtj9R"
       },
       "artists": [
@@ -9226,6 +9364,24 @@
       "duration_ms": 181382,
       "name": "och i ach",
       "url": "https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ"
+    },
+    {
+      "album": {
+        "name": "OCH MAMA",
+        "url": "https://open.spotify.com/album/2GHOQa6Y4opBFDsqzfEa6L"
+      },
+      "artists": [
+        {
+          "name": "FANKA",
+          "url": "https://open.spotify.com/artist/5wUmzMcZxXPMi2qpddL0wg"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "OCH MAMA",
+      "url": "https://open.spotify.com/track/4o57q3MdpFK1sQfFfbPJDD"
     },
     {
       "album": {
@@ -9658,6 +9814,24 @@
       "duration_ms": 253374,
       "name": "Ostatni raz",
       "url": "https://open.spotify.com/track/1VYn5dKMp7iPNB3gwyWZbq"
+    },
+    {
+      "album": {
+        "name": "Ostatni taniec",
+        "url": "https://open.spotify.com/album/70wjGzjgCLd6Ujz6q9rA7c"
+      },
+      "artists": [
+        {
+          "name": "Karolina Stanis\u0142awczyk",
+          "url": "https://open.spotify.com/artist/3vgdTroZ4H9ynPQTheek1t"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "Ostatni taniec",
+      "url": "https://open.spotify.com/track/19ovz9y0hq61tFR3s0DQ2W"
     },
     {
       "album": {
@@ -11087,6 +11261,24 @@
     },
     {
       "album": {
+        "name": "Ptak",
+        "url": "https://open.spotify.com/album/6B7rqtm0PHoJxnSivZ1eTr"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153651,
+      "name": "Ptak",
+      "url": "https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh"
+    },
+    {
+      "album": {
         "name": "Puch",
         "url": "https://open.spotify.com/album/5x9Df8HWz68ApKZuqa7VU4"
       },
@@ -12016,7 +12208,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 136935,
       "name": "SITUATIONSHIP",
       "url": "https://open.spotify.com/track/1IeXTn0T1ykULco0R3kPi1"
@@ -12506,7 +12698,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 206843,
       "name": "Sztorm",
       "url": "https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU"
@@ -14649,6 +14841,24 @@
     },
     {
       "album": {
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
+    },
+    {
+      "album": {
         "name": "Wszystkie Gwiazdy",
         "url": "https://open.spotify.com/album/10jnDugtYct6fmEdgyu7R8"
       },
@@ -14766,6 +14976,24 @@
       "duration_ms": 156500,
       "name": "Wszystko co mam",
       "url": "https://open.spotify.com/track/5fxRBVkPLEvibVspAqlvUs"
+    },
+    {
+      "album": {
+        "name": "pele-mele",
+        "url": "https://open.spotify.com/album/445NbCN6D81ShHmKjbmFiz"
+      },
+      "artists": [
+        {
+          "name": "Lor",
+          "url": "https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "wszystko jedno, wszystko \u017ale",
+      "url": "https://open.spotify.com/track/1yXPUokqPGKcdzP7gsS6TZ"
     },
     {
       "album": {

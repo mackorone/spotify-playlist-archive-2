@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 212614,
+  "num_followers": 212641,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAAkAbicuI9GAU3pr3if3GNL",
+  "snapshot_id": "aad2AAAAAADvG191dppSqYimhg//3XjA",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Order In Decline",
-        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
+        "name": "Half Hour Of Power",
+        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 230806,
-      "name": "Turning Away",
-      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
+      "duration_ms": 190426,
+      "name": "Makes No Difference",
+      "url": "https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Hour Of Power",
-        "url": "https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH"
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 190426,
-      "name": "Makes No Difference",
-      "url": "https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic"
+      "duration_ms": 230806,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/4y6UbERZs3PZ0qsPYqe0Cq"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 125514,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
+      "duration_ms": 174334,
+      "name": "Not Quite Myself",
+      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 174334,
-      "name": "Not Quite Myself",
-      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
+      "duration_ms": 125514,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,

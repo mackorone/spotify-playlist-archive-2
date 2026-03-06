@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 574830,
+  "num_followers": 574875,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
+        "name": "Ge\u00e7iyor Zaman",
+        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
+      },
+      "artists": [
+        {
+          "name": "Semicenk",
+          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
+        }
+      ],
+      "duration_ms": 152438,
+      "name": "Sen Kald\u0131n",
+      "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
         "name": "S2000",
         "url": "https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 121310,
       "name": "Kendine \u0130yi Bak",
       "url": "https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
-        "name": "Ge\u00e7iyor Zaman",
-        "url": "https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p"
-      },
-      "artists": [
-        {
-          "name": "Semicenk",
-          "url": "https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp"
-        }
-      ],
-      "duration_ms": 152438,
-      "name": "Sen Kald\u0131n",
-      "url": "https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "Amat\u00f6r",
-        "url": "https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc"
-      },
-      "artists": [
-        {
-          "name": "manifest",
-          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Amat\u00f6r",
-      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
         "name": "En Derine",
         "url": "https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 147407,
       "name": "En Derine",
       "url": "https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
+        "name": "Amat\u00f6r",
+        "url": "https://open.spotify.com/album/1XfKv2avb7ICbTN97X58Bc"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Amat\u00f6r",
+      "url": "https://open.spotify.com/track/4yHSp3OunMQmvSbIgy2Hhm"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -367,18 +367,22 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "Yaram\u0131zda Kals\u0131n",
-        "url": "https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs"
+        "name": "BEN \u00dcNL\u00dcY\u00dcM",
+        "url": "https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF"
       },
       "artists": [
         {
-          "name": "Onur Can \u00d6zcan",
-          "url": "https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
         }
       ],
-      "duration_ms": 192500,
-      "name": "\u0130ntiha\u015fk",
-      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
+      "duration_ms": 111461,
+      "name": "BEN \u00dcNL\u00dcY\u00dcM",
+      "url": "https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -403,6 +407,22 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
+        "name": "Yaram\u0131zda Kals\u0131n",
+        "url": "https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs"
+      },
+      "artists": [
+        {
+          "name": "Onur Can \u00d6zcan",
+          "url": "https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "\u0130ntiha\u015fk",
+      "url": "https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
         "name": "\u015eark\u0131lar Sokaklara Ait",
         "url": "https://open.spotify.com/album/34hptGPWx0q7xhZ4AXJPzg"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 175143,
       "name": "\u015eark\u0131lar Sokaklara Ait",
       "url": "https://open.spotify.com/track/2HjJTdEdEApv1QrKcMXKqo"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
-        "name": "BEN \u00dcNL\u00dcY\u00dcM",
-        "url": "https://open.spotify.com/album/7wCv0qYY2OuU0QSHt2aiZF"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        }
-      ],
-      "duration_ms": 111461,
-      "name": "BEN \u00dcNL\u00dcY\u00dcM",
-      "url": "https://open.spotify.com/track/3MLrWKvuIJjP00nSu1GdQW"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV"
-      },
-      "artists": [
-        {
-          "name": "UZI",
-          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
-        },
-        {
-          "name": "Aksan",
-          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
-        }
-      ],
-      "duration_ms": 155669,
-      "name": "MA CH\u00c9RIE",
-      "url": "https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
         "name": "Eyvahlar Olsun",
         "url": "https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 215172,
       "name": "Bir G\u00fcld\u00fcn",
       "url": "https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "Aksan",
+          "url": "https://open.spotify.com/artist/35vCEk68DtAxh7gDAzhoKK"
+        }
+      ],
+      "duration_ms": 155669,
+      "name": "MA CH\u00c9RIE",
+      "url": "https://open.spotify.com/track/1dR9wy1C7PWn4HwEsgCRDv"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "DUY BEN\u0130",
-        "url": "https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI"
-      },
-      "artists": [
-        {
-          "name": "G\u00f6ksel \u0130pek\u00e7i",
-          "url": "https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr"
-        }
-      ],
-      "duration_ms": 151612,
-      "name": "DUY BEN\u0130",
-      "url": "https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
         "name": "Gel",
         "url": "https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 164869,
       "name": "Gel",
       "url": "https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
+        "name": "DUY BEN\u0130",
+        "url": "https://open.spotify.com/album/2UtJx2ShcVRUtXgu14rgtI"
+      },
+      "artists": [
+        {
+          "name": "G\u00f6ksel \u0130pek\u00e7i",
+          "url": "https://open.spotify.com/artist/43lVodpMDfdEkkoowuyEkr"
+        }
+      ],
+      "duration_ms": 151612,
+      "name": "DUY BEN\u0130",
+      "url": "https://open.spotify.com/track/66y3M8tq4Z68Icj5AUxGXT"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -659,22 +659,18 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "Beni Unutma",
-        "url": "https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM"
+        "name": "SENUN CANUN SA\u011e OLSUN",
+        "url": "https://open.spotify.com/album/1GmK9l23dFdXVDopreBFCe"
       },
       "artists": [
         {
-          "name": "Demet Akal\u0131n",
-          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
-        },
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Y\u00fcksel Baltac\u0131",
+          "url": "https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Beni Unutma",
-      "url": "https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp"
+      "duration_ms": 251989,
+      "name": "SENUN CANUN SA\u011e OLSUN",
+      "url": "https://open.spotify.com/track/33dy9GFQniX4FzBUeLXBz0"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -695,18 +691,22 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "SENUN CANUN SA\u011e OLSUN",
-        "url": "https://open.spotify.com/album/1GmK9l23dFdXVDopreBFCe"
+        "name": "Beni Unutma",
+        "url": "https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM"
       },
       "artists": [
         {
-          "name": "Y\u00fcksel Baltac\u0131",
-          "url": "https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw"
+          "name": "Demet Akal\u0131n",
+          "url": "https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
         }
       ],
-      "duration_ms": 251989,
-      "name": "SENUN CANUN SA\u011e OLSUN",
-      "url": "https://open.spotify.com/track/33dy9GFQniX4FzBUeLXBz0"
+      "duration_ms": 190000,
+      "name": "Beni Unutma",
+      "url": "https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp"
     },
     {
       "added_at": "2026-02-27 10:17:19",

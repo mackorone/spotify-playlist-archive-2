@@ -12036,7 +12036,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 199541,
       "name": "Daj mi noc - koncertowa",
       "url": "https://open.spotify.com/track/1VyFG1CYeKm0CrTsEx50AI"
@@ -18047,6 +18047,24 @@
     },
     {
       "album": {
+        "name": "Gejowski Nurek",
+        "url": "https://open.spotify.com/album/4WR6VKeYz1DPqIpDF292YA"
+      },
+      "artists": [
+        {
+          "name": "GAY RECORDS",
+          "url": "https://open.spotify.com/artist/0jNBkuKqwVCoSyj91H0I8I"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129239,
+      "name": "Gejowski Nurek",
+      "url": "https://open.spotify.com/track/12QaihFpY5ibdrByZ05zSL"
+    },
+    {
+      "album": {
         "name": "Gelato | Makarena Freestyle",
         "url": "https://open.spotify.com/album/3DbluwO43NnzLLbVf2rj6M"
       },
@@ -19330,7 +19348,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 98128,
       "name": "HALO",
       "url": "https://open.spotify.com/track/5fNqZTsR71er1mti4F3Pzf"
@@ -25832,7 +25850,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 152386,
       "name": "KOCHASZ?",
       "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
@@ -35740,7 +35758,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -38020,7 +38038,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Virgoun",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Paul Aro",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -6109,6 +6109,28 @@
     },
     {
       "album": {
+        "name": "Manusia Favorit",
+        "url": "https://open.spotify.com/album/3zy41NOYR94APnywJqYYd3"
+      },
+      "artists": [
+        {
+          "name": "Andien",
+          "url": "https://open.spotify.com/artist/75FhU39jo2xmyiObiDGXAo"
+        },
+        {
+          "name": "Lafa Pratomo",
+          "url": "https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225518,
+      "name": "Manusia Favorit",
+      "url": "https://open.spotify.com/track/6jIkFJt7IfnMWMlWnGhewr"
+    },
+    {
+      "album": {
         "name": "Manusia Super",
         "url": "https://open.spotify.com/album/1WDCOetWYCDWz6N5OvgtF2"
       },
@@ -8821,6 +8843,24 @@
     },
     {
       "album": {
+        "name": "Selasa",
+        "url": "https://open.spotify.com/album/2QBswxHldGPseWu5oeBcf1"
+      },
+      "artists": [
+        {
+          "name": "Paul Aro",
+          "url": "https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219123,
+      "name": "Selasa",
+      "url": "https://open.spotify.com/track/2e3V1tgGzM2LpXwmK8lbIJ"
+    },
+    {
+      "album": {
         "name": "Selimut Hati",
         "url": "https://open.spotify.com/album/1lJJHp5qsDkIiOO1POiX16"
       },
@@ -8862,6 +8902,24 @@
       "duration_ms": 280305,
       "name": "Selimut Hati",
       "url": "https://open.spotify.com/track/2Nyt9adixzIFRjHcUqS8S3"
+    },
+    {
+      "album": {
+        "name": "Semalam",
+        "url": "https://open.spotify.com/album/3o6m0Q5A6Kom1q3Jk8TNdJ"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Semalam",
+      "url": "https://open.spotify.com/track/0sE2FGjmamTJ2k1ebB9Dov"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 9456,
+  "num_followers": 9478,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAACxKzzYv3wf+U4uis7oJ+Tx",
+  "snapshot_id": "aad2AAAAAABClxjLV+h6KsNCDVLAT56H",
   "tracks": [
     {
       "added_at": null,
@@ -215,18 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 147692,
-      "name": "Feel Free",
-      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
+      "duration_ms": 132856,
+      "name": "Kilo",
+      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
     },
     {
       "added_at": null,
@@ -247,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 132856,
-      "name": "Kilo",
-      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
+      "duration_ms": 147692,
+      "name": "Feel Free",
+      "url": "https://open.spotify.com/track/5i3makGa6P8FFuqoJC6N1l"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El-Chapo",
-        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
+        "name": "Dangerous Wavy Baby",
+        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 172035,
-      "name": "Porsche",
-      "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
+      "duration_ms": 144065,
+      "name": "Wire",
+      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dangerous Wavy Baby",
-        "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
+        "name": "El-Chapo",
+        "url": "https://open.spotify.com/album/2JIEdKint6pQj4LWhfXegJ"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 144065,
-      "name": "Wire",
-      "url": "https://open.spotify.com/track/3IvE1iyRbBProcJDsHBsnH"
+      "duration_ms": 172035,
+      "name": "Porsche",
+      "url": "https://open.spotify.com/track/6sSKIXaucNYEKH3dmcixm8"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 152571,
-      "name": "Jericho",
-      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous Wavy Baby",
         "url": "https://open.spotify.com/album/4FJBxFUnQAO5w1s3oCbgyW"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 135070,
       "name": "Popori",
       "url": "https://open.spotify.com/track/4LN4wqCdEA9eiwMcsTTObG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/4h9P6fvFrgB0bmUdTB6hBm"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virtuoso",
         "url": "https://open.spotify.com/album/0C4DFElYdLiT6SsMnbb3a2"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 146400,
       "name": "Dealer",
       "url": "https://open.spotify.com/track/44sHaGuDAjwXHAzcCKHHlp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/1fyhqGc41gcZ587gqBrvqA"
     },
     {
       "added_at": null,

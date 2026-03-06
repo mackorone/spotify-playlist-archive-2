@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 438190,
+  "num_followers": 438226,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "no fue real",
+        "url": "https://open.spotify.com/album/5IGMvV045EH28EakqQ5MSz"
+      },
+      "artists": [
+        {
+          "name": "Chiara Oliver",
+          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
+        }
+      ],
+      "duration_ms": 253536,
+      "name": "no fue real",
+      "url": "https://open.spotify.com/track/6DGqrsX9qHiD9zwSV4qhZS"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "KISS ME",
         "url": "https://open.spotify.com/album/6TXac9d8zbIyAhwaRrj10G"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "no fue real",
-        "url": "https://open.spotify.com/album/5IGMvV045EH28EakqQ5MSz"
-      },
-      "artists": [
-        {
-          "name": "Chiara Oliver",
-          "url": "https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg"
-        }
-      ],
-      "duration_ms": 253536,
-      "name": "no fue real",
-      "url": "https://open.spotify.com/track/6DGqrsX9qHiD9zwSV4qhZS"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 234922,
       "name": "Chilleando por Madrid",
       "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+        "name": "SANGRE SUCIA",
+        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+          "name": "\u00c1ngeles Toledano",
+          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+      "duration_ms": 224132,
+      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
+      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1183,22 +1199,6 @@
       "duration_ms": 196666,
       "name": "Lista de deseos",
       "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "SANGRE SUCIA",
-        "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngeles Toledano",
-          "url": "https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW"
-        }
-      ],
-      "duration_ms": 224132,
-      "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
-      "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "\u00c1rboles",
         "url": "https://open.spotify.com/album/6VzEPYcEHxMZssFe1b9vXW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 226333,
       "name": "\u00c1rboles",
       "url": "https://open.spotify.com/track/7ifZcrE6kGBTXOT4ypxqqS"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "La torre",
-        "url": "https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm"
+        "name": "Brilla el sol",
+        "url": "https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr"
       },
       "artists": [
         {
-          "name": "T\u00f3rtel",
-          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
         }
       ],
-      "duration_ms": 102000,
-      "name": "La torre",
-      "url": "https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ"
+      "duration_ms": 202025,
+      "name": "Brilla el sol",
+      "url": "https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1419,6 +1419,22 @@
       "duration_ms": 169285,
       "name": "S\u00e9 Que Te Vas A Ir",
       "url": "https://open.spotify.com/track/25riTX5vEOraVZcYqPkBrw"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "La torre",
+        "url": "https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3rtel",
+          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "La torre",
+      "url": "https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Brilla el sol",
-        "url": "https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Brilla el sol",
-      "url": "https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Vete Por Ah\u00ed (feat. Irenegarry)",
         "url": "https://open.spotify.com/album/41GaP5r3xPbSu0rZpzCIlr"
       },
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "La quiero a morir",
+        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
+      },
+      "artists": [
+        {
+          "name": "Laura Durand",
+          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
+        }
+      ],
+      "duration_ms": 255096,
+      "name": "La quiero a morir",
+      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "em plou a dins",
         "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 176288,
       "name": "em plou a dins",
       "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "La quiero a morir",
-        "url": "https://open.spotify.com/album/0pmLX0HptN38IBvLcT0Qgx"
-      },
-      "artists": [
-        {
-          "name": "Laura Durand",
-          "url": "https://open.spotify.com/artist/2f640dm9Cq8hDfaylaQb3j"
-        }
-      ],
-      "duration_ms": 255096,
-      "name": "La quiero a morir",
-      "url": "https://open.spotify.com/track/1Qmt5U4scVzanyDtPvSg6g"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Ada Road",
-        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
-      },
-      "artists": [
-        {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Ada Road",
-      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Primer Amor",
         "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 146654,
       "name": "Primer Amor",
       "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Ada Road",
+        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+      },
+      "artists": [
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Ada Road",
+      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "El Vac\u00edo",
+        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
+      },
+      "artists": [
+        {
+          "name": "Adam Guerrero",
+          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
+        }
+      ],
+      "duration_ms": 154187,
+      "name": "El Vac\u00edo",
+      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "Hoguera",
         "url": "https://open.spotify.com/album/2pzAYYyDlNiKoZrVr0CjNq"
       },
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "El Vac\u00edo",
-        "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
-      },
-      "artists": [
-        {
-          "name": "Adam Guerrero",
-          "url": "https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn"
-        }
-      ],
-      "duration_ms": 154187,
-      "name": "El Vac\u00edo",
-      "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "EL LABERINTO",
         "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 221774,
       "name": "TE DOY MI CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
+      },
+      "artists": [
+        {
+          "name": "Juana Everett",
+          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
+        }
+      ],
+      "duration_ms": 176434,
+      "name": "Free As a Bird",
+      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1831,22 +1847,6 @@
       "duration_ms": 243020,
       "name": "El Noi de la Mare",
       "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
-      },
-      "artists": [
-        {
-          "name": "Juana Everett",
-          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
-        }
-      ],
-      "duration_ms": 176434,
-      "name": "Free As a Bird",
-      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Caras no lume",
-        "url": "https://open.spotify.com/album/6qbKrvxATF1kRlikDTkIjP"
-      },
-      "artists": [
-        {
-          "name": "Lontras",
-          "url": "https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X"
-        }
-      ],
-      "duration_ms": 156629,
-      "name": "D\u00faas lontras",
-      "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
         "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Caras no lume",
+        "url": "https://open.spotify.com/album/6qbKrvxATF1kRlikDTkIjP"
+      },
+      "artists": [
+        {
+          "name": "Lontras",
+          "url": "https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X"
+        }
+      ],
+      "duration_ms": 156629,
+      "name": "D\u00faas lontras",
+      "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -2083,6 +2083,22 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "La Cura del Habla",
         "url": "https://open.spotify.com/album/4tnC4JYgeOn3vzj02IvrHA"
       },
@@ -2099,22 +2115,6 @@
       "duration_ms": 203520,
       "name": "Bossa Rec\u00edproca",
       "url": "https://open.spotify.com/track/3YXn94f6pqidYMaXWy2ULg"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/757st5tduRuMaVvJmx2cp1"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/41eSKZ89Rtm31kfr5pNkj0"
     },
     {
       "added_at": "2026-02-26 23:00:35",

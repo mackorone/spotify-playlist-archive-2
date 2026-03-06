@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: ITCHY",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: The Warning",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Can You Feel the Pain",
+        "url": "https://open.spotify.com/album/3SyNQtSiQemLIeQvFZevgD"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192705,
+      "name": "Can You Feel the Pain",
+      "url": "https://open.spotify.com/track/2oPsRSnRmWBYYMKNsmj7J0"
+    },
+    {
+      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/1sPmGATnN4rdUUJyr7dLRT"
       },
@@ -3645,6 +3663,24 @@
     },
     {
       "album": {
+        "name": "Dear Jane Doe",
+        "url": "https://open.spotify.com/album/3HZpIfQ5zhqX8uIQQ0DoB0"
+      },
+      "artists": [
+        {
+          "name": "Maelf\u00f8y",
+          "url": "https://open.spotify.com/artist/70Xhx9yjoKm0t3VmTYkrPp"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203712,
+      "name": "Dear Jane Doe",
+      "url": "https://open.spotify.com/track/19Oo1mY5WJLkKP9R1UE0Z2"
+    },
+    {
+      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -3820,6 +3856,24 @@
       "duration_ms": 236570,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/3m483CLDWwqbat78cTk2Oa"
+    },
+    {
+      "album": {
+        "name": "Die For You",
+        "url": "https://open.spotify.com/album/1VDav7H7kW9fgkpf54rLUD"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207344,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/7KLFCXhioKvErGSF0qD1Ag"
     },
     {
       "album": {
@@ -4622,7 +4676,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 198349,
       "name": "Evergreen Misery",
       "url": "https://open.spotify.com/track/1ypA3UK8yindQars9vhhWx"
@@ -4876,7 +4930,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 242212,
       "name": "Fake Flowers",
       "url": "https://open.spotify.com/track/03RKM7pHHjmHbuSgmJzMzT"
@@ -5032,7 +5086,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 174857,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7bWUSkIaDAdjNgvh1UXnO2"
@@ -5068,7 +5122,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172759,
       "name": "For You",
       "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
@@ -5468,6 +5522,24 @@
       "duration_ms": 182132,
       "name": "GETCHA! (with Nic Cester, Jet & Chad Smith) - prod. Tom Morello",
       "url": "https://open.spotify.com/track/6ObOQwjP7hycMhlYbSJuvk"
+    },
+    {
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/13ePBbGxoFjQ7nmgtkkZJ6"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163573,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
     },
     {
       "album": {
@@ -6548,7 +6620,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 181714,
       "name": "Holy Water (feat. Ivan Moody of Five Finger Death Punch)",
       "url": "https://open.spotify.com/track/1rcZspyKL7dhmV3gj8PT8p"
@@ -7066,7 +7138,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 208543,
       "name": "I'm A Diamond",
       "url": "https://open.spotify.com/track/3oVmmTiTkCDXDtBmxXqEGW"
@@ -7589,6 +7661,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "album": {
         "name": "The Father of Make Believe (New Entities Edition)",
         "url": "https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc"
       },
@@ -7756,6 +7846,24 @@
       "duration_ms": 276400,
       "name": "Lachryma",
       "url": "https://open.spotify.com/track/0hw2CGX8jaIpS4jGDn3dfa"
+    },
+    {
+      "album": {
+        "name": "FILLIN_THE_BLANK",
+        "url": "https://open.spotify.com/album/2rxpwYYEAWqhDnC9Yi4dEV"
+      },
+      "artists": [
+        {
+          "name": "H-Blockx",
+          "url": "https://open.spotify.com/artist/1V3Nl0Y3EZwqP38KHws6vB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202544,
+      "name": "LAST_SUMMER",
+      "url": "https://open.spotify.com/track/17IGz9FX8iJ0tNJ0ZPI5zL"
     },
     {
       "album": {
@@ -8026,7 +8134,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 262195,
       "name": "Like A Woman Can",
       "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
@@ -8676,7 +8784,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1"
@@ -9150,7 +9258,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 179822,
       "name": "Monsters In My Head",
       "url": "https://open.spotify.com/track/0q2Q3YPiI8zbfLoLJ4pf8A"
@@ -10412,7 +10520,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 107477,
       "name": "Paradox Man",
       "url": "https://open.spotify.com/track/3MblpbLCZ6ZaBGwlampVlx"
@@ -10946,6 +11054,24 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "album": {
+        "name": "Pushing 30",
+        "url": "https://open.spotify.com/album/1xLyyyTa3vxG9EoE1hHClf"
+      },
+      "artists": [
+        {
+          "name": "Lonely Spring",
+          "url": "https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Pushing 30",
+      "url": "https://open.spotify.com/track/6dGTkfzM60Lmeih8xmV8sH"
     },
     {
       "album": {
@@ -11916,7 +12042,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 204748,
       "name": "Shattered Horizons",
       "url": "https://open.spotify.com/track/5EmniXw4mKaF7eyP3t1hsB"
@@ -13985,6 +14111,24 @@
     },
     {
       "album": {
+        "name": "THE WEDDING",
+        "url": "https://open.spotify.com/album/58nb5bf2DbCPOMk6hsinPO"
+      },
+      "artists": [
+        {
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "THE WEDDING",
+      "url": "https://open.spotify.com/track/4ma20LiOfd493n1kQQ530Y"
+    },
+    {
+      "album": {
         "name": "viagr aboys (Japanese Deluxe Edition)",
         "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
       },
@@ -14281,6 +14425,24 @@
     },
     {
       "album": {
+        "name": "Devil's Parade",
+        "url": "https://open.spotify.com/album/5PzNf0Z7RlW3QGMEEkVRLg"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/35bfMen0lAhDNayRrBTWsB"
+    },
+    {
+      "album": {
         "name": "Trance",
         "url": "https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8"
       },
@@ -14502,6 +14664,24 @@
       "duration_ms": 183584,
       "name": "Two Faced",
       "url": "https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt"
+    },
+    {
+      "album": {
+        "name": "Two Lives",
+        "url": "https://open.spotify.com/album/0ta2vFPA5Lyd3tRH4K9ToS"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203721,
+      "name": "Two Lives",
+      "url": "https://open.spotify.com/track/19oMSD5t0vTmBKR5SICuzF"
     },
     {
       "album": {
@@ -14900,6 +15080,24 @@
       "duration_ms": 152345,
       "name": "Violence (feat. As December Falls)",
       "url": "https://open.spotify.com/track/7MlSS4EB0u4szJiaF2AV13"
+    },
+    {
+      "album": {
+        "name": "Viva La Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/2iYM2x9l7RasI2nYuaqn7U"
+      },
+      "artists": [
+        {
+          "name": "Fury In The Slaughterhouse",
+          "url": "https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232213,
+      "name": "Viva La Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/4ftjCNlSGBvGlKsqyAW1YP"
     },
     {
       "album": {

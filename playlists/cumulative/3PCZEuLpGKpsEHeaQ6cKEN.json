@@ -2199,6 +2199,28 @@
     },
     {
       "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/1Qz9ISEK5AB3mHxKSjjJc1"
+      },
+      "artists": [
+        {
+          "name": "Valentino Indy",
+          "url": "https://open.spotify.com/artist/5zMBjWdfMwhZp28FMj5G9n"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Back to You",
+      "url": "https://open.spotify.com/track/75JLOjhMKGpX5o58cMzldP"
+    },
+    {
+      "album": {
         "name": "BAD GIRL",
         "url": "https://open.spotify.com/album/6mrxIqvULSVpqCaxitM6rc"
       },
@@ -2956,6 +2978,24 @@
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/37vkp7meAAGF6KxtaqAILs"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Techno",
+        "url": "https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168706,
+      "name": "Bigger Than Techno",
+      "url": "https://open.spotify.com/track/65pMj3fAa6GEg5kB2dJLy3"
     },
     {
       "album": {
@@ -5216,6 +5256,24 @@
       "duration_ms": 145116,
       "name": "Cold",
       "url": "https://open.spotify.com/track/5Hp4Q5prxVLlWi0GcUApIM"
+    },
+    {
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/65rUDMyYRj4SW57ghwDAc9"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185117,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/1PjmqiTjQhy1Q95oJqGdvA"
     },
     {
       "album": {
@@ -11437,6 +11495,32 @@
     },
     {
       "album": {
+        "name": "Gaia",
+        "url": "https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jamek Ortega",
+          "url": "https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193425,
+      "name": "Gaia",
+      "url": "https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw"
+    },
+    {
+      "album": {
         "name": "Game Over (Jochem Hamerling Remix)",
         "url": "https://open.spotify.com/album/1UkH13Y1dnB0xLG3rVcH5e"
       },
@@ -15188,6 +15272,24 @@
       "duration_ms": 224000,
       "name": "I Love You So - Shimza Remix",
       "url": "https://open.spotify.com/track/0eLiCCY502jx4MnX7zgjb6"
+    },
+    {
+      "album": {
+        "name": "I Luv U",
+        "url": "https://open.spotify.com/album/42MLG779IfYGL9YrDmI6EG"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "I Luv U",
+      "url": "https://open.spotify.com/track/3aoClcyQLlgEvvohVmycO3"
     },
     {
       "album": {
@@ -26174,7 +26276,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 137454,
       "name": "Rave Forever",
       "url": "https://open.spotify.com/track/0NeUSyxAwPPuW6MOrXPcef"

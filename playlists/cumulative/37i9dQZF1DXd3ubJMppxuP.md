@@ -4,7 +4,7 @@
 
 > Hardstyle in het Nederlands\. Feest!
 
-73 songs - 3 hr 28 min
+74 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,10 +44,11 @@
 | [Huisje Op Wielen \- Outsiders Remix](https://open.spotify.com/track/5zOMlRRV7nnjJEam8GdvIi) | [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf), [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Huisje Op Wielen \(Outsiders Remix\)](https://open.spotify.com/album/0EjI8ftUCqs36ArPevazXz) | 3:59 | 2025-07-17 | 2025-11-25 |
 | [Ik Ben Kachel \- Hardstyle Remix](https://open.spotify.com/track/6WGZJMH87oLVf5ArGp7owr) | [OBZ](https://open.spotify.com/artist/7pfmlAOn0pAPxoReDorkxA) | [Ik Ben Kachel \(Hardstyle Remix\)](https://open.spotify.com/album/7nQLoxQ6S1EpqKSO3pvp2U) | 2:31 | 2025-07-17 |  |
 | [Ik Kan Niet Meer Praten](https://open.spotify.com/track/323AXi99MfhxMmAlsrH3ni) | [De Losse Flodders](https://open.spotify.com/artist/2qXygCiNjwZZdrcBQfor46) | [Ik Kan Niet Meer Praten](https://open.spotify.com/album/6nAs2gHf1ARRvHt25y5Z4v) | 2:35 | 2025-10-21 | 2026-01-31 |
-| [Ik Kom Eraan](https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Feestteam](https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA) | [Ik Kom Eraan](https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi) | 3:04 | 2025-10-21 |  |
+| [Ik Kom Eraan](https://open.spotify.com/track/4GbPNU45NmY6jzkR2Hq6dU) | [DJ Galaga](https://open.spotify.com/artist/6QPnWIQnzQvsTMAaOJe3EZ), [Feestteam](https://open.spotify.com/artist/42Lgl2myla33QoKueaTxmA) | [Ik Kom Eraan](https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi) | 3:04 | 2025-10-21 | 2026-03-06 |
 | [Ik Kom Harder](https://open.spotify.com/track/1CU7LGT6BsEOhi2cXOL3sf) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Jordy Dijkshoorn](https://open.spotify.com/artist/2rxfs3NQmggU6tSbZZJ3Ke) | [Ik Kom Harder](https://open.spotify.com/album/1LYNfa6grpY6DBNrdee9kg) | 3:14 | 2025-08-07 | 2025-08-31 |
 | [In De Hemel Is Geen Bier](https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os), [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [In De Hemel Is Geen Bier](https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc) | 2:24 | 2025-07-17 |  |
 | [In Mijn Bloed \(feat\. Eelco\)](https://open.spotify.com/track/0wzj3pDbsajHGuTeVWrpxE) | [Bass Chaserz](https://open.spotify.com/artist/5SxjKJ2HIg3dVQ427HYVHS), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv), [Eelco](https://open.spotify.com/artist/1TeGfz6FIuG4U2aBXRN7SX) | [In Mijn Bloed \(feat\. Eelco\)](https://open.spotify.com/album/58J28k6uKH7deW2yBxs5w9) | 3:11 | 2025-07-17 |  |
+| [Je Gaat Maar Één Keer Dood \- Hans Glock Remix](https://open.spotify.com/track/7JzsubIqpJAGhi0ojqg6Za) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s) | [Je Gaat Maar Één Keer Dood \(Hans Glock Remix\)](https://open.spotify.com/album/6knNzygrDvSSDLZtAR1fZg) | 3:06 | 2026-03-05 |  |
 | [Jouw Liefste Wens \(Happy Høken\)](https://open.spotify.com/track/2IujWWMdXhPYB2WLGtr4XN) | [Beatcrooks](https://open.spotify.com/artist/5iBgiWQkLbV6KTkjd4lI7b), [Christyn](https://open.spotify.com/artist/0hKGyzZGjoD0uKsIMU9UmU) | [Jouw Liefste Wens \(Happy Høken\)](https://open.spotify.com/album/4JcYhcdRcHYBFWJwvN0RaW) | 2:58 | 2025-07-17 |  |
 | [Kabouterpost](https://open.spotify.com/track/4vHIS7O1OTNKZeb0rzuRG5) | [Dr Rude](https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s) | [Kabouterpost](https://open.spotify.com/album/4XkGdLlZw5zZ7RlR7EwdG4) | 3:24 | 2025-10-21 | 2026-01-26 |
 | [Lam Zullen We Raven \- Official Anthem](https://open.spotify.com/track/7IYAgcHw0zyMWCCRTLVEth) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [LARSTIG & GASDROP](https://open.spotify.com/artist/1MD43KaP0yNmH4ffApOecX), [Theresia Serena](https://open.spotify.com/artist/7C9CFrbBSANJZz3LYLFvOF) | [Lam Zullen We Raven \(Official Anthem\)](https://open.spotify.com/album/5FLHD0ikZWfbh0Y9FDtvkS) | 2:48 | 2025-09-18 | 2026-02-14 |

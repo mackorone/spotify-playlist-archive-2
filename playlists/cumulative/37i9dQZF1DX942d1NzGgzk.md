@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: Bel Cobain
+> The latest of R&B rising in the UK\. Cover: Nia Smith, Destin Conrad
 
-567 songs - 1 day 5 hr 26 min
+570 songs - 1 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Check](https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Check](https://open.spotify.com/album/3uhK5DdHbrr30wPwEIRTTW) | 2:45 | 2024-08-06 | 2025-04-25 |
 | [CHILL ON ME](https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I), [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC) | [CHILL ON ME](https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242) | 3:35 | 2024-08-23 | 2024-10-10 |
 | [Choose You](https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [EL\-MEAN](https://open.spotify.com/album/5dJhQ6lZr7IWiDs2ujk15J) | 4:11 | 2023-05-15 | 2024-08-06 |
-| [CHOOSE YOUR PLAYA](https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [LONDON, WHEN ARE U GONNA FEEL LIKE HOME?](https://open.spotify.com/album/22jYWWOuUDaJEoz1BH3Shy) | 3:14 | 2025-09-18 |  |
+| [CHOOSE YOUR PLAYA](https://open.spotify.com/track/4FcuUAbRwQPnwp2bCnrehM) | [Raquel Martins](https://open.spotify.com/artist/1i7N5kJtmSMiXJ8Y0SsOEn) | [LONDON, WHEN ARE U GONNA FEEL LIKE HOME?](https://open.spotify.com/album/22jYWWOuUDaJEoz1BH3Shy) | 3:14 | 2025-09-18 | 2026-03-06 |
 | [Class A](https://open.spotify.com/track/3X5VHuawDizSLFIYpJQD5U) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Symptoms of Me](https://open.spotify.com/album/3j2DGHCJMkOzvHddr8GkKs) | 2:29 | 2025-09-18 |  |
 | [Closer](https://open.spotify.com/track/1I5hhujd8OgWO5SZLEtOPk) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Hamartia](https://open.spotify.com/album/6mzeTCb0ty0ufadqSaZzfW) | 2:49 | 2024-11-22 | 2025-06-27 |
 | [Closer](https://open.spotify.com/track/0gZkwRjMYBtyWzo6Kx7Efn) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh), [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Tunnel Vision](https://open.spotify.com/album/5a5AWTfvxSSezaBEHng2ms) | 3:34 | 2022-07-17 | 2023-04-29 |
@@ -180,8 +180,8 @@
 | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [FREEDOM \(feat\. Jorja Smith\)](https://open.spotify.com/album/7eDn2idlPx8ENANzBYcndg) | 2:40 | 2025-06-26 | 2025-07-24 |
 | [Freudian Slips](https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Freudian Slips](https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v) | 2:43 | 2023-11-03 | 2023-11-18 |
 | [Frostbite](https://open.spotify.com/track/4rZk8pAA1RXsGAAea5sIZg) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [Frostbite](https://open.spotify.com/album/2g1TwgoxMYyQjFWeBwJ8Yz) | 3:30 | 2026-02-27 |  |
-| [Fruta Prohibida](https://open.spotify.com/track/4C0kY6BRzRDPlW0Z3uFPXV) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Fruta Prohibida](https://open.spotify.com/album/3XZ6OFcUcMgR5xJwy2IitS) | 3:36 | 2025-09-04 |  |
-| [fuck up the store](https://open.spotify.com/track/6MEWEjGZxfZn6qct7ASYqf) | [Grossi](https://open.spotify.com/artist/3MfVVhDv0aVbXIR4ZnKv7w) | [Journals](https://open.spotify.com/album/11oNsBKj6TfAu5FPp9a7IC) | 2:25 | 2025-11-21 |  |
+| [Fruta Prohibida](https://open.spotify.com/track/4C0kY6BRzRDPlW0Z3uFPXV) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Fruta Prohibida](https://open.spotify.com/album/3XZ6OFcUcMgR5xJwy2IitS) | 3:36 | 2025-09-04 | 2026-03-06 |
+| [fuck up the store](https://open.spotify.com/track/6MEWEjGZxfZn6qct7ASYqf) | [Grossi](https://open.spotify.com/artist/3MfVVhDv0aVbXIR4ZnKv7w) | [Journals](https://open.spotify.com/album/11oNsBKj6TfAu5FPp9a7IC) | 2:25 | 2025-11-21 | 2026-03-06 |
 | [Fucking City](https://open.spotify.com/track/0QHZKuclgLPqxLaubCQFGU) | [Bel Cobain](https://open.spotify.com/artist/6JvEcv04PhUKWrUYZJrj1F) | [Fucking City](https://open.spotify.com/album/1XxMzVdnpaFG8juiO28E97) | 3:18 | 2026-02-27 |  |
 | [Galaxy Swim \(Deeper\)](https://open.spotify.com/track/2WTeqcbUUS1Ox5fH3IeOvj) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [ON THE ROCKS](https://open.spotify.com/album/0uGmnnclrvN2ucqgpgpdyz) | 2:27 | 2022-07-17 | 2023-05-07 |
 | [Gaslight 101](https://open.spotify.com/track/5vTNC4ONe5kc1rlGbjOEZs) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Gaslight 101](https://open.spotify.com/album/6JYREZgsg9WKzHblVDuZ6G) | 2:59 | 2024-03-22 | 2024-04-19 |
@@ -346,6 +346,7 @@
 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 | 2024-12-20 | 2025-05-09 |
 | [Missguided](https://open.spotify.com/track/12183cng0oTnVJ3mADCa5i) | [MADEINPARRIS](https://open.spotify.com/artist/2UiZpyNlTfTf1TX5pQ0cnU) | [Missguided](https://open.spotify.com/album/0RtnECGDNU2VM5IiUeRxZO) | 3:52 | 2024-03-22 | 2024-04-19 |
 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 | 2024-05-10 | 2024-06-01 |
+| [Mona Lisa Who?](https://open.spotify.com/track/1TmoPIuxoNJ4iEYXp2zh5J) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Mona Lisa Who?](https://open.spotify.com/album/43ygofdDUcI8kZO0kBe8cN) | 3:00 | 2026-03-06 |  |
 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 | 2025-07-24 | 2025-08-09 |
 | [Moonlight](https://open.spotify.com/track/2wUnNvShBARNL6a6HwIPr4) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 3:50 | 2025-10-09 |  |
 | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-07-24 | 2025-12-11 |
@@ -358,6 +359,7 @@
 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-23 | 2023-05-15 |
 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 | 2025-05-08 | 2025-12-11 |
 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 | 2024-10-24 | 2025-04-05 |
+| [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 | 2026-03-06 |  |
 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 | 2022-07-17 | 2024-08-06 |
 | [Never Love Again](https://open.spotify.com/track/5ZlzrLcxXAtVsCeDq1JUUe) | [Claudi\-Mariee](https://open.spotify.com/artist/1bPfUzxTPDOambCf2xdtEo) | [Never Love Again](https://open.spotify.com/album/7g9hCL4AaVTPToQFwMog0O) | 2:36 | 2025-03-14 | 2025-12-11 |
 | [New Hands/Writers Block](https://open.spotify.com/track/0i1nOqhrsC7fDi09yg0wrm) | [Liv Walker](https://open.spotify.com/artist/0pJvAm4F2jKZTxIxKeWowk) | [New Hands/Writers Block](https://open.spotify.com/album/57A54fWTBCsAlu5Hzn5o6u) | 2:54 | 2025-05-01 | 2025-10-10 |
@@ -519,6 +521,7 @@
 | [Too Soon](https://open.spotify.com/track/4vJoaQsqgInOXfLTrKGNWE) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Too Soon](https://open.spotify.com/album/1gnbsTYrABy0pYgsuBaX9Z) | 3:01 | 2025-04-25 | 2025-10-10 |
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 |  |
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
+| [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-12-11 |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-09-04 | 2026-02-27 |

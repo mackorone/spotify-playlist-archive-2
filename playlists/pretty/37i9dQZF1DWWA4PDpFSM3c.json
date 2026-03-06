@@ -1,52 +1,60 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 101688,
+  "num_followers": 101738,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
+  "snapshot_id": "AAAAAKMor8ZurscUlngEDZb/PfXk9uyv",
   "tracks": [
     {
-      "added_at": "2021-05-18 09:57:44",
+      "added_at": "2026-03-05 09:02:03",
       "album": {
-        "name": "Gang Leader (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
+        "name": "Psych Siddhartha",
+        "url": "https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Smaran",
+          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Ashok Anand",
+          "url": "https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn"
+        }
+      ],
+      "duration_ms": 200067,
+      "name": "Yedha Okka Prayamu",
+      "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Arerey Manasa (From \"Falaknuma Das\")",
+        "url": "https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po"
+      },
+      "artists": [
+        {
+          "name": "Vivek Sagar",
+          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
         },
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
         }
       ],
-      "duration_ms": 293000,
-      "name": "Ninnu Chuse Anandamlo",
-      "url": "https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Premam",
-        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
-      },
-      "artists": [
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        }
-      ],
-      "duration_ms": 309662,
-      "name": "Evare",
-      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
+      "duration_ms": 301500,
+      "name": "Arerey Manasa (From \"Falaknuma Das\")",
+      "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -121,28 +129,28 @@
       "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
+      "added_at": "2021-05-18 09:57:44",
       "album": {
-        "name": "Arerey Manasa (From \"Falaknuma Das\")",
-        "url": "https://open.spotify.com/album/4cAqcskezsUVZjD01vl4Po"
+        "name": "Gang Leader (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv"
       },
       "artists": [
         {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
           "name": "Sid Sriram",
           "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
         }
       ],
-      "duration_ms": 301500,
-      "name": "Arerey Manasa (From \"Falaknuma Das\")",
-      "url": "https://open.spotify.com/track/61fXT6uwJ2THPkbmxa65OI"
+      "duration_ms": 293000,
+      "name": "Ninnu Chuse Anandamlo",
+      "url": "https://open.spotify.com/track/16RigX2qPBrjju5ddZv1X6"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -601,30 +609,6 @@
       "url": "https://open.spotify.com/track/4L1x42K4MYwWL0xgm5rand"
     },
     {
-      "added_at": "2024-04-04 10:09:10",
-      "album": {
-        "name": "Om Bheem Bush",
-        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
-      },
-      "artists": [
-        {
-          "name": "Sunny M.R.",
-          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 211670,
-      "name": "Anuvanuvuu",
-      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
-    },
-    {
       "added_at": "2024-09-10 05:46:22",
       "album": {
         "name": "Ela (From \"Sopathulu\")",
@@ -647,6 +631,30 @@
       "duration_ms": 228224,
       "name": "Ela (From \"Sopathulu\")",
       "url": "https://open.spotify.com/track/6UGklMOti1kY7zl9po1WEH"
+    },
+    {
+      "added_at": "2024-04-04 10:09:10",
+      "album": {
+        "name": "Om Bheem Bush",
+        "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
+      },
+      "artists": [
+        {
+          "name": "Sunny M.R.",
+          "url": "https://open.spotify.com/artist/4bOqW6xGi7n9315ErmJ2Um"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 211670,
+      "name": "Anuvanuvuu",
+      "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -819,18 +827,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+        "name": "Premam",
+        "url": "https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Vijay Yesudas",
+          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
         }
       ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+      "duration_ms": 309662,
+      "name": "Evare",
+      "url": "https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -855,18 +863,18 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Pokiri",
-        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
       },
       "artists": [
         {
-          "name": "Nihal",
-          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
         }
       ],
-      "duration_ms": 273769,
-      "name": "Gala Gala Paruthunna",
-      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -883,6 +891,22 @@
       "duration_ms": 307335,
       "name": "Neeve",
       "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+      },
+      "artists": [
+        {
+          "name": "Nihal",
+          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+        }
+      ],
+      "duration_ms": 273769,
+      "name": "Gala Gala Paruthunna",
+      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
     },
     {
       "added_at": "2022-09-02 08:32:31",
@@ -905,22 +929,6 @@
       "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Mahanati",
-        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
-      },
-      "artists": [
-        {
-          "name": "Charulatha Mani",
-          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "Sada Nannu",
-      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
-    },
-    {
       "added_at": "2021-05-18 09:57:44",
       "album": {
         "name": "ABCD - American Born Confused Desi (Original Motion Picture Soundtrack)",
@@ -939,6 +947,22 @@
       "duration_ms": 243000,
       "name": "Mella Mellagaa",
       "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1"
+      },
+      "artists": [
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "Sada Nannu",
+      "url": "https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v"
     },
     {
       "added_at": "2021-05-18 09:57:44",
@@ -971,26 +995,6 @@
       "duration_ms": 291500,
       "name": "Chinuku Taake..",
       "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Nuvvu Nenu Prema",
-        "url": "https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP"
-      },
-      "artists": [
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        },
-        {
-          "name": "Naresh Ayar",
-          "url": "https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl"
-        }
-      ],
-      "duration_ms": 354368,
-      "name": "Preminche Premava",
-      "url": "https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U"
     }
   ],
   "unique_name": "Mellow Telugu",

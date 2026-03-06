@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Rita Rocha, Diogo Pi\u00e7arra",
+  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes e Rodrigo Correia",
   "name": "Pop PT",
   "tracks": [
     {
@@ -760,6 +760,24 @@
       "duration_ms": 166432,
       "name": "Apagar A Sombra",
       "url": "https://open.spotify.com/track/1d85Pi8RAoGxB18gfu2Nk0"
+    },
+    {
+      "album": {
+        "name": "Aprende a Te Amar",
+        "url": "https://open.spotify.com/album/32nOKRqeo3xdIfZMajmQ4P"
+      },
+      "artists": [
+        {
+          "name": "Nayra Mirella",
+          "url": "https://open.spotify.com/artist/2I7XfmIcxcr0mVB2llZNb1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187588,
+      "name": "Aprende a Te Amar",
+      "url": "https://open.spotify.com/track/3qZ2rMufNaOZgQnLz7dO7v"
     },
     {
       "album": {
@@ -4484,7 +4502,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 194837,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/7nOfsfzqT11Ce31HXQ1Fqi"
@@ -4502,10 +4520,32 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 125131,
       "name": "Marcha",
       "url": "https://open.spotify.com/track/24z3KnLvrDzE5k4P3k2cmK"
+    },
+    {
+      "album": {
+        "name": "maria",
+        "url": "https://open.spotify.com/album/7g7ys0POOvhZNCZoAnnfFO"
+      },
+      "artists": [
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        },
+        {
+          "name": "Rodrigo Correia",
+          "url": "https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "maria",
+      "url": "https://open.spotify.com/track/0G7D0PfNw6VGSRR0QB1FiU"
     },
     {
       "album": {
@@ -4684,6 +4724,24 @@
       "duration_ms": 213896,
       "name": "MENINA",
       "url": "https://open.spotify.com/track/17ohad4EKCTOvpNpDhVjO8"
+    },
+    {
+      "album": {
+        "name": "Menina (Do Alto Da Serra)",
+        "url": "https://open.spotify.com/album/5lvwTaTC9zGo2lGYsvTcTO"
+      },
+      "artists": [
+        {
+          "name": "Edmundo In\u00e1cio",
+          "url": "https://open.spotify.com/artist/04CmgOhFRROgjxTnL7dKlR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188300,
+      "name": "Menina (Do Alto Da Serra)",
+      "url": "https://open.spotify.com/track/1sZbO41eKwugkoqnmv3uNA"
     },
     {
       "album": {
@@ -5171,6 +5229,24 @@
     },
     {
       "album": {
+        "name": "No Meu Tempo de Escola",
+        "url": "https://open.spotify.com/album/5LWVhhkuhmUqXCXk2CictV"
+      },
+      "artists": [
+        {
+          "name": "Blaya",
+          "url": "https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "No Meu Tempo de Escola",
+      "url": "https://open.spotify.com/track/5FtjPXgQF57T6H9hM8CJck"
+    },
+    {
+      "album": {
         "name": "No pr\u00f3ximo ano",
         "url": "https://open.spotify.com/album/27T8X3kOs5ChxvrNXVTu3e"
       },
@@ -5258,7 +5334,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 181231,
       "name": "Nosso Love",
       "url": "https://open.spotify.com/track/5NIkY8QV5GNZKkKgkqd0DK"
@@ -5418,6 +5494,42 @@
       "duration_ms": 195843,
       "name": "o amor \u00e9 tudo",
       "url": "https://open.spotify.com/track/7cgCWmnfYPVgtzM3SWh6W4"
+    },
+    {
+      "album": {
+        "name": "O Inverno N\u00e3o Dura Tanto Quanto Parece",
+        "url": "https://open.spotify.com/album/5hlocLAndNDvzGI88bapLN"
+      },
+      "artists": [
+        {
+          "name": "Mafalda Veiga",
+          "url": "https://open.spotify.com/artist/5bD6psQfhLXvadNAD0VttX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224750,
+      "name": "O Inverno N\u00e3o Dura Tanto Quanto Parece",
+      "url": "https://open.spotify.com/track/1Pb2LSE0krrZ8hspHDbVgU"
+    },
+    {
+      "album": {
+        "name": "O Maior Bem",
+        "url": "https://open.spotify.com/album/3l5CCLoafsCwwTSq4ipbt7"
+      },
+      "artists": [
+        {
+          "name": "CAROLINA DE DEUS",
+          "url": "https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218453,
+      "name": "O Maior Bem",
+      "url": "https://open.spotify.com/track/4x5nUs1deAC6GMlWVjdNea"
     },
     {
       "album": {
@@ -5606,6 +5718,28 @@
       "duration_ms": 172000,
       "name": "Oj\u00e9 Oj\u00e9",
       "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
+    },
+    {
+      "album": {
+        "name": "Olha N\u00f3s",
+        "url": "https://open.spotify.com/album/2O3dakOBMqzBaLt7GRFCBt"
+      },
+      "artists": [
+        {
+          "name": "April Ivy",
+          "url": "https://open.spotify.com/artist/0cRXFRbq7wk9jeMO47rVVH"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "Olha N\u00f3s",
+      "url": "https://open.spotify.com/track/4rwoaePPllbblEy0NkdJjN"
     },
     {
       "album": {
@@ -5932,7 +6066,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 246627,
       "name": "Perdidamente",
       "url": "https://open.spotify.com/track/3PRGv1lkeA6vKxbGW8mbqh"
@@ -6738,7 +6872,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 201093,
       "name": "Recome\u00e7ar",
       "url": "https://open.spotify.com/track/1XDJv6oiATTKhMc5xwLXsJ"
@@ -7264,7 +7398,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 138000,
       "name": "SEM CARTA",
       "url": "https://open.spotify.com/track/2JMbseaVSNUJEEqZ91Xz7d"
@@ -7322,7 +7456,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 229333,
       "name": "Sem Ti",
       "url": "https://open.spotify.com/track/6XSX02hv9PPDvGexlDbft8"

@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 228385,
       "name": "Da Du Dah",
       "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
@@ -4872,6 +4872,24 @@
       "duration_ms": 192000,
       "name": "Do You?",
       "url": "https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i"
+    },
+    {
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "album": {
@@ -16538,7 +16556,7 @@
       ],
       "date_added": "2025-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 171873,
       "name": "RATHER BE",
       "url": "https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv"
@@ -19970,6 +19988,24 @@
       "duration_ms": 146680,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning",
+        "url": "https://open.spotify.com/album/50XfOUT4LjKOikHOOOns2k"
+      },
+      "artists": [
+        {
+          "name": "Steven Charlot",
+          "url": "https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181512,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/5hdnDc3NnVwyIoi7nNlvIR"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Kerou\u00e9",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : 2L",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -276,6 +276,32 @@
       "duration_ms": 273539,
       "name": "7 VIES (feat. Sofiane Pamart) - Bonus",
       "url": "https://open.spotify.com/track/3Hh3hbbgmDnSbr8kYuvx98"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/3E9IRHGwFP3J7lJndSqgyV"
+      },
+      "artists": [
+        {
+          "name": "Diboujone",
+          "url": "https://open.spotify.com/artist/2upO6OB7pd1RreGvJP6FaM"
+        },
+        {
+          "name": "Cholo",
+          "url": "https://open.spotify.com/artist/0OrSwuIG1yqmbxaCvAxjG9"
+        },
+        {
+          "name": "Nwaretsang",
+          "url": "https://open.spotify.com/artist/0iPCXlsUc6iYMzytz0AoAo"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "777",
+      "url": "https://open.spotify.com/track/21ZEHEzx2WOThTnaAByBi4"
     },
     {
       "album": {
@@ -1646,6 +1672,24 @@
       "duration_ms": 302104,
       "name": "Coup de fil - Cuts DJ dinokun",
       "url": "https://open.spotify.com/track/6Hfj5r6deGumzx6oHfNuvK"
+    },
+    {
+      "album": {
+        "name": "Coussin cartonn\u00e9",
+        "url": "https://open.spotify.com/album/0nfZ5UwP9jMrmbaKqcJ9eh"
+      },
+      "artists": [
+        {
+          "name": "ARTR",
+          "url": "https://open.spotify.com/artist/1KH2vOwMWmTGgLJec8aLzQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Coussin cartonn\u00e9",
+      "url": "https://open.spotify.com/track/6fyuq9b6HKPjsBrZu4ckPT"
     },
     {
       "album": {
@@ -6129,6 +6173,28 @@
     },
     {
       "album": {
+        "name": "PUNISHER",
+        "url": "https://open.spotify.com/album/6gV0TtMhBO5CLX7rx2pxiL"
+      },
+      "artists": [
+        {
+          "name": "Rocca",
+          "url": "https://open.spotify.com/artist/7yz7tVF8i1Jr6roiq5CUuD"
+        },
+        {
+          "name": "Kyo Itachi",
+          "url": "https://open.spotify.com/artist/5PRPuZbf1ia2JcLdxBxtXB"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "PUNISHER",
+      "url": "https://open.spotify.com/track/6izl4FM1FGjU8kBgf939Vm"
+    },
+    {
+      "album": {
         "name": "P\u00eache \u00e0 la truite",
         "url": "https://open.spotify.com/album/1rScptUdY2qetuMyZNx6r0"
       },
@@ -6462,7 +6528,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 157524,
       "name": "Resilienza",
       "url": "https://open.spotify.com/track/42S8CAYWkacZN3Y3RU4NDs"
@@ -7290,7 +7356,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 137061,
       "name": "U13",
       "url": "https://open.spotify.com/track/11AxDEtgJg0EEBYlVTnUWJ"
@@ -7714,7 +7780,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 158000,
       "name": "ZZ",
       "url": "https://open.spotify.com/track/7tj0Qb4cKubWEkfrCcERsG"

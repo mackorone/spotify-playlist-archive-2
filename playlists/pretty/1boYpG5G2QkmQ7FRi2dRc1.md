@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,509 likes - 54 songs - 2 hr 54 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 279,482 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 48 | [drifting \- remix](https://open.spotify.com/track/0fiYgCHwsq1qx0lMlct6ch) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU), [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [drifting \(remix\)](https://open.spotify.com/album/2o5jJuAT6fT8nHITCRfNJH) | 4:36 |
 | 49 | [Azul](https://open.spotify.com/track/5T3hqSyt5rQbMUih0kKcpV) | [ReiRei](https://open.spotify.com/artist/5kzMvGnNDZLNTaoblscITp) | [Azul EP](https://open.spotify.com/album/24vNIYAApsZdFX2yOlnKfN) | 4:27 |
 | 50 | [BSMR](https://open.spotify.com/track/2PVA5M1EWqzbwyfPVBSqpA) | [Tom Marvin](https://open.spotify.com/artist/49YMNaFUcHthWqmQ4adbyH) | [The Archives, Vol\. 1](https://open.spotify.com/album/5SH33m7iBZovqeUwFIeqo1) | 4:09 |
-| 51 | [Downstairs](https://open.spotify.com/track/5cIEe3Ff64L5GbrAjLz3IY) | [Capron \(NL\)](https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz) | [Downstairs EP](https://open.spotify.com/album/2w7gFrShnSxaHRZK8DGxF5) | 3:03 |
+| 51 | [Downstairs](https://open.spotify.com/track/5cIEe3Ff64L5GbrAjLz3IY) | [Capron](https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz) | [Downstairs EP](https://open.spotify.com/album/2w7gFrShnSxaHRZK8DGxF5) | 3:03 |
 | 52 | [Sh\*t's On F\*re](https://open.spotify.com/track/53VFQ23T8h7f4ECrih68nP) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Sh\*t's On F\*re](https://open.spotify.com/album/6jlXZqo4qk0Fge6efnXXfS) | 4:04 |
 | 53 | [Louder](https://open.spotify.com/track/6Gk16Y5baO26U4hmIfQ5F2) | [Vitess](https://open.spotify.com/artist/5DIVjY3STr8n4tEoN0dmui) | [Louder EP](https://open.spotify.com/album/6aFjBLSGnG2dvUPmIZwb4B) | 3:13 |
 | 54 | [We Ready](https://open.spotify.com/track/6DyuI3EqC6CV1muix98Mll) | [Main Phase](https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [ATW038](https://open.spotify.com/album/4Jv92RZTlHGhCvt5XQPF5E) | 2:57 |

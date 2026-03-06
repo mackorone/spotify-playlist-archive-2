@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12548,
+  "num_followers": 12549,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAADjxSfKqywiwhtQK9+xBJah",
+  "snapshot_id": "aad2AAAAAADNxga5p8x2b7ufRP4PRLST",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Truths And A Lie",
         "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 133440,
       "name": "Two Truths And A Lie",
       "url": "https://open.spotify.com/track/6DzfmaiigxeCnB9qnnIZpW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "day dream",
         "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 210909,
       "name": "day dream",
       "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "snowing in LA",
-        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "snowing in LA",
-      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
     },
     {
       "added_at": null,
@@ -711,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+        "name": "snowing in LA",
+        "url": "https://open.spotify.com/album/7wt62btSDJy8lA4FGfO2Uy"
       },
       "artists": [
         {
@@ -720,9 +704,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 177049,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
+      "duration_ms": 205400,
+      "name": "snowing in LA",
+      "url": "https://open.spotify.com/track/1ujM4gbsiDPI8k5OuonGEm"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 163846,
       "name": "Tied Down",
       "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish list",
-        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
+        "name": "Real",
+        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 164571,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
+      "duration_ms": 176640,
+      "name": "Real",
+      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
     },
     {
       "added_at": null,
@@ -891,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/0RF8eWrYgf5lqPpbygvRyt"
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/1kq5K3SCEQ1rmsaiQRa76E"
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     }
   ],
   "unique_name": "This Is th\u1ee7y",

@@ -2,9 +2,9 @@
 
 ### [Alta Rotazione](https://open.spotify.com/playlist/37i9dQZF1DX01NP73ErE8b)
 
-> I brani italiani che abbiamo on repeat  🔁  Ditonellapiaga in cover
+> I brani italiani di cui siamo ossessionati 😌 Samurai Jay in cover
 
-528 songs - 1 day 3 hr 14 min
+529 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Delusa](https://open.spotify.com/track/3IsVNs7CKal733wBFNx7HO) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [MA IO SONO FUOCO](https://open.spotify.com/album/5whsiw7yvWXul5t8sWYYLQ) | 3:04 | 2025-10-09 | 2025-10-16 |
 | [Demoni](https://open.spotify.com/track/2Ikps0R1llyosWCHo1CP4E) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Demoni](https://open.spotify.com/album/1vcK4ZlqXjptGzGl8lbbkG) | 3:41 | 2025-02-05 | 2025-03-21 |
 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 | 2025-05-22 | 2025-09-30 |
-| [dettagli](https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [dettagli](https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp) | 4:11 | 2026-02-19 |  |
+| [dettagli](https://open.spotify.com/track/1ro9ARM5gJpgMEEqkqKbTz) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [dettagli](https://open.spotify.com/album/6FlVsdTTCVd6VwVS1AW0Dp) | 4:11 | 2026-02-19 | 2026-03-06 |
 | [Devastante](https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Devastante](https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n) | 3:10 | 2024-07-01 | 2024-10-25 |
 | [DI TUTTI](https://open.spotify.com/track/24cXuGIIlZKOsBztMwgrEK) | [Jacopo Sol](https://open.spotify.com/artist/5aKF7BwuAUUSdteoSkq5ng) | [DI TUTTI](https://open.spotify.com/album/73wOQCcvqPi9oQQ2yTRbby) | 3:24 | 2025-04-03 | 2025-05-02 |
 | [digiorno](https://open.spotify.com/track/4G7ZLAef0J5VbqxQ4cQwKF) | [fluente](https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9) | [femmina](https://open.spotify.com/album/4oH51jOoRbeLmhk6uLfIUw) | 2:46 | 2026-01-22 | 2026-02-13 |
@@ -177,7 +177,7 @@
 | [FLASHBACK](https://open.spotify.com/track/57NFelBvcQDFraj1HLiJ9g) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLASHBACK](https://open.spotify.com/album/4BP2kKPtL6k5HmG13tEFq4) | 3:03 | 2025-09-08 | 2025-11-07 |
 | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/track/4RV9fq4QKnW346GRdZRIje) | [Levante](https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G) | [Follemente \(from the motion picture “FolleMente"\)](https://open.spotify.com/album/4f2kBU9QkpvEh5RpRwkCg2) | 3:20 | 2025-02-20 | 2025-03-14 |
 | [Follia Mediterranea](https://open.spotify.com/track/70J0MAAql6vnj4NszRhjgi) | [Baby K](https://open.spotify.com/artist/725KKhVCSCQbYkZBptBTfg) | [Follia Mediterranea](https://open.spotify.com/album/1l99QDzynhF6kLdDBfOvJ0) | 2:51 | 2025-06-19 | 2025-08-29 |
-| [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 | 2025-11-13 |  |
+| [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 | 2025-11-13 | 2026-03-06 |
 | [FOTOGRAFIA](https://open.spotify.com/track/78F6s5j8febWk0ICOAIxjM) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [FOTOGRAFIA](https://open.spotify.com/album/33uyidreFCPnfn0sgERJeR) | 3:44 | 2025-11-06 |  |
 | [FRANCESCA](https://open.spotify.com/track/2ywWLlsgT68eJZ3FvFUcEj) | [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [FRANCESCA](https://open.spotify.com/album/5e6GLIP3PrDGcsvI1mPJvf) | 3:15 | 2025-05-29 | 2025-09-05 |
 | [Francis Delacroix](https://open.spotify.com/track/4OVqwo0kYISjQqYExKlSz3) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/4ezcDzdWP6orRlN3ft2eCs) | 3:13 | 2025-03-20 | 2025-03-28 |
@@ -232,7 +232,7 @@
 | [L'UNICA](https://open.spotify.com/track/1ailkFmIM9eWlfqFd6OpuJ) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [L'UNICA](https://open.spotify.com/album/5w5CJYu0u2tWWsZXzPe3s8) | 3:10 | 2025-06-19 | 2025-11-11 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-11 |
 | [LA CURA PER ME](https://open.spotify.com/track/5tOBPD3zL9kWpeELqkzwJC) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [LA CURA PER ME](https://open.spotify.com/album/6geq7QfWKqRKIvgvuiN9cw) | 3:35 | 2025-02-12 | 2025-06-13 |
-| [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 | 2025-11-10 |  |
+| [LA CURA PER ME \(feat\. BLANCO\)](https://open.spotify.com/track/3TkSWRxnvQX6uKGA709Ohb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:35 | 2025-11-10 | 2026-03-06 |
 | [La felicità e basta](https://open.spotify.com/track/2NmvOrVquVRNNKUPOGx3xe) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1) | [La felicità e basta](https://open.spotify.com/album/0QjAdM88ez6yukjfd22Xnv) | 3:28 | 2026-02-25 |  |
 | [LA FRETTA](https://open.spotify.com/track/6svY4DOYitwdeBK6CfmPLt) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [LA FRETTA](https://open.spotify.com/album/5ABb9tC3u5KrDd42ErGpO1) | 2:53 | 2025-11-20 | 2025-12-30 |
 | [LA GELOSIA](https://open.spotify.com/track/4zqzwofYeyScZ7ix0KmclN) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [LA GELOSIA](https://open.spotify.com/album/3bLkZuCcgJ2YzaUGwMXMbg) | 3:11 | 2025-05-22 | 2025-06-04 |
@@ -352,7 +352,7 @@
 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 | 2024-11-14 | 2025-01-11 |
 | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/track/4kjNUtCESsc43Akyjstr8E) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Ombre di città \(feat\. Colapesce\)](https://open.spotify.com/album/1CbkJFWbNADgydCD7cOoyP) | 3:03 | 2025-07-17 | 2025-08-08 |
 | [Ora che non ho più te](https://open.spotify.com/track/1tse93p9ApWJtMGYRxCKNm) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Ora che non ho più te](https://open.spotify.com/album/0GjC6blqcboQAQExPBF4kf) | 5:03 | 2024-09-25 | 2025-07-18 |
-| [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 | 2026-02-25 |  |
+| [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 | 2026-02-25 |  |
 | [Overdose D'Amore 2024](https://open.spotify.com/track/3tQRLmfOWBlB00i2mGLN3M) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Overdose D'Amore 2024](https://open.spotify.com/album/2P5Y4A7xagej84PYcJZEUl) | 2:56 | 2024-07-01 | 2024-09-24 |
 | [Paprika](https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Paprika](https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6) | 2:28 | 2024-07-01 | 2024-11-22 |
 | [PARADOSSALE](https://open.spotify.com/track/1E3bg4sPGZzyK4qatexweB) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:08 | 2025-11-06 | 2025-12-05 |
@@ -527,6 +527,7 @@
 | [Viva la vita](https://open.spotify.com/track/3cQy6pN38rw0wyUNhQ1Ax3) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Viva la vita](https://open.spotify.com/album/64f3m5IfWvEkcJRG0sAmGZ) | 3:38 | 2025-02-12 | 2025-03-07 |
 | [Voglia](https://open.spotify.com/track/6bHmaVeCclWfcAgsW9Woct) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Tempo](https://open.spotify.com/album/0VGPQdeIhFg1BqfKqKW0b4) | 2:33 | 2025-10-23 | 2025-11-14 |
 | [VOGLIONO ESSERE ME](https://open.spotify.com/track/6zP3dYR5MQB8vj1QPAsgoX) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [VOGLIONO ESSERE ME](https://open.spotify.com/album/0bKZXBDyTVBSfmk5cKGDOY) | 2:09 | 2024-10-24 | 2024-11-29 |
+| [Voilà](https://open.spotify.com/track/6IhEd41nfdL7qG4MVfZVAp) | [Elettra Lamborghini](https://open.spotify.com/artist/3o7fC2O4nraaicpID6bBZW) | [Voilà](https://open.spotify.com/album/1sPD0TpvV5Q62TCnyijamW) | 3:12 | 2026-03-05 |  |
 | [Volevo essere un duro](https://open.spotify.com/track/5sFbAYktReH4AJbATsGAw8) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Volevo essere un duro](https://open.spotify.com/album/3bq0Zk9IMKngHA7QnefTxT) | 3:05 | 2025-02-12 | 2025-05-02 |
 | [Vorrei](https://open.spotify.com/track/1aWkWhJxE3un97FpwgIc8K) | [Sissi](https://open.spotify.com/artist/6P7jNZ4DCs766yu5td601i) | [Vorrei](https://open.spotify.com/album/6REeztTQ4uQYlonoeKd53k) | 2:42 | 2025-03-20 | 2025-05-09 |
 | [vuoi soltanto una hit](https://open.spotify.com/track/5t7ROluhKkpDnZyz4m2b7x) | [cmqmartina](https://open.spotify.com/artist/3t7NdpIbIprOtDChVJ94DP) | [BRIANZOLA ISSUES](https://open.spotify.com/album/27j6pnsbafDZIn3WnK6gKV) | 2:35 | 2025-03-20 | 2025-04-11 |

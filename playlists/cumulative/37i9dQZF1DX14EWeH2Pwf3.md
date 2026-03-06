@@ -2,9 +2,9 @@
 
 ### [Plus Ultra](https://open.spotify.com/playlist/37i9dQZF1DX14EWeH2Pwf3)
 
-> nayt in cover della playlist urban più grande d'Italia 🤝🏻
+> Luchè in cover della playlist urban più grande d'Italia 🤝🏻
 
-997 songs - 2 day 0 hr 24 min
+999 songs - 2 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [ch1 5ei te](https://open.spotify.com/track/0tRj4m46GRFrBS7IsbS0Gk) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 3:03 | 2022-05-24 | 2022-09-09 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4) | 3:04 | 2025-10-13 | 2025-11-14 |
 | [CHANEL \(feat\. Tony Boy\)](https://open.spotify.com/track/6K9xyXHUgGc7V1pEkADynE) | [Vale Pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [PAIN 2](https://open.spotify.com/album/5zNDP1gLZR98uK3HL64pmY) | 3:03 | 2025-05-15 | 2025-05-30 |
+| [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/track/5CZOHxLhZohdhmUotp8SHR) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [CHANELINA SOUBRETTE \(feat\. Disme & Ele A\)](https://open.spotify.com/album/6fKwRnm0PQ64ynXzqCVdHC) | 3:23 | 2026-03-05 |  |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 | 2022-09-30 |
 | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/track/36EFgeHW1tOUyMAhZ6cjfD) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx) | [CHIAGNE \(feat\. Lazza & Takagi & Ketra\)](https://open.spotify.com/album/4sWzb70s3E66veAlTi0hSr) | 2:59 | 2022-10-27 | 2023-06-02 |
 | [CHIARA](https://open.spotify.com/track/5e40oQfE0eeHdTvYLjRBPe) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [CHIARA](https://open.spotify.com/album/69mPOJbmv7YG94RvpyCFu1) | 2:54 | 2023-06-06 | 2023-07-04 |
@@ -295,6 +296,7 @@
 | [DRILLMOON \(feat\. thasup\)](https://open.spotify.com/track/6Y2Z4GgQaDD31T9HLBtpD2) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRENCHES BABY](https://open.spotify.com/album/4TxafR0eswtfPenLrBLyhx) | 3:30 | 2022-11-07 | 2023-01-04 |
 | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/track/2PITEsf2iAwNBAH4FBVNCr) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [DRIP \(feat\. Simba La Rue\)](https://open.spotify.com/album/0XG50AZzowdXkiVcePYgPs) | 2:13 | 2024-10-03 | 2024-11-15 |
 | [Drip a noleggio](https://open.spotify.com/track/2Q9JFrlIR5izV7d3y0PsI9) | [Joejoe](https://open.spotify.com/artist/2SGdTSyPqPFhyv74y6WEiD) | [Drip a noleggio](https://open.spotify.com/album/25PR0ni9rcqpWnq887O701) | 1:58 | 2025-11-21 | 2025-12-02 |
+| [DRIP DROP](https://open.spotify.com/track/2G6evQinarS5tPBgU9Zh89) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [DRIP DROP](https://open.spotify.com/album/3q2M54MfMzh8O64iJ9f9vV) | 2:18 | 2026-03-05 |  |
 | [Dry](https://open.spotify.com/track/4zUPjjI82V3JlnHfMt2w6v) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [Dry](https://open.spotify.com/album/3xSzEtFrV2UqBhgNANpor1) | 2:37 | 2024-06-13 | 2024-07-12 |
 | [DUALIPA E DABABY](https://open.spotify.com/track/1vuSsLVeIb5tSAQsLrlyhV) | [Radical](https://open.spotify.com/artist/4k6hMjEI3XFfMcRLCa9yd3), [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH) | [EVOL](https://open.spotify.com/album/7abPNbFZKEsNioUfehUD4c) | 2:48 | 2022-06-30 | 2022-07-08 |
 | [Due principi \(feat\. Emis Killa\)](https://open.spotify.com/track/5YdpLxge3UzTHymkQ6XCf4) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Piccolo principe](https://open.spotify.com/album/10HFJ1fuiGUMpAa7Ylh7VU) | 3:31 | 2024-01-25 | 2024-04-26 |

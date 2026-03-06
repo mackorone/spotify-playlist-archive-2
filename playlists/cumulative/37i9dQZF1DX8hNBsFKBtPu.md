@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her 💕
 
-817 songs - 1 day 17 hr 49 min
+820 songs - 1 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Call On Me](https://open.spotify.com/track/1M3O7iJBvb5wCAYQmWGWsC) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Call On Me](https://open.spotify.com/album/5UCY2oLiVjR3qIDLXVUYVu) | 2:49 | 2025-08-21 | 2025-09-12 |
 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 | 2025-09-11 | 2025-09-26 |
 | [Campingsangen](https://open.spotify.com/track/6ih43fu9hehE11lbYXsRNK) | [Campisterne](https://open.spotify.com/artist/6MfSS7IUnmZSUbHpCMfiZU) | [Campingsangen](https://open.spotify.com/album/16mWHI96ZgaDTuLp6L5cjw) | 2:33 | 2025-02-13 | 2025-03-28 |
+| [Can't Live Without You](https://open.spotify.com/track/5pATNHw5VBr1ob7soroXdi) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [nicklas](https://open.spotify.com/album/0XXKkvyxFLYFxykDEn2UkP) | 2:38 | 2026-03-05 |  |
 | [Can’t Get Enough](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough](https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2) | 2:45 | 2025-05-01 | 2025-05-09 |
 | [Carpe Diem](https://open.spotify.com/track/1oPPitVFMTVDfnhFBtLeST) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Carpe Diem](https://open.spotify.com/album/2jSL1N3Bknmp8AWPc8hSZN) | 2:58 | 2025-03-06 | 2025-03-28 |
 | [Catch My Breath](https://open.spotify.com/track/31WRmxCQdDxtY4KVt7a8FL) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:12 | 2024-09-26 | 2025-03-28 |
@@ -375,6 +376,7 @@
 | [I'm The Drama](https://open.spotify.com/track/21KShmFSfzVOaYAJmMLbHG) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm The Drama](https://open.spotify.com/album/6rhEdVWLmMzxnp8KVppcjx) | 2:36 | 2024-06-27 | 2024-10-04 |
 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-16 | 2025-03-28 |
 | [If u kno u kno \(feat\. Karoline Mousing\)](https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [If u kno u kno](https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx) | 2:25 | 2026-01-01 |  |
+| [igen & igen](https://open.spotify.com/track/2SVbXLbEe7rxCrY0Poizv2) | [Asta Brix](https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg) | [igen & igen](https://open.spotify.com/album/4AQTk0vuTbLMicdkQuWZfI) | 2:31 | 2026-03-05 |  |
 | [igen & igen](https://open.spotify.com/track/2r3BQc8MFSCpHXmnepCJDd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [One Two](https://open.spotify.com/artist/0b4zEyqVkKTcrrZbzw7Rl5) | [igen & igen](https://open.spotify.com/album/74Zmt6oaCyu0RKvlnlVxMj) | 2:44 | 2025-03-27 | 2026-02-06 |
 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 | 2025-06-06 | 2025-08-01 |
 | [In The Morning](https://open.spotify.com/track/5RgcK50B5BvMJIzfHhrg47) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [In The Morning](https://open.spotify.com/album/3jjyM2Fbo4U66mSxnV7NeM) | 3:56 | 2025-09-25 | 2025-10-17 |
@@ -755,6 +757,7 @@
 | [Under Overfladen](https://open.spotify.com/track/2EXmj5AkvJLRhPVRUMZqw8) | [Turboweekend](https://open.spotify.com/artist/4v5M2g2hKOoaUceEgJbr80) | [Under Overfladen](https://open.spotify.com/album/2eOjVHqji1tnIcwDGKnM35) | 4:26 | 2025-03-13 | 2025-03-28 |
 | [Under The Influence](https://open.spotify.com/track/1BxWMfu4hzrWqExWSeT8Nx) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [Under The Influence](https://open.spotify.com/album/5EponkQHgGru0rIA4Oge0p) | 2:36 | 2025-05-01 | 2025-08-15 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-06-06 |
+| [ung og elske](https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy) | [KARLA](https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC) | [ung og elske](https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH) | 2:32 | 2026-03-05 |  |
 | [Unsteady](https://open.spotify.com/track/4dcB4irrogZQSbvGur1Wuf) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:17 | 2025-10-09 | 2025-11-14 |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 | 2026-02-06 |
 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 | 2024-06-27 | 2024-11-08 |

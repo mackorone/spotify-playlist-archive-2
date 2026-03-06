@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover:  Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,826 likes - 75 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,954 likes - 75 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 6 | [Praise](https://open.spotify.com/track/0Gvf5ZI9U0sLdUR8pe97Yv) | [Seventh Day Slumber](https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5) | [Praise](https://open.spotify.com/album/3hzXl64gTaHZPKkm3gpiAU) | 3:38 |
 | 7 | [Flood Gates](https://open.spotify.com/track/7LVNggFXYN1q5DGkzZwF9l) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Flood Gates](https://open.spotify.com/album/1jSB2iZdH6cz7zGMGU4wUn) | 3:16 |
 | 8 | [It Is Finished](https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw) | [Sean Rodriguez](https://open.spotify.com/artist/2ifliJZxSO9sNpZY4ItwPY), [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [It Is Finished](https://open.spotify.com/album/1yI817nUEoU91SOVMv8p9W) | 4:10 |
-| 9 | [THAT'S WHO I PRAISE \- PUNK VERSION](https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/album/6S89G0XoUbC27Qnuh8POlc) | 3:35 |
+| 9 | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/album/6S89G0XoUbC27Qnuh8POlc) | 3:35 |
 | 10 | [Sorrow Light The Way](https://open.spotify.com/track/3VQ9NBYE3BFUU2VvPYDVSe) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Sorrow Light The Way](https://open.spotify.com/album/1Ux4NmtgeByS8O2kPcdxbb) | 4:30 |
 | 11 | [Pressure](https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [Everything You Ever Wanted](https://open.spotify.com/album/4PL5z2EnY7YY93IP64v1zf) | 3:37 |
 | 12 | [NO BROKEN BONES](https://open.spotify.com/track/5AnRxL1OuPhApR177gvs6A) | [TEMITOPE](https://open.spotify.com/artist/2YrmP8ksRyeEVkzYp5to25) | [NO BROKEN BONES](https://open.spotify.com/album/1QWqhEkgQjiUHnYOuVOgZp) | 3:44 |

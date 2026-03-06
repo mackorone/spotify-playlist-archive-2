@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: American Football
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,045,023 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,044,944 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 79 | [I Used To Go To This Bar](https://open.spotify.com/track/1Uwq1uMR3GEY3KTLzZrRN2) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/5lPJlOBMTQExZmAan61C6A) | 2:12 |
 | 80 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 |
 
-Snapshot ID: `AAAAAPSNIH4tgOIiszX1bGhJf0JJPzDM`
+Snapshot ID: `AAAAAGAk7pMRpwp0hpLoJ0xMdZOeg5/W`

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 235194,
+  "num_followers": 235236,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAACdSiM6rAus2X7vDJSogUO",
+  "snapshot_id": "aad2AAAAAAC9SikJ4RPGSE0R15Imjc5O",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Reyes Del Movimiento Alterado",
-        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
-        {
-          "name": "Buknas De Culiacan",
-          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 168146,
-      "name": "Orden Exigido",
-      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
+      "duration_ms": 134739,
+      "name": "Ranchero Y Gallardo",
+      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+        "name": "Los Reyes Del Movimiento Alterado",
+        "url": "https://open.spotify.com/album/5SJqYFPqPGWZIZpNC9nbct"
       },
       "artists": [
+        {
+          "name": "Buknas De Culiacan",
+          "url": "https://open.spotify.com/artist/45hYVfD7CFus8HDkcFnUvH"
+        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 134739,
-      "name": "Ranchero Y Gallardo",
-      "url": "https://open.spotify.com/track/7GkL4xPB65VQat6d5CIu9z"
+      "duration_ms": 168146,
+      "name": "Orden Exigido",
+      "url": "https://open.spotify.com/track/5AqS1GDzzD2qkKAduFca3f"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+        "name": "Belico",
+        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Mafia Nueva",
-      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
+      "duration_ms": 232881,
+      "name": "La Mafia Se Sienta En La Mesa",
+      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belico",
-        "url": "https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 232881,
-      "name": "La Mafia Se Sienta En La Mesa",
-      "url": "https://open.spotify.com/track/4E3AyaHnGNCBstvVc9GVCL"
+      "duration_ms": 146360,
+      "name": "Mafia Nueva",
+      "url": "https://open.spotify.com/track/6iLTn5x3UzYyPgupyliMkt"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
       "duration_ms": 229982,
       "name": "Me Gustas Mucho - En Vivo",
       "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 137200,
-      "name": "El Corrido del Viejon",
-      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 137200,
+      "name": "El Corrido del Viejon",
+      "url": "https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Detras Del Miedo",
         "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 148874,
       "name": "Detras Del Miedo",
       "url": "https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "100 Balazos Al Blindaje",
-      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Katch",
-        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 117560,
-      "name": "Nom\u00e1s Por Ser Sinaloense",
-      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
+      "duration_ms": 159306,
+      "name": "100 Balazos Al Blindaje",
+      "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
     },
     {
       "added_at": null,
@@ -759,22 +743,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "El Katch",
+        "url": "https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM"
       },
       "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
         {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 180436,
-      "name": "Le Pas\u00e9 a la Plebe",
-      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+      "duration_ms": 117560,
+      "name": "Nom\u00e1s Por Ser Sinaloense",
+      "url": "https://open.spotify.com/track/1scZA7rmeJT5XwbEO9cksa"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 207517,
       "name": "Como Tu (feat. Kenia Rios)",
       "url": "https://open.spotify.com/track/69WJE0HTS9acF3WOq5q4gF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 180436,
+      "name": "Le Pas\u00e9 a la Plebe",
+      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-07-28",
-  "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "name": "Wintergef\u00fchle",
+  "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
+  "name": "Fr\u00fchlingsgef\u00fchle",
   "tracks": [
     {
       "album": {
@@ -1022,7 +1022,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 292373,
       "name": "Champagne Coast",
       "url": "https://open.spotify.com/track/0AIpGG5dxEgnAymhdJRSZ0"
@@ -2384,6 +2384,24 @@
       "duration_ms": 179140,
       "name": "Gr\u00fcne Augen l\u00fcgen nicht",
       "url": "https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt"
+    },
+    {
+      "album": {
+        "name": "Durch die Blume",
+        "url": "https://open.spotify.com/album/5h78njoCZUu7O3ZktWVgtH"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169720,
+      "name": "Gut genug",
+      "url": "https://open.spotify.com/track/6koT19j1LIUoIYxSLQcW7Y"
     },
     {
       "album": {
@@ -3914,8 +3932,8 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
-      "duration_ms": 174106,
+      "date_removed": null,
+      "duration_ms": 172493,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
     },
@@ -4802,7 +4820,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"

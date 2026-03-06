@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: Coco K)",
-  "num_followers": 35418,
+  "num_followers": 35429,
   "original_name": "Electronii[K]",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "Formula of Love: O+T=<3",
+        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 208780,
+      "name": "SCIENTIST (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "FIX OFF Desire Project 1",
         "url": "https://open.spotify.com/album/2HMHEGg6vqtM2xCFhCbX8f"
       },
@@ -703,26 +723,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Formula of Love: O+T=<3",
-        "url": "https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 208780,
-      "name": "SCIENTIST (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/3uazfRfe8P0L6j82EnHjOW"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "MONA LISA (Remix so fine)",
         "url": "https://open.spotify.com/album/7F8rn56kgdWo2Vnn5NhMYp"
       },
@@ -735,26 +735,6 @@
       "duration_ms": 185142,
       "name": "MONA LISA (Afro House Remix)",
       "url": "https://open.spotify.com/track/2lN3Z7lWjGcR0CJ1jOyb9W"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
-        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
-      },
-      "artists": [
-        {
-          "name": "ILLIT",
-          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
-        },
-        {
-          "name": "Snail's House",
-          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
-        }
-      ],
-      "duration_ms": 195177,
-      "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
-      "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -775,6 +755,26 @@
       "duration_ms": 225000,
       "name": "Whiplash (Steve Aoki Remix)",
       "url": "https://open.spotify.com/track/05WroaccWBOq46mEkO5N0X"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "Billyeoon Goyangi (Do the Dance) (Remixes)",
+        "url": "https://open.spotify.com/album/0ywumXNrnINKlPDkli38ni"
+      },
+      "artists": [
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "Snail's House",
+          "url": "https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY"
+        }
+      ],
+      "duration_ms": 195177,
+      "name": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
+      "url": "https://open.spotify.com/track/5PHwWZbsXcu5vjsV7EVrpl"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
+        "name": "TOMBOY (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 129677,
+      "name": "TOMBOY (R3HAB Remix)",
+      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
         "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
         "url": "https://open.spotify.com/album/4FJWDOLq0eiu0WGrJHqZfo"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 64389,
       "name": "Keep Swimmin' Through x Baby Shark (Dance Remix)",
       "url": "https://open.spotify.com/track/05w1GGQQl1NEw0hEznuANx"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
-        "name": "TOMBOY (R3HAB Remix)",
-        "url": "https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 129677,
-      "name": "TOMBOY (R3HAB Remix)",
-      "url": "https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        }
-      ],
-      "duration_ms": 221667,
-      "name": "Bad Boy - PREP Remix",
-      "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "SPAZ",
         "url": "https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 169506,
       "name": "Bassister (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
+        }
+      ],
+      "duration_ms": 221667,
+      "name": "Bad Boy - PREP Remix",
+      "url": "https://open.spotify.com/track/4J40k24yd1m6D3TaKQsepp"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Lucky Star",
-        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 162681,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Back for More (More Edition)",
         "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+        "name": "Lucky Star",
+        "url": "https://open.spotify.com/album/18CDp77BRitLM2EWJG48OR"
       },
       "artists": [
         {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
         }
       ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+      "duration_ms": 162681,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/3dmcBgER1RS6vTFbQVVVjt"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1319,22 +1303,18 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "BLUSH",
-        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
       },
       "artists": [
         {
-          "name": "Kimmy gone",
-          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
-        },
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
         }
       ],
-      "duration_ms": 152505,
-      "name": "Bad B**ch (Feat. Sik-K)",
-      "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1355,6 +1335,26 @@
       "duration_ms": 214400,
       "name": "Bad Boy - Slom Remix",
       "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "BLUSH",
+        "url": "https://open.spotify.com/album/7sglyvDA3F3q0YBmgAz1Jg"
+      },
+      "artists": [
+        {
+          "name": "Kimmy gone",
+          "url": "https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 152505,
+      "name": "Bad B**ch (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/5adaDy3RlstXNVvniuBkRX"
     },
     {
       "added_at": "2026-02-23 07:59:31",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2026-02-23 07:59:31",
       "album": {
-        "name": "iScreaM Vol.32 : Impossible Remix",
-        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        },
-        {
-          "name": "Darius",
-          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
-        }
-      ],
-      "duration_ms": 211818,
-      "name": "Impossible - Darius Remix",
-      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
-    },
-    {
-      "added_at": "2026-02-23 07:59:31",
-      "album": {
         "name": "Pirate (R3HAB Remix)",
         "url": "https://open.spotify.com/album/0TOiUQo6nKVZOUZI7IM77r"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 312000,
       "name": "Pirate (R3HAB Remix)",
       "url": "https://open.spotify.com/track/0ioCVkKxggJFTolmDwU3Bx"
+    },
+    {
+      "added_at": "2026-02-23 07:59:31",
+      "album": {
+        "name": "iScreaM Vol.32 : Impossible Remix",
+        "url": "https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        },
+        {
+          "name": "Darius",
+          "url": "https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK"
+        }
+      ],
+      "duration_ms": 211818,
+      "name": "Impossible - Darius Remix",
+      "url": "https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG"
     },
     {
       "added_at": "2026-02-23 07:59:31",

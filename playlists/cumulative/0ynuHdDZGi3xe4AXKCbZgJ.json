@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Neon God",
+        "url": "https://open.spotify.com/album/10zUxDI6PILPIufjzdniXy"
+      },
+      "artists": [
+        {
+          "name": "KAYE",
+          "url": "https://open.spotify.com/artist/6xtWwGjr7pWga4C7xiG29M"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Respect Me",
+      "url": "https://open.spotify.com/track/1wlOtAKANbQbCOqVrEWFfu"
+    },
+    {
+      "album": {
         "name": "The Family Jewels (Deluxe)",
         "url": "https://open.spotify.com/album/3vcPZf2pYrjqrHNVkPTDVL"
       },

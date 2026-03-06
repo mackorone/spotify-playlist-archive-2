@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,585 likes - 219 songs - 9 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,697 likes - 219 songs - 9 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -228,4 +228,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 218 | [Zenith](https://open.spotify.com/track/04sFd9QqXpYkxoI4uEChAh) | [Klejv](https://open.spotify.com/artist/491ZjutBNQPFA6hn5lDQW4) | [Zenith](https://open.spotify.com/album/6SorcmRMVV0cIXF7iMMCfN) | 2:28 |
 | 219 | [Voices](https://open.spotify.com/track/5fvfSFJgElOl3a6DhX7JCd) | [Aicnelav](https://open.spotify.com/artist/11YvJIJglT5UQVFmo5w1CR) | [Voices](https://open.spotify.com/album/3h0JWWcJoyIjgxW8stMYG4) | 2:22 |
 
-Snapshot ID: `AAAAAAnO0AY87BYUsix0d2iHuMqfHv3C`
+Snapshot ID: `AAAAAF26y6DeC8qA7MO0RzVlHT8F8S7e`

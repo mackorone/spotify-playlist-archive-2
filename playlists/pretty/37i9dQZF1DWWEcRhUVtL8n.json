@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Ally Evenson",
-  "num_followers": 1673640,
+  "num_followers": 1673619,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Good Girl",
-        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 263228,
-      "name": "Good Girl",
-      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 263228,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Delete Ya",
-        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 225000,
       "name": "Take A Drive",
       "url": "https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "The Lady on the Moon",
-        "url": "https://open.spotify.com/album/5pe3vvxYN2JVSy7KQv0hyb"
-      },
-      "artists": [
-        {
-          "name": "Noah Floersch",
-          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
-        }
-      ],
-      "duration_ms": 187720,
-      "name": "The Lady on the Moon",
-      "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 272266,
       "name": "When A Good Man Cries",
       "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "The Lady on the Moon",
+        "url": "https://open.spotify.com/album/5pe3vvxYN2JVSy7KQv0hyb"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "duration_ms": 187720,
+      "name": "The Lady on the Moon",
+      "url": "https://open.spotify.com/track/4N00gwXcw0WQzxngbwztnu"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Hemingway",
-        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 196697,
-      "name": "Hemingway",
-      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "This Is The World (I Made It For You) / Nice Day",
         "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 281786,
       "name": "This Is The World (I Made It For You)",
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Hemingway",
+        "url": "https://open.spotify.com/album/3JKMx86ymxWRpnBhmbBAus"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 196697,
+      "name": "Hemingway",
+      "url": "https://open.spotify.com/track/1BBVsOxgQ2soUs87ypiMZH"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "That's My Girl",
         "url": "https://open.spotify.com/album/0E2xTVpLqdXz4xyVYXKwBs"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 176546,
       "name": "That's My Girl",
       "url": "https://open.spotify.com/track/6oM46RZxmCvcaaHP3n5TXX"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Chasing The Chimera",
+        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 231499,
+      "name": "Small Town Joan of Arc",
+      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "the apple tree under the sea",
-        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 333956,
-      "name": "be the girl!",
-      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Hi My Love",
         "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 176486,
       "name": "Hi My Love",
       "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "the apple tree under the sea",
+        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 333956,
+      "name": "be the girl!",
+      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1535,18 +1535,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Elio",
-        "url": "https://open.spotify.com/album/7z1xNN3mLYLteqDB73NIIx"
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
       },
       "artists": [
         {
-          "name": "Elio Mei",
-          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 316933,
-      "name": "Elio",
-      "url": "https://open.spotify.com/track/6eKiMLX87zqbiA7K3Abbg5"
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "the punisher",
-        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+        "name": "Elio",
+        "url": "https://open.spotify.com/album/7z1xNN3mLYLteqDB73NIIx"
       },
       "artists": [
         {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+          "name": "Elio Mei",
+          "url": "https://open.spotify.com/artist/3MHgwXo5vVzHqGMKWRoLer"
         }
       ],
-      "duration_ms": 189107,
-      "name": "the punisher",
-      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
+      "duration_ms": 316933,
+      "name": "Elio",
+      "url": "https://open.spotify.com/track/6eKiMLX87zqbiA7K3Abbg5"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Little House",
         "url": "https://open.spotify.com/album/0AK4t5Hu653u7ipxbKBL0y"
       },
@@ -1647,18 +1663,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "A Man Written by a Woman",
-        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+        "name": "Maybe I'm the Reason / Be Cool",
+        "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
       },
       "artists": [
         {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
         }
       ],
-      "duration_ms": 167440,
-      "name": "A Man Written by a Woman",
-      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
+      "duration_ms": 174128,
+      "name": "Maybe I'm the Reason",
+      "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1675,22 +1691,6 @@
       "duration_ms": 256481,
       "name": "leave it all behind, Mike",
       "url": "https://open.spotify.com/track/5t1vQDpm4MKmRzbVaMAJWK"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Maybe I'm the Reason / Be Cool",
-        "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 174128,
-      "name": "Maybe I'm the Reason",
-      "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
     }
   ],
   "unique_name": "Indie Pop",

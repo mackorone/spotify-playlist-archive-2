@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to keep the vibes chill.
 
-93 songs - 4 hr 46 min
+97 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,8 +18,10 @@
 | [At the Launch Site](https://open.spotify.com/track/6uxeFOE6q3HyU6cXP04Zht) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Dope On Plastic 3](https://open.spotify.com/album/3GPCHpKBqHQk2a0UcfpLjV) | 2:50 | 2024-06-24 |  |
 | [Authentic](https://open.spotify.com/track/6ibi48DPWz04U2lTWp3G8o) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Soul City](https://open.spotify.com/album/0d5CHBsRYdHel2EiaFkk5p) | 1:23 | 2024-06-24 |  |
 | [Baby Pa \- Instrumental](https://open.spotify.com/track/2SwQYZdDQBBsyFZ1zjuuWh) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2), [Deda](https://open.spotify.com/artist/4CmnGcmdU93HGJ06KXWM4o) | [The Original Baby Pa \(Instrumentals\)](https://open.spotify.com/album/4JJDJVKT5CvoPGFJxbY2WQ) | 4:19 | 2024-06-24 |  |
+| [Back at It](https://open.spotify.com/track/371oVLoI792Jxmanr1dDLG) | [Mizlo](https://open.spotify.com/artist/4yfQDVxDZuhHtIKFROMjSQ) | [Back at It](https://open.spotify.com/album/1nX5tYbSIO9Nj08Y0KgTpL) | 2:27 | 2026-03-05 |  |
 | [Before Summer](https://open.spotify.com/track/1jnWjDA9rRION0bHhA6N51) | [Palpal](https://open.spotify.com/artist/4llOAdDmG96HtasQlWC6nb), [Danny Ghost](https://open.spotify.com/artist/3LoivJ8DRyZuJdk5R2tRGF) | [Last Summer](https://open.spotify.com/album/5YFuPF7T8Qf1Mln3HJydpX) | 2:47 | 2024-06-24 |  |
 | [belief tree](https://open.spotify.com/track/4sT5NZD0cHvpB3fcDkrGpD) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [belief tree](https://open.spotify.com/album/0BgIDqOrGPMFtBQW7N2LWS) | 3:00 | 2024-06-24 |  |
+| [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2026-03-05 |  |
 | [Blind Bat](https://open.spotify.com/track/4ZiN3nmZEfWQhGdKWYZjhn) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [One Man Band](https://open.spotify.com/album/0w9EYiEPKzjrX0WQ48yUy2) | 1:13 | 2024-06-24 |  |
 | [blow for blow.](https://open.spotify.com/track/0ejflAxFckJQrUKxiT1LP8) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [white night.](https://open.spotify.com/album/3aaNpWGGAwZUE0Y1lzqbV1) | 1:56 | 2024-08-14 |  |
 | [blue lines](https://open.spotify.com/track/1jrhlv8aZdzs2qYVDa0l82) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [Placemaker](https://open.spotify.com/album/1SXZh1pLNYyfiAmld7JjJ8) | 2:15 | 2024-06-24 |  |
@@ -45,6 +47,7 @@
 | [Family and Loyalty \- Instrumental](https://open.spotify.com/track/0ffXklHorIux1lxo3QdPaA) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [One Of The Best Yet \(Instrumental\)](https://open.spotify.com/album/2RM0ccLK3EL96uOGXTNg1R) | 4:34 | 2024-06-24 |  |
 | [Flava for Your Mind](https://open.spotify.com/track/3vcxZojZDMdjBEdeWFDr9h) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY) | [Cloudfiles](https://open.spotify.com/album/6JLHKaczyeK3RfC9CdWuag) | 3:16 | 2024-06-24 |  |
 | [garden](https://open.spotify.com/track/74Vg6QC4c1RbUf06QPiFAA) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [garden](https://open.spotify.com/album/4SPyNdJsi4bwa3e8McuCaj) | 1:55 | 2024-06-24 |  |
+| [Getting Ready](https://open.spotify.com/track/3xIrOb8u7IhJ57k1QdOlfH) | [Jake's Jazz](https://open.spotify.com/artist/1JJG6euEgzSf0XsPXEPLNR) | [Getting Ready](https://open.spotify.com/album/2uyvo4G9oLcGFup2e6XCfE) | 2:25 | 2026-03-05 |  |
 | [Glory](https://open.spotify.com/track/4QeyBi2HQ9tGYdEJzwuNVl) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Glory](https://open.spotify.com/album/3wxNK2VhWjnShCORfssCdy) | 3:07 | 2024-06-24 |  |
 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 | 2024-06-24 |  |
 | [Hip 2 Da Game \- Instrumental](https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening \[25th Anniversary \(Remaster\)\]](https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q) | 4:03 | 2024-06-24 |  |
@@ -72,6 +75,7 @@
 | [Never Stop Rockin'](https://open.spotify.com/track/4F5TNPbI9JTrd17fsdb1yK) | [Beamic](https://open.spotify.com/artist/5pNCAqkw3TlNDsq3kZIyc1) | [Never Stop Rockin'](https://open.spotify.com/album/4NeAD0Efyo7RY0TMFH7Jw5) | 4:20 | 2024-06-24 |  |
 | [On the Fritz](https://open.spotify.com/track/7KSe5EwXawbxoMSYqs4pF7) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:21 | 2024-06-24 |  |
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2024-06-24 |  |
+| [pipe dream](https://open.spotify.com/track/3GRAPXTa7fOQXjIPji3kQL) | [Pathos](https://open.spotify.com/artist/000A3Oa2wuuR3oJ5vjXkns) | [pipe dream](https://open.spotify.com/album/4kLl1PI6dgLFGW8HXO2fCq) | 2:34 | 2026-03-05 |  |
 | [Play My Guitar](https://open.spotify.com/track/0NWb5HTrknj2QFMnZb6rYK) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R), [Mr\. Ginseng](https://open.spotify.com/artist/7ttm00ZarLoBYsKnjauVKw) | [Play My Guitar](https://open.spotify.com/album/4wwHYtqvJjDaipxuuGMpGA) | 2:08 | 2025-06-06 |  |
 | [Prodigy Vision](https://open.spotify.com/track/7GG2FRZUlqZ4Ll4bNU0G6U) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Prodigy Vision](https://open.spotify.com/album/2cj4KrLQBpngclJF5KErZH) | 3:03 | 2025-05-09 |  |
 | [Proof](https://open.spotify.com/track/5J3blYdGa29GfqTi4FFqTY) | [The Cancel](https://open.spotify.com/artist/2C62QiJ3Rme5no5evMD1hH), [DJ Shon](https://open.spotify.com/artist/2Me9Ky7kqAJtVJKcfTlqHy) | [The All Boom](https://open.spotify.com/album/7xFXnNeyFek3kCgYBkkus0) | 2:00 | 2024-06-24 |  |

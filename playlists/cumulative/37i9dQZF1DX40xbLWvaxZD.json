@@ -273,24 +273,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
-      },
-      "artists": [
-        {
-          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
-          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 240466,
-      "name": "AWAKE - Full Spec Edition",
-      "url": "https://open.spotify.com/track/1p9aq8OcloioqSIfPA2ouR"
-    },
-    {
-      "album": {
         "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
       },
@@ -306,6 +288,32 @@
       "duration_ms": 240466,
       "name": "AWAKE - Full Spec Edition",
       "url": "https://open.spotify.com/track/7smFqg65nFPjrlW6k6ZNkF"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
+      },
+      "artists": [
+        {
+          "name": "\u5411\u7530\u7d17\u6804\u5b50(\u4e0a\u5742\u3059\u307f\u308c)",
+          "url": "https://open.spotify.com/artist/2ebnCor77aBYWmDisoObHA"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "AWAKE - Full Spec Edition",
+      "url": "https://open.spotify.com/track/1p9aq8OcloioqSIfPA2ouR"
     },
     {
       "album": {
@@ -368,12 +376,16 @@
       },
       "artists": [
         {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
           "name": "83key",
           "url": "https://open.spotify.com/artist/4nBsH2GSePetK23pAK70rZ"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "date_added": "2024-01-25",
@@ -876,6 +888,14 @@
         {
           "name": "\u8db3\u7acb\u5b8f\u4e00(\u5927\u585a\u660e\u592b)",
           "url": "https://open.spotify.com/artist/09ew4rdUAxzgLV29w2Eg1s"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "date_added": "2024-01-25",
@@ -1057,24 +1077,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
-      },
-      "artists": [
-        {
-          "name": "\u4e0d\u4e8c\u5bae\u5343\u6b73\uff08\u4f0a\u6ce2\u674f\u6a39\uff09",
-          "url": "https://open.spotify.com/artist/6JnlDxRgrLIPuWmQKrVf43"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 267280,
-      "name": "Honolulu City Lights - Full Spec Edition",
-      "url": "https://open.spotify.com/track/3HBbzgtqsYTc5ITp3yYOIl"
-    },
-    {
-      "album": {
         "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
       },
@@ -1090,6 +1092,32 @@
       "duration_ms": 267280,
       "name": "Honolulu City Lights - Full Spec Edition",
       "url": "https://open.spotify.com/track/6meZtca6G1UPlQ8G1QKfbU"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
+      },
+      "artists": [
+        {
+          "name": "\u4e0d\u4e8c\u5bae\u5343\u6b73\uff08\u4f0a\u6ce2\u674f\u6a39\uff09",
+          "url": "https://open.spotify.com/artist/6JnlDxRgrLIPuWmQKrVf43"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267280,
+      "name": "Honolulu City Lights - Full Spec Edition",
+      "url": "https://open.spotify.com/track/3HBbzgtqsYTc5ITp3yYOIl"
     },
     {
       "album": {
@@ -1355,28 +1383,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
-          "name": "\u7530\u4e2d \u667a\u4e4b FIVE LEAF CLOVER CO., LTD.",
-          "url": "https://open.spotify.com/artist/2iXIVXcfNmNdf8dR57Otn8"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213786,
-      "name": "Let's Go Crazy!!",
-      "url": "https://open.spotify.com/track/6SHtV8eY0gxRJgFYz68ORN"
-    },
-    {
-      "album": {
         "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
       },
@@ -1396,6 +1402,32 @@
       "duration_ms": 213786,
       "name": "Let's Go Crazy!!",
       "url": "https://open.spotify.com/track/3QYrdgfY6NwOCZoOz4dh52"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
+      },
+      "artists": [
+        {
+          "name": "\u7530\u4e2d \u667a\u4e4b",
+          "url": "https://open.spotify.com/artist/7LfVhkAKfUhwfcrQ2n5PwS"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213786,
+      "name": "Let's Go Crazy!!",
+      "url": "https://open.spotify.com/track/6SHtV8eY0gxRJgFYz68ORN"
     },
     {
       "album": {
@@ -1697,28 +1729,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
-          "name": "\u798f\u7530 \u6709\u7406",
-          "url": "https://open.spotify.com/artist/4jU0RacP9Tatdgc84kRVL7"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 116413,
-      "name": "Palekanian Dance",
-      "url": "https://open.spotify.com/track/3bxuz8xeOtVFDCQChl5fHg"
-    },
-    {
-      "album": {
         "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
       },
@@ -1738,6 +1748,32 @@
       "duration_ms": 116413,
       "name": "Palekanian Dance",
       "url": "https://open.spotify.com/track/7x30BXzgCwFqb7KW7c1w7D"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u7530 \u6709\u7406",
+          "url": "https://open.spotify.com/artist/4jU0RacP9Tatdgc84kRVL7"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116413,
+      "name": "Palekanian Dance",
+      "url": "https://open.spotify.com/track/3bxuz8xeOtVFDCQChl5fHg"
     },
     {
       "album": {
@@ -2151,28 +2187,6 @@
     },
     {
       "album": {
-        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
-        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
-      },
-      "artists": [
-        {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
-          "name": "\u82b1\u7530 \u5553\u592a\u6717",
-          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
-        }
-      ],
-      "date_added": "2024-01-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 228306,
-      "name": "Slugfest",
-      "url": "https://open.spotify.com/track/3MKcamUL2ebbHlLqZhxW3h"
-    },
-    {
-      "album": {
         "name": "LIKE A DRAGON 8 ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/7DEXskff0xQFFwH6kTRKWv"
       },
@@ -2192,6 +2206,32 @@
       "duration_ms": 228306,
       "name": "Slugfest",
       "url": "https://open.spotify.com/track/6xsPQZhPAbaYKGZuWxKZDk"
+    },
+    {
+      "album": {
+        "name": "\u9f8d\u304c\u5982\u304f8 ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/2AelC7ow2KCRBskC2kIWOD"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u7530 \u5553\u592a\u6717",
+          "url": "https://open.spotify.com/artist/1rouXc6iBnQS4Xc27JY99Z"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228306,
+      "name": "Slugfest",
+      "url": "https://open.spotify.com/track/3MKcamUL2ebbHlLqZhxW3h"
     },
     {
       "album": {
@@ -2454,12 +2494,16 @@
       },
       "artists": [
         {
-          "name": "SEGA SOUND TEAM",
-          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
-        },
-        {
           "name": "\u9752\u6728 \u5343\u7d18",
           "url": "https://open.spotify.com/artist/1D2ap5fmnmdRb5SWBxtoFz"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "date_added": "2024-01-25",
@@ -2706,6 +2750,14 @@
         {
           "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
           "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "date_added": "2024-01-25",
@@ -3068,6 +3120,14 @@
         {
           "name": "\u30cf\u30f3\u30fb\u30b8\u30e5\u30f3\u30ae\uff08\u4e2d\u6751\u60a0\u4e00\uff09",
           "url": "https://open.spotify.com/artist/28Hu4UV4KLAz7uV7PbkLXT"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "date_added": "2024-01-25",

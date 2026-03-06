@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 92710,
+  "num_followers": 92735,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Ezekiel Singles \u201918-\u201820",
-        "url": "https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v"
-      },
-      "artists": [
-        {
-          "name": "Ezekiel",
-          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
-        }
-      ],
-      "duration_ms": 139651,
-      "name": "help_urself",
-      "url": "https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Icedancer",
         "url": "https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 127791,
       "name": "Be Nice 2 Me",
       "url": "https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Ezekiel Singles \u201918-\u201820",
+        "url": "https://open.spotify.com/album/2myOeDsuEGTSUhmkRQMH0v"
+      },
+      "artists": [
+        {
+          "name": "Ezekiel",
+          "url": "https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q"
+        }
+      ],
+      "duration_ms": 139651,
+      "name": "help_urself",
+      "url": "https://open.spotify.com/track/6bxKECVRnkLmtpeU22Ve9p"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "serialkilled",
-        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 107129,
-      "name": "serialkilled",
-      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "serialkilled",
+        "url": "https://open.spotify.com/album/0oypx1kiUN5cstm7U5SO5i"
+      },
+      "artists": [
+        {
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
+        }
+      ],
+      "duration_ms": 107129,
+      "name": "serialkilled",
+      "url": "https://open.spotify.com/track/4DC73wRVLzJLollwd9LlLs"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "must be nice",
-        "url": "https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9"
-      },
-      "artists": [
-        {
-          "name": "osquinn",
-          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        }
-      ],
-      "duration_ms": 134961,
-      "name": "must be nice",
-      "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "PC Music, Vol. 1",
         "url": "https://open.spotify.com/album/1nJD8cgitrI7sWC4i3Ox32"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "go white boy go",
-        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+        "name": "must be nice",
+        "url": "https://open.spotify.com/album/3nUIEmwKrceOIj4Kz33LB9"
       },
       "artists": [
         {
-          "name": "saturn",
-          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+          "name": "osquinn",
+          "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
         }
       ],
-      "duration_ms": 101487,
-      "name": "go white boy go",
-      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
+      "duration_ms": 134961,
+      "name": "must be nice",
+      "url": "https://open.spotify.com/track/25TIIp717353bt26eqPiJw"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -887,6 +871,22 @@
       "duration_ms": 173000,
       "name": "Be Your USA",
       "url": "https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "go white boy go",
+        "url": "https://open.spotify.com/album/1vqmNNNPN16WJJ1GrVWwvF"
+      },
+      "artists": [
+        {
+          "name": "saturn",
+          "url": "https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR"
+        }
+      ],
+      "duration_ms": 101487,
+      "name": "go white boy go",
+      "url": "https://open.spotify.com/track/6RZrdPiUXNBC9ENt1mca2O"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Whatuworried4?",
-        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 155506,
-      "name": "Whatuworried4?",
-      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Kyoto (Glitch Gum Remix)",
         "url": "https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 159813,
       "name": "Kyoto (Glitch Gum Remix)",
       "url": "https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Whatuworried4?",
+        "url": "https://open.spotify.com/album/4NgEu7SlyyuO2HqJidl4gp"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 155506,
+      "name": "Whatuworried4?",
+      "url": "https://open.spotify.com/track/5suukXwOYA1AuB8O0sCSBR"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
-      },
-      "artists": [
-        {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
-        }
-      ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Broken Flowers - EP",
         "url": "https://open.spotify.com/album/6jpADwNRHSXDsvPSzARq00"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 204586,
       "name": "Broken Flowers",
       "url": "https://open.spotify.com/track/7Km0ioOI11nh7xGatqrpDj"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "1UL",
+        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
+      },
+      "artists": [
+        {
+          "name": "Danny L Harle",
+          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        }
+      ],
+      "duration_ms": 205447,
+      "name": "1UL",
+      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "XYZ",
         "url": "https://open.spotify.com/album/5BefoLRwqaVBuQpQkNKiyO"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 157652,
       "name": "Drown U",
       "url": "https://open.spotify.com/track/5Qorbb9mOtPHu0adPY2Znz"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "1UL",
-        "url": "https://open.spotify.com/album/1oNKlvMadv8K1wTBd5MwfC"
-      },
-      "artists": [
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 205447,
-      "name": "1UL",
-      "url": "https://open.spotify.com/track/4sPCKi7i8DAdWc1WpQrmOG"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1255,22 +1255,6 @@
       "duration_ms": 169795,
       "name": "MY WORLD",
       "url": "https://open.spotify.com/track/1yCD7yJFRBy7EIAd5N9xha"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "Dog Show",
-        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
-      },
-      "artists": [
-        {
-          "name": "Dylan Brady",
-          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
-        }
-      ],
-      "duration_ms": 117003,
-      "name": "127 Hrs in Bed",
-      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1319,6 +1303,22 @@
       "duration_ms": 215641,
       "name": "Toy Car",
       "url": "https://open.spotify.com/track/2l46WbxHBP34NUbmHDFFyZ"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "Dog Show",
+        "url": "https://open.spotify.com/album/5mc2TzMXFMy2pTSBDGB2C0"
+      },
+      "artists": [
+        {
+          "name": "Dylan Brady",
+          "url": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
+        }
+      ],
+      "duration_ms": 117003,
+      "name": "127 Hrs in Bed",
+      "url": "https://open.spotify.com/track/2yJzPbpErIh83LB99C3XPo"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
+        "name": "RUBBER",
+        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
+      },
+      "artists": [
+        {
+          "name": "six impala",
+          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
+        }
+      ],
+      "duration_ms": 184437,
+      "name": "FARAWAY199X/TAPE 2",
+      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
         "name": "Here",
         "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 196000,
       "name": "Here",
       "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
-        "name": "RUBBER",
-        "url": "https://open.spotify.com/album/0Qs20YY6v8ktvJP1RP84hC"
-      },
-      "artists": [
-        {
-          "name": "six impala",
-          "url": "https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW"
-        }
-      ],
-      "duration_ms": 184437,
-      "name": "FARAWAY199X/TAPE 2",
-      "url": "https://open.spotify.com/track/4zOfSQJhPaHVdNIPrOJJVl"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "#BrooklynBloodPop!",
-        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
-      },
-      "artists": [
-        {
-          "name": "SyKo",
-          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
-        }
-      ],
-      "duration_ms": 145610,
-      "name": "#BrooklynBloodPop!",
-      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
-    },
-    {
-      "added_at": "2024-10-09 21:55:22",
-      "album": {
         "name": "Black Rum",
         "url": "https://open.spotify.com/album/13sl174XbnxhrLdCIwPPdg"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 146946,
       "name": "Black Rum",
       "url": "https://open.spotify.com/track/0jvAU48GbRMFL68yenByaz"
+    },
+    {
+      "added_at": "2024-10-09 21:55:22",
+      "album": {
+        "name": "#BrooklynBloodPop!",
+        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
+      },
+      "artists": [
+        {
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+        }
+      ],
+      "duration_ms": 145610,
+      "name": "#BrooklynBloodPop!",
+      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1635,22 +1635,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "bad idea",
-        "url": "https://open.spotify.com/album/1vjhR70VW6jLdMec6GGw5J"
+        "name": "i hate it here",
+        "url": "https://open.spotify.com/album/5VMs4Sh4kOhFB0qyFFJHA5"
       },
       "artists": [
         {
           "name": "osquinn",
           "url": "https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN"
-        },
-        {
-          "name": "blackwinterwells",
-          "url": "https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u"
         }
       ],
-      "duration_ms": 69015,
-      "name": "bad idea",
-      "url": "https://open.spotify.com/track/4U0VPz4nbsMXqoLLvXNbsv"
+      "duration_ms": 157144,
+      "name": "i hate it here",
+      "url": "https://open.spotify.com/track/6SRDHDKG6sXZO64rRVERVr"
     },
     {
       "added_at": "2024-10-09 21:55:22",

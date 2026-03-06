@@ -4256,7 +4256,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 222315,
       "name": "Fuera Del Planeta",
       "url": "https://open.spotify.com/track/7MQ04bZzJGKiBRioclEiIo"
@@ -5672,6 +5672,32 @@
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
+    },
+    {
+      "album": {
+        "name": "LO QUE TU PIDAS",
+        "url": "https://open.spotify.com/album/04g0MZApKaD6ierW24qs8o"
+      },
+      "artists": [
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+        },
+        {
+          "name": "Baby Jey",
+          "url": "https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222318,
+      "name": "LO QUE TU PIDAS",
+      "url": "https://open.spotify.com/track/5fKb9vC0HYr636KQnRAEUq"
     },
     {
       "album": {

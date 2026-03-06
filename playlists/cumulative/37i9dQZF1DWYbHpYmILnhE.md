@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Wizard Chan
 
-132 songs - 6 hr 1 min
+133 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,13 +78,14 @@
 | [Mind](https://open.spotify.com/track/0316jWRhPNYKfqCxMV9Ego) | [TMZY](https://open.spotify.com/artist/4Ubjf7E3q6rlWl8YgsYL5f) | [Money Over Love](https://open.spotify.com/album/1PEWut6FV5W0K6XUUVE61W) | 2:14 | 2025-07-04 |  |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2024-06-28 | 2024-11-23 |
 | [My Pay](https://open.spotify.com/track/5xueuFvb4dGDVYw9kq7zbG) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [My Pay](https://open.spotify.com/album/1gurjO2yqQooB6khYfQAs8) | 2:45 | 2025-03-31 | 2025-05-30 |
-| [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-08-25 |  |
+| [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-08-25 | 2026-03-06 |
 | [My Type](https://open.spotify.com/track/2e6jU4n6jiANBlCyfXqL5r) | [Mod3st](https://open.spotify.com/artist/0MATxe4eJMjAUhOUuWwVPM) | [Candy Dreams](https://open.spotify.com/album/5AIOv0KVJFTgKZ55oRkHUL) | 2:49 | 2024-07-19 | 2024-08-26 |
 | [Naira to Pounds](https://open.spotify.com/track/08fKwPwhN8qAAhotGDXHb1) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Naira to Pounds](https://open.spotify.com/album/0VXltd3jl5hKw3asE18ABr) | 2:51 | 2024-06-28 |  |
 | [NO APOLOGIES](https://open.spotify.com/track/7LxjavMU1YVyYPPBsjs3Zc) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MILITANT MINDSET](https://open.spotify.com/album/6ieLnbH2PWN2DPyLHWJPbk) | 3:14 | 2024-06-28 |  |
 | [No Apology](https://open.spotify.com/track/15nazks1aDOlOzQW7Nvg9Y) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [No Apology](https://open.spotify.com/album/41fXTivd5PH2mRP9AdcPxq) | 2:56 | 2025-06-27 |  |
 | [No Be Kai Kai](https://open.spotify.com/track/0yePA8wX5uWMny5RIvfvmf) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [No Be Kai Kai](https://open.spotify.com/album/3GHjIA8OiEVTY03U7zia1f) | 2:29 | 2025-09-26 |  |
 | [No Excuses](https://open.spotify.com/track/235MhpP1xfwHFFmJnfue2c) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [No Excuses](https://open.spotify.com/album/3DtAkrbLRw3e9Kt0beJhWb) | 3:14 | 2025-08-01 |  |
+| [NOBODY](https://open.spotify.com/track/7zez4kQXEoH831LiVNEAPc) | [Gbolar Mighty](https://open.spotify.com/artist/1louJ7Ivcfifv1Fm1abrkp), [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [NOBODY](https://open.spotify.com/album/1n9oLXOtGnDdTjwne0LLh2) | 2:26 | 2026-03-06 |  |
 | [Normal Day](https://open.spotify.com/track/3RmdZ0LlVvTF0zI3aCSVcL) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Magnito](https://open.spotify.com/artist/1u3Hw4LXhW2EeCR3Wanqan), [N6](https://open.spotify.com/artist/7FFQabcYovGITece3mUXZM), [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az) | [Normal Day](https://open.spotify.com/album/1dlQtLIYsBaeHGi0djemHE) | 3:20 | 2024-06-28 | 2025-09-05 |
 | [NOT ALL THAT](https://open.spotify.com/track/2K0ULBaljOe2NCOqtuqyxB) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [NOT ALL THAT](https://open.spotify.com/album/69s31hDJvmYWwJx2TOIUHo) | 2:22 | 2024-07-26 | 2026-02-20 |
 | [Nzogbu](https://open.spotify.com/track/5Y7yFI7WV9H30jk1hfQbuh) | [Zoro Swagbag](https://open.spotify.com/artist/3S3T7zQ5vPdxH6vvh4ipxm), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Nzogbu](https://open.spotify.com/album/2s4hOhCQXsK6i3X70wstO1) | 3:28 | 2026-02-20 |  |

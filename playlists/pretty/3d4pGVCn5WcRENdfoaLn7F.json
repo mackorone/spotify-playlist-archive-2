@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 527,
+  "num_followers": 533,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAC4g9fLArbcTD+DNlH+PgOSUGVGsNE",
+  "snapshot_id": "AAAC5BfcvtBZ1JKX6DBwVEv7QfcbSFhS",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -775,6 +775,38 @@
       "duration_ms": 195459,
       "name": "What's on your Mind?",
       "url": "https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P"
+    },
+    {
+      "added_at": "2026-03-05 12:10:13",
+      "album": {
+        "name": "No puedes saber",
+        "url": "https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf"
+      },
+      "artists": [
+        {
+          "name": "Decode",
+          "url": "https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "No puedes saber",
+      "url": "https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3"
+    },
+    {
+      "added_at": "2026-03-05 16:24:57",
+      "album": {
+        "name": "Subtle Love",
+        "url": "https://open.spotify.com/album/3PR6WtuBxwmWtFmOaCbIej"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "duration_ms": 231692,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

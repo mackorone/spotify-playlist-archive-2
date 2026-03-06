@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,186 songs - 2 day 18 hr 10 min
+1,187 songs - 2 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [DAMAGE](https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q) | [DAMAGE](https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR) | 3:33 | 2022-09-06 | 2022-11-05 |
 | [Damage](https://open.spotify.com/track/4uwscfpPs3qMpswueaKISw) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1), [DJ DIESEL](https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Damage](https://open.spotify.com/album/1nYaZZovs0DuMxyYn79XP9) | 3:15 | 2025-02-03 | 2025-05-01 |
 | [Dance](https://open.spotify.com/track/2CJ3C71X04uLmbRGkyOThc) | [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Dance](https://open.spotify.com/album/0CySejF1LV9VLTwvLR39F4) | 3:46 | 2022-05-16 | 2022-07-27 |
+| [Dancing Through It All](https://open.spotify.com/track/1CispG7CncTdTDdbYTOASy) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Dancing Through It All](https://open.spotify.com/album/0sBFTmC0IfoBN9zAiXmsVb) | 2:45 | 2026-03-05 |  |
 | [Dancing With Myself](https://open.spotify.com/track/3V0WvIVH1TgKTf2ouORpVR) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Dancing With Myself](https://open.spotify.com/album/22NZ46wBNwrQRWFe9qyq00) | 2:43 | 2024-03-06 | 2024-06-01 |
 | [Dawn](https://open.spotify.com/track/75Y2PGippgYU4SzuPhiM9v) | [Grafine](https://open.spotify.com/artist/7shbsWIKV1TD2NSKbwVIyV) | [Dawn](https://open.spotify.com/album/24fQQNYmY6vjksnejWtLVg) | 2:42 | 2026-02-03 |  |
 | [Daybreak](https://open.spotify.com/track/3JRTdqas2IpIXLGdrLhRUG) | [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK) | [Daybreak](https://open.spotify.com/album/3H3s8lkiSk2psIyUf5T0eh) | 3:06 | 2023-07-26 | 2023-12-14 |

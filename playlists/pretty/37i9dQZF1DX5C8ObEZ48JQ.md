@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/3Huh90qZ5dI2w5I4JjaQtF?si=vzaRdMYHQP6Hqzr1zbo6RA">Indi</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,131 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,143 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 45 | [Pewa](https://open.spotify.com/track/5sggvlcQAAQotkFDmHcMmt) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Modest Chabari](https://open.spotify.com/artist/6lIgY6GFEW514NQ6bqafIm) | [Pewa](https://open.spotify.com/album/5NHFgvVvnOkrTlGNGPsHSW) | 3:52 |
 | 46 | [Anthem](https://open.spotify.com/track/51iEde68I3lujbTEs5FmAk) | [Mnazareth The Sultan](https://open.spotify.com/artist/68zQ89MYkV9jYBwJTLgxvt) | [Anthem](https://open.spotify.com/album/2klXOWji06RKVtABCAUAdO) | 2:30 |
 | 47 | [Well](https://open.spotify.com/track/5GJpGaP79iINgsXERqERlc) | [Nello MXL](https://open.spotify.com/artist/3tTgOZaxLpzUirK4aKQalD) | [Well](https://open.spotify.com/album/20YEEoY9fomFLV1BYOJ7gk) | 1:36 |
-| 48 | [Leta Hivyo](https://open.spotify.com/track/2wd4z6I4vVClMnz8OKAQPx) | [Andy Norling](https://open.spotify.com/artist/7BsanCqJ4WFOhfWVKvYR0P), [Muemablessed](https://open.spotify.com/artist/4d2A1MUdnXO9XXLBNWsl92) | [Leta Hivyo](https://open.spotify.com/album/4WpVNFsr5ApNewCHbTwgxe) | 2:24 |
+| 48 | [Leta Hivyo](https://open.spotify.com/track/2wd4z6I4vVClMnz8OKAQPx) | [Andy Norling](https://open.spotify.com/artist/7BsanCqJ4WFOhfWVKvYR0P), [Muema Blessed](https://open.spotify.com/artist/67kgMC7Q45xv6JsRliQBWQ) | [Leta Hivyo](https://open.spotify.com/album/4WpVNFsr5ApNewCHbTwgxe) | 2:24 |
 | 49 | [Biko](https://open.spotify.com/track/6OYOI8Ra1mvKGaL0tbiz6X) | [Remii](https://open.spotify.com/artist/68esPVBE3V7wjSPVmZ6jBM) | [Biko](https://open.spotify.com/album/1omjc1eKWElNR5U7Vad8gZ) | 4:03 |
 | 50 | [Light Up](https://open.spotify.com/track/7cPQvg01xbNol5bxhkU5QS) | [GRRRL](https://open.spotify.com/artist/0LFaqcs0KjYIkJTeO8i8lv) | [Light Up](https://open.spotify.com/album/6hdMCMQXidycWKY0QfN7n8) | 3:09 |
 

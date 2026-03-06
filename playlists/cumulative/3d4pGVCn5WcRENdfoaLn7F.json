@@ -2489,6 +2489,24 @@
     },
     {
       "album": {
+        "name": "No puedes saber",
+        "url": "https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf"
+      },
+      "artists": [
+        {
+          "name": "Decode",
+          "url": "https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297573,
+      "name": "No puedes saber",
+      "url": "https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3"
+    },
+    {
+      "album": {
         "name": "EQUINOCCIO",
         "url": "https://open.spotify.com/album/4zJbZstVSXrVlcgDZMckrw"
       },
@@ -2652,6 +2670,24 @@
       "duration_ms": 185566,
       "name": "Old Sweat",
       "url": "https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ"
+    },
+    {
+      "album": {
+        "name": "Subtle Love",
+        "url": "https://open.spotify.com/album/3PR6WtuBxwmWtFmOaCbIej"
+      },
+      "artists": [
+        {
+          "name": "Hazy Lane",
+          "url": "https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231692,
+      "name": "Once Again",
+      "url": "https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs"
     },
     {
       "album": {

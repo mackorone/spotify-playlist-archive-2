@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sayf sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
+  "description": "Ditonellapiaga sulla cover della playlist pi\u00f9 grande in Italia \ud83d\udd25",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -824,7 +824,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -992,6 +992,24 @@
       "duration_ms": 178883,
       "name": "BELLA DAVVERO",
       "url": "https://open.spotify.com/track/1ih8OCS4EmDtSL3Do0tWIp"
+    },
+    {
+      "album": {
+        "name": "PER SOLDI E PER AMORE",
+        "url": "https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "BERLINO",
+      "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
     },
     {
       "album": {
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 217213,
       "name": "Islanda",
       "url": "https://open.spotify.com/track/25mDnFOFyPmebNAok8mavk"
@@ -4320,6 +4338,10 @@
         {
           "name": "Samurai Jay",
           "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
         }
       ],
       "date_added": "2026-02-25",
@@ -4764,7 +4786,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 161432,
       "name": "Qualcosa di grande",
       "url": "https://open.spotify.com/track/7LHCJnWkQgmHGUhQyZeoW5"
@@ -4960,6 +4982,24 @@
       "duration_ms": 147162,
       "name": "Resta Ancora Un Po'",
       "url": "https://open.spotify.com/track/48zY2jicewpCnYEnWtrPPn"
+    },
+    {
+      "album": {
+        "name": "Resta Con Me",
+        "url": "https://open.spotify.com/album/4mCgQu8BIqXpiil8pw5KDj"
+      },
+      "artists": [
+        {
+          "name": "Bambole Di Pezza",
+          "url": "https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190985,
+      "name": "Resta Con Me",
+      "url": "https://open.spotify.com/track/1GjQApTKIADKfSoZm8bHRK"
     },
     {
       "album": {
@@ -5993,6 +6033,24 @@
     },
     {
       "album": {
+        "name": "uomo che cade",
+        "url": "https://open.spotify.com/album/5sy7D2BvqumKXW4WalI8xj"
+      },
+      "artists": [
+        {
+          "name": "Tredici Pietro",
+          "url": "https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217458,
+      "name": "uomo che cade",
+      "url": "https://open.spotify.com/track/3vwObRd71oUa145riRt42O"
+    },
+    {
+      "album": {
         "name": "Vai!",
         "url": "https://open.spotify.com/album/78oiHnbmYm8jUidFHcAeWL"
       },
@@ -6224,7 +6282,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 176938,
       "name": "Yakuza (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1KEge1AYDxzlW7O8oHcs82"

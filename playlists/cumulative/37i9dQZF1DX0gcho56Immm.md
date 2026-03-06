@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Ydegirl
 
-249 songs - 14 hr 32 min
+253 songs - 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Enemy](https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L) | [Enemy](https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9) | 3:11 | 2025-11-14 |  |
 | [Ether](https://open.spotify.com/track/5KL7fD7g08Yagmi89FUfTi) | [100%WET](https://open.spotify.com/artist/00NfekFQ6GejpGDubQhgN2) | [100%WET](https://open.spotify.com/album/4hsQ77zmik94euR1aDkTUc) | 4:32 | 2025-06-26 |  |
 | [Ethereal Security Guard](https://open.spotify.com/track/07gwWQtFu0O7QWIQbHORmp) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Ethereal Security Guard](https://open.spotify.com/album/2DM184JFwecL8z2s8F2moi) | 6:36 | 2025-05-22 | 2026-02-07 |
+| [Even God Gets Stuck In Devotion](https://open.spotify.com/track/5ogWb6eQzDSwSf9TkKm6xp) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q), [Austyn Wohlers](https://open.spotify.com/artist/6yL8bLQAdDDudryKDoxsHB) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 3:36 | 2026-03-05 |  |
 | [Exit Vendor](https://open.spotify.com/track/5RC1ahAX3WfFwg0sCKdKAP) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 4:04 | 2025-09-19 |  |
 | [Falter](https://open.spotify.com/track/4XA4JcVAs6IQZZYhg8iEPa) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Falter](https://open.spotify.com/album/6lzkQ9IjpbhF58gQLDthCc) | 2:41 | 2025-06-19 |  |
 | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/track/05CNzSWoeewEVtr7gdf0Gg) | [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Fantasy \(feat\. Quiet Light\)](https://open.spotify.com/album/5kEvOqYjONAOd9t8PqawHV) | 1:52 | 2025-10-10 |  |
@@ -126,6 +127,7 @@
 | [I'm The One You Want](https://open.spotify.com/track/6YvgiwtIGxDgIRgp4n3FpB) | [Maara](https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y) | [Ultra Villain](https://open.spotify.com/album/7vz5dW5cPZeyp9L27A76tf) | 2:49 | 2026-02-19 |  |
 | [Icarus](https://open.spotify.com/track/13fCn5T4Mk4FQiWP3sk9pq) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig), [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y), [Scandinavian Star](https://open.spotify.com/artist/0IHVd7aU0SzB7t0HDiCWsp), [JEURU](https://open.spotify.com/artist/60o3gpHTPIXhyelk1W7SCq), [3NDLESS](https://open.spotify.com/artist/75ElKTu3tktOalesDar99k) | [Icarus](https://open.spotify.com/album/4luHBca9SclaZdrRpPlAFw) | 4:16 | 2026-01-29 |  |
 | [Idea.2](https://open.spotify.com/track/6MElKOLK2nXBHRYNTJTHdr) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Idea.2](https://open.spotify.com/album/5GeAunzkiBxeRx118tj1Jg) | 6:01 | 2025-08-22 | 2025-09-27 |
+| [If I](https://open.spotify.com/track/1l0d4cUKLLafugiEUSyZdB) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [If I](https://open.spotify.com/album/5rdeXSZ2oLrt4DoKXAxnzo) | 2:56 | 2026-03-05 |  |
 | [In Iowa](https://open.spotify.com/track/0AZQmLHntlwyjpUEpcfj5B) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [In Iowa / My City](https://open.spotify.com/album/7Ia6smPy2YtgHahtB8OtF2) | 4:08 | 2025-10-10 |  |
 | [Intangible](https://open.spotify.com/track/5pL2gkDSOm5iEPLqZ7d8p8) | [Baby In Vain](https://open.spotify.com/artist/20khGbiJWINJJibuMzT8yr) | [Afterlife](https://open.spotify.com/album/2fUyFlZitgarYBNLIOhg47) | 3:16 | 2025-03-31 | 2026-01-31 |
 | [Intentions](https://open.spotify.com/track/4wqfSOT2MTlVwfrDvXyXWP) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Acopia](https://open.spotify.com/album/4GPuQErhhqHW8xVgOVyhjb) | 2:47 | 2025-03-13 | 2025-08-09 |
@@ -150,6 +152,7 @@
 | [Là\-bas](https://open.spotify.com/track/0LISRYzeeCVKaCJm259u4Z) | [San James](https://open.spotify.com/artist/0hIJpbVV7O5vBBhTQ4tXiH) | [Là\-bas](https://open.spotify.com/album/5JxKd6ZJrZxJmNnkdlYnBb) | 4:06 | 2025-08-18 |  |
 | [Maybe..](https://open.spotify.com/track/4q6Dn8XcJUoSdp9dRUHS62) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [born to sing](https://open.spotify.com/album/7JGeqFHADaNviwVE5xqfAW) | 2:52 | 2025-03-13 | 2025-08-09 |
 | [Mindflower](https://open.spotify.com/track/57hqFySP2QJFuudulgBeZB) | [Now Always Fades](https://open.spotify.com/artist/7bdXd6MqOWlETFIx0hpPgy) | [Mindflower](https://open.spotify.com/album/1ksHR5EpvXQiCAyasSLpEK) | 4:14 | 2025-08-08 |  |
+| [Miracle](https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Idol Melodies](https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT) | 2:55 | 2026-03-05 |  |
 | [Moment](https://open.spotify.com/track/57S61SuY9RdT4kSS1jUOED) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Moment](https://open.spotify.com/album/74tiJMeAD7XYcQFDjqXp2k) | 2:14 | 2025-11-21 |  |
 | [Morphe Sun](https://open.spotify.com/track/7hNRxxcR2aRMadgWKL0YHM) | [Pink Must](https://open.spotify.com/artist/2ugqiyhldi0oFKePKmHIy9) | [Karaoke Of The Bends](https://open.spotify.com/album/0rfTTnuksM3DdHXIi8BrVB) | 2:19 | 2025-03-13 | 2026-01-24 |
 | [Mouse Tag](https://open.spotify.com/track/1QVgtD9wGjGQdLLdrQ1dI4) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Musicality](https://open.spotify.com/album/6rcnlJU0yDzWJf59i4SP6X) | 1:46 | 2025-09-19 |  |
@@ -236,6 +239,7 @@
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-03-13 | 2025-08-09 |
 | [Under my bed](https://open.spotify.com/track/1w1a1ao2QB7I8w1vhjQkMV) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Under my bed](https://open.spotify.com/album/6PW5lLNR9cAhIEJJVlrdso) | 2:52 | 2026-02-26 |  |
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 | 2026-01-24 |
+| [unravelled roads less travelled](https://open.spotify.com/track/494qesfpxYkipe7LjuXIl3) | [Flow Clark](https://open.spotify.com/artist/43nFOwQey7Bz7ttphB5cKC), [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk) | [unravelled roads less travelled](https://open.spotify.com/album/6k5kilfNaP6sFZEIRWq0gb) | 1:52 | 2026-03-05 |  |
 | [Until June](https://open.spotify.com/track/4reIkCla73IpG17FZel0Hf) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [Until June](https://open.spotify.com/album/7xlOzPNL2DyzVzwNoAvFJC) | 3:48 | 2025-05-29 |  |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-08-18 |  |
 | [Valley Serpent](https://open.spotify.com/track/6nbGBGA9WMlWIDAaVu210c) | [ear](https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG) | [Fetish / Valley Serpent](https://open.spotify.com/album/3B4hYM7ShimSOicikAu1Gq) | 2:27 | 2025-06-26 |  |

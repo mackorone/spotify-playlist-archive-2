@@ -2,9 +2,9 @@
 
 ### [Global Afrobeats](https://open.spotify.com/playlist/37i9dQZF1DWSZxadTyuQ2s)
 
-> The sound of Afrobeats echoing around the world\. Cover:  Moliy and Bees & Honey
+> The sound of Afrobeats echoing around the world\. Cover:  Ayra Starr
 
-169 songs - 8 hr 41 min
+170 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 | 2026-02-20 |  |
 | [MR\. MEDIA](https://open.spotify.com/track/2d3QwiqKhKGm03xr3RlnYH) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 3:01 | 2025-12-03 | 2026-01-16 |
 | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q) | [DJ Malvado](https://open.spotify.com/artist/41RJOF5tdFMmtyg5aEtWMJ), [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Mussulo \(feat\. Doddy\)](https://open.spotify.com/album/1eQf5lYWtCDIbuXnhMDQtO) | 4:16 | 2025-10-10 |  |
-| [My Bébé](https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Bébé](https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn) | 2:23 | 2026-02-13 |  |
+| [My Bébé](https://open.spotify.com/track/1M4hppqYK76xSSI7qdNCkr) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [My Bébé](https://open.spotify.com/album/6cfApR6fX0ptSf8UjikmAn) | 2:23 | 2026-02-13 | 2026-03-06 |
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-10-10 |  |
 | [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 | 2026-01-23 |  |
 | [Ngisakuthanda](https://open.spotify.com/track/2tUXE87QNnoVQZApV3uyVZ) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [TBO](https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp), [PYY Log Drum King](https://open.spotify.com/artist/7EjDxfiI8nHmJeYKZcE5MP), [Dj Tearz SA](https://open.spotify.com/artist/4Nxf3jCcsMsxCNQrHq27M7), [Dr Thulz](https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4) | [Ngisakuthanda](https://open.spotify.com/album/1Y5TphK5oq4DmAGIvHNsUt) | 6:52 | 2025-12-03 | 2026-01-16 |
@@ -166,6 +166,7 @@
 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-12-03 | 2026-01-16 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2025-10-10 | 2026-02-20 |
 | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/track/6QOOnaoczEeWw4zEICAJyB) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [What I Like \(with Moliy, Ayetian, & Tyga\)](https://open.spotify.com/album/2SFaRmuiD59d9evBFmET8W) | 2:36 | 2026-01-16 |  |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-06 |  |
 | [Who’s Dat Girl](https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Who’s Dat Girl](https://open.spotify.com/album/3GFFUCTXVKgoGEjMgjCsqW) | 2:52 | 2025-10-22 |  |
 | [With You \(feat\. Omah Lay\)](https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 | 2025-10-10 |  |
 | [Working II](https://open.spotify.com/track/3TQm23FXN5UCm1SBOP0zWA) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Working II](https://open.spotify.com/album/4DNAky2JEtXlKEX5mfyT7w) | 3:44 | 2025-11-07 | 2025-12-04 |

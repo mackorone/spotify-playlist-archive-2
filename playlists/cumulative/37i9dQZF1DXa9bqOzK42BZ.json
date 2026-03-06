@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-26",
-  "description": "The best of Swahili gospel music. Cover: Joel Lwaga",
+  "description": "The best of Swahili gospel music. Cover: Guardian Angel",
   "name": "Swahili Praise",
   "tracks": [
     {
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 192693,
       "name": "MAORORE",
       "url": "https://open.spotify.com/track/5AQ1ULbOkslDrl6Uth9zUc"
@@ -2170,7 +2170,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 386493,
       "name": "Mbingu Za Mbingu",
       "url": "https://open.spotify.com/track/2AFbSP4Y1dJyWQUxkSywq3"
@@ -2430,6 +2430,28 @@
       "duration_ms": 623693,
       "name": "Mlima - Live",
       "url": "https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF"
+    },
+    {
+      "album": {
+        "name": "Moja",
+        "url": "https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC"
+      },
+      "artists": [
+        {
+          "name": "Moses Luka",
+          "url": "https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31"
     },
     {
       "album": {
@@ -3288,7 +3310,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 218823,
       "name": "Nibariki Na Mimi",
       "url": "https://open.spotify.com/track/3d7IsIZdB45NYgJniyc9Lz"
@@ -4104,6 +4126,24 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "album": {
+        "name": "Protocol Breaker",
+        "url": "https://open.spotify.com/album/4xrSrhi07C0KqPItbxveO1"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228349,
+      "name": "Protocol Breaker",
+      "url": "https://open.spotify.com/track/28G8vBuZw2k4Uilnn6xoEJ"
     },
     {
       "album": {
@@ -5020,6 +5060,28 @@
       "duration_ms": 182491,
       "name": "TIGANA NA ADU",
       "url": "https://open.spotify.com/track/0qvETK86JRvJLnG6nWQJbM"
+    },
+    {
+      "album": {
+        "name": "Timiza",
+        "url": "https://open.spotify.com/album/04fSQzKkFx73QHx6NGaJ08"
+      },
+      "artists": [
+        {
+          "name": "J blessing",
+          "url": "https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr"
+        },
+        {
+          "name": "Phil Kimemia",
+          "url": "https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Timiza",
+      "url": "https://open.spotify.com/track/33OumnvH7kcJDrLA75ayVb"
     },
     {
       "album": {

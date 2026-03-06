@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Saint Harison
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,998 likes - 250 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,114,962 likes - 250 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 70 | [Survivors Guilt](https://open.spotify.com/track/6jHuphZVA3IYEGwZHNkiRE) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi) | [Survivors Guilt](https://open.spotify.com/album/1p5rI2rX1cwen7EPAF6sjm) | 3:36 |
 | 71 | [way 2 paradise](https://open.spotify.com/track/3sgoRhmVZj3wtkzFd6hcZb) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [way 2 paradise](https://open.spotify.com/album/3MIL2etNxMIjQIX8glmjni) | 2:45 |
 | 72 | [what you want](https://open.spotify.com/track/0AH7Z2XAyFso21ZlihoPzM) | [marQ](https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC) | [what you want](https://open.spotify.com/album/70406egpfCeHceyC3puJnS) | 2:40 |
-| 73 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
+| 73 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
 | 74 | [New City](https://open.spotify.com/track/4SPGby81pGBdnMMFSBhl6Q) | [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [New City](https://open.spotify.com/album/1ddN3VvsiqWe7gtJrn1EuG) | 3:18 |
 | 75 | [something special](https://open.spotify.com/track/0DVvRWrJO4TQye8KL0K9pK) | [Imani\-J](https://open.spotify.com/artist/0v4Xz06LDEOS0VRzkSbUAk) | [something special](https://open.spotify.com/album/3N48IVGejGpJNq5O3He07z) | 2:50 |
 | 76 | [Let Me](https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Let Me](https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu) | 4:51 |

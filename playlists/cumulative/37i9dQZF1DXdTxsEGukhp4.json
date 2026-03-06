@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 354520,
       "name": "come again",
       "url": "https://open.spotify.com/track/1CZeGqCedLsWhFufD9UjYa"
@@ -7775,6 +7775,24 @@
     },
     {
       "album": {
+        "name": "\u30ad\u30df\u306b100\u30d1\u30fc\u30bb\u30f3\u30c8(\u30a2\u30cb\u30e1\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/0CIAMbcW40zEx9F7404j82"
+      },
+      "artists": [
+        {
+          "name": "Kyary Pamyu Pamyu",
+          "url": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66868,
+      "name": "\u30ad\u30df\u306b100\u30d1\u30fc\u30bb\u30f3\u30c8 - \u30a2\u30cb\u30e1\u30f4\u30a1\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1qL3lAvrurNvpif4BiYsTF"
+    },
+    {
+      "album": {
         "name": "\u30ad\u30e5\u30fc\u306b\u30b9\u30c8\u30c3\u30d7\u3067\u304d\u307e\u305b\u3093\uff01",
         "url": "https://open.spotify.com/album/6oLeXGeM7Dv4wr1cB1E1X3"
       },
@@ -9190,7 +9208,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 253980,
       "name": "\u500d\u500dFIGHT!",
       "url": "https://open.spotify.com/track/48Vmf6Z41CoJo0JvT8tZfS"
@@ -10252,6 +10270,24 @@
       "duration_ms": 190159,
       "name": "\u6700\u4e0a\u7d1a\u306b\u304b\u308f\u3044\u3044\u306e\uff01",
       "url": "https://open.spotify.com/track/3Ac9x7tA96I5xUmZTDuqMX"
+    },
+    {
+      "album": {
+        "name": "IDOL1ST (Special Edition)",
+        "url": "https://open.spotify.com/album/3CN0ZrWt88sbfjYsDYqJvq"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u4eba",
+          "url": "https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177136,
+      "name": "\u6700\u521d\u306f\u30ad\u30e5\u30f3\uff01",
+      "url": "https://open.spotify.com/track/5WBFEpEo85flRybWZfqhHf"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 12662,
+  "num_followers": 12682,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Worry Never Wins (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1gYl214H1QjR8XdcMAdd6J"
+      },
+      "artists": [
+        {
+          "name": "Bye Bye Brenda",
+          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 219411,
+      "name": "Worry Never Wins (feat. NATURE)",
+      "url": "https://open.spotify.com/track/2qRFOTapfaEZ2ZE48AiZJM"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Life Goes On (feat. NATURE)",
         "url": "https://open.spotify.com/album/3vOOrWRwuomA8OIE53YRsP"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 296000,
       "name": "Life Goes On (feat. NATURE)",
       "url": "https://open.spotify.com/track/7nQXaKlRB587FSC5JftWcN"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Worry Never Wins (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1gYl214H1QjR8XdcMAdd6J"
-      },
-      "artists": [
-        {
-          "name": "Bye Bye Brenda",
-          "url": "https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 219411,
-      "name": "Worry Never Wins (feat. NATURE)",
-      "url": "https://open.spotify.com/track/2qRFOTapfaEZ2ZE48AiZJM"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -775,6 +775,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
+      },
+      "artists": [
+        {
+          "name": "AySay",
+          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Biophonica",
+          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Dar (feat. NATURE)",
         "url": "https://open.spotify.com/album/3pKjNLOnBzVgxSDkgSIdRh"
       },
@@ -819,30 +843,6 @@
       "duration_ms": 419076,
       "name": "Air - Reimagined (feat. NATURE and Kat Pither)",
       "url": "https://open.spotify.com/track/25K6NrCTRpxgRYgKHHQ4n3"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4ZwkLK9fernytb3aZvPoAl"
-      },
-      "artists": [
-        {
-          "name": "AySay",
-          "url": "https://open.spotify.com/artist/5Py5TK2D6YiXZeivaPkRhE"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Biophonica",
-          "url": "https://open.spotify.com/artist/1jgAKg29HhmZMWRGfjELQC"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "Tu Bi Xer Hat\u00ee (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4348UXOK0dbQb4oBQUM31f"
     },
     {
       "added_at": "2026-02-05 08:45:41",

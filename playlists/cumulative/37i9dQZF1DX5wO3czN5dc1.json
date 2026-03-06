@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Euggy",
+  "description": "The heartbeat of Afro House from Africa and around the globe. Cover: Skylaa Tylaa",
   "name": "Afro House Pulse",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 241584,
       "name": "222",
       "url": "https://open.spotify.com/track/7cCYXwe0HnQjVIHKX9IBdg"
@@ -68,7 +68,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 266419,
       "name": "Abewe",
       "url": "https://open.spotify.com/track/1LVXGbpSNcIKiOt397YgBq"
@@ -164,7 +164,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 292000,
       "name": "Amaphupho",
       "url": "https://open.spotify.com/track/2zXofbvj4aLQkwXvfLtazL"
@@ -279,6 +279,36 @@
     },
     {
       "album": {
+        "name": "Angel Whispers",
+        "url": "https://open.spotify.com/album/2Nf2tYF0TZgOSz9C9DpkVd"
+      },
+      "artists": [
+        {
+          "name": "Phodii",
+          "url": "https://open.spotify.com/artist/6IHasJRpaYHVdkMzv6HDEV"
+        },
+        {
+          "name": "Charisse C",
+          "url": "https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n"
+        },
+        {
+          "name": "Kwamzy",
+          "url": "https://open.spotify.com/artist/3v5aYUzyeGmqJGpIxHmhEv"
+        },
+        {
+          "name": "Infrallectual",
+          "url": "https://open.spotify.com/artist/5MS1zgDjBmvUnFq6cl19g7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347829,
+      "name": "Angel Whispers",
+      "url": "https://open.spotify.com/track/0Gm3BnC8qh8DqoowbdazrL"
+    },
+    {
+      "album": {
         "name": "God's Art",
         "url": "https://open.spotify.com/album/4emZDJ3ChJrmtTCHbMLnsr"
       },
@@ -334,7 +364,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 349090,
       "name": "Arcana Dei",
       "url": "https://open.spotify.com/track/1lCA23ozFtmsi5kqVA29VY"
@@ -354,13 +384,13 @@
           "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
         },
         {
-          "name": "zss",
-          "url": "https://open.spotify.com/artist/0997972c1IG9I5mtbb4oHe"
+          "name": "ZSS",
+          "url": "https://open.spotify.com/artist/0EdHRrvfxXevJFUB3wBVbe"
         }
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 303386,
       "name": "Asalam Alaikum",
       "url": "https://open.spotify.com/track/2KexuBVRYdXFQdbVM2wqxO"
@@ -1168,7 +1198,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 231257,
       "name": "Dream - Radio Edit",
       "url": "https://open.spotify.com/track/3wio3XA57i8cgBVXpVSGzR"
@@ -1186,7 +1216,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 392125,
       "name": "Dwana Days",
       "url": "https://open.spotify.com/track/1Old2F6y7j1fJRNKesCwGE"
@@ -1672,7 +1702,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Gemu - Radio Edit",
       "url": "https://open.spotify.com/track/1iApKEOkBkgAkkelE9NdiW"
@@ -1742,6 +1772,24 @@
       "duration_ms": 202000,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/3C3KiDRo8j7K9jHVOZL6fn"
+    },
+    {
+      "album": {
+        "name": "Haaa!",
+        "url": "https://open.spotify.com/album/56Jk2FHFPWt6qmpFTBn9Ga"
+      },
+      "artists": [
+        {
+          "name": "Eli Fola",
+          "url": "https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188867,
+      "name": "Haaa!",
+      "url": "https://open.spotify.com/track/6da4dCRFfrq1JdW2GCppbY"
     },
     {
       "album": {
@@ -2052,7 +2100,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 272137,
       "name": "Imali",
       "url": "https://open.spotify.com/track/6S3JIxlBBEmEzr4kLQjOBT"
@@ -2203,6 +2251,58 @@
     },
     {
       "album": {
+        "name": "INA",
+        "url": "https://open.spotify.com/album/2rnsD7AJpoaGzAXA3Tlxup"
+      },
+      "artists": [
+        {
+          "name": "Koceila Chougar",
+          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        },
+        {
+          "name": "Malumz on Decks",
+          "url": "https://open.spotify.com/artist/3tMHi8yJjkGraZofrKOKGS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280320,
+      "name": "INA",
+      "url": "https://open.spotify.com/track/5sxh7pOe531ahryxk56JO4"
+    },
+    {
+      "album": {
+        "name": "Indaba",
+        "url": "https://open.spotify.com/album/6qLUF4L79cBhOCp4Ra45iB"
+      },
+      "artists": [
+        {
+          "name": "Aaron Sevilla",
+          "url": "https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX"
+        },
+        {
+          "name": "KIDY",
+          "url": "https://open.spotify.com/artist/7s9XRGrooghpH9SY5QXrtG"
+        },
+        {
+          "name": "Lizwi",
+          "url": "https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "Indaba",
+      "url": "https://open.spotify.com/track/3LwvoMmNLi6MSYnAgbEJdH"
+    },
+    {
+      "album": {
         "name": "Inkani",
         "url": "https://open.spotify.com/album/2cznxENEfc4gag2KzbvHV5"
       },
@@ -2276,7 +2376,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 342721,
       "name": "Int'engekhoyo (feat. STOFFELA)",
       "url": "https://open.spotify.com/track/0PmOeHT4I1XfaSD8JGHv3S"
@@ -2660,7 +2760,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 152975,
       "name": "Kamwana",
       "url": "https://open.spotify.com/track/7GIzHLGF2UvAuaMrtVdI5y"
@@ -3499,6 +3599,32 @@
     },
     {
       "album": {
+        "name": "Mean 2 Me",
+        "url": "https://open.spotify.com/album/0npUtWGx1oEk4AXLoNvhKm"
+      },
+      "artists": [
+        {
+          "name": "Skyla Tylaa",
+          "url": "https://open.spotify.com/artist/65nasTOHBmMP0qoo6Xa245"
+        },
+        {
+          "name": "Kitty Amor",
+          "url": "https://open.spotify.com/artist/0ZaCzPKSboLncLMhFaBfcT"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267904,
+      "name": "Mean 2 Me",
+      "url": "https://open.spotify.com/track/6IMJPS60S4PuO4dsyGSaDc"
+    },
+    {
+      "album": {
         "name": "Meka",
         "url": "https://open.spotify.com/album/49ZzIScqGDeC3Hno8pS5jz"
       },
@@ -3662,7 +3788,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 212500,
       "name": "Mulalo",
       "url": "https://open.spotify.com/track/7oVcS6Ki7M2VjRa2765chw"
@@ -4302,7 +4428,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 265573,
       "name": "No Shape Without You",
       "url": "https://open.spotify.com/track/61z9JuSmy3ojIWoVhGHQAE"
@@ -5020,7 +5146,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 394576,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/6RqwWN3p1KeZCnPRMa4K3A"
@@ -5050,7 +5176,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 472106,
       "name": "Soul Alive",
       "url": "https://open.spotify.com/track/7kfLKbqZA8nQHjf7ONUhRZ"
@@ -5110,7 +5236,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 463008,
       "name": "Sthombe Esihle (feat. Focalistic, BigBaller_Ceo & Ch'cco)",
       "url": "https://open.spotify.com/track/6RdArWPl34orAQtDWvtv0b"
@@ -5136,6 +5262,32 @@
       "duration_ms": 199605,
       "name": "Styler",
       "url": "https://open.spotify.com/track/11WdJeCMpaz2bCuCsLyjcz"
+    },
+    {
+      "album": {
+        "name": "Tales Of Our Ancestors",
+        "url": "https://open.spotify.com/album/4nFjY0G6SFJoIUPzwU1kKO"
+      },
+      "artists": [
+        {
+          "name": "TAU (BW)",
+          "url": "https://open.spotify.com/artist/4M43WLHD3zKA8Pe9XMpRPk"
+        },
+        {
+          "name": "NAAK",
+          "url": "https://open.spotify.com/artist/5OeP7iwuGFWymmzPfURRwC"
+        },
+        {
+          "name": "Aero Manyelo",
+          "url": "https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488135,
+      "name": "Tales Of Our Ancestors",
+      "url": "https://open.spotify.com/track/3a9ZGaLVIcqFdzUAhHprSl"
     },
     {
       "album": {
@@ -5568,7 +5720,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 341403,
       "name": "Ukuphumelela",
       "url": "https://open.spotify.com/track/2CiDQsPXQsl80PodS2DM3a"
@@ -5792,7 +5944,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 192000,
       "name": "Unembeza",
       "url": "https://open.spotify.com/track/3bzsr5XLrNtUNunw5nr5Q5"
@@ -6570,6 +6722,32 @@
       "duration_ms": 246250,
       "name": "You're My Ghost",
       "url": "https://open.spotify.com/track/2J5cjC8v5DzYcG1A1bMufg"
+    },
+    {
+      "album": {
+        "name": "You're Not Alone",
+        "url": "https://open.spotify.com/album/4Edvs9Ts45AaIi9RyJI41j"
+      },
+      "artists": [
+        {
+          "name": "Joezi",
+          "url": "https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B"
+        },
+        {
+          "name": "Tayllor",
+          "url": "https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD"
+        },
+        {
+          "name": "Mr. V",
+          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0sfXBVmMupngHnNW1hsuFj"
     },
     {
       "album": {

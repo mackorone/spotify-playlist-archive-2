@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 166384,
       "name": "Almost Famous",
       "url": "https://open.spotify.com/track/4h58Iqv6QvNAasM5ePA2or"
@@ -3327,6 +3327,24 @@
     },
     {
       "album": {
+        "name": "Candies",
+        "url": "https://open.spotify.com/album/2rgFM5NLjLSEbp4CjUUFzR"
+      },
+      "artists": [
+        {
+          "name": "Sante SVM",
+          "url": "https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Candies",
+      "url": "https://open.spotify.com/track/4PgMQUAzazUkjLu8QwujNG"
+    },
+    {
+      "album": {
         "name": "CANOPY (feat. Attifaya)",
         "url": "https://open.spotify.com/album/1Y2wJ0rFDpzSwZRxualxG6"
       },
@@ -5059,6 +5077,28 @@
     },
     {
       "album": {
+        "name": "Demure II",
+        "url": "https://open.spotify.com/album/1Cvd9Iu8SlgPS0fTiJpcfK"
+      },
+      "artists": [
+        {
+          "name": "T Solo",
+          "url": "https://open.spotify.com/artist/22rhw3nUn17tlr6tlOGnRL"
+        },
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140979,
+      "name": "Demure II",
+      "url": "https://open.spotify.com/track/27BOm6ll4uotzFwQc4t4bE"
+    },
+    {
+      "album": {
         "name": "Designer Baby",
         "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
       },
@@ -5074,7 +5114,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 142138,
       "name": "Designer Baby",
       "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
@@ -5630,6 +5670,24 @@
       "duration_ms": 152967,
       "name": "Drop Off",
       "url": "https://open.spotify.com/track/38bgf6do56GuZQZfBnKfH3"
+    },
+    {
+      "album": {
+        "name": "DUA PA",
+        "url": "https://open.spotify.com/album/1kNArpDMACRIn6AcsfE4Or"
+      },
+      "artists": [
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "DUA PA",
+      "url": "https://open.spotify.com/track/7o3tTomsCsKOf7B0LUsCpM"
     },
     {
       "album": {
@@ -9203,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "It Ends With Me",
+        "url": "https://open.spotify.com/album/5pvCQS2zCKjSWXDVIzDuBw"
+      },
+      "artists": [
+        {
+          "name": "June",
+          "url": "https://open.spotify.com/artist/4xbk9oEHOmtz8rvBb1uiwx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168408,
+      "name": "It ends with me",
+      "url": "https://open.spotify.com/track/6B1WlH8M9hkQy3DjO8NboN"
+    },
+    {
+      "album": {
         "name": "It Was Real",
         "url": "https://open.spotify.com/album/22ld0gylyTBWlm1sqyUTid"
       },
@@ -9330,7 +9406,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
@@ -10872,7 +10948,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 173839,
       "name": "Lock In",
       "url": "https://open.spotify.com/track/69u0Cv7EK6HoRDtfhb7vrv"
@@ -13803,6 +13879,28 @@
     },
     {
       "album": {
+        "name": "Only Water (Feat. Lady Donli)",
+        "url": "https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF"
+      },
+      "artists": [
+        {
+          "name": "Joya Mooi",
+          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
+        },
+        {
+          "name": "Lady Donli",
+          "url": "https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Only Water",
+      "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
+    },
+    {
+      "album": {
         "name": "Open Casket",
         "url": "https://open.spotify.com/album/32oRjhTzNz7ueLtYeaSgF2"
       },
@@ -13992,6 +14090,36 @@
       "duration_ms": 146500,
       "name": "OUTSIDE",
       "url": "https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj"
+    },
+    {
+      "album": {
+        "name": "P",
+        "url": "https://open.spotify.com/album/7pUDYqi4jTcpyp10OUvDgc"
+      },
+      "artists": [
+        {
+          "name": "Doonte",
+          "url": "https://open.spotify.com/artist/0PT0HsHDs8O0FVrNmFzAOr"
+        },
+        {
+          "name": "Smada",
+          "url": "https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso"
+        },
+        {
+          "name": "thePDSTRN",
+          "url": "https://open.spotify.com/artist/6YG0HUP7MTeJgJXvA3Rk3d"
+        },
+        {
+          "name": "JustED",
+          "url": "https://open.spotify.com/artist/68yTY1Kr3zuOwHqrilAGek"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184633,
+      "name": "P",
+      "url": "https://open.spotify.com/track/0kBSRanBzcuF8s5bDSfUaM"
     },
     {
       "album": {
@@ -15170,7 +15298,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 170680,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2YpJDMZrgfqUFNOn9ocJHe"
@@ -16314,6 +16442,32 @@
       "duration_ms": 84852,
       "name": "SEARCHING FOR IT",
       "url": "https://open.spotify.com/track/5POfwE9ILRkQtX1QofGEvX"
+    },
+    {
+      "album": {
+        "name": "Second Thoughts",
+        "url": "https://open.spotify.com/album/7kxDk3xWnJBvecCkH13NVw"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Le Mav",
+          "url": "https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL"
+        },
+        {
+          "name": "Naya Akanji",
+          "url": "https://open.spotify.com/artist/6m06UHY5Bn1VmA91oCukAm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Second Thoughts",
+      "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
     },
     {
       "album": {
@@ -17966,7 +18120,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 222516,
       "name": "SUGAR HONEY ICED TEA",
       "url": "https://open.spotify.com/track/5sZPKL0NtpbyHALjbRI3T1"
@@ -21030,7 +21184,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 170738,
       "name": "Yaa Abrefi",
       "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"

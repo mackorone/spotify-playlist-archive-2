@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Pezet, \u017babson, Asster, Zalia, god.wifi",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -11194,7 +11194,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/0RltGzzlWXnojDWD8xRCZm"
@@ -11408,7 +11408,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 188653,
       "name": "mmmaybach",
       "url": "https://open.spotify.com/track/7sgaYfG76FeGdXOgTd9MRp"
@@ -19437,6 +19437,24 @@
     },
     {
       "album": {
+        "name": "TYLKO ONA?",
+        "url": "https://open.spotify.com/album/1QH9wqJPxy0vw0qcmllqmA"
+      },
+      "artists": [
+        {
+          "name": "Kaptur",
+          "url": "https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178775,
+      "name": "TYLKO ONA?",
+      "url": "https://open.spotify.com/track/4nrY43rHzOffDNpxKNMTX1"
+    },
+    {
+      "album": {
         "name": "ULTRA",
         "url": "https://open.spotify.com/album/4JGGVP4uPXEvwZyCFj5DIU"
       },
@@ -19456,6 +19474,32 @@
       "duration_ms": 139728,
       "name": "ULTRA",
       "url": "https://open.spotify.com/track/7yIZRCBxkU4pOYbWIje2ww"
+    },
+    {
+      "album": {
+        "name": "Ultrafiolet",
+        "url": "https://open.spotify.com/album/4OQhR74Q0f2WuPSl6pafEI"
+      },
+      "artists": [
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "pieruun",
+          "url": "https://open.spotify.com/artist/5LObVYVi0keR5Eplsk6Od1"
+        },
+        {
+          "name": "Swizzy",
+          "url": "https://open.spotify.com/artist/0suD5l3wWM0EdjkhrBfUxk"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159452,
+      "name": "Ultrafiolet",
+      "url": "https://open.spotify.com/track/588NOZaoVh0XmSBi1BI1Bw"
     },
     {
       "album": {
@@ -20130,7 +20174,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 228000,
       "name": "WAWA022",
       "url": "https://open.spotify.com/track/4aDA4UcSQhHa9jC0QivFhf"
@@ -20852,6 +20896,28 @@
       "duration_ms": 164965,
       "name": "Wychowanek Getta",
       "url": "https://open.spotify.com/track/6Xo5k1v9veMYofYowVCIUp"
+    },
+    {
+      "album": {
+        "name": "Wygl\u0105dam Dobrze",
+        "url": "https://open.spotify.com/album/7175lzptE9dTGnqrgOXV6E"
+      },
+      "artists": [
+        {
+          "name": "Fagata",
+          "url": "https://open.spotify.com/artist/0zzP72k8pbLySGH1TPUZW8"
+        },
+        {
+          "name": "Natalisa",
+          "url": "https://open.spotify.com/artist/2ER2H5ZCb6dRBZmYXdtb86"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Wygl\u0105dam Dobrze",
+      "url": "https://open.spotify.com/track/2DSMboiC1jCA22j1RWbTP5"
     },
     {
       "album": {

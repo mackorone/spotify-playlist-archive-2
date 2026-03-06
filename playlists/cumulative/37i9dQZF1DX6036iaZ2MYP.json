@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:  Bayanni",
+  "description": "Tracks popping off in the Afro scene. Cover:  Ayra Starr",
   "name": "Afro Station",
   "tracks": [
     {
@@ -790,7 +790,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 152240,
       "name": "ALL MY LIFE",
       "url": "https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c"
@@ -2805,6 +2805,28 @@
     },
     {
       "album": {
+        "name": "BENGA",
+        "url": "https://open.spotify.com/album/7AyXXLPQ6ri8QsfBnlpfmp"
+      },
+      "artists": [
+        {
+          "name": "Dalso",
+          "url": "https://open.spotify.com/artist/0zAXRPAuLqtMW3lmLrn3T5"
+        },
+        {
+          "name": "L I B",
+          "url": "https://open.spotify.com/artist/7Ij70AqQaRRiBNSxcJrZUa"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "BENGA",
+      "url": "https://open.spotify.com/track/6UHD4LWiUiOE0iGFnBvkWK"
+    },
+    {
+      "album": {
         "name": "Bienvenue",
         "url": "https://open.spotify.com/album/7I8qzFpNzR1NT1n65rfW1W"
       },
@@ -2982,7 +3004,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
@@ -18665,6 +18687,24 @@
     },
     {
       "album": {
+        "name": "Sarafina",
+        "url": "https://open.spotify.com/album/413IuuPqSTVNy4wW7nlaEp"
+      },
+      "artists": [
+        {
+          "name": "Kel-P",
+          "url": "https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "Sarafina",
+      "url": "https://open.spotify.com/track/5bLPZWIkRQu0ZHa9WTHPgN"
+    },
+    {
+      "album": {
         "name": "Say Salud",
         "url": "https://open.spotify.com/album/6Yk2SJXrtKsP64Sdn1y3Z6"
       },
@@ -22265,6 +22305,24 @@
     },
     {
       "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "album": {
         "name": "Where It Hurts",
         "url": "https://open.spotify.com/album/49DPnEkK6r9FqqkOPp1Eib"
       },
@@ -22886,7 +22944,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 162000,
       "name": "\u00c0 QUEL NIVEAU ?",
       "url": "https://open.spotify.com/track/6rvaxffO8aZsrspLR0WemS"

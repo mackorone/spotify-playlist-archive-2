@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,351 songs - 5 day 6 hr 9 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,364 songs - 5 day 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2359,5 +2359,18 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2349 | [LABIOS MORDIDOS \(KALI UCHIS X KAROL G X TEGO CALDERON REMIX\)](https://open.spotify.com/track/2gjLS1OexTaGiVShh5W4yT) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [EXTASIS SILICONE](https://open.spotify.com/album/49d0SRdJA8L7AMxOWqsFap) | 3:13 |
 | 2350 | [NEOGUARACHA \(ANDO X JERE KLEIN REMIX\)](https://open.spotify.com/track/0aIR00FfNMoyfL7XjpgYiq) | [Lizz](https://open.spotify.com/artist/7DPxoBLEzgxzbhN0MAvyt6) | [EXTASIS SILICONE](https://open.spotify.com/album/49d0SRdJA8L7AMxOWqsFap) | 2:45 |
 | 2351 | [2021 \(umru Remix\)](https://open.spotify.com/track/5EOnAuVdMefq2KD2pboK2L) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [Apple vs\. 7G](https://open.spotify.com/album/2crtxJQewJqC3hQTtMJ4II) | 3:37 |
+| 2352 | [BEAT GOES ON](https://open.spotify.com/track/4xRdF4kPlCA3TVBguVijiN) | [proswervez](https://open.spotify.com/artist/6xNb4B1bGupA7sox65K7so), [SHOshay](https://open.spotify.com/artist/3mXWhvBpyyXecwbr39s6KT) | [BEAT GOES ON](https://open.spotify.com/album/16juUHTXnbZK30tecs95s8) | 2:51 |
+| 2353 | [Not ur friend](https://open.spotify.com/track/65gQnsdCvfoiLyhqP6FNJq) | [The Femcels](https://open.spotify.com/artist/6IEfd4F10D3zvJ9N6DNmvK) | [I Have To Get Hotter](https://open.spotify.com/album/7EA0BJIxzjox8bBpMXSvqF) | 2:40 |
+| 2354 | [Softic Dnb](https://open.spotify.com/track/1kT2EfzbPZdIiRCbgiyKtM) | [Soft Blade](https://open.spotify.com/artist/6LwKCnpeCVffopaYO3pafG) | [Softic](https://open.spotify.com/album/5hQpBkgc7bPYpay3Sbz843) | 3:41 |
+| 2355 | [Number One](https://open.spotify.com/track/3mxf4t5FTv0i08bSXTmGOA) | [Mazi](https://open.spotify.com/artist/7EhfsTKpMOvPldOiugm9p6) | [MaziWrld](https://open.spotify.com/album/6YDatEasOgtJZCwykEDvo6) | 1:30 |
+| 2356 | [IN DA TOWN](https://open.spotify.com/track/2dz3XGRpyfmKKI8baSfhMr) | [RATBOWL](https://open.spotify.com/artist/285TycMGZecVnNPuDIQWjo) | [IN DA TOWN](https://open.spotify.com/album/6UuF11GJgpX1ZqTuf2KAR7) | 1:32 |
+| 2357 | [MIDNIGHT IN UK](https://open.spotify.com/track/116cl8UmG7w7LLHELwjlkv) | [95XO](https://open.spotify.com/artist/6lf1k7kfvb33EClkMIzwRD) | [SEXY PEOPLE DANCE 2 GROOVE](https://open.spotify.com/album/24J5slETNZ9RafDuLYU7wK) | 3:10 |
+| 2358 | [Faith](https://open.spotify.com/track/3jhrvNe1hBL3CYohpfT4Ti) | [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [Faith](https://open.spotify.com/album/1VapQJD8hmdaHfpQVnVibV) | 3:22 |
+| 2359 | [Nothing To Do](https://open.spotify.com/track/5p8cpRDCuoFONFIHRGg1ae) | [Mark Broom](https://open.spotify.com/artist/56HBXB2JoYhf04oMeko90l) | [Circular Motions EP](https://open.spotify.com/album/5VjCr8Wo4yIlRjkFXNaT2h) | 3:20 |
+| 2360 | [Value of Madness](https://open.spotify.com/track/1a64eV1T4xqvNSLbxQTIjC) | [Pablo Say](https://open.spotify.com/artist/6SaiHV8IusL0jz3eGbGMDU) | [Faith](https://open.spotify.com/album/1VapQJD8hmdaHfpQVnVibV) | 3:26 |
+| 2361 | [Frozen Society](https://open.spotify.com/track/5A0vSZAzJb26WgIFMroCh3) | [Uncertain](https://open.spotify.com/artist/0u1M59PvHe4xP7dhzi2ccm), [Skov Bowden](https://open.spotify.com/artist/0mAUgfTXil9O5M78I7fguJ) | [Seekwhensir](https://open.spotify.com/album/5S4lU2Ll0TMQ6qLEvRiKXj) | 4:34 |
+| 2362 | [Remain \- Mixed](https://open.spotify.com/track/1DkhbVztJlCV91j5M3lgSP) | [Slam](https://open.spotify.com/artist/3dvQNG65MMzLa0Cosf6Ztq) | [DJ\-Kicks \(Robert Hood\) \[DJ Mix\]](https://open.spotify.com/album/5PWn0llSl0y4RSVuVwwrjZ) | 3:51 |
+| 2363 | [Pure Grooves](https://open.spotify.com/track/1BYb1aQjPwvZILk1z0B9CR) | [Mark Williams](https://open.spotify.com/artist/1cRkAGaVektX9Zyy8PNWSP) | [What You Need](https://open.spotify.com/album/0x5SuSKuJHtn5z2T3fCo02) | 3:47 |
+| 2364 | [Acid Electronic \- Edit](https://open.spotify.com/track/3M7Gp9l56dz1aWG4IhMK91) | [Richy Ahmed](https://open.spotify.com/artist/1ac5NUFh98sMs0DGX4xlSt) | [Acid Electronic](https://open.spotify.com/album/2YSasbU45gg7iZUugdhWnw) | 3:20 |
 
-Snapshot ID: `AAAFM2Shy0w35Q14f/A9LT98uyC9ixfo`
+Snapshot ID: `AAAFQHmnvLAXRuKWt0DHgUeANJJcFdh4`

@@ -2,9 +2,9 @@
 
 ### [Je Moerstaal](https://open.spotify.com/playlist/37i9dQZF1DWUX3x84bv557)
 
-> Frisse Nederlandse pop\. Cover: Samuel Welten & Bankzitters
+> Frisse Nederlandse pop\. Cover: Typhoon
 
-1,238 songs - 2 day 11 hr 9 min
+1,241 songs - 2 day 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [Iemand Anders](https://open.spotify.com/track/25l6XW7akaVC2gldkJmTd4) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/5kOYsrWUtHR6QL0MzuyJFh) | 3:03 | 2024-03-14 | 2024-03-29 |
 | [Iets In De Lucht](https://open.spotify.com/track/2HboxpER5N3RbCypbms0Ke) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Iets In De Lucht](https://open.spotify.com/album/5JJIGj3WjEmpPjO0NcjT2o) | 2:11 | 2024-09-12 | 2024-09-27 |
 | [Ik begin vandaag](https://open.spotify.com/track/1WIS9zIiH7dVxvTudGdp6g) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Ik begin vandaag](https://open.spotify.com/album/5Wn5sUN2fMgQTqOq7ebh9D) | 3:10 | 2025-04-11 | 2025-07-18 |
-| [Ik Beloof](https://open.spotify.com/track/0zGrVUW8H8CfRiqb4xFncF) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Ik Beloof](https://open.spotify.com/album/1ZCYLeLlsjXklb9NmZ3a3Y) | 2:32 | 2025-11-06 |  |
+| [Ik Beloof](https://open.spotify.com/track/0zGrVUW8H8CfRiqb4xFncF) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Ik Beloof](https://open.spotify.com/album/1ZCYLeLlsjXklb9NmZ3a3Y) | 2:32 | 2025-11-06 | 2026-03-06 |
 | [Ik Ben Er Nog Steeds](https://open.spotify.com/track/5AD316OVoBQAms4bPNMeY8) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ik Ben Er Nog Steeds](https://open.spotify.com/album/1ReCEskfy54ocNuO3RpS5y) | 2:32 | 2025-01-16 | 2025-03-07 |
 | [Ik Ben Jij](https://open.spotify.com/track/1nfbxZYGqSmHhi8PDE7X0Y) | [Dany](https://open.spotify.com/artist/02nYwglWHsI4nowQWSrf32) | [Ik Ben Jij](https://open.spotify.com/album/5YcRkwaP4xkAiliHuJumPs) | 3:46 | 2023-09-07 | 2023-09-22 |
 | [IK BEN VAN MIJ](https://open.spotify.com/track/72QbBvixoNmR87a88o8Ast) | [Roos Blufpand](https://open.spotify.com/artist/7J2a0SEgW7QaRHUIGjqgFC) | [F\*\*\* DE REST EN SHAKE](https://open.spotify.com/album/1zi0saa4UIsGpKSf954TxW) | 3:11 | 2023-04-13 | 2023-05-12 |
@@ -650,6 +650,7 @@
 | [Laat Me Er Langs](https://open.spotify.com/track/7D1GOvf7k8CjMf2wmv4Vj1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Laat Me Er Langs](https://open.spotify.com/album/1TJzuh1z9bnUhlhshQFR8H) | 2:31 | 2025-02-20 | 2025-04-25 |
 | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Laat Me Nooit Meer Los \(Never Let Me Go\)](https://open.spotify.com/album/5HJ2BolbLuIdB6fnpmQ5jc) | 3:27 | 2024-03-07 | 2024-06-07 |
 | [Laat Mij 'M Zijn](https://open.spotify.com/track/5QVaVjxwbu9G2qVqDXUjcJ) | [Paul Sinha](https://open.spotify.com/artist/0Uev3WqwkRc17NqfsvVv4K) | [Meesterwerk](https://open.spotify.com/album/6tOUUlBUw8hSyZWnvzu5im) | 2:51 | 2023-05-25 | 2023-09-15 |
+| [Laat ons hier maar alleen](https://open.spotify.com/track/52iWnKGnQfjOTcx7MMj2KP) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l), [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Laat ons hier maar alleen](https://open.spotify.com/album/3GmarXmqhxB5HxRYSrzd89) | 3:25 | 2026-03-05 |  |
 | [Laat Ons Niet Los](https://open.spotify.com/track/5b505WiVLFZCviB8Lm5OfR) | [Melo](https://open.spotify.com/artist/5vYBzMTW35gwevpQGsjitg) | [Laat Ons Niet Los](https://open.spotify.com/album/0TyP0ZmveFemVqvOvE5Puo) | 2:38 | 2025-02-13 | 2025-05-16 |
 | [Laatste Dans](https://open.spotify.com/track/5AiBBZ1AHoLWeiZOHkgEkx) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 3:46 | 2023-05-25 | 2023-09-08 |
 | [Laatste Keer](https://open.spotify.com/track/3OBDE2Zx4u2YZYd0PUUOGp) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Laatste Keer](https://open.spotify.com/album/7rUuXDGfkkWAxDXFKTxigi) | 2:18 | 2023-11-30 | 2024-04-12 |
@@ -725,7 +726,7 @@
 | [Meer Dan Houden Van](https://open.spotify.com/track/2QqlSISqOfa1trHc6dHeKg) | [Nick Kruit](https://open.spotify.com/artist/1mgurMrzrP5f9Z9q3UwJVl) | [Meer Dan Houden Van](https://open.spotify.com/album/6b8AtSaC6xQRrE64gKKz8a) | 2:46 | 2025-05-08 | 2025-08-08 |
 | [Meisje](https://open.spotify.com/track/66D4eimPmZGxOoXhVuv42r) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Meisje](https://open.spotify.com/album/0Ol64rdLJ5hRI6nmdT0GG7) | 2:19 | 2024-11-14 | 2024-11-29 |
 | [Meisje](https://open.spotify.com/track/7xcuQ0m5rSUgrjh2YVTUz4) | [Huize Lucas](https://open.spotify.com/artist/5V8b23P7NLOVaB04lfb79b) | [Meisje](https://open.spotify.com/album/14mgKqbRjCSH7cv13SlnSw) | 3:19 | 2023-03-23 | 2023-07-21 |
-| [Meisje Uit De Klas](https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Meisje Uit De Klas](https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3) | 3:10 | 2025-11-20 |  |
+| [Meisje Uit De Klas](https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5) | [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Meisje Uit De Klas](https://open.spotify.com/album/6Ae8zbMgk5k3GByZV0sUP3) | 3:10 | 2025-11-20 | 2026-03-06 |
 | [Meisje uit het Gooi](https://open.spotify.com/track/496VmZiPrXM9S1D5o3GDWp) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Meisje uit het Gooi](https://open.spotify.com/album/5twBJKrXQKbxq9VRgC5e0O) | 2:37 | 2025-10-30 | 2026-01-30 |
 | [Meisje Van December](https://open.spotify.com/track/6nNPd6Lpv9eSffqn5P9sJk) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Meisje Van December](https://open.spotify.com/album/6yJtY0dw0dKTbyyRHBCECz) | 2:50 | 2023-04-13 | 2023-05-26 |
 | [Meisjes lopen sneller](https://open.spotify.com/track/3xgs6tyUGo7Q4aNMuZExWS) | [Tessa June](https://open.spotify.com/artist/67UrL3cZJQ2WhwqdikarKk) | [Meisjes lopen sneller](https://open.spotify.com/album/2kfLBi7ezCQRJfMHH11ZGx) | 3:36 | 2023-11-30 | 2024-04-05 |
@@ -808,6 +809,7 @@
 | [Nieuwe Drugga Zelfde Feestje](https://open.spotify.com/track/5blv2bpc4X8oZ6PMPLPPFF) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [NIEUWE DRUGGA ZELFDE FEESTJE](https://open.spotify.com/album/7fOiA2Oc066hKPOIPWbySc) | 2:46 | 2023-11-30 | 2023-12-08 |
 | [Nieuwe Ex](https://open.spotify.com/track/7F8EJGaTWEt1zHg3x1vuCy) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Zoë Tauran](https://open.spotify.com/album/67Ev4h0Huix22epuEdkaVV) | 2:26 | 2023-05-25 | 2023-09-08 |
 | [Nightshift](https://open.spotify.com/track/5pTn0A7SfH8byvT6WzgEsz) | [Sleeq](https://open.spotify.com/artist/2qvTXvob9J4bX63ZrZyliD) | [Nightshift](https://open.spotify.com/album/5cKOcVEswbnGAfSDQaopDi) | 2:28 | 2024-02-29 | 2024-05-03 |
+| [Niks Is Zeker](https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ) | [Willem](https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds) | [Niks Is Zeker](https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb) | 3:01 | 2026-03-05 |  |
 | [Niks Voor Mij](https://open.spotify.com/track/4K3ruvSedoAvOHijvvptqm) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101) | [Niks Voor Mij](https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI) | 2:07 | 2025-06-19 | 2025-07-11 |
 | [Nobody](https://open.spotify.com/track/1QrdRdn3miSCvKDYnWUPOz) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Nobody](https://open.spotify.com/album/1FYiqklLsEiJverppEP8mQ) | 2:15 | 2023-02-23 | 2023-04-07 |
 | [Noem Mij Bij Jouw Naam](https://open.spotify.com/track/5UymQJVIxkBRKEod5Hpltf) | [Kaya](https://open.spotify.com/artist/6JHeO4hQdbJWt1eLhs6W01) | [Noem Mij Bij Jouw Naam](https://open.spotify.com/album/3Gxm8zzoZqGvr94wgbL7CA) | 3:07 | 2025-06-26 | 2025-08-29 |
@@ -837,7 +839,8 @@
 | [oeps](https://open.spotify.com/track/4w7Zhg034GDeMYnpOoZIuu) | [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [lieve monsters](https://open.spotify.com/album/58hG8DHeDtvVE2IrKq7IOM) | 3:20 | 2025-06-26 | 2025-08-08 |
 | [Offline Beschikbaar](https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB) | [Offline Beschikbaar](https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8) | 2:27 | 2023-07-07 | 2023-09-15 |
 | [Oh No](https://open.spotify.com/track/3beecTSkxr0m2oFNicbrKW) | [Ritse](https://open.spotify.com/artist/7CKb0N4FZ4f1MG1vViQB1d) | [Oh No](https://open.spotify.com/album/7nrIqZOOBKlPpWfGeDT5Ti) | 2:30 | 2024-07-04 | 2024-09-27 |
-| [Oh Zo Dom](https://open.spotify.com/track/1WMJUUAvfMxPtx9SXkOWlo) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Oh Zo Dom](https://open.spotify.com/album/4qSsjYHrc2a4uYpedLtwSm) | 3:06 | 2025-11-13 |  |
+| [Oh Zo Dom](https://open.spotify.com/track/1WMJUUAvfMxPtx9SXkOWlo) | [Mara Julia](https://open.spotify.com/artist/3okS5Y55TTdCWEWyH07GZJ) | [Oh Zo Dom](https://open.spotify.com/album/4qSsjYHrc2a4uYpedLtwSm) | 3:06 | 2025-11-13 | 2026-03-06 |
+| [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 | 2026-03-05 |  |
 | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/track/71ASAZJIhXdaJF0OCIXc4S) | [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat Ik Zo Van Je Hou](https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8) | 3:33 | 2025-11-06 | 2026-02-20 |
 | [Omdat Je Me Ziet](https://open.spotify.com/track/5FgTrTxLgQcf4N2Nxgarkw) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Omdat Je Me Ziet](https://open.spotify.com/album/0nCjIQmD4gmIZrXSTcJ46x) | 2:48 | 2024-05-23 | 2024-06-28 |
 | [Omhoog](https://open.spotify.com/track/2UklSNaVRkMInzUTOEkmsM) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Omhoog](https://open.spotify.com/album/518wPXNPF0xHjX5TdgCQGm) | 2:48 | 2024-07-19 | 2024-10-19 |

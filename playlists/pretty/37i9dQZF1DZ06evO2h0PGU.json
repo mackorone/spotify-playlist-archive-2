@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. The essential tracks, all in one playlist.",
-  "num_followers": 53697,
+  "num_followers": 53705,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAACHL8IqWH++Z/BURhwr9EVY",
+  "snapshot_id": "aad2AAAAAADf6IYkhIyQwEUeTzHXFjSd",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 250133,
-      "name": "Phenomena",
-      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
+      "duration_ms": 238040,
+      "name": "Cheated Hearts",
+      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Cheated Hearts",
-      "url": "https://open.spotify.com/track/5AwS3yu3w9BT2eHBMnFDLc"
+      "duration_ms": 250133,
+      "name": "Phenomena",
+      "url": "https://open.spotify.com/track/63Kdr7jLTZxHr7MgjMiKmh"
     },
     {
       "added_at": null,

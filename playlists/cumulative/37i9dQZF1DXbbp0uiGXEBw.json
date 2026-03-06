@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: V\u0169 Thanh V\u00e2n",
+  "description": "C\u00f9ng th\u01b0\u1edfng th\u1ee9c v\u00e0 t\u00f4n vinh c\u00e1c t\u00e1c ph\u1ea9m c\u1ee7a n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t . \u1ea2nh b\u00eca: Ch\u00e2u B\u00f9i",
   "name": "EQUAL Vietnam",
   "tracks": [
     {
@@ -402,6 +402,24 @@
       "duration_ms": 292379,
       "name": "Anh \u01a0i \u1ede L\u1ea1i",
       "url": "https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE"
+    },
+    {
+      "album": {
+        "name": "Big Girl Don\u2019t You Cry",
+        "url": "https://open.spotify.com/album/6SLJql6MEBS3SRMrSIY61H"
+      },
+      "artists": [
+        {
+          "name": "Ch\u00e2u B\u00f9i",
+          "url": "https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232615,
+      "name": "Big Girl Don\u2019t You Cry",
+      "url": "https://open.spotify.com/track/1uOvwcp4JvIJ7UUa9GKAwS"
     },
     {
       "album": {
@@ -3208,7 +3226,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 268146,
       "name": "Kh\u00f4ng Sao M\u00e0, Em \u0110\u00e2y R\u1ed3i",
       "url": "https://open.spotify.com/track/1StwtC4c6B87zlxdyQDakk"

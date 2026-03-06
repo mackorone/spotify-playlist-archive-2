@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAAAgrl0RoDrUlg90GjAPAzD",
+  "snapshot_id": "aad2AAAAAACh7KsXr6CJZw5tzjN4uUiS",
   "tracks": [
     {
       "added_at": null,
@@ -131,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+        "name": "Miniatures 2 Edited By Morgan Fisher",
+        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
       },
       "artists": [
-        {
-          "name": "VooCha",
-          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
-        },
         {
           "name": "Laurie Spiegel",
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 158500,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+      "duration_ms": 81040,
+      "name": "Soundtrack For Sandin",
+      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
     },
     {
       "added_at": null,
@@ -183,8 +179,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miniatures 2 Edited By Morgan Fisher",
-        "url": "https://open.spotify.com/album/3tTluaKUQk3QZrq1jxn7ws"
+        "name": "Static",
+        "url": "https://open.spotify.com/album/7zU2S06sQRLGXN309ATvuK"
+      },
+      "artists": [
+        {
+          "name": "VooCha",
+          "url": "https://open.spotify.com/artist/7jsvIBs0a30EIAo9EQiMkW"
+        },
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 158500,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3lUeRgtahUYTVxhLQeN97r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unseen Worlds",
+        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
       },
       "artists": [
         {
@@ -192,9 +208,25 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 81040,
-      "name": "Soundtrack For Sandin",
-      "url": "https://open.spotify.com/track/0Sp2XO0Rtr90E34OnRxvkA"
+      "duration_ms": 96000,
+      "name": "Three Sonic Spaces I",
+      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Expanding Universe",
+        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
+      },
+      "artists": [
+        {
+          "name": "Laurie Spiegel",
+          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
+        }
+      ],
+      "duration_ms": 476906,
+      "name": "Appalachian Grove II",
+      "url": "https://open.spotify.com/track/6XDocPNf2YEBkLud2SoHXr"
     },
     {
       "added_at": null,
@@ -228,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 96000,
-      "name": "Three Sonic Spaces I",
-      "url": "https://open.spotify.com/track/40YsslZstSIWncQEt8NNls"
+      "duration_ms": 215040,
+      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
+      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
     },
     {
       "added_at": null,
@@ -244,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 413720,
-      "name": "Old Wave",
-      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
+      "duration_ms": 194426,
+      "name": "Appalachian Grove III",
+      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
     },
     {
       "added_at": null,
@@ -280,9 +312,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 353506,
-      "name": "Three Sonic Spaces III",
-      "url": "https://open.spotify.com/track/6vrS7GqCt6cul5t8Ub4nLg"
+      "duration_ms": 291693,
+      "name": "The Hollows",
+      "url": "https://open.spotify.com/track/5NzbSg7rBbGEo0g4zVyMa5"
     },
     {
       "added_at": null,
@@ -296,41 +328,9 @@
           "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
         }
       ],
-      "duration_ms": 476906,
-      "name": "Appalachian Grove II",
-      "url": "https://open.spotify.com/track/6XDocPNf2YEBkLud2SoHXr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unseen Worlds",
-        "url": "https://open.spotify.com/album/4XHcaSU6bLMEVNl6IqWYBS"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 215040,
-      "name": "Two Archetypes: Hurricane's Eye \u2013 II",
-      "url": "https://open.spotify.com/track/1B2ZdyyHD2BMwEjeYg1g0m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Expanding Universe",
-        "url": "https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK"
-      },
-      "artists": [
-        {
-          "name": "Laurie Spiegel",
-          "url": "https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "Appalachian Grove III",
-      "url": "https://open.spotify.com/track/79qnW6PocozamltQqh8In9"
+      "duration_ms": 413720,
+      "name": "Old Wave",
+      "url": "https://open.spotify.com/track/0KBRR5awpziELPG5H7dOTK"
     }
   ],
   "unique_name": "This Is Laurie Spiegel",

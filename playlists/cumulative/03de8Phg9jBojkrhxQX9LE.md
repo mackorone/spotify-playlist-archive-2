@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,276 songs - 9 day 23 hr 30 min
+4,277 songs - 9 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2214,6 +2214,7 @@
 | [License To Be Bad](https://open.spotify.com/track/3yBdKw7lvhn5u4vpeWRDTV) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Ciszak](https://open.spotify.com/artist/6lf5XKHZHGXxHFPOKSkodA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [License To Be Bad](https://open.spotify.com/album/5htp5ygxDau4GhLczYA46g) | 3:06 | 2025-04-04 | 2025-05-03 |
 | [Lichen](https://open.spotify.com/track/135eZT8Zig7yVBhNFabWmB) | [Starya](https://open.spotify.com/artist/0vbBnL6lV4Gn3PA11vmKjX) | [Lichen](https://open.spotify.com/album/54eK3bhc8se4AHz0unM1B1) | 5:03 | 2025-03-21 | 2025-04-19 |
 | [Lick](https://open.spotify.com/track/3yyU8dmNxJnBPAFa4oQdCo) | [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [Lick](https://open.spotify.com/album/1ZTLn5TqaYR2TBvg2CkGKO) | 2:48 | 2025-04-18 | 2025-05-17 |
+| [Lie 2 U](https://open.spotify.com/track/7CAFN6e4u1hiX3PYrJBrCA) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG) | [Lie 2 U](https://open.spotify.com/album/2LUONhxC0PIuZIwD32uKba) | 3:00 | 2026-03-05 |  |
 | [Lies](https://open.spotify.com/track/0cNL4jWf1723O9XI14KBus) | [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Lies](https://open.spotify.com/album/2T8U5mFu64bzFqi4rkTbqs) | 3:04 | 2024-07-12 | 2024-08-10 |
 | [Life](https://open.spotify.com/track/0sJMoIcWlkdSqnADm5Q2am) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Life](https://open.spotify.com/album/7r1qqHjaLvoHU3Mwsh1kkl) | 3:22 | 2024-06-21 | 2024-07-20 |
 | [life](https://open.spotify.com/track/7FTkU2chrZIt2gfJefgaVY) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [life](https://open.spotify.com/album/3jXwsjv5HQE8LEp8hQLwun) | 2:36 | 2025-11-07 | 2025-12-06 |

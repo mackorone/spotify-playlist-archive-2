@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "Try a little tenderness. Cover: Yaya Bey",
+  "description": "Try a little tenderness. Cover: ELIZA",
   "name": "soulful",
   "tracks": [
     {
@@ -1318,6 +1318,24 @@
       "duration_ms": 195415,
       "name": "Dollar $hort",
       "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
+    },
+    {
+      "album": {
+        "name": "Driftin'",
+        "url": "https://open.spotify.com/album/4O6zngj94elKhdvCFDqqfX"
+      },
+      "artists": [
+        {
+          "name": "Joey Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241542,
+      "name": "Driftin'",
+      "url": "https://open.spotify.com/track/4k1OINO1e4CRy2S4fW3dyd"
     },
     {
       "album": {
@@ -3579,6 +3597,24 @@
     },
     {
       "album": {
+        "name": "Who Have I Become?",
+        "url": "https://open.spotify.com/album/3VftFr2y5vitTyGorElKIA"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/3P2q9dfDRYQOrbTTEyAFQX"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -4184,7 +4220,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 308301,
       "name": "One Inch Punch",
       "url": "https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE"
@@ -4481,6 +4517,24 @@
     },
     {
       "album": {
+        "name": "The Darkening Green",
+        "url": "https://open.spotify.com/album/5BCATz23LefUwvG94a5Swr"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "Pleasure Boy",
+      "url": "https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp"
+    },
+    {
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
@@ -4528,7 +4582,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 326240,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
@@ -5104,7 +5158,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 173112,
       "name": "Send It Back",
       "url": "https://open.spotify.com/track/6FDYvTpaGaGjXqsnNhUPXm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 
 > Party\-ready, the biggest Bollywood dance tracks\. Cover \- Stree 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,250,677 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,250 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8xfQRRX1PDm.md) - [plain]
 | 74 | [BurjKhalifa \- From "Laxmii"](https://open.spotify.com/track/4Y6YA8TdR8zZgS1yzMA0rn) | [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [DJ Khushi](https://open.spotify.com/artist/6xElGyunMSlnuJ2vabDUWA), [Shashi](https://open.spotify.com/artist/5EXIQQjCaCnRPJ68SxYURB) | [Laxmii \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/10EGsrkAAHL1TQuUVQP655) | 3:07 |
 | 75 | [Fame Us \- From "Tu Yaa Main"](https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl) | [7Bantai'Z](https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK), [Rai Harrie](https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX) | [Fame Us \(From "Tu Yaa Main"\)](https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9) | 3:10 |
 
-Snapshot ID: `AAAAAAoMQoj7F4ho9RCt1HQXTq6zjXBe`
+Snapshot ID: `AAAAAH1FIuTHlhPzzhYOr+8bnhtA76u1`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sw@da, Niczos",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Leon Krze\u015bniak",
   "name": "up next",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 159047,
       "name": "7 nieszcz\u0119\u015b\u0107",
       "url": "https://open.spotify.com/track/4dBS6UpUxCevc83JrzktiM"
@@ -856,6 +856,24 @@
       "duration_ms": 143236,
       "name": "Baw Si\u0119 Dobrze",
       "url": "https://open.spotify.com/track/6yTiIMzJ8uJkzqhv8tCagJ"
+    },
+    {
+      "album": {
+        "name": "baza",
+        "url": "https://open.spotify.com/album/4JiIxzBwzqYSxWqXGIFUNm"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186674,
+      "name": "baza",
+      "url": "https://open.spotify.com/track/7MiclfTQQLum2dNG4aKtxr"
     },
     {
       "album": {
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 232800,
       "name": "Brokat",
       "url": "https://open.spotify.com/track/3OTSv7HxHe43xxFKc0IBTm"
@@ -2202,7 +2220,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 205388,
       "name": "Co by by\u0142o gdyby",
       "url": "https://open.spotify.com/track/3dAIfTxgSi8uyl7nHQiWiQ"
@@ -3799,6 +3817,24 @@
     },
     {
       "album": {
+        "name": "fuck, i\u2019m yours?",
+        "url": "https://open.spotify.com/album/3tNuN7r0HFJJxzfz05dVcm"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "fuck, i\u2019m yours?",
+      "url": "https://open.spotify.com/track/1qsncTDPTkXKYIiNpi3WdJ"
+    },
+    {
+      "album": {
         "name": "Casting / Fuckboy (Chcia\u0142by\u015b wi\u0119cej)",
         "url": "https://open.spotify.com/album/7qMDThliLnFwpn5Z5iGkj4"
       },
@@ -3907,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "gdyby\u015b istnia\u0142",
+        "url": "https://open.spotify.com/album/3Plp1qsoHqe9mOk40JjY0E"
+      },
+      "artists": [
+        {
+          "name": "Leo!",
+          "url": "https://open.spotify.com/artist/0TZCx2GaYxn8AZLSy7ZEod"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175759,
+      "name": "gdyby\u015b istnia\u0142",
+      "url": "https://open.spotify.com/track/6bqFDYGOfZccRDqsbae9we"
+    },
+    {
+      "album": {
         "name": "Gdzie ten m\u0105\u017c?",
         "url": "https://open.spotify.com/album/70oAPbmDRlDpTkD8pcaEVC"
       },
@@ -3922,6 +3976,24 @@
       "duration_ms": 143500,
       "name": "Gdzie ten m\u0105\u017c?",
       "url": "https://open.spotify.com/track/395u35244oqIxioRGgBFiQ"
+    },
+    {
+      "album": {
+        "name": "Gdzie\u015b pomi\u0119dzy",
+        "url": "https://open.spotify.com/album/5SO6PQ2xkg5MY8sykKcfQn"
+      },
+      "artists": [
+        {
+          "name": "Iga Posta",
+          "url": "https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160848,
+      "name": "Gdzie\u015b pomi\u0119dzy",
+      "url": "https://open.spotify.com/track/17oRTEaCvputFtzpgpgM9l"
     },
     {
       "album": {
@@ -4175,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Haj",
+        "url": "https://open.spotify.com/album/4rsF9yduhombRynfWOpOFV"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210472,
+      "name": "Haj",
+      "url": "https://open.spotify.com/track/7Bz45WFQCVlSs72wP9HpRz"
+    },
+    {
+      "album": {
         "name": "HALO?",
         "url": "https://open.spotify.com/album/3o1aehL37sKqxz3x99m2rj"
       },
@@ -4226,6 +4316,24 @@
       "duration_ms": 161280,
       "name": "Happy End",
       "url": "https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e"
+    },
+    {
+      "album": {
+        "name": "have fun bby",
+        "url": "https://open.spotify.com/album/2dyS6p9Ng1KLP5JGMVlgx6"
+      },
+      "artists": [
+        {
+          "name": "Julia Po\u015bnik",
+          "url": "https://open.spotify.com/artist/4fCtCAiaIqqRuUiSjIYPMX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156254,
+      "name": "have fun bby",
+      "url": "https://open.spotify.com/track/1HEBn1kTxE6fwDofeN1abq"
     },
     {
       "album": {
@@ -4334,7 +4442,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 162676,
       "name": "Hollywoodzkie role",
       "url": "https://open.spotify.com/track/0mwnp46wz2gAipHJjcWBAz"
@@ -6970,7 +7078,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 176335,
       "name": "morze dalej zimne",
       "url": "https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q"
@@ -7122,7 +7230,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 156106,
       "name": "na co dzie\u0144",
       "url": "https://open.spotify.com/track/5qor65BgeuIR6sSM7iLJjd"
@@ -9941,6 +10049,24 @@
     },
     {
       "album": {
+        "name": "Ptak",
+        "url": "https://open.spotify.com/album/6B7rqtm0PHoJxnSivZ1eTr"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153651,
+      "name": "Ptak",
+      "url": "https://open.spotify.com/track/7owZ1yAKJvTs8xrjZnAlTh"
+    },
+    {
+      "album": {
         "name": "Ptaki",
         "url": "https://open.spotify.com/album/2he62aL4O9Bg03NYRK9LvA"
       },
@@ -11276,7 +11402,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 179532,
       "name": "Synchronija",
       "url": "https://open.spotify.com/track/6i8vfbeUP5jDpWpdEbTSEu"
@@ -12422,7 +12548,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190033,
       "name": "tw\u00f3j g\u0142os",
       "url": "https://open.spotify.com/track/3mfxm9Y3tC4dwdFuyCSxEv"
@@ -13356,6 +13482,24 @@
       "duration_ms": 190967,
       "name": "Wsch\u00f3d",
       "url": "https://open.spotify.com/track/26CP4rh1qGEs94QLEYl13x"
+    },
+    {
+      "album": {
+        "name": "Wspania\u0142y to by\u0142 rok",
+        "url": "https://open.spotify.com/album/33qGHKDZZixVbdIJWPICV4"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172193,
+      "name": "Wspania\u0142y to by\u0142 rok",
+      "url": "https://open.spotify.com/track/4068vxwJ0XFCw4M5qtanIV"
     },
     {
       "album": {

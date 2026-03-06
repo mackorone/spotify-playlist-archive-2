@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Billie Isak
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giorgos Mazonakis
 
-250 songs - 14 hr 2 min
+251 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Anexartiti](https://open.spotify.com/track/16pWLcflcWh4CNviOI9URy) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Anexartiti](https://open.spotify.com/album/7bgNFF9fzMFrSkzdDwUBa8) | 2:41 | 2024-12-12 | 2025-12-06 |
 | [Anexartiti \- Live Version](https://open.spotify.com/track/0pb6PxjqUzjiPKSuY5l4GT) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Parea Me Tin Ioulia](https://open.spotify.com/album/45Eqx4JgN9XscVcEhI1LLQ) | 2:49 | 2024-11-21 | 2025-10-28 |
 | [Antras Einai Tha Perasei](https://open.spotify.com/track/1CmIyXdvWOLfvjiqm9Q2Id) | [Christina Salti](https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr) | [Antras Einai Tha Perasei](https://open.spotify.com/album/1Yv7ZFVLW9H9MkQwAo2lhS) | 3:43 | 2025-11-27 | 2025-12-12 |
-| [Anypotakti](https://open.spotify.com/track/2s7LbHAk3cFimpAUY6xRr8) | [Ioulia Karapataki](https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG) | [Anypotakti](https://open.spotify.com/album/40cTowUxShQoHX4IkCkUny) | 2:05 | 2026-02-12 | 2026-02-27 |
+| [Anypotakti](https://open.spotify.com/track/2s7LbHAk3cFimpAUY6xRr8) | [Ioulia Karapataki](https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG) | [Anypotakti](https://open.spotify.com/album/40cTowUxShQoHX4IkCkUny) | 2:05 | 2026-02-12 |  |
 | [Apo Do Ki Oi Alles Pane](https://open.spotify.com/track/03mRr0ZhhJn2j8wEZrIjIh) | [Vasilis Dimas](https://open.spotify.com/artist/3TQLcQaZaJ81spBgSvooqK) | [Apo Do Ki Oi Alles Pane](https://open.spotify.com/album/4Dzk7lQQv6k4pZqYYPVAFY) | 2:53 | 2025-10-30 | 2025-11-14 |
 | [Apo Pou Ki Os Pou](https://open.spotify.com/track/1n515DffsN53KfmP0SFDIB) | [Elli Kokkinou](https://open.spotify.com/artist/3dHMnH9LXTSuhfdcWfjnoc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Apo Pou Ki Os Pou](https://open.spotify.com/album/2RyuTWc8oJZTNVBSMZrHEH) | 4:10 | 2026-01-15 | 2026-02-13 |
 | [Apopse Thelo](https://open.spotify.com/track/5qMrZ7AN6LveKKAr16d5rr) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kalispera \(Aroma Elladas Edition\)](https://open.spotify.com/album/47rB6fuVlzNXXfEjC8vYws) | 3:32 | 2024-06-27 | 2024-08-24 |
@@ -65,6 +65,7 @@
 | [Ela Pali Apopse](https://open.spotify.com/track/3bTPHtlPOQ7PQbSGB9d0kU) | [Giorgos Livanis](https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok), [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Emeis](https://open.spotify.com/album/2mzrqsgeLmp1aw9jRTL9Cs) | 4:14 | 2024-10-10 | 2024-11-15 |
 | [Eleftheri Ptosi](https://open.spotify.com/track/1H0kDa1Cm7NdL6kwEd5j0K) | [Panos Kalidis](https://open.spotify.com/artist/1rylldluHh9z6RiCzLNUsC) | [Eleftheri Ptosi](https://open.spotify.com/album/3jqGsAXx8AjjzqrAYpa2fo) | 2:50 | 2024-10-10 | 2024-10-25 |
 | [Entelos Tipika](https://open.spotify.com/track/3XejrskFrWwOkz5XKQrzWN) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Entelos Tipika](https://open.spotify.com/album/2AOQM4h47bu7DWLtOCvg0c) | 3:30 | 2024-11-07 | 2024-11-23 |
+| [Epiptoseis](https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Epiptoseis](https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu) | 3:16 | 2026-03-05 |  |
 | [Epitelous](https://open.spotify.com/track/3Qsq7EWfKRmYLzmY2wWvE2) | [Katy Garbi](https://open.spotify.com/artist/6EdXBTjIDwu5aYv4U3K8TI), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Epitelous](https://open.spotify.com/album/75m7sffAOk9s93ImMlvjRv) | 4:27 | 2025-05-08 | 2025-06-14 |
 | [Erotas Eisai](https://open.spotify.com/track/6XMUFhd6rikAzz0w2A4ath) | [Giorgos Papadopoulos](https://open.spotify.com/artist/4ONfSbgDnJ1fGfSRHKPbyz) | [Erotas Eisai](https://open.spotify.com/album/4tpUfY9myOHSSaqaQp0w1G) | 3:31 | 2025-10-23 | 2025-11-14 |
 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 | 2025-05-08 |  |
@@ -114,7 +115,7 @@
 | [Kerasmena](https://open.spotify.com/track/0WHpnRsewdrBExeDU90v2m) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [M' Akous](https://open.spotify.com/album/6nvg33SsfdT6GuEqFvbrgR) | 3:20 | 2025-11-06 |  |
 | [Kontra Paidi](https://open.spotify.com/track/25Y7pAip2rT44HKg37z7or) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Kontra Paidi](https://open.spotify.com/album/1nE79NwK4nbiv93YuEYtrK) | 2:44 | 2025-03-27 | 2025-04-25 |
 | [Kourastika Na S' Agapo](https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Kourastika Na S' Agapo](https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP) | 4:13 | 2025-09-25 |  |
-| [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 | 2025-11-20 |  |
+| [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 | 2025-11-20 | 2026-03-06 |
 | [Krifos Paradisos](https://open.spotify.com/track/0TFPLCfaXZ0DVYGpa4psV9) | [Kostas Karafotis](https://open.spotify.com/artist/4Opkz5FwG4ENtwM7o09KNu) | [Krifos Paradisos](https://open.spotify.com/album/0z33CdgdN4fJQnD31uxoFu) | 3:22 | 2024-07-18 | 2024-08-23 |
 | [Leei](https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Leei](https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y) | 3:32 | 2026-01-29 |  |
 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 | 2025-11-20 |  |
@@ -233,7 +234,7 @@
 | [Ti Na Peis](https://open.spotify.com/track/7BpqJAZPhr1UZeUAXj5tM5) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk) | [Ti Na Peis](https://open.spotify.com/album/6QmmLzsWwX5KVpIrwsKT95) | 3:35 | 2024-06-27 | 2024-07-12 |
 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 | 2024-06-27 | 2024-11-04 |
 | [Ti Na Sas Po](https://open.spotify.com/track/5rlPTd5apJPPcrX6P2OJov) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Ti Na Sas Po](https://open.spotify.com/album/0hRZTC2c59AyqLRAtiZX6x) | 3:19 | 2025-04-10 | 2025-08-31 |
-| [Ti Paraggelneis](https://open.spotify.com/track/4kJf2mFsfM8ZVZKmnCvBAL) | [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Ti Paraggelneis](https://open.spotify.com/album/5sh21uNCh6ylLzq8R48HCs) | 3:19 | 2026-02-12 |  |
+| [Ti Paraggelneis](https://open.spotify.com/track/4kJf2mFsfM8ZVZKmnCvBAL) | [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Ti Paraggelneis](https://open.spotify.com/album/5sh21uNCh6ylLzq8R48HCs) | 3:19 | 2026-02-12 | 2026-03-06 |
 | [Ti Perimeneis Apo 'Mena](https://open.spotify.com/track/7hwhamjgTSPsVqSv7WmJvz) | [Peggy Zina](https://open.spotify.com/artist/4ut0QJyQkh4mrh3Cu6diKz), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ti Perimeneis Apo 'Mena](https://open.spotify.com/album/4QBIHh9umK51T2EoBVEFSx) | 3:45 | 2025-01-23 | 2025-03-08 |
 | [Ti Sou Kanei](https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Ti Sou Kanei](https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG) | 3:19 | 2024-06-27 | 2024-10-04 |
 | [Tihi Mou](https://open.spotify.com/track/3igrXVzOUTPhx6X3X4sG71) | [Giorgos Giannias](https://open.spotify.com/artist/5Zhz9yMdYnBBy6hH2AII46) | [Tihi Mou](https://open.spotify.com/album/7skixiOvBA3r4UnL3FtUae) | 3:31 | 2025-06-05 | 2025-06-20 |

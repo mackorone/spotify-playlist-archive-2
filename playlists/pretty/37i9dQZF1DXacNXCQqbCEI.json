@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 343772,
+  "num_followers": 343755,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -263,18 +263,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
+        "name": "Aurora Remixed",
+        "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
       },
       "artists": [
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        },
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
         }
       ],
-      "duration_ms": 230893,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
+      "duration_ms": 254163,
+      "name": "Pura Flor (El B\u00faho Remix)",
+      "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -299,22 +303,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Aurora Remixed",
-        "url": "https://open.spotify.com/album/7rEvRh1tkLQSNDA4PvHDRb"
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE"
       },
       "artists": [
         {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        },
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
         }
       ],
-      "duration_ms": 254163,
-      "name": "Pura Flor (El B\u00faho Remix)",
-      "url": "https://open.spotify.com/track/3R5PROPl0zd9GsmCNYtZNv"
+      "duration_ms": 230893,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/70um118ETgSKTghQNF9iEC"
     },
     {
       "added_at": "2024-07-12 22:50:04",

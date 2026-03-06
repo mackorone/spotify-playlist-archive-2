@@ -2359,6 +2359,28 @@
     },
     {
       "album": {
+        "name": "Govindudu Andarivaadele",
+        "url": "https://open.spotify.com/album/3H0DNhLsVryzwAhfHtkadC"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Gulabi Kallu Rendu Mullu",
+      "url": "https://open.spotify.com/track/73RZq0S81ptydTcm25KPvs"
+    },
+    {
+      "album": {
         "name": "Kodama Simham",
         "url": "https://open.spotify.com/album/4yGgUb3SblZKk800n5IqJC"
       },
@@ -3697,6 +3719,44 @@
     },
     {
       "album": {
+        "name": "Munna",
+        "url": "https://open.spotify.com/album/2QcLti2H8iKe66Uqr7ej6H"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Sadhana Sargam",
+          "url": "https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Naresh Iyer",
+          "url": "https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI"
+        },
+        {
+          "name": "Krishh",
+          "url": "https://open.spotify.com/artist/52gcMUmJNB3Q6NG0jPWj0b"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349653,
+      "name": "Manasa",
+      "url": "https://open.spotify.com/track/2Zu9jBaVw9WsjCfQszpeh7"
+    },
+    {
+      "album": {
         "name": "Premante Idera",
         "url": "https://open.spotify.com/album/30XOwr9IvgZNVNv16WCqtf"
       },
@@ -3734,7 +3794,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 349653,
       "name": "Manassa",
       "url": "https://open.spotify.com/track/3YB09zhSWO8mmESr8NUV0n"
@@ -3860,7 +3920,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 227026,
       "name": "Meesaala Pilla (From \"Mana ShankaraVaraprasad Garu - Pandagaki Vasthunnaru\")",
       "url": "https://open.spotify.com/track/00cE2yTZLjn2AKjHttfNfd"
@@ -4993,6 +5053,32 @@
     },
     {
       "album": {
+        "name": "Dhruva",
+        "url": "https://open.spotify.com/album/62PdjrKXa5qgUsKPXuaP2Q"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Padmalatha",
+          "url": "https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk"
+        },
+        {
+          "name": "Vishnupriya Ravi",
+          "url": "https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193179,
+      "name": "Pareshanura",
+      "url": "https://open.spotify.com/track/7e12zIsEJu1gqebs2HEFvL"
+    },
+    {
+      "album": {
         "name": "Peddi Reddy",
         "url": "https://open.spotify.com/album/6d7wLtVCJKIPH8D8tkXchK"
       },
@@ -5278,7 +5364,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 197474,
       "name": "Pretty Baby (From \"BIKER\")",
       "url": "https://open.spotify.com/track/5ueuknBtJ1ZA6dGuyeKRti"

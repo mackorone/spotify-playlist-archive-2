@@ -2,9 +2,9 @@
 
 ### [Afro Hits](https://open.spotify.com/playlist/37i9dQZF1DWX0o6sD1a6P5)
 
-> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: KeBlack x Franglish
+> The hottest Afrobeats, Afropop and Afro\-Caribbean hits, all in one place\. Cover: Naïka
 
-907 songs - 1 day 20 hr 7 min
+908 songs - 1 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-06-21 |
 | [Aimer À Moitié \- Calema X Tayc Remix](https://open.spotify.com/track/70MKQVLd0BzLnBpaHRylEo) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Aimer À Moitié \(Calema X Tayc Remix\)](https://open.spotify.com/album/23UnRzYd32ffjSaxhoAveN) | 3:35 | 2025-01-09 | 2025-04-11 |
 | [Aje \(feat\. Tayc\)](https://open.spotify.com/track/2Nmq1A64nO4LCgyQNhrRLq) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Aje \(feat\. Tayc\)](https://open.spotify.com/album/2dqNGRTr6rw6WqvDyovSwX) | 2:33 | 2025-08-07 | 2025-10-24 |
+| [ALL MY LIFE](https://open.spotify.com/track/77OJdtx1NDBybpWWlc4p7c) | [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [ECLESIA](https://open.spotify.com/album/50nWidWTDAQOFrviZu12XH) | 2:32 | 2026-03-05 |  |
 | [All Of Us \(Ashawo\)](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 | 2022-08-04 | 2022-11-11 |
 | [All The Love](https://open.spotify.com/track/47r4tUxUEOiDICuhfkIFKl) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [All The Love](https://open.spotify.com/album/2obX1HxOQWl31B7xwmhal9) | 3:08 | 2025-02-13 | 2025-05-16 |
 | [Allo](https://open.spotify.com/track/1dxl7CSBstnOcLzWrQiBLj) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Allo](https://open.spotify.com/album/15LSZk7N06PAFrrqkjprrD) | 2:16 | 2024-05-02 | 2024-08-16 |
@@ -571,7 +572,7 @@
 | [My Darling](https://open.spotify.com/track/7mdvPu1ZAOIgMzr3sfpAqk) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [My Darling](https://open.spotify.com/album/5UOf3gDg4dnNBBaLi9qTK9) | 2:26 | 2025-04-17 |  |
 | [My Darling](https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:13 | 2023-06-22 | 2023-09-01 |
 | [My Everything](https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3) | [Jay Moore](https://open.spotify.com/artist/0xCBpVSxe0bO6Y7u3B3w5P), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [My Everything](https://open.spotify.com/album/58caLgwj61i831LmHAu6kU) | 2:37 | 2022-06-23 | 2022-07-08 |
-| [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 | 2026-01-29 |  |
+| [MY HEALER](https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [MY HEALER](https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ) | 2:37 | 2026-01-29 | 2026-03-06 |
 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-17 | 2023-09-15 |
 | [MYSTERIOUS LOVE](https://open.spotify.com/track/6E60TB6THcK8aglk78MHbS) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [IS IT YOU? / MYSTERIOUS LOVE](https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS) | 2:32 | 2024-01-25 | 2024-03-01 |
 | [Mère ya palais](https://open.spotify.com/track/5T4sgBJUzY0xTUR5SkLH4E) | [Stone Warley](https://open.spotify.com/artist/4PYXE76LmEnTLqqkeoxc01) | [Mère ya palais](https://open.spotify.com/album/61A9sDcEjJrKHQpE5ikHrr) | 2:50 | 2022-03-24 | 2022-04-22 |

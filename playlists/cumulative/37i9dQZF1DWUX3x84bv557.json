@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Samuel Welten & Bankzitters",
+  "description": "Frisse Nederlandse pop. Cover: Typhoon",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -9854,7 +9854,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 152520,
       "name": "Ik Beloof",
       "url": "https://open.spotify.com/track/0zGrVUW8H8CfRiqb4xFncF"
@@ -12105,6 +12105,28 @@
     },
     {
       "album": {
+        "name": "Laat ons hier maar alleen",
+        "url": "https://open.spotify.com/album/3GmarXmqhxB5HxRYSrzd89"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l"
+        },
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205994,
+      "name": "Laat ons hier maar alleen",
+      "url": "https://open.spotify.com/track/52iWnKGnQfjOTcx7MMj2KP"
+    },
+    {
+      "album": {
         "name": "Laat Ons Niet Los",
         "url": "https://open.spotify.com/album/0TyP0ZmveFemVqvOvE5Puo"
       },
@@ -13506,7 +13528,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190443,
       "name": "Meisje Uit De Klas",
       "url": "https://open.spotify.com/track/03Grq5CXpufuCb15u4gAe5"
@@ -15113,6 +15135,24 @@
     },
     {
       "album": {
+        "name": "Niks Is Zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181539,
+      "name": "Niks Is Zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
+    },
+    {
+      "album": {
         "name": "Niks Voor Mij",
         "url": "https://open.spotify.com/album/7EYhYwOMCmnGWNeLNTkguI"
       },
@@ -15674,10 +15714,28 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 186048,
       "name": "Oh Zo Dom",
       "url": "https://open.spotify.com/track/1WMJUUAvfMxPtx9SXkOWlo"
+    },
+    {
+      "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
     },
     {
       "album": {

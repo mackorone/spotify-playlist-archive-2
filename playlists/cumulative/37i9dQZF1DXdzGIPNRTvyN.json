@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Misty Forest",
+        "url": "https://open.spotify.com/album/6HYzuhVJLtw7V0Rddh5U6P"
+      },
+      "artists": [
+        {
+          "name": "BlunD",
+          "url": "https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T"
+        }
+      ],
+      "date_added": "2026-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188097,
+      "name": "Misty Forest",
+      "url": "https://open.spotify.com/track/1JtcJ4DmLSySW5GGI8MFmP"
+    },
+    {
+      "album": {
         "name": "Moonlight Dolphin",
         "url": "https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx"
       },
@@ -5666,7 +5684,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 183614,
       "name": "Sanare",
       "url": "https://open.spotify.com/track/7qjuGqempfRgK5czZIheLn"

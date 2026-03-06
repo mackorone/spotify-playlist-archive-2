@@ -1,12 +1,12 @@
 {
   "description": "This is Rex Orange County. The essential tracks, all in one playlist.",
-  "num_followers": 382384,
+  "num_followers": 382388,
   "original_name": "This Is Rex Orange County",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABafsL6sD7/pBkG8jQuAp4M",
+  "snapshot_id": "aad2AAAAAADTbGGwwMRLlqiJFV8O0RHS",
   "tracks": [
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Know Love",
-      "url": "https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci"
+      "duration_ms": 217500,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/0AOc5dG23RCMvXTi47aLdl"
+      "duration_ms": 241000,
+      "name": "Know Love",
+      "url": "https://open.spotify.com/track/6EyMjnZqL89XVWWM1jT4Ci"
     }
   ],
   "unique_name": "This Is Rex Orange County",

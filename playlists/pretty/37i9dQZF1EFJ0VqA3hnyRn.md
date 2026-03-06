@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 277 songs - 16 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 601 likes - 279 songs - 16 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -260,8 +260,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 250 | [Fling It Back \- Edited Version](https://open.spotify.com/track/063o5W4Y3ytyVvlKKpBaOt) | [Precision Productions](https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol\. 9](https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih) | 3:07 |
 | 251 | [Der Schlumpfenbeat](https://open.spotify.com/track/21l8z5LyBjT0nfynKJfvtX) | [Die Schlümpfe](https://open.spotify.com/artist/0ONNMDruuhqjpTB9uRhbYs) | [Die Hits der Schlümpfe](https://open.spotify.com/album/5GDFUh4vZFYXzUtoOb93VS) | 3:13 |
 | 252 | [Neighborhood \(feat\. Kent Jamz & Nick Grant\)](https://open.spotify.com/track/6uZRRwpvuMP4jKo0O0FxRp) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w), [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [Village Days](https://open.spotify.com/album/5UgntWXasSNmI0s3O8rS6b) | 5:00 |
-| 253 | [Final Warning](https://open.spotify.com/track/74T44FOeJJIQgaYtA5itIt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Global](https://open.spotify.com/album/1AAvLa465c3cBOaRBrOjw1) | 4:16 |
-| 254 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 253 | [Made It](https://open.spotify.com/track/0hzgKoHi8HxmCRhXjBTZPO) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [CiCi](https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ) | 2:42 |
+| 254 | [Final Warning](https://open.spotify.com/track/74T44FOeJJIQgaYtA5itIt) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We Global](https://open.spotify.com/album/1AAvLa465c3cBOaRBrOjw1) | 4:16 |
 | 255 | [Hustle \(feat\. Turf Talk & R\. City\)](https://open.spotify.com/track/2Ciludxr3qvZ0Qo1FeDfXF) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Turf Talk](https://open.spotify.com/artist/4KaPpMa2dJyBtUS2UoJTyM) | [The Ball Street Journal \(Explicit Version\)](https://open.spotify.com/album/0BQ8wXGS0WNrNiTEQpJDwv) | 4:17 |
 | 256 | [Silhouettes](https://open.spotify.com/track/5aKRDpKlSC2pqttYNpRnJW) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Silhouettes](https://open.spotify.com/album/0IXu79KUBiVlBwg9W68Vgv) | 3:32 |
 | 257 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 |
@@ -285,5 +285,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 275 | [Sunshine \(feat\. JRDN\)](https://open.spotify.com/track/3eWXjX7WDpyGA6btOQTZj2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs) | [Kardi Gras Vol\. 1: The Clash](https://open.spotify.com/album/4ZyGxmDt2ugDMQsaBmSKi5) | 3:46 |
 | 276 | [Awhoa Aye Daddy \(Dirty\)](https://open.spotify.com/track/5GR7cdBj15zuMBONoLkmSd) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [Awhoa \(Aye Daddy\)](https://open.spotify.com/album/3jgT4Aeb0bXsTvcVy4K7jg) | 2:32 |
 | 277 | [Gugoo Game \(feat\. PIKO太郎\)](https://open.spotify.com/track/5sdiIBDaZRqNaoz78UXBT7) | [吳映潔 GEmma Wu](https://open.spotify.com/artist/1pjJLeDInKlJcBH54suirm) | [GX](https://open.spotify.com/album/38hRLWQIteNB7TpDqw44FO) | 2:08 |
+| 278 | [Get Spooky](https://open.spotify.com/track/0n6S7kvJmwFBzjjh5qqaD0) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:29 |
+| 279 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcLQwAAAAACKpJ/uzVZSWk8OMj/7Ecvf`
+Snapshot ID: `AcLWYAAAAAAdbTBxGgHuuotT72UNGL/2`

@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Ulises Bueno y Valentina Marquez
 
-613 songs - 1 day 13 hr 4 min
+614 songs - 1 day 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Amada Mia \- En Vivo](https://open.spotify.com/track/6YIewAPGakyaxTNrivlYXs) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [En Vivo Con Amigos](https://open.spotify.com/album/0DJYz0AhmU1efjhesG7od2) | 4:16 | 2021-12-24 | 2022-07-29 |
 | [Amame / Mariposas](https://open.spotify.com/track/5e9DYoQBJu60GE063WqDKD) | [Claudio Toledo](https://open.spotify.com/artist/2irvIOnNBtm2lPHz9PyUVh), [Dani Guardia](https://open.spotify.com/artist/2o1snsYTmpfZY9cxaniBRf) | [Amame / Mariposas](https://open.spotify.com/album/3ZLT6diCZWFbh91wTSIo6w) | 4:43 | 2022-04-22 | 2022-06-13 |
 | [Amantes o Desconocidos](https://open.spotify.com/track/3aM6xQTNPj4VypwjhuW3fg) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Amantes o Desconocidos](https://open.spotify.com/album/0vpOwboWylzhjIEpVRSqLF) | 3:29 | 2025-11-21 | 2026-02-21 |
+| [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/track/7m1Qy4NriMZ6ckFT4GbAMe) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Amiga \- A Medio Vivir \(feat\. Lucas Sugo\)](https://open.spotify.com/album/1KSUi0LxqRfQkAxp97gfOG) | 5:04 | 2026-03-05 |  |
 | [Amigos](https://open.spotify.com/track/5dAxWaxAqZPlXUUxEkIJ7I) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc) | [Amigos](https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN) | 3:58 | 2023-01-18 | 2024-01-03 |
 | [Amor Clandestino](https://open.spotify.com/track/2WpEo1QdYomT2CKwIaYpEN) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Amor Clandestino](https://open.spotify.com/album/5fONermHT1f2oYa1AwMBGL) | 2:49 | 2024-10-04 | 2024-11-27 |
 | [Amor Clasificado](https://open.spotify.com/track/5MK642wCaNr9hRDZ3kWyDX) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteto Característico \(A2000\)](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:44 | 2021-12-24 |  |
@@ -169,7 +170,7 @@
 | [El Pañuelo](https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [El Pañuelo](https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO) | 2:54 | 2023-04-07 | 2024-06-17 |
 | [El Que Se Enamora Pierde](https://open.spotify.com/track/5xgvk3BWfp3cM2zSKR0NBY) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [El Que Se Enamora Pierde](https://open.spotify.com/album/2dy3LvOvWEFJYUvJKi3RHx) | 2:24 | 2025-04-18 |  |
 | [El tiempo pasa](https://open.spotify.com/track/64TQSAqul6b5y0ueOyMKzf) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [El tiempo pasa](https://open.spotify.com/album/65WGQQm6DvvJU3KM5RvZ9F) | 2:34 | 2025-04-25 | 2025-07-11 |
-| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2025-02-28 |  |
+| [El Trato](https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato](https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire) | 3:11 | 2025-02-28 | 2026-03-06 |
 | [El Túnel Del Amor](https://open.spotify.com/track/34Qbk5Y9RjUoHs7yDGJJpv) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD), [Lisandro Marquez](https://open.spotify.com/artist/4L0qUjWxrWG3vjYu1sasHN) | [El Túnel Del Amor](https://open.spotify.com/album/71WP86JAqdoBv2zenCuE49) | 3:28 | 2025-04-25 | 2025-05-24 |
 | [Elegiste Al Final](https://open.spotify.com/track/6c3F1UuM7ToAdGdld9EuaG) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [Elegiste Al Final](https://open.spotify.com/album/0aX4WEPnK8Vb4WambILIkP) | 3:10 | 2025-07-25 | 2025-08-16 |
 | [En Eso No Quedamos](https://open.spotify.com/track/4qtoQsIlmCeyNgAEYwxTsv) | [Facu Y La Fuerza](https://open.spotify.com/artist/3bajlVy8vDG5VCHEG1iAgU) | [En Eso No Quedamos](https://open.spotify.com/album/1xwFg2YGtumMe9NimRouHE) | 2:38 | 2022-01-10 | 2022-06-03 |

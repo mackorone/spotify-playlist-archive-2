@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Molly Tuttle",
-  "num_followers": 167277,
+  "num_followers": 167281,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "The New Modern Hymns",
-        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
+        "name": "Congratulations and Condolences",
+        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
       },
       "artists": [
         {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+          "name": "Greensky Bluegrass",
+          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
         }
       ],
-      "duration_ms": 226901,
-      "name": "American Tune",
-      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
+      "duration_ms": 215884,
+      "name": "Congratulations and Condolences",
+      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -551,34 +551,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Congratulations and Condolences",
-        "url": "https://open.spotify.com/album/42nmiNlmPBoCakZzlqBdyD"
+        "name": "The New Modern Hymns",
+        "url": "https://open.spotify.com/album/1ISROKpFtAn78QEb5WTJvC"
       },
       "artists": [
         {
-          "name": "Greensky Bluegrass",
-          "url": "https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn"
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
         }
       ],
-      "duration_ms": 215884,
-      "name": "Congratulations and Condolences",
-      "url": "https://open.spotify.com/track/2lLTQiWMra5nFCeZuFeXWy"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
+      "duration_ms": 226901,
+      "name": "American Tune",
+      "url": "https://open.spotify.com/track/6y7lQfGN3tfNyZT0Yi8V2m"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -595,6 +579,22 @@
       "duration_ms": 166400,
       "name": "My Little Girl in Tennessee - Live",
       "url": "https://open.spotify.com/track/7c9K38G9DDNDduH9G6tWOA"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Never Losing Me",
         "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 173906,
       "name": "Never Losing Me",
       "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Saint Anthony",
-        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+        "name": "Way Back When",
+        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
       },
       "artists": [
         {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
         }
       ],
-      "duration_ms": 163149,
-      "name": "Saint Anthony",
-      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+      "duration_ms": 139999,
+      "name": "Tennessee Border",
+      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1023,34 +1023,18 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Way Back When",
-        "url": "https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL"
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
       "artists": [
         {
-          "name": "Larry Sparks",
-          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
         }
       ],
-      "duration_ms": 139999,
-      "name": "Tennessee Border",
-      "url": "https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Blue Night",
-        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Blue Night",
-      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/4zuvesfsRy11qUXy9RyAJM"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/5CsDpl5sZRU3GtAYZe8YfN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
         "name": "Wanderers Like Me",
         "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
@@ -1087,26 +1087,6 @@
       "duration_ms": 189887,
       "name": "Wanderers Like Me",
       "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "I Built A World",
-        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
-      },
-      "artists": [
-        {
-          "name": "Bronwyn Keith-Hynes",
-          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
-        },
-        {
-          "name": "Jason Carter",
-          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
-        }
-      ],
-      "duration_ms": 243736,
-      "name": "I Built A World",
-      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1131,6 +1111,26 @@
       "duration_ms": 236213,
       "name": "Living In A Song",
       "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "I Built A World",
+        "url": "https://open.spotify.com/album/6hTAyMVolX7dzbPkLZ54MV"
+      },
+      "artists": [
+        {
+          "name": "Bronwyn Keith-Hynes",
+          "url": "https://open.spotify.com/artist/03d64K2pahKcY9cyDvh1XO"
+        },
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1"
+        }
+      ],
+      "duration_ms": 243736,
+      "name": "I Built A World",
+      "url": "https://open.spotify.com/track/15nDnHLaE6j9xZnwLvRHfs"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Ain't No Sin",
-        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
-      },
-      "artists": [
-        {
-          "name": "Darren Nicholson",
-          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Ain't No Sin",
-      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Railroadin' & Gamblin'",
         "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Ain't No Sin",
+        "url": "https://open.spotify.com/album/4n8lKlIIi2nPMMfgHCiTQx"
+      },
+      "artists": [
+        {
+          "name": "Darren Nicholson",
+          "url": "https://open.spotify.com/artist/70O2FAS1z732CogF3N6W8f"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ain't No Sin",
+      "url": "https://open.spotify.com/track/3GckgXLQoe486mGzxGKz6i"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "As the Crow Flies",
-        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
-      },
-      "artists": [
-        {
-          "name": "Green Mountain Grass",
-          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "The Banker",
-      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 172533,
       "name": "Dovetail Cabin",
       "url": "https://open.spotify.com/track/5nAmwwchqC5sJSwdMRbLWN"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "As the Crow Flies",
+        "url": "https://open.spotify.com/album/2z8ZzHSCHFi0UWjSdqmqg5"
+      },
+      "artists": [
+        {
+          "name": "Green Mountain Grass",
+          "url": "https://open.spotify.com/artist/1i5eYanA9k3jyo0RfZUIwn"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "The Banker",
+      "url": "https://open.spotify.com/track/0wKrA8JpLv4NHNXIpKA8h7"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1751,22 +1751,34 @@
     {
       "added_at": "2026-02-13 05:00:25",
       "album": {
-        "name": "Far Away With You",
-        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
       },
       "artists": [
         {
-          "name": "Woody Platt",
-          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Wood Box Heroes",
+          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
         }
       ],
-      "duration_ms": 237529,
-      "name": "Toe The Line",
-      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
+      "duration_ms": 235786,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
+    },
+    {
+      "added_at": "2026-02-13 05:00:25",
+      "album": {
+        "name": "Looking Past the Pain (The Cowboy Song)",
+        "url": "https://open.spotify.com/album/5Im9SOujSPyg7XAWUvQShY"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 237905,
+      "name": "Looking Past the Pain (The Cowboy Song)",
+      "url": "https://open.spotify.com/track/09hTpfs6vZuYzKQ9vT8DP6"
     },
     {
       "added_at": "2026-02-13 05:00:25",
@@ -1783,22 +1795,6 @@
       "duration_ms": 175946,
       "name": "Big Wheels",
       "url": "https://open.spotify.com/track/0ZLXEtd3zuVXzP3sW2WGXm"
-    },
-    {
-      "added_at": "2026-02-13 05:00:25",
-      "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/3LVLGUjjuicXJofykim9ne"
-      },
-      "artists": [
-        {
-          "name": "Wood Box Heroes",
-          "url": "https://open.spotify.com/artist/2ywJwGJPEbhirJb831dHtH"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/5dl177YODSZ5zHz8ycEtd3"
     }
   ],
   "unique_name": "Grass Roots",

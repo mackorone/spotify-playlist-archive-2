@@ -2,7 +2,7 @@
 
 ### [Verano Forever](https://open.spotify.com/playlist/37i9dQZF1DXdnGF35OawbN)
 
-> El soundtrack del verano 2026 🏝️ Cover: ELENA ROSE
+> El soundtrack del verano 2026 🏝️ Cover: Ryan Castro & Kapo
 
 417 songs - 22 hr 36 min
 

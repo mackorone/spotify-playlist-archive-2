@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-342 songs - 22 hr 15 min
+343 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [How Can I Live Without You](https://open.spotify.com/track/2WU6qcQohr7YTygqaE1A0J) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/3Z8pAXoh1RbOLaLia5Y1wz) | 3:44 | 2022-10-04 | 2023-01-04 |
 | [How Can I Live Without You](https://open.spotify.com/track/2wR3Hf3iIiCIAP8xx1I3Px) | [Juho](https://open.spotify.com/artist/4iVd8OOKGx0eT2Uo2nEpfH) | [How Can I Live Without You](https://open.spotify.com/album/4ToOcySEVsN3ZEpKtd4nvO) | 3:44 | 2022-05-11 | 2022-07-24 |
 | [How could you](https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [How could you](https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo) | 4:11 | 2022-05-11 | 2022-10-25 |
-| [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 | 2025-04-28 |  |
+| [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 | 2025-04-28 | 2026-03-06 |
 | [How many nights should far away more](https://open.spotify.com/track/4XN51LJQ9VsINliLachVDX) | [Shin Sae Byeok](https://open.spotify.com/artist/0cqVnk9oe3o3SwbCmqnAm0) | [How many nights should far away more](https://open.spotify.com/album/2CPr0kfNIylfndWVAPrZpc) | 3:46 | 2023-02-03 | 2023-02-23 |
 | [How You Been](https://open.spotify.com/track/3dRrKVKeI1vFKqiOcO2vvJ) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/0WkJMdNXAtv5UvJaBUeNRq) | 2:58 | 2022-07-08 | 2024-04-19 |
 | [How You Been](https://open.spotify.com/track/3tKplzefIgmzzjYvQPIORB) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [The Other Side](https://open.spotify.com/album/6PoWQtf3kVQkglgvsFRm9h) | 2:58 | 2022-05-11 | 2022-07-29 |
@@ -221,6 +221,7 @@
 | [Nostalgia](https://open.spotify.com/track/29L8Wlzh3oqdFmdbjjPRTM) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Nostalgia](https://open.spotify.com/album/17q441sHx1nDyKdymqxi9l) | 3:51 | 2022-05-11 | 2022-07-26 |
 | [Nostalgia](https://open.spotify.com/track/6B1rtnTMiYoQKtkSKMtXAK) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Nostalgia](https://open.spotify.com/album/4vMdxNFcddeFZSK3IqtzaD) | 4:39 | 2022-07-04 | 2022-07-23 |
 | [note to](https://open.spotify.com/track/393rs3KVL8HuRNy2SIesC1) | [우수현](https://open.spotify.com/artist/0JjuaT60jLgBmyqcMkTDjD) | [note to](https://open.spotify.com/album/4Qw7Z9V0xNSp3qQAMgvk0Q) | 4:26 | 2026-02-09 |  |
+| [Nothing](https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Nothing](https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC) | 4:22 | 2026-02-23 |  |
 | [O](https://open.spotify.com/track/4iieYHqajyQxMcCTDQhVOi) | [Big Baby Driver](https://open.spotify.com/artist/4JgbccOQwDGx8VDrmJsxMI) | [Remainder](https://open.spotify.com/album/0IaKtWIDNhBVbjpd3Oke8A) | 4:22 | 2022-07-04 | 2022-07-09 |
 | [One More Day](https://open.spotify.com/track/260qGZnKIKC41u6LH2L9pq) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [In The Spring](https://open.spotify.com/album/0SDjas70ExEIhpRm24UCUz) | 3:25 | 2025-05-19 | 2025-10-28 |
 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 | 2022-05-11 |  |

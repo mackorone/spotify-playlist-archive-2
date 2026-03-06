@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-213 songs - 10 hr 8 min
+215 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Balanced Tides](https://open.spotify.com/track/5ZtcuO2uIgzfzvvb8EtXfk) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Balanced Tides](https://open.spotify.com/album/7qadwA8nzkCOC3PpjEvD9W) | 2:22 | 2025-01-15 |  |
 | [Beachey](https://open.spotify.com/track/0F8RVIXHBqb7EuDOtyxDEM) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Beachey](https://open.spotify.com/album/4FUYl46HwtSxQvxiFhPenk) | 2:19 | 2025-02-18 |  |
 | [beneath the surface](https://open.spotify.com/track/0T7wCl62dvvGjyrY5k11w3) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [beneath the surface](https://open.spotify.com/album/30O32KZJTfrFf7pvu9VpXt) | 2:36 | 2025-12-17 |  |
+| [Beneath The Waves](https://open.spotify.com/track/6PToosTpwEblKqcS51pc3A) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Beneath The Waves](https://open.spotify.com/album/0sIwg2z4loWkH79RAxxxc6) | 2:23 | 2026-02-27 |  |
 | [Birth](https://open.spotify.com/track/2qsYiqyOLtFpfRTMi2QmUT) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Birth](https://open.spotify.com/album/03Z66Ih9w9ETATH78lQKsQ) | 3:21 | 2023-10-23 | 2025-11-01 |
 | [Blue Dreams](https://open.spotify.com/track/0neR03vzECIMYkD4nPDXum) | [Peaceful Island](https://open.spotify.com/artist/0s2PIIFX28PHshwhsbFjJh) | [Blue Dreams](https://open.spotify.com/album/6b6Lkkp7RpGB6fevcuc62j) | 2:22 | 2025-05-21 |  |
 | [Blue Horizon](https://open.spotify.com/track/1skgRtVJ9ckx7SQjWQyQsc) | [Frederic Stelliard](https://open.spotify.com/artist/39LGeaWGf31tRDtPxYYHBc) | [Blue Horizon](https://open.spotify.com/album/7KegJt2prSkUbrssnCdJfz) | 2:39 | 2024-10-09 |  |
@@ -100,6 +101,7 @@
 | [Horizon](https://open.spotify.com/track/3vh3W77oJHFoR0gOSfWGxk) | [J\. Cartwright](https://open.spotify.com/artist/4DQYUQ3tze2DqQtZUkXdcC) | [Horizon](https://open.spotify.com/album/79JYZGVV44vTeiP1VbZEob) | 2:33 | 2025-10-02 |  |
 | [In Balance By The Shore](https://open.spotify.com/track/617Vt95JDL9ZyBiiALl2e1) | [Leo Lindholm](https://open.spotify.com/artist/4rkUkNV8IzVS3jRYgPmB8h) | [In Balance By The Shore](https://open.spotify.com/album/4fpMCLNlFUE9slr3RDc1PO) | 2:53 | 2025-06-23 |  |
 | [Indigo Glow](https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S) | [Xoj Litran](https://open.spotify.com/artist/1sEC1KPQBzaV3v3ArtEcOZ) | [Indigo Glow](https://open.spotify.com/album/2dcJP15Nrxd66yV6aEVJi9) | 2:32 | 2023-10-26 | 2025-01-16 |
+| [Infinite Homelands](https://open.spotify.com/track/3pRow3lwTX36GWRDKGo5Fg) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Infinite Homelands](https://open.spotify.com/album/3HWr3rTCjDrxMshUaOgZWw) | 3:35 | 2026-02-27 |  |
 | [Inner Stream](https://open.spotify.com/track/1zIevefvM7u2XZzEbHkSKA) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [Inner Stream](https://open.spotify.com/album/6WlNdLtXenVk8jrphSEL50) | 2:21 | 2026-02-27 |  |
 | [Inner Strength](https://open.spotify.com/track/50TP9cmtHYCs501GCZJUA7) | [Hulu Otto](https://open.spotify.com/artist/0b2hSNgC94dVrDmvJBqd84) | [Inner Strength](https://open.spotify.com/album/7nxws701pdjNGfmMCb0G8N) | 2:28 | 2025-12-17 |  |
 | [Kallisto Thalassa](https://open.spotify.com/track/0cYX4SJ08CQtEJd63j0PiF) | [Airin](https://open.spotify.com/artist/26UTcEInDAyY9tnGHZpGWQ) | [Kallisto Thalassa](https://open.spotify.com/album/5IzeqmJIDEBtqBnvDlet7j) | 3:15 | 2024-07-08 | 2025-07-01 |
@@ -144,7 +146,7 @@
 | [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 | 2026-01-06 |
 | [Oceanwide](https://open.spotify.com/track/7plRoYCe37LQhEz6iY82fY) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Oceanwide](https://open.spotify.com/album/79YI9hqwLqnUYpDdSMgaay) | 2:59 | 2025-05-21 |  |
 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 | 2023-10-23 | 2025-06-08 |
-| [Orchids](https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Orchids](https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya) | 2:16 | 2025-01-15 |  |
+| [Orchids](https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Orchids](https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya) | 2:16 | 2025-01-15 | 2026-03-06 |
 | [Osdale Air](https://open.spotify.com/track/2IFvIXlGNFaVqg7gaDkJZa) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Osdale Air](https://open.spotify.com/album/4erw5sMPYXrWjyaSyHqEV0) | 2:46 | 2023-10-26 | 2025-04-02 |
 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 | 2023-10-23 | 2024-06-04 |
 | [Over\-By The Sea](https://open.spotify.com/track/2n7ywqxa37GiHhKIiAqPaj) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Over\-By The Sea](https://open.spotify.com/album/3OLJio2N5cMvg0m2TtVryk) | 3:37 | 2023-10-26 | 2024-10-10 |
@@ -174,7 +176,7 @@
 | [Shoreline Serenity](https://open.spotify.com/track/4pJ0qiET0w17eYIangFjDo) | [Carmela Zavala](https://open.spotify.com/artist/00OuphZkinOuOhenMlndwQ) | [Shoreline Serenity](https://open.spotify.com/album/5tlda8TQsXWnCNf2isVNxg) | 2:48 | 2025-06-23 |  |
 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 | 2023-10-23 | 2024-08-23 |
 | [Silent Glow](https://open.spotify.com/track/1ZLibBKJupB9wQ0pctoa9o) | [Inner Cabin](https://open.spotify.com/artist/7x6ZvvIbEUTL39ZpxeaMo7) | [Silent Glow](https://open.spotify.com/album/6rjUc8JpOpej3SNSHj3WlA) | 3:20 | 2025-05-21 |  |
-| [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 | 2023-10-23 |  |
+| [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 | 2023-10-23 | 2026-03-06 |
 | [Silent Waves](https://open.spotify.com/track/3UxluevQPkyXgUd119eNFp) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Silent Waves](https://open.spotify.com/album/30vVxFBpztDxlkyd4DeacV) | 2:23 | 2025-12-17 |  |
 | [Singing Mermaids](https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Singing Mermaids](https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3) | 3:06 | 2023-10-26 | 2024-11-23 |
 | [Skye Nights](https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Skye Nights](https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9) | 3:34 | 2023-10-23 | 2025-04-02 |

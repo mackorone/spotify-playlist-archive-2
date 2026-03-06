@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "Le meilleur des hits avec Taylor Swift !",
+  "description": "Le meilleur des hits avec Jeck & Carla !",
   "name": "Hit Radio",
   "tracks": [
     {
@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 160573,
       "name": "Coeur maladroit",
       "url": "https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 176533,
       "name": "Escroc",
       "url": "https://open.spotify.com/track/3yYPNVUFRHwVx5Q3HINdO9"
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 180151,
       "name": "Hey Son",
       "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
@@ -3844,7 +3844,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 158238,
       "name": "Imposter",
       "url": "https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7"
@@ -4564,6 +4564,24 @@
       "duration_ms": 217386,
       "name": "Le chant des cygnes - Single Version",
       "url": "https://open.spotify.com/track/76cAQOMWaqiRAoi6SgggNo"
+    },
+    {
+      "album": {
+        "name": "Le Chat",
+        "url": "https://open.spotify.com/album/2AyYke5GEOTarDD72dkkdi"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Le Chat",
+      "url": "https://open.spotify.com/track/0q6S6yapqNjnSf7nI2Uefu"
     },
     {
       "album": {
@@ -5468,7 +5486,7 @@
       ],
       "date_added": "2025-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
@@ -6568,6 +6586,24 @@
       "duration_ms": 217586,
       "name": "Puis t'as dans\u00e9 avec moi",
       "url": "https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx"
+    },
+    {
+      "album": {
+        "name": "Nouveau souffle",
+        "url": "https://open.spotify.com/album/3XNqB7hY2AtGnloqozOWTb"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142323,
+      "name": "Qu'est-ce qu'il me restera ?",
+      "url": "https://open.spotify.com/track/2dDb0ZppFpTDdcqPLIgJ01"
     },
     {
       "album": {
@@ -8588,6 +8624,28 @@
       "duration_ms": 233406,
       "name": "WE PRAY - Single Version",
       "url": "https://open.spotify.com/track/2sKHevALE8DKDkwEo04Pbh"
+    },
+    {
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
     },
     {
       "album": {

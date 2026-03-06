@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
-  "num_followers": 313019,
+  "num_followers": 313026,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 227894,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 230920,
       "name": "The Returner",
       "url": "https://open.spotify.com/track/4qNolArPDQFWFDY9CV6gho"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 227894,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 228962,
-      "name": "I Feel Like Hank Williams Tonight",
-      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "Honest Life",
         "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 228962,
+      "name": "I Feel Like Hank Williams Tonight",
+      "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1123,18 +1123,22 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+        "name": "Playing Old Games",
+        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
       "artists": [
         {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        },
+        {
+          "name": "Pete Lindberg",
+          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
         }
       ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+      "duration_ms": 209880,
+      "name": "Playing Old Games",
+      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1155,22 +1159,18 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Playing Old Games",
-        "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
       "artists": [
         {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        },
-        {
-          "name": "Pete Lindberg",
-          "url": "https://open.spotify.com/artist/5q3AaH8E8mWMOJZ5Neirm6"
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
         }
       ],
-      "duration_ms": 209880,
-      "name": "Playing Old Games",
-      "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-06 05:00:30",
       "album": {
-        "name": "Margo",
-        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
-      },
-      "artists": [
-        {
-          "name": "Haroula Rose",
-          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Margo",
-      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
         "name": "True Love's Face",
         "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2026-02-06 05:00:30",
+      "album": {
+        "name": "Margo",
+        "url": "https://open.spotify.com/album/4tSX4JSEeC1bedmrv0KjJk"
+      },
+      "artists": [
+        {
+          "name": "Haroula Rose",
+          "url": "https://open.spotify.com/artist/7AhCTepWX7n4dQFh3Ro3YG"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Margo",
+      "url": "https://open.spotify.com/track/5Mn82vItGPWekMoCE4GrhU"
     },
     {
       "added_at": "2026-02-06 05:00:30",

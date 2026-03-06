@@ -4,7 +4,7 @@
 
 > Creators que você precisa ter no RADAR\. Capa: <a href="spotify:show:12dibRyPTOMitNNhVmlgnG">Medo em Cia.</a>
 
-226 songs - 6 day 10 hr 7 min
+228 songs - 6 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [CREEPYPASTA \- Episódio FINAL série Penpal \(exclusivo podcast\)](https://open.spotify.com/episode/1oincRGlhSMZOfIs86f1gs) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 57:37 | 2024-04-01 | 2024-05-03 |
 | [CREEPYPASTA \- Meu amigo viveu em uma realidade alternativa por 7 anos \(FINAL\)](https://open.spotify.com/episode/6NIq9q17LIqlcdzL7gJPfH) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/show/6bSPrd8qTvWFk6e2NtZBbR) | [Assustador, Bizarro e Misterioso](https://open.spotify.com/album/6bSPrd8qTvWFk6e2NtZBbR) | 1:06:21 | 2025-01-01 | 2025-02-06 |
 | [Creepypasta Iceberg \| Penpals, pt\. 1](https://open.spotify.com/episode/7xU8Nr1uzrKQWeDWwCR2bP) | [O Turno da Noite](https://open.spotify.com/show/6gt6D5EyS6DRo3X4KuNhz5) | [O Turno da Noite](https://open.spotify.com/album/6gt6D5EyS6DRo3X4KuNhz5) | 54:55 | 2024-05-02 | 2024-06-04 |
+| [Creepypasta: Sou caminhoneiro \. Parei pra ajudar uma criança perdida numa estrada deserta\. ](https://open.spotify.com/episode/0qCM5nkemEm5V8gVo0VpDz) | [Medo em Cia.](https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG) | [Medo em Cia.](https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG) | 27:46 | 2026-03-05 |  |
 | [DA RIXA AO RANÇO](https://open.spotify.com/episode/5lCIPbTuHLsHkx1QayDMrz) | [vibes em análise](https://open.spotify.com/show/42CNqtkx9yd1cIg0E6E9rL) | [vibes em análise](https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL) | 58:03 | 2025-07-01 | 2025-08-06 |
 | [de onde nós viemos \#54](https://open.spotify.com/episode/7xjBktqUhf38xLNWMJgGiH) | [bom mesmo é ser emocionada](https://open.spotify.com/show/27BapqwMhGJQ28paJU8bDE) | [bom mesmo é ser emocionada](https://open.spotify.com/album/27BapqwMhGJQ28paJU8bDE) | 36:36 | 2025-06-02 | 2025-07-02 |
 | [desesperada pra ser amada ](https://open.spotify.com/episode/1mjhISRxBsFbHNyuWRBdQn) | [Colo de amiga por @sofidisse](https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc) | [Colo de amiga por @sofidisse](https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc) | 25:17 | 2025-10-01 | 2025-11-04 |
@@ -120,7 +121,8 @@
 | [EP\#114 O amor começa em nós](https://open.spotify.com/episode/5VZixxYPpPPDBrl7qL9ptM) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 31:35 | 2025-06-02 | 2025-07-02 |
 | [Ep\#86 E quando a pessoa toxica é você? ](https://open.spotify.com/episode/7KpfgQecHW7DSECOGkIoWR) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 35:02 | 2024-10-01 | 2024-12-01 |
 | [Ep\#95 Você não é seus pensamentos](https://open.spotify.com/episode/4497wIVegvYPdFlpMCk1zA) | [Eu preciso falar de amor ](https://open.spotify.com/show/1DGHbBkLyem1Ce759hyrqd) | [Eu preciso falar de amor ](https://open.spotify.com/album/1DGHbBkLyem1Ce759hyrqd) | 33:53 | 2025-01-01 | 2025-02-06 |
-| [Episodio 41: historias sobrenaturais](https://open.spotify.com/episode/1Y7noV5fK0ECB3XIJLKd7H) | [Medo em Cia.](https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG) | [Medo em Cia.](https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG) | 24:27 | 2026-03-02 |  |
+| [Episodio 40: relatos sobrenaturais](https://open.spotify.com/episode/2oMZcnTG4ozCfqMRYqVG3n) | [Medo em Cia.](https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG) | [Medo em Cia.](https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG) | 45:58 | 2026-03-05 |  |
+| [Episodio 41: historias sobrenaturais](https://open.spotify.com/episode/1Y7noV5fK0ECB3XIJLKd7H) | [Medo em Cia.](https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG) | [Medo em Cia.](https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG) | 24:27 | 2026-03-02 | 2026-03-06 |
 | [Episódio 1 \- Prenderam o Minhoca](https://open.spotify.com/episode/79ZkOn7cYIOY1ayBDoHGxt) | [Eu só disse meu nome](https://open.spotify.com/show/7EZp7RdSTHpYdNEOYVAq3K) | [Eu só disse meu nome](https://open.spotify.com/album/7EZp7RdSTHpYdNEOYVAq3K) | 44:46 | 2024-04-01 | 2024-05-03 |
 | [ESPECIAL 1 ANO DE POGRAMA \#50](https://open.spotify.com/episode/4KRm3sWk8Hnc8EzHsrvAg5) | [POGRAMA](https://open.spotify.com/show/4b5P4Tq5loWnl139Uw853q) | [POGRAMA](https://open.spotify.com/album/4b5P4Tq5loWnl139Uw853q) | 37:41 | 2025-06-02 | 2025-07-02 |
 | [esse homi vai te sabotar](https://open.spotify.com/episode/6P4TTrVVzORBajP8fxpXGm) | [Tira Essa Brisa](https://open.spotify.com/show/6ic6GUo8AVIRLHee4iEOLg) | [Tira Essa Brisa](https://open.spotify.com/album/6ic6GUo8AVIRLHee4iEOLg) | 11:44 | 2026-02-02 | 2026-03-03 |

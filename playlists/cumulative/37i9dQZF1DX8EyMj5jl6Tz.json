@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 122632,
       "name": "Alors On Danse",
       "url": "https://open.spotify.com/track/1W1q2zYXgpU8G96dnvMqdE"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 211209,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/30eIn0R4QMmbILrdx8KGdp"
@@ -2867,6 +2867,32 @@
     },
     {
       "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/6sRe11ENhbReF9etSbCutG"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        },
+        {
+          "name": "Ann Stable",
+          "url": "https://open.spotify.com/artist/1aPBoBRBDjvebOi5ZRCnkz"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171366,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/258RXxfiloOoCiHOTDpkLz"
+    },
+    {
+      "album": {
         "name": "Rock That Body",
         "url": "https://open.spotify.com/album/3wTJsgDJG4c0SgD4K2NU3A"
       },
@@ -4302,6 +4328,28 @@
       "duration_ms": 175327,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6AJAzlq5ujQWCzzwpeGEZA"
+    },
+    {
+      "album": {
+        "name": "With Every Heartbeat",
+        "url": "https://open.spotify.com/album/2mJSN9REiMiZyGyYUkdY4g"
+      },
+      "artists": [
+        {
+          "name": "MATTN",
+          "url": "https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio"
+        },
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194337,
+      "name": "With Every Heartbeat",
+      "url": "https://open.spotify.com/track/5Y4Wcbq7o4UbNhIOj68BiY"
     },
     {
       "album": {

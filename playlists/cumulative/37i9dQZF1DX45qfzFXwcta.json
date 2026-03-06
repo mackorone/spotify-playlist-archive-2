@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 137857,
       "name": "Big Apple",
       "url": "https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 225962,
       "name": "Hip Hop - Instrumental Version",
       "url": "https://open.spotify.com/track/3eGZIooxS9bXBFl6xI344j"
@@ -1386,6 +1386,24 @@
       "duration_ms": 76800,
       "name": "in a mood",
       "url": "https://open.spotify.com/track/3k8P1xEYqQeIQeiJbZmQsQ"
+    },
+    {
+      "album": {
+        "name": "Industry",
+        "url": "https://open.spotify.com/album/3p1fsAcjGqoklKyCR65UdO"
+      },
+      "artists": [
+        {
+          "name": "Poof Tricks",
+          "url": "https://open.spotify.com/artist/7bsFDdgLDm7RwRNPQhbq5q"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190105,
+      "name": "Industry",
+      "url": "https://open.spotify.com/track/3zbfmEbyEGSTlCuTugN3Ch"
     },
     {
       "album": {
@@ -2536,6 +2554,24 @@
       "duration_ms": 187666,
       "name": "The Come up (Instrumental)",
       "url": "https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU"
+    },
+    {
+      "album": {
+        "name": "The Mood and the Sky",
+        "url": "https://open.spotify.com/album/7sDYdO56qoWltZMxUPL1UR"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167888,
+      "name": "The Finishing Line",
+      "url": "https://open.spotify.com/track/1Erk223qxpHFudAfM6jqZ8"
     },
     {
       "album": {

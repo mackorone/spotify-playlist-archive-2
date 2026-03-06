@@ -485,6 +485,24 @@
     },
     {
       "album": {
+        "name": "Recargado",
+        "url": "https://open.spotify.com/album/5YowNW67zOzSLBZeavAxWM"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/6bksITRx5k0zItP6RiXJq9"
+    },
+    {
+      "album": {
         "name": "15 \u00c9xitos 2004-2005",
         "url": "https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo"
       },
@@ -496,7 +514,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 209733,
       "name": "Ganas De Ti - Balada Version",
       "url": "https://open.spotify.com/track/4wJ6H2bngItDzDR7voKSqA"

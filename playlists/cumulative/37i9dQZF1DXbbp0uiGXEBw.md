@@ -2,9 +2,9 @@
 
 ### [EQUAL Vietnam](https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw)
 
-> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Vũ Thanh Vân
+> Cùng thưởng thức và tôn vinh các tác phẩm của nữ nghệ sĩ Việt \. Ảnh bìa: Châu Bùi
 
-398 songs - 1 day 1 hr 4 min
+399 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/track/6KgZf5gZgF1KLNxq1qZgHP) | [Phương Ly](https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9) | [Anh Là Ngoại Lệ Của Em](https://open.spotify.com/album/7kHOyM8XfyIBmOYKBXPzA2) | 3:08 | 2023-10-18 | 2025-03-05 |
 | [ANH LÀ THẰNG TỒI](https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 3:20 | 2025-11-06 |  |
 | [Anh Ơi Ở Lại](https://open.spotify.com/track/0VBv6oyMgeEBOIysaSV9aE) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi), [Đạt G](https://open.spotify.com/artist/4R3mugkUqCALXgkwSptTbg) | [Anh Ơi Ở Lại](https://open.spotify.com/album/0AvJduRQsFMQojtnsE2SfS) | 4:52 | 2022-09-22 | 2024-12-05 |
+| [Big Girl Don’t You Cry](https://open.spotify.com/track/1uOvwcp4JvIJ7UUa9GKAwS) | [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Big Girl Don’t You Cry](https://open.spotify.com/album/6SLJql6MEBS3SRMrSIY61H) | 3:52 | 2026-03-05 |  |
 | [Black Hickey \- Con Dấu Chủ Quyền](https://open.spotify.com/track/1Qf8uhmyNubhiGOCcWeDPv) | [Chi Pu](https://open.spotify.com/artist/6jRD85dsXJYn5vv73rqSGi) | [Black Hickey \(Con Dấu Chủ Quyền\)](https://open.spotify.com/album/7zSOESWQXSqQeV2ptNXArL) | 3:53 | 2022-09-06 | 2022-09-23 |
 | [Black Magic Woman](https://open.spotify.com/track/50Oxiqju15vvtRimrDraa3) | [ĐINH HƯƠNG](https://open.spotify.com/artist/5BYivses3rt9TZ0SwjlAeM), [Jak Nguyễn](https://open.spotify.com/artist/2YgNp2PD3MweSc6hR2xfrk) | [Black Magic Woman](https://open.spotify.com/album/2B2ADzsSJZbI6gbyFbaKhB) | 3:44 | 2025-03-07 | 2025-05-08 |
 | [Bo Xì Bo](https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 2:52 | 2023-01-14 | 2025-03-05 |
@@ -170,7 +171,7 @@
 | [Không Cần Phải Nói Nhiều](https://open.spotify.com/track/1DmMJL7KrTEC5MDTvYpfLD) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [Hoang Ton](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [Không Cần Phải Nói Nhiều](https://open.spotify.com/album/0cGa9mtCxVQwgzPrOyoLES) | 4:06 | 2022-05-10 | 2022-06-08 |
 | [không một bài hát nào có thể diễn tả cảm xúc của em lúc này\. \(feat\. Thanh Bui\)](https://open.spotify.com/track/2AA4UcXp2WRvsU9cyHT6Vy) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL), [Thanh Bùi](https://open.spotify.com/artist/2q8305j8iKRCQr7Tn6woin) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 4:00 | 2024-03-07 | 2026-01-15 |
 | [Không Quan Tâm](https://open.spotify.com/track/0VLrp6GS0pbPRYij0fGE4H) | [Vũ Thanh Vân](https://open.spotify.com/artist/5ptgjFDE2abY6Xwo4ytufN) | [CUỘC ĐÀO TẨU CỦA VŨ THANH VÂN](https://open.spotify.com/album/3RrTTlmePlZyvNNz8ufwQH) | 3:52 | 2026-01-13 |  |
-| [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/1StwtC4c6B87zlxdyQDakk) | [Cushikiri](https://open.spotify.com/artist/3VfDluUZlPRYPVLZrIgBlG), [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/4e7CfDw0AT24RjfwONFaLb) | 4:28 | 2025-12-03 |  |
+| [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/1StwtC4c6B87zlxdyQDakk) | [Cushikiri](https://open.spotify.com/artist/3VfDluUZlPRYPVLZrIgBlG), [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/4e7CfDw0AT24RjfwONFaLb) | 4:28 | 2025-12-03 | 2026-03-06 |
 | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/track/5SzRpDS2jfB3Zl6uQL5HCQ) | [SUNI](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi](https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX) | 4:27 | 2024-03-07 | 2025-04-17 |
 | [Không Sao Mà, Em Đây Rồi \(feat\. Lou Hoàng\)](https://open.spotify.com/track/2z9d9zTBWW6eougVWmfucA) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0), [Lou Hoàng](https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP) | [Không Sao Mà, Em Đây Rồi \(feat\. Lou Hoàng\)](https://open.spotify.com/album/3Z2EkqCx85eOAajRKycV7S) | 4:27 | 2024-03-07 | 2024-04-19 |
 | [Không Yêu Xin Đừng Nói \- Piano Version](https://open.spotify.com/track/0vkExWiBJSrfWnlMC7x48b) | [UMIE](https://open.spotify.com/artist/6fIF1TzV4K21TUWPXoQDAj) | [Không Yêu Xin Đừng Nói \(Piano Version\)](https://open.spotify.com/album/49dKGvpp3ix58fS46uVqOQ) | 4:04 | 2023-04-04 | 2025-03-05 |

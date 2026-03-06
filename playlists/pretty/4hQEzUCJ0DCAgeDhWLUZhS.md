@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 107 songs - 5 hr 56 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 1,515 likes - 108 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/4hQEzUCJ0DCAgeDhWLUZhS.md) - [plain]
 | 105 | [You Got to Lose](https://open.spotify.com/track/5YrYpEPqwBymz2VgbIYGik) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [You Got to Lose](https://open.spotify.com/album/5SZ3YBfMXtsMI81OZiXJz1) | 3:17 |
 | 106 | [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 |
 | 107 | [Back To Dust](https://open.spotify.com/track/0lS4xb7lMHwuFtNR0Y3aX9) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Back To Dust](https://open.spotify.com/album/13bRXVAR8WFuorplVHwjON) | 3:00 |
+| 108 | [Attention](https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Attention](https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw) | 2:59 |
 
-Snapshot ID: `AAAH467jwyxuMjhwewNlbaParvueKXUw`
+Snapshot ID: `AAAH5CZibOoGkWSFGAeyv3Ggnd3zZsD5`

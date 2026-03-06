@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Mariangela
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,281 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,291 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 82 | [El Paso Del Gigante \- Remix](https://open.spotify.com/track/3xr2DkBynhPVhVAPOrUJ8K) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [El Paso Del Gigante \(Remix\)](https://open.spotify.com/album/6YWuqstKsgDvzMNVQnIEN0) | 3:14 |
 | 83 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
 | 84 | [Una como Tú](https://open.spotify.com/track/424DheuFy5UkJdTYvDKfC5) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Una como Tú](https://open.spotify.com/album/41iwKSqnLP40egtF3BRkBN) | 3:27 |
-| 85 | [La Enamorada De Un Amigo Mío](https://open.spotify.com/track/674pIduUnCYIJ3WwXeeXus) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [La Enamorada De Un Amigo Mío](https://open.spotify.com/album/2NbgJPRulDRsZTmuHQVsrj) | 3:07 |
-| 86 | [La Indicada](https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 3:43 |
+| 85 | [La Indicada](https://open.spotify.com/track/6QwKiUDzzbQNu8ZBCv1T85) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 3:43 |
+| 86 | [La Enamorada De Un Amigo Mío](https://open.spotify.com/track/674pIduUnCYIJ3WwXeeXus) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [La Enamorada De Un Amigo Mío](https://open.spotify.com/album/2NbgJPRulDRsZTmuHQVsrj) | 3:07 |
 | 87 | [Ni Tú Te La Crees](https://open.spotify.com/track/2QgfJ8VgT54FX8RhsgSyqw) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Ni Tú Te La Crees](https://open.spotify.com/album/0UXob1CZDnJOJTiW5mbQWj) | 2:55 |
 | 88 | [Las Palmitas del Ecuador](https://open.spotify.com/track/6xUqaIld9T5BlqkhVD6C3C) | [Sensacion Latina](https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e) | [Por Encima de Todos](https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG) | 5:16 |
 | 89 | [Matame De A Poquito](https://open.spotify.com/track/3Gmjg057K7kXdvfIZeppRU) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Matame De A Poquito](https://open.spotify.com/album/3hhmrguTHDtmMhnM9HcTwV) | 3:49 |

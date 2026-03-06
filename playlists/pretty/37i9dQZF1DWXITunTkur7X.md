@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,699 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,701 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 34 | [Hij Gelooft In Mij](https://open.spotify.com/track/5lCPvGnxpZ0PMIhySYULY8) | [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Hij Gelooft In Mij](https://open.spotify.com/album/2cORujbxSnL80ZdQ0wbJBM) | 4:22 |
 | 35 | [Wil Je Niet Nog 1 Nacht](https://open.spotify.com/track/4mFWIVsh5yJsLaaanQ8Hjr) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h), [Edwin Evers](https://open.spotify.com/artist/5BVgpCPWqBxTVis97X2fVO) | [This Is My Voice](https://open.spotify.com/album/3zuzvhtV3MeSb3Rh1MpQQn) | 3:29 |
 | 36 | [Nergens Zonder Jou](https://open.spotify.com/track/6fPiqPtRH4PrE246zQeQkR) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Armen Open \(Deluxe Editie\)](https://open.spotify.com/album/1qFfzdsLXQQPM7trx3ustr) | 4:09 |
-| 37 | [Wit Licht](https://open.spotify.com/track/3x5ygBPL7i81nixEiGzxAW) | [Jeroen van Koningsbrugge](https://open.spotify.com/artist/1UlDLNnYZHKZJZC5Sb4GiX) | [Glitterjurk + Glitterjurk Live](https://open.spotify.com/album/1EaA0Ax8AcoxFwBTPIkDDP) | 3:32 |
+| 37 | [Kijk Me Na](https://open.spotify.com/track/7egSu6lfBYVfz8NhCF7xqX) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | ['t Heerst](https://open.spotify.com/album/2DWidcIfxmV4ZOJCVwOYjM) | 3:22 |
 | 38 | [Recht Uit M'n Hart](https://open.spotify.com/track/39FUZ3kYulvfDQoIkuv3oU) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Recht Uit M'n Hart \(Ballades\)](https://open.spotify.com/album/2pDXvtmJLTmM6dW0fuaPHH) | 3:26 |
-| 39 | [Kijk Me Na](https://open.spotify.com/track/7egSu6lfBYVfz8NhCF7xqX) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2), [Paul de Munnik](https://open.spotify.com/artist/1HFg9B0Jvwqzqiuqg9cASk) | ['t Heerst](https://open.spotify.com/album/2DWidcIfxmV4ZOJCVwOYjM) | 3:22 |
+| 39 | [Wit Licht](https://open.spotify.com/track/3x5ygBPL7i81nixEiGzxAW) | [Jeroen van Koningsbrugge](https://open.spotify.com/artist/1UlDLNnYZHKZJZC5Sb4GiX) | [Glitterjurk + Glitterjurk Live](https://open.spotify.com/album/1EaA0Ax8AcoxFwBTPIkDDP) | 3:32 |
 | 40 | [De Bestemming](https://open.spotify.com/track/0T8ofZVbNQ60J9J9aK4ZIW) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [\#1](https://open.spotify.com/album/6P8MGrO5WKfHnrXOw45jfR) | 4:26 |
 | 41 | [Voorbij](https://open.spotify.com/track/5fNrm4tC6DyhfbkzQIDiDd) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Beste Zangers Seizoen 11](https://open.spotify.com/album/4mX49XL3W7DGaF0vykfhui) | 4:01 |
 | 42 | [Ik Was Toch Je Meisje](https://open.spotify.com/track/7Gr210vstN2K0wL0BZlsp0) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Ik Was Toch Je Meisje](https://open.spotify.com/album/6gVjlMBtptGdZJpHfvW5Wz) | 3:23 |

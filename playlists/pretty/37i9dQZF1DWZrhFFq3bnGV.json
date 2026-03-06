@@ -1,13 +1,41 @@
 {
   "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Ardhito Pramono",
-  "num_followers": 114135,
+  "num_followers": 114144,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHLp0ihaSIDBMT8eZdwd29G/9Ril",
+  "snapshot_id": "AAAAAK3x+Kjuqo4WDn4YYvfkafky/zVY",
   "tracks": [
+    {
+      "added_at": "2026-03-05 21:42:51",
+      "album": {
+        "name": "Sleepless Light (Deluxe Version) [Live]",
+        "url": "https://open.spotify.com/album/19FpF3Qo0GRnZ5s18CmssU"
+      },
+      "artists": [
+        {
+          "name": "ABRAM",
+          "url": "https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL"
+        },
+        {
+          "name": "Albert Fakdawer",
+          "url": "https://open.spotify.com/artist/1mEija09kczZccE9j1k7mv"
+        },
+        {
+          "name": "Dimas Pradipta",
+          "url": "https://open.spotify.com/artist/4POCFsbFvimQf4x6keNEXD"
+        },
+        {
+          "name": "Tommy Pratomo",
+          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
+        }
+      ],
+      "duration_ms": 462000,
+      "name": "Sleepless Light (Deluxe Version) - Live",
+      "url": "https://open.spotify.com/track/0JBOJ6hCMnNx33C7b5BF43"
+    },
     {
       "added_at": "2026-02-12 19:00:27",
       "album": {

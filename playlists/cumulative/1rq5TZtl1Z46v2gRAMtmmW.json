@@ -4209,6 +4209,24 @@
     },
     {
       "album": {
+        "name": "Home Ground",
+        "url": "https://open.spotify.com/album/5jq1y0ryj6SZcEnGYlhSXS"
+      },
+      "artists": [
+        {
+          "name": "Ebbb",
+          "url": "https://open.spotify.com/artist/2LikjKVyI5gqANlB9S7DNW"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190267,
+      "name": "Home Ground",
+      "url": "https://open.spotify.com/track/5Nf5Cce8DePSYvu2IuEvcg"
+    },
+    {
+      "album": {
         "name": "Hopecore",
         "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
       },

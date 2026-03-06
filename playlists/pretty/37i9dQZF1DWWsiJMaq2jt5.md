@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:7FPvltQvvREl3A8RnZ6Fyo">INA WEST</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,668 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,703 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Słońce](https://open.spotify.com/track/2IbYU0sLILtV66KHFQC9Ya) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo), [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg) | [Słońce](https://open.spotify.com/album/6yjBoCMfGY6jkSM3I1dmJ3) | 4:40 |
+| 1 | [Miała Tosia Duży Brzuch](https://open.spotify.com/track/0INUk3c4yesv1gxCqKmEru) | [INA WEST](https://open.spotify.com/artist/7FPvltQvvREl3A8RnZ6Fyo) | [Raj](https://open.spotify.com/album/1FZ1OCXKmVz0Gh181um9Ue) | 2:53 |
 | 2 | [Pamiętnik](https://open.spotify.com/track/6gKig3A8E0xpGDQNY858On) | [Doda](https://open.spotify.com/artist/3Gln8Jmda3Nb94qAMPyn4A) | [Pamiętnik](https://open.spotify.com/album/5cxQxKUtuwTEiX2ehsNPzY) | 3:11 |
 | 3 | [Miłość itd.](https://open.spotify.com/track/7BfQIV2V28FVblkqVegwnj) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Miłość itd.](https://open.spotify.com/album/4LNqtIipHftDkT0ZnFUK58) | 4:14 |
 | 4 | [jet lag](https://open.spotify.com/track/3sed9wzJ2oYb7dr9lWtgVH) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [jet lag](https://open.spotify.com/album/0T5gxTSQ6mwKCAY19q4Z8p) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 49 | [Ziemia](https://open.spotify.com/track/61tVwoWINpqA8ZXXJu9h36) | [Zazula](https://open.spotify.com/artist/25Pf32DS91Er2yv9bWL96U), [Marta Zalewska](https://open.spotify.com/artist/3EEWtBUzHJePfpex8kQYHY) | [Ziemia](https://open.spotify.com/album/22eHdO215EtNTD6uYFeWKY) | 4:19 |
 | 50 | [Seven Hundred Gates](https://open.spotify.com/track/2I9MfyBcy0XBC1JvMgFlUc) | [Ania Szarmach](https://open.spotify.com/artist/1LuaIftFN5BzXzUSKewJTL) | [Seven Hundred Gates](https://open.spotify.com/album/5duQkGqI6y5uTlKSnGN6mn) | 3:29 |
 
-Snapshot ID: `AAAAAAi3uzcwv8KnHwv8l4OXukp+kFLq`
+Snapshot ID: `AAAAAOtcDRRbZ7Lzm9VgPuebvBrTL5G9`

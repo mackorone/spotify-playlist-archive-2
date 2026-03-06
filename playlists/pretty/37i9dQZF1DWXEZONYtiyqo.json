@@ -1,31 +1,35 @@
 {
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Raluka",
-  "num_followers": 64313,
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Alina Eremia, Andrei Banuta",
+  "num_followers": 64321,
   "original_name": "Hiturile de azi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKBiGdMj5ZdFBPPrRy7UBxbB3Agt",
+  "snapshot_id": "AAAAAAOS676HiIERVwZgor8uHNLwkre1",
   "tracks": [
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Queen In Puerto Rico",
-        "url": "https://open.spotify.com/album/3L51eH9QyAkoz9rymbx9EW"
+        "name": "Iubirea \u00eentr-un om",
+        "url": "https://open.spotify.com/album/2bTOX3SjgOTGeszeL1lUK6"
       },
       "artists": [
         {
-          "name": "Raluka",
-          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
         }
       ],
-      "duration_ms": 163226,
-      "name": "Queen In Puerto Rico",
-      "url": "https://open.spotify.com/track/1L0V8F1KdnRiI5iNsrXKyb"
+      "duration_ms": 170000,
+      "name": "Iubirea \u00eentr-un om",
+      "url": "https://open.spotify.com/track/4mZIx5bfX3sA6r966gmxy8"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Ce te-ai face tu",
         "url": "https://open.spotify.com/album/1NjxgCuRuQA6AyAUnbhd5e"
@@ -41,7 +45,23 @@
       "url": "https://open.spotify.com/track/3FTZ7nLnTo3Zw30slwyNn3"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Rai pe P\u0103m\u00e2nt",
+        "url": "https://open.spotify.com/album/0Lu94fr5u1EVUMkHFfgmB4"
+      },
+      "artists": [
+        {
+          "name": "Theo Rose",
+          "url": "https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu"
+        }
+      ],
+      "duration_ms": 215735,
+      "name": "Rai pe P\u0103m\u00e2nt",
+      "url": "https://open.spotify.com/track/5Qhn3eTnypeKtXehB8bY0I"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Medicamentul",
         "url": "https://open.spotify.com/album/6E44cBbxqQQoDj0QIgLfL2"
@@ -57,7 +77,23 @@
       "url": "https://open.spotify.com/track/1SSZMcLMahN5RY5tCOhcui"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Arta ta",
+        "url": "https://open.spotify.com/album/4O5CwoNJ1rxS0XRV1Xf4vT"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 139416,
+      "name": "Gura Lumii",
+      "url": "https://open.spotify.com/track/0sxwD8XjQ9XisBvMKyCykm"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Petale",
         "url": "https://open.spotify.com/album/0Qpa0nKpjbdmUBg9SpTSkp"
@@ -77,7 +113,23 @@
       "url": "https://open.spotify.com/track/0WnT7l51AvRZZ8xAPV7DDZ"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Jurnal",
+        "url": "https://open.spotify.com/album/3unPXEIMbJjpMx6Eb9rxJb"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 161740,
+      "name": "Cetera",
+      "url": "https://open.spotify.com/track/5MVwdhr04bLrZuBz9TCN1N"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Noaptea",
         "url": "https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n"
@@ -93,27 +145,27 @@
       "url": "https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Anii",
-        "url": "https://open.spotify.com/album/3TlwLycplANdS5Hl2GM5sj"
+        "name": "\u00ce\u021bi Mul\u021bumesc Pentru C\u0103 E\u0219ti",
+        "url": "https://open.spotify.com/album/4j9gKKFK27p14mrOXrmJDk"
       },
       "artists": [
         {
-          "name": "Cleopatra Stratan",
-          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq"
         },
         {
-          "name": "Pavel Stratan",
-          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
+          "name": "Adela Popescu",
+          "url": "https://open.spotify.com/artist/4WwEX3orWGm7Fu0GyHTZBP"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Anii",
-      "url": "https://open.spotify.com/track/4ZsNx4ufHA2heZ3MZm6iWE"
+      "duration_ms": 173493,
+      "name": "\u00ce\u021bi Mul\u021bumesc Pentru C\u0103 E\u0219ti",
+      "url": "https://open.spotify.com/track/5SYk1XmIhT7LcmIupHzasL"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Dou\u0103 Linii",
         "url": "https://open.spotify.com/album/0yhkyN8ZYcRZyrR2PsY26V"
@@ -129,7 +181,59 @@
       "url": "https://open.spotify.com/track/1k9WpbxMT4pdPk2GVnzDgW"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Queen In Puerto Rico",
+        "url": "https://open.spotify.com/album/3L51eH9QyAkoz9rymbx9EW"
+      },
+      "artists": [
+        {
+          "name": "Raluka",
+          "url": "https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Queen In Puerto Rico",
+      "url": "https://open.spotify.com/track/1L0V8F1KdnRiI5iNsrXKyb"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "In felul meu",
+        "url": "https://open.spotify.com/album/6tHhdyxYwywydA7joRqKSI"
+      },
+      "artists": [
+        {
+          "name": "Mihail",
+          "url": "https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "In felul meu",
+      "url": "https://open.spotify.com/track/3MYQkomhXKVuK57InAhy73"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Mintea Mea",
+        "url": "https://open.spotify.com/album/7t2Yr9iJCea9Qo7PW8z1On"
+      },
+      "artists": [
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Mintea Mea",
+      "url": "https://open.spotify.com/track/0COYO76iJYm8yTch9UeAsq"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Anii \u00cen Care Nu Dormim",
         "url": "https://open.spotify.com/album/42G7m3RHPBDDLGuDIkM7jh"
@@ -153,7 +257,7 @@
       "url": "https://open.spotify.com/track/7KabacMSDqjfZWiFtM4IhM"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Tu Stii",
         "url": "https://open.spotify.com/album/3RCEENMBzCbpb3wuUZs6cH"
@@ -169,59 +273,23 @@
       "url": "https://open.spotify.com/track/1orCK0XoIBpqlpBVVFO3HV"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "all the way",
-        "url": "https://open.spotify.com/album/1LzaRNXH1e8LK98ilMld0F"
+        "name": "Amprente",
+        "url": "https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv"
       },
       "artists": [
         {
-          "name": "wrs",
-          "url": "https://open.spotify.com/artist/3BxugixjJddFmE9fSdylu7"
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
         }
       ],
-      "duration_ms": 174545,
-      "name": "all the way",
-      "url": "https://open.spotify.com/track/3hBrGbIuoYWirlVlOt2613"
+      "duration_ms": 183174,
+      "name": "Amprente",
+      "url": "https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "In felul meu",
-        "url": "https://open.spotify.com/album/6tHhdyxYwywydA7joRqKSI"
-      },
-      "artists": [
-        {
-          "name": "Mihail",
-          "url": "https://open.spotify.com/artist/6l5kIaZ51iCClkxrgr904F"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "In felul meu",
-      "url": "https://open.spotify.com/track/3MYQkomhXKVuK57InAhy73"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "\u00ce\u021bi Mul\u021bumesc Pentru C\u0103 E\u0219ti",
-        "url": "https://open.spotify.com/album/4j9gKKFK27p14mrOXrmJDk"
-      },
-      "artists": [
-        {
-          "name": "Elena",
-          "url": "https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq"
-        },
-        {
-          "name": "Adela Popescu",
-          "url": "https://open.spotify.com/artist/4WwEX3orWGm7Fu0GyHTZBP"
-        }
-      ],
-      "duration_ms": 173493,
-      "name": "\u00ce\u021bi Mul\u021bumesc Pentru C\u0103 E\u0219ti",
-      "url": "https://open.spotify.com/track/5SYk1XmIhT7LcmIupHzasL"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "C\u00e2te pietre ai aruncat",
         "url": "https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc"
@@ -241,87 +309,7 @@
       "url": "https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "CROCO",
-        "url": "https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "CROCO",
-      "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Choke Me",
-        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
-      },
-      "artists": [
-        {
-          "name": "Alexandra C\u0103pit\u0103nescu",
-          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
-        }
-      ],
-      "duration_ms": 178948,
-      "name": "Choke Me",
-      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Seara Noastr\u0103",
-        "url": "https://open.spotify.com/album/27YVdiGBPp4eD96KbslCqk"
-      },
-      "artists": [
-        {
-          "name": "Emilian",
-          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
-        }
-      ],
-      "duration_ms": 158756,
-      "name": "Seara Noastr\u0103",
-      "url": "https://open.spotify.com/track/00k4y4u4v7NJds7QaRUdSU"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Aleg S\u0103 Z\u00e2mbesc",
-        "url": "https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7"
-      },
-      "artists": [
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        }
-      ],
-      "duration_ms": 153401,
-      "name": "Aleg S\u0103 Z\u00e2mbesc",
-      "url": "https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Dulce p\u0103cat",
-        "url": "https://open.spotify.com/album/5qkjJZNfW75tYKa8ihMxcr"
-      },
-      "artists": [
-        {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
-        }
-      ],
-      "duration_ms": 139697,
-      "name": "Dulce p\u0103cat",
-      "url": "https://open.spotify.com/track/1CStPUONkVJWt7htpf9RD7"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "7 zile",
         "url": "https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE"
@@ -341,7 +329,7 @@
       "url": "https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Nu te mai sun",
         "url": "https://open.spotify.com/album/0HRx3orLtS2xWxGIRp1oB6"
@@ -361,7 +349,7 @@
       "url": "https://open.spotify.com/track/7KNzlejrzayOsTzGuSy8l0"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Dans\u0103m",
         "url": "https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX"
@@ -377,7 +365,23 @@
       "url": "https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Aleg S\u0103 Z\u00e2mbesc",
+        "url": "https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "duration_ms": 153401,
+      "name": "Aleg S\u0103 Z\u00e2mbesc",
+      "url": "https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Hau",
         "url": "https://open.spotify.com/album/2THUfeaFPYPTO6Nik38OEj"
@@ -401,71 +405,155 @@
       "url": "https://open.spotify.com/track/0w6AqOWSM7yhaILAb32mPX"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Fatata",
-        "url": "https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai"
+        "name": "Inim\u0103 de piatr\u0103",
+        "url": "https://open.spotify.com/album/3BNPTxAB1lBd8WfxQlnCex"
       },
       "artists": [
+        {
+          "name": "Gabi Bagu",
+          "url": "https://open.spotify.com/artist/23RBj7SEhcaxjkclwB4hCC"
+        },
         {
           "name": "JO",
           "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
         }
       ],
-      "duration_ms": 180855,
-      "name": "C\u00e2nd vine dragostea",
-      "url": "https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5"
+      "duration_ms": 157241,
+      "name": "Inim\u0103 de piatr\u0103",
+      "url": "https://open.spotify.com/track/2BDVkz07yRGOpMbngQXtGj"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Non-Stop",
-        "url": "https://open.spotify.com/album/3tuflZ0y4mCCa2Y05r0gQF"
+        "name": "Pic\u0103tura De Cerneal\u0103",
+        "url": "https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI"
       },
       "artists": [
         {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+          "name": "Iuliana Beregoi",
+          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
+        },
+        {
+          "name": "Cristian Porcari",
+          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
         }
       ],
-      "duration_ms": 174260,
-      "name": "Non-Stop",
-      "url": "https://open.spotify.com/track/7yiVxTY7MFwLtmyTclFwEi"
+      "duration_ms": 169714,
+      "name": "Pic\u0103tura De Cerneal\u0103",
+      "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Ce ochi alba\u0219tri ai",
-        "url": "https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh"
+        "name": "Anii",
+        "url": "https://open.spotify.com/album/3TlwLycplANdS5Hl2GM5sj"
       },
       "artists": [
         {
-          "name": "Adi Istrate",
-          "url": "https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m"
+          "name": "Cleopatra Stratan",
+          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
+        },
+        {
+          "name": "Pavel Stratan",
+          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
         }
       ],
-      "duration_ms": 160888,
-      "name": "Ce ochi alba\u0219tri ai",
-      "url": "https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe"
+      "duration_ms": 141473,
+      "name": "Anii",
+      "url": "https://open.spotify.com/track/4ZsNx4ufHA2heZ3MZm6iWE"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "M\u00e2inile",
-        "url": "https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl"
+        "name": "all the way",
+        "url": "https://open.spotify.com/album/1LzaRNXH1e8LK98ilMld0F"
       },
       "artists": [
         {
-          "name": "Feli",
-          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+          "name": "wrs",
+          "url": "https://open.spotify.com/artist/3BxugixjJddFmE9fSdylu7"
         }
       ],
-      "duration_ms": 198073,
-      "name": "M\u00e2inile",
-      "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
+      "duration_ms": 174545,
+      "name": "all the way",
+      "url": "https://open.spotify.com/track/3hBrGbIuoYWirlVlOt2613"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Schimb de inimi",
+        "url": "https://open.spotify.com/album/4rxJvD147xwhclydwZlRdf"
+      },
+      "artists": [
+        {
+          "name": "POLLY",
+          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
+        },
+        {
+          "name": "Edward Sanda",
+          "url": "https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V"
+        }
+      ],
+      "duration_ms": 151200,
+      "name": "Schimb de inimi",
+      "url": "https://open.spotify.com/track/4t41jYRQbsAIBdVttN57mj"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Choke Me",
+        "url": "https://open.spotify.com/album/1yzM3NW5HL2wlQPW2yvoxW"
+      },
+      "artists": [
+        {
+          "name": "Alexandra C\u0103pit\u0103nescu",
+          "url": "https://open.spotify.com/artist/6C2GlsTc6EVC7uKar8F1G0"
+        }
+      ],
+      "duration_ms": 178948,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Seara Noastr\u0103",
+        "url": "https://open.spotify.com/album/27YVdiGBPp4eD96KbslCqk"
+      },
+      "artists": [
+        {
+          "name": "Emilian",
+          "url": "https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd"
+        }
+      ],
+      "duration_ms": 158756,
+      "name": "Seara Noastr\u0103",
+      "url": "https://open.spotify.com/track/00k4y4u4v7NJds7QaRUdSU"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "BACCARAT",
+        "url": "https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 161684,
+      "name": "BACCARAT",
+      "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Suflet digital",
         "url": "https://open.spotify.com/album/1xmvuCDEQHTQdnZZUIeA8F"
@@ -485,7 +573,23 @@
       "url": "https://open.spotify.com/track/7aLUBCcJmY8cP2xCTNheiY"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Dorul T\u0103u",
+        "url": "https://open.spotify.com/album/6C7mcbyGwGq4z98bcJrpDQ"
+      },
+      "artists": [
+        {
+          "name": "MIRA",
+          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "Dorul T\u0103u",
+      "url": "https://open.spotify.com/track/1Bd1WLbZlCFA5z7hKMyE0v"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Eu Beu / 3 Pahare",
         "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
@@ -509,47 +613,119 @@
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "Schimb de inimi",
-        "url": "https://open.spotify.com/album/4rxJvD147xwhclydwZlRdf"
+        "name": "Fatata",
+        "url": "https://open.spotify.com/album/0fZAUWaoMXuU2LrYcuhAai"
       },
       "artists": [
         {
-          "name": "POLLY",
-          "url": "https://open.spotify.com/artist/5kX69Jx93xDc0lRKWmxnlo"
-        },
-        {
-          "name": "Edward Sanda",
-          "url": "https://open.spotify.com/artist/2D8tuLHq2d4mctp2WTk62V"
+          "name": "JO",
+          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
         }
       ],
-      "duration_ms": 151200,
-      "name": "Schimb de inimi",
-      "url": "https://open.spotify.com/track/4t41jYRQbsAIBdVttN57mj"
+      "duration_ms": 180855,
+      "name": "C\u00e2nd vine dragostea",
+      "url": "https://open.spotify.com/track/3ls661sTdqUSZW0mxPejA5"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
-        "name": "BACCARAT",
-        "url": "https://open.spotify.com/album/2b0dgpmvwk93LZiJE3SMO2"
+        "name": "Dac\u0103 mai vrei",
+        "url": "https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
         }
       ],
-      "duration_ms": 161684,
-      "name": "BACCARAT",
-      "url": "https://open.spotify.com/track/68obAyvZSu6s9EzwpyaEkz"
+      "duration_ms": 170602,
+      "name": "Dac\u0103 mai vrei",
+      "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "M\u00e2inile",
+        "url": "https://open.spotify.com/album/2DF4lqHTnPUQl2C0bEQXnl"
+      },
+      "artists": [
+        {
+          "name": "Feli",
+          "url": "https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "M\u00e2inile",
+      "url": "https://open.spotify.com/track/3800i4uUPQ0TousOW9Kw9f"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "CROCO",
+        "url": "https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "CROCO",
+      "url": "https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Dulce p\u0103cat",
+        "url": "https://open.spotify.com/album/5qkjJZNfW75tYKa8ihMxcr"
+      },
+      "artists": [
+        {
+          "name": "Mario ",
+          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
+        }
+      ],
+      "duration_ms": 139697,
+      "name": "Dulce p\u0103cat",
+      "url": "https://open.spotify.com/track/1CStPUONkVJWt7htpf9RD7"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Non-Stop",
+        "url": "https://open.spotify.com/album/3tuflZ0y4mCCa2Y05r0gQF"
+      },
+      "artists": [
+        {
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        }
+      ],
+      "duration_ms": 174260,
+      "name": "Non-Stop",
+      "url": "https://open.spotify.com/track/7yiVxTY7MFwLtmyTclFwEi"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Ce ochi alba\u0219tri ai",
+        "url": "https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh"
+      },
+      "artists": [
+        {
+          "name": "Adi Istrate",
+          "url": "https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m"
+        }
+      ],
+      "duration_ms": 160888,
+      "name": "Ce ochi alba\u0219tri ai",
+      "url": "https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Dou\u0103 Vorbe-n Plus",
         "url": "https://open.spotify.com/album/19goz9GeX9oAW8IvsMDJZs"
@@ -573,7 +749,7 @@
       "url": "https://open.spotify.com/track/0ZuLb1svYPvwbDDcJLEfYn"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "\u021aine-m\u0103 minte",
         "url": "https://open.spotify.com/album/4bXrui7ml80zEK2LJ9oZrT"
@@ -589,111 +765,7 @@
       "url": "https://open.spotify.com/track/7H0Wnvl098xdUJVoSTTS20"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "V\u00e2ntul",
-        "url": "https://open.spotify.com/album/0QDUI9VKijTQw8ltXjfsLq"
-      },
-      "artists": [
-        {
-          "name": "The Urs",
-          "url": "https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY"
-        }
-      ],
-      "duration_ms": 195312,
-      "name": "V\u00e2ntul",
-      "url": "https://open.spotify.com/track/4UUDnPKoeXrXQq4MMuD7WC"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Dorul T\u0103u",
-        "url": "https://open.spotify.com/album/6C7mcbyGwGq4z98bcJrpDQ"
-      },
-      "artists": [
-        {
-          "name": "MIRA",
-          "url": "https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59"
-        }
-      ],
-      "duration_ms": 175813,
-      "name": "Dorul T\u0103u",
-      "url": "https://open.spotify.com/track/1Bd1WLbZlCFA5z7hKMyE0v"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Cancan & Business",
-        "url": "https://open.spotify.com/album/2nlv6l9LebkZCw0uGlWdEY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Addams",
-          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
-        }
-      ],
-      "duration_ms": 146470,
-      "name": "Cancan & Business",
-      "url": "https://open.spotify.com/track/7k8MaJlKKJbWfb6x1nwtkv"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Ai grij\u0103 de via\u021ba ta",
-        "url": "https://open.spotify.com/album/2206Aq1V7kmlZE1kQOukDB"
-      },
-      "artists": [
-        {
-          "name": "Mario ",
-          "url": "https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Ai grij\u0103 de via\u021ba ta",
-      "url": "https://open.spotify.com/track/75SRsA13cOVxq3i7CdwscT"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Inim\u0103 de piatr\u0103",
-        "url": "https://open.spotify.com/album/3BNPTxAB1lBd8WfxQlnCex"
-      },
-      "artists": [
-        {
-          "name": "Gabi Bagu",
-          "url": "https://open.spotify.com/artist/23RBj7SEhcaxjkclwB4hCC"
-        },
-        {
-          "name": "JO",
-          "url": "https://open.spotify.com/artist/3ArPP8R2oGr81W8i4XBPpP"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "Inim\u0103 de piatr\u0103",
-      "url": "https://open.spotify.com/track/2BDVkz07yRGOpMbngQXtGj"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Ti-amintesc de Cineva",
-        "url": "https://open.spotify.com/album/68ZFu2NbB7aO1dQTdBSGmy"
-      },
-      "artists": [
-        {
-          "name": "Klaudia",
-          "url": "https://open.spotify.com/artist/5wcAymSIbNcOaEBgxDZnxq"
-        },
-        {
-          "name": "Puya",
-          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Ti-amintesc de Cineva",
-      "url": "https://open.spotify.com/track/0lHWFezHugWATHEX0B5VRQ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "13:13",
         "url": "https://open.spotify.com/album/2BgUNZe80Vz5T9pTYmIFjK"
@@ -713,59 +785,7 @@
       "url": "https://open.spotify.com/track/1uWDmBW5ql1RYq5OB0An5N"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "ANTIVALENTINE",
-        "url": "https://open.spotify.com/album/6UStoCLL91uxwVQSBcGcBn"
-      },
-      "artists": [
-        {
-          "name": "Loredana",
-          "url": "https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa"
-        }
-      ],
-      "duration_ms": 212195,
-      "name": "ANTIVALENTINE",
-      "url": "https://open.spotify.com/track/48j5LIuuNLAsG2v8FzqPiZ"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Dac\u0103 mai vrei",
-        "url": "https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf"
-      },
-      "artists": [
-        {
-          "name": "Alina Eremia",
-          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
-        }
-      ],
-      "duration_ms": 170602,
-      "name": "Dac\u0103 mai vrei",
-      "url": "https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Hotel",
-        "url": "https://open.spotify.com/album/7viStbwKpFlCREpVYhxuko"
-      },
-      "artists": [
-        {
-          "name": "Juno",
-          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
-        },
-        {
-          "name": "Yuka",
-          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Hotel",
-      "url": "https://open.spotify.com/track/5gXQ82dVqEvhthOztYt9wd"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "La Fel",
         "url": "https://open.spotify.com/album/5k3YFxmnHmxXxkxO3THhuA"
@@ -785,27 +805,7 @@
       "url": "https://open.spotify.com/track/52nlTHXA3CF9cuY6pUlp3E"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Pe p\u0103m\u00e2nt",
-        "url": "https://open.spotify.com/album/1tFybnLIxi3vByK36lpLX9"
-      },
-      "artists": [
-        {
-          "name": "DJ Project",
-          "url": "https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ"
-        },
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Pe p\u0103m\u00e2nt",
-      "url": "https://open.spotify.com/track/3AkZgnB0MbEU2AR2clX4Na"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/6P21kzrMNOGSULxDw47nXD"
@@ -825,27 +825,7 @@
       "url": "https://open.spotify.com/track/7C8OBP3RyIy9458F2T0FFe"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
-      "album": {
-        "name": "Pic\u0103tura De Cerneal\u0103",
-        "url": "https://open.spotify.com/album/1dJdy2U2isiT2Wew6xfTRI"
-      },
-      "artists": [
-        {
-          "name": "Iuliana Beregoi",
-          "url": "https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym"
-        },
-        {
-          "name": "Cristian Porcari",
-          "url": "https://open.spotify.com/artist/2CYdLJs282GH7B65QAZEA7"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Pic\u0103tura De Cerneal\u0103",
-      "url": "https://open.spotify.com/track/7GjPNNYceZpREp4ivK8YEG"
-    },
-    {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Noapte Alb\u0103",
         "url": "https://open.spotify.com/album/5m3hNLrGKtk9hLO06yAQnY"
@@ -861,7 +841,7 @@
       "url": "https://open.spotify.com/track/4Gx9U0S9IDNFgzMrjv6k4n"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "6 Sim\u021buri",
         "url": "https://open.spotify.com/album/4DQqn3Pl8tKNiuDv8kbfB6"
@@ -877,7 +857,7 @@
       "url": "https://open.spotify.com/track/1buiIaSSMetSAW3guTSRFO"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Zile de uitat",
         "url": "https://open.spotify.com/album/609wk3WAHW5aljliFAyDfY"
@@ -893,7 +873,27 @@
       "url": "https://open.spotify.com/track/57VJ1QBBboaKDz6tlOGB2D"
     },
     {
-      "added_at": "2026-02-26 22:00:21",
+      "added_at": "2026-03-05 22:00:15",
+      "album": {
+        "name": "Hotel",
+        "url": "https://open.spotify.com/album/7viStbwKpFlCREpVYhxuko"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb"
+        },
+        {
+          "name": "Yuka",
+          "url": "https://open.spotify.com/artist/7gbyIZTuQcuqIrDVAzBOb2"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "Hotel",
+      "url": "https://open.spotify.com/track/5gXQ82dVqEvhthOztYt9wd"
+    },
+    {
+      "added_at": "2026-03-05 22:00:15",
       "album": {
         "name": "Red Flag",
         "url": "https://open.spotify.com/album/06Vq3jgojYIxrG8pfuZgqb"

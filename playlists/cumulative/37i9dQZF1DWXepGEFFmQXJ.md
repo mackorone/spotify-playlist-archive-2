@@ -2,9 +2,9 @@
 
 ### [Fresh Country](https://open.spotify.com/playlist/37i9dQZF1DWXepGEFFmQXJ)
 
-> The cream of today's country crop\. Cover: Max McNown
+> The cream of today's country crop\. Cover: Mack Geiger
 
-1,125 songs - 2 day 13 hr 39 min
+1,127 songs - 2 day 13 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Born Again](https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Born Again](https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh) | 3:31 | 2026-01-15 |  |
 | [Born To Be Country](https://open.spotify.com/track/6uZchRDY8ZnURdWgyeOBva) | [Amy Sheppard](https://open.spotify.com/artist/3nF6cVGjzDA9S5rDyZLffl) | [Born To Be Country](https://open.spotify.com/album/2EGzHHxPaBBE3u71Ag61ze) | 3:40 | 2025-10-23 | 2026-02-06 |
 | [Born To Be Yours](https://open.spotify.com/track/1Bdo8ojZ6wO1UYZxZ6Ii60) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Born To Be Yours](https://open.spotify.com/album/1st86zpqY8SU5GYRHFDqrH) | 3:26 | 2026-02-26 |  |
+| [Borrowed Time](https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Borrowed Time](https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P) | 3:49 | 2026-03-05 |  |
 | [Both](https://open.spotify.com/track/1qXQM8fJLLcb1Eyus7L4Iu) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Both](https://open.spotify.com/album/7yVvcpH3mUxdGuXuZ629Bj) | 2:59 | 2022-08-05 | 2022-12-16 |
 | [Both Sides of the Blade](https://open.spotify.com/track/6t8BeTBukA9PTpiqnNNzBK) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Both Sides of the Blade \(EP\)](https://open.spotify.com/album/7rAJTZnndyoFjnXoiYfOIw) | 3:29 | 2025-11-13 | 2026-01-23 |
 | [Bottom Of It](https://open.spotify.com/track/6q4TIe9sV117tVe9yIhMIK) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Bottom Of It](https://open.spotify.com/album/2EyPgamG50VNLOgAot4T95) | 2:54 | 2025-05-29 | 2025-08-15 |
@@ -331,7 +332,7 @@
 | [Fill It Up](https://open.spotify.com/track/6DeeYasethff4ETRNaHaZh) | [Amber Lawrence](https://open.spotify.com/artist/3RyYW4bMFeTeQ2jjLZu4xg) | [Fill It Up](https://open.spotify.com/album/5hWTohQn87entUhY9XVYfC) | 2:55 | 2022-03-31 | 2022-04-22 |
 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 | 2024-10-03 | 2025-01-24 |
 | [Finer Things \(Feat\. Hank Williams Jr.\)](https://open.spotify.com/track/30hbE8nm0VBt1W5F0U1Dr1) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:05 | 2024-08-15 | 2025-01-10 |
-| [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 | 2025-11-20 |  |
+| [Fire On The Hillside](https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Fire On The Hillside](https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv) | 3:24 | 2025-11-20 | 2026-03-06 |
 | [Fire Up The Night \(feat\. HARDY\)](https://open.spotify.com/track/5dHF4UXvJ70xefCqD2Wj9N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Body Language \(Deluxe\)](https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ) | 3:12 | 2021-12-30 | 2022-09-16 |
 | [Firecracker](https://open.spotify.com/track/2XwMUGqZqbMJnNGpFeTN9m) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Firecracker](https://open.spotify.com/album/0NqZfZjRUO5PxhVQ0nraqW) | 3:40 | 2024-09-26 | 2024-12-06 |
 | [Fix What You Didn't Break](https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Fix What You Didn't Break](https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr) | 3:21 | 2024-08-22 | 2025-01-17 |
@@ -574,6 +575,7 @@
 | [Let's Get Lost](https://open.spotify.com/track/0JT5EMlK5LsbqzgLo8zSfM) | [Lane Pittman](https://open.spotify.com/artist/4amB7X5ESMq5PB1ve3HmYZ) | [Lane Pittman](https://open.spotify.com/album/2v7F41pwlVNYT1FI4u5q7z) | 2:29 | 2024-03-07 | 2024-10-18 |
 | [Let's Ride](https://open.spotify.com/track/0Z55gEv8DwlJ8BmPAEpD0k) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Let's Ride](https://open.spotify.com/album/71M1zZ7yTRSrcuyM6SkW2k) | 4:16 | 2024-02-01 | 2024-04-05 |
 | [Let’s Go Fishing](https://open.spotify.com/track/6ns6oRR7rI20Y5P5BQAqdK) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Let’s Go Fishing](https://open.spotify.com/album/79vC94qpK1F4x3c8Q7SOZP) | 3:19 | 2024-01-12 | 2024-01-20 |
+| [Levee](https://open.spotify.com/track/0oLyWbuXqkSM8mBeWs5YSj) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Levee](https://open.spotify.com/album/2oOATNEVZTdIASHKQJDoVh) | 3:15 | 2026-03-05 |  |
 | [Liar](https://open.spotify.com/track/6Gv6oZhbWa1fBGcv5VwW8g) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Liar](https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp) | 3:24 | 2024-08-01 | 2025-01-10 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 | 2024-11-22 |
 | [Life For Me](https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Life For Me](https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf) | 2:53 | 2025-01-23 | 2025-02-21 |
@@ -720,7 +722,7 @@
 | [Old Habits](https://open.spotify.com/track/4uIU4x2TFZCVLM4bFDIyF5) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Out Of The Blue](https://open.spotify.com/album/4zIdNaXDFfhaWyCxNCNyCC) | 3:48 | 2025-06-05 | 2025-09-12 |
 | [Old Road Home](https://open.spotify.com/track/25Wkj6YVw5AoUimus8QFim) | [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM) | [Old Road Home](https://open.spotify.com/album/57DcVHyT2iHJCyPmqOocmy) | 4:39 | 2024-02-29 | 2024-03-29 |
 | [Old Skoolin'](https://open.spotify.com/track/2ucaoYoZxD8wrsAHofdEe1) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Old Skoolin'](https://open.spotify.com/album/4uCXNTXiYLHq5fAptVf08p) | 2:41 | 2023-01-19 | 2023-05-19 |
-| [Old Tricks](https://open.spotify.com/track/4BUsbMXXNuLa9XpxdgxVkP) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:05 | 2025-10-09 |  |
+| [Old Tricks](https://open.spotify.com/track/4BUsbMXXNuLa9XpxdgxVkP) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/5TKgp9lrgBIefaTE27G9w6) | 3:05 | 2025-10-09 | 2026-03-06 |
 | [On A River](https://open.spotify.com/track/55kJuUfBDApairwt8cij12) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [About A Woman \(Deluxe\)](https://open.spotify.com/album/28oNvgWOqKbSJjdtPheiDa) | 3:33 | 2025-09-25 | 2026-02-06 |
 | [On My Own Again](https://open.spotify.com/track/3S75Qwx2CglNQclN4ygDsL) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [On My Own Again](https://open.spotify.com/album/7Dey6LRAnUbORRWyu8D7Va) | 2:58 | 2023-03-16 | 2023-07-08 |
 | [On My Own Again](https://open.spotify.com/track/7I5wXK9J0legvm0z3YUMMS) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Life Upside Down EP](https://open.spotify.com/album/21bX9HbO7Hp29Hb35xuOmr) | 2:58 | 2023-07-06 | 2023-10-06 |

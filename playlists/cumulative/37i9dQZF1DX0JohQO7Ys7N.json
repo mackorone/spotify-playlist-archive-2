@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Hildah Watiri & Kyrop",
+  "description": "Kickback, Relax to some smooth R&B from Nairobi -The city under the Sun. Cover: Karun",
   "name": "NairoBae",
   "tracks": [
     {
@@ -140,7 +140,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 267692,
       "name": "Aki Wewe",
       "url": "https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA"
@@ -778,6 +778,24 @@
       "duration_ms": 228969,
       "name": "Dark brown eyes",
       "url": "https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog"
+    },
+    {
+      "album": {
+        "name": "Genge Soul",
+        "url": "https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad"
+      },
+      "artists": [
+        {
+          "name": "Billy Black",
+          "url": "https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "Dear Irene",
+      "url": "https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y"
     },
     {
       "album": {
@@ -1929,6 +1947,32 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Bigfootinyourface",
+          "url": "https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy"
+        },
+        {
+          "name": "Nana Atta",
+          "url": "https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW"
       },
@@ -2938,7 +2982,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 285405,
       "name": "Love Ballad No.6",
       "url": "https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d"

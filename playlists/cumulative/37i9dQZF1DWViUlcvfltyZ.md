@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Bambole di Pezza in cover
 
-1,861 songs - 4 day 8 hr 13 min
+1,866 songs - 4 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Are You Satisfied?](https://open.spotify.com/track/3CwfsFwhxLUU6iTJt9W6i0) | [European Vampire](https://open.spotify.com/artist/34jhkGXXN6BTviKzLoQXaS) | [EV1](https://open.spotify.com/album/6ayHqeRQYTMbMOX1Z1tOWq) | 3:10 | 2024-11-14 | 2025-02-14 |
 | [Aria](https://open.spotify.com/track/1gyRrBpsWMLmv6603idATr) | [Piqued Jacks](https://open.spotify.com/artist/5eprmPyM92CrWnnE1P840z) | [Aria](https://open.spotify.com/album/0ZKhm2d4EGovc9XMKyeox1) | 2:45 | 2024-01-11 | 2024-02-23 |
 | [ARIA](https://open.spotify.com/track/5ujSko9cYKPjjb3vuU7GFg) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [ARIA](https://open.spotify.com/album/1eoaL6G6sSr4IEybYG7riu) | 2:51 | 2025-04-10 | 2025-06-20 |
+| [Aria e Morfina](https://open.spotify.com/track/5M0CTRmhJhcV7FpCrXFqXB) | [Negative Message](https://open.spotify.com/artist/5IqJuYWytZk2tYQVmte7ML) | [Aria e Morfina](https://open.spotify.com/album/16yLeXbg1yScEFwRpVR4zj) | 3:26 | 2026-03-05 |  |
 | [Ariete](https://open.spotify.com/track/68SJKltlLTfb1FhsQFVYuV) | [zagara](https://open.spotify.com/artist/3oY4IvwGeCs7TujpRnC8Up) | [Espira Furia](https://open.spotify.com/album/2FgdFK83WHciwSgzyEPyDw) | 2:26 | 2025-10-23 | 2025-12-05 |
 | [Arise I](https://open.spotify.com/track/3UmcTDmRpuS2GuMeaFNNHH) | [Al Doum & The Faryds](https://open.spotify.com/artist/3eL7WEdwv8YTlSsg5mqyF5) | [Arise I](https://open.spotify.com/album/4MUmMs8ubQqlUkwuwwRmDV) | 3:16 | 2025-12-04 | 2026-02-20 |
 | [around my neck](https://open.spotify.com/track/42UjxTXLgUAgBTjBoUiBpo) | [Eugenia Post Meridiem](https://open.spotify.com/artist/47wCQih5a5wC9l3LqDRySE) | [around my neck](https://open.spotify.com/album/433w6aPK6Ht3Cif62mo5WJ) | 4:09 | 2022-10-06 | 2022-10-21 |
@@ -681,6 +682,7 @@
 | [Grattacieli](https://open.spotify.com/track/6wgHODpq324HUhYl0BCNN0) | [Voina](https://open.spotify.com/artist/4dju8CNgf5lL7VXgP3EAmo) | [Kintsugi](https://open.spotify.com/album/2u6ZjRuK4C0bI0q7EpTH69) | 3:43 | 2024-02-22 | 2024-05-03 |
 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-09 | 2025-03-12 |
 | [Green Visitors](https://open.spotify.com/track/7lj6v3abp8qOfaW6dq6Et7) | [pearl moth](https://open.spotify.com/artist/36PkhRLgmvQHdxm5wSdYnq) | [Green Visitors](https://open.spotify.com/album/1jrwVp6Bad69deU7M8t3IG) | 2:48 | 2024-03-14 | 2024-05-03 |
+| [Grido](https://open.spotify.com/track/6K2Gf80B5cYCD4BxPlTPPv) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [Grido](https://open.spotify.com/album/6r4uxl9twaf7zwi6oU3i2L) | 2:22 | 2026-03-05 |  |
 | [Grigio marrone](https://open.spotify.com/track/5IiNbZdxDpSy3HCd20rDJg) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Grigio marrone](https://open.spotify.com/album/4wbNgXrLj53mYSfZhxJ6Tb) | 3:10 | 2024-10-10 | 2024-12-24 |
 | [Grunge Morale](https://open.spotify.com/track/4ifzWdf99hgtG6YOPI7jy7) | [La Superluna di Drone Kong](https://open.spotify.com/artist/2yrGOWgivuL3OubJfHj5Xt), [Nikki](https://open.spotify.com/artist/1y9wN6EknDQynEF6123dXJ) | [Superluna Rock Music](https://open.spotify.com/album/6OEAw58eyguAaHQafIE354) | 2:58 | 2022-06-16 | 2022-07-08 |
 | [Guarda questo sasso](https://open.spotify.com/track/76DDq16ZXis1X114sV44qY) | [Cigarilla Disonasty](https://open.spotify.com/artist/3rTEGeGVcOA8fyji7HJTQS) | [Guarda questo sasso](https://open.spotify.com/album/0N2CWz24ocZwSLcitiyRNg) | 3:20 | 2024-05-23 | 2024-06-07 |
@@ -856,6 +858,7 @@
 | [L'attimo che verrà](https://open.spotify.com/track/6GucU5KRxJ28CFjz1sY4AV) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Vitamina Life](https://open.spotify.com/album/0Yskhg705GgFHtz5GGjS5s) | 2:51 | 2024-11-07 | 2025-02-21 |
 | [L'aura](https://open.spotify.com/track/0gfrq347abQM5iVlfHCynt) | [Pellegrino](https://open.spotify.com/artist/7vCQ7NQVgCumcAWj8aaVow), [Zodyaco](https://open.spotify.com/artist/33PuaySauEdkTeCaa3bOB1) | [L'aura](https://open.spotify.com/album/1AjTRRVO8PKWKoc9gMTrcK) | 5:03 | 2024-05-30 | 2024-08-09 |
 | [L'ironia è una cosa seria](https://open.spotify.com/track/0zBHNqSZWmx4LrGThagIWT) | [Schiuma](https://open.spotify.com/artist/3HjRoFEZwL58GYiXQ0KNlD) | [L'ironia è una cosa seria](https://open.spotify.com/album/4u9ISO8YVoVtDbdCwzOdof) | 2:40 | 2024-06-13 | 2024-09-20 |
+| [L'ultima frontiera](https://open.spotify.com/track/0mIsMcauDB00BrK0cRPWJY) | [Il Muro Del Canto](https://open.spotify.com/artist/2kzl0mbOzpulBhj9KE6zMc) | [L'ultima frontiera](https://open.spotify.com/album/226KSLwfkqJjLHUjJbI0nA) | 4:15 | 2026-03-05 |  |
 | [L'ultima volta](https://open.spotify.com/track/0TZXlPjeor9irminLuu9aa) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3qEkjdtno5YZ3hQMFVr2SD) | 3:16 | 2024-03-19 | 2024-04-19 |
 | [L'ultima volta](https://open.spotify.com/track/4ZSKBH9LwSnWJqJea9rXJq) | [Dacota](https://open.spotify.com/artist/0yTK9PkVBhKwdiyuOeSk9l) | [L'ultima volta](https://open.spotify.com/album/3YUkThQhJo5CEp8dupCPue) | 3:16 | 2024-02-15 | 2024-03-21 |
 | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/track/2oyVIu3N49UpXTBHqZ2ddt) | [dellarabbia](https://open.spotify.com/artist/6Ny93gwcAU5e2da6CzrmRp), [DIVI](https://open.spotify.com/artist/74bcvpVRGuSFkKK67skgBL) | [L'ultimo Saluto \(feat\. DIVI\)](https://open.spotify.com/album/7dUA3A2rzNnRBZ5wswcU75) | 3:30 | 2023-05-11 | 2023-06-09 |
@@ -1090,6 +1093,7 @@
 | [My Cigarettes](https://open.spotify.com/track/5kW5FpH2ntjaNtJCRCz0nD) | [Painted Vein](https://open.spotify.com/artist/1Yz4iQXuDT8WRluhIxYHLa) | [Dripping Only Black](https://open.spotify.com/album/0kJckBKLzTDikrSmABHY3N) | 3:20 | 2024-11-14 | 2025-02-21 |
 | [My circle](https://open.spotify.com/track/2Tydf7VLsxxdIyxxr4QFIc) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [My circle](https://open.spotify.com/album/1FcaTgxPh2ikU1IhAFizKE) | 2:40 | 2024-11-28 | 2025-01-24 |
 | [My Old Flame](https://open.spotify.com/track/7y35wGyxOmxqXvUJJn3TKF) | [Persian Pelican](https://open.spotify.com/artist/70dQpFGaNGdeDMfFSn9hOG) | [My Old Flame](https://open.spotify.com/album/08GOUlXVokyOkTDCeqxs8S) | 3:52 | 2023-03-09 | 2023-04-14 |
+| [Mystic Chords of Memory](https://open.spotify.com/track/3vc8CzaeKPdPEvH2fM0sw4) | [Upupayāma](https://open.spotify.com/artist/6XKIrLfoLnp3EXNrp5AcwD) | [Mystic Chords of Memory](https://open.spotify.com/album/2FuyGyjsm3yrkXCtaqmkTb) | 5:05 | 2026-03-05 |  |
 | [Nabucodonosor](https://open.spotify.com/track/5mA4Cos6BfYdAbstzE1Ood) | [I Cani](https://open.spotify.com/artist/1WQY0Xovzegy0pJiOuuyRP), [Baustelle](https://open.spotify.com/artist/02G0wSA5mAINnHX3nTCaHi) | [I CANI BAUSTELLE](https://open.spotify.com/album/44WyneGoslmOdCMz1gavBO) | 4:19 | 2024-02-01 | 2024-06-14 |
 | [Nati Inciampati](https://open.spotify.com/track/0mF3hBVmWoJj0JFpGXfxwh) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Nati Inciampati](https://open.spotify.com/album/723h0rH3uw8CQ8LKj3mPYQ) | 3:45 | 2025-12-04 |  |
 | [Nati stelle](https://open.spotify.com/track/4K3pG3mH2QXSO1MpwwpMtH) | [COMRAD](https://open.spotify.com/artist/3LkgC4i6yy4ictT8kWDfRT) | [Nati stelle](https://open.spotify.com/album/51UZSmFwSNwweOOKdQ0VLf) | 2:07 | 2024-06-27 | 2024-10-11 |
@@ -1200,6 +1204,7 @@
 | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/track/2spDH2rxS8fpw6XYxtCzue) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84), [Brunori Sas](https://open.spotify.com/artist/2p2SZoUTvT4dbL2xXXJXwy) | [Ok boomer \(feat\. Brunori Sas\)](https://open.spotify.com/album/3Sub0hfAL9OSty6082UfUg) | 3:27 | 2022-05-12 | 2022-05-27 |
 | [Okey \(Unsolved\)](https://open.spotify.com/track/2aFLQXjaxK37rG6w4WqM9K) | [PIPYA](https://open.spotify.com/artist/4MopKRVZ6lyknlOml9P0Zz) | [And the Gangband Vol\. I](https://open.spotify.com/album/5d75e3Qi8Nao1CloFB1bgy) | 4:57 | 2024-05-16 | 2024-06-01 |
 | [Oki](https://open.spotify.com/track/0tQyP1NLdenjVtxa2pLGw5) | [CALMI](https://open.spotify.com/artist/1EMmg2PUpITYRwsGvpUWat) | [Una comune esperienza umana](https://open.spotify.com/album/3WGZZVgobE2JFuASTZIZxp) | 2:35 | 2023-06-08 | 2023-07-28 |
+| [Oltre le palpebre](https://open.spotify.com/track/5qKDw2a4TuyfsyrEnUIm48) | [Bono / Burattini](https://open.spotify.com/artist/7ll9lIFnSZ6CGl1MjZ4mrw) | [Ora Sono Un Lago](https://open.spotify.com/album/5yZorRS4UGWbRu2a3Hq6Z0) | 3:37 | 2026-03-05 |  |
 | [Ombrastella](https://open.spotify.com/track/2s3wL6X1Vhrem3xgkJZHb8) | [FoFoForever](https://open.spotify.com/artist/5xR3wo9O0dqoNuinin4an4), [Francesco De Leo](https://open.spotify.com/artist/3PpiZ8N2SEIctxgh7iDuiU) | [Ombrastella](https://open.spotify.com/album/5FQu9txwDquLt5YTZ7FVsE) | 2:39 | 2024-06-27 | 2024-09-20 |
 | [On My Own](https://open.spotify.com/track/2mvmpAHmVLtBdScwZWqAXE) | [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe) | [On My Own](https://open.spotify.com/album/2XDbxB9iIQOwKPcwHcFnMn) | 2:34 | 2024-09-05 | 2024-10-04 |
 | [Oncetime](https://open.spotify.com/track/4bC4hPbLPwbF4d42ff3dfY) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [JAGWARI, Pt\. 1](https://open.spotify.com/album/1tB4n3uO7E98f8U7syRyDq) | 3:08 | 2023-11-09 | 2023-12-15 |

@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 264085,
       "name": "No Me Digas - En Vivo",
       "url": "https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5"
@@ -1596,6 +1596,28 @@
       "duration_ms": 224653,
       "name": "Y Aqu\u00ed Estoy",
       "url": "https://open.spotify.com/track/2fKimbKY2cu68b63kYODbB"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao 2",
+        "url": "https://open.spotify.com/album/26PwKiG8QLNnJBrow5YsmR"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Yo Te Perdono",
+      "url": "https://open.spotify.com/track/2MmEUmmMXH0kyBagMlCRGz"
     },
     {
       "album": {

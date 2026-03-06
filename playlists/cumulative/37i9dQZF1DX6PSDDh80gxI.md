@@ -2,15 +2,16 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Il nostro Fulminacci in cover di Indie Italia 🍌💙
+> Felici e basta di avere Colombre e Maria Antonietta in cover di Indie Italia 🧡🌞
 
-476 songs - 1 day 1 hr 29 min
+478 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [+1](https://open.spotify.com/track/4h8hAunpmncl15Xy6qDPAg) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3) | [Infinito +1](https://open.spotify.com/album/3onjDb4B1yRkQzL7I2GFm8) | 3:05 | 2024-06-27 | 2024-10-18 |
 | [+G](https://open.spotify.com/track/3vJj2OQR5tfipyOboYt2VN) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [+G](https://open.spotify.com/album/3csTJOx4fJDsNjyCyus6q0) | 3:10 | 2025-04-24 | 2025-05-09 |
 | [11 case](https://open.spotify.com/track/13PawRVvAhgkutmTD6gkkR) | [rovere](https://open.spotify.com/artist/5epzSn98pqluCq6hyGu3ux) | [11 case](https://open.spotify.com/album/6mRmzDGzEzqHbbAjtqHHf7) | 2:58 | 2024-10-10 | 2024-12-13 |
+| [2 am \(feat\. Drast\)](https://open.spotify.com/track/6PAQfzssPTEWiQSsWT5WQT) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [la ragazza che suonava il piano](https://open.spotify.com/album/3De0vZ755Y6JdnITvKqcNB) | 2:44 | 2026-03-05 |  |
 | [2024](https://open.spotify.com/track/3AIVfMjPgRh4Ja1hBVWhus) | [Bais](https://open.spotify.com/artist/4hhmN9QgEWfcZyUClXGXdm) | [2024](https://open.spotify.com/album/2SrEFRd50LJ1UQGz6L7Sh5) | 2:31 | 2024-12-05 | 2025-01-10 |
 | [2minuti](https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [RELAX](https://open.spotify.com/album/4fPV5OWBxzBVaYRbXduGtj) | 3:34 | 2024-06-27 |  |
 | [30 anni](https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83) | [GINEVRA](https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U) | [30 anni](https://open.spotify.com/album/1W7OXNrgGHahRIVgfzE1xR) | 3:44 | 2025-01-16 | 2025-01-31 |
@@ -26,6 +27,7 @@
 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 | 2025-01-23 | 2025-03-12 |
 | [Acqua Naturale](https://open.spotify.com/track/0JVhUr00Aj9Ki9TQDJzhsf) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Acqua Naturale](https://open.spotify.com/album/5Pa6ybBScqSvCpUX9gIUTX) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Acqua passata](https://open.spotify.com/track/5BdoBBRMswolsuftniTJY7) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Acqua passata](https://open.spotify.com/album/2R14AMf2ubRN99XASbQgFx) | 2:59 | 2025-05-29 | 2025-09-19 |
+| [ad ogni costo](https://open.spotify.com/track/2Mus1en9s7ppExu1S580wC) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [la ragazza che suonava il piano](https://open.spotify.com/album/3De0vZ755Y6JdnITvKqcNB) | 1:34 | 2026-03-05 |  |
 | [Addiaccio](https://open.spotify.com/track/7uFeGyXsHE5yBmulyXptlh) | [Marco Giudici](https://open.spotify.com/artist/04hb6csoUymn42lRJg8fFy) | [Trovarsi soli all'improvviso](https://open.spotify.com/album/3bwH0VsP6E2geTBAAmE8Eo) | 3:34 | 2025-11-20 | 2025-12-19 |
 | [AIR \(feat\. Venerus & Ele A\)](https://open.spotify.com/track/0vty6zPguCSs4wiWpFYxO4) | [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [DOPAMINA](https://open.spotify.com/album/3y7OMRVgLI9cMJ1C5q82cD) | 3:49 | 2025-09-04 | 2025-09-26 |
 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 | 2025-05-08 | 2025-05-30 |
@@ -203,7 +205,7 @@
 | [L'ultima canzone](https://open.spotify.com/track/51wk2kBRxfiYIskpqYxk0N) | [Eugenio In Via Di Gioia](https://open.spotify.com/artist/1UtaXKnNyKhj0efXu2rD5t) | [L'amore è tutto](https://open.spotify.com/album/12mBclPfH5Ey85eS5oKm2B) | 2:34 | 2025-03-20 | 2025-07-04 |
 | [L'Ultima Canzone](https://open.spotify.com/track/163T8bwTmi8PPKhfGjOBtI) | [SELMI](https://open.spotify.com/artist/52ckPP690n7mGS4jQIDbys), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [L'Ultima Canzone](https://open.spotify.com/album/1F7KSJn8zM1j6A7amJJ0XI) | 2:44 | 2025-07-17 | 2025-09-26 |
 | [l'universo da fermo](https://open.spotify.com/track/5VSG25WEs5n4cukaTJmcPO) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [l'universo da fermo](https://open.spotify.com/album/3Gnt8S8poXw1a8gpiSRPey) | 2:52 | 2025-05-01 | 2025-06-06 |
-| [La Bomba Intelligente](https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [La Bomba Intelligente](https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz) | 3:09 | 2026-01-29 |  |
+| [La Bomba Intelligente](https://open.spotify.com/track/1Flb6xU4U4jEx5W9V6RxGU) | [I PATAGARRI](https://open.spotify.com/artist/26s0whgMUU9b7vvgbJZqic) | [La Bomba Intelligente](https://open.spotify.com/album/7iraf7KLexh1c1cQCGyjnz) | 3:09 | 2026-01-29 | 2026-03-06 |
 | [La Casa dei Miei Nonni](https://open.spotify.com/track/0HXwWTOiAysPFSo6gHbjEs) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [La Casa dei Miei Nonni](https://open.spotify.com/album/6ZntguvNUlVKCzSFMMuYjY) | 3:38 | 2026-01-29 | 2026-02-20 |
 | [La Città Addosso](https://open.spotify.com/track/4etrlKZqFD7gq0TA8rXjwo) | [La rappresentante di lista](https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU) | [La Città Addosso](https://open.spotify.com/album/0l4TDdZGyiKfwJBYIp8ExJ) | 3:26 | 2024-09-26 | 2024-10-25 |
 | [La Distanza \(con Ariete & Lorenzza\)](https://open.spotify.com/track/347ILhysXGJPDiF3JLi93m) | [Golden Years](https://open.spotify.com/artist/4x13f8mnFaaoUdFd5PPSgH), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8), [Lorenzza](https://open.spotify.com/artist/0zyujuBCFt15GQ86pcAGk6) | [FUORI MENÙ](https://open.spotify.com/album/0CVCnkzMA5oMiAiwgaIY5k) | 2:14 | 2025-05-29 | 2026-01-30 |
@@ -254,7 +256,7 @@
 | [Marco](https://open.spotify.com/track/2YywWE5M9C6vn5KmXH8D9u) | [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [Marco](https://open.spotify.com/album/07HKCzahOB4OhaZseqGVSP) | 2:59 | 2025-07-24 | 2025-08-29 |
 | [Marzo Beige](https://open.spotify.com/track/2vOwmqcjNLQefZA1ckRlMy) | [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Marzo Beige](https://open.spotify.com/album/7fF6zXf4c4TXfBceajLRFL) | 3:33 | 2026-01-22 | 2026-02-20 |
 | [Mattone](https://open.spotify.com/track/46yBh1rkQjidNATQ7YeqTa) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Mattone](https://open.spotify.com/album/2g5pToFqMIpwYNyFlOPU6N) | 3:22 | 2025-11-11 |  |
-| [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 | 2026-01-29 |  |
+| [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/track/0I3XSj50a53Jm4bgCLKsan) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Me l'hai detto tu \(feat\. chiamamifaro\)](https://open.spotify.com/album/20zDgmPugLaGTgXCMgU9oM) | 3:15 | 2026-01-29 | 2026-03-06 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 | 2024-10-25 |
 | [Meglio di niente](https://open.spotify.com/track/5At2rYksLx7gFVaOPBBeUL) | [The Zen Circus](https://open.spotify.com/artist/7nrxF1ilcwJNHofGUfsC84) | [Il Male](https://open.spotify.com/album/6MCXTq1gXA0lGYVifAlRCB) | 3:43 | 2025-09-25 | 2025-10-21 |
 | [meMory card](https://open.spotify.com/track/6XVj5u9B2TvuV7snQbAiUG) | [Piccolo](https://open.spotify.com/artist/126Rc3yXjr5qeS76pxzEhO) | [Stellar\-Boy](https://open.spotify.com/album/3RoeJzZHBIiH3ACqhTAXCh) | 3:37 | 2025-12-04 | 2025-12-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdOLsVmI5vh.md) - [plain]
 
 > Listen to the official soundtrack and score of People We Meet on Vacation, now on Netflix\. Plus, author Emily Henry's picks for Poppy and Alex's couple’s road trip playlist
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,025 likes - 35 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,095 likes - 35 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

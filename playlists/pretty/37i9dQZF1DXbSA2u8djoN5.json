@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: M.G.L, Erika Isac",
-  "num_followers": 22757,
+  "num_followers": 22763,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -691,26 +691,6 @@
     {
       "added_at": "2026-02-26 22:00:20",
       "album": {
-        "name": "Copiii Care Am Fost",
-        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
-      },
-      "artists": [
-        {
-          "name": "Calinacho",
-          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
-        },
-        {
-          "name": "Bastien",
-          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Copiii Care Am Fost",
-      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
-    },
-    {
-      "added_at": "2026-02-26 22:00:20",
-      "album": {
         "name": "Eu Beu / 3 Pahare",
         "url": "https://open.spotify.com/album/7iXaY2gQE95YAatM140rLB"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 200100,
       "name": "Eu Beu / 3 Pahare",
       "url": "https://open.spotify.com/track/1b0A2F37I3DEWeL0nlygJP"
+    },
+    {
+      "added_at": "2026-02-26 22:00:20",
+      "album": {
+        "name": "Copiii Care Am Fost",
+        "url": "https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT"
+      },
+      "artists": [
+        {
+          "name": "Calinacho",
+          "url": "https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3"
+        },
+        {
+          "name": "Bastien",
+          "url": "https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Copiii Care Am Fost",
+      "url": "https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz"
     },
     {
       "added_at": "2026-02-26 22:00:20",

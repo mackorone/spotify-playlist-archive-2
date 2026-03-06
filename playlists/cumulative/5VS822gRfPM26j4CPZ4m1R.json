@@ -2641,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "BF 4-EVER",
+        "url": "https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp"
+      },
+      "artists": [
+        {
+          "name": "banzai florist",
+          "url": "https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "dogma95",
+      "url": "https://open.spotify.com/track/3BecayaP1Cz1heTshzBaoX"
+    },
+    {
+      "album": {
         "name": "Reprise Vol. 1",
         "url": "https://open.spotify.com/album/2cQwGuRwSG5XBP9OTXhSYt"
       },
@@ -2916,6 +2934,24 @@
       "duration_ms": 205157,
       "name": "Employment",
       "url": "https://open.spotify.com/track/10xpWRJA7DJ7Tos01xlp00"
+    },
+    {
+      "album": {
+        "name": "BF 4-EVER",
+        "url": "https://open.spotify.com/album/22J9lok2tSIvKdTtjMTxKp"
+      },
+      "artists": [
+        {
+          "name": "banzai florist",
+          "url": "https://open.spotify.com/artist/2sNjoi6DFJeIYe8JFKffu7"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "end times",
+      "url": "https://open.spotify.com/track/6I6bqgyNdrZ21jRGUoN530"
     },
     {
       "album": {

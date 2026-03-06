@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 
 > 超等身大のむきだし青春＆音楽奮闘漫画『ふつうの軽音部』の世界を彩る楽曲をプレイリストで。本編は <a href=https://shonenjumpplus.com/episode/16457717013869519536>ジャンプ＋</a>で毎週日曜更新。 Enjoy Music from "Girl Meets Rock!".<br/>Ⓒクワハリ・出内テツオ／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,643 likes - 45 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,766 likes - 49 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,5 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VlHTIlGw3z.md) - [plain]
 | 43 | [ばらの花](https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [TEAM ROCK](https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB) | 5:01 |
 | 44 | [Let's ダバダバ](https://open.spotify.com/track/1IJ0O0ZYggmHLfK5AU3wLK) | [POLYSICS](https://open.spotify.com/artist/3l4rRK7zL537twQBI967Bq) | [Oh! No! It's Heavy Polysick!!!](https://open.spotify.com/album/1WI2KQ2uAAiaIyOZhJxav1) | 3:19 |
 | 45 | [曇天](https://open.spotify.com/track/1nxHxgGQga4w2WrU1kieOB) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [The World's Edge](https://open.spotify.com/album/5Y82ECIONUEk8HgbebQS7B) | 3:10 |
+| 46 | [デイドリーム](https://open.spotify.com/track/7bULwkgRO7FHaXHHJbvzI8) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 4:28 |
+| 47 | [Oz.](https://open.spotify.com/track/1Aq9S5teUzfZucr7rVRpSj) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 3:15 |
+| 48 | [DEAR MY FRIEND](https://open.spotify.com/track/4gIE68yoKi15VNb63HTrEc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [MAKING THE ROAD](https://open.spotify.com/album/7GNdH1UwNo78P5gtB4ZJvD) | 3:12 |
+| 49 | [swim](https://open.spotify.com/track/4fT8isC75wJe9CCsJdnNdI) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [CAVU](https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8) | 3:27 |
 
-Snapshot ID: `AAAAAG6yU+4PDn9sxzwLDZ3kO9cTPPlu`
+Snapshot ID: `AAAAAATNxaZ9trhvXBwktlyPV+4+jQjD`

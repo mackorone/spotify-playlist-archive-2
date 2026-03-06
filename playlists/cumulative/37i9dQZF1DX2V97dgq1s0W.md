@@ -2,9 +2,9 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The voices shaping R&B\. Cover: kwn
+> The voices shaping R&B\. Cover: ELIZA
 
-587 songs - 1 day 7 hr 18 min
+589 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 | 2025-04-25 | 2025-11-21 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-05-20 | 2024-09-27 |
 | [after the love](https://open.spotify.com/track/0e4lQTcrHvREhpCsccmhOx) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [after the love](https://open.spotify.com/album/4uW9rMt6pw9nvQnICkT5pz) | 3:34 | 2023-02-23 | 2023-05-15 |
-| [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 | 2025-09-04 |  |
+| [All About Me](https://open.spotify.com/track/60mXzhxdo3dtKYz1MNBLFD) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [All About Me](https://open.spotify.com/album/6zprXAlQbVyY4bokzeemmr) | 4:23 | 2025-09-04 | 2026-03-06 |
 | [All I Need](https://open.spotify.com/track/4zrUf784IvoBhlKhbX1Gar) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [All I Need](https://open.spotify.com/album/04A0QePJ2bXEuRje6wEEwF) | 2:37 | 2023-11-24 | 2024-04-26 |
 | [All In](https://open.spotify.com/track/5X34M33mDZ310P8Wj3k8tq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [All In](https://open.spotify.com/album/4EBDgl01wt0jYYC9zOcGNK) | 2:46 | 2025-07-24 | 2026-02-20 |
 | [All In Again](https://open.spotify.com/track/3onrZuNE1XLM7YnTPL5BtW) | [Duchess](https://open.spotify.com/artist/6s0EQIA8heD6JVi8jNW207) | [All In Again](https://open.spotify.com/album/6Q607fMYWp8ms1brTs0yY6) | 3:51 | 2023-05-14 | 2023-09-23 |
@@ -190,7 +190,7 @@
 | [Give It Up](https://open.spotify.com/track/1KNNzjKUcp30V52dcD1jLW) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR), [Ella More](https://open.spotify.com/artist/727Q7I2a8uB63eFKd4N38p) | [Give It Up](https://open.spotify.com/album/1FNgqA9u8ZQ10rjZ7aRFP5) | 3:16 | 2025-02-07 | 2025-07-25 |
 | [Give Me A Break](https://open.spotify.com/track/0zwlOjltfwKfxjbK78Zcxc) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Ayotemi](https://open.spotify.com/artist/6Iz4XoNjK2jKKRAnXTlY7E) | [Give Me A Break](https://open.spotify.com/album/4RvSpLTOfAhKTEv3jJsWkF) | 2:34 | 2023-02-23 | 2023-05-15 |
 | [Give Up The Fear](https://open.spotify.com/track/10tpSojwAIsgZAy4xbAiMB) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Give Up The Fear](https://open.spotify.com/album/3MS50q90DYesShrGsqAFve) | 2:39 | 2024-05-31 | 2024-10-04 |
-| [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-16 |  |
+| [Glaze](https://open.spotify.com/track/6mfokGkQnfHkrizH9s2FYu) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z), [EMIL](https://open.spotify.com/artist/0qcYzMPOCqc66SyT0hyfQb) | [Glaze](https://open.spotify.com/album/2P84jHNs5YMCuLw3uX8ZLM) | 2:43 | 2025-10-16 | 2026-03-06 |
 | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc), [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Glowin 4 Me Pt\. 2 \(feat\. AMARIA BB\)](https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh) | 2:25 | 2023-05-14 | 2023-11-17 |
 | [Go Baby](https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:56 | 2023-09-22 | 2024-05-11 |
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-22 | 2024-04-19 |
@@ -339,6 +339,7 @@
 | [Missing Me](https://open.spotify.com/track/0MVsZJICj2iMFCzDPWbjAk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Missing Me](https://open.spotify.com/album/78A3guqOdVjh266qoxmcOT) | 3:00 | 2024-05-10 | 2024-10-25 |
 | [Moment](https://open.spotify.com/track/45Ru8quD9KG9i158sedPQ5) | [Maxine Scott](https://open.spotify.com/artist/1KbzThyB1jS28RXOc1lyvY), [Strama](https://open.spotify.com/artist/09PM8Vw3f7uJySKt1KZLk0) | [Moment](https://open.spotify.com/album/4KEZKhOZIorVhbJ4fuDK6R) | 3:33 | 2024-10-24 | 2025-03-28 |
 | [Moment Of Your Life](https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Moment Of Your Life](https://open.spotify.com/album/2M8xH28B7GMVUFMA7Ofcis) | 3:15 | 2023-08-25 | 2024-09-06 |
+| [Mona Lisa Who?](https://open.spotify.com/track/1TmoPIuxoNJ4iEYXp2zh5J) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Mona Lisa Who?](https://open.spotify.com/album/43ygofdDUcI8kZO0kBe8cN) | 3:00 | 2026-03-06 |  |
 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 | 2025-05-01 | 2025-09-06 |
 | [Moonlight](https://open.spotify.com/track/2wUnNvShBARNL6a6HwIPr4) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Devotion & The Black Divine](https://open.spotify.com/album/7CojnTD4egy26jrFMeiXKD) | 3:50 | 2025-09-26 |  |
 | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/track/3i6GcEPDKsyChS4mkLFj1z) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [More Light \(feat\. Princess Nokia\)](https://open.spotify.com/album/53xHbnROiHwbXgea0I5qW8) | 3:32 | 2025-05-09 | 2025-10-03 |
@@ -411,6 +412,7 @@
 | [Phuckups \(Hold Me\)](https://open.spotify.com/track/1RXWR9vkTy3Py5zeylY8BQ) | [CARI](https://open.spotify.com/artist/1S9GkDkct0BoKbeC25gF35) | [FLUX](https://open.spotify.com/album/6BMlVeL026upB5ad22ztJ9) | 2:05 | 2025-07-10 | 2026-01-16 |
 | [Pieces](https://open.spotify.com/track/0PoXdM2shs4zsmZJb2tgHD) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Pieces](https://open.spotify.com/album/4JnytkyfWkIoiBB7pEr0SD) | 2:57 | 2025-03-21 | 2025-09-12 |
 | [Pinky Blues](https://open.spotify.com/track/1uETFKsxZNVHWaGVOHFPe7) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [The Right Side Of Wrong](https://open.spotify.com/album/3lFc4rFgFOJfSg2YfePfId) | 2:56 | 2023-05-14 | 2023-07-22 |
+| [Pleasure Boy](https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [The Darkening Green](https://open.spotify.com/album/5BCATz23LefUwvG94a5Swr) | 3:54 | 2026-03-06 |  |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-18 | 2023-11-17 |
 | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \- hehe look y'all I made it longer](https://open.spotify.com/track/2LIgTJnCCAtGbuPn0qN7Ny) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [POOKIE’S REQUIEM \(feat\. Summer Walker\) \[hehe look y'all I made it longer\]](https://open.spotify.com/album/5o7Wu7xeSeuey5Lwbn8Lv2) | 2:53 | 2025-01-31 | 2025-06-20 |
 | [Pressha](https://open.spotify.com/track/7KNcY52YH6VFnYYabMgxLM) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Pressha](https://open.spotify.com/album/3iwMGcNrnJggwXlv3SNiGB) | 4:16 | 2026-01-09 |  |

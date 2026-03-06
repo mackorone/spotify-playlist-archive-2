@@ -4,7 +4,7 @@
 
 > Club classics from the homeland of dance music.
 
-173 songs - 16 hr 59 min
+174 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Hideaway \- Deep Dish Remix](https://open.spotify.com/track/5XUUxfye1bQhyFs6zl5WCD) | [De'Lacy](https://open.spotify.com/artist/3PAtCGZK9u5tIBERu4y5ho) | [Hideaway / That Look \- Single](https://open.spotify.com/album/3bOj4oy7pdxaVlNYUIfHdk) | 11:55 | 2023-07-18 | 2023-08-12 |
 | [Higher Than the Sun \- Higher Than the Orb Mix](https://open.spotify.com/track/23UR03W03HWH1HFcF4rz9Z) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:36 | 2024-03-22 |  |
 | [Horny \- '98 Radio Edit](https://open.spotify.com/track/79qPDRmHmJ5xcU7oyS8CQ1) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D) | 3:07 | 2022-04-13 | 2024-04-19 |
+| [Horny \- Horny '98 Radio Edit](https://open.spotify.com/track/18hpe34wFdKjpl5nMZ5tvY) | [Mousse T.](https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6), [Hot 'N' Juicy](https://open.spotify.com/artist/7c40GtC37kwpGDm8kbYcHr) | [Horny \(Radio Edit's\)](https://open.spotify.com/album/7fxH11g146zNuxqqi1bmXX) | 3:07 | 2024-03-22 |  |
 | [House Music \- Message Mix](https://open.spotify.com/track/3aAkumkFhfYUIQAMHWxc2U) | [Eddie Amador](https://open.spotify.com/artist/4d4BTB5YOMdDyTCgU1boCN) | [House Music](https://open.spotify.com/album/2AGRexErtY6iJdCBQP2Ih0) | 8:05 | 2023-07-18 | 2023-08-12 |
 | [Hungry For The Power \- Jamie Jones Ridge Street Mix](https://open.spotify.com/track/6ZiPqZL5U2htruNEYflsYB) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Azari & III](https://open.spotify.com/album/7vd55snhAOrAXNsqxBqX1T) | 6:46 | 2024-03-22 |  |
 | [Hungry For The Power \- Jamie Jones Ridge Street Remix](https://open.spotify.com/track/0fhsLuoWjfqGIg9ucb3Jab) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [Remix Album](https://open.spotify.com/album/2M8DuRnkOsYlM9MAa2XLGr) | 6:46 | 2023-08-11 | 2023-12-14 |
@@ -168,7 +169,7 @@
 | [The Jazz Man](https://open.spotify.com/track/0Mp7DjWV7Gz3t763KoJiW2) | [Moodswings](https://open.spotify.com/artist/1vG9q3GZ2xQug5Sut62kJI) | [Out of the Blue \(Compiled by Phil Mison\)](https://open.spotify.com/album/5mjArTowAXxILt35qOdfVS) | 5:36 | 2024-03-22 |  |
 | [The Man With the Red Face \- Video Edit](https://open.spotify.com/track/2TNAP0cq2IZkeSUx2Zbzrw) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [The Man With the Red Face](https://open.spotify.com/album/2z7OqIfgvL7xrOtYAj2Qzl) | 9:10 | 2023-07-18 | 2023-08-12 |
 | [The Rising Sun \- Danny Tenaglia Remix](https://open.spotify.com/track/1YnzvkqzoV8IN7D7VJT5q6) | [Heller & Farley](https://open.spotify.com/artist/56Tbaojr5VfDvHgray0kEd), [Danny Tenaglia](https://open.spotify.com/artist/2tG935baRE4mH8B3saiwbm) | [The Rising Sun](https://open.spotify.com/album/2pFVzm75oRseMAAhxWwVxg) | 10:07 | 2024-03-22 | 2025-05-30 |
-| [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 | 2022-04-13 |  |
+| [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 | 2022-04-13 | 2026-03-06 |
 | [The Weekend \- Radio Edit](https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Analog Is On](https://open.spotify.com/album/1v1bEFD6ZgEvAbrMJqK1Oz) | 3:12 | 2022-04-13 |  |
 | [Thrill Me](https://open.spotify.com/track/1hO5PKG7vaPmfCHnUG9csR) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 6:31 | 2023-07-18 | 2023-08-12 |
 | [Touch Me](https://open.spotify.com/track/2LGrLtvYEHrd3Nnot4Hxuw) | [Rui Da Silva](https://open.spotify.com/artist/1kx78nQhmITF7OFvivyN4v) | [Produced & Remixed](https://open.spotify.com/album/7slnTp1JuFDHosCeCCGPrI) | 8:35 | 2023-06-13 |  |

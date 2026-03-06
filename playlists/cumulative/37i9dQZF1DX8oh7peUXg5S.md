@@ -2,7 +2,7 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Andrés Suárez.
+> El don de cantar y componer, una playlist llena de talento\. Foto: JOan Manuell Serrat.
 
 389 songs - 1 day 0 hr 49 min
 

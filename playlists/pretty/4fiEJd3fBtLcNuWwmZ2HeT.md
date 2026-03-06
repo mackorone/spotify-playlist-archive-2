@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 433 songs - 1 day 0 hr 47 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 434 songs - 1 day 0 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -441,5 +441,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 431 | [Rakuraku annrakushi](https://open.spotify.com/track/3aqSio8aHpLnfaUgdg8xAO) | [PEPOYO](https://open.spotify.com/artist/4bbwL5ExcnumLvnzz5BL74) | [Rakuraku annrakushi](https://open.spotify.com/album/06mpsnBQWKwiHmSyyqTRwR) | 4:10 |
 | 432 | [私は雨](https://open.spotify.com/track/3s5sFHV8VTzg0CSXy3gz5y) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [私は雨](https://open.spotify.com/album/6kAEY3WED6CgfhVzsLUQHN) | 3:40 |
 | 433 | [私の恋はヘルファイア \(feat\. MEIKO\)](https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [私の恋はヘルファイア](https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr) | 3:16 |
+| 434 | [るるちゃんの自殺配信](https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [児童カルテ](https://open.spotify.com/album/6lENS0EtwbvQiwEaHFbV3J) | 3:59 |
 
-Snapshot ID: `AAAJ7OSosoX5O/mOdbGO5ihFEKTe34MR`
+Snapshot ID: `AAAJ7RER8UWPLywhMh+46BG9J23oulDl`

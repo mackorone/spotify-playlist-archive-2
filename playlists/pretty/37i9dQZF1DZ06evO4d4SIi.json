@@ -1,12 +1,12 @@
 {
   "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
-  "num_followers": 54975,
+  "num_followers": 55007,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAA4vLnr2HpklrAIdY37Lg5H",
+  "snapshot_id": "aad2AAAAAAC/DjAQpECUoWPM6iHp8ZNW",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like God Intended",
+        "url": "https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 176837,
+      "name": "Like God Intended",
+      "url": "https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Among Friends",
         "url": "https://open.spotify.com/album/0hxfUE2sJIElmXKdihbpnT"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 221760,
       "name": "Banks",
       "url": "https://open.spotify.com/track/3ye6QIIvOq5doDr0HRgWUC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like God Intended",
-        "url": "https://open.spotify.com/album/3M5QPvH82Rj2aMxe5dlvp1"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 176837,
-      "name": "Like God Intended",
-      "url": "https://open.spotify.com/track/1dPKGWxMILRedoNtjUa8mh"
     },
     {
       "added_at": null,

@@ -2597,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Music source of Mr.Trot LEGEND MISSION BEST",
+        "url": "https://open.spotify.com/album/0TCVzamNSSkb47YwavJqfO"
+      },
+      "artists": [
+        {
+          "name": "Kim Gyeongmin",
+          "url": "https://open.spotify.com/artist/0zccQI9CweyqICg8BCKGOY"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "Chunja",
+      "url": "https://open.spotify.com/track/3M7F12NJLtrEWRHPdRbWKO"
+    },
+    {
+      "album": {
         "name": "Music source of Mr. Trot Death match Part2",
         "url": "https://open.spotify.com/album/1CDnEtpKkborv4DaFdb1PY"
       },
@@ -3124,7 +3142,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 221120,
       "name": "Dance with wolf",
       "url": "https://open.spotify.com/track/5WhxybV9oaJDEl4iyY8SFA"
@@ -5788,7 +5806,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172773,
       "name": "Hani Hani",
       "url": "https://open.spotify.com/track/2nkhWkwPdA80IM5G0ezKCv"
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 216586,
       "name": "HERO",
       "url": "https://open.spotify.com/track/43u5DDtK4vQ1coWXb4S5a8"
@@ -9930,7 +9948,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 186069,
       "name": "Man Who Left Me",
       "url": "https://open.spotify.com/track/2nVHBxjrX1euCiVq7zNIFg"
@@ -10778,7 +10796,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 230813,
       "name": "My Starry Love",
       "url": "https://open.spotify.com/track/0NPR33dSDeDdlWS4aaN3dc"

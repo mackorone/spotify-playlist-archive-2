@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 
 > Only the hottest Gengetone coming out of Kenya\. Cover: Ochungulo Family
 
-[Spotify](https://open.spotify.com/user/spotify) - 129 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 142 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX80fLED6RkGS.md) - [plain]
 | 26 | [Gongewa \(feat\. Fathermoh & Motif De Don\)](https://open.spotify.com/track/34WZpgzbkirGl0zbB5Qgbp) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Fathermoh](https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA), [Motif De Don](https://open.spotify.com/artist/1g8LYhpJ5S3LZ0Pk5DWXNP) | [Gongewa \(feat\. Fathermoh & Motif De Don\)](https://open.spotify.com/album/1xifkch2mqKIxaaQWkKVTI) | 3:05 |
 | 27 | [Eterera](https://open.spotify.com/track/1mSoG0UYiJi1uQ9rv2OHkC) | [Odi Wa Muranga](https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8) | [Eterera](https://open.spotify.com/album/2qSzMPdldHEBST8485H81X) | 2:21 |
 | 28 | [Girl Toto](https://open.spotify.com/track/7rVwD9DYSobTPbIfRoUQxG) | [Mbuzi Gang](https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl), [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Girl Toto](https://open.spotify.com/album/65mSA40dqr0cGGiNeF8hFw) | 3:35 |
-| 29 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0), [Wadaglizke](https://open.spotify.com/artist/4ekM2KeOiAJ5KzPUkxaTTZ) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 |
+| 29 | [ANGUKA NAYO](https://open.spotify.com/track/4WuxxGa7qAMBpNFFyHsLlE) | [From The Hood Music](https://open.spotify.com/artist/40DnLKC6FCKwUjxBtQR1a0) | [ANGUKA NAYO](https://open.spotify.com/album/3HWqTYcW19gYAjNUUfhPwm) | 3:15 |
 | 30 | [Felicity](https://open.spotify.com/track/3648ONO4rdNgDaQ1UvCB1Q) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [AJAY \(Buruklynboyz\)](https://open.spotify.com/artist/7keV2m7fmj3tkluxAPfxTy), [Lilmaina](https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv) | [Felicity](https://open.spotify.com/album/3hABYSpzup32JqpD4Ei2az) | 3:28 |
 | 31 | [Weh Decide](https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Weh Decide](https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL) | 2:34 |
 | 32 | [Nganya](https://open.spotify.com/track/6ZT6nmtPM6AYrcwCHOU69X) | [Tipsy Gee](https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5), [Parroty](https://open.spotify.com/artist/4s9izBxHjCgKEWAlgswHsK) | [Nganya](https://open.spotify.com/album/59k0fyCsr19zld6CzNFfRf) | 3:10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "La playlist del jazz italiano, passato e presente. Cover: Calibro 35",
+  "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
   "name": "Jazz Italia",
   "tracks": [
     {
@@ -2444,6 +2444,24 @@
       "duration_ms": 234260,
       "name": "CORRI",
       "url": "https://open.spotify.com/track/4neBNkqlzqkJRsuUpte3Fp"
+    },
+    {
+      "album": {
+        "name": "Cortina 1976",
+        "url": "https://open.spotify.com/album/3SkxSyE4DymD955ppiAXSB"
+      },
+      "artists": [
+        {
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219908,
+      "name": "Cortina 1976",
+      "url": "https://open.spotify.com/track/0w19aHtpGG0VOwIMJraiy5"
     },
     {
       "album": {
@@ -10118,7 +10136,7 @@
       ],
       "date_added": "2025-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 281466,
       "name": "Spiral",
       "url": "https://open.spotify.com/track/3MCkbWQDW29ZKQyS4kHfGc"
@@ -11333,6 +11351,28 @@
     },
     {
       "album": {
+        "name": "Uma Rosa E Um Bordado",
+        "url": "https://open.spotify.com/album/5RRfPFHQ35b8wfLldKDegn"
+      },
+      "artists": [
+        {
+          "name": "Carolina Bubbico",
+          "url": "https://open.spotify.com/artist/0HWrWCAD8nN3DnbR02wVxW"
+        },
+        {
+          "name": "Mari Jasca",
+          "url": "https://open.spotify.com/artist/4xUWxsyfwyGbWz6fdDHbkp"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173370,
+      "name": "Uma Rosa E Um Bordado",
+      "url": "https://open.spotify.com/track/64wGTjfRUE49KxtIiL0OlM"
+    },
+    {
+      "album": {
         "name": "Non gioco pi\u00f9",
         "url": "https://open.spotify.com/album/4z1vnv7CBSR5f3Y675RgFw"
       },
@@ -11482,7 +11522,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 413826,
       "name": "Utopia I",
       "url": "https://open.spotify.com/track/4AfJTaxPS3wca8vn7arI5x"

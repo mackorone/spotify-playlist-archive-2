@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 21 | [Experimente Amar](https://open.spotify.com/track/47R8ZMHAvM8qnloFq9Lj01) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:53 |
 | 22 | [Mística](https://open.spotify.com/track/4HKXbdq4MOmYeBQmZ7Jj0k) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:46 |
 | 23 | [Dúvidas](https://open.spotify.com/track/0cZyrTa0i4bPfiPfnaMtXr) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 5:08 |
-| 24 | [Apenas um Instrumento](https://open.spotify.com/track/1ZUgffrcvhJJD3OUIBzh4f) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 5:04 |
-| 25 | [1655 \- Zumbi](https://open.spotify.com/track/5sz2BxsJiQ9ghvmwf8gvH8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:18 |
+| 24 | [1655 \- Zumbi](https://open.spotify.com/track/5sz2BxsJiQ9ghvmwf8gvH8) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:18 |
+| 25 | [Apenas um Instrumento](https://open.spotify.com/track/1ZUgffrcvhJJD3OUIBzh4f) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 5:04 |
 | 26 | [Paciência](https://open.spotify.com/track/5VtSGLNmnrrmi4kEsplELI) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 2:59 |
 | 27 | [Avante](https://open.spotify.com/track/2ZrNWbwSOp0in6qRvBKpbX) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 3:30 |
 | 28 | [Há Babilônia](https://open.spotify.com/track/1aw5It6LBYXeIpFXLqU5vI) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:10 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcLQrAAAAAC7jmpWmZ2x6043vzKhIu9L`
+Snapshot ID: `AcLWTAAAAAAY92KinsHhTsdGedbT051x`

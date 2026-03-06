@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 209463,
+  "num_followers": 209560,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABL1PA2p35hwEPe75ktWyi5VymLW",
+  "snapshot_id": "AAAAADc1oSGOHm4Cqnv+xe6IjEEVeQbK",
   "tracks": [
     {
       "added_at": "2024-05-28 19:20:48",
@@ -291,8 +291,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Lo Que Tu Necesitas",
-        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
+        "name": "La Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Lo Que T\u00fa Necesitas",
-      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
+      "duration_ms": 283186,
+      "name": "Te Perdone",
+      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -387,8 +387,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "La Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/2Bpa0pFXw4Xa8jHYsm5Q8W"
+        "name": "Lo Que Tu Necesitas",
+        "url": "https://open.spotify.com/album/5vadrNhB85U1GDBbP8Pl8k"
       },
       "artists": [
         {
@@ -400,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Te Perdone",
-      "url": "https://open.spotify.com/track/37Mws624mZBifGxHhg6bcq"
+      "duration_ms": 227360,
+      "name": "Lo Que T\u00fa Necesitas",
+      "url": "https://open.spotify.com/track/4WsyJhB9CnYwTH8DuoM4Ww"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -443,22 +443,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "Al Son de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0Kt6OEmLdZppaeDCLRyaN0"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Gusi",
+          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 215106,
+      "name": "T\u00fa Tienes Raz\u00f3n (feat. Silvestre Dangond)",
+      "url": "https://open.spotify.com/track/4h01OzRIgK4w9i1Zv6N4Ww"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -507,22 +507,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Al Son de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0Kt6OEmLdZppaeDCLRyaN0"
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
       "artists": [
         {
-          "name": "Gusi",
-          "url": "https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Silvestre Dangond",
-          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 215106,
-      "name": "T\u00fa Tienes Raz\u00f3n (feat. Silvestre Dangond)",
-      "url": "https://open.spotify.com/track/4h01OzRIgK4w9i1Zv6N4Ww"
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -671,8 +671,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Presente y Futuro",
-        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 300346,
-      "name": "Nunca Niegues Que Te Amo",
-      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+      "duration_ms": 317760,
+      "name": "Entregame Tu Amor",
+      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
-        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
+        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
       "artists": [
         {
-          "name": "Jose Luis Carrascal",
-          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
         }
       ],
-      "duration_ms": 297746,
-      "name": "Como duele el frio",
-      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+      "duration_ms": 310933,
+      "name": "Sirena Encantadora",
+      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -731,6 +731,54 @@
       "duration_ms": 300786,
       "name": "Me Ilusione",
       "url": "https://open.spotify.com/track/1EiRuVyMKA7uSSeuWgCJiu"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
+        }
+      ],
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Presente y Futuro",
+        "url": "https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 300346,
+      "name": "Nunca Niegues Que Te Amo",
+      "url": "https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS"
+    },
+    {
+      "added_at": "2024-05-28 19:20:48",
+      "album": {
+        "name": "Los 3 Amigos",
+        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
+      },
+      "artists": [
+        {
+          "name": "Nelson Velasquez",
+          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Ajena - En Vivo Version",
+      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -755,34 +803,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
+        "name": "Mas Cerca De T\u00ed",
+        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
       },
       "artists": [
         {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
         }
       ],
-      "duration_ms": 292224,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Los 3 Amigos",
-        "url": "https://open.spotify.com/album/192GUv5p5fMEjf7ODUdpof"
-      },
-      "artists": [
-        {
-          "name": "Nelson Velasquez",
-          "url": "https://open.spotify.com/artist/0B9fAbZMZTBXUyffDU2Mxj"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Ajena - En Vivo Version",
-      "url": "https://open.spotify.com/track/54wv2En7qrGKMwvbgMvuxi"
+      "duration_ms": 287426,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -803,40 +835,8 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "Mas Cerca De T\u00ed",
-        "url": "https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
-        "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
-      },
-      "artists": [
-        {
-          "name": "Miguel Morales",
-          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
-        }
-      ],
-      "duration_ms": 310933,
-      "name": "Sirena Encantadora",
-      "url": "https://open.spotify.com/track/3wVuD02J4ErPU2jp5QtX10"
-    },
-    {
-      "added_at": "2024-05-28 19:20:48",
-      "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/24YxhP5ji3u3Sk8lKjMPmn"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2Iv7OLyqu6PsirJxTERAe6"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 317760,
-      "name": "Entregame Tu Amor",
-      "url": "https://open.spotify.com/track/0fZbwXikuLa4ZFPIHbN3ot"
+      "duration_ms": 292224,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/63EgqqZs5ncDmBitajcgJh"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -871,18 +871,22 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "30 Mejores",
-        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
+        "name": "The Essential Guide To Vallenato",
+        "url": "https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo"
       },
       "artists": [
         {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+          "name": "Otto Serge",
+          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
+        },
+        {
+          "name": "Rafael Ricardo",
+          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
         }
       ],
-      "duration_ms": 283853,
-      "name": "No Voy A Llorar",
-      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
+      "duration_ms": 297626,
+      "name": "El Mochuelo",
+      "url": "https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc"
     },
     {
       "added_at": "2024-05-28 19:20:48",
@@ -903,22 +907,18 @@
     {
       "added_at": "2024-05-28 19:20:48",
       "album": {
-        "name": "The Essential Guide To Vallenato",
-        "url": "https://open.spotify.com/album/5EWPR1oc0VwYr780d11MLo"
+        "name": "30 Mejores",
+        "url": "https://open.spotify.com/album/2CGzpCTcMQij6NpZJW83s7"
       },
       "artists": [
         {
-          "name": "Otto Serge",
-          "url": "https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF"
-        },
-        {
-          "name": "Rafael Ricardo",
-          "url": "https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe"
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
         }
       ],
-      "duration_ms": 297626,
-      "name": "El Mochuelo",
-      "url": "https://open.spotify.com/track/5ICnQxOX8VzXnS6pWBiznc"
+      "duration_ms": 283853,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3w3qhkJcjCPmJuNQH6Nrt0"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

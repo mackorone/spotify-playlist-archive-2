@@ -638,7 +638,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 138000,
       "name": "BAIXO - slowed",
       "url": "https://open.spotify.com/track/4fQVSW5Vg8EZu0lOqzEdji"
@@ -3352,6 +3352,28 @@
       "duration_ms": 215844,
       "name": "Naturally - SLOWED + REVERB",
       "url": "https://open.spotify.com/track/2bYke7qBGuXWr4bM2K1TFj"
+    },
+    {
+      "album": {
+        "name": "Nevada",
+        "url": "https://open.spotify.com/album/6mLb7hgL16NhiRpTt09Fik"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2026-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271299,
+      "name": "Nevada - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3lDYfIb9QHWdHcIIlkJeue"
     },
     {
       "album": {

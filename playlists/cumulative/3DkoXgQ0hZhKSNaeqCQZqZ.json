@@ -1165,6 +1165,24 @@
     },
     {
       "album": {
+        "name": "Butterflies!",
+        "url": "https://open.spotify.com/album/4b619JWo2PlOa3k3CK6B2t"
+      },
+      "artists": [
+        {
+          "name": "JerichoFoxMusic",
+          "url": "https://open.spotify.com/artist/2oWG0jJGw2mLVwIggsVM38"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182530,
+      "name": "Butterflies!",
+      "url": "https://open.spotify.com/track/0SCJdGWXXSfLTi5eYACXhb"
+    },
+    {
+      "album": {
         "name": "By The Pier",
         "url": "https://open.spotify.com/album/3N6OGsezzozwTIu3bFGejZ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,169 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,172 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 31 | [No Me Quiero Morir](https://open.spotify.com/track/4yzqsGLNuEriKgemEeMjEu) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C), [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [No Me Quiero Morir](https://open.spotify.com/album/6jIjHEbtTg8oSOxhU1HdiX) | 2:15 |
 | 32 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
 | 33 | [amar t duele](https://open.spotify.com/track/3CwrAtQNT5y6uOd6WREZ2E) | [Plastikboy](https://open.spotify.com/artist/3VN7GXEjDqW4IyEO3HgLYp), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [amar t duele](https://open.spotify.com/album/72usUOS1AxtEeQ3wtL1bXg) | 2:30 |
-| 34 | [TUTOGERME](https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 1:49 |
-| 35 | [PESADILLA.wav](https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [PESADILLA.wav](https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay) | 2:43 |
+| 34 | [PESADILLA.wav](https://open.spotify.com/track/6mU2hruzPWWPaMmDOxO0qG) | [Ikoniko](https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh), [Ruzzo Doblezz](https://open.spotify.com/artist/4GK4U1lkvejUHBFsqyv23D), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [PESADILLA.wav](https://open.spotify.com/album/20EERNEp1AsioVQ2czUQay) | 2:43 |
+| 35 | [TUTOGERME](https://open.spotify.com/track/7DP2bmyyXWWRmvhfn3oIpe) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 1:49 |
 | 36 | [Obsesionado Contigo](https://open.spotify.com/track/3Za44VMsjDNQJS2qUsFD54) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Obsesionado Contigo](https://open.spotify.com/album/2Ok43A9PgC9F6pqHXp4UWV) | 2:11 |
 | 37 | [Rosita Lean](https://open.spotify.com/track/3n0jLga7AMhPpL2E2sEhAo) | [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m) | [Rosita Lean](https://open.spotify.com/album/2qDUgdjgjYzlwIy3f1aavG) | 1:31 |
 | 38 | [PUM PUM!](https://open.spotify.com/track/3iDvs7VMQVO7IB2oasLRLB) | [Gloory Hole](https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO) | [¡GLORIA EL CENTRO DE REHABILITACION!](https://open.spotify.com/album/4gYKdqjLLwAB0edudEYR8j) | 2:38 |

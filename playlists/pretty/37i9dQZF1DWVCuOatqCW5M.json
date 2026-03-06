@@ -1,13 +1,93 @@
 {
-  "description": "Latest music from Shekhar Ravjiani, Darshan Raval, Abby V, Neeti Mohan and more.",
-  "num_followers": 88950,
+  "description": "Latest music from Papon, Madhubanti Bagchi, Hansika Pareek and more.",
+  "num_followers": 89033,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALKWtEoSUW8SlH/20SVH5H9BJarr",
+  "snapshot_id": "AAAAADQzGwc866ckuHxi8zCvIfcC3ZRg",
   "tracks": [
+    {
+      "added_at": "2026-03-06 00:38:00",
+      "album": {
+        "name": "Dhaage",
+        "url": "https://open.spotify.com/album/5awiOJx4lUVIZs5VzMkBDW"
+      },
+      "artists": [
+        {
+          "name": "Papon",
+          "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Shamir Tandon",
+          "url": "https://open.spotify.com/artist/5l78zXA0RNE96IP45w3d5t"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        }
+      ],
+      "duration_ms": 219283,
+      "name": "Dhaage",
+      "url": "https://open.spotify.com/track/2XFpn8m8FHeWhDfmH2SAFi"
+    },
+    {
+      "added_at": "2026-03-06 00:38:00",
+      "album": {
+        "name": "Tere Bina Jee Na Paaye",
+        "url": "https://open.spotify.com/album/2VX33mfCw6XPc3OZc2mU4M"
+      },
+      "artists": [
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Priyankit Jaiswal",
+          "url": "https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        },
+        {
+          "name": "Soham Majumdar",
+          "url": "https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW"
+        }
+      ],
+      "duration_ms": 237931,
+      "name": "Tere Bina Jee Na Paaye",
+      "url": "https://open.spotify.com/track/0Vlec0sTgWic6uSSl97dKh"
+    },
+    {
+      "added_at": "2026-03-06 00:38:00",
+      "album": {
+        "name": "Bairiya",
+        "url": "https://open.spotify.com/album/2vpMwqiQKwIa3F7d8LbvU9"
+      },
+      "artists": [
+        {
+          "name": "Advait Sawant",
+          "url": "https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr"
+        },
+        {
+          "name": "Aditi Paul",
+          "url": "https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc"
+        },
+        {
+          "name": "Deepak Yadav",
+          "url": "https://open.spotify.com/artist/0NIWSXCf0iXZt3sKCZTg7D"
+        }
+      ],
+      "duration_ms": 226909,
+      "name": "Bairiya",
+      "url": "https://open.spotify.com/track/4iWnxuJp6RPdD1ZFvsANyt"
+    },
     {
       "added_at": "2026-02-27 02:28:30",
       "album": {
@@ -1019,78 +1099,6 @@
       "duration_ms": 229500,
       "name": "Fitratein",
       "url": "https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk"
-    },
-    {
-      "added_at": "2026-02-20 06:07:34",
-      "album": {
-        "name": "Theher Ja",
-        "url": "https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9"
-      },
-      "artists": [
-        {
-          "name": "Garvit - Priyansh",
-          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
-        },
-        {
-          "name": "Garvit Soni",
-          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
-        },
-        {
-          "name": "Priyansh Srivastava",
-          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
-        },
-        {
-          "name": "Aniket Shukla",
-          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
-        }
-      ],
-      "duration_ms": 249062,
-      "name": "Theher Ja",
-      "url": "https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw"
-    },
-    {
-      "added_at": "2026-02-20 06:07:34",
-      "album": {
-        "name": "Juda Hue Ho",
-        "url": "https://open.spotify.com/album/13kZ51FHhqtH45fqEBs2O5"
-      },
-      "artists": [
-        {
-          "name": "Akhil Sachdeva",
-          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
-        },
-        {
-          "name": "Ishaan Arora",
-          "url": "https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb"
-        }
-      ],
-      "duration_ms": 240050,
-      "name": "Juda Hue Ho",
-      "url": "https://open.spotify.com/track/2MliEZJd04YKWMBQcpu9MA"
-    },
-    {
-      "added_at": "2026-02-20 06:07:34",
-      "album": {
-        "name": "Dil Kaat Ke",
-        "url": "https://open.spotify.com/album/6Nw2Al6QtYhTz6pvZRfiC5"
-      },
-      "artists": [
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        },
-        {
-          "name": "B Praak",
-          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
-        },
-        {
-          "name": "Bunny",
-          "url": "https://open.spotify.com/artist/0Or6EukLg1g2fTl08fPz2o"
-        }
-      ],
-      "duration_ms": 262812,
-      "name": "Dil Kaat Ke",
-      "url": "https://open.spotify.com/track/5nLWfa1sR5zuywdOsiwJ9A"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

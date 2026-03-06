@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: 山田由梨の眠れないなら茶をのんで\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 12 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 12 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,4 +21,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 | 11 | [\#36 今年１番観たYouTubeって何？](https://open.spotify.com/episode/6X3FMuqMlRsC6uHYcXqXxP) | [ぽこピーのゆめうつつ](https://open.spotify.com/show/315rSWYLluySzZ23ubctEZ) | [ぽこピーのゆめうつつ](https://open.spotify.com/album/315rSWYLluySzZ23ubctEZ) | 35:44 |
 | 12 | [\#48 リアクションとアテンションをめぐる座談 w/ワッコ](https://open.spotify.com/episode/2mUqDLkUOjnclArAkzpF0P) | [オトコの子育てよももやまばなし](https://open.spotify.com/show/2oyXrREkr7IwTYIXcIvO6g) | [オトコの子育てよももやまばなし](https://open.spotify.com/album/2oyXrREkr7IwTYIXcIvO6g) | 34:12 |
 
-Snapshot ID: `AAAAAEMPFeFSQYNwnUMXHqw9lyWk3b72`
+Snapshot ID: `AAAAAC/JtfHg0nP7kfxhYhFzS3VfXLmO`

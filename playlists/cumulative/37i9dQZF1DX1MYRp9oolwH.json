@@ -624,7 +624,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 248181,
       "name": "Arere (From \"Premistunnaa\")",
       "url": "https://open.spotify.com/track/2wCxSEPz5IXC6olGd3mNf0"
@@ -1023,6 +1023,32 @@
     },
     {
       "album": {
+        "name": "Chaatu Chaatu (From \"Purushaha\")",
+        "url": "https://open.spotify.com/album/2bEcxSjCwNKD52ivLCBXGZ"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Shravan Bharadwaj",
+          "url": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
+        },
+        {
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231028,
+      "name": "Chaatu Chaatu (From \"Purushaha\")",
+      "url": "https://open.spotify.com/track/1ZhjHDI4F8PjUESWGC1eQi"
+    },
+    {
+      "album": {
         "name": "Chachhinaa Chaavani Premidi (From \"Sandeham\")",
         "url": "https://open.spotify.com/album/7L3xcOnPwJOdYkxqbjQ3TB"
       },
@@ -1258,6 +1284,32 @@
       "duration_ms": 248183,
       "name": "Cheliya Cheliya (From \"28\u00b0C(28 DEGREE CELSIUS)\")",
       "url": "https://open.spotify.com/track/1wnxGMDkIxNlZa9MuFNhf2"
+    },
+    {
+      "album": {
+        "name": "Zamana",
+        "url": "https://open.spotify.com/album/1R9XTL9EVZ8Czrga0gjtl1"
+      },
+      "artists": [
+        {
+          "name": "Kesava Kiran",
+          "url": "https://open.spotify.com/artist/1NTuNa3lOYaaDpIomWdr7B"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319285,
+      "name": "Cheliya Telusa Telusa",
+      "url": "https://open.spotify.com/track/6WuhxTAgKVgTWLLnd0DKjM"
     },
     {
       "album": {
@@ -1684,7 +1736,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 180500,
       "name": "Ee Dhooramey",
       "url": "https://open.spotify.com/track/4eXPw0pefj8lT7KxLsSQCJ"
@@ -1990,7 +2042,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 255333,
       "name": "Evare Nuvvu (From \"Premistunnaa\")",
       "url": "https://open.spotify.com/track/6NGIhZN0mAYnW4SZzeJcAg"
@@ -2366,7 +2418,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 232000,
       "name": "Hello Ani",
       "url": "https://open.spotify.com/track/2YvNpKwCrPvfvhWA9s0Idx"
@@ -3351,6 +3403,36 @@
     },
     {
       "album": {
+        "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
+        "url": "https://open.spotify.com/album/5vLHORyDumSJ3evhGMXhUF"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Satyavani",
+          "url": "https://open.spotify.com/artist/7fNuk25gulNDvnOqGbAOhE"
+        },
+        {
+          "name": "Jayachandra.J.D",
+          "url": "https://open.spotify.com/artist/1Dyj6gN3GCe3ARYBrpry1T"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233684,
+      "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
+      "url": "https://open.spotify.com/track/5L1vfVKn7IGppUT3Bn5j9C"
+    },
+    {
+      "album": {
         "name": "Popcorn",
         "url": "https://open.spotify.com/album/6ktdg1rJf5ovG876PbWZ5G"
       },
@@ -4198,7 +4280,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 261133,
       "name": "Mallika Gandha (From \"Telusu Kada\")",
       "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
@@ -4598,6 +4680,32 @@
       "duration_ms": 197684,
       "name": "Merisi Poye",
       "url": "https://open.spotify.com/track/5Pn2hVl721GNQDwIE0pPXx"
+    },
+    {
+      "album": {
+        "name": "Mila Mila Meresenu (From \"Sandhya Nama Upasate\")",
+        "url": "https://open.spotify.com/album/0EzQJlPROfzt9iNpTMQoDZ"
+      },
+      "artists": [
+        {
+          "name": "Karthik Kodakandla",
+          "url": "https://open.spotify.com/artist/4s5ADFbv28ry5XWS1PYnuu"
+        },
+        {
+          "name": "Pranathi",
+          "url": "https://open.spotify.com/artist/3cIfOOicvJnR4MG4TsyJQg"
+        },
+        {
+          "name": "Bhuvaneswar",
+          "url": "https://open.spotify.com/artist/6EirmVOQaxeatPuKIFZ3vW"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "Mila Mila Meresenu (From \"Sandhya Nama Upasate\")",
+      "url": "https://open.spotify.com/track/1JzzD1yFN0HQEyhfDC4BxE"
     },
     {
       "album": {
@@ -6788,10 +6896,40 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 226337,
       "name": "Oopiri Ooyalaga (From \"WAR 2\") - Telugu Version",
       "url": "https://open.spotify.com/track/49IUhpMndmwSttY88fdHKM"
+    },
+    {
+      "album": {
+        "name": "Oosulade (From \"Son Of\")",
+        "url": "https://open.spotify.com/album/4Tvx94BHEaH2QuoIP9wJI7"
+      },
+      "artists": [
+        {
+          "name": "Rishi M",
+          "url": "https://open.spotify.com/artist/1OmE5hZurgiZm1pvRSpLKZ"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274900,
+      "name": "Oosulade (From \"Son Of\")",
+      "url": "https://open.spotify.com/track/5jK6GRosmpH5fj1A1xFFds"
     },
     {
       "album": {
@@ -7945,6 +8083,32 @@
     },
     {
       "album": {
+        "name": "Seetha Kalyanam (From \"Vaibhavam Thanyasmi\")",
+        "url": "https://open.spotify.com/album/6JZN4AHqO8cSmYPgS2y0K5"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Narayanan",
+          "url": "https://open.spotify.com/artist/2OsaxOFmhhlIYVaEP2jfpU"
+        },
+        {
+          "name": "Bhanu sarma Machavolu",
+          "url": "https://open.spotify.com/artist/3uOdZ5G9T3bzosaVWXNWQg"
+        },
+        {
+          "name": "Bhargav Rana Mungara",
+          "url": "https://open.spotify.com/artist/2Hh4CmxSWuV2NMgN4btdBO"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220581,
+      "name": "Seetha Kalyanam (From \"Vaibhavam Thanyasmi\")",
+      "url": "https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z"
+    },
+    {
+      "album": {
         "name": "Urvasivo Rakshasivo",
         "url": "https://open.spotify.com/album/1Mf6cONL3hjHRkxXXbFbWX"
       },
@@ -8372,7 +8536,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 275128,
       "name": "Suvvi Suvvi (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y"
@@ -8662,7 +8826,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 162973,
       "name": "Undipove Naathone (From \"Kishkindhapuri\")",
       "url": "https://open.spotify.com/track/6cOUnRdDjuQVdaea1lE2V6"
@@ -8859,6 +9023,28 @@
     },
     {
       "album": {
+        "name": "Vinavey (From \"Pulse\")",
+        "url": "https://open.spotify.com/album/1Iney76r1X7PX7wRwJfA7c"
+      },
+      "artists": [
+        {
+          "name": "Abishek Ar.",
+          "url": "https://open.spotify.com/artist/2w9iBDvDArSEwAEUhvbiYY"
+        },
+        {
+          "name": "Ram Srivatsav",
+          "url": "https://open.spotify.com/artist/5hR1ziww3l6xGJviqPVKkO"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213164,
+      "name": "Vinavey (From \"Pulse\")",
+      "url": "https://open.spotify.com/track/7FVms2iGaZLeVQ47321PuS"
+    },
+    {
+      "album": {
         "name": "Vinnavugaa",
         "url": "https://open.spotify.com/album/1DfhIlUepHaM8ddF8oza4d"
       },
@@ -8986,6 +9172,32 @@
       "duration_ms": 187428,
       "name": "Wherever You Go (From \"Robinhood\")",
       "url": "https://open.spotify.com/track/7mW0piZKSZlFwGun1G5zKf"
+    },
+    {
+      "album": {
+        "name": "Psych Siddhartha",
+        "url": "https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw"
+      },
+      "artists": [
+        {
+          "name": "Smaran",
+          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Ashok Anand",
+          "url": "https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200067,
+      "name": "Yedha Okka Prayamu",
+      "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
     },
     {
       "album": {

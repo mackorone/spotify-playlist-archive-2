@@ -672,7 +672,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 263723,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/22czSIoBdsSi89qKNl5GYA"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 199493,
       "name": "eighteen winter",
       "url": "https://open.spotify.com/track/4DCSmGoAFwHTc522Q0w1KG"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 227000,
       "name": "Fairy Castor",
       "url": "https://open.spotify.com/track/3RbRTEloMZ6VNTJYhHNCZU"
@@ -1873,6 +1873,28 @@
     },
     {
       "album": {
+        "name": "miss u so",
+        "url": "https://open.spotify.com/album/6ayvj3yPahHwnSEUom6PMg"
+      },
+      "artists": [
+        {
+          "name": "blueberryclub",
+          "url": "https://open.spotify.com/artist/1dgj9mN2Tuy1gdPHn78gZC"
+        },
+        {
+          "name": "Nam Gijun",
+          "url": "https://open.spotify.com/artist/11IQLhF0CLzk7l1KoQUpEn"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215852,
+      "name": "miss u so",
+      "url": "https://open.spotify.com/track/4esld7TA0IQqsdKhhL85dh"
+    },
+    {
+      "album": {
         "name": "Contact",
         "url": "https://open.spotify.com/album/1ZmpZDCqmWlMFhnDxsfvfT"
       },
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 302000,
       "name": "Movie",
       "url": "https://open.spotify.com/track/270BNZsCT9Vem71dhF1PcK"
@@ -2125,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "NOTHING WITHOUT YOU",
+        "url": "https://open.spotify.com/album/3aKoklMO5GlK6PuUJMz5Xx"
+      },
+      "artists": [
+        {
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "NOTHING WITHOUT YOU",
+      "url": "https://open.spotify.com/track/3ZfzAgu2hva5Pw9HVWys14"
+    },
+    {
+      "album": {
         "name": "November Rain",
         "url": "https://open.spotify.com/album/2538KLlnCjm3paWVwn5MjX"
       },
@@ -2248,6 +2288,24 @@
       "duration_ms": 175520,
       "name": "Organized Chaos",
       "url": "https://open.spotify.com/track/6rLSe4oGty53YAGDvkTS9k"
+    },
+    {
+      "album": {
+        "name": "Happy Together",
+        "url": "https://open.spotify.com/album/5CZUVwQzooRJhjwSSvIEPY"
+      },
+      "artists": [
+        {
+          "name": "DANIEL",
+          "url": "https://open.spotify.com/artist/1eZ0sjIrNuSNiZSfjTYgi6"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246739,
+      "name": "Ours",
+      "url": "https://open.spotify.com/track/4js326EDRpwTWkuQuOz2vN"
     },
     {
       "album": {
@@ -2590,7 +2648,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 197995,
       "name": "Save Yourself",
       "url": "https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt"

@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Eknaath
 
-489 songs - 1 day 5 hr 21 min
+490 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Baapu](https://open.spotify.com/track/59jdncLuldJpVDYfBAm2Co) | [Priyanka Gajanan](https://open.spotify.com/artist/1ZCozkRCXaT1JY4m356aOP) | [Baapu](https://open.spotify.com/album/3CloadVWRFcT50PfnGPkUQ) | 3:19 | 2025-06-19 | 2025-08-11 |
 | [Badlove](https://open.spotify.com/track/4JKJkslEo77sWeJ5dAAIxp) | [Priyadarshan Balasubramanian](https://open.spotify.com/artist/3h6fcAII4NEJ5oPu3VUEdH), [Feroz Israel](https://open.spotify.com/artist/5YBkkXErEv1axnFc6kxsPQ) | [Badlove](https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L) | 3:20 | 2025-02-03 | 2025-08-01 |
 | [Bangaru](https://open.spotify.com/track/09qjN4zFiZH8lcuINSJ5lk) | [Sreerama Chandra](https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB) | [Bangaru](https://open.spotify.com/album/51t7QiRHzfXqyiZ3euyglO) | 3:20 | 2025-11-11 | 2025-12-14 |
+| [Bangaru Bomma](https://open.spotify.com/track/48qXwLDpUe1LySShTJ7mh5) | [Madhavi Naresh](https://open.spotify.com/artist/2Le7dBedJ7iIuZCBjlOcwo) | [Bangaru Bomma](https://open.spotify.com/album/5UXhIZQ5mXymYPgKrn7Fsn) | 6:05 | 2026-03-05 |  |
 | [Beach Road Melody](https://open.spotify.com/track/0MbZn4qAeUUDKYhJiE8z0T) | [Gershom Penugula](https://open.spotify.com/artist/1X1xyTwRLksTzUnLzWvN3K) | [Beach Road Melody](https://open.spotify.com/album/5ezBMNOkmFeF5KLdBB5qch) | 1:37 | 2024-04-25 | 2024-05-09 |
 | [Befikr Maama](https://open.spotify.com/track/4BkVCo1tvqkr9Px00GISlZ) | [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z) | [Befikr Maama](https://open.spotify.com/album/5Gn4r9bX0z3jYM1oY6B7h5) | 2:58 | 2023-05-16 | 2024-06-22 |
 | [BHAJANA](https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat) | [Dasagriva](https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn), [CLOWNY BEATZZ](https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm) | [BHAJANA](https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE) | 2:35 | 2025-12-19 |  |
@@ -260,7 +261,7 @@
 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 | 2024-03-26 | 2024-07-31 |
 | [Nanna](https://open.spotify.com/track/7kXi71MJ5Xja1zlIN5PzhZ) | [Thiru Vakkalanka](https://open.spotify.com/artist/1Jfep509KGV0j7lfzENtWk), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Rakesh Venkatapuram](https://open.spotify.com/artist/0ySVAlgEEqvaixvNc4uLHR), [Srirag Vadlakonda](https://open.spotify.com/artist/345nU7mkTHfA5mnCYnsain) | [Nanna](https://open.spotify.com/album/3eL5FMWu5bZe9DsWXamVWd) | 3:22 | 2024-11-25 | 2025-01-30 |
 | [Nannaku Prematho](https://open.spotify.com/track/5gR88oHWOemgAwBEu7YiA6) | [DEVARO](https://open.spotify.com/artist/29mbv9F0bBnk9lkyr9oPoc) | [Nannaku Prematho](https://open.spotify.com/album/0dks3GZ7eh35WT6Z8ySc3B) | 3:33 | 2026-01-30 |  |
-| [Nannu Nenu](https://open.spotify.com/track/79jQYJOIkBZN1FNjRuhXhg) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Nannu Nenu](https://open.spotify.com/album/1hULEoHM0juEpDFyXJqpf5) | 4:12 | 2025-10-13 |  |
+| [Nannu Nenu](https://open.spotify.com/track/79jQYJOIkBZN1FNjRuhXhg) | [Eknaath](https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU) | [Nannu Nenu](https://open.spotify.com/album/1hULEoHM0juEpDFyXJqpf5) | 4:12 | 2025-10-13 | 2026-03-06 |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 | 2023-10-05 |
 | [Ne Kothaga](https://open.spotify.com/track/6gJY0TyLzecMHR4GHFHkCe) | [MS Rudra Kiran](https://open.spotify.com/artist/2TzLHm7rUooeTi6NIfbjm0), [Mounica Modali](https://open.spotify.com/artist/5iiqvn3toWXbNadpveiBeC), [Sudheshna Mokkapati](https://open.spotify.com/artist/6H0LSanfaEsTyNcs1pa1Pe), [Anirudh Sandilya](https://open.spotify.com/artist/0F4yayMRBTrHXljPrHYjFY) | [Ne Kothaga](https://open.spotify.com/album/5dnbnY8P63B9GGwqFyNsfU) | 3:06 | 2024-03-05 | 2024-10-11 |
 | [Nee Andamaina Madhi](https://open.spotify.com/track/4aknSFeZ47FevS9ehHnU9Y) | [Priya Mali](https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM) | [Nee Andamaina Madhi](https://open.spotify.com/album/0SQZ0QqKuKvbESmcAUlO76) | 4:29 | 2025-02-14 | 2026-01-15 |

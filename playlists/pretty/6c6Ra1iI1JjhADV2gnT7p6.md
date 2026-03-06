@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,778 likes - 452 songs - 1 day 1 hr 0 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,788 likes - 452 songs - 1 day 1 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 10 | [diet coke tiara](https://open.spotify.com/track/62nFaS0PfCAXIHWVVEBWlM) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [diet coke tiara](https://open.spotify.com/album/3IwiP74LzPUpqaQUKYFKm5) | 2:30 |
 | 11 | [George Sand](https://open.spotify.com/track/2MbdjSpxh6IIc69VHSkuxv) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [George Sand](https://open.spotify.com/album/0Cho6wZ9Xj6rmeKlnbdHUJ) | 2:42 |
 | 12 | [Echo Park Donut](https://open.spotify.com/track/57XHL2Wj8GO4wKJl0i05JO) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [Hungry Animal](https://open.spotify.com/album/2bDwzSCwrHMlHWGyjInoqb) | 4:36 |
-| 13 | [I've been a fool](https://open.spotify.com/track/09p6XB0CG0840RpCJS8YLN) | [Charlotte Mazet](https://open.spotify.com/artist/05iHEjpWfD2VgeTEXXH6eF) | [I've been a fool](https://open.spotify.com/album/7MqxUyqrFme3847UEKBQvQ) | 2:53 |
-| 14 | [Magouilleux](https://open.spotify.com/track/5z5oDlagpOzhLVqcePeT4W) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Magouilleux](https://open.spotify.com/album/3T0wyczV6l4oBscKqx71EO) | 3:44 |
-| 15 | [Be Cool](https://open.spotify.com/track/2p1C7jhtuWgJx1zlUzlQx7) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Maybe I'm the Reason / Be Cool](https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd) | 2:24 |
-| 16 | [Dissociating in NY II](https://open.spotify.com/track/0O5ZvAnnPnl4ADg6PPUf4T) | [nano](https://open.spotify.com/artist/5go2aISjq4c92uvVdUDIym), [Jenna Pascale](https://open.spotify.com/artist/2dJ9kBaf6P5ZUTltKgevu6) | [Everybody's Album](https://open.spotify.com/album/6P8WAO9NuubW1dX9VwndPK) | 3:00 |
-| 17 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 |
-| 18 | [Get it Right](https://open.spotify.com/track/248tSursLy3gzpLk1uxGtu) | [Fleur Electra](https://open.spotify.com/artist/35JSk7N4ujpaAJ6yvoXkFS) | [Strike The Match](https://open.spotify.com/album/0i6bqWAyim4oWyZzBVZy6K) | 2:12 |
-| 19 | [Cannoli Filling](https://open.spotify.com/track/6zYGYXJ35eHbC39PGSyhHY) | [Doohickey Cubicle](https://open.spotify.com/artist/5cnv2wmWqSU2ode1U9p8BH) | [Super Smeller](https://open.spotify.com/album/1HuCDmpa2cvHaxFxciKqi5) | 3:05 |
-| 20 | [Double Dream](https://open.spotify.com/track/7sQOGr3lugUaG77aW8AYI2) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Double Dream](https://open.spotify.com/album/1SoG9crCMrPcns3ROgRS7U) | 4:15 |
+| 13 | [Double Dream](https://open.spotify.com/track/7sQOGr3lugUaG77aW8AYI2) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Double Dream](https://open.spotify.com/album/1SoG9crCMrPcns3ROgRS7U) | 4:15 |
+| 14 | [I've been a fool](https://open.spotify.com/track/09p6XB0CG0840RpCJS8YLN) | [Charlotte Mazet](https://open.spotify.com/artist/05iHEjpWfD2VgeTEXXH6eF) | [I've been a fool](https://open.spotify.com/album/7MqxUyqrFme3847UEKBQvQ) | 2:53 |
+| 15 | [Magouilleux](https://open.spotify.com/track/5z5oDlagpOzhLVqcePeT4W) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [Magouilleux](https://open.spotify.com/album/3T0wyczV6l4oBscKqx71EO) | 3:44 |
+| 16 | [Be Cool](https://open.spotify.com/track/2p1C7jhtuWgJx1zlUzlQx7) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Maybe I'm the Reason / Be Cool](https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd) | 2:24 |
+| 17 | [Dissociating in NY II](https://open.spotify.com/track/0O5ZvAnnPnl4ADg6PPUf4T) | [nano](https://open.spotify.com/artist/5go2aISjq4c92uvVdUDIym), [Jenna Pascale](https://open.spotify.com/artist/2dJ9kBaf6P5ZUTltKgevu6) | [Everybody's Album](https://open.spotify.com/album/6P8WAO9NuubW1dX9VwndPK) | 3:00 |
+| 18 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 |
+| 19 | [Get it Right](https://open.spotify.com/track/248tSursLy3gzpLk1uxGtu) | [Fleur Electra](https://open.spotify.com/artist/35JSk7N4ujpaAJ6yvoXkFS) | [Strike The Match](https://open.spotify.com/album/0i6bqWAyim4oWyZzBVZy6K) | 2:12 |
+| 20 | [Cannoli Filling](https://open.spotify.com/track/6zYGYXJ35eHbC39PGSyhHY) | [Doohickey Cubicle](https://open.spotify.com/artist/5cnv2wmWqSU2ode1U9p8BH) | [Super Smeller](https://open.spotify.com/album/1HuCDmpa2cvHaxFxciKqi5) | 3:05 |
 | 21 | [No Weather](https://open.spotify.com/track/6yTRUw5CXCSbTlBBbtslfW) | [Sea Glass](https://open.spotify.com/artist/3PvMAUXRI1D4NjpDrjBNRw), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [No Weather](https://open.spotify.com/album/6rH9GyHgNtDOuXDnJW1Lmg) | 3:28 |
 | 22 | [Flowa Girl](https://open.spotify.com/track/0G6ejwp4ayZeX5nEYmxVcg) | [Ms\* Gloom](https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu) | [J is for Joon](https://open.spotify.com/album/39F32WxX76dNnQG5vzw90w) | 3:34 |
 | 23 | [Prophetic Life](https://open.spotify.com/track/3M955tNqy7VD1vJ1BUXLW4) | [Babe Dylan](https://open.spotify.com/artist/0xd16ai4mtpBCnoaAHCw1a) | [Prophetic Life](https://open.spotify.com/album/6usIsnmqEplnbR0SUzJrZ8) | 2:44 |
@@ -461,4 +461,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 451 | [All Of Our Friends](https://open.spotify.com/track/7LDPJapt5Y0ugPR9ysUHw2) | [Emily Hines](https://open.spotify.com/artist/2ickW99aviSnUfDMsxpIOX) | [These Days](https://open.spotify.com/album/73oXwYKn7SWXBHCsDlQyLc) | 4:56 |
 | 452 | [Long Winter](https://open.spotify.com/track/2D9DREwIEEfpMBOmPi9SEM) | [Saintseneca](https://open.spotify.com/artist/5x3hUNIfDPxP1Kr0ZaGs64) | [Highwalllow & Supermoon Songs](https://open.spotify.com/album/1nErVBr1RSfaetOQpqXbVP) | 3:50 |
 
-Snapshot ID: `AAAxEZLacR6DCet4fxNfOh1XnbUBMT2p`
+Snapshot ID: `AAAxFVtI0GnAlE2O8Eu9GFn0zgxElfL3`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Indiepop in het Nederlands. Cover: nonchelange",
+  "description": "Indiepop in het Nederlands. Cover: MEROL",
   "name": "indie.nl",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 187704,
       "name": "Bidden In De Moshpit",
       "url": "https://open.spotify.com/track/0vV4dhunlGBFmQfkz1QGDB"
@@ -764,6 +764,24 @@
       "duration_ms": 181695,
       "name": "Chocoladefontein",
       "url": "https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj"
+    },
+    {
+      "album": {
+        "name": "Cowboy",
+        "url": "https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm"
+      },
+      "artists": [
+        {
+          "name": "De Zweefclub",
+          "url": "https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150173,
+      "name": "Cowboy",
+      "url": "https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK"
     },
     {
       "album": {
@@ -1728,7 +1746,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 280653,
       "name": "Het Laat Me Koud",
       "url": "https://open.spotify.com/track/3MBAkHWBjSkEidJ858kuuX"
@@ -3475,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Niks Is Zeker",
+        "url": "https://open.spotify.com/album/2mdXMY6Jgqtmf8Vlmv7gNb"
+      },
+      "artists": [
+        {
+          "name": "Willem",
+          "url": "https://open.spotify.com/artist/0QuIRxRWYAl4oRHSQYCYds"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181539,
+      "name": "Niks Is Zeker",
+      "url": "https://open.spotify.com/track/6ojaqvQB3ai8gTORhpoGTQ"
+    },
+    {
+      "album": {
         "name": "MONOMAAN",
         "url": "https://open.spotify.com/album/335puggyOOxTdZYNExWPgO"
       },
@@ -3972,6 +4008,24 @@
       "duration_ms": 153846,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/4wUawYEd2U6U3niFCZWQcJ"
+    },
+    {
+      "album": {
+        "name": "Rode Seks Feeks",
+        "url": "https://open.spotify.com/album/5qp1z7oKUeWaCHGIp2JBsu"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167381,
+      "name": "Rode Seks Feeks",
+      "url": "https://open.spotify.com/track/3om5HZ8ueyHTzqyGNOPCfw"
     },
     {
       "album": {
@@ -5396,7 +5450,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 208999,
       "name": "Zeg Me Hoe Het Moet",
       "url": "https://open.spotify.com/track/3JZHFwhoi5UnxkothjScpS"

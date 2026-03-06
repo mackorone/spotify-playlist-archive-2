@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-832 songs - 1 day 17 hr 22 min
+833 songs - 1 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -799,6 +799,7 @@
 | [What You Did](https://open.spotify.com/track/5XEONEp0zR8hUQitG66IxA) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [What You Did](https://open.spotify.com/album/16hPDvuC9mngcirBytn3YG) | 3:26 | 2024-12-10 |  |
 | [What You Gonna Do](https://open.spotify.com/track/4vmgwpTfj1TsOwCNKnl6Ro) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [What You Gonna Do](https://open.spotify.com/album/0QUZjVOZFGsf6xsCxbWXxn) | 3:05 | 2023-02-01 | 2023-04-28 |
 | [What's The Problem?](https://open.spotify.com/track/0yt5NPqjpgI9FcSXhe22Nv) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [What's The Problem?](https://open.spotify.com/album/5ud4Pyj0zSeUtQRxiB037g) | 2:28 | 2023-12-26 | 2024-07-19 |
+| [whatdoyousee](https://open.spotify.com/track/3acaGdJ1lTl4WxobCEuhoG) | [prodBigMike](https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X), [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW) | [whatdoyousee](https://open.spotify.com/album/3hYEI8WKcf4nCd7QV5hZ2a) | 1:58 | 2026-03-05 |  |
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 | 2023-04-28 |
 | [When I'm Gone](https://open.spotify.com/track/6rhZZuD7lVsJTOkqxLepTj) | [Tetrix Bass](https://open.spotify.com/artist/7wqWpJmkmXr5e8dcXdbrC6), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Ellen Louise](https://open.spotify.com/artist/67yangDHSVlDpDS4U4UWKe) | [When I'm Gone](https://open.spotify.com/album/1BlfvPW5eXF2tyyL6OkDaY) | 3:37 | 2022-06-09 | 2023-04-28 |
 | [When I'm With You](https://open.spotify.com/track/4IpHprcfDRMRjV1Vm2rr29) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy) | [When I'm With You](https://open.spotify.com/album/4LxPVPgBo9EGncjqxWkrPW) | 3:07 | 2022-09-16 | 2023-08-10 |

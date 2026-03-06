@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 46 | [Like You Do](https://open.spotify.com/track/4vS4ciFalEcCgwJR0hG5ro) | [Nimus](https://open.spotify.com/artist/0TT7iBNHgH8NGc6vX5Vodo) | [Like You Do](https://open.spotify.com/album/0sPG1RSfhPiOTOYx1rXwk5) | 2:24 |
 | 47 | [Rouge](https://open.spotify.com/track/5Lq8jAdhc69KzkrRoc2pjB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH) | [Rouge](https://open.spotify.com/album/208eaI6RT7zPv6lcM2ivII) | 2:28 |
 | 48 | [Cruel Intention](https://open.spotify.com/track/7daaWAY97rcxTkSvuEIxLw) | [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is), [Moli](https://open.spotify.com/artist/1UytzAp8ZnC60ZAMBROqW6) | [Cruel Intention](https://open.spotify.com/album/0dUQGioQuV6VpUj9mzhkMV) | 3:58 |
-| 49 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 |
-| 50 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
+| 49 | [Pretty When You Lie](https://open.spotify.com/track/2Bl0J01BAk7JkMGCtLdRz5) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Pretty When You Lie](https://open.spotify.com/album/7xEXzVF62ib2CVTIqKZGJa) | 2:15 |
+| 50 | [Gold](https://open.spotify.com/track/6GiUUbLouPiQglWFawWdpI) | [Phil Soda](https://open.spotify.com/artist/6oOURapauLCNtDmaYMv78O), [Aaron Pfeiffer](https://open.spotify.com/artist/3wrwt7OMZwE39s7YD3NZVF) | [Gold](https://open.spotify.com/album/5FnLDxa3uXueONAYV41Zpp) | 2:18 |
 | 51 | [We Are the Misfits](https://open.spotify.com/track/0DL6GTZ1WRIzIc5ciS6dzX) | [Selina Mour](https://open.spotify.com/artist/1zYkThtxlEsHksItd3YHlb) | [We Are the Misfits](https://open.spotify.com/album/5qoB0JB5ZLQS1VJs8YesPY) | 2:53 |
 | 52 | [Fade](https://open.spotify.com/track/3lVct0FG5GjLm1lALTpyPc) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj) | [Fade](https://open.spotify.com/album/1wUc9z7N5GRsfEDJVX7D91) | 2:58 |
 | 53 | [Closure](https://open.spotify.com/track/3LsmdnI5ZhcrAmsecZwnq9) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Closure](https://open.spotify.com/album/2RodNtKtjIRZr8R0qkRm3A) | 2:13 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCDLlreQRnS3.md) - [plain]
 | 124 | [Let Me Go](https://open.spotify.com/track/0O7mRBcpMI336QFM2y4mI5) | [Mike Schmid](https://open.spotify.com/artist/0pnxrtBsRrvxeBTjHduofB) | [Midnight Revelator](https://open.spotify.com/album/2hZZwGD9YjvOterIIyyiUs) | 4:13 |
 | 125 | [Tell Me](https://open.spotify.com/track/5kVCnX3Den54b4GYGDkmsY) | [Girl Kills Boy](https://open.spotify.com/artist/3ZZu5TqCXwALsGqPFOueAP) | [The Early Years](https://open.spotify.com/album/1VH9q8s8Pb0yKtPmoYqIqB) | 4:11 |
 
-Snapshot ID: `AcLQrAAAAACOOM6IqC8dMK/W8SWHd1Ph`
+Snapshot ID: `AcLWTAAAAAByMHIiywv+p0n9XuZcxe8e`

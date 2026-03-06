@@ -2589,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "Mild",
+        "url": "https://open.spotify.com/album/0FxfawPBiOWSBv7p403xeK"
+      },
+      "artists": [
+        {
+          "name": "Yoon Hyun Sang",
+          "url": "https://open.spotify.com/artist/390z2RITWBFLpD6HTC5UV2"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256812,
+      "name": "From, Today",
+      "url": "https://open.spotify.com/track/5kCigs24SF4YOTh3NzKc82"
+    },
+    {
+      "album": {
         "name": "Headlights",
         "url": "https://open.spotify.com/album/1AwebtVTQvVFyp8goceZOS"
       },
@@ -3032,6 +3050,28 @@
     {
       "album": {
         "name": "OCEAN WAVE",
+        "url": "https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4"
+      },
+      "artists": [
+        {
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
+        },
+        {
+          "name": "Lee WonSeok",
+          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
+        }
+      ],
+      "date_added": "2022-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260169,
+      "name": "Highteen (Feat. Lee Won Seok of Daybreak)",
+      "url": "https://open.spotify.com/track/72quUKjITH4txudAUZKXpi"
+    },
+    {
+      "album": {
+        "name": "OCEAN WAVE",
         "url": "https://open.spotify.com/album/06jDTVrUOYysEijXi9eKOQ"
       },
       "artists": [
@@ -3050,28 +3090,6 @@
       "duration_ms": 260169,
       "name": "Highteen (Feat. Lee Won Seok of Daybreak)",
       "url": "https://open.spotify.com/track/0nw4fbuu6af0WA36f0IHiX"
-    },
-    {
-      "album": {
-        "name": "OCEAN WAVE",
-        "url": "https://open.spotify.com/album/2xA63q65mFlkG3ICY6BPS4"
-      },
-      "artists": [
-        {
-          "name": "Kim Areum",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        },
-        {
-          "name": "Lee WonSeok",
-          "url": "https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z"
-        }
-      ],
-      "date_added": "2022-09-05",
-      "date_added_asterisk": false,
-      "date_removed": "2022-10-05",
-      "duration_ms": 260169,
-      "name": "Highteen (Feat. Lee Won Seok of Daybreak)",
-      "url": "https://open.spotify.com/track/72quUKjITH4txudAUZKXpi"
     },
     {
       "album": {
@@ -3184,6 +3202,24 @@
       "duration_ms": 205373,
       "name": "I Feel You",
       "url": "https://open.spotify.com/track/4VDY2adUsc1up1nitWztVg"
+    },
+    {
+      "album": {
+        "name": "I Wanna",
+        "url": "https://open.spotify.com/album/1jPoNeqdUfxYUq393CcMd9"
+      },
+      "artists": [
+        {
+          "name": "Lee",
+          "url": "https://open.spotify.com/artist/3XRdtkTNhBPl3ocWZJiN7q"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240944,
+      "name": "I Wanna",
+      "url": "https://open.spotify.com/track/7ox2IqmVCDoNwdQdjpbuku"
     },
     {
       "album": {
@@ -4238,7 +4274,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 283493,
       "name": "Memories of Summer",
       "url": "https://open.spotify.com/track/0g0xDwm7qx1zqV0KDQCjr4"
@@ -5486,7 +5522,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 224726,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/389DRP9O3ftN8r7QZxcUX0"
@@ -5616,7 +5652,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 216578,
       "name": "Sign",
       "url": "https://open.spotify.com/track/0ZHyC8NwIeGWaf73dQuK0y"
@@ -7568,7 +7604,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 193758,
       "name": "\uc5ec\ub984\ud544\ub984 \u590f\u306e\u30d5\u30a3\u30eb\u30e0 (Summer Film)",
       "url": "https://open.spotify.com/track/24kPqpfBn3DNDAaeqEXaD0"
@@ -7662,7 +7698,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 224726,
       "name": "\uc9c0\ucf1c\uc904\uac8c",
       "url": "https://open.spotify.com/track/0FfGs47PNQ81c01ceX8kdL"

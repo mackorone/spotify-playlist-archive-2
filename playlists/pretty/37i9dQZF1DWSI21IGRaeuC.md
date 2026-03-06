@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring SOSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,722 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,770 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 76 | [Mambos](https://open.spotify.com/track/3gFVvoIXxZkvCd8JhyovgY) | [LIGHTLEAK](https://open.spotify.com/artist/1gU6WyJYdljeam0N3ZpgOC) | [Mambos](https://open.spotify.com/album/4HikS1roRtAhmCrFlSrvpM) | 2:57 |
 | 77 | [One Night](https://open.spotify.com/track/6m8wEkW7CJFNDH9LweKV0z) | [Ryan Grey](https://open.spotify.com/artist/68FF5yW2tWcn7HqeL4seaw), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Night](https://open.spotify.com/album/5h8yxVhYmtxaVZ66fGYjeD) | 2:38 |
 | 78 | [Doin' it featuring MC DT](https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [MC DT](https://open.spotify.com/artist/4cHj4iJzUsjzbEbZLuojl6) | [Doin' It feat\. MC DT](https://open.spotify.com/album/13cNeTgAVDTDGliUCzUSzc) | 2:57 |
-| 79 | [Downstairs](https://open.spotify.com/track/5cIEe3Ff64L5GbrAjLz3IY) | [Capron \(NL\)](https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz) | [Downstairs EP](https://open.spotify.com/album/2w7gFrShnSxaHRZK8DGxF5) | 3:03 |
+| 79 | [Downstairs](https://open.spotify.com/track/5cIEe3Ff64L5GbrAjLz3IY) | [Capron](https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz) | [Downstairs EP](https://open.spotify.com/album/2w7gFrShnSxaHRZK8DGxF5) | 3:03 |
 | 80 | [Ill Behaviour](https://open.spotify.com/track/3PjlHGywmMwuj4YIawdty7) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [Ill Behaviour](https://open.spotify.com/album/1JrvmhqdmQ4ai0NuCnieO6) | 5:27 |
 | 81 | [Come Closer \(feat\. Sienna Sophia\)](https://open.spotify.com/track/6u4hUxemFMANHWhYPzKqNt) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Sienna Sophia](https://open.spotify.com/artist/4ySoVEe3hvK3T8fkpNgJna) | [Come Closer EP](https://open.spotify.com/album/4SW1YeMMpQ0BIk28YFvFkz) | 3:26 |
 | 82 | [I’m Lonely \- Casnova Dub](https://open.spotify.com/track/6LjTvg4Ug3H8RHGRahBEVt) | [Hollis P\. Monroe](https://open.spotify.com/artist/34ehU42UfPtkgHMoD9gMJD), [Casnova](https://open.spotify.com/artist/6F70IVYLHKbzVyn5k3Ogag) | [I’m Lonely \(Casnova Dub\)](https://open.spotify.com/album/2po9PxWb15U2h7iTtzNmEq) | 3:22 |

@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-565 songs - 1 day 9 hr 44 min
+566 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Diapason](https://open.spotify.com/track/4J9BGcZInwo34jQz7OoZ6R) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8) | [Diapason](https://open.spotify.com/album/6rl0ZMWPSni69nx5kheicc) | 2:26 | 2021-01-30 | 2022-07-27 |
 | [Did Life Work Out for You?](https://open.spotify.com/track/16pDdqp376bpBsBFAZqb0R) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:19 | 2024-05-17 |  |
 | [Dis\-moi où tu m'emmènes](https://open.spotify.com/track/7yL5X05lVrh1oybCGCzwHg) | [Erwan](https://open.spotify.com/artist/3uWhb8ADEysVQ5IRoFfAcH) | [Dis\-moi où tu m'emmènes](https://open.spotify.com/album/1g74s7wR4aXTqv9XzIAHtE) | 3:37 | 2021-09-19 | 2021-11-13 |
+| [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 | 2026-02-27 |  |
 | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/track/3Q72tU2JbmxUaUODbv3GEC) | [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [DON'T WANNA HEAR THAT SONG ANYMORE](https://open.spotify.com/album/6QMjkSOxC9E7vbqfLDuGEZ) | 3:11 | 2024-08-23 | 2025-11-01 |
 | [Dormance](https://open.spotify.com/track/0ah1tf7hgCCPoj78OSZB9E) | [Gabriel Noël](https://open.spotify.com/artist/6p5qua20Z6aIoP9yXwOHPL) | [Essai de danse sans gravité](https://open.spotify.com/album/0ARc8KE40XTNMXG7Qkdsta) | 2:33 | 2021-01-03\* | 2022-06-18 |
 | [Dormir dans l'auto](https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Dormir dans l'auto](https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl) | 3:28 | 2022-09-23 | 2024-05-04 |
@@ -306,7 +307,7 @@
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-02 | 2025-10-25 |
 | [Looking At Me](https://open.spotify.com/track/7MmcBM454plU5ZnamhC7D1) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3uZRDyduIzyv3NtAcakEwS) | 3:12 | 2024-01-12 | 2024-04-19 |
 | [Loose Ends](https://open.spotify.com/track/7vYDu6ViTuxBIE88LjyfEk) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Loose Ends](https://open.spotify.com/album/2i4biYAqbgxIzrUOk0CB46) | 3:01 | 2024-11-29 |  |
-| [Los Peces](https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [First Recordings](https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U) | 3:38 | 2024-10-04 |  |
+| [Los Peces](https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [First Recordings](https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U) | 3:38 | 2024-10-04 | 2026-03-06 |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2025-11-08 |
 | [Lost River](https://open.spotify.com/track/7B5iVq1KpRI6KwomC6W1Ge) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Beatrice Martin](https://open.spotify.com/artist/67z5ieiEhnEwsCKPKpgvgo) | [Perséides](https://open.spotify.com/album/7nfOshpjsyOUdXfnWSINOA) | 2:55 | 2022-07-08 | 2024-04-19 |
 | [Lost With You](https://open.spotify.com/track/1zqxYmUku2McZZe7tXibAt) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6ciXEklHW7OVLHlZXZXobj) | 2:55 | 2024-04-12 | 2024-04-19 |

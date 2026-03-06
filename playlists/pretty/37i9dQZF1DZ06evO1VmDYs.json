@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 199855,
+  "num_followers": 199890,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABqCY/sUAn89JLAg4EXaymU",
+  "snapshot_id": "aad2AAAAAABgM4AqEUMRXYV+T0zvXlJ/",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "I've Had It Up To Here",
+      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pinkerton - Deluxe Edition",
         "url": "https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 207760,
       "name": "Do You Wanna Get High?",
       "url": "https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything Will Be Alright In The End",
-        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "I've Had It Up To Here",
-      "url": "https://open.spotify.com/track/1n3z9C5QWGFcn5sueTO694"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurley (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything Will Be Alright In The End",
         "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 185160,
       "name": "Back To The Shack",
       "url": "https://open.spotify.com/track/42YgaJLCehufTbH2orwBHM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurley (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz"
     }
   ],
   "unique_name": "This Is Weezer",

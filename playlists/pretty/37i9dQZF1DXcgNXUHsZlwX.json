@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \u2744\ufe0f",
-  "num_followers": 143006,
+  "num_followers": 143008,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Unessential Oils",
-        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
-      },
-      "artists": [
-        {
-          "name": "Unessential Oils",
-          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
-        }
-      ],
-      "duration_ms": 265880,
-      "name": "Solutions to My Gloom",
-      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
         "name": "The Good Part",
         "url": "https://open.spotify.com/album/5Un6QRQcTrPlf9HvcZ4Xd1"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 211973,
       "name": "The Good Part",
       "url": "https://open.spotify.com/track/7cCscSBdKzNWalP42xkNUM"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
+        "name": "Unessential Oils",
+        "url": "https://open.spotify.com/album/7wv2WyE90zTTbgEGKVWtaq"
+      },
+      "artists": [
+        {
+          "name": "Unessential Oils",
+          "url": "https://open.spotify.com/artist/34dPqKupUgAXZRn6beb0Zu"
+        }
+      ],
+      "duration_ms": 265880,
+      "name": "Solutions to My Gloom",
+      "url": "https://open.spotify.com/track/3Cq3SRFSWK7qhfSvSWMkxg"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -611,18 +611,18 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -659,18 +659,18 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
       "artists": [
         {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -723,18 +723,22 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "I took off my heels",
-        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
+        "name": "Eldorado (Acoustique)",
+        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
       },
       "artists": [
         {
-          "name": "Avery Jane",
-          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
+          "name": "Fred Dionne",
+          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
+        },
+        {
+          "name": "Katrine Sansregret",
+          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
         }
       ],
-      "duration_ms": 226480,
-      "name": "I took off my heels",
-      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
+      "duration_ms": 197749,
+      "name": "Eldorado - Acoustique",
+      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -755,22 +759,18 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Eldorado (Acoustique)",
-        "url": "https://open.spotify.com/album/07i8dt35vq11eDTyBuyhSB"
+        "name": "I took off my heels",
+        "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
       },
       "artists": [
         {
-          "name": "Fred Dionne",
-          "url": "https://open.spotify.com/artist/3HafAp0QyF7zN7EjOM1sRF"
-        },
-        {
-          "name": "Katrine Sansregret",
-          "url": "https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw"
+          "name": "Avery Jane",
+          "url": "https://open.spotify.com/artist/4ShbxQ4vJNnnFdMl0EMHCg"
         }
       ],
-      "duration_ms": 197749,
-      "name": "Eldorado - Acoustique",
-      "url": "https://open.spotify.com/track/4BGm2UJViWmh0cJ7P3XPjf"
+      "duration_ms": 226480,
+      "name": "I took off my heels",
+      "url": "https://open.spotify.com/track/0oeBdq0kLwNv8Vcfz3cHBi"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
+        "name": "Altogether Unaccompanied, Vol. V",
+        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 305185,
+      "name": "Bigger Pieces",
+      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
         "name": "tout me quitte / tout vient \u00e0 moi",
         "url": "https://open.spotify.com/album/6NzSqNUhcdFuOYlqgGVZJn"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 168358,
       "name": "Ici",
       "url": "https://open.spotify.com/track/2bkFu4kRYkFslkXjDEV1G7"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
-        "name": "Altogether Unaccompanied, Vol. V",
-        "url": "https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 305185,
-      "name": "Bigger Pieces",
-      "url": "https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
         "name": "Pour d\u00e9jouer l'ennui",
         "url": "https://open.spotify.com/album/096tQ53nMSEYJrCiIMrEgE"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Wish You Well",
-        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
-      },
-      "artists": [
-        {
-          "name": "Cath Darbouze",
-          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
-        }
-      ],
-      "duration_ms": 207318,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
         "name": "They will draw halos around our heads",
         "url": "https://open.spotify.com/album/77O8QRrLM8nFLAMXpwDJST"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "mauvais sort",
-        "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
+        "name": "Wish You Well",
+        "url": "https://open.spotify.com/album/5ctm1YamC4YOm4Sp3RRPID"
       },
       "artists": [
         {
-          "name": "Xavier Euphory",
-          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
+          "name": "Cath Darbouze",
+          "url": "https://open.spotify.com/artist/27UCUxjYYoK3djQnSTdPWV"
         }
       ],
-      "duration_ms": 291034,
-      "name": "mauvais sort",
-      "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
+      "duration_ms": 207318,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/1iVesG6O65FVRdzrtvC3rJ"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -1519,18 +1503,18 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
-        "name": "Live Slow Die Wise",
-        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+        "name": "mauvais sort",
+        "url": "https://open.spotify.com/album/5jOqIFY6fLelCZPJ9snTq9"
       },
       "artists": [
         {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+          "name": "Xavier Euphory",
+          "url": "https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg"
         }
       ],
-      "duration_ms": 218160,
-      "name": "Sweetpie",
-      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+      "duration_ms": 291034,
+      "name": "mauvais sort",
+      "url": "https://open.spotify.com/track/1UXX5CQZNYE46PUkTpYTh2"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -1551,6 +1535,22 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Sweetpie",
+      "url": "https://open.spotify.com/track/1jhyCkUOc475Tb6BhT2AO0"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
         "name": "Mon amour",
         "url": "https://open.spotify.com/album/7CIx0b1ScA7XrRLTmbwJLk"
       },
@@ -1563,38 +1563,6 @@
       "duration_ms": 269293,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/11r38rBuSbkj0M51YLDBh8"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
-        "name": "Swimmer",
-        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 213107,
-      "name": "Swimmer",
-      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
-        "name": "Velours et Acide",
-        "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
-      },
-      "artists": [
-        {
-          "name": "Charlie Juste",
-          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
-        }
-      ],
-      "duration_ms": 215815,
-      "name": "\u00c9thanol",
-      "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
     },
     {
       "added_at": "2026-02-27 05:01:24",
@@ -1615,6 +1583,38 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
+        "name": "Velours et Acide",
+        "url": "https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy"
+      },
+      "artists": [
+        {
+          "name": "Charlie Juste",
+          "url": "https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd"
+        }
+      ],
+      "duration_ms": 215815,
+      "name": "\u00c9thanol",
+      "url": "https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
+        "name": "Swimmer",
+        "url": "https://open.spotify.com/album/0QddKPlPXH5Yb5TrCUGt8N"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Swimmer",
+      "url": "https://open.spotify.com/track/6tXYijeguaEFXSok2BQy01"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
         "name": "\u00c9coute",
         "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2026-02-27 05:01:24",
       "album": {
+        "name": "Dog (everybody learns)",
+        "url": "https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP"
+      },
+      "artists": [
+        {
+          "name": "Avril Jensen",
+          "url": "https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA"
+        }
+      ],
+      "duration_ms": 193212,
+      "name": "Dog (everybody learns)",
+      "url": "https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q"
+    },
+    {
+      "added_at": "2026-02-27 05:01:24",
+      "album": {
         "name": "Un r\u00e9veil",
         "url": "https://open.spotify.com/album/1loyRDHjtV77N1zcaLgMkQ"
       },
@@ -1643,26 +1659,6 @@
       "duration_ms": 204983,
       "name": "Un r\u00e9veil",
       "url": "https://open.spotify.com/track/64UM1r9WN1VoVKeMDitUrr"
-    },
-    {
-      "added_at": "2026-02-27 05:01:24",
-      "album": {
-        "name": "First Recordings",
-        "url": "https://open.spotify.com/album/4jyIvjfimFU7XkDf5kql9U"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        },
-        {
-          "name": "Yves Desrosiers",
-          "url": "https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Los Peces",
-      "url": "https://open.spotify.com/track/6j0KzFyCDDt4Mhkje36qts"
     },
     {
       "added_at": "2026-02-27 05:01:24",

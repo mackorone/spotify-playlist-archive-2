@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43470,
+  "num_followers": 43475,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAADRLtySZgz5jPIu2bYDjz3B",
+  "snapshot_id": "aad2AAAAAAA5CgfSSStWFQp8oSB1fhVi",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo 3",
-        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
+        "name": "Sticks And Stones",
+        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 240943,
-      "name": "A Thousand Years",
-      "url": "https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV"
+      "duration_ms": 191160,
+      "name": "Understatement",
+      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sticks And Stones",
-        "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
+        "name": "From The Screen To Your Stereo 3",
+        "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 191160,
-      "name": "Understatement",
-      "url": "https://open.spotify.com/track/4191ROqtYiS10furYDAv05"
+      "duration_ms": 240943,
+      "name": "A Thousand Years",
+      "url": "https://open.spotify.com/track/5jikbiarPYHC9fc3lYrHfV"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beer and Blood Stains",
-        "url": "https://open.spotify.com/album/6qfKaBSurOwbjy3jm1uMrL"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 199747,
-      "name": "Beer and Blood Stains",
-      "url": "https://open.spotify.com/track/26bnW74Wx2gOADqc6c8mV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sticks And Stones",
         "url": "https://open.spotify.com/album/29rNv6X8yQsCMiIOqkHud8"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 226840,
       "name": "Head On Collision",
       "url": "https://open.spotify.com/track/11edIhzFAjPEVbZ92LQKwT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 182066,
+      "name": "Truth Of My Youth",
+      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
     },
     {
       "added_at": null,
@@ -276,25 +276,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 218509,
-      "name": "Treat Yourself",
-      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 182066,
-      "name": "Truth Of My Youth",
-      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+      "duration_ms": 199747,
+      "name": "Beer and Blood Stains",
+      "url": "https://open.spotify.com/track/0ZzFPV1ksTXatHVgxNXvJz"
     },
     {
       "added_at": null,
@@ -331,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 253231,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/4muBJIUmx46Ua1GGxFEroZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -359,6 +327,22 @@
       "duration_ms": 196562,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 218509,
+      "name": "Treat Yourself",
+      "url": "https://open.spotify.com/track/3zV9ltwPTs7awTjWbnxm8Q"
     },
     {
       "added_at": null,
@@ -395,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Up!",
-        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 196027,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -423,6 +391,22 @@
       "duration_ms": 208475,
       "name": "This Is Me",
       "url": "https://open.spotify.com/track/0QA5n3Mwosk7p7rmnBpuAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Up!",
+        "url": "https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 253231,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/4muBJIUmx46Ua1GGxFEroZ"
     },
     {
       "added_at": null,

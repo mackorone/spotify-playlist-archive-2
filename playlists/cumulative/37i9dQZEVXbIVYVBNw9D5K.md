@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,466 songs - 3 day 2 hr 6 min
+1,467 songs - 3 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,7 +173,7 @@
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-17 | 2023-08-20 |
 | [Baba Yak](https://open.spotify.com/track/0JBXoHRZdgMlOUrnALDs1y) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/0OAVYU8t5hsj92eYATU0IZ) | 2:18 | 2021-09-05 | 2021-09-08 |
 | [Baba Yak](https://open.spotify.com/track/7usrRc80h2SFbDC5BU4Txp) | [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Baba Yak](https://open.spotify.com/album/44DZc6AFt0yYhm225b29HB) | 2:18 | 2021-09-08 | 2021-10-24 |
-| [Babaflow](https://open.spotify.com/track/5i3upHyGHZIdW3FpwveVv1) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 2:57 | 2026-01-24 | 2026-02-22 |
+| [Babaflow](https://open.spotify.com/track/5i3upHyGHZIdW3FpwveVv1) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 2:57 | 2026-01-24 |  |
 | [Baby Naber?](https://open.spotify.com/track/26BtOe3Dyvbe0Uavxj60ST) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Baby Naber?](https://open.spotify.com/album/11FT97nMjQ7wgtPvFtdLIk) | 1:58 | 2023-08-12 | 2023-08-14 |
 | [BACK IN BUSINESS](https://open.spotify.com/track/6HNVQfmmuHloobK46wgySz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [9](https://open.spotify.com/album/4Y85xXiGtuA1moIlx5JMZV) | 3:07 | 2025-07-19 | 2025-07-21 |
 | [Bahçemin En Zor Gülü](https://open.spotify.com/track/6rRwSZRESAriAagC5CmWMS) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Fatih](https://open.spotify.com/album/7eB3zd25eiAwsUMCcLpRCf) | 4:30 | 2023-09-26 | 2023-09-30 |
@@ -817,6 +817,7 @@
 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 | 2024-03-02 | 2024-05-20 |
 | [Kervan](https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B) | [Bengü](https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Kervan](https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P) | 2:34 | 2025-01-19 | 2025-02-15 |
 | [Keskin](https://open.spotify.com/track/4cziPzONppT5Wmdsj1SVlf) | [Cem Adrian](https://open.spotify.com/artist/2AWUCT9xtcvkjpFq1ZgpPj) | [Keskin](https://open.spotify.com/album/42MQd5f4luxqeDq7VlkFwx) | 3:21 | 2022-12-18 | 2023-02-12 |
+| [Keskin Biçak](https://open.spotify.com/track/0OtxfGYPubzoHifZ4pi4jo) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Deliveren](https://open.spotify.com/album/2IRdHOUWlxGrNfuW8Vx4IM) | 5:26 | 2026-03-05 |  |
 | [ketojenik](https://open.spotify.com/track/58QSOYAIOBR6DTYwhLUEMh) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5), [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [ketojenik](https://open.spotify.com/album/0pDKtMxJJzNrvYFPtZWddu) | 2:33 | 2025-08-09 | 2025-08-14 |
 | [keçi](https://open.spotify.com/track/50dH1x3AlnjndEUsqXeZv7) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:03 | 2025-07-19 | 2025-07-27 |
 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-03-28 |  |
@@ -1280,7 +1281,7 @@
 | [Toprak Yağmura \(Akustik\)](https://open.spotify.com/track/4sCt5tJL9SMAODyiEiVBDd) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [Dolunay](https://open.spotify.com/album/2hWWX2M4ZD4PVyaPTmkfaV) | 3:56 | 2021-11-16 | 2021-12-04 |
 | [toz duman](https://open.spotify.com/track/5rS3b5yHagEQGI7HqDusZ5) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [toz duman](https://open.spotify.com/album/1QkfSEPKAm4fbr8WZyHhZv) | 2:47 | 2021-05-30 | 2021-10-31 |
 | [Trankobuskas \- Remix](https://open.spotify.com/track/3Zy6uq4X0w6O8UMwJbzv9o) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [Trankobuskas \(Remix\)](https://open.spotify.com/album/4Hss7kjHJp7L2EyovjOnEj) | 2:02 | 2022-02-12 | 2022-06-13 |
-| [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-24 |  |
+| [Trap House](https://open.spotify.com/track/24jJv0eMKXT4MvGKRP70QS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Mortal Kombat](https://open.spotify.com/album/7wOVZ7Rjv27Gl0kuMhEAyS) | 3:06 | 2026-01-24 | 2026-03-06 |
 | [Trip attım](https://open.spotify.com/track/3eCpykORJcDHvDWxvrKYDu) | [ALIZADE](https://open.spotify.com/artist/1EPZusBDP8yewhsaKtwktz) | [Trip attım](https://open.spotify.com/album/6AjvqUlpE0M92AH3cTJIAU) | 2:01 | 2023-10-07 | 2023-12-15 |
 | [Tuana](https://open.spotify.com/track/3Kut1u60mgcH59QWty8uUz) | [Levent Yüksel](https://open.spotify.com/artist/3OVWvBHwlq5w8iRJEBoCp2) | [Med Cezir](https://open.spotify.com/album/2ZdcN7EGH5XuE9ZxaAfzLO) | 5:19 | 2023-05-15 | 2023-05-17 |
 | [TURKISH BOY](https://open.spotify.com/track/1Lk1gfIzJF5RyhyCkHUWEG) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [LEVO](https://open.spotify.com/artist/4VkQs39IBA4Af9gaqMskcK) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:22 | 2022-09-10 | 2022-09-12 |
@@ -1379,7 +1380,7 @@
 | [Yaz Gülü](https://open.spotify.com/track/6775h2mEBbRRXUAYG9P3bs) | [Yalın](https://open.spotify.com/artist/46zuW8tHxwahYn7VNMgYTa) | [Yaz Gülü](https://open.spotify.com/album/1KmiEGyK23qs9evr7KgRSJ) | 3:10 | 2021-05-30 | 2021-08-18 |
 | [Yazık](https://open.spotify.com/track/7zrezWXOFZQt6c85kBrxW3) | [Tuğkan](https://open.spotify.com/artist/2h1EEQ0lD01lPKDRGisvL4) | [Yazık](https://open.spotify.com/album/3oeUiunQS0PUoC905GoL0w) | 3:00 | 2021-03-27\* | 2021-04-22 |
 | [Yağmurlar](https://open.spotify.com/track/3aX0N8IdY9rECrbuuR4FMp) | [Anıl Piyancı](https://open.spotify.com/artist/2u4xMsh0M2B7R8Wb3pEWae), [Perdenin Ardındakiler](https://open.spotify.com/artist/1lMEWvvUlwzQ5OKB4w1HTn) | [Yağmurlar](https://open.spotify.com/album/4x6kGMwS5zASgxOptPj7yP) | 3:57 | 2021-03-27\* | 2021-03-29 |
-| [Yağmurlar](https://open.spotify.com/track/6xCPxUo1OHGQpaN3CMb7DN) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kadın](https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre) | 5:06 | 2025-11-24 |  |
+| [Yağmurlar](https://open.spotify.com/track/6xCPxUo1OHGQpaN3CMb7DN) | [Şebnem Ferah](https://open.spotify.com/artist/74xBVPWYoSf5pvo5IkePRO) | [Kadın](https://open.spotify.com/album/5aSqHgJXiGReiPlk8BaWre) | 5:06 | 2025-11-24 | 2026-03-06 |
 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 | 2025-06-14 | 2026-02-20 |
 | [Yaşıyoken Anla](https://open.spotify.com/track/0e86zY8kamEt5Jz5pAWpc9) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Yaşıyoken Anla](https://open.spotify.com/album/5mWXaZ7MlKvbdnLPZ1UlOs) | 3:17 | 2026-02-28 |  |
 | [Yediverenim](https://open.spotify.com/track/4oNFpReTeO8DlVcdJINHsX) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Hoşgeldin](https://open.spotify.com/album/7qJXluMkVb8aBsC8OMPlQK) | 3:25 | 2025-01-16 | 2025-01-19 |

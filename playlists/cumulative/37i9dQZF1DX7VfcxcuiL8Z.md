@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: Pacific Avenue
+> The best in new rock\. Cover: Basement
 
-554 songs - 1 day 8 hr 22 min
+558 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Check Mate](https://open.spotify.com/track/4lMstSPBDmunCswnizQ5b1) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Check Mate](https://open.spotify.com/album/5Sf5kDdfzSweeoTVjL9dNc) | 3:16 | 2024-05-16 | 2024-10-04 |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-08-22 | 2024-11-08 |
 | [Chicken](https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Chicken](https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD) | 4:22 | 2024-07-25 | 2024-10-25 |
+| [Choo Choo](https://open.spotify.com/track/2CftoriIV6cBsAcFMzm5Cx) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Choo Choo](https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t) | 3:20 | 2026-03-05 |  |
 | [Chrome Jets](https://open.spotify.com/track/5a0SxmltHNs5PaRTUAAYLZ) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Chrome Jets](https://open.spotify.com/album/5CXyWQG2ke7GBv0ftgVaCf) | 3:36 | 2025-09-11 | 2025-11-21 |
 | [Cigarettes & Alcohol \- Sawmills Outtake](https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(30th Anniversary\)](https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA) | 5:06 | 2024-08-30 | 2025-01-24 |
 | [City Walls](https://open.spotify.com/track/0Ji9UonfwC90rbZ4IaQhOb) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 5:22 | 2025-09-11 | 2026-01-23 |
@@ -245,6 +246,7 @@
 | [IDENTITY](https://open.spotify.com/track/2sMbNh0yhdzUi0f4Y9DGuV) | [BIG NOTER](https://open.spotify.com/artist/3wuLSOv0CPHw4s22TIIN0B) | [IDENTITY](https://open.spotify.com/album/5I5Z5PckRfqeq5A9zdvuQh) | 3:24 | 2025-04-10 | 2025-09-12 |
 | [Imminent Redemption](https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B) | [Jane's Addiction](https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR) | [Imminent Redemption](https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi) | 3:04 | 2024-07-25 | 2024-09-27 |
 | [In Front of Me Now](https://open.spotify.com/track/0rQazIPADhp6WirPHVD0xp) | [Nada Surf](https://open.spotify.com/artist/11zHPjHnZN0ACA50rSnTcy) | [In Front of Me Now](https://open.spotify.com/album/3VWqWwC3XNhuhStTquKzgf) | 3:41 | 2024-05-16 | 2024-08-02 |
+| [In My Room](https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Room](https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB) | 2:43 | 2026-03-05 |  |
 | [In The Modern World](https://open.spotify.com/track/7ht9gaFe8hSIp5R795x87h) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [In The Modern World](https://open.spotify.com/album/52hEWkt7HEi8WZLXDwg7R0) | 4:26 | 2024-08-22 | 2024-10-25 |
 | [Incubator \(V2000\)](https://open.spotify.com/track/3kqTKerp9ZIPTLLPjZXeJj) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Carpe Diem, Moonman](https://open.spotify.com/album/16GtmNPUFAfLM3l3pZFNye) | 3:18 | 2025-05-15 | 2025-07-25 |
 | [infinite source](https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [private music](https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ) | 3:32 | 2025-08-21 |  |
@@ -336,6 +338,7 @@
 | [No Other Place](https://open.spotify.com/track/3XE8IQe5xPB0YvWEFAAfZh) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [No Other Place](https://open.spotify.com/album/3Rr3LnAb1qDaRk3G8JTmbO) | 2:46 | 2024-08-08 | 2024-10-11 |
 | [No Rain, No Flowers](https://open.spotify.com/track/2aCRmuNL8RaBi8h7BbmTsT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [No Rain, No Flowers](https://open.spotify.com/album/23zADDjNU8SsruJg2Fcg88) | 3:16 | 2025-05-15 |  |
 | [Nod](https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nod](https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk) | 3:02 | 2025-01-23 | 2025-05-16 |
+| [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 | 2026-03-05 |  |
 | [NOSE BLEED](https://open.spotify.com/track/2hXcTd2JwqQcB2BeP4pCmv) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [NOSE BLEED](https://open.spotify.com/album/772BcjyDWvoIxM5ASWds6j) | 3:15 | 2024-08-22 | 2024-11-22 |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-01-16 | 2025-04-11 |
 | [Not Sacred](https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky \(Deluxe\)](https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5) | 3:46 | 2025-11-13 |  |
@@ -543,6 +546,7 @@
 | [Wildfire](https://open.spotify.com/track/1Bggj31rDpxh8F72XhvkZd) | [The Cheaks](https://open.spotify.com/artist/2Tj3pxV14jBuAAieDPfVtc) | [Wildfire](https://open.spotify.com/album/2VyE9aILdoKEfTeotRjCbU) | 3:28 | 2025-05-01 | 2026-02-06 |
 | [Wildflowers](https://open.spotify.com/track/6KAk8ufRJc4ZqGRkIRfCM5) | [Jim Nothing](https://open.spotify.com/artist/4eb7qCBJliHYY0oYgFFdYR) | [Wildflowers](https://open.spotify.com/album/2aPcmHmXm8VOirMVurtynw) | 2:52 | 2024-10-03 | 2025-01-17 |
 | [Will You Love Me When I’m Dead](https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Will You Love Me When I’m Dead](https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU) | 3:13 | 2024-12-12 | 2025-04-04 |
+| [WIRED](https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/1ZrrDRubcm6BnwzadNcJnP) | 2:33 | 2026-03-05 |  |
 | [Wish You Were Here](https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View XXIII](https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z) | 3:32 | 2024-05-09 | 2024-12-13 |
 | [WONDERFUL](https://open.spotify.com/track/2KlnNibs8vbh1ulZ7124vI) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY](https://open.spotify.com/album/1XCxwBhOgN3o8E6YSkWZk2) | 3:22 | 2025-11-06 | 2026-01-30 |
 | [Wonderwall \- Spotify Singles](https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Spotify Singles](https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c) | 4:00 | 2025-01-30 | 2025-09-12 |

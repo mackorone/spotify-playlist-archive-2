@@ -5790,7 +5790,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 269935,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/7t5a28dyiW0JajSQ3CFuzg"
@@ -7288,6 +7288,24 @@
       "duration_ms": 240000,
       "name": "Vanishing Point",
       "url": "https://open.spotify.com/track/3QFamijo1AyZ7eb1cnNNaC"
+    },
+    {
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/64NgQmFMWCrwbQe5DwnCqI"
+      },
+      "artists": [
+        {
+          "name": "obli",
+          "url": "https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226698,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4"
     },
     {
       "album": {

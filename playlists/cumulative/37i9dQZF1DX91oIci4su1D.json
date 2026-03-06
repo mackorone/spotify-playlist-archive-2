@@ -10029,6 +10029,28 @@
     },
     {
       "album": {
+        "name": "Haunt Me",
+        "url": "https://open.spotify.com/album/1sL3b3fJEBAgQUsjyGHIZQ"
+      },
+      "artists": [
+        {
+          "name": "Solarstone",
+          "url": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+        },
+        {
+          "name": "Susie Ledge",
+          "url": "https://open.spotify.com/artist/2IuTspiSwgQQs4LmvNSBIZ"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236490,
+      "name": "Haunt Me",
+      "url": "https://open.spotify.com/track/13tsbvy71RkyXkou6x5HAP"
+    },
+    {
+      "album": {
         "name": "Haunted",
         "url": "https://open.spotify.com/album/7bYRDRqBeIW1XaehNdmyx3"
       },
@@ -26072,7 +26094,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 217846,
       "name": "Who We Are",
       "url": "https://open.spotify.com/track/5vcuyY3EZgQEhLEx6fmYHM"

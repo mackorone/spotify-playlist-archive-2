@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 90589,
       "name": "back two it",
       "url": "https://open.spotify.com/track/7ICiqqSwk8DpT8b1MweYmB"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 179863,
       "name": "Barcelona by night",
       "url": "https://open.spotify.com/track/37USxniJiwBUe5fbLGBM1R"
@@ -4624,6 +4624,24 @@
       "duration_ms": 161339,
       "name": "Feel It Again",
       "url": "https://open.spotify.com/track/278IGX4HubIJM7Vdt6Fp6H"
+    },
+    {
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/2A0CXM5IPbkEFSm7BwBSb4"
+      },
+      "artists": [
+        {
+          "name": "Christian Alexander",
+          "url": "https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212188,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/7ad8Zwl5MSFPtPnht7cNpD"
     },
     {
       "album": {
@@ -8261,6 +8279,24 @@
     },
     {
       "album": {
+        "name": "LIFELINES",
+        "url": "https://open.spotify.com/album/0KU8QpKvNozn67uQRff8BU"
+      },
+      "artists": [
+        {
+          "name": "MILLO",
+          "url": "https://open.spotify.com/artist/2don0SmqElQAxDKKzPbD7k"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208004,
+      "name": "LIFELINES",
+      "url": "https://open.spotify.com/track/1d7nysDXM2VLCpZoxykShN"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/6OEsxLD2Zjs96w34rvgdOd"
       },
@@ -9272,7 +9308,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 181250,
       "name": "Miss June",
       "url": "https://open.spotify.com/track/7v0T7tCD2DMJzF0rpWtCCs"
@@ -9878,7 +9914,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 215956,
       "name": "Nice Day",
       "url": "https://open.spotify.com/track/0C874cnhfQWJTT9Ly5BaEZ"
@@ -10294,6 +10330,24 @@
       "duration_ms": 192047,
       "name": "othello",
       "url": "https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt"
+    },
+    {
+      "album": {
+        "name": "Suddenly, Everything\u2019s Changing",
+        "url": "https://open.spotify.com/album/1rzTiIXtXoyXQuVgiahpT6"
+      },
+      "artists": [
+        {
+          "name": "AmiiFy",
+          "url": "https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231060,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/27dzGiTmNPRGkdLo80GZdo"
     },
     {
       "album": {
@@ -11625,6 +11679,24 @@
     },
     {
       "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/5I17zM2Ovzcpew2NJOkzJM"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323198,
+      "name": "Sanity",
+      "url": "https://open.spotify.com/track/0yGZWIBojuCCebat8AA0HW"
+    },
+    {
+      "album": {
         "name": "Save Yourself",
         "url": "https://open.spotify.com/album/75lJDWxHSP5gmOgFfD8Tds"
       },
@@ -12735,6 +12807,24 @@
     },
     {
       "album": {
+        "name": "Sorry Anyway",
+        "url": "https://open.spotify.com/album/4JRcStZ2ekVd5m3vllWDI4"
+      },
+      "artists": [
+        {
+          "name": "Rosa Walton",
+          "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264543,
+      "name": "Sorry Anyway",
+      "url": "https://open.spotify.com/track/1S1SdxTcqD6eZ5qmWG3jjl"
+    },
+    {
+      "album": {
         "name": "black british music (2025)",
         "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
       },
@@ -13070,7 +13160,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 202016,
       "name": "Stick Fight",
       "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
@@ -13712,6 +13802,24 @@
       "duration_ms": 158933,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
+    },
+    {
+      "album": {
+        "name": "THE CURRENCY",
+        "url": "https://open.spotify.com/album/63puR1Wjj4fwCB9bDrcFsJ"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "THE CURRENCY",
+      "url": "https://open.spotify.com/track/6PCkE8Iqcan3jIiGDaba2r"
     },
     {
       "album": {
@@ -14850,7 +14958,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"

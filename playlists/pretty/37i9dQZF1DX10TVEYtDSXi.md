@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 
 > Öll bestu lögin í augnablikinu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,113 likes - 52 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,111 likes - 52 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10TVEYtDSXi.md) - [plain]
 | 11 | [ÞÚ ERT HÉR](https://open.spotify.com/track/0TbjheMOqpbTXuUWcL3bBt) | [Joey Christ](https://open.spotify.com/artist/76MhNEhAVHSwifZFFr7khX) | [Joey 3](https://open.spotify.com/album/6cdZW1zQQd5jwQPAyf1tZZ) | 3:12 |
 | 12 | [Cowboy Killer](https://open.spotify.com/track/2gNZ7vl4Leb6IQ1UUHMJKb) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Cowboy Killer](https://open.spotify.com/album/6278k7rRmZDDcpyd2h1phT) | 3:35 |
 | 13 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 |
-| 14 | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [aronkristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
+| 14 | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/track/7JVWBFTXb8NJ8i5foL6E10) | [Aron Kristinn](https://open.spotify.com/artist/7ka0BBMmxQTQbVV92WKtM7), [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Hristu rassinn á þér baby \(Maðurinn\)](https://open.spotify.com/album/6dCTeUp59t3PBfO3mjdzcP) | 2:55 |
 | 15 | [Superman](https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX) | [Saint Pete](https://open.spotify.com/artist/5F9rWKLBMziWkO8TjeEeEd), [Nova Ísland](https://open.spotify.com/artist/6Z1OH8B7lOspT4vXy0BcY0) | [Superman](https://open.spotify.com/album/3hEYZuqFOChckFGcfRkT59) | 1:47 |
 | 16 | [Efsta hæð](https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS) | [tatjana](https://open.spotify.com/artist/291ohykNwzL3QugnbCf4Ju), [Birnir](https://open.spotify.com/artist/7FRQP6Ivwv3DQCLxpR3I6Z) | [Efsta hæð](https://open.spotify.com/album/2XdtY47S7DL7fAVBQ30Hv1) | 4:06 |
 | 17 | [Aftur og aftur](https://open.spotify.com/track/3yCVOAJiYB5rjTjSCHhPhf) | [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H) | [Aftur og aftur](https://open.spotify.com/album/59h7JLzOu4WQ1ia5Yn8MO7) | 2:35 |

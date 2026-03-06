@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 40898,
+  "num_followers": 40906,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABZOKm98ftJ5ihYYs72CagX",
+  "snapshot_id": "aad2AAAAAACF+7/5goieQZel9Go/ywpQ",
   "tracks": [
     {
       "added_at": null,
@@ -379,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 Rolitas de Amor, Vol. 8",
-        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
       },
       "artists": [
+        {
+          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
+          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
+      "duration_ms": 207000,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
     },
     {
       "added_at": null,
@@ -411,22 +415,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/5uOcNRe7Mmxyh2MbPhoV3Q"
+        "name": "15 Rolitas de Amor, Vol. 8",
+        "url": "https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi"
       },
       "artists": [
-        {
-          "name": "Juan Hern\u00e1ndez y Su Banda de Blues",
-          "url": "https://open.spotify.com/artist/1i7IEggecEKBWwXqsiQFqQ"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 207000,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
+      "duration_ms": 258933,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 265404,
-      "name": "Porque Te Amo",
-      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Momentos",
         "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 132506,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 265404,
+      "name": "Porque Te Amo",
+      "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
     },
     {
       "added_at": null,
@@ -643,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Va por Ti",
-        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 195413,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r"
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
     },
     {
       "added_at": null,
@@ -675,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estoy Perdiendo La Raz\u00f3n",
-        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+        "name": "Va por Ti",
+        "url": "https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT"
       },
       "artists": [
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
         }
       ],
-      "duration_ms": 202556,
-      "name": "Estoy Perdiendo La Raz\u00f3n",
-      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+      "duration_ms": 195413,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r"
     },
     {
       "added_at": null,

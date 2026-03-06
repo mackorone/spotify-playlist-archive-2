@@ -862,7 +862,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 255918,
       "name": "Barefoot On The Tarmac",
       "url": "https://open.spotify.com/track/6yhtDCljVo3jcCMbDpTRnA"
@@ -3285,6 +3285,24 @@
     },
     {
       "album": {
+        "name": "I Did You Wrong",
+        "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
+      },
+      "artists": [
+        {
+          "name": "Harry Hayes",
+          "url": "https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172965,
+      "name": "I Did You Wrong",
+      "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
+    },
+    {
+      "album": {
         "name": "I Don't See It That Way",
         "url": "https://open.spotify.com/album/4x7pzsMZWguwMmcnUsjl9g"
       },
@@ -4358,7 +4376,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 205496,
       "name": "LENTO (feat. Gaia)",
       "url": "https://open.spotify.com/track/6Qw0oUE8De2BEJaSeuo3Tf"
@@ -5664,7 +5682,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 183752,
       "name": "Ordinary Pleasure",
       "url": "https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM"
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 300271,
       "name": "Pantelleria",
       "url": "https://open.spotify.com/track/1noLY7KbrMKKKYXNuPevOI"
@@ -6056,6 +6074,24 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "album": {
+        "name": "Pressure / Sine Machine",
+        "url": "https://open.spotify.com/album/49xnZCzkwPkVZbqSboc2RN"
+      },
+      "artists": [
+        {
+          "name": "Kelbin",
+          "url": "https://open.spotify.com/artist/08lwmg7ki4mdO5VN7cKdi6"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254090,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/2tqgGbISrFLxIWaKiGqPJQ"
     },
     {
       "album": {
@@ -7164,7 +7200,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 128000,
       "name": "still love u",
       "url": "https://open.spotify.com/track/1eGe7548OaeO9c1blR1mtX"
@@ -8130,6 +8166,24 @@
       "duration_ms": 196900,
       "name": "Une Beat Encore",
       "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
+    },
+    {
+      "album": {
+        "name": "Up To You",
+        "url": "https://open.spotify.com/album/3qXN5KjbgTJg4mHKB8TVml"
+      },
+      "artists": [
+        {
+          "name": "Dogs I Know",
+          "url": "https://open.spotify.com/artist/659NKYZdNCCOnkKwedxXcQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218052,
+      "name": "Up To You",
+      "url": "https://open.spotify.com/track/0UZsygTBXsbzeECoZ4yAq5"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Trending rn. ",
+  "description": "Trending rn. Cover: Al Xapo, Eeque, Benzoo",
   "name": "Internet Famous",
   "tracks": [
     {
@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-25",
+      "date_removed": null,
       "duration_ms": 109826,
       "name": "Appraisal",
       "url": "https://open.spotify.com/track/01lI217l9g8yjVDt2bsI6u"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190015,
       "name": "Brother Brother",
       "url": "https://open.spotify.com/track/373hf6crYkOHIIeTV9MQ7u"
@@ -6818,7 +6818,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 146060,
       "name": "Find Me",
       "url": "https://open.spotify.com/track/7t5lmOZhDrZa4GtAfL7GH7"
@@ -8810,7 +8810,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 196000,
       "name": "How Are You (My Friend)",
       "url": "https://open.spotify.com/track/6gWU9TLg13jxp9zKIxOFDk"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 278571,
       "name": "I Got A Friend (feat. Mayorkun & Sho Madjozi)",
       "url": "https://open.spotify.com/track/5i9aozAI1B6RGzurSP1vas"
@@ -10206,6 +10206,24 @@
       "duration_ms": 177367,
       "name": "Kai!",
       "url": "https://open.spotify.com/track/0C3zMmE4yo1qBq6MGfkwX0"
+    },
+    {
+      "album": {
+        "name": "Kakalika",
+        "url": "https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK"
+      },
+      "artists": [
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181581,
+      "name": "Kakalika",
+      "url": "https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x"
     },
     {
       "album": {
@@ -15110,7 +15128,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -20612,7 +20630,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 284653,
       "name": "When Days Are Dark, Friends Are Few",
       "url": "https://open.spotify.com/track/24srb45xXaK0sflmHB3mF0"
@@ -21596,7 +21614,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 205693,
       "name": "You've Got a Friend in Me",
       "url": "https://open.spotify.com/track/5xEfTvJm1WvxaSEo4XSbEs"
@@ -21714,6 +21732,36 @@
       "duration_ms": 273098,
       "name": "ZENZELE (feat. Royal MusiQ, Uncool MC, Xduppy, & CowBoii)",
       "url": "https://open.spotify.com/track/5wYyy08pvNomxBKFa3Bfj6"
+    },
+    {
+      "album": {
+        "name": "ZEP (feat. Uncool MC)",
+        "url": "https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39"
+      },
+      "artists": [
+        {
+          "name": "Dj Smallz",
+          "url": "https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM"
+        },
+        {
+          "name": "ZinedinexSguche",
+          "url": "https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX"
+        },
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Uncool MC",
+          "url": "https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308241,
+      "name": "ZEP (feat. Uncool MC)",
+      "url": "https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Топові новинки української та світової поп\-музики\. Обкладинка: Kler
 
-503 songs - 1 day 1 hr 26 min
+505 songs - 1 day 1 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Chasing Paradise](https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Chasing Paradise](https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK) | 3:00 | 2025-01-23 | 2025-11-21 |
 | [City](https://open.spotify.com/track/6VteRKmltuPC9dXVzPIeGK) | [LATEXFAUNA](https://open.spotify.com/artist/23z16jDNwdZLV9fvE7KliP) | [City](https://open.spotify.com/album/34HGkiow2z1TpgAm5CmDU6) | 3:42 | 2025-09-25 | 2025-10-10 |
 | [City](https://open.spotify.com/track/7JbCtGesPFlyy1JWC2pA8Q) | [Ziferblat](https://open.spotify.com/artist/1PYz5uoK1NSdWERupvt8BR) | [Of Us](https://open.spotify.com/album/4fD4AEV1vjBjekbGPcvXZL) | 3:02 | 2025-05-01 | 2025-05-09 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-05 |  |
 | [Cry](https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:06 | 2024-06-27 | 2024-12-20 |
 | [Cry For Me](https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Hurry Up Tomorrow](https://open.spotify.com/album/3OxfaVgvTxUTy7276t7SPU) | 3:44 | 2025-01-31 | 2025-10-24 |
 | [Cry For You](https://open.spotify.com/track/68b9QUiyyUMsH9E3zHB1DC) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Cry For You](https://open.spotify.com/album/1WFL9aoPtU670V9RBVqwl4) | 2:22 | 2025-03-20 | 2025-08-08 |
@@ -310,7 +311,7 @@
 | [Він Поруч](https://open.spotify.com/track/24kl8wME24Jc5WrfhV3cvk) | [Quest Pistols](https://open.spotify.com/artist/18XhbB07IBOH5ZNPn97tf0) | [Він Поруч](https://open.spotify.com/album/47Jy5YX0ApJ4wRYwpsavXm) | 2:55 | 2025-01-02 | 2025-01-17 |
 | [Вітер](https://open.spotify.com/track/44Luf8j9ZAKiA0d3QCI0OD) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Вітер](https://open.spotify.com/album/1gCA755TURpXarpFjfalr4) | 2:47 | 2024-09-13 | 2024-09-21 |
 | [Галіція](https://open.spotify.com/track/4yNvkYzXH9Sn3a5mvz4Elr) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Галіція](https://open.spotify.com/album/7e4CpwI6XNosDUS6bpYz6r) | 3:22 | 2025-09-25 |  |
-| [Герци](https://open.spotify.com/track/5o65nY7AgBff4iBMwEqzSa) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [Герци](https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS) | 3:00 | 2026-01-29 |  |
+| [Герци](https://open.spotify.com/track/5o65nY7AgBff4iBMwEqzSa) | [KHAYAT](https://open.spotify.com/artist/1YHTEJ3H4Qop7qxN5hZ5jK) | [Герци](https://open.spotify.com/album/6MlCMk3yb2HFgHAOeAbPFS) | 3:00 | 2026-01-29 | 2026-03-06 |
 | [Говорили](https://open.spotify.com/track/36CrigOJBiD1PPsfWYMWxq) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Говорили](https://open.spotify.com/album/56m2oahXxWbrwzsZWLSfWX) | 2:29 | 2025-06-26 | 2025-07-04 |
 | [Голими](https://open.spotify.com/track/13cuFULTHz4oKU2pc9A8cQ) | [EL Kravchuk](https://open.spotify.com/artist/0R8YFxigLWgcwbYFvHA4Nh) | [Голими](https://open.spotify.com/album/6SJFj1TswSCEE16q7x8WNp) | 2:47 | 2024-07-12 | 2024-07-20 |
 | [Гра в бісер](https://open.spotify.com/track/2q3eKvb9SfULxe9eUDBU8k) | [Схожа](https://open.spotify.com/artist/70MEj6TnbVEjYdKgE8ZRGC) | [Гра в бісер](https://open.spotify.com/album/5sZHYIZUjc8OCyfLptB3v5) | 3:46 | 2025-10-16 | 2025-10-24 |
@@ -336,6 +337,7 @@
 | [Життя](https://open.spotify.com/track/5FM6srcTfyye1n53lGeZil) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz) | [Життя](https://open.spotify.com/album/1CzeqMvPbHCoyIuIJ1fbCG) | 2:28 | 2024-12-19 | 2025-02-08 |
 | [Забий](https://open.spotify.com/track/23cpg22rXsND2u3ElYxQdj) | [Wellboy](https://open.spotify.com/artist/6l5IEx62Nsc2k1QyfaWvEz), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Забий](https://open.spotify.com/album/4diYnGIkyPOK6icZwTt6rM) | 3:14 | 2024-06-27 | 2025-03-21 |
 | [Закоханий](https://open.spotify.com/track/6CIjysLIbpQTdkeZ6HiWFi) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Закоханий](https://open.spotify.com/album/3bKoHfmc6fSHfONIgPelfb) | 3:48 | 2026-02-05 |  |
+| [Замовкни](https://open.spotify.com/track/0ltZdRsQAnuKUuMqEz3WJG) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Замовкни](https://open.spotify.com/album/35ja0IPHlxhm3Kkg9KJJbn) | 3:34 | 2026-03-05 |  |
 | [Звикнути](https://open.spotify.com/track/5xYe9h3imXQDKnqrwPeYy2) | [Domiy](https://open.spotify.com/artist/33xlLiptsAIW56IqRxaQoV) | [Звикнути](https://open.spotify.com/album/3Femha3iRUelf3yL7JMMQ1) | 2:41 | 2025-01-16 | 2025-01-24 |
 | [Зима \- «Потяг у 31 грудня»](https://open.spotify.com/track/58M5bYBbLxGpml3HpdsGH5) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Зима \(«Потяг у 31 грудня»\)](https://open.spotify.com/album/09OuvRekvzbPkZPI9dBD6v) | 2:32 | 2024-12-19 | 2025-01-24 |
 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 | 2024-11-28 | 2025-01-17 |
@@ -389,7 +391,7 @@
 | [мій хлопець лох](https://open.spotify.com/track/1F6ilDkdASL2OIeAtrNjJ1) | [ANSTAY](https://open.spotify.com/artist/5yboLXHGIuGToCssTrvzz9) | [мій хлопець лох](https://open.spotify.com/album/1vJ0SxDhvbZn6lnMOXVFLD) | 3:08 | 2025-02-27 | 2025-03-21 |
 | [МІНІМУМ](https://open.spotify.com/track/2iHe7kpR2XQ9dUYDiH4dJG) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [МІНІМУМ](https://open.spotify.com/album/2kJhT7vq2IvDwRpOLEGv2S) | 2:41 | 2024-11-14 | 2024-11-29 |
 | [Місто дощів](https://open.spotify.com/track/1ooD9MR661uyCOryH4fRWI) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5) | [Місто дощів](https://open.spotify.com/album/5fN2YHkJ5TqcmN7ZS5w1Xw) | 3:40 | 2025-10-09 | 2025-11-07 |
-| [На вінілі](https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На вінілі](https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY) | 3:33 | 2025-04-24 |  |
+| [На вінілі](https://open.spotify.com/track/24vXFJ3D1WSEU2eYMBCSsh) | [KLER](https://open.spotify.com/artist/6rHWskJ6ifvI2GNvX1rjui) | [На вінілі](https://open.spotify.com/album/50qlzYAjmFiBiMqvk2qLpY) | 3:33 | 2025-04-24 | 2026-03-06 |
 | [На нашому поверсі](https://open.spotify.com/track/4xUS7xMl8fQH76W8LBMpKU) | [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Тут і зараз](https://open.spotify.com/album/2FzdfpP13nCD7iZa792ccD) | 2:38 | 2025-11-20 | 2025-11-28 |
 | [На нічному небі](https://open.spotify.com/track/44il5IyxWcQ79aDkB2VVDZ) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog), [Svyatoslav Vakarchuk](https://open.spotify.com/artist/2xEuSZSodyOIuUAxBM3I5I) | [На нічному небі](https://open.spotify.com/album/0q7PaMgEklykA15z8bblGk) | 3:51 | 2024-10-04 | 2024-12-11 |
 | [На самоті](https://open.spotify.com/track/63tLykrWEz9LzOCBeYKFhS) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM) | [На самоті](https://open.spotify.com/album/5Uy1181hlFhtb2NRAiF3Ge) | 2:11 | 2024-12-19 | 2024-12-28 |

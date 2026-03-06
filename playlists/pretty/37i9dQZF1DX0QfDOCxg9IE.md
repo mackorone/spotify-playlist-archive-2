@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,419 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,417 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 58 | [PARADISO](https://open.spotify.com/track/74eCVhPx2IXqqrqLxGLiPN) | [Sicario](https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV), [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP), [Màdu](https://open.spotify.com/artist/6atzjQLN3Lki197lQuscOI) | [PARADISO](https://open.spotify.com/album/0K9I0a6MdMq7wvJUWfOY5B) | 3:28 |
 | 59 | [Isos Isoun Kiria](https://open.spotify.com/track/3wXwptbzcV60VOzQz0ODG4) | [Pantelis Pantelidis](https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3) | [Alkoolikes I Nihtes](https://open.spotify.com/album/2DhTZJ7uoABIuwAceeBWq4) | 3:04 |
 
-Snapshot ID: `AAAAAEi0pd6SQ90L758f2TlOePX3qZ8R`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08mhnhv6g9b.md) - [plain]
 
 > Vote for your most anticipated track from ARIRANG on the <a href="https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1?si=522f34b3f6b84acf"> K\-Pop ON! \(온\) playlist </a> now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,850,581 likes - 296 songs - 17 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,850,965 likes - 296 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 614 likes - 31 songs - 1 hr 41 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 614 likes - 33 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,5 +39,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 29 | [Hey Woman](https://open.spotify.com/track/08JpU2mT1TLwxZme4pAHU5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Best Of](https://open.spotify.com/album/16zoHx9wW6EVMvPDo1sha5) | 2:57 |
 | 30 | [Let Me Be Me](https://open.spotify.com/track/4xDKzurISthaAbD6NzOy75) | [Lilly Sweetness](https://open.spotify.com/artist/3TwZJUhz6tKt6OxFPNf4fu) | [Blessings](https://open.spotify.com/album/0sEWclT1yWwNlQfnPRJ9v4) | 3:54 |
 | 31 | [Without The Kiss](https://open.spotify.com/track/415RGDjNwmsNR7RgUE8VOC) | [Crimson Crow](https://open.spotify.com/artist/7mFL33QnjafnM1J1456vsX) | [Reflection](https://open.spotify.com/album/51Z96Q16vCgmoPsic84Ewf) | 4:46 |
+| 32 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 |
+| 33 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 |
 
-Snapshot ID: `AAADJzNVgUbg4sgXQfAXoXyoyWkzKei+`
+Snapshot ID: `AAADKVbZaQoNjtk5onBsI9qdwtpji/jI`

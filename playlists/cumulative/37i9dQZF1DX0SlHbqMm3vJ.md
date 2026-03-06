@@ -2,9 +2,9 @@
 
 ### [Ginja](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> Sweet afro melodies\. Cover:  Wande Coal and Qing Madi
+> Sweet afro melodies\. Cover:  Ayra Starr
 
-910 songs - 1 day 20 hr 20 min
+911 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,7 @@
 | [Rush](https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rush](https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E) | 3:05 | 2022-09-16 | 2023-09-15 |
 | [Saati Ramoni](https://open.spotify.com/track/6zLC5tfSmJmotGcOKF37Gc) | [MUIS](https://open.spotify.com/artist/5UhxuCNM1djBJLm5VhvuRy) | [Saati Ramoni](https://open.spotify.com/album/0VmgXMeTpKOknX6Vy6dBbV) | 3:09 | 2023-06-22 | 2023-12-20 |
 | [SAD TONIGHT](https://open.spotify.com/track/7w8hDQenP6Q6etA4PGNbz2) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [SAD TONIGHT](https://open.spotify.com/album/1sEFcm69RjygXdgoOKg5G4) | 3:05 | 2022-02-24 | 2022-03-09 |
-| [SAILOR \(with Oxlade\)](https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SAILOR \(with Oxlade\)](https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB) | 3:04 | 2026-02-27 |  |
+| [SAILOR \(with Oxlade\)](https://open.spotify.com/track/1F1WDMlVyxfyIwGhQPKYdW) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [SAILOR \(with Oxlade\)](https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB) | 3:04 | 2026-02-27 | 2026-03-06 |
 | [Saint Tropez](https://open.spotify.com/track/6o4oHv1VSmHmHjWfQf8yp0) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Peace and Love](https://open.spotify.com/album/1Vro9qhKIVfWoJSSfCYd01) | 3:02 | 2024-10-25 | 2025-05-23 |
 | [Salt](https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e) | [Dai Verse](https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv) | [Salt](https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG) | 3:05 | 2024-03-29 | 2025-04-08 |
 | [Sankofa \- Remix](https://open.spotify.com/track/0CmnXFWyp6lBVhEXYzLWa9) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Sankofa \(5 Star Remix\)](https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K) | 3:14 | 2022-12-02 | 2023-01-28 |
@@ -873,6 +873,7 @@
 | [What's Poppin](https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam) | 3:15 | 2023-08-10 | 2023-11-04 |
 | [What's Poppin](https://open.spotify.com/track/38BBkkW2v88ozDGf2FySNj) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [What's Poppin](https://open.spotify.com/album/33FTfk4rgSjlYSeIQozbtw) | 3:15 | 2023-11-03 | 2023-11-17 |
 | [Whenever](https://open.spotify.com/track/2EB8dy6UjaMrNofI6fe0Ml) | [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Whenever](https://open.spotify.com/album/307CWBEY8Lz0bV7xmqLWew) | 2:35 | 2023-06-02 | 2023-10-27 |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-06 |  |
 | [Where You Dey](https://open.spotify.com/track/7IgIgtb2tud3KGvik0M5uG) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Where You Dey](https://open.spotify.com/album/3UwvuwtlVtrmnpb8jPubXf) | 3:06 | 2026-01-23 |  |
 | [Whine for Your Life](https://open.spotify.com/track/1zgiwJc3BUVKscDkMexe6C) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [Miles Away](https://open.spotify.com/album/33l7tBdwY7wEnVPG2kyekw) | 2:48 | 2022-02-03 | 2022-02-10 |
 | [who does that? \(feat\. Bella Shmurda\)](https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [what a feeling](https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp) | 2:39 | 2025-01-21 | 2026-01-15 |

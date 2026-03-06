@@ -4,7 +4,7 @@
 
 > Perfect dinner playlist \| soulful music
 
-184 songs - 10 hr 33 min
+185 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [London, Tokyo](https://open.spotify.com/track/78fv8y2e8uSXaoumhH2h5E) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [London, Tokyo](https://open.spotify.com/album/61rIcpa6ktXyHi6Q8ol5S3) | 3:03 | 2025-07-16 | 2025-12-05 |
 | [Losers](https://open.spotify.com/track/2JyX3yb7Z5LePP4uFaYB4O) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Losers](https://open.spotify.com/album/3WKC7kEQsFaqYiz1snm6Nj) | 3:25 | 2025-07-16 | 2025-09-16 |
 | [Love Direction](https://open.spotify.com/track/3GMVK3x0ZxSOpJFvgUVih7) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Love Direction](https://open.spotify.com/album/3Rhcn5DbYSFeTdK73WeQ6l) | 3:43 | 2025-07-16 | 2025-09-16 |
+| [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 | 2026-03-05 |  |
 | [Low](https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Low](https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY) | 4:34 | 2025-07-16 | 2025-09-19 |
 | [Make You Mine](https://open.spotify.com/track/3Fq1E1vErJKnx9j42rJG41) | [Joshua Morris](https://open.spotify.com/artist/0fgysuyIdg2ZjnSePctoPn) | [Make You Mine](https://open.spotify.com/album/7j2JDbaGwdVfK1EmsBKyRi) | 3:44 | 2025-07-16 | 2026-02-04 |
 | [Mama Mia](https://open.spotify.com/track/4sDa4HFEVH2oqU98lJl14U) | [Noonzy](https://open.spotify.com/artist/6dfDwONzmFyAlH27BUuiqJ) | [Mama Mia](https://open.spotify.com/album/2mwppwDWQZRnyYL1AOM2OF) | 3:17 | 2025-07-16 |  |
@@ -129,7 +130,7 @@
 | [Please Don't Make Me Choose](https://open.spotify.com/track/1kSqmbVfI2mmHNmX5K0W7R) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9) | [Please Don't Make Me Choose](https://open.spotify.com/album/0u3g9YGZBCgEbQg3HJfDSA) | 3:48 | 2025-07-16 | 2025-12-06 |
 | [Pourquoi Pas?](https://open.spotify.com/track/5PuexREEoe623LZNmukDxT) | [Organix](https://open.spotify.com/artist/1i2zhbNQN9xSQvFY16znMV), [Shirma Rouse](https://open.spotify.com/artist/1vNl797vEfGx0JnC1eFoH0) | [Pourquoi Pas?](https://open.spotify.com/album/07VSvjmrJ9WDHwrhEiw2Z6) | 3:10 | 2025-07-16 |  |
 | [Praying To A God](https://open.spotify.com/track/3NWCPJllg1v12ElS4eQMKV) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Praying To A God](https://open.spotify.com/album/5vFbPJNwiERWPvxQDw37zq) | 3:40 | 2025-07-16 | 2025-09-16 |
-| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2025-07-16 |  |
+| [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pyjamas \(feat\. Remi Wolf\)](https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK) | 2:48 | 2025-07-16 | 2026-03-06 |
 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 | 2025-12-04 |  |
 | [Remedy](https://open.spotify.com/track/5f8l9ldrzFoxYwkgq3G6S9) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/6FmGwYkTYZmcmSi7YMvkvs) | 2:44 | 2025-09-18 |  |
 | [Rent\-free](https://open.spotify.com/track/6wON1IkUQewJP6VuNJZUZU) | [FÄM](https://open.spotify.com/artist/0GRkFcHaRm50dImpZMc8eG), [Nico Ducarme](https://open.spotify.com/artist/4vTQywebkOhUaQGqiELXUT) | [Rent\-free](https://open.spotify.com/album/6tKyHjobjHjDMHPRSY4yjJ) | 3:18 | 2026-02-06 |  |

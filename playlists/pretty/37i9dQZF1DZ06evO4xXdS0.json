@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 506999,
+  "num_followers": 507016,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABHTCe18uEGqHVO5YvwRPcF",
+  "snapshot_id": "aad2AAAAAACaqBLPh06dHkqjYa0bqIKG",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
       },
       "artists": [
         {
@@ -600,9 +600,25 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 160933,
-      "name": "You've Got To Learn",
-      "url": "https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb"
+      "duration_ms": 231346,
+      "name": "Tell It Like It Is",
+      "url": "https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
     },
     {
       "added_at": null,
@@ -623,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
@@ -632,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 231346,
-      "name": "Tell It Like It Is",
-      "url": "https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH"
+      "duration_ms": 160933,
+      "name": "You've Got To Learn",
+      "url": "https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb"
     },
     {
       "added_at": null,
@@ -664,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 253800,
-      "name": "Lilac Wine",
-      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
+      "duration_ms": 416693,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 416693,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 259866,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 147906,
+      "name": "That's All I Ask",
+      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 169840,
       "name": "To Be Young, Gifted and Black - 2005 Remix",
       "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 147906,
-      "name": "That's All I Ask",
-      "url": "https://open.spotify.com/track/5uI8omnLtzW4xTqJ5AoQtT"
     },
     {
       "added_at": null,

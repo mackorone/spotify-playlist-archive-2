@@ -8053,6 +8053,32 @@
     },
     {
       "album": {
+        "name": "Our Secrets",
+        "url": "https://open.spotify.com/album/4ae6IgckwfYYxt6OocYgra"
+      },
+      "artists": [
+        {
+          "name": "Willem Mulder",
+          "url": "https://open.spotify.com/artist/5KfTEKEODVvVzbF0IJ8ZaM"
+        },
+        {
+          "name": "Jack Tyson Charles",
+          "url": "https://open.spotify.com/artist/6PqhbDGZhMuzNL9VmeSfFi"
+        },
+        {
+          "name": "Arlette Ntantu",
+          "url": "https://open.spotify.com/artist/7fOt5M79cyCEJLfyNzPMk2"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238154,
+      "name": "Our Secrets - Edit",
+      "url": "https://open.spotify.com/track/13ikrsOKivFf80YLpBjzER"
+    },
+    {
+      "album": {
         "name": "Our Time (feat. Lizz Fields) [Atjazz Mixes]",
         "url": "https://open.spotify.com/album/1Hw5oM26B4r4ZCfprX0r2x"
       },
@@ -11080,8 +11106,8 @@
           "url": "https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2"
         },
         {
-          "name": "Rosie from the Block",
-          "url": "https://open.spotify.com/artist/2AXxpeo2g947FYlmiByK1z"
+          "name": "Rosie From The Block",
+          "url": "https://open.spotify.com/artist/0AsrSk8NY7dfEKF7h4XFDi"
         }
       ],
       "date_added": "2025-08-30",

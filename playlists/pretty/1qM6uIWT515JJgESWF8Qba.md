@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 358 likes - 58 songs - 3 hr 47 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 361 likes - 59 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 56 | [Royal Kush \- 2026 Remix](https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush \(2026 Remix\)](https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri) | 3:36 |
 | 57 | [Get Back In Line](https://open.spotify.com/track/6srGXpJEg7N3RcNm11BzLD) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 4:06 |
 | 58 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 |
+| 59 | [Parley](https://open.spotify.com/track/4uOI4eDk015nGE27qBuk61) | [Tortuga](https://open.spotify.com/artist/4QzhYIfvlEMycWybJ3wPHM) | [Flying Dutchman](https://open.spotify.com/album/5IncWnCMIvuY9MeewyWuWj) | 3:12 |
 
-Snapshot ID: `AAABRZOyLVka36tZIHrddn6E65FLfTcr`
+Snapshot ID: `AAABRijJMdBkQqgFZq9Qh3ZDkMUFBO0w`

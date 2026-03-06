@@ -1,6 +1,6 @@
 {
   "description": "Un \u00edcono que marc\u00f3 la m\u00fasica para siempre, gracias Willie Col\u00f3n. \ud83d\udd4a\ufe0f",
-  "num_followers": 1882211,
+  "num_followers": 1882178,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Al Duro",
-        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
-      },
-      "artists": [
-        {
-          "name": "Hector Rey",
-          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
-        }
-      ],
-      "duration_ms": 277906,
-      "name": "Te Propongo",
-      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
-    },
-    {
-      "added_at": "2026-02-27 20:50:24",
-      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
+    },
+    {
+      "added_at": "2026-02-27 20:50:24",
+      "album": {
+        "name": "Al Duro",
+        "url": "https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U"
+      },
+      "artists": [
+        {
+          "name": "Hector Rey",
+          "url": "https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv"
+        }
+      ],
+      "duration_ms": 277906,
+      "name": "Te Propongo",
+      "url": "https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Quien",
-        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 259090,
-      "name": "Quien",
-      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
-    },
-    {
-      "added_at": "2026-02-27 20:50:24",
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": "2026-02-27 20:50:24",
+      "album": {
+        "name": "Quien",
+        "url": "https://open.spotify.com/album/0hNgwLeRtUaLir1rHEwdLp"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 259090,
+      "name": "Quien",
+      "url": "https://open.spotify.com/track/2hkAgJwtYXK4GiWeJmIyDv"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Me Dedique A Perderte",
-        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
+        "name": "Salsa de Amor Vol. 3",
+        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
       },
       "artists": [
         {
-          "name": "Pablo EEE",
-          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
-        },
-        {
-          "name": "Jimmy Rodriguez",
-          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
+          "name": "Tito Gomez",
+          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Me Dediqu\u00e9 A Perderte",
-      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
+      "duration_ms": 296133,
+      "name": "P\u00e1ginas De Amor",
+      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1563,18 +1559,22 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Salsa de Amor Vol. 3",
-        "url": "https://open.spotify.com/album/1dgh2p4sLHHDFD6RXshJMZ"
+        "name": "Me Dedique A Perderte",
+        "url": "https://open.spotify.com/album/3ub5YlYjOAkQPf7mAMGDTs"
       },
       "artists": [
         {
-          "name": "Tito Gomez",
-          "url": "https://open.spotify.com/artist/4zq1okwemKSJbZFDQrp7f2"
+          "name": "Pablo EEE",
+          "url": "https://open.spotify.com/artist/08IR4c2MfZCUcN5CuMWGIP"
+        },
+        {
+          "name": "Jimmy Rodriguez",
+          "url": "https://open.spotify.com/artist/4M355xYeWAVoaecF6LL2av"
         }
       ],
-      "duration_ms": 296133,
-      "name": "P\u00e1ginas De Amor",
-      "url": "https://open.spotify.com/track/3JGHKb3wIScC0PZAS34NVs"
+      "duration_ms": 167320,
+      "name": "Me Dediqu\u00e9 A Perderte",
+      "url": "https://open.spotify.com/track/0A9vorHzI0KJ0hlmWzdSqX"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1607,6 +1607,26 @@
       "duration_ms": 209723,
       "name": "LA RONDA",
       "url": "https://open.spotify.com/track/6LsXU5cUoOqC2YnUCu7b5E"
+    },
+    {
+      "added_at": "2026-02-27 20:50:24",
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/2DZ7J2DinhXaNCDB10XgEF"
+      },
+      "artists": [
+        {
+          "name": "Luis Vazquez",
+          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+        },
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Soy Tuyo",
+      "url": "https://open.spotify.com/track/7HS1D1HsjTqy95jJxrBc8e"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1667,26 +1687,6 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "No Me Lo Creo",
-        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        },
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        }
-      ],
-      "duration_ms": 268175,
-      "name": "No Me Lo Creo",
-      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
-    },
-    {
-      "added_at": "2026-02-27 20:50:24",
-      "album": {
         "name": "Lo Esencial",
         "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
       },
@@ -1707,22 +1707,22 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Soy Tuyo",
-        "url": "https://open.spotify.com/album/2DZ7J2DinhXaNCDB10XgEF"
+        "name": "No Me Lo Creo",
+        "url": "https://open.spotify.com/album/1uEJjZcUacPru75YliRbJg"
       },
       "artists": [
         {
-          "name": "Luis Vazquez",
-          "url": "https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw"
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
         },
         {
-          "name": "Motiff",
-          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
         }
       ],
-      "duration_ms": 190909,
-      "name": "Soy Tuyo",
-      "url": "https://open.spotify.com/track/7HS1D1HsjTqy95jJxrBc8e"
+      "duration_ms": 268175,
+      "name": "No Me Lo Creo",
+      "url": "https://open.spotify.com/track/4gwHxA0k6vffsqrlQM5KqI"
     },
     {
       "added_at": "2026-02-27 20:50:24",
@@ -1763,18 +1763,22 @@
     {
       "added_at": "2026-02-27 20:50:24",
       "album": {
-        "name": "Mi Propiedad Privada",
-        "url": "https://open.spotify.com/album/5wzCExW5NvwRMvDRav2taR"
+        "name": "Mira",
+        "url": "https://open.spotify.com/album/2wrbLhESYlyhzIlhJ1Lo8X"
       },
       "artists": [
         {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 252986,
-      "name": "Mi Propiedad Privada",
-      "url": "https://open.spotify.com/track/3DAxwWtA3N41eNZ9pCsQnl"
+      "duration_ms": 216626,
+      "name": "Mira - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/4nYuL6R1SuWAOJRwAWasct"
     }
   ],
   "unique_name": "Salsa Nation",

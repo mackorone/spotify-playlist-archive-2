@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11855,
+  "num_followers": 11857,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAADr0JgHq6g5g4k/TZ9zS8dh",
+  "snapshot_id": "aad2AAAAAABgE96T0GTrc80rAR2rJWWD",
   "tracks": [
     {
       "added_at": null,
@@ -242,11 +242,15 @@
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        },
+        {
+          "name": "Jacoby Shaddix",
+          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 207625,
-      "name": "Into The Dark",
-      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
+      "duration_ms": 176343,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO"
     },
     {
       "added_at": null,
@@ -306,15 +310,11 @@
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        },
-        {
-          "name": "Jacoby Shaddix",
-          "url": "https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U"
         }
       ],
-      "duration_ms": 176343,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO"
+      "duration_ms": 207625,
+      "name": "Into The Dark",
+      "url": "https://open.spotify.com/track/3vmzd0WZcVir4OPYWgr3L5"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209497,
-      "name": "Can't Save You",
-      "url": "https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx"
+      "duration_ms": 209897,
+      "name": "Sorry About Me",
+      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 209897,
-      "name": "Sorry About Me",
-      "url": "https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW"
+      "duration_ms": 209497,
+      "name": "Can't Save You",
+      "url": "https://open.spotify.com/track/6hkjKixSrlQurLqgc9RSGx"
     },
     {
       "added_at": null,

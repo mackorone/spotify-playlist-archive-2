@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Bahati",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Mejja",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -126,7 +126,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 145882,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3BZwc29o0ltzvS5f4JytVw"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 260377,
       "name": "Assurance",
       "url": "https://open.spotify.com/track/0HsFZY1LLvBI20qMtjj9j9"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 185663,
       "name": "Furaha Yako",
       "url": "https://open.spotify.com/track/43RrIzXwQL4gJFQGyG4tXG"
@@ -1086,6 +1086,24 @@
       "duration_ms": 258461,
       "name": "Kautamu Flani",
       "url": "https://open.spotify.com/track/7w5pR36kqvcUgqkdEajIOk"
+    },
+    {
+      "album": {
+        "name": "Genge Soul",
+        "url": "https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad"
+      },
+      "artists": [
+        {
+          "name": "Billy Black",
+          "url": "https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190588,
+      "name": "Khadija",
+      "url": "https://open.spotify.com/track/4GAMOFsgPItqSXdGpAZpTM"
     },
     {
       "album": {
@@ -1629,6 +1647,36 @@
     },
     {
       "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/5CMzUP97soB0N3VEWUkNyn"
+      },
+      "artists": [
+        {
+          "name": "Mwanaa",
+          "url": "https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa"
+        },
+        {
+          "name": "X.O",
+          "url": "https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ"
+        },
+        {
+          "name": "Muthoka",
+          "url": "https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp"
+        },
+        {
+          "name": "SoFresh 254",
+          "url": "https://open.spotify.com/artist/2fKzlGIaEWqBYFLICdRJFP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267459,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2khOVgq6GJRUaANyp8kUgO"
+    },
+    {
+      "album": {
         "name": "Mr & Mrs",
         "url": "https://open.spotify.com/album/4HMcsqg3eXHOxyzSBcSE9x"
       },
@@ -2038,7 +2086,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 167448,
       "name": "P.I.C. (Partner In Crime)",
       "url": "https://open.spotify.com/track/4mu0ljS8JBtPwCAKr0QUsc"
@@ -2659,6 +2707,24 @@
     },
     {
       "album": {
+        "name": "Mtoto wa Khadija",
+        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3"
+    },
+    {
+      "album": {
         "name": "TRUE LOVE",
         "url": "https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0"
       },
@@ -2876,6 +2942,28 @@
       "duration_ms": 192000,
       "name": "Visa",
       "url": "https://open.spotify.com/track/1l68hLsUbeIyDhq80fCH91"
+    },
+    {
+      "album": {
+        "name": "Wakiuliza",
+        "url": "https://open.spotify.com/album/0pppQDjsW6DLWxkxsVUu68"
+      },
+      "artists": [
+        {
+          "name": "Collo Blue",
+          "url": "https://open.spotify.com/artist/36JUu7ydl5Is9601ZhpLw3"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191096,
+      "name": "Wakiuliza",
+      "url": "https://open.spotify.com/track/5PwIntzpWGvyRJUMBbfELj"
     },
     {
       "album": {

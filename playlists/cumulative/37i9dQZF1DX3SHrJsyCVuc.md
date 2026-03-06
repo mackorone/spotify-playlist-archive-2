@@ -2,9 +2,9 @@
 
 ### [Wire](https://open.spotify.com/playlist/37i9dQZF1DX3SHrJsyCVuc)
 
-> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Genesis Owusu
+> Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Amy Taylor
 
-129 songs - 7 hr 5 min
+132 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baddies](https://open.spotify.com/track/3UoZLsDz4FjfciCCJQtjhq) | [Hektor](https://open.spotify.com/artist/6TkIRova0MUAByYUBmbVnd), [Teether](https://open.spotify.com/artist/4rWywJgjoeVMO8LY87xYZo) | [Baddies](https://open.spotify.com/album/41qVMpAF8VKqxemEtDkSnV) | 2:43 | 2026-02-12 |  |
 | [Beat To Beat](https://open.spotify.com/track/4UFcCjyoEA6mGXDsur7UOD) | [Gut Health](https://open.spotify.com/artist/0WKHQ3a24pKDB991wqLjMU) | [Beat To Beat](https://open.spotify.com/album/2xzitXIQ7x8HqVfNvnzfLi) | 4:16 | 2025-10-23 | 2025-12-19 |
 | [Black & Blue](https://open.spotify.com/track/69L556M1aoKnPLoI3LcmaD) | [The Lonesomes](https://open.spotify.com/artist/2WuHTgLaodw4synbCPjn3c) | [Black & Blue](https://open.spotify.com/album/5TFe3QVQa0BEaHBKK21Pa9) | 3:19 | 2025-11-20 | 2026-02-13 |
+| [Black Boys on Mopeds](https://open.spotify.com/track/0R9R2fD4C8yGHN2BdBA6hm) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:34 | 2026-03-05 |  |
 | [Black Gate](https://open.spotify.com/track/7t3wS6VktZqPhMWdTG9Wot) | [Buzz Kull](https://open.spotify.com/artist/5RtyPqV9c3KizJ8pqJEcZl) | [Deep Hate](https://open.spotify.com/album/6KoVoaUipqvIM915NEeeA9) | 4:32 | 2026-02-12 |  |
 | [Black swan](https://open.spotify.com/track/4Xu6PC9zAzBECTYAEY9glE) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [If Not Winter](https://open.spotify.com/album/6R21I5E805CLZmDn8vESQM) | 4:25 | 2025-10-23 | 2026-02-06 |
 | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/track/4LSg5nCsJ35jHA1vRqBRhR) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ), [Noah Learmonth](https://open.spotify.com/artist/6Q9ndqe5oLP6PbgENxW1Pp) | [Blisters \(feat\. Noah Learmonth\)](https://open.spotify.com/album/0slU8BRWpMKzOep39Rd59b) | 3:30 | 2025-11-20 | 2025-11-28 |
@@ -130,6 +131,8 @@
 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 | 2025-10-23 | 2026-01-23 |
 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-12 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
+| [Track 4](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 0:00 | 2026-03-05 |  |
+| [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-05 |  |
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-11-27 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 | 2025-11-21 |
 | [Unravel](https://open.spotify.com/track/3ez0xKG3l1OrHFZ6wy64OB) | [Radium Dolls](https://open.spotify.com/artist/5XdOr2J2sgTI4mEE6j9KYr) | [Unravel](https://open.spotify.com/album/0tibtVhSBn7hILu0brCz8e) | 3:46 | 2025-11-20 |  |

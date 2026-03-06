@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260658,
+  "num_followers": 260682,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAD3pF+WDXD/Co7/zH4aIaDu",
+  "snapshot_id": "aad2AAAAAAB1xctVPm6pmtYhGNqYm4YM",
   "tracks": [
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythmeen",
-        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 296933,
-      "name": "She's Just Killing Me",
-      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rhythmeen",
+        "url": "https://open.spotify.com/album/6KEVrQEdQexnQgwpHn1lDI"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 296933,
+      "name": "She's Just Killing Me",
+      "url": "https://open.spotify.com/track/0ih7vuNB91mvoJ7D6raq0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 207706,
       "name": "Certified Blues",
       "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Le meilleur du rap africain francophone\. Photo : TRK.
 
-276 songs - 12 hr 46 min
+277 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [13500 Volts](https://open.spotify.com/track/0WMSn16DmB8Jr62YrtJjqX) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [13500 Volts](https://open.spotify.com/album/1ChdvOyWF5BAS5DEwGHkXT) | 3:30 | 2025-12-18 | 2026-02-13 |
 | [15500 Volts](https://open.spotify.com/track/0FvmJPfFiqoFz1HRrGLFHN) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [15500 Volts](https://open.spotify.com/album/5JtOdStbV6Djj4aBRp6u9e) | 1:47 | 2025-06-19 | 2025-07-11 |
 | [24H Chrono](https://open.spotify.com/track/5j3IQvpktPI41fZzZdIBag) | [Bmuxx Carter](https://open.spotify.com/artist/4MrN92MAAgOpfTYjVSD40C), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [24H Chrono](https://open.spotify.com/album/3cVip0lEuRC0tGOp009wJI) | 3:30 | 2025-07-03 | 2025-09-26 |
+| [24K](https://open.spotify.com/track/36x68wZiC8zg5T8OPFjlSa) | [Andy S](https://open.spotify.com/artist/3ITARgOhBflkfjwmSNsiIK) | [24K](https://open.spotify.com/album/50EfJTC8BOToimm3f0Dio4) | 2:35 | 2026-03-05 |  |
 | [3X NDOSS \(feat\. Yorssy\)](https://open.spotify.com/track/3h3nMY4MqyboUJRpeqT2Wn) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [3X NDOSS \(feat\. Yorssy\)](https://open.spotify.com/album/5byzh0n87vakjorydykJgf) | 3:02 | 2025-05-29 | 2025-09-26 |
 | [ABETCHITCHILA](https://open.spotify.com/track/3QNCd4XvVQ0hTs1Fid0ppk) | [Marla](https://open.spotify.com/artist/0mucJeDL0Mvb5KES4NhiHG), [LESKY](https://open.spotify.com/artist/3rFDeNL0wrvs5ttb8GnTMG) | [ABETCHITCHILA](https://open.spotify.com/album/6MRdj2zmflGcvYOMhGeuwE) | 2:31 | 2025-11-06 | 2025-12-05 |
 | [Abodan](https://open.spotify.com/track/6bTKdDliSSHz9rA2LBHz3H) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [Vision d'Or](https://open.spotify.com/album/3M3R6SXI5wLge4Y2No3eee) | 2:04 | 2025-05-29 | 2025-06-27 |

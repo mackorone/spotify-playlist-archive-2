@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden keşifler! Kapak: Yakın Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,756 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,757 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 14 | [Serin Katil](https://open.spotify.com/track/5Dz5H9reteD4WvpH0lflFO) | [Oradaki Elf](https://open.spotify.com/artist/0BqgbYjNgE1bCO5J4XazZw) | [Serin Katil](https://open.spotify.com/album/32avQKJObnKSonEhpyEB1M) | 3:51 |
 | 15 | [Sonsuz Kalabalıklar](https://open.spotify.com/track/65Z1phkAnnTauKDnA2Inrq) | [Serbest Düşüş](https://open.spotify.com/artist/0D7Rwj8Fh8LEbi57iF9cZu) | [Sonsuz Kalabalıklar](https://open.spotify.com/album/156J71gryDFDZk9c4wLgVP) | 3:10 |
 | 16 | [Artık Kaçma](https://open.spotify.com/track/67Zchk9vtnPe4fXWxlvuRK) | [Alança](https://open.spotify.com/artist/0GtJApmg5HlC724a8wNLr8) | [Artık Kaçma](https://open.spotify.com/album/2EM2S2MP5rLnBvMCC7fX2X) | 2:37 |
-| 17 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
+| 17 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/59UiDNLaYTIO5VFojlIqFm) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
 | 18 | [Büyük Burhan](https://open.spotify.com/track/4CIAQMDiSbmkrN9dHPHAV8) | [Primat](https://open.spotify.com/artist/0rGp3jjwe7o4Puj6h5EJQc) | [Saf Peynir ve Hassas Mesele](https://open.spotify.com/album/6OzizVir8qkw3DFU9tpfUr) | 3:18 |
 | 19 | [Yalnız Parça](https://open.spotify.com/track/0xrcNVHQ20wcLtdsHqttNc) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Yalnız Parça](https://open.spotify.com/album/1D2mtkT1dNHYy2pfqyQAkH) | 4:20 |
 | 20 | [Uzatmam](https://open.spotify.com/track/1sGd8ofqiKxm2obCJA8YoQ) | [Gizem Duman](https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ) | [Uzatmam](https://open.spotify.com/album/0hO0bEf6rhYs090LN60ZbY) | 2:30 |

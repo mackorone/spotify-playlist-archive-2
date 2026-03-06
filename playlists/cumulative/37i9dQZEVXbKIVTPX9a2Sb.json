@@ -71,6 +71,28 @@
     },
     {
       "album": {
+        "name": "new year, old me",
+        "url": "https://open.spotify.com/album/6aftSUowERWw4zIw8NpMBr"
+      },
+      "artists": [
+        {
+          "name": "guapanova",
+          "url": "https://open.spotify.com/artist/3cKe8c7z8w2nyYsaVKWJaC"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113002,
+      "name": "#nonsalant",
+      "url": "https://open.spotify.com/track/1AedEas16W7eqOkqr488MT"
+    },
+    {
+      "album": {
         "name": "YOLO AFTERPARTY",
         "url": "https://open.spotify.com/album/1FP1GejYfFqpTPmCyqLm8T"
       },
@@ -12462,7 +12484,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 123946,
       "name": "D\u017eanes",
       "url": "https://open.spotify.com/track/5agUzhiIJPAuj76t38TMy4"
@@ -18236,7 +18258,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 209066,
       "name": "Homewrecker",
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
@@ -20774,7 +20796,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 124267,
       "name": "Italiano,Cigan,Arab",
       "url": "https://open.spotify.com/track/0ByJbHq3o1ssNSTSWZAZi9"
@@ -30410,7 +30432,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 221202,
       "name": "Nem\u00e1me",
       "url": "https://open.spotify.com/track/7k7FJqta8D0oq9vmMytl3p"
@@ -30476,7 +30498,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 169811,
       "name": "NENI STRE$S",
       "url": "https://open.spotify.com/track/1P8o6bOTyh1kEqe72JFzzO"
@@ -34812,7 +34834,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -40416,7 +40438,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 207360,
       "name": "SI JE*LA",
       "url": "https://open.spotify.com/track/6C78RyuYtDZULWcWcwzbKx"
@@ -43496,7 +43518,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 158010,
       "name": "St\u00e1le som",
       "url": "https://open.spotify.com/track/7JeVRhvdsU2s6HpuUPdEuA"
@@ -49294,7 +49316,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 206817,
       "name": "Vodka nen\u00ed voda",
       "url": "https://open.spotify.com/track/33l3BKJazySRMviJXQVTBJ"

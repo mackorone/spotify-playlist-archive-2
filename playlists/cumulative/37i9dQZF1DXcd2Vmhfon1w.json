@@ -774,7 +774,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 182068,
       "name": "Aligators",
       "url": "https://open.spotify.com/track/2JZ7IeoaJXUusWKV2JVfxA"
@@ -1850,7 +1850,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 184156,
       "name": "Blin Blin",
       "url": "https://open.spotify.com/track/4be5rP6xsm2qNOHDBfPSQy"
@@ -7150,7 +7150,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 170187,
       "name": "KARIM",
       "url": "https://open.spotify.com/track/4RkJHGqFXYA1hfiukBQa3p"
@@ -9904,7 +9904,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 146400,
       "name": "MONOCROMO",
       "url": "https://open.spotify.com/track/6cJkaBMLaHsKl7RrSqFn6n"
@@ -10651,6 +10651,24 @@
     },
     {
       "album": {
+        "name": "No Se Llora",
+        "url": "https://open.spotify.com/album/1RRGvecC9fTcQggeiukHHf"
+      },
+      "artists": [
+        {
+          "name": "Blake",
+          "url": "https://open.spotify.com/artist/2FwMmxiCWQhEyO9k0nOyNF"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190344,
+      "name": "No Se Llora",
+      "url": "https://open.spotify.com/track/1UPHvsFuA6i6BlqQGeM7ja"
+    },
+    {
+      "album": {
         "name": "No Soy Nadie",
         "url": "https://open.spotify.com/album/7luAa3DbfZe39ZGxx3aZlC"
       },
@@ -10812,6 +10830,28 @@
       "duration_ms": 227496,
       "name": "Nueva Season",
       "url": "https://open.spotify.com/track/1NY6GxLcNIo5tmdBZ2uJSC"
+    },
+    {
+      "album": {
+        "name": "le f*llen al miedo",
+        "url": "https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi"
+      },
+      "artists": [
+        {
+          "name": "Antony Z",
+          "url": "https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc"
+        },
+        {
+          "name": "III Peke\u00f1o",
+          "url": "https://open.spotify.com/artist/3TPactXkLHLQwOeVbjgcID"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183498,
+      "name": "NUNCA LO SENT\u00cd TAN INCRE\u00cdBLE",
+      "url": "https://open.spotify.com/track/0ALKal4aq7Rqllevw01CuN"
     },
     {
       "album": {
@@ -11475,6 +11515,40 @@
     },
     {
       "album": {
+        "name": "BALANCE [PARTE UNO]",
+        "url": "https://open.spotify.com/album/5HILIgflbg9H8jWSIu8gCZ"
+      },
+      "artists": [
+        {
+          "name": "El Chojin",
+          "url": "https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc"
+        },
+        {
+          "name": "AMBKOR",
+          "url": "https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz"
+        },
+        {
+          "name": "ZPU",
+          "url": "https://open.spotify.com/artist/7F9Bd5X4sxdwWRJVpbfMtb"
+        },
+        {
+          "name": "Locus",
+          "url": "https://open.spotify.com/artist/6vuZePQX5LQJGq4SGIUMFR"
+        },
+        {
+          "name": "Club 4",
+          "url": "https://open.spotify.com/artist/79vkBFesydiI0Gfueb4xEw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300559,
+      "name": "Peque\u00f1os Fuegos por Todas Partes",
+      "url": "https://open.spotify.com/track/4Zx9xPROYcz76508hO4tnX"
+    },
+    {
+      "album": {
         "name": "Peque\u00f1os fuegos por todas partes",
         "url": "https://open.spotify.com/album/5WsaUEHg4ERgmFy4xLT25L"
       },
@@ -12119,6 +12193,28 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Eres T\u00fa Para M\u00ed?",
+        "url": "https://open.spotify.com/album/0KIMTTVfmoQJ9uOB23rYoh"
+      },
+      "artists": [
+        {
+          "name": "Kadec Santa Anna",
+          "url": "https://open.spotify.com/artist/2EGMWC98kT000LbqnDYwhW"
+        },
+        {
+          "name": "Kandas",
+          "url": "https://open.spotify.com/artist/4gMZApWfk1wPyjVnS8LUjP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184620,
+      "name": "Qui\u00e9n Eres T\u00fa Para M\u00ed?",
+      "url": "https://open.spotify.com/track/6e0bd1FYpnCa1IltAd4dLZ"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Est\u00e1 Pasando",
         "url": "https://open.spotify.com/album/0oPUtWO7bIXibRYOnLLxGJ"
       },
@@ -12441,6 +12537,24 @@
     },
     {
       "album": {
+        "name": "RAPSINCORTE 57",
+        "url": "https://open.spotify.com/album/5m68FwXNkeAULPTa4Eme0E"
+      },
+      "artists": [
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135903,
+      "name": "RAPSINCORTE 57",
+      "url": "https://open.spotify.com/track/5NGyqTq5fqeOUx8leNDSfn"
+    },
+    {
+      "album": {
         "name": "Real OG",
         "url": "https://open.spotify.com/album/5SnjSg1F3RtAtu7OYeNx5z"
       },
@@ -12456,6 +12570,24 @@
       "duration_ms": 172000,
       "name": "Real OG",
       "url": "https://open.spotify.com/track/71LviRdtskrlVVsoiluH2o"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/2rTsdN2BOmY9EbbMkcOPSh"
+      },
+      "artists": [
+        {
+          "name": "Arce",
+          "url": "https://open.spotify.com/artist/7eH1UUCyxL8Wf9PztvvPJ6"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/0MkvdeykhBYoG80P39xidM"
     },
     {
       "album": {
@@ -12998,6 +13130,36 @@
       "duration_ms": 228247,
       "name": "Se Acab\u00f3",
       "url": "https://open.spotify.com/track/6hlXbDnEr1kXMsdP8dzc9d"
+    },
+    {
+      "album": {
+        "name": "Se Hizo Realidad",
+        "url": "https://open.spotify.com/album/4g0X7ylwguyZsW6l6Ebrox"
+      },
+      "artists": [
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "Aloy",
+          "url": "https://open.spotify.com/artist/3gehFozuAvROPOiqCT8OjI"
+        },
+        {
+          "name": "Teno Alvarez",
+          "url": "https://open.spotify.com/artist/4H8Ey5shVulQzW3fNWGCZQ"
+        },
+        {
+          "name": "Mc Caribe\u00f1o",
+          "url": "https://open.spotify.com/artist/0GrUv9AqxHpyPl3TTSGcp0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Se Hizo Realidad",
+      "url": "https://open.spotify.com/track/43MS98DssZVzXC7PR5J2vF"
     },
     {
       "album": {
@@ -13670,7 +13832,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 176727,
       "name": "Solaris",
       "url": "https://open.spotify.com/track/0BPQlhrn6Rc9lY7onAAzBY"
@@ -15286,7 +15448,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 157973,
       "name": "Vamos Viendo",
       "url": "https://open.spotify.com/track/15cGaXIjBiDVaDCYg5aKfB"
@@ -15866,7 +16028,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 200316,
       "name": "Ya S\u00e9",
       "url": "https://open.spotify.com/track/67jnDXkRAoN0KhqLkKATPg"

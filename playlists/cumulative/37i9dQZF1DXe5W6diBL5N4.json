@@ -9823,6 +9823,24 @@
     },
     {
       "album": {
+        "name": "After you've gone",
+        "url": "https://open.spotify.com/album/5dzMwq0NIBg9uMMf7dPbiB"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255909,
+      "name": "After you've gone",
+      "url": "https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf"
+    },
+    {
+      "album": {
         "name": "After you\u2019ve gone",
         "url": "https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey"
       },
@@ -11036,7 +11054,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 168000,
       "name": "ALBATROSS",
       "url": "https://open.spotify.com/track/0ErbwCsSL8LZGhpc2BzRtH"
@@ -23542,7 +23560,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 224087,
       "name": "Beautiful - Change Street Version",
       "url": "https://open.spotify.com/track/2LfoN3FALxQDlggPZ7aGCu"
@@ -54525,6 +54543,24 @@
     },
     {
       "album": {
+        "name": "Deep Dawn",
+        "url": "https://open.spotify.com/album/2x51QxlV8KSW1GfzmFL48h"
+      },
+      "artists": [
+        {
+          "name": "MINSEO",
+          "url": "https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Deep Dawn",
+      "url": "https://open.spotify.com/track/067O1ePjUgjvjPd4wWGf5y"
+    },
+    {
+      "album": {
         "name": "Deep Green",
         "url": "https://open.spotify.com/album/1J7UvoCf2ipsg0dbzrxPqg"
       },
@@ -65004,7 +65040,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 193000,
       "name": "Early Spring",
       "url": "https://open.spotify.com/track/2GQ19vTX8j08Z6MN240E9n"
@@ -71890,7 +71926,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 185000,
       "name": "Eyes on me",
       "url": "https://open.spotify.com/track/3g4QufPsCVYY1wYqM71OIp"
@@ -72556,6 +72592,28 @@
       "duration_ms": 237500,
       "name": "Fairy Dance",
       "url": "https://open.spotify.com/track/00t7F3A4JrTQPJv0QFFrW8"
+    },
+    {
+      "album": {
+        "name": "Duet Beyond Borders Original Sound Track Part.1",
+        "url": "https://open.spotify.com/album/4G1HcvSZp1hoktGHTHYWJ5"
+      },
+      "artists": [
+        {
+          "name": "Park Ki Young",
+          "url": "https://open.spotify.com/artist/2wAjuE3pVtauK8ZQ2p4SXN"
+        },
+        {
+          "name": "Wouter Hamel",
+          "url": "https://open.spotify.com/artist/7eK4wPcMgmSIxcGBS2lJl0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221021,
+      "name": "Fairy of Delight",
+      "url": "https://open.spotify.com/track/5ZPEYCwf6KEAuSwwkDiq8G"
     },
     {
       "album": {
@@ -81182,7 +81240,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 203545,
       "name": "Forest",
       "url": "https://open.spotify.com/track/2T0dcL9HI7t0W9H0vJANAN"
@@ -102378,7 +102436,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 242089,
       "name": "How about you",
       "url": "https://open.spotify.com/track/4Imjh7Rdg5NJPluzMiy6qa"
@@ -102692,6 +102750,24 @@
       "duration_ms": 195725,
       "name": "How can I really be okay",
       "url": "https://open.spotify.com/track/3gBTMLQWWNAKoSze0xqMnr"
+    },
+    {
+      "album": {
+        "name": "How Can Love Be Like That",
+        "url": "https://open.spotify.com/album/4JnETGNT0lcSokl3WBeyVr"
+      },
+      "artists": [
+        {
+          "name": "JOONIL JUNG",
+          "url": "https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389914,
+      "name": "How Can Love Be Like That",
+      "url": "https://open.spotify.com/track/7yZE8FBSyULiHE5ENrqjTO"
     },
     {
       "album": {
@@ -144482,7 +144558,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 197388,
       "name": "Love Love",
       "url": "https://open.spotify.com/track/5iltNDWzND6SIaQoSCUO12"
@@ -180360,7 +180436,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 211000,
       "name": "Over It",
       "url": "https://open.spotify.com/track/4poL9t1sdRjI7ylHpcQfdx"
@@ -222397,6 +222473,24 @@
     },
     {
       "album": {
+        "name": "Still Hurts",
+        "url": "https://open.spotify.com/album/3DHiSaGKd2aZisF1HELM6F"
+      },
+      "artists": [
+        {
+          "name": "SUCTION",
+          "url": "https://open.spotify.com/artist/4dJM7jDFvyq11fMjzB5Mfw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Still Hurts",
+      "url": "https://open.spotify.com/track/2kWFYMDAzJjK6MDC98bXXy"
+    },
+    {
+      "album": {
         "name": "Still I love you",
         "url": "https://open.spotify.com/album/40rClryATTTrRLioTiUybc"
       },
@@ -245405,6 +245499,24 @@
     },
     {
       "album": {
+        "name": "LOVECHAPTER",
+        "url": "https://open.spotify.com/album/4taRaj6jpJSs4cp5KFbPJZ"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "To. My First Love",
+      "url": "https://open.spotify.com/track/10nSl4tuKAfdHiSPppxrNY"
+    },
+    {
+      "album": {
         "name": "To. My Lover",
         "url": "https://open.spotify.com/album/06mJgu9S5v4Bnlw5MxlPkg"
       },
@@ -256880,6 +256992,24 @@
       "duration_ms": 187922,
       "name": "Wanna be my",
       "url": "https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD"
+    },
+    {
+      "album": {
+        "name": "Our Universe (Original Television Soundtrack), Pt. 5",
+        "url": "https://open.spotify.com/album/20qxk3NaT0mWDfi8wDdPsG"
+      },
+      "artists": [
+        {
+          "name": "Onestar",
+          "url": "https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Wanna Be With You",
+      "url": "https://open.spotify.com/track/4b8XM14Oac76OIQLQ252iU"
     },
     {
       "album": {
@@ -288008,7 +288138,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 308341,
       "name": "\uc5b4\ub5bb\uac8c \uc0ac\ub791\uc774 \uadf8\ub798\uc694 HOW LOVE IS",
       "url": "https://open.spotify.com/track/5e8lK9HxmEZ8cKMYd2qnpF"
@@ -288838,6 +288968,24 @@
       "duration_ms": 186782,
       "name": "\uc624\ub298\uc774 \uc5b4\uc81c\uac00 \ub418\uae30 \uc804\uc5d0",
       "url": "https://open.spotify.com/track/4RYvDqOO2Li3PXaFXEJNcR"
+    },
+    {
+      "album": {
+        "name": "\uc624\ub514\ub108\ub9ac \ub7ec\ube0c",
+        "url": "https://open.spotify.com/album/4sA9WEaboNsS00S0RKFKDo"
+      },
+      "artists": [
+        {
+          "name": "Jehwwn",
+          "url": "https://open.spotify.com/artist/23SggfMMPHFR2lJaPCVIUw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "\uc624\ub514\ub108\ub9ac \ub7ec\ube0c",
+      "url": "https://open.spotify.com/track/4ecxAtQScbtu6SVgEYUptr"
     },
     {
       "album": {
@@ -291760,6 +291908,28 @@
       "duration_ms": 277591,
       "name": "\uce74\ud398\uc778",
       "url": "https://open.spotify.com/track/6JLQ1cfhEXquVf8WFuLKme"
+    },
+    {
+      "album": {
+        "name": "\uce78\uc608\ubcf4\ub2e4 \ub108",
+        "url": "https://open.spotify.com/album/6LC8LwPi3oKjR5enb0LJuY"
+      },
+      "artists": [
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167076,
+      "name": "\uce78\uc608\ubcf4\ub2e4 \ub108",
+      "url": "https://open.spotify.com/track/1yR5Lh7tf9Dklrh8Nid9Uo"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 
 > rolitas chilas para chirotear y pegar un bailadón con Contacto Norte y Tony Aguirre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,838 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,931 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSujWHEEwoTJ.md) - [plain]
 | 59 | [La Hierba Se Movia](https://open.spotify.com/track/5uzcZvm3WZPorCXHVw2p7X) | [Tropicalísimo Apache](https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO) | [15 Exitos](https://open.spotify.com/album/15AbfzKLreIEl1mkKUxkZy) | 3:06 |
 | 60 | [Al Güero Se Le Ve](https://open.spotify.com/track/6HUMHjTiTcHR6jJlvIGZeo) | [Grupo La Kaña](https://open.spotify.com/artist/5HKItBjlIq7386wdY2gd9s) | [Que Perra Cumbia](https://open.spotify.com/album/1bODvxqnzjDaCMqcGMdESG) | 2:48 |
 
-Snapshot ID: `AAAAAN7+wA5T35W2nkaa6ccOlFCqgz4W`
+Snapshot ID: `AAAAADSFdweTPqzhcWGrAtSyuAYDAUNd`

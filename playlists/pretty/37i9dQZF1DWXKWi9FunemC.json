@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 394532,
+  "num_followers": 394593,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,30 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "STRENGTH AND SONG",
+        "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "Kato On The Track",
+          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
+        },
+        {
+          "name": "Sarah Juers",
+          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "STRENGTH AND SONG",
+      "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "ON TIME",
         "url": "https://open.spotify.com/album/5vec9f0c8wCBp1BOIZgQss"
       },
@@ -947,30 +971,6 @@
       "duration_ms": 176600,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/76LGi5nwlRwu6ixb1VxtJr"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "STRENGTH AND SONG",
-        "url": "https://open.spotify.com/album/3WmE8D5PxWXfMBVzX3fTPw"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "Kato On The Track",
-          "url": "https://open.spotify.com/artist/2P6teom3YQ7h8DFxR1JlQB"
-        },
-        {
-          "name": "Sarah Juers",
-          "url": "https://open.spotify.com/artist/39mgk0y3gWDfKqHTAcc2LG"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "STRENGTH AND SONG",
-      "url": "https://open.spotify.com/track/0MpVmc8oPQswuIwt1hMPYW"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "You Were There",
         "url": "https://open.spotify.com/album/4bcFP1yBd7q2OhN3k6HXZh"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 255837,
       "name": "You Were There",
       "url": "https://open.spotify.com/track/3MeR0AmJgQcmYZgHNCdIaq"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/7yi1fVFIgsSkBrhSMAmnAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3cUCBZ7sjEtAsTw52gk0hm"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
       },
       "artists": [
         {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
         }
       ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1399,6 +1399,22 @@
       "duration_ms": 189642,
       "name": "Everyday Things",
       "url": "https://open.spotify.com/track/4hesfRaW8qOa6GGO5iR4mo"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 238153,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Simple Phrase",
+        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
+      },
+      "artists": [
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "duration_ms": 208291,
+      "name": "Simple Phrase",
+      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1471,22 +1487,6 @@
       "duration_ms": 188463,
       "name": "i love You",
       "url": "https://open.spotify.com/track/6FNPc4wx2qyz3AGrJKepNO"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Simple Phrase",
-        "url": "https://open.spotify.com/album/0tyYbwhOr8mZibgMvYEOq0"
-      },
-      "artists": [
-        {
-          "name": "TAYA",
-          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
-        }
-      ],
-      "duration_ms": 208291,
-      "name": "Simple Phrase",
-      "url": "https://open.spotify.com/track/40qhVgofNyNm86szSXNQBi"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Simple Song",
-        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 202117,
-      "name": "Simple Song",
-      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "back to life",
         "url": "https://open.spotify.com/album/4WnIBKXYCxT4WioGJA60cY"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 138400,
       "name": "back to life",
       "url": "https://open.spotify.com/track/0koh7wZmTxAcHjMR87cBtu"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Simple Song",
+        "url": "https://open.spotify.com/album/4XIbGDudysSue0NbViGIPS"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 202117,
+      "name": "Simple Song",
+      "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Reckoner (An Axe Laid at the Root)",
-        "url": "https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr"
-      },
-      "artists": [
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
-        }
-      ],
-      "duration_ms": 237123,
-      "name": "Reckoner (An Axe Laid at the Root)",
-      "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Come Thou Fount",
         "url": "https://open.spotify.com/album/4k0MBOOQG8C58m8YHi2cEU"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 284545,
       "name": "Come Thou Fount",
       "url": "https://open.spotify.com/track/5Ye14RD5Bk93iQLf2nvSk4"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Reckoner (An Axe Laid at the Root)",
+        "url": "https://open.spotify.com/album/1t9LECAcunYvpr3edukjqr"
+      },
+      "artists": [
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+        }
+      ],
+      "duration_ms": 237123,
+      "name": "Reckoner (An Axe Laid at the Root)",
+      "url": "https://open.spotify.com/track/3EtEM53wzZkunSZiRXEik8"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2203,30 +2203,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/68SxWy5mGyQz0Jn9Spx0Nu"
-      },
-      "artists": [
-        {
-          "name": "Paul Zach",
-          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
-        },
-        {
-          "name": "Lowland Hum",
-          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 228250,
-      "name": "First Light",
-      "url": "https://open.spotify.com/track/1mwVr4ixbRTPzsrYP4Di9g"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "It Goes Both Ways",
         "url": "https://open.spotify.com/album/0oK55mBAQglpapd3cEjKh8"
       },
@@ -2259,6 +2235,30 @@
       "duration_ms": 192168,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/5mRoQMgnniTmh9IITXZnwn"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/68SxWy5mGyQz0Jn9Spx0Nu"
+      },
+      "artists": [
+        {
+          "name": "Paul Zach",
+          "url": "https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38"
+        },
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "First Light",
+      "url": "https://open.spotify.com/track/1mwVr4ixbRTPzsrYP4Di9g"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Miracle Service",
+        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
+      },
+      "artists": [
+        {
+          "name": "Andy Squyres",
+          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
+        }
+      ],
+      "duration_ms": 261918,
+      "name": "Gutter Punk",
+      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0"
       },
@@ -2331,22 +2347,6 @@
       "duration_ms": 133928,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Miracle Service",
-        "url": "https://open.spotify.com/album/4fHuRm4fsIQlyeL9bXYGsO"
-      },
-      "artists": [
-        {
-          "name": "Andy Squyres",
-          "url": "https://open.spotify.com/artist/1zs56l8qWxeDZ5aBAulSJU"
-        }
-      ],
-      "duration_ms": 261918,
-      "name": "Gutter Punk",
-      "url": "https://open.spotify.com/track/45A5UqTo2EEWJU9U2XpvVy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2379,26 +2379,6 @@
       "duration_ms": 289666,
       "name": "Holy Jesus (Stripped)",
       "url": "https://open.spotify.com/track/7g1Nb8huP88eIoOdMDPGng"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "The Friend & True King",
-        "url": "https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a"
-      },
-      "artists": [
-        {
-          "name": "Vian Izak",
-          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
-        },
-        {
-          "name": "Juniper Vale",
-          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Glory of God",
-      "url": "https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2439,6 +2419,26 @@
       "duration_ms": 280125,
       "name": "ZION",
       "url": "https://open.spotify.com/track/2PArMnrio6xPBsjVQNl3V7"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "The Friend & True King",
+        "url": "https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a"
+      },
+      "artists": [
+        {
+          "name": "Vian Izak",
+          "url": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
+        },
+        {
+          "name": "Juniper Vale",
+          "url": "https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Glory of God",
+      "url": "https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2519,26 +2519,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Again And Again",
-        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        },
-        {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
-        }
-      ],
-      "duration_ms": 189106,
-      "name": "Again And Again",
-      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Conquering Eden",
         "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
       },
@@ -2599,6 +2579,26 @@
       "duration_ms": 147178,
       "name": "Livin' To Learn",
       "url": "https://open.spotify.com/track/47Hf9LNwkxnQK7BtzyFtp1"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Again And Again",
+        "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        },
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 189106,
+      "name": "Again And Again",
+      "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
     },
     {
       "added_at": "2025-12-12 22:29:55",

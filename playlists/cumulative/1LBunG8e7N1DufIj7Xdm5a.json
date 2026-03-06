@@ -2543,6 +2543,24 @@
     },
     {
       "album": {
+        "name": "ALTROVE (MA NON QUI)",
+        "url": "https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7"
+      },
+      "artists": [
+        {
+          "name": "Maledetto",
+          "url": "https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "ALTROVE (MA NON QUI)",
+      "url": "https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy"
+    },
+    {
+      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/6GF96G1DxeAc8soFd66iQt"
       },
@@ -3933,7 +3951,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -3946,7 +3964,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183999,
-      "name": "Ashes of Lust",
+      "name": "Ashes of Lust #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/31R8cF6yP2W7m5UiQewOsj"
     },
     {
@@ -6369,7 +6387,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -6382,7 +6400,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194959,
-      "name": "Bleed Electric",
+      "name": "Bleed Electric #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/65SAHnmXzL7zwON3YqvTMQ"
     },
     {
@@ -7757,7 +7775,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -7770,7 +7788,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 194679,
-      "name": "Broken Paradise",
+      "name": "Broken Paradise #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/70J9t7rwOTQI9obMQeC2P7"
     },
     {
@@ -8243,24 +8261,6 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
-        "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
-      },
-      "artists": [
-        {
-          "name": "Absinthe SV",
-          "url": "https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1"
-        }
-      ],
-      "date_added": "2025-09-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 205079,
-      "name": "Burn the Sky",
-      "url": "https://open.spotify.com/track/5htTItycSYY8noJyQsyXoU"
-    },
-    {
-      "album": {
         "name": "Epic rock music",
         "url": "https://open.spotify.com/album/79c248en6LDJwweGZK1sn5"
       },
@@ -8276,6 +8276,24 @@
       "duration_ms": 256199,
       "name": "Burn the Sky",
       "url": "https://open.spotify.com/track/0TKnyaDYB4aGxLhPFqNqtx"
+    },
+    {
+      "album": {
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
+        "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
+      },
+      "artists": [
+        {
+          "name": "Absinthe SV",
+          "url": "https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1"
+        }
+      ],
+      "date_added": "2025-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205079,
+      "name": "Burn the Sky #Music #NewMusic #Viral",
+      "url": "https://open.spotify.com/track/5htTItycSYY8noJyQsyXoU"
     },
     {
       "album": {
@@ -10069,7 +10087,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -10082,7 +10100,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 183679,
-      "name": "Chaos in Neon",
+      "name": "Chaos in Neon #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/7jcwOXiMHqRFDCtqDU4zz0"
     },
     {
@@ -12901,7 +12919,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -12914,7 +12932,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199599,
-      "name": "Crimson Fever",
+      "name": "Crimson Fever #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/0gQfE91m3vLMGRAwhMvKvO"
     },
     {
@@ -15373,7 +15391,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -15386,7 +15404,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135679,
-      "name": "Dark Illusion",
+      "name": "Dark Illusion #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/18cdXpsAOHYR4gO8xtifK1"
     },
     {
@@ -15553,7 +15571,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -15566,7 +15584,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 167439,
-      "name": "Deadly Addiction",
+      "name": "Deadly Addiction #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS"
     },
     {
@@ -22771,7 +22789,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -22784,7 +22802,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 196039,
-      "name": "Eternal Sin",
+      "name": "Eternal Sin #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/0qPyqXaquK6wmXOHkEsp1w"
     },
     {
@@ -23483,7 +23501,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -23496,7 +23514,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153559,
-      "name": "Fallen Angels",
+      "name": "Fallen Angels #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/7IPuaVKx36f7KBHZvJDgN0"
     },
     {
@@ -23869,7 +23887,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -23882,7 +23900,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159959,
-      "name": "Fatal Paradise",
+      "name": "Fatal Paradise #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/1w99kgX8ZU63GjDlIGsA6T"
     },
     {
@@ -26629,7 +26647,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -26642,7 +26660,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213919,
-      "name": "Ghost Addiction",
+      "name": "Ghost Addiction #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/07jH4LK6Xhj9pFVa11MwXq"
     },
     {
@@ -34799,7 +34817,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -34812,7 +34830,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 190719,
-      "name": "Kiss of Chaos",
+      "name": "Kiss of Chaos #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/1wCcnCRRiqYCofQS3cqx6j"
     },
     {
@@ -34962,6 +34980,24 @@
       "duration_ms": 193187,
       "name": "L'aria serena",
       "url": "https://open.spotify.com/track/1mxwU0i01gdx7EM1wqw288"
+    },
+    {
+      "album": {
+        "name": "L'ASCENSORE",
+        "url": "https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD"
+      },
+      "artists": [
+        {
+          "name": "SULABU",
+          "url": "https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "L'ASCENSORE",
+      "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
     },
     {
       "album": {
@@ -39343,7 +39379,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -39356,7 +39392,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158479,
-      "name": "Lust in Flames",
+      "name": "Lust in Flames #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/3ZQHB4NQsUyYYbMOw9Ptt8"
     },
     {
@@ -44565,7 +44601,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -44578,7 +44614,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 234919,
-      "name": "Neon Poison",
+      "name": "Neon Poison #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/6L9NAGEFPgrZhBgzuHpS37"
     },
     {
@@ -45233,7 +45269,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -45246,7 +45282,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184959,
-      "name": "Night of Poison",
+      "name": "Night of Poison #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/6BZG0xnUrXiDp4bePzsTjs"
     },
     {
@@ -51669,7 +51705,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -51682,7 +51718,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 181079,
-      "name": "Radioactive Kiss",
+      "name": "Radioactive Kiss #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/36TdvRbew1JMGGrjWQPnaY"
     },
     {
@@ -63335,7 +63371,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -63348,7 +63384,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154999,
-      "name": "Synthetic Love",
+      "name": "Synthetic Love #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/0UtXdOcQ36Nsck1EDWj4DA"
     },
     {
@@ -66885,7 +66921,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -66898,7 +66934,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 170799,
-      "name": "Toxic Desire",
+      "name": "Toxic Desire #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/28LLsAxtkY4bd9DpaTAN1E"
     },
     {
@@ -69467,7 +69503,7 @@
     },
     {
       "album": {
-        "name": "Absinthe Nights",
+        "name": "Absinthe Nights #Music #NewMusic #Viral",
         "url": "https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m"
       },
       "artists": [
@@ -69480,7 +69516,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209999,
-      "name": "Venom Heart",
+      "name": "Venom Heart #Music #NewMusic #Viral",
       "url": "https://open.spotify.com/track/1jTm59EhkuMUDnAiyzmmPc"
     },
     {

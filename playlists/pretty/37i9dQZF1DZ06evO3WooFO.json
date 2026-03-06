@@ -1,12 +1,12 @@
 {
   "description": "This is blink-182. The essential tracks, all in one playlist.",
-  "num_followers": 619238,
+  "num_followers": 619308,
   "original_name": "This Is blink-182",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABuzw6vLlfuOEh2X6cxms9L",
+  "snapshot_id": "aad2AAAAAABriBy0X4Y74aaYaW4wz4ey",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ONE MORE TIME... PART-2",
         "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 138460,
       "name": "FELL IN LOVE",
       "url": "https://open.spotify.com/track/3zwRNJfoHAioyZJOkxJJ9Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 200360,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/0y3fPWWin7NL5aED2FjvXP"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neighborhoods (Deluxe)",
-        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 179880,
-      "name": "Even If She Falls",
-      "url": "https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buddha",
         "url": "https://open.spotify.com/album/5I6NuHaiAe8nz2cC2ZPqBw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 64560,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/1e6fOolUT77GWYvTVHHDkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neighborhoods (Deluxe)",
+        "url": "https://open.spotify.com/album/2xSmzzqWM6cqaC92Hf7Dyv"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 179880,
+      "name": "Even If She Falls",
+      "url": "https://open.spotify.com/track/4s7qEhuFacYJMJjTISwTSo"
     }
   ],
   "unique_name": "This Is blink-182",

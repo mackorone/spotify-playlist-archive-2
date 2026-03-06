@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste releases Hollands & Volks. Cover: Wesly Bronkhorst, Brace, Billy Dans & Poke",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: John West & Lange Frans",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -486,6 +486,28 @@
       "duration_ms": 142182,
       "name": "Alles Wat Ik Nodig Heb",
       "url": "https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B"
+    },
+    {
+      "album": {
+        "name": "Alles Wat Ik Zoek",
+        "url": "https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187420,
+      "name": "Alles Wat Ik Zoek",
+      "url": "https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb"
     },
     {
       "album": {
@@ -1254,6 +1276,24 @@
       "duration_ms": 141081,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4a3k5MpyuTYfAWiZknc0bj"
+    },
+    {
+      "album": {
+        "name": "Blijf Nog Even",
+        "url": "https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE"
+      },
+      "artists": [
+        {
+          "name": "Ray Benjamin",
+          "url": "https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179727,
+      "name": "Blijf Nog Even",
+      "url": "https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q"
     },
     {
       "album": {
@@ -2203,6 +2243,24 @@
     },
     {
       "album": {
+        "name": "Diamanten Ring",
+        "url": "https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc"
+      },
+      "artists": [
+        {
+          "name": "Daymian Van Os",
+          "url": "https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163682,
+      "name": "Diamanten Ring",
+      "url": "https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl"
+    },
+    {
+      "album": {
         "name": "Dicht bij jou",
         "url": "https://open.spotify.com/album/5E9nRruHBHe65o4wabcuEZ"
       },
@@ -2904,6 +2962,24 @@
       "duration_ms": 200383,
       "name": "Feest In De Tent",
       "url": "https://open.spotify.com/track/6rvwaPKrw99V8G7DoGSMvz"
+    },
+    {
+      "album": {
+        "name": "Feesten dag en nacht",
+        "url": "https://open.spotify.com/album/3vU9OOA57nSrX4QrxEuudm"
+      },
+      "artists": [
+        {
+          "name": "Nick Brinkhuis",
+          "url": "https://open.spotify.com/artist/0UnYFl9vocaa3Kew3JFfPX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174503,
+      "name": "Feesten dag en nacht",
+      "url": "https://open.spotify.com/track/3wqVebtRtBfoquNH8CHFih"
     },
     {
       "album": {
@@ -4075,6 +4151,24 @@
     },
     {
       "album": {
+        "name": "Ik Ben Een Stap Te Ver Gegaan",
+        "url": "https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154389,
+      "name": "Ik Ben Een Stap Te Ver Gegaan",
+      "url": "https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N"
+    },
+    {
+      "album": {
         "name": "Ik ben liever bij jou",
         "url": "https://open.spotify.com/album/1j5Zul6E4rz66WDyIkRyMN"
       },
@@ -5087,6 +5181,24 @@
     },
     {
       "album": {
+        "name": "Jij bent mijn alles",
+        "url": "https://open.spotify.com/album/7w16bh4Cbjlch3MSgXdTiE"
+      },
+      "artists": [
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213895,
+      "name": "Jij bent mijn alles",
+      "url": "https://open.spotify.com/track/0wAxCj3e89SWk1N2R6grCg"
+    },
+    {
+      "album": {
         "name": "Jij bent voor mij die ene",
         "url": "https://open.spotify.com/album/1rU0GTweRlbje8CWPOPfF8"
       },
@@ -5556,6 +5668,24 @@
       "duration_ms": 204002,
       "name": "Koning van het plein",
       "url": "https://open.spotify.com/track/3RdTVF7yjt6wFkylc1uRlo"
+    },
+    {
+      "album": {
+        "name": "Kouwe Kak",
+        "url": "https://open.spotify.com/album/61TWNYthhubPajfdYtspVB"
+      },
+      "artists": [
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/2xH3vTSU0GizfUrgYMauZb"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123782,
+      "name": "Kouwe Kak",
+      "url": "https://open.spotify.com/track/6br7zmBXTUgQWoqVDQ6qBW"
     },
     {
       "album": {
@@ -6367,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "Madame Bonjour",
+        "url": "https://open.spotify.com/album/2PBCPb445B8WTB4VBZXIdF"
+      },
+      "artists": [
+        {
+          "name": "Mike Oskam",
+          "url": "https://open.spotify.com/artist/4h0EhiZy6kumY4jKmqWjBc"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162626,
+      "name": "Madame Bonjour",
+      "url": "https://open.spotify.com/track/3E4oeP8w7Of0qTeylPePDl"
+    },
+    {
+      "album": {
         "name": "Magische Momenten",
         "url": "https://open.spotify.com/album/3N0QGGvrFJ1hExEqkf5m14"
       },
@@ -6700,6 +6848,24 @@
       "duration_ms": 186367,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1dv4M4UXstRSqGeN16qGeW"
+    },
+    {
+      "album": {
+        "name": "More Amor Por Favor",
+        "url": "https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM"
+      },
+      "artists": [
+        {
+          "name": "Vinzzent",
+          "url": "https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156726,
+      "name": "More Amor Por Favor",
+      "url": "https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa"
     },
     {
       "album": {
@@ -7637,6 +7803,24 @@
     },
     {
       "album": {
+        "name": "Rosalie",
+        "url": "https://open.spotify.com/album/5rZVMifD7MBvqaQ0d3Tvcs"
+      },
+      "artists": [
+        {
+          "name": "Jan van Est",
+          "url": "https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165838,
+      "name": "Rosalie",
+      "url": "https://open.spotify.com/track/5y91VPHHl82NAmK60i1KFv"
+    },
+    {
+      "album": {
         "name": "Ruud & Mieke",
         "url": "https://open.spotify.com/album/5ACmcbFkvQUNmthG07qRBw"
       },
@@ -8180,7 +8364,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 203210,
       "name": "Stop de Tijd",
       "url": "https://open.spotify.com/track/5N2qpVfE6lxJhf3YPpzr0V"
@@ -8336,6 +8520,24 @@
       "duration_ms": 166086,
       "name": "Toen Ik Je Zag",
       "url": "https://open.spotify.com/track/5YAtYsrpeO9bz4ffrhrFSP"
+    },
+    {
+      "album": {
+        "name": "Toetsenbordheld",
+        "url": "https://open.spotify.com/album/5XA89kI58JGDnpq2EoRloQ"
+      },
+      "artists": [
+        {
+          "name": "Robin van Herwijnen",
+          "url": "https://open.spotify.com/artist/6DSV2sKcDI7lJHmNqBTkRG"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206361,
+      "name": "Toetsenbordheld",
+      "url": "https://open.spotify.com/track/54hfBqJZJpj6p9yX9icHZm"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The most intense local drill music firing up the continent\. Cover:  Beeztrap KOTM
 
-277 songs - 13 hr 50 min
+278 songs - 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Badman](https://open.spotify.com/track/5C2dzL3VyfP0dFnvKWplYn) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Badman](https://open.spotify.com/album/29RXmKEbM33hbEJTaTCLXC) | 3:37 | 2022-09-29 | 2024-01-05 |
 | [BALENCIAGA](https://open.spotify.com/track/1v50F7vK31Czts54YID73W) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [BALENCIAGA](https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9) | 2:20 | 2025-09-19 |  |
 | [Balling](https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt) | [Balling](https://open.spotify.com/album/2FqS1rete3J3Viej1Du06g) | 2:46 | 2024-05-17 | 2024-06-01 |
-| [Bantama Blues 3](https://open.spotify.com/track/7DShkziVjQFprsI5MuFM03) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:41 | 2025-11-07 |  |
+| [Bantama Blues 3](https://open.spotify.com/track/7DShkziVjQFprsI5MuFM03) | [Ko\-Jo Cue](https://open.spotify.com/artist/0LWXvmwdwsL0uPokRmix6M) | [KANI: A Bantama Story](https://open.spotify.com/album/6j4bsD6EVG8JqxOXDdSkFE) | 3:41 | 2025-11-07 | 2026-03-06 |
 | [BASELINE](https://open.spotify.com/track/4jWFICufHHnaCDrtCeUGyV) | [Damy](https://open.spotify.com/artist/6Rd7l8PLs9gpbqEQ9hSpmP), [YokeeGilla](https://open.spotify.com/artist/3Y54NinYYRIlsNUzu39We4) | [BASELINE](https://open.spotify.com/album/5GUeHyG26KMyh1kKEejzcZ) | 3:13 | 2022-11-04 | 2022-12-09 |
 | [Bebe](https://open.spotify.com/track/04qKXcYDIIWVLdCTZCdUQm) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Bebe](https://open.spotify.com/album/1rFjsoBsPodLHBYQG8S8H6) | 2:07 | 2022-06-16 |  |
 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 | 2022-06-09 | 2024-01-19 |
@@ -171,6 +171,7 @@
 | [Misbehavior](https://open.spotify.com/track/0n3tva9XBW73ijgXuUHOgB) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Misbehavior](https://open.spotify.com/album/00hiuIxViGMdmYoAKigUbd) | 3:00 | 2024-01-19 | 2024-03-15 |
 | [Mmaa Bi](https://open.spotify.com/track/1PAGCXCR9aefQcyIAlbTiN) | [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Sokka Sdw](https://open.spotify.com/artist/4PlWzQ3evhRTWHK6u78Cdk), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Mmaa Bi](https://open.spotify.com/album/7rno9y2FHbFVye2fN7w8Y8) | 2:48 | 2024-07-26 | 2024-09-28 |
 | [Mmerepa](https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:06 | 2024-05-24 | 2024-06-21 |
+| [MO NTWƐN!](https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [MO NTWƐN!](https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91) | 2:02 | 2026-03-06 |  |
 | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/0CPwUbcjOSkDk8T6LFO8JY) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/27XavddsYmGmvQmBRwXEzC) | 2:36 | 2022-11-25 | 2023-05-23 |
 | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/track/23JIrjj90Vu9zQh8EE79h1) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC) | [MOBB \(feat\. Le Juiice\)](https://open.spotify.com/album/6yQ3cF9W9UQ3ContMuFd9l) | 2:36 | 2023-05-11 | 2023-11-17 |
 | [Monaco](https://open.spotify.com/track/4hjINFiJeF8lBFiWphn3Kf) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Monaco](https://open.spotify.com/album/7unx4vrnytVLwxZ3G1DXK4) | 2:33 | 2022-06-30 | 2022-11-05 |

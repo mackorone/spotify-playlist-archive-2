@@ -4,7 +4,7 @@
 
 > Aquelas pra começar o dia de alma leve
 
-313 songs - 17 hr 35 min
+314 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Andei Só](https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Andei Só](https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd) | 5:57 | 2024-02-02 | 2024-05-07 |
 | [Antes de Tudo](https://open.spotify.com/track/1NBSSZmo54UOHhG02BqiY7) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Indigo Borboleta Anil](https://open.spotify.com/album/7GCAjZgKwHBucSRz7rQize) | 3:49 | 2024-04-26 | 2025-12-14 |
 | [Ao Seu Dispor](https://open.spotify.com/track/2WIL1zCwKdXb82PR7X1wEc) | [Luã Yvys](https://open.spotify.com/artist/34ykAn2yxSBubidCEVIccc) | [Ao Seu Dispor](https://open.spotify.com/album/1w2NMAsHIMGei88tEYrQKV) | 2:48 | 2025-03-14 | 2025-03-22 |
-| [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 |  |
+| [Aquarela: Aviador](https://open.spotify.com/track/2zHfO8ye2LPw4r8cjgh7UD) | [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Juliano Moreira](https://open.spotify.com/artist/0NMZpUOrXHGb4YoVZfW5lL), [Aquarela](https://open.spotify.com/artist/0ly4o2fdFAf19DOOC0vv8m), [Brenda Luce](https://open.spotify.com/artist/0Tlf2OcP0TAOc6Y3RqJ9Qz), [Glenda Rolim](https://open.spotify.com/artist/2NqjLcW1LVMYcIcTV5J1WO) | [Aquarela: Aviador](https://open.spotify.com/album/180pnhueoUeVKiOyiRR2DO) | 4:25 | 2022-02-18 | 2026-03-06 |
 | [Aquele Frevo Axé](https://open.spotify.com/track/0Fd5qH2K7UsQh4MU3MB17m) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Aquele Frevo Axé](https://open.spotify.com/album/5jhcmxv1YOORIADhphS2SE) | 3:52 | 2022-04-01 | 2022-04-20 |
 | [Asas](https://open.spotify.com/track/1lmcHmrnwCl21OcPRY3ZVb) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Um Corpo no Mundo](https://open.spotify.com/album/3PH6R6Ah2YfJeufrRYREZ4) | 4:34 | 2022-04-01 | 2022-04-20 |
 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 | 2025-07-18 |  |
@@ -206,6 +206,7 @@
 | [Noite](https://open.spotify.com/track/2v21Q5ape3sbMXCNBX7NIy) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Noite](https://open.spotify.com/album/6IT90sVXN3ljIjZgYQDTci) | 3:31 | 2023-11-17 | 2024-07-17 |
 | [Nossa Resenha](https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Nossa Resenha](https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr) | 2:41 | 2024-01-12 | 2026-02-13 |
 | [nosso canto](https://open.spotify.com/track/17lHEqIcsyNsMUQrAtBWlt) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [nosso canto](https://open.spotify.com/album/0j3EzUqUgTI1Wa71ud5k0p) | 2:56 | 2022-04-01 | 2022-04-15 |
+| [NÃO ME CHAME DE AMOR](https://open.spotify.com/track/3Hgcx0L0wYb0IVikGFOm4O) | [LAURO](https://open.spotify.com/artist/0QDKEP0EJvT2EKXzLpBuNa) | [NÃO ME CHAME DE AMOR](https://open.spotify.com/album/0jhwkzklADeDEVGRgSruhs) | 4:38 | 2026-02-06 |  |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 | 2023-05-23 |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-02-18 |  |
 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 | 2023-10-23 |  |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Eypio
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Motive
 
 264 songs - 12 hr 59 min
 

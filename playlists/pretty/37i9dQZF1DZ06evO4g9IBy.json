@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 172443,
+  "num_followers": 172445,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAD05N6OvXOCx8PSX09MAVou",
+  "snapshot_id": "aad2AAAAAAAYN3cgTsaOkGnJBrrXqjZq",
   "tracks": [
     {
       "added_at": null,
@@ -275,42 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 149492,
-      "name": "Remedy (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "After the Glitter Fades - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -335,6 +299,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "After the Glitter Fades - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0JHm1MZjQ1smYmD8XCGx11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 149492,
+      "name": "Remedy (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -347,38 +347,6 @@
       "duration_ms": 301293,
       "name": "Nightbird - 2016 Remaster",
       "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Practical Magic (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 251080,
-      "name": "If You Ever Did Believe",
-      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bella Donna (2016 Remastered)",
-        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 235026,
-      "name": "How Still My Love - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2Qgs5ycYkVe4nPI0f2k5yC"
     },
     {
       "added_at": null,
@@ -407,6 +375,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bella Donna (2016 Remastered)",
+        "url": "https://open.spotify.com/album/0IomjU2bXFng4LQBYn7Het"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 235026,
+      "name": "How Still My Love - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2Qgs5ycYkVe4nPI0f2k5yC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Practical Magic (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2N7TdBow0ClqvPIdmuOgtw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 251080,
+      "name": "If You Ever Did Believe",
+      "url": "https://open.spotify.com/track/5CQmmcGVX9L0NOOkLR6uve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -419,6 +419,30 @@
       "duration_ms": 249133,
       "name": "If Anyone Falls - 2016 Remaster",
       "url": "https://open.spotify.com/track/1DqYqVLxUsR6NLUH1ys3AU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buckingham Nicks",
+        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
+      },
+      "artists": [
+        {
+          "name": "Buckingham Nicks",
+          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "duration_ms": 435793,
+      "name": "Frozen Love",
+      "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
     },
     {
       "added_at": null,
@@ -455,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Wild Heart (2016 Remastered)",
+        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -472,29 +516,9 @@
           "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
         }
       ],
-      "duration_ms": 435793,
-      "name": "Frozen Love",
-      "url": "https://open.spotify.com/track/7EXPUTfGz4N2Gyo5dz2cUg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wild Heart (2016 Remastered)",
-        "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+      "duration_ms": 130950,
+      "name": "Without a Leg to Stand On",
+      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
     },
     {
       "added_at": null,
@@ -535,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buckingham Nicks",
-        "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
-      },
-      "artists": [
-        {
-          "name": "Buckingham Nicks",
-          "url": "https://open.spotify.com/artist/2KugL3DwL7NRCN9VLcWXqx"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Lindsey Buckingham",
-          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
-        }
-      ],
-      "duration_ms": 130950,
-      "name": "Without a Leg to Stand On",
-      "url": "https://open.spotify.com/track/6U0yspjs6Ag1G5Gy5Lol7G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wild Heart (2016 Remastered)",
         "url": "https://open.spotify.com/album/29RVdfPWTEu6atVycxx86s"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 294920,
-      "name": "Sorcerer",
-      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 229923,
       "name": "Crystal",
       "url": "https://open.spotify.com/track/2a9l6PrSo1dNxIJuxxYjJZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 294920,
+      "name": "Sorcerer",
+      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Every Day",
-      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buckingham Nicks",
         "url": "https://open.spotify.com/album/0MNvghevbRjjP8X3qPVrxv"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 231709,
       "name": "Don't Let Me Down Again",
       "url": "https://open.spotify.com/track/171YcHaEjFRml5BZQzyjH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Every Day",
+      "url": "https://open.spotify.com/track/0biLQx9G0hwYs3XjlfAfho"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trouble in Shangri-La",
         "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 369520,
       "name": "Wild Heart - 2016 Remaster",
       "url": "https://open.spotify.com/track/39csEPv4OCAsyQiePzTpIa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,

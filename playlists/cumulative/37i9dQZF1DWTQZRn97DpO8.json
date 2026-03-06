@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Lestin",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Yasmeen",
   "name": "le miel",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 211914,
       "name": "Amber, mon amour",
       "url": "https://open.spotify.com/track/7ERaCkdSRHkNdoTIrSctrT"
@@ -1150,6 +1150,24 @@
       "duration_ms": 159585,
       "name": "Boru Kata",
       "url": "https://open.spotify.com/track/4l9N7iqG2TiTfMcY3CF1op"
+    },
+    {
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/5JfVAdqRkz3JIvd0QHrQ88"
+      },
+      "artists": [
+        {
+          "name": "BR\u00d6",
+          "url": "https://open.spotify.com/artist/6U2PIOH8ZKgFprcdkIe8J5"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165546,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/45bC4J4xP1m1Jbt6fXUYky"
     },
     {
       "album": {
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 218840,
       "name": "D\u00e9sol\u00e9e pour le bruit",
       "url": "https://open.spotify.com/track/7k0Uh7XlKmYZ0cu93Sz08j"
@@ -3270,6 +3288,24 @@
       "duration_ms": 120609,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7c5rStQVZfWDOQUOD7KfEo"
+    },
+    {
+      "album": {
+        "name": "French Kiss",
+        "url": "https://open.spotify.com/album/75xgd8zrkLuQZxLESPHjkp"
+      },
+      "artists": [
+        {
+          "name": "Ja\u00efa Rose",
+          "url": "https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186086,
+      "name": "French Kiss",
+      "url": "https://open.spotify.com/track/3WmtfrPOWswNzcC64L0xev"
     },
     {
       "album": {
@@ -4339,6 +4375,24 @@
     },
     {
       "album": {
+        "name": "JALOUX*",
+        "url": "https://open.spotify.com/album/5T5DM7tx6JvAsRBlebc4sy"
+      },
+      "artists": [
+        {
+          "name": "Cumulus.",
+          "url": "https://open.spotify.com/artist/5oMqvT0EpXHuolJEaHcmCi"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178624,
+      "name": "JALOUX*",
+      "url": "https://open.spotify.com/track/4KbrtSLhDm4KeOsw2lAmaw"
+    },
+    {
+      "album": {
         "name": "Jardin Secret",
         "url": "https://open.spotify.com/album/3Dkh7X4mHBCFZSYe5XrDUi"
       },
@@ -4376,6 +4430,24 @@
       "duration_ms": 207499,
       "name": "Je me souviens de tout",
       "url": "https://open.spotify.com/track/45I253r1lTUbsOFwHWVe7K"
+    },
+    {
+      "album": {
+        "name": "MERAKI",
+        "url": "https://open.spotify.com/album/0BVn7EWs5e2QZongJFKPcm"
+      },
+      "artists": [
+        {
+          "name": "Yasmeen",
+          "url": "https://open.spotify.com/artist/1AFp0LclWElt9bYSpDt297"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "je sais",
+      "url": "https://open.spotify.com/track/62XsUyT61PAc8Ou7KWvoUR"
     },
     {
       "album": {
@@ -4685,6 +4757,24 @@
     },
     {
       "album": {
+        "name": "JADA SUND\u00c6Y",
+        "url": "https://open.spotify.com/album/2S087oVdPj8FoRHmoBc1P4"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166293,
+      "name": "L'HEURE ET L'ENDROIT",
+      "url": "https://open.spotify.com/track/4DoBg69aTPQDr4CcjMyQdR"
+    },
+    {
+      "album": {
         "name": "L'olivier",
         "url": "https://open.spotify.com/album/0jyKcnwfpw2ZlnooyCWz6o"
       },
@@ -4822,7 +4912,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 256500,
       "name": "Laisse-la devenir",
       "url": "https://open.spotify.com/track/0pLWqflDJwDftgk3Kd3U6o"
@@ -6686,7 +6776,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 132000,
       "name": "Oublie-la",
       "url": "https://open.spotify.com/track/6nYkwViHahN5octmKo7yrE"
@@ -9420,7 +9510,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 164783,
       "name": "Toxique",
       "url": "https://open.spotify.com/track/6enp8sO7sF6vtFIWKnp1w7"

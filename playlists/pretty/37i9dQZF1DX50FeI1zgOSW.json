@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : 808Krshna",
-  "num_followers": 18538,
+  "num_followers": 18540,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHiAYCf04RnMr60bq4JYHzeIW3F",
+  "snapshot_id": "AAAAAMITQx/E5O9+Rqyggq3i4pc7ChSr",
   "tracks": [
     {
       "added_at": "2026-01-30 04:48:10",
@@ -170,6 +170,10 @@
         {
           "name": "Aarvika Vidya",
           "url": "https://open.spotify.com/artist/7JBHgvMGTQlvxScaIkAYuW"
+        },
+        {
+          "name": "Ameenul Infan",
+          "url": "https://open.spotify.com/artist/5WZwNck8r7KTgw8VBHB52P"
         }
       ],
       "duration_ms": 92719,
@@ -211,6 +215,30 @@
       "duration_ms": 183636,
       "name": "Sorgame Stun Aagum",
       "url": "https://open.spotify.com/track/4eZVXQSqNFGwASklUaYPyy"
+    },
+    {
+      "added_at": "2026-03-05 10:00:17",
+      "album": {
+        "name": "Honeydrop",
+        "url": "https://open.spotify.com/album/7v84diFcHsCuw91BS8WsLx"
+      },
+      "artists": [
+        {
+          "name": "Sajad Youseph",
+          "url": "https://open.spotify.com/artist/3fW3ghhPY8bJM54eSahRnf"
+        },
+        {
+          "name": "VXAL",
+          "url": "https://open.spotify.com/artist/04ftZCJgjzpuUAFwO4OSpC"
+        },
+        {
+          "name": "Shafi Ali",
+          "url": "https://open.spotify.com/artist/6U09TVU3LUO6LZzwcgh6FG"
+        }
+      ],
+      "duration_ms": 175483,
+      "name": "Honeydrop",
+      "url": "https://open.spotify.com/track/4u3tCFnxGX9nDNe893tPSQ"
     },
     {
       "added_at": "2026-02-26 04:01:08",
@@ -491,26 +519,6 @@
       "duration_ms": 182758,
       "name": "AI Sundari",
       "url": "https://open.spotify.com/track/2Eycs9II5o2z0fSlvS9rQd"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Undhan Mugam Kaana",
-        "url": "https://open.spotify.com/album/73wEq0nKzBdM8EIQxYw5IK"
-      },
-      "artists": [
-        {
-          "name": "Martin Kartenjer",
-          "url": "https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw"
-        },
-        {
-          "name": "Kumudhavalli",
-          "url": "https://open.spotify.com/artist/1cLCzBWRM5xAK7BGrrZIF4"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Undhan Mugam Kaana",
-      "url": "https://open.spotify.com/track/1quyCIz5SauoZn6PV16YxN"
     },
     {
       "added_at": "2026-03-02 15:27:10",
@@ -1391,58 +1399,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Pattampoochi parakuthada",
-        "url": "https://open.spotify.com/album/5LxBMdyJzoln2xNr5zA6uG"
-      },
-      "artists": [
-        {
-          "name": "mohanshiva",
-          "url": "https://open.spotify.com/artist/4CIHHPmvZHiWtv6dNJAzY0"
-        },
-        {
-          "name": "Priya Mali",
-          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Pattampoochi parakuthada",
-      "url": "https://open.spotify.com/track/7oMIjQELawYa32GK3NE4tS"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Janakiye",
-        "url": "https://open.spotify.com/album/6pKGh5qRJMirFaiolmIKuQ"
-      },
-      "artists": [
-        {
-          "name": "Ajai Kumar",
-          "url": "https://open.spotify.com/artist/1RdDqJm2KdpGl0gYXEioPd"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Janakiye",
-      "url": "https://open.spotify.com/track/52N6RgGC94sOoARc7XeLpL"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Uravu",
-        "url": "https://open.spotify.com/album/3VlIDaxDKf2n3Jdi3JtQWi"
-      },
-      "artists": [
-        {
-          "name": "Subam",
-          "url": "https://open.spotify.com/artist/52OuNxWJtsuIzGLjnx9Vul"
-        }
-      ],
-      "duration_ms": 215094,
-      "name": "Uravu",
-      "url": "https://open.spotify.com/track/3TOTZPe7Lgz8V9Q13eYuW8"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Mela Yeri Vaa (From \"Loopd\")",
         "url": "https://open.spotify.com/album/3USNWakQCBCQz64780zJJe"
       },
@@ -1523,42 +1479,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Potta Kuyil (Otta Kasu)",
-        "url": "https://open.spotify.com/album/4Gny4NcSHOCj3s3jOqRJRQ"
-      },
-      "artists": [
-        {
-          "name": "Pogan",
-          "url": "https://open.spotify.com/artist/3H1gfzjgnwqUgVfsv1AJO1"
-        },
-        {
-          "name": "ArjunRaj",
-          "url": "https://open.spotify.com/artist/1YwxRUVU0kaNMdcK2NQja8"
-        },
-        {
-          "name": "Akshay Govind",
-          "url": "https://open.spotify.com/artist/1EHbtNMHuhf09oHBZUFg1b"
-        },
-        {
-          "name": "Shehnaz Fathima",
-          "url": "https://open.spotify.com/artist/4OhY5PCLIusO6C95zEdFt5"
-        },
-        {
-          "name": "Koshal",
-          "url": "https://open.spotify.com/artist/1wvjJEVaHh1HELljGmSOtX"
-        },
-        {
-          "name": "Otta Kasu",
-          "url": "https://open.spotify.com/artist/3VKlemr8KG7i4Xxrwl7u0N"
-        }
-      ],
-      "duration_ms": 258482,
-      "name": "Potta Kuyil (Otta Kasu)",
-      "url": "https://open.spotify.com/track/73u7PLCEvAWoCcBmTitS6v"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Kanmai Itta Poi",
         "url": "https://open.spotify.com/album/7H7ekzrocQTujZ6Y8Ii2xg"
       },
@@ -1619,26 +1539,6 @@
       "duration_ms": 214413,
       "name": "Nee Yaaro",
       "url": "https://open.spotify.com/track/3HJUrDWeltUMXyU9Vwzklx"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "VaVa Nightcore",
-        "url": "https://open.spotify.com/album/4DsdYz5PA3wnSMZnFViWlf"
-      },
-      "artists": [
-        {
-          "name": "Colin James Gordon",
-          "url": "https://open.spotify.com/artist/4xI9EJrlVcy7uHKnRBfPDO"
-        },
-        {
-          "name": "Shilpa Ananth",
-          "url": "https://open.spotify.com/artist/3mlTRbD5Vit017KpgSvzEi"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "VaVa Nightcore",
-      "url": "https://open.spotify.com/track/2nPxyiK6th607iCsAUyWJc"
     },
     {
       "added_at": "2026-01-09 19:30:11",
@@ -1711,82 +1611,6 @@
     {
       "added_at": "2026-01-09 19:30:11",
       "album": {
-        "name": "Dinner Kuthu",
-        "url": "https://open.spotify.com/album/3Uk3Zxpxn1ddbg5HvgRHxG"
-      },
-      "artists": [
-        {
-          "name": "Reguvin",
-          "url": "https://open.spotify.com/artist/0TmlNikhbYpazLXghCt2RB"
-        },
-        {
-          "name": "Edwin Thomas",
-          "url": "https://open.spotify.com/artist/45aLszOZq8PVo7cFN8Fiau"
-        },
-        {
-          "name": "Jude Niranjan",
-          "url": "https://open.spotify.com/artist/0EZXOWnVL9wfbIAkIzG4cF"
-        },
-        {
-          "name": "Ragav Krishnan",
-          "url": "https://open.spotify.com/artist/037UHtIMYyNjfBJZNDuN8q"
-        }
-      ],
-      "duration_ms": 219025,
-      "name": "Dinner Kuthu",
-      "url": "https://open.spotify.com/track/49S1Y0cmxDUQsIxYauAqfT"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Uyire",
-        "url": "https://open.spotify.com/album/0y4NfiWN2EyNHlAX5esBZo"
-      },
-      "artists": [
-        {
-          "name": "Vaishakh Jyothis",
-          "url": "https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Sradha Prasannan",
-          "url": "https://open.spotify.com/artist/2nRcSH8dnx03gvvizxVGVA"
-        }
-      ],
-      "duration_ms": 239055,
-      "name": "Uyire",
-      "url": "https://open.spotify.com/track/19WsWmlR4HqakbEwk56N5T"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Nee Ennai Nerungayile",
-        "url": "https://open.spotify.com/album/07l1pjD3SVRVlVix6RNkdH"
-      },
-      "artists": [
-        {
-          "name": "Nithyashree Venkataramanan",
-          "url": "https://open.spotify.com/artist/2rjIp8JxMfyeWWcRj2bixP"
-        },
-        {
-          "name": "Jayaraj Chakravarthy",
-          "url": "https://open.spotify.com/artist/1frL5ggVakn0rwLbvnQUIy"
-        },
-        {
-          "name": "Mohanrajan",
-          "url": "https://open.spotify.com/artist/5tSoZKJdiyAz4blPkLLF3X"
-        }
-      ],
-      "duration_ms": 250814,
-      "name": "Nee Ennai Nerungayile",
-      "url": "https://open.spotify.com/track/37QgPDhDSCqXnHjRNNxxB0"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
         "name": "Nenjankootu Kulla",
         "url": "https://open.spotify.com/album/3y9YrbRN9NQyC0iQYA0zJP"
       },
@@ -1807,126 +1631,6 @@
       "duration_ms": 185379,
       "name": "Nenjankootu Kulla",
       "url": "https://open.spotify.com/track/0z3hH8PRagiMJAUOkuTvjg"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kaadhalin Kaanalai",
-        "url": "https://open.spotify.com/album/1YzhldloHtVi9M3I46hJXb"
-      },
-      "artists": [
-        {
-          "name": "Mahathi",
-          "url": "https://open.spotify.com/artist/1aDrazy6us9J3HpnwE4O7m"
-        },
-        {
-          "name": "Akash Amudhan",
-          "url": "https://open.spotify.com/artist/2HXVuoqdsuytQES2YwCkTJ"
-        },
-        {
-          "name": "Anish Karthick",
-          "url": "https://open.spotify.com/artist/6kHjDYxcAfmNTuQ7j2fkQh"
-        },
-        {
-          "name": "Sajii boyy",
-          "url": "https://open.spotify.com/artist/0T8uKoZBdGKhaJL9miWmat"
-        }
-      ],
-      "duration_ms": 336333,
-      "name": "Kaadhalin Kaanalai",
-      "url": "https://open.spotify.com/track/212Too8nbkvRg2O6J7NkLq"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Nenjame",
-        "url": "https://open.spotify.com/album/2FFKewvPD8EpTXBH5lybns"
-      },
-      "artists": [
-        {
-          "name": "Pranav Giridharan",
-          "url": "https://open.spotify.com/artist/2keJl7E7SiJW9jF2A5y104"
-        },
-        {
-          "name": "Haritha Shri Varshini",
-          "url": "https://open.spotify.com/artist/4WhhtNKc4NQ2IF0yS3ThfI"
-        },
-        {
-          "name": "Pa. Aravindhan",
-          "url": "https://open.spotify.com/artist/0NZnDoYHiw7lqo9MUw3io2"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Nenjame",
-      "url": "https://open.spotify.com/track/5w1nCNA0mgNX1BVQIqkmq5"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Kadhara Kadhara Oru Kaadhaal",
-        "url": "https://open.spotify.com/album/5VhJAITlwZo0ndcBysOQnb"
-      },
-      "artists": [
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        },
-        {
-          "name": "Rama Priya Yegasivanathan",
-          "url": "https://open.spotify.com/artist/7bYHZMgn8z6sHJAEj1qzlx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Kadhara Kadhara Oru Kaadhaal",
-      "url": "https://open.spotify.com/track/2AK0b9zN3kpHqRE3Ztc2z3"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Azhaga Oruthi",
-        "url": "https://open.spotify.com/album/0wGdnyxqGX1up7ZLWGf6WQ"
-      },
-      "artists": [
-        {
-          "name": "AKASH ASHOK KUMAR",
-          "url": "https://open.spotify.com/artist/2u5GuwUxBcfy2y0gl4RnpW"
-        },
-        {
-          "name": "Vishnu Rajendran",
-          "url": "https://open.spotify.com/artist/6MxjXIAveXpYNPLtVJiA9n"
-        },
-        {
-          "name": "Deepak Suppuraj",
-          "url": "https://open.spotify.com/artist/7vZKvUEpFf1EomWxM4XYBX"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Azhaga Oruthi",
-      "url": "https://open.spotify.com/track/6FQaklJ01Y8ilk1WwFjgBD"
-    },
-    {
-      "added_at": "2026-01-09 19:30:11",
-      "album": {
-        "name": "Vellandhi Manasu",
-        "url": "https://open.spotify.com/album/11yCqzybC0oEEHkDQIskY8"
-      },
-      "artists": [
-        {
-          "name": "Kanav",
-          "url": "https://open.spotify.com/artist/5T5xCP3V1dyWbQjpfFqQoo"
-        },
-        {
-          "name": "Dharshu Prakash",
-          "url": "https://open.spotify.com/artist/3759kf89nqfqS46KxjLyPb"
-        },
-        {
-          "name": "Akroniim",
-          "url": "https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4"
-        }
-      ],
-      "duration_ms": 155555,
-      "name": "Vellandhi Manasu",
-      "url": "https://open.spotify.com/track/3T7y7VCMqNTBp4kwVLHIaE"
     }
   ],
   "unique_name": "RADAR Tamil",

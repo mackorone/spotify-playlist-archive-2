@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: lene 3000",
+  "description": "The best new music by independent artists in the Nordics. Cover: MYKKE",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -3053,6 +3053,24 @@
     },
     {
       "album": {
+        "name": "brand new",
+        "url": "https://open.spotify.com/album/7oZM9tnIxAIHZg3R9XGi2p"
+      },
+      "artists": [
+        {
+          "name": "dilba",
+          "url": "https://open.spotify.com/artist/6wYmfcd6UCkVp88YgUveNE"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "brand new",
+      "url": "https://open.spotify.com/track/06LFZrhcOhCZriKe5gsblh"
+    },
+    {
+      "album": {
         "name": "break my fall",
         "url": "https://open.spotify.com/album/3uRPMGgQ87zRkUD2WNqCUl"
       },
@@ -3288,6 +3306,24 @@
       "duration_ms": 213250,
       "name": "Bully",
       "url": "https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o"
+    },
+    {
+      "album": {
+        "name": "Burgundy Red",
+        "url": "https://open.spotify.com/album/3wHojP4JkzVrEs9d2LaHFe"
+      },
+      "artists": [
+        {
+          "name": "SKAYA",
+          "url": "https://open.spotify.com/artist/0MOD3DH1k0RNiMvIqxUQQC"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215124,
+      "name": "Burgundy Red",
+      "url": "https://open.spotify.com/track/3YiV55nUW5daeJkBw8ZhvB"
     },
     {
       "album": {
@@ -14719,6 +14755,28 @@
     },
     {
       "album": {
+        "name": "lighthouse",
+        "url": "https://open.spotify.com/album/2dFt7UbMmIh0xKyOMvp1JW"
+      },
+      "artists": [
+        {
+          "name": "boerd",
+          "url": "https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff"
+        },
+        {
+          "name": "ABY iO",
+          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127250,
+      "name": "lighthouse",
+      "url": "https://open.spotify.com/track/6hiCPVvCIxq6K47DCN6IHR"
+    },
+    {
+      "album": {
         "name": "Lights Go Out",
         "url": "https://open.spotify.com/album/0N0cgQ6fxcZMULBkBeck91"
       },
@@ -16542,6 +16600,24 @@
       "duration_ms": 164732,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/77QoFtwtVcS9j8r9KecFFY"
+    },
+    {
+      "album": {
+        "name": "Idol Melodies",
+        "url": "https://open.spotify.com/album/7zOW6frt5bFazKf6NEPpVT"
+      },
+      "artists": [
+        {
+          "name": "Melodi Ghazal",
+          "url": "https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3ndJHdQHWFer3JbMZuUXQI"
     },
     {
       "album": {
@@ -20359,6 +20435,24 @@
     },
     {
       "album": {
+        "name": "Pretty / Greyzone",
+        "url": "https://open.spotify.com/album/4Ku04bwxs2wmsSul2MbmQL"
+      },
+      "artists": [
+        {
+          "name": "MYKKE",
+          "url": "https://open.spotify.com/artist/5FVm9aRBMZMUKcpwhAhVqX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199336,
+      "name": "Pretty / Greyzone",
+      "url": "https://open.spotify.com/track/1OwumzwpC9859CLBQBBO6L"
+    },
+    {
+      "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/6984FgbGowM1VexmGpfFmH"
       },
@@ -20486,6 +20580,28 @@
       "duration_ms": 149774,
       "name": "promises",
       "url": "https://open.spotify.com/track/2vYZsVv64YyfJnx5gEDoI6"
+    },
+    {
+      "album": {
+        "name": "Proud of Me",
+        "url": "https://open.spotify.com/album/3aQtRags9Rczczzk0UU4KQ"
+      },
+      "artists": [
+        {
+          "name": "Eros for you",
+          "url": "https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa"
+        },
+        {
+          "name": "Chino",
+          "url": "https://open.spotify.com/artist/3S6Ruf5hbZpAWxiTbNV3OP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172153,
+      "name": "Proud of Me",
+      "url": "https://open.spotify.com/track/4iROwbWYsgM9FQUGQS0aGU"
     },
     {
       "album": {
@@ -23057,6 +23173,24 @@
     },
     {
       "album": {
+        "name": "solitude nest",
+        "url": "https://open.spotify.com/album/2CbBnZHQq2mTvNDqKtU4n5"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189341,
+      "name": "solitude nest",
+      "url": "https://open.spotify.com/track/6QnNXC3mfF27IRXFFfFM9u"
+    },
+    {
+      "album": {
         "name": "Somebody to Someone",
         "url": "https://open.spotify.com/album/1cMYMj6ljcF49TByZys6Cj"
       },
@@ -23458,6 +23592,24 @@
       "duration_ms": 118561,
       "name": "Space Rock",
       "url": "https://open.spotify.com/track/443F4cnUSVofidUpAIXEuy"
+    },
+    {
+      "album": {
+        "name": "Spaceships",
+        "url": "https://open.spotify.com/album/6wKvlliLiWCmQS6yJflvbA"
+      },
+      "artists": [
+        {
+          "name": "LUJAIN",
+          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184213,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/2YfrGVFag50FLhf8Ks02ti"
     },
     {
       "album": {

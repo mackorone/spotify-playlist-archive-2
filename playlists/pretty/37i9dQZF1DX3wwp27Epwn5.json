@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 255640,
+  "num_followers": 255853,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -335,30 +335,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Humraah (From \"Malang - Unleash The Madness\")",
-        "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
-      },
-      "artists": [
-        {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        },
-        {
-          "name": "The Fusion Project",
-          "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
-        }
-      ],
-      "duration_ms": 299821,
-      "name": "Humraah (From \"Malang - Unleash The Madness\")",
-      "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Ghungroo (From \"War\")",
         "url": "https://open.spotify.com/album/1FU97iwW5a0nV7wq3Mk5DQ"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 302935,
       "name": "Ghungroo (From \"War\")",
       "url": "https://open.spotify.com/track/0WdbnNKO0Jt4BZACSDQh44"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Humraah (From \"Malang - Unleash The Madness\")",
+        "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        },
+        {
+          "name": "The Fusion Project",
+          "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
+        }
+      ],
+      "duration_ms": 299821,
+      "name": "Humraah (From \"Malang - Unleash The Madness\")",
+      "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -427,26 +427,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Fame Us (From \"Tu Yaa Main\")",
-        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
-      },
-      "artists": [
-        {
-          "name": "7Bantai'Z",
-          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
-        },
-        {
-          "name": "Rai Harrie",
-          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "Fame Us - From \"Tu Yaa Main\"",
-      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Jab We Met",
         "url": "https://open.spotify.com/album/4OYdTHNgjhXzgVjbqsb0tO"
       },
@@ -467,26 +447,6 @@
       "duration_ms": 245099,
       "name": "Mauja Hi Mauja",
       "url": "https://open.spotify.com/track/2iXVckhPy7tP0wV9DvlrjZ"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Chikni Chameli",
-        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Chikni Chameli",
-      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -519,30 +479,42 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Student of the Year (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+        "name": "Chikni Chameli",
+        "url": "https://open.spotify.com/album/69gDXnPkVlY1ILqxBEvEDU"
       },
       "artists": [
         {
-          "name": "Vishal-Shekhar",
-          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
         },
         {
-          "name": "Shahid Mallya",
-          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
-        },
-        {
-          "name": "Nisha Mascarenhas",
-          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
-        },
-        {
-          "name": "Marianne D'Cruz Aiman",
-          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
         }
       ],
-      "duration_ms": 262866,
-      "name": "Kukkad",
-      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
+      "duration_ms": 303413,
+      "name": "Chikni Chameli",
+      "url": "https://open.spotify.com/track/1NtUkEglWHG26BOqj3rPhQ"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Fame Us (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
+      },
+      "artists": [
+        {
+          "name": "7Bantai'Z",
+          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
+        },
+        {
+          "name": "Rai Harrie",
+          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "Fame Us - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -575,6 +547,34 @@
       "duration_ms": 187710,
       "name": "Kar Gayi Chull",
       "url": "https://open.spotify.com/track/3BhjbaGeI7E0CiIjctfdD3"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Student of the Year (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Q9pYTcpVfz0eJTZZczELy"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        },
+        {
+          "name": "Nisha Mascarenhas",
+          "url": "https://open.spotify.com/artist/06rb04GGkUUP0nZMWEs0P6"
+        },
+        {
+          "name": "Marianne D'Cruz Aiman",
+          "url": "https://open.spotify.com/artist/5kXfKycKZbS90vKTz62joF"
+        }
+      ],
+      "duration_ms": 262866,
+      "name": "Kukkad",
+      "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -615,6 +615,34 @@
       "duration_ms": 287374,
       "name": "Malang (Title Track) [From \"Malang - Unleash The Madness\"]",
       "url": "https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Coca Cola (From \"Luka Chuppi\")",
+        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
+      },
+      "artists": [
+        {
+          "name": "Tony Kakkar",
+          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Young Desi",
+          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 179225,
+      "name": "Coca Cola (From \"Luka Chuppi\")",
+      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -671,34 +699,6 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Coca Cola (From \"Luka Chuppi\")",
-        "url": "https://open.spotify.com/album/0L2XbCxKZXwLeWuAUMcBLc"
-      },
-      "artists": [
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Young Desi",
-          "url": "https://open.spotify.com/artist/00EnFy3rVaBe8K6HV1S7e5"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 179225,
-      "name": "Coca Cola (From \"Luka Chuppi\")",
-      "url": "https://open.spotify.com/track/352wEkChkiClswqwDoM0nj"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -847,26 +847,30 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+        "name": "Aankh Marey (From \"Simmba\")",
+        "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
       "artists": [
         {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         },
         {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+          "name": "Mika Singh",
+          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
         },
         {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+          "name": "Kumar Sanu",
+          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 238530,
-      "name": "Bom Diggy Diggy",
-      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+      "duration_ms": 212741,
+      "name": "Aankh Marey (From \"Simmba\")",
+      "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -895,6 +899,30 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 238530,
+      "name": "Bom Diggy Diggy",
+      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
       },
@@ -919,34 +947,6 @@
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Aankh Marey (From \"Simmba\")",
-        "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
-      },
-      "artists": [
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Mika Singh",
-          "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
-        },
-        {
-          "name": "Kumar Sanu",
-          "url": "https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 212741,
-      "name": "Aankh Marey (From \"Simmba\")",
-      "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1039,30 +1039,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Jab Koi Baat - Recreated",
-        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
-        },
-        {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
-        }
-      ],
-      "duration_ms": 192228,
-      "name": "Jab Koi Baat - Recreated",
-      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Baaki Baatein Peene Baad (Shots) (feat. Badshah)",
         "url": "https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV"
       },
@@ -1087,6 +1063,30 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
+        "name": "Jab Koi Baat - Recreated",
+        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+        },
+        {
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+        }
+      ],
+      "duration_ms": 192228,
+      "name": "Jab Koi Baat - Recreated",
+      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy"
       },
@@ -1103,6 +1103,50 @@
       "duration_ms": 243206,
       "name": "Yaar Naa Miley",
       "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+      },
+      "artists": [
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        }
+      ],
+      "duration_ms": 215075,
+      "name": "Let's Nacho",
+      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Jai Jai Shivshankar (From \"War\")",
+        "url": "https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj"
+      },
+      "artists": [
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+        }
+      ],
+      "duration_ms": 230557,
+      "name": "Jai Jai Shivshankar (From \"War\")",
+      "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1163,26 +1207,22 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+        "name": "Boss",
+        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
       },
       "artists": [
         {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        },
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Sahil Kaushal",
+          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
         }
       ],
-      "duration_ms": 215075,
-      "name": "Let's Nacho",
-      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
+      "duration_ms": 282792,
+      "name": "Party All Night",
+      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1207,26 +1247,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Boss",
-        "url": "https://open.spotify.com/album/0mHODvSNdVtPZOP5pcNWep"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Sahil Kaushal",
-          "url": "https://open.spotify.com/artist/7gnhXaxCLcHKi61BD2JRcz"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Party All Night",
-      "url": "https://open.spotify.com/track/0fGImK9uWSruIRhKGyjUC0"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Brothers (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/383e45grHa4YKHGRojMqYy"
       },
@@ -1243,50 +1263,6 @@
       "duration_ms": 353669,
       "name": "Brothers Anthem",
       "url": "https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Jai Jai Shivshankar (From \"War\")",
-        "url": "https://open.spotify.com/album/5GvIKf7yN7gjZfYohbvHmj"
-      },
-      "artists": [
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
-        }
-      ],
-      "duration_ms": 230557,
-      "name": "Jai Jai Shivshankar (From \"War\")",
-      "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1311,6 +1287,30 @@
       "duration_ms": 251640,
       "name": "Kamariya",
       "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     }
   ],
   "unique_name": "Bollywood Workout",

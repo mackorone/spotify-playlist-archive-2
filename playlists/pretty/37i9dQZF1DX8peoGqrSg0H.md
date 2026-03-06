@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: DICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,519 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,523 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 | 50 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 |
 
-Snapshot ID: `AAAAAIgvPulzTTb3vSOyNewxAqekLJG1`
+Snapshot ID: `AAAAAIxglh7OPBod1x5/oQKDAvR64646`

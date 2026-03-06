@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-560 songs - 1 day 8 hr 39 min
+561 songs - 1 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/track/2rslqIWVYP3oChamtWzQmU) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf), [Georgia Maq](https://open.spotify.com/artist/5NeumLAB759fhEZ61o2Bed) | [Arsehole \(feat\. Georgia Maq\)](https://open.spotify.com/album/6zGRsxXibSElH6fZTLcqCC) | 4:28 | 2022-08-05 | 2025-06-04 |
 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 | 2025-06-04 |
 | [Assume Your Ultimate Form](https://open.spotify.com/track/3AV4Hwma9jsmY6RR2B1cmK) | [Iron Mind](https://open.spotify.com/artist/4FM1JEy3ztOTABIpQulaxF) | [Assume Your Ultimate Form](https://open.spotify.com/album/0OROBjp8G7dQw9icpzhWtE) | 2:43 | 2023-09-13 | 2025-06-04 |
+| [Attention](https://open.spotify.com/track/2hywpEEjU5tqMrUPZD0vfi) | [Crocodylus](https://open.spotify.com/artist/4Jt36gJvihBXb3FQyOlygw) | [Attention](https://open.spotify.com/album/086U7cmrWRR6StP7Xt4GZw) | 2:59 | 2026-03-05 |  |
 | [Au Revoir Reservoir](https://open.spotify.com/track/4FuFWcilYbfBCe7peW45Ag) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [Tenterhooks](https://open.spotify.com/album/71wJ2hxdQJExW1DwxIZ5Sr) | 3:21 | 2026-02-12 |  |
 | [Babygirl](https://open.spotify.com/track/0qtvCZI69m5RPDsGXLkzVJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Babygirl](https://open.spotify.com/album/6hONHPkl2qXdM092MirNTf) | 2:54 | 2025-06-03 |  |
 | [Back To Dust](https://open.spotify.com/track/0lS4xb7lMHwuFtNR0Y3aX9) | [Hollow Suns](https://open.spotify.com/artist/4cTmt76UrY0Mx1c0fVSLdk) | [Back To Dust](https://open.spotify.com/album/13bRXVAR8WFuorplVHwjON) | 3:00 | 2026-02-25 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: 2Pac",
+  "description": "Taking it way back! Cover: T.I.",
   "name": "Gold School",
   "tracks": [
     {
@@ -573,7 +573,7 @@
       "artists": [
         {
           "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/2N9GV6GktW85u7t8fmRTTJ"
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
         },
         {
           "name": "Ne-Yo",
@@ -582,7 +582,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 242000,
       "name": "Back Like That",
       "url": "https://open.spotify.com/track/677QqBbO6jNmvtFCjOO7to"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 235186,
       "name": "Freek-A-Leek",
       "url": "https://open.spotify.com/track/4MeDnO5yA2Zi6IMlVApRci"
@@ -3777,6 +3777,28 @@
     },
     {
       "album": {
+        "name": "The Coming (25th Anniversary Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277386,
+      "name": "It's A Party (feat. Zhane) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/4ltNrVPEPUaK0A99bXOZxo"
+    },
+    {
+      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
@@ -4336,7 +4358,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
@@ -5652,7 +5674,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 233360,
       "name": "Overnight Celebrity (feat. Miri Ben-Ari)",
       "url": "https://open.spotify.com/track/2tOZtdbkAMQASWokLvSlzj"
@@ -6350,7 +6372,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 250746,
       "name": "Right Thurr",
       "url": "https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg"
@@ -7454,7 +7476,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 318360,
       "name": "That's All She Wrote",
       "url": "https://open.spotify.com/track/5gpD2FIKMKFYs1lDchljb1"
@@ -7888,6 +7910,24 @@
       "duration_ms": 281773,
       "name": "Thuggish Ruggish Bone",
       "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282413,
+      "name": "Top Back",
+      "url": "https://open.spotify.com/track/4LE8fR53Pjd6xmHBUlxArg"
     },
     {
       "album": {
@@ -8601,6 +8641,24 @@
     },
     {
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Why You Wanna",
+      "url": "https://open.spotify.com/track/1g0oI97rPdYuWDIpkbtQdv"
+    },
+    {
+      "album": {
         "name": "The Eminem Show",
         "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
       },
@@ -8616,6 +8674,24 @@
       "duration_ms": 290320,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
+    },
+    {
+      "album": {
+        "name": "The Coming (25th Anniversary Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3A7233EKpt8yvn47QJ6Kko"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271746,
+      "name": "Woo Hah!! Got You All in Check - 2021 Remaster",
+      "url": "https://open.spotify.com/track/3HLxFEbFLDGxUoz0qYL2VT"
     },
     {
       "album": {

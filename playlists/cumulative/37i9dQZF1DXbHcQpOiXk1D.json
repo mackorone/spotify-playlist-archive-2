@@ -5722,7 +5722,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 246317,
       "name": "Higher Spirit",
       "url": "https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq"
@@ -8368,7 +8368,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 133066,
       "name": "Marina del Rey",
       "url": "https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f"
@@ -12479,6 +12479,24 @@
     },
     {
       "album": {
+        "name": "Of The Earth",
+        "url": "https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ"
+      },
+      "artists": [
+        {
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Step Lightly",
+      "url": "https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik"
+    },
+    {
+      "album": {
         "name": "Still Connected",
         "url": "https://open.spotify.com/album/2Pmt152kyA80qYUC9VYXvn"
       },
@@ -13498,6 +13516,24 @@
       "duration_ms": 283599,
       "name": "The Good Mixer",
       "url": "https://open.spotify.com/track/2GxF6fun3qMMoylt2NiJ5N"
+    },
+    {
+      "album": {
+        "name": "The Leopard",
+        "url": "https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357"
+      },
+      "artists": [
+        {
+          "name": "Raffy Bushman",
+          "url": "https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310976,
+      "name": "The Leopard",
+      "url": "https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR"
     },
     {
       "album": {

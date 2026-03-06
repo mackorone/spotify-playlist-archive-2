@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 178046,
       "name": "BANG BANG",
       "url": "https://open.spotify.com/track/7pBE8YpFoZ9ankC2Ci5z9X"
@@ -1852,6 +1852,32 @@
       "duration_ms": 153973,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "album": {
+        "name": "Better without you",
+        "url": "https://open.spotify.com/album/1Vnzphm6T9MJ13S5uBAcf8"
+      },
+      "artists": [
+        {
+          "name": "Chris Honor",
+          "url": "https://open.spotify.com/artist/3Iu6vbJILuf8X9rUYSeEiH"
+        },
+        {
+          "name": "ChammyVal",
+          "url": "https://open.spotify.com/artist/6ZByMPfaQH3PiCtoO628jQ"
+        },
+        {
+          "name": "K0RE",
+          "url": "https://open.spotify.com/artist/0UFJlPmbDV8d6tFIcqq148"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Better without you",
+      "url": "https://open.spotify.com/track/10AY1BJcHxOmy3X5zb37Bb"
     },
     {
       "album": {
@@ -2804,7 +2830,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 170453,
       "name": "CD van mij",
       "url": "https://open.spotify.com/track/764EyTlmlcqOlf1FyBPYif"
@@ -8298,7 +8324,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 163753,
       "name": "JAAHAA",
       "url": "https://open.spotify.com/track/5BaBYz1YNroBj3V0v0oAb3"
@@ -16410,7 +16436,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 194057,
       "name": "UPTEMPO FIESTA",
       "url": "https://open.spotify.com/track/58bZ5ad52KvSXK2oYqBpHi"
@@ -19108,7 +19134,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
@@ -19152,6 +19178,24 @@
       "duration_ms": 165150,
       "name": "\u00d2p Kar\u00e1kter",
       "url": "https://open.spotify.com/track/6GwXydt81E3rMjcaNtY3xE"
+    },
+    {
+      "album": {
+        "name": "\u041a\u0423\u041f\u0415\u0420",
+        "url": "https://open.spotify.com/album/53zND98hpaqY8xZvoqLD0f"
+      },
+      "artists": [
+        {
+          "name": "SQWOZ BAB",
+          "url": "https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "\u041a\u0423\u041f\u0415\u0420",
+      "url": "https://open.spotify.com/track/7fYkeBS6A7uiKh39L1POmA"
     },
     {
       "album": {

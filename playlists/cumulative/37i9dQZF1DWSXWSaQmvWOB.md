@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Jordan Rakei
 
-1,252 songs - 3 day 3 hr 53 min
+1,254 songs - 3 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Curious](https://open.spotify.com/track/5xzBNmj3NUGsQ9O1VLelKe) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Curious](https://open.spotify.com/album/5hOKdnm5Aba2WQI7k64Pom) | 3:42 | 2021-04-17 | 2022-01-28 |
 | [Currency \(Count On Me\) \(ft Cimafunk and PAMÉ\)](https://open.spotify.com/track/7HkSXmHPXtNtaaosJ4ejVS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe), [PAMÉ](https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03) | [On A Trip](https://open.spotify.com/album/0NmQAh2m9ayLitCrFaIjiN) | 3:17 | 2025-02-10 | 2025-09-02 |
 | [Current Weather](https://open.spotify.com/track/6wIWyRP2jIm1Pftx7uyrXN) | [Kymara](https://open.spotify.com/artist/0fpdyv56I16Z3FyGnN5xR7) | [Current Weather](https://open.spotify.com/album/0SHxpEhPnLjY1K2m792UN8) | 4:29 | 2024-09-11 | 2025-04-25 |
-| [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-08-08 |  |
+| [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 | 2025-08-08 | 2026-03-06 |
 | [Damaged Heart](https://open.spotify.com/track/7uUBiganGx5JJO1AoUTzhA) | [The Tibbs](https://open.spotify.com/artist/2erVTUGh7hd5PQ3qwChdxw) | [Damaged Heart](https://open.spotify.com/album/2Tzqr30MEOXJCVBiRYChra) | 3:10 | 2020-10-30 | 2021-12-01 |
 | [Dancin Like a Fool](https://open.spotify.com/track/4wI11xnaKJAayVFBTHd6LM) | [Souldrippin](https://open.spotify.com/artist/1b0D9jgh2pJtPsKjU1gyS5), [Darius Dante](https://open.spotify.com/artist/1QCRuNTOqoXVN7F39fWxz5), [Hari Loco](https://open.spotify.com/artist/3nPiCfsgxJlJAkdPPVG2hQ) | [Dancin Like a Fool](https://open.spotify.com/album/6MY3TcKo5VPo3ANxeuVM6G) | 3:04 | 2023-07-10 | 2024-04-11 |
 | [Dancing Away In Tears](https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Stand For Myself](https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV) | 3:48 | 2021-07-30 | 2021-10-29 |
@@ -255,6 +255,7 @@
 | [Do Me](https://open.spotify.com/track/2DiFSnACmDmj9ngr1P2oaI) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Wolffpack](https://open.spotify.com/album/6C9fPbGsOHRjXIK5Lzf2cz) | 5:00 | 2021-02-06 | 2021-04-17 |
 | [Do Whatchu Gotta](https://open.spotify.com/track/62BJVIeKG6pyFvJJKflaHi) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f) | [Do Whatchu Gotta](https://open.spotify.com/album/7ah6GnmzfDb4WWe1uFm8tq) | 3:38 | 2026-02-06 |  |
 | [Do You?](https://open.spotify.com/track/1wMVd1DxRhwdVtAugMbP2i) | [Lee Brave](https://open.spotify.com/artist/6RogTcrhOPLlVZaV34LCyp), [GaryOAKland](https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07) | [Do You?](https://open.spotify.com/album/6xmjPWzfj0yPFa90CqDaDB) | 3:12 | 2020-06-05 | 2021-07-10 |
+| [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-05 |  |
 | [Dominoes](https://open.spotify.com/track/4nQmyZDAekbe84zeHC2C3C) | [Kendra Morris](https://open.spotify.com/artist/7rtM2wPKQlFpsm0C4qJlDk) | [I Am What I’m Waiting For](https://open.spotify.com/album/243Yl7MgjyBNLtzBPWMFBj) | 2:43 | 2023-10-06 | 2023-12-13 |
 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 | 2024-04-18 | 2024-12-21 |
 | [Don't Blame NY](https://open.spotify.com/track/3cacc8prCT96QrjXERE6do) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [Don't Blame NY](https://open.spotify.com/album/3XPVwXFiWrYDHlg2ALfAyM) | 2:53 | 2020-05-15 | 2020-06-05 |
@@ -851,7 +852,7 @@
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-04-11 | 2024-09-12 |
 | [Radio Silence](https://open.spotify.com/track/0TXfQpQ48zNRQHWF0ujg5c) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Radio Silence](https://open.spotify.com/album/6MzwLnpf99FUDAUwpzRJuB) | 2:15 | 2025-12-05 |  |
 | [Rainbow in Your Cloud](https://open.spotify.com/track/4Ml22dODalPxtF4bG0VQsm) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Rainbow in Your Cloud](https://open.spotify.com/album/136bt8nTTKYQ3qklrK12aV) | 4:10 | 2020-11-06 | 2021-05-21 |
-| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-19 |  |
+| [RATHER BE](https://open.spotify.com/track/2QcDEWNu8pvcfxmo3KHYRv) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [RATHER BE](https://open.spotify.com/album/2OsE2fTGgTPYGzaARFLs8M) | 2:51 | 2025-05-19 | 2026-03-06 |
 | [Razor Blades](https://open.spotify.com/track/6C3jUhCmyGk4IMHquseryI) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv), [Aaron Taylor](https://open.spotify.com/artist/1evO4fwLsEkkPGq32dCix7) | [Razor Blades](https://open.spotify.com/album/3O4cMy4fjaEmut0hbdqtuV) | 3:01 | 2023-06-07 | 2024-01-17 |
 | [Reach Out](https://open.spotify.com/track/3PKlSn0C9WtcZRegzQ3a2z) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Reach Out](https://open.spotify.com/album/3475UHq3RWwHwHL0rDUQ9n) | 3:03 | 2025-06-06 | 2025-09-02 |
 | [Reaching \- Single Version](https://open.spotify.com/track/5PdIIE4PYKEVTCevvdiFxN) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [Otis Junior](https://open.spotify.com/artist/3JWTfcIZq4OUdC6oBunofK) | [Reaching](https://open.spotify.com/album/5ysdZkHkxPhFFquCkvX9HD) | 3:40 | 2023-03-30 | 2023-06-08 |
@@ -1028,6 +1029,7 @@
 | [Summer Rain](https://open.spotify.com/track/5DNBQFAFA45nQ9csxnTm2o) | [Jared Grant](https://open.spotify.com/artist/2nJRqMxB9hsOi4Pb3NKsqd) | [Summer Rain](https://open.spotify.com/album/7BshfS2Wmmf5yKmkbIF6j4) | 3:27 | 2025-02-10 | 2025-10-15 |
 | [Summer Rain \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/4fPO3377M8WMykvWUJmzeO) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Gold\-Diggers Sound \(Deluxe\)](https://open.spotify.com/album/6SV7Sl0rmVeMuqYlMMAqQB) | 2:44 | 2021-12-01 | 2022-12-03 |
 | [Summertime](https://open.spotify.com/track/7lMUgnVPrgN3keoDiVFx3A) | [Dojo Cuts](https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL) | [Never Have I Ever](https://open.spotify.com/album/6our4t9vD0EbAzRgVqP7cA) | 2:26 | 2025-09-01 |  |
+| [Sunday Morning](https://open.spotify.com/track/5hdnDc3NnVwyIoi7nNlvIR) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Sunday Morning](https://open.spotify.com/album/50XfOUT4LjKOikHOOOns2k) | 3:01 | 2026-03-05 |  |
 | [Sunny Afternoon](https://open.spotify.com/track/1Mog4RV9ViEiPBErvSW1Rq) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Sunny Afternoon](https://open.spotify.com/album/7KaEMLb4nTDHMyvvN47Wkr) | 2:51 | 2020-05-01 | 2021-04-17 |
 | [Superpower](https://open.spotify.com/track/7BEm1s1Xt3kfym5ivfNQ8V) | [Kris Berry](https://open.spotify.com/artist/0IIPgITtEO4JJfipw57KGv) | [Superpower](https://open.spotify.com/album/64WUH9HmC02cVAHJqYywP3) | 4:09 | 2021-04-17 | 2022-09-23 |
 | [Surrender](https://open.spotify.com/track/2Waa8KOIfBo9o45OeHGtBN) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Surrender](https://open.spotify.com/album/4u68OSxlNIVgNXuoOpGL9U) | 3:41 | 2024-06-07 | 2025-02-11 |

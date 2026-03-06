@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Baloosh",
+  "description": "\ud83d\udd25 de st\u00f8rste nye rap hits i dk \ud83d\udd25 cover: Cizzo",
   "name": "rap dk",
   "tracks": [
     {
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 128746,
       "name": "BLING BLAW",
       "url": "https://open.spotify.com/track/11uBjAczlKEf00u19iS1ZN"
@@ -5620,7 +5620,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 177777,
       "name": "Lad Lyset Br\u00e6nde",
       "url": "https://open.spotify.com/track/3ByfEHW1oFSuGCk3ujAWLt"
@@ -6532,7 +6532,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 172363,
       "name": "Money Callin'",
       "url": "https://open.spotify.com/track/6Jp35udvcavj1aXs125Cvv"
@@ -9006,7 +9006,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 144966,
       "name": "TYND IS",
       "url": "https://open.spotify.com/track/702CvPDpJKNAFZ4L31rHo3"
@@ -9086,6 +9086,24 @@
       "duration_ms": 163545,
       "name": "Ud Af Hovedet (feat. ICEKIID)",
       "url": "https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI"
+    },
+    {
+      "album": {
+        "name": "Udenlands",
+        "url": "https://open.spotify.com/album/6MdVTllUWzvSPF6JSOrEYx"
+      },
+      "artists": [
+        {
+          "name": "Cizzo",
+          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127373,
+      "name": "Udenlands",
+      "url": "https://open.spotify.com/track/36LhHBZSbY7Z1BKqQQpI6M"
     },
     {
       "album": {
@@ -9442,7 +9460,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 169142,
       "name": "Vent P\u00e5 Mig",
       "url": "https://open.spotify.com/track/19AESr4lB9GpTJtJbwkTJA"

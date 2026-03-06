@@ -4,7 +4,7 @@
 
 > Spotify editors pick exciting artists for RADAR BNLX\. New: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-234 songs - 12 hr 31 min
+235 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 | 2025-03-06 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/1S6dAn7JVM7f0TPabCjS3Y) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/2bfob7z1a7651fvK2kCf5a) | 4:23 | 2023-07-20 | 2023-07-26 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/4XLXrYdFsGF7StgArAPEYX) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/3hhVdDALanDfdFL3dPn7ih) | 4:23 | 2023-07-20 | 2024-01-19 |
+| [Gouden Handdruk](https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Gouden Handdruk](https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD) | 2:08 | 2026-03-05 |  |
 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 | 2023-09-14 |  |
 | [Guts](https://open.spotify.com/track/5cVBkcYGi6aiG4cnTMfN6x) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Guts](https://open.spotify.com/album/6szOt2A9ABSPorygYiIKY1) | 3:26 | 2021-12-10 | 2022-08-26 |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-03 | 2022-06-17 |

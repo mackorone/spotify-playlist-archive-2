@@ -1,18 +1,18 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1286,
+  "num_followers": 1285,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAARMwXYwyq6RMaEe9MCD2iysQT5hxSQ",
+  "snapshot_id": "AAAROwrQKAU4uEKgy+j+n+QA97J+dQoR",
   "tracks": [
     {
-      "added_at": "2026-02-06 09:53:34",
+      "added_at": "2026-03-05 23:06:18",
       "album": {
-        "name": "Mi piace quando ridi",
-        "url": "https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki"
+        "name": "Com'eri",
+        "url": "https://open.spotify.com/album/0Hd1JZLkU2hbsnhEqsxAwf"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
         }
       ],
-      "duration_ms": 178857,
-      "name": "Mi piace quando ridi",
-      "url": "https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC"
+      "duration_ms": 249172,
+      "name": "Com'eri",
+      "url": "https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q"
     },
     {
       "added_at": "2026-02-25 09:40:39",
@@ -71,6 +71,22 @@
       "duration_ms": 265340,
       "name": "BEFORE I CAN TELL",
       "url": "https://open.spotify.com/track/6iJlyDMdotLGenjBZKutpT"
+    },
+    {
+      "added_at": "2026-02-06 09:53:34",
+      "album": {
+        "name": "Mi piace quando ridi",
+        "url": "https://open.spotify.com/album/4iK1pnUBHpvdKYI8lvm4ki"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 178857,
+      "name": "Mi piace quando ridi",
+      "url": "https://open.spotify.com/track/0ZwphHJg0IMkAnlPx0blwC"
     },
     {
       "added_at": "2026-03-02 09:18:13",
@@ -2527,6 +2543,90 @@
       "duration_ms": 223392,
       "name": "L'ASCENSORE",
       "url": "https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj"
+    },
+    {
+      "added_at": "2026-03-05 07:35:12",
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI"
+      },
+      "artists": [
+        {
+          "name": "Michael Barrow & the Tourists",
+          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
+        }
+      ],
+      "duration_ms": 191400,
+      "name": "Over It",
+      "url": "https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5"
+    },
+    {
+      "added_at": "2026-03-05 07:35:53",
+      "album": {
+        "name": "Dumb",
+        "url": "https://open.spotify.com/album/2gge7ioJsjcRg3jb6v4Y1G"
+      },
+      "artists": [
+        {
+          "name": "CTRL FREQS",
+          "url": "https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Dumb",
+      "url": "https://open.spotify.com/track/2sUfsE4d8E2NZ8T4zcIhhn"
+    },
+    {
+      "added_at": "2026-03-05 07:35:55",
+      "album": {
+        "name": "Dentro De Ti",
+        "url": "https://open.spotify.com/album/5IgQdsSMIJX14d4ybY6EnH"
+      },
+      "artists": [
+        {
+          "name": "Petter Marchan Xtasix",
+          "url": "https://open.spotify.com/artist/6RTz0qC5h5uYfAO3UgNXTr"
+        }
+      ],
+      "duration_ms": 180062,
+      "name": "Dentro De Ti",
+      "url": "https://open.spotify.com/track/1oa09yw9bnZHXZNHVupo0t"
+    },
+    {
+      "added_at": "2026-03-05 16:06:50",
+      "album": {
+        "name": "Leave the light on",
+        "url": "https://open.spotify.com/album/4ptK4u2Y9MdnrxiTVhPvTM"
+      },
+      "artists": [
+        {
+          "name": "Tim Lord",
+          "url": "https://open.spotify.com/artist/5KJwBUKEaVvztUNDOjv53Z"
+        }
+      ],
+      "duration_ms": 257639,
+      "name": "Leave the light on",
+      "url": "https://open.spotify.com/track/3wwgk08vxkeSEcjMLQjjjD"
+    },
+    {
+      "added_at": "2026-03-05 22:43:04",
+      "album": {
+        "name": "From First Day To Forever (I'm Falling) [Acoustic]",
+        "url": "https://open.spotify.com/album/5Er68t74OiZGRSSEZa4jlF"
+      },
+      "artists": [
+        {
+          "name": "Lyric official",
+          "url": "https://open.spotify.com/artist/2i8zdGO7nanhaZfFKxWME4"
+        },
+        {
+          "name": "Kota",
+          "url": "https://open.spotify.com/artist/2vI7jKFWv3dxJGfEd1roTC"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "From First Day To Forever (I'm Falling) - Acoustic",
+      "url": "https://open.spotify.com/track/6eQWBtXs1IOUgCsVbeLBMk"
     }
   ],
   "unique_name": "New Indie Music",

@@ -7828,7 +7828,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 196000,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6sORyYbJvcELvbR9qIpsOH"
@@ -14443,6 +14443,24 @@
     },
     {
       "album": {
+        "name": "move on!",
+        "url": "https://open.spotify.com/album/2DvMdqqDacmdJDrNLxhyd2"
+      },
+      "artists": [
+        {
+          "name": "pnkdrco",
+          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131370,
+      "name": "move on!",
+      "url": "https://open.spotify.com/track/6jsea2Y8GIyi4pseXQewoZ"
+    },
+    {
+      "album": {
         "name": "MOVE YO BODY (sped up)",
         "url": "https://open.spotify.com/album/6nS9EjRDVbygYUcBQppALL"
       },
@@ -20540,7 +20558,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 105098,
       "name": "stressed",
       "url": "https://open.spotify.com/track/4jAf0mRh0eUvgZzAEb5Xmp"
@@ -22428,6 +22446,24 @@
       "duration_ms": 115208,
       "name": "Ukraine - Let Me Talk Afro Drill Mix",
       "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
+    },
+    {
+      "album": {
+        "name": "Skate Story: Vol. I",
+        "url": "https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH"
+      },
+      "artists": [
+        {
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295026,
+      "name": "Unarchiver",
+      "url": "https://open.spotify.com/track/0WJVieYte28pUxC9hNfs0D"
     },
     {
       "album": {

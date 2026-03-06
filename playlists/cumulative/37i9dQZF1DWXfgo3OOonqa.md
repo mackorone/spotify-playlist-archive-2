@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,213 songs - 3 day 22 hr 31 min
+2,216 songs - 3 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Branschen \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/6ZFe0Rzy31duWc50Ivk4lJ) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Studio 100](https://open.spotify.com/album/1a6R6CjMJ6E3e1MEPPw544) | 2:40 | 2021-12-16 | 2022-11-25 |
 | [BRAZIL](https://open.spotify.com/track/0MNNXGTgc5wL5MPOGkEZNE) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [BRAZIL](https://open.spotify.com/album/67KMwvlewFdeXnTnUNWKXu) | 2:30 | 2023-02-15 | 2023-04-21 |
 | [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-08-17 | 2023-11-17 |
+| [Brenda](https://open.spotify.com/track/6aF8Lfvf3aCxGyd0DluedF) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw) | [Brenda](https://open.spotify.com/album/6mFM2S7EHFMMMwyPgT6ABL) | 3:05 | 2026-03-05 |  |
 | [Brevet](https://open.spotify.com/track/2DGlspVkq3a1Nlqtij7Fba) | [Aliammo](https://open.spotify.com/artist/17xEFtyxHsXwQEAy49fXCA) | [Brevet](https://open.spotify.com/album/1Yn5thhBSdeUtmeoB2cIje) | 3:07 | 2022-04-07 | 2022-04-26 |
 | [Brevet](https://open.spotify.com/track/4AGlnts8kEFKyE3B4LjchZ) | [Romeo](https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D) | [Brevet](https://open.spotify.com/album/62V2IR1rPM4EAiN097uyU6) | 2:07 | 2024-10-31 | 2025-02-11 |
 | [BRING EM](https://open.spotify.com/track/1NwBoKLOfxUYTc0CsHfN3K) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [AVION / BRING EM](https://open.spotify.com/album/5qAJzq0G49ZWOvWQPJeh6Z) | 2:55 | 2022-11-24 | 2023-01-27 |
@@ -490,6 +491,7 @@
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2022-11-04 | 2023-03-10 |
 | [Daydate](https://open.spotify.com/track/4ODaUbbHmLOg2Q5T4JMa7G) | [G1ocatore](https://open.spotify.com/artist/7AQhu7Rj1yyBPk8LqYaRdE) | [Daydate](https://open.spotify.com/album/1kjsVcNsaOStdTO3WYBiie) | 2:29 | 2025-01-30 | 2025-05-16 |
 | [DBF](https://open.spotify.com/track/052oUmwK9lJ1KclTCYo6IN) | [Malik](https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew) | [DBF](https://open.spotify.com/album/7nV1Z1HH4w81B2zw06hHem) | 1:45 | 2025-11-27 |  |
+| [DE E VAD DE E](https://open.spotify.com/track/16jHwVtMTky5cDhQPSmiLh) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [DE E VAD DE E](https://open.spotify.com/album/5JHxmbsZlOLLyAnfmatChR) | 2:00 | 2026-03-05 |  |
 | [DE GHETTO](https://open.spotify.com/track/1SICUCTpf6FaYUUwyk16RK) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx) | [DE GHETTO](https://open.spotify.com/album/6nGb3g8zG08gGbwgJgFd3H) | 2:35 | 2022-10-27 | 2022-11-18 |
 | [De Ghetto](https://open.spotify.com/track/2ThusgzPbWkmX4coEv9PRt) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [De Ghetto](https://open.spotify.com/album/0QeKyKDdiWADH5cOCsWPGh) | 2:33 | 2022-10-20 | 2022-11-18 |
 | [De klart](https://open.spotify.com/track/4B060rVmi5g0tdI3mWoVut) | [Obed](https://open.spotify.com/artist/2Ylv0cXIPUdresnhkXlvYi), [BJ Music](https://open.spotify.com/artist/6WSXFLsUmw0uJn9Ym1mqHJ) | [De klart](https://open.spotify.com/album/0UOr6efjzS1BbruhRVLs1H) | 2:36 | 2022-04-07 | 2022-05-27 |
@@ -1647,6 +1649,7 @@
 | [Rina Rina](https://open.spotify.com/track/1h6bh1BOjKahFpWiKbFopa) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [TRIBE](https://open.spotify.com/album/6bnoFxa1viWWld2TlNKagJ) | 2:34 | 2025-05-29 | 2025-10-31 |
 | [Ring meg opp](https://open.spotify.com/track/6CNjrSMafnMTIDqklY7F99) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Ring meg opp](https://open.spotify.com/album/1FG8tvdPFJpv1ZA4vQu00P) | 2:12 | 2024-09-19 | 2024-10-11 |
 | [Riskera allt](https://open.spotify.com/track/3FkOXddFZB2m6TRjotDM0X) | [Theo Ama](https://open.spotify.com/artist/49WKi1DsyLCsbVMNKvTIDQ) | [Riskera allt](https://open.spotify.com/album/26bqeOYvLPhvNAfkD5GtRM) | 2:55 | 2023-06-01 | 2023-06-16 |
+| [ROBIN](https://open.spotify.com/track/5lpoBzxzRzh35NN8dtOLlw) | [S.T](https://open.spotify.com/artist/5997IALokFdMdLd1cPxzAD) | [ROBIN](https://open.spotify.com/album/5G2HnWjZyQ4MpZf00Tb6xE) | 2:22 | 2026-03-05 |  |
 | [Rock N Roll](https://open.spotify.com/track/3bhrHmGazWIAolomLS9SNg) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Drömmar Till Diamanter](https://open.spotify.com/album/4zYdKtvpMAi8BgEXTbqwqh) | 2:24 | 2024-10-31 | 2025-03-28 |
 | [ROCKARE](https://open.spotify.com/track/0K6aHb68850FoOuFfxAsre) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [ROCKARE](https://open.spotify.com/album/7J1wd4gYFae902bJB62UOP) | 2:14 | 2023-06-08 | 2023-07-14 |
 | [Rockstjärna](https://open.spotify.com/track/7ay75Nz5uTNG97eynkcI1c) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Rockstjärna](https://open.spotify.com/album/5DDAkag47P6D5zlLwFenU0) | 2:33 | 2025-09-04 | 2026-02-13 |
@@ -1858,7 +1861,7 @@
 | [SVAG](https://open.spotify.com/track/4ONPQrk76tFwINmmnDVUTS) | [MIGI](https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3), [JAE](https://open.spotify.com/artist/3DltM2SHSd93FMWwaGdAW2) | [SVAG](https://open.spotify.com/album/1yxQP0h71Da7mv2tqvMhD6) | 2:10 | 2023-07-27 | 2023-09-15 |
 | [Svalen till grammis](https://open.spotify.com/track/2SxOcZ9qTi8oRgViQFE4gF) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Svalen till grammis](https://open.spotify.com/album/4AqhSm1RxCLe3G6a5r5GHr) | 2:42 | 2024-04-04 | 2024-07-19 |
 | [Svar](https://open.spotify.com/track/2ZWsuZ6No9BImF61NI1ITw) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys](https://open.spotify.com/album/77Od9wwcLw10IjhX2D7srV) | 2:41 | 2024-01-04 | 2024-06-01 |
-| [Svar](https://open.spotify.com/track/74s2tNXnObI1fHh8P9nVFv) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Svar](https://open.spotify.com/album/2bapCrFLjJbu3U7exHggVT) | 2:02 | 2026-02-12 |  |
+| [SVAR](https://open.spotify.com/track/74s2tNXnObI1fHh8P9nVFv) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [SVAR](https://open.spotify.com/album/2bapCrFLjJbu3U7exHggVT) | 2:02 | 2026-02-12 |  |
 | [Svar](https://open.spotify.com/track/4YbHHzm6EBw9OsgWemMsl6) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Svar](https://open.spotify.com/album/1fKcpBT4aaQfmuzSXilImz) | 2:35 | 2023-01-12 | 2023-01-29 |
 | [Svar](https://open.spotify.com/track/4uvPvs80zJ1qW3faTgMESE) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [96](https://open.spotify.com/album/7AegUmFDvPjZfqo4aN3rRX) | 2:35 | 2023-01-27 | 2023-02-17 |
 | [SVART FERRARI](https://open.spotify.com/track/1CPOpQKVLD2evuM7HrBYY7) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [SVART FERRARI](https://open.spotify.com/album/5q6u7feIJNs8GubNSybtYb) | 3:15 | 2024-01-11 | 2024-05-03 |

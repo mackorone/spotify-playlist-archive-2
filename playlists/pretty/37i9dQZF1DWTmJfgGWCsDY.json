@@ -1,6 +1,6 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania. Cover: Kidene Fighter",
-  "num_followers": 9187,
+  "num_followers": 9203,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
@@ -431,34 +431,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Nafosi",
-        "url": "https://open.spotify.com/album/5RFf7upKJHE4ydikrhAuaJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Mushizo",
-          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
-        },
-        {
-          "name": "KIDENSA MC",
-          "url": "https://open.spotify.com/artist/7oebmXACL34Zggo6FPb2eX"
-        },
-        {
-          "name": "Barnaba",
-          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
-        },
-        {
-          "name": "Baddest 47",
-          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
-        }
-      ],
-      "duration_ms": 314537,
-      "name": "Nafosi",
-      "url": "https://open.spotify.com/track/5uekF8MmxotvgdB0BvQsRa"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Coming Home",
         "url": "https://open.spotify.com/album/7KtzhZ7FpvKvRFKsGvdMqd"
       },
@@ -499,6 +471,34 @@
       "duration_ms": 248764,
       "name": "Kuachana Shingapi (Remix)",
       "url": "https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Nafosi",
+        "url": "https://open.spotify.com/album/5RFf7upKJHE4ydikrhAuaJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Mushizo",
+          "url": "https://open.spotify.com/artist/11xpQtgAZTHvwnGNXaDzaj"
+        },
+        {
+          "name": "KIDENSA MC",
+          "url": "https://open.spotify.com/artist/7oebmXACL34Zggo6FPb2eX"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Baddest 47",
+          "url": "https://open.spotify.com/artist/3QenWT2S4xNs8PTguhaQdJ"
+        }
+      ],
+      "duration_ms": 314537,
+      "name": "Nafosi",
+      "url": "https://open.spotify.com/track/5uekF8MmxotvgdB0BvQsRa"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -695,26 +695,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Wewe Hapo",
-        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
-      },
-      "artists": [
-        {
-          "name": "Msomali",
-          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
-        },
-        {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
-        }
-      ],
-      "duration_ms": 148036,
-      "name": "Wewe Hapo",
-      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Nampakia Mkongo",
         "url": "https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 199847,
       "name": "Nampakia Mkongo",
       "url": "https://open.spotify.com/track/4JMUGR4012eENHnulffTeN"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "Wewe Hapo",
+        "url": "https://open.spotify.com/album/5DUQwTD3jaPFr02UKR2Ejl"
+      },
+      "artists": [
+        {
+          "name": "Msomali",
+          "url": "https://open.spotify.com/artist/7xEje04IIu5vqqhKLVufFc"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/68II63kR4auffzAj6s4Mrf"
+        }
+      ],
+      "duration_ms": 148036,
+      "name": "Wewe Hapo",
+      "url": "https://open.spotify.com/track/4lYawUXlGMUMRB75BiuXGf"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "After All",
-        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
-      },
-      "artists": [
-        {
-          "name": "Yammi",
-          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
-        },
-        {
-          "name": "Mdogo sajent",
-          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
-        }
-      ],
-      "duration_ms": 152112,
-      "name": "Sijafunzwa (feat. Mdogo Sajent)",
-      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Ex Arudiwi",
         "url": "https://open.spotify.com/album/1wrIhtY5ABU4fmk26qKf2m"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 199132,
       "name": "Ex Arudiwi",
       "url": "https://open.spotify.com/track/1nURRVhNIxYTnFGL3amjQh"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
+        "name": "After All",
+        "url": "https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Mdogo sajent",
+          "url": "https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC"
+        }
+      ],
+      "duration_ms": 152112,
+      "name": "Sijafunzwa (feat. Mdogo Sajent)",
+      "url": "https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5"
     },
     {
       "added_at": "2026-02-05 23:59:28",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
+        "name": "Maturity EP",
+        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        },
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 270460,
+      "name": "Hatujui",
+      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+    },
+    {
+      "added_at": "2026-02-05 23:59:28",
+      "album": {
         "name": "Tumeuona",
         "url": "https://open.spotify.com/album/5VlX8ImZMnhGCj5FAKg7Sn"
       },
@@ -1095,22 +1115,6 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
-        }
-      ],
-      "duration_ms": 252043,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
-    },
-    {
-      "added_at": "2026-02-05 23:59:28",
-      "album": {
         "name": "Sina Stress",
         "url": "https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L"
       },
@@ -1127,22 +1131,18 @@
     {
       "added_at": "2026-02-05 23:59:28",
       "album": {
-        "name": "Maturity EP",
-        "url": "https://open.spotify.com/album/55GR8hOcCxxiWApDdURREq"
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD"
       },
       "artists": [
         {
-          "name": "Nandy",
-          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
-        },
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL"
         }
       ],
-      "duration_ms": 270460,
-      "name": "Hatujui",
-      "url": "https://open.spotify.com/track/5TRX2T7BNBFINuTOCpb8ZN"
+      "duration_ms": 252043,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg"
     },
     {
       "added_at": "2026-02-05 23:59:28",

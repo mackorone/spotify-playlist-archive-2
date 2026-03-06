@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: STUTS and Julia Wu
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,102 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,111 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 31 | [Night Drive](https://open.spotify.com/track/1dytu44RfqZTQJNuSxs07o) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Night Drive](https://open.spotify.com/album/2ewjJwbolSuFdspnL2xhRw) | 3:28 |
 | 32 | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/17CNXUhZwnrfgAO7LXqSLx) | 3:28 |
 | 33 | [MIDNIGHT GLOW](https://open.spotify.com/track/57EJO3FjE9LeS6F3cQuyVU) | [MoMo](https://open.spotify.com/artist/5gwaQTfKLp93WjE9qllzRW) | [MIDNIGHT GLOW](https://open.spotify.com/album/03Ga81XF5V3yoDJIefuOdw) | 2:34 |
-| 34 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
+| 34 | [DMC](https://open.spotify.com/track/5VwijLVQoXQggTZndp7sic) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc), [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [DMC](https://open.spotify.com/album/5ykRvEogjoPLmSupwE1QJR) | 3:36 |
 | 35 | [Dream Catcher \- feat\. Victor Newman](https://open.spotify.com/track/2CaFE20pzFgDN1Gxn081Fc) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Victor Newman](https://open.spotify.com/artist/3oxtIlkys3yuUqP2zX6FjQ) | [HEARTBEAT](https://open.spotify.com/album/0GOgwexqiOlJSYNyXjBg9m) | 2:18 |
 | 36 | [EASY](https://open.spotify.com/track/6RprUFZwI2YsIoMuoj7mb7) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [EASY](https://open.spotify.com/album/3eZPZcJdatwDK7mA6rLwQA) | 2:55 |
 | 37 | [GANG](https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [GANG](https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf) | 3:44 |

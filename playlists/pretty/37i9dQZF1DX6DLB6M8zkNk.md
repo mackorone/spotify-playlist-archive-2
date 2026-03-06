@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,931 likes - 92 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,210 likes - 92 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

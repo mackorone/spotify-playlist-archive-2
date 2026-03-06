@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 116414,
+  "num_followers": 116417,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTuWwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MTzqmAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/7yi7r8GxBX82iwVet5VBG5"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/4vGg44GdCw3X8i8r01XJH0"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/687XL0vOW03rpY24lpAoTT"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Boulder",
         "url": "https://open.spotify.com/album/2qNlrdHeou8zY3ZCuAvsLO"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/2ziD1w2ZBLPHMmkhSHkayG"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "\u7528\u80cc\u810a\u5531\u60c5\u6b4c",
         "url": "https://open.spotify.com/album/65RVRNqYKdkqVJOUOtAtF8"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/1jQp4mCBDmXr8NMqsMpH8E"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 219263,
+      "name": "\u8ffd\u611b\u72c2\u60f3",
+      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "DEADLINE",
         "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 219263,
-      "name": "\u8ffd\u611b\u72c2\u60f3",
-      "url": "https://open.spotify.com/track/1OoVtwFdwCHgu65joPlp4a"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/55IRq8Ju359hkoGdkJ010e"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/2byDwLSm9jA7H7Fm7Zb5I9"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -241,7 +241,23 @@
       "url": "https://open.spotify.com/track/3OE79FmEvvXym1uIBFIkBD"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "\u5074\u7530",
+        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
+      },
+      "artists": [
+        {
+          "name": "Justin Lo",
+          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "\u547d\u786c",
+      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "\u91d1\u7ae5\u5b50",
         "url": "https://open.spotify.com/album/3NA7ofuo79pLj3a4HKvggC"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/5T6h4C12CepeqiVCYrPA4W"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/7rJDyMalhenvCV4uwxL1fl"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "\u5074\u7530",
-        "url": "https://open.spotify.com/album/5Hk2Nep8JUWkvk1cPX9qC8"
-      },
-      "artists": [
-        {
-          "name": "Justin Lo",
-          "url": "https://open.spotify.com/artist/3lva01D3HtmlEKjuxAZ7bC"
-        }
-      ],
-      "duration_ms": 217013,
-      "name": "\u547d\u786c",
-      "url": "https://open.spotify.com/track/331aol4yMUVA93MsVBZV9R"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "DEADLINE",
         "url": "https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx"
@@ -309,39 +309,7 @@
       "url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "RUDE!",
-        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "RUDE!",
-      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "JUMP",
-        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 164718,
-      "name": "JUMP",
-      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "\u7dca\u6025\u806f\u7d61\u4eba",
         "url": "https://open.spotify.com/album/1jSjHcc494JZrMD6keZ0UU"
@@ -357,23 +325,23 @@
       "url": "https://open.spotify.com/track/1sb71AvysPMJlsx4qYtTpG"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
-        "name": "\u7121\u540d\u6307",
-        "url": "https://open.spotify.com/album/4cBDxbvJd68JRluxPFMSCl"
+        "name": "RUDE!",
+        "url": "https://open.spotify.com/album/3053E9tumiU5rqbAPWF06s"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
         }
       ],
-      "duration_ms": 256567,
-      "name": "\u7121\u540d\u6307",
-      "url": "https://open.spotify.com/track/6eNXbPSaleVxmwZDqUZcWv"
+      "duration_ms": 200000,
+      "name": "RUDE!",
+      "url": "https://open.spotify.com/track/2bAQsNqdo62T8akkIvWzGl"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -389,55 +357,7 @@
       "url": "https://open.spotify.com/track/5y3pmjOQvxW5TT5JuLyZRh"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "The Romantic",
-        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 204068,
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "Goodnight, Lillie.",
-        "url": "https://open.spotify.com/album/0xwrHhzvHaJkHt95wVPB2Y"
-      },
-      "artists": [
-        {
-          "name": "\u665a\u5b89\u8389\u8389",
-          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
-        }
-      ],
-      "duration_ms": 244054,
-      "name": "\u6211\u770b\u898b\u4eca\u665a\u7684\u6708\u8272\u5f88\u7f8e\uff0c\u4f60\u5462\uff1f",
-      "url": "https://open.spotify.com/track/5m5UYRlUNW7ypgh7TsmGIa"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "COMPOSITION",
-        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 182588,
-      "name": "\u767d\u679c",
-      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -453,39 +373,7 @@
       "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "REVIVE+",
-        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 178046,
-      "name": "BANG BANG",
-      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "\u7121\u540d\u6c0f",
-        "url": "https://open.spotify.com/album/55u0vk1CtgiHvbMVoAKXso"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 226719,
-      "name": "\u7121\u540d\u6c0f",
-      "url": "https://open.spotify.com/track/3ithr8auaaCWdGR1TCj2fz"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -501,23 +389,7 @@
       "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "\u8a18\u61b6\u68c9",
-        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 273390,
-      "name": "\u8a18\u61b6\u68c9",
-      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Kingdom",
         "url": "https://open.spotify.com/album/6dNVF5odkyzZnks0MKska4"
@@ -533,7 +405,135 @@
       "url": "https://open.spotify.com/track/4IRwuvE6Wo81j8VcyUN6JI"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "\u7121\u540d\u6307",
+        "url": "https://open.spotify.com/album/4cBDxbvJd68JRluxPFMSCl"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 256567,
+      "name": "\u7121\u540d\u6307",
+      "url": "https://open.spotify.com/track/6eNXbPSaleVxmwZDqUZcWv"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "Goodnight, Lillie.",
+        "url": "https://open.spotify.com/album/0xwrHhzvHaJkHt95wVPB2Y"
+      },
+      "artists": [
+        {
+          "name": "\u665a\u5b89\u8389\u8389",
+          "url": "https://open.spotify.com/artist/5QGALLXDjpaWbNlw4NL8gj"
+        }
+      ],
+      "duration_ms": 244054,
+      "name": "\u6211\u770b\u898b\u4eca\u665a\u7684\u6708\u8272\u5f88\u7f8e\uff0c\u4f60\u5462\uff1f",
+      "url": "https://open.spotify.com/track/5m5UYRlUNW7ypgh7TsmGIa"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 204068,
+      "name": "Risk It All",
+      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 178046,
+      "name": "BANG BANG",
+      "url": "https://open.spotify.com/track/5VtwUrgljtOyBa773AGSr4"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "\u8a18\u61b6\u68c9",
+        "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 273390,
+      "name": "\u8a18\u61b6\u68c9",
+      "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "COMPOSITION",
+        "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 182588,
+      "name": "\u767d\u679c",
+      "url": "https://open.spotify.com/track/7rDG7qFA42Zx6oan6hua2q"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "JUMP",
+        "url": "https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 164718,
+      "name": "JUMP",
+      "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 249136,
+      "name": "\u8aaa\u8b0a\u8005",
+      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
@@ -565,39 +565,7 @@
       "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "\u50b7\u53e3\u4e0a\u7051\u8fa3\u6912\u91ac",
-        "url": "https://open.spotify.com/album/0huR55ZBCU4YGGvGlQ7MAQ"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 228697,
-      "name": "\u50b7\u53e3\u4e0a\u7051\u8fa3\u6912\u91ac",
-      "url": "https://open.spotify.com/track/0KMxxchUDpKAR9bq34WdKP"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "Happy - :') (Remixes)",
-        "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
-      },
-      "artists": [
-        {
-          "name": "Jin",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
-        }
-      ],
-      "duration_ms": 151646,
-      "name": "Running Wild",
-      "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "COMPOSITION",
         "url": "https://open.spotify.com/album/1UQafU49bE94diYnAQZXfZ"
@@ -613,10 +581,26 @@
       "url": "https://open.spotify.com/track/6PKraUz7pKyBqyeI2B7A0y"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
-        "name": "Sweet & Sour",
-        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+        "name": "\u50b7\u53e3\u4e0a\u7051\u8fa3\u6912\u91ac",
+        "url": "https://open.spotify.com/album/0huR55ZBCU4YGGvGlQ7MAQ"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 228697,
+      "name": "\u50b7\u53e3\u4e0a\u7051\u8fa3\u6912\u91ac",
+      "url": "https://open.spotify.com/track/0KMxxchUDpKAR9bq34WdKP"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "\u7121\u540d\u6c0f",
+        "url": "https://open.spotify.com/album/55u0vk1CtgiHvbMVoAKXso"
       },
       "artists": [
         {
@@ -624,12 +608,12 @@
           "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 249136,
-      "name": "\u8aaa\u8b0a\u8005",
-      "url": "https://open.spotify.com/track/3SRtsmJwnR6rFnRauWV6ne"
+      "duration_ms": 226719,
+      "name": "\u7121\u540d\u6c0f",
+      "url": "https://open.spotify.com/track/3ithr8auaaCWdGR1TCj2fz"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -649,7 +633,7 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
@@ -665,23 +649,7 @@
       "url": "https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "Let go",
-        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
-      },
-      "artists": [
-        {
-          "name": "Nancy Kwai",
-          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
-        }
-      ],
-      "duration_ms": 230581,
-      "name": "Let go",
-      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -697,71 +665,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 187479,
-      "name": "Fxxxboy",
-      "url": "https://open.spotify.com/track/7m0duH1vdTNxM2g8BLfR0F"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
-      "album": {
-        "name": "REVIVE+",
-        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 194171,
-      "name": "BLACKHOLE",
-      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
-    },
-    {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "\u4e03\u91cc\u9999",
         "url": "https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr"
@@ -777,7 +681,39 @@
       "url": "https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "DEADLINE",
+        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 187479,
+      "name": "Fxxxboy",
+      "url": "https://open.spotify.com/track/7m0duH1vdTNxM2g8BLfR0F"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -793,39 +729,55 @@
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
-        "name": "a kiridiculous distance",
-        "url": "https://open.spotify.com/album/1ymz2jNDGgtvGQghYkFAV1"
+        "name": "REVIVE+",
+        "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
       },
       "artists": [
         {
-          "name": "Kiri T",
-          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 232839,
-      "name": "\u81f3\u5c11\u505a\u4e00\u4ef6\u96e2\u8b5c\u7684\u4e8b",
-      "url": "https://open.spotify.com/track/3qFJpsQaOGkea5MLxbk9Jc"
+      "duration_ms": 194171,
+      "name": "BLACKHOLE",
+      "url": "https://open.spotify.com/track/0ITUAjt6O8FIzGPHNQpvKu"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
       "album": {
-        "name": "DEADLINE",
-        "url": "https://open.spotify.com/album/2SrWldMz9dfCB7kAGQNbcC"
+        "name": "Let go",
+        "url": "https://open.spotify.com/album/22lJ0X3uJ53RhyaeeGzwOO"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Nancy Kwai",
+          "url": "https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy"
         }
       ],
-      "duration_ms": 172323,
-      "name": "Me and my",
-      "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
+      "duration_ms": 230581,
+      "name": "Let go",
+      "url": "https://open.spotify.com/track/0VKdwugDTY088b1J84QH3e"
     },
     {
-      "added_at": "2026-03-04 13:47:24",
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
       "album": {
         "name": "No Protection",
         "url": "https://open.spotify.com/album/4U2vBvv8vEqVb8MG1s9tON"
@@ -839,6 +791,58 @@
       "duration_ms": 249266,
       "name": "\u7f8e\u9e97\u4e4b\u6700",
       "url": "https://open.spotify.com/track/0Iz6uTneQ9aVAAEveG3ORL"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "Sweet & Sour",
+        "url": "https://open.spotify.com/album/6QBosNPYOQdUwK4ZAOH9fE"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 269118,
+      "name": "\u61f7\u7591\u4eba\u751f",
+      "url": "https://open.spotify.com/track/64DtUTH1ZtBURnXIDzBzx1"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "MAYHEM",
+        "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
+    },
+    {
+      "added_at": "2026-03-05 22:27:50",
+      "album": {
+        "name": "HeartBreakFast \u50b7\u5fc3\u65e9\u9910\u5e97",
+        "url": "https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U"
+      },
+      "artists": [
+        {
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u592a\u967d\u8207\u5730\u7403",
+      "url": "https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

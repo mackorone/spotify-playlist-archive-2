@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 275 likes - 1,970 songs - 4 day 22 hr 3 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 1,971 songs - 4 day 22 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 139 | [Tempo](https://open.spotify.com/track/05MYcpkayGqlJ4ARGM0EPE) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Tempo](https://open.spotify.com/album/0WtUDS5e5Y77hA2lIHd5Zr) | 3:38 |
 | 140 | [My Heart To You](https://open.spotify.com/track/2SbaF0m5oa0FERDZEiAaiU) | [me2dumb4college](https://open.spotify.com/artist/52nxKAhcqIKVRC03z9bVgw) | [An Introduction](https://open.spotify.com/album/5Yv5PIY45p7wsHKNS7Ech5) | 3:55 |
 | 141 | [You're The Impulse I Give Into](https://open.spotify.com/track/0LbB72Ix2Qg5bvFBQisRjq) | [Garnish](https://open.spotify.com/artist/7gzl8VXW9zr9AxxctNIU5D) | [Junior](https://open.spotify.com/album/3MiTKwbyrQzlcaoGZWt5gu) | 2:37 |
-| 142 | [Save me from this dimension](https://open.spotify.com/track/3tUFw2DOlINiAqwon49BiX) | [ROD](https://open.spotify.com/artist/4qgkyXlovKCnOSkvOfOms7) | [Save me from this dimension](https://open.spotify.com/album/0t7vaJnDeApfYgktBtWuyf) | 4:26 |
+| 142 | [Save me from this dimension](https://open.spotify.com/track/3tUFw2DOlINiAqwon49BiX) | [ROD](https://open.spotify.com/artist/1wIBNTCu23Gplflrlv2Cqt) | [Save me from this dimension](https://open.spotify.com/album/0t7vaJnDeApfYgktBtWuyf) | 4:26 |
 | 143 | [Questo film non sarà un sequel](https://open.spotify.com/track/5JhuwyPOKmvdga9dPxoQFP) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Questo film non sarà un sequel](https://open.spotify.com/album/38xZjbzv1qkKDI7546Janb) | 2:30 |
 | 144 | [Candy](https://open.spotify.com/track/5DTaHNU3NuOWSt3ngYAlWM) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:51 |
 | 145 | [i like](https://open.spotify.com/track/792ZMfAwnQqs21At57bmNZ) | [Bilby](https://open.spotify.com/artist/5SfKV3PXtJU29wkLvQt8tN) | [Heavy Fines, Loss Of Licence](https://open.spotify.com/album/1HKkzVbN3N6ScKjmXkA8P2) | 1:37 |
@@ -1978,5 +1978,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1968 | [My Soul](https://open.spotify.com/track/4uCyYwu4f7iFlEqAgCeNce) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [My Soul](https://open.spotify.com/album/2QpG4iF6jTCTPbFFDTJCcl) | 2:15 |
 | 1969 | [Art of Waves](https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [ART of WAVES](https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3) | 3:42 |
 | 1970 | [Collecting Memories](https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj), [Natasha Cleophas](https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic) | [Collecting Memories](https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU) | 3:10 |
+| 1971 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 |
 
-Snapshot ID: `AAAIOy+RbrMTO+PpFD+sHd16ASTYzVbX`
+Snapshot ID: `AAAIPPn1GFeYtj2rlJxTLmASyCAyJadH`

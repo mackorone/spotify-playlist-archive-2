@@ -1,15 +1,15 @@
 {
   "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:12dibRyPTOMitNNhVmlgnG\">Medo em Cia.</a>",
-  "num_followers": 4926,
+  "num_followers": 4934,
   "original_name": "RADAR Creators Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAALuJkh0TEign/2cd9qH2JUdnJaA",
+  "snapshot_id": "AAAAAI7yYthncTgPn58VGgZFPnKNeV9F",
   "tracks": [
     {
-      "added_at": "2026-03-02 12:54:22",
+      "added_at": "2026-03-05 20:21:28",
       "album": {
         "name": "Medo em Cia.",
         "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
         }
       ],
-      "duration_ms": 1467267,
-      "name": "Episodio 41: historias sobrenaturais",
-      "url": "https://open.spotify.com/episode/1Y7noV5fK0ECB3XIJLKd7H"
+      "duration_ms": 2758343,
+      "name": "Episodio 40: relatos sobrenaturais",
+      "url": "https://open.spotify.com/episode/2oMZcnTG4ozCfqMRYqVG3n"
+    },
+    {
+      "added_at": "2026-03-05 20:21:28",
+      "album": {
+        "name": "Medo em Cia.",
+        "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
+      },
+      "artists": [
+        {
+          "name": "Medo em Cia.",
+          "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
+        }
+      ],
+      "duration_ms": 1666146,
+      "name": "Creepypasta: Sou caminhoneiro . Parei pra ajudar uma crian\u00e7a perdida numa estrada deserta. ",
+      "url": "https://open.spotify.com/episode/0qCM5nkemEm5V8gVo0VpDz"
     },
     {
       "added_at": "2026-03-02 12:54:22",

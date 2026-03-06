@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jay Melody",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Zuchu",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -6349,6 +6349,28 @@
     },
     {
       "album": {
+        "name": "Moja",
+        "url": "https://open.spotify.com/album/4NlB5czbw0xdrWuuwS7IqC"
+      },
+      "artists": [
+        {
+          "name": "Moses Luka",
+          "url": "https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp"
+        },
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Moja",
+      "url": "https://open.spotify.com/track/6q3P3cfcEJHqNiPk01xH31"
+    },
+    {
+      "album": {
         "name": "Dedication",
         "url": "https://open.spotify.com/album/2POxnPAwIL0Lq9QKszh9Qg"
       },
@@ -7676,6 +7698,28 @@
       "duration_ms": 269773,
       "name": "Ng'ari Ng'ari",
       "url": "https://open.spotify.com/track/6a2bPw2tY0yTAsFUQqdccf"
+    },
+    {
+      "album": {
+        "name": "Ni Mungu (feat. Mr Seed)",
+        "url": "https://open.spotify.com/album/39p6ntAjjNKH6jXd0dEDkO"
+      },
+      "artists": [
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        },
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Ni Mungu (feat. Mr Seed)",
+      "url": "https://open.spotify.com/track/2VD8MBSd3atd6ynnkn4vW4"
     },
     {
       "album": {
@@ -10658,7 +10702,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 229500,
       "name": "Songi Songi",
       "url": "https://open.spotify.com/track/03Yz6BO7KXgjRQ96NRNX54"
@@ -12482,7 +12526,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 210000,
       "name": "Wangu",
       "url": "https://open.spotify.com/track/3rRiEM8ttueIZU59KNSdTe"

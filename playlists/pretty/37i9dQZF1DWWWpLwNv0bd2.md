@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Idhayam Murali
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,741 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,876 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 | 8 | [Oorum Blood Unplugged](https://open.spotify.com/track/4Ydbnm0059Pe38Y2WoRzw7) | [Sai Abhyankkar](https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx) | [Dude \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7uxUvkZRoulYMf0xZXQoVL) | 1:20 |
 | 9 | [Paranthene Penne \(From "Youth"\)](https://open.spotify.com/track/3OWCVnMFh7vQgkjoVfvEIQ) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Ken Karunaas](https://open.spotify.com/artist/6f9pTlTRRreLGq9gIonZOA), [Sony Daffodil](https://open.spotify.com/artist/3hg5kBpXLQ0h6adKjwsju2), [Vignesh Srikanth](https://open.spotify.com/artist/4tJEEeKyEuYWQLzBz0a8p1) | [Paranthene Penne \(From "Youth"\)](https://open.spotify.com/album/7KP9rdrmLHAq1N7iPceFTR) | 2:51 |
 | 10 | [Morattu Muttal](https://open.spotify.com/track/13Gn7KDj8DZmD6WJXdod7m) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [With Love \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4o1kT6L2yEINJ1OR2o4phN) | 2:46 |
-| 11 | [Thangapoovey](https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 4:00 |
+| 11 | [Thangapoovey](https://open.spotify.com/track/4YuK8in0FTkqZCDPCOjVa5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Madharaasi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ocPQjlkediTs77EdoS46P) | 3:55 |
 | 12 | [Kannae Kanmaniye](https://open.spotify.com/track/13Ovp6ZSQpV6z2CfdWoP4S) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Mashook Rahman](https://open.spotify.com/artist/72GcNDIG98BhoVp2p01UWS) | [Tere Ishk Mein \(TAMIL\)](https://open.spotify.com/album/2b0Ub6NATfFZuBQvxnTuuk) | 5:37 |
 | 13 | [Seelay Seelay \(From "29"\)](https://open.spotify.com/track/0ckcTjwiL6Vwrn2jT3ZkaD) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Seelay Seelay \(From "29"\)](https://open.spotify.com/album/2gasTEpL4SwpFPvSIecF7l) | 5:07 |
 | 14 | [Nerungatta](https://open.spotify.com/track/13xOVzImUS6QDlHlAH2czt) | [Aditya Ravindran](https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa), [Karthik Manickavasakam](https://open.spotify.com/artist/3YkUMVh7nPai0811Q22WPO) | [Couple Friendly \(Tamil\)](https://open.spotify.com/album/7zwM6LYDa0wLTE0ypDBJnq) | 3:05 |

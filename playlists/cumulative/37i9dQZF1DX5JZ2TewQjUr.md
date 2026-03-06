@@ -2,9 +2,9 @@
 
 ### [+852 Rising](https://open.spotify.com/playlist/37i9dQZF1DX5JZ2TewQjUr)
 
-> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: N.Y.P.D.南洋派對
+> 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover:  Anna hisbbuR
 
-1,630 songs - 3 day 20 hr 16 min
+1,633 songs - 3 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Follow my groove](https://open.spotify.com/track/2XoJ9e2g11qEoyySsVfzOY) | [RAM](https://open.spotify.com/artist/7fWhLaIjVsyC94OC87ZCJT) | [GAWDAYM](https://open.spotify.com/album/4TCzdssZPnbfFvgXW5UmZL) | 4:39 | 2024-03-14 | 2024-11-15 |
 | [fOoL\#\#](https://open.spotify.com/track/3mYyUU2ZXDtA9I0YG8zWpi) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [fOoL\#\#](https://open.spotify.com/album/73L9KxkHzTRg4QSUXYMMG9) | 2:43 | 2023-08-10 | 2023-11-03 |
 | [Fool's Gold](https://open.spotify.com/track/7xbHORJDZ9hGaaJHBVnOhe) | [BCHOY](https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF) | [Fool's Gold](https://open.spotify.com/album/4zl6hcPc5mTiWsktibVgG6) | 3:42 | 2024-08-08 | 2024-12-13 |
+| [For Longevity](https://open.spotify.com/track/0IyedwNk1UDxFkCemHlEvs) | [Tomii](https://open.spotify.com/artist/5XTFLOAT2qCrhejD1T4zOX) | [For Longevity](https://open.spotify.com/album/7rPYZNGDVb23KbzaeFUu2k) | 4:40 | 2026-03-05 |  |
 | [For What It's Worth](https://open.spotify.com/track/31hXMEaAU9fZy21oKRzP7H) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [For What It's Worth](https://open.spotify.com/album/7bl1GLPKwgnhIVxtWEq121) | 4:10 | 2023-08-31 | 2023-12-01 |
 | [Forest](https://open.spotify.com/track/1xuC2jthRz6vwc2RncwtAc) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/1Zl1BD9G5b8V9gsXZp9Mf1) | 5:27 | 2023-02-23 | 2023-05-11 |
 | [Forest](https://open.spotify.com/track/304SYYFETQyIXPHana8jaU) | [Virgin Vacation](https://open.spotify.com/artist/5gUVCL8RB17Ehn5Q43c2AJ), [Gold Mountain](https://open.spotify.com/artist/0YZHNcGfT61Yvmp8FklTxT), [Romer String Quartet](https://open.spotify.com/artist/38iTibcPtXJZG3JQ1vGnWf) | [Forest](https://open.spotify.com/album/11Kvjk7Z8dC8QSmpfnzqsD) | 5:27 | 2023-05-04 | 2023-07-14 |
@@ -417,6 +418,7 @@
 | [I CAN'T](https://open.spotify.com/track/4gWWZGAvRd78Ztz4kfwTSu) | [ProdiG](https://open.spotify.com/artist/08CriCUDwsWSTvFDWsfpk1) | [I CAN'T](https://open.spotify.com/album/4LPLzvpPWmbuOOpK1vaiQl) | 2:07 | 2023-12-14 | 2024-05-10 |
 | [I can’t be you](https://open.spotify.com/track/0BuxxvxVGRCy4v5pbZhhkX) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | ["I"](https://open.spotify.com/album/0w00oKtFxjZatD8WdqjXww) | 3:37 | 2024-01-18 | 2024-05-10 |
 | [I can’t be you \(Demo\) Korean ver.](https://open.spotify.com/track/6OF1PjHMnpZBabhECwmWsL) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I can't be you \(Remixes\)](https://open.spotify.com/album/2z0e4SF1Ec62KxZKHSwDnV) | 3:40 | 2024-05-09 | 2024-11-15 |
+| [I could be your indie darling](https://open.spotify.com/track/4h5s5FyhUoN0VKqIsUOq2R) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [I could be your indie darling](https://open.spotify.com/album/6D9J3eZhFYkbV4wVdYsluH) | 3:17 | 2026-03-05 |  |
 | [I Don't Like Me](https://open.spotify.com/track/1MFbS9WwBlQgCXfTqMp8U4) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [I Don't Like Me](https://open.spotify.com/album/4u9y7ezpXc0MLMShh2b75I) | 3:37 | 2025-11-27 |  |
 | [I don't want to](https://open.spotify.com/track/55o4oMQcxg6bMtFQR2X4tK) | [Tsoiwaijenjen](https://open.spotify.com/artist/3wTDAuG2SWbTjvxLe3kgnj) | [I don't want to](https://open.spotify.com/album/3oelo5BHuJqQdzXn0e61Y0) | 4:23 | 2023-11-23 | 2024-02-02 |
 | [I DUNNO](https://open.spotify.com/track/0tsPSVMVeb6zfVHZ4sfYST) | [Uni Bay](https://open.spotify.com/artist/6zi62nA6JzepN7oYTMlw72), [Vin](https://open.spotify.com/artist/6eOHXXIxesSFctu1YxWMLt) | [I DUNNO](https://open.spotify.com/album/2DBjeZL9oVjqzngjcIvIya) | 2:54 | 2025-02-14 | 2025-05-30 |
@@ -790,6 +792,7 @@
 | [Rocket Science](https://open.spotify.com/track/0wkeaSCYNKOFWUlRKpErDo) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [Rocket Science](https://open.spotify.com/album/6Kq7dYAecgd0C2QaCTqP7c) | 2:34 | 2025-08-07 | 2026-01-23 |
 | [Rockstars](https://open.spotify.com/track/2LQp86KHkripGEWu21rNqK) | [Young Hysan](https://open.spotify.com/artist/6nZKe3xkbU2IBrVuJGkzCr) | [Rockstars](https://open.spotify.com/album/7ozJ1siVWzaJVSPEmEvviO) | 3:45 | 2023-06-08 | 2023-10-20 |
 | [room 1: OTF](https://open.spotify.com/track/1I2UpNMJwCSLTnBavTwnrx) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 1: OTF](https://open.spotify.com/album/2EyFBidiMq8N7gA5fGSory) | 2:22 | 2025-09-18 | 2026-02-27 |
+| [room 5: WYWD](https://open.spotify.com/track/2GrnZnGjAseppFkcLyDqI4) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [VACANCY EP](https://open.spotify.com/album/5pSghB9L1CsF2iu5CtqQs0) | 2:12 | 2026-03-05 |  |
 | [room 6: THATS ON ME](https://open.spotify.com/track/08iVPCDvHIKlO5DjEfMaMb) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [room 6: THATS ON ME](https://open.spotify.com/album/1MoTsJ97BqN1ZigfLCxayG) | 2:35 | 2025-11-20 |  |
 | [Rose de blanc](https://open.spotify.com/track/1MOD1RQR4mSvCpkfm2BeHb) | [BudD](https://open.spotify.com/artist/7JEGiZnqvVmIL6l8F2R1F4) | [Rose de blanc](https://open.spotify.com/album/62ZELWfmFVH72n0dPt6XoX) | 4:26 | 2023-12-28 | 2024-05-10 |
 | [ROSE PERFUME](https://open.spotify.com/track/2GwQF0IDkaIpgd4piQA4Xh) | [blam](https://open.spotify.com/artist/56644p8xhaOuDdZaACcqG4) | [ROSE PERFUME](https://open.spotify.com/album/11tkfRERbeefYZXz1nJNoh) | 3:00 | 2026-02-19 |  |

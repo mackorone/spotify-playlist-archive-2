@@ -1,6 +1,6 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Los Aptos.",
-  "num_followers": 747616,
+  "num_followers": 747605,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "BENDITA SEA LA HORA",
-        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
-      },
-      "artists": [
-        {
-          "name": "PARDOPARDO",
-          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
-        }
-      ],
-      "duration_ms": 147711,
-      "name": "BENDITA SEA LA HORA",
-      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "HOY NO TRABAJO",
         "url": "https://open.spotify.com/album/5hdRkMghtquoZK9RFeY5m0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 180000,
       "name": "HOY NO TRABAJO",
       "url": "https://open.spotify.com/track/4wtpYqV7ZHXBmwRkWKsx7V"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "BENDITA SEA LA HORA",
+        "url": "https://open.spotify.com/album/7BaxtDkRZ1mxfhNb4WIYFW"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "duration_ms": 147711,
+      "name": "BENDITA SEA LA HORA",
+      "url": "https://open.spotify.com/track/3WSmQtAcuTqfsSUjy5CKar"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -727,22 +727,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 252929,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "ma\u00f1ana, temprano",
         "url": "https://open.spotify.com/album/6Y2sfEJBZbqrHTKtRB0Bmi"
       },
@@ -763,22 +747,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "aunquetelopida",
-        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/5G5EfYBvVqanJ35F58nDLd"
       },
       "artists": [
         {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Riosse",
-          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
         }
       ],
-      "duration_ms": 180631,
-      "name": "aunquetelopida",
-      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
+      "duration_ms": 252929,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5A6SU4vLMAJZbkTy7C7xXJ"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -795,6 +775,26 @@
       "duration_ms": 206366,
       "name": "miau",
       "url": "https://open.spotify.com/track/2Z7EkSkuK9oAnTN7AyRwMq"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "aunquetelopida",
+        "url": "https://open.spotify.com/album/2HvFECGJfDZjGjCj4yUGsA"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Riosse",
+          "url": "https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv"
+        }
+      ],
+      "duration_ms": 180631,
+      "name": "aunquetelopida",
+      "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -955,22 +955,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "bandOlerO",
-        "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Berg",
-          "url": "https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv"
-        }
-      ],
-      "duration_ms": 196034,
-      "name": "bandOlerO",
-      "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Canciones en Mi",
         "url": "https://open.spotify.com/album/4l7m9k9na3sm2sR3BYSTsE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 142724,
       "name": "D\u00f3nde Est\u00e1s!",
       "url": "https://open.spotify.com/track/42hWyKlSWHMLPcvl8nkrfC"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "bandOlerO",
+        "url": "https://open.spotify.com/album/4ci6a270otpgbQ0J1sWGi9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Berg",
+          "url": "https://open.spotify.com/artist/7jJ4OfX2RBNl7dK4MG5JZv"
+        }
+      ],
+      "duration_ms": 196034,
+      "name": "bandOlerO",
+      "url": "https://open.spotify.com/track/6fzvTjGv5I65Waaam5UTVv"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "GOLOSA",
+        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        }
+      ],
+      "duration_ms": 214140,
+      "name": "Mi Terraza",
+      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Me Asusta Amar Tanto la Soledad",
         "url": "https://open.spotify.com/album/1RjUloYZjSGblp5fKixULs"
       },
@@ -1123,26 +1143,6 @@
       "duration_ms": 156426,
       "name": "tqm <3",
       "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "GOLOSA",
-        "url": "https://open.spotify.com/album/3vVYr1YoOAONCCiNYGHCfr"
-      },
-      "artists": [
-        {
-          "name": "Let\u00f3n P\u00e9",
-          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
-        },
-        {
-          "name": "Pj Sin Suela",
-          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
-        }
-      ],
-      "duration_ms": 214140,
-      "name": "Mi Terraza",
-      "url": "https://open.spotify.com/track/6liXtsSKDHM1OPMbmszF70"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Au",
-        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
-      },
-      "artists": [
-        {
-          "name": "Paloma Morphy",
-          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
-        }
-      ],
-      "duration_ms": 158812,
-      "name": "pijama.",
-      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Solo T\u00fa",
         "url": "https://open.spotify.com/album/0fFuwgphyt1Kj6A2Smgnuo"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 171989,
       "name": "Solo T\u00fa",
       "url": "https://open.spotify.com/track/2MeSqcYhs5C7UZnEeSLjrT"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Au",
+        "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
+      },
+      "artists": [
+        {
+          "name": "Paloma Morphy",
+          "url": "https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw"
+        }
+      ],
+      "duration_ms": 158812,
+      "name": "pijama.",
+      "url": "https://open.spotify.com/track/3oCKpnwoT4g9adu3O1yyZ3"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "El \u00fanico ser sin talento",
-        "url": "https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH"
-      },
-      "artists": [
-        {
-          "name": "stivijoes",
-          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
-        }
-      ],
-      "duration_ms": 188877,
-      "name": "Latemotiv",
-      "url": "https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "\u00bfpor qu\u00e9 corres? ya estamos ah\u00ed",
         "url": "https://open.spotify.com/album/73ab54wJUkMBlbJNJVDyiE"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 183386,
       "name": "A 150",
       "url": "https://open.spotify.com/track/4uK3NcTfDQzePn8ixG6w8V"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "El \u00fanico ser sin talento",
+        "url": "https://open.spotify.com/album/0lFP1nPPMPfuKzVZeOvBRH"
+      },
+      "artists": [
+        {
+          "name": "stivijoes",
+          "url": "https://open.spotify.com/artist/1E5zXiaRprDYgBxiiR1hfx"
+        }
+      ],
+      "duration_ms": 188877,
+      "name": "Latemotiv",
+      "url": "https://open.spotify.com/track/6IGQh05TwmwfQOCel2dSP8"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Azul",
-        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "TANTO POR HACER",
         "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 192942,
       "name": "Y Yo Que Pensaba",
       "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Azul",
+        "url": "https://open.spotify.com/album/56rLL5cv5T6JAHZ0jvSgNH"
+      },
+      "artists": [
+        {
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zKT05qeYBUEuHQJP4gtsa"
     },
     {
       "added_at": "2026-02-27 05:00:32",

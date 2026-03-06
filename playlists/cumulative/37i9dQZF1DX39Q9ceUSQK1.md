@@ -2,9 +2,9 @@
 
 ### [New Alternative](https://open.spotify.com/playlist/37i9dQZF1DX39Q9ceUSQK1)
 
-> Nieuwe alternative & rock releases\. Cover: Gorillaz
+> Nieuwe alternative & rock releases\. Cover: Twenty One Pilots
 
-756 songs - 1 day 20 hr 2 min
+760 songs - 1 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Chemicals](https://open.spotify.com/track/2sNOwXYWdLzz27p88xa5rp) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Chemicals](https://open.spotify.com/album/6aIFh4E0XizDti1WhMHWub) | 3:33 | 2026-01-30 |  |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-02-27 | 2025-04-18 |
 | [Cherry](https://open.spotify.com/track/4TPeK1K6tgwrnI3HjPSdUX) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Cherry](https://open.spotify.com/album/1ESDjhJCni1Q9HmjMw1KEd) | 4:46 | 2025-02-03 | 2025-03-14 |
+| [Choo Choo](https://open.spotify.com/track/2CftoriIV6cBsAcFMzm5Cx) | [Friko](https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR) | [Choo Choo](https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t) | 3:20 | 2026-03-05 |  |
 | [Circe](https://open.spotify.com/track/7DYxpQ56aG3VPsBT6ukYDW) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [How To Be Cool At Parties/Circe](https://open.spotify.com/album/1gIfxtuS78kUBTxS6P9gXe) | 3:20 | 2025-04-17 | 2025-07-05 |
 | [Circle of Trust](https://open.spotify.com/track/76x9lsvahKXzPQVIJQLhDp) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Pink Elephant](https://open.spotify.com/album/5qLTlCTZvN24Fm1nqd7XCV) | 6:05 | 2025-05-09 | 2025-07-11 |
 | [Circles](https://open.spotify.com/track/2xoTh3Ag4nWXjXq6oTR3KQ) | [Navigate](https://open.spotify.com/artist/5fyf5Kv3KCEOH2dWsHVWqZ) | [Circles](https://open.spotify.com/album/3hmNq9yzJT3fGGS6ZUcIR0) | 3:11 | 2025-07-17 | 2025-09-27 |
@@ -152,6 +153,7 @@
 | [Coyote](https://open.spotify.com/track/3H29rW3jmhlJaNNutzANBe) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Coyote](https://open.spotify.com/album/5xNXZjSg3U4cqxBjHZZKQ8) | 4:04 | 2025-03-21 | 2025-06-06 |
 | [CPR](https://open.spotify.com/track/4shJVGH4xRWChBSkHHamxv) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [CPR](https://open.spotify.com/album/74nethFnPNZe86ksfRl0gh) | 2:50 | 2025-06-02 | 2025-08-15 |
 | [Cro\-Magnon Man](https://open.spotify.com/track/1HrrotHTdlartBG4CdFCr1) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [Cro\-Magnon Man](https://open.spotify.com/album/5VL1958b50wIWuafmVofL6) | 4:07 | 2025-02-07 | 2025-04-12 |
+| [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 |  |
 | [Crystal Body](https://open.spotify.com/track/1rAyrBuB4sQmWIDlGPR1xc) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell](https://open.spotify.com/album/55rL0l4dFnyycESlhE91NW) | 4:30 | 2025-11-19 | 2026-02-27 |
 | [Cutthroat](https://open.spotify.com/track/5cQmKBhv5Ui17M4hopt2TX) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Cutthroat](https://open.spotify.com/album/6C4fHqAWoZdy7A4o07euoP) | 3:14 | 2025-06-05 | 2025-08-30 |
 | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Daddy's Selling Wine In A Burning House](https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1) | 4:24 | 2024-11-07 | 2025-01-24 |
@@ -375,6 +377,7 @@
 | [Lay Of The Land](https://open.spotify.com/track/0w4WtvDDRsKdQQhFcBhUuu) | [Das Pop](https://open.spotify.com/artist/6HvBsTSctQ8SGUzzfnMPcV) | [Lay Of The Land](https://open.spotify.com/album/2rTw8vmn4RQsg7ZOSD7mEa) | 3:26 | 2025-02-17 | 2025-04-26 |
 | [LCA](https://open.spotify.com/track/2UnBCcS2IhYdOzh3ACOnSS) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [LCA](https://open.spotify.com/album/5kp76qchpeMxS0EmeOdNkv) | 2:39 | 2025-04-04 | 2025-06-21 |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-26 | 2024-11-08 |
+| [leaving is easy](https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [leaving is easy](https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP) | 3:33 | 2026-03-05 |  |
 | [Legacy, Bones](https://open.spotify.com/track/5woH8jRiVVPbbsPeAV6rY9) | [Tin Fingers](https://open.spotify.com/artist/4tLOVSDLiCDwmJtaHEJJZu) | [Legacy, Bones](https://open.spotify.com/album/06WPEUGVpSLBUXfmTrvKc6) | 3:45 | 2026-01-30 |  |
 | [Legalize Living](https://open.spotify.com/track/7s4jEMchJ03AxIw7IQKZJT) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Legalize Living](https://open.spotify.com/album/50bN734086s72BiT5VNoPw) | 3:24 | 2025-07-10 | 2025-09-27 |
 | [Let It Bleed](https://open.spotify.com/track/59NoaGH7JhHbs0I40EshJU) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Let It Bleed](https://open.spotify.com/album/55EjfL1vVhiZR6upaqE5xd) | 4:42 | 2024-11-07 | 2025-01-24 |
@@ -511,6 +514,7 @@
 | [Pretty](https://open.spotify.com/track/2pnAHWjCnYBSh3GXMBu2SF) | [Honey I'm Home](https://open.spotify.com/artist/4nOBSMvnstrNNr5Bl7z2OA) | [Pretty](https://open.spotify.com/album/4Cx63F8wnPWtYuWCckeXal) | 2:19 | 2026-02-20 |  |
 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 | 2025-06-27 | 2025-09-19 |
 | [Q&A with Myself](https://open.spotify.com/track/66mONQljiV3pMzODY62f5Q) | [Admiral Freebee](https://open.spotify.com/artist/4FmTFdAid9vZwCqOFedhD4) | [⁠⁠Q&A with Myself](https://open.spotify.com/album/2CpsLBoJm2fNEeHVmJjrG9) | 2:47 | 2025-10-28 | 2026-02-07 |
+| [Que Du Noir](https://open.spotify.com/track/0RqyOB5oBUFfkuxzg4hCTD) | [Slow Crush](https://open.spotify.com/artist/3nOrhUtscermNwmfBQRZZv) | [Que Du Noir / Hallowed](https://open.spotify.com/album/0sfB5IS1Vr6arXDOLQ8IQx) | 4:55 | 2026-03-05 |  |
 | [Quiet Boys](https://open.spotify.com/track/1sNL7NZPkrn7zGF7ai5Dnv) | [Glitterpaard](https://open.spotify.com/artist/0iMqLKSQA3Vdl9t5jO7SPd) | [Thursday](https://open.spotify.com/album/7hzFaE1FPdV7JMwpTOuLbh) | 3:05 | 2025-09-18 | 2025-12-09 |
 | [Quiet Life](https://open.spotify.com/track/1G0f99jVblkI1pK8uba38S) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Quiet Life](https://open.spotify.com/album/4JEcW2oUgU5JRTr25eSgn2) | 3:16 | 2025-07-10 | 2025-09-13 |
 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 | 2025-06-02 | 2025-08-15 |

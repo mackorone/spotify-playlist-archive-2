@@ -4,7 +4,7 @@
 
 > Se ha vinto il festival ed è su Spotify, è in questa playlist 🌴
 
-72 songs - 4 hr 22 min
+73 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Occidentali's Karma \- Radio Edit](https://open.spotify.com/track/00wxIcA1PPbqEzATkHT4e1) | [Francesco Gabbani](https://open.spotify.com/artist/5lzqFxifzjxYHGJxuwQqtR) | [Magellano](https://open.spotify.com/album/760IKHvBYTnfXTgq4zy4m9) | 3:37 | 2025-02-18 |  |
 | [Per dire di no](https://open.spotify.com/track/3d0nmPXxRvGRzVOFiQxHE2) | [Alexia](https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB) | [Per Dire Di No](https://open.spotify.com/album/1BEJEhHRwsInGJGjUVUXxG) | 3:27 | 2025-02-18 |  |
 | [Per Elisa](https://open.spotify.com/track/6P9ISBfXg35gWQzq3ggLIu) | [Alice](https://open.spotify.com/artist/3zNFrznlC0kv866J7Karl3) | [Alice](https://open.spotify.com/album/0VGXsdSBJngZJNRW5o9blY) | 3:40 | 2025-02-18 |  |
+| [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 | 2026-03-05 |  |
 | [Per Tutte Le Volte Che...](https://open.spotify.com/track/1qBKrPkpVNu11W4tjY88Gj) | [Valerio Scanu](https://open.spotify.com/artist/6YqnuGUFh2n0bnLdxpszxE) | [Per Tutte Le Volte Che...](https://open.spotify.com/album/75d3bNl0ruuqr5tAnJoBJW) | 3:58 | 2025-02-18 |  |
 | [Perdere l'amore](https://open.spotify.com/track/5QKRTdqD7dgOIWMYXUmD6J) | [Massimo Ranieri](https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d) | [Perdere l'amore](https://open.spotify.com/album/6uoSK1y8SCXazNiUTu3rWX) | 4:11 | 2025-02-18 |  |
 | [Portami a ballare](https://open.spotify.com/track/3tQhUEy5PsSnOfyL5rsDnf) | [Luca Barbarossa](https://open.spotify.com/artist/3MQtBfmpkIWAxzuXgLznx6) | [Barbarossa Social Club](https://open.spotify.com/album/0rVsEXZh1PrORIsc5IyLUz) | 3:45 | 2025-02-18 |  |

@@ -4,7 +4,7 @@
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-58 songs - 4 hr 26 min
+59 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Oh Prema](https://open.spotify.com/track/63NdWczrPCYGWKY1RV4Zbh) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Krishna Kanth](https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx) | [Sita Ramam \(Telugu\) \(Extended Version\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5d0eh1FoU7tOYEnHLohjjv) | 3:28 | 2022-10-11 |  |
 | [Pachchadanamey](https://open.spotify.com/track/6Au5A9YR9koo7bkyG4ucYf) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Clinton](https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG) | [Sakhi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63A8OAjGyffPyMhZOMhoSG) | 6:01 | 2022-09-02 |  |
 | [Pranam Kanna \(Female Version\) \[From "Love Reddy"\]](https://open.spotify.com/track/5z9S8CqOtorQRdqygHemDn) | [Prince Henry](https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [Pranam Kanna \(Female Version\) \[From "Love Reddy"\]](https://open.spotify.com/album/5YGyuYFEiBAezgZL6cJ59L) | 2:46 | 2024-11-19 |  |
-| [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 | 2022-09-02 |  |
+| [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 | 2022-09-02 | 2026-03-06 |
 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 | 2022-09-02 |  |
 | [Seethakaalam](https://open.spotify.com/track/2C72bOiY3kbCgDBBznoejk) | [YAZIN](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 4:22 | 2021-05-18 |  |
 | [Sirivennela \(From "Shyam Singha Roy"\)](https://open.spotify.com/track/486AmbPabBmmDMP0HVg5BR) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mickey J\. Meyer](https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk) | [Sirivennela \(From "Shyam Singha Roy"\) \- Single](https://open.spotify.com/album/7cD0VDRtVEfnrkixMsnQV8) | 4:13 | 2022-09-02 |  |
@@ -64,6 +64,7 @@
 | [Vellipomaake](https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J) | 4:21 | 2022-09-02 |  |
 | [Waiting For You](https://open.spotify.com/track/42XgH6kQAvTOiKODWMuD9p) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 5:54 | 2022-09-02 | 2026-01-27 |
 | [Yamunatheeram](https://open.spotify.com/track/2g5t70UUP6nPpyZdyQQJz2) | [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Anand](https://open.spotify.com/album/7qe9NgxK1B9zNTyZLUF5pG) | 4:09 | 2022-09-02 | 2025-11-17 |
+| [Yedha Okka Prayamu](https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l) | [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Ashok Anand](https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn) | [Psych Siddhartha](https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw) | 3:20 | 2026-03-05 |  |
 | [Yemi Cheyamanduve](https://open.spotify.com/track/6GgP6NTpwRaokozTVyC6Be) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Priyuraalu Pilichindi](https://open.spotify.com/album/06ZpiZ28CpnSRitF4srJFc) | 6:02 | 2022-09-02 |  |
 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 | 2021-05-18 |  |
 

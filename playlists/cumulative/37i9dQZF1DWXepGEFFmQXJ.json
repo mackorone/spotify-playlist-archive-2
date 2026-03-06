@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's country crop. Cover: Max McNown",
+  "description": "The cream of today's country crop. Cover: Mack Geiger",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -2552,6 +2552,24 @@
       "duration_ms": 206498,
       "name": "Born To Be Yours",
       "url": "https://open.spotify.com/track/1Bdo8ojZ6wO1UYZxZ6Ii60"
+    },
+    {
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229905,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6"
     },
     {
       "album": {
@@ -6026,7 +6044,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 204506,
       "name": "Fire On The Hillside",
       "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
@@ -10557,6 +10575,24 @@
     },
     {
       "album": {
+        "name": "Levee",
+        "url": "https://open.spotify.com/album/2oOATNEVZTdIASHKQJDoVh"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195933,
+      "name": "Levee",
+      "url": "https://open.spotify.com/track/0oLyWbuXqkSM8mBeWs5YSj"
+    },
+    {
+      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/1ZBApW42FpN1UPruOhf2Mp"
       },
@@ -13308,7 +13344,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 185708,
       "name": "Old Tricks",
       "url": "https://open.spotify.com/track/4BUsbMXXNuLa9XpxdgxVkP"

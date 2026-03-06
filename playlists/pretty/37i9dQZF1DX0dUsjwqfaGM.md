@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,183 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,184 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,12 +30,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 | 20 | [Anh Bờ Vai](https://open.spotify.com/track/5fSjfwTHjzQovSM0VlMVD2) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 3:39 |
 | 21 | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/track/34haywJFfkSihAmCo67j01) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [ZLAB](https://open.spotify.com/artist/5YtxFNj1nNvPhd9SMsn684) | [Sau Cơn Mưa \(Live at ZLAB\)](https://open.spotify.com/album/77der7U4IMvTHglBYJfrXQ) | 2:34 |
 | 22 | [AUYEM](https://open.spotify.com/track/52LxbzBYYZ0Aoe3fAku2QP) | [kidsai](https://open.spotify.com/artist/6kkA6laUMR0hzML9YY98CQ), [Benly](https://open.spotify.com/artist/6KEi4a6Yw4sAHsdYZ3ZmKG) | [AUYEM](https://open.spotify.com/album/1VgKXjdcULZrawxxj63uGV) | 3:31 |
-| 23 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 |
+| 23 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
 | 24 | [Bồng Bềnh Bồng Bềnh](https://open.spotify.com/track/6RwBMr8gI1vvJLcAzzsMEc) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:18 |
 | 25 | [100 < 1](https://open.spotify.com/track/6kwUpCpzod4ZV5FT02SjYU) | [VƯƠNG BÌNH](https://open.spotify.com/artist/351mBX7BjjI2plbfozIzqb) | [ANH BỜ VAI](https://open.spotify.com/album/6GpNEurteQ3B3x1gY1HD2z) | 4:58 |
 | 26 | [Benz ft\. V\# \(prod\. Larria.\)](https://open.spotify.com/track/1uVpjVKIJrNtN71I5IkwmO) | [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [V\#](https://open.spotify.com/artist/3XevJv2rTKu5WYtD0LW6om), [Larria.](https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V) | [Siêu Trộm Kid \- The EP](https://open.spotify.com/album/6usk9OKVtyVMq6yd16tM8v) | 3:17 |
 | 27 | [Ẩn](https://open.spotify.com/track/2fEAbrP5PodWRONM6LVhkl) | [Teddie J](https://open.spotify.com/artist/5L6kiKUKCDWxCg3gOKDEMk), [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Ẩn](https://open.spotify.com/album/4BCmL4NwY1Kh8xX6T6oPJo) | 3:16 |
-| 28 | [City](https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [SOS/City](https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw) | 4:19 |
+| 28 | [Sau Tấm Rèm](https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX) | [NGHI](https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe) | [Sau Tấm Rèm](https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX) | 3:17 |
 | 29 | [Tan Ca](https://open.spotify.com/track/6wiZj290wIL3afV18Q0Yet) | [Vy Vy](https://open.spotify.com/artist/6H2gXTxEeGqSwsgWCIZs4j) | [Buộc Vào Cơn Gió](https://open.spotify.com/album/4basKSUKBplqhy2mMEzK6L) | 4:08 |
 | 30 | [sweet savage](https://open.spotify.com/track/7FVZZ092GLjaU2NGvP72ie) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN) | [re:imaGined \(“GB” deluxe version\)](https://open.spotify.com/album/78ugKiEPOPq1taDCRjT8p3) | 2:21 |
 | 31 | [Anh Nói Hay Em Nói \- TCO Remake](https://open.spotify.com/track/14xXTLUrseZwhq8nRGW44I) | [Ánh Sáng](https://open.spotify.com/artist/6YVVpXPqtwAZqKOPWnbNDW), [Fu liu](https://open.spotify.com/artist/37uExtaLxB5MyITRZaVXF7) | [Anh Nói Hay Em Nói \(TCO Remake\)](https://open.spotify.com/album/7ynVqpnNPuQtBOSCARjYnf) | 2:51 |

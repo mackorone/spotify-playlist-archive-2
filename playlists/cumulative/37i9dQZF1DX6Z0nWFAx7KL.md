@@ -4,7 +4,7 @@
 
 > easy breezy music ☀️☺️
 
-358 songs - 17 hr 42 min
+359 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Eyes](https://open.spotify.com/track/2cVQVhgyRPzJusXAuklkWF) | [MNI](https://open.spotify.com/artist/1k2zLLZvwvxjir7vJJuvma), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Eyes](https://open.spotify.com/album/56XTMHmxIztoBY2YFc29Gw) | 2:47 | 2022-09-15 | 2024-03-21 |
 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 | 2023-03-02 | 2024-03-21 |
 | [Eyes](https://open.spotify.com/track/7uEYsZQ6fuvvbsnGVAp8Ls) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/0r9D46GKlhSUxm4TBKr7cE) | 4:17 | 2022-09-15 | 2023-03-01 |
+| [Eyes All Over Mine](https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B) | [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Eyes All Over Mine](https://open.spotify.com/album/2sin8txJflst7fhouxDKy6) | 2:32 | 2026-03-05 |  |
 | [Eyesight](https://open.spotify.com/track/1QudET02Ckcgl4ozeWhGlA) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/3EohqBC5Dp0Hj2cXZjuTK7) | 3:13 | 2023-12-08 | 2024-04-19 |
 | [Eyesight](https://open.spotify.com/track/3cMrgJny9vGJV4IJXV9yF5) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA), [Damaui](https://open.spotify.com/artist/3FjyYauJ9oaHMUtzN8uudZ) | [Eyesight](https://open.spotify.com/album/2UmCQEJcx57QCwhGoju6bZ) | 3:13 | 2023-12-08 | 2024-12-13 |
 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 | 2022-09-15 | 2025-02-28 |
@@ -360,7 +361,7 @@
 | [Willing To Lose](https://open.spotify.com/track/35SzKreqd9kzvbnUFRM0tf) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Willing To Lose](https://open.spotify.com/album/4uPzhveNpN5GMe1j2o7iLr) | 2:20 | 2026-02-05 |  |
 | [Winter's Going](https://open.spotify.com/track/2OHlhCHFRHKpPzU6f0eM0O) | [Flantier](https://open.spotify.com/artist/7lyI1b0T23IHhqImEcAP96) | [Winter's Going](https://open.spotify.com/album/6dRC2c6YSEtP0I1QxRq3R3) | 3:20 | 2022-09-15 | 2023-03-23 |
 | [With Me](https://open.spotify.com/track/59oKLkR9ycVaCXtuTM16mp) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [With Me](https://open.spotify.com/album/4PHgNInOiBBOVFL0qNiwn2) | 3:02 | 2022-09-15 | 2022-11-17 |
-| [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 | 2024-12-05 |  |
+| [Without You](https://open.spotify.com/track/1UW7alRUtSBdx3isSCPuni) | [Addy Ace](https://open.spotify.com/artist/58ooGFd8wuWnWBhxhQLH63), [LAT.59](https://open.spotify.com/artist/2po1LPnhABSG8ELYKWnYEs) | [Without You](https://open.spotify.com/album/3e6lCMci2JTDEhQYRhFYdp) | 2:57 | 2024-12-05 | 2026-03-06 |
 | [Without You](https://open.spotify.com/track/70H0AMIuTm0brh3hznKvFu) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Without You](https://open.spotify.com/album/6BfoGzmHPWCL2DqWhehAcv) | 3:22 | 2025-02-28 | 2025-09-05 |
 | [Yellow](https://open.spotify.com/track/0Qo7CkcDDO6DqFvXD50kYm) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Tom Bailey](https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ) | [Yellow](https://open.spotify.com/album/3X0qecgrGCKkWRuZ0KfnZL) | 3:12 | 2024-10-03 | 2024-12-13 |
 | [You & Me](https://open.spotify.com/track/4uf8L5rd9P03zMtPqkxgcC) | [Sander W.](https://open.spotify.com/artist/1g3DHFTgwP8SbgH5ND8lVj), [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8) | [You & Me](https://open.spotify.com/album/2jECfxxR78sVamdmtXRZX4) | 2:28 | 2025-02-07 |  |

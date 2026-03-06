@@ -4,7 +4,7 @@
 
 > 
 
-8,489 songs - 21 day 14 hr 47 min
+8,490 songs - 21 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3645,6 +3645,7 @@
 | [Let It Go \- From "Frozen"/Soundtrack Version](https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR) | [Frozen \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0) | 3:43 | 2025-06-07 |  |
 | [Let It Happen](https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 7:47 | 2025-01-15 |  |
 | [Let Me Be With You](https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/1A84EfaPGuBdtLSEG0K0Fz) | 4:29 | 2026-01-13 |  |
+| [Let Me Be With You](https://open.spotify.com/track/6htNcBR4RpiW5b6ohUk8Mx) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/7t72sVU5CudoVwTVe91tt5) | 4:29 | 2026-03-05 |  |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2024-12-14 |  |
 | [Let Me Go](https://open.spotify.com/track/2tTyOqKFskYSQHxBGXNdhe) | [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [A Man Born Black](https://open.spotify.com/album/4ZuzPJ4oWqQ5lmXVp1Q4W1) | 3:45 | 2025-01-04 |  |
 | [Let Me Hear](https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6zf2m6QVhxsXrS0EoAR6Lg) | 3:43 | 2025-12-07 |  |

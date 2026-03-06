@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Manon Lisa",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Noor",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -2252,7 +2252,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 152866,
       "name": "la ros\u00e9e",
       "url": "https://open.spotify.com/track/5WAUuCMhOvSUjSHfPYjEGU"
@@ -2368,6 +2368,24 @@
       "duration_ms": 212600,
       "name": "La vague",
       "url": "https://open.spotify.com/track/65YhIRi1Qytr0e94f7LjSO"
+    },
+    {
+      "album": {
+        "name": "La vie d'adulte",
+        "url": "https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "La vie d'adulte",
+      "url": "https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh"
     },
     {
       "album": {
@@ -4339,6 +4357,24 @@
     },
     {
       "album": {
+        "name": "r\u00e9v\u00e9rence",
+        "url": "https://open.spotify.com/album/7D3DsoixOg9XAlQsN6OJZx"
+      },
+      "artists": [
+        {
+          "name": "Jean Castel",
+          "url": "https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166056,
+      "name": "r\u00e9v\u00e9rence",
+      "url": "https://open.spotify.com/track/6NLZCOVYmNYsviTk2Q2uDR"
+    },
+    {
+      "album": {
         "name": "R\u00eaveur, R\u00eaveur",
         "url": "https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB"
       },
@@ -4426,6 +4462,24 @@
       "duration_ms": 190426,
       "name": "sapon",
       "url": "https://open.spotify.com/track/1B8PvyOSEtzXhXuBK4nrso"
+    },
+    {
+      "album": {
+        "name": "foutus bagages",
+        "url": "https://open.spotify.com/album/4Es0pwyYblbCLgBUuOFnKN"
+      },
+      "artists": [
+        {
+          "name": "Nina Battisti",
+          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163870,
+      "name": "scooter",
+      "url": "https://open.spotify.com/track/4r6QJshe2B6RF336xuhLIO"
     },
     {
       "album": {
@@ -4794,7 +4848,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 204040,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/7kAQ5yUq5uuJfSzHunHWAR"
@@ -5220,7 +5274,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 210880,
       "name": "\u00e0 l'\u00e9troit dans ma peau",
       "url": "https://open.spotify.com/track/0IncMVyy8wiDGCxrTAATH8"

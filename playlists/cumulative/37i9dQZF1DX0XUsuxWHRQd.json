@@ -26771,6 +26771,28 @@
     },
     {
       "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2epkTConsXtPOHY9QhvqeR"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230106,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY"
+    },
+    {
+      "album": {
         "name": "Let Me Know (I Wonder Why Freestyle)",
         "url": "https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2"
       },

@@ -6995,6 +6995,24 @@
     },
     {
       "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219469,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR"
+    },
+    {
+      "album": {
         "name": "Not My Will (Deluxe)",
         "url": "https://open.spotify.com/album/3lW9WwXpVEHIsn7GYaMZnb"
       },
@@ -13065,6 +13083,32 @@
     },
     {
       "album": {
+        "name": "Church Moments",
+        "url": "https://open.spotify.com/album/7G8QBVxX1cmbIye8tc0eTw"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship",
+          "url": "https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN"
+        },
+        {
+          "name": "Jessie Harris",
+          "url": "https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421588,
+      "name": "Open The Eyes Of My Heart",
+      "url": "https://open.spotify.com/track/0Edc7CPP3hgqFfCPlGOcPX"
+    },
+    {
+      "album": {
         "name": "Our God Reigns (Over All The Earth) [Live]",
         "url": "https://open.spotify.com/album/6mSgVWFisouBbLnSvvX9pl"
       },
@@ -17112,6 +17156,32 @@
       "duration_ms": 308132,
       "name": "The Last Amen",
       "url": "https://open.spotify.com/track/4Qy1O2uY2XxfW0RKuJs8I2"
+    },
+    {
+      "album": {
+        "name": "The Lord Is With Me",
+        "url": "https://open.spotify.com/album/7raeMjldeDDo1al9hxR4BD"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Tyler Roberts",
+          "url": "https://open.spotify.com/artist/6sgNKfg3LWtqX7zvcaImo0"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363863,
+      "name": "The Lord Is With Me",
+      "url": "https://open.spotify.com/track/7ApoXFcGepvFqgvrgo3rED"
     },
     {
       "album": {

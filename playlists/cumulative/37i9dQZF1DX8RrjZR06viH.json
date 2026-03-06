@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
-  "name": "vintertid",
+  "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
+  "name": "v\u00e5r i lufta",
   "tracks": [
     {
       "album": {
@@ -262,7 +262,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 220779,
       "name": "Almost",
       "url": "https://open.spotify.com/track/5qes1Ub35CmN8xitZb3Y7u"
@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "Der du brente v\u00e5r bro - Spotify Singles",
+        "url": "https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173844,
+      "name": "Der du brente v\u00e5r bro - Spotify Singles",
+      "url": "https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9"
+    },
+    {
+      "album": {
         "name": "05050",
         "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
       },
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 201260,
       "name": "Forever Young (feat. May)",
       "url": "https://open.spotify.com/track/1Kf59Rq6P8zUVjH8PbLBot"
@@ -2096,6 +2118,24 @@
       "duration_ms": 145893,
       "name": "Her vil e v\u00e6r",
       "url": "https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX"
+    },
+    {
+      "album": {
+        "name": "Herper alt",
+        "url": "https://open.spotify.com/album/0nRhjJaw8O3VzHpu1RQ2tb"
+      },
+      "artists": [
+        {
+          "name": "Kaja Gunnufsen",
+          "url": "https://open.spotify.com/artist/5tdUPxmXm8l09CGFHOyRSa"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160011,
+      "name": "Herper alt",
+      "url": "https://open.spotify.com/track/1e2n5a34HwZWBLqW0xPyMT"
     },
     {
       "album": {
@@ -3181,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Love Freely",
+        "url": "https://open.spotify.com/album/6D8D2LMhVQ1XSk8atnhWgs"
+      },
+      "artists": [
+        {
+          "name": "Kristian Kristensen",
+          "url": "https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232044,
+      "name": "Love Freely",
+      "url": "https://open.spotify.com/track/3tzRMtdyVxmfPCmOS6vD9q"
+    },
+    {
+      "album": {
         "name": "So Long, Ruben",
         "url": "https://open.spotify.com/album/6nqDc8CPKCdWmaNysbYmfk"
       },
@@ -3594,7 +3652,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 236210,
       "name": "Movie Star",
       "url": "https://open.spotify.com/track/1so1kGUP6s6tcNzTT3Ti8C"
@@ -4214,7 +4272,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 190522,
       "name": "Real To Me",
       "url": "https://open.spotify.com/track/5mThLXcmnbDgoudfO6HBNm"
@@ -4644,7 +4702,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 300341,
       "name": "Somebody Else - Spotify Singles",
       "url": "https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh"
@@ -4888,7 +4946,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 230680,
       "name": "Spor i sn\u00f8",
       "url": "https://open.spotify.com/track/00Hpn2m6O7fInTduN987Zc"
@@ -4978,7 +5036,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 208366,
       "name": "Store gutter gr\u00e5ter ikke",
       "url": "https://open.spotify.com/track/32JhFHLRR4DGWHVg8txEK7"
@@ -4996,7 +5054,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 273760,
       "name": "Stuck in November",
       "url": "https://open.spotify.com/track/7J59EJubYljNKaxQxKMj0C"
@@ -5662,7 +5720,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 157208,
       "name": "Villblomst",
       "url": "https://open.spotify.com/track/5VGfYVvq36GeUPG4DAPUAL"

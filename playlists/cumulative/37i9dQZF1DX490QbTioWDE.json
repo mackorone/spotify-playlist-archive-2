@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Amiga - A Medio Vivir (feat. Lucas Sugo)",
+        "url": "https://open.spotify.com/album/1KSUi0LxqRfQkAxp97gfOG"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304938,
+      "name": "Amiga - A Medio Vivir (feat. Lucas Sugo)",
+      "url": "https://open.spotify.com/track/7m1Qy4NriMZ6ckFT4GbAMe"
+    },
+    {
+      "album": {
         "name": "Amigos",
         "url": "https://open.spotify.com/album/4xe04N2XAWfe6vWjCZxBHN"
       },
@@ -3186,7 +3208,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 191177,
       "name": "El Trato",
       "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"

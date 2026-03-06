@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 27362,
+  "num_followers": 27374,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABDCQw8C8gErxyr/HtOxS9/",
+  "snapshot_id": "aad2AAAAAADGNVZcH5Yfi2Lq5nkHknIv",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 136047,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA"
+      "duration_ms": 287403,
+      "name": "Reach For The Dead",
+      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 287403,
-      "name": "Reach For The Dead",
-      "url": "https://open.spotify.com/track/6ngx6PjG5Gy2y1WJl3epZQ"
+      "duration_ms": 136047,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/2wJWTSdRT4wgKAyrWtwiqA"
     },
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corymb",
-        "url": "https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG"
+        "name": "In A Beautiful Place Out In The Country",
+        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
       },
       "artists": [
-        {
-          "name": "Boom Bip",
-          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
-        },
         {
           "name": "Boards of Canada",
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 270746,
-      "name": "Last Walk Around Mirror Lake - Boards of Canada Remix",
-      "url": "https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH"
+      "duration_ms": 383693,
+      "name": "Kid For Today",
+      "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
     },
     {
       "added_at": null,
@@ -303,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "In A Beautiful Place Out In The Country",
-        "url": "https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx"
+        "name": "Corymb",
+        "url": "https://open.spotify.com/album/4xqSQIJoitX1MxaBl1nwYG"
       },
       "artists": [
+        {
+          "name": "Boom Bip",
+          "url": "https://open.spotify.com/artist/6AtkRnMQyGsdt9aldrc0dx"
+        },
         {
           "name": "Boards of Canada",
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 383693,
-      "name": "Kid For Today",
-      "url": "https://open.spotify.com/track/5jRkJXPo4SiPaTCNzn01X8"
+      "duration_ms": 270746,
+      "name": "Last Walk Around Mirror Lake - Boards of Canada Remix",
+      "url": "https://open.spotify.com/track/2iDoKVqyiCdu327FaqJCNH"
     },
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 320733,
-      "name": "Left Side Drive",
-      "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
+      "duration_ms": 69906,
+      "name": "Heard From Telegraph Lines",
+      "url": "https://open.spotify.com/track/6RvZ4phSKCNjBwhwd7iTp4"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 91146,
-      "name": "Under The Coke Sign",
-      "url": "https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch"
+      "duration_ms": 320733,
+      "name": "Left Side Drive",
+      "url": "https://open.spotify.com/track/3NrNukjXkShrtZSrA89Gc4"
     },
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 69906,
-      "name": "Heard From Telegraph Lines",
-      "url": "https://open.spotify.com/track/6RvZ4phSKCNjBwhwd7iTp4"
+      "duration_ms": 91146,
+      "name": "Under The Coke Sign",
+      "url": "https://open.spotify.com/track/67CP6JsS9XiK67JrhLg2ch"
     }
   ],
   "unique_name": "This Is Boards of Canada",

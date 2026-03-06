@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : DJ Kawest
+> Les hits zouk & kompa du moment\. Photo : Aya Nakamura
 
-381 songs - 20 hr 1 min
+382 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [ENLÈVE TOUT](https://open.spotify.com/track/46L28MTOvLiVgQK6hdJzXF) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [ENLÈVE TOUT](https://open.spotify.com/album/7zHCVP7WI2f2RlZ64VP4gD) | 2:11 | 2025-11-13 | 2026-02-13 |
 | [Et c'est OK](https://open.spotify.com/track/0bbTMG9s4X03MF1Natlhkl) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Et c'est OK](https://open.spotify.com/album/6KynR7Ct0ckq0ikF0SRiUe) | 2:24 | 2026-02-05 |  |
 | [Et si…](https://open.spotify.com/track/4AZdDYLJZzucv5k1rsa8AG) | [Kayson](https://open.spotify.com/artist/4ex04kxzPLbhN4Tfm5dTiV) | [Et si…](https://open.spotify.com/album/5Y9vOsCmJ9hxdH3L9nUB5j) | 3:03 | 2025-01-30 | 2025-03-21 |
+| [Fais tout doux](https://open.spotify.com/track/5rRnOsPhrX6eE3usDVFPnJ) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl) | [Fais tout doux](https://open.spotify.com/album/3HShmcYXjUz9u6oxLiYsLe) | 3:20 | 2026-03-05 |  |
 | [FAIT POUR TOI](https://open.spotify.com/track/3pvkYXexYNruvIEFx6pK8w) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [FAIT POUR TOI](https://open.spotify.com/album/3l7QX5xnR5MGsQBfgYRb66) | 3:44 | 2024-10-24 | 2025-04-11 |
 | [Falling in love](https://open.spotify.com/track/4m7ePEyngbSrbIlS2M10hb) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Falling in love](https://open.spotify.com/album/0WY7AA39ZJhXcFyOdnZufk) | 3:22 | 2024-07-11 | 2024-09-13 |
 | [Fan](https://open.spotify.com/track/6gx7FxxgsZXcmcUS8hBzjs) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Fan](https://open.spotify.com/album/2ROpD9Dicooqh7dtVQYMtn) | 2:58 | 2025-05-01 | 2025-10-03 |
@@ -272,7 +273,7 @@
 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 | 2023-11-23 | 2024-01-26 |
 | [POU OU ENTANN'](https://open.spotify.com/track/2PVwVPZ9an4z8F3twl15u8) | [Pix'L](https://open.spotify.com/artist/3cDIf3HM6LGZYUKQJZbHFA) | [POU OU ENTANN'](https://open.spotify.com/album/3h6N8Cviif6ktUyTCLBnyt) | 3:06 | 2024-02-29 | 2024-10-04 |
 | [POUR TOI](https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [POUR TOI](https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu) | 3:20 | 2024-06-27 | 2024-10-25 |
-| [Pour toi](https://open.spotify.com/track/0zLCsykR0dy4EjdTnwkCzL) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Pour toi](https://open.spotify.com/album/7iMyrdcy774JOLW4qD3rNb) | 2:42 | 2026-01-22 |  |
+| [Pour toi](https://open.spotify.com/track/0zLCsykR0dy4EjdTnwkCzL) | [Kipili](https://open.spotify.com/artist/6xZr3qhSDTiUTuYt49khaJ) | [Pour toi](https://open.spotify.com/album/7iMyrdcy774JOLW4qD3rNb) | 2:42 | 2026-01-22 | 2026-03-06 |
 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 | 2023-09-28 | 2024-06-21 |
 | [Première fois](https://open.spotify.com/track/6H7vZRmTPhi7wvSCaYCR53) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Première fois](https://open.spotify.com/album/6eVXFgGVMGfa7z7YE72L6q) | 2:39 | 2026-02-26 |  |
 | [Projecteurs](https://open.spotify.com/track/71hpwv9B7Ncwfw6BrZN2nE) | [Stony](https://open.spotify.com/artist/1gfXNiyfLEKouLvNPmrvLk) | [Projecteurs](https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD) | 3:00 | 2024-05-09 | 2024-06-21 |

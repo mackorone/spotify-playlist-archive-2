@@ -1715,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Medo em Cia.",
+        "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
+      },
+      "artists": [
+        {
+          "name": "Medo em Cia.",
+          "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1666146,
+      "name": "Creepypasta: Sou caminhoneiro . Parei pra ajudar uma crian\u00e7a perdida numa estrada deserta. ",
+      "url": "https://open.spotify.com/episode/0qCM5nkemEm5V8gVo0VpDz"
+    },
+    {
+      "album": {
         "name": "vibes em an\u00e1lise",
         "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
       },
@@ -2030,9 +2048,27 @@
           "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
         }
       ],
-      "date_added": "2026-03-02",
+      "date_added": "2026-03-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 2758343,
+      "name": "Episodio 40: relatos sobrenaturais",
+      "url": "https://open.spotify.com/episode/2oMZcnTG4ozCfqMRYqVG3n"
+    },
+    {
+      "album": {
+        "name": "Medo em Cia.",
+        "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
+      },
+      "artists": [
+        {
+          "name": "Medo em Cia.",
+          "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
+        }
+      ],
+      "date_added": "2026-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2026-03-06",
       "duration_ms": 1467267,
       "name": "Episodio 41: historias sobrenaturais",
       "url": "https://open.spotify.com/episode/1Y7noV5fK0ECB3XIJLKd7H"

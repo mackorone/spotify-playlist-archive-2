@@ -1521,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Gouden Handdruk",
+        "url": "https://open.spotify.com/album/3zDAMQGuzJza5R8dObj7HD"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Gouden Handdruk",
+      "url": "https://open.spotify.com/track/3HryFpTCmYuRrrIs4SMSZO"
+    },
+    {
+      "album": {
         "name": "Grow",
         "url": "https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH"
       },

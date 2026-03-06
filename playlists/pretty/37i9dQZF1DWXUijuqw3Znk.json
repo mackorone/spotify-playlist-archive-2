@@ -1,6 +1,6 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 410,
+  "num_followers": 411,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
@@ -444,7 +444,7 @@
           "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
         },
         {
-          "name": "GEMINI",
+          "name": "Gemini",
           "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
         },
         {
@@ -563,22 +563,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "UNDERGROUND ROCKSTAR",
-        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
       "artists": [
         {
-          "name": "CHANGMO",
-          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
-        },
-        {
-          "name": "DUT2",
-          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
         }
       ],
-      "duration_ms": 222014,
-      "name": "Supernova (Feat. Dut2)",
-      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
+      "duration_ms": 182500,
+      "name": "Up up and away",
+      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -615,18 +611,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+        "name": "UNDERGROUND ROCKSTAR",
+        "url": "https://open.spotify.com/album/3zNOCJUMp0IOEREqInMhug"
       },
       "artists": [
         {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "DUT2",
+          "url": "https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Up up and away",
-      "url": "https://open.spotify.com/track/5aUt8Q3qAZf1JFZhXWaRmv"
+      "duration_ms": 222014,
+      "name": "Supernova (Feat. Dut2)",
+      "url": "https://open.spotify.com/track/5by16CeSkrzyrSOrv1rdFx"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -707,30 +707,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Show Me The Money 9 Semi Final",
-        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
-      },
-      "artists": [
-        {
-          "name": "MIRANI",
-          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
-        },
-        {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Queen WA$ABII",
-          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
-        }
-      ],
-      "duration_ms": 198186,
-      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
-      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "MUGGLES' MANSION",
         "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 285281,
       "name": "StrOngerrr (Feat. Loco, MINO)",
       "url": "https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Show Me The Money 9 Semi Final",
+        "url": "https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V"
+      },
+      "artists": [
+        {
+          "name": "MIRANI",
+          "url": "https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no"
+        },
+        {
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Queen WA$ABII",
+          "url": "https://open.spotify.com/artist/5FQWaF32sJ8rXb8aPcj2VI"
+        }
+      ],
+      "duration_ms": 198186,
+      "name": "Part Time (Feat. Queen WA$ABII) (Prod. GroovyRoom)",
+      "url": "https://open.spotify.com/track/1WUyKGWYfkZ5n9hb0w3WX3"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Intro: Flight and a new beginning",
+        "url": "https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy"
+      },
+      "artists": [
+        {
+          "name": "BXB",
+          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
+        }
+      ],
+      "duration_ms": 163773,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "IT\u2032S YOUR WAY",
         "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 162901,
       "name": "24 Hours (Feat. Chin, SC4F & MADII)",
       "url": "https://open.spotify.com/track/1qucwOrgFKSZPFWbqTZZOe"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "Intro: Flight and a new beginning",
-        "url": "https://open.spotify.com/album/1KfyzpzfOiykmTDFSzotEy"
-      },
-      "artists": [
-        {
-          "name": "BXB",
-          "url": "https://open.spotify.com/artist/0h6uaOMoZvxw7P0wefWvHo"
-        }
-      ],
-      "duration_ms": 163773,
-      "name": "Fly Away",
-      "url": "https://open.spotify.com/track/0e4RRwf2f2SzKSSfZBxgdn"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1295,30 +1295,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "IT\u2032S YOUR WAY",
-        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "Ck",
-          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
-        }
-      ],
-      "duration_ms": 189834,
-      "name": "Double Up (Feat. skinny brown, CK)",
-      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/3ZSQOBLpHgNLVVWgsN7MuV"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 270558,
       "name": "Ambition and Vision",
       "url": "https://open.spotify.com/track/0RW9OdzPb3OsX3aApyoMLL"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "IT\u2032S YOUR WAY",
+        "url": "https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "Ck",
+          "url": "https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy"
+        }
+      ],
+      "duration_ms": 189834,
+      "name": "Double Up (Feat. skinny brown, CK)",
+      "url": "https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "Berry Loves My Mood",
+        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 162113,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "BREATHE",
         "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
       },
@@ -1559,18 +1575,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Berry Loves My Mood",
-        "url": "https://open.spotify.com/album/53pwI1jsG0ZYrVEa40sRws"
+        "name": "MANTA BIPOLAR, Pt. 2",
+        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
       },
       "artists": [
         {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+          "name": "VINXEN",
+          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
         }
       ],
-      "duration_ms": 162113,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/4HtYJJ2Xb8snojvr78vYiX"
+      "duration_ms": 120502,
+      "name": "GANGSHIN",
+      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1595,22 +1611,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Dirt",
-        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
-      },
-      "artists": [
-        {
-          "name": "Paloalto",
-          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
-        }
-      ],
-      "duration_ms": 160026,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "500000",
         "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
       },
@@ -1623,6 +1623,22 @@
       "duration_ms": 189750,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/1z9TQOl5KFxFPksB4weOMM"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Dirt",
+        "url": "https://open.spotify.com/album/4oZmb7ErF2dgRvVvvqgu0P"
+      },
+      "artists": [
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "duration_ms": 160026,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/3KDsMACCTk16TIuSkd5mp7"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "MANTA BIPOLAR, Pt. 2",
-        "url": "https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd"
+        "name": "Superbee's Maserati",
+        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
       },
       "artists": [
         {
-          "name": "VINXEN",
-          "url": "https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q"
+          "name": "Basick",
+          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
         }
       ],
-      "duration_ms": 120502,
-      "name": "GANGSHIN",
-      "url": "https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2"
+      "duration_ms": 230408,
+      "name": "Superbee's Maserati",
+      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1691,38 +1707,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "Superbee's Maserati",
-        "url": "https://open.spotify.com/album/4jLFaHB7Ciheu4443UMvdl"
-      },
-      "artists": [
-        {
-          "name": "Basick",
-          "url": "https://open.spotify.com/artist/7pXKdkQsYFCMG2omRxheJ2"
-        }
-      ],
-      "duration_ms": 230408,
-      "name": "Superbee's Maserati",
-      "url": "https://open.spotify.com/track/1pGoaP5ACWwcXrgnS0KDpu"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
-      },
-      "artists": [
-        {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 177220,
-      "name": "Ride it like",
-      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "It's Your Turn (Feat. Futuristic Swaver)",
         "url": "https://open.spotify.com/album/6PJegtUCcQPhdkP11FyXJt"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 193174,
       "name": "It's Your Turn (Feat. Futuristic Swaver)",
       "url": "https://open.spotify.com/track/37gsND37Afaqykeo0forwU"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 177220,
+      "name": "Ride it like",
+      "url": "https://open.spotify.com/track/7xBlwnacFIvvIKv1GEukWm"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "BREATHE",
-        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
-      },
-      "artists": [
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 188232,
-      "name": "FEELING",
-      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
         "name": "FAKE RAPPERS KILLER",
         "url": "https://open.spotify.com/album/52Htfn8fvmMajlxTlVtP4b"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 128250,
       "name": "500000",
       "url": "https://open.spotify.com/track/68CH3kN7G1Ve7TBUFICh0z"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/1bT3WfNdi5ETuvLSMIP5EW"
+      },
+      "artists": [
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 188232,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/2G0mGZLZs5R82BED7hwCEV"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1903,6 +1903,22 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
+        "name": "500000",
+        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Cheat Code",
+      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
         "name": "Good Time For The Team",
         "url": "https://open.spotify.com/album/2mqpMKVQESkoDMQWz14ikw"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 232655,
       "name": "Good Time For The Team",
       "url": "https://open.spotify.com/track/1XROjtYVZkHRwCt79VzwZc"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "500000",
-        "url": "https://open.spotify.com/album/484MapUokyWXdgKqh1F3bx"
-      },
-      "artists": [
-        {
-          "name": "REDDY",
-          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Cheat Code",
-      "url": "https://open.spotify.com/track/4dxwpBK9LAbmh7Hf1ebLoq"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -1999,18 +1999,34 @@
     {
       "added_at": "2025-11-10 09:53:18",
       "album": {
-        "name": "END OF PUBERTY",
-        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+        "name": "A SOLITARY MAN",
+        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
       },
       "artists": [
         {
-          "name": "D.Ark",
-          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
         }
       ],
-      "duration_ms": 203693,
-      "name": "APOLOGY",
-      "url": "https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA"
+      "duration_ms": 187045,
+      "name": "A SOLITARY MAN",
+      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
+    },
+    {
+      "added_at": "2025-11-10 09:53:18",
+      "album": {
+        "name": "Polodared",
+        "url": "https://open.spotify.com/album/2duUL3vrOY4kLKWbTB0yNR"
+      },
+      "artists": [
+        {
+          "name": "Polodared",
+          "url": "https://open.spotify.com/artist/1Ri5P0CfdNxdIkHX6es8Xd"
+        }
+      ],
+      "duration_ms": 136689,
+      "name": "Foul",
+      "url": "https://open.spotify.com/track/1vuDBx9G8oiinlw2KWlU0X"
     },
     {
       "added_at": "2025-11-10 09:53:18",
@@ -2035,22 +2051,6 @@
       "duration_ms": 129600,
       "name": "Yessir!",
       "url": "https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6"
-    },
-    {
-      "added_at": "2025-11-10 09:53:18",
-      "album": {
-        "name": "A SOLITARY MAN",
-        "url": "https://open.spotify.com/album/1qFLsgIIgQ46hwoCnutc3P"
-      },
-      "artists": [
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 187045,
-      "name": "A SOLITARY MAN",
-      "url": "https://open.spotify.com/track/3kCnWwL7H4HNxSOV2CwBCa"
     }
   ],
   "unique_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",

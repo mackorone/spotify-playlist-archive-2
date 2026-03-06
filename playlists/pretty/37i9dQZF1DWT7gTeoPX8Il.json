@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 163802,
+  "num_followers": 163853,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Sesal Separuh Nyawa",
+        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
+      },
+      "artists": [
+        {
+          "name": "Alyah",
+          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
+        }
+      ],
+      "duration_ms": 259977,
+      "name": "Sesal Separuh Nyawa",
+      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "SAH",
         "url": "https://open.spotify.com/album/3wa5IjTNnZX7vVVW891IDX"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 212500,
       "name": "Bukan Lagi Kita",
       "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
-        "name": "Sesal Separuh Nyawa",
-        "url": "https://open.spotify.com/album/3a4TIbbzltgMCyKl2sJdt3"
-      },
-      "artists": [
-        {
-          "name": "Alyah",
-          "url": "https://open.spotify.com/artist/2bUKiCTlseN47NCfkpDTEZ"
-        }
-      ],
-      "duration_ms": 259977,
-      "name": "Sesal Separuh Nyawa",
-      "url": "https://open.spotify.com/track/6Kqc2T2YiYLkzW6zD0GO8y"
     },
     {
       "added_at": "2026-02-20 05:28:17",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Salah Tapi Baik",
-        "url": "https://open.spotify.com/album/4HNENDyea9xr7kF2HBF4t9"
-      },
-      "artists": [
-        {
-          "name": "Safira Zaza",
-          "url": "https://open.spotify.com/artist/5NxVpojpPiq02sqDD4hWap"
-        }
-      ],
-      "duration_ms": 263709,
-      "name": "Salah Tapi Baik",
-      "url": "https://open.spotify.com/track/2WoOsj3iKTbDhIHvndRh0R"
-    },
-    {
-      "added_at": "2026-02-20 05:28:17",
-      "album": {
         "name": "Teruntuk Jantung",
         "url": "https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
+        "name": "Salah Tapi Baik",
+        "url": "https://open.spotify.com/album/4HNENDyea9xr7kF2HBF4t9"
+      },
+      "artists": [
+        {
+          "name": "Safira Zaza",
+          "url": "https://open.spotify.com/artist/5NxVpojpPiq02sqDD4hWap"
+        }
+      ],
+      "duration_ms": 263709,
+      "name": "Salah Tapi Baik",
+      "url": "https://open.spotify.com/track/2WoOsj3iKTbDhIHvndRh0R"
+    },
+    {
+      "added_at": "2026-02-20 05:28:17",
+      "album": {
         "name": "Peluk",
         "url": "https://open.spotify.com/album/6381WWH6HSyumTXAK5vr5Q"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-02-20 05:28:17",
       "album": {
-        "name": "Everlast",
-        "url": "https://open.spotify.com/album/4RQqQiwO3kTfzQI7YQfDMg"
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/35fHsrwGpL2s8YK2P4ZIjZ"
       },
       "artists": [
         {
-          "name": "Fabio Asher",
-          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
         }
       ],
-      "duration_ms": 202784,
-      "name": "Mahir Memberi Luka",
-      "url": "https://open.spotify.com/track/5hPv6XDaQzixDaYN0yRCFi"
+      "duration_ms": 220083,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/1GBDDrMNDBHAiuyj1Sbw4Y"
     }
   ],
   "unique_name": "galau rabak",

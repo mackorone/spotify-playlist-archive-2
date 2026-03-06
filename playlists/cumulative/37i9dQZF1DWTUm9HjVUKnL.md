@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Damiano David
 
-1,349 songs - 3 day 9 hr 5 min
+1,351 songs - 3 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Delaunay's Dilemma \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2T2dZS32UGZCKgZcnkFGb9) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Spotify Singles](https://open.spotify.com/album/5P0zD6LI6QX5gxlcceUUNT) | 8:10 | 2022-01-19 |  |
 | [Delicate \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/1Fj0T1XKuhRu7EZzJ7NJIK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:48 | 2022-01-19 |  |
 | [Den ljusnande framtid](https://open.spotify.com/track/7mPGqCuSYfv7apGURfkwcT) | [TUVA](https://open.spotify.com/artist/1JnThO5JIF96vaQ87QbX5Q) | [Den ljusnande framtid](https://open.spotify.com/album/5OYltiqwV4irFT89HsXp7I) | 2:59 | 2025-02-13 |  |
+| [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 | 2026-03-05 |  |
 | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Det kommer aldrig va över för mig \- Spotify Singles](https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j) | 3:11 | 2025-02-07 |  |
 | [DI MI NOMBRE \- Spotify Singles](https://open.spotify.com/track/5ReoXjSl51PomPG8rYp0Zx) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Spotify Singles](https://open.spotify.com/album/4rPjTRBqUIKSICPzURvzvm) | 2:30 | 2022-04-01 |  |
 | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/track/60jrv0KF1Uy5upBN8VTUZN) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [Didn’t Know Shit \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/6MGDXlKW5AMEduAezjbQ5f) | 3:33 | 2025-02-13 |  |
@@ -389,6 +390,7 @@
 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4p2bLiYJ59fvHWU2zbX81b) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/7DDDGdgST4NFAvtbCtrRWA) | 3:00 | 2023-10-02 | 2024-04-19 |
 | [Friends \- Spotify Singles](https://open.spotify.com/track/2KGVkBbgimzFotFamGtD2a) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [Spotify Singles](https://open.spotify.com/album/19wyFSSjj5pqoS130wwCIf) | 2:20 | 2023-09-07 |  |
 | [Frontin' \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6PXs5P69Ab5cSxWaE6Y6wd) | [Spencer Ludwig](https://open.spotify.com/artist/6miuYP0AovZaaKpRFaDQMQ) | [Spotify Singles](https://open.spotify.com/album/0bRsCrUAjvQeQZGLrDFesT) | 4:18 | 2022-01-19 |  |
+| [Frontin’ \- Spotify Singles](https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Frontin’ \- Spotify Singles](https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0) | 3:56 | 2026-03-05 |  |
 | [Frozen \- Spotify Singles](https://open.spotify.com/track/5RYQc6iLLJ4KOBxT94blVF) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC) | [Spotify Singles](https://open.spotify.com/album/1533lD31LGOMT8Usm4Y6bC) | 4:23 | 2023-08-16 |  |
 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2UhsVHj11RkpPB5sP0GcUw) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/0YppXqlu9VxA7tFteqmjMn) | 2:33 | 2022-07-05 | 2023-12-09 |
 | [Fuck They \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/39fzx9j370ejpus9l3OiYw) | [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Spotify Singles](https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P) | 2:33 | 2022-01-19 |  |

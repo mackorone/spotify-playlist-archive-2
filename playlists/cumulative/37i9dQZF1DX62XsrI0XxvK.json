@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-04-26",
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Yung Caters",
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Januarta",
   "name": "JIVVA",
   "tracks": [
     {
@@ -296,6 +296,24 @@
       "duration_ms": 248101,
       "name": "Baby (Let Me Go)",
       "url": "https://open.spotify.com/track/1SHu7U29GaqDQscph7k8Ha"
+    },
+    {
+      "album": {
+        "name": "baby baby",
+        "url": "https://open.spotify.com/album/366EcV8N6cVuZ0QYZ5Yia7"
+      },
+      "artists": [
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135223,
+      "name": "baby baby",
+      "url": "https://open.spotify.com/track/4tpuIKc3GVRxlUmOTSjO1l"
     },
     {
       "album": {
@@ -888,7 +906,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 207157,
       "name": "Denganmu",
       "url": "https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo"
@@ -1746,7 +1764,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 166736,
       "name": "How Much Love's at Stake?",
       "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
@@ -1818,7 +1836,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 167012,
       "name": "I'd Be Lost",
       "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
@@ -2010,6 +2028,24 @@
       "duration_ms": 225600,
       "name": "Jawab Aku",
       "url": "https://open.spotify.com/track/4uAzEeTdzl7vYcLvua55oc"
+    },
+    {
+      "album": {
+        "name": "Kamu Lagi",
+        "url": "https://open.spotify.com/album/0gx3y0XlQ86q4ITqEqPdy0"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Tilford",
+          "url": "https://open.spotify.com/artist/2gf6zGKR3WeY9DrWcnkLo8"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Kamu Lagi",
+      "url": "https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT"
     },
     {
       "album": {
@@ -2272,7 +2308,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 231893,
       "name": "Lagi Lagi Lagi",
       "url": "https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI"

@@ -4138,10 +4138,28 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 178348,
       "name": "animali notturni",
       "url": "https://open.spotify.com/track/2qkSLhQ0w3R02XzC5zwkr7"
+    },
+    {
+      "album": {
+        "name": "animali notturni",
+        "url": "https://open.spotify.com/album/77sko7HJ6X9DaVvkQDYcKW"
+      },
+      "artists": [
+        {
+          "name": "Malika Ayane",
+          "url": "https://open.spotify.com/artist/5jcswtptZttxBwWKXbR5k5"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178348,
+      "name": "animali notturni",
+      "url": "https://open.spotify.com/track/71ACsA53wWM5PSh4DDryEE"
     },
     {
       "album": {
@@ -17966,7 +17984,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 212271,
       "name": "En e Xanax (feat. Alfa)",
       "url": "https://open.spotify.com/track/24y5rDZTffJ8k4woQ14T9i"
@@ -17984,7 +18002,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -29572,7 +29590,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 208621,
       "name": "La felicit\u00e0 e basta",
       "url": "https://open.spotify.com/track/2Nxwny65nNZ0lYeT9p2gOq"
@@ -30188,7 +30206,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 150001,
       "name": "La Plena - W Sound 05",
       "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
@@ -40442,7 +40460,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 187698,
       "name": "Non \u00e8 mica te",
       "url": "https://open.spotify.com/track/7EOKcZX9TRkIs0nwWbCCbD"
@@ -41544,7 +41562,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 180468,
       "name": "Ogni volta che non so volare",
       "url": "https://open.spotify.com/track/5COJWRcIcK8Wn2u5G18BA5"
@@ -42506,6 +42524,10 @@
         {
           "name": "Samurai Jay",
           "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        },
+        {
+          "name": "Vito Salamanca",
+          "url": "https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y"
         }
       ],
       "date_added": "2026-02-26",

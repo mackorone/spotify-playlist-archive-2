@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59778,
+  "num_followers": 59788,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAxEZLacR6DCet4fxNfOh1XnbUBMT2p",
+  "snapshot_id": "AAAxFVtI0GnAlE2O8Eu9GFn0zgxElfL3",
   "tracks": [
     {
       "added_at": "2026-02-28 08:36:19",
@@ -203,6 +203,22 @@
     {
       "added_at": "2026-02-28 08:36:19",
       "album": {
+        "name": "Double Dream",
+        "url": "https://open.spotify.com/album/1SoG9crCMrPcns3ROgRS7U"
+      },
+      "artists": [
+        {
+          "name": "Bluhm",
+          "url": "https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle"
+        }
+      ],
+      "duration_ms": 255879,
+      "name": "Double Dream",
+      "url": "https://open.spotify.com/track/7sQOGr3lugUaG77aW8AYI2"
+    },
+    {
+      "added_at": "2026-02-28 08:36:19",
+      "album": {
         "name": "I've been a fool",
         "url": "https://open.spotify.com/album/7MqxUyqrFme3847UEKBQvQ"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 185935,
       "name": "Cannoli Filling",
       "url": "https://open.spotify.com/track/6zYGYXJ35eHbC39PGSyhHY"
-    },
-    {
-      "added_at": "2026-02-28 08:36:19",
-      "album": {
-        "name": "Double Dream",
-        "url": "https://open.spotify.com/album/1SoG9crCMrPcns3ROgRS7U"
-      },
-      "artists": [
-        {
-          "name": "Bluhm",
-          "url": "https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle"
-        }
-      ],
-      "duration_ms": 255879,
-      "name": "Double Dream",
-      "url": "https://open.spotify.com/track/7sQOGr3lugUaG77aW8AYI2"
     },
     {
       "added_at": "2026-02-28 08:36:19",

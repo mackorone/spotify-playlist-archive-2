@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,381 songs - 5 day 19 hr 6 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,385 songs - 5 day 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2290,7 +2290,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2280 | [Wasting Time](https://open.spotify.com/track/3nczBTLEklKhGnqJjbOtLP) | [Hazy Oak](https://open.spotify.com/artist/3KNkF4bGScih7yD1o08Kro) | [The Downfall](https://open.spotify.com/album/0T2Teicw5xgqPIGUgWGFtQ) | 4:10 |
 | 2281 | [Susmuyor Düşünceler](https://open.spotify.com/track/57i2TyGSm7lcBpaWz92wyA) | [Evren Uğur](https://open.spotify.com/artist/2AZPixOsGHxuc0gqq3XOy4) | [Susmuyor Düşünceler](https://open.spotify.com/album/2QbCXokbsGqAhuae9hHHvS) | 2:18 |
 | 2282 | [Dear Malibu](https://open.spotify.com/track/6MXhSdqhQGJzLX2vdVK1O0) | [Pastel Atlas](https://open.spotify.com/artist/0dOOtoPeBfIwrRKMRJlda0) | [Dear Malibu](https://open.spotify.com/album/4lV1jPMuaz8odID52UUMcV) | 2:56 |
-| 2283 | [Smoke](https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ) | [Clejan](https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl), [Ohd Beats](https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58) | [Smoke](https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11) | 2:08 |
+| 2283 | [can't catch smoke](https://open.spotify.com/track/0CcZD7BHmORK8eut285pnZ) | [Clejan](https://open.spotify.com/artist/6CbxzZHyeIz1Pig7giCufl), [Ohd Beats](https://open.spotify.com/artist/67lWlB4W8XqsGmw15U9J58) | [can't catch smoke](https://open.spotify.com/album/60QPKhJDBDoAn0CjKwQx11) | 2:08 |
 | 2284 | [Pedine \(Come Voi\)](https://open.spotify.com/track/2KPKY59Bz0qCe7TbjX2dRh) | [Jeec](https://open.spotify.com/artist/3m21RYc8hGmj86j7758WEI), [Jack Langellotti](https://open.spotify.com/artist/5zwprFEgkf4geLBHbIXQXK) | [NEW \(Tutto Quello Che Non Ti Ho Detto\)](https://open.spotify.com/album/79BmHyu8SkBV00jTNyXzUD) | 2:41 |
 | 2285 | [In the quiet of the night](https://open.spotify.com/track/0E8HI1hCSZIUg8EwvvTLTH) | [Samadhi Radio](https://open.spotify.com/artist/1Xo5Iukw1wJ05KCIy9STI8) | [In the quiet of the night](https://open.spotify.com/album/37c6qoNN7SW3sF0547OjOt) | 3:37 |
 | 2286 | [On My Own \(Live\)](https://open.spotify.com/track/26g3Bk34MqtXNS0wuO2Ire) | [Herbert Kretzmer](https://open.spotify.com/artist/7mK42D3rSMKrezfx5n4dWY), [Ray Lao](https://open.spotify.com/artist/4ke0Z6uwW8AZKFMX1AdfJf) | [On My Own \(Live\)](https://open.spotify.com/album/5lCNLhmQSKiFHmLLPAVPFb) | 2:16 |
@@ -2389,5 +2389,9 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2379 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
 | 2380 | [Lost Without You](https://open.spotify.com/track/3wNxuTadRJ2vLQsSELwh2X) | [desire](https://open.spotify.com/artist/5C4zPOwOLcREhxU3QfT4ki) | [Choices](https://open.spotify.com/album/4vRfouHu027G8gOu7bQ4sa) | 3:42 |
 | 2381 | [Driving In The Small Hours](https://open.spotify.com/track/4KaFxecTqmRPof1sHvWnZx) | [Claudio Charles Mougnaud](https://open.spotify.com/artist/70PBjonaBqdqdheT38wTsU) | [Driving In The Small Hours](https://open.spotify.com/album/1BWmJSnEnm1A6BrD7LLNEG) | 5:41 |
+| 2382 | [Black Mesa](https://open.spotify.com/track/1U3I6KECTQ7S0bFFb3VaTl) | [Nikki Manos](https://open.spotify.com/artist/277PrHYGwOzkNgxDgsfEA6) | [Black Mesa](https://open.spotify.com/album/6xB7i6b9e6ouQLdipMM2WO) | 3:11 |
+| 2383 | [Photo](https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom) | [Miles Squiers](https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v), [Morgan Turpin](https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4) | [Photo](https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj) | 2:26 |
+| 2384 | [white boy i sat next to on the plane](https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [white boy i sat next to on the plane](https://open.spotify.com/album/4cDP3rmNwvZIKouMI83ZLg) | 3:24 |
+| 2385 | [It Is What It Is](https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01) | [8 Ball Nation](https://open.spotify.com/artist/1NtVMvCpFHZQLsqsPuBwhZ) | [It Is What It Is](https://open.spotify.com/album/3ysNbsLSS7MjxAlskrzHLl) | 4:47 |
 
-Snapshot ID: `AAAJ5F4lGG7qbuZeRHrQPhyk5rxeNPZf`
+Snapshot ID: `AAAJ6CZjYpQbdSRUmMXEXrBAmkQoii1p`

@@ -1,13 +1,29 @@
 {
-  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Yung Caters",
-  "num_followers": 14008,
+  "description": "Irama R&B tanah air yang merasuk jiwa. Cover: Januarta",
+  "num_followers": 14019,
   "original_name": "JIVVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIRiH6mMxaWpr43Y6PWnOgiquGa/",
+  "snapshot_id": "AAAAAMLTJ5LtCOc7ESjTYys5ZpGAJ2bM",
   "tracks": [
+    {
+      "added_at": "2026-03-05 18:00:21",
+      "album": {
+        "name": "baby baby",
+        "url": "https://open.spotify.com/album/366EcV8N6cVuZ0QYZ5Yia7"
+      },
+      "artists": [
+        {
+          "name": "Januarta",
+          "url": "https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc"
+        }
+      ],
+      "duration_ms": 135223,
+      "name": "baby baby",
+      "url": "https://open.spotify.com/track/4tpuIKc3GVRxlUmOTSjO1l"
+    },
     {
       "added_at": "2026-02-26 19:00:07",
       "album": {
@@ -51,6 +67,22 @@
       "duration_ms": 218000,
       "name": "Tunggu Aku",
       "url": "https://open.spotify.com/track/0jCDcmdQ4IjqLNH8qv9x5U"
+    },
+    {
+      "added_at": "2026-03-05 18:00:21",
+      "album": {
+        "name": "Kamu Lagi",
+        "url": "https://open.spotify.com/album/0gx3y0XlQ86q4ITqEqPdy0"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Tilford",
+          "url": "https://open.spotify.com/artist/2gf6zGKR3WeY9DrWcnkLo8"
+        }
+      ],
+      "duration_ms": 165625,
+      "name": "Kamu Lagi",
+      "url": "https://open.spotify.com/track/5iEExVSeZBQc5sbUv1JxlT"
     },
     {
       "added_at": "2026-02-26 19:00:07",
@@ -721,22 +753,6 @@
       "url": "https://open.spotify.com/track/6IpniKTQXAEjc2erLByfo2"
     },
     {
-      "added_at": "2025-11-06 17:30:33",
-      "album": {
-        "name": "A Little Bit Dramatic",
-        "url": "https://open.spotify.com/album/0CH6kIXtMB46QJ3H4akna3"
-      },
-      "artists": [
-        {
-          "name": "Amabel Odelia",
-          "url": "https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Denganmu",
-      "url": "https://open.spotify.com/track/1iLAa3zLXL64rHdqKHsWDo"
-    },
-    {
       "added_at": "2025-10-16 17:00:27",
       "album": {
         "name": "Forevermore",
@@ -819,30 +835,6 @@
       "duration_ms": 206718,
       "name": "Mulai",
       "url": "https://open.spotify.com/track/2gfuoYUfvZwcolvIcpV0ic"
-    },
-    {
-      "added_at": "2025-10-16 17:00:27",
-      "album": {
-        "name": "A SINNER WHO WILL DIE SINGING",
-        "url": "https://open.spotify.com/album/1GADp4d6kTo2dOuuQQnwVY"
-      },
-      "artists": [
-        {
-          "name": "Azimah Fada",
-          "url": "https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9"
-        },
-        {
-          "name": "Rhesa Siregar",
-          "url": "https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS"
-        },
-        {
-          "name": "Grill Dg Lopo",
-          "url": "https://open.spotify.com/artist/0wyjg41UeDkSPH2zPawbNb"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "How Much Love's at Stake?",
-      "url": "https://open.spotify.com/track/6p12a8y5vpkcp7PZa8FFvo"
     },
     {
       "added_at": "2025-10-16 17:00:27",
@@ -993,26 +985,6 @@
       "url": "https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY"
     },
     {
-      "added_at": "2025-09-18 17:00:31",
-      "album": {
-        "name": "Lagi Lagi Lagi",
-        "url": "https://open.spotify.com/album/2CzW3RNkzaPxuKfTyEMgTP"
-      },
-      "artists": [
-        {
-          "name": "Haira",
-          "url": "https://open.spotify.com/artist/35U82BI9FvOGL8BW2fa8Db"
-        },
-        {
-          "name": "Kafin Sulthan",
-          "url": "https://open.spotify.com/artist/59etqRZfBHKypG44RjjDCq"
-        }
-      ],
-      "duration_ms": 231893,
-      "name": "Lagi Lagi Lagi",
-      "url": "https://open.spotify.com/track/7Fzz5hweenr8sAJFiyckVI"
-    },
-    {
       "added_at": "2025-08-21 19:00:33",
       "album": {
         "name": "Orang Biasa",
@@ -1131,22 +1103,6 @@
       "duration_ms": 205442,
       "name": "Buktinya Baik-Baik Saja",
       "url": "https://open.spotify.com/track/3cn9Fhd4UbxokJLDFLYZgK"
-    },
-    {
-      "added_at": "2025-07-17 17:28:01",
-      "album": {
-        "name": "I'd Be Lost",
-        "url": "https://open.spotify.com/album/1Ara6BAU1y3rUWymQRSJij"
-      },
-      "artists": [
-        {
-          "name": "Thee Marloes",
-          "url": "https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE"
-        }
-      ],
-      "duration_ms": 167012,
-      "name": "I'd Be Lost",
-      "url": "https://open.spotify.com/track/5WxdR1qBMw71xC4cTMYjYW"
     },
     {
       "added_at": "2025-07-17 17:28:01",

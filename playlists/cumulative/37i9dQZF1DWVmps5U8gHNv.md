@@ -4,7 +4,7 @@
 
 > A collection of classics from the height of the folk revival to the rise of the folk rock era\. Cover: Bob Dylan
 
-195 songs - 12 hr 24 min
+196 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [He Was A Friend Of Mine](https://open.spotify.com/track/0SBKfRSXhufWiYJw2yTNHq) | [Dave Van Ronk](https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz) | [On Air](https://open.spotify.com/album/43QpgiJG3ftrFXsFhb6Wi8) | 3:21 | 2021-08-18 |  |
 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/0OXmUaY4ajGoQ7JOAzotQJ) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/3m7nQ3mxkpE61tzgH8l1XD) | 2:37 | 2021-08-18 | 2022-03-09 |
 | [Here Comes The Sun](https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw) | [Richie Havens](https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p) | [Live At The Cellar Door and at the Santa Monica Civic Auditorium](https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2) | 4:14 | 2021-08-18 |  |
+| [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 | 2026-03-05 |  |
 | [Hobo's Lullaby](https://open.spotify.com/track/1DaFWh2oVsjlFmr33fB8oJ) | [Arlo Guthrie](https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw) | [Hobo's Lullaby \(Remastered 2004\)](https://open.spotify.com/album/1TVGltjpKHMosS4yQ8EmRH) | 3:57 | 2021-08-18 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 | 2021-08-18 |  |
 | [House Of The Rising Sun](https://open.spotify.com/track/2CKC8sKbFIZUplGuaEb1jG) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [House Of The Rising Sun](https://open.spotify.com/album/7dA18mYcTIDhe6esrD9vcC) | 2:54 | 2021-08-18 | 2022-03-09 |

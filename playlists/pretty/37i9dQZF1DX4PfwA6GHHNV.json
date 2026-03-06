@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22908,
+  "num_followers": 22912,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -523,30 +523,6 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
-        "name": "Baile Em Chamas",
-        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
-      },
-      "artists": [
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "DJ 2L da Rocinha",
-          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Baile Em Chamas",
-      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
-    },
-    {
-      "added_at": "2026-03-02 15:36:05",
-      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -567,6 +543,30 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
+    },
+    {
+      "added_at": "2026-03-02 15:36:05",
+      "album": {
+        "name": "Baile Em Chamas",
+        "url": "https://open.spotify.com/album/4oFHjLe2BbGvDpfphCCkBV"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        },
+        {
+          "name": "DJ 2L da Rocinha",
+          "url": "https://open.spotify.com/artist/5DwizTSMRuMOEM1ylVOUYP"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Baile Em Chamas",
+      "url": "https://open.spotify.com/track/5Inqosk5KZ1OHZqp36Xrid"
     },
     {
       "added_at": "2026-03-02 15:36:05",
@@ -647,6 +647,26 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
+        "name": "QUERO (AI AI AI)",
+        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
+      },
+      "artists": [
+        {
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+        },
+        {
+          "name": "Thifany Kauany",
+          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
+        }
+      ],
+      "duration_ms": 132244,
+      "name": "QUERO (AI AI AI)",
+      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
+    },
+    {
+      "added_at": "2026-03-02 15:36:05",
+      "album": {
         "name": "Bandidas Tamb\u00e9m Falam de Amor",
         "url": "https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 143551,
       "name": "Bonita & Gostosa",
       "url": "https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb"
-    },
-    {
-      "added_at": "2026-03-02 15:36:05",
-      "album": {
-        "name": "QUERO (AI AI AI)",
-        "url": "https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx"
-      },
-      "artists": [
-        {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
-        },
-        {
-          "name": "Thifany Kauany",
-          "url": "https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL"
-        }
-      ],
-      "duration_ms": 132244,
-      "name": "QUERO (AI AI AI)",
-      "url": "https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1"
     },
     {
       "added_at": "2026-03-02 15:36:05",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
-        "name": "Gingado",
-        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
+        "name": "BRINDE",
+        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
       },
       "artists": [
         {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+          "name": "Yan Cloud",
+          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
         },
         {
-          "name": "DIMELLABS",
-          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
+          "name": "Avicena",
+          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
         }
       ],
-      "duration_ms": 147125,
-      "name": "Gingado",
-      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
+      "duration_ms": 176400,
+      "name": "BRINDE",
+      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
     },
     {
       "added_at": "2026-03-02 15:36:05",
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2026-03-02 15:36:05",
       "album": {
-        "name": "BRINDE",
-        "url": "https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac"
+        "name": "Gingado",
+        "url": "https://open.spotify.com/album/3FEL97ooyFfpzxruDM6HBI"
       },
       "artists": [
         {
-          "name": "Yan Cloud",
-          "url": "https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP"
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
         },
         {
-          "name": "Avicena",
-          "url": "https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L"
+          "name": "DIMELLABS",
+          "url": "https://open.spotify.com/artist/3jhKiT3Vs47GPa03YxJyG9"
         }
       ],
-      "duration_ms": 176400,
-      "name": "BRINDE",
-      "url": "https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8"
+      "duration_ms": 147125,
+      "name": "Gingado",
+      "url": "https://open.spotify.com/track/2f1WwFtdxF8QoJBetGSwq2"
     },
     {
       "added_at": "2026-03-02 15:36:05",

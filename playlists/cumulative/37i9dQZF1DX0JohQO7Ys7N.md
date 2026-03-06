@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Hildah Watiri & Kyrop
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Karun
 
-312 songs - 17 hr 38 min
+314 songs - 17 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-24 | 2025-02-14 |
 | [Aibu \(feat\. Bien\)](https://open.spotify.com/track/1cBRn1Gp5RbFi4sVDN3v1A) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu \(feat\. Bien\)](https://open.spotify.com/album/6W4ZbKDYOh7ZPB4KGm5iZ0) | 2:17 | 2024-03-07 | 2025-02-21 |
 | [Aki Sioni](https://open.spotify.com/track/4OQFHjQA3gzS3LiGjSALmT) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Aki Sioni](https://open.spotify.com/album/4x5B7vS4XOQJqIUhndL1tr) | 3:03 | 2024-12-19 |  |
-| [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2021-12-28 |  |
+| [Aki Wewe](https://open.spotify.com/track/2ee6ViIobYyu2rLwiVmNIA) | [Kwame Rígíi](https://open.spotify.com/artist/2YBmXbjqDbsGjTB9vMbuNf) | [Aki Wewe](https://open.spotify.com/album/3zW32TzDG8V20HM7A8NdOO) | 4:27 | 2021-12-28 | 2026-03-06 |
 | [All Your Blues](https://open.spotify.com/track/6Ge3IsYVNrekRzc9fiLtlb) | [Altair Saïd](https://open.spotify.com/artist/6QJj1KD71boYPVql87xBGJ) | [Time Allows](https://open.spotify.com/album/5OaWBtvTwoJk01EuaIabeV) | 3:35 | 2023-11-30 | 2025-10-03 |
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 | 2024-05-17 |
 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 | 2025-02-13 | 2025-02-21 |
@@ -48,6 +48,7 @@
 | [Cup of Tea](https://open.spotify.com/track/3X9wpDXE32ZXThM7DcaLEX) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [24](https://open.spotify.com/album/0RW2NeIliH2Ab8rMSz9uHQ) | 2:49 | 2024-06-27 | 2025-01-31 |
 | [Dark brown eyes](https://open.spotify.com/track/5ivSF8Xb7SaOnXYM1IvVcv) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Storm](https://open.spotify.com/album/6dx0pqvhjxik4vrl9v65RD) | 3:48 | 2021-12-28 | 2025-02-14 |
 | [Dark brown eyes](https://open.spotify.com/track/7JO63lzm9CxlxKR26j0Vog) | [Manasseh Shalom](https://open.spotify.com/artist/0l5DAChk60zrPxl18DGUT7) | [Dark brown eyes](https://open.spotify.com/album/5WtE9QFgyUpyviMoDpod8J) | 3:48 | 2021-12-28 | 2024-04-19 |
+| [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 | 2026-03-05 |  |
 | [DEATH DO US PART](https://open.spotify.com/track/6ptCZtRoGTKHxHtoaUnB3P) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [DEATH DO US PART](https://open.spotify.com/album/6Cov4kqIcPwIHhpDfZWD3a) | 3:42 | 2025-08-14 |  |
 | [Decide](https://open.spotify.com/track/2KgzIprRCaUMG28E9k9yFo) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Four Letter Word](https://open.spotify.com/album/14RN20kRB6ZYdfJZgyUMbF) | 3:05 | 2025-02-13 | 2025-02-21 |
 | [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-10 |  |
@@ -104,6 +105,7 @@
 | [Heri](https://open.spotify.com/track/0wJektS8zzF1OinfLbRTTU) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 4:01 | 2025-07-17 |  |
 | [Hit Me Up](https://open.spotify.com/track/09XIfMbZ7hLoa1Ae4R0mdg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Hit Me Up](https://open.spotify.com/album/69jV1c5wIirVWVyaZpiLuj) | 3:42 | 2021-12-28 | 2022-05-20 |
 | [Hivyo](https://open.spotify.com/track/7I0gVer3b94T9aoRSRqGEw) | [Ethan](https://open.spotify.com/artist/16VZMbA7y5gwrxNG0q3wC1) | [Hivyo](https://open.spotify.com/album/0DDhl9xlbotJWZ7yihik6B) | 3:18 | 2023-03-23 | 2024-01-27 |
+| [Hold Me](https://open.spotify.com/track/4ZeGRehi5kL2TL4Lkc30Cw) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Bigfootinyourface](https://open.spotify.com/artist/5Wg3j4bae153nI07R2tRSy), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Eternal](https://open.spotify.com/album/50LpyVLTSFsbTQTLlFiSz7) | 4:21 | 2026-03-05 |  |
 | [Home](https://open.spotify.com/track/10xrx94SPkwD7Kf3ynXCED) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Home](https://open.spotify.com/album/2Xt2Uq1c96N7rRKfmWQPNW) | 4:12 | 2022-06-10 | 2024-02-16 |
 | [Hooptie Dreaming](https://open.spotify.com/track/24RziR14e8PcXwQE0PjARY) | [N'Jiru](https://open.spotify.com/artist/2NnV2nK0CtM7lWAdI0iQkZ) | [9](https://open.spotify.com/album/5UmCWZYsFIfjTQM9qcBdQk) | 3:20 | 2025-10-02 |  |
 | [How Do I Love You?](https://open.spotify.com/track/0ORidvLztLQP8FlTt3D6Wv) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [How Do I Love You?](https://open.spotify.com/album/4Z3COKGKGS2f7TOhO3wnQE) | 3:49 | 2025-08-14 |  |
@@ -155,7 +157,7 @@
 | [Lonely In Nairobi](https://open.spotify.com/track/6ilStQsc2cozlrjmseAJ7N) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [Lonely In Nairobi](https://open.spotify.com/album/3O3f7B13CuboRb9Pbv505l) | 3:09 | 2021-12-28 | 2022-07-16 |
 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 | 2025-07-17 |  |
 | [Love](https://open.spotify.com/track/6c5Ra1OA4oYbwvyVvo3BMi) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u) | [Love](https://open.spotify.com/album/71d2voVpwF5OY2pdAtU2IC) | 3:40 | 2022-01-20 | 2022-04-29 |
-| [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-09-13 |  |
+| [Love Ballad No.6](https://open.spotify.com/track/1tCzBDnOACQQxwM1YYKw3d) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Love Ballad No.6](https://open.spotify.com/album/2T2zu2SlQVmfzBGcgsV4qh) | 4:45 | 2024-09-13 | 2026-03-06 |
 | [Love Me or Leave Me](https://open.spotify.com/track/4K5F02hRfBL8m1s0QXs6bO) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Maybe](https://open.spotify.com/album/0MpZuzKe0xHwbLOnDiyCqt) | 3:25 | 2022-11-24 | 2023-09-01 |
 | [Love on me](https://open.spotify.com/track/6Ry7RTz5becrzrhVL9ol79) | [Atemi Oyungu](https://open.spotify.com/artist/0dMogZzQ1xyJ6B7Oo5RJeY) | [Love on me](https://open.spotify.com/album/3WSH8cxyBbSpzjzhTo3ayA) | 4:56 | 2025-02-07 | 2026-01-30 |
 | [Love Somebody](https://open.spotify.com/track/23Lpx06nI7zNXMQGfBc6fr) | [VISILA](https://open.spotify.com/artist/7KRQBvTwiUh0l5ylQsRttK) | [Love Somebody](https://open.spotify.com/album/7leuw9dFN1tJtTqWR24cwu) | 3:00 | 2024-09-19 | 2025-09-06 |

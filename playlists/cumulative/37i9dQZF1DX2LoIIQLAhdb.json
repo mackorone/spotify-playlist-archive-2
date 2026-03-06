@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : DAKEEZ",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Franglish",
   "name": "R&Bae",
   "tracks": [
     {
@@ -68,6 +68,24 @@
       "duration_ms": 135000,
       "name": "20\u00e8me symphonie",
       "url": "https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/6siQKB9fIqYJYerGT2lgIC"
+      },
+      "artists": [
+        {
+          "name": "HARON",
+          "url": "https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121613,
+      "name": "21",
+      "url": "https://open.spotify.com/track/0UzGB980ZKeN3J5SfqKi2B"
     },
     {
       "album": {
@@ -230,7 +248,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 158930,
       "name": "Aime-moi, m\u00eame..",
       "url": "https://open.spotify.com/track/6fyPNAUQ6Hb78xEKwzdZ5b"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 204000,
       "name": "BISOUS",
       "url": "https://open.spotify.com/track/1ezI3EwAdJEmSxlfwdLzli"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 157441,
       "name": "Derniers mots",
       "url": "https://open.spotify.com/track/1uWdCgaUMyzqwdCfYED5IF"
@@ -6344,7 +6362,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 161951,
       "name": "Lover dose",
       "url": "https://open.spotify.com/track/7iMzJHGiB93zZlDfhgIZVB"
@@ -6800,7 +6818,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 134173,
       "name": "Maman",
       "url": "https://open.spotify.com/track/0Jb2FpuE5OfuUzwkkd6hSo"
@@ -9213,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Pression",
+        "url": "https://open.spotify.com/album/5B47198bhoTCOhMDrSPHuB"
+      },
+      "artists": [
+        {
+          "name": "Oordaya",
+          "url": "https://open.spotify.com/artist/7JWxRPYnCGaZPh1L44NWtY"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173142,
+      "name": "Pression",
+      "url": "https://open.spotify.com/track/2KLfIFfR1PLMXvMthsuAWK"
+    },
+    {
+      "album": {
         "name": "Prie Pour Moi",
         "url": "https://open.spotify.com/album/7GQlUc3nmWlRkCtQU74Cup"
       },
@@ -9636,6 +9672,24 @@
       "duration_ms": 174061,
       "name": "Rassure-toi",
       "url": "https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0"
+    },
+    {
+      "album": {
+        "name": "Ratpee",
+        "url": "https://open.spotify.com/album/4sZ9dczMkdTEz5jI3X1uxR"
+      },
+      "artists": [
+        {
+          "name": "Erwann",
+          "url": "https://open.spotify.com/artist/7JwYIB7nmV29E6Etk6crc1"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161119,
+      "name": "Ratpee",
+      "url": "https://open.spotify.com/track/5SGigZp4N2psWX9qndgjcw"
     },
     {
       "album": {
@@ -11856,6 +11910,42 @@
       "duration_ms": 162453,
       "name": "TPMP",
       "url": "https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb"
+    },
+    {
+      "album": {
+        "name": "Love & Sugar",
+        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W"
+    },
+    {
+      "album": {
+        "name": "Love & Sugar",
+        "url": "https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 8",
+      "url": "https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7"
     },
     {
       "album": {

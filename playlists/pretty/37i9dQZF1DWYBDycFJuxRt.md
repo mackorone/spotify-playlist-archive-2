@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 嵐 \*👉 <a href="https://spice.eplus.jp/articles/344477">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,445 likes - 82 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,515 likes - 82 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 60 | [Good Life](https://open.spotify.com/track/1Efmb4opU0bOflzB6F0lNY) | [SHE'S](https://open.spotify.com/artist/6TNooB9HDJ9Xs1GFPl2Fiv) | [Good Life](https://open.spotify.com/album/0ua5DnZ6ryIOKYd1KCnqvS) | 3:43 |
 | 61 | [不器用な僕らの歌](https://open.spotify.com/track/6i3J1Phb5cOuVcmswcfHD1) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [不器用な僕らの歌](https://open.spotify.com/album/56qtJnNoIgWdPE5JU9g4Wl) | 4:17 |
 | 62 | [Bounce](https://open.spotify.com/track/1v53RaHhgSjWYQMUDKiCIH) | [Rek](https://open.spotify.com/artist/1HY1yYXYYav6inZs0ZLoSz) | [何度だって](https://open.spotify.com/album/6YgllWjxKw9S2w4IJGaGMc) | 2:54 |
-| 63 | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/track/5aghfxUEiaX17pkZCiqATq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/album/0ZuOdA2XI2JpxGGf033fwk) | 2:58 |
+| 63 | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/track/5aghfxUEiaX17pkZCiqATq) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO), [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Tokyo Midnight feat\. TOKYO世界](https://open.spotify.com/album/0ZuOdA2XI2JpxGGf033fwk) | 2:58 |
 | 64 | [Fingerprints](https://open.spotify.com/track/6LXsZxKtwN62Tybwf9UvJb) | [SUPER★DRAGON](https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W) | [Break off](https://open.spotify.com/album/1hQZto6qYZYsX0XZ4yeTew) | 3:50 |
 | 65 | [光源](https://open.spotify.com/track/2MPm0NrgPoMr6ee7je9afe) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [光源](https://open.spotify.com/album/1mHUQgM4Jy4XZ4nmjrHg9e) | 3:47 |
 | 66 | [傲慢](https://open.spotify.com/track/47kk5xBjzJwbn6UrrjMOlF) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [傲慢](https://open.spotify.com/album/7JLfmfzNxyj5C6SW0LzPDP) | 3:30 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 68 | [宿世拙し](https://open.spotify.com/track/2x41m98wgQ6rNTSuasZcdE) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [ウゴーの短編集](https://open.spotify.com/album/05b10JVKe3WXOtdc96axUj) | 2:58 |
 | 69 | [Private Party](https://open.spotify.com/track/1Mdxayb6tLh6m3f4MpMvD2) | [はいから東京](https://open.spotify.com/artist/1zf5JQjekWY6zGOwWz2oyv) | [Private Party](https://open.spotify.com/album/6x7J8gJohaHTPqbIaCaR7v) | 4:00 |
 | 70 | [Sakura Hanabira](https://open.spotify.com/track/1aHHD9NPDtUX9Pl0kya4vo) | [ジ・エンプティ](https://open.spotify.com/artist/3p6DykZwSDYVolqQyaFtvf) | [Sakura Hanabira](https://open.spotify.com/album/0Yb6fqp74cNVn6olPUq2yx) | 3:19 |
-| 71 | [Nokoriga no Heyade](https://open.spotify.com/track/4r6UeqFPp7KxBY0J7aUuoE) | [Nekowaekitai](https://open.spotify.com/artist/1KX2NNKJbcEs2tJBgnnQZ0) | [Ushirogami wo Hikarete](https://open.spotify.com/album/62z61iTaSv0oExbPYVpMaF) | 5:33 |
+| 71 | [Nokoriga no Heyade](https://open.spotify.com/track/4r6UeqFPp7KxBY0J7aUuoE) | [猫は液体](https://open.spotify.com/artist/75sQ2KYzXjlE2xuBMOu1bp) | [Ushirogami wo Hikarete](https://open.spotify.com/album/62z61iTaSv0oExbPYVpMaF) | 5:33 |
 | 72 | [トラストフォール](https://open.spotify.com/track/2gye4ERAfgttO9sCm56AaJ) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [トラストフォール](https://open.spotify.com/album/2v83WTF5BbwwBxHMKXdovN) | 2:32 |
 | 73 | [春先](https://open.spotify.com/track/3n7ZTI2IGYzgCg0A1glrH3) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [春先](https://open.spotify.com/album/2qvzOm47enJgOI8J0pUxGV) | 3:55 |
 | 74 | [Get Back](https://open.spotify.com/track/0jE4FRxlQD2Qw7BOKpaphM) | [カナイリョウタ](https://open.spotify.com/artist/73P92tkn9tgUnfhVFfGOzh) | [Get Back](https://open.spotify.com/album/41aSpa4SisAk7sW7CAdwh2) | 2:50 |

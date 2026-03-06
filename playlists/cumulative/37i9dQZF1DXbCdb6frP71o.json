@@ -1661,6 +1661,28 @@
     },
     {
       "album": {
+        "name": "Noor",
+        "url": "https://open.spotify.com/album/0qnWTjT4Qkz5zco7wdmsz7"
+      },
+      "artists": [
+        {
+          "name": "Sami Yusuf",
+          "url": "https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj"
+        },
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399898,
+      "name": "Noor",
+      "url": "https://open.spotify.com/track/6exxrgkGiWnUmJMODhqxUj"
+    },
+    {
+      "album": {
         "name": "Noor Allah",
         "url": "https://open.spotify.com/album/6hcyC3XEya6ydk6nURrkuO"
       },
@@ -1764,6 +1786,32 @@
       "duration_ms": 280588,
       "name": "Qaseeda Burda Shareef",
       "url": "https://open.spotify.com/track/6wQTskURp6UjXLCTKgGPXR"
+    },
+    {
+      "album": {
+        "name": "Qaseeda Burda Shareef",
+        "url": "https://open.spotify.com/album/3MecTNycRIaPKRItlpGNER"
+      },
+      "artists": [
+        {
+          "name": "Fariha Pervez",
+          "url": "https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd"
+        },
+        {
+          "name": "Humaira Arshad",
+          "url": "https://open.spotify.com/artist/3jJRl9bVaEMShvhvxzlQWh"
+        },
+        {
+          "name": "Alhaj Muhammad Afzal Noshahi",
+          "url": "https://open.spotify.com/artist/10iv6CBPUxA12woIYzv7jF"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357761,
+      "name": "Qaseeda Burda Shareef",
+      "url": "https://open.spotify.com/track/5SF9JwhXwcFpcEUPVUUNwI"
     },
     {
       "album": {
@@ -1996,6 +2044,24 @@
       "duration_ms": 275413,
       "name": "Shan E Ramzan",
       "url": "https://open.spotify.com/track/4hylxbiNeIuj997IECSmqd"
+    },
+    {
+      "album": {
+        "name": "Sohna Nabi (PBUH)",
+        "url": "https://open.spotify.com/album/732cuGNUAZRabJNxL5UQQt"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310736,
+      "name": "Sohna Nabi (PBUH)",
+      "url": "https://open.spotify.com/track/0Nh72BqVEqfIcJNxIBzNac"
     },
     {
       "album": {

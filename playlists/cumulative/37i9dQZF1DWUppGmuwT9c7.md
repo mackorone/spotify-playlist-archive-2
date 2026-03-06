@@ -4,7 +4,7 @@
 
 > De grootste hits uit de kroeg in één playlist.
 
-151 songs - 7 hr 18 min
+152 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 | 2025-07-14 |  |
 | [Bonte Avond](https://open.spotify.com/track/3OwiBXdE9Rzu0hi3paV0w9) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Bonte Avond](https://open.spotify.com/album/2SHtV85XBq6Ox1IXZz1PQS) | 2:47 | 2025-09-25 |  |
 | [Carrousel](https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1) | [Monique Smit](https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv) | [Carrousel](https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J) | 2:46 | 2025-07-14 |  |
+| [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 | 2026-03-05 |  |
 | [Dans Met Jou](https://open.spotify.com/track/3cjdrjSNjpSped2kxFN2a2) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Dans Met Jou](https://open.spotify.com/album/0CmqgJZW6zjFfi4k2rwYoZ) | 2:11 | 2025-08-26 |  |
 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 | 2025-10-16 |  |
 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 | 2026-02-26 |  |
@@ -143,7 +144,7 @@
 | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/track/74U65fkMdtaTUaj8tLn8fP) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Waarom Kan Het Leven Zo Gemeen Zijn](https://open.spotify.com/album/32D5fvlYvBAI2Carsbacqe) | 2:55 | 2025-10-16 | 2025-11-07 |
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-14 |  |
 | [Wat Een Plezier](https://open.spotify.com/track/2EQADDlKBRcITByxWX5upT) | [Danny De Munk](https://open.spotify.com/artist/5Mww2P8ni50lmfOTsBmGHn) | [Wat Een Plezier](https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K) | 2:36 | 2025-07-14 | 2025-08-09 |
-| [Wat Heb Je Gedaan ?](https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Wat Heb Je Gedaan ?](https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl) | 2:32 | 2025-12-11 |  |
+| [Wat Heb Je Gedaan ?](https://open.spotify.com/track/0IljWFpIc75avph7Bk93Oa) | [Rinus Werrens](https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU) | [Wat Heb Je Gedaan ?](https://open.spotify.com/album/7fBipyDft5KH60MPo34sxl) | 2:32 | 2025-12-11 | 2026-03-06 |
 | [Wat Is Dan Liefde \- Hazes Is De Basis](https://open.spotify.com/track/07jhRADuYVbpnmanPyoNQ2) | [Silver Metz](https://open.spotify.com/artist/3w4VjT1j3QVUuc63Aq9Nyt) | [Wat Is Dan Liefde](https://open.spotify.com/album/62HLijQSSFCY1yP8TMpqyl) | 2:36 | 2025-07-14 |  |
 | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/track/4Thwkrx5Qf6sCskcEy4ucF) | [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Wat Zou Ik Daarvoor Moeten Doen](https://open.spotify.com/album/1f4OPOd7un2KA8WPLccIXe) | 3:09 | 2025-07-14 | 2025-09-05 |
 | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/track/6S3eaVWKuKmsNyvF1dw5op) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2), [Nelis Leeman](https://open.spotify.com/artist/4A3IBBCIWvHw5LowCbFVbE) | [We Gaan Vanavond Naar De Kroeg](https://open.spotify.com/album/2pZijjTGEG1GWxMfiV9EgN) | 2:51 | 2025-07-14 |  |

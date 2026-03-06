@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Wat kan het Nederlands toch mooi zijn. Cover: WIES",
+  "description": "Wat kan het Nederlands toch mooi zijn. Cover: Pip Lieke Lucas",
   "name": "Mooi Nederlands",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 225666,
       "name": "Anne",
       "url": "https://open.spotify.com/track/33fJyGfQksR6hDzJCJUkrg"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 280912,
       "name": "Dan ben jij weer hier (feat. Red Limo Quartet)",
       "url": "https://open.spotify.com/track/6ec3NKQLnV7LcV319qvHan"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Donkere Wolken",
+        "url": "https://open.spotify.com/album/2uLQ1u7EImSvpGq0iFa0aN"
+      },
+      "artists": [
+        {
+          "name": "Iris Penning",
+          "url": "https://open.spotify.com/artist/44MTZ4Gl4TGilst3cCDq9G"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181403,
+      "name": "Donkere Wolken",
+      "url": "https://open.spotify.com/track/7n7kMw9aRdsYv6G6akTwOu"
+    },
+    {
+      "album": {
         "name": "Beste Zangers Seizoen 2020 (Miss Montreal)",
         "url": "https://open.spotify.com/album/51TTjYKKpHX2zlaRejnpaS"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 260819,
       "name": "Geef Mij Nog Deze Nacht - Ballad Versie",
       "url": "https://open.spotify.com/track/1VaFtGkRffdvluTUSNcUiQ"
@@ -1940,6 +1958,24 @@
       "duration_ms": 228146,
       "name": "Ik zou iets willen zeggen",
       "url": "https://open.spotify.com/track/5xnKi7AA2XY0oj1t6aXljJ"
+    },
+    {
+      "album": {
+        "name": "Ik Zwaai Je Uit",
+        "url": "https://open.spotify.com/album/4YtvLcjAsAS9BFRp35GLTM"
+      },
+      "artists": [
+        {
+          "name": "Pip Lieke Lucas",
+          "url": "https://open.spotify.com/artist/3eWGqcshWI4ujDmuzyKYl0"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191052,
+      "name": "Ik Zwaai Je Uit",
+      "url": "https://open.spotify.com/track/5Gs7tyCa8PArZ5d8zMK5w3"
     },
     {
       "album": {
@@ -3133,6 +3169,24 @@
     },
     {
       "album": {
+        "name": "Oktober",
+        "url": "https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW"
+      },
+      "artists": [
+        {
+          "name": "Amina",
+          "url": "https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201118,
+      "name": "Oktober",
+      "url": "https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz"
+    },
+    {
+      "album": {
         "name": "Omarm",
         "url": "https://open.spotify.com/album/6oVjwkupd3MfWrNgH1pCKv"
       },
@@ -3477,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "Slaap",
+        "url": "https://open.spotify.com/album/5aFdLxtMs8LfxiTmV5kSnP"
+      },
+      "artists": [
+        {
+          "name": "Eva van Manen",
+          "url": "https://open.spotify.com/artist/39fsjaOkLW4Gq6X6URiWRj"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231979,
+      "name": "Slaap",
+      "url": "https://open.spotify.com/track/03uUxpinGNtYRgQn8w84a1"
+    },
+    {
+      "album": {
         "name": "Spring erin!",
         "url": "https://open.spotify.com/album/0e4O3V0RxMq8TbuBq6303i"
       },
@@ -3780,7 +3852,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 198329,
       "name": "Vaderdag (deel 2)",
       "url": "https://open.spotify.com/track/34ihQUWfBW2pI0fVruWhkF"

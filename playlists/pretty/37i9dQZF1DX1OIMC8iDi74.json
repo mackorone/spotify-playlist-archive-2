@@ -1,6 +1,6 @@
 {
   "description": "The best of electronic trap \ud83d\udc51 with TroyBoi",
-  "num_followers": 882006,
+  "num_followers": 882004,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "LUV",
-        "url": "https://open.spotify.com/album/1UOGgRO18kY2BlIRWxw0jl"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "W2",
-          "url": "https://open.spotify.com/artist/3b1JKoRqmzGcghYk4cur7W"
-        }
-      ],
-      "duration_ms": 167464,
-      "name": "LUV",
-      "url": "https://open.spotify.com/track/3lG17Ce9saHLCVPsMlzCV4"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "Antagonist",
         "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 167001,
       "name": "King",
       "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "LUV",
+        "url": "https://open.spotify.com/album/1UOGgRO18kY2BlIRWxw0jl"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "W2",
+          "url": "https://open.spotify.com/artist/3b1JKoRqmzGcghYk4cur7W"
+        }
+      ],
+      "duration_ms": 167464,
+      "name": "LUV",
+      "url": "https://open.spotify.com/track/3lG17Ce9saHLCVPsMlzCV4"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
-      },
-      "artists": [
-        {
-          "name": "YDG",
-          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 203571,
       "name": "SIGNAL",
       "url": "https://open.spotify.com/track/2lI0NirbWze2kWcIsB7Nqo"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2gpllHbaGDQFUQZTo69O9j"
+      },
+      "artists": [
+        {
+          "name": "YDG",
+          "url": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3G3oGZa8nfjofmhXokFbtU"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "FREAK NASTY (THE REMIXES)",
-        "url": "https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sweet",
-          "url": "https://open.spotify.com/artist/1tGxccjxxG3IlNwSs2x8eX"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "FREAK NASTY - VIP",
-      "url": "https://open.spotify.com/track/5SASuUShXD7jNtO2MIpl7Q"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "Blue Mile",
         "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 212571,
       "name": "Blue Mile",
       "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "FREAK NASTY (THE REMIXES)",
+        "url": "https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sweet",
+          "url": "https://open.spotify.com/artist/1tGxccjxxG3IlNwSs2x8eX"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "FREAK NASTY - VIP",
+      "url": "https://open.spotify.com/track/5SASuUShXD7jNtO2MIpl7Q"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1499,8 +1499,8 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
+        "name": "Snakebite",
+        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
       },
       "artists": [
         {
@@ -1508,9 +1508,9 @@
           "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 179142,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
+      "duration_ms": 192000,
+      "name": "Snakebite",
+      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1551,22 +1551,18 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
+        "name": "BITE (MY STYLE)",
+        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        },
-        {
-          "name": "Whyte Fang",
-          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 162266,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
+      "duration_ms": 148514,
+      "name": "BITE (MY STYLE)",
+      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1587,8 +1583,8 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Snakebite",
-        "url": "https://open.spotify.com/album/47sCXgSltXVcKSTyXzzrkN"
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/34OpgsgQ6B578xOcX2IYg5"
       },
       "artists": [
         {
@@ -1596,25 +1592,29 @@
           "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Snakebite",
-      "url": "https://open.spotify.com/track/10JLvDywZi3agozIA9tCRy"
+      "duration_ms": 179142,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/2Q4N4dG8jJegNGNgyToYaq"
     },
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "BITE (MY STYLE)",
-        "url": "https://open.spotify.com/album/2WGNVmijdmBF4Qox8aQZWO"
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/0dSAfRmTB8timCZ1XmPpnj"
       },
       "artists": [
         {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        },
+        {
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 148514,
-      "name": "BITE (MY STYLE)",
-      "url": "https://open.spotify.com/track/0prQSBXEepgAXAxFRbiHET"
+      "duration_ms": 162266,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/4BZDFSkvQHfvM1MoWbCLSR"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1639,22 +1639,18 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "What U Got",
-        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
+        "name": "CONTROL",
+        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
       },
       "artists": [
         {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        },
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
         }
       ],
-      "duration_ms": 168053,
-      "name": "What U Got",
-      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
+      "duration_ms": 145600,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1675,6 +1671,26 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
+        "name": "What U Got",
+        "url": "https://open.spotify.com/album/3pT7yoj0eMAguauZW5dOk2"
+      },
+      "artists": [
+        {
+          "name": "Virtual Riot",
+          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "What U Got",
+      "url": "https://open.spotify.com/track/2zJEJNYyI45ekNQbJQ2oTf"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
         "name": "Get Off The Internet",
         "url": "https://open.spotify.com/album/79Vap7cvRfZIf5qV87LbKV"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 144000,
       "name": "EGOTRIP",
       "url": "https://open.spotify.com/track/1mftC5sqZIwvwzfFWdjgCg"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
-        "name": "CONTROL",
-        "url": "https://open.spotify.com/album/19gckw1W9jhm1Acg08yRa6"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "CONTROL",
-      "url": "https://open.spotify.com/track/4ohXPckRwCzszhzjsYczfK"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "imellem",
-        "url": "https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw"
-      },
-      "artists": [
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "JAHMED",
-          "url": "https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Work",
-      "url": "https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7"
-    },
-    {
-      "added_at": "2026-02-27 20:58:36",
-      "album": {
         "name": "Bassline Flexa",
         "url": "https://open.spotify.com/album/2tUzlYkAW8m1PzA3DEgGu1"
       },
@@ -1875,6 +1855,26 @@
       "duration_ms": 122384,
       "name": "Bassline Flexa",
       "url": "https://open.spotify.com/track/2Ls9ecOpdCnfNuzGqE1P39"
+    },
+    {
+      "added_at": "2026-02-27 20:58:36",
+      "album": {
+        "name": "imellem",
+        "url": "https://open.spotify.com/album/5PxIYxaG1LM2DmuNmZSJOw"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "JAHMED",
+          "url": "https://open.spotify.com/artist/0VvNvCZj4gZJZVsnIm99GJ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7"
     },
     {
       "added_at": "2026-02-27 20:58:36",
@@ -1899,22 +1899,18 @@
     {
       "added_at": "2026-02-27 20:58:36",
       "album": {
-        "name": "Burn For You",
-        "url": "https://open.spotify.com/album/10TlIL9zil6BfNcSF3jBuD"
+        "name": "TALK2ME",
+        "url": "https://open.spotify.com/album/34xAa2NcMxtHx5ztrZ9tes"
       },
       "artists": [
         {
-          "name": "STUCA",
-          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
-        },
-        {
-          "name": "RayJhin",
-          "url": "https://open.spotify.com/artist/1Qt9Dc7m0ewnea08te3FvF"
+          "name": "Arya",
+          "url": "https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Burn For You",
-      "url": "https://open.spotify.com/track/7p4PjjO0d9Y8HgVZ7ptT3g"
+      "duration_ms": 132124,
+      "name": "TALK2ME",
+      "url": "https://open.spotify.com/track/1afXl20jJheylc45ueOLrr"
     }
   ],
   "unique_name": "Trap Mojito",

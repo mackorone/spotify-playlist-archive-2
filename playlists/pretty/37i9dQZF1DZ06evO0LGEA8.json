@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 310830,
+  "num_followers": 310947,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAAAlz6PONa28FNmlD0QGhTG6",
+  "snapshot_id": "aad2AAAAAACiLH/OsZsohNZ/fjCINU+n",
   "tracks": [
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aun Te Pienso",
-        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Aun Te Pienso",
-      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 202597,
       "name": "No Que No Eras Fan",
       "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aun Te Pienso",
+        "url": "https://open.spotify.com/album/6Zl4NEfxxgozOEAGFZ6BGg"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "Aun Te Pienso",
+      "url": "https://open.spotify.com/track/2IYgiwTYm4YBVMIEqJw6hz"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frenia",
-        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
+        "name": "Hasta Donde Se Pueda, Vol. 2",
+        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Mi Propio Infierno",
-      "url": "https://open.spotify.com/track/3SNTi9E3FQSwD4lHamSV6M"
+      "duration_ms": 265300,
+      "name": "Esto No Es Malo",
+      "url": "https://open.spotify.com/track/41zxZRnp6wanJYfc2U8ZUA"
     },
     {
       "added_at": null,
@@ -771,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta Donde Se Pueda, Vol. 2",
-        "url": "https://open.spotify.com/album/7rS4uzrg0UHTlv0iKaSGtF"
+        "name": "Frenia",
+        "url": "https://open.spotify.com/album/6DtziobPePcdasV0uUycOn"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 265300,
-      "name": "Esto No Es Malo",
-      "url": "https://open.spotify.com/track/41zxZRnp6wanJYfc2U8ZUA"
+      "duration_ms": 196000,
+      "name": "Mi Propio Infierno",
+      "url": "https://open.spotify.com/track/3SNTi9E3FQSwD4lHamSV6M"
     },
     {
       "added_at": null,

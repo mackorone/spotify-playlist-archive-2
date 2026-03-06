@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 79946,
+  "num_followers": 79955,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Tarjetita de Invitaci\u00f3n",
-        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
-      },
-      "artists": [
-        {
-          "name": "Los Infieles de Santa Barbara",
-          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
-        }
-      ],
-      "duration_ms": 224328,
-      "name": "Tarjetita de Invitacion",
-      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Tarjetita de Invitaci\u00f3n",
+        "url": "https://open.spotify.com/album/3lXii5UGE1r740O1ipWbmU"
+      },
+      "artists": [
+        {
+          "name": "Los Infieles de Santa Barbara",
+          "url": "https://open.spotify.com/artist/7sUHsT8c4m9Ji8ztrEGRhs"
+        }
+      ],
+      "duration_ms": 224328,
+      "name": "Tarjetita de Invitacion",
+      "url": "https://open.spotify.com/track/07sdL3bIRtYBlkPIvN1OYo"
     },
     {
       "added_at": "2026-02-19 20:52:53",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-02-19 20:52:53",
       "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
-    },
-    {
-      "added_at": "2026-02-19 20:52:53",
-      "album": {
         "name": "El Cabro Curao",
         "url": "https://open.spotify.com/album/4K0oyBxGYlW7jEpTre1yOj"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 186936,
       "name": "El Cabro Curao",
       "url": "https://open.spotify.com/track/0f9eUTpRbz2KxLN6ZzEXCF"
+    },
+    {
+      "added_at": "2026-02-19 20:52:53",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     },
     {
       "added_at": "2026-02-19 20:52:53",

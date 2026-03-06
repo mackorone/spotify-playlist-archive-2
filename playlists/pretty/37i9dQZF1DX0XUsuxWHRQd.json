@@ -1,12 +1,12 @@
 {
   "description": "New music from Yeat, Esdeekid, Swae Lee and Baby Keem. ",
-  "num_followers": 15780118,
+  "num_followers": 15779476,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGg5hVYwJdIKVCGlhnUD2hLWLm1y",
+  "snapshot_id": "AAAAAEqs8l/iC5VbuD66hbIMnYsWLyj2",
   "tracks": [
     {
       "added_at": "2026-03-02 19:47:44",
@@ -167,6 +167,26 @@
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+    },
+    {
+      "added_at": "2026-03-05 05:00:30",
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2epkTConsXtPOHY9QhvqeR"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Let Me Blow Ya Mind",
+      "url": "https://open.spotify.com/track/4YA5g2UpNLmdql8fdrhlwY"
     },
     {
       "added_at": "2026-03-02 19:47:44",

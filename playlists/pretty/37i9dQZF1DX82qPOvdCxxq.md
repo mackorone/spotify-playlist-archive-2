@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Justin Radford
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,987 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,003 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 58 | [Heavenward](https://open.spotify.com/track/7D29Ly7vaEqLNT3IufhgpT) | [Psalms Of David](https://open.spotify.com/artist/54kI6xehIAAx20w8gIBuGZ) | [Heart Surgery Vol\. 1](https://open.spotify.com/album/2FLyvDYnPQAkBWeGU79czG) | 5:15 |
 | 59 | [heart of heaven](https://open.spotify.com/track/5oYViuxzQmU2MSQxAXp36r) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [heart of heaven](https://open.spotify.com/album/7BZ3TiEPKZlz9kLD0xBYvI) | 4:03 |
 | 60 | [Grace in The Shadows](https://open.spotify.com/track/0FmNjC2KLEAOO72Fo0uCMq) | [Juan1Love](https://open.spotify.com/artist/5KEXmG6eYlD1swKpHxM3QK), [Sama Love](https://open.spotify.com/artist/0Q51L9HyTRfdqDjcHW3RqV) | [Grace in The Shadows](https://open.spotify.com/album/71S3rKRM7XL51ImZnZDyiA) | 3:25 |
-| 61 | [THAT'S WHO I PRAISE \- PUNK VERSION](https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/album/6S89G0XoUbC27Qnuh8POlc) | 3:35 |
+| 61 | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/track/3dSAlyTjoeMDfmiYzWClsO) | [Grace Graber](https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK) | [THAT'S WHO I PRAISE \(PUNK VERSION\)](https://open.spotify.com/album/6S89G0XoUbC27Qnuh8POlc) | 3:35 |
 | 62 | [Easy](https://open.spotify.com/track/5dngRLb9IzRjl3b3sl4ZRi) | [lydi lynn](https://open.spotify.com/artist/6jGJeOQrvBV8UKsvWGQkJI) | [Easy](https://open.spotify.com/album/5EecMf7PO9gHFsQsbh3yKG) | 4:30 |
 | 63 | [Easel](https://open.spotify.com/track/2teuBu0Dl8jHlMIqNVyvrI) | [Benjamin Torrens](https://open.spotify.com/artist/44pylNYJsi2kZZNyxruroW) | [Easel](https://open.spotify.com/album/7ePOVRI89uNVnDo2TtfGoe) | 3:28 |
 | 64 | [Kingdom Walls](https://open.spotify.com/track/3Cqgdc421tmbBwH9hdHX0o) | [Heather Suzanne](https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO) | [Kingdom Walls](https://open.spotify.com/album/1dK3AWRYq5bVa9lc1KHiGq) | 3:21 |

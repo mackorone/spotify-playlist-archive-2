@@ -4,7 +4,7 @@
 
 > This is Queen\. The essential tracks, all in one playlist.
 
-128 songs - 8 hr 13 min
+129 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/1pBFEy8cz0Fq4Pru0c4awd) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 3:49 | 2022-09-17 |  |
 | [Save Me \- Remastered 2011](https://open.spotify.com/track/2mGEqJahn3CSyCG1BTEqMs) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 3:49 | 2025-03-27 | 2026-03-01 |
 | [Seaside Rendezvous \- Remastered 2011](https://open.spotify.com/track/0VU7avDE4OZ36oVmLPSEZA) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera \(2011 Remaster\)](https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx) | 2:14 | 2023-09-10 | 2025-01-18 |
-| [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 | 2022-09-17 |  |
+| [Seven Seas Of Rhye \- 2026 Mix](https://open.spotify.com/track/304miPHp6koqHfR8BnuoA9) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Seven Seas Of Rhye \(2026 Mix\)](https://open.spotify.com/album/5N7GQ9M3vkoGpp30Lewyeo) | 2:52 | 2026-03-06 |  |
+| [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 | 2022-09-17 | 2026-03-06 |
 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1e9Tt3nKBwRbuaU79kN3dn) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Remastered Version\)](https://open.spotify.com/album/2RKEso6nin3nhRyAd36Omv) | 2:48 | 2025-03-27 | 2026-03-01 |
 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 | 2022-10-12 |  |
 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/0c6gaX6Av1GfiXXqfq9Jox) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Platinum Collection \(Greatest Hits I II & III \- 2011 Remaster\)](https://open.spotify.com/album/60Yx1xATvlWpAMzsBMMTSE) | 5:07 | 2026-01-15 | 2026-03-01 |

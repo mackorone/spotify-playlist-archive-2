@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127593,
+  "num_followers": 127592,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2026-02-26 22:06:39",
       "album": {
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 178716,
+      "name": "When You Know",
+      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
+    },
+    {
+      "added_at": "2026-02-26 22:06:39",
+      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -487,18 +503,18 @@
     {
       "added_at": "2026-02-26 22:06:39",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/0en3QfglBdW6b0Ho9YoNRT"
+        "name": "November",
+        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
       },
       "artists": [
         {
-          "name": "Moonchild",
-          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 178716,
-      "name": "When You Know",
-      "url": "https://open.spotify.com/track/0oY74qutz2kdv3mUGthTIX"
+      "duration_ms": 229879,
+      "name": "Summer in November",
+      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2026-02-26 22:06:39",
@@ -515,22 +531,6 @@
       "duration_ms": 219000,
       "name": "Slow Grind",
       "url": "https://open.spotify.com/track/2TbwCYJSZrDpEz1cTIwTjx"
-    },
-    {
-      "added_at": "2026-02-26 22:06:39",
-      "album": {
-        "name": "November",
-        "url": "https://open.spotify.com/album/5zdFKRmlSDwAMZ5NFVGbx9"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 229879,
-      "name": "Summer in November",
-      "url": "https://open.spotify.com/track/1USFYZrDt86UdqZxuXYHUG"
     },
     {
       "added_at": "2026-02-26 22:06:39",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-02-26 22:06:39",
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8"
+      },
+      "artists": [
+        {
+          "name": "Nka",
+          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
+        }
+      ],
+      "duration_ms": 197211,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j"
+    },
+    {
+      "added_at": "2026-02-26 22:06:39",
+      "album": {
         "name": "Where Love Grows",
         "url": "https://open.spotify.com/album/5lzP8FF6iJ02BZbtcZSnki"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 194233,
       "name": "Love Like This (feat. Phonte & Carmen Rodgers)",
       "url": "https://open.spotify.com/track/7mWAiYyAwKuH2rSmMbmtj6"
-    },
-    {
-      "added_at": "2026-02-26 22:06:39",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/21CTrD6XB9J14u9TnKGpH8"
-      },
-      "artists": [
-        {
-          "name": "Nka",
-          "url": "https://open.spotify.com/artist/1iuyyjgdZEj54Y1vd5SyKz"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3oVuO5NMqQIM8S12g18T4j"
     },
     {
       "added_at": "2026-02-26 22:06:39",

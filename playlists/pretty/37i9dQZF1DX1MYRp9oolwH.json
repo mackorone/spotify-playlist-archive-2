@@ -1,18 +1,18 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Couple Friendly",
-  "num_followers": 168047,
+  "num_followers": 168070,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA58auB416CKohmmRfHulyVpZ1zS",
+  "snapshot_id": "AAAAAJi37YDhdtlFEeJVxvRMBO7pQaSd",
   "tracks": [
     {
-      "added_at": "2026-02-16 10:27:02",
+      "added_at": "2026-02-13 14:09:35",
       "album": {
-        "name": "Couple Friendly",
-        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+        "name": "Naa Praanam (From \"Couple Friendly\")",
+        "url": "https://open.spotify.com/album/3A78nnIdxBFf5Dp4TQcJEK"
       },
       "artists": [
         {
@@ -28,9 +28,109 @@
           "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
         }
       ],
-      "duration_ms": 148909,
-      "name": "Naato Raa Ila",
-      "url": "https://open.spotify.com/track/6NT6Lt7OfpOedFvP1w9jdK"
+      "duration_ms": 249492,
+      "name": "Naa Praanam (From \"Couple Friendly\")",
+      "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
+    },
+    {
+      "added_at": "2026-03-05 09:00:45",
+      "album": {
+        "name": "Psych Siddhartha",
+        "url": "https://open.spotify.com/album/6ZfLrEXnxWBUTYCVOcjGjw"
+      },
+      "artists": [
+        {
+          "name": "Smaran",
+          "url": "https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Ashok Anand",
+          "url": "https://open.spotify.com/artist/3aZWhNx5cZC7OUV2x4aftn"
+        }
+      ],
+      "duration_ms": 200067,
+      "name": "Yedha Okka Prayamu",
+      "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"
+    },
+    {
+      "added_at": "2026-03-05 09:00:45",
+      "album": {
+        "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
+        "url": "https://open.spotify.com/album/5vLHORyDumSJ3evhGMXhUF"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi SV",
+          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Satyavani",
+          "url": "https://open.spotify.com/artist/7fNuk25gulNDvnOqGbAOhE"
+        },
+        {
+          "name": "Jayachandra.J.D",
+          "url": "https://open.spotify.com/artist/1Dyj6gN3GCe3ARYBrpry1T"
+        }
+      ],
+      "duration_ms": 233684,
+      "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
+      "url": "https://open.spotify.com/track/5L1vfVKn7IGppUT3Bn5j9C"
+    },
+    {
+      "added_at": "2026-03-05 09:00:45",
+      "album": {
+        "name": "Mila Mila Meresenu (From \"Sandhya Nama Upasate\")",
+        "url": "https://open.spotify.com/album/0EzQJlPROfzt9iNpTMQoDZ"
+      },
+      "artists": [
+        {
+          "name": "Karthik Kodakandla",
+          "url": "https://open.spotify.com/artist/4s5ADFbv28ry5XWS1PYnuu"
+        },
+        {
+          "name": "Pranathi",
+          "url": "https://open.spotify.com/artist/3cIfOOicvJnR4MG4TsyJQg"
+        },
+        {
+          "name": "Bhuvaneswar",
+          "url": "https://open.spotify.com/artist/6EirmVOQaxeatPuKIFZ3vW"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "Mila Mila Meresenu (From \"Sandhya Nama Upasate\")",
+      "url": "https://open.spotify.com/track/1JzzD1yFN0HQEyhfDC4BxE"
+    },
+    {
+      "added_at": "2026-03-05 09:00:45",
+      "album": {
+        "name": "Zamana",
+        "url": "https://open.spotify.com/album/1R9XTL9EVZ8Czrga0gjtl1"
+      },
+      "artists": [
+        {
+          "name": "Kesava Kiran",
+          "url": "https://open.spotify.com/artist/1NTuNa3lOYaaDpIomWdr7B"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Rehman",
+          "url": "https://open.spotify.com/artist/7bWwpkumEXBbHWcc0k1OI7"
+        }
+      ],
+      "duration_ms": 319285,
+      "name": "Cheliya Telusa Telusa",
+      "url": "https://open.spotify.com/track/6WuhxTAgKVgTWLLnd0DKjM"
     },
     {
       "added_at": "2026-03-03 06:33:29",
@@ -61,6 +161,78 @@
       "url": "https://open.spotify.com/track/3bBKPc5S5VkIP2msOWMFkv"
     },
     {
+      "added_at": "2026-03-05 05:47:01",
+      "album": {
+        "name": "Seetha Kalyanam (From \"Vaibhavam Thanyasmi\")",
+        "url": "https://open.spotify.com/album/6JZN4AHqO8cSmYPgS2y0K5"
+      },
+      "artists": [
+        {
+          "name": "Gayatri Narayanan",
+          "url": "https://open.spotify.com/artist/2OsaxOFmhhlIYVaEP2jfpU"
+        },
+        {
+          "name": "Bhanu sarma Machavolu",
+          "url": "https://open.spotify.com/artist/3uOdZ5G9T3bzosaVWXNWQg"
+        },
+        {
+          "name": "Bhargav Rana Mungara",
+          "url": "https://open.spotify.com/artist/2Hh4CmxSWuV2NMgN4btdBO"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Seetha Kalyanam (From \"Vaibhavam Thanyasmi\")",
+      "url": "https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z"
+    },
+    {
+      "added_at": "2026-03-03 06:32:04",
+      "album": {
+        "name": "Anaga Anaga America (From \"VISA - Vintara Saradaga\")",
+        "url": "https://open.spotify.com/album/2DZLjaQ2gSN1agitO3OOi2"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Sanare",
+          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
+        }
+      ],
+      "duration_ms": 220501,
+      "name": "Anaga Anaga America (From \"VISA - Vintara Saradaga\")",
+      "url": "https://open.spotify.com/track/3ExH4zj7A8VdNsQ9XtKwfo"
+    },
+    {
+      "added_at": "2026-02-16 10:27:02",
+      "album": {
+        "name": "Couple Friendly",
+        "url": "https://open.spotify.com/album/2jqfRX0prl2ATLogVwZzac"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ravindran",
+          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        }
+      ],
+      "duration_ms": 148909,
+      "name": "Naato Raa Ila",
+      "url": "https://open.spotify.com/track/6NT6Lt7OfpOedFvP1w9jdK"
+    },
+    {
       "added_at": "2026-02-27 10:46:56",
       "album": {
         "name": "Rubaroo [From \"Dacoit (Telugu)\"]",
@@ -83,30 +255,6 @@
       "duration_ms": 195999,
       "name": "Rubaroo (From \"Dacoit (Telugu)\")",
       "url": "https://open.spotify.com/track/3M3bCnAOydcZJ0pCUi04Qc"
-    },
-    {
-      "added_at": "2026-02-24 08:53:31",
-      "album": {
-        "name": "Nilave (Original Motion Picture Sound Track)",
-        "url": "https://open.spotify.com/album/5Y8eQpYxAxNdSsaXox5fIc"
-      },
-      "artists": [
-        {
-          "name": "Kalyan Nayak",
-          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
-        },
-        {
-          "name": "Ayraan",
-          "url": "https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29"
-        },
-        {
-          "name": "M.V.S.Bharadwaj",
-          "url": "https://open.spotify.com/artist/6byX3oRQduvXZpmUscxowp"
-        }
-      ],
-      "duration_ms": 243333,
-      "name": "Nilave Cheliya",
-      "url": "https://open.spotify.com/track/1bBtdWqJN55lW3grCmW4D6"
     },
     {
       "added_at": "2025-12-17 13:09:33",
@@ -137,76 +285,28 @@
       "url": "https://open.spotify.com/track/5xOEnyX9CddnBbUNLmbW7X"
     },
     {
-      "added_at": "2025-11-07 07:25:54",
+      "added_at": "2026-03-05 05:47:01",
       "album": {
-        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+        "name": "Chaatu Chaatu (From \"Purushaha\")",
+        "url": "https://open.spotify.com/album/2bEcxSjCwNKD52ivLCBXGZ"
       },
       "artists": [
         {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
         },
         {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+          "name": "Shravan Bharadwaj",
+          "url": "https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx"
         },
         {
-          "name": "Balaji",
-          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+          "name": "Anantha Sriram",
+          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
         }
       ],
-      "duration_ms": 273072,
-      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
-      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
-    },
-    {
-      "added_at": "2026-03-03 06:32:04",
-      "album": {
-        "name": "Anaga Anaga America (From \"VISA - Vintara Saradaga\")",
-        "url": "https://open.spotify.com/album/2DZLjaQ2gSN1agitO3OOi2"
-      },
-      "artists": [
-        {
-          "name": "Vijai Bulganin",
-          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Sanare",
-          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
-        }
-      ],
-      "duration_ms": 220501,
-      "name": "Anaga Anaga America (From \"VISA - Vintara Saradaga\")",
-      "url": "https://open.spotify.com/track/3ExH4zj7A8VdNsQ9XtKwfo"
-    },
-    {
-      "added_at": "2025-07-29 11:57:35",
-      "album": {
-        "name": "Mallika Gandha (From \"Telusu Kada\")",
-        "url": "https://open.spotify.com/album/6Gm0qQ2kYWsGfaaYaV69hP"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Krishna Kanth",
-          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
-        }
-      ],
-      "duration_ms": 261133,
-      "name": "Mallika Gandha (From \"Telusu Kada\")",
-      "url": "https://open.spotify.com/track/1xiqTTENpd5SVPhWe4Mha0"
+      "duration_ms": 231028,
+      "name": "Chaatu Chaatu (From \"Purushaha\")",
+      "url": "https://open.spotify.com/track/1ZhjHDI4F8PjUESWGC1eQi"
     },
     {
       "added_at": "2026-02-24 08:53:31",
@@ -235,6 +335,102 @@
       "duration_ms": 228724,
       "name": "Wah Varamani",
       "url": "https://open.spotify.com/track/2gtBOpurjkLl48VtkWGCqQ"
+    },
+    {
+      "added_at": "2026-03-05 05:47:01",
+      "album": {
+        "name": "Oosulade (From \"Son Of\")",
+        "url": "https://open.spotify.com/album/4Tvx94BHEaH2QuoIP9wJI7"
+      },
+      "artists": [
+        {
+          "name": "Rishi M",
+          "url": "https://open.spotify.com/artist/1OmE5hZurgiZm1pvRSpLKZ"
+        },
+        {
+          "name": "Adithya RK",
+          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
+        },
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        },
+        {
+          "name": "Bhaskarabhatla",
+          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
+        }
+      ],
+      "duration_ms": 274900,
+      "name": "Oosulade (From \"Son Of\")",
+      "url": "https://open.spotify.com/track/5jK6GRosmpH5fj1A1xFFds"
+    },
+    {
+      "added_at": "2026-03-05 05:47:01",
+      "album": {
+        "name": "Vinavey (From \"Pulse\")",
+        "url": "https://open.spotify.com/album/1Iney76r1X7PX7wRwJfA7c"
+      },
+      "artists": [
+        {
+          "name": "Abishek Ar.",
+          "url": "https://open.spotify.com/artist/2w9iBDvDArSEwAEUhvbiYY"
+        },
+        {
+          "name": "Ram Srivatsav",
+          "url": "https://open.spotify.com/artist/5hR1ziww3l6xGJviqPVKkO"
+        }
+      ],
+      "duration_ms": 213164,
+      "name": "Vinavey (From \"Pulse\")",
+      "url": "https://open.spotify.com/track/7FVms2iGaZLeVQ47321PuS"
+    },
+    {
+      "added_at": "2026-02-24 08:53:31",
+      "album": {
+        "name": "Nilave (Original Motion Picture Sound Track)",
+        "url": "https://open.spotify.com/album/5Y8eQpYxAxNdSsaXox5fIc"
+      },
+      "artists": [
+        {
+          "name": "Kalyan Nayak",
+          "url": "https://open.spotify.com/artist/7tENuzTbvAI7BhqFbZI7Ul"
+        },
+        {
+          "name": "Ayraan",
+          "url": "https://open.spotify.com/artist/7lXhEJq3n8vGK4M9VJKS29"
+        },
+        {
+          "name": "M.V.S.Bharadwaj",
+          "url": "https://open.spotify.com/artist/6byX3oRQduvXZpmUscxowp"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "Nilave Cheliya",
+      "url": "https://open.spotify.com/track/1bBtdWqJN55lW3grCmW4D6"
+    },
+    {
+      "added_at": "2025-11-07 07:25:54",
+      "album": {
+        "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+        "url": "https://open.spotify.com/album/0TPPDwOjtkFRgBiStpUEMO"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Balaji",
+          "url": "https://open.spotify.com/artist/2K9nbaz5q8FpSEajKMlVeH"
+        }
+      ],
+      "duration_ms": 273072,
+      "name": "Chikiri Chikiri (From \"Peddi\") [TELUGU]",
+      "url": "https://open.spotify.com/track/41GTIflnHCWqHgYq7israx"
     },
     {
       "added_at": "2026-02-16 10:27:02",
@@ -431,30 +627,6 @@
     {
       "added_at": "2026-02-13 14:09:35",
       "album": {
-        "name": "Naa Praanam (From \"Couple Friendly\")",
-        "url": "https://open.spotify.com/album/3A78nnIdxBFf5Dp4TQcJEK"
-      },
-      "artists": [
-        {
-          "name": "Aditya Ravindran",
-          "url": "https://open.spotify.com/artist/4vbvSJmOoLdFnKI6uWLAJa"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        }
-      ],
-      "duration_ms": 249492,
-      "name": "Naa Praanam (From \"Couple Friendly\")",
-      "url": "https://open.spotify.com/track/6L89FdUMkZFBF9LT8iCAcP"
-    },
-    {
-      "added_at": "2026-02-13 14:09:35",
-      "album": {
         "name": "Chandamama (From \"FUNKY\")",
         "url": "https://open.spotify.com/album/0AssABIiQpEHBxSdaC8nDA"
       },
@@ -573,30 +745,6 @@
       "url": "https://open.spotify.com/track/0HnDe5h7wuFEljaFbftkWb"
     },
     {
-      "added_at": "2025-08-27 09:45:46",
-      "album": {
-        "name": "Suvvi Suvvi (From \"They Call Him OG\")",
-        "url": "https://open.spotify.com/album/4ER8i28EsRzILUDk1JqTwO"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sruthi Ranjani",
-          "url": "https://open.spotify.com/artist/2fkz5g1C3WDxs52QxJi4KL"
-        },
-        {
-          "name": "Kalyan Chakravarthy Tripuraneni",
-          "url": "https://open.spotify.com/artist/5blw1g0NOKg2g02hkN6Dgb"
-        }
-      ],
-      "duration_ms": 275128,
-      "name": "Suvvi Suvvi (From \"They Call Him OG\")",
-      "url": "https://open.spotify.com/track/2DjmhfEJojDTDyCepSXn9y"
-    },
-    {
       "added_at": "2025-10-14 10:55:31",
       "album": {
         "name": "Meesaala Pilla (From \"Mana Shankaravaraprasad Garu - Pandagaki Vasthunnaru\")",
@@ -673,30 +821,6 @@
       "url": "https://open.spotify.com/track/5vCKMP7YLO3wdsc9q1wxEN"
     },
     {
-      "added_at": "2025-09-10 11:05:03",
-      "album": {
-        "name": "Little Hearts",
-        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Hello Ani",
-      "url": "https://open.spotify.com/track/2YvNpKwCrPvfvhWA9s0Idx"
-    },
-    {
       "added_at": "2025-09-24 05:23:51",
       "album": {
         "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
@@ -749,34 +873,6 @@
       "url": "https://open.spotify.com/track/5Pn2hVl721GNQDwIE0pPXx"
     },
     {
-      "added_at": "2025-09-10 11:05:03",
-      "album": {
-        "name": "Little Hearts",
-        "url": "https://open.spotify.com/album/3VEcAymSMNCgrQsXxxSaWp"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Vivek Sagar",
-          "url": "https://open.spotify.com/artist/7Fa8B0rJSmeeGjYCJJXrb3"
-        },
-        {
-          "name": "Sindhuja Tanuku",
-          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Ee Dhooramey",
-      "url": "https://open.spotify.com/track/4eXPw0pefj8lT7KxLsSQCJ"
-    },
-    {
       "added_at": "2025-12-23 04:24:00",
       "album": {
         "name": "Choodu Choodu (Side A) (From \"Godari Gattupaina\")",
@@ -823,22 +919,6 @@
       "duration_ms": 258000,
       "name": "Nelaraaje (From \"Draupathi - 2\")",
       "url": "https://open.spotify.com/track/3bQWOCc7gxhPucUx1uMruG"
-    },
-    {
-      "added_at": "2025-08-01 09:26:20",
-      "album": {
-        "name": "Arere (From \"Premistunnaa\")",
-        "url": "https://open.spotify.com/album/3S5VJ2CbJYYMHBJt54GH4j"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 248181,
-      "name": "Arere (From \"Premistunnaa\")",
-      "url": "https://open.spotify.com/track/2wCxSEPz5IXC6olGd3mNf0"
     },
     {
       "added_at": "2026-01-08 07:30:43",
@@ -893,30 +973,6 @@
       "url": "https://open.spotify.com/track/5SSYMRye4sfUYk5yjMdvWV"
     },
     {
-      "added_at": "2025-08-07 10:36:14",
-      "album": {
-        "name": "Undipove Naathone (From \"Kishkindhapuri\")",
-        "url": "https://open.spotify.com/album/0LWhuKpB4cNuXQwVNqMCwS"
-      },
-      "artists": [
-        {
-          "name": "Chaitan Bharadwaj",
-          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
-        },
-        {
-          "name": "Javed Ali",
-          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        }
-      ],
-      "duration_ms": 162973,
-      "name": "Undipove Naathone (From \"Kishkindhapuri\")",
-      "url": "https://open.spotify.com/track/6cOUnRdDjuQVdaea1lE2V6"
-    },
-    {
       "added_at": "2025-10-09 08:17:22",
       "album": {
         "name": "Dhochaave Nanne (From \"Premante\")",
@@ -939,34 +995,6 @@
       "duration_ms": 212268,
       "name": "Dhochaave Nanne (From \"Premante\")",
       "url": "https://open.spotify.com/track/1T66KUOewj4WoG91CBfFFH"
-    },
-    {
-      "added_at": "2025-07-31 13:26:00",
-      "album": {
-        "name": "Oopiri Ooyalaga (From \"WAR 2\") - Telugu Version",
-        "url": "https://open.spotify.com/album/2WHIZAnZlLV93ssxMjQ9y2"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Shashwat Singh",
-          "url": "https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 226337,
-      "name": "Oopiri Ooyalaga (From \"WAR 2\") - Telugu Version",
-      "url": "https://open.spotify.com/track/49IUhpMndmwSttY88fdHKM"
     },
     {
       "added_at": "2025-12-16 06:29:21",
@@ -1183,22 +1211,6 @@
       "duration_ms": 248656,
       "name": "O Sanna Jaaji (From \"Karikaada - Telugu\")",
       "url": "https://open.spotify.com/track/35JmLVoxGRjnxC42aAiaA6"
-    },
-    {
-      "added_at": "2025-08-07 10:36:14",
-      "album": {
-        "name": "Evare Nuvvu (From \"Premistunnaa\")",
-        "url": "https://open.spotify.com/album/5PJ4KHeLnEkp0bGDx2t99H"
-      },
-      "artists": [
-        {
-          "name": "Siddharth Salur",
-          "url": "https://open.spotify.com/artist/1DaydVZlHLf5NbIkfNsjLb"
-        }
-      ],
-      "duration_ms": 255333,
-      "name": "Evare Nuvvu (From \"Premistunnaa\")",
-      "url": "https://open.spotify.com/track/6NGIhZN0mAYnW4SZzeJcAg"
     },
     {
       "added_at": "2025-12-09 05:56:56",

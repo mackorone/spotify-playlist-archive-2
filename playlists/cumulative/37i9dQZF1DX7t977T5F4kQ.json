@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover: Kuami Eugene",
+  "description": "The hottest and recent Ghana party starters. Cover: Wendy Shay",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -448,6 +448,24 @@
       "duration_ms": 166250,
       "name": "Abofra",
       "url": "https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY"
+    },
+    {
+      "album": {
+        "name": "Abrabo",
+        "url": "https://open.spotify.com/album/4dc0BgCWUOMKLPWfok3p1n"
+      },
+      "artists": [
+        {
+          "name": "Article Wan",
+          "url": "https://open.spotify.com/artist/3Bw3Syt7xdB3gQc4IoFaLn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124166,
+      "name": "Abrabo",
+      "url": "https://open.spotify.com/track/0SUIRNZ4w5dX4m5qyjkHnb"
     },
     {
       "album": {
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 163018,
       "name": "Araba",
       "url": "https://open.spotify.com/track/3j2DRJtmWdcDjzipkdTzPa"
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 155428,
       "name": "Black Coffee",
       "url": "https://open.spotify.com/track/46VDIPUk3Q1i1otgAwhI2k"
@@ -3014,7 +3032,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 148651,
       "name": "Danger",
       "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
@@ -5576,7 +5594,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 184722,
       "name": "JEJEREJE (with Ginton)",
       "url": "https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r"
@@ -6186,6 +6204,24 @@
       "duration_ms": 198000,
       "name": "Labadi (feat. King Promise)",
       "url": "https://open.spotify.com/track/25SWsMxuKg62xEMx7zb4iO"
+    },
+    {
+      "album": {
+        "name": "Lala",
+        "url": "https://open.spotify.com/album/40eSFWQby0OzlASShMaeYU"
+      },
+      "artists": [
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Lala",
+      "url": "https://open.spotify.com/track/6zDbBn9GLSwWhWYwAwL2k8"
     },
     {
       "album": {
@@ -7354,7 +7390,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 196151,
       "name": "New Beginnings",
       "url": "https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea"
@@ -7402,7 +7438,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 159272,
       "name": "Nice n' Sweet (feat. MOLIY)",
       "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"

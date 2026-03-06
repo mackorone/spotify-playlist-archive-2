@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Erin LeCount
+> Discover your new favourite artists from UK&IE\. Cover: AmiiFy
 
-345 songs - 18 hr 31 min
+346 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [So Pretty When You Cry](https://open.spotify.com/track/2B4o1SOeV4TbxoMc5fQuWk) | [Nia Chennai](https://open.spotify.com/artist/0iHJWiuW0rtMwtlLr0sPtR) | [So Pretty When You Cry](https://open.spotify.com/album/00HC56vNpd80TqSJageJOs) | 2:51 | 2024-06-06 |  |
 | [Someday](https://open.spotify.com/track/5nV3xjY5nlQwAgpuSeinNG) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Someday](https://open.spotify.com/album/7p0qGzJYOpmXp18zjT8vo8) | 2:41 | 2023-10-19 | 2023-10-21 |
 | [Someday](https://open.spotify.com/track/7mGIEdzSzlTYjPtiDsXbVM) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Marking My Time](https://open.spotify.com/album/6SgAnsBOLl7yAMb8ylfAtX) | 2:41 | 2023-10-19 |  |
+| [Something Stupid](https://open.spotify.com/track/5i7zaf08ZrlMcsSEB111aq) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Something Stupid](https://open.spotify.com/album/0S3fTNkqwroxTqhVCryyCP) | 2:45 | 2026-03-06 |  |
 | [Steamroller](https://open.spotify.com/track/1Sh4k3Bhq9C9airIGg7awN) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/1Ns0AfoGDCYJJ3PFvPnJEt) | 2:55 | 2022-06-17 |  |
 | [Steamroller](https://open.spotify.com/track/3NUVEYZe8SoeyxPO8PjhMs) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Steamroller](https://open.spotify.com/album/5IuuKf7yyYt1WSBvK1Txam) | 2:55 | 2022-10-06 | 2023-03-05 |
 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 | 2022-11-11 | 2024-04-19 |

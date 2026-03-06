@@ -1,6 +1,6 @@
 {
   "description": "slow burners for late nights",
-  "num_followers": 1017288,
+  "num_followers": 1017306,
   "original_name": "late night vibes",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Comin\u2019 Around Again",
+        "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 186900,
+      "name": "Comin\u2019 Around Again",
+      "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/1cZms2JMepRbzrg3AG3eb8"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Comin\u2019 Around Again",
-        "url": "https://open.spotify.com/album/1wzwhaqsrOEoLZxYjA2fIv"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 186900,
-      "name": "Comin\u2019 Around Again",
-      "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "If Not Now?",
-        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
-      },
-      "artists": [
-        {
-          "name": "JGrrey",
-          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
-        }
-      ],
-      "duration_ms": 124137,
-      "name": "Theirs13",
-      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf"
       },
@@ -707,22 +691,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Your Touch",
-        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
+        "name": "If Not Now?",
+        "url": "https://open.spotify.com/album/6f1Ricfkmh1nUSqhjdtd6F"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        },
-        {
-          "name": "Treasure Bloom",
-          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
+          "name": "JGrrey",
+          "url": "https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx"
         }
       ],
-      "duration_ms": 206394,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
+      "duration_ms": 124137,
+      "name": "Theirs13",
+      "url": "https://open.spotify.com/track/0GgfKdAhFLXfmE2fxjkAsC"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -739,6 +719,26 @@
       "duration_ms": 192840,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/0KfwV17WnPeJuf6BZPJ3Ep"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "Your Touch",
+        "url": "https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        },
+        {
+          "name": "Treasure Bloom",
+          "url": "https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft"
+        }
+      ],
+      "duration_ms": 206394,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "ps / dm",
-        "url": "https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F"
-      },
-      "artists": [
-        {
-          "name": "spirit blue",
-          "url": "https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx"
-        }
-      ],
-      "duration_ms": 230462,
-      "name": "desire machine",
-      "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 338066,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "ps / dm",
+        "url": "https://open.spotify.com/album/41iZzEDQEdv2RzY4o7yf4F"
+      },
+      "artists": [
+        {
+          "name": "spirit blue",
+          "url": "https://open.spotify.com/artist/49JcjxYnQNsELWLqtzIycx"
+        }
+      ],
+      "duration_ms": 230462,
+      "name": "desire machine",
+      "url": "https://open.spotify.com/track/0ggTHtuRYmdQxTEs8T32ny"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Sorrow",
-        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
-      },
-      "artists": [
-        {
-          "name": "Konyikeh",
-          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
-        }
-      ],
-      "duration_ms": 140898,
-      "name": "Sorrow",
-      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Dick Arkive: Issue 2",
         "url": "https://open.spotify.com/album/5lYNwUm6IiQ6TusHKNT9QV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 242345,
       "name": "I Think I Lost That Love",
       "url": "https://open.spotify.com/track/0UqRhRTH7FqsnOR0AZ16rX"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "Sorrow",
+        "url": "https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT"
+      },
+      "artists": [
+        {
+          "name": "Konyikeh",
+          "url": "https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ"
+        }
+      ],
+      "duration_ms": 140898,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "HOMESICK",
-        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 327000,
-      "name": "Evening News",
-      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Best Comedown Ever",
         "url": "https://open.spotify.com/album/3NEAc7PG5Ypaq5LsCInuEv"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 217483,
       "name": "No Ties",
       "url": "https://open.spotify.com/track/1yGsyn5e6Rqa3HlMAjDeHV"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "HOMESICK",
+        "url": "https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 327000,
+      "name": "Evening News",
+      "url": "https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "R\u00eaverie",
-        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
-      },
-      "artists": [
-        {
-          "name": "Les Imprim\u00e9s",
-          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "I'll Never Leave",
-      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
         "name": "Lionel Boy",
         "url": "https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 224133,
       "name": "Flower Girl",
       "url": "https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "R\u00eaverie",
+        "url": "https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO"
+      },
+      "artists": [
+        {
+          "name": "Les Imprim\u00e9s",
+          "url": "https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "I'll Never Leave",
+      "url": "https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "Cerulean Tapes",
-        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+        "name": "We're Here, My Dear",
+        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
       },
       "artists": [
         {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+          "name": "Ging",
+          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
         }
       ],
-      "duration_ms": 256142,
-      "name": "TEENAGE FEVER",
-      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
+      "duration_ms": 221720,
+      "name": "We're Here, My Dear",
+      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Cerulean Tapes",
+        "url": "https://open.spotify.com/album/5P0gZ58K80JhWtxqfXYa5M"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 256142,
+      "name": "TEENAGE FEVER",
+      "url": "https://open.spotify.com/track/0ENBIsETigvE4fydGX7pJk"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "Some Place Else",
         "url": "https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 295331,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Pixie Dust",
-        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 183716,
-      "name": "Pixie Dust",
-      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
+        "name": "Pixie Dust",
+        "url": "https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8"
+      },
+      "artists": [
+        {
+          "name": "Ethel",
+          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
+        }
+      ],
+      "duration_ms": 183716,
+      "name": "Pixie Dust",
+      "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
         "name": "Candy / How many miles",
         "url": "https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T"
       },
@@ -1531,38 +1547,6 @@
       "duration_ms": 174824,
       "name": "Candy",
       "url": "https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "We're Here, My Dear",
-        "url": "https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx"
-      },
-      "artists": [
-        {
-          "name": "Ging",
-          "url": "https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "We're Here, My Dear",
-      "url": "https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N"
-    },
-    {
-      "added_at": "2026-01-19 19:58:25",
-      "album": {
-        "name": "Said I Don't Cry",
-        "url": "https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj"
-      },
-      "artists": [
-        {
-          "name": "Justin Nozuka",
-          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
-        }
-      ],
-      "duration_ms": 211391,
-      "name": "Said I Don't Cry",
-      "url": "https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1583,22 +1567,18 @@
     {
       "added_at": "2026-01-19 19:58:25",
       "album": {
-        "name": "000 CHANNEL BLACK",
-        "url": "https://open.spotify.com/album/4AzWT0gVzSs1NwZnuFPOlH"
+        "name": "Said I Don't Cry",
+        "url": "https://open.spotify.com/album/3PB8BS32ZXxvHTg385Zrzj"
       },
       "artists": [
         {
-          "name": "_BY.ALEXANDER",
-          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
-        },
-        {
-          "name": "Irina Shayk",
-          "url": "https://open.spotify.com/artist/5wxgG6juAcezxu0SDQSRyY"
+          "name": "Justin Nozuka",
+          "url": "https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t"
         }
       ],
-      "duration_ms": 342450,
-      "name": "THE MONSTER & THE MUSE",
-      "url": "https://open.spotify.com/track/6rDTRZf0NQ64Xl9ATqsZ5G"
+      "duration_ms": 211391,
+      "name": "Said I Don't Cry",
+      "url": "https://open.spotify.com/track/4HWOthsW4aVnNF4Ncop3zo"
     },
     {
       "added_at": "2026-01-19 19:58:25",
@@ -1619,6 +1599,26 @@
       "duration_ms": 218431,
       "name": "Need To Talk - Kordz Remix",
       "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+    },
+    {
+      "added_at": "2026-01-19 19:58:25",
+      "album": {
+        "name": "000 CHANNEL BLACK",
+        "url": "https://open.spotify.com/album/4AzWT0gVzSs1NwZnuFPOlH"
+      },
+      "artists": [
+        {
+          "name": "_BY.ALEXANDER",
+          "url": "https://open.spotify.com/artist/4KPgZSnwlJl4LnUDb09mCw"
+        },
+        {
+          "name": "Irina Shayk",
+          "url": "https://open.spotify.com/artist/5wxgG6juAcezxu0SDQSRyY"
+        }
+      ],
+      "duration_ms": 342450,
+      "name": "THE MONSTER & THE MUSE",
+      "url": "https://open.spotify.com/track/6rDTRZf0NQ64Xl9ATqsZ5G"
     },
     {
       "added_at": "2026-01-19 19:58:25",

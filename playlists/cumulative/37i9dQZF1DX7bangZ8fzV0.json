@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek! Omslag: GSTRiNG",
+  "description": "Net die beste Afrikaanse musiek! Omslag: Riaan Benad\u00e9",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 194376,
       "name": "Bosveldterapie",
       "url": "https://open.spotify.com/track/110nkjBg4FQ9GiPI7xrhjQ"
@@ -3078,6 +3078,24 @@
       "duration_ms": 190819,
       "name": "Karolis (Sensasie Remix) (feat. Sensasie)",
       "url": "https://open.spotify.com/track/754aujqA7I9JEGPdt1sa1x"
+    },
+    {
+      "album": {
+        "name": "Kattebak",
+        "url": "https://open.spotify.com/album/5vEWKuk2pCckRcHfR7WfzY"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185179,
+      "name": "Kattebak",
+      "url": "https://open.spotify.com/track/2gdWXpSLeH61E68zch9c19"
     },
     {
       "album": {

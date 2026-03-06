@@ -166,7 +166,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 74573,
       "name": "Computermatic",
       "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 142660,
       "name": "Doctor Who (Opening Theme - Stereo Mix 2026)",
       "url": "https://open.spotify.com/track/4Exxaa7AHniu8Zdk5Ev88Q"
@@ -1406,7 +1406,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 122413,
       "name": "Hannett and Delia synth exchanges track 15",
       "url": "https://open.spotify.com/track/49qjhomc9oEhQ5jxi9Cf89"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 174333,
       "name": "Hannett and Delia synth exchanges track 16",
       "url": "https://open.spotify.com/track/4ZeqdS8vnlZnbPHPdGxLQW"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 126360,
       "name": "Hannett and Delia synth exchanges track 19",
       "url": "https://open.spotify.com/track/57cKXUSfbaQMg5eCSd8uew"
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 163413,
       "name": "Hannett and Delia synth exchanges track 3",
       "url": "https://open.spotify.com/track/3HONDkJE1mdiddCZ0Cb2ti"
@@ -1832,6 +1832,28 @@
     {
       "album": {
         "name": "The Synth And Electronic Recording Exchanges",
+        "url": "https://open.spotify.com/album/7qV3mWdKcPJRXlQXnONvti"
+      },
+      "artists": [
+        {
+          "name": "Delia Derbyshire",
+          "url": "https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8"
+        },
+        {
+          "name": "Martin Hannett",
+          "url": "https://open.spotify.com/artist/0K0Cb0h8kpL0AsoxRGTcNb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79946,
+      "name": "Hannett and Delia synth exchanges track 7",
+      "url": "https://open.spotify.com/track/14jFN5waXiPuCoQmSq6WVD"
+    },
+    {
+      "album": {
+        "name": "The Synth And Electronic Recording Exchanges",
         "url": "https://open.spotify.com/album/4I6hXVwbiIwwwQtdD0L1Ks"
       },
       "artists": [
@@ -1868,7 +1890,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 47506,
       "name": "Hannett and Delia synth exchanges track 8",
       "url": "https://open.spotify.com/track/1FhA7D9ptZBGD5IvIms24v"
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 126200,
       "name": "The Wizard's Laboratory",
       "url": "https://open.spotify.com/track/0p40kpl217FFLVxBRevsAV"

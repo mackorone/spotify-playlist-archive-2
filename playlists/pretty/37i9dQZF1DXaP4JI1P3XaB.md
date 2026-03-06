@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 
 > A warm glittering glow of ambient jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 824 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaP4JI1P3XaB.md) - [plain]
 | 47 | [Correspondances II](https://open.spotify.com/track/1W2p6vdykW9LNTo0hJEayL) | [Laurie Torres](https://open.spotify.com/artist/4C4p6WindR3CTpo3GYNJWm), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Correspondances II](https://open.spotify.com/album/0xfxe8WRGVNzml6n9eH6ov) | 5:23 |
 | 48 | [Off Piste](https://open.spotify.com/track/3iwI1obKrkkfeBNl3bqt3T) | [Greg Foat](https://open.spotify.com/artist/20HVrU8f5rcNg2aZkMiSP0), [Art Themen](https://open.spotify.com/artist/44ocyaoesOgc5KjTR3D2Ob) | [Off\-Piste](https://open.spotify.com/album/0gxTsSlEsWib1zKa5lZs71) | 7:44 |
 | 49 | [Becalmed](https://open.spotify.com/track/0uBV9lnl1s9k8OGKx1ccmu) | [Food](https://open.spotify.com/artist/5UH0MJYNrZoaqu9P0A3SII), [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Quiet Inlet](https://open.spotify.com/album/51x1ZT69ErNwKqRb9FBo38) | 7:51 |
-| 50 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/0WluQkhiQsQJ14sLXqDnVK), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
+| 50 | [Slow 30's Room](https://open.spotify.com/track/03IBiVgBzhNrZSwES3Hyjf) | [David Lynch](https://open.spotify.com/artist/2Gu6Q05ExIGwHTF43kqLBI), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Twin Peaks \(Limited Event Series Soundtrack\)](https://open.spotify.com/album/4dN8VmiUt9WVPDSReLWBvJ) | 2:06 |
 
 Snapshot ID: `AAAAAJr20ajkxEysoLjYb7fm272+uiMq`

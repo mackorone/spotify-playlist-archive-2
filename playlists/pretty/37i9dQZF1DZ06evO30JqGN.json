@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 137717,
+  "num_followers": 137731,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaYkgAAAAABl36L5oyWm5lT3usCwtbCk",
+  "snapshot_id": "aad2AAAAAADBAvjLn0XmcbJmBZuLmynM",
   "tracks": [
     {
       "added_at": null,
@@ -911,6 +911,22 @@
       "duration_ms": 274506,
       "name": "Drown In My Love (with Foggieraw)",
       "url": "https://open.spotify.com/track/5EYCjU03bSkeKxOoypvuD3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CLEAR",
+        "url": "https://open.spotify.com/album/5SwPxt8aXuenxaIBIbkvpY"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 104438,
+      "name": "Riot",
+      "url": "https://open.spotify.com/track/4qQVKOnZEYWZIHUMRapsVO"
     }
   ],
   "unique_name": "This Is Summer Walker",

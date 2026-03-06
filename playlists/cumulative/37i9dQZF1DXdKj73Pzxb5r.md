@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Boy Warongan & The Palmeiros
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Orkes Bada Isya
 
-492 songs - 1 day 7 hr 30 min
+497 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [By the Sea](https://open.spotify.com/track/6Ntc7YusEmJnb0IzJkCcZz) | [Humsikk](https://open.spotify.com/artist/48SOu6mhQKKdUpM8CAHTfc), [Amy Amanda](https://open.spotify.com/artist/3qE5P0cHaCusgOluEhpOrE), [The Cottons](https://open.spotify.com/artist/4q6wWCZAcdPF5cjP3AhOBy) | [By the Sea](https://open.spotify.com/album/05Gp2SBwGUUxpNiwgEFOCo) | 5:01 | 2024-11-28 | 2025-02-14 |
 | [byar](https://open.spotify.com/track/6ARVP7WgqKkyhefSctHN2C) | [T\. Rucira](https://open.spotify.com/artist/1o0RBJNVBuMCyPxvLi0iMC) | [byar](https://open.spotify.com/album/4oLgFactaiqhjxb6M3gDP0) | 3:53 | 2025-02-28 | 2025-04-26 |
 | [Béntang Sagara](https://open.spotify.com/track/0DUycchEJkz4qXG9KgR3Mp) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Galura Tropikalia](https://open.spotify.com/album/5Cz944NT4taGMmOcAraPbm) | 4:25 | 2024-11-28 |  |
+| [Cakrawala](https://open.spotify.com/track/50wkkSJD0ZBvxRZWh3m15E) | [Orkes Bada Isya](https://open.spotify.com/artist/3r3Uir4USFn3eT6L76T0to) | [Cakrawala](https://open.spotify.com/album/7j8Mp7lkL4jvux0Ywa87O8) | 3:35 | 2026-03-05 |  |
 | [can't get over you](https://open.spotify.com/track/04NkJPmj2porr9uv2B0YvJ) | [Ernesto.](https://open.spotify.com/artist/0gaT6R7nbUJWNbZOydCP8m) | [can't get over you](https://open.spotify.com/album/7n3C0AQw8Qm91SJsxFXtyB) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Can't Stop Thinking of You](https://open.spotify.com/track/16QDnfyDBztTEdBatjF09y) | [Cema](https://open.spotify.com/artist/0Nx9jILrekBzJl0JIGplED) | [The Reasons Why](https://open.spotify.com/album/3iSXqJbtRNytqs0ytpuxHO) | 4:00 | 2024-06-27 | 2024-09-06 |
 | [Carnivalesque](https://open.spotify.com/track/06hKqQ9hjUQ65adSKQaEXW) | [risky summerbee & the honeythief](https://open.spotify.com/artist/08nbcEsElBbqPXrXnPVYdy) | [Carnivalesque](https://open.spotify.com/album/06zbNGdpNU3SYN4fCTsktf) | 4:40 | 2024-06-27 | 2024-07-25 |
@@ -91,6 +92,7 @@
 | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/track/4CeQo2SvURvL9gXEF51mGm) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Chelsea Dawn](https://open.spotify.com/artist/5ivM0OETR0pUou4EesF1G0), [Coloura](https://open.spotify.com/artist/22YlJuPLhTsW9m4fptz4r3) | [Coming Home \(feat\. Chelsea Dawn & Coloura\)](https://open.spotify.com/album/7pORcqNUVyySp3JrQvPxAl) | 3:38 | 2024-06-27 | 2024-07-27 |
 | [Contemplation, Pt\. 1](https://open.spotify.com/track/4Vo45D4lMsLv60JoSWeMoY) | [Mad Madmen](https://open.spotify.com/artist/6J53OmVP9ZU5yp72SaeG0b), [Afirniar Mutsrin](https://open.spotify.com/artist/39bo1HVsRhevqRRCVxkMDB) | [In With The Out, Old With The New, Vol\. 2](https://open.spotify.com/album/0NXZnpIolPwpUlAY9wc2EX) | 4:44 | 2024-07-04 | 2024-08-17 |
 | [cool enough for you](https://open.spotify.com/track/595HL0O9cpL8vYwb9GpbAB) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [cool enough for you](https://open.spotify.com/album/7vA18NCulyMLrOtAZaA3AF) | 3:21 | 2024-08-01 |  |
+| [Cure.](https://open.spotify.com/track/0JfRbNMhTUHdUzEWwpDpvc) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Cure.](https://open.spotify.com/album/6bBpe2LGhClvlGw1giTIFL) | 2:49 | 2026-03-05 |  |
 | [Curtains](https://open.spotify.com/track/0cTbckdChO9Z4xdVy6FL6k) | [Guernica Club](https://open.spotify.com/artist/3vT1EkYKu5O7ZOL9BjWTXn), [Merdi Simanjuntak](https://open.spotify.com/artist/2knUiLoFc2NCZl3Ky9lWtu) | [Curtains](https://open.spotify.com/album/5Rrm3or86YWiPpmf0IUalL) | 4:38 | 2026-01-08 |  |
 | [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 | 2025-04-11 |
 | [Dancing On The Edge](https://open.spotify.com/track/0yrYaevAu2jOtjwUX7Pmxx) | [JUNJI](https://open.spotify.com/artist/6mjeFtDhVUlJ7pR2ZoJTET) | [Daydreams](https://open.spotify.com/album/2jjWb7XY4trmaRRP8rtMbK) | 4:05 | 2024-10-10 | 2025-02-14 |
@@ -405,8 +407,10 @@
 | [Serasa Asmara](https://open.spotify.com/track/3OakocbuE66b9O9HKfHqGT) | [MASEJA](https://open.spotify.com/artist/24y7WfHZNlTUi2WvU4fXfv), [Latisha Diva](https://open.spotify.com/artist/7yOn5tRmi2Gdebty1xVJrq) | [Serasa Asmara](https://open.spotify.com/album/3RxbBeG5eG5fBWpslwnhnn) | 3:18 | 2025-06-12 | 2025-06-24 |
 | [Seroja Mini](https://open.spotify.com/track/62X7M1iRFRF1hJ12FUYgMw) | [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i), [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Seroja Mini](https://open.spotify.com/album/0PQ9qQau2ja2yIGC2abAi9) | 3:52 | 2025-04-25 | 2025-06-20 |
 | [Serong Ke Kiri Serong Ke Kanan](https://open.spotify.com/track/5r95lj5VLGbgbqZBAYMhtt) | [The Goddamn!!!](https://open.spotify.com/artist/4XWLrH0bvZ6RQ3cb7u5loF) | [Merona Jingga](https://open.spotify.com/album/6VLPvJ8y53yAAuMBi0U7ys) | 2:54 | 2025-09-11 | 2025-11-29 |
+| [Sesuai Alamat](https://open.spotify.com/track/6o0UKm6wVgT05UF7bIaICA) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [Sesuai Alamat](https://open.spotify.com/album/1AP00EY3tql8UUmsalTx48) | 2:44 | 2026-03-05 |  |
 | [Sesuka Hatimu](https://open.spotify.com/track/5UNhW9Gna0wtdu0h6o958W) | [GUNGS](https://open.spotify.com/artist/174qi9GGFldNKbeeQ3qM1h) | [Sesuka Hatimu / Entah Sama](https://open.spotify.com/album/2Xf4yCxHQ4TIzYAQmR58j3) | 3:06 | 2025-07-17 | 2025-10-24 |
 | [Shower Scene](https://open.spotify.com/track/72Dl7jvzIzz8tYxfdvem6x) | [Sourmilk](https://open.spotify.com/artist/5KgwG5xqnpr6eerD8F5iKq) | [A Collection of Absurd Ideas](https://open.spotify.com/album/3eKJ4Y8KFK98fKfwNrgzlq) | 4:03 | 2025-07-24 | 2025-10-03 |
+| [Si Bungsu](https://open.spotify.com/track/1MomZLrxTcSX1mXUCwxZdy) | [Sambadha](https://open.spotify.com/artist/7xKSiJ3Qq4uul4QDeq5cu9) | [Si Bungsu](https://open.spotify.com/album/2p7F424qcATGk0mezA7qfF) | 3:01 | 2026-03-05 |  |
 | [Siapa yang Salah](https://open.spotify.com/track/17UUHWz4YE6NGiOnrEMqtH) | [More on Mumbles](https://open.spotify.com/artist/3w6Jz1N07G2oREu2jRqKSN) | [\(Masih\) Kalah](https://open.spotify.com/album/6r2HtvSWwhAU4b74a3OcT3) | 2:58 | 2024-06-27 | 2025-09-26 |
 | [Siempre](https://open.spotify.com/track/67GIaO3ENhQPzHHtPsR5Y4) | [Ras Muhamad](https://open.spotify.com/artist/71Qmd6sBkz4127R4KVvtl3), [Ken Jenie Jirapah](https://open.spotify.com/artist/7J7x64n8LMbc2ZljdrooJ0) | [Siempre](https://open.spotify.com/album/0lNWarNgs53juMp9eUs7VD) | 3:16 | 2024-07-25 | 2024-09-20 |
 | [Siluet \- Live Acoustic Version](https://open.spotify.com/track/4exiVLWywyp6qXxqdq8GzL) | [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [Siluet \(Live Acoustic Version\)](https://open.spotify.com/album/5izPReM5DiU9VJAK05Ug7F) | 5:48 | 2026-02-19 |  |
@@ -452,6 +456,7 @@
 | [Telisik](https://open.spotify.com/track/7BDrp62oI7QVtKC6OvMgm4) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik \(lagi\) \[Deluxe Version\]](https://open.spotify.com/album/5apQM4mnZOw5l0ZUIiLhPi) | 2:42 | 2024-11-07 | 2025-09-26 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2025-02-14 |
 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 | 2026-01-23 |  |
+| [Tentang Mimpi Berupa Pelangi](https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Semburat](https://open.spotify.com/album/3mhN7GdnANPCYy3Jh7HgFC) | 4:21 | 2026-03-05 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-10-24 |
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-06-27 | 2024-12-06 |

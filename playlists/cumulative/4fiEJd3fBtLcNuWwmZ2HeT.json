@@ -5967,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "\u5150\u7ae5\u30ab\u30eb\u30c6",
+        "url": "https://open.spotify.com/album/6lENS0EtwbvQiwEaHFbV3J"
+      },
+      "artists": [
+        {
+          "name": "Shinsei Kamattechan",
+          "url": "https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239255,
+      "name": "\u308b\u308b\u3061\u3083\u3093\u306e\u81ea\u6bba\u914d\u4fe1",
+      "url": "https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u4e8c\u5e55",
         "url": "https://open.spotify.com/album/7et3nHvC6nflQu4QsJkJvs"
       },

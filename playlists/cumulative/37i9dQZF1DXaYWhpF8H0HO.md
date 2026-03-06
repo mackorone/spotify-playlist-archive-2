@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Heiakim
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Assia Keva
 
-587 songs - 1 day 10 hr 17 min
+591 songs - 1 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [angee song](https://open.spotify.com/track/23nDdaGHCXniwDuK1Te0cr) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC) | [m\. album tiga](https://open.spotify.com/album/4NZUlGR0ON7wZDmczN2vqH) | 5:05 | 2024-09-26 | 2025-01-24 |
 | [another eve](https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [another eve](https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF) | 3:24 | 2026-02-26 |  |
 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 | 2024-06-27 | 2024-08-30 |
+| [Another Life](https://open.spotify.com/track/05CnnJTrWyZppUnZum1wtW) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Another Life](https://open.spotify.com/album/1QMFMjgJdqti57vWNZzdbk) | 4:17 | 2026-03-05 |  |
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 | 2025-01-24 |
 | [Are You Ready?](https://open.spotify.com/track/5aKdwua6dUc5tanuER7jDM) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Akeey](https://open.spotify.com/artist/57pK9aeCJdlHlCEcGQ4kzI), [Liquid Silva](https://open.spotify.com/artist/7zUOkZejry0Y8RHtbQrVoG) | [Are You Ready?](https://open.spotify.com/album/07eS3tozCxCPmz79QDdzrm) | 3:01 | 2025-05-01 | 2025-10-31 |
 | [Artificial Grass](https://open.spotify.com/track/3J5r1YebSC4fW4R14Zgf72) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Artificial Grass](https://open.spotify.com/album/6zrKX85vdTchx5H2oSMDhU) | 3:02 | 2025-10-23 |  |
@@ -101,6 +102,7 @@
 | [CALL ME ON DRUGS](https://open.spotify.com/track/2yCOKtAURfxaL5WuKoEYO5) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [CALL ME ON DRUGS](https://open.spotify.com/album/2AWtAZMn18hA1XvzBxTfwZ) | 2:36 | 2025-01-30 | 2025-04-25 |
 | [Campfire](https://open.spotify.com/track/6ESZivUp2Tp5uNyuffnMRk) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Campfire](https://open.spotify.com/album/3TRhJfsSgsvZseDYfrRfVD) | 3:17 | 2025-02-13 | 2025-05-09 |
 | [Can We Be Friends Again?](https://open.spotify.com/track/0c3beEhARvqtTRwKFskjX3) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [Can We Be Friends Again?](https://open.spotify.com/album/7ILkOWv9uelFdP2Ncv2BfU) | 3:53 | 2025-07-03 | 2026-02-13 |
+| [Can We Be Friends Again? \- Live Stripped Down](https://open.spotify.com/track/2Gp4IGR1rv2A2NWt1YjKuV) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [forevermore, but it's just me and the piano](https://open.spotify.com/album/3Pg8EGDamSy623Y1c0cPZs) | 4:00 | 2026-03-05 |  |
 | [Can We Turn Back Time?](https://open.spotify.com/track/5VCh25lzZju9d3JaXBCJQh) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Can We Turn Back Time?](https://open.spotify.com/album/6pBdm8jQ3i1KubQpect3db) | 3:15 | 2025-08-29 | 2025-11-07 |
 | [can't seem to make a change.](https://open.spotify.com/track/4Zo6BiLQNZP5G5dqjG6QAY) | [VEEY](https://open.spotify.com/artist/6w1o0CIuCMBffOLcaY8Wtw) | [can't seem to make a change.](https://open.spotify.com/album/7l3f105ZEU3n5F7kpeuCNh) | 3:51 | 2024-07-11 | 2024-09-27 |
 | [Can't Sleep](https://open.spotify.com/track/5BqjUl9NCS2x1kGfHqdsJa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc) | [Can't Sleep](https://open.spotify.com/album/4pZ0g8O278CeZeUOtCfp5r) | 2:50 | 2025-03-27 | 2025-05-09 |
@@ -375,6 +377,7 @@
 | [Mighty Island](https://open.spotify.com/track/4kb4LkXzpvmb8PgbqPRQC6) | [Voice of Baceprot](https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC) | [Mighty Island](https://open.spotify.com/album/0ySITSHIav16LX5l16jg3t) | 3:53 | 2025-02-13 | 2025-04-25 |
 | [Missing You](https://open.spotify.com/track/3lIyZOz2hZLeMD8KK8br7Z) | [DAY](https://open.spotify.com/artist/5wz16QPWwXLAjpGxHaJoUS) | [have a nice DAY](https://open.spotify.com/album/0IjmpdtaR7N8HQeEViTew0) | 4:15 | 2024-12-12 | 2025-04-18 |
 | [Missing You](https://open.spotify.com/track/5MVf4vkfI1Y6jvV4m9pBZC) | [Voxxes](https://open.spotify.com/artist/0GgS2KBIslAgdZu0XYzSTG) | [Daydream](https://open.spotify.com/album/3UTMJp4fLna0RpWH6v1oeT) | 3:39 | 2025-06-19 | 2025-10-04 |
+| [Monopolar \- Tom Furse Remix](https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy) | [Strange Fruit](https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy), [Tom Furse](https://open.spotify.com/artist/656QlXWNjRtnzAr5YNBEQB) | [Monopolar \(Tom Furse Remix\)](https://open.spotify.com/album/4OfKdPcOGCrn3MxBvr1WkM) | 4:25 | 2026-03-05 |  |
 | [Mother Angels](https://open.spotify.com/track/6myB4SLfmZpPpXgPPsodyY) | [MAIVE.](https://open.spotify.com/artist/5k3veZatAzPSJKXiDlOUFk), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Mother Angels](https://open.spotify.com/album/6Bne5YPXNSPhsA2MMLAazu) | 2:44 | 2025-09-18 | 2025-12-06 |
 | [Mother Tongue](https://open.spotify.com/track/5cG4DL30OjzMIJwpJtjETa) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Dorothy Chan](https://open.spotify.com/artist/1Vtc3DwCV0rwTPrqM0g4JN) | [Mother Tongue](https://open.spotify.com/album/7miEy7gOIovPnonf2afoWq) | 3:39 | 2026-02-05 |  |
 | [mr\. worldwide](https://open.spotify.com/track/1u98uNlFDonggbCFabg2ck) | [Suisei](https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi) | [mr\. worldwide](https://open.spotify.com/album/5OzCeyucGcabUw0nBoV6Sq) | 3:03 | 2024-10-31 | 2025-01-24 |
@@ -454,6 +457,7 @@
 | [Say Goodbye](https://open.spotify.com/track/5jtVY2GJNGMLr4HuPQWwKp) | [Elmand](https://open.spotify.com/artist/5Ajt8UGOkZoTRDGA1sqyxz), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Say Goodbye](https://open.spotify.com/album/3fG3Pg6tLeTfXlWySGuE1v) | 3:04 | 2025-10-23 |  |
 | [SAY IT](https://open.spotify.com/track/08iXCxRXnCMzxYaIeFsE1c) | [Shanda](https://open.spotify.com/artist/0AhFkmSnFP9JDAYbDhmI5c), [Chop Guapo](https://open.spotify.com/artist/1Hsy0Ce9ik70IPm3zhYFNT), [Frenkieur](https://open.spotify.com/artist/39pZTlOdgf0trB9xq4TYjl) | [SAY IT](https://open.spotify.com/album/5biWQ776xkyHtmhVlqL1QH) | 2:56 | 2025-02-13 | 2025-05-30 |
 | [Say It to Yourself](https://open.spotify.com/track/3bXL6zTY3ksmLSLORTVKWT) | [Luise Najib](https://open.spotify.com/artist/6ZhJ6vnQM4FnotVwUWWAn0) | [Say It to Yourself](https://open.spotify.com/album/4xKwnLQfu2DImY8GQyAkWT) | 3:31 | 2024-12-12 | 2025-06-13 |
+| [Say Less](https://open.spotify.com/track/1gbZdQdvmptiBWchWrMsv0) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Say Less](https://open.spotify.com/album/5aXu6qbQmwLFk1f8tlEfUS) | 3:09 | 2026-03-05 |  |
 | [Second Choice](https://open.spotify.com/track/4qSiGVSgsnnEeR1NBVyJNK) | [DNA](https://open.spotify.com/artist/6sHZB3bXivfeSzjScwRYGN), [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB) | [Second Choice](https://open.spotify.com/album/1l5AgRNhDoswxPhjIEZztj) | 3:12 | 2025-11-20 |  |
 | [Secondary](https://open.spotify.com/track/04COCuyvbPjkSiJ30kxeuP) | [Raavfy](https://open.spotify.com/artist/3tujwWgykut1qrxOukJczH) | [Secondary](https://open.spotify.com/album/3HI2ahgfYirmgEQO7Z4rVj) | 4:34 | 2025-11-20 |  |
 | [See The Light Light](https://open.spotify.com/track/1kgB4r9Zj3FRdgGUBonxMV) | [Januarta](https://open.spotify.com/artist/6WaPRwMwtYtf0c0F36Dycc) | [See The Light Light](https://open.spotify.com/album/1yg7SZUZ6O0pAma550EPn8) | 2:18 | 2024-06-27 | 2024-09-27 |

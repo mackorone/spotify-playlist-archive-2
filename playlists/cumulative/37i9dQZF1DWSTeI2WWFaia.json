@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lyrical, lo-fi, and lowlife raps. Cover: J. Cole",
+  "description": "Lyrical, lo-fi, and lowlife raps. Cover: Curren$y, The Alchemist & Larry June",
   "name": "Spilled Ink",
   "tracks": [
     {
@@ -882,6 +882,24 @@
       "duration_ms": 122692,
       "name": "Allegedly",
       "url": "https://open.spotify.com/track/2HXsIxIW4PXJI4etLWyXR9"
+    },
+    {
+      "album": {
+        "name": "ALREADY MINE",
+        "url": "https://open.spotify.com/album/5FrD2Gq0lVZnFqln6OKmb7"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "ALREADY MINE",
+      "url": "https://open.spotify.com/track/3r0z0osqa5540ESSK3xQrq"
     },
     {
       "album": {
@@ -5222,7 +5240,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 198017,
       "name": "DRE & SIDNEY",
       "url": "https://open.spotify.com/track/6hRkR1XWoszUc9QSlnHMvp"

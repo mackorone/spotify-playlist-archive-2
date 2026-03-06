@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 578081,
+  "num_followers": 578056,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Marilag",
-        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 157692,
-      "name": "Marilag",
-      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
         "name": "Palayo Sa Mundo",
         "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 268571,
       "name": "Palayo Sa Mundo",
       "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
+        "name": "Marilag",
+        "url": "https://open.spotify.com/album/55B7nAZ0c4QF5pdHhVOkRY"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 157692,
+      "name": "Marilag",
+      "url": "https://open.spotify.com/track/2zbq6eS68i4NIJWekIuW1s"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
+        "name": "kahel na langit",
+        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 216382,
+      "name": "kahel na langit",
+      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 200000,
       "name": "sining (feat. Jay R)",
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
-        "name": "kahel na langit",
-        "url": "https://open.spotify.com/album/4hien5o64CQkkSqQ2w6vhQ"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 216382,
-      "name": "kahel na langit",
-      "url": "https://open.spotify.com/track/1ytElsSPsJ1GBqMfPYydRX"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
+        "name": "Simula Pa Nung Una",
+        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+      },
+      "artists": [
+        {
+          "name": "Patch Quiwa",
+          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+        }
+      ],
+      "duration_ms": 255661,
+      "name": "Simula Pa Nung Una",
+      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
         "name": "Gusto",
         "url": "https://open.spotify.com/album/5x5yKLZt6MF5oznNY42pYK"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Simula Pa Nung Una",
-        "url": "https://open.spotify.com/album/52qmX1Tbwfk9S0iyVd0JHC"
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
       },
       "artists": [
         {
-          "name": "Patch Quiwa",
-          "url": "https://open.spotify.com/artist/3bsQY9pFWVzUMxlSgGQuBn"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 255661,
-      "name": "Simula Pa Nung Una",
-      "url": "https://open.spotify.com/track/7tYjXd42SzEhrWEFQeZxNm"
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -795,22 +811,6 @@
       "duration_ms": 273493,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/64juMW0Kj0MLIn5pbuNvKD"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
+        "name": "Natataranta",
+        "url": "https://open.spotify.com/album/5qECO3XndNcZrfYB3MyIQF"
+      },
+      "artists": [
+        {
+          "name": "Sugarcane",
+          "url": "https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT"
+        }
+      ],
+      "duration_ms": 194745,
+      "name": "Natataranta",
+      "url": "https://open.spotify.com/track/3FAqMtZkIWCznRfhTN9Ff3"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
         "name": "Tumaya",
         "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 207661,
       "name": "Tumaya",
       "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
-        "name": "Cafe Bossa",
-        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
-      },
-      "artists": [
-        {
-          "name": "Sitti",
-          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Para Sa Akin",
-      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
     }
   ],
   "unique_name": "Relax Tayo",

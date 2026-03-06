@@ -104,7 +104,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 153290,
       "name": "4 Da Ravers",
       "url": "https://open.spotify.com/track/4vgOQl4ldjh5JS4cysFHH7"
@@ -2694,7 +2694,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 144004,
       "name": "DJ Wipe My Tears",
       "url": "https://open.spotify.com/track/5j7IXB0zWS9bAQ4w0ysjeT"
@@ -3814,7 +3814,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 207396,
       "name": "Feuerzeug & Benzin",
       "url": "https://open.spotify.com/track/6Fd652yJx5S2oQauUFHicK"
@@ -5167,6 +5167,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna",
+        "url": "https://open.spotify.com/album/5YoAeHd09WntcesrhreEC6"
+      },
+      "artists": [
+        {
+          "name": "ZEYPHIA",
+          "url": "https://open.spotify.com/artist/3yKSgF89HjaiDLsicDFnZd"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "I Just Wanna",
+      "url": "https://open.spotify.com/track/0aSPex57mYlbWm2FsVGICV"
+    },
+    {
+      "album": {
         "name": "Mixed Feelings",
         "url": "https://open.spotify.com/album/3gFpta2STgjcAngM4dyM92"
       },
@@ -6435,6 +6453,28 @@
     },
     {
       "album": {
+        "name": "Laser Beams",
+        "url": "https://open.spotify.com/album/14igiMIUMS40wKZgr28UxO"
+      },
+      "artists": [
+        {
+          "name": "Henk",
+          "url": "https://open.spotify.com/artist/5yt5ZGD6Q2FfK1Elw2Efbv"
+        },
+        {
+          "name": "August Kind",
+          "url": "https://open.spotify.com/artist/45jDjvNOeGVJkKfEwRgxhP"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190451,
+      "name": "Laser Beams",
+      "url": "https://open.spotify.com/track/3VEfoWGnWD09ZnQlVKKGHa"
+    },
+    {
+      "album": {
         "name": "Last Time Under Purple Skies",
         "url": "https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr"
       },
@@ -7544,6 +7584,24 @@
       "duration_ms": 208500,
       "name": "Mission Impossible III",
       "url": "https://open.spotify.com/track/0NeYTEmugY7xa3xiKIAnVP"
+    },
+    {
+      "album": {
+        "name": "MOAA",
+        "url": "https://open.spotify.com/album/3xIiBOudLygh9vz75Usw7z"
+      },
+      "artists": [
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "MOAA",
+      "url": "https://open.spotify.com/track/7btpAjZH4QHYRBBpcMLPE1"
     },
     {
       "album": {
@@ -11644,7 +11702,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 124500,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/1RiUCViwSix0tpcJAkUikB"
@@ -13044,6 +13102,28 @@
       "duration_ms": 197197,
       "name": "You Are In My System - Faster Horses Sport Mix",
       "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
+    },
+    {
+      "album": {
+        "name": "You Don't Know",
+        "url": "https://open.spotify.com/album/3CPPicNDwcdidWns3ndGu2"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        },
+        {
+          "name": "LEVT",
+          "url": "https://open.spotify.com/artist/5xtKvLkmqMb5tTMuU9Lgmn"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146404,
+      "name": "You Don't Know",
+      "url": "https://open.spotify.com/track/65NogwADd1q5LMxU5yZ12i"
     },
     {
       "album": {

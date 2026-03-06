@@ -5884,7 +5884,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 124500,
       "name": "Boca",
       "url": "https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF"
@@ -12710,7 +12710,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 198991,
       "name": "Dor Sa Te Ador",
       "url": "https://open.spotify.com/track/5w3USA7vA4NTm9UEozPfe5"
@@ -13502,7 +13502,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -25182,7 +25182,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -28950,7 +28950,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 179477,
       "name": "NEW YORK",
       "url": "https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD"
@@ -32577,6 +32577,24 @@
     },
     {
       "album": {
+        "name": "Pijamale",
+        "url": "https://open.spotify.com/album/4e4msWi5QFbLZxyLb14B16"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159742,
+      "name": "Pijamale",
+      "url": "https://open.spotify.com/track/58MLHya54TwTyzkfWasuIT"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/6vpnkFh7VxD3GMPhOunnm1"
       },
@@ -35082,7 +35100,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 157021,
       "name": "Reggaeton",
       "url": "https://open.spotify.com/track/5a2hQFJzWF8od76LnJHnPA"
@@ -39158,7 +39176,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 197961,
       "name": "Sparge case",
       "url": "https://open.spotify.com/track/1tNJcix1I4XyIaywTduDVk"
@@ -43252,7 +43270,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
@@ -48118,7 +48136,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-06",
       "duration_ms": 173962,
       "name": "Zambete si Pacate",
       "url": "https://open.spotify.com/track/2ozyskqNWm7TaqBSkZuMzF"

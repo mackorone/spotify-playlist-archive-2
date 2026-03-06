@@ -4,7 +4,7 @@
 
 > marrakech season
 
-126 songs - 8 hr 14 min
+127 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 | 2025-06-27 |  |
 | [Rwina](https://open.spotify.com/track/73CKzmFl0HBDVh28xOEHU6) | [Soufiane Az](https://open.spotify.com/artist/28Q2uRWOQJHFGUy1VBCY04) | [Itri Boy](https://open.spotify.com/album/2yPV0QKx8KtNwceNQ5gQ9r) | 3:06 | 2025-06-27 | 2025-07-25 |
 | [Sabu](https://open.spotify.com/track/4KG3SAPJbEvNOVO7VsqJBr) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Sabu](https://open.spotify.com/album/0myT5yKI8I18eDlwXV5iLL) | 3:04 | 2025-06-27 | 2025-08-25 |
-| [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2025-06-27 |  |
+| [Sahra On The Moon](https://open.spotify.com/track/3ZjURSv9XIXmIJYbhhntFr) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA), [Feras Naddaf](https://open.spotify.com/artist/1DXyrlrEPGitPShvpLJd2b) | [Sahra On The Moon](https://open.spotify.com/album/14KzkAjFLB8uX6aPndfbg7) | 2:39 | 2025-06-27 | 2026-03-06 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2025-06-27 |  |
 | [See That](https://open.spotify.com/track/4wYwe4DGpBdyDNf2xTCPar) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [See That](https://open.spotify.com/album/6qpLGCyg0Jxbjk2xLTBbZa) | 6:55 | 2025-06-27 |  |
 | [September 31st](https://open.spotify.com/track/5r1cTCi0jtzJeiMPPDQLLM) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Máximo](https://open.spotify.com/artist/6vBFZrcAJhzNdO3h4wdSgX) | [September 31st](https://open.spotify.com/album/7ufC3doGHGTVT5CJSLDKVq) | 4:39 | 2026-02-03 |  |
@@ -113,6 +113,7 @@
 | [Stranger](https://open.spotify.com/track/5ZgE9I9C2SLdctOimCxhVY) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Bautiii](https://open.spotify.com/artist/496cakHbkZwVyelr2d2Fn9) | [Stranger](https://open.spotify.com/album/6v3AzcwtGZjSuAfBJOMTMB) | 3:06 | 2025-08-02 |  |
 | [Sunrise \(Adam Ten Remix\)](https://open.spotify.com/track/4CrKKZuQtC5GgCSBRl1zpk) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Sunrise \(Remixes\)](https://open.spotify.com/album/3Im5438f9q5yyVSSYcqwO1) | 3:48 | 2026-01-22 |  |
 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \(Radio Edit\)](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 | 2025-06-27 | 2025-08-03 |
+| [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-05 |  |
 | [Tangerines](https://open.spotify.com/track/5OqAt7yFGoyAV9PEOAmfa1) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Tangerines](https://open.spotify.com/album/1gOAS1nyS6NEYJdjvOKQXt) | 2:31 | 2025-06-27 | 2025-07-02 |
 | [Tayerza](https://open.spotify.com/track/3UmvxbHGLbl6WYjkkvbgvT) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [TASUTA N\-IMAL](https://open.spotify.com/artist/5FTU4No8pkcpeybO0CeVXz) | [Tayerza](https://open.spotify.com/album/4v7zMEJxR3PCu1pngljABi) | 4:22 | 2025-10-03 |  |
 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 | 2025-06-27 |  |
