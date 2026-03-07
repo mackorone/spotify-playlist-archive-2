@@ -4,7 +4,7 @@
 
 > The label's essential tracks by PARTYNEXTDOOR, Drake, Smiley, Naomi Sharon and more.
 
-393 songs - 23 hr 9 min
+394 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/7I6XbdkDL1YLbRFeJFGJZT) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Money Feen \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/5Iw8hmPOgFw9rzI9510FKQ) | 2:19 | 2025-02-07 | 2025-06-14 |
 | [Money in the Bank](https://open.spotify.com/track/1zOBliu4XVuQ0246Jbt23w) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:01 | 2023-06-01 | 2023-11-18 |
 | [MOTH BALLS](https://open.spotify.com/track/7DL2F2bueQycqYjqsjHYjG) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:32 | 2025-04-18 |  |
+| [MR RECOUP](https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [WHAT HAPPENED TO THE STREETS?](https://open.spotify.com/album/3ti3exZqx77nDf4eIQ1z5o) | 2:45 | 2026-03-06 |  |
 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/1JUvB8LRKYoik4BB1bEJWK) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Majid Jordan](https://open.spotify.com/album/7awpB1UEVeDF6h8mGMssTI) | 4:08 | 2024-04-12 | 2024-06-26 |
 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/5fgTKJ5PTbRLzem1tkfFjx) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Majid Jordan](https://open.spotify.com/album/3CUUharDNym6nWwLpI4mPi) | 4:08 | 2023-06-01 | 2024-04-19 |
 | [My Town \(feat\. Giggs\)](https://open.spotify.com/track/02aZqt8SqHScHM7A7zYOh0) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [no long talk.](https://open.spotify.com/album/6benu980FN4ljKWemx6z3g) | 3:18 | 2024-04-12 | 2024-06-26 |

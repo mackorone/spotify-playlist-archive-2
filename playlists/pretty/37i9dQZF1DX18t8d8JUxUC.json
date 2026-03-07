@@ -1,6 +1,6 @@
 {
   "description": "This is what folk sounds like en espa\u00f1ol. Cover: Andrea Bejar",
-  "num_followers": 32941,
+  "num_followers": 32963,
   "original_name": "Latin Folk",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Disfruto",
-      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 183880,
       "name": "Asilo (feat. Mon Laferte)",
       "url": "https://open.spotify.com/track/41gpbNDcsSh4r8YgVMbQqh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/6UR5tB1wVm7qvH4xfsHr8m"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -263,22 +263,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 308346,
       "name": "Pajarito colibr\u00ed",
       "url": "https://open.spotify.com/track/3Kyaxx0AhnwJSQOUMBGrlz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \"EL HALC\u00d3N\")",
-        "url": "https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 303022,
-      "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \"EL HALC\u00d3N\")",
-      "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "\u00bfY Si Te Invito?",
         "url": "https://open.spotify.com/album/2OV0dtRMPMLrL1kdEQCdTR"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 186000,
       "name": "\u00bfY Si Te Invito?",
       "url": "https://open.spotify.com/track/0foW7sax16CI8UizVAek32"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \"EL HALC\u00d3N\")",
+        "url": "https://open.spotify.com/album/3lwkgOmgl8pe5RWveTRCxR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 303022,
+      "name": "Mi Viejo (Soundtrack de la Pel\u00edcula \"EL HALC\u00d3N\")",
+      "url": "https://open.spotify.com/track/326nCnHzA2BttJWhuJIan9"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
-        "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 299548,
-      "name": "arco\u00edris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
-      "url": "https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Vendr\u00e1n Suaves Lluvias",
         "url": "https://open.spotify.com/album/7MJAlq9PJGZJcQRQ53wJna"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 277486,
       "name": "Un Rayo de Luz",
       "url": "https://open.spotify.com/track/50N28N6qdKjK9Z6XmRpuso"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "arco\u00edris (extra\u00eddo de LA NUBE EN EL JARD\u00cdN)",
+        "url": "https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 299548,
+      "name": "arco\u00edris - extra\u00eddo de LA NUBE EN EL JARD\u00cdN",
+      "url": "https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 321662,
-      "name": "Como me encanta",
-      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Larga Duraci\u00f3n",
         "url": "https://open.spotify.com/album/4ih5clBRBMTQSMkRgpKf1a"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 198536,
       "name": "Las Vacas",
       "url": "https://open.spotify.com/track/28OcOTibh6MFjwIrdS4eZh"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 321662,
+      "name": "Como me encanta",
+      "url": "https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "El Invento",
+        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 153413,
+      "name": "El Invento",
+      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "Paris Texas",
         "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "El Invento",
-        "url": "https://open.spotify.com/album/1XhI1Bcby2CSogky3EiENa"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 153413,
-      "name": "El Invento",
-      "url": "https://open.spotify.com/track/7daItyBA4UqHyFItCVgzBn"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/7u2qRcWGqQIi8ifEuuefdh"
       },
@@ -771,26 +771,6 @@
       "duration_ms": 203112,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/68rfeiR6CVcaq3XTsH7Ihl"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
-        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
-      },
-      "artists": [
-        {
-          "name": "Gaby Moreno",
-          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
-        },
-        {
-          "name": "Oscar Isaac",
-          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
-        }
-      ],
-      "duration_ms": 198430,
-      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
-      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -819,6 +799,26 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
+        "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+        "url": "https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        },
+        {
+          "name": "Oscar Isaac",
+          "url": "https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy"
+        }
+      ],
+      "duration_ms": 198430,
+      "name": "Luna de Xelaj\u00fa (feat. Oscar Isaac)",
+      "url": "https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
         "name": "hastalamadre",
         "url": "https://open.spotify.com/album/3b3iMyMBwjPko7SBusTHTQ"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 235966,
       "name": "hastalamadre",
       "url": "https://open.spotify.com/track/19QQ5cSAP5ERRJJXN937OB"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
-        "name": "no me culpes por sentir",
-        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "no me culpes por sentir",
-      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -883,6 +867,22 @@
       "duration_ms": 164266,
       "name": "Qu\u00e9 Tal",
       "url": "https://open.spotify.com/track/6EcdAJ3z6fb3xdMJCIukgV"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "no me culpes por sentir",
+        "url": "https://open.spotify.com/album/5nzJbUqiBTfaAOXe8cT8be"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "no me culpes por sentir",
+      "url": "https://open.spotify.com/track/251OT3yt4toRcJkwyNR7R4"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 235531,
-      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Fases",
         "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
       },
@@ -1159,18 +1143,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Neblina Sesiones desde el Bosque",
-        "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
+        "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+        "url": "https://open.spotify.com/album/1IQJrpfEyQ9LAelwcg0CMU"
       },
       "artists": [
         {
-          "name": "Japonica",
-          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
         }
       ],
-      "duration_ms": 220765,
-      "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
+      "duration_ms": 235531,
+      "name": "Algunas Cosas de Ti Que Se Merecen una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/5xYNgPVNycBYtYfN3lxnYB"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Perd\u00ed",
-        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+        "name": "Neblina Sesiones desde el Bosque",
+        "url": "https://open.spotify.com/album/2lMcIJqzPaS4qJahlHpUHA"
       },
       "artists": [
         {
-          "name": "El David",
-          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+          "name": "Japonica",
+          "url": "https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Perd\u00ed",
-      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
+      "duration_ms": 220765,
+      "name": "Canto de Amor - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/33CUljxlbtF0EnAfBU4BDJ"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1223,6 +1207,22 @@
       "duration_ms": 328663,
       "name": "Flores Muertas",
       "url": "https://open.spotify.com/track/2WeVVJCmTfR2kFomtxRHsz"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Perd\u00ed",
+        "url": "https://open.spotify.com/album/2Q4btBxowoXPwjO0fMiJme"
+      },
+      "artists": [
+        {
+          "name": "El David",
+          "url": "https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Perd\u00ed",
+      "url": "https://open.spotify.com/track/5WGQuK64aA6k2xpjUxAek7"
     },
     {
       "added_at": "2026-01-30 05:01:09",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-01-30 05:01:09",
       "album": {
-        "name": "Esta Soledad",
-        "url": "https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 254892,
-      "name": "Esta Soledad",
-      "url": "https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt"
-    },
-    {
-      "added_at": "2026-01-30 05:01:09",
-      "album": {
         "name": "Estrellas En El Mar",
         "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 251040,
       "name": "Estrellas En El Mar",
       "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
+    },
+    {
+      "added_at": "2026-01-30 05:01:09",
+      "album": {
+        "name": "Esta Soledad",
+        "url": "https://open.spotify.com/album/0z0ow6KKo6R0tRdhN9WTXo"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 254892,
+      "name": "Esta Soledad",
+      "url": "https://open.spotify.com/track/3VLMqaueJBMnciIsvH0mdt"
     },
     {
       "added_at": "2026-01-30 05:01:09",

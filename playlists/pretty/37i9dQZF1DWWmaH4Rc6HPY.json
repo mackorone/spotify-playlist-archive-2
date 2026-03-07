@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Usted Se\u00f1alemelo en portada.",
-  "num_followers": 37801,
+  "num_followers": 37810,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
+        "name": "Vinculo",
+        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "duration_ms": 256713,
+      "name": "Vinculo",
+      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
         "name": "CUARTO AZUL",
         "url": "https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 198841,
       "name": "TRANKIS",
       "url": "https://open.spotify.com/track/1wNDU9iweBU4ZZpWBUW9O5"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
-        "name": "Vinculo",
-        "url": "https://open.spotify.com/album/33sr9mQyBS6HDyG9NpSRpi"
-      },
-      "artists": [
-        {
-          "name": "Enjambre",
-          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
-        }
-      ],
-      "duration_ms": 256713,
-      "name": "Vinculo",
-      "url": "https://open.spotify.com/track/2JXWGqA83AR8QDrYHnWabc"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "La vida de Nadie",
-        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
-      },
-      "artists": [
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 167943,
-      "name": "Nadie",
-      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "NO ME IMPORTA",
         "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 153815,
       "name": "NO ME IMPORTA",
       "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "La vida de Nadie",
+        "url": "https://open.spotify.com/album/3zzUdNCdGCDobDktA3v6yi"
+      },
+      "artists": [
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 167943,
+      "name": "Nadie",
+      "url": "https://open.spotify.com/track/2Dsf9be24UFTl9dcdKeBb5"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "BRAINCHEM",
-        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
+        "name": "EL PEOR",
+        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
       },
       "artists": [
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
         }
       ],
-      "duration_ms": 148636,
-      "name": "BRAINCHEM",
-      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
+      "duration_ms": 114000,
+      "name": "EL PEOR",
+      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "EL PEOR",
-        "url": "https://open.spotify.com/album/1kBaRHAH9gtFHuoz7zbgOv"
+        "name": "BRAINCHEM",
+        "url": "https://open.spotify.com/album/1TIfjLBYhcmb9E8VuUvLPf"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         }
       ],
-      "duration_ms": 114000,
-      "name": "EL PEOR",
-      "url": "https://open.spotify.com/track/1J7zkJKLpHYwSgpcz8jBwq"
+      "duration_ms": 148636,
+      "name": "BRAINCHEM",
+      "url": "https://open.spotify.com/track/7fXIu7u2gX2zdGbBveKp2n"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1135,22 +1135,18 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "El M\u00e9ndigo D\u00eda Del Padre",
-        "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
+        "name": "R",
+        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Madero",
-          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
-        },
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 266066,
-      "name": "El M\u00e9ndigo D\u00eda Del Padre",
-      "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
+      "duration_ms": 210333,
+      "name": "Sed de Acci\u00f3n",
+      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1175,18 +1171,22 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "R",
-        "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
+        "name": "El M\u00e9ndigo D\u00eda Del Padre",
+        "url": "https://open.spotify.com/album/5h5eVaiuXPxfUfxgFOPuE9"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Jos\u00e9 Madero",
+          "url": "https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw"
+        },
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Sed de Acci\u00f3n",
-      "url": "https://open.spotify.com/track/5w4pPQbuBmMPGil1gwIOtX"
+      "duration_ms": 266066,
+      "name": "El M\u00e9ndigo D\u00eda Del Padre",
+      "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
     },
     {
       "added_at": "2026-02-27 06:00:28",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-02-27 06:00:28",
       "album": {
-        "name": "Ah\u00ed Voy",
-        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
-      },
-      "artists": [
-        {
-          "name": "Playa Limbo",
-          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
-        }
-      ],
-      "duration_ms": 178743,
-      "name": "Ah\u00ed Voy",
-      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
-    },
-    {
-      "added_at": "2026-02-27 06:00:28",
-      "album": {
         "name": "Miedo",
         "url": "https://open.spotify.com/album/0HiImAtftKt8Ob2Viw26PB"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 196964,
       "name": "Miedo",
       "url": "https://open.spotify.com/track/0MaSESPxb2TtRBvtqd6sAx"
+    },
+    {
+      "added_at": "2026-02-27 06:00:28",
+      "album": {
+        "name": "Ah\u00ed Voy",
+        "url": "https://open.spotify.com/album/04lZnCUHDdYOx2MEwwKakm"
+      },
+      "artists": [
+        {
+          "name": "Playa Limbo",
+          "url": "https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8"
+        }
+      ],
+      "duration_ms": 178743,
+      "name": "Ah\u00ed Voy",
+      "url": "https://open.spotify.com/track/5N8HdHYq8PAkroeoVidxSe"
     },
     {
       "added_at": "2026-02-27 06:00:28",

@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Daniel Caesar
 
-1,853 songs - 3 day 17 hr 6 min
+1,855 songs - 3 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 | 2023-04-28 | 2023-06-03 |
 | [Alone](https://open.spotify.com/track/0AV42KWeMXr7npiKyoyvrh) | [Eddy Rock](https://open.spotify.com/artist/2aIU0jOzhmc75mFgJYfPbz) | [Alone](https://open.spotify.com/album/7LUc0gybyjAx0gC7hdT08e) | 2:12 | 2020-12-16 | 2021-03-26 |
 | [Altar](https://open.spotify.com/track/3eRdNkKRi6wpkaG9XrfQpJ) | [LUCA](https://open.spotify.com/artist/7myDQkUb7zFhkmqyq8O5LT) | [Altar](https://open.spotify.com/album/4v5fXLtIXx2kywknrAZg2o) | 2:28 | 2022-04-15 | 2022-06-04 |
-| [Always Been You](https://open.spotify.com/track/5LtmTnc12V5jSPhwG9noBK) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Always Been You](https://open.spotify.com/album/0nHDACGAzEpDQh8InBqr3I) | 2:25 | 2025-02-28 |  |
+| [Always Been You](https://open.spotify.com/track/5LtmTnc12V5jSPhwG9noBK) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Always Been You](https://open.spotify.com/album/0nHDACGAzEpDQh8InBqr3I) | 2:25 | 2025-02-28 | 2026-03-07 |
 | [AMERICAN GURL](https://open.spotify.com/track/1YYcaX7Mft6dVeSSwfyAuh) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [AMERICAN GURL](https://open.spotify.com/album/5LXmSrGzPSEmTEu3OIsotT) | 3:48 | 2022-03-28 | 2022-11-17 |
 | [american spirit](https://open.spotify.com/track/5PjMEPg56t95BptaDhdQVg) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [mud on my superstars](https://open.spotify.com/album/3hFlIKU66qbWphgI9DcUVP) | 3:21 | 2023-11-07 | 2024-01-10 |
 | [AMPED UP](https://open.spotify.com/track/3cA34URgTzhITECAAtDKfH) | [mal sounds](https://open.spotify.com/artist/3DWKoRS8LixNBDOSm1bxHR) | [AMPED UP](https://open.spotify.com/album/70L8buoF4aTyySIBMaoo2E) | 3:04 | 2023-05-19 | 2023-06-24 |
@@ -425,7 +425,7 @@
 | [Disbeliever](https://open.spotify.com/track/654zDjl1CT3CqA7IP1KXxa) | [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Disbeliever](https://open.spotify.com/album/6hUDF7eoQmAj9rpQ9YgSXL) | 1:55 | 2022-07-22 | 2022-11-10 |
 | [DITTO](https://open.spotify.com/track/30AnNG3dFbHLQuSbIVWEbF) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [DITTO](https://open.spotify.com/album/41udGVovlmMv8eD3cQkJXu) | 2:30 | 2021-02-27 | 2022-11-17 |
 | [Diva](https://open.spotify.com/track/3DUkMATtjCLnic8KjPgx66) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Diva](https://open.spotify.com/album/2nOhBMGUd7zru4hDhlV1ih) | 3:27 | 2022-06-10 | 2023-02-25 |
-| [Divorce](https://open.spotify.com/track/2m0M2WKieMv9w4RP7R4P8v) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Divorce](https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL) | 3:31 | 2025-03-13 |  |
+| [Divorce](https://open.spotify.com/track/2m0M2WKieMv9w4RP7R4P8v) | [Housewife](https://open.spotify.com/artist/2IwSOO9bV4ZwvpnNk9f6lN) | [Divorce](https://open.spotify.com/album/62bSghYpxgNPzSVD9gUfNL) | 3:31 | 2025-03-13 | 2026-03-07 |
 | [DIZZY](https://open.spotify.com/track/5c0WB921PDc4s4EpthSDJo) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [DIZZY](https://open.spotify.com/album/7lFMvbDwtUZhLhVJyUu8tB) | 3:19 | 2022-02-17 | 2022-05-10 |
 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 | 2023-03-24 | 2023-10-21 |
 | [dj](https://open.spotify.com/track/3FkE7rIbfrkD5JluAGZtlt) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [dj](https://open.spotify.com/album/3muBhysPm7Fo5M7NiFLNLp) | 2:15 | 2023-04-26 | 2023-07-22 |
@@ -555,6 +555,7 @@
 | [FIT PIC](https://open.spotify.com/track/2fBhent6RyZfVDVL3mCeFE) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [FIT PIC](https://open.spotify.com/album/4kq62cyYveJQEMXyNOh35E) | 2:31 | 2021-08-13 | 2021-10-14 |
 | [FIT PIC](https://open.spotify.com/track/44xDuPMVZaGlsBCcBSsfCF) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [PASTIMES+](https://open.spotify.com/album/1oxM9aky7Q1YMXdKINqtjf) | 2:31 | 2022-04-09 | 2022-05-12 |
 | [FIX YOUR FACE](https://open.spotify.com/track/150pcHJ0Q6v21bj3Tt7NWN) | [seeyousoon](https://open.spotify.com/artist/2QFne35yv8Kjaey8tbYiT1) | [FIX YOUR FACE](https://open.spotify.com/album/3dn5duAhBBki3eyR1juH4m) | 3:06 | 2021-09-03 | 2021-12-22 |
+| [FLACKITO JODYE \(feat\. Tokischa\)](https://open.spotify.com/track/5evBKaW1C74pRKBoQIyZ8C) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Don't Be Dumb](https://open.spotify.com/album/0atfWEzoZMgo9zCwFd5nEN) | 2:20 | 2026-03-06 |  |
 | [Float On](https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Float On](https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb) | 2:56 | 2021-02-20 | 2022-02-26 |
 | [Floorboards](https://open.spotify.com/track/742SnYhPRUReVJwoDnwJgb) | [COLD MEGA](https://open.spotify.com/artist/7ms2CCG69PnGD9gPj7WyRb), [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Floorboards](https://open.spotify.com/album/1nkCY4ccPE8d1btRCJWsK7) | 3:21 | 2022-08-05 | 2022-08-08 |
 | [Flowers](https://open.spotify.com/track/6JJgmmfMsoGTzwCe2f2K8u) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Flowers](https://open.spotify.com/album/0RPeItB8kHKwmYhKAJ8ceq) | 2:34 | 2021-11-12 | 2022-03-01 |
@@ -1546,7 +1547,7 @@
 | [Super Sweet](https://open.spotify.com/track/5D3erA0fuhg5qsC6MUlp9g) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Everybody's in My Ear](https://open.spotify.com/album/1EIejbMB5IWs1gHMJOodh9) | 2:15 | 2021-09-20 | 2022-02-12 |
 | [SUPER TUESDAY!](https://open.spotify.com/track/7FavLZuFJ4hSuRzSPJLGBM) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [EP!](https://open.spotify.com/album/2xApp3I0BDU0THUdaxEq26) | 2:58 | 2020-12-12 | 2021-02-27 |
 | [Superglue](https://open.spotify.com/track/3e0ZdECpzQAXZIyyI9glBa) | [Coupdekat](https://open.spotify.com/artist/7dkxCFHMMu1kwCdmCA15i0) | [Superglue](https://open.spotify.com/album/1OEZ2Ct6bMGje4eldWOWjJ) | 2:06 | 2023-03-20 | 2023-04-15 |
-| [Supernova](https://open.spotify.com/track/0n3nkCQVWJNDNIXw1U08Gw) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Supernova](https://open.spotify.com/album/2lmVjrA39ngMJ5G7xUMRTf) | 3:33 | 2025-02-28 |  |
+| [Supernova](https://open.spotify.com/track/0n3nkCQVWJNDNIXw1U08Gw) | [KENNEDY](https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R) | [Supernova](https://open.spotify.com/album/2lmVjrA39ngMJ5G7xUMRTf) | 3:33 | 2025-02-28 | 2026-03-07 |
 | [SUPERSOMA](https://open.spotify.com/track/5vDcs1FIAN79cELRo0P2SB) | [SomaDina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U) | [SUPERSOMA](https://open.spotify.com/album/1cPTRUcMrR1jAww0uW8D8Y) | 2:51 | 2021-10-29 | 2022-03-01 |
 | [Supersonic](https://open.spotify.com/track/5a1Frxln2IsaBlzPfzEaRD) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Supersonic](https://open.spotify.com/album/6MUq7oII8rOSCaphVASuh8) | 2:29 | 2021-03-14 | 2022-02-23 |
 | [supertight](https://open.spotify.com/track/2Siwe4138BLRthWPHhXNKq) | [georgee](https://open.spotify.com/artist/27RSBwbjahAvMQOP2aoqSs) | [supertight](https://open.spotify.com/album/4ATDXQNV9JlVVsYvgQmpFF) | 3:13 | 2024-06-28 | 2026-02-28 |
@@ -1607,6 +1608,7 @@
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2023-10-13 | 2024-04-06 |
 | [the apathy song](https://open.spotify.com/track/6L4BJnZqC8s77W0yqHYes6) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎whatevernowiscalled](https://open.spotify.com/album/5MXOZAi9yayRDijHRDUVQ5) | 2:26 | 2022-05-09 | 2022-07-01 |
 | [The Big Leagues](https://open.spotify.com/track/350fMBx2Q0iGVBblBri46j) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [The Big Leagues](https://open.spotify.com/album/2lE1xTqPNmvbO1G3MnTttE) | 2:45 | 2024-09-14 |  |
+| [The Cost of Freedom](https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2) | [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [The Cost of Freedom](https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0) | 3:30 | 2026-03-06 |  |
 | [The Difference](https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/3QgFzksD4J43TnGIJOOrRV) | 2:19 | 2022-05-27 | 2023-03-21 |
 | [The Difference](https://open.spotify.com/track/5kJ4BWZ9Y1qFIwwTbMIxYX) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [The Difference](https://open.spotify.com/album/4iwKDIUE0hLZcdadHE87kl) | 2:19 | 2024-01-09 | 2024-04-19 |
 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 | 2022-05-09 | 2022-05-14 |

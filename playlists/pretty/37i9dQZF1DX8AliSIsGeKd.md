@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Nore En Pure
 
-[Spotify](https://open.spotify.com/user/spotify) - 740,230 likes - 90 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 740,472 likes - 90 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 26 | [Craver](https://open.spotify.com/track/1gGUBYgzb038qQbALIvfX8) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [MASILLA](https://open.spotify.com/artist/5kNvtqUuq5Zq1uCryy7Nrh) | [Craver](https://open.spotify.com/album/3GUBob1Q8WP3YPN42jcLGv) | 2:29 |
 | 27 | [Innerglow](https://open.spotify.com/track/6JOypVHG0E5UmL59Pylp7f) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Innerglow](https://open.spotify.com/album/1JObACrDdQUjZdgrLKY5c6) | 2:54 |
 | 28 | [Siren's Flicker](https://open.spotify.com/track/6zcVM8SBJ6LWMqjb2bvMUZ) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Siren's Flicker](https://open.spotify.com/album/50XN1n6JM7jL1qmZeanLZN) | 3:44 |
-| 29 | [Track 3](https://open.spotify.com/track/0oxI5rawhhyY5bs4xxB6mO) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 20](https://open.spotify.com/album/47944wzUIQc46OD0M6APq5) | 0:00 |
+| 29 | [It's All Inside \- Radio Ultra Mix](https://open.spotify.com/track/0oxI5rawhhyY5bs4xxB6mO) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Kelch 20](https://open.spotify.com/album/47944wzUIQc46OD0M6APq5) | 2:05 |
 | 30 | [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 |
 | 31 | [Rakete](https://open.spotify.com/track/4RRS6VxbgXMmgcc9PPjlk7) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Gregor Tresher](https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC) | [Bigger Than Techno](https://open.spotify.com/album/38gzifiSgb7tpOzpSt9OOf) | 2:55 |
 | 32 | [It's Back](https://open.spotify.com/track/6pj9t8ICQ4Tj7DCT5FgzkZ) | [Patrik Berg](https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l) | [It's Back](https://open.spotify.com/album/1xcrdF8YSjhyib8tyMiCDq) | 3:30 |
 | 33 | [Miràge](https://open.spotify.com/track/6weajArrT9WNaci54O9nn7) | [Fran LF](https://open.spotify.com/artist/0BtNHI9EQwfngxEqz0PwOg) | [TECH037](https://open.spotify.com/album/1SZw6bpmaOExbYyHzCCDi1) | 6:08 |
-| 34 | [Your Command \- Pig&Dan Remix](https://open.spotify.com/track/5oc9ezJfiJppUqcDOKqhzr) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Pig&Dan](https://open.spotify.com/artist/0IRcp8Vgz8Ll5sK8pvhHkA) | [Your Command \(Pig&Dan Remix\)](https://open.spotify.com/album/2OMuGhcDBrwXbLLjbIxzFY) | 6:39 |
+| 34 | [Your Command \- Pig&Dan Remix](https://open.spotify.com/track/5oc9ezJfiJppUqcDOKqhzr) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [Pig&Dan](https://open.spotify.com/artist/04jj7dljPI0ixtNsz2pXWK) | [Your Command \(Pig&Dan Remix\)](https://open.spotify.com/album/2OMuGhcDBrwXbLLjbIxzFY) | 6:39 |
 | 35 | [Mars](https://open.spotify.com/track/6k5fhSF7Id7GHCpCpenYK7) | [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH) | [Mars](https://open.spotify.com/album/6ubgKwstiuQr4DoZBF5HPO) | 3:46 |
 | 36 | [Macema](https://open.spotify.com/track/2PaH7S9csxYwNVZ5GZDOH9) | [Rey&Kjavik](https://open.spotify.com/artist/0R7kz98b2zjiuU3AffoeYz) | [Macema](https://open.spotify.com/album/4xOq4LHwKFpmxTPHzf9CP0) | 9:38 |
 | 37 | [RAZR](https://open.spotify.com/track/6z5mVotsf2mbBGGH7mDtPg) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [RAZR](https://open.spotify.com/album/6oINR8XDwuKOMuk8izX5wv) | 5:15 |

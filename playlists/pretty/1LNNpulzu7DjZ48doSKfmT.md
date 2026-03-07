@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 378 songs - 19 hr 3 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 461 likes - 382 songs - 19 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -386,5 +386,9 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 376 | [Hard To Rest](https://open.spotify.com/track/0OwOR7QUSXloUe4ujY8XXu) | [YK KYPHO](https://open.spotify.com/artist/76wuAPWBxPtjkEItuWQ9xH), [Kid Vilho](https://open.spotify.com/artist/3wP4wLLGxfYaj4dSWkO1eR) | [Dystopia](https://open.spotify.com/album/7a9Y8otyjqsa6cbgNoTBxx) | 1:49 |
 | 377 | [Rituals](https://open.spotify.com/track/22jnSqBJ5fxftDizxD4sid) | [Ashanti Selah](https://open.spotify.com/artist/1IdpvTfGDPshOD7PaYPAkS), [Oscat!](https://open.spotify.com/artist/7gLeWgrrsswx6MYFL4c3SA) | [Rituals](https://open.spotify.com/album/790fxRQeupN9YpHLNiWYiK) | 5:12 |
 | 378 | [Paga Minha Grana](https://open.spotify.com/track/4oTcvL95uKQ8vd6cZKnjpS) | [Tchurran](https://open.spotify.com/artist/4SSe2iJKwLBp6LKtWpyFiX) | [Paga Minha Grana](https://open.spotify.com/album/1Ky0i8bqJpSyYJAFzp1OOi) | 2:26 |
+| 379 | [Lo Bueno Y Lo Mejor](https://open.spotify.com/track/2wHBKaU28OaenwUVBzotSn) | [Maestro C.](https://open.spotify.com/artist/7JH0ZfXWToqNfeUmUL8dBd) | [Lo Bueno Y Lo Mejor](https://open.spotify.com/album/1I4UZFzMncjzeXeZrLeuFc) | 3:22 |
+| 380 | [The Brink](https://open.spotify.com/track/2sfMpk6ZMNV7iJpOopK4ue) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [The Brink](https://open.spotify.com/album/6QibssZn3Z4HGIyap0lKHj) | 3:24 |
+| 381 | [RIPIANDO](https://open.spotify.com/track/7sSGNIigUSEwQrW4yt8HzA) | [JDHXXVI](https://open.spotify.com/artist/26GSmfnmtS0DMD8AU3DToM), [dleongoatprdc](https://open.spotify.com/artist/5eJdZWTjF565VYcJtMhQ4Y) | [AFUERADELCIRCULO](https://open.spotify.com/album/5WilJWcKkdxROVXsgXXLiU) | 2:52 |
+| 382 | [Chai Tea](https://open.spotify.com/track/0MNAjeJhlZes6HoJdCN6Vw) | [Fijnproeverz](https://open.spotify.com/artist/3sV1Ese7wuMcBnfgpvwEV3), [Brother Lynx](https://open.spotify.com/artist/1NZm2rx7SsFgvykiQ3gGMi), [Djenghis Haan](https://open.spotify.com/artist/7G1yCP3w4Q5fpZlP8m7I3q), [Nizzy Beats](https://open.spotify.com/artist/02I7ile2NR43hK5h6yg1M0), [Skinny Bonez Tha Godfatha](https://open.spotify.com/artist/2NYrzwv4HQ9w2uuBUfOq5q) | [Chai Tea](https://open.spotify.com/album/1aWb0bF0NdCE2oU0FeSGui) | 2:22 |
 
-Snapshot ID: `AAAcIkWcrjT6uoC4IUshYsAN7UXU5s6e`
+Snapshot ID: `AAAcJvCCrvFsy3bZD7cfXGOssrXPs+Qr`

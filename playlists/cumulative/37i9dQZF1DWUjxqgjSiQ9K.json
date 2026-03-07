@@ -4335,6 +4335,32 @@
     },
     {
       "album": {
+        "name": "Danzando Latino",
+        "url": "https://open.spotify.com/album/0Sp4tDfsRAYgnhElV75Hph"
+      },
+      "artists": [
+        {
+          "name": "Ammi Worship",
+          "url": "https://open.spotify.com/artist/5n1TEfMQLyrLCad5qFzVxg"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Julian Delgado",
+          "url": "https://open.spotify.com/artist/5kC8gcdT9bWaTaVA58YUu9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338784,
+      "name": "Danzando Latino",
+      "url": "https://open.spotify.com/track/0iPN1s8yZXe5o69E94vPLb"
+    },
+    {
+      "album": {
         "name": "Darme",
         "url": "https://open.spotify.com/album/695um4H2Si43vzZWDwA4Fr"
       },
@@ -11276,7 +11302,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 341727,
       "name": "Muevete en Mi",
       "url": "https://open.spotify.com/track/5UrU3cQn6PNDhUzrIjnkMC"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-03-27",
-  "description": "House music lives here. United under one roof, featuring Jackie Hollander",
+  "description": "House music lives here. United under one roof, featuring LP Giobbi & blythe",
   "name": "Housewerk",
   "tracks": [
     {
@@ -2452,7 +2452,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 208181,
       "name": "Be Without You",
       "url": "https://open.spotify.com/track/7c5LEXTP5c1VVELPaNrQii"
@@ -2748,7 +2748,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198750,
       "name": "Better Records",
       "url": "https://open.spotify.com/track/2i2SrRoWp5Ho7NZtjWGJ5w"
@@ -5090,7 +5090,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 145243,
       "name": "Come Get Dis",
       "url": "https://open.spotify.com/track/4iF65xGx3R3WJLAwr2HGrQ"
@@ -5387,6 +5387,24 @@
     },
     {
       "album": {
+        "name": "Could This Be Love",
+        "url": "https://open.spotify.com/album/3hotttKMMrsk9SBKRcqZ8l"
+      },
+      "artists": [
+        {
+          "name": "X & Ivy",
+          "url": "https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211764,
+      "name": "Could This Be Love",
+      "url": "https://open.spotify.com/track/3b0FdMBAlAyuE3c07oAgoe"
+    },
+    {
+      "album": {
         "name": "Could You Be Loved (with LP Giobbi)",
         "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
       },
@@ -5402,7 +5420,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 286879,
       "name": "Could You Be Loved (with LP Giobbi)",
       "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
@@ -7692,7 +7710,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172913,
       "name": "Energy",
       "url": "https://open.spotify.com/track/4puiLG0MKNAs6r9AsMrMEo"
@@ -9890,7 +9908,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157271,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/5qOTgjGGg6ezIrO13WYPsA"
@@ -10050,6 +10068,10 @@
         {
           "name": "Brunello",
           "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
+        },
+        {
+          "name": "Vargas",
+          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
         }
       ],
       "date_added": "2026-02-20",
@@ -11861,6 +11883,24 @@
     },
     {
       "album": {
+        "name": "House Is Gettin' Raw",
+        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "House Is Gettin' Raw",
+      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
+    },
+    {
+      "album": {
         "name": "How Deep Are Your Dreams?",
         "url": "https://open.spotify.com/album/3d4ePJKLgTDCOfuPz4Jrl7"
       },
@@ -12582,6 +12622,28 @@
       "duration_ms": 226227,
       "name": "I Need You Now",
       "url": "https://open.spotify.com/track/7gLqg4i3lanQm6SmuhWlx6"
+    },
+    {
+      "album": {
+        "name": "I Never Knew (Shiba San Remix)",
+        "url": "https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp"
+      },
+      "artists": [
+        {
+          "name": "Nautik",
+          "url": "https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa"
+        },
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "I Never Knew - Shiba San Remix",
+      "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
     },
     {
       "album": {
@@ -13747,6 +13809,28 @@
     },
     {
       "album": {
+        "name": "Femme House Vol. 3",
+        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213953,
+      "name": "I\u2019ll Stand By You (feat. Blythe)",
+      "url": "https://open.spotify.com/track/0zwjijKrWJMpB8VNa0LTd0"
+    },
+    {
+      "album": {
         "name": "I\u2019ve Been Missing You",
         "url": "https://open.spotify.com/album/3Y614SkU3oFcKgfQmnzYCV"
       },
@@ -14050,6 +14134,36 @@
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/4C39WSjsA70cyKCwGsxH8v"
+    },
+    {
+      "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH"
+      },
+      "artists": [
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        },
+        {
+          "name": "Suni MF",
+          "url": "https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE"
+        },
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215458,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF"
     },
     {
       "album": {
@@ -15400,7 +15514,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172314,
       "name": "Life Is Simple (Move Your Body) [Feat Salom\u00e9 Das]",
       "url": "https://open.spotify.com/track/6sgYrldk8IdtSERq4eGZj1"
@@ -15452,7 +15566,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175246,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/4rKW43kduFZw8OsBmkNG9m"
@@ -15892,7 +16006,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 137404,
       "name": "Liquor Store (feat. Nate Dogg)",
       "url": "https://open.spotify.com/track/1Ofr85G2VL1z2Ge4g0R6CT"
@@ -16658,7 +16772,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192727,
       "name": "Love The Right Way",
       "url": "https://open.spotify.com/track/63SPVpO9EMtDkEFo6QfUxv"
@@ -16858,7 +16972,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 189767,
       "name": "Low Low",
       "url": "https://open.spotify.com/track/1FbcvMS4swPMr6bBHB66Xx"
@@ -17376,6 +17490,24 @@
       "duration_ms": 338446,
       "name": "Me Me Me",
       "url": "https://open.spotify.com/track/2VMH2r2jqBpxk5kWjM8HCo"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154618,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28"
     },
     {
       "album": {
@@ -19302,7 +19434,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167619,
       "name": "No One Like You - Edit",
       "url": "https://open.spotify.com/track/5st3oeKHNhCPINTqk73tRx"
@@ -20352,10 +20484,44 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 209374,
       "name": "Party Out",
       "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
+    },
+    {
+      "album": {
+        "name": "Party Started (feat. French Caviar)",
+        "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
+        },
+        {
+          "name": "French Caviar",
+          "url": "https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143801,
+      "name": "Party Started (feat. French Caviar)",
+      "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
     },
     {
       "album": {
@@ -20819,6 +20985,24 @@
     },
     {
       "album": {
+        "name": "Pop That / Boom Shakalak",
+        "url": "https://open.spotify.com/album/1mLRCp7XHNdbOtOCzngJW5"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229619,
+      "name": "Pop That",
+      "url": "https://open.spotify.com/track/1aEzj3EUuKSBbJ5dkIlmou"
+    },
+    {
+      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
       },
@@ -21102,6 +21286,32 @@
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
+    },
+    {
+      "album": {
+        "name": "Femme House Vol. 3",
+        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
+      },
+      "artists": [
+        {
+          "name": "DJ Minx",
+          "url": "https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "Dee Diggs",
+          "url": "https://open.spotify.com/artist/3GrNYIRzpnrh3HltUMlMeg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "Push The Vibe",
+      "url": "https://open.spotify.com/track/6tpo6T9msGhFT7NJRo1D53"
     },
     {
       "album": {
@@ -23834,7 +24044,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184038,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5OgH55iAivrIqWTugFRa1J"
@@ -29602,7 +29812,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 193903,
       "name": "WTF",
       "url": "https://open.spotify.com/track/18rxxU3lErSMcyoYIXR4k1"

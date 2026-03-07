@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165600,
       "name": "CHICA ATRACTIVA",
       "url": "https://open.spotify.com/track/0mw3zId9qOGkWlBogptIB1"
@@ -5333,6 +5333,28 @@
     },
     {
       "album": {
+        "name": "Damelo Asi",
+        "url": "https://open.spotify.com/album/6YxcWILnWlwL7y6dgCBU41"
+      },
+      "artists": [
+        {
+          "name": "Angel Flow",
+          "url": "https://open.spotify.com/artist/2HsAB7YO5SvcprZ2tgVnaK"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159412,
+      "name": "Damelo Asi",
+      "url": "https://open.spotify.com/track/14xm0tdNNcpqRlt2sxkjy4"
+    },
+    {
+      "album": {
         "name": "Los 4F: El Origen",
         "url": "https://open.spotify.com/album/428lHaT0ChHZ382oSg7dcb"
       },
@@ -6714,7 +6736,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203750,
       "name": "El Reggaet\u00f3n del Disco",
       "url": "https://open.spotify.com/track/15F8m8VShRlBXmSbwZBUTt"
@@ -22384,6 +22406,32 @@
       "duration_ms": 188210,
       "name": "TENTAR",
       "url": "https://open.spotify.com/track/51sWL32vAHFKLH8Gm90lBc"
+    },
+    {
+      "album": {
+        "name": "Tequilita",
+        "url": "https://open.spotify.com/album/2zhJfXGtcZqR6e8pxLm6I0"
+      },
+      "artists": [
+        {
+          "name": "Tunechikidd",
+          "url": "https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Daimi",
+          "url": "https://open.spotify.com/artist/26ftg6PkGMPIW8CCgkmQ1W"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205718,
+      "name": "Tequilita",
+      "url": "https://open.spotify.com/track/5Wf9wPiQ52XwmX9nkqUOVd"
     },
     {
       "album": {

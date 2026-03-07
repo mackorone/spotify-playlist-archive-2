@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-833 songs - 1 day 17 hr 24 min
+835 songs - 1 day 17 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [feel](https://open.spotify.com/track/1YWRkdve95UlDNmUIj67Z4) | [JB Hain](https://open.spotify.com/artist/7iJUjgKf5EfgLRlczakDtA) | [feel](https://open.spotify.com/album/6lYnCqxUSRXwLHpfMNeTu1) | 3:01 | 2023-03-08 | 2023-08-10 |
 | [Feel](https://open.spotify.com/track/1whGAh2hFEr9CQeEmhouJq) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m), [DigEx](https://open.spotify.com/artist/1fkyWtQzPTsS3Vj6kRtKi0) | [Feel](https://open.spotify.com/album/6fvg92JFSGmu8WbC3xLtDU) | 2:36 | 2022-06-07 | 2023-04-28 |
 | [Feel Good](https://open.spotify.com/track/0dkV8DuMfWAVhfi3iMnIX3) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/5QI7p02EaQO90V2i9lVxMY) | 3:01 | 2023-08-08 | 2024-02-16 |
+| [Feel Good Funk](https://open.spotify.com/track/2jElfWdcul95hdywpEcCkM) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j) | [Feel Good Funk](https://open.spotify.com/album/3t4mt4bgAc6MpkIemI7gSf) | 1:36 | 2026-03-06 |  |
 | [Feel Like](https://open.spotify.com/track/5Oji8AVm2hDRqs0hTgKJUc) | [Aix Cee](https://open.spotify.com/artist/7gyRTQclDoJrMHMNfSuSUe) | [Feel Like](https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6) | 2:51 | 2024-05-24 | 2024-12-09 |
 | [feel someth!ng](https://open.spotify.com/track/4xj9oZ67frEPQrlf8rlR89) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [false / youth](https://open.spotify.com/album/5aaY5bclpHazZWkLinHh9S) | 3:31 | 2022-12-06 | 2023-04-28 |
 | [Feel That Way](https://open.spotify.com/track/6vkeigDcenew30dyAKnme2) | [D4N](https://open.spotify.com/artist/5FQzNWtS11lpF0WIDiQ5HO), [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Feel That Way](https://open.spotify.com/album/3qf62Ku8CzU58xY6h9TZE5) | 2:49 | 2025-11-11 |  |
@@ -393,7 +394,7 @@
 | [ISORIA](https://open.spotify.com/track/20FC2sm506KUAmJaDOLLQw) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG), [STM](https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53), [kellapsage](https://open.spotify.com/artist/4TGsEz9x7p8SkARvMyklH4), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v) | [ISORIA](https://open.spotify.com/album/2ZcLKXUyxEJugsJFhiLoR0) | 2:25 | 2026-01-22 |  |
 | [ITTY BITTY](https://open.spotify.com/track/6mf4SH1vuqb9xAsnEMxAOT) | [Henri Werner](https://open.spotify.com/artist/0nuGLpGw9XwyMLIKZxeRzE), [EHLE](https://open.spotify.com/artist/2OaUwJcloDhX02J3qLPw7q) | [ITTY BITTY](https://open.spotify.com/album/13wVrN3VAiCg96SdahR25m) | 2:10 | 2023-03-28 | 2023-08-10 |
 | [jealous](https://open.spotify.com/track/0DBCLOzdcoeZaPn2MDW9Uq) | [The Trinity](https://open.spotify.com/artist/57tAzixFTk6KobOLhtuPsY) | [jealous](https://open.spotify.com/album/0ngCnLD4eswZVYN5m0tWk1) | 2:30 | 2024-07-16 | 2025-01-08 |
-| [jeans off.](https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr) | [Jancs](https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK) | [jeans off.](https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV) | 2:01 | 2026-02-19 |  |
+| [jeans off.](https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr) | [Jancs](https://open.spotify.com/artist/0WbqaXBH3Jt3IeCh32UFhK) | [jeans off.](https://open.spotify.com/album/6UmFt66s5lwgDbNw56fnyV) | 2:01 | 2026-02-19 | 2026-03-07 |
 | [Just Getting Started](https://open.spotify.com/track/7fXYHhCy6mBXpyCXID2leA) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Just Getting Started](https://open.spotify.com/album/3BNpy3V9UBpM1ekFrK7m74) | 2:27 | 2023-05-26 | 2023-08-10 |
 | [Just The Way It Goes](https://open.spotify.com/track/17BTpUvdCQBZd5wBJPa3rI) | [Crumb Pit](https://open.spotify.com/artist/7FB7TG2lBUfqoNQlWz7z1I) | [Just The Way It Goes](https://open.spotify.com/album/6wXde8nnDrHZArLo5uAzLI) | 3:12 | 2026-01-16 |  |
 | [Kadak](https://open.spotify.com/track/0BGLi3AIUN1Kk9D0EQo1H2) | [Zack Merci](https://open.spotify.com/artist/3c5mtZJ7qs1veWUI1DRpaI), [Nieko](https://open.spotify.com/artist/54HJfygn5lF8sHYpO09nSm), [Blxk Trey](https://open.spotify.com/artist/5Hntq1muZRx5fSiqTRdSjd) | [Kadak](https://open.spotify.com/album/7jKwzWimhGo5NlJPi9Dsn8) | 3:00 | 2023-01-24 | 2023-04-28 |
@@ -500,6 +501,7 @@
 | [Need You Again](https://open.spotify.com/track/5pk9UVSYYJawxl6D2g9HgL) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [Jake Neumar](https://open.spotify.com/artist/69weKTfYYEBofMntV36KPG) | [Need You Again](https://open.spotify.com/album/3I9CFa50uQSVc7dosPzNsQ) | 3:56 | 2025-06-24 |  |
 | [Nekozilla](https://open.spotify.com/track/5hZiyMZRVChO3RwfypsU6M) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [NCS: Infinity](https://open.spotify.com/album/3AZ2LKHjvsXF3xEGUQ65Q3) | 2:48 | 2023-08-08 | 2024-01-19 |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 | 2023-04-28 |
+| [Nervous](https://open.spotify.com/track/3Ded5FbpzJYQ7G9WRv0iZv) | [Sean Pitaro](https://open.spotify.com/artist/70Jj7g4luHdokdNJXizH0W) | [Nervous](https://open.spotify.com/album/0UnQYyptoOifva5zrEwTI7) | 2:25 | 2026-03-06 |  |
 | [Never Give Up On Loving You](https://open.spotify.com/track/3cd2zbZkfxt4olZ7ajzqe7) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Never Give Up On Loving You](https://open.spotify.com/album/6bAPrs5Jw78jM9G318v2Ba) | 3:36 | 2025-12-05 |  |
 | [Never Have I Felt This \- VIP](https://open.spotify.com/track/6WSwigBgXcpDVkEZ05cWuH) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Never Have I Felt This \(VIP\)](https://open.spotify.com/album/1YCHXGgn9HrKsZMHXLMbw6) | 3:12 | 2023-12-13 | 2024-08-28 |
 | [Never Knew Me](https://open.spotify.com/track/0sk6nrjHfWQZ5IvVkjTBx7) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Never Knew Me](https://open.spotify.com/album/3vF5YCTGN6BmFyqnzaAjLP) | 3:32 | 2024-05-16 | 2024-12-09 |

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1285,
+  "num_followers": 1286,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAROwrQKAU4uEKgy+j+n+QA97J+dQoR",
+  "snapshot_id": "AAARXBMQyc4PTC0YH8J86bftFW6cJA9R",
   "tracks": [
     {
       "added_at": "2026-03-05 23:06:18",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/0eZh6YHeq6JZ5ZCPRgvu0Q"
     },
     {
+      "added_at": "2026-03-06 18:31:01",
+      "album": {
+        "name": "You've Changed",
+        "url": "https://open.spotify.com/album/3Znjs81cIbbQKjJFd3yh0n"
+      },
+      "artists": [
+        {
+          "name": "Bob Salmieri",
+          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
+        },
+        {
+          "name": "Alessandro De Angelis",
+          "url": "https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5DbdTIaGqtHnZPHbTTyFdG"
+    },
+    {
       "added_at": "2026-02-25 09:40:39",
       "album": {
         "name": "SLOW MOTION",
@@ -39,6 +59,30 @@
       "duration_ms": 155422,
       "name": "SLOW MOTION",
       "url": "https://open.spotify.com/track/1H5Rz9E38f8cqdxGW9vDBE"
+    },
+    {
+      "added_at": "2026-03-06 22:27:22",
+      "album": {
+        "name": "XD",
+        "url": "https://open.spotify.com/album/3VITONpFw08wyFI7flouGN"
+      },
+      "artists": [
+        {
+          "name": "frderyk",
+          "url": "https://open.spotify.com/artist/0k839yxBiRvXEkxubBP1LL"
+        },
+        {
+          "name": "sylenthell",
+          "url": "https://open.spotify.com/artist/4epE4ACXZZkbGDL97HKsvX"
+        },
+        {
+          "name": "Ar!n",
+          "url": "https://open.spotify.com/artist/4W0GJARpgQOAjfbaxLQODl"
+        }
+      ],
+      "duration_ms": 113040,
+      "name": "my bad",
+      "url": "https://open.spotify.com/track/5kU5WeQMvHhDICBqyFRwLm"
     },
     {
       "added_at": "2026-03-02 19:27:20",
@@ -353,22 +397,6 @@
       "url": "https://open.spotify.com/track/0qW4zEOpPIKQffT2J9Vt4M"
     },
     {
-      "added_at": "2025-11-28 08:14:38",
-      "album": {
-        "name": "Ma Cos'\u00e8",
-        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
-      },
-      "artists": [
-        {
-          "name": "David Monni",
-          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
-        }
-      ],
-      "duration_ms": 255006,
-      "name": "Ma Cos'\u00e8",
-      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
-    },
-    {
       "added_at": "2025-10-23 19:47:35",
       "album": {
         "name": "You're Leaving",
@@ -395,6 +423,22 @@
       "duration_ms": 227510,
       "name": "You're Leaving",
       "url": "https://open.spotify.com/track/3SsGRoRZ4nkumHu6aNwxZ2"
+    },
+    {
+      "added_at": "2025-11-28 08:14:38",
+      "album": {
+        "name": "Ma Cos'\u00e8",
+        "url": "https://open.spotify.com/album/17ghqeoryUABi6pcl7lS1Z"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 255006,
+      "name": "Ma Cos'\u00e8",
+      "url": "https://open.spotify.com/track/1RceYnI7VePLr2haxuuRYw"
     },
     {
       "added_at": "2026-02-27 10:37:43",
@@ -491,446 +535,6 @@
       "duration_ms": 184024,
       "name": "Hiera",
       "url": "https://open.spotify.com/track/0a9gOCvUzQBstABF9iVDCQ"
-    },
-    {
-      "added_at": "2026-02-03 08:53:40",
-      "album": {
-        "name": "Gangster Shit",
-        "url": "https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs"
-      },
-      "artists": [
-        {
-          "name": "Lance Mitchell",
-          "url": "https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4"
-        }
-      ],
-      "duration_ms": 114846,
-      "name": "Gangster Shit",
-      "url": "https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o"
-    },
-    {
-      "added_at": "2026-02-03 08:54:13",
-      "album": {
-        "name": "Feelings - Acoustic",
-        "url": "https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS"
-      },
-      "artists": [
-        {
-          "name": "Xellay",
-          "url": "https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR"
-        }
-      ],
-      "duration_ms": 224433,
-      "name": "Feelings - Acoustic",
-      "url": "https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue"
-    },
-    {
-      "added_at": "2026-02-03 08:54:31",
-      "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q"
-      },
-      "artists": [
-        {
-          "name": "Brian Grey",
-          "url": "https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2"
-        }
-      ],
-      "duration_ms": 163428,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S"
-    },
-    {
-      "added_at": "2026-02-03 08:55:04",
-      "album": {
-        "name": "Covenant",
-        "url": "https://open.spotify.com/album/2M9EF4AdUt5ybVzaGJ0DXA"
-      },
-      "artists": [
-        {
-          "name": "Kristina Lynn",
-          "url": "https://open.spotify.com/artist/1EDIKX5hJdPKg4RhNLTIwK"
-        }
-      ],
-      "duration_ms": 257393,
-      "name": "Covenant",
-      "url": "https://open.spotify.com/track/1BHqn3D5VSRVyNOXwMkmtw"
-    },
-    {
-      "added_at": "2026-02-03 08:55:13",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/1hZdhASC93ZnXSjx6abGrN"
-      },
-      "artists": [
-        {
-          "name": "Chucky Cat",
-          "url": "https://open.spotify.com/artist/3cEyhRbqLRp5Xhb7t9pzvL"
-        },
-        {
-          "name": "Lil Innocent",
-          "url": "https://open.spotify.com/artist/4f4elwDrvecNEfivB6fKS7"
-        },
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "RoBeats",
-          "url": "https://open.spotify.com/artist/6rMyJtMiEjGtD9HHbz5Vge"
-        }
-      ],
-      "duration_ms": 192339,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5PK3kBmEfUPJ4Ht1Nb8czJ"
-    },
-    {
-      "added_at": "2026-02-03 21:08:58",
-      "album": {
-        "name": "Night and Day",
-        "url": "https://open.spotify.com/album/109cM7NLTGd4BKiVT0OksP"
-      },
-      "artists": [
-        {
-          "name": "Echo Boulevard",
-          "url": "https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4"
-        }
-      ],
-      "duration_ms": 163977,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/59YMT6C7n6l52qUIhN0SpU"
-    },
-    {
-      "added_at": "2026-02-03 21:09:06",
-      "album": {
-        "name": "Musafir",
-        "url": "https://open.spotify.com/album/29QIZN5Dx4BSHnHZzkCTBX"
-      },
-      "artists": [
-        {
-          "name": "Baawe",
-          "url": "https://open.spotify.com/artist/2GgyvJa8OrQBqm9zkJJ0dC"
-        },
-        {
-          "name": "Akshat Kamavisdar",
-          "url": "https://open.spotify.com/artist/5Gs8LuJnXKsRXYfq0CZJnB"
-        }
-      ],
-      "duration_ms": 182210,
-      "name": "Musafir",
-      "url": "https://open.spotify.com/track/0CjpJpNgB6HxTNeCuNVAK5"
-    },
-    {
-      "added_at": "2026-02-03 21:09:09",
-      "album": {
-        "name": "Le lapin en papier",
-        "url": "https://open.spotify.com/album/2qbusVyyuwhqNnXMVBnPrY"
-      },
-      "artists": [
-        {
-          "name": "Inyha",
-          "url": "https://open.spotify.com/artist/0KxFoSTWNluwDJ5NRJHfs2"
-        }
-      ],
-      "duration_ms": 256795,
-      "name": "Le lapin en papier",
-      "url": "https://open.spotify.com/track/0GB6KV4GD9Pdi2ZCVJxpcA"
-    },
-    {
-      "added_at": "2026-02-04 10:38:17",
-      "album": {
-        "name": "silver moon",
-        "url": "https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b"
-      },
-      "artists": [
-        {
-          "name": "Rob Linx",
-          "url": "https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8"
-        }
-      ],
-      "duration_ms": 203405,
-      "name": "silver moon",
-      "url": "https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa"
-    },
-    {
-      "added_at": "2026-02-04 10:38:20",
-      "album": {
-        "name": "Whips & Champagne",
-        "url": "https://open.spotify.com/album/4Ylf1UfVu6bIXdXa5uEqDv"
-      },
-      "artists": [
-        {
-          "name": "St Oshun",
-          "url": "https://open.spotify.com/artist/301eU70OY8nQVDDha8Xxdz"
-        }
-      ],
-      "duration_ms": 217758,
-      "name": "Whips & Champagne",
-      "url": "https://open.spotify.com/track/1WNCyzJJNiMmRAlC18LzHW"
-    },
-    {
-      "added_at": "2026-02-04 10:38:37",
-      "album": {
-        "name": "Amores Verdadeiros",
-        "url": "https://open.spotify.com/album/3MGsphbmnz4m1lA9CGKRwf"
-      },
-      "artists": [
-        {
-          "name": "Binho Rodrigues",
-          "url": "https://open.spotify.com/artist/2Th24UXO0EXhREONi0KNkd"
-        }
-      ],
-      "duration_ms": 139755,
-      "name": "Amores Verdadeiros",
-      "url": "https://open.spotify.com/track/0KFjJCtRRslJdBjQITVRGp"
-    },
-    {
-      "added_at": "2026-02-04 10:38:42",
-      "album": {
-        "name": "somewhere out there",
-        "url": "https://open.spotify.com/album/3b7kPzUL5gR4JKTAAGjDGQ"
-      },
-      "artists": [
-        {
-          "name": "Heather Bond",
-          "url": "https://open.spotify.com/artist/20sShzubGeYpYFNoDY11sK"
-        }
-      ],
-      "duration_ms": 284001,
-      "name": "I painted our kitchen",
-      "url": "https://open.spotify.com/track/0M7wvy5zekMKNkGrT1WMsB"
-    },
-    {
-      "added_at": "2026-02-05 08:24:01",
-      "album": {
-        "name": "Estantes",
-        "url": "https://open.spotify.com/album/4NUa8r6wjIix0KCQZpvQtn"
-      },
-      "artists": [
-        {
-          "name": "Julian Kancepolski",
-          "url": "https://open.spotify.com/artist/6DDqxjhbPR5KUwZ6TomVYE"
-        }
-      ],
-      "duration_ms": 190613,
-      "name": "Visitantes",
-      "url": "https://open.spotify.com/track/6MyaVhVyLkh6GfUUu7cts5"
-    },
-    {
-      "added_at": "2026-02-05 08:24:09",
-      "album": {
-        "name": "Il vaccino e' vicino",
-        "url": "https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS"
-      },
-      "artists": [
-        {
-          "name": "001 BEST",
-          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Il vaccino e' vicino",
-      "url": "https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF"
-    },
-    {
-      "added_at": "2026-02-06 10:01:37",
-      "album": {
-        "name": "Lessons",
-        "url": "https://open.spotify.com/album/73UchtLkbvSqu1a4M4y9ca"
-      },
-      "artists": [
-        {
-          "name": "t-WIN",
-          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
-        }
-      ],
-      "duration_ms": 259119,
-      "name": "Sparta",
-      "url": "https://open.spotify.com/track/6xKUzyS3s6Uj7sAoelAVvC"
-    },
-    {
-      "added_at": "2026-02-06 10:01:45",
-      "album": {
-        "name": "Accountable (Remix Pt. 2)",
-        "url": "https://open.spotify.com/album/4OwhPNHpYwND8lFY9xT0Wh"
-      },
-      "artists": [
-        {
-          "name": "Crisisbeatzz",
-          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
-        },
-        {
-          "name": "FIM Collective",
-          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
-        }
-      ],
-      "duration_ms": 164959,
-      "name": "Accountable - Remix Pt. 2",
-      "url": "https://open.spotify.com/track/1eS5Y5IiqB5UFxwvlf9AxJ"
-    },
-    {
-      "added_at": "2026-02-06 12:17:16",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/5d7eSh9oEQH92dut0QDeZ0"
-      },
-      "artists": [
-        {
-          "name": "C Douglas",
-          "url": "https://open.spotify.com/artist/6wOuR5uXJy1RqpK5G9SEAc"
-        }
-      ],
-      "duration_ms": 201046,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/1cpStVGZuj5IxJUQ29FCMq"
-    },
-    {
-      "added_at": "2026-02-06 21:26:54",
-      "album": {
-        "name": "Last Train (Piano Version)",
-        "url": "https://open.spotify.com/album/0gR016ZqYp1xZ0r49oAq64"
-      },
-      "artists": [
-        {
-          "name": "Niko Albano",
-          "url": "https://open.spotify.com/artist/0O3DeHtMP6v7Pd9aizUGB3"
-        }
-      ],
-      "duration_ms": 179855,
-      "name": "Last Train - Piano Version",
-      "url": "https://open.spotify.com/track/1vsXAJlYC3kxpOOcQj8UMR"
-    },
-    {
-      "added_at": "2026-02-07 09:36:36",
-      "album": {
-        "name": "Trattore elettrico",
-        "url": "https://open.spotify.com/album/7p4Fj7Njf82gwksg50LVKq"
-      },
-      "artists": [
-        {
-          "name": "001 BEST",
-          "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
-        }
-      ],
-      "duration_ms": 219605,
-      "name": "Trattore elettrico",
-      "url": "https://open.spotify.com/track/3AEtSu6wMNAKdZQqUHSt2a"
-    },
-    {
-      "added_at": "2026-02-08 12:51:12",
-      "album": {
-        "name": "Fire on the Loose",
-        "url": "https://open.spotify.com/album/0aXK8rfirbKzeH9MoXniX5"
-      },
-      "artists": [
-        {
-          "name": "Peder Pan",
-          "url": "https://open.spotify.com/artist/2YOBFNivm8nZxtcXuSKQFV"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Fire on the Loose",
-      "url": "https://open.spotify.com/track/1PAoqXpSbjeagxXwWi0tnV"
-    },
-    {
-      "added_at": "2026-02-08 12:51:24",
-      "album": {
-        "name": "Lifelike Figures",
-        "url": "https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H"
-      },
-      "artists": [
-        {
-          "name": "The Marica Frequency",
-          "url": "https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0"
-        }
-      ],
-      "duration_ms": 270434,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/0QFWUGJlrJipjq3S6IXJLw"
-    },
-    {
-      "added_at": "2026-02-08 16:03:02",
-      "album": {
-        "name": "Uomini Da Sogno",
-        "url": "https://open.spotify.com/album/2RXuS3ikjzugb84338GI0A"
-      },
-      "artists": [
-        {
-          "name": "Balsa",
-          "url": "https://open.spotify.com/artist/37UmKhz6FBFeOM8BiLn95n"
-        }
-      ],
-      "duration_ms": 142697,
-      "name": "Uomini Da Sogno",
-      "url": "https://open.spotify.com/track/4EUq72rSPUqo430b0bEM3W"
-    },
-    {
-      "added_at": "2026-02-09 10:13:34",
-      "album": {
-        "name": "STORMS",
-        "url": "https://open.spotify.com/album/32QfuzXnW1duhSfDplrcfq"
-      },
-      "artists": [
-        {
-          "name": "NAMUT",
-          "url": "https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH"
-        },
-        {
-          "name": "sriyam",
-          "url": "https://open.spotify.com/artist/4x4yvxLpjikj9ixZAqHXE2"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "STORMS",
-      "url": "https://open.spotify.com/track/2qnM4vSaQ0VG98sbNyUWKV"
-    },
-    {
-      "added_at": "2026-02-09 10:13:46",
-      "album": {
-        "name": "Shiny Silvery Things",
-        "url": "https://open.spotify.com/album/7x9gKK4KX0B1Vg7zJXv41k"
-      },
-      "artists": [
-        {
-          "name": "Cormac O Caoimh",
-          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Second Hand Clothes",
-      "url": "https://open.spotify.com/track/19fycOjyjBShEGCCq7c7ZU"
-    },
-    {
-      "added_at": "2026-02-09 10:13:52",
-      "album": {
-        "name": "If I Was God",
-        "url": "https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB"
-      },
-      "artists": [
-        {
-          "name": "Upwood Avenue",
-          "url": "https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI"
-        }
-      ],
-      "duration_ms": 222273,
-      "name": "If I Was God",
-      "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
-    },
-    {
-      "added_at": "2026-02-09 10:13:58",
-      "album": {
-        "name": "Like a Seagull",
-        "url": "https://open.spotify.com/album/23Mh0bl7UsPtNhK4fo0CNb"
-      },
-      "artists": [
-        {
-          "name": "Eden Rose",
-          "url": "https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl"
-        }
-      ],
-      "duration_ms": 199433,
-      "name": "Like a Seagull",
-      "url": "https://open.spotify.com/track/2wojO6FmZRzE56UBDJ35ms"
     },
     {
       "added_at": "2026-02-10 10:29:44",
@@ -2627,6 +2231,58 @@
       "duration_ms": 220068,
       "name": "From First Day To Forever (I'm Falling) - Acoustic",
       "url": "https://open.spotify.com/track/6eQWBtXs1IOUgCsVbeLBMk"
+    },
+    {
+      "added_at": "2026-03-06 10:00:20",
+      "album": {
+        "name": "The Memory of You",
+        "url": "https://open.spotify.com/album/1XmDt86DiSE9iD1DygOyvd"
+      },
+      "artists": [
+        {
+          "name": "Deidre Mc Gerty",
+          "url": "https://open.spotify.com/artist/2ypOj0yFXd4wEeKh70baH4"
+        }
+      ],
+      "duration_ms": 201155,
+      "name": "The Memory of You",
+      "url": "https://open.spotify.com/track/0jtlImtIZzrws95iJ78n2s"
+    },
+    {
+      "added_at": "2026-03-06 11:06:41",
+      "album": {
+        "name": "Pistacchio croissant",
+        "url": "https://open.spotify.com/album/6lw0GzFHDedrMEbKtmxlKo"
+      },
+      "artists": [
+        {
+          "name": "R&A acoustic duet",
+          "url": "https://open.spotify.com/artist/4gMDSNMILrN8JrWs1WC0mG"
+        }
+      ],
+      "duration_ms": 223910,
+      "name": "Pistacchio croissant",
+      "url": "https://open.spotify.com/track/6SnCcZfuAw1WtngzKfKD7a"
+    },
+    {
+      "added_at": "2026-03-06 11:06:46",
+      "album": {
+        "name": "50 Miles",
+        "url": "https://open.spotify.com/album/2eqYXe9eQdyE3DiEnxHcES"
+      },
+      "artists": [
+        {
+          "name": "Sofia Ullman",
+          "url": "https://open.spotify.com/artist/5FrkFx3cQEZZISOxW3rZAP"
+        },
+        {
+          "name": "Torbj\u00f6rn Carlsson",
+          "url": "https://open.spotify.com/artist/26L1gn5sPDqoSsNVemtNWK"
+        }
+      ],
+      "duration_ms": 278262,
+      "name": "Inside Yourself",
+      "url": "https://open.spotify.com/track/4tr6UJmmZs3UW7KKdGGqdp"
     }
   ],
   "unique_name": "New Indie Music",

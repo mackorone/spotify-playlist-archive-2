@@ -4,7 +4,7 @@
 
 > Playlist
 
-636 songs - 1 day 13 hr 42 min
+638 songs - 1 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Grubz](https://open.spotify.com/track/1Fx6qPkZy3Ks5gqBsp49V0) | [Channo](https://open.spotify.com/artist/7eW2f3UpJqw9bvk41qK0j7), [Luchii](https://open.spotify.com/artist/27eabalIPD9bL23NSnjh3n) | [Grubz](https://open.spotify.com/album/4IpiBhmhkxPf7xgHYAgBys) | 3:11 | 2023-10-25 |  |
 | [Guai](https://open.spotify.com/track/1yqUJG7V04tLnAPOT8wjTz) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3) | [Guai](https://open.spotify.com/album/3XdjBjTSoJ7ibOz9UmU6N4) | 3:42 | 2023-10-25 |  |
 | [Gum Head](https://open.spotify.com/track/2X7VGyu4tZdFWookIoQoDA) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Gum Head](https://open.spotify.com/album/0tF77q8FyG4ZHF76r69ELK) | 2:24 | 2025-10-24 |  |
+| [Gum Head II](https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7), [Quantum Keys](https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve) | [SAP](https://open.spotify.com/album/5qWAWScy8fUrOgwWphDvdD) | 1:45 | 2026-03-06 |  |
 | [Hai Van Dub](https://open.spotify.com/track/2yQFuWQjbE1qaLVonscgCM) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva Y Mar](https://open.spotify.com/album/1Mw3piVMb5yMP5bu8Bu4Is) | 5:01 | 2023-10-25 |  |
 | [Halcyon Days](https://open.spotify.com/track/7sFg1mQSgQMicsQtDNvjhD) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Halcyon Days](https://open.spotify.com/album/2hlMvvoBnaXybXY2qxxx8k) | 3:08 | 2023-10-25 |  |
 | [Happily Depressed](https://open.spotify.com/track/1dqWCT93lt1LEAfIC3LyGI) | [Lzr](https://open.spotify.com/artist/0jh42W5DKhfcwIvubk9fzd) | [Happily Depressed](https://open.spotify.com/album/67vPoP3JN3BVOjAEnk4XcF) | 2:31 | 2023-10-25 |  |
@@ -236,6 +237,7 @@
 | [Higher Self](https://open.spotify.com/track/4a38RBkghNs2x8wvKJc0VT) | [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S) | [Walk of Fire](https://open.spotify.com/album/0K21lLIS1d13QlL5jhHgi3) | 3:11 | 2024-02-23 |  |
 | [Hills](https://open.spotify.com/track/6z1ElU34AmOwpJ8a4d1Vzt) | [Winter McQuinn](https://open.spotify.com/artist/6I0liQbFH687PhtMjQ4WMK) | [Move To The Trees](https://open.spotify.com/album/3K3XNJFzMdOlrCiTLU5YCR) | 2:22 | 2024-11-27 |  |
 | [Hindsight](https://open.spotify.com/track/1djMy6mgIdrznCtYBTPcNo) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Hindsight](https://open.spotify.com/album/69l8xCdEYBXB27p0AVdFVh) | 3:06 | 2023-10-25 |  |
+| [Hold Me\. Keep Me\. Maybe](https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Soliloquy](https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub) | 4:50 | 2026-03-06 |  |
 | [Hole](https://open.spotify.com/track/6OOkbVOvc8umM48aIEA3aK) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Hole](https://open.spotify.com/album/4PXmj9895vqvTuuz6trOW8) | 2:54 | 2023-10-25 |  |
 | [Hole](https://open.spotify.com/track/73p5gQZ9kxHmLaqBf7P06u) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Santolina](https://open.spotify.com/album/3xXpKIMBsUbVv8RwYE5Ibz) | 2:54 | 2023-10-25 |  |
 | [Hollow Smiles](https://open.spotify.com/track/4L6g4KVBaDU9eVwVeJwNwf) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Hollow Smiles](https://open.spotify.com/album/5AGi2EuRJQ4k5AYTZ4dUcl) | 3:42 | 2025-09-17 |  |

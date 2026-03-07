@@ -1,12 +1,12 @@
 {
   "description": "Work out to these high energy numbers! \nCover : Ram Charan",
-  "num_followers": 103434,
+  "num_followers": 103472,
   "original_name": "Telugu Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADFsjzdF2Tr+HL4heUFs5zapy0sR",
+  "snapshot_id": "AAAAACaUSLRfMkQwmFRNyLVAuJ4f2e+l",
   "tracks": [
     {
       "added_at": "2026-03-03 06:27:58",
@@ -115,6 +115,38 @@
       "duration_ms": 258161,
       "name": "Jayaho Janatha",
       "url": "https://open.spotify.com/track/4fo2Q4iPc9DDI1eS7sIHIh"
+    },
+    {
+      "added_at": "2026-03-06 13:03:33",
+      "album": {
+        "name": "Ziddi Ziddi (From \"BIKER\")",
+        "url": "https://open.spotify.com/album/33gh5hlRWjKRQp4LYqOu4U"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Aravind Srinivas",
+          "url": "https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY"
+        },
+        {
+          "name": "Sudharsan Ram",
+          "url": "https://open.spotify.com/artist/66wBNPC8tutPBOpdiVyDz7"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "duration_ms": 125446,
+      "name": "Ziddi Ziddi (From \"BIKER\")",
+      "url": "https://open.spotify.com/track/55KVD2hsqvGJk8J0lclWR0"
     },
     {
       "added_at": "2025-12-02 10:01:43",
@@ -467,26 +499,6 @@
       "duration_ms": 207488,
       "name": "Waka Waka - Telugu",
       "url": "https://open.spotify.com/track/12QqgQPqe6xMJf0EFgxcCP"
-    },
-    {
-      "added_at": "2025-12-02 10:01:43",
-      "album": {
-        "name": "Rangasthalam",
-        "url": "https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP"
-      },
-      "artists": [
-        {
-          "name": "Rela Kumar",
-          "url": "https://open.spotify.com/artist/62oOhStk8pQGEafnScrUP6"
-        },
-        {
-          "name": "Ganta Venkata Lakshmi",
-          "url": "https://open.spotify.com/artist/3Gz4xvWhNyxN5W2DO6CMMj"
-        }
-      ],
-      "duration_ms": 305377,
-      "name": "Jigelu Rani",
-      "url": "https://open.spotify.com/track/5o0we0zcu0rhgpW5nFL0yG"
     },
     {
       "added_at": "2025-12-02 10:01:43",

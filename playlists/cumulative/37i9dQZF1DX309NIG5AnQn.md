@@ -4,7 +4,7 @@
 
 > rock alternativo argentino\. <br/>📷 BB asul
 
-285 songs - 16 hr 5 min
+286 songs - 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Tráfico](https://open.spotify.com/track/0l2HLImZnyZqDydcgD6pDf) | [Kill Flora](https://open.spotify.com/artist/618OuvXwIUhB0xE7XnCiwe) | [Entrada Triunfal](https://open.spotify.com/album/4wP2yhVbsjzTNqn0g1YpT4) | 3:44 | 2023-03-23 | 2025-10-25 |
 | [Tu Amigo para Siempre](https://open.spotify.com/track/221qzVqwYW5R3LaVblul9d) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Melodía y Drama](https://open.spotify.com/album/0EEqa3A9YiKuKAoBf57tuX) | 3:31 | 2022-03-25 | 2023-03-25 |
 | [Tu Amigo para Siempre](https://open.spotify.com/track/3WPQSk5fuwv3G6JH2IhjJu) | [Los Siberianos](https://open.spotify.com/artist/47phrrXawzdzgWecVRBrcK) | [Tu Amigo para Siempre](https://open.spotify.com/album/4c9sXd1jiHln5Kw8NO1z28) | 3:31 | 2022-03-25 | 2022-07-29 |
+| [Tu Bar](https://open.spotify.com/track/0iP5B6MjWzyCD7r7idZZqb) | [Jero Jones](https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ) | [¿De Qué Hablamos Cuando Hablamos de Amor?](https://open.spotify.com/album/4erCBs27VUtGcGFkN7XBly) | 5:09 | 2026-03-06 |  |
 | [Un Cactus](https://open.spotify.com/track/04N3z5dU6x4eITjDuvlENM) | [Leandro Lacerna](https://open.spotify.com/artist/5VpPGxW9y2vvqD0PAsnqZ9), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [SUPERSAD](https://open.spotify.com/album/0yRGn3oGpSAi41lV9RVBnP) | 2:16 | 2022-03-25 | 2023-03-25 |
 | [Un Documental Sobre Mí](https://open.spotify.com/track/1zaSe09Z9HQQBSj3SjzSZj) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Gracias Por Nada](https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte) | 4:40 | 2022-03-25 | 2023-03-25 |
 | [UN PLAN B](https://open.spotify.com/track/5YKlZSo139XFVe5IWTXKcK) | [SIN DATOS](https://open.spotify.com/artist/6nR7tpxkxQxYjiYXMoETcj) | [UN PLAN B](https://open.spotify.com/album/2qsupLRpOKW6oUcFCp84BG) | 1:40 | 2025-04-25 |  |

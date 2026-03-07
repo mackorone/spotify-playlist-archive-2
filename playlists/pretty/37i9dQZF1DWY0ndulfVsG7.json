@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 63617,
+  "num_followers": 63633,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
+        "name": "Tak Lekang Oleh Waktu",
+        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
+      },
+      "artists": [
+        {
+          "name": "Kerispatih",
+          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
+        }
+      ],
+      "duration_ms": 282474,
+      "name": "Demi Cinta",
+      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 273120,
       "name": "My Heart",
       "url": "https://open.spotify.com/track/27xvsEVJolDpEDy5PtD0hq"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
-        "name": "Tak Lekang Oleh Waktu",
-        "url": "https://open.spotify.com/album/0SGKVrJINkmC5vhhFtuw1d"
-      },
-      "artists": [
-        {
-          "name": "Kerispatih",
-          "url": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
-        }
-      ],
-      "duration_ms": 282474,
-      "name": "Demi Cinta",
-      "url": "https://open.spotify.com/track/2SscarnRY3zdkORvPu9JGZ"
     },
     {
       "added_at": "2024-11-29 03:37:32",

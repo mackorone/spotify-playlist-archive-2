@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 21435,
+  "num_followers": 21468,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-01-29 09:03:42",
       "album": {
-        "name": "Nyankonton",
-        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
-      },
-      "artists": [
-        {
-          "name": "Kontihene",
-          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
-        }
-      ],
-      "duration_ms": 311520,
-      "name": "Aketesia",
-      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
-    },
-    {
-      "added_at": "2026-01-29 09:03:42",
-      "album": {
         "name": "Ultimate Classics, Vol. 1",
         "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 322481,
       "name": "Still I Love You",
       "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+    },
+    {
+      "added_at": "2026-01-29 09:03:42",
+      "album": {
+        "name": "Nyankonton",
+        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
+      },
+      "artists": [
+        {
+          "name": "Kontihene",
+          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
+        }
+      ],
+      "duration_ms": 311520,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
     },
     {
       "added_at": "2026-01-29 09:03:42",

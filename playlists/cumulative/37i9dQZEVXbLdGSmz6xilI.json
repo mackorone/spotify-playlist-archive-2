@@ -372,7 +372,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -5990,7 +5990,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 174000,
       "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
       "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
@@ -10392,7 +10392,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154870,
       "name": "hello em c\u00f3 kh\u1ecfe kh\u00f4ng",
       "url": "https://open.spotify.com/track/25NLn8W1JxuVrXQTVrDA4c"
@@ -17532,7 +17532,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 206139,
       "name": "N\u00f3i D\u1ed1i",
       "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
@@ -24760,6 +24760,24 @@
     {
       "album": {
         "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+        "url": "https://open.spotify.com/album/3SaLl3FkaEF7KWJElvSL0N"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300750,
+      "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
+      "url": "https://open.spotify.com/track/2DrLqMSO89napGpafkcvM4"
+    },
+    {
+      "album": {
+        "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
         "url": "https://open.spotify.com/album/22PwljwCdygdaOy3cBxZWg"
       },
       "artists": [
@@ -25896,7 +25914,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"
@@ -28052,7 +28070,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 261105,
       "name": "\u0110\u00e3 L\u1ee1 Y\u00eau Em Nhi\u1ec1u",
       "url": "https://open.spotify.com/track/3J3nv18iIrOhca1ZWNeuyW"

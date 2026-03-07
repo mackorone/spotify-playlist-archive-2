@@ -4,7 +4,7 @@
 
 > só tem uma coisa a dizer\. VENÇA!
 
-521 songs - 1 day 4 hr 23 min
+522 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -308,6 +308,7 @@
 | [Negona](https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv) | [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Negona](https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP) | 3:06 | 2024-03-08 | 2024-03-30 |
 | [Negrão Demais](https://open.spotify.com/track/7AGJTioC8QBnGWJlhxHXuq) | [Zuluzão](https://open.spotify.com/artist/7GfBhUixcdpCEYmSMjT1aV), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Negrão Demais](https://open.spotify.com/album/6mrxtUYxFHtDSkwZlP4GDW) | 2:32 | 2022-03-04 | 2022-03-26 |
 | [Neguin Desaforado](https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV) | [A Favela Não Venceu](https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP) | 4:29 | 2025-12-19 |  |
+| [NEM ERA PRA EU TÁ AQUI \(Deus Que Me Escolheu\)](https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [TerrorDosBeats](https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo) | [INFRAÇÃO \- 1º ATO](https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g) | 3:22 | 2026-03-06 |  |
 | [No Brooklin \- Sabotage 50](https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:42 | 2024-04-05 | 2024-08-09 |
 | [No Meu Club](https://open.spotify.com/track/7K9SL09rkjRVbORQULf2Qq) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 1:57 | 2025-09-29 | 2026-01-31 |
 | [No Piscar dos Olhos](https://open.spotify.com/track/1vBvTfBOyZq45VvANmtlI8) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [Lis Mc](https://open.spotify.com/artist/5OfwMhn4XgysSIxSxBvTDE) | [No Piscar dos Olhos](https://open.spotify.com/album/775AeWJLkyqAJuhIyO36Er) | 2:39 | 2024-02-23 | 2024-03-30 |

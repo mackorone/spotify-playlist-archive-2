@@ -4,7 +4,7 @@
 
 > Where your new favourite bands are discovered\. Cover: Tooth
 
-320 songs - 18 hr 38 min
+320 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Talking & Drifting](https://open.spotify.com/track/158NvANdywjpjEs5MWIbAB) | [BOLD LOVE](https://open.spotify.com/artist/5cqzxOjKUZD5n79mbEkU1i) | [Talking & Drifting](https://open.spotify.com/album/5yZGhxDUGWmu1HE1djhmJK) | 3:16 | 2025-03-17 | 2025-08-08 |
 | [Tambourine](https://open.spotify.com/track/0gOZ3G7IB5asVtRBnQgTSY) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Tambourine](https://open.spotify.com/album/3HWlAxC2VYpfcmN04wquzp) | 1:58 | 2024-06-14 | 2024-10-07 |
 | [Tattoo](https://open.spotify.com/track/1qeTmcVqGjsdxCRHARn25T) | [Bottlemoth](https://open.spotify.com/artist/08Ed5qtdJSM4RqlqhPbgeq) | [Tattoo](https://open.spotify.com/album/1kCBzWYJAFMZ3lQgJUjU6I) | 3:49 | 2024-07-12 | 2024-08-17 |
+| [Teardrop](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:38 | 2026-03-06 |  |
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 | 2024-10-07 |
 | [Teething](https://open.spotify.com/track/3M1AOV25ZrXc4bLdHcDzEf) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Teething](https://open.spotify.com/album/26eGjM6GpvS9ht85XNKAdl) | 3:40 | 2024-10-06 | 2025-02-14 |
 | [Tell Me](https://open.spotify.com/track/4yWGCMvRZdTiSpd3ujYraR) | [Pebbledash](https://open.spotify.com/artist/5nXn4Aa9Cifzc2mdJqqrIL) | [Tell Me](https://open.spotify.com/album/20F9p6LXLziWOJ9LvkAAwV) | 4:47 | 2024-10-06 | 2025-01-23 |
@@ -303,7 +304,6 @@
 | [Too Far Gone](https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Too Far Gone](https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk) | 3:05 | 2025-01-22 | 2025-05-16 |
 | [TORMENTOR](https://open.spotify.com/track/4FcQeSZNS22TDJbjm5qw3I) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [TORMENTOR](https://open.spotify.com/album/2RqLDB8NYtRMd0MoALQzEc) | 5:10 | 2024-11-08 | 2025-05-02 |
 | [Total Communication Breakdown](https://open.spotify.com/track/41Qzu4y8sJTYX8ZkIGM2mC) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Total Communication Breakdown](https://open.spotify.com/album/4tcLCnES9yNLzOrT4RmwdF) | 3:56 | 2024-06-14 | 2024-07-13 |
-| [Track 27](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 0:00 | 2026-03-06 |  |
 | [Tresor](https://open.spotify.com/track/3CICzF3nchoipa2jds4JRI) | [Oslo Twins](https://open.spotify.com/artist/2rpkPoe2Qc5unwCOmWpN5y) | [Tresor](https://open.spotify.com/album/1Oavx52e5Dme4KjkQtjMjj) | 3:51 | 2025-03-17 | 2025-08-08 |
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 | 2025-01-23 |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-12 | 2024-08-17 |

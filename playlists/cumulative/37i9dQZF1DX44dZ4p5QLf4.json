@@ -919,6 +919,28 @@
     },
     {
       "album": {
+        "name": "BEAUTIFUL DAY",
+        "url": "https://open.spotify.com/album/2CRjF7mOcgW1WRPMNMXAye"
+      },
+      "artists": [
+        {
+          "name": "Ki Alexis",
+          "url": "https://open.spotify.com/artist/5qQlhqqrbs8kTsaq7yBOch"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "BEAUTIFUL DAY",
+      "url": "https://open.spotify.com/track/3BytHPrP6HolL4qFikBs0y"
+    },
+    {
+      "album": {
         "name": "Beh Beh",
         "url": "https://open.spotify.com/album/0yFsmWTrmsHFXC3B0hXg5Z"
       },
@@ -1840,7 +1862,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 135924,
       "name": "Change",
       "url": "https://open.spotify.com/track/0enybYuVnqE8N83Ot1KPFc"
@@ -4971,6 +4993,28 @@
     },
     {
       "album": {
+        "name": "Random Acts Of Kindness",
+        "url": "https://open.spotify.com/album/4VL9iWxf2Y5hF2kfW1vnn8"
+      },
+      "artists": [
+        {
+          "name": "LYMA",
+          "url": "https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP"
+        },
+        {
+          "name": "Daniel Mougerman",
+          "url": "https://open.spotify.com/artist/6GJ6tflEl8U8hoLkj3F9sG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280051,
+      "name": "I Just Want You 2 Love Me Back",
+      "url": "https://open.spotify.com/track/1s94TlzTbyg4H4Rs5yThha"
+    },
+    {
+      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW"
       },
@@ -7325,6 +7369,24 @@
     },
     {
       "album": {
+        "name": "Mother's Arms",
+        "url": "https://open.spotify.com/album/1nA2yNcvJUwcgdtCe1efAV"
+      },
+      "artists": [
+        {
+          "name": "Ni Maxine",
+          "url": "https://open.spotify.com/artist/60iNWYBsD9L0ucxpSbxpgS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214845,
+      "name": "Mother's Arms",
+      "url": "https://open.spotify.com/track/1bvuJTinhvq4VzudaDVL0d"
+    },
+    {
+      "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/1d5iWv8O3gUHAuUf51OaED"
       },
@@ -7944,7 +8006,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 187500,
-      "name": "Only Water",
+      "name": "Only Water - Feat. Lady Donli",
       "url": "https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM"
     },
     {

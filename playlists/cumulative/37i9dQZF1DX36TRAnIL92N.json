@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "A Prayer for the Dancefloor",
+        "url": "https://open.spotify.com/album/2sOuMy79OheEax3Foih6gr"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Conduit",
+          "url": "https://open.spotify.com/artist/3J3JzOfRbzpAf7gKnJv5iy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414918,
+      "name": "A Prayer for the Dancefloor (feat. Conduit)",
+      "url": "https://open.spotify.com/track/1tBbAzbOg9qZJrSZBlHlXT"
+    },
+    {
+      "album": {
         "name": "All One",
         "url": "https://open.spotify.com/album/6nJ181DEPwXktVxIfERDqV"
       },
@@ -706,7 +728,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 240000,
       "name": "Chaos - Rave Mix",
       "url": "https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04"
@@ -3292,7 +3314,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 366233,
       "name": "No Division (feat. XSALT)",
       "url": "https://open.spotify.com/track/6ia0ffeCVyDAX7KOeYLjH2"
@@ -5212,6 +5234,28 @@
       "duration_ms": 380625,
       "name": "The Second Law of Thermodynamics",
       "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Acid Track",
+        "url": "https://open.spotify.com/album/3lAw4H1pzLOCCDBfkNqOXu"
+      },
+      "artists": [
+        {
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
+        },
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240532,
+      "name": "The Ultimate Acid Track",
+      "url": "https://open.spotify.com/track/14Lh8Rpav17MCMSd1yOazU"
     },
     {
       "album": {

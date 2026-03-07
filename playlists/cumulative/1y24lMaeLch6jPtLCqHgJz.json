@@ -3653,6 +3653,24 @@
     },
     {
       "album": {
+        "name": "Forever Alive",
+        "url": "https://open.spotify.com/album/62b23dPSPFwm3NkVbGcwRJ"
+      },
+      "artists": [
+        {
+          "name": "Colin Crooks",
+          "url": "https://open.spotify.com/artist/2kz8aW0w3kWweM2iCeDdSP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157144,
+      "name": "Forever Alive",
+      "url": "https://open.spotify.com/track/1vsm6z4qu1TJ93Ad8L8OSF"
+    },
+    {
+      "album": {
         "name": "For The Love Of Progressive EP 3.0",
         "url": "https://open.spotify.com/album/4uK9gvqTHZl0AhHxsFi9Nc"
       },

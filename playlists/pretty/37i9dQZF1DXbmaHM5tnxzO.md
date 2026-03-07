@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 
 > All the best tracks from Pixar films, including new music from "Hoppers," in theaters soon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,853 likes - 91 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,867 likes - 92 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,13 +91,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmaHM5tnxzO.md) - [plain]
 | 81 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 |
 | 82 | [Go Find Out for Me](https://open.spotify.com/track/3EwGfyOpbJqLGVAkXkuGmq) | [Dan Romer](https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4) | [Luca \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa) | 1:39 |
 | 83 | [EVE](https://open.spotify.com/track/2SGW2reRU2ZvIinJAhAogC) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:02 |
-| 84 | [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 |
-| 85 | [Make Your Mark \- From "The Good Dinosaur" Score](https://open.spotify.com/track/4dyRRrlSpnkhyfd8U731LZ) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [The Good Dinosaur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2N6behUxuH2T3YUBoAjJkM) | 2:07 |
-| 86 | [Carl Goes Up \- From "Up"](https://open.spotify.com/track/1mD4ResONwh19VNAQpwPCh) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 3:34 |
-| 87 | [Field Trip](https://open.spotify.com/track/099QlSujdXkd9DCwAh2fgX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 0:57 |
-| 88 | [Wall\-E](https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:59 |
-| 89 | [A Bug's Life Suite \- From "A Bug's Life"/Score](https://open.spotify.com/track/407YIDqsL4S3ZJ2BOFg4P0) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [A Bug's Life](https://open.spotify.com/album/5MYKGPG7eGeLCwk9vteT87) | 5:12 |
-| 90 | [Here Comes Elastigirl \- Elastigirl's Theme](https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:23 |
-| 91 | [Main Title \- From "Monsters University"/Score](https://open.spotify.com/track/6cNNZBkIrUo7Ar9ibtRfpv) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 0:51 |
+| 84 | [The First Hop](https://open.spotify.com/track/1FFekn7Uko5HOTxWayKEGk) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:03 |
+| 85 | [We're In the Club Now](https://open.spotify.com/track/5HQiu07zg3KIFMGvbAiW5t) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Up \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yN2LiMaA7nEXT35GW4hNu) | 0:43 |
+| 86 | [Make Your Mark \- From "The Good Dinosaur" Score](https://open.spotify.com/track/4dyRRrlSpnkhyfd8U731LZ) | [Mychael Danna](https://open.spotify.com/artist/0x8J72N9ilqcIZbWEKB8T2), [Jeff Danna](https://open.spotify.com/artist/4v7z4d0nyIY3mWGz1AXoK1) | [The Good Dinosaur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2N6behUxuH2T3YUBoAjJkM) | 2:07 |
+| 87 | [Carl Goes Up \- From "Up"](https://open.spotify.com/track/1mD4ResONwh19VNAQpwPCh) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Disney/Pixar Greatest](https://open.spotify.com/album/4Tf4nzRuf5W3EvHqigxcmv) | 3:34 |
+| 88 | [Field Trip](https://open.spotify.com/track/099QlSujdXkd9DCwAh2fgX) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 0:57 |
+| 89 | [Wall\-E](https://open.spotify.com/track/5GAE12gkdsWnscaoXxCDdq) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [WALL\-E \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LhcAFdMWcB49mHSxYrqJT) | 1:59 |
+| 90 | [A Bug's Life Suite \- From "A Bug's Life"/Score](https://open.spotify.com/track/407YIDqsL4S3ZJ2BOFg4P0) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [A Bug's Life](https://open.spotify.com/album/5MYKGPG7eGeLCwk9vteT87) | 5:12 |
+| 91 | [Here Comes Elastigirl \- Elastigirl's Theme](https://open.spotify.com/track/0mL1awDtKnXGZUVE2ijGIc) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Incredibles 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1kbdqZFxL3fuOmetdZ1VWO) | 1:23 |
+| 92 | [Main Title \- From "Monsters University"/Score](https://open.spotify.com/track/6cNNZBkIrUo7Ar9ibtRfpv) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters University](https://open.spotify.com/album/2zhztbDBNGZ6J6uUB1lBso) | 0:51 |
 
-Snapshot ID: `AAAAAAnjgbVj2HFKXRnCOzxxHnbbPYgl`
+Snapshot ID: `AAAAAFaeeFuCmqwCcvJHCDnKEhsSBtTA`

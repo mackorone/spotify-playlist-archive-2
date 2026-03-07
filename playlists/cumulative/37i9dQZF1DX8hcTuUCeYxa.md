@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Mary Middlefield
 
-2,561 songs - 6 day 3 hr 2 min
+2,562 songs - 6 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Anchor](https://open.spotify.com/track/5aWd3x5i3VGHddzSZAupS3) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Anchor](https://open.spotify.com/album/27Xoq5t9AawWqgS2goiUiE) | 3:22 | 2025-09-18 | 2025-09-27 |
 | [Anchorage](https://open.spotify.com/track/4N0TeGugFLwXn1cHCKg9jj) | [Young Rebel Set](https://open.spotify.com/artist/3tJb7sqk201WZ0bT0pJxeM) | [Anchorage](https://open.spotify.com/album/4jniGZdg6ERFYl8ZUFJCaz) | 3:48 | 2025-07-17 | 2025-08-15 |
 | [And Angel](https://open.spotify.com/track/2qPsFrbn4G1ytL3YmBFhxf) | [HEADSEND](https://open.spotify.com/artist/3Q9ixqkrzaQW2lFDSe8il1) | [And Angel](https://open.spotify.com/album/6lOPTzfrBneSEOjPlabMn7) | 3:52 | 2026-01-29 | 2026-02-13 |
+| [And So Turns The Wheel \- Radio Edit](https://open.spotify.com/track/61hAymzgt1LBm1sgKgbLfL) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [And So Turns The Wheel \(Radio Edit\)](https://open.spotify.com/album/1KIDvwTrWMmCqC8IVBtnsB) | 3:37 | 2026-03-06 |  |
 | [And you stayed all weekend long](https://open.spotify.com/track/7u2c24mTb7yztPPPk1CDUt) | [IXIK](https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW) | [And you stayed all weekend long](https://open.spotify.com/album/0ibPETKi0atU66N1vgZoul) | 3:46 | 2025-11-13 | 2025-12-19 |
 | [Angie](https://open.spotify.com/track/653mJODcgxFbQm1AN7Rz8H) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Angie](https://open.spotify.com/album/0u0Aq6y5dHhwDvA5tkyvf0) | 2:48 | 2025-02-20 | 2025-02-28 |
 | [Angoon](https://open.spotify.com/track/27NgYmhycKoSle3UnPoyWO) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Angoon](https://open.spotify.com/album/7qt0LK9fNoVez7gDTcY0V6) | 4:37 | 2025-10-16 | 2025-11-14 |
@@ -460,6 +461,7 @@
 | [Coffin Change](https://open.spotify.com/track/4EW3Ebr82k827MUZK01syk) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Coffin Change](https://open.spotify.com/album/6srPIek56xx2e6aWRaiBTG) | 3:05 | 2025-02-20 | 2025-03-07 |
 | [Cold Heart](https://open.spotify.com/track/5WRdonm8caliL2JA6fT2fL) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Cold Heart](https://open.spotify.com/album/03BbCLJ40xtTP3NBNL5pYU) | 3:45 | 2025-05-01 | 2025-05-30 |
 | [Cold Where I´m Living](https://open.spotify.com/track/2jPliUZ1fOeU2LfPMQLwYV) | [Moneybrother](https://open.spotify.com/artist/6O6kWwVAL4xK4G8SBcsNJR) | [Cold Where I´m Living](https://open.spotify.com/album/69tskK4GKv4N3qTd21geho) | 3:52 | 2025-08-28 | 2025-09-12 |
+| [colliding stars](https://open.spotify.com/track/2BF9D9ZlQxY8XcyJwbl9n0) | [Havington](https://open.spotify.com/artist/7zxjSp5r2J27m4U7qNZS9n) | [colliding stars](https://open.spotify.com/album/1exR30EEa5BIvmhXyHBWNk) | 3:19 | 2026-03-05 |  |
 | [Come Back](https://open.spotify.com/track/457Q0aJnIiWQNJ2SHMWO6t) | [Beach Vacation](https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C) | [Let Go](https://open.spotify.com/album/3PZCAjBcmLL5g84XcLsvXT) | 2:05 | 2024-11-14 | 2024-12-13 |
 | [Come on](https://open.spotify.com/track/0gMEwvBz0tRjD4lqvRoeLM) | [Callinsick](https://open.spotify.com/artist/05I6krIHdVi1OFeF5ShrNb) | [Come on](https://open.spotify.com/album/5gbPrLxjjcBdf1FIRH6i0r) | 3:14 | 2025-04-10 | 2025-05-09 |
 | [Comet](https://open.spotify.com/track/55PRSh89wEGEg28BtkeEnh) | [Marta Arpini](https://open.spotify.com/artist/1g5EUXyT6FupMoKyy6Q1M8) | [Comet](https://open.spotify.com/album/5uDionvu3zPHU1zrNhXLXx) | 3:50 | 2025-01-23 | 2025-02-07 |
@@ -967,6 +969,7 @@
 | [HMIMD](https://open.spotify.com/track/19yIsz7MXp32ghi0pKjr57) | [Sloe Noon](https://open.spotify.com/artist/7aFg44sQWEwIlVme3S9Ei9) | [HMIMD](https://open.spotify.com/album/6arIxRfRuYAv0vedwDm3lP) | 3:31 | 2024-09-26 | 2024-10-18 |
 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 | 2025-07-24 | 2025-08-22 |
 | [Hog Calling Contest](https://open.spotify.com/track/2aDXjC0A2mnqslmeDdHIVH) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Hog Calling Contest](https://open.spotify.com/album/0plf2eqTDrtPJ2f9QeW7iH) | 3:20 | 2024-07-25 | 2024-08-09 |
+| [Hold Me\. Keep Me\. Maybe](https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Soliloquy](https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub) | 4:50 | 2026-03-05 |  |
 | [Hold My Hand](https://open.spotify.com/track/3tTdrfAf26i1px0iRSvpKq) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Hold My Hand](https://open.spotify.com/album/0T0yrlXZzVERl5UPClQweD) | 3:44 | 2025-01-30 | 2025-02-22 |
 | [Hold On](https://open.spotify.com/track/66MFqxlieF7Wh3nGS3Cpp3) | [Bonheur](https://open.spotify.com/artist/7sotWiVs7bcM5YHhlvulNL), [Lener](https://open.spotify.com/artist/4z6eCRDaL8dNvotGKlPhoS) | [Sometimes It Hurts, But That's Okay](https://open.spotify.com/album/2D9mcCzueNgp9IivONBrUz) | 3:56 | 2024-10-17 | 2024-11-01 |
 | [Holding A Place For You](https://open.spotify.com/track/5RBcbeEAfqemHcENNDVwwq) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Holding A Place For You](https://open.spotify.com/album/1X9DP5aFvVmQBPBtq28XYS) | 3:39 | 2024-06-28 | 2024-07-05 |
@@ -1451,7 +1454,7 @@
 | [miles out](https://open.spotify.com/track/5PelKtmzbzuOBdtCJ1ooRm) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [miles out](https://open.spotify.com/album/0Uv4GRD8QHt6IKParKyZtn) | 3:08 | 2025-02-20 | 2025-03-21 |
 | [Milestones](https://open.spotify.com/track/66I7THcYkEzMlKWzCE6x7b) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Illuminator](https://open.spotify.com/album/7dUddrl6x5eTf7PRZNbh5z) | 4:28 | 2024-08-22 | 2024-09-20 |
 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 | 2024-11-28 | 2025-01-10 |
-| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-02-19 |  |
+| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-02-19 | 2026-03-07 |
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-09-26 | 2024-10-25 |
 | [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-10-31 | 2024-11-29 |
 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 | 2025-08-15 |
@@ -2308,8 +2311,6 @@
 | [Tough Love Paradigm](https://open.spotify.com/track/2QIt3LukTeJR4DomwpcKVN) | [Laura Lee & the Jettes](https://open.spotify.com/artist/4727cuqI1mSh8LKNSjG6xr) | [Tough Love Paradigm](https://open.spotify.com/album/6ueN0TyrrYaYLqDY7XXH5L) | 2:57 | 2025-02-20 | 2025-03-21 |
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
-| [Track 2](https://open.spotify.com/track/2BF9D9ZlQxY8XcyJwbl9n0) | [Havington](https://open.spotify.com/artist/7zxjSp5r2J27m4U7qNZS9n) | [colliding stars](https://open.spotify.com/album/1exR30EEa5BIvmhXyHBWNk) | 0:00 | 2026-03-05 |  |
-| [Track 5](https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Soliloquy](https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub) | 0:00 | 2026-03-05 |  |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-04-25 |
 | [Trampelpfad](https://open.spotify.com/track/7swleFJ2EV0jcaz8Y77ohC) | [ClickClickDecker](https://open.spotify.com/artist/5wNvenQ2uTeqJAxNahM2nX) | [Wir waren schon immer da](https://open.spotify.com/album/6NwYOyxPHNFtBZonR3UK6O) | 4:04 | 2025-09-25 | 2025-10-10 |

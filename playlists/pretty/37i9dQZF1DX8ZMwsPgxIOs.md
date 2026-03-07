@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Lilly Palmer
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,410 likes - 146 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,447 likes - 146 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 21 | [GIRLBOSS](https://open.spotify.com/track/20X3JnZ5J6eNGXpypFQNxa) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [GIRLBOSS](https://open.spotify.com/album/1HwOJ1JhdBS5msya2Xvb6v) | 3:13 |
 | 22 | [Time To Burn \- Extended Mix](https://open.spotify.com/track/0QQocTkrxc9DAGKUNLjCvo) | [Storm](https://open.spotify.com/artist/2Hn7EcVTYF7TTCaELHrqy0), [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig) | [Time To Burn](https://open.spotify.com/album/65myrgiKAHrU1J3ol4qjDn) | 4:51 |
 | 23 | [Beg You](https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I) | 3:31 |
-| 24 | [Every Day](https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK) | [Moreira \(BR\)](https://open.spotify.com/artist/77LsvuJXab7ayPi93kuXbV), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Every Day](https://open.spotify.com/album/1lZH8ac3SkxVkiKKtDqTB9) | 3:14 |
+| 24 | [Every Day](https://open.spotify.com/track/7KUzIkpm84LJaRA8idFPPK) | [Moreira](https://open.spotify.com/artist/2ACuN3n5T0R3T4jnD7opl6), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Every Day](https://open.spotify.com/album/1lZH8ac3SkxVkiKKtDqTB9) | 3:14 |
 | 25 | [Tell Us](https://open.spotify.com/track/3raC4JsHNnLjIG9U65wKAI) | [Gabe](https://open.spotify.com/artist/0WoUrE9CjbROyWCMMdGMqu), [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [Tell Us](https://open.spotify.com/album/7vKuJf14IDiXGbTEGlZDzw) | 2:44 |
 | 26 | [The Heads That Know \(feat\. Comma Dee\)](https://open.spotify.com/track/5TH2FmWFED58bejTlKQXVi) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Comma Dee](https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY) | [The Heads That Know](https://open.spotify.com/album/5nCHAjDBoIwmtf8dKOvdB7) | 7:03 |
 | 27 | [Morals](https://open.spotify.com/track/2jw3yv4EOzBTzbMs2cHphj) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [ROWN](https://open.spotify.com/artist/4WZfWEaVAJg0Sil7Ju7iea) | [Morals](https://open.spotify.com/album/2HlmQVBNrnKlTY7uBB5dJk) | 2:41 |

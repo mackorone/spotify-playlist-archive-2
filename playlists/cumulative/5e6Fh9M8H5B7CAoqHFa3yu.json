@@ -2937,6 +2937,24 @@
     },
     {
       "album": {
+        "name": "Album 1",
+        "url": "https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO"
+      },
+      "artists": [
+        {
+          "name": "Focuscircle",
+          "url": "https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201221,
+      "name": "Balmy Evening",
+      "url": "https://open.spotify.com/track/7p3WLqk0LE5ys6Ok8DOJI5"
+    },
+    {
+      "album": {
         "name": "Torpedo",
         "url": "https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp"
       },
@@ -9388,6 +9406,50 @@
       "duration_ms": 282580,
       "name": "Emmanuel Dub",
       "url": "https://open.spotify.com/track/2rZdzdPKTpSSYPxfkiehlm"
+    },
+    {
+      "album": {
+        "name": "Empty Church",
+        "url": "https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw"
+      },
+      "artists": [
+        {
+          "name": "Muflon Dub Soundsystem",
+          "url": "https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1"
+        },
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Empty Church",
+      "url": "https://open.spotify.com/track/3a4ytkMl0gnwTqSCwjT84H"
+    },
+    {
+      "album": {
+        "name": "Empty Church",
+        "url": "https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw"
+      },
+      "artists": [
+        {
+          "name": "Muflon Dub Soundsystem",
+          "url": "https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1"
+        },
+        {
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Empty Church Dub",
+      "url": "https://open.spotify.com/track/3EMsfF8JivwTLuDhOD7ATH"
     },
     {
       "album": {
@@ -32454,6 +32516,24 @@
       "duration_ms": 318090,
       "name": "Transient Transmission (Intercept's retwist of Adrian Sherwood's Iota Remix)",
       "url": "https://open.spotify.com/track/0Z5gLLSWTgGSw7YG0f9SIa"
+    },
+    {
+      "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9"
+      },
+      "artists": [
+        {
+          "name": "Felt Zen",
+          "url": "https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158182,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP"
     },
     {
       "album": {

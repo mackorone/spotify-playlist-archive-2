@@ -618,7 +618,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 177973,
       "name": "En Eso No Quedamos",
       "url": "https://open.spotify.com/track/1FUQ3tfR1LuZmptkavWTQa"
@@ -1174,6 +1174,24 @@
       "duration_ms": 166266,
       "name": "Nada Contigo",
       "url": "https://open.spotify.com/track/0BElkouvu7hJy1NB2RF1Va"
+    },
+    {
+      "album": {
+        "name": "Cari\u00f1o",
+        "url": "https://open.spotify.com/album/3iX9dCdo5pDrCLVFG5mThq"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143240,
+      "name": "Necesito Verte",
+      "url": "https://open.spotify.com/track/4p2Nxutwd30aEJ8zOvlALU"
     },
     {
       "album": {

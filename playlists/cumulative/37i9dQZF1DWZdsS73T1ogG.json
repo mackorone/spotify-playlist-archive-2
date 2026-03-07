@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Hades66",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Victor Mendivil & Hades66",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -2468,6 +2468,28 @@
       "duration_ms": 286754,
       "name": "Al Otro Nivel",
       "url": "https://open.spotify.com/track/2WJXba0CALXqWk8ghw2RiR"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
     },
     {
       "album": {
@@ -6570,7 +6592,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182288,
       "name": "Bomboclat",
       "url": "https://open.spotify.com/track/0Pwv2wA8LxycDZTOIVu9Zn"
@@ -7112,6 +7134,36 @@
       "duration_ms": 192954,
       "name": "Buenas",
       "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
+        "name": "La Liga Femenina",
+        "url": "https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        },
+        {
+          "name": "Charlee Way",
+          "url": "https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Bugutu",
+      "url": "https://open.spotify.com/track/5MRiM0rrx9ORwBGlNq6H0O"
     },
     {
       "album": {
@@ -12835,6 +12887,24 @@
     },
     {
       "album": {
+        "name": "HUMILDE",
+        "url": "https://open.spotify.com/album/4GZM3e9LMpGJr6rZtOEMDZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170962,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/5FZztYZvhHq7DogJQ4Ezgf"
+    },
+    {
+      "album": {
         "name": "Dime (feat. Three Seven Music & The Chosen Few)",
         "url": "https://open.spotify.com/album/4ykFMMxCYHV37MMK99WehN"
       },
@@ -15218,7 +15288,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 201818,
       "name": "EN EL BARRIO DE LAS FLORES",
       "url": "https://open.spotify.com/track/2dq4b2x87XYMl8EY7fT12G"
@@ -17122,7 +17192,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 155151,
       "name": "FINE SHYT",
       "url": "https://open.spotify.com/track/1Ts9jia9WabFB4tBIb29Ng"
@@ -18464,7 +18534,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 257684,
       "name": "GANJAH - REMIX",
       "url": "https://open.spotify.com/track/3SmYs0dIDrATZCUxad3rRH"
@@ -20778,7 +20848,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 162666,
       "name": "Hospeda",
       "url": "https://open.spotify.com/track/3rvzMt65ohYpqkXQ2LxzDX"
@@ -26470,7 +26540,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172457,
       "name": "Mamamelo",
       "url": "https://open.spotify.com/track/1sv20HOiFRN94jsNjIcjOL"
@@ -30665,6 +30735,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155867,
+      "name": "M\u00e1s Cara",
+      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
+    },
+    {
+      "album": {
         "name": "M\u00c1S DE AH\u00cd",
         "url": "https://open.spotify.com/album/5N3CPTfhHvxjPBAHSTeN2D"
       },
@@ -31634,7 +31722,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 201481,
       "name": "No Es De Amigos",
       "url": "https://open.spotify.com/track/1M7LCvl6Eo6Ytw8o6T5IK4"
@@ -33914,7 +34002,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 132632,
       "name": "OTRA VEZ EN EL CLUB",
       "url": "https://open.spotify.com/track/5VAxNatm55ljy6TI4Z7jdp"
@@ -36604,6 +36692,32 @@
       "duration_ms": 185700,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/7LylJimmD7ChDg0TnNybAx"
+    },
+    {
+      "album": {
+        "name": "Pico Y Chao (W Sound 08)",
+        "url": "https://open.spotify.com/album/1Iq7XMp1PGJEczCOcnDKHJ"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202803,
+      "name": "Pico Y Chao (W Sound 08)",
+      "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
     },
     {
       "album": {
@@ -40406,6 +40520,28 @@
       "duration_ms": 156831,
       "name": "RIHANA",
       "url": "https://open.spotify.com/track/6pjGQ7mGGi2YxRKtqkJTan"
+    },
+    {
+      "album": {
+        "name": "RIKA",
+        "url": "https://open.spotify.com/album/37LJmIQY2xok3hazLz3qP7"
+      },
+      "artists": [
+        {
+          "name": "Jhay P",
+          "url": "https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1"
+        },
+        {
+          "name": "GeezyDee",
+          "url": "https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RIKA",
+      "url": "https://open.spotify.com/track/7iyPqbBpTxb1Ayfyat4M7g"
     },
     {
       "album": {
@@ -48383,6 +48519,24 @@
     },
     {
       "album": {
+        "name": "UBI",
+        "url": "https://open.spotify.com/album/0NEQJ6CT7BO6NmcMrJKvtF"
+      },
+      "artists": [
+        {
+          "name": "Jovaan",
+          "url": "https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "UBI",
+      "url": "https://open.spotify.com/track/6uhd7Rh1g6e4BL6ZG3hzPg"
+    },
+    {
+      "album": {
         "name": "Uh Huh",
         "url": "https://open.spotify.com/album/0QWu0i9aspqONLrrVisUsf"
       },
@@ -50272,6 +50426,28 @@
       "duration_ms": 555071,
       "name": "VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",
       "url": "https://open.spotify.com/track/7kSL8RqBe9ySL8tjvSoII0"
+    },
+    {
+      "album": {
+        "name": "Wacha Trucha",
+        "url": "https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Wacha Trucha",
+      "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
     },
     {
       "album": {

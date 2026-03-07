@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2618,
+  "num_followers": 2623,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Abajo Del Sol",
-        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
-      },
-      "artists": [
-        {
-          "name": "Eddie Zuko",
-          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Yalleg\u00f3",
-      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "somos peligro",
         "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 179569,
       "name": "somos peligro",
       "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Abajo Del Sol",
+        "url": "https://open.spotify.com/album/6jN8VeWuZaAej0Xsj55a4t"
+      },
+      "artists": [
+        {
+          "name": "Eddie Zuko",
+          "url": "https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Yalleg\u00f3",
+      "url": "https://open.spotify.com/track/6z0mUTg1q0n1YlezDlQcKl"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -483,6 +483,26 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
+        "name": "Pienso En Ti",
+        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
+        {
+          "name": "EddyJae",
+          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
+        }
+      ],
+      "duration_ms": 155026,
+      "name": "Pienso En Ti",
+      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
         "name": "NOS SOLTAMOS chiliado",
         "url": "https://open.spotify.com/album/3Mmkzg9JwpsW5tMFXdR9TU"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 222806,
       "name": "NOS SOLTAMOS chiliado",
       "url": "https://open.spotify.com/track/3TIpyCI4AWifaJdIlNmTdv"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
-        "name": "Pienso En Ti",
-        "url": "https://open.spotify.com/album/1KZLIoIoqSda8Fq0lJCYMt"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
-        {
-          "name": "EddyJae",
-          "url": "https://open.spotify.com/artist/4Y3PiJvvVpPTauaS9Bzpfp"
-        }
-      ],
-      "duration_ms": 155026,
-      "name": "Pienso En Ti",
-      "url": "https://open.spotify.com/track/77gaVs2YIdkNxsX4QOAr89"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "JUGANDO A QUE NO PASA NADA",
-        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163407,
-      "name": "NUNCA LA OLVID\u00c9",
-      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "cuando t\u00fa me besas",
         "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 152148,
       "name": "cuando t\u00fa me besas",
       "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "JUGANDO A QUE NO PASA NADA",
+        "url": "https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 163407,
+      "name": "NUNCA LA OLVID\u00c9",
+      "url": "https://open.spotify.com/track/68OUeNY42R5pM00M7V9pxL"
     },
     {
       "added_at": "2025-10-10 17:36:00",

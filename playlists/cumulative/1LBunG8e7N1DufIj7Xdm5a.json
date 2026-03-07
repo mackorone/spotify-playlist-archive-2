@@ -36509,6 +36509,24 @@
     },
     {
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw"
+      },
+      "artists": [
+        {
+          "name": "Scampi Chips Dip & Campari",
+          "url": "https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182779,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9"
+    },
+    {
+      "album": {
         "name": "The Electric Guitar Monument",
         "url": "https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf"
       },

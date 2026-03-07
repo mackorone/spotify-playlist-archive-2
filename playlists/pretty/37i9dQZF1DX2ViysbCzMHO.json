@@ -1,6 +1,6 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176016,
+  "num_followers": 176022,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Faithfully (Acoustic)",
-        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
-      },
-      "artists": [
-        {
-          "name": "Heath Sanders",
-          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
-        }
-      ],
-      "duration_ms": 277395,
-      "name": "Faithfully - Acoustic",
-      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Secret (Gravel Drive Sounds)",
         "url": "https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 225240,
       "name": "Secret - Gravel Drive Sounds",
       "url": "https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Faithfully (Acoustic)",
+        "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
+      },
+      "artists": [
+        {
+          "name": "Heath Sanders",
+          "url": "https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP"
+        }
+      ],
+      "duration_ms": 277395,
+      "name": "Faithfully - Acoustic",
+      "url": "https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Whiskey On You (Acoustic)",
-        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 179530,
-      "name": "Whiskey On You - Acoustic",
-      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Sounds Like Something I'd Say (Acoustic)",
         "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 196216,
       "name": "Sounds Like Something I'd Say - Acoustic",
       "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Whiskey On You (Acoustic)",
+        "url": "https://open.spotify.com/album/4xvw2MbLOUrJ5xvESdtYvr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 179530,
+      "name": "Whiskey On You - Acoustic",
+      "url": "https://open.spotify.com/track/5aytw2jhoFTGcTNuzSaaBj"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Steady Heart (Wedding Version)",
-        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 210555,
-      "name": "Steady Heart - Wedding Version",
-      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "No Horse To Ride (demo version)",
         "url": "https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 133906,
       "name": "No Horse To Ride - demo version",
       "url": "https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Steady Heart (Wedding Version)",
+        "url": "https://open.spotify.com/album/3lrVx8GMkgR81WNb6sN9Jp"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 210555,
+      "name": "Steady Heart - Wedding Version",
+      "url": "https://open.spotify.com/track/3UHicRfzUv8WiMXgIVKXBV"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
+        "name": "You For A Reason (Stripped)",
+        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        }
+      ],
+      "duration_ms": 182843,
+      "name": "You For A Reason - Stripped",
+      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
         "name": "Friends Like That (feat. Jason Aldean - Stripped)",
         "url": "https://open.spotify.com/album/62ildty4IOfNHeZbaYmt06"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 180800,
       "name": "Friends Like That - feat. Jason Aldean - Stripped",
       "url": "https://open.spotify.com/track/5GlUmrVi6AgIFg2CDnblqs"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
-        "name": "You For A Reason (Stripped)",
-        "url": "https://open.spotify.com/album/0DaAQTLuhbDvVFtqulgG1N"
-      },
-      "artists": [
-        {
-          "name": "Warren Zeiders",
-          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
-        }
-      ],
-      "duration_ms": 182843,
-      "name": "You For A Reason - Stripped",
-      "url": "https://open.spotify.com/track/6yUnirR9J0haRtyziEujVR"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Gone Too Soon (Acoustic)",
-        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
-      },
-      "artists": [
-        {
-          "name": "Andrew Jannakos",
-          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
-        }
-      ],
-      "duration_ms": 167469,
-      "name": "Gone Too Soon - Acoustic",
-      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "Heartbreaker (Acoustic)",
         "url": "https://open.spotify.com/album/3rKP0LSmp5RL4zI5cx5Ji6"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 222466,
       "name": "Heartbreaker - Acoustic",
       "url": "https://open.spotify.com/track/2h19J2B8zYfUxB0t3tX2XT"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Gone Too Soon (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i"
+      },
+      "artists": [
+        {
+          "name": "Andrew Jannakos",
+          "url": "https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket"
+        }
+      ],
+      "duration_ms": 167469,
+      "name": "Gone Too Soon - Acoustic",
+      "url": "https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Heart Still Works (Stripped)",
-        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
-      },
-      "artists": [
-        {
-          "name": "Chase McDaniel",
-          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
-        }
-      ],
-      "duration_ms": 197886,
-      "name": "Heart Still Works - Stripped",
-      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "While You're Gone (Acoustic)",
         "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 219385,
       "name": "While You're Gone - Acoustic",
       "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Heart Still Works (Stripped)",
+        "url": "https://open.spotify.com/album/44SuPkfDDbPfN5RzPTVyk5"
+      },
+      "artists": [
+        {
+          "name": "Chase McDaniel",
+          "url": "https://open.spotify.com/artist/0pUnbqVHKfPPoaxh69Ekoz"
+        }
+      ],
+      "duration_ms": 197886,
+      "name": "Heart Still Works - Stripped",
+      "url": "https://open.spotify.com/track/108baBNEQ3MwWFfVqZmd0t"
     },
     {
       "added_at": "2026-02-27 05:00:29",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-02-27 05:00:29",
       "album": {
-        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
-        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 329053,
-      "name": "Love The Lonely Out Of You - Live Pinebox Version",
-      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
-    },
-    {
-      "added_at": "2026-02-27 05:00:29",
-      "album": {
         "name": "I Should Probably Go To Bed (Acoustic)",
         "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
+    },
+    {
+      "added_at": "2026-02-27 05:00:29",
+      "album": {
+        "name": "Love The Lonely Out Of You (Live Pinebox Version)",
+        "url": "https://open.spotify.com/album/7EpjY7yUKLmugTK4dbZVOp"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 329053,
+      "name": "Love The Lonely Out Of You - Live Pinebox Version",
+      "url": "https://open.spotify.com/track/1RTfd7hiaSQFocxxzGskkZ"
     },
     {
       "added_at": "2026-02-27 05:00:29",

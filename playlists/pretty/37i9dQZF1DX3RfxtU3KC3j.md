@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. 🎸 Kapak: Batu Akdeniz
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,605 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,609 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 30 | [Gibi](https://open.spotify.com/track/6O0Nm1JzhXhB0SnB65Dosj) | [Emre Bulut](https://open.spotify.com/artist/4pD8zrb9qs7AIo9v2a2azF) | [Gibi](https://open.spotify.com/album/03Ks8QN6zcd1ghCbj4tMbP) | 4:12 |
 | 31 | [Mazi](https://open.spotify.com/track/0XXB6qQE0ZikGawoMBDJ4a) | [Çetin Dilsiz](https://open.spotify.com/artist/3xVNtr8NgvJI6VmJ2DoYUs) | [Mazi](https://open.spotify.com/album/6iLYQcVMxsVoctrDH0YNBr) | 2:44 |
 | 32 | [Aman Avcı Vurma Beni](https://open.spotify.com/track/6iH2yiPy3RFbj6fcN8nlIc) | [ENGIN](https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg) | [Aman Avcı Vurma Beni](https://open.spotify.com/album/3QH8yxZ8j6VlSXWdRSWCzB) | 2:19 |
-| 33 | [İstanbul \- Live](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [Akustikhane Live Sessions](https://open.spotify.com/album/6HxwRg3YarLiodU1RFJ94u) | 5:36 |
+| 33 | [İstanbul \- Live](https://open.spotify.com/track/1oqzZYheRJ56iFe1KvG2p5) | [No Land](https://open.spotify.com/artist/1XT0YtQ7sCUqoqOprg48Xr) | [Akustikhane Kayıtları](https://open.spotify.com/album/6HxwRg3YarLiodU1RFJ94u) | 5:36 |
 | 34 | [Radyoda Sevdiğin Şarkı](https://open.spotify.com/track/152LZ4vXweZvuav4LtMTdy) | [Palmiyeler](https://open.spotify.com/artist/441Mk7JKv8WtAsaR9REPGX) | [Radyoda Sevdiğin Şarkı](https://open.spotify.com/album/1nMho7olSlxnFwglkDRZXN) | 3:36 |
 | 35 | [Boyun Eğme](https://open.spotify.com/track/3MrecSPg9qL0wNDZhv4xYs) | [Son Dört](https://open.spotify.com/artist/1VddCjFiDOOy1MmBUmJZ4o) | [Boyun Eğme](https://open.spotify.com/album/3wIdSLsi1Q38hi8FNqZcwa) | 4:56 |
-| 36 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/59UiDNLaYTIO5VFojlIqFm) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
+| 36 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
 | 37 | [Sonla Beraber](https://open.spotify.com/track/2SiXqeyKGs2zqh2dF3NQSM) | [Aceheart](https://open.spotify.com/artist/1BNzC7Gj644jx4o5POb9XN) | [Sonla Beraber](https://open.spotify.com/album/1XL6iJeXxydSUGpzqFLNft) | 3:52 |
 | 38 | [Yavru Ejdera](https://open.spotify.com/track/5BTOgcFGD7T6USBOEgbcQq) | [Son Feci Bisiklet](https://open.spotify.com/artist/4q2SZIdLq6YTc9cZLCclWc) | [Yavru Ejdera](https://open.spotify.com/album/1UOUetJQZrNlkS6wTRCbn3) | 2:44 |
 | 39 | [Parti Bitmiş](https://open.spotify.com/track/2eaMMiLv4CHaLnFg8wLIzM) | [Encam Potkal](https://open.spotify.com/artist/6zK6M3kgmZryq0YaKFoD36) | [Parti Bitmiş](https://open.spotify.com/album/7u1f6sW7arQ0G4tcAmLWss) | 3:16 |

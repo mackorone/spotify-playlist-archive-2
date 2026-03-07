@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 165 songs - 8 hr 34 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 525 likes - 167 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,5 +173,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 163 | [Fading Light](https://open.spotify.com/track/2NXaChEQq4DKEOsEXCoE5J) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Fading Light](https://open.spotify.com/album/1L44hN7GPIZQwjrCp9yzRB) | 4:17 |
 | 164 | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/track/5jEA3MfSYes1opYzW1A15B) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [for the day \(my life doesn't seem so gray\)](https://open.spotify.com/album/54etYLc84CmETgjN65td9C) | 1:58 |
 | 165 | [Shoot Me Like A Doll](https://open.spotify.com/track/2QDBsajFcgMppn7zlYxQDt) | [Zorastead](https://open.spotify.com/artist/1SKZNWwhnoPtjO6pVopG59) | [Shoot Me Like A Doll](https://open.spotify.com/album/3Yt2Y5JabvIsWl90cOZV9o) | 3:09 |
+| 166 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 |
+| 167 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 |
 
-Snapshot ID: `AAAVq2/Igja9kEfvP+EjovU+P4UGWr9y`
+Snapshot ID: `AAAVrYpWWwx12u2+QiJ7Kg1nXb9Q8hpv`

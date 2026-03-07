@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
+  "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
   "name": "Southern Gothic",
   "tracks": [
     {
@@ -412,7 +412,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186453,
       "name": "Bartholomew",
       "url": "https://open.spotify.com/track/08zdIWzfOrJj8noBBAbfrV"
@@ -632,6 +632,28 @@
       "duration_ms": 212504,
       "name": "Bless Your Soul",
       "url": "https://open.spotify.com/track/6SP4CyAK8qbdajsmzYQm9g"
+    },
+    {
+      "album": {
+        "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271696,
+      "name": "Blood Upon the Snow (From \"God of War Ragnar\u00f6k\" Soundtrack)",
+      "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
     },
     {
       "album": {
@@ -1036,7 +1058,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 130026,
       "name": "Death Don't Have No Mercy",
       "url": "https://open.spotify.com/track/10XSmEckAjZgMguYb22sbn"
@@ -1457,6 +1479,28 @@
     },
     {
       "album": {
+        "name": "Fear In God",
+        "url": "https://open.spotify.com/album/0eqlCc74kIH0hnj1jK9EnX"
+      },
+      "artists": [
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Fear In God",
+      "url": "https://open.spotify.com/track/4ukGwNs7VfYRsWk9bJWuf5"
+    },
+    {
+      "album": {
         "name": "Filthy Dirty South",
         "url": "https://open.spotify.com/album/5o4cfFDhtA8GMYGMsHXLiZ"
       },
@@ -1817,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Tornillo",
+        "url": "https://open.spotify.com/album/7zQvPIbond03mxCRO4c8zs"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Myers",
+          "url": "https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265506,
+      "name": "Heart of Stone",
+      "url": "https://open.spotify.com/track/7dHnVfXljNwvlLGlr6lMlc"
+    },
+    {
+      "album": {
         "name": "Heaven Help Me",
         "url": "https://open.spotify.com/album/3llXzAOhba5SpNnJnTLD9m"
       },
@@ -1832,6 +1894,24 @@
       "duration_ms": 184733,
       "name": "Heaven Help Me",
       "url": "https://open.spotify.com/track/1Sn2eyETeYKc1WMmDMijKh"
+    },
+    {
+      "album": {
+        "name": "The Price of Admission",
+        "url": "https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240800,
+      "name": "Heaven Passing Through",
+      "url": "https://open.spotify.com/track/66Mk4Rd6A08oa6bF27uQxj"
     },
     {
       "album": {
@@ -3306,7 +3386,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192475,
       "name": "Sleeping on the Blacktop",
       "url": "https://open.spotify.com/track/3FYVkmrVYbEo17vXmb5x2A"
@@ -3364,7 +3444,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 168066,
       "name": "Snake Song",
       "url": "https://open.spotify.com/track/0ki12WtT63xUQCYkVpRZGZ"
@@ -3702,7 +3782,7 @@
       ],
       "date_added": "2021-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 270893,
       "name": "The Devil Had A Hold Of Me",
       "url": "https://open.spotify.com/track/4oGtTW6RoaK9tMCNT5ZJcY"
@@ -3994,6 +4074,24 @@
       "duration_ms": 270733,
       "name": "Underneath the Blood Moon",
       "url": "https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq"
+    },
+    {
+      "album": {
+        "name": "Virginia (Acoustic)",
+        "url": "https://open.spotify.com/album/6qWPnSuSkTBMiFHF8hQD1G"
+      },
+      "artists": [
+        {
+          "name": "Eli Waltz",
+          "url": "https://open.spotify.com/artist/009jvUML9QGYMzYNAqbHDV"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332298,
+      "name": "Virginia - Acoustic",
+      "url": "https://open.spotify.com/track/4JuKvre86tbBagC5LClu3z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 
 > Country rap hits of today and tomorrow\. Cover: Bailey Zimmerman and BigXthaPlug
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,941 likes - 112 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,072 likes - 112 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbiccytJ5L7.md) - [plain]
 | 59 | [Kinna Wanna](https://open.spotify.com/track/384pDNdIcOq4bAQSYthQkb) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP) | [Kinna Wanna](https://open.spotify.com/album/1zPwfwHZaTH8qRg7NWhvTL) | 2:16 |
 | 60 | [Ammunition](https://open.spotify.com/track/5z4lIzved0Jy9AJcwb44uS) | [Jesslee](https://open.spotify.com/artist/7Bve7xtrpHJaFvwn4XIJV1) | [Ammunition](https://open.spotify.com/album/5lTeytt3nJN1hz8bZAiegJ) | 3:04 |
 | 61 | [PBR Nights](https://open.spotify.com/track/5hqKbCoRAq5ymoB7NNpUDM) | [SirLockeHolmes](https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev) | [PBR Nights](https://open.spotify.com/album/6k1Cl6ZgSUsLROWqFskfYX) | 2:49 |
-| 62 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/5CreTojV18Ps5Bl4AOn5Nh) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 |
+| 62 | [Live For The Moment](https://open.spotify.com/track/6bxDIFhdLKpeyGo0PBIz4w) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Haystak](https://open.spotify.com/artist/1Cv4OTcRrMvpUqKQftW88M), [Kevin Cummings](https://open.spotify.com/artist/3i20flz8al1d9PVjw1TLV7) | [9\-5 or 20\-Life](https://open.spotify.com/album/4Zk61choxayZFVg3qIk7DL) | 3:13 |
 | 63 | [Sinner Like Me](https://open.spotify.com/track/01sSGVKLUffTpikbdvjEwl) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Certified Savage](https://open.spotify.com/album/0bM7pyWrF2NRJmqppf09hY) | 2:28 |
 | 64 | [Dragging Me Down](https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Kendall Tucker](https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dragging Me Down](https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr) | 3:18 |
 | 65 | [Mean to Me](https://open.spotify.com/track/1KWlTxF4TufdT8ZwYSycFB) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Mean to Me](https://open.spotify.com/album/6GINNflvXMjf3xZ8s5WJa0) | 3:38 |

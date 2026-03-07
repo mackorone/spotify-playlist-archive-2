@@ -630,6 +630,10 @@
         {
           "name": "Shefali Alvares",
           "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2025-01-08",
@@ -2926,6 +2930,10 @@
         {
           "name": "Mohit Chauhan",
           "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2022-03-09",
@@ -3034,6 +3042,36 @@
       "duration_ms": 287134,
       "name": "Ishq Di Baajiyaan",
       "url": "https://open.spotify.com/track/6gHVMInOPMsA4ujf0nWHSt"
+    },
+    {
+      "album": {
+        "name": "Jab Khuli Kitaab",
+        "url": "https://open.spotify.com/album/4GkeCvSMKq24Uo4jiG4Mxs"
+      },
+      "artists": [
+        {
+          "name": "Arnab Chakraborty",
+          "url": "https://open.spotify.com/artist/5g4R0JHd19CuLa3PSiYMWX"
+        },
+        {
+          "name": "Keka Ghoshal",
+          "url": "https://open.spotify.com/artist/0wSJ0KREerVo5QVQtZyBvv"
+        },
+        {
+          "name": "Amarabha Banerjee",
+          "url": "https://open.spotify.com/artist/2780kFYuvbwSLPJZ5faEDw"
+        },
+        {
+          "name": "VAGYASHRII",
+          "url": "https://open.spotify.com/artist/0xhgu1FhoFvCAxQ1it0SUD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Ishq ki Bijli",
+      "url": "https://open.spotify.com/track/3AdE8j7c1sYxiGLJwtqGQv"
     },
     {
       "album": {
@@ -6822,6 +6860,10 @@
         {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2025-01-08",
@@ -8438,7 +8480,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 254470,
       "name": "Yeh Dil Mujhko Tu Dede (feat. Sunidhi Chauhan)",
       "url": "https://open.spotify.com/track/1MThYfTP8eNgUq7VgVvfKe"

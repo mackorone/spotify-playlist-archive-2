@@ -4,7 +4,7 @@
 
 > 
 
-497 songs - 1 day 8 hr 30 min
+498 songs - 1 day 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Canela Pura](https://open.spotify.com/track/4LNRYNVYULwOSTG6n9lhwi) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Canela Pura](https://open.spotify.com/album/6atxL3AIxGni66ZRtqhku5) | 3:00 | 2025-06-19 | 2025-11-07 |
 | [Can’t Dance](https://open.spotify.com/track/7lgHOk4WsZ4YDik6zz3Yon) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [Can’t Dance](https://open.spotify.com/album/6d9UYPSFq48ckVTCoUjIio) | 3:04 | 2024-08-13 | 2025-04-01 |
 | [CAPONE](https://open.spotify.com/track/60JxtEarjwfNA43NSUAS69) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [4\#TRAX](https://open.spotify.com/album/1d4UulScUQloV42jkZN4cn) | 3:19 | 2023-10-27 | 2024-05-02 |
+| [CAPTAIN KERNEL](https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 3:04 | 2026-03-06 |  |
 | [Career Climbing](https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:25 | 2025-11-05 |  |
 | [career day \- Exaktly remix](https://open.spotify.com/track/0tl8pZGQFLfc55G19RHk03) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [career day \(Exaktly remix\)](https://open.spotify.com/album/17FRYdAB2RID2osUWZRroU) | 4:21 | 2024-08-07 | 2024-10-10 |
 | [Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/track/1qrIziSX4GwjlUMfmMhO3x) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:05 | 2025-05-22 | 2025-11-07 |

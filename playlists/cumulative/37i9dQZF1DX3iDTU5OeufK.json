@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166800,
       "name": "3.99",
       "url": "https://open.spotify.com/track/51avfwxth206Jop5vn8ies"
@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Confesiones de las que me voy a arrepentir",
+        "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "bellaka",
+      "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -458,6 +476,36 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "album": {
+        "name": "La Liga Femenina",
+        "url": "https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        },
+        {
+          "name": "Charlee Way",
+          "url": "https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Bugutu",
+      "url": "https://open.spotify.com/track/5MRiM0rrx9ORwBGlNq6H0O"
     },
     {
       "album": {
@@ -906,7 +954,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171293,
       "name": "Hablamos Ma\u00f1ana",
       "url": "https://open.spotify.com/track/3MbIRGRe13R7kl66aSQ3yI"
@@ -1069,7 +1117,7 @@
     },
     {
       "album": {
-        "name": "Live Selena",
+        "name": "Selena LIVE",
         "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
       },
       "artists": [
@@ -1885,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/59WUvoIGrL6FrhwhUYgNeM"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196003,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/4xpgAJsYNK9oWbFHm40yyK"
+    },
+    {
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -2364,7 +2434,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176135,
       "name": "Vogue",
       "url": "https://open.spotify.com/track/2ThAF4cOs9Jw5M0qHdqT93"

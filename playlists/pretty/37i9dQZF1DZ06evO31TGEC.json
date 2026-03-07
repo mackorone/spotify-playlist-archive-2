@@ -1,12 +1,12 @@
 {
   "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 54036,
+  "num_followers": 54051,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAACewy4s5sk3oD+TmDANGBxf",
+  "snapshot_id": "aajHgAAAAAAADcKyLw2ltAtiko+07gol",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 180185,
+      "name": "Nadie Es De Nadie",
+      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
     },
     {
       "added_at": null,
@@ -399,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 180185,
-      "name": "Nadie Es De Nadie",
-      "url": "https://open.spotify.com/track/4p73HjvhhgaaWDZB6TW66V"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi M\u00e9xico Para El Mundo",
+        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Hola Mi Amor (Mariachi)",
+      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Va A Gustar",
         "url": "https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 174706,
       "name": "En La Misma Cama - Dueto Con El Chapo",
       "url": "https://open.spotify.com/track/1n4DFTRlF1W3X9OZeD4XqY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi M\u00e9xico Para El Mundo",
-        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Hola Mi Amor (Mariachi)",
-      "url": "https://open.spotify.com/track/5BaDvD4VYk48bVskuzQjwI"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Balara
+> Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Gilsons
 
-898 songs - 1 day 20 hr 52 min
+901 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Inverno Sem Verão](https://open.spotify.com/track/6M5FpmdT1YWh3Nu16azdL9) | [NAY PORTTELA](https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW) | [Inverno Sem Verão](https://open.spotify.com/album/0ZAIm8VlJw8IqQ3UmYMEnf) | 3:50 | 2025-05-13 | 2025-11-02 |
 | [INÍCIO DO FIM](https://open.spotify.com/track/2wszTVLEPouQfwuabpIfg5) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [INÍCIO DO FIM](https://open.spotify.com/album/10hzraymFy8wdeZIBShEJ2) | 3:06 | 2022-09-30 | 2022-12-03 |
 | [isso é tão a gente :\)](https://open.spotify.com/track/3kjrsivWrlQxY51l7gWG9V) | [Bia Jordão](https://open.spotify.com/artist/5DtnkeCt5yl2kmJkaVK1KU) | [isso é tão a gente :\)](https://open.spotify.com/album/2NWl1yNx3CwaMCZ4kflqe2) | 3:10 | 2023-05-05 | 2023-09-09 |
-| [Jaqueta](https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Jaqueta](https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB) | 2:16 | 2024-09-06 |  |
+| [Jaqueta](https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Jaqueta](https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB) | 2:16 | 2024-09-06 | 2026-03-07 |
 | [JOVEM](https://open.spotify.com/track/1XYzIZaqCBBEv3ogPrXYxH) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [JOVEM pt\. 1](https://open.spotify.com/album/3qF6YJ0LHtfPNcj5uJXCtN) | 3:20 | 2022-11-25 | 2023-01-28 |
 | [Julho](https://open.spotify.com/track/6vOdrnuWDwm6lKtuienvzt) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 3:07 | 2023-10-06 | 2023-10-29 |
 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 | 2023-03-11 | 2024-06-08 |
@@ -554,7 +554,7 @@
 | [Nós Dois](https://open.spotify.com/track/0ooea8ptVQNZehNygA91ng) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Nós Dois](https://open.spotify.com/album/1EhM4M5YnaZUzbrxuTwlVR) | 2:56 | 2022-05-13 | 2022-12-10 |
 | [Nós Dois \- Ao Vivo Na Casa da Colina](https://open.spotify.com/track/6Mg2CaEissVzViqC5jgveU) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [APGC \(Ao Vivo Na Casa Da Colina\)](https://open.spotify.com/album/4zl5y4as3m2eZS8DFRfqVt) | 3:15 | 2026-02-27 |  |
 | [NÓS NUS](https://open.spotify.com/track/3zRoNvRTovjZcycfZw7N7T) | [Leo Cavalcanti](https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [NÓS NUS](https://open.spotify.com/album/5Q0BZT7rQ2pGzWaMXEVPgR) | 5:04 | 2024-01-26 | 2024-10-12 |
-| [O Amor é uma Loucura](https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM) | [Manu Ramalho](https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw) | [O Amor é uma Loucura](https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw) | 3:29 | 2024-10-11 |  |
+| [O Amor é uma Loucura](https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM) | [Manu Ramalho](https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw) | [O Amor é uma Loucura](https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw) | 3:29 | 2024-10-11 | 2026-03-07 |
 | [O Dia De Amanhã \- Ao Vivo](https://open.spotify.com/track/0JBGw4tc3YPt2zsTUoW8yX) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 1](https://open.spotify.com/album/3wSkX7zkudaB1kR3b1xs9f) | 3:24 | 2023-09-29 | 2023-12-02 |
 | [o mesmo dia](https://open.spotify.com/track/0zCv49QKlB6qzqSpc3FA7F) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [o mesmo dia](https://open.spotify.com/album/6rNYmmx6Jd5McewaZiyKjN) | 4:07 | 2022-09-02 | 2022-09-24 |
 | [O Nosso Amor É Tão Bom](https://open.spotify.com/track/4Qrdq3VURmpiKZNLgk3Ve8) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [O Nosso Amor É Tão Bom](https://open.spotify.com/album/4bUSX0FXo1yRNfZqKVcIc7) | 3:22 | 2024-12-20 | 2025-06-21 |
@@ -605,6 +605,7 @@
 | [perfeita](https://open.spotify.com/track/1lRFP08SSrTCdmjfRK40t1) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [perfeita](https://open.spotify.com/album/0p5iUTyG5QmUWL0e2LD0qO) | 3:15 | 2023-06-23 | 2023-08-05 |
 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 | 2023-09-01 | 2024-02-03 |
 | [Pessoas fazem coisas](https://open.spotify.com/track/5d74SphyeUl9RrAiRuvR7p) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Pessoas fazem coisas](https://open.spotify.com/album/55AtAoLyDdUKi9flGdKIzQ) | 2:16 | 2025-06-20 | 2025-07-12 |
+| [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 | 2026-03-06 |  |
 | [Pipa](https://open.spotify.com/track/7lj99qLQceWVO2xdmu0UYr) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO), [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Pipa](https://open.spotify.com/album/22uNAEqqh6jG9IF9TOBuSA) | 3:01 | 2024-09-27 | 2024-11-30 |
 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 | 2024-02-23 | 2024-05-07 |
 | [Planeta Para](https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [Planeta Para](https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE) | 2:21 | 2023-08-25 | 2025-01-11 |
@@ -632,7 +633,7 @@
 | [Praia do Rosa](https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Praia do Rosa](https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT) | 2:35 | 2024-02-09 | 2024-09-28 |
 | [Prece](https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot) | [Prece](https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2) | 3:47 | 2024-07-19 | 2026-01-24 |
 | [Preciso Dizer Que Te Amo](https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Preciso Dizer Que Te Amo](https://open.spotify.com/album/73TRVmgZ7pFUwLUYHzJinp) | 3:53 | 2023-08-18 | 2023-11-18 |
-| [Pretexto](https://open.spotify.com/track/6GMsqYJqZAOvddZ4Tins4g) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Pretexto](https://open.spotify.com/album/6cvwxTk42k9LP4J9ZJQ5SG) | 3:00 | 2025-11-22 |  |
+| [Pretexto](https://open.spotify.com/track/6GMsqYJqZAOvddZ4Tins4g) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [Pretexto](https://open.spotify.com/album/6cvwxTk42k9LP4J9ZJQ5SG) | 3:00 | 2025-11-22 | 2026-03-07 |
 | [Primeira Vez](https://open.spotify.com/track/5BJRbYetamHApClzQ4wdTO) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Cultivar \(Deluxe\)](https://open.spotify.com/album/0GVG4Z4CkMu65XZAruh5uS) | 2:08 | 2023-12-15 | 2024-03-09 |
 | [Primeiro Amor](https://open.spotify.com/track/4DvAHoaxXenN8wyRltfzKr) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Primeiro Amor](https://open.spotify.com/album/4nEufgs4WMvfuYcKCxZ4oH) | 2:58 | 2023-03-11 | 2023-03-18 |
 | [Primeiro Bom Dia](https://open.spotify.com/track/0pAfPb9PMGcLoWpsPh1wB0) | [Gabriel Gonti](https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg) | [Primeiro Bom Dia](https://open.spotify.com/album/05x9tfi2dUqNtsOuFOToWF) | 2:13 | 2023-09-01 | 2023-12-16 |
@@ -715,7 +716,9 @@
 | [Sem Me Preocupar](https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl) | [Julia Smith](https://open.spotify.com/artist/4DfLXTDD8dF2vGIbff6fzs) | [Existe Amor Aqui](https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET) | 3:19 | 2024-05-06 | 2024-08-10 |
 | [SEM MÉNAGE](https://open.spotify.com/track/6UZHjMPp3rfFFDby5yleiy) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [HODARI](https://open.spotify.com/album/2Jav8IMez2x2KzEbwSy154) | 2:29 | 2022-06-14 | 2022-08-06 |
 | [Sem Saber Seu Nome](https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD) | [Pedro Salomão](https://open.spotify.com/artist/3iEB8nwJu246B3fN4zPuqW) | [Sem Saber Seu Nome](https://open.spotify.com/album/3a63XpQ1GsZ55I6KRNY0vh) | 3:48 | 2024-05-17 | 2024-07-06 |
+| [Semeia](https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Eu Vejo Luz Em Maior Proporção Do Que Eu Vejo A Escuridão](https://open.spotify.com/album/1fMl4mHJsmccGHebkNAdeV) | 3:28 | 2026-03-06 |  |
 | [sempre com você](https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [sempre com você](https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf) | 3:11 | 2023-07-07 | 2023-12-02 |
+| [SENSAÇÃO BONITA](https://open.spotify.com/track/2EGSyyy3YUBq0R0EbMt7yK) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [SENSAÇÃO BONITA](https://open.spotify.com/album/0JAXCHt3TMYQcnmFC2TFT8) | 2:39 | 2026-03-06 |  |
 | [Sentimento Raro](https://open.spotify.com/track/32VWRV4wW9lx95AQJGznCi) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Sentimento Raro](https://open.spotify.com/album/3R2Xy1gYUFEp7sVgDu3a2f) | 2:16 | 2024-07-26 | 2024-08-31 |
 | [Ser Eu](https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Ser Eu](https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M) | 2:41 | 2023-06-16 | 2023-12-02 |
 | [Ser feliz é se encontrar](https://open.spotify.com/track/1sjRl2U0YHcOyq79N5CWQg) | [Julia Gama](https://open.spotify.com/artist/2fzoKVLWpWPSjTvhPDRB7T) | [Ser feliz é se encontrar](https://open.spotify.com/album/0bRVFFwxcXgs84fFWYCi30) | 3:00 | 2022-05-13 | 2022-12-03 |

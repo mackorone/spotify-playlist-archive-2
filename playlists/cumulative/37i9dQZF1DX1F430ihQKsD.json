@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "100 % chill, 100 % Montr\u00e9al. Photo: Grand Eug\u00e8ne",
+  "description": "100 % chill, 100 % Montr\u00e9al. Photo: Lewis Dice",
   "name": "Montr\u00e9al Chill",
   "tracks": [
     {
@@ -3143,6 +3143,32 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/31yB2VLOiCIvXPlYVejlKO"
+      },
+      "artists": [
+        {
+          "name": "Beau Nectar",
+          "url": "https://open.spotify.com/artist/2XDuWdt7zEptAlDpeqfcMH"
+        },
+        {
+          "name": "Marie-Clo",
+          "url": "https://open.spotify.com/artist/09ubgSbt4gC7ZVF6xRRFb7"
+        },
+        {
+          "name": "\u00e9emi",
+          "url": "https://open.spotify.com/artist/0xLZyJmPzIEMi7BIK4R46P"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/1lzqO3cCNUYid8Fi55hIVG"
+    },
+    {
+      "album": {
         "name": "Danger",
         "url": "https://open.spotify.com/album/34SPV2ljBQxMKPm4iCMWrN"
       },
@@ -6121,6 +6147,24 @@
     },
     {
       "album": {
+        "name": "i see red",
+        "url": "https://open.spotify.com/album/231uuW018MqyHPEGHHjZ8C"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176138,
+      "name": "i see red",
+      "url": "https://open.spotify.com/track/3Gg7L1NuNNhqltvDgd6VHI"
+    },
+    {
+      "album": {
         "name": "I took off my heels",
         "url": "https://open.spotify.com/album/2sn5qLIgKhTSXrd3LxvmDc"
       },
@@ -7215,6 +7259,24 @@
     },
     {
       "album": {
+        "name": "L'\u00e9paule \u00e0 la roue",
+        "url": "https://open.spotify.com/album/2daUdRcsuTiTMZZz74zLQi"
+      },
+      "artists": [
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "L'\u00e9paule \u00e0 la roue",
+      "url": "https://open.spotify.com/track/2Kuevnr5ywEnmgceOnjMl9"
+    },
+    {
+      "album": {
         "name": "L'\u00e9vad\u00e9",
         "url": "https://open.spotify.com/album/2CFik6eV2jcB6H9LEP4y3U"
       },
@@ -7863,6 +7925,24 @@
     },
     {
       "album": {
+        "name": "Les Bou\u00e9es",
+        "url": "https://open.spotify.com/album/5npPkrDlv8FYlxYWDsyd6U"
+      },
+      "artists": [
+        {
+          "name": "NARD",
+          "url": "https://open.spotify.com/artist/5oewidV4u2kl7sWSIrXoB2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Les Bou\u00e9es",
+      "url": "https://open.spotify.com/track/0EYoU27Vc2bHqUF5hWMrfP"
+    },
+    {
+      "album": {
         "name": "Les Heures",
         "url": "https://open.spotify.com/album/6kRNYVhQ0Q3mWHF85jGqkO"
       },
@@ -8433,6 +8513,24 @@
     },
     {
       "album": {
+        "name": "L\u00e9vesque",
+        "url": "https://open.spotify.com/album/4lRf15vftMhrReEB0tA1Jq"
+      },
+      "artists": [
+        {
+          "name": "Tristan Guay",
+          "url": "https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208847,
+      "name": "L\u00e9vesque",
+      "url": "https://open.spotify.com/track/7CgpMII0Dpx8ySRHQMYExD"
+    },
+    {
+      "album": {
         "name": "M'as-tu vu passer?",
         "url": "https://open.spotify.com/album/7L5nrrUUp4BoqDCJDrr3a0"
       },
@@ -8980,6 +9078,28 @@
       "duration_ms": 193090,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/6XuNZQ1GCREA3B9Y0x1YjL"
+    },
+    {
+      "album": {
+        "name": "SOUND SYSTEM",
+        "url": "https://open.spotify.com/album/7DEkiSV8NCJq0il5gTPQog"
+      },
+      "artists": [
+        {
+          "name": "Caracol",
+          "url": "https://open.spotify.com/artist/7q7gMpTUdEVOombfNjJSLa"
+        },
+        {
+          "name": "LaF",
+          "url": "https://open.spotify.com/artist/3fzSQmdffYb5EAzz30qUp8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186259,
+      "name": "Molotov",
+      "url": "https://open.spotify.com/track/5bL4y2bkcG3DAHmFa8jmk1"
     },
     {
       "album": {
@@ -10737,6 +10857,24 @@
     },
     {
       "album": {
+        "name": "Phasing",
+        "url": "https://open.spotify.com/album/5KQcl4HhmCUvK9vLeWbiCI"
+      },
+      "artists": [
+        {
+          "name": "Hush",
+          "url": "https://open.spotify.com/artist/4RzvMkcxzHOzAGd15exwnk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272092,
+      "name": "Phasing",
+      "url": "https://open.spotify.com/track/4DMB4wFZedjkmGcnFyLwEV"
+    },
+    {
+      "album": {
         "name": "Phenomenal",
         "url": "https://open.spotify.com/album/1tYZgGV48mxPxIUr5sH4dx"
       },
@@ -12201,6 +12339,24 @@
     },
     {
       "album": {
+        "name": "Saving Face",
+        "url": "https://open.spotify.com/album/0bhpmu6VscDZUJNScNElnM"
+      },
+      "artists": [
+        {
+          "name": "Olivia Khoury",
+          "url": "https://open.spotify.com/artist/0NVasoKMOapxEKosfVofPe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241870,
+      "name": "Saving Face",
+      "url": "https://open.spotify.com/track/7LT1q8J9axukyYYLD1w7oN"
+    },
+    {
+      "album": {
         "name": "Se baigner",
         "url": "https://open.spotify.com/album/2nbX0mMcbetaibMZN4EY7a"
       },
@@ -13466,6 +13622,24 @@
       "duration_ms": 219533,
       "name": "That I could",
       "url": "https://open.spotify.com/track/1p2XBDrwARmuqxcaQ72oNY"
+    },
+    {
+      "album": {
+        "name": "The Cost of Freedom",
+        "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
+      },
+      "artists": [
+        {
+          "name": "Koko Love",
+          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "The Cost of Freedom",
+      "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
     },
     {
       "album": {

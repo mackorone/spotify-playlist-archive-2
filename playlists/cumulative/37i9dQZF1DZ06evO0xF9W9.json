@@ -435,6 +435,28 @@
     },
     {
       "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182988,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0whPfP5Sh4eBJFAV1HcRUB"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/0KSoZkdQ8u9uGe6GTFSjDz"
       },
@@ -2190,6 +2212,32 @@
       "duration_ms": 150508,
       "name": "Ruta",
       "url": "https://open.spotify.com/track/7nSIBXVKbPCStdV3pCkkfy"
+    },
+    {
+      "album": {
+        "name": "Desire (Deluxe)",
+        "url": "https://open.spotify.com/album/1qd44VRt8bxkRMFLNKLqvy"
+      },
+      "artists": [
+        {
+          "name": "Engel Montaz",
+          "url": "https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X"
+        },
+        {
+          "name": "Latinnites Music",
+          "url": "https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv"
+        },
+        {
+          "name": "Ciganda",
+          "url": "https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124368,
+      "name": "Sata",
+      "url": "https://open.spotify.com/track/4BuMXTg1nCzv5ubPhG1hd2"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Country by the Grace of God](https://open.spotify.com/playlist/37i9dQZF1DWU2LcZVHsTdv)
 
-> The country way of testifying\. Cover: Jelly Roll
+> The country way of testifying.
 
-295 songs - 17 hr 54 min
+296 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [I Saw The Light](https://open.spotify.com/track/3S0dPaZYCax8OnwTFEoEPw) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT), [Sonya Isaacs](https://open.spotify.com/artist/4weums6IzU9u5hNt7lR31b) | [I Serve A Savior](https://open.spotify.com/album/0qmQNcXPAl8V4wPFWC3QDx) | 3:21 | 2021-12-10 |  |
 | [I Still Pray](https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [I Still Pray](https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p) | 2:44 | 2022-11-04 |  |
 | [I'll Fly Away](https://open.spotify.com/track/2Rk8fztS3B4ozeNjKtirHb) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Leanna](https://open.spotify.com/album/4uqbe0uw5d6aLvjPSxwoCd) | 3:52 | 2021-12-10 |  |
+| [If God Lives Here](https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Jesus Loves \(Deluxe\)](https://open.spotify.com/album/27SAGWQhgRIMrsaXyiGge2) | 3:41 | 2026-03-06 |  |
 | [If God Lives Here](https://open.spotify.com/track/38mlXMe2Sixjbv3ysYfeUL) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [If God Lives Here](https://open.spotify.com/album/0LUnzgdbzekvEuOKHBpHlU) | 3:50 | 2025-12-05 |  |
 | [If God Took Days Off](https://open.spotify.com/track/3JqF0zLGozLrnS1uvOhluB) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/59vGZh0k3KIyFS6kFyNVID) | 2:34 | 2022-05-13 | 2025-09-27 |
 | [If God Took Days Off](https://open.spotify.com/track/7Jy4SVdM8HViyfy3QcaDkb) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [I Love My Hometown](https://open.spotify.com/album/1paYFxYmurwK3quB1vL6Pq) | 2:34 | 2022-10-07 | 2024-04-19 |

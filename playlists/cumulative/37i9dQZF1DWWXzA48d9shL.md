@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-676 songs - 1 day 2 hr 44 min
+677 songs - 1 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,7 +529,7 @@
 | [SHAMELESS $UICIDE](https://open.spotify.com/track/1vjon7jtpF5usLV2CVxtsw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHAMELESS $UICIDE](https://open.spotify.com/album/2Ogn4iWeeSPzxJJNW1HC6M) | 4:03 | 2023-02-24 | 2023-04-15 |
 | [Shameless Gorillas](https://open.spotify.com/track/3NcddNuY18lGMBadg5el1o) | [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [Ramirez](https://open.spotify.com/artist/3H6CaRooDAoCeRCpYwOXj2), [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [Shameless Gorillas](https://open.spotify.com/album/0tS27KQ3MNHtwGFefHYwXy) | 1:50 | 2022-03-04 | 2022-06-04 |
 | [SHAPESHIFT](https://open.spotify.com/track/7IXa2xXhe46but5K0whqyc) | [Synsy](https://open.spotify.com/artist/0OlLU0DwJ0kdd6LS5sTi49) | [SHAPESHIFT](https://open.spotify.com/album/1L7FuX7r4Mn81tIgwhrlhq) | 1:41 | 2022-05-20 | 2022-06-25 |
-| [Shinjuku Station](https://open.spotify.com/track/64M6KHUZMPQ9e8Bg9IsqWL) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Shinjuku Station](https://open.spotify.com/album/1ZwjVpsJLsvivnlWWA20M2) | 1:07 | 2024-05-24 |  |
+| [Shinjuku Station](https://open.spotify.com/track/64M6KHUZMPQ9e8Bg9IsqWL) | [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [Shinjuku Station](https://open.spotify.com/album/1ZwjVpsJLsvivnlWWA20M2) | 1:07 | 2024-05-24 | 2026-03-07 |
 | [Shocker!](https://open.spotify.com/track/3lUh6elBmYzXTC2M3K52Bd) | [XANAKIN SKYWOK](https://open.spotify.com/artist/2YHPVKeJcX02OyeNneU5v3), [Sxmpra](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Shocker!](https://open.spotify.com/album/4UyNJVnC1xSAnBk61uVJ7g) | 2:27 | 2022-06-03 | 2022-07-27 |
 | [Shogun of Sorrow](https://open.spotify.com/track/4NOmB5C88WVlkjdfK3lQZV) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Shogun of Sorrow](https://open.spotify.com/album/1yh615hYG5CBMvcrcmXoel) | 2:01 | 2022-03-18 | 2022-05-17 |
 | [SHOOT SHIT](https://open.spotify.com/track/2DjSXkfco4fnVHHWtvNWHF) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB) | [SHOOT SHIT](https://open.spotify.com/album/3wLkjozc2LEfw90vQ5kAki) | 2:14 | 2025-07-04 |  |
@@ -651,6 +651,7 @@
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-07 | 2023-11-17 |
 | [what i see when i'm walking alone at night](https://open.spotify.com/track/3ekCDlvLHI0kFj2U1W81oQ) | [Dexndre](https://open.spotify.com/artist/4XKKBVUhrdcD62Qrhpf9U7) | [what i see when i'm walking alone at night](https://open.spotify.com/album/1An8EBw9h670Cmzuzd2m05) | 2:13 | 2022-09-30 | 2023-02-25 |
 | [what the fuck is an e\-girl?](https://open.spotify.com/track/48ygGqboHA5p3I3sPK1R3a) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH) | [what the fuck is an e\-girl?](https://open.spotify.com/album/0YSoy8rBzCp6DCSnIhxLz9) | 1:24 | 2022-05-20 | 2022-05-28 |
+| [Whatever Floats Your Boat Will Definitely Sink My Ship](https://open.spotify.com/track/2t5UTvg5AxfVGBESIdRq7a) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:42 | 2026-03-06 |  |
 | [whatwhat](https://open.spotify.com/track/6EJrDOvMvJVeEH6AiFKOEL) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YIN YANG TAPES: Fall Season \(1989\-1990\)](https://open.spotify.com/album/1hTPWpfjbWu8Trq3aZxFxB) | 3:35 | 2023-05-24 | 2023-09-16 |
 | [Who Am I to Blame?](https://open.spotify.com/track/5j8WzS1Ep4wUxRbFX3mztq) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Who Am I to Blame?](https://open.spotify.com/album/2O1bbNWHsa4ShsJq4SmIF0) | 1:55 | 2021-09-17 | 2022-06-11 |
 | [WHOTFISSATAN!](https://open.spotify.com/track/4lycLzckejuXWnaPEnJvgj) | [infinityghxst](https://open.spotify.com/artist/4ApE9Yxa0DapeSgil3EevH), [miseryfell](https://open.spotify.com/artist/6yI0YNDttUvR4fhblpXP9L) | [WHOTFISSATAN!](https://open.spotify.com/album/7uhhajkLHhrm9qUhuEA8Uj) | 2:39 | 2022-04-15 | 2022-07-16 |

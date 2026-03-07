@@ -1,15 +1,35 @@
 {
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Peso Pluma, Tito Double P, El Randal.",
-  "num_followers": 3838129,
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Jasson Arellano y Marca Registrada.",
+  "num_followers": 3838241,
   "original_name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO3D+2To6wLqmZYOkxhuwlXGiN1o",
+  "snapshot_id": "AAAAAGUQj+YiLRTCJwF7yvEXLWlxRFcz",
   "tracks": [
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/1qbxWcbWtxjohwFQkRQcJA"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 233521,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6i8Fn9GEX4YfHD0F5g2fv0"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DINAST\u00cdA (DELUXE)",
         "url": "https://open.spotify.com/album/7aTDbTfkSxsYEipu8Z4TNl"
@@ -33,7 +53,23 @@
       "url": "https://open.spotify.com/track/4rrGcaA4OqeNty6CXxnfz0"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
+      "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
+    },
+    {
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Ay Dieguito",
         "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
@@ -49,7 +85,7 @@
       "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Agu\u00e1ntame",
         "url": "https://open.spotify.com/album/4kqVBDAIxv4CdFbSX0AXVF"
@@ -69,7 +105,7 @@
       "url": "https://open.spotify.com/track/6KtSV9qz4qtndIMEeHwb9Y"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Reinicio",
         "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
@@ -85,7 +121,7 @@
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
     },
     {
-      "added_at": "2026-02-27 18:49:07",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "london",
         "url": "https://open.spotify.com/album/1jet2VzblKPPGhEwoBzvKX"
@@ -129,7 +165,7 @@
       "url": "https://open.spotify.com/track/6XvhcdURkbksWXvJbUWa0F"
     },
     {
-      "added_at": "2026-02-27 18:49:07",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Llenadera",
         "url": "https://open.spotify.com/album/7bVJwGP0GxqsJqWEMqeTCF"
@@ -145,7 +181,7 @@
       "url": "https://open.spotify.com/track/6H2K72rU0s9fKdiQD1i2YE"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Que Te Quieran Bonito",
         "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
@@ -165,7 +201,7 @@
       "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Noches Sin Fin",
         "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
@@ -181,7 +217,7 @@
       "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Mi Yo de Antes",
         "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Memorias <3",
         "url": "https://open.spotify.com/album/47vZWbCPtkrihW631OcCWi"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Noches Sin Fin",
         "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
@@ -229,7 +265,7 @@
       "url": "https://open.spotify.com/track/0l9nwoGmhk5ckCdRqJcPB8"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Arriba La Moyombiza (En Vivo)",
         "url": "https://open.spotify.com/album/5n2AudWb133n1lu9JmWxSs"
@@ -245,7 +281,7 @@
       "url": "https://open.spotify.com/track/6znjONJrY5EFnn8TsIsPwx"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -265,7 +301,7 @@
       "url": "https://open.spotify.com/track/136BeIIoBGrrU9fI1jbcDR"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Modo Dif\u00edcil",
         "url": "https://open.spotify.com/album/3kfuMuOaXbp69CayJ2kiqI"
@@ -285,7 +321,7 @@
       "url": "https://open.spotify.com/track/36HVLbDhXrvMTBRj6KTD31"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
@@ -305,7 +341,7 @@
       "url": "https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
@@ -329,7 +365,7 @@
       "url": "https://open.spotify.com/track/0IMJsnmPXXgPyQDbhomx1B"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Especial Decembrino JUNTOS (Live)",
         "url": "https://open.spotify.com/album/3kP7KPajXleEBy3R0JjB7O"
@@ -349,7 +385,7 @@
       "url": "https://open.spotify.com/track/41rtBaUgB8nK0entRkjVMv"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Pisteando Con La Regida (Vol. 3)",
         "url": "https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc"
@@ -365,7 +401,7 @@
       "url": "https://open.spotify.com/track/0IpjVkKj5FKRKSk5hAx5Bk"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Sin Darme Explicacion",
         "url": "https://open.spotify.com/album/2q7suMTvK9bzYLBzKrQoIo"
@@ -385,7 +421,7 @@
       "url": "https://open.spotify.com/track/6hmqUnbDg0IXxXDCPtSblS"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "100/10",
         "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
@@ -401,7 +437,7 @@
       "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Mi Entorno",
         "url": "https://open.spotify.com/album/0xfgb2CMlCqKN5KuGqqMMj"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/30ECWSoejTkHDqo0yMpf6y"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Que Empiece La Borrachera (En Vivo)",
         "url": "https://open.spotify.com/album/3bx8b36tOXgle97X8LpBPm"
@@ -433,7 +469,7 @@
       "url": "https://open.spotify.com/track/2SkeBrSWvvTsFtORCiud4k"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Hoy La Vi Pasar (En Vivo)",
         "url": "https://open.spotify.com/album/58pNkphRpWDhPkxSJZnLnw"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/2wP4yn6uxpJsYEOwib0RA7"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "As\u00ed O M\u00e1s Vega Vol. 2",
         "url": "https://open.spotify.com/album/0VEEOYKovz9sEw7iAMWBIG"
@@ -469,7 +505,7 @@
       "url": "https://open.spotify.com/track/1sZELPFnPgzRVGxjBEQCgp"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
@@ -489,7 +525,7 @@
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Pvta Luna",
         "url": "https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa"
@@ -505,7 +541,7 @@
       "url": "https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/4lzo6zPM2paqyP8oBp3DOs"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "ESCONDIDAS",
         "url": "https://open.spotify.com/album/2G1eSgMejHicDNwJCh5ul0"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/5BaNuIRKWt4CHdWi4LGe2M"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Ese Loco Soy Yo",
         "url": "https://open.spotify.com/album/0lheE2ouOlNeOOLhfdRPJI"
@@ -561,7 +597,7 @@
       "url": "https://open.spotify.com/track/0hVL1RhFEnCXGlXNAzm3Lm"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "MI GATA",
         "url": "https://open.spotify.com/album/0tK2oT6337tuhZt5mqnsXZ"
@@ -581,7 +617,7 @@
       "url": "https://open.spotify.com/track/36T0zLipTSOXQrY8oFBAvT"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -601,7 +637,7 @@
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Venecia",
         "url": "https://open.spotify.com/album/16HS96UO2LIK6Owplgqnol"
@@ -621,7 +657,7 @@
       "url": "https://open.spotify.com/track/7EOIHK5ZQ8wRrThYepY8C5"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
@@ -641,7 +677,7 @@
       "url": "https://open.spotify.com/track/76m8kXyUf41NgbpzCLfWgs"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/59cp7gmABdOgcsZWhsSbTO"
@@ -657,7 +693,7 @@
       "url": "https://open.spotify.com/track/5SbJOHQKed2mBiFeRveHTT"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
@@ -677,7 +713,7 @@
       "url": "https://open.spotify.com/track/4qfkZtOGVw2BXa05wqXKkV"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "PUES QUE LE HAGO ?",
         "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
@@ -693,7 +729,7 @@
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
@@ -713,7 +749,7 @@
       "url": "https://open.spotify.com/track/4R0vb2yUQFQnDFlBRJAcFs"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Experto",
         "url": "https://open.spotify.com/album/4cHsROCQx196xTa8tIwIjU"
@@ -729,7 +765,7 @@
       "url": "https://open.spotify.com/track/6bhqwfWLUK7InamNjBN0xk"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Puras Complacencias, Vol. 2",
         "url": "https://open.spotify.com/album/5uXctxnOwGBIux2rr2WJc5"
@@ -745,7 +781,7 @@
       "url": "https://open.spotify.com/track/0rLGEE7NTkVuH1IHMeESWC"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Directo al Coraz\u00f3n",
         "url": "https://open.spotify.com/album/4UBZzHIHJjeDrqs8aTshMd"
@@ -761,7 +797,7 @@
       "url": "https://open.spotify.com/track/1DrgCuJsScMhFaTXdMc8pr"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Arriba La Moyombiza 2 (En Vivo)",
         "url": "https://open.spotify.com/album/6GNTGyokH378gsJyIFihl2"
@@ -777,7 +813,7 @@
       "url": "https://open.spotify.com/track/3JMnEn5qrL0ZBw6TckpeFL"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Migajero",
         "url": "https://open.spotify.com/album/0YliaYKdHWQ5EKmjNgBABI"
@@ -797,7 +833,7 @@
       "url": "https://open.spotify.com/track/7DKnuyS5fAoUkLGoaLCTUR"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Aguas",
         "url": "https://open.spotify.com/album/3M2ysOq0MWdkpDydIVZ07K"
@@ -821,7 +857,7 @@
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Te Cura El Tiempo",
         "url": "https://open.spotify.com/album/57zhJh4aFmMiElrlNGj2s2"
@@ -837,7 +873,7 @@
       "url": "https://open.spotify.com/track/5t08NKx9MQkbvg2eMrJ6pt"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Con el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1"
@@ -857,7 +893,7 @@
       "url": "https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Con Las Que Me Dan Sed",
         "url": "https://open.spotify.com/album/10y0rNFr00Z21OVpB9bbE8"
@@ -873,7 +909,7 @@
       "url": "https://open.spotify.com/track/5f2GU8wfbpDPDORfY96cJ2"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Cuando No Estas Conmigo",
         "url": "https://open.spotify.com/album/0rpNenvRSpG0ILgEFZSvym"
@@ -893,7 +929,7 @@
       "url": "https://open.spotify.com/track/70jP2lO4kyktgLKQjE62Ak"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Coronar Hasta Que Amanezca (En Vivo)",
         "url": "https://open.spotify.com/album/4ZGGQByBy9NVxhjHC9SBdw"
@@ -913,7 +949,7 @@
       "url": "https://open.spotify.com/track/7FABqptJxKZHqBPpEvCxhS"
     },
     {
-      "added_at": "2026-02-27 06:00:33",
+      "added_at": "2026-03-06 06:00:09",
       "album": {
         "name": "Sin Fin",
         "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"

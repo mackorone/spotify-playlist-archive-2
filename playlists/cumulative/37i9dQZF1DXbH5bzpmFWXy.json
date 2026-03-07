@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dani Flow & Nfasis en portada.",
+  "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Dan Sanchez y Kidd Keo en portada.",
   "name": "El Barrio MP3 ",
   "tracks": [
     {
@@ -668,7 +668,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 256363,
       "name": "Alzypher Vol. 22",
       "url": "https://open.spotify.com/track/0gS3vRsW1pCS2Y4i4oub65"
@@ -1073,6 +1073,28 @@
     },
     {
       "album": {
+        "name": "Aqu\u00ed Voy A Seguir",
+        "url": "https://open.spotify.com/album/4ZtpwysmbwO4E2vPJATIzk"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "EFEP\u00c9",
+          "url": "https://open.spotify.com/artist/4rzaumUnuhhz8lq21vD4hh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164010,
+      "name": "Aqu\u00ed Voy A Seguir",
+      "url": "https://open.spotify.com/track/7iwUq6KORIU3YPaYvqVnkq"
+    },
+    {
+      "album": {
         "name": "Artista Y Malandro",
         "url": "https://open.spotify.com/album/62aJ1pfSsd0T0Mw125rnWj"
       },
@@ -1166,6 +1188,24 @@
       "duration_ms": 205973,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/2SRCfCdP87iGCMaujggKMY"
+    },
+    {
+      "album": {
+        "name": "Ay Dieguito",
+        "url": "https://open.spotify.com/album/3SYYvFKrvzAbsLhxrH4goD"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170284,
+      "name": "Ay Dieguito",
+      "url": "https://open.spotify.com/track/57jY51VJ9iyZBP5DGFwQpP"
     },
     {
       "album": {
@@ -3180,7 +3220,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186666,
       "name": "DE AQU\u00cd",
       "url": "https://open.spotify.com/track/7taDTR0hM1toanU4vG43aI"
@@ -4177,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "El D\u00eda Que Me Vaya",
+        "url": "https://open.spotify.com/album/6EW7qPLnWKLeMSEtFgMfd4"
+      },
+      "artists": [
+        {
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249153,
+      "name": "El D\u00eda Que Me Vaya",
+      "url": "https://open.spotify.com/track/4aPtoiPFFNv9rkTY5f0360"
+    },
+    {
+      "album": {
         "name": "El Es Mi Apa",
         "url": "https://open.spotify.com/album/5POuHaE3KgomOUXp9aDO3H"
       },
@@ -4832,6 +4890,28 @@
       "duration_ms": 130157,
       "name": "En Las Momias",
       "url": "https://open.spotify.com/track/4uCMIjpU1MHiY3rqRm721s"
+    },
+    {
+      "album": {
+        "name": "En Lo Prohibido",
+        "url": "https://open.spotify.com/album/21rKdI5xNAs9DCt71agCKz"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "En Lo Prohibido",
+      "url": "https://open.spotify.com/track/3qXIbrb3jEJen3NYlySCdb"
     },
     {
       "album": {
@@ -6562,7 +6642,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143250,
       "name": "La Caravana",
       "url": "https://open.spotify.com/track/3v5V1Ro9eUq141arz1ODow"
@@ -6646,7 +6726,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 208333,
       "name": "La Cumbia Del Ave V2",
       "url": "https://open.spotify.com/track/1HBW7Z09hc1GjQ3m0gxMgd"
@@ -7194,7 +7274,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 163378,
       "name": "Lamine Yamal",
       "url": "https://open.spotify.com/track/4pN10u9cyHuPLGtWEc55gY"
@@ -7889,6 +7969,28 @@
     },
     {
       "album": {
+        "name": "Maniaque",
+        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155970,
+      "name": "Maniaque",
+      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
+    },
+    {
+      "album": {
         "name": "Mar y Tierra",
         "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
       },
@@ -7940,6 +8042,28 @@
       "duration_ms": 193333,
       "name": "Mas Altas Que Bajadas",
       "url": "https://open.spotify.com/track/5PLqXnvHH7Gh6CcfiUEr7e"
+    },
+    {
+      "album": {
+        "name": "Matraca",
+        "url": "https://open.spotify.com/album/4AGtqo0um4GoHu9NRVuPZH"
+      },
+      "artists": [
+        {
+          "name": "Angel AM",
+          "url": "https://open.spotify.com/artist/3PbkMaItGszkFJBKNhTmZj"
+        },
+        {
+          "name": "Tenaces Records",
+          "url": "https://open.spotify.com/artist/1wIOkcuPaE005AB3FfqM33"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160208,
+      "name": "Matraca",
+      "url": "https://open.spotify.com/track/0cbzCMGRj9PomKcISNayLc"
     },
     {
       "album": {
@@ -9852,7 +9976,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 240000,
       "name": "Por Mi Familia",
       "url": "https://open.spotify.com/track/4rYrVSQ6g6o697e5nIVCnr"
@@ -12572,7 +12696,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212640,
       "name": "Tunechi (with Gabito Ballesteros)",
       "url": "https://open.spotify.com/track/5itIlFvG0hrl0p0FGLjcRj"
@@ -13556,6 +13680,24 @@
       "duration_ms": 168210,
       "name": "YW&F - Versi\u00f3n Reggaeton",
       "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+    },
+    {
+      "album": {
+        "name": "ZUMBANDO",
+        "url": "https://open.spotify.com/album/6il6zAJuUDj56CgZcmAzsm"
+      },
+      "artists": [
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "ZUMBANDO",
+      "url": "https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc"
     },
     {
       "album": {

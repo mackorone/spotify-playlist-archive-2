@@ -15887,6 +15887,46 @@
     },
     {
       "album": {
+        "name": "Vahvana (feat. Tuomas Kauhanen)",
+        "url": "https://open.spotify.com/album/4ltuKQM54Sznm9WSXM8HKb"
+      },
+      "artists": [
+        {
+          "name": "Petra Gargano",
+          "url": "https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4"
+        },
+        {
+          "name": "Tuomas Kauhanen",
+          "url": "https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175276,
+      "name": "Vahvana (feat. Tuomas Kauhanen)",
+      "url": "https://open.spotify.com/track/1DNH06u2sRUkLY7ipFivBg"
+    },
+    {
+      "album": {
+        "name": "Vaikka l\u00e4htisit pois",
+        "url": "https://open.spotify.com/album/4uentRpWnR84cwS2PIpL0C"
+      },
+      "artists": [
+        {
+          "name": "Vanna",
+          "url": "https://open.spotify.com/artist/5kLqwu1nHkVed1l5GAbt5B"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194386,
+      "name": "Vaikka l\u00e4htisit pois",
+      "url": "https://open.spotify.com/track/1Z2RALD4puYWngQXG7yPtE"
+    },
+    {
+      "album": {
         "name": "Vain nyt",
         "url": "https://open.spotify.com/album/2UZC2j5MOWY5tm8oiwmiHf"
       },
@@ -16270,7 +16310,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167426,
       "name": "Veli nojaa siskoon",
       "url": "https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7"

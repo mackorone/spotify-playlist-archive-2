@@ -2386,7 +2386,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 121547,
       "name": "Gardens of Suzhou",
       "url": "https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C"
@@ -3847,6 +3847,24 @@
     },
     {
       "album": {
+        "name": "Way of Life",
+        "url": "https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2"
+      },
+      "artists": [
+        {
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq"
+    },
+    {
+      "album": {
         "name": "Time In Motion",
         "url": "https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL"
       },
@@ -5190,7 +5208,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203076,
       "name": "Ren'ai",
       "url": "https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R"
@@ -5537,6 +5555,24 @@
     },
     {
       "album": {
+        "name": "Shinjuku",
+        "url": "https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO"
+      },
+      "artists": [
+        {
+          "name": "Just Big Hills",
+          "url": "https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168001,
+      "name": "Shinjuku",
+      "url": "https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv"
+    },
+    {
+      "album": {
         "name": "The Legend of Shirokuro",
         "url": "https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr"
       },
@@ -5548,7 +5584,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 125879,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8"
@@ -6998,6 +7034,24 @@
       "duration_ms": 207320,
       "name": "Waltz For You",
       "url": "https://open.spotify.com/track/0cpZV7KdlhDT4dYmp8jQ4Q"
+    },
+    {
+      "album": {
+        "name": "Water Lily",
+        "url": "https://open.spotify.com/album/68eNVEgcYZEOKgXa0cHv47"
+      },
+      "artists": [
+        {
+          "name": "Asokah",
+          "url": "https://open.spotify.com/artist/7hx0fxCukHneK8d9gDMcsT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81710,
+      "name": "Water Lily",
+      "url": "https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy"
     },
     {
       "album": {

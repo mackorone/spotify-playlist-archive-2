@@ -1,12 +1,12 @@
 {
   "description": "All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Ella Langley.",
-  "num_followers": 33804,
+  "num_followers": 33801,
   "original_name": "Country Smash Hits",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAOGBT2BHOeINZKEaHEMupZj2svLifH",
+  "snapshot_id": "AAAOJm/AsEbO99CAk3bmuRc+KqeuBnCx",
   "tracks": [
     {
       "added_at": "2026-02-27 15:05:38",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/0Sdy5NYNWx4ZZBU89MIu2m"
     },
     {
+      "added_at": "2026-03-06 16:54:01",
+      "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
+    },
+    {
       "added_at": "2026-02-27 15:05:38",
       "album": {
         "name": "Morning Comes",
@@ -105,6 +121,38 @@
       "url": "https://open.spotify.com/track/2za9t2qpWyUpIhnJcwopPt"
     },
     {
+      "added_at": "2026-03-06 17:32:48",
+      "album": {
+        "name": "Worth Your Wild EP",
+        "url": "https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 150183,
+      "name": "B.O.A.T.",
+      "url": "https://open.spotify.com/track/44d1x3XP5dp71SneKB2tJE"
+    },
+    {
+      "added_at": "2026-03-06 16:54:46",
+      "album": {
+        "name": "Girl Out In Nevada",
+        "url": "https://open.spotify.com/album/0VQKJcmSnfBpJfVaq6WhKE"
+      },
+      "artists": [
+        {
+          "name": "Noah James",
+          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
+        }
+      ],
+      "duration_ms": 195194,
+      "name": "Girl Out In Nevada",
+      "url": "https://open.spotify.com/track/1PWaYO4hyrQDD8AeOcy90k"
+    },
+    {
       "added_at": "2026-02-27 15:05:38",
       "album": {
         "name": "Woman In The Mirror",
@@ -125,6 +173,22 @@
       "url": "https://open.spotify.com/track/1oHguc7We32lsbkTqHIbaI"
     },
     {
+      "added_at": "2026-03-06 16:52:34",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 158991,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB"
+    },
+    {
       "added_at": "2026-02-27 15:05:38",
       "album": {
         "name": "Hell If I Know",
@@ -139,6 +203,38 @@
       "duration_ms": 177430,
       "name": "Hell If I Know",
       "url": "https://open.spotify.com/track/3bCpA607HnEb6OZcbpiS1i"
+    },
+    {
+      "added_at": "2026-03-06 17:30:39",
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "duration_ms": 204825,
+      "name": "Fools",
+      "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
+    },
+    {
+      "added_at": "2026-03-06 16:50:28",
+      "album": {
+        "name": "Love Me Less",
+        "url": "https://open.spotify.com/album/5MRy1CgWFuOAhtzMe0zRIu"
+      },
+      "artists": [
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "duration_ms": 191970,
+      "name": "Love Me Less",
+      "url": "https://open.spotify.com/track/6ReIBoDe3qpy2OEkWhiGpp"
     },
     {
       "added_at": "2026-02-27 15:05:38",
@@ -1663,6 +1759,26 @@
       "duration_ms": 230213,
       "name": "Dead to Me",
       "url": "https://open.spotify.com/track/1BEbsfZy3yzSnm5mzfz2lK"
+    },
+    {
+      "added_at": "2026-03-06 16:57:22",
+      "album": {
+        "name": "Nothings What It Seems (feat. Jackson Dean)",
+        "url": "https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        },
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "duration_ms": 192157,
+      "name": "Nothings What It Seems (feat. Jackson Dean)",
+      "url": "https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg"
     }
   ],
   "unique_name": "Country Smash Hits",

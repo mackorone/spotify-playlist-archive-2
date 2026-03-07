@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317650,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
+    },
+    {
+      "album": {
         "name": "Inspirational",
         "url": "https://open.spotify.com/album/4l3nsPf67pl9mqggEpmVVZ"
       },
@@ -2060,7 +2078,7 @@
       ],
       "date_added": "2025-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 269897,
       "name": "You First",
       "url": "https://open.spotify.com/track/1wGL1oXVUUnY4t48OgB4Rl"

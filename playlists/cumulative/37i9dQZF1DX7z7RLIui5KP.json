@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Mtoto wa Khadija",
+        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        },
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161584,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3"
+    },
+    {
+      "album": {
         "name": "Crash Out",
         "url": "https://open.spotify.com/album/1AEOnjNRJMursjuMQ4o28C"
       },
@@ -2704,24 +2726,6 @@
       "duration_ms": 224400,
       "name": "Time Flies (feat. Sauti Sol)",
       "url": "https://open.spotify.com/track/1taXjBXUnhPCPunwB6xOgp"
-    },
-    {
-      "album": {
-        "name": "Mtoto wa Khadija",
-        "url": "https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn"
-      },
-      "artists": [
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3"
     },
     {
       "album": {

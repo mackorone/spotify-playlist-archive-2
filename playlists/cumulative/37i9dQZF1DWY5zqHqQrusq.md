@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind\. Cover: Flier
 
-138 songs - 7 hr 51 min
+139 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chikwere](https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Alusa Why Are You Topless?](https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm) | 4:41 | 2023-11-17 |  |
 | [Compare](https://open.spotify.com/track/2308PKp1LrwpZwRMtW6bWn) | [Africanvic](https://open.spotify.com/artist/49TbpwxzixxceH2mXHXkby) | [Ex Chronicles](https://open.spotify.com/album/1SWq4D1CuKTVaURbKLOIQa) | 4:02 | 2022-11-11 | 2023-04-29 |
 | [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 | 2025-03-07 |
+| [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 | 2026-03-06 |  |
 | [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 |  |
 | [Don’t Play](https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV) | [Rita Wangui](https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Don’t Play](https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO) | 2:29 | 2025-05-01 |  |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 |  |
@@ -94,7 +95,7 @@
 | [Outplayed](https://open.spotify.com/track/5ri8WSEiMS8zQR4YBpHXqu) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Christine Cuare](https://open.spotify.com/artist/3F8V2hgLg4jVkRlZ3BRsnt) | [Outplayed](https://open.spotify.com/album/660Pj8Kvn7QPrP19JFhUzk) | 3:12 | 2023-04-28 | 2024-02-02 |
 | [Panda Basi](https://open.spotify.com/track/4vI1Z6EL8bqA7YE1fKzRyp) | [Mvua](https://open.spotify.com/artist/6mK4gMeS7p1vS724AecSUO) | [Panda Basi](https://open.spotify.com/album/5yCp4CeBRujpxNTURyBCRO) | 2:47 | 2025-02-14 | 2025-07-26 |
 | [Passionate](https://open.spotify.com/track/6Wh1KqH2YOj6tzG5GMSt9a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Passionate](https://open.spotify.com/album/4VN3enKsmXpCUgWSMmJEA9) | 1:43 | 2026-02-26 |  |
-| [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 | 2024-02-01 |  |
+| [Pete](https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1) | [Davy Waweru](https://open.spotify.com/artist/19Y9KysWDrkmZyMy8VRpOp) | [Pete](https://open.spotify.com/album/5D4ETjU3vwslf8b6HOLUWx) | 2:04 | 2024-02-01 | 2026-03-07 |
 | [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 | 2025-02-15 |
 | [Purple](https://open.spotify.com/track/2smULwfhqWK1ovV6SmzwVa) | [KALI](https://open.spotify.com/artist/5uzHXxPGMAnDqKnBLLO0AI) | [Different Definitions of Love: Part 1](https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS) | 3:23 | 2022-11-11 | 2024-04-20 |
 | [R\-, Pt\. 2 \- Acoustic Version](https://open.spotify.com/track/2X8UWEViu7QZn7uRXAWKmV) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Amoit](https://open.spotify.com/artist/1EO9IOTaipIYiA0K8AnBuA), [Phoebe Thestor](https://open.spotify.com/artist/14Pns33TGKYoRZlxi2sN1I) | [R\-, Pt\. 2 \(Acoustic Version\)](https://open.spotify.com/album/4pjezrOHcAXQkBoe0rw0Zz) | 2:11 | 2022-11-11 | 2023-04-29 |

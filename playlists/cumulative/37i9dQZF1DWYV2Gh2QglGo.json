@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Man Without A Woman",
+        "url": "https://open.spotify.com/album/7alDpK3rtHDlToG8GFxpxm"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215002,
+      "name": "A Man Without A Woman",
+      "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
+    },
+    {
+      "album": {
         "name": "A Real Man",
         "url": "https://open.spotify.com/album/46Hx2WVHRs07MDXGVgzdD1"
       },
@@ -1792,7 +1810,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 314080,
       "name": "Damn",
       "url": "https://open.spotify.com/track/2HPQ7sROFMf0GoXkULuNGB"
@@ -2420,7 +2438,7 @@
       ],
       "date_added": "2025-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 130880,
       "name": "Everybody Loves My Little Darling",
       "url": "https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt"
@@ -2438,7 +2456,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 253773,
       "name": "Everywhere a man can be",
       "url": "https://open.spotify.com/track/45G9lRDmps5iw1UujkBlH9"
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 289803,
       "name": "Find My Bones",
       "url": "https://open.spotify.com/track/5yCrBKZUjHzPhux3HxZ74s"
@@ -2714,6 +2732,24 @@
       "duration_ms": 227322,
       "name": "Flower Tattoos",
       "url": "https://open.spotify.com/track/64M1eOWdGnNTlkF4vKUmJ5"
+    },
+    {
+      "album": {
+        "name": "Paradise & Hurricanes",
+        "url": "https://open.spotify.com/album/2r9AsTcJn97CcARYFM8pMx"
+      },
+      "artists": [
+        {
+          "name": "High Valley",
+          "url": "https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204825,
+      "name": "Fools",
+      "url": "https://open.spotify.com/track/58T9niWI2sJJVnwbv57Zfn"
     },
     {
       "album": {
@@ -4963,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Leavin' on My Lips",
+        "url": "https://open.spotify.com/album/0s2XCVv9IyHFJf3RQLBux1"
+      },
+      "artists": [
+        {
+          "name": "Brettyn Rose",
+          "url": "https://open.spotify.com/artist/6nWt7zuZMhRyN0ZTx47dVn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196446,
+      "name": "Leavin' on My Lips",
+      "url": "https://open.spotify.com/track/31aeLzAogtMnsby1kgRm4q"
+    },
+    {
+      "album": {
         "name": "Let Alone My Heart",
         "url": "https://open.spotify.com/album/3QTJp5JSOmv5XaH2D6l6py"
       },
@@ -6964,7 +7018,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154623,
       "name": "Problem",
       "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
@@ -8933,6 +8987,24 @@
     },
     {
       "album": {
+        "name": "This Old House",
+        "url": "https://open.spotify.com/album/0gXWAKWUkB7XdpTwcU2NZo"
+      },
+      "artists": [
+        {
+          "name": "The Washboard Union",
+          "url": "https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204667,
+      "name": "This Old House",
+      "url": "https://open.spotify.com/track/0S5aZGrjwYDvNKBaaHVe7J"
+    },
+    {
+      "album": {
         "name": "Thought About You",
         "url": "https://open.spotify.com/album/4yk2w4x41gsrJC1b0jmJB4"
       },
@@ -10198,6 +10270,24 @@
       "duration_ms": 229174,
       "name": "You and I Tonight",
       "url": "https://open.spotify.com/track/3whnvzF7IoyO9DICzAlhq9"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
     },
     {
       "album": {

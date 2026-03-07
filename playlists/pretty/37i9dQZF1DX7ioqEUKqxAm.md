@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ioqEUKqxAm.md) - [plain]
 
 > 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター4組を特集 \(cover: 山田由梨の眠れないなら茶をのんで\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 570 likes - 12 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 12 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

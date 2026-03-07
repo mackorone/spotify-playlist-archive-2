@@ -1,6 +1,6 @@
 {
   "description": "Colourful songs to kickstart your Holi party! Cover - Yeh Jawaani Hai Deewani",
-  "num_followers": 171620,
+  "num_followers": 171866,
   "original_name": "Holi Party",
   "owner": {
     "name": "Spotify",
@@ -26,6 +26,10 @@
         {
           "name": "Shalmali Kholgade",
           "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 288902,
@@ -280,12 +284,16 @@
           "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         },
         {
-          "name": "Dev Arijit",
-          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+          "name": "Aarvan",
+          "url": "https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS"
         },
         {
           "name": "Kumaar",
           "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
         }
       ],
       "duration_ms": 235555,
@@ -675,6 +683,42 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
+        "name": "Badrinath Ki Dulhania",
+        "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
+      },
+      "artists": [
+        {
+          "name": "Dev Negi",
+          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        }
+      ],
+      "duration_ms": 206858,
+      "name": "Badri Ki Dulhania (Title Track)",
+      "url": "https://open.spotify.com/track/2xbvLQBFW7E9232BwMBljb"
+    },
+    {
+      "added_at": "2026-03-04 09:28:01",
+      "album": {
         "name": "Ungli (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7EHmKdpuGODFjbflV70k2y"
       },
@@ -723,42 +767,6 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
-    },
-    {
-      "added_at": "2026-03-04 09:28:01",
-      "album": {
-        "name": "Badrinath Ki Dulhania",
-        "url": "https://open.spotify.com/album/26ska1StQhwbWADLTg2hky"
-      },
-      "artists": [
-        {
-          "name": "Dev Negi",
-          "url": "https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Monali Thakur",
-          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
-        },
-        {
-          "name": "Ikka",
-          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Shabbir Ahmed",
-          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
-        }
-      ],
-      "duration_ms": 206858,
-      "name": "Badri Ki Dulhania (Title Track)",
-      "url": "https://open.spotify.com/track/2xbvLQBFW7E9232BwMBljb"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -847,6 +855,46 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
+        "name": "Raabta",
+        "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Meet Bros.",
+          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+        },
+        {
+          "name": "Sourav Roy",
+          "url": "https://open.spotify.com/artist/4ieLReP5xBFHAYnpAXpiGr"
+        },
+        {
+          "name": "Sohrabuddin",
+          "url": "https://open.spotify.com/artist/7djVM7CRoIIQGwgpY8VbVd"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Jitendra Raghuvanshi",
+          "url": "https://open.spotify.com/artist/6gQyb1a7ZLZcvqR9O2NBwa"
+        }
+      ],
+      "duration_ms": 276153,
+      "name": "Main Tera Boyfriend",
+      "url": "https://open.spotify.com/track/3InIAYQyi22mfV4g1T9Jkc"
+    },
+    {
+      "added_at": "2026-03-04 09:28:01",
+      "album": {
         "name": "Pathaan",
         "url": "https://open.spotify.com/album/2ooWY7xriwwyj23dAI32C2"
       },
@@ -911,42 +959,34 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
-        "name": "Raabta",
-        "url": "https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5"
+        "name": "Choli Ke Peeche (From \"Crew\")",
+        "url": "https://open.spotify.com/album/5snDdFszQnoAqgQfNntKcx"
       },
       "artists": [
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
         {
-          "name": "Meet Bros.",
-          "url": "https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS"
+          "name": "Ila Arun",
+          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
         },
         {
-          "name": "Sourav Roy",
-          "url": "https://open.spotify.com/artist/4ieLReP5xBFHAYnpAXpiGr"
+          "name": "IP Singh",
+          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
         },
         {
-          "name": "Sohrabuddin",
-          "url": "https://open.spotify.com/artist/7djVM7CRoIIQGwgpY8VbVd"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        },
-        {
-          "name": "Jitendra Raghuvanshi",
-          "url": "https://open.spotify.com/artist/6gQyb1a7ZLZcvqR9O2NBwa"
+          "name": "Akshay & IP",
+          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
         }
       ],
-      "duration_ms": 276153,
-      "name": "Main Tera Boyfriend",
-      "url": "https://open.spotify.com/track/3InIAYQyi22mfV4g1T9Jkc"
+      "duration_ms": 173400,
+      "name": "Choli Ke Peeche (From \"Crew\")",
+      "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -987,34 +1027,30 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
-        "name": "Choli Ke Peeche (From \"Crew\")",
-        "url": "https://open.spotify.com/album/5snDdFszQnoAqgQfNntKcx"
+        "name": "Baghban",
+        "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
       },
       "artists": [
         {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+          "name": "Amitabh Bachchan",
+          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
         },
         {
           "name": "Alka Yagnik",
           "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
         },
         {
-          "name": "Ila Arun",
-          "url": "https://open.spotify.com/artist/5zWKMBKw7KqulFxyz2ULvp"
-        },
-        {
-          "name": "IP Singh",
-          "url": "https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG"
-        },
-        {
-          "name": "Akshay & IP",
-          "url": "https://open.spotify.com/artist/2jiSIlVrIaBnJA2x4jqqvf"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 173400,
-      "name": "Choli Ke Peeche (From \"Crew\")",
-      "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
+      "duration_ms": 339533,
+      "name": "Hori Khele Raghuveera",
+      "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -1047,30 +1083,22 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
-        "name": "Baghban",
-        "url": "https://open.spotify.com/album/6utlWwaPOT6xIaeLOGr9XC"
+        "name": "Yo Yo Honey Singh Is Back",
+        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
       },
       "artists": [
         {
-          "name": "Amitabh Bachchan",
-          "url": "https://open.spotify.com/artist/4tgxFlmtGx08MtTKWeqEuR"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Sukhwinder Singh",
-          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        },
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
         }
       ],
-      "duration_ms": 339533,
-      "name": "Hori Khele Raghuveera",
-      "url": "https://open.spotify.com/track/7zrQ2vyyvMfg8fl3XF18MD"
+      "duration_ms": 243319,
+      "name": "Sunny Sunny (From \"Yaariyan\")",
+      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -1095,26 +1123,6 @@
       "duration_ms": 251513,
       "name": "Nachange Saari Raat",
       "url": "https://open.spotify.com/track/1iF6lrJludTZmfgMgXPqSe"
-    },
-    {
-      "added_at": "2026-03-04 09:28:01",
-      "album": {
-        "name": "Yo Yo Honey Singh Is Back",
-        "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        }
-      ],
-      "duration_ms": 243319,
-      "name": "Sunny Sunny (From \"Yaariyan\")",
-      "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -1179,22 +1187,6 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
-        "name": "Dhadak (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
-      },
-      "artists": [
-        {
-          "name": "Ajay-Atul",
-          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-        }
-      ],
-      "duration_ms": 226501,
-      "name": "Zingaat",
-      "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
-    },
-    {
-      "added_at": "2026-03-04 09:28:01",
-      "album": {
         "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
         "url": "https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6"
       },
@@ -1223,6 +1215,22 @@
       "duration_ms": 184171,
       "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
       "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
+    },
+    {
+      "added_at": "2026-03-04 09:28:01",
+      "album": {
+        "name": "Dhadak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "duration_ms": 226501,
+      "name": "Zingaat",
+      "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
     },
     {
       "added_at": "2026-03-04 09:28:01",
@@ -1515,58 +1523,6 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
-        "name": "Teri Baaton Mein Aisa Uljha Jiya",
-        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
-      },
-      "artists": [
-        {
-          "name": "Raghav",
-          "url": "https://open.spotify.com/artist/2KDLKIm6xSSu0nMkgJF1rx"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        },
-        {
-          "name": "Nina Mathur",
-          "url": "https://open.spotify.com/artist/3tGyiAF7Oo7m9G8sdJZ2XI"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
-      "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP"
-    },
-    {
-      "added_at": "2026-03-04 09:28:01",
-      "album": {
-        "name": "Muqabla (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
-      },
-      "artists": [
-        {
-          "name": "Yash Narvekar",
-          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
-        },
-        {
-          "name": "Parampara Tandon",
-          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Muqabla (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
-    },
-    {
-      "added_at": "2026-03-04 09:28:01",
-      "album": {
         "name": "Khadke Glassy (From \"Jabariya Jodi\")",
         "url": "https://open.spotify.com/album/7vW69P07tJxYsk3KWqYez2"
       },
@@ -1603,6 +1559,34 @@
     {
       "added_at": "2026-03-04 09:28:01",
       "album": {
+        "name": "Teri Baaton Mein Aisa Uljha Jiya",
+        "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
+      },
+      "artists": [
+        {
+          "name": "Raghav",
+          "url": "https://open.spotify.com/artist/2KDLKIm6xSSu0nMkgJF1rx"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        {
+          "name": "Nina Mathur",
+          "url": "https://open.spotify.com/artist/3tGyiAF7Oo7m9G8sdJZ2XI"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "Teri Baaton Mein Aisa Uljha Jiya Title Song",
+      "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP"
+    },
+    {
+      "added_at": "2026-03-04 09:28:01",
+      "album": {
         "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
@@ -1627,6 +1611,30 @@
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
+    },
+    {
+      "added_at": "2026-03-04 09:28:01",
+      "album": {
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
+      },
+      "artists": [
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     },
     {
       "added_at": "2026-03-04 09:28:01",

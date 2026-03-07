@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Assia Keva
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,060 likes - 112 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,083 likes - 112 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 111 | [ALIVE](https://open.spotify.com/track/7qL1ImIs0qrXds1ldjicPx) | [Kay Sebastene](https://open.spotify.com/artist/5ZMoHmgsrp02niBm1sihBP) | [ALIVE](https://open.spotify.com/album/5WJaZSqKMBeyO4nqGzbgpQ) | 3:13 |
 | 112 | [superstitious](https://open.spotify.com/track/1HoRAFcgEZSUJesK23aRnZ) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [superstitious / falling in love](https://open.spotify.com/album/1WevIdYWogV9E4pZcXdoel) | 3:07 |
 
-Snapshot ID: `AAAAADU4OeFoOc810sD6vaYqBOEqIPaW`
+Snapshot ID: `AAAAAOYAq4EKYTUydCuk1zZcVrYwvAT3`

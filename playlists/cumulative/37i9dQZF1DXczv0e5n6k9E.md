@@ -4,7 +4,7 @@
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Immune
 
-661 songs - 1 day 6 hr 54 min
+662 songs - 1 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [Kalo Koritsi](https://open.spotify.com/track/07AO5p4nddtCbxzvpBj3uv) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [BLVD Studio](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [O Xoros Tou Fy](https://open.spotify.com/album/5B7KNfCrSFSPJdZjJV8Xui) | 3:15 | 2025-07-31 | 2025-12-19 |
 | [KALOKAIRI](https://open.spotify.com/track/4f5U2wOXspirNi7GNfJGvO) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Oge](https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9) | [KALOKAIRI](https://open.spotify.com/album/2487Rk9dc5Zg0f7ohXrXMV) | 2:17 | 2024-06-27 | 2024-09-13 |
 | [Kamia San Esena](https://open.spotify.com/track/4RPbBXNO6784XLVOVBGCT0) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [Kamia San Esena](https://open.spotify.com/album/7KyJEwhI6F7QwghNe88c8U) | 3:10 | 2024-07-04 | 2024-10-18 |
+| [KANGAL](https://open.spotify.com/track/6WMWJzvoMmFAFWhrMSwLvs) | [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [Runnin' Busy](https://open.spotify.com/album/3e5lplDylZTPn9Ggpu3huQ) | 1:54 | 2026-03-06 |  |
 | [Kanye West](https://open.spotify.com/track/6LTrJT1jmr44r8TsRK37AK) | [Lil Barty](https://open.spotify.com/artist/501ecrQlNfbAmZawdV0hzg) | [Kanye West](https://open.spotify.com/album/3j1eyDkYPeDE4pTg7BLS3g) | 1:42 | 2024-09-19 | 2024-10-04 |
 | [Kapos Allios](https://open.spotify.com/track/2AQtKCJgmykkIC2bODzcfN) | [Negros Tou Moria](https://open.spotify.com/artist/0kw0RBxQ5PjqTePr8TrTI1), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [ODYDOZE](https://open.spotify.com/artist/3joZFtD641x3Iv1fJ74ybQ) | [MAVRI ELLADA](https://open.spotify.com/album/1VLERIT9MWXQGypnzYaTe9) | 3:07 | 2025-04-03 | 2025-09-26 |
 | [KARMA](https://open.spotify.com/track/3Qa8rrt0bAA2VAYkbEY2pX) | [Khay Be](https://open.spotify.com/artist/5k33Wwmqe50DI0c0tF7X9y), [lefmav](https://open.spotify.com/artist/4Xn5nkh24fr61RNgXHMeEU) | [KARMA](https://open.spotify.com/album/1Chmt0cqtmmZWgYU21UKtZ) | 2:33 | 2024-11-14 | 2024-12-13 |

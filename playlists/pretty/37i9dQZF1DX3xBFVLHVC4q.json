@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Love Live! Sunshine!!\" \u00a92017 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3!!",
-  "num_followers": 55859,
+  "num_followers": 55865,
   "original_name": "Love Live! Sunshine!!",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,38 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
+      },
+      "artists": [
+        {
+          "name": "AZALEA",
+          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
+      "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
+        "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
+        "url": "https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        }
+      ],
+      "duration_ms": 308786,
+      "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
+      "url": "https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "Bring the LOVE\uff01",
         "url": "https://open.spotify.com/album/4if3euNE5b8VoUpEsLepk3"
       },
@@ -347,38 +379,6 @@
       "duration_ms": 223520,
       "name": "Bring the LOVE\uff01",
       "url": "https://open.spotify.com/track/08jHICuBUw39Mct5JfZ3C5"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
-        "url": "https://open.spotify.com/album/45b6rybZSrauqudZ4QYqQK"
-      },
-      "artists": [
-        {
-          "name": "Aqours",
-          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
-        }
-      ],
-      "duration_ms": 308786,
-      "name": "\u604b\u306b\u306a\u308a\u305f\u3044AQUARIUM",
-      "url": "https://open.spotify.com/track/3nxrLaPGlW1EsAWn23bcPX"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-        "url": "https://open.spotify.com/album/4ZHvPOI0ckze6XmO5KCbs3"
-      },
-      "artists": [
-        {
-          "name": "AZALEA",
-          "url": "https://open.spotify.com/artist/18QWe6vnAE1n1FnO0wAfPN"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "\u30c8\u30ea\u30b3\u30ea\u30b3PLEASE!!",
-      "url": "https://open.spotify.com/track/6d3G58cEHrqIMyDKaMuRu3"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
         }
       ],
-      "duration_ms": 278400,
-      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
-      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
+      "duration_ms": 239733,
+      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
+      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/45hvLVhSaKsJ4YifJ69A3Z"
         }
       ],
-      "duration_ms": 239733,
-      "name": "\u5143\u6c17\u5168\u958bDAY! DAY! DAY!",
-      "url": "https://open.spotify.com/track/472fNidp2NJoijcPKMvaZv"
+      "duration_ms": 278400,
+      "name": "\u591c\u7a7a\u306f\u306a\u3093\u3067\u3082\u77e5\u3063\u3066\u308b\u306e?",
+      "url": "https://open.spotify.com/track/1ORM9UcRS2m6sSCFHtGM9l"
     },
     {
       "added_at": "2024-12-17 16:20:41",
@@ -727,6 +727,26 @@
     {
       "added_at": "2024-12-17 16:20:41",
       "album": {
+        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
+        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
+          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
+        },
+        {
+          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
+          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
+        }
+      ],
+      "duration_ms": 263146,
+      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
+      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
+    },
+    {
+      "added_at": "2024-12-17 16:20:41",
+      "album": {
         "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.1 \u301cSUMMER VACATION\u301c)",
         "url": "https://open.spotify.com/album/1hMpUC2AhCku7MHmq8awKW"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 255533,
       "name": "\u590f\u3078\u306e\u6249 - Never end ver.",
       "url": "https://open.spotify.com/track/2tkXgl87zjKfDUFkht3maK"
-    },
-    {
-      "added_at": "2024-12-17 16:20:41",
-      "album": {
-        "name": "\u30c7\u30e5\u30aa\u30c8\u30ea\u30aa\u30b3\u30ec\u30af\u30b7\u30e7\u30f3 (VOL.2 \u301cWINTER VACATION\u301c)",
-        "url": "https://open.spotify.com/album/61P8OX92C18Da8G5sBSTgJ"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6d66\u679c\u5357 (CV.\u8acf\u8a2a\u306a\u306a\u304b)",
-          "url": "https://open.spotify.com/artist/2eVnZH9Ie92OBHLwDMoWN6"
-        },
-        {
-          "name": "\u5c0f\u539f\u97a0\u8389 (CV.\u9234\u6728\u611b\u5948)",
-          "url": "https://open.spotify.com/artist/5AeHYcYFgZ8VHULQk0vHM2"
-        }
-      ],
-      "duration_ms": 263146,
-      "name": "\u6d99\u304c\u96ea\u306b\u306a\u308b\u524d\u306b",
-      "url": "https://open.spotify.com/track/6g6nsxbKZvG3V79aCJRDB6"
     },
     {
       "added_at": "2024-12-17 16:20:41",

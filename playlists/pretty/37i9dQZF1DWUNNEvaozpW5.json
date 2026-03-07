@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Nat Simons.",
-  "num_followers": 613137,
+  "num_followers": 613162,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,18 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Astronom\u00eda Razonable",
-        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
       "artists": [
         {
-          "name": "El \u00daltimo De La Fila",
-          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 217093,
-      "name": "Como un burro amarrado en la puerta del baile",
-      "url": "https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl"
+      "duration_ms": 368320,
+      "name": "Entre dos tierras",
+      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -307,18 +307,18 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+        "name": "Astronom\u00eda Razonable",
+        "url": "https://open.spotify.com/album/1IxY9bcAPSu0ENtX3oLRlS"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "El \u00daltimo De La Fila",
+          "url": "https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I"
         }
       ],
-      "duration_ms": 368320,
-      "name": "Entre dos tierras",
-      "url": "https://open.spotify.com/track/7BYqVvoXpQFhs4jJ0qqNZt"
+      "duration_ms": 217093,
+      "name": "Como un burro amarrado en la puerta del baile",
+      "url": "https://open.spotify.com/track/5cjEWYDWMXlTZr8Rehu2bl"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Hasta que me quede sin voz",
-        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 306861,
-      "name": "Hasta que me quede sin voz",
-      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
         "name": "Me has invitado a bailar",
         "url": "https://open.spotify.com/album/2dtz3wrC1FrShzjLEy6xDp"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/0JJw1ghkoEu3Yat1uOSjAE"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
+        "name": "Hasta que me quede sin voz",
+        "url": "https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 306861,
+      "name": "Hasta que me quede sin voz",
+      "url": "https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        }
+      ],
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1231,34 +1247,18 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
+        "name": "El D\u00eda Que T\u00fa Te Marches",
+        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
       },
       "artists": [
         {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
         }
       ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
-        "name": "Lobo hombre en Par\u00eds",
-        "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
-      },
-      "artists": [
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
-      "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
+      "duration_ms": 208101,
+      "name": "El D\u00eda Que T\u00fa Te Marches",
+      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "El D\u00eda Que T\u00fa Te Marches",
-        "url": "https://open.spotify.com/album/2HLsMqrSQzRdPzoi0NzijC"
+        "name": "Lobo hombre en Par\u00eds",
+        "url": "https://open.spotify.com/album/1feehmPHfXmZExKcTyT8A5"
       },
       "artists": [
         {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+          "name": "La Uni\u00f3n",
+          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
         }
       ],
-      "duration_ms": 208101,
-      "name": "El D\u00eda Que T\u00fa Te Marches",
-      "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+      "duration_ms": 249186,
+      "name": "Lobo hombre en Par\u00eds - Versi\u00f3n EP",
+      "url": "https://open.spotify.com/track/2zusjwljepN2HlSFUcAxSY"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Cowboys de la A3",
-        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
-      },
-      "artists": [
-        {
-          "name": "Arde Bogot\u00e1",
-          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
-        }
-      ],
-      "duration_ms": 276005,
-      "name": "Cowboys de la A3",
-      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
         "name": "La misma canci\u00f3n",
         "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 286534,
       "name": "La misma canci\u00f3n",
       "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
+        "name": "Cowboys de la A3",
+        "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        }
+      ],
+      "duration_ms": 276005,
+      "name": "Cowboys de la A3",
+      "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-03-05 23:00:26",
       "album": {
-        "name": "Rock and Roll Actitud (1978-2018)",
-        "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
-      },
-      "artists": [
-        {
-          "name": "Loquillo",
-          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
-        }
-      ],
-      "duration_ms": 299977,
-      "name": "Rey del Glam",
-      "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
-    },
-    {
-      "added_at": "2026-03-05 23:00:26",
-      "album": {
         "name": "Punto de Colisi\u00f3n",
         "url": "https://open.spotify.com/album/5TgxyfEFys8acyZHPAi4w8"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
+    },
+    {
+      "added_at": "2026-03-05 23:00:26",
+      "album": {
+        "name": "Rock and Roll Actitud (1978-2018)",
+        "url": "https://open.spotify.com/album/5UWflqGh9hNMGZQV3Jmn92"
+      },
+      "artists": [
+        {
+          "name": "Loquillo",
+          "url": "https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr"
+        }
+      ],
+      "duration_ms": 299977,
+      "name": "Rey del Glam",
+      "url": "https://open.spotify.com/track/7tWHQ6cmZ1Li3g1OdlHWz1"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1912,13 +1912,13 @@
       },
       "artists": [
         {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+          "name": "La Guardia",
+          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
+      "duration_ms": 223240,
+      "name": "Cuando Brille el Sol",
+      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
     },
     {
       "added_at": "2026-03-05 23:00:26",
@@ -1928,13 +1928,13 @@
       },
       "artists": [
         {
-          "name": "La Guardia",
-          "url": "https://open.spotify.com/artist/5UYbCAN2H4Yr4f46tN5AeD"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 223240,
-      "name": "Cuando Brille el Sol",
-      "url": "https://open.spotify.com/track/307jZeOmkkd7mKc7wgFglj"
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     },
     {
       "added_at": "2026-03-05 23:00:26",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-30",
-  "description": "<a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack!  </a>   Cover: Mitski",
+  "description": "<a href=\"https://loremandfriends.substack.com/p/everything-comes-back-around-and\">read our substack \ud83e\udee7  </a>   Cover: waterbaby",
   "name": "Lorem",
   "tracks": [
     {
@@ -8156,7 +8156,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176612,
       "name": "Bound2U",
       "url": "https://open.spotify.com/track/6ofhGT4U9raQtzTdGwctRr"
@@ -18153,6 +18153,24 @@
     },
     {
       "album": {
+        "name": "Elktorn / All I Could Think Of",
+        "url": "https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Elktorn",
+      "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
+    },
+    {
+      "album": {
         "name": "Elliot's Song (From \"Euphoria\" An HBO Original Series)",
         "url": "https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8"
       },
@@ -22194,7 +22212,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 199384,
       "name": "Fry",
       "url": "https://open.spotify.com/track/507nGWLksK9ktnzpYxDgGC"
@@ -32402,7 +32420,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219428,
       "name": "joey knows",
       "url": "https://open.spotify.com/track/0m5RQJVdPvsZwx4DYfUg5o"
@@ -44654,7 +44672,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 227253,
       "name": "Outbound",
       "url": "https://open.spotify.com/track/33JtmL41NT35v7Y1j9dULK"
@@ -46664,7 +46682,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 353260,
       "name": "Playing Classics",
       "url": "https://open.spotify.com/track/231MlrwBMFPgJC05VChPXF"
@@ -47032,7 +47050,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143592,
       "name": "Portal",
       "url": "https://open.spotify.com/track/7LYCoMFe1ciXBMdwZLmvG2"
@@ -47592,7 +47610,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 272424,
       "name": "Prom",
       "url": "https://open.spotify.com/track/7v4elVZEuKlU0zutsoh6gh"
@@ -48068,7 +48086,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 337561,
       "name": "Racecar",
       "url": "https://open.spotify.com/track/5dhnTegrm9fl3KLBU2bocS"
@@ -55523,6 +55541,24 @@
     },
     {
       "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
+    },
+    {
+      "album": {
         "name": "Stained Glass Window",
         "url": "https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx"
       },
@@ -56810,6 +56846,24 @@
       "duration_ms": 175621,
       "name": "stupid",
       "url": "https://open.spotify.com/track/33v6ir6PfrVfhpkeKLRujC"
+    },
+    {
+      "album": {
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
+      },
+      "artists": [
+        {
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
       "album": {
@@ -64664,6 +64718,28 @@
       "duration_ms": 185023,
       "name": "Warm",
       "url": "https://open.spotify.com/track/40Otjn8rGe8T5tbjK0eTbo"
+    },
+    {
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272196,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
     },
     {
       "album": {

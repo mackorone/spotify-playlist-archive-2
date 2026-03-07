@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uc608\ube5b (Yebit)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover: \uae40\ud6a8\ub9b0 (Kim Hyo Rin)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -2132,7 +2132,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 216872,
       "name": "Dearest mistake",
       "url": "https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu"
@@ -2512,6 +2512,24 @@
       "duration_ms": 229573,
       "name": "Epilogue",
       "url": "https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ"
+    },
+    {
+      "album": {
+        "name": "Even If the World Tricks You (Original Soundtrack from \"Number One\")",
+        "url": "https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Even If the World Tricks You",
+      "url": "https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU"
     },
     {
       "album": {
@@ -3502,7 +3520,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182282,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO"
@@ -3712,6 +3730,28 @@
       "duration_ms": 177197,
       "name": "Hide And Seek",
       "url": "https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD"
+    },
+    {
+      "album": {
+        "name": "Hide and Seek (feat. kimminseong)",
+        "url": "https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG"
+      },
+      "artists": [
+        {
+          "name": "Kim Hyo Rin",
+          "url": "https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp"
+        },
+        {
+          "name": "kimminseong",
+          "url": "https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224267,
+      "name": "Hide and Seek (feat. kimminseong)",
+      "url": "https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP"
     },
     {
       "album": {
@@ -5362,7 +5402,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 113546,
       "name": "Laughter Hole",
       "url": "https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9"
@@ -6576,7 +6616,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211800,
       "name": "My you",
       "url": "https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw"

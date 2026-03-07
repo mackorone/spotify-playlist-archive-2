@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220000,
       "name": "Descarada",
       "url": "https://open.spotify.com/track/5B8GoSjSUHBCjJIillCQyG"
@@ -7944,7 +7944,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176294,
       "name": "TU FEO",
       "url": "https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39"
@@ -8288,6 +8288,24 @@
       "duration_ms": 194599,
       "name": "Veterana",
       "url": "https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh"
+    },
+    {
+      "album": {
+        "name": "Viral en Mi Mente",
+        "url": "https://open.spotify.com/album/0whdKc95C3ctNXh0gWOd6s"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Viral en Mi Mente",
+      "url": "https://open.spotify.com/track/2WahHoz2VqJMet3A3OOzHd"
     },
     {
       "album": {

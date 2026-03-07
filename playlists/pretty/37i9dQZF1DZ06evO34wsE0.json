@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 252231,
+  "num_followers": 252251,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAADD02lxwzJQl+tFxE6oE4eC",
+  "snapshot_id": "aajHgAAAAACDGGCAsJO08l6I9tROVMIZ",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 229026,
-      "name": "She's Not Just A Pretty Face - Red Version",
-      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
+      "duration_ms": 196720,
+      "name": "In My Car (I'll Be The Driver) - Red Version",
+      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
     },
     {
       "added_at": null,
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 196720,
-      "name": "In My Car (I'll Be The Driver) - Red Version",
-      "url": "https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru"
+      "duration_ms": 229026,
+      "name": "She's Not Just A Pretty Face - Red Version",
+      "url": "https://open.spotify.com/track/5xh0pLWWOuHiHsqvIX8JpH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "Break them in, wear them out. Cover: Jordan Davis",
+  "description": "Break them in, wear them out. Cover: Cameron Whitcomb",
   "name": "New Boots",
   "tracks": [
     {
@@ -4849,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "Blame Texas",
+        "url": "https://open.spotify.com/album/6b7b3eGyXQEbl44yJiMY1x"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192026,
+      "name": "Blame Texas",
+      "url": "https://open.spotify.com/track/7qhItbDMoTlq3Dyh1Qh1Ch"
+    },
+    {
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6s2x4nz20NhPzYobvxJ7ce"
       },
@@ -5264,6 +5282,24 @@
       "duration_ms": 216420,
       "name": "Born Yesterday",
       "url": "https://open.spotify.com/track/0Ae2JFkIpMhLkaVUjEL70N"
+    },
+    {
+      "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229905,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6"
     },
     {
       "album": {
@@ -11972,6 +12008,24 @@
       "duration_ms": 215000,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4aRAElCM6ve3OISZnU7adb"
+    },
+    {
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/2dRkKwcfkvxt6KQVaGSZZ5"
+      },
+      "artists": [
+        {
+          "name": "Clay Street Unit",
+          "url": "https://open.spotify.com/artist/0HmpQ609wnu7isR6i96CWb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240173,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5d6CGmi7gCLHVkd8njXwKB"
     },
     {
       "album": {
@@ -19949,6 +20003,28 @@
     },
     {
       "album": {
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "Here (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/5ovPv5nkmtM7fCPvr3OOE6"
+    },
+    {
+      "album": {
         "name": "Here And Now",
         "url": "https://open.spotify.com/album/0t7ccDIa3CbqzFrL9rOpaw"
       },
@@ -22104,7 +22180,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 214961,
       "name": "I Ain't Tryin'",
       "url": "https://open.spotify.com/track/4xrm9qF0RCcuvkRXq9PFSn"
@@ -23274,6 +23350,24 @@
       "duration_ms": 184493,
       "name": "I Owe You One",
       "url": "https://open.spotify.com/track/2mdYC51bU8MhBRsav0Nd6C"
+    },
+    {
+      "album": {
+        "name": "I Own This Bar",
+        "url": "https://open.spotify.com/album/2zfkAS4GOOM29LplPyedEz"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192800,
+      "name": "I Own This Bar",
+      "url": "https://open.spotify.com/track/7McpXsVRxUPpusgneIUFJE"
     },
     {
       "album": {
@@ -26740,7 +26834,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198866,
       "name": "Let The Lonely",
       "url": "https://open.spotify.com/track/6WgBtsykRW7F0C7Qf7rhj4"
@@ -30298,7 +30392,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 185714,
       "name": "Midwest Memoir",
       "url": "https://open.spotify.com/track/0NMaxcAI0Yp8P55RjhnIuS"
@@ -32929,6 +33023,24 @@
     },
     {
       "album": {
+        "name": "No Need For Leavin'",
+        "url": "https://open.spotify.com/album/7KSzJ0oaZ5DoN6Xvbd9hD6"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "No Need For Leavin'",
+      "url": "https://open.spotify.com/track/3HXA0Zj0nqQ9cpCOxI67dd"
+    },
+    {
+      "album": {
         "name": "Made by These Moments",
         "url": "https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe"
       },
@@ -33424,6 +33536,28 @@
       "duration_ms": 205093,
       "name": "Nothing's Up",
       "url": "https://open.spotify.com/track/2S9UXgUr4lXfRQgYG3UJ7E"
+    },
+    {
+      "album": {
+        "name": "Nothings What It Seems (feat. Jackson Dean)",
+        "url": "https://open.spotify.com/album/2qWrDQ6S5kcwfaq4U5eVH1"
+      },
+      "artists": [
+        {
+          "name": "Tyler Nance",
+          "url": "https://open.spotify.com/artist/38zCEnwAxIJWMCeMd9tO7z"
+        },
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192157,
+      "name": "Nothings What It Seems (feat. Jackson Dean)",
+      "url": "https://open.spotify.com/track/1lEmEETPDnInlmw2mpPwbg"
     },
     {
       "album": {
@@ -35450,7 +35584,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 231114,
       "name": "Passenger",
       "url": "https://open.spotify.com/track/2EUjcX9avwhaVfYcE6T1sg"
@@ -36272,7 +36406,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154623,
       "name": "Problem",
       "url": "https://open.spotify.com/track/67tePq03Cv6zsBF4bsItEE"
@@ -40382,7 +40516,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 191986,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/1m43AA5dEOtFmw5ph1zFNq"
@@ -46694,7 +46828,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175273,
       "name": "Time Goes On",
       "url": "https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE"
@@ -47792,7 +47926,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 233112,
       "name": "Two Broken Hearts",
       "url": "https://open.spotify.com/track/5kaSYsxC8abOPSTuOkXSbU"
@@ -52942,6 +53076,24 @@
       "duration_ms": 199400,
       "name": "You Ain't Gotta Die (To Be Dead To Me)",
       "url": "https://open.spotify.com/track/5Bs3A5vn8M6RPpARXL0cMh"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
     },
     {
       "album": {

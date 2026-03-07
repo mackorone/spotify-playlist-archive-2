@@ -12483,6 +12483,62 @@
     },
     {
       "album": {
+        "name": "Presentinho",
+        "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Gigant",
+          "url": "https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342857,
+      "name": "Presentinho",
+      "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "album": {
+        "name": "Press\u00e1gio (Studio Rec #9)",
+        "url": "https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf"
+      },
+      "artists": [
+        {
+          "name": "1Kilo",
+          "url": "https://open.spotify.com/artist/6E2st8OqIaS7PU5gj95FSE"
+        },
+        {
+          "name": "IG\u00ca",
+          "url": "https://open.spotify.com/artist/46hsJcmYDt4sJm22bv2XY2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "Press\u00e1gio (Studio Rec #9)",
+      "url": "https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq"
+    },
+    {
+      "album": {
         "name": "A Cara do Enquadro",
         "url": "https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn"
       },
@@ -12912,7 +12968,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 141627,
       "name": "Quase n\u00e3o d\u00e1 tempo de tirar",
       "url": "https://open.spotify.com/track/1TxNLfv5UQ5XtgdYRhymLc"

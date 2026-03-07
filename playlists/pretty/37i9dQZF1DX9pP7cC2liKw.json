@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 430661,
+  "num_followers": 430837,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -189,38 +189,6 @@
       "url": "https://open.spotify.com/track/185ggbhnpTgHC5E5yEqYTE"
     },
     {
-      "added_at": "2024-05-30 00:46:57",
-      "album": {
-        "name": "Viva tu",
-        "url": "https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 188778,
-      "name": "Viva tu",
-      "url": "https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb"
-    },
-    {
-      "added_at": "2025-01-07 01:37:45",
-      "album": {
-        "name": "Sketches From An Island 2",
-        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
-      },
-      "artists": [
-        {
-          "name": "Mark Barrott",
-          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
-        }
-      ],
-      "duration_ms": 224428,
-      "name": "Brunch With Suki",
-      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Laughter of the Sea",
@@ -239,6 +207,38 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
+    },
+    {
+      "added_at": "2025-01-07 01:37:45",
+      "album": {
+        "name": "Sketches From An Island 2",
+        "url": "https://open.spotify.com/album/4if4XobtYvNk6rf7c4pJZ9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barrott",
+          "url": "https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P"
+        }
+      ],
+      "duration_ms": 224428,
+      "name": "Brunch With Suki",
+      "url": "https://open.spotify.com/track/4FeGoquZz4ShR280GEtUyY"
+    },
+    {
+      "added_at": "2024-05-30 00:46:57",
+      "album": {
+        "name": "Viva tu",
+        "url": "https://open.spotify.com/album/1mlsE7Il5lCZi83yzXj0pU"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 188778,
+      "name": "Viva tu",
+      "url": "https://open.spotify.com/track/5bTIYle84tcBo14n4fWSTb"
     },
     {
       "added_at": "2024-07-19 20:39:23",
@@ -281,26 +281,6 @@
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
     },
     {
-      "added_at": "2024-09-01 15:03:59",
-      "album": {
-        "name": "Tu Te Vas",
-        "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        },
-        {
-          "name": "Laeti",
-          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
-        }
-      ],
-      "duration_ms": 205839,
-      "name": "Tu Te Vas",
-      "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
-    },
-    {
       "added_at": "2024-04-05 15:58:26",
       "album": {
         "name": "Malegr\u00eda",
@@ -315,6 +295,26 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/0d9Ec1WjsdAqs2LmB3nk3o"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Claremont 56: 10 Years, Pt. 1",
+        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+      },
+      "artists": [
+        {
+          "name": "Para\u00edso",
+          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+        },
+        {
+          "name": "Jex Opolis",
+          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+        }
+      ],
+      "duration_ms": 429913,
+      "name": "Teu Sorriso - Jex Opolis Remix",
+      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
     },
     {
       "added_at": "2024-06-27 18:47:21",
@@ -337,24 +337,24 @@
       "url": "https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2024-09-01 15:03:59",
       "album": {
-        "name": "Claremont 56: 10 Years, Pt. 1",
-        "url": "https://open.spotify.com/album/2h4ZRjRreYJOPPkETTAZcP"
+        "name": "Tu Te Vas",
+        "url": "https://open.spotify.com/album/7BwVZ8WkcgLjkBXlk8T9Qu"
       },
       "artists": [
         {
-          "name": "Para\u00edso",
-          "url": "https://open.spotify.com/artist/4ID8ALXR4zZrcJFvxL41n0"
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
         },
         {
-          "name": "Jex Opolis",
-          "url": "https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ"
+          "name": "Laeti",
+          "url": "https://open.spotify.com/artist/6TMBV8J3Jq1Gr5A5bFmVqf"
         }
       ],
-      "duration_ms": 429913,
-      "name": "Teu Sorriso - Jex Opolis Remix",
-      "url": "https://open.spotify.com/track/7ts7Z6IW6zSsSPO2UEgnY8"
+      "duration_ms": 205839,
+      "name": "Tu Te Vas",
+      "url": "https://open.spotify.com/track/6GiJACBbYHIOeghfZmbLuI"
     },
     {
       "added_at": "2024-03-05 03:12:30",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
     },
     {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -623,22 +639,6 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -669,11 +669,11 @@
       "artists": [
         {
           "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5yM3s9MpJeYUsd8K6AMziX"
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
           "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/2JC4eKLbcMAwdDJdZYyV5Q"
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
       "duration_ms": 201562,
@@ -705,22 +705,6 @@
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Apolinar",
-        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Temazcal",
-      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
-    },
-    {
       "added_at": "2024-07-20 14:57:35",
       "album": {
         "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
@@ -739,6 +723,22 @@
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Apolinar",
+        "url": "https://open.spotify.com/album/1BVtwlD7BSkrbUeNyYO75U"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 251428,
+      "name": "Temazcal",
+      "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
       "added_at": "2022-08-19 01:51:18",
@@ -973,6 +973,26 @@
       "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
+    },
+    {
       "added_at": "2024-09-06 18:30:54",
       "album": {
         "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
@@ -1003,26 +1023,6 @@
       "duration_ms": 170083,
       "name": "Don\u00b4t Give Up",
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -1137,22 +1137,6 @@
       "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Dubamerica",
-        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
-      },
-      "artists": [
-        {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
-        }
-      ],
-      "duration_ms": 336373,
-      "name": "Chichera",
-      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
-    },
-    {
       "added_at": "2023-03-22 17:52:31",
       "album": {
         "name": "SMT",
@@ -1167,6 +1151,22 @@
       "duration_ms": 197600,
       "name": "SMT",
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Dubamerica",
+        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Chichera",
+      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
-    },
-    {
       "added_at": "2023-03-16 23:40:55",
       "album": {
         "name": "Dj friendly",
@@ -1251,6 +1235,22 @@
       "duration_ms": 234900,
       "name": "V\u00e1monos - Vazl\u00e1 Remix",
       "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "added_at": "2023-03-31 18:14:20",

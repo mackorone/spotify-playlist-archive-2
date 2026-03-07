@@ -891,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Classics Vol. 1 (We tried hard and failed again... enjoy!)",
+        "url": "https://open.spotify.com/album/1TXW5Xwqhak17bCW9LxQl4"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318841,
+      "name": "Blockchain",
+      "url": "https://open.spotify.com/track/47b0S4whoRjndeQ2Ibp27f"
+    },
+    {
+      "album": {
         "name": "Germina Speeder",
         "url": "https://open.spotify.com/album/3WDE4IqUDA5SRnL9n6jyIw"
       },

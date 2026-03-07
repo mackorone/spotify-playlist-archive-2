@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Population II",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Koko Love",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -204,6 +204,24 @@
       "duration_ms": 100833,
       "name": "Aalto B Side",
       "url": "https://open.spotify.com/track/5Bwt7WzKBg2LiY3W5ltGut"
+    },
+    {
+      "album": {
+        "name": "Accident",
+        "url": "https://open.spotify.com/album/06HTIjcP9rX3SPbzrkROCK"
+      },
+      "artists": [
+        {
+          "name": "VINCENT KHOUNI",
+          "url": "https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241280,
+      "name": "Accident",
+      "url": "https://open.spotify.com/track/2TO7vvluSBxNRCBBSR34B5"
     },
     {
       "album": {
@@ -792,6 +810,24 @@
       "duration_ms": 215060,
       "name": "Besoin d'un 2",
       "url": "https://open.spotify.com/track/6HYu8sfyARlBFZ0laTWL1G"
+    },
+    {
+      "album": {
+        "name": "The Broken Balladeer",
+        "url": "https://open.spotify.com/album/2og9h9PQh1ZsZvVBYxNSy1"
+      },
+      "artists": [
+        {
+          "name": "Gus Englehorn",
+          "url": "https://open.spotify.com/artist/5DL9yEXrWKddfCe8SxM08Z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244521,
+      "name": "Better Watch Your Step",
+      "url": "https://open.spotify.com/track/4VyZQTTT2qpJTRWibQ8KZS"
     },
     {
       "album": {
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 256691,
       "name": "Dirty Hokas",
       "url": "https://open.spotify.com/track/4sIh2a474JLTxRFuc0kwDL"
@@ -1838,7 +1874,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 195271,
       "name": "Divine jalousie",
       "url": "https://open.spotify.com/track/4WumQcbADpRa8DZNZH6flo"
@@ -2166,6 +2202,24 @@
       "duration_ms": 209570,
       "name": "Elle vit dans les bois",
       "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
+    },
+    {
+      "album": {
+        "name": "Empty Road",
+        "url": "https://open.spotify.com/album/2AbCBVK9bjhbMUIcbbtdcB"
+      },
+      "artists": [
+        {
+          "name": "Pretty Distorted",
+          "url": "https://open.spotify.com/artist/5NFlpatib6aD2jAdrVznzB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Empty Road",
+      "url": "https://open.spotify.com/track/6gJCc4eellA49iyT1XOiaF"
     },
     {
       "album": {
@@ -2677,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/5kH18xOvJmqwfkGcK9J5so"
+      },
+      "artists": [
+        {
+          "name": "Hugo Bolduc",
+          "url": "https://open.spotify.com/artist/2vFxfMTdn9VsM2GjC8mbIk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255914,
+      "name": "HALO",
+      "url": "https://open.spotify.com/track/2qMV1xOeaYQnwAJZc6hYFG"
+    },
+    {
+      "album": {
         "name": "Astral 2000",
         "url": "https://open.spotify.com/album/2qsyEK8oIuQEIUryUqL3jp"
       },
@@ -2858,6 +2930,24 @@
       "duration_ms": 298336,
       "name": "I LIE HERE BURIED WITH MY RINGS AND MY DRESSES",
       "url": "https://open.spotify.com/track/37OSQm8Gy5strUT24vn6ef"
+    },
+    {
+      "album": {
+        "name": "I Need You",
+        "url": "https://open.spotify.com/album/3ZG5H3VU4gA1GWxKNPsBD0"
+      },
+      "artists": [
+        {
+          "name": "Crimson99",
+          "url": "https://open.spotify.com/artist/4MqxhJPhBtuNQU4fy4lkIT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246862,
+      "name": "I Need You",
+      "url": "https://open.spotify.com/track/54nLUTBPSLPeLFKEMpSs7h"
     },
     {
       "album": {
@@ -5677,6 +5767,24 @@
     },
     {
       "album": {
+        "name": "Pygargues",
+        "url": "https://open.spotify.com/album/3UtkCyxcjvrSpYRl6OaeXW"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00e9romones",
+          "url": "https://open.spotify.com/artist/6STkC7KmsT72F85SQQnOQq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233500,
+      "name": "Pygargues",
+      "url": "https://open.spotify.com/track/03pk8SH9ed3ea4onLjxZaf"
+    },
+    {
+      "album": {
         "name": "Passages secrets",
         "url": "https://open.spotify.com/album/2IhvuW1apwoiGgHogmploz"
       },
@@ -5706,7 +5814,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 195998,
       "name": "Quel ami",
       "url": "https://open.spotify.com/track/3JjYYVSWDeUhUTND1sUiXg"
@@ -6398,7 +6506,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 234979,
       "name": "Sudation",
       "url": "https://open.spotify.com/track/7hWG3WtGtKtkiWf0ZwRyc6"
@@ -6564,6 +6672,24 @@
       "duration_ms": 269561,
       "name": "The Breaks",
       "url": "https://open.spotify.com/track/3PIwWBp3nJOFERbkWtZZO3"
+    },
+    {
+      "album": {
+        "name": "The Cost of Freedom",
+        "url": "https://open.spotify.com/album/04zdW9loXEgzPcdXWOsBP0"
+      },
+      "artists": [
+        {
+          "name": "Koko Love",
+          "url": "https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210681,
+      "name": "The Cost of Freedom",
+      "url": "https://open.spotify.com/track/4nV9227id4C0bv5klKLYq2"
     },
     {
       "album": {
@@ -6928,7 +7054,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 284006,
       "name": "Un train pour l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/5TSIB2pZ3daD8EdXvOnMmL"
@@ -6946,7 +7072,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 230866,
       "name": "Un, deux, trois",
       "url": "https://open.spotify.com/track/4uogzCWt6guhPUvB3qIPz8"
@@ -7108,7 +7234,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 263600,
       "name": "Vouloir Tomber (Pour se permettre d'exister)",
       "url": "https://open.spotify.com/track/1sSoHAp4TnJFhKQBvI2W2D"
@@ -7288,7 +7414,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154964,
       "name": "Xcitation",
       "url": "https://open.spotify.com/track/6JgW7JH4xr03LDO3WvOprE"
@@ -7346,6 +7472,24 @@
       "duration_ms": 186402,
       "name": "You Can Let Go",
       "url": "https://open.spotify.com/track/4hB9ZXHn35AS2oZaS7oeKl"
+    },
+    {
+      "album": {
+        "name": "You Put the Fear in Me",
+        "url": "https://open.spotify.com/album/2tXG7cN6aNxefC1TNn4tDS"
+      },
+      "artists": [
+        {
+          "name": "Dante's Paradise",
+          "url": "https://open.spotify.com/artist/4VzpH52IFQ86CZn9KVYd5J"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290331,
+      "name": "You Put the Fear in Me",
+      "url": "https://open.spotify.com/track/0uJAWqKLR4sf5VNtVDs1P5"
     },
     {
       "album": {

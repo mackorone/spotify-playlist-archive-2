@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 
 > Koleksi lagu cinta untuk tambatan hati.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,608 likes - 98 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,611 likes - 98 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaNzm5VjkMg.md) - [plain]
 | 15 | [Bola Mata Sayu](https://open.spotify.com/track/5nMAuxzQxAb4k5FYFKkSYt) | [DNANDA](https://open.spotify.com/artist/45llK0vUDYIrW1vz7fv1Ti) | [Bola Mata Sayu](https://open.spotify.com/album/7bn897QnFkuEBJDv3IF73s) | 3:43 |
 | 16 | [Kaulah Kamuku \(feat\. Mikha Angelo\)](https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Mikha Angelo](https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf) | [For You](https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd) | 3:38 |
 | 17 | [123456 \(New Version\)](https://open.spotify.com/track/1ZJIvnW9R0r12jJXcnX41O) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [123456 \(New Version\)](https://open.spotify.com/album/23mJFFYLo7WPVPaHSrG4z3) | 3:24 |
-| 18 | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru \(From "My Annoying Brother"\)](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 |
+| 18 | [Ruang Baru](https://open.spotify.com/track/3XHiujhh7sB8tTCwtI6YEI) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Ruang Baru](https://open.spotify.com/album/4e35vUR8z4q56iY2xgvbNA) | 3:58 |
 | 19 | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/track/0peDS2F3fH9U5YKSF9SZmm) | [Shabrina Leanor](https://open.spotify.com/artist/2yK0XmEXeIJMXxW0rD3N8f) | [Pendampingmu \#TahtaHatiku](https://open.spotify.com/album/5XvTmKurqOPaImImbDBDFv) | 4:04 |
 | 20 | [Bila Kau Tak Disampingku](https://open.spotify.com/track/1ylY6UrF7cmOZ9GDOxrfk8) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Kisah Klasik Untuk Masa Depan](https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm) | 4:16 |
 | 21 | [bergema sampai selamanya](https://open.spotify.com/track/1RaJdXCj61oSRUUciGKoWe) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [bergema sampai selamanya](https://open.spotify.com/album/0kHOWC0D1GUQmvIz2nK1Mc) | 3:18 |

@@ -11088,7 +11088,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 108344,
       "name": "Down 200",
       "url": "https://open.spotify.com/track/4jFejQVMpm2lXl2KSqxNDi"
@@ -16451,6 +16451,24 @@
     },
     {
       "album": {
+        "name": "Hate It or Love It",
+        "url": "https://open.spotify.com/album/7asXJ4PLx8S9nBvpEzzky8"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Hate It or Love It",
+      "url": "https://open.spotify.com/track/5xV42iPZ7R9pws1NNR7LRR"
+    },
+    {
+      "album": {
         "name": "HEAL FOR ME",
         "url": "https://open.spotify.com/album/4Xoozy0hVulE24TxuxONjI"
       },
@@ -18178,6 +18196,24 @@
       "duration_ms": 177232,
       "name": "i kno'",
       "url": "https://open.spotify.com/track/0sdx7g8ff4pLdivhf2JUa8"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB"
+      },
+      "artists": [
+        {
+          "name": "Pradabagshawty",
+          "url": "https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132412,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
     },
     {
       "album": {
@@ -23454,7 +23490,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 179156,
       "name": "Making My Ends",
       "url": "https://open.spotify.com/track/2wd6HWWAcxVxALMl5PvMU4"

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Con Sentimiento Ranchero (Mariachi)",
+        "url": "https://open.spotify.com/album/5u6q9WHgVuYUqpYq4DDbU3"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "A Mis Padres - Mariachi",
+      "url": "https://open.spotify.com/track/4DChAO5gchgQt7bzqO0toU"
+    },
+    {
+      "album": {
         "name": "El Caminante Recordando los Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
@@ -250,7 +268,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 197066,
       "name": "Carta Perdida - Estilo Tierra Caliente",
       "url": "https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k"

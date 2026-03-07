@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 584 likes - 98 songs - 5 hr 45 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 584 likes - 101 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,8 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 96 | [Leaving you](https://open.spotify.com/track/0j3KOliSMcTvI4sl8sQCq2) | [AnorA](https://open.spotify.com/artist/1VmshPendkj3SJcdwH9DS9) | [Leaving you](https://open.spotify.com/album/35yuE21tVmcw61SBBsvkZO) | 3:07 |
 | 97 | [Off Script](https://open.spotify.com/track/0ryKfzgxsC8lOq4m1IQHro) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [Off Script](https://open.spotify.com/album/4MCbJBMllQlTQUGP3X3diz) | 2:50 |
 | 98 | [The Only Path](https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH) | [Mike Power](https://open.spotify.com/artist/6o38TL7BKpRI2FF4ohlo6b) | [The Only Path](https://open.spotify.com/album/5C4yZxHiPHcXi1jwHgQkPw) | 3:04 |
+| 99 | [Absence](https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT) | [Forever Factory](https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH) | [Absence](https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA) | 3:14 |
+| 100 | [Get Me Out A Can Light](https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Songbook '126\-'127](https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou) | 3:15 |
+| 101 | [African Sky](https://open.spotify.com/track/2aiW0epKtoG6XgUCzh1opp) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 3:20 |
 
-Snapshot ID: `AAADt2NQlUvCsFZo1egUEP+DlB/8ahA9`
+Snapshot ID: `AAADuoVA92rOQ93nC1tFMWJJMc3GRaG8`

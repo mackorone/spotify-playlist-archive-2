@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,905 songs - 4 day 18 hr 1 min
+1,909 songs - 4 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Balance](https://open.spotify.com/track/4i61t5rdgzsaPTVPOFKewP) | [BxRI SzN](https://open.spotify.com/artist/1PUQFMKFlyhCunWecgoeSW), [D\-Raww](https://open.spotify.com/artist/1CUr1a68mFrVuSY5is9tBR) | [Balance](https://open.spotify.com/album/2W6Z6od5vV1eRr8BMFe5MQ) | 2:28 | 2025-11-28 |  |
 | [Balance](https://open.spotify.com/track/7eUNIfxTlIQyZVRzLHxx0N) | [Luna Dharma](https://open.spotify.com/artist/1RXLMXtNtNKXx5drIuuwjm) | [Balance](https://open.spotify.com/album/6LhEyeEepdi5yxhxpSlnO6) | 2:41 | 2024-04-20 |  |
 | [Balleremo](https://open.spotify.com/track/11MRGCvw1h8TmNTFLDSoOX) | [LUNAR](https://open.spotify.com/artist/5yE4UZ5hln5jeJs40vlvEK) | [Balleremo](https://open.spotify.com/album/2SyHV5TkkeL8DvWUmEZo50) | 2:48 | 2024-06-24 |  |
+| [Balmy Evening](https://open.spotify.com/track/7p3WLqk0LE5ys6Ok8DOJI5) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 3:21 | 2026-03-06 |  |
 | [Bandits](https://open.spotify.com/track/4KWHSYv9fMwA7km3Vcx2q0) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 3:22 | 2024-03-23 |  |
 | [Batem Os Sinos](https://open.spotify.com/track/1lG623oucSzmZ9xg1KVq4k) | [Golpe](https://open.spotify.com/artist/3kiKcCZ0XLmY2xmCbtsI9Y) | [Terroir](https://open.spotify.com/album/4VZtaKfMhyUOJmGPQ6sWnt) | 1:57 | 2024-02-06 |  |
 | [Bay Dub](https://open.spotify.com/track/1ejMEVeRSdCLG1MDrj8pby) | [Culture Horn](https://open.spotify.com/artist/2YIGsoR46Dn9gnVTnDTScd) | [Dublaboratory, Vol​.​ 1](https://open.spotify.com/album/1qJg2mlB24zMwNtTl39jXx) | 3:14 | 2024-03-25 |  |
@@ -493,6 +494,8 @@
 | [em.algum.lugar](https://open.spotify.com/track/3aV5cSt4mUEIEldbueao93) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [SUPERVACÂNEO](https://open.spotify.com/album/6sy8S1Wkb5ybi5mbHyAb0e) | 2:01 | 2025-10-08 |  |
 | [Emmanuel](https://open.spotify.com/track/2SVANwohUs3n7naS0YfMP6) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 4:42 | 2024-05-04 |  |
 | [Emmanuel Dub](https://open.spotify.com/track/2rZdzdPKTpSSYPxfkiehlm) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 4:42 | 2024-05-04 |  |
+| [Empty Church](https://open.spotify.com/track/3a4ytkMl0gnwTqSCwjT84H) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 | 2026-03-06 |  |
+| [Empty Church Dub](https://open.spotify.com/track/3EMsfF8JivwTLuDhOD7ATH) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 | 2026-03-06 |  |
 | [Empty Classroom](https://open.spotify.com/track/7Boz1534rldo6Pr4Cwun0I) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 2:11 | 2025-09-21 |  |
 | [Empty Echoes](https://open.spotify.com/track/6TYpfgqFKYjAfcto0cFsVO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Empty Echoes](https://open.spotify.com/album/6Wb2yT3In6O036xnY5Cmi5) | 2:12 | 2025-08-26 |  |
 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 | 2025-12-29 |  |
@@ -1706,6 +1709,7 @@
 | [TRAIN](https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [TRAIN](https://open.spotify.com/album/5pOw1eegWGypFu63gvhYcN) | 3:48 | 2025-10-21 |  |
 | [Tranquil Garden](https://open.spotify.com/track/0KgCKStZnG7CzJebU58X4p) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:10 | 2026-03-03 |  |
 | [Transient Transmission \(Intercept's retwist of Adrian Sherwood's Iota Remix\)](https://open.spotify.com/track/0Z5gLLSWTgGSw7YG0f9SIa) | [Pitch Black](https://open.spotify.com/artist/48bwfC5uieNXZjebbWBLpm), [Adrian Sherwood](https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW) | [Echoes of the Night \(The Adrian Sherwood Remixes\)](https://open.spotify.com/album/081Yp6jTc6IDD5KL8Qhm2x) | 5:18 | 2024-08-31 |  |
+| [Trees](https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP) | [Felt Zen](https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ) | [Trees](https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9) | 2:38 | 2026-03-06 |  |
 | [Treino Disco \(HIIT 30\-10\)](https://open.spotify.com/track/1KgJoRTyRN5PX2NBEHzGVZ) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [70s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/38vFZ0KaLfZlEtQwUXDM6l) | 1:20 | 2024-03-08 |  |
 | [Treino Para HIIT \(HIIT 30\-10\)](https://open.spotify.com/track/2Cee7siNEt2nwso4L98FhS) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [HIIT BRASIL 30\-10](https://open.spotify.com/album/4fLeywEPeRMgra2PDYpAcN) | 1:20 | 2024-03-08 |  |
 | [Treino Party 90 \(HIIT 30\-10\)](https://open.spotify.com/track/1g5PPJ3B85y4eUNbsM4VOO) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [HIIT BRASIL 30\-10](https://open.spotify.com/album/4fLeywEPeRMgra2PDYpAcN) | 1:20 | 2024-03-08 |  |

@@ -4,7 +4,7 @@
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:6Rs7Ufqb4h0FTuVg6wlqOy">Nine Vicious</a>
 
-2,247 songs - 3 day 23 hr 48 min
+2,249 songs - 3 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [Doubling Forks](https://open.spotify.com/track/1de22v4G6ROGvzSgWEI0hf) | [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [Doubling Forks](https://open.spotify.com/album/7JyUejD64BLcgRfh6p3rHZ) | 2:43 | 2024-03-13 | 2025-03-13 |
 | [DOUGLAS](https://open.spotify.com/track/6Jmv5KWMDzRsafU4PabPDm) | [kJADE](https://open.spotify.com/artist/54paawLBjJ6erINfaHK9tV), [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [On Everything I Love](https://open.spotify.com/album/1GZNPNrMLxDQheuJVk75Bp) | 2:36 | 2026-03-04 |  |
 | [Down](https://open.spotify.com/track/14DRhkqPzsKKdEHC8Mk8Nr) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [Down](https://open.spotify.com/album/2lAQg7KKgCMXFOJr18bPIh) | 3:24 | 2023-11-22 | 2023-11-30 |
-| [Down 200](https://open.spotify.com/track/4jFejQVMpm2lXl2KSqxNDi) | [Hood Tali](https://open.spotify.com/artist/3zE7bOr2rPmW2ZYzG9VZRN) | [SRT PSKI](https://open.spotify.com/album/3xvmwbwLbecBJ1l1mm6c8g) | 1:48 | 2026-02-25 |  |
+| [Down 200](https://open.spotify.com/track/4jFejQVMpm2lXl2KSqxNDi) | [Hood Tali](https://open.spotify.com/artist/3zE7bOr2rPmW2ZYzG9VZRN) | [SRT PSKI](https://open.spotify.com/album/3xvmwbwLbecBJ1l1mm6c8g) | 1:48 | 2026-02-25 | 2026-03-07 |
 | [Downtown](https://open.spotify.com/track/0XROcEEaW9T6Ezw7zmXpo9) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Downtown](https://open.spotify.com/album/7rSs6a03YSAVQhhxsoh1vz) | 2:49 | 2023-04-05 | 2023-06-22 |
 | [Drake](https://open.spotify.com/track/6fTzuyzIS7reVcjVRfavE5) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM), [Kelow LaTesha](https://open.spotify.com/artist/6oUUlugyY0JajHnw3FYAKb) | [The Foggie Pound 2](https://open.spotify.com/album/7CGZLySyE8Ifg9Xw9b7oNf) | 3:14 | 2021-12-01 | 2022-01-14 |
 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 | 2024-11-13 | 2024-11-27 |
@@ -855,6 +855,7 @@
 | [Harder Then Hard](https://open.spotify.com/track/64u6TgCHFXOxp5RYTukrJ8) | [Mellow Rackz](https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w) | [Harder Then Hard](https://open.spotify.com/album/1XgdfSVfKIChhPXhFgDJWY) | 2:02 | 2023-06-21 | 2024-01-25 |
 | [HARDEST QUESTION EVER](https://open.spotify.com/track/1ZDSsVA08OTmtt5Tovg8fM) | [LORD JAH\-MONTE OGBON](https://open.spotify.com/artist/1Xxg6sCMl7PmZCdolPyxh0) | [Here, There & Everywhere](https://open.spotify.com/album/0PAmoJ4Qrc1zEkdssPvxEw) | 2:32 | 2022-04-06 | 2022-05-19 |
 | [HARDHEAD](https://open.spotify.com/track/60pXpNEqw1GfwSGxU3n7c5) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [HARDHEAD](https://open.spotify.com/album/1jg65OhOKrAftMrnKJWqfg) | 2:30 | 2025-09-24 | 2025-10-09 |
+| [Hate It or Love It](https://open.spotify.com/track/5xV42iPZ7R9pws1NNR7LRR) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Hate It or Love It](https://open.spotify.com/album/7asXJ4PLx8S9nBvpEzzky8) | 2:30 | 2026-03-06 |  |
 | [HAVE I GROWN COMPLACENT ?](https://open.spotify.com/track/1d9CkQKfDoYRaw70OlilWc) | [GR3G](https://open.spotify.com/artist/074OZlAWHVEVUIpLmRjyjq) | [HEAL FOR ME](https://open.spotify.com/album/4Xoozy0hVulE24TxuxONjI) | 3:15 | 2024-06-19 | 2024-12-05 |
 | [Having Motion](https://open.spotify.com/track/6FjEFQVT9XPZeMrDtftNZA) | [D30](https://open.spotify.com/artist/1upBc1lccb3lLZhTfgDE40) | [Youngest IN Motion 3](https://open.spotify.com/album/3ybprcgjxU6gE91Todd5cs) | 2:04 | 2022-10-19 | 2022-12-01 |
 | [HAWK 'EM](https://open.spotify.com/track/5dvltJIfwqg3TYR0ZkO9R1) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [HAWK 'EM](https://open.spotify.com/album/5ehzQiccJQZdCbZv9a3WEc) | 2:03 | 2025-04-02 | 2025-05-01 |
@@ -944,6 +945,7 @@
 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/0ZivdfG1msTj7A2UixMx9T) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [Elite Vessel](https://open.spotify.com/album/4CM64AqgbtDE5kpcJAgi8F) | 2:40 | 2024-12-04 | 2025-03-13 |
 | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/track/6famAoizbKfoETPU9Jobz0) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu), [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC) | [I Just Can't Be Alone \(with Billy Lemos\)](https://open.spotify.com/album/5jbJnR4vpr3dwSSByGyPq6) | 2:40 | 2024-07-17 | 2024-10-24 |
 | [i kno'](https://open.spotify.com/track/0sdx7g8ff4pLdivhf2JUa8) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [MERCY"](https://open.spotify.com/album/3qWFFEdowMoUlbbuWcwBYb) | 2:57 | 2025-09-03 |  |
+| [I Know](https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [I Know](https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB) | 2:12 | 2026-03-06 |  |
 | [I Know How It Be](https://open.spotify.com/track/4inDQG51m8y8PYiQSKyXg9) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [El Snappo](https://open.spotify.com/artist/0GJvhbSzCx9kT4jb7yd4eS) | [Risk Made Me](https://open.spotify.com/album/4wxU3RpQdpoX8Rn6BYe8t1) | 3:13 | 2025-07-23 |  |
 | [I Like](https://open.spotify.com/track/3WwMId3a6pehOPDiih9wLI) | [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Beatdemons](https://open.spotify.com/artist/0odYAXdxaNJS1PUEVp8aME), [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [H.B.I.C](https://open.spotify.com/album/3iPW5lzZlPnWgmF9ItbSDd) | 2:36 | 2025-10-08 | 2025-11-13 |
 | [I Like](https://open.spotify.com/track/4FV1qGukKvdaVtBcv853Bi) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [I Like](https://open.spotify.com/album/4vYP74UV7y5RWLhp3mGC38) | 2:06 | 2023-09-06 | 2023-09-21 |
@@ -1215,7 +1217,7 @@
 | [Make Sum](https://open.spotify.com/track/1KQdJN9k9ecC1C5criS21R) | [Money Mu](https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7), [Amg Twinz](https://open.spotify.com/artist/3OfCA48fJTYJMwt0ljHMhE) | [Paid Life 2](https://open.spotify.com/album/7FG8UxsUdRxrCePZ6QXqhI) | 2:42 | 2024-08-14 | 2024-09-12 |
 | [Makin It Sound](https://open.spotify.com/track/7m86xBkIzjSNxbaqA0rIcJ) | [Da Crook](https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g) | [Makin It Sound](https://open.spotify.com/album/0JUVW9JVy1ZMpLzOrh8opj) | 2:17 | 2023-05-17 | 2024-04-19 |
 | [Making Love](https://open.spotify.com/track/0e9kq3M9K1VtvgRTdWxL0H) | [Treety](https://open.spotify.com/artist/19mYqvgfKepYr4hrPkf0LL) | [Making Love](https://open.spotify.com/album/6vOyPmlFz0GBbuPUMs7Lk9) | 2:58 | 2023-07-12 | 2024-03-21 |
-| [Making My Ends](https://open.spotify.com/track/2wd6HWWAcxVxALMl5PvMU4) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Making My Ends](https://open.spotify.com/album/184gwJXaD26eEGgUhCvTK0) | 2:59 | 2026-01-14 |  |
+| [Making My Ends](https://open.spotify.com/track/2wd6HWWAcxVxALMl5PvMU4) | [Whookilledkenny](https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD) | [Making My Ends](https://open.spotify.com/album/184gwJXaD26eEGgUhCvTK0) | 2:59 | 2026-01-14 | 2026-03-07 |
 | [Mannequin](https://open.spotify.com/track/3MPdPrAI2rKY5uY9qbSOtm) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR) | [Mannequin](https://open.spotify.com/album/0A2YH0PzqR41SvYx7h7pem) | 2:25 | 2024-02-07 | 2024-02-22 |
 | [Manners](https://open.spotify.com/track/1Zn1ycpMKgxmpsjV923JgB) | [JoeLew](https://open.spotify.com/artist/3NhCLsIR8nOpw7xoCqkwUD) | [Manners](https://open.spotify.com/album/3GEPdmo8XO5lHdbc9QQHOk) | 3:04 | 2022-11-23 | 2023-02-09 |
 | [MANTO](https://open.spotify.com/track/7Gu0awrdJUvfRNDoXIIAMF) | [Heems](https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu), [Sid Vashi](https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6) | [MANTO](https://open.spotify.com/album/59yhLJyas2piQCsJ74N5SL) | 4:39 | 2024-07-17 | 2024-08-01 |

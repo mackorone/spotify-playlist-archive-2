@@ -1578,7 +1578,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165118,
       "name": "GIRL FIGHT",
       "url": "https://open.spotify.com/track/0PES33JUQt97Ua3IPPfIrI"
@@ -2347,6 +2347,24 @@
     },
     {
       "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "album": {
         "name": "Time to Pretend",
         "url": "https://open.spotify.com/album/00yE8PoU4i4mEP08jfrdt0"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203306,
       "name": "Le Disko",
       "url": "https://open.spotify.com/track/4jjtFbO4dYu4JO0CIph6Ak"
@@ -2998,6 +3016,28 @@
       "duration_ms": 186168,
       "name": "Mr. God Amongst Men",
       "url": "https://open.spotify.com/track/67aKQPEqR8MGQHH85EL96P"
+    },
+    {
+      "album": {
+        "name": "Mujeres Unidas",
+        "url": "https://open.spotify.com/album/3mNJQYlxSly7ZbWpHiDdgt"
+      },
+      "artists": [
+        {
+          "name": "Soltera",
+          "url": "https://open.spotify.com/artist/5hQc6i1QccCvRafrAxR8do"
+        },
+        {
+          "name": "Sonido Sex",
+          "url": "https://open.spotify.com/artist/6ximajflym2CSoL7aawUjR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176875,
+      "name": "Mujeres Unidas",
+      "url": "https://open.spotify.com/track/44SWB3l9YVJyYAIk2vvbZE"
     },
     {
       "album": {

@@ -838,7 +838,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160825,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/6FRRj2zBwQGKoVIh9q5ozd"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 268725,
       "name": "Closing In",
       "url": "https://open.spotify.com/track/0zOMy6GcTK1CWltATkKTU1"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 248730,
       "name": "Did You Love Somebody (feat. Sir Chloe)",
       "url": "https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz"
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213824,
       "name": "Lesbian Of The Year",
       "url": "https://open.spotify.com/track/2ZOSSD3DcxlKCsd3DCEeQb"
@@ -3956,7 +3956,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 187403,
       "name": "Like The Rain",
       "url": "https://open.spotify.com/track/0qBoobvEvFNnbCzvgtHjM8"
@@ -4076,7 +4076,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217270,
       "name": "Lose Lose",
       "url": "https://open.spotify.com/track/4QCtIQUKi2wshceTwLN9PI"
@@ -4254,6 +4254,28 @@
       "duration_ms": 164400,
       "name": "Lover Girl",
       "url": "https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK"
+    },
+    {
+      "album": {
+        "name": "Lover I'm Gonna Miss You",
+        "url": "https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "May Erlewine",
+          "url": "https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231210,
+      "name": "Lover I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw"
     },
     {
       "album": {
@@ -4698,7 +4720,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 191984,
       "name": "Never Come Down",
       "url": "https://open.spotify.com/track/047LgrDy5eFYexDLf0tyDv"
@@ -4770,7 +4792,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 224829,
       "name": "No Te Vayas Sin Saber",
       "url": "https://open.spotify.com/track/0jRNilRcXzeH5ydiE4n3kh"
@@ -4810,7 +4832,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 179621,
       "name": "Not In A Bad Way",
       "url": "https://open.spotify.com/track/7kG0xEuxb9Det04joUDh0d"
@@ -5181,6 +5203,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147013,
+      "name": "Paint By Numbers",
+      "url": "https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ"
+    },
+    {
+      "album": {
         "name": "PALETTE",
         "url": "https://open.spotify.com/album/6ZQwqriYOAshxtSB1e5fxt"
       },
@@ -5326,6 +5366,24 @@
       "duration_ms": 209733,
       "name": "Prizefighter",
       "url": "https://open.spotify.com/track/3eCIi3zUD57lQJ7LNpQwKv"
+    },
+    {
+      "album": {
+        "name": "Realistic Love Song",
+        "url": "https://open.spotify.com/album/78Frme5doJkbw3cOwc5n2I"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200333,
+      "name": "Realistic Love Song",
+      "url": "https://open.spotify.com/track/2Pfqi4iNsLsiwmPiRliNqw"
     },
     {
       "album": {
@@ -6872,7 +6930,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219741,
       "name": "Turned Into Missing You (feat. Avery Anna)",
       "url": "https://open.spotify.com/track/26TUtftIahxUIEfQwmVR6I"
@@ -7676,7 +7734,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198810,
       "name": "You Didn't Have To Go",
       "url": "https://open.spotify.com/track/4QL2cjZJkfbc1a0FOCCNOr"

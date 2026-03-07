@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 69165,
+  "num_followers": 69173,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAACzFZplR7DjAKr6TA1GuUaD",
+  "snapshot_id": "aajHgAAAAAAqWJGSYziALUjdAqQN1/RF",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tambi\u00e9n De Los Ranchos Bajan",
-        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 148680,
-      "name": "Si Me Vas A Dejar",
-      "url": "https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv"
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ah\u00ed Deje las Llaves, Mami",
-        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Mi Borrachera",
-      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+      "duration_ms": 148680,
+      "name": "Si Me Vas A Dejar",
+      "url": "https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
-        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 193813,
-      "name": "Baraja de Oro",
-      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 178938,
       "name": "Sin Recompensa Ni Esperanza (En Vivo)",
       "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
     },
     {
       "added_at": null,
@@ -983,26 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
       },
       "artists": [
         {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         }
       ],
-      "duration_ms": 204653,
-      "name": "Me Refiero A Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/3LXayTO1C92VZRdBz7VGxD"
+      "duration_ms": 168880,
+      "name": "Que Dios Me Perdone",
+      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
     }
   ],
   "unique_name": "This Is Lalo Mora",

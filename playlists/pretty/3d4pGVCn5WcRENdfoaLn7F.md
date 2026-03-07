@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 533 likes - 50 songs - 3 hr 0 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 535 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,5 +58,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 48 | [What's on your Mind?](https://open.spotify.com/track/3sGi1yG0h0m7hky1qd5C4P) | [Zack King](https://open.spotify.com/artist/45clgID3n7vhcRf2GIBSyf) | [Songs I Wrote Instead of Texting You](https://open.spotify.com/album/0ILbdAxdFBfNZXRexPMEYo) | 3:15 |
 | 49 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 |
 | 50 | [Once Again](https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Subtle Love](https://open.spotify.com/album/3PR6WtuBxwmWtFmOaCbIej) | 3:51 |
+| 51 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 |
 
-Snapshot ID: `AAAC5BfcvtBZ1JKX6DBwVEv7QfcbSFhS`
+Snapshot ID: `AAAC5WFkB1LyY0Xk8hhBMxP/mepYfltl`

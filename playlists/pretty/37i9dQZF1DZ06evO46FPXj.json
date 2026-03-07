@@ -1,12 +1,12 @@
 {
   "description": "This is Autechre. The essential tracks, all in one playlist.",
-  "num_followers": 8471,
+  "num_followers": 8470,
   "original_name": "This Is Autechre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAADXQt3d95oT2844G+9W66bz",
+  "snapshot_id": "aajHgAAAAAAad7A0p+zMwciQyBhxnpMb",
   "tracks": [
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LP5",
-        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
+        "name": "Garbage",
+        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 433679,
-      "name": "Rae",
-      "url": "https://open.spotify.com/track/2sbUONWNTLiZPOpjjh7q3M"
+      "duration_ms": 507240,
+      "name": "VLetrmx",
+      "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
     },
     {
       "added_at": null,
@@ -139,8 +139,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Garbage",
-        "url": "https://open.spotify.com/album/7d7WtcAp4qNtfwOqzAPQMJ"
+        "name": "LP5",
+        "url": "https://open.spotify.com/album/5TiPpuwLSWSJl98yTyE8BK"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 507240,
-      "name": "VLetrmx",
-      "url": "https://open.spotify.com/track/56p0LzMVbPMQU4Gf5rsK8e"
+      "duration_ms": 433679,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2sbUONWNTLiZPOpjjh7q3M"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 242899,
-      "name": "Fold4,Wrap5",
-      "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
+      "duration_ms": 100946,
+      "name": "Caliper Remote",
+      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
     },
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 409488,
-      "name": "Arch Carrier",
-      "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
+      "duration_ms": 242899,
+      "name": "Fold4,Wrap5",
+      "url": "https://open.spotify.com/track/3DCHkvDKJLSbWlJCkzzT80"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO"
         }
       ],
-      "duration_ms": 100946,
-      "name": "Caliper Remote",
-      "url": "https://open.spotify.com/track/30AOGMWeijWBYpvY2Oh2Ai"
+      "duration_ms": 409488,
+      "name": "Arch Carrier",
+      "url": "https://open.spotify.com/track/3PyHm9p7A6IbCusyeOlwfF"
     },
     {
       "added_at": null,

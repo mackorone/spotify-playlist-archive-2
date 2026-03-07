@@ -4,7 +4,7 @@
 
 > wandering the forest as the fog floats through the trees
 
-196 songs - 15 hr 43 min
+197 songs - 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [burning memories](https://open.spotify.com/track/6vzpm2Q4NPpuowQG7pNtUg) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [burning memories](https://open.spotify.com/album/4QGT5JT7fQEaUP3CIUctP5) | 1:38 | 2026-02-27 |  |
 | [Caelum, No\. I](https://open.spotify.com/track/0zO571dyb03qEZNzFeqwXG) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr) | [Caelum \(Excerpts\)](https://open.spotify.com/album/5pSaANL2BvibUYoIJ8byQb) | 5:36 | 2025-02-27 |  |
 | [Calm Current](https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE) | [Watasino](https://open.spotify.com/artist/4gblEuW5hn0GK6ZkrcquRw), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Calm Current](https://open.spotify.com/album/3E2EJAj5HQGlk1CebBOyFR) | 2:57 | 2026-02-27 |  |
-| [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 | 2025-06-05 |  |
+| [Canneto](https://open.spotify.com/track/6hx5tz1VTta0cnTLcvCSaI) | [Tomat](https://open.spotify.com/artist/7Ck8FJaW9VeG2SpWuhvOsa), [G.U.P\. Alcaro](https://open.spotify.com/artist/698WCVYYS0hvtwy40a91LJ) | [Canneto](https://open.spotify.com/album/5yPvFSDxdzszBMr3lF3t5N) | 1:54 | 2025-06-05 | 2026-03-07 |
 | [Cenizas](https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ) | [Solkaida](https://open.spotify.com/artist/3WOXZTYEJlLiwBxsoFl2EH) | [Renacer](https://open.spotify.com/album/66hWGmiZJlOcp5VUrSs07L) | 3:11 | 2023-01-09 |  |
 | [Chlorine Gargoyle](https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo) | [thin air](https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL) | [Dreams of a Wake](https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi) | 4:43 | 2023-01-09 | 2025-02-28 |
 | [Close](https://open.spotify.com/track/2qZBYY1G1guH9FjToCn0g4) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:50 | 2022-07-01 |  |
@@ -110,6 +110,7 @@
 | [Locale](https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF) | [Violet A\. Foster](https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi) | [Moments.](https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t) | 2:36 | 2023-07-14 | 2025-03-15 |
 | [Lonesome Sound](https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z) | [Almost An Island](https://open.spotify.com/artist/0eqkViQMmHYvTpSesY7DjH), [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25), [Kenneth James Gibson](https://open.spotify.com/artist/02YQpuCkgfk5jhZJSqjQdG), [James Bernard](https://open.spotify.com/artist/6d20guq0wJ6Z4sQGucU85q) | [Lonesome Sound](https://open.spotify.com/album/5frWXfCvYwKWOU3yjs6CGb) | 5:01 | 2025-09-05 |  |
 | [Loomer](https://open.spotify.com/track/1kAQmY7yNW6LFdDftDbe1X) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 2:38 | 2022-02-11 | 2022-03-17 |
+| [losing](https://open.spotify.com/track/6VbCeNW181BuuT1ZymXxQG) | [donnow.](https://open.spotify.com/artist/0nHykAsmg6hq7h7OGazrME), [julez](https://open.spotify.com/artist/72DZClrG6inu1xATuKl6lH) | [losing](https://open.spotify.com/album/5OQdqJJbbUlzw4ugElm7nR) | 1:30 | 2026-02-27 |  |
 | [Lullaby](https://open.spotify.com/track/1De66xUavye2fNqhCwtgyo) | [Low](https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH) | [I Could Live In Hope](https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w) | 9:49 | 2022-02-11 |  |
 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 | 2023-04-21 |  |
 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 | 2025-04-02 |  |

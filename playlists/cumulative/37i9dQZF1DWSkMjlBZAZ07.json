@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "(Looking Through) Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/1jxeJvg5kOtCFSvdblJVoe"
+      },
+      "artists": [
+        {
+          "name": "Mikaela Davis",
+          "url": "https://open.spotify.com/artist/6CbL78A3tB1CPFoduF7UM5"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215497,
+      "name": "(Looking Through) Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/0fp9X7zv7W75w5mQSFMwYu"
+    },
+    {
+      "album": {
         "name": "Milo Greene",
         "url": "https://open.spotify.com/album/15wQEsBsbl14I4m1yEuR8w"
       },
@@ -142,7 +164,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 199592,
       "name": "Across The Hall",
       "url": "https://open.spotify.com/track/4eiaWB8qdMaCA7MGQiYSD5"
@@ -664,7 +686,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 254305,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
@@ -740,6 +762,24 @@
       "duration_ms": 214987,
       "name": "Brother To You",
       "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+    },
+    {
+      "album": {
+        "name": "Bugs",
+        "url": "https://open.spotify.com/album/6nZDSyd1KsYmff2yAJxJ3i"
+      },
+      "artists": [
+        {
+          "name": "Jesse Welles",
+          "url": "https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134130,
+      "name": "Bugs",
+      "url": "https://open.spotify.com/track/2Fs3BXtegC7uLQy7ElpETE"
     },
     {
       "album": {
@@ -976,7 +1016,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 183000,
       "name": "colorado",
       "url": "https://open.spotify.com/track/4CV5CM0n6FvULMk62J8XNW"
@@ -1030,7 +1070,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 232000,
       "name": "Cowboy Gangster Politician",
       "url": "https://open.spotify.com/track/3imw8kF7wpq1oxYqHw4COo"
@@ -1066,7 +1106,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 250962,
       "name": "Diamonds In The Snow",
       "url": "https://open.spotify.com/track/45FWmYpboXilptta3D9fxD"
@@ -1088,6 +1128,24 @@
       "duration_ms": 278373,
       "name": "Dirty Paws",
       "url": "https://open.spotify.com/track/5g7rJvWYVrloJZwKiShqlS"
+    },
+    {
+      "album": {
+        "name": "Lucius",
+        "url": "https://open.spotify.com/album/06JimjqlVKRMI05IhQt2kN"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274253,
+      "name": "Do It All For You",
+      "url": "https://open.spotify.com/track/39f347tcVhzzoyjSTVTHxF"
     },
     {
       "album": {
@@ -1217,6 +1275,28 @@
     },
     {
       "album": {
+        "name": "Evergreen (feat. Caamp)",
+        "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        },
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177512,
+      "name": "Evergreen (feat. Caamp)",
+      "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
+    },
+    {
+      "album": {
         "name": "Dragons",
         "url": "https://open.spotify.com/album/2eQQ5hpGJHFQW76nobnF31"
       },
@@ -1228,7 +1308,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 139786,
       "name": "Family",
       "url": "https://open.spotify.com/track/7j9eqHzhqBEfr9Unn6zdOS"
@@ -1268,7 +1348,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 275054,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB"
@@ -1308,6 +1388,24 @@
       "duration_ms": 223880,
       "name": "Five More Minutes",
       "url": "https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2"
+    },
+    {
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/7MPCcaGYJLT6EHz22EmaZ0"
+      },
+      "artists": [
+        {
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172850,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/6tdjyoaesC0pXHA7QD8oEw"
     },
     {
       "album": {
@@ -1380,6 +1478,24 @@
       "duration_ms": 214747,
       "name": "Get It \u2018Fore It\u2019s Gone",
       "url": "https://open.spotify.com/track/6bFQTxFd9QCL8te5fbjt8i"
+    },
+    {
+      "album": {
+        "name": "Highway Prayers",
+        "url": "https://open.spotify.com/album/6ARzD9YEt9vx2rz7X3NDlo"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305543,
+      "name": "Gild the Lily",
+      "url": "https://open.spotify.com/track/181YsWsKwhTmoHYZ4xtiuZ"
     },
     {
       "album": {
@@ -1499,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Good Things Happen",
+        "url": "https://open.spotify.com/album/2O3NBUzy7RTLuxMAOwI7VE"
+      },
+      "artists": [
+        {
+          "name": "Layup",
+          "url": "https://open.spotify.com/artist/3fGhNTTL2CbmVAkGWpcJAA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163381,
+      "name": "Good Things Happen",
+      "url": "https://open.spotify.com/track/3mvz61tOzslkOYL0Z0HyqM"
+    },
+    {
+      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/4tyKptv4UIL5W2KFORmUhv"
       },
@@ -1564,7 +1698,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 147166,
       "name": "Good To Be",
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
@@ -1856,7 +1990,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 193897,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT"
@@ -2292,7 +2426,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 236040,
       "name": "I Should've Danced More",
       "url": "https://open.spotify.com/track/64ATnWMoANGIML1HeNWhMO"
@@ -2350,6 +2484,24 @@
       "duration_ms": 186786,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ"
+    },
+    {
+      "album": {
+        "name": "Nothing's About to Happen to Me",
+        "url": "https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "In a Lake",
+      "url": "https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg"
     },
     {
       "album": {
@@ -2426,6 +2578,24 @@
       "duration_ms": 215269,
       "name": "In Your Arms",
       "url": "https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS"
+    },
+    {
+      "album": {
+        "name": "OBSERVATIONS FROM A CROWDED ROOM",
+        "url": "https://open.spotify.com/album/7gPXVcBGrnnIXfC68nyFtV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189859,
+      "name": "I\u2019D MISS THE BIRDS",
+      "url": "https://open.spotify.com/track/2FVEApwIvd5154zX8m7Rx1"
     },
     {
       "album": {
@@ -2591,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Like a Child",
+        "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216380,
+      "name": "Like a Child",
+      "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
+    },
+    {
+      "album": {
         "name": "The Great Escape",
         "url": "https://open.spotify.com/album/155osgcutzrJu9a1w5aIgB"
       },
@@ -2714,6 +2902,24 @@
       "duration_ms": 162980,
       "name": "Man of the Year",
       "url": "https://open.spotify.com/track/3CWWj5FOONFt3mU4BhSfeG"
+    },
+    {
+      "album": {
+        "name": "Matter of Taste",
+        "url": "https://open.spotify.com/album/4oceTxYsabV8hMlvbo4pIG"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244366,
+      "name": "Matter of Taste",
+      "url": "https://open.spotify.com/track/54t1dWYSvY6XaBdFdhV20C"
     },
     {
       "album": {
@@ -3334,7 +3540,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 250426,
       "name": "pop the placebo",
       "url": "https://open.spotify.com/track/0a8eRyWUFB5icN7tNRwgFr"
@@ -4010,7 +4216,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 194230,
       "name": "Start Right Now (feat. Laney Jones)",
       "url": "https://open.spotify.com/track/5AqNpVjueURnEaMDzIrUl8"
@@ -4496,7 +4702,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 236840,
       "name": "Underground",
       "url": "https://open.spotify.com/track/0imvDJe1YTOJ0rslCEqxME"
@@ -4593,6 +4799,24 @@
     },
     {
       "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+    },
+    {
+      "album": {
         "name": "Weird Environment",
         "url": "https://open.spotify.com/album/28Kc1QH4wNwqnyjzCjVRYl"
       },
@@ -4662,6 +4886,24 @@
       "duration_ms": 214213,
       "name": "What If I",
       "url": "https://open.spotify.com/track/0j6QLLMEQoX292B44xQZFf"
+    },
+    {
+      "album": {
+        "name": "EURO-COUNTRY",
+        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272266,
+      "name": "When A Good Man Cries",
+      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
     },
     {
       "album": {

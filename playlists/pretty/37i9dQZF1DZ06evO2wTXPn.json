@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31804,
+  "num_followers": 31806,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAADTu3gGQbFHZj68r/wnyB+y",
+  "snapshot_id": "aajHgAAAAAD+mqDcQipK6Xb07Zdg+3q0",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Medio De Este Ruido",
+        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 202760,
+      "name": "10 Veces Mejor",
+      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Despierto",
         "url": "https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 189013,
       "name": "Encima De Mil",
       "url": "https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido",
-        "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "10 Veces Mejor",
-      "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 173720,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/7qYju6UwLKU7FAwt1Vo597"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,
@@ -875,22 +875,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e"
+        "name": "En Medio De Este Ruido En Vivo",
+        "url": "https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K"
       },
       "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 214733,
-      "name": "Otra Liza (Con KURT)",
-      "url": "https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5"
+      "duration_ms": 307866,
+      "name": "Sin Ti - En Vivo",
+      "url": "https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv"
     },
     {
       "added_at": null,
@@ -911,18 +907,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido En Vivo",
-        "url": "https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K"
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0klkzmA0qpleznc4TCug5e"
       },
       "artists": [
+        {
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
+        },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 307866,
-      "name": "Sin Ti - En Vivo",
-      "url": "https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv"
+      "duration_ms": 214733,
+      "name": "Otra Liza (Con KURT)",
+      "url": "https://open.spotify.com/track/0aVenGt1PXTHpVG4EfzUX5"
     }
   ],
   "unique_name": "This Is KURT",

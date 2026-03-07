@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Los Aptos.
 
-985 songs - 2 day 5 hr 6 min
+986 songs - 2 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [A LA MISMA VEZ](https://open.spotify.com/track/1D5h1T0D8zO8G6MG1rGXC1) | [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [A LA MISMA VEZ](https://open.spotify.com/album/5sVG3RXEsIbKdANEwQOArP) | 3:39 | 2024-10-25 | 2024-12-12 |
 | [A Mi Cama](https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [A Mi Cama](https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6) | 2:34 | 2023-02-02 | 2023-03-09 |
 | [A Tu Lado](https://open.spotify.com/track/6K0mmZNaW9EVTyNcGXCYpc) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [A Tu Lado](https://open.spotify.com/album/3BfR38sPExTxHy9Awxrn9J) | 3:05 | 2023-02-02 | 2023-02-17 |
-| [a veces casi siempre](https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [BLANCOMEZCLILLA](https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ) | 3:07 | 2025-11-21 |  |
+| [a veces casi siempre](https://open.spotify.com/track/3IV0SbTSu2JhBIeGfesPeJ) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [BLANCOMEZCLILLA](https://open.spotify.com/album/51KnHsifhTBkSyhuRXexBQ) | 3:07 | 2025-11-21 | 2026-03-07 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-11 | 2023-01-11 |
 | [Acapulco](https://open.spotify.com/track/3FvQlLlke7bl8phCe1LJgy) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Emmanuel Horvilleur](https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI) | [Acapulco](https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm) | 3:57 | 2023-08-11 | 2023-09-30 |
 | [Achachairú](https://open.spotify.com/track/7j6oBmJVXbdyUHAxXxkMLk) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Achachairú](https://open.spotify.com/album/0X81AVaN0AdhMwCZ9nryhk) | 2:20 | 2024-05-17 | 2025-01-18 |
@@ -841,6 +841,7 @@
 | [still love you \(todavía\)](https://open.spotify.com/track/4rYUOu5vQ8pjBCYZL24Gfx) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [still love you \(todavía\)](https://open.spotify.com/album/70DlKk4QDj2NdYnB1BL5P3) | 2:32 | 2025-04-04 | 2025-07-17 |
 | [Sublime](https://open.spotify.com/track/2OopMiTOI0OK8LrSecb2tx) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sublime](https://open.spotify.com/album/7wYv7jBQ54qgw960zbttnB) | 3:24 | 2021-12-02 | 2022-01-25 |
 | [SUFICIENTEPUNTOWAV](https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd) | [1UNAMORSUPREMO](https://open.spotify.com/album/0Gq8Uf0ADz6087Kr8vSwiP) | 4:00 | 2024-01-19 | 2024-06-22 |
+| [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 | 2026-03-06 |  |
 | [SUKI](https://open.spotify.com/track/3PVuGa5aJe03VwaljEHyDi) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [SUKI](https://open.spotify.com/album/6Md5GqOGlTtNuorAKregDc) | 3:34 | 2023-08-11 | 2023-08-26 |
 | [Summer Nights](https://open.spotify.com/track/2J6KEv2z0LWUsMc2bHBAOR) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Summer Nights](https://open.spotify.com/album/3noBkmNZz14QcgIRgIzAZQ) | 2:31 | 2022-10-28 | 2023-02-17 |
 | [Sunbathe](https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sunbathe](https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA) | 2:50 | 2021-12-02 | 2022-01-25 |

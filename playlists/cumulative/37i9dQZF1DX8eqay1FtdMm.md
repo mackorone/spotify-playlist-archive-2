@@ -4,7 +4,7 @@
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: 김성규 \(Kim Sung Kyu\)\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-644 songs - 1 day 18 hr 6 min
+645 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Counting Days](https://open.spotify.com/track/2bnGfY6ZtuoNm9jSMt8HaD) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Counting Days](https://open.spotify.com/album/0g3wLgXbtmTGUzakbUsrjc) | 3:56 | 2024-06-19 | 2024-12-11 |
 | [Coward](https://open.spotify.com/track/2U9yHgZ9voJUFjcHinsspT) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Coward](https://open.spotify.com/album/4OYhJBKIM6yZGkEpTEOVe1) | 4:18 | 2025-03-14 | 2025-07-25 |
 | [Crazy Fool](https://open.spotify.com/track/16LNhwdZSgjmiAMIm2yjR6) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Crazy Fool](https://open.spotify.com/album/5IuRXvX2UuTjvod9F8EU0I) | 4:06 | 2026-02-04 |  |
+| [Crazy Love Song](https://open.spotify.com/track/5WaEGsWNjzDc50VYN8NkjA) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Crazy Love Song](https://open.spotify.com/album/6IwHj5oL5ZwHiCcYiVP2Fn) | 4:17 | 2026-03-03 |  |
 | [cry a lot](https://open.spotify.com/track/2hZ2RcltIgme5PO8eJ6pWj) | [Ha Jun Seok](https://open.spotify.com/artist/12RmWQ26FATAkL0Dzua0QB) | [cry a lot](https://open.spotify.com/album/4R1uG9fvia8PYjndO4BNH7) | 3:23 | 2024-02-15 | 2024-03-09 |
 | [Daehan Is Alive: Rewritten](https://open.spotify.com/track/65moWQURj0CjPbu0kECpzR) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa), [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Daehan Is Alive: Rewritten](https://open.spotify.com/album/2cMnLoQZ0uix1E9m34EuuH) | 3:18 | 2026-03-03 |  |
 | [Dandelion](https://open.spotify.com/track/6Gxl4O8CQIHsYPlCMnimG7) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Dandelion](https://open.spotify.com/album/5FvhtKgxtrYHULhgdwPTDO) | 4:34 | 2024-02-27 |  |
@@ -403,7 +404,7 @@
 | [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 | 2023-08-11 |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-14 | 2022-12-06 |
 | [One Sided Love](https://open.spotify.com/track/0d4VN98EgAtxFcKfjc5Kdw) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [Sugar Man2 Pt\. 13](https://open.spotify.com/album/2Hdxm7Br3rOwozF7EbKzVz) | 4:09 | 2022-01-12 | 2022-07-13 |
-| [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 | 2021-12-20 |  |
+| [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 | 2021-12-20 | 2026-03-07 |
 | [Ongnyeon\-dong](https://open.spotify.com/track/1oJpCsTsDpNJpIjjsQOdNE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Dear, My Universe](https://open.spotify.com/album/15uvlsRSIOOpI6ntjJUrc4) | 4:02 | 2022-04-01 | 2022-04-16 |
 | [Only Forward](https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Tree Ring](https://open.spotify.com/album/1avoknFOZaYIFnQEE6D4X8) | 3:23 | 2025-08-01 | 2025-10-30 |
 | [Only Longing Grows](https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.15](https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC) | 3:53 | 2022-07-25 | 2022-08-04 |

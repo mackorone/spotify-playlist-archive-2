@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 134084,
+  "num_followers": 134116,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/0awvRwer2ByXjyDSON60Q3"
     },
     {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 191808,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
+    },
+    {
       "added_at": "2025-09-05 02:01:30",
       "album": {
         "name": "Me, You & The Music",
@@ -1275,22 +1291,6 @@
       "duration_ms": 238284,
       "name": "Tonight (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/5AuJPRJ5vQPYrCAry4yEBK"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/5wtQMwjNEy1x2OIkUIz5Lk"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 191808,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/7G0tY4ErguYZpP6nQ6Qcnc"
     },
     {
       "added_at": "2024-06-02 21:23:10",

@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 146361,
+  "num_followers": 146355,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "Together With Cliff Richard",
-        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
-      },
-      "artists": [
-        {
-          "name": "Cliff Richard",
-          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
-        }
-      ],
-      "duration_ms": 245333,
-      "name": "Mistletoe and Wine",
-      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Worldmusic for Christmas",
         "url": "https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 241426,
       "name": "Mary's Boy Child / Oh My Lord",
       "url": "https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Together With Cliff Richard",
+        "url": "https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ"
+      },
+      "artists": [
+        {
+          "name": "Cliff Richard",
+          "url": "https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy"
+        }
+      ],
+      "duration_ms": 245333,
+      "name": "Mistletoe and Wine",
+      "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G"
-      },
-      "artists": [
-        {
-          "name": "David Essex",
-          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "A Winter's Tale",
-      "url": "https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "For Those Who Can't Be Here",
         "url": "https://open.spotify.com/album/06whzJAwv0hrYW3i2N4TWx"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 183079,
       "name": "For Those Who Can't Be Here",
       "url": "https://open.spotify.com/track/7nrB7gaYNe1x8Kvv7c0Tps"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/7cembgX5mpEafu9m36iw6G"
+      },
+      "artists": [
+        {
+          "name": "David Essex",
+          "url": "https://open.spotify.com/artist/46n0cAhBmsRJZiX6GSFmbf"
+        }
+      ],
+      "duration_ms": 250826,
+      "name": "A Winter's Tale",
+      "url": "https://open.spotify.com/track/0KIxURk1JUhsf0UC7OgTbA"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
-        "name": "The King of Soul",
-        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 155560,
-      "name": "Merry Christmas Baby",
-      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
+        "name": "The King of Soul",
+        "url": "https://open.spotify.com/album/2Vb7aaRyTQdIqrf7mQ6Qrs"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 155560,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
         "name": "A Dreamer's Holiday",
         "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
@@ -911,6 +911,22 @@
       "duration_ms": 180585,
       "name": "A Dreamer's Holiday",
       "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Walking in The Air",
+        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 239250,
+      "name": "Walking in The Air",
+      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -931,6 +947,38 @@
       "duration_ms": 166146,
       "name": "Baby It's Cold Outside (with Michael Bubl\u00e9)",
       "url": "https://open.spotify.com/track/7gtf27x5BZ183iSHMIlyV8"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "The Magic Of Christmas",
+        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
+      },
+      "artists": [
+        {
+          "name": "LYRA",
+          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "The Magic Of Christmas",
+      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
+        "name": "Make It Home",
+        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 179309,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
     },
     {
       "added_at": "2025-12-22 16:18:07",
@@ -967,54 +1015,6 @@
       "duration_ms": 166801,
       "name": "2000 Miles",
       "url": "https://open.spotify.com/track/2wFwLE6yefjVZzUQSGGKM1"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "Make It Home",
-        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179309,
-      "name": "Make It Home",
-      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "Walking in The Air",
-        "url": "https://open.spotify.com/album/3K0oR5fAmNX2dx19FGUN51"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 239250,
-      "name": "Walking in The Air",
-      "url": "https://open.spotify.com/track/0c2L8oZyVWwesIZDocfJCB"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "The Magic Of Christmas",
-        "url": "https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08"
-      },
-      "artists": [
-        {
-          "name": "LYRA",
-          "url": "https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "The Magic Of Christmas",
-      "url": "https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr"
     },
     {
       "added_at": "2025-12-22 16:18:07",

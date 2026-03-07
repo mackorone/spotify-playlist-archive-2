@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 239600,
       "name": "Arm's Length",
       "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
@@ -3077,6 +3077,24 @@
     },
     {
       "album": {
+        "name": "Devil You Know",
+        "url": "https://open.spotify.com/album/3XutjqiiywXz5uD4Fx6JA0"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190093,
+      "name": "Devil You Know",
+      "url": "https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w"
+    },
+    {
+      "album": {
         "name": "Devotion",
         "url": "https://open.spotify.com/album/2wKWnv20DzkEJCuz3c9EWV"
       },
@@ -5262,7 +5280,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 240559,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/6tZ40C7U8OuKMO5UUaN0vU"
@@ -6206,7 +6224,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 221388,
       "name": "Into The Wild",
       "url": "https://open.spotify.com/track/75ucE1aqrtLF81oVg2k4IZ"
@@ -8166,7 +8184,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 259842,
       "name": "My Maker",
       "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
@@ -8684,7 +8702,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 258064,
       "name": "Numerology",
       "url": "https://open.spotify.com/track/6Lb75cFoDZRiE75muDdEep"
@@ -9350,7 +9368,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 236000,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l"
@@ -12081,6 +12099,28 @@
     },
     {
       "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Sparks",
+          "url": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284775,
+      "name": "The Happy Dictator (feat. Sparks)",
+      "url": "https://open.spotify.com/track/4JbyNMvp3BqVILVy4Bbevf"
+    },
+    {
+      "album": {
         "name": "The Happy Dictator (feat. Sparks)",
         "url": "https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF"
       },
@@ -12441,6 +12481,28 @@
     },
     {
       "album": {
+        "name": "Things",
+        "url": "https://open.spotify.com/album/7kxSE9zfvdC0vs9kwF3Z8W"
+      },
+      "artists": [
+        {
+          "name": "Farveblind",
+          "url": "https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159506,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5ntTeuCMmKeTzjLk5f4hK3"
+    },
+    {
+      "album": {
         "name": "SABLE,",
         "url": "https://open.spotify.com/album/2Cwxsws0uZcu61gliYLOEm"
       },
@@ -12608,6 +12670,24 @@
       "duration_ms": 117876,
       "name": "Time For Slurp",
       "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
+    },
+    {
+      "album": {
+        "name": "Time Is A Bomb",
+        "url": "https://open.spotify.com/album/6zPOrWyVY2e57qwUW1m7Si"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Time Is A Bomb",
+      "url": "https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I"
     },
     {
       "album": {
@@ -12911,6 +12991,32 @@
     },
     {
       "album": {
+        "name": "Atlanta",
+        "url": "https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf"
+      },
+      "artists": [
+        {
+          "name": "Gnarls Barkley",
+          "url": "https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Turn Your Heart Back On",
+      "url": "https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM"
+    },
+    {
+      "album": {
         "name": "Typical",
         "url": "https://open.spotify.com/album/2DjjY1hhVEV4B6X6cEUCc6"
       },
@@ -13203,6 +13309,28 @@
     },
     {
       "album": {
+        "name": "Dark Star",
+        "url": "https://open.spotify.com/album/3SzAcYU1XQjWeocjF8Gn5j"
+      },
+      "artists": [
+        {
+          "name": "Marlon Magn\u00e9e",
+          "url": "https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs"
+        },
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Viens en moi",
+      "url": "https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9"
+    },
+    {
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/4nTsEty8r2mW08irGgcEka"
       },
@@ -13272,7 +13400,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225231,
       "name": "Wait Up (feat. I'm With Her)",
       "url": "https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p"
@@ -14052,7 +14180,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 183462,
       "name": "Yougotmefeeling",
       "url": "https://open.spotify.com/track/5tUgNChqKSz7ezdwtP9juP"

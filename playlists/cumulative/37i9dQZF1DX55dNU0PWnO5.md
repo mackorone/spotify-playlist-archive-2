@@ -2,9 +2,9 @@
 
 ### [Jazztronica](https://open.spotify.com/playlist/37i9dQZF1DX55dNU0PWnO5)
 
-> Jazzy blips and blops\. Cover: Theo Croker
+> Jazzy blips and blops\. Cover: Flying Lotus
 
-446 songs - 1 day 2 hr 54 min
+447 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [By Your Side](https://open.spotify.com/track/1k075G4HKQ8oE1ybx4kzt0) | [Ryan James Carr](https://open.spotify.com/artist/5V5f4rVZkRnl5O17X1vDM1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [By Your Side](https://open.spotify.com/album/2EBRJxHs4JLRM2iWovRTmX) | 2:50 | 2022-07-05 |  |
 | [Can We? Take A Break](https://open.spotify.com/track/74nIuOVn5UfOD0PkLTFWV9) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [4 Rooms](https://open.spotify.com/album/2WTroID4vbRr1ZdVPjLevQ) | 2:44 | 2022-02-11 | 2025-01-04 |
 | [CANDLELIGHT](https://open.spotify.com/track/6IPuOgW2UAKFc7YCKrSjER) | [Joshua Milo](https://open.spotify.com/artist/35mfohrC8ta589xwv2und2) | [CANDLELIGHT](https://open.spotify.com/album/4oWfpdMUmJJ0DKe8qiP9uC) | 7:03 | 2021-08-20 | 2025-05-17 |
+| [CAPTAIN KERNEL](https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 3:04 | 2026-03-06 |  |
 | [Carla Croix](https://open.spotify.com/track/3ycQmciE5erUchLQUpWQDt) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Carla Croix](https://open.spotify.com/album/6bqh0GMIA3oGMedMXPnAE7) | 3:28 | 2024-01-19 |  |
 | [Carlyle Clyde](https://open.spotify.com/track/4TeQP19oy8NogZs0RxB4v1) | [Noah Rosen](https://open.spotify.com/artist/70WoazqQpqk0OaycqsPAmf) | [Mind Racing](https://open.spotify.com/album/6JjphUAh97xnIxcbIjkCqR) | 5:47 | 2022-08-26 |  |
 | [Chandler](https://open.spotify.com/track/5J3Umj4aCqRGtX785vlyhK) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Yazz Ahmed](https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN) | [Chandler](https://open.spotify.com/album/5bjD58Laoek1OMbf0rS8C8) | 3:41 | 2022-02-11 | 2022-07-29 |
@@ -93,7 +94,7 @@
 | [Come Out and Play](https://open.spotify.com/track/7nTmEAGxLIQt0BK7f3CRcD) | [Umziky](https://open.spotify.com/artist/1ytY1NBUWX3OSmYo96hspB) | [Come Out and Play](https://open.spotify.com/album/58KCYV90rmJ8uGzHOoN44X) | 3:07 | 2021-07-30 |  |
 | [Come Running to Me](https://open.spotify.com/track/1RSVmoikDpX0PtpxNGXxyF) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Come Running to Me](https://open.spotify.com/album/0KvhdjcAqLo5WSQzazC8Q4) | 3:40 | 2022-01-21 |  |
 | [Complete](https://open.spotify.com/track/66UyVneJHbPxJtyMo59ywk) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/29J7Z1vaQqGmfHzMYYyWdB) | 1:28 | 2021-01-29 | 2022-02-07 |
-| [Consolation Prizes](https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA) | 2:13 | 2022-10-21 |  |
+| [Consolation Prizes](https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA) | 2:13 | 2022-10-21 | 2026-03-07 |
 | [Consolation Prizes](https://open.spotify.com/track/6gYAzrvbcd9eoA5igOW8Qp) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon \- Taken From V/H/S/99](https://open.spotify.com/album/2jNAU7PqXjTG6suAmQX1GE) | 2:13 | 2022-10-21 | 2024-04-19 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-02-26 | 2023-06-03 |
 | [Count Yer Pace \(feat\. Kemani Anderson\)](https://open.spotify.com/track/2T0hcwsOrlt2lFiWoY0mpT) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0), [Kemani Anderson](https://open.spotify.com/artist/1Ab3viBuyjYajaG82vcMID) | [All Werk Is Play](https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6) | 4:36 | 2022-04-29 | 2025-03-22 |

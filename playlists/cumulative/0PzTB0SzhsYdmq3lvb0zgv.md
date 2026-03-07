@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-489 songs - 1 day 3 hr 16 min
+493 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Closer](https://open.spotify.com/track/7mvbNjFKdlpjnbcqocscuK) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [It Could Be Worse](https://open.spotify.com/album/1mRgtlHEIpq6xOg71TxGqV) | 3:35 | 2026-01-23 |  |
 | [Come Down](https://open.spotify.com/track/6gxMXHr2GxN7afbdNmsoaj) | [Reb Fountain](https://open.spotify.com/artist/3wayc8vDx8ukvWV17IBZE1) | [Come Down](https://open.spotify.com/album/4dkUqCf46AhGJSUdjBZ3RD) | 3:55 | 2026-02-19 |  |
 | [comedown](https://open.spotify.com/track/0WP2mSrYIXEy2poZkAWlNZ) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [comedown](https://open.spotify.com/album/4r6XmJdluBTzkNjYtR3ABh) | 3:12 | 2025-07-18 | 2025-09-20 |
+| [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-06 |  |
 | [confession](https://open.spotify.com/track/41mNpjh7C4mAzAHXOiA0fn) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [confession](https://open.spotify.com/album/20leNPAVftANfsWCY2hCfJ) | 1:24 | 2025-07-18 | 2026-02-20 |
 | [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2025-07-18 |  |
 | [Crashing \(with Kali Uchis\)](https://open.spotify.com/track/44MnSCzK2nFWQvv0kjUvkW) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Crashing \(with Kali Uchis\)](https://open.spotify.com/album/3yvC16EVhYTS1qmeLprSFS) | 3:07 | 2025-07-18 | 2025-09-13 |
@@ -302,6 +303,7 @@
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2025-08-22 | 2026-01-15 |
 | [Nice To Each Other](https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Nice To Each Other](https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV) | 3:29 | 2025-08-22 | 2025-09-27 |
 | [nicotine](https://open.spotify.com/track/1DLZRrLRu7o3vwRd6CB7m6) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:36 | 2025-07-18 | 2025-09-06 |
+| [No Other Place](https://open.spotify.com/track/7LfLXiy81MrwgO0xwarwRq) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Miracle Mile](https://open.spotify.com/album/5RgaHwAaePVI9nNSHuowOc) | 2:16 | 2026-03-06 |  |
 | [Nobody Gets Me](https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz) | [May](https://open.spotify.com/artist/6ufyaDLdDuLeG5Ls4udcDE) | [Nobody Gets Me](https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl) | 2:43 | 2025-07-18 | 2025-08-23 |
 | [Northern Lights \- stripped](https://open.spotify.com/track/5GaIUszbX4qTATZaptbF6V) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL) | [Northern Lights \- Stripped](https://open.spotify.com/album/5PDEZDX6YgfXIWsxMUFEgP) | 2:19 | 2026-01-23 |  |
 | [Nostalgia](https://open.spotify.com/track/2efi0WZFFNF41nmC2DMlkr) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/07V9HO6Djetw5j5lXPylLd) | 3:03 | 2025-07-18 |  |
@@ -329,6 +331,7 @@
 | [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 | 2025-07-18 |  |
 | [Overthinking](https://open.spotify.com/track/4tMVjTs8Y9C1bi2AGoO8Gk) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/76Mk1uTeXf0gQHgOQQrCDB) | 2:29 | 2026-02-19 |  |
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2025-07-18 |  |
+| [Paint By Numbers](https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:27 | 2026-03-06 |  |
 | [Part Of It](https://open.spotify.com/track/0iwBonhgYZK3aLzuPDJphq) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [Exit & Entrances](https://open.spotify.com/album/5RHHd7GsdcjR8gLJlgPWFW) | 2:57 | 2025-09-19 |  |
 | [Part Two \- Wouldn't It Make A Lovely Photograph](https://open.spotify.com/track/6OnN5AfKogPnQpEIbItvyX) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Ouroboros](https://open.spotify.com/album/4JVl5HHiI2SEgqvqTrBYyK) | 3:58 | 2026-02-19 |  |
 | [Pay Day](https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Pay Day](https://open.spotify.com/album/4I4Xsf6B2EzM2kfwJeUPSB) | 3:25 | 2025-11-07 | 2026-02-13 |
@@ -441,6 +444,7 @@
 | [The Revisionist](https://open.spotify.com/track/3R9BsRmMfVjlAPqdsUS0cy) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Mount Pleasant](https://open.spotify.com/album/1yaXyTC6w78QNjlYURpqEa) | 2:52 | 2025-11-14 | 2026-02-20 |
 | [The Sofa](https://open.spotify.com/track/1ssxK9B6clZ8Gku2bYQHTh) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Sofa](https://open.spotify.com/album/34fIl0miNnfkRTpejFsDXE) | 4:26 | 2025-07-18 | 2025-08-23 |
 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:09 | 2026-02-19 |  |
+| [The Waiting Game](https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:49 | 2026-03-06 |  |
 | [think about it](https://open.spotify.com/track/04s3GWkrMPdbJwYFY6UloW) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [think about it](https://open.spotify.com/album/4yHUj0gc9nEAhOtWeGPJMH) | 4:09 | 2025-07-18 | 2026-02-20 |
 | [This City](https://open.spotify.com/track/5oJmBs9L5xwDkUbDWqn6Wr) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [I Love You, Please Don't Hate Me](https://open.spotify.com/album/2FGOxwdP7MMd4GfVl2Uf7f) | 3:15 | 2025-07-18 | 2025-09-06 |
 | [This Town](https://open.spotify.com/track/5L2G7qdr5IPlp9Awp3oho4) | [Joe Cole](https://open.spotify.com/artist/5TjI5d408YMuLi17W0OP9B) | [This Town](https://open.spotify.com/album/6yManJn1p3CICcwuibTyeU) | 3:01 | 2026-02-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21995,
+  "num_followers": 21997,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAABgxaWIYWve5gIA40/Q/FBr",
+  "snapshot_id": "aajHgAAAAAAjig/TlPNH4HU/J//0zo8k",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catedral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
+        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
       },
       "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 278186,
-      "name": "Alvo Mais Que a Neve - Ao Vivo",
-      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
+      "duration_ms": 438653,
+      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
     },
     {
       "added_at": null,
@@ -583,18 +579,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Tenho Cristo / O Bondoso Amigo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4su45A07KGlOLYM5Z1cFGz"
+        "name": "Catedral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4mu6koOx6yaXbi9327NrzZ"
       },
       "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
         {
           "name": "Julia Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 438653,
-      "name": "Se Tenho Cristo / O Bondoso Amigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4MMvcx9TKSsdmOWujKBLSV"
+      "duration_ms": 278186,
+      "name": "Alvo Mais Que a Neve - Ao Vivo",
+      "url": "https://open.spotify.com/track/603qBVuPvdk7aSZNQbC8ts"
     },
     {
       "added_at": null,

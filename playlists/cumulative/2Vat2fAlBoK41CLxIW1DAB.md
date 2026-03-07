@@ -4,7 +4,7 @@
 
 > 
 
-894 songs - 2 day 8 hr 18 min
+902 songs - 2 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Daleko](https://open.spotify.com/track/28carPZUuA9idH24JJtKtg) | [Arrojo](https://open.spotify.com/artist/4QiaVr3LYz4PTxu9kmVu9k) | [Daleko](https://open.spotify.com/album/54MqEH3W0ybaWeLqYT3HdJ) | 13:16 | 2025-06-18 |  |
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2025-10-14 |  |
 | [Danger](https://open.spotify.com/track/5sxp7kgCIzJpx7ATUrEUpc) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Danger](https://open.spotify.com/album/19wWPATNUNYrJWZLeKJrWh) | 3:49 | 2024-11-30 |  |
+| [Dark Forest](https://open.spotify.com/track/6VbCboaJYYjOXOBuFsK2QN) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Dark Forest](https://open.spotify.com/album/0ifQAWD02Axlof1r5uRaMb) | 3:52 | 2026-03-06 |  |
 | [Dark Horse](https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 | 2024-11-12 |  |
 | [Dark Match](https://open.spotify.com/track/5MB2LqLeo2TBMAo11yZhSx) | [Bartertown](https://open.spotify.com/artist/38qnXcLuvsv61loNVcXJvX) | [Fire on the Lighthouse](https://open.spotify.com/album/3aa1qVfJJNAQKW5yvCu1wL) | 4:42 | 2025-03-18 |  |
 | [Days of Cold Sleep](https://open.spotify.com/track/1jJ6Ig2seZGuEHrEgQTDi2) | [Tethra](https://open.spotify.com/artist/5BO4GJKBmoRm1Ejhl4ebUg) | [Withered Heart Standing](https://open.spotify.com/album/11SbvxXRPa8fGLffqrG8J5) | 7:12 | 2025-02-09 |  |
@@ -183,6 +184,7 @@
 | [Després del Silenci](https://open.spotify.com/track/0Qm2wRADPXsTwfRh4YeFCD) | [Saüc](https://open.spotify.com/artist/4OmgmK0ZHxYO6oHDkeMSVN), [Kristina Vega](https://open.spotify.com/artist/7C4Bake7aAau6Hdo4Qr1Tr) | [Després del Silenci](https://open.spotify.com/album/6sq1R9tVhE82F6Gs14nkFD) | 5:51 | 2025-10-09 |  |
 | [Dethroned \- Single Version](https://open.spotify.com/track/4qozyUj1G2qVakk2p7bn2t) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [Dethroned](https://open.spotify.com/album/2YANVUxhMLXy7CY1SYX8pk) | 2:57 | 2025-10-28 |  |
 | [Devil Lives Next Room](https://open.spotify.com/track/41m98J2ImjCMRP5Bla9eoX) | [Journey to Equilibrium](https://open.spotify.com/artist/7EFpZ2zSH7KTR1PtOIgpjT) | [Devil Lives Next Room](https://open.spotify.com/album/1yntPDNErcly1dKJE0EL5B) | 6:50 | 2025-07-17 |  |
+| [Devil's Tritone](https://open.spotify.com/track/3iPRRYGK6HDcxWNMebuc60) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Devil's Tritone](https://open.spotify.com/album/2rd9CGbE1VFveckWCmPptu) | 3:06 | 2026-03-06 |  |
 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 | 2026-01-06 |  |
 | [Die Young](https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Warrior \(Expanded Edition\)](https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu) | 3:31 | 2024-11-02 |  |
 | [Diplomat Motel](https://open.spotify.com/track/2JvxVu7yPLBA4SWnDrxeLj) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Earth](https://open.spotify.com/album/4yeeqhBhjA7OzVcZ2Siq4W) | 2:59 | 2024-12-12 |  |
@@ -207,6 +209,7 @@
 | [Dreammaker](https://open.spotify.com/track/5MT9WoZJs0huDj9xGCqHH9) | [The Transatlantics](https://open.spotify.com/artist/01bXivMCOB2xx1sVDnC7tp) | [The Transatlantics](https://open.spotify.com/album/6KkUGwyO663orjvhEocFTz) | 3:41 | 2026-01-06 |  |
 | [Duelo](https://open.spotify.com/track/6QbCjuW1FTqvbxgF7xlHc3) | [Ruido Cassette](https://open.spotify.com/artist/2YiahtiLSZAAMIHoV8uZlx) | [Duelo](https://open.spotify.com/album/14gzvNFcKZKwnB1NNU4SWG) | 2:57 | 2025-03-18 |  |
 | [Dunia Fantasi](https://open.spotify.com/track/0N2ayn3ERH5Kqw8omdqRHA) | [GiantKilling](https://open.spotify.com/artist/5YvSmdlCri6XRIOFAaVMtl) | [DEMOCRASH!T](https://open.spotify.com/album/2fQdrbfHXBxbxudSATfa3h) | 6:20 | 2025-10-09 |  |
+| [dying](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 | 2026-03-06 |  |
 | [Earth Music](https://open.spotify.com/track/32R25ieUaEujfOUMyotW4d) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9), [akaFayaven](https://open.spotify.com/artist/18pLFv41vMDF3xdE7ZKnjr) | [What Happens On Earth...](https://open.spotify.com/album/6BcrIJf4D3A53w6gjgaC28) | 3:11 | 2025-10-09 |  |
 | [Echoes](https://open.spotify.com/track/1AVKALpjBXkLrXlKwaugEN) | [ElectricDust](https://open.spotify.com/artist/315lu2eEs9iMeyfZFGpiz7) | [Echoes](https://open.spotify.com/album/14wRsCKTqFRUJIB13EAJS8) | 5:33 | 2025-12-12 |  |
 | [Eddie Guerrero](https://open.spotify.com/track/0LuX9JhrTXQByE8ftz96Jf) | [Its Always You](https://open.spotify.com/artist/08b1HKb35zVurF7lsVeZG1) | [Eddie Guerrero](https://open.spotify.com/album/6z7Ts4tUEXM9b7NSwu5k0Y) | 3:08 | 2024-12-12 |  |
@@ -267,6 +270,7 @@
 | [Fringe of Fame](https://open.spotify.com/track/4neLugzjxCN3J1fpismNfR) | [Blond Jesus](https://open.spotify.com/artist/2t6SwdwP70fSJxap5r0bxe) | [Fringe of Fame](https://open.spotify.com/album/7DzbUNMbUaC2eM8Ap0R2q7) | 3:38 | 2025-04-29 |  |
 | [From The Ashes](https://open.spotify.com/track/1zNVk07VctygAA4zX9qrC9) | [Holy Høly](https://open.spotify.com/artist/3I0kU34ifrTXsWrig63c2U), [Emore](https://open.spotify.com/artist/6FzKQzXWIuNMC9Fay6GR45), [The Third Music](https://open.spotify.com/artist/1QTiLwZ20I2MCs6hwT9Rkm) | [TRIP HOP STILL BURNING VOL\. 2](https://open.spotify.com/album/5r3IHvCKfh1eXLtLkDqWoh) | 3:45 | 2025-09-04 |  |
 | [FROZEN](https://open.spotify.com/track/5UzSYODh9a42aHQ38jGWH7) | [Jo\. Flip](https://open.spotify.com/artist/2Rxtawadh37wL5T3Oq3kMS) | [FROZEN](https://open.spotify.com/album/2ZRZoQXqvurnNjxvDjQy1b) | 1:57 | 2024-12-04 |  |
+| [Frozen Lusters of Shattered Purity](https://open.spotify.com/track/7s4A4kjY9ZEqioiu08jPyU) | [Trails of Anguish](https://open.spotify.com/artist/6LUo6fHv3BDFWskGqljGlP) | [Frozen Lusters of Shattered Purity](https://open.spotify.com/album/7wk0cRINe5xCLEIb3zzb3h) | 4:24 | 2026-03-06 |  |
 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-10-09 |  |
 | [Future \#1](https://open.spotify.com/track/2MbuXgY5GbsbeDtTA22v8T) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Strains](https://open.spotify.com/album/1sSopvKkS0Y38hLgXBGyVx) | 3:23 | 2025-05-15 |  |
 | [Ganância](https://open.spotify.com/track/52exrDs5KivzWvtg4e7LEc) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Ganância](https://open.spotify.com/album/5bvIVnNAxlGJLVcKpm2pWY) | 3:16 | 2025-09-04 |  |
@@ -408,6 +412,7 @@
 | [Lost In Between](https://open.spotify.com/track/2oXcoO9wRg7DCF7fP4Sq3o) | [New Hate](https://open.spotify.com/artist/6vFDDIr4wUXmdnSpDRLETD) | [Lost In Between](https://open.spotify.com/album/17XSjMJlOqbgUexwM5BbR0) | 4:59 | 2025-05-15 |  |
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-10-23 |  |
 | [Love Is a Driving Force](https://open.spotify.com/track/6oO558KUx3y53ftckwkKHZ) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Love Is a Driving Force](https://open.spotify.com/album/7G0YtjrO3zD7cGMoeOpJR4) | 2:35 | 2025-10-16 |  |
+| [LOVE ME HATE ME](https://open.spotify.com/track/014eBnpDs1AP6oT4iJdiig) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V) | [LOVE ME HATE ME](https://open.spotify.com/album/7aBZAuT80VvU83aKSTLfac) | 3:26 | 2026-03-06 |  |
 | [Love Playing with Fire](https://open.spotify.com/track/4SQVdmIE9F29Gg7G0JJXGf) | [Gla Lys](https://open.spotify.com/artist/4WiQ9z5ykjy7BQqfuiq0V7) | [Love Playing with Fire](https://open.spotify.com/album/10aMWFrldxhuv6khM13KQu) | 2:29 | 2024-12-12 |  |
 | [loverboy](https://open.spotify.com/track/1G4FozsbZDsYacSHn6lugp) | [Baylee Price](https://open.spotify.com/artist/2o0cXnmAk44UXsqTi4a9o7) | [loverboy](https://open.spotify.com/album/57l9u9L9mvATYjKy9fAsvC) | 2:54 | 2025-02-05 |  |
 | [Luce](https://open.spotify.com/track/4q27PAlW0y6gG1CILCpm3V) | [forse Elle](https://open.spotify.com/artist/0ZMKD6IwamHjC6TbR57NeC) | [Luce](https://open.spotify.com/album/04y1jvoG2yJLOQf4vfLuLZ) | 3:18 | 2025-05-15 |  |
@@ -438,6 +443,7 @@
 | [Metal ME 2 \(HD\)](https://open.spotify.com/track/67eUCGlZqeGvk5j8wcb7qJ) | [The Rite Band](https://open.spotify.com/artist/0m4ILdMQu2bAfjnUnw9XIr), [Mr\. ALLEN](https://open.spotify.com/artist/24BbJE4zJyn34Skcv16Q9W) | [Metal ME 2 \(HD\)](https://open.spotify.com/album/02QlFOXir0SEvhhZ2CsbUH) | 2:15 | 2025-11-27 |  |
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-04-24 |  |
 | [Midnight Witch](https://open.spotify.com/track/2GByP9nBSGlq6aw5K7A4Xi) | [Master Dy](https://open.spotify.com/artist/3lfScZWl1nVVmsYciBXKBu) | [Midnight Witch](https://open.spotify.com/album/0svfZnFDfYxdpIC0RM6nn3) | 4:25 | 2025-12-03 |  |
+| [Might As Well Fucking Dance](https://open.spotify.com/track/6mms4ACptIDHuCdmuXWnnj) | [The Deefons](https://open.spotify.com/artist/2F6LMhgMlj8nV04Mk93jvC) | [Sunrise](https://open.spotify.com/album/3SgVgzDJL2bOrJKns7Za6q) | 3:27 | 2026-03-06 |  |
 | [Mike Walton \- Basement Version](https://open.spotify.com/track/5DknIp7S8Pl83piSZCM1a1) | [Adjust the Sails](https://open.spotify.com/artist/4xVPBr0C8OxqJL4796EZzr) | [The Killer in Black 3](https://open.spotify.com/album/2od4TqvSTkgL6nI8e70p83) | 3:19 | 2025-02-07 |  |
 | [Mind Twins](https://open.spotify.com/track/7FVIpdncTBmfHw4bqFrDEq) | [You Filthy Dog](https://open.spotify.com/artist/5pf3ELlJohVJgYNsNtcjf6) | [Mind Twins](https://open.spotify.com/album/2VnGH09FEFf8UCaxA4TNyq) | 3:32 | 2025-07-25 |  |
 | [Misspent](https://open.spotify.com/track/459UNxLcKpCKTseACJfQrv) | [motionyear.](https://open.spotify.com/artist/1RObsV7QVHowlbE321jzrq) | [Misspent](https://open.spotify.com/album/2UU3ByAfLht4dvtrcnhhZP) | 3:00 | 2025-03-18 |  |
@@ -612,6 +618,7 @@
 | [Roses In The Sea](https://open.spotify.com/track/7nLoVD1SPIZYHOAsoQTBtF) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [Back To The Sixties](https://open.spotify.com/album/0EWFXv6Sb9Hg53ExC68GgV) | 3:03 | 2025-07-26 |  |
 | [Run to You](https://open.spotify.com/track/0oQUmnTa4r4nN1YniB7umn) | [Lost Like Lions](https://open.spotify.com/artist/0wg1sFLR3OowB5S1r7OjIV) | [Fear of Letting Go](https://open.spotify.com/album/2Sa44qNejccHk3whnsYRki) | 3:37 | 2024-12-12 |  |
 | [Russian Car Crashes](https://open.spotify.com/track/2tQ7ZgZ6JOohBwdqds23aR) | [Eponymous](https://open.spotify.com/artist/3UtYdv03lSFy9ax1KZ4CZH) | [Singularity](https://open.spotify.com/album/2SeRDN9VsngIZWN2k4DCQW) | 4:17 | 2025-03-18 |  |
+| [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 | 2026-03-06 |  |
 | [Sam](https://open.spotify.com/track/7MK86qZkLiGARRb1C40RtK) | [Punch Drunk Poets](https://open.spotify.com/artist/5AIiuf6qpRRCKnfnaLSS78), [Scunks](https://open.spotify.com/artist/5O4EbP7wCvfqhO06sPHlaP) | [Sam](https://open.spotify.com/album/4SeTygScdUh8K7RnTD1Jqo) | 3:10 | 2025-09-16 |  |
 | [Same Reactions](https://open.spotify.com/track/0Br55KPAWjpjtoK3legir8) | [Normal Suits](https://open.spotify.com/artist/49XKnotESVA5WZkzeyEo4e) | [New Friend Market](https://open.spotify.com/album/1yzwSW91Mpbne8mTwrHmKD) | 4:05 | 2024-12-12 |  |
 | [Same Roots, New Fire](https://open.spotify.com/track/7ylG8ggNngVKDa0f5760pf) | [RESENTLESS.](https://open.spotify.com/artist/55vgJME2WgJi6eq7bMsi6J) | [Same Roots, New Fire](https://open.spotify.com/album/3xDKyBvMGjSgCYLv4YV7Ks) | 3:16 | 2026-02-19 |  |
@@ -883,6 +890,7 @@
 | [Zero Bullshit](https://open.spotify.com/track/1o0CgT5iLjXXhaQ7IcYHl6) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Zero Bullshit](https://open.spotify.com/album/5BGxbWMYET1qi1aNQ0esDz) | 4:02 | 2025-02-07 |  |
 | [À Boutte de Toute](https://open.spotify.com/track/0zWlQ3UlIX2fHQ0iTQ4oSB) | [Chacal](https://open.spotify.com/artist/5HukSi7X2MjzaLJrnCngDH) | [Le Phénomène](https://open.spotify.com/album/7nRbculOSqIzX7UGcJcYOj) | 2:35 | 2025-07-02 |  |
 | [Älä seuraa minua](https://open.spotify.com/track/02YSmMqexkiR9F2k2itVSW) | [I.F.A](https://open.spotify.com/artist/1tEP2l9fgWgdj1TZloddVQ) | [Tiimalasi](https://open.spotify.com/album/2qBjXbvrgdu2naJ9WPmSZZ) | 4:31 | 2025-11-27 |  |
+| [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 | 2026-03-06 |  |
 | [Última Lembrança de Mim](https://open.spotify.com/track/7ls1iFt2VxC0JSQ8xE5V9t) | [Marccon](https://open.spotify.com/artist/3Wjbb98nW9w8jQRsFqgqtE) | [Última Lembrança de Mim](https://open.spotify.com/album/15cPAkZ0fHz8I8C2D4nV2m) | 5:03 | 2025-08-03 |  |
 | [Του Κανενός Σημαία \- Tape Version](https://open.spotify.com/track/5N4qstxLmXZtJQvGmP07aw) | [Pos Tus Ipame](https://open.spotify.com/artist/5PPsMKjCaFm6B9OTVqRVs2) | [Του Κανενός Σημαία \(Tape Version\)](https://open.spotify.com/album/2TiGsNUfJfCl8G8lzcVWIZ) | 5:41 | 2025-11-04 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2024-12-12 |  |

@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 178626,
       "name": "7 rings",
       "url": "https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF"
@@ -100,7 +100,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 178640,
       "name": "7 rings (feat. 2 Chainz) - Remix",
       "url": "https://open.spotify.com/track/6AyI8UGx8Y4peb7pLOy2pf"
@@ -3253,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Rodgers & Hammerstein's Carousel (2018 Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/4m8Gq0cbMFRgODTAzGUcPG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mueller",
+          "url": "https://open.spotify.com/artist/4okEmrM2O6CEW6en3fRWUy"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "What's The Use Of Wond'rin'?",
+      "url": "https://open.spotify.com/track/0GizGMSb4RtwnAk2TGsEJL"
+    },
+    {
+      "album": {
         "name": "Who Killed Amanda Palmer (Deluxe Version)",
         "url": "https://open.spotify.com/album/55MoQXHYxkNlD5lxZOjoeG"
       },
@@ -3264,7 +3286,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169506,
       "name": "What's the Use of Wondrin",
       "url": "https://open.spotify.com/track/3ydlBfUGdp4pyABYKJ6itY"

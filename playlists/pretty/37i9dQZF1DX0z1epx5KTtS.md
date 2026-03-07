@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,569 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,637 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 |
 | 40 | [Tu veux gâter ?](https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12) | [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jspeed beatz](https://open.spotify.com/artist/1n756IRf35UE7TmwSfeyPg) | [Tu veux gâter ?](https://open.spotify.com/album/7jjHgpnkOj35TqAuORFdVx) | 2:28 |
 
-Snapshot ID: `AAAAAD5DzJfhRBpF9z71QFOuqgHSx2r+`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

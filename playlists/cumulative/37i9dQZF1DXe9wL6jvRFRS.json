@@ -1195,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Black Country, New Road",
+          "url": "https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269421,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2cLjmhezy7CVKMTRAOcnEx"
+    },
+    {
+      "album": {
         "name": "Dychwelyd",
         "url": "https://open.spotify.com/album/1andxDOpfZj8Jzk1uXLosq"
       },

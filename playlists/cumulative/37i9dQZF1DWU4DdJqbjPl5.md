@@ -4,7 +4,7 @@
 
 > Intersection of R&B and afrobeats\. Cover:  Karun
 
-535 songs - 1 day 3 hr 59 min
+535 songs - 1 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,6 +284,7 @@
 | [Lonely Hearts](https://open.spotify.com/track/5gJ4NfyXdhOWadofaIl3pL) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 3:01 | 2024-10-12 | 2025-05-09 |
 | [Look The Other Way](https://open.spotify.com/track/5bFCImlNEBIuy64PFwxJTx) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Look The Other Way](https://open.spotify.com/album/1RNi7RHmTm66nEGR1wiLm9) | 3:01 | 2025-07-18 | 2025-12-05 |
 | [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-11-28 | 2024-12-07 |
+| [Lost & Found](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:35 | 2026-03-06 |  |
 | [Lost Time](https://open.spotify.com/track/0XGuj5C0hLW8UGwjFbWzrL) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Lost Time](https://open.spotify.com/album/5wLzXVlWQ80chM0kiIYR2X) | 2:52 | 2024-05-03 | 2025-08-26 |
 | [Love & Romance](https://open.spotify.com/track/2USyKcOX5LnK7gOMVwOBWT) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Love & Romance](https://open.spotify.com/album/4CzwxBapoqBCrfVT6ew7Q1) | 2:13 | 2024-07-26 | 2025-10-17 |
 | [Love & Romance II](https://open.spotify.com/track/4VcP2qNfYjYibIHxMbYyV3) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Love & Romance II](https://open.spotify.com/album/4E3DVlQMhfUxWAwLRW7NyQ) | 3:15 | 2024-11-15 |  |
@@ -483,7 +484,6 @@
 | [Touching on My Baby](https://open.spotify.com/track/4TQqtk6JQD6pYBOhiIrNwd) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [Touching on My Baby](https://open.spotify.com/album/72AlrzsvuiyydOXwe09foV) | 2:35 | 2023-08-25 | 2024-10-01 |
 | [TOXIC](https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Landstrip Chip](https://open.spotify.com/artist/30bCJGAVNB4s6UkQy8a87a) | [My WorlD With U](https://open.spotify.com/album/17B9cVbQfEIoi8k6sZnzDm) | 3:27 | 2022-03-11 | 2022-11-15 |
 | [Toxic Arms](https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS) | [Itha](https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD), [Clark Keeng](https://open.spotify.com/artist/3trMdyvF4qVEceHElT1oAP), [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Let's Draw](https://open.spotify.com/album/3CdHQ0q84k7otucAHiUAPa) | 4:47 | 2026-03-06 |  |
-| [Track 7](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 0:00 | 2026-03-06 |  |
 | [True Love](https://open.spotify.com/track/4TEw5hpdE3xkMwOHIBpYJm) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [True Love](https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5) | 2:50 | 2023-11-07 | 2024-10-26 |
 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 | 2023-04-20 | 2024-03-22 |
 | [Umbrella](https://open.spotify.com/track/0lx4Q2IDhEPu3z0fZQiPVH) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Ose](https://open.spotify.com/artist/4n5kiRbM5NtY5mYmxdxLiw) | [Bully Season Vol.2 : Pretty Girls Love Afrobeats](https://open.spotify.com/album/4W7ver0Okhl78vyo1emv2c) | 2:43 | 2024-06-28 | 2025-04-05 |

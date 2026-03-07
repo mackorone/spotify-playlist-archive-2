@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "DJ Japa NK e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Murilo Huff e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 199379,
       "name": "Calcinha de Renda - Ao Vivo",
       "url": "https://open.spotify.com/track/2a9WkloaIu64sryr4JTdTi"
@@ -3016,6 +3016,24 @@
       "duration_ms": 171077,
       "name": "Cheiro de Balada - Ao Vivo",
       "url": "https://open.spotify.com/track/2ykYxd8UGHOsdjP3Z5jSHh"
+    },
+    {
+      "album": {
+        "name": "Cheiro De Culpado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161298,
+      "name": "Cheiro De Culpado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
     },
     {
       "album": {
@@ -6302,6 +6320,52 @@
       "duration_ms": 140500,
       "name": "GALOPA",
       "url": "https://open.spotify.com/track/2wG1R0uDFwyobcWzVssC1J"
+    },
+    {
+      "album": {
+        "name": "Gangstar",
+        "url": "https://open.spotify.com/album/1QPK1wuEIgZH363cYwa9ia"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Real Fuba",
+          "url": "https://open.spotify.com/artist/0PjEY1nAycpN9PeI3zOtdb"
+        },
+        {
+          "name": "Elow",
+          "url": "https://open.spotify.com/artist/4kwNNzG6OKspwezw3Exfyk"
+        },
+        {
+          "name": "Kabeh",
+          "url": "https://open.spotify.com/artist/4erceoOpkoxOHXYZinmrX8"
+        },
+        {
+          "name": "Vertigo",
+          "url": "https://open.spotify.com/artist/7CSCYgC7CofoVB57eCeI5j"
+        },
+        {
+          "name": "NovaChance",
+          "url": "https://open.spotify.com/artist/7gQSUv8yp5lKdxra1Dvk9L"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Gangstar",
+      "url": "https://open.spotify.com/track/4tgLMOHoZlWRmEMclryt6T"
     },
     {
       "album": {
@@ -11090,7 +11154,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171797,
       "name": "Pelo Bem da Minha Saudade",
       "url": "https://open.spotify.com/track/2W8XL6iRGMmGHpqW2TKcXc"

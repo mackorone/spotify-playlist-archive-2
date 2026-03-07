@@ -1,6 +1,6 @@
 {
   "description": "Discover the intensity and emotion resonating through Japan\u2019s hard rock. / \u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SPYAIR",
-  "num_followers": 53692,
+  "num_followers": 53696,
   "original_name": "Loud Rock Japan",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
-        "url": "https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU"
-      },
-      "artists": [
-        {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
-      "url": "https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "ELLEGARDEN BEST 1999-2008",
         "url": "https://open.spotify.com/album/1UnNvMfNPmPQlsedObGRIK"
       },
@@ -623,8 +607,24 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "You're already dead",
-        "url": "https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG"
+        "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+        "url": "https://open.spotify.com/album/3wSDoUtAawcfDrDhjipyVU"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "\u30d4\u30ab\u30ec\u30b9\u30af\u30d2\u30fc\u30ed\u30fc",
+      "url": "https://open.spotify.com/track/5smt4XQPsHdCrK5rb6czcP"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "ANTITHESE",
+        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 199680,
-      "name": "You're already dead",
-      "url": "https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj"
+      "duration_ms": 260000,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "Vengeance",
-        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 238534,
-      "name": "Vengeance",
-      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "Missing",
         "url": "https://open.spotify.com/album/6mGi2j1maFymgzAoiiQVoY"
       },
@@ -707,8 +691,24 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "ANTITHESE",
-        "url": "https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK"
+        "name": "Vengeance",
+        "url": "https://open.spotify.com/album/2zlZb3IpmrLwSUT0NLdoXU"
+      },
+      "artists": [
+        {
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
+        }
+      ],
+      "duration_ms": 238534,
+      "name": "Vengeance",
+      "url": "https://open.spotify.com/track/1Jz6GFrsgtyVwQtIUiHYMw"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "You're already dead",
+        "url": "https://open.spotify.com/album/3VepurP4D6ovZqyvIebBsG"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/4MzdrjWuEShth6tyABlzYo"
+      "duration_ms": 199680,
+      "name": "You're already dead",
+      "url": "https://open.spotify.com/track/1Y4PaFa4vxujKdXnXfWVtj"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 192500,
-      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
-      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "ELEVEN FIRE CRACKERS",
         "url": "https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 226920,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+        "url": "https://open.spotify.com/album/7BBa5Q3EcrambON0lW4xQb"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 192500,
+      "name": "O\uff65TA\uff65KU\u30e9\u30d6\u30ea\u30fc\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/1i8HL5vylExlgvbUbVLLdC"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "HOT TOPIC",
-        "url": "https://open.spotify.com/album/0na2ZiUhanhv3TE0JfHInv"
-      },
-      "artists": [
-        {
-          "name": "\u82b1\u51b7\u3048\u3002",
-          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "\u30c8\u30ad\u30e1\u30adAbout you",
-      "url": "https://open.spotify.com/track/4yb0wezBC22G5R4ZELcvX5"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "SLAY!!",
         "url": "https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 192753,
       "name": "SLAY!!",
       "url": "https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "HOT TOPIC",
+        "url": "https://open.spotify.com/album/0na2ZiUhanhv3TE0JfHInv"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "\u30c8\u30ad\u30e1\u30adAbout you",
+      "url": "https://open.spotify.com/track/4yb0wezBC22G5R4ZELcvX5"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "Against the Kings and Gods",
-        "url": "https://open.spotify.com/album/76VR0jyf0FtIRFf6RxF41f"
+        "name": "yoake",
+        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
       },
       "artists": [
         {
@@ -1180,25 +1180,9 @@
           "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         }
       ],
-      "duration_ms": 256722,
-      "name": "Against the Kings and Gods",
-      "url": "https://open.spotify.com/track/4FsOAgejIlmrA7qvQsJn0B"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
-        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
-        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "\u5b8c\u5168\u611f\u899aDreamer",
-      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
+      "duration_ms": 289602,
+      "name": "yoake",
+      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
+        "name": "Niche\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5Txrg948JAAstSTzI0Rssa"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "\u5b8c\u5168\u611f\u899aDreamer",
+      "url": "https://open.spotify.com/track/30hzxa3MaRd2XXB6kXGlPh"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
         "name": "Matatabi",
         "url": "https://open.spotify.com/album/0J6JjcNYWHJ3mPrMAodZGG"
       },
@@ -1231,42 +1231,6 @@
       "duration_ms": 168088,
       "name": "Matatabi",
       "url": "https://open.spotify.com/track/5ESsDYmXOxYf2kgTJ4ANW4"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
-        "name": "Neversleep",
-        "url": "https://open.spotify.com/album/2Tyzkpt6lsahYyLXmVOVvW"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        },
-        {
-          "name": "Myke Terry",
-          "url": "https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw"
-        }
-      ],
-      "duration_ms": 169940,
-      "name": "Neversleep (feat. Myke Terry)",
-      "url": "https://open.spotify.com/track/00RTIzyDmz5cQooU5Zbu4Z"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
-        "name": "yoake",
-        "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        }
-      ],
-      "duration_ms": 289602,
-      "name": "yoake",
-      "url": "https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1287,6 +1251,42 @@
       "duration_ms": 252300,
       "name": "Straight Up (feat. Kj)",
       "url": "https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "Against the Kings and Gods",
+        "url": "https://open.spotify.com/album/76VR0jyf0FtIRFf6RxF41f"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "duration_ms": 256722,
+      "name": "Against the Kings and Gods",
+      "url": "https://open.spotify.com/track/4FsOAgejIlmrA7qvQsJn0B"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "Neversleep",
+        "url": "https://open.spotify.com/album/2Tyzkpt6lsahYyLXmVOVvW"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
+        },
+        {
+          "name": "Myke Terry",
+          "url": "https://open.spotify.com/artist/4CkhnSODdFzGoqKFbc2Bxw"
+        }
+      ],
+      "duration_ms": 169940,
+      "name": "Neversleep (feat. Myke Terry)",
+      "url": "https://open.spotify.com/track/00RTIzyDmz5cQooU5Zbu4Z"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "STEADY",
-        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
       },
       "artists": [
         {
-          "name": "SHANK",
-          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
+          "name": "The BONEZ",
+          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
         }
       ],
-      "duration_ms": 150180,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
+      "duration_ms": 153866,
+      "name": "Love song",
+      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "Yours",
-        "url": "https://open.spotify.com/album/660LlaSFIjdfpzi7pwBjs1"
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w"
       },
       "artists": [
         {
-          "name": "The BONEZ",
-          "url": "https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ"
+          "name": "SHANK",
+          "url": "https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF"
         }
       ],
-      "duration_ms": 153866,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/1Xv3BEDnnkYdJbBnoclyA4"
+      "duration_ms": 150180,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/0Rm6wPl6VhHbUKJ1NnxFnX"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "knuckle duster",
-        "url": "https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu"
-      },
-      "artists": [
-        {
-          "name": "the bercedes menz",
-          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "knuckle duster",
-      "url": "https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "\u72d0\u72ec\u306e\u624d\u671b",
         "url": "https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 212950,
       "name": "\u72d0\u72ec\u306e\u624d\u671b",
       "url": "https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "knuckle duster",
+        "url": "https://open.spotify.com/album/2P37p95rPADZFU7VmIpQfu"
+      },
+      "artists": [
+        {
+          "name": "the bercedes menz",
+          "url": "https://open.spotify.com/artist/5zUGStKYOWhhtWd44T1SHd"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "knuckle duster",
+      "url": "https://open.spotify.com/track/6XMusqUoRUqH3roWmiCIuj"
     },
     {
       "added_at": "2026-03-03 15:00:36",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-03-03 15:00:36",
       "album": {
-        "name": "RED APHELION",
-        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
-      },
-      "artists": [
-        {
-          "name": "NOISEMAKER",
-          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
-        }
-      ],
-      "duration_ms": 237813,
-      "name": "Something New",
-      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
-    },
-    {
-      "added_at": "2026-03-03 15:00:36",
-      "album": {
         "name": "THE LAST ROCKSTARS (PARIS MIX)",
         "url": "https://open.spotify.com/album/4tofpZnaMxN2eFbS6aBBor"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 285700,
       "name": "THE LAST ROCKSTARS (PARIS MIX)",
       "url": "https://open.spotify.com/track/3V3BVSPAsXD3keTsZTXF4k"
+    },
+    {
+      "added_at": "2026-03-03 15:00:36",
+      "album": {
+        "name": "RED APHELION",
+        "url": "https://open.spotify.com/album/03xMOUPUmzZnMeKE41jXFU"
+      },
+      "artists": [
+        {
+          "name": "NOISEMAKER",
+          "url": "https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ"
+        }
+      ],
+      "duration_ms": 237813,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/0vA9uNpBSTnwDLaetS4DFT"
     },
     {
       "added_at": "2026-03-03 15:00:36",

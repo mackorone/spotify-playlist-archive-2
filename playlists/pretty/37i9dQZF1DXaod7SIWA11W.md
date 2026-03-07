@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: DOE & Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,035 likes - 74 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,056 likes - 74 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 73 | [Grief, Joy, & Gratitude](https://open.spotify.com/track/4ZuUY7QGuXc4oMjUNJk0w2) | [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Grief, Joy, & Gratitude](https://open.spotify.com/album/0VlJpvgtQqly0QowpnpQTo) | 3:10 |
 | 74 | [At The Cross](https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE) | 3:39 |
 
-Snapshot ID: `AAAAAEkzLoM+vGmGCqvI3tfmAkkfggSs`
+Snapshot ID: `AAAAAJMLp7T7qHfXhGMKrmcywGhSZubm`

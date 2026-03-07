@@ -162,7 +162,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169480,
       "name": "3am in Paris",
       "url": "https://open.spotify.com/track/08gzR7i6dzU999MyW5xWa7"
@@ -180,7 +180,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213120,
       "name": "A Couple Minutes - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3LTaQFxe5oMgzS8wGkL5iy"
@@ -1250,7 +1250,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 175319,
       "name": "Coastin\u2019",
       "url": "https://open.spotify.com/track/1IjeGPU5hqHlJpm00zObN7"
@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 186900,
       "name": "Comin\u2019 Around Again",
       "url": "https://open.spotify.com/track/6If1Aw9BpAtmnP1GByGjfr"
@@ -1874,7 +1874,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165081,
       "name": "Douwannabwitastar!?",
       "url": "https://open.spotify.com/track/3de4w5RMotY7NBXG7vtP4O"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175603,
       "name": "Hot Honey - Downtempo Mix",
       "url": "https://open.spotify.com/track/4qRQEUwZSsnOf9MeLwz3aQ"
@@ -3840,7 +3840,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205269,
       "name": "Like Something",
       "url": "https://open.spotify.com/track/6fG5GMkeQTGGRmfgUO3LGz"
@@ -4423,6 +4423,28 @@
     },
     {
       "album": {
+        "name": "NEVER BE THE SAME",
+        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172376,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
+    },
+    {
+      "album": {
         "name": "Baduizm",
         "url": "https://open.spotify.com/album/3qr4pTBWEU1SVf01j6RAx3"
       },
@@ -4791,6 +4813,28 @@
     },
     {
       "album": {
+        "name": "PURPOSE",
+        "url": "https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195119,
+      "name": "Perspective of Purpose (feat. Keyon Harrold)",
+      "url": "https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL"
+    },
+    {
+      "album": {
         "name": "Phoenix Rising",
         "url": "https://open.spotify.com/album/2diTMGaJlI3rGzXoTcZiZ0"
       },
@@ -4938,6 +4982,24 @@
       "duration_ms": 240937,
       "name": "Please Do Not Lean (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3"
+    },
+    {
+      "album": {
+        "name": "The Darkening Green",
+        "url": "https://open.spotify.com/album/5BCATz23LefUwvG94a5Swr"
+      },
+      "artists": [
+        {
+          "name": "ELIZA",
+          "url": "https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234931,
+      "name": "Pleasure Boy",
+      "url": "https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp"
     },
     {
       "album": {
@@ -5586,6 +5648,24 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "album": {
+        "name": "Traveler's Guide",
+        "url": "https://open.spotify.com/album/1Ij9ZRkpBwYVTvbwt8QJKy"
+      },
+      "artists": [
+        {
+          "name": "Arman Ayva",
+          "url": "https://open.spotify.com/artist/1DukxxMpzFcNZx5iIJiSK4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192557,
+      "name": "Silk Road",
+      "url": "https://open.spotify.com/track/6bIzl6dsZM0BVsYJPX1iKX"
     },
     {
       "album": {
@@ -6784,7 +6864,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192000,
       "name": "Thoughts Are Magic",
       "url": "https://open.spotify.com/track/1sKhJg2jq19b7T4lIFqcx9"

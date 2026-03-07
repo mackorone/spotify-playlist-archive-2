@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: 최유리 \(Choi Yu Ree\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: 김나영 \(Kim Na Young\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,693 songs - 4 day 14 hr 1 min
+1,695 songs - 4 day 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [After Sending You \- Live](https://open.spotify.com/track/47SC5wI2ZEd2DwQuJNzCHL) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [YB Live Best 'Flying Butterfly'](https://open.spotify.com/album/4lAdPVMD5IK4JrTkiQoaRf) | 4:33 | 2023-05-05 | 2023-05-16 |
 | [After the uphill road](https://open.spotify.com/track/6VqxPUU0GKTHJ0qlvzq89O) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM), [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [track by YOON: After the uphill road](https://open.spotify.com/album/5rDdHRH0w9dNSnbUnaLPXF) | 4:16 | 2022-12-16 | 2023-02-09 |
 | [After we broke up](https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG) | [BBAHN](https://open.spotify.com/artist/095i3doKOvEd3cY25Mjcvi) | [Bravo, My Life OST Part.20](https://open.spotify.com/album/3KAK9DVkvurJKYVQVKXw8q) | 3:41 | 2022-07-07 | 2022-09-30 |
+| [After you've gone](https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [After you've gone](https://open.spotify.com/album/5dzMwq0NIBg9uMMf7dPbiB) | 4:15 | 2026-03-06 |  |
 | [After you’ve gone](https://open.spotify.com/track/1JEeGmgxMtzRiMo0rv7RC6) | [GB9](https://open.spotify.com/artist/2QQUaQXZalrJh9JYTiVMkr) | [After you’ve gone](https://open.spotify.com/album/0CDAPlOOdZ8kf5zfyNOWey) | 3:50 | 2022-08-01 | 2022-12-27 |
 | [Afternoon](https://open.spotify.com/track/6lKTh03nceI89Jhy8aFLBL) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [Startrail](https://open.spotify.com/album/4fHQGchrMiUFNmuBbnzkRN) | 4:10 | 2023-01-11 | 2023-02-25 |
 | [Again, goodbye](https://open.spotify.com/track/20sEI5enxxStjRnoKxJTA0) | [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [Again, goodbye \(YAOKI Project part.2\)](https://open.spotify.com/album/2GcLzQ6EGtG6ssDLR3UbUZ) | 4:21 | 2023-02-06 | 2023-03-28 |
@@ -360,6 +361,7 @@
 | [Even If I’m Crazy](https://open.spotify.com/track/441x9yjdJ7MxzfkRdPtmvh) | [4MEN](https://open.spotify.com/artist/7oFIkpNpLrTBgZW6w55W1J) | [Even If I’m Crazy](https://open.spotify.com/album/6DGhs9e7YfmnVjd4eosynH) | 3:35 | 2024-06-14 | 2024-10-17 |
 | [Even if nobody cares for you](https://open.spotify.com/track/3wDgRdUelv4VWol7FlPlTu) | [SE O](https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb) | [Nobody Knows \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/7pVx21fpVF6hh4mG8cbANz) | 3:20 | 2022-01-27 | 2022-06-24 |
 | [Even If the World Ends](https://open.spotify.com/track/7kWZS3Xgz28xmkfEWFlvli) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Even If the World Ends: A Single Message](https://open.spotify.com/album/0gzch1wlIVsBpho1DKgdRd) | 3:49 | 2025-12-18 |  |
+| [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 |  |
 | [Even If This Love Disappears Tonight](https://open.spotify.com/track/00KY9LKV7KJM53zByjtmiE) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Even If This Love Disappears Tonight](https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF) | 3:40 | 2026-01-21 |  |
 | [Even if you can′t love you can miss](https://open.spotify.com/track/4072LvIDKA8B3Kmhrk9aQc) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Even if you can't love you can miss \(Lee A Young X Desperate Ballad Project\)](https://open.spotify.com/album/75fqDN1Dn74x40CDlNGpWm) | 4:04 | 2025-09-18 | 2026-01-03 |
 | [Even Just Memories](https://open.spotify.com/track/43t8WaO2MoSO1m5g7YioL0) | [Cheon Dan Bi](https://open.spotify.com/artist/2AqxU4G8A5RoUMtIiKfHcQ) | [Even Just Memories](https://open.spotify.com/album/23dG0FiVEz44gEyQn7HEG4) | 3:56 | 2025-09-04 | 2025-11-29 |
@@ -484,7 +486,7 @@
 | [Happy Me](https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Happy Me](https://open.spotify.com/album/4zFfQBm5sBkKosycicJVAG) | 4:30 | 2023-10-11 | 2024-01-09 |
 | [Hard to Forget You](https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW) | [Kim Na\-kyung](https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f) | [Hard to Forget You](https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy) | 3:13 | 2026-02-23 |  |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-20 | 2023-02-15 |
-| [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 |  |
+| [Have A Good Time](https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Have A Good Time](https://open.spotify.com/album/4z0qDxvdwY7wb5yCJrVaEV) | 2:00 | 2025-11-17 | 2026-03-07 |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Healing](https://open.spotify.com/track/3jXvQPiwLDtgA1JdhhMYLV) | [Hwang Karam](https://open.spotify.com/artist/61jr8e2uLQusD1PLqTKqQc) | [Healing](https://open.spotify.com/album/5RioRsDCuLZA1FJ274ZvEA) | 3:49 | 2025-08-04 | 2025-12-03 |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 | 2025-01-12 |
@@ -1318,7 +1320,7 @@
 | [That's All For Love](https://open.spotify.com/track/6j3BvfzSSUguRSaEQq6DHy) | [Lim So Jeong](https://open.spotify.com/artist/1rKpO5H62bXp1wG1A7BUKx) | [That's All For Love](https://open.spotify.com/album/0QzHFwK9z6VOjYOjtqHPTs) | 4:22 | 2023-02-24 | 2023-06-23 |
 | [That's how we broke up](https://open.spotify.com/track/746MjnzpbYsg1nTeZLIRZg) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [That's how we broke up](https://open.spotify.com/album/74OoVXsuHFVtAcht88SYaI) | 3:20 | 2024-03-08 | 2024-07-12 |
 | [That's You](https://open.spotify.com/track/2UysjEVKnL55ywc6TuvcQI) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Destined with You \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/37BzsG0I20mbX2CFipkt3A) | 3:51 | 2023-10-15 | 2024-03-09 |
-| [That’s My Own World](https://open.spotify.com/track/7AjYNBhpjOZSddvL5F2Vx2) | [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC), [Kim Yuni](https://open.spotify.com/artist/6TAgUWorDZ20Qu55FS8uM2) | [The Ballad of Us Story 7](https://open.spotify.com/album/5A3ZxTVhgLzPGeteXzDZwX) | 5:20 | 2025-11-10 |  |
+| [That’s My Own World](https://open.spotify.com/track/7AjYNBhpjOZSddvL5F2Vx2) | [Choi Eunbin](https://open.spotify.com/artist/43G5ZdUybeKCmf5Qh9uORC), [Kim Yuni](https://open.spotify.com/artist/6TAgUWorDZ20Qu55FS8uM2) | [The Ballad of Us Story 7](https://open.spotify.com/album/5A3ZxTVhgLzPGeteXzDZwX) | 5:20 | 2025-11-10 | 2026-03-07 |
 | [The 8th Spring](https://open.spotify.com/track/4EIKAOhDOZ1Go8JfsDkxws) | [HONG EUI JIN](https://open.spotify.com/artist/2pNw0mbkjLw3sqYDF2ltlW) | [The 8th Spring](https://open.spotify.com/album/5zJ8nbQg3P0ZLIfyKNJ8sK) | 3:50 | 2022-03-09 | 2022-04-12 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-06 | 2023-03-28 |
 | [The dawn light resembles you](https://open.spotify.com/track/7n6NrNYKpsl0xxgZPKl0ZA) | [Joori](https://open.spotify.com/artist/0A5FokBLN8HWzKhWxB0eZk) | [The dawn light resembles you](https://open.spotify.com/album/4ucUi8KbApK7Ov4HqP6rG7) | 3:12 | 2023-03-08 | 2023-06-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: HALCALI
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,209 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,564 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 66 | [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 |
 | 67 | [儚夏](https://open.spotify.com/track/4vKPzyWGB4CR8pfBfvxTUu) | [Maverick Mom](https://open.spotify.com/artist/6NNwLjvIy9AnM3EJ9w0Pbb) | [COMPASS](https://open.spotify.com/album/3W5YJ52rQ6HyJ8aPRCut56) | 4:11 |
 | 68 | [妄想きゅきゅん](https://open.spotify.com/track/7KCDjJg1dRBrZvSLkcKbxY) | [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr), [Mosaic.Wav](https://open.spotify.com/artist/4UNEM59pyyoeOZiQKj3fXo) | [妄想きゅきゅん](https://open.spotify.com/album/3G5h0cnls6Q3vDZvakPXlJ) | 3:08 |
-| 69 | [INTERNET OVERDOSE](https://open.spotify.com/track/4Uy0vcmh3TvbKZDERMxNIT) | [超てんちゃん](https://open.spotify.com/artist/7GODWUnXrH4l7ZLIP5sU0y) | [INTERNET OVERDOSE](https://open.spotify.com/album/154dtPfzmZGVpBo60JqfTP) | 3:40 |
+| 69 | [INTERNET OVERDOSE \(Anime version\)](https://open.spotify.com/track/4Uy0vcmh3TvbKZDERMxNIT) | [Aiobahn +81](https://open.spotify.com/artist/3Uyka21MjsQuDzxoOFgizr) | [INTERNET OVERDOSE \(Anime version\)](https://open.spotify.com/album/154dtPfzmZGVpBo60JqfTP) | 3:40 |
 | 70 | [グリズリーに襲われたら♡](https://open.spotify.com/track/4tjRvHjQu2fK8uEgXtjiTN) | [kamiyado](https://open.spotify.com/artist/2AWzGewZVrlcuI3DwbB84b) | [グリズリーに襲われたら♡](https://open.spotify.com/album/5tCrvG9qRJjqDsxaSLS9LK) | 4:06 |
 | 71 | [Bloom](https://open.spotify.com/track/2ezkOPL49H0ZrQYM6y328n) | [HANA](https://open.spotify.com/artist/7fmXV2O48buswss04YetaN) | [HANA](https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg) | 3:25 |
 | 72 | [バゥムクゥヘン・エンドロゥル](https://open.spotify.com/track/1lxynUwEgOxUTUm18PitpF) | [雨良](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl) | [バゥムクゥヘン・エンドロゥル](https://open.spotify.com/album/2a0rMNNzGFccHjjxI92pY3) | 2:24 |

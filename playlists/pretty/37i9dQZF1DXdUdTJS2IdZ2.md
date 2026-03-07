@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Sherman Zhuo
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190 likes - 116 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,191 likes - 116 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 4 | [I Always Knew](https://open.spotify.com/track/3795oPflx7wwOBKJC462ao) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [I Always Knew](https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi) | 3:42 |
 | 5 | [脫臼](https://open.spotify.com/track/71k1IujHr6qlDC4zvWb0i9) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [脫臼](https://open.spotify.com/album/0RQNWsIcqBrXaA6nUmjqN6) | 4:05 |
 | 6 | [SOUR GRAPE](https://open.spotify.com/track/2GgBQrVEjRoIvJO1SFaUA3) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr), [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [SOUR GRAPE](https://open.spotify.com/album/66CaiDuiDrxLpIiFKwEueS) | 1:56 |
-| 7 | [你過的好嗎](https://open.spotify.com/track/6L4jShPbcOEzb0l8rpRQm9) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [你過的好嗎](https://open.spotify.com/album/6sc1k4uoJYRpB70MX6zms4) | 3:19 |
+| 7 | [你過得好嗎](https://open.spotify.com/track/6L4jShPbcOEzb0l8rpRQm9) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [你過得好嗎](https://open.spotify.com/album/6sc1k4uoJYRpB70MX6zms4) | 3:19 |
 | 8 | [Heartless](https://open.spotify.com/track/5zMEQqxFB35pTNxvXsE83G) | [Midnight Blu](https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl) | [Heartless](https://open.spotify.com/album/7klC6J5LAzquUWwnYwJidt) | 2:56 |
 | 9 | [之間的距離](https://open.spotify.com/track/05bmLKGjAtOcNVRgxkbAr1) | [Quis](https://open.spotify.com/artist/5tBUXHMbwrbqysU0oTUP1P), [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj) | [之間的距離](https://open.spotify.com/album/2WFnneY5POlN31IQrAXNUj) | 4:24 |
 | 10 | [成熟大人](https://open.spotify.com/track/2l4i9CIGyHefP95tZB1f7Y) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [成熟大人](https://open.spotify.com/album/6ldVhyHtD7DCjxMLRChkzo) | 3:28 |

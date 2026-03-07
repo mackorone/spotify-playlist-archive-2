@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️<br/>cover: bella kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,314 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,317 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 69 | [CRACK!](https://open.spotify.com/track/0mt50jzA5xVZXBfnX9X5kJ) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [CRACK!](https://open.spotify.com/album/1zQlwzmdyeWoWM1z9nVNgF) | 3:42 |
 | 70 | [Maria's Problem](https://open.spotify.com/track/7xZFi4ynabOvC3aQsRGJEp) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Maria's Problem](https://open.spotify.com/album/4sXxrzKCKTaYDJOdFuZJoL) | 4:42 |
 
-Snapshot ID: `AAAAAHfwE6PP2EcPeY/quvrLUv53v6r9`
+Snapshot ID: `AAAAAKhRBceo7L5SODTw71r2mvyGS6P7`

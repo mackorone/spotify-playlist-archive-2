@@ -25252,7 +25252,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 258014,
       "name": "Milk",
       "url": "https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG"
@@ -37302,6 +37302,24 @@
       "duration_ms": 165250,
       "name": "TAKE IT SLOW",
       "url": "https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y"
+    },
+    {
+      "album": {
+        "name": "Will You Take Me As I Am?",
+        "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199983,
+      "name": "Take me as i am",
+      "url": "https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K"
     },
     {
       "album": {

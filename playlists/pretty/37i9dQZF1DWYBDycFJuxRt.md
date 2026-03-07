@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 嵐 \*👉 <a href="https://spice.eplus.jp/articles/344477">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,515 likes - 82 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,553 likes - 82 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 71 | [Nokoriga no Heyade](https://open.spotify.com/track/4r6UeqFPp7KxBY0J7aUuoE) | [猫は液体](https://open.spotify.com/artist/75sQ2KYzXjlE2xuBMOu1bp) | [Ushirogami wo Hikarete](https://open.spotify.com/album/62z61iTaSv0oExbPYVpMaF) | 5:33 |
 | 72 | [トラストフォール](https://open.spotify.com/track/2gye4ERAfgttO9sCm56AaJ) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [トラストフォール](https://open.spotify.com/album/2v83WTF5BbwwBxHMKXdovN) | 2:32 |
 | 73 | [春先](https://open.spotify.com/track/3n7ZTI2IGYzgCg0A1glrH3) | [AHUB](https://open.spotify.com/artist/3PlNRhsKLFl3TFw5IJIGTs) | [春先](https://open.spotify.com/album/2qvzOm47enJgOI8J0pUxGV) | 3:55 |
-| 74 | [Get Back](https://open.spotify.com/track/0jE4FRxlQD2Qw7BOKpaphM) | [カナイリョウタ](https://open.spotify.com/artist/73P92tkn9tgUnfhVFfGOzh) | [Get Back](https://open.spotify.com/album/41aSpa4SisAk7sW7CAdwh2) | 2:50 |
+| 74 | [Get Back](https://open.spotify.com/track/0jE4FRxlQD2Qw7BOKpaphM) | [CONNECTION](https://open.spotify.com/artist/5AdJjBuXW9YHZC3GdafHxM), [カナイリョウタ](https://open.spotify.com/artist/73P92tkn9tgUnfhVFfGOzh) | [Get Back](https://open.spotify.com/album/41aSpa4SisAk7sW7CAdwh2) | 2:50 |
 | 75 | [futari no hanashi](https://open.spotify.com/track/7fzqrh9UJ4cW7KY70rtdVq) | [おもかげ](https://open.spotify.com/artist/4LnTqxRKY11tPnw1FFFzE2) | [Omokage](https://open.spotify.com/album/6624kOEn5TNOfdozBmv0e8) | 4:11 |
 | 76 | [Get it, Get it](https://open.spotify.com/track/33y8n6DrkwKD2j5VjiDiDz) | [EMNW](https://open.spotify.com/artist/0TwqpQOStb1pMXxlGWFYxZ) | [EMNW](https://open.spotify.com/album/3TJUY15DuX2N2Klq9FcyEb) | 3:06 |
 | 77 | [PIGMONZ](https://open.spotify.com/track/3r81bTGZrIKKs0n3jDp0vY) | [PIGMONZ](https://open.spotify.com/artist/4CYC30F3AjPCohTfa4m2xL) | [PIGMONZ](https://open.spotify.com/album/5QcUKw8P8RNZyI5EFLCdkn) | 2:51 |

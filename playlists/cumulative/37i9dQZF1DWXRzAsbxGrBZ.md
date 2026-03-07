@@ -2,9 +2,9 @@
 
 ### [Deep House Session](https://open.spotify.com/playlist/37i9dQZF1DWXRzAsbxGrBZ)
 
-> Get revived with some of the best Deep House South Africa has to offer\. Cover: Buddynice
+> Get revived with some of the best Deep House South Africa has to offer\. Cover: Garth Brown
 
-370 songs - 1 day 18 hr 6 min
+372 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Awesome God \(feat\. Kabza De Small\)](https://open.spotify.com/track/6Sl97d6xi1FgBarJViL72d) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Beebar](https://open.spotify.com/artist/05tqZLNSU1rOOxsquPHNkV), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [The Gospel According To Artwork Sounds Chapter II](https://open.spotify.com/album/1HWMPbbketx6SyJJ81dZV0) | 7:18 | 2024-03-15 | 2024-04-19 |
 | [BAD GIRLS](https://open.spotify.com/track/7GWa68njpEiR0uN8cU0A2z) | [Fatso 98](https://open.spotify.com/artist/74bStQkp3goZ5lMZuG8JUr) | [THE XO EFFECT](https://open.spotify.com/album/60XGsGJPE77Xqtz2PExkaB) | 6:48 | 2025-02-21 |  |
 | [Bakulindele \- Extended Mix](https://open.spotify.com/track/5AoaeWtWGTTICPhMbiUFBF) | [Charles Webster](https://open.spotify.com/artist/4zMgFVljBxMaPn1U0SXGOh), [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Bakulindele](https://open.spotify.com/album/5gfX6L9OMQd3AuLqnEbV8s) | 6:58 | 2025-03-17 | 2025-04-11 |
+| [Banomona](https://open.spotify.com/track/67Ddv7uS5uLD5OOG231jQ7) | [George Lesley](https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL), [Kelvin Momo](https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v), [Russell Zuma](https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe) | [My Journey Continues](https://open.spotify.com/album/0cl66dryUl4y8GpCtlFmyt) | 6:44 | 2026-03-06 |  |
 | [BAUHAUS](https://open.spotify.com/track/2GkdG7gxUvbDxcaVPTmlQ2) | [TimAdeep](https://open.spotify.com/artist/2mpzr6IuZYCp2rEVr3JPgq) | [BAUHAUS](https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07) | 8:02 | 2022-09-14 | 2024-04-08 |
 | [Be My Muse, Be My Lover \- Radio Edit](https://open.spotify.com/track/6cNuDnfdbxZhb31dYdXJ0A) | [Pixie Bennett](https://open.spotify.com/artist/1faZnaE5zpdGdy1Nc1ouyH), [House Detox](https://open.spotify.com/artist/29QzX1h7auzoJBzKEebWAY) | [Lineage Of Soul](https://open.spotify.com/album/0fuJKtWtcCcVKcjlShKrkJ) | 3:46 | 2025-07-10 | 2025-08-08 |
 | [Be With You](https://open.spotify.com/track/3UzgIPm8LUwPVZ0g5Oqdx6) | [Ladi Adiosoul](https://open.spotify.com/artist/2hVkV8mF0AmOz8oy2xPexF), [MusiQ Monks](https://open.spotify.com/artist/6c2ks0OscQI8mhGLoyrSrX), [Brian Moshesh](https://open.spotify.com/artist/1dZmzoNIK2Qg3tMFEjHmZI), [Banele Bucks](https://open.spotify.com/artist/2f20GxrwF0VV7xHIJ4mhrG) | [Be With You](https://open.spotify.com/album/2HZRd4HImKfFcf2F8SUwDN) | 6:57 | 2025-02-27 | 2025-07-18 |
@@ -53,6 +54,7 @@
 | [Carnival City \(Groove Mix\)](https://open.spotify.com/track/69n405eeZn2tx6IHu97kNZ) | [Bhutlish](https://open.spotify.com/artist/3WHmMyp8tk8ZlavdQecrjh), [Citizen Sthee](https://open.spotify.com/artist/6YZptCuMUkBBUvj2sXdd8p) | [Carnival City \(Groove Mix\)](https://open.spotify.com/album/2X0nEmtJ0yRuRVLVENm8Ge) | 5:44 | 2025-08-21 |  |
 | [Casablanca \- Addictive Mix](https://open.spotify.com/track/2cFukSsSLfvUWuL613RiRX) | [Da Real Emkay](https://open.spotify.com/artist/3fCLla6NLpXvcKZ6GYZxmt) | [Just Another Tuesday](https://open.spotify.com/album/47uGYrIDZJV5eflDYQY264) | 7:30 | 2025-02-27 | 2025-07-18 |
 | [Cast \- Nostalgic Mix](https://open.spotify.com/track/3DBG5ziT8L6yUUnjSwtc9O) | [Keisha](https://open.spotify.com/artist/52dO4gX6rA8OLDpvPXXQuV), [The Godfathers Of Deep House SA](https://open.spotify.com/artist/0DTHMLPSmN9DLQdi0Di5ND) | [Pulse of the Wild](https://open.spotify.com/album/5UC06VjDsDxZMe2mKITbFn) | 7:32 | 2025-05-08 | 2025-05-31 |
+| [Chelete](https://open.spotify.com/track/4dh3JGb7alSIwoCsgwuLIz) | [Kek'star](https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4) | [White Label](https://open.spotify.com/album/2T0fkR33aVQ1S6BTKnahcL) | 6:01 | 2026-03-06 |  |
 | [Close to You](https://open.spotify.com/track/5BoKwlj0zVMVMsZAJCXfmO) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG), [SpheraQ](https://open.spotify.com/artist/3st3c9lOShlywDU01lnEEE) | [Pieces](https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m) | 6:36 | 2025-02-27 | 2025-07-18 |
 | [Comics \- Club Mix](https://open.spotify.com/track/0egddyjuTDjI5vXovOXG0P) | [Andy Keys](https://open.spotify.com/artist/5DrHquZcRH9wEDNPCXmCt7), [KingTouch](https://open.spotify.com/artist/19mB8PdWAm23SETJac3rOG) | [Maturo](https://open.spotify.com/album/3QzA2IsFBMCjThvKDxvS7H) | 6:15 | 2025-07-03 |  |
 | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/track/18TurB98aOL6s0bhPlI2uH) | [China Charmeleon](https://open.spotify.com/artist/78lHMaJ6xLbmwzkHOriPhZ), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP) | [Confident \(feat\. Kali Mija\)](https://open.spotify.com/album/0s5sUEzHMd8BGP46oCA2ck) | 7:43 | 2023-09-08 | 2024-04-19 |

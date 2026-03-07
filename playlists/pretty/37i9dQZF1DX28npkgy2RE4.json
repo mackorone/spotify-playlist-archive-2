@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 418764,
+  "num_followers": 418762,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -175,18 +175,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
       },
       "artists": [
         {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
         }
       ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -207,18 +207,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
         }
       ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "We Watch The Stars",
-        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
-      },
-      "artists": [
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
-        }
-      ],
-      "duration_ms": 225076,
-      "name": "We Watch The Stars - Berlin Session",
-      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desert Woman",
         "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "We Watch The Stars",
+        "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
+      },
+      "artists": [
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
+        }
+      ],
+      "duration_ms": 225076,
+      "name": "We Watch The Stars - Berlin Session",
+      "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
-      },
-      "artists": [
-        {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
-        }
-      ],
-      "duration_ms": 220970,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Hopeful",
         "url": "https://open.spotify.com/album/53jDVUiYTI5UpC7DGeJrdz"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 316360,
       "name": "Hopeful",
       "url": "https://open.spotify.com/track/6aU0EuAfSTb1FC1V8YJ0DV"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 220970,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Fish Pond Fish",
-        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "A Light On In The Dark",
-      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Porta",
         "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Fish Pond Fish",
+        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "A Light On In The Dark",
+      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "We Are Olympians",
-        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 297453,
-      "name": "Olympians - Acoustic",
-      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 297453,
+      "name": "Olympians - Acoustic",
+      "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Modern Woman",
-        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 204946,
-      "name": "Modern Woman",
-      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Star Nation",
         "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 246364,
       "name": "Star Nation",
       "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Modern Woman",
+        "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 204946,
+      "name": "Modern Woman",
+      "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "southwest serenade",
-        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
-      },
-      "artists": [
-        {
-          "name": "Story Slaughter",
-          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
-        }
-      ],
-      "duration_ms": 106250,
-      "name": "southwest serenade",
-      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "southwest serenade",
+        "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
+      },
+      "artists": [
+        {
+          "name": "Story Slaughter",
+          "url": "https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY"
+        }
+      ],
+      "duration_ms": 106250,
+      "name": "southwest serenade",
+      "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Mount Airy Hill (Way Gone)",
-        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 332533,
-      "name": "Mount Airy Hill (Way Gone)",
-      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
       },
@@ -1859,18 +1843,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Coast",
-        "url": "https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows"
+        "name": "Mount Airy Hill (Way Gone)",
+        "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
       },
       "artists": [
         {
-          "name": "Participant",
-          "url": "https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc"
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
         }
       ],
-      "duration_ms": 235543,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv"
+      "duration_ms": 332533,
+      "name": "Mount Airy Hill (Way Gone)",
+      "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1891,6 +1875,22 @@
       "duration_ms": 236032,
       "name": "Mouth (feat. Luke Krutzke)",
       "url": "https://open.spotify.com/track/0m9kuJ9oqrFggrKRSoUjHi"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Coast",
+        "url": "https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows"
+      },
+      "artists": [
+        {
+          "name": "Participant",
+          "url": "https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc"
+        }
+      ],
+      "duration_ms": 235543,
+      "name": "Coast",
+      "url": "https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Begin Again - EP",
         "url": "https://open.spotify.com/album/78GfKzBtwL7C9D7nWp31PN"
       },
@@ -2007,22 +2023,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
       },
@@ -2035,6 +2035,22 @@
       "duration_ms": 195106,
       "name": "Believe",
       "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Wilderness Within You",
+        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 230366,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2063,22 +2079,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Wilderness Within You",
-        "url": "https://open.spotify.com/album/0I0UeauEi5MwMKqlOMcFv2"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 230366,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld"
       },
@@ -2091,22 +2091,6 @@
       "duration_ms": 179893,
       "name": "Desire",
       "url": "https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Slice of Life",
-        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
-      },
-      "artists": [
-        {
-          "name": "Liz Cooper",
-          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
-        }
-      ],
-      "duration_ms": 283922,
-      "name": "Slice of Life",
-      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2139,6 +2123,22 @@
       "duration_ms": 173008,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Slice of Life",
+        "url": "https://open.spotify.com/album/0oAdL3ENxGGow7Fy0mWdoz"
+      },
+      "artists": [
+        {
+          "name": "Liz Cooper",
+          "url": "https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH"
+        }
+      ],
+      "duration_ms": 283922,
+      "name": "Slice of Life",
+      "url": "https://open.spotify.com/track/5oUr4PECM3gisd18Nwlrfr"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Ghosts",
-        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
-      },
-      "artists": [
-        {
-          "name": "Mapache",
-          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
-        }
-      ],
-      "duration_ms": 266961,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "On A Beach",
         "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
@@ -2243,6 +2227,22 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Ghosts",
+        "url": "https://open.spotify.com/album/0Lkw9hUe00gEwGCmfWc7ML"
+      },
+      "artists": [
+        {
+          "name": "Mapache",
+          "url": "https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO"
+        }
+      ],
+      "duration_ms": 266961,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/0Nb7ovuzVuAHZooHBpadpw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "First Prize Bravery",
-        "url": "https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "First Prize Bravery",
-      "url": "https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Coast is Waiting",
         "url": "https://open.spotify.com/album/4xX4BwmeS60sarX6Xl1uA3"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 219674,
       "name": "Coast is Waiting",
       "url": "https://open.spotify.com/track/3AiLVjiTCo3cgDXbe7hhmn"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "First Prize Bravery",
+        "url": "https://open.spotify.com/album/4z8OvPfkJLAlHjGy1b4hID"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "First Prize Bravery",
+      "url": "https://open.spotify.com/track/3pWoRUnu8w0GSjyu00Xp0L"
     },
     {
       "added_at": "2025-02-07 05:00:36",

@@ -4,7 +4,7 @@
 
 > Temukan beragam musik dari talenta segar dalam negri\. Cover: BILLKISS
 
-5,505 songs - 14 day 1 hr 11 min
+5,506 songs - 14 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3351,6 +3351,7 @@
 | [Nammu](https://open.spotify.com/track/0PuQj3E8SCUL9AGBY5zzzn) | [Helma Namira](https://open.spotify.com/artist/1xzJWprX9mAvTxIUbEaUS1) | [Nammu](https://open.spotify.com/album/0VM7XFt0MCwBhHlsxqBZYU) | 3:14 | 2023-09-07 | 2023-09-23 |
 | [Nanti](https://open.spotify.com/track/5moiXra9Zd84Aoa3e03oZZ) | [Nakei](https://open.spotify.com/artist/6QR5ebgmPLS9iSfBn5Dpns) | [Nanti](https://open.spotify.com/album/0C6p6vyRgKfem2GgxGyjCd) | 3:38 | 2025-12-23 | 2026-02-07 |
 | [Nanti](https://open.spotify.com/track/3L47GO1ctvmPHLubrkjq62) | [Sumringah](https://open.spotify.com/artist/47LZoHfRHIToxAVEpWpTgi) | [Nanti](https://open.spotify.com/album/2EvX3xpoGElixhwbc0kG8d) | 4:50 | 2022-04-21 | 2022-05-13 |
+| [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 | 2026-03-05 |  |
 | [NAPI](https://open.spotify.com/track/1HwqsWZSUspKdpDQjLvgzv) | [Snapmyos](https://open.spotify.com/artist/1h8lpbbWB71SzlXOCHCDFJ), [Marthinz BSG](https://open.spotify.com/artist/3fwBQS2JEVmzL7cq8pX7z0) | [NAPI](https://open.spotify.com/album/0zthkAS367LzgwiWxiTm4O) | 3:41 | 2025-01-16 | 2025-02-14 |
 | [Naraka](https://open.spotify.com/track/6DOCsGBPaIU5BYdJ3MdtRj) | [Jazeed](https://open.spotify.com/artist/7KL0E0rwZuLjkKzleQgzPq) | [Naraka](https://open.spotify.com/album/34Hi2x1TKagPQZMKAndi9T) | 3:42 | 2024-10-25 | 2024-11-22 |
 | [NASDUK](https://open.spotify.com/track/32eh0gSdyuZZUOJmnGtEpj) | [Wiradz Brothers](https://open.spotify.com/artist/6HsEyFmJj72HWzWNHF5hMH) | [NASDUK](https://open.spotify.com/album/3BP3cv0AznLodc3Q2kiMay) | 4:17 | 2022-06-23 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter
 
-688 songs - 1 day 18 hr 14 min
+689 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Be Still & Know](https://open.spotify.com/track/6c0EkhURXqbBVAcIegCF6u) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Be Still & Know](https://open.spotify.com/album/0KvQhfMy6sdMjh8SjPDZhZ) | 3:40 | 2022-02-25 | 2022-05-29 |
 | [Beauty Of The Lord](https://open.spotify.com/track/76NrsYcTrCXVxVlJ3Wz21s) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Cosmic Supreme](https://open.spotify.com/album/2FKITMZKvsHU1YNG2eUnsa) | 6:14 | 2025-04-11 | 2025-07-26 |
 | [Before I Knew Jesus](https://open.spotify.com/track/656oooz2McvWe0TezAzkDL) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Before I Knew Jesus](https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo) | 3:16 | 2022-10-01 | 2024-06-08 |
+| [belief](https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [belief](https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6) | 2:49 | 2026-02-27 |  |
 | [Believe](https://open.spotify.com/track/3mmje626OyRQhkMJvo6kiD) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Brighter Days](https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6) | 3:13 | 2022-02-25 | 2024-06-08 |
 | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/track/09VSG1KLDlanpc5o0TNRJE) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Believe For It \(feat\. Lauren Daigle\)](https://open.spotify.com/album/0SW2FDavoQoJG9kGftx2MW) | 5:38 | 2022-02-25 | 2022-04-23 |
 | [Believe On Jesus \(feat\. Zane Black\)](https://open.spotify.com/track/2PmOVuewThUgyTg7CpjIbA) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq), [Zane Black](https://open.spotify.com/artist/6820zXrv14B4wUqKiGWHTy) | [Jesus Music Deluxe](https://open.spotify.com/album/22269npvtP1J11HLRYouyG) | 4:10 | 2024-06-28 | 2025-05-24 |

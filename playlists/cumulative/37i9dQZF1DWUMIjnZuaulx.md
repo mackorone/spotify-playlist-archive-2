@@ -2,9 +2,9 @@
 
 ### [Spread the Gospel](https://open.spotify.com/playlist/37i9dQZF1DWUMIjnZuaulx)
 
-> Spread the Good News with the best Gospel songs of the moment\. Cover: John P\. Kee
+> Spread the Good News with the best Gospel songs of the moment\. Cover: Voices of Fire & Pharrell Williams
 
-761 songs - 2 day 16 hr 37 min
+762 songs - 2 day 16 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Anything but Fail](https://open.spotify.com/track/7cMMCxWyC4NQUI31lg8yVr) | [The Group Fire](https://open.spotify.com/artist/3txT8oRKvO8rnYXxn8lnSm) | [Anything but Fail](https://open.spotify.com/album/6vuieclSb9Y1FmxgUuTAVI) | 4:17 | 2022-04-08 | 2022-04-29 |
 | [Anyway \- Live](https://open.spotify.com/track/3klr7dov2vjJyjbakp7iDc) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Pastor Kim Burrell](https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 8:23 | 2022-09-16 | 2023-12-24 |
 | [Anyway \- Live](https://open.spotify.com/track/3ywRNCMXyD0U9ihiDuifMi) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp), [Pastor Kim Burrell](https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb) | 8:23 | 2023-12-15 | 2024-01-27 |
+| [ARMOR \(FEAT\. ZACARDI CORTEZ\)](https://open.spotify.com/track/4rHdX9H2xb4f0PoPDkSZVR) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [OPHANIM](https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5) | 4:19 | 2026-03-06 |  |
 | [Assurance](https://open.spotify.com/track/2c3QXk3TevN8r5MfgvtJhx) | [Every Nation Music](https://open.spotify.com/artist/0VPn67RlAzuYumaHw2hCw0) | [Assurance](https://open.spotify.com/album/3QW2rj6oQmCKkkTGKHsH6T) | 5:07 | 2024-11-08 | 2025-11-29 |
 | [At The Cross](https://open.spotify.com/track/72jFUmoipIJVLJLZmlqo1p) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW), [Kelontae Gavin](https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D), [Bryan Thompson](https://open.spotify.com/artist/4bX4YubxlrEGJlPv2oAmQE) | [Keep Hymns Alive Cross Songs](https://open.spotify.com/album/6oCaJbhtuQMIwfb5G0blzv) | 6:45 | 2024-08-16 | 2024-11-02 |
 | [At The Cross](https://open.spotify.com/track/2I7FJ9UTsIQebKUOSDM2AN) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [At The Cross](https://open.spotify.com/album/6NtgqCI8NjtEVO9BXR61ZE) | 3:39 | 2025-10-17 |  |
@@ -307,7 +308,7 @@
 | [I Love You](https://open.spotify.com/track/14eJGzC2IWvU1H4d1UzuZ9) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [I Love You](https://open.spotify.com/album/0DTgeOcvfktR1pOb5srzbG) | 3:33 | 2023-09-15 | 2024-11-02 |
 | [I Love You Lord](https://open.spotify.com/track/6vppF3PlYeIh2eWxee7Z18) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [I Love You Lord](https://open.spotify.com/album/58qYSDYv7H7xsoT8rAi5F7) | 9:15 | 2024-08-02 | 2025-01-11 |
 | [I Need You](https://open.spotify.com/track/2nzLEPs6k0gE8uofYbsQzi) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [I Need You](https://open.spotify.com/album/4qBCvFBc8p5b2XykdQuR7s) | 4:12 | 2023-02-03 | 2023-02-25 |
-| [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 |  |
+| [I Pray](https://open.spotify.com/track/3C5SLOcwE5hfBMVgolgJAK) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 1:43 | 2025-04-18 | 2026-03-07 |
 | [I Put You First \- Cut to the Chase Mix](https://open.spotify.com/track/6O2ByARPaLxmx0IQdGpoIB) | [Bryan Andrew Wilson](https://open.spotify.com/artist/1QgAQ6qXAMN1Gkxk0AEy7i) | [I Put You First \(Cut to the Chase Mix\)](https://open.spotify.com/album/3x2GVm3aDSThcZUatXi47H) | 3:45 | 2022-02-18 | 2022-07-09 |
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2022-11-04 | 2023-12-09 |
 | [I Remember \- Radio Version](https://open.spotify.com/track/0vDRJvlyfq8ep0JYaJ1dlh) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Forward City](https://open.spotify.com/artist/58bqbgcmYuTyHDGGkHbrFH) | [I Remember \(Radio Version\)](https://open.spotify.com/album/3SkfAOiIeJde2GwjAWTOBU) | 3:29 | 2023-07-07 | 2023-08-12 |

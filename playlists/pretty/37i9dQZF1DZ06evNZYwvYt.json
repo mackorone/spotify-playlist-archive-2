@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19830,
+  "num_followers": 19835,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAABW7XW0be3givbNgJ164zAp",
+  "snapshot_id": "aajHgAAAAABERHAWu/v/bNdr2bgTwP0e",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortaleza",
-        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 219240,
-      "name": "No Me Atrevo a Preguntar",
-      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 209200,
       "name": "Esfumar",
       "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fortaleza",
+        "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "No Me Atrevo a Preguntar",
+      "url": "https://open.spotify.com/track/7BTbrZ5iNXtxCrDzBB0CL8"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Asfixiar",
-      "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -699,22 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
-        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
+      "duration_ms": 218786,
+      "name": "Asfixiar",
+      "url": "https://open.spotify.com/track/6BELut3GHFznGKbftZC8qu"
     },
     {
       "added_at": null,
@@ -735,6 +715,26 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
+        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+        }
+      ],
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     },
     {
       "added_at": null,

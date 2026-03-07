@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Amor Entre Mujeres",
+        "url": "https://open.spotify.com/album/3BzDhIjGKNUR7yGXDdLsOg"
+      },
+      "artists": [
+        {
+          "name": "Grupo uno",
+          "url": "https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179870,
+      "name": "Amor Entre Mujeres",
+      "url": "https://open.spotify.com/track/7JoglzZ0cprbYPwCD5bf4f"
+    },
+    {
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -3856,7 +3874,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 256021,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz"

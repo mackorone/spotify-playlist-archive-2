@@ -4263,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/3zZM2kTSeOqo5eQioo0Sv6"
+      },
+      "artists": [
+        {
+          "name": "Tom Cavallaro",
+          "url": "https://open.spotify.com/artist/62irA0TSX5rlftJDFzKUAc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/04aBupoiZsm9duHKR5Qr93"
+    },
+    {
+      "album": {
         "name": "Fighting Love",
         "url": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3"
       },
@@ -6196,6 +6214,28 @@
       "duration_ms": 155730,
       "name": "I Believe In Miracles",
       "url": "https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh"
+    },
+    {
+      "album": {
+        "name": "I Can't Wait",
+        "url": "https://open.spotify.com/album/5BxB49zq4P3MiCEB4HokzF"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Kiesza",
+          "url": "https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148671,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3Udajvl5tdJY1RV9NPmTxe"
     },
     {
       "album": {
@@ -11131,6 +11171,24 @@
     },
     {
       "album": {
+        "name": "Powder Hour",
+        "url": "https://open.spotify.com/album/6AfsLqVMVP8xhSgwiziCza"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Powder Hour",
+      "url": "https://open.spotify.com/track/5XW6pzlCr6RJ6YZdMjLauL"
+    },
+    {
+      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/0GuJCkNlGgzfFeu7kRlqYw"
       },
@@ -13256,7 +13314,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 189003,
       "name": "Summer Lovin' - Edit",
       "url": "https://open.spotify.com/track/7q0vM8woumdTUt30GasolR"
@@ -13602,7 +13660,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160314,
       "name": "Tell Me What You Want",
       "url": "https://open.spotify.com/track/6MRUQNjaUud1TiFBRV8HNq"
@@ -14096,7 +14154,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180261,
       "name": "Ti Sento",
       "url": "https://open.spotify.com/track/5PcmvoBshN5YfFmU4uSXwd"

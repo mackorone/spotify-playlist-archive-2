@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 278346,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/44syVsiS6uTaLRDbr1QIfr"
@@ -2078,6 +2078,24 @@
       "duration_ms": 279933,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/6G1lPm5H051kZL5rJHvXEv"
+    },
+    {
+      "album": {
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279933,
+      "name": "Terrapin",
+      "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
     },
     {
       "album": {

@@ -1,13 +1,61 @@
 {
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Kenta204.\n",
-  "num_followers": 210333,
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring PITCHBLACK.\n",
+  "num_followers": 210422,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACZmxVuxkr2Ix6bAtwfD2MsbXFan",
+  "snapshot_id": "AAAAAHwRLMkVwnwR7mxa5JN1rIzbzGFY",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:15",
+      "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-03-05 04:25:05",
+      "album": {
+        "name": "House Is Gettin' Raw",
+        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "House Is Gettin' Raw",
+      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
+    },
+    {
+      "added_at": "2026-02-18 20:21:45",
+      "album": {
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+      },
+      "artists": [
+        {
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+        }
+      ],
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
     {
       "added_at": "2026-02-27 16:35:52",
       "album": {
@@ -45,52 +93,40 @@
       "url": "https://open.spotify.com/track/4kBK0q8pXP41R1GczinXq9"
     },
     {
-      "added_at": "2026-02-18 20:21:45",
+      "added_at": "2026-03-06 05:00:15",
       "album": {
-        "name": "Every Storm Hardens The Earth (Mixtape)",
-        "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
+        "name": "BD Baile",
+        "url": "https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy"
       },
       "artists": [
         {
-          "name": "Kenta204",
-          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
         }
       ],
-      "duration_ms": 167108,
-      "name": "Every Storm Hardens The Earth",
-      "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
+      "duration_ms": 108945,
+      "name": "BD Baile",
+      "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
     },
     {
       "added_at": "2026-03-05 04:25:05",
       "album": {
-        "name": "DREAM",
-        "url": "https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl"
+        "name": "Triple Threat",
+        "url": "https://open.spotify.com/album/5qdvmo829ORMmbvRvHpPN8"
       },
       "artists": [
         {
-          "name": "V. Christie",
-          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
-        }
-      ],
-      "duration_ms": 263978,
-      "name": "DREAM",
-      "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
-    },
-    {
-      "added_at": "2026-02-18 20:21:45",
-      "album": {
-        "name": "Loverr",
-        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
-      },
-      "artists": [
+          "name": "Lokal",
+          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
+        },
         {
-          "name": "Human Family",
-          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+          "name": "Fake Two Piece",
+          "url": "https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya"
         }
       ],
-      "duration_ms": 200761,
-      "name": "Loverr",
-      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+      "duration_ms": 209142,
+      "name": "Triple Threat",
+      "url": "https://open.spotify.com/track/3iBn6LD2StVvA9eMpaab2d"
     },
     {
       "added_at": "2026-02-26 18:54:06",
@@ -131,22 +167,6 @@
     {
       "added_at": "2026-03-05 04:25:05",
       "album": {
-        "name": "House Is Gettin' Raw",
-        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
-      },
-      "artists": [
-        {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "House Is Gettin' Raw",
-      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
-    },
-    {
-      "added_at": "2026-03-05 04:25:05",
-      "album": {
         "name": "We Bump",
         "url": "https://open.spotify.com/album/0dtMXCtB4H96GuzCIpvH6M"
       },
@@ -159,6 +179,58 @@
       "duration_ms": 211071,
       "name": "We Bump",
       "url": "https://open.spotify.com/track/0ycX5qVMMoi6kS4j8Cxcl3"
+    },
+    {
+      "added_at": "2026-03-05 04:25:05",
+      "album": {
+        "name": "DREAM",
+        "url": "https://open.spotify.com/album/6eY2K479XOyF57yyf7u4wl"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "duration_ms": 263978,
+      "name": "DREAM",
+      "url": "https://open.spotify.com/track/3Gv4iRTcFcDJ3n12vCyWst"
+    },
+    {
+      "added_at": "2026-02-26 18:54:06",
+      "album": {
+        "name": "Everybody",
+        "url": "https://open.spotify.com/album/0wO7jlEeVdkKoB1unZAHbh"
+      },
+      "artists": [
+        {
+          "name": "Polezsky",
+          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
+        },
+        {
+          "name": "Kang Brul\u00e8e",
+          "url": "https://open.spotify.com/artist/5ZeHRvCKe43tfiVYy7w7Sj"
+        }
+      ],
+      "duration_ms": 227337,
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
+    },
+    {
+      "added_at": "2026-03-06 19:48:23",
+      "album": {
+        "name": "Interlude EP",
+        "url": "https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B"
+      },
+      "artists": [
+        {
+          "name": "Vlad",
+          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
+        }
+      ],
+      "duration_ms": 219067,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
     },
     {
       "added_at": "2026-01-23 05:00:26",
@@ -181,44 +253,20 @@
       "url": "https://open.spotify.com/track/2H6CCiKG6pEQm6mPEmNSsf"
     },
     {
-      "added_at": "2026-03-05 04:25:05",
+      "added_at": "2026-02-18 20:21:45",
       "album": {
-        "name": "Triple Threat",
-        "url": "https://open.spotify.com/album/5qdvmo829ORMmbvRvHpPN8"
+        "name": "Every Storm Hardens The Earth (Mixtape)",
+        "url": "https://open.spotify.com/album/5D5FYq24LxVsuxFUxwl9TR"
       },
       "artists": [
         {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        },
-        {
-          "name": "Fake Two Piece",
-          "url": "https://open.spotify.com/artist/27IFgyXx2g8s6PP7a6LDya"
+          "name": "Kenta204",
+          "url": "https://open.spotify.com/artist/5O1nHiByecjAQqqsafaalC"
         }
       ],
-      "duration_ms": 209142,
-      "name": "Triple Threat",
-      "url": "https://open.spotify.com/track/3iBn6LD2StVvA9eMpaab2d"
-    },
-    {
-      "added_at": "2026-02-26 18:54:06",
-      "album": {
-        "name": "Everybody",
-        "url": "https://open.spotify.com/album/0wO7jlEeVdkKoB1unZAHbh"
-      },
-      "artists": [
-        {
-          "name": "Polezsky",
-          "url": "https://open.spotify.com/artist/7qbUBlb8FSSWMqypKleqAL"
-        },
-        {
-          "name": "Kang Brul\u00e8e",
-          "url": "https://open.spotify.com/artist/5ZeHRvCKe43tfiVYy7w7Sj"
-        }
-      ],
-      "duration_ms": 227337,
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2nWpOoHMnIDHeK7CTnx7VG"
+      "duration_ms": 167108,
+      "name": "Every Storm Hardens The Earth",
+      "url": "https://open.spotify.com/track/6wcDuE4G7aZImtk4oigzsP"
     },
     {
       "added_at": "2026-02-26 18:54:06",
@@ -827,22 +875,6 @@
       "duration_ms": 132026,
       "name": "GET WHAT I WANT",
       "url": "https://open.spotify.com/track/4g5eIUBlJu0kDKoczE8fsW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:17",
-      "album": {
-        "name": "BOARD SHORTS EP",
-        "url": "https://open.spotify.com/album/05YQ0zn8KYeUm8DuJjKxpd"
-      },
-      "artists": [
-        {
-          "name": "Hyan",
-          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
-        }
-      ],
-      "duration_ms": 325454,
-      "name": "BOARD SHORTS",
-      "url": "https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL"
     },
     {
       "added_at": "2026-02-06 05:00:44",
@@ -1455,38 +1487,6 @@
       "duration_ms": 239066,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/6rlamVUaw3gEWMSI5BKjNH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
-        "name": "Fade Into The Morning Light",
-        "url": "https://open.spotify.com/album/0GREH05xopggg900XInMwI"
-      },
-      "artists": [
-        {
-          "name": "Hatiras",
-          "url": "https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO"
-        }
-      ],
-      "duration_ms": 172380,
-      "name": "Fade Into the Morning Light - Radio Edit",
-      "url": "https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr"
-    },
-    {
-      "added_at": "2026-01-15 15:31:15",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2MnNjWYjz7gqNSEzzKNlXv"
-      },
-      "artists": [
-        {
-          "name": "Headrow",
-          "url": "https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx"
-        }
-      ],
-      "duration_ms": 139345,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx"
     },
     {
       "added_at": "2026-01-15 15:31:15",

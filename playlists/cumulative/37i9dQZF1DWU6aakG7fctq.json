@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: Let\u00f3n P\u00e9",
+  "description": "Fresh Latin Indie you should know. Cover: maye",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161086,
       "name": "15 de enero",
       "url": "https://open.spotify.com/track/3apQ07OXsYPymxuzUYENus"
@@ -1289,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "Amor, qu\u00e9 ha pasado?",
+        "url": "https://open.spotify.com/album/3RPdqKsPPaQzfLG2lUDMhC"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Amor, qu\u00e9 ha pasado?",
+      "url": "https://open.spotify.com/track/4Kd8vIdaX6ffEQQRUkvS0H"
+    },
+    {
+      "album": {
         "name": "Amor.illo",
         "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
       },
@@ -1940,7 +1958,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160500,
       "name": "Bachata para un feo",
       "url": "https://open.spotify.com/track/2hLOqY9RIZM5D0ph1PKTNs"
@@ -2056,6 +2074,24 @@
       "duration_ms": 211080,
       "name": "Barco",
       "url": "https://open.spotify.com/track/4JWh5Yf0xRs4LOSeXEpAbS"
+    },
+    {
+      "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
     },
     {
       "album": {
@@ -2943,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "consuelo",
+        "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "cari\u00f1o",
+      "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
+    },
+    {
+      "album": {
         "name": "Tender Epoch",
         "url": "https://open.spotify.com/album/5WZSADIfCSEWZdeaiHjQ93"
       },
@@ -3262,6 +3316,24 @@
       "duration_ms": 159488,
       "name": "Cholao",
       "url": "https://open.spotify.com/track/5MyyRPOM5OT3jpOvdEXuKN"
+    },
+    {
+      "album": {
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243541,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA"
     },
     {
       "album": {
@@ -4162,6 +4234,24 @@
       "duration_ms": 162774,
       "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
       "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "album": {
+        "name": "C\u00d3MO EST\u00c1S?",
+        "url": "https://open.spotify.com/album/4OODtfEHJd6SQqPgkuV2tE"
+      },
+      "artists": [
+        {
+          "name": "Michelle De La Vega",
+          "url": "https://open.spotify.com/artist/1dtF5uyTprS6J9MeJXbvj9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192924,
+      "name": "C\u00d3MO EST\u00c1S?",
+      "url": "https://open.spotify.com/track/39fSx5r5LN4E0KKmJC7qCz"
     },
     {
       "album": {
@@ -7317,6 +7407,24 @@
     },
     {
       "album": {
+        "name": "GARRA",
+        "url": "https://open.spotify.com/album/1lFNzTUDGpP6E3gO0xvyij"
+      },
+      "artists": [
+        {
+          "name": "Sienna",
+          "url": "https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154635,
+      "name": "GARRA",
+      "url": "https://open.spotify.com/track/2TYas8I2Wt5I3G0cz1me1b"
+    },
+    {
+      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/7Jai8njio3jGUOtrH0fLuI"
       },
@@ -8952,6 +9060,24 @@
       "duration_ms": 163200,
       "name": "LA MOLINA",
       "url": "https://open.spotify.com/track/5KUoS5Kqhnvk39feoFxD3v"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "album": {
@@ -12758,7 +12884,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205258,
       "name": "no es para mi",
       "url": "https://open.spotify.com/track/6YSEC506b56RI5jpVPR9Wi"
@@ -12900,6 +13026,24 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "album": {
+        "name": "no pienses que me da igual",
+        "url": "https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158261,
+      "name": "no pienses que me da igual",
+      "url": "https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei"
     },
     {
       "album": {
@@ -16386,7 +16530,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161984,
       "name": "SABES QU\u00c9???",
       "url": "https://open.spotify.com/track/2lmm2IkjMRbZPnsDBb4WMd"
@@ -17186,7 +17330,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186446,
       "name": "Soleado",
       "url": "https://open.spotify.com/track/23uYtFeFZrQJA4wgjuOozL"
@@ -18748,7 +18892,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 208275,
       "name": "tocando",
       "url": "https://open.spotify.com/track/00BgZZQ8zvHNoyb5vmlmYo"
@@ -19136,7 +19280,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156426,
       "name": "tqm <3",
       "url": "https://open.spotify.com/track/1fUykOjW543mgut3D5fwjG"
@@ -21232,7 +21376,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 168000,
       "name": "\u02d6\u207a\u2027\u208a\u02da \u2661 Sentimental \u2661 \u02da\u208a\u2027\u207a\u02d6",
       "url": "https://open.spotify.com/track/5JJ3mbjr0yKfxGPcKrv42B"

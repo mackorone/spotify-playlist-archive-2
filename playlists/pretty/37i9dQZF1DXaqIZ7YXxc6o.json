@@ -1,12 +1,12 @@
 {
-  "description": "Your weekly dose of new dance. Cover: Harry Hayes\n",
-  "num_followers": 148557,
+  "description": "Your weekly dose of new dance. Cover: Baby Rexha",
+  "num_followers": 148580,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG5njEv8mM70rRg5joZdksTN+dLm",
+  "snapshot_id": "AAAAAJ13KH20iWo1O6dETAHX1TvF35kW",
   "tracks": [
     {
       "added_at": "2026-03-05 13:00:11",
@@ -16,17 +16,37 @@
       },
       "artists": [
         {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        },
-        {
           "name": "Dom Dolla",
           "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
         }
       ],
       "duration_ms": 189179,
       "name": "Addicted To Bass - Dom Dolla Relapse",
       "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-03-05 13:00:11",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
       "added_at": "2026-03-05 13:00:11",

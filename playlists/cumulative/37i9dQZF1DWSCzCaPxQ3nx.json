@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Mazal Souvenir Andi",
+        "url": "https://open.spotify.com/album/7pF4Qe1f9Ti4q6SwzEbqMZ"
+      },
+      "artists": [
+        {
+          "name": "Cheb Hasni",
+          "url": "https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337037,
+      "name": "TAL GHIYABEK TA GHOZALI",
+      "url": "https://open.spotify.com/track/3y8vvqfilLpokyO7IC9IiO"
+    },
+    {
+      "album": {
         "name": "Le Roi De La Chanson Sentimentale",
         "url": "https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA"
       },

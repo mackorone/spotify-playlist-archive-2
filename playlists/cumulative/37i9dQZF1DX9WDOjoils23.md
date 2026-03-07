@@ -4,7 +4,7 @@
 
 > Your favorite Punjabi Ghazals and Qawwalis\. Cover: Satinder Sartaaj
 
-107 songs - 12 hr 50 min
+108 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/track/4kxI1XJtu7ftTRsvM4kmEj) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV), [Beat Minister](https://open.spotify.com/artist/5qQVMvDtASDmERUI9LlbgH) | [Chhadd Balle Balle Nu \(From "Hoshiar Singh"\)](https://open.spotify.com/album/5m9hCPOrY8zgLUOFlbGKza) | 3:08 | 2025-02-01 | 2026-02-18 |
 | [Churi](https://open.spotify.com/track/5cxVEgRGbZkISmLWsAkOhz) | [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Naina De Buhe](https://open.spotify.com/album/2c3w6QpLxtDPls6IXyYRDp) | 6:00 | 2025-07-03 |  |
 | [Das Kee Milia Ea](https://open.spotify.com/track/56ByUNq7ZRqyyMEu52UFVX) | [Abid Ali Abid](https://open.spotify.com/artist/2qAa4xDmS5pcvAhtGRfPYI) | [Punjabi Mehfil, Vol\. 5](https://open.spotify.com/album/3khIKYCgLEFGM6icCPToUa) | 12:03 | 2023-02-15 | 2025-05-29 |
+| [Dil Nu](https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5) | [Sukhjinder Alfaaz](https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5) | [Dil Nu](https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW) | 4:31 | 2026-03-06 |  |
 | [Duma Dum Mast Qalandar](https://open.spotify.com/track/02c0dOVxkBAHXP8nxFsgKB) | [Hans Raj Hans](https://open.spotify.com/artist/7967TUOaS203OMlBrsHS8X) | [The Best of Hans Raj Hans](https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK) | 8:52 | 2025-05-13 |  |
 | [DUMA DUM MAST QALANDER \- Rebooted & Revved Up](https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU) | [Master Saleem](https://open.spotify.com/artist/0BEr6nvOOHQMy53md08n9Y), [Hashmat Sultana](https://open.spotify.com/artist/6ez5nZKCRO9HY08CWrHZok) | [DUMA DUM MAST QALANDER \(Rebooted & Revved Up\)](https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI) | 4:09 | 2025-04-08 |  |
 | [Eh Mera Geet Kise Na Gaana](https://open.spotify.com/track/1AaLeN0tyvv268Y2YG0HOS) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Great Poet \- Shiv Kumar Batalvi](https://open.spotify.com/album/3QpOx3PDrq1G0MuUodxjQy) | 2:43 | 2025-05-13 | 2025-08-29 |
@@ -48,7 +49,7 @@
 | [Jaan Kadh Layee Aa Beimana](https://open.spotify.com/track/02x9Iqu6YKsYIdqVjChg9x) | [Afshan](https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO) | [Punjabi Mehfil](https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu) | 4:25 | 2024-04-24 | 2024-07-11 |
 | [Jadon Kadi Tainu Mera Pyar Satavega](https://open.spotify.com/track/4IlIKBWyN3gQolyg6ZsdWK) | [Gulam Ali](https://open.spotify.com/artist/5BAwVnj972uTgQHH5DI8qi) | [Tu Hi Mera Dil Luteya](https://open.spotify.com/album/32HisT2mFnShBmFGtLamXZ) | 7:05 | 2023-02-15 | 2025-05-14 |
 | [Jhaleya](https://open.spotify.com/track/2SqzHPZJkWqeiQaTKvVHK6) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [Ustaad Dildar Hussian](https://open.spotify.com/artist/7Khc0BFNH1WcQfn1QfrEbN) | [She Loves Me, She Loves Me Not...](https://open.spotify.com/album/52LycdTcLfQ7fusg8XKXs9) | 6:19 | 2025-02-27 | 2025-04-09 |
-| [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 | 2023-12-18 |  |
+| [Jo Tere Gham Nu](https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [The Most Sad Songs](https://open.spotify.com/album/60SeyXXalnr8jNzxYgGBJi) | 5:12 | 2023-12-18 | 2026-03-07 |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/7q43b3xrnGZJ4OJ8nbAVCL) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Punjab, Vol\. 1](https://open.spotify.com/album/6XJp6WcN6Y3Z4pGJshsSdV) | 5:12 | 2023-02-15 | 2023-09-29 |
 | [Jo Tere Gham Nu](https://open.spotify.com/track/2K3UgM88aTk52ZqMPW7qAF) | [Surinder Kaur](https://open.spotify.com/artist/5fucIZfxk9a3qSYc5nMkVC) | [Golden Voice of Punjab](https://open.spotify.com/album/4ikiTmyjDT7NSdCG6UpPZm) | 5:12 | 2023-09-04 | 2024-04-19 |
 | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/track/4y0HMpAmZMMZYr9f44FHv6) | [Raman Kapoor](https://open.spotify.com/artist/24G6ZqD5Ia9B402pUd0ePh) | [Jugni Kehndi Aa \| Folk & Rock](https://open.spotify.com/album/5BmWoNx2ItokOGwEmfP0ta) | 3:10 | 2025-02-21 | 2025-03-01 |

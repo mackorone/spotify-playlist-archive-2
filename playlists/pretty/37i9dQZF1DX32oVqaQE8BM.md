@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,545 likes - 185 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,621 likes - 185 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,4 +194,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 184 | [under water](https://open.spotify.com/track/2CfvtzLblpnUl1n4Uzz5Rn) | [super8memory](https://open.spotify.com/artist/2ICYFkqo3OruO1QlpBzV8C) | [under water](https://open.spotify.com/album/75cnPM0ljMuhdcUfma695x) | 2:08 |
 | 185 | [Organics](https://open.spotify.com/track/3gAjJQh87hW5RaXyxG8xaH) | [Comfykids](https://open.spotify.com/artist/755IegiHaN6XOu548LkDf2) | [Organics](https://open.spotify.com/album/60280VPItm1mMa8W8IOVfU) | 2:40 |
 
-Snapshot ID: `AAAAAGivv5/4/Fdurnh3eQADhaJkG9Pb`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

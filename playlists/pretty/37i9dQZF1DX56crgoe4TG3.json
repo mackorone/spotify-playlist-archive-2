@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284303,
+  "num_followers": 284362,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Cowboy Take Me Away",
+        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Cowboy Take Me Away",
+      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
         "url": "https://open.spotify.com/album/6sAcLktZfPlaSfI6asWalH"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Cowboy Take Me Away",
-        "url": "https://open.spotify.com/album/1aobWPjcsTxSPjYpPXTTBm"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Cowboy Take Me Away",
-      "url": "https://open.spotify.com/track/5HC6lFC1d2fybqJxUJCDeX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -543,6 +543,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Stuck in the Middle With You",
+        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
+      },
+      "artists": [
+        {
+          "name": "Jaelee Roberts",
+          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Stuck in the Middle With You",
+      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Stuck in the Middle With You",
-        "url": "https://open.spotify.com/album/5lS3mzx7dLrsbjVBwG2YTH"
-      },
-      "artists": [
-        {
-          "name": "Jaelee Roberts",
-          "url": "https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Stuck in the Middle With You",
-      "url": "https://open.spotify.com/track/1GygrGGa5Hnuljz88R7z7x"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Five For Silver",
-        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
-      },
-      "artists": [
-        {
-          "name": "Bella White",
-          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Luxury Liner",
-      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Up On The Ridge",
         "url": "https://open.spotify.com/album/5tDrY2EsPJ3ynm5Pg5udMQ"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 249213,
       "name": "Pride (In The Name Of Love)",
       "url": "https://open.spotify.com/track/72y0DVZTTIyioNQu358c9G"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Five For Silver",
+        "url": "https://open.spotify.com/album/2o9tYQIhHHLq0YqsTQU4Qr"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "duration_ms": 198913,
+      "name": "Luxury Liner",
+      "url": "https://open.spotify.com/track/2m8kGp1qrmUBqQCwMgylYw"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Verry Garcia",
-        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
-      },
-      "artists": [
-        {
-          "name": "Chicken Wire Empire",
-          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
-        }
-      ],
-      "duration_ms": 302720,
-      "name": "Friend of the Devil",
-      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "The Very Best Yet (The Very Best Yet Version)",
         "url": "https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 218091,
       "name": "Can't Feel My Face - The Very Best Yet Version",
       "url": "https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Verry Garcia",
+        "url": "https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt"
+      },
+      "artists": [
+        {
+          "name": "Chicken Wire Empire",
+          "url": "https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm"
+        }
+      ],
+      "duration_ms": 302720,
+      "name": "Friend of the Devil",
+      "url": "https://open.spotify.com/track/3dATBi29oygrDF033WG1pH"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Rich Girl",
+        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 230454,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Make Me Stay or Make Me Go",
         "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Rich Girl",
-        "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
+        "name": "The DeLorean Sisters",
+        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
       },
       "artists": [
         {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+          "name": "The DeLorean Sisters",
+          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
         }
       ],
-      "duration_ms": 230454,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+      "duration_ms": 209895,
+      "name": "Take on Me",
+      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1207,22 +1223,6 @@
       "duration_ms": 184773,
       "name": "You Can Close Your Eyes",
       "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "The DeLorean Sisters",
-        "url": "https://open.spotify.com/album/58d4qk0mMIiWLlIxFAZK0E"
-      },
-      "artists": [
-        {
-          "name": "The DeLorean Sisters",
-          "url": "https://open.spotify.com/artist/5ZvTKfngMbuI3sFLv9mdfE"
-        }
-      ],
-      "duration_ms": 209895,
-      "name": "Take on Me",
-      "url": "https://open.spotify.com/track/2w0YouPU8m4o847GCgweTK"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
-      },
-      "artists": [
-        {
-          "name": "Craig Duncan",
-          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
-        }
-      ],
-      "duration_ms": 223005,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/2EF09Y1t1UWXgnH0XFF0QN"
+      },
+      "artists": [
+        {
+          "name": "Craig Duncan",
+          "url": "https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t"
+        }
+      ],
+      "duration_ms": 223005,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/3Ai4dzcqxJi7tZInKN5SbR"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fire and Rain",
+        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 213366,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Elderly Woman Behind the Counter in a Small Town",
         "url": "https://open.spotify.com/album/4iiZRBXts873qS2KaWEXNg"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 396516,
       "name": "Me and Bobby McGee (2024 Mix)",
       "url": "https://open.spotify.com/track/7j7j5Mg6SLEXxsHA2qQ3wh"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fire and Rain",
-        "url": "https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 213366,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Hits of Newgrass",
-        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Fistful Of Bullets",
         "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 271753,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Born At The Right Time",
-        "url": "https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq"
+        "name": "Linger",
+        "url": "https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP"
       },
       "artists": [
         {
-          "name": "Chris Roberts",
-          "url": "https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr"
+          "name": "Aine Burns",
+          "url": "https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz"
         }
       ],
-      "duration_ms": 288986,
-      "name": "Born At The Right Time",
-      "url": "https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf"
+      "duration_ms": 268800,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY"
     }
   ],
   "unique_name": "Bluegrass Covers",

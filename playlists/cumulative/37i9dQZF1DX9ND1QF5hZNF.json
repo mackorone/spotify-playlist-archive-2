@@ -1841,6 +1841,24 @@
     },
     {
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/5BYecEbVIhUat2bObukNdk"
+      },
+      "artists": [
+        {
+          "name": "Aaron Decay",
+          "url": "https://open.spotify.com/artist/6kOwpxAcJPhBWLJhsjiVXi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171562,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/5KKTvEQ4u9DwT2vKUeRDJ7"
+    },
+    {
+      "album": {
         "name": "Electric Feel",
         "url": "https://open.spotify.com/album/29BVrWf0PVRv70xlUbfjhr"
       },
@@ -2496,6 +2514,24 @@
       "duration_ms": 196572,
       "name": "Grass Is Greener (feat. SEM)",
       "url": "https://open.spotify.com/track/1lvwGOKo5nT6W4wajlVCVu"
+    },
+    {
+      "album": {
+        "name": "gravity",
+        "url": "https://open.spotify.com/album/5Qix5py1APgc81jMkA9uTd"
+      },
+      "artists": [
+        {
+          "name": "all things break",
+          "url": "https://open.spotify.com/artist/7krmtqHJ8N1fg1JkjlrP0P"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230137,
+      "name": "gravity",
+      "url": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
     },
     {
       "album": {
@@ -3950,6 +3986,28 @@
       "duration_ms": 142228,
       "name": "Mad World",
       "url": "https://open.spotify.com/track/2HdsjF5PGHPllVTSpjg4zJ"
+    },
+    {
+      "album": {
+        "name": "Madan",
+        "url": "https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Thanda Choir",
+          "url": "https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145453,
+      "name": "Madan",
+      "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
     },
     {
       "album": {
@@ -7256,6 +7314,24 @@
       "duration_ms": 180000,
       "name": "Tough",
       "url": "https://open.spotify.com/track/242hOAZMsuRJrg8KbPjptV"
+    },
+    {
+      "album": {
+        "name": "Tout donner",
+        "url": "https://open.spotify.com/album/13W5barXsd8Fc9Ck4yOVIR"
+      },
+      "artists": [
+        {
+          "name": "L.B. One",
+          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169848,
+      "name": "Tout donner",
+      "url": "https://open.spotify.com/track/4hxfDyKM72KGZfJWmbOKwV"
     },
     {
       "album": {

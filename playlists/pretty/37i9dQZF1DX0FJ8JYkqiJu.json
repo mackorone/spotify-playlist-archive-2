@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 415600,
+  "num_followers": 415603,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -363,30 +363,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "starlight feat. Madeline Follin",
-        "url": "https://open.spotify.com/album/1LNQmhGkCcRPaIPztgxpa1"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "wes mills",
-          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
-        },
-        {
-          "name": "Madeline Follin",
-          "url": "https://open.spotify.com/artist/112e5Jq3aZIrvBPAr0rHvD"
-        }
-      ],
-      "duration_ms": 186052,
-      "name": "starlight feat. Madeline Follin",
-      "url": "https://open.spotify.com/track/4b5lTNgZ56zfdj1CqteLpu"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -411,22 +387,26 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
+        "name": "starlight feat. Madeline Follin",
+        "url": "https://open.spotify.com/album/1LNQmhGkCcRPaIPztgxpa1"
       },
       "artists": [
         {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        },
+        {
+          "name": "Madeline Follin",
+          "url": "https://open.spotify.com/artist/112e5Jq3aZIrvBPAr0rHvD"
         }
       ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
+      "duration_ms": 186052,
+      "name": "starlight feat. Madeline Follin",
+      "url": "https://open.spotify.com/track/4b5lTNgZ56zfdj1CqteLpu"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -447,18 +427,22 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
       "artists": [
         {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -499,6 +483,22 @@
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Secret Life",
         "url": "https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 320533,
       "name": "Cmon",
       "url": "https://open.spotify.com/track/4kaiSmJrLgQq0w2qFuzAwy"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
-      },
-      "artists": [
-        {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
-        }
-      ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 242376,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Weightless",
-        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 222701,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "State Of Mind",
         "url": "https://open.spotify.com/album/3l1Cs2OVHkj5aLiFHyOlDg"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 279120,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 222701,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3ZDr3LJNCHailBSkpc29SF"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -927,6 +927,26 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
+        "name": "Believe Me",
+        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
+      },
+      "artists": [
+        {
+          "name": "Gavin Moss",
+          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
+        },
+        {
+          "name": "RUSSI",
+          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
+        }
+      ],
+      "duration_ms": 151025,
+      "name": "Believe Me",
+      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
         "name": "Into Dust (Still Falling)",
         "url": "https://open.spotify.com/album/407vGRsnaFAEBtYFRNsid0"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 264614,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "Believe Me",
-        "url": "https://open.spotify.com/album/6i1Dtvr2JMEj0j2LWStl97"
-      },
-      "artists": [
-        {
-          "name": "Gavin Moss",
-          "url": "https://open.spotify.com/artist/6bTG3OP5laBeEb27xgfoqT"
-        },
-        {
-          "name": "RUSSI",
-          "url": "https://open.spotify.com/artist/4fbgLD2fbdRhL5bwUwPj4U"
-        }
-      ],
-      "duration_ms": 151025,
-      "name": "Believe Me",
-      "url": "https://open.spotify.com/track/4K4k0W1iJmIhyuHIcHSnQH"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 242239,
       "name": "Baby Blue (feat. Oliver Sim)",
       "url": "https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "The Panorama Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 360299,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Another Touch",
-        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 225301,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Telos",
         "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
@@ -1219,22 +1199,22 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+        "name": "Another Touch",
+        "url": "https://open.spotify.com/album/2Wfg7CEgt00tX1SSwauvYR"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
         },
         {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
         }
       ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
+      "duration_ms": 225301,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/3IadEIThECdcKc8r3ILlqW"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1255,6 +1235,26 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "added_at": "2026-02-06 03:00:01",

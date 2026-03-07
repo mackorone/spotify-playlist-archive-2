@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing SOSA",
-  "num_followers": 73770,
+  "num_followers": 73811,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA9A4BT9SxMvmtz3Pi9WSa5646GV",
+  "snapshot_id": "AAAAABft5lPgwsUrFGcm4FRWuyaieA/p",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:42",
@@ -23,6 +23,74 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW"
+      },
+      "artists": [
+        {
+          "name": "Tomike",
+          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
+        }
+      ],
+      "duration_ms": 143808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Face Your Fear EP",
+        "url": "https://open.spotify.com/album/0XMhm8QmEQCQwRC90N5FKU"
+      },
+      "artists": [
+        {
+          "name": "Sidney Charles",
+          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
+        }
+      ],
+      "duration_ms": 219354,
+      "name": "Face Your Fear",
+      "url": "https://open.spotify.com/track/4HTD64x2NstZsK1su3OFd6"
+    },
+    {
+      "added_at": "2026-03-04 00:37:47",
+      "album": {
+        "name": "Respect Yourself",
+        "url": "https://open.spotify.com/album/6v0RbMBfv58naH6Pmv51si"
+      },
+      "artists": [
+        {
+          "name": "Boss Priester",
+          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
+        }
+      ],
+      "duration_ms": 292906,
+      "name": "Respect Yourself",
+      "url": "https://open.spotify.com/track/7CtSMmGJQYPhvPBcxyW50K"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Murder Mystery (Kolter Remix)",
+        "url": "https://open.spotify.com/album/0vI3Vg7eCw4o2KAlMcESVx"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Murder Mystery - Kolter Remix",
+      "url": "https://open.spotify.com/track/2VsZghkJD0CEmQJmZn5MWi"
     },
     {
       "added_at": "2026-01-23 05:00:22",
@@ -45,56 +113,72 @@
       "url": "https://open.spotify.com/track/5Pcg7KpidYjuKTTJ12IvvF"
     },
     {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/2x5ye8DOvnqm9csJAHUbmW"
-      },
-      "artists": [
-        {
-          "name": "Tomike",
-          "url": "https://open.spotify.com/artist/1kETB3sIaKJ2uuC9xb6eCI"
-        }
-      ],
-      "duration_ms": 143808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
-    },
-    {
       "added_at": "2026-03-04 00:37:47",
       "album": {
-        "name": "Respect Yourself",
-        "url": "https://open.spotify.com/album/6v0RbMBfv58naH6Pmv51si"
+        "name": "Don\u2019t Go (Don\u2019t Leave)",
+        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
       },
       "artists": [
         {
-          "name": "Boss Priester",
-          "url": "https://open.spotify.com/artist/0aut7mlvs8CZUwZKn5e3ZE"
+          "name": "Tre Reynolds",
+          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
         }
       ],
-      "duration_ms": 292906,
-      "name": "Respect Yourself",
-      "url": "https://open.spotify.com/track/7CtSMmGJQYPhvPBcxyW50K"
+      "duration_ms": 146250,
+      "name": "Don\u2019t Go (Don\u2019t Leave)",
+      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
-      "added_at": "2026-02-20 05:00:42",
+      "added_at": "2026-02-27 05:00:46",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/19mVyPaqtpi7RXLHz8xS6v"
+        "name": "Phase One EP",
+        "url": "https://open.spotify.com/album/3oWzOc36MGNe40ug6NHBqK"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        },
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Ellis Garner",
+          "url": "https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO"
         }
       ],
-      "duration_ms": 194545,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
+      "duration_ms": 203636,
+      "name": "Phase One",
+      "url": "https://open.spotify.com/track/0JeHzggWbL6xJs40tXnBJO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Don\u2019t Stop (Keep On)",
+        "url": "https://open.spotify.com/album/1GG2HqQsnMn2K2K5EaszDV"
+      },
+      "artists": [
+        {
+          "name": "jWave",
+          "url": "https://open.spotify.com/artist/0FUSntuT77SPvfqmXxdl7h"
+        }
+      ],
+      "duration_ms": 201913,
+      "name": "Don't Stop (Keep On)",
+      "url": "https://open.spotify.com/track/1lkEi8hPYvtnI5SUHckhmN"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "I Never Knew (Shiba San Remix)",
+        "url": "https://open.spotify.com/album/1eVixJvu9p4VrdjT5lmhdp"
+      },
+      "artists": [
+        {
+          "name": "Nautik",
+          "url": "https://open.spotify.com/artist/4cXLx50kaRAc7B0ZQFP1Qa"
+        },
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "I Never Knew - Shiba San Remix",
+      "url": "https://open.spotify.com/track/4k4R0Fboys1lMarTUtrIu0"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -117,6 +201,42 @@
       "url": "https://open.spotify.com/track/4KlPVsyFKD3iUN3wzTu4eU"
     },
     {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/19mVyPaqtpi7RXLHz8xS6v"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        },
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 194545,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6jRnVj43WWW3rsDa5iIsjM"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Femme House Vol. 3",
+        "url": "https://open.spotify.com/album/5xWDjgBAUzVZ4bYfYp5Lwu"
+      },
+      "artists": [
+        {
+          "name": "AAT",
+          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
+        }
+      ],
+      "duration_ms": 195183,
+      "name": "Built For This",
+      "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
+    },
+    {
       "added_at": "2026-02-27 05:00:46",
       "album": {
         "name": "The Mindshaker EP",
@@ -131,22 +251,6 @@
       "duration_ms": 227034,
       "name": "The Mindshaker",
       "url": "https://open.spotify.com/track/0kacoQmBFEUZNdADZynT6W"
-    },
-    {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "Don\u2019t Go (Don\u2019t Leave)",
-        "url": "https://open.spotify.com/album/0h6RP2OgH1rBIrLceY9WXd"
-      },
-      "artists": [
-        {
-          "name": "Tre Reynolds",
-          "url": "https://open.spotify.com/artist/4htqxxCTnN5A4dSrw1yfP2"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Don\u2019t Go (Don\u2019t Leave)",
-      "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -169,22 +273,6 @@
       "url": "https://open.spotify.com/track/5k6H7X2I9CumI73lMbGKkE"
     },
     {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Phase One EP",
-        "url": "https://open.spotify.com/album/3oWzOc36MGNe40ug6NHBqK"
-      },
-      "artists": [
-        {
-          "name": "Ellis Garner",
-          "url": "https://open.spotify.com/artist/6sY1arGfGF8dJ616TFEOeO"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Phase One",
-      "url": "https://open.spotify.com/track/0JeHzggWbL6xJs40tXnBJO"
-    },
-    {
       "added_at": "2026-02-20 23:30:05",
       "album": {
         "name": "Secret Point Ep",
@@ -199,22 +287,6 @@
       "duration_ms": 353000,
       "name": "Secret Point",
       "url": "https://open.spotify.com/track/5helNhTxR9UMA3kgpUPkJC"
-    },
-    {
-      "added_at": "2026-02-13 05:00:30",
-      "album": {
-        "name": "Make it Happen",
-        "url": "https://open.spotify.com/album/5NFhXzwZvMwWnAIhshJnqe"
-      },
-      "artists": [
-        {
-          "name": "Obsk\u00fcr",
-          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
-        }
-      ],
-      "duration_ms": 356747,
-      "name": "Make it Happen",
-      "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
     },
     {
       "added_at": "2026-03-04 00:37:47",
@@ -233,6 +305,62 @@
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
     },
     {
+      "added_at": "2026-02-13 05:00:30",
+      "album": {
+        "name": "Make it Happen",
+        "url": "https://open.spotify.com/album/5NFhXzwZvMwWnAIhshJnqe"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 356747,
+      "name": "Make it Happen",
+      "url": "https://open.spotify.com/track/57YktgWA7RTGfHykrG7KJr"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Get Out My Head",
+        "url": "https://open.spotify.com/album/3CXfXKhefyTcvN7PzJTdGk"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        },
+        {
+          "name": "Redlight",
+          "url": "https://open.spotify.com/artist/4ly0VtIYiDYVA4q6ry0NUk"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Get Out My Head",
+      "url": "https://open.spotify.com/track/1Dgzq3hKKg5slZTLy7FfUI"
+    },
+    {
       "added_at": "2026-02-27 05:00:46",
       "album": {
         "name": "Don't Stop",
@@ -247,6 +375,70 @@
       "duration_ms": 177243,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/7CDXUYEVUm1SwPC4aVueX6"
+    },
+    {
+      "added_at": "2026-02-20 05:00:42",
+      "album": {
+        "name": "Beautiful Thing",
+        "url": "https://open.spotify.com/album/0ElzuUyDS8KbSasod7h1TC"
+      },
+      "artists": [
+        {
+          "name": "Caleb Laurenson",
+          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Beautiful Thing",
+      "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
+    },
+    {
+      "added_at": "2026-02-27 05:00:46",
+      "album": {
+        "name": "Lift Off EP",
+        "url": "https://open.spotify.com/album/7bUeON2LvthAFWe5ZJW1Va"
+      },
+      "artists": [
+        {
+          "name": "Retrouve",
+          "url": "https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb"
+        }
+      ],
+      "duration_ms": 185625,
+      "name": "Lift Off",
+      "url": "https://open.spotify.com/track/32qPgjaSL6rpaWKujB6xBY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Lets Take a Ride",
+        "url": "https://open.spotify.com/album/5tWu3WaodMohympwEv5t5v"
+      },
+      "artists": [
+        {
+          "name": "Rupert Ellis",
+          "url": "https://open.spotify.com/artist/1GJ64xNLJPXfxJDFAXAw1T"
+        }
+      ],
+      "duration_ms": 414045,
+      "name": "Let's Take a Ride (Fly)",
+      "url": "https://open.spotify.com/track/57IKHiW7dKdN9acYd6KgHW"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/7oauoGPhYGGwVUPX5kEK6h"
+      },
+      "artists": [
+        {
+          "name": "Emma 2000",
+          "url": "https://open.spotify.com/artist/40Y8rX9W6aSuSmRQ27hxQK"
+        }
+      ],
+      "duration_ms": 220753,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/1VERPTqfl7ddpETEj34WWC"
     },
     {
       "added_at": "2026-03-04 00:37:47",
@@ -283,38 +475,6 @@
       "duration_ms": 177230,
       "name": "Out Of My Mind",
       "url": "https://open.spotify.com/track/2tlulSZdCgI5zQFQKmbjma"
-    },
-    {
-      "added_at": "2026-02-20 05:00:42",
-      "album": {
-        "name": "Beautiful Thing",
-        "url": "https://open.spotify.com/album/0ElzuUyDS8KbSasod7h1TC"
-      },
-      "artists": [
-        {
-          "name": "Caleb Laurenson",
-          "url": "https://open.spotify.com/artist/1KBwb4QGzLkhNtLjIkNRDR"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Beautiful Thing",
-      "url": "https://open.spotify.com/track/4aSOzY0wdTGcrqk42t6ISB"
-    },
-    {
-      "added_at": "2026-02-27 05:00:46",
-      "album": {
-        "name": "Lift Off EP",
-        "url": "https://open.spotify.com/album/7bUeON2LvthAFWe5ZJW1Va"
-      },
-      "artists": [
-        {
-          "name": "Retrouve",
-          "url": "https://open.spotify.com/artist/7ImgGmI8gKoPYCmtvBjghb"
-        }
-      ],
-      "duration_ms": 185625,
-      "name": "Lift Off",
-      "url": "https://open.spotify.com/track/32qPgjaSL6rpaWKujB6xBY"
     },
     {
       "added_at": "2026-02-20 05:00:42",
@@ -513,6 +673,22 @@
       "url": "https://open.spotify.com/track/4OQjZ459UBa4OtiaGIOnJ9"
     },
     {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Narrow It Down",
+        "url": "https://open.spotify.com/album/4Jd6ZzBcAHzAtPRBqsuXGP"
+      },
+      "artists": [
+        {
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
+        }
+      ],
+      "duration_ms": 242566,
+      "name": "Narrow It Down",
+      "url": "https://open.spotify.com/track/0yBMiScIJcyq5S1SK4eR76"
+    },
+    {
       "added_at": "2026-02-13 05:00:30",
       "album": {
         "name": "In Tha Club",
@@ -575,34 +751,6 @@
       "duration_ms": 234699,
       "name": "House of Love",
       "url": "https://open.spotify.com/track/51SIFlGqhxscZIHYtMBnZs"
-    },
-    {
-      "added_at": "2026-01-30 05:00:42",
-      "album": {
-        "name": "Wanna Party (feat. Dennis G) [Ranger Trucco Remix]",
-        "url": "https://open.spotify.com/album/5DFLgCNKeWNXQdYRX4DDiQ"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Wideboys",
-          "url": "https://open.spotify.com/artist/2fLCjXwadBsnYmn05uxFpi"
-        },
-        {
-          "name": "Dennis G.",
-          "url": "https://open.spotify.com/artist/1DlMYV41CeNcwmNZ3wc9SW"
-        },
-        {
-          "name": "Ranger Trucco",
-          "url": "https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3"
-        }
-      ],
-      "duration_ms": 217099,
-      "name": "Wanna Party (feat. Dennis G) - Ranger Trucco Remix",
-      "url": "https://open.spotify.com/track/7FDSyz5Z0ZVv1rCfMkk9tU"
     },
     {
       "added_at": "2026-02-20 05:00:42",
@@ -925,22 +1073,6 @@
       "url": "https://open.spotify.com/track/6Gic5rohR6m7h5869PpIgi"
     },
     {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2GtPLkcNYfYvwHoyN03qtW"
-      },
-      "artists": [
-        {
-          "name": "Sidney Charles",
-          "url": "https://open.spotify.com/artist/0J6ZEXmLQfZMeHBoa4JZTH"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/0nZaTW2iHqCZmuwoSErJUp"
-    },
-    {
       "added_at": "2026-01-30 05:00:42",
       "album": {
         "name": "LOUDY'S TOOLZ",
@@ -987,26 +1119,6 @@
       "duration_ms": 146793,
       "name": "Joint Enterprise",
       "url": "https://open.spotify.com/track/66whG5JgiFSP4YJai6v5IE"
-    },
-    {
-      "added_at": "2026-02-06 05:00:30",
-      "album": {
-        "name": "Pass The Aux",
-        "url": "https://open.spotify.com/album/2kE2d1Ue6Xm8LAWRAnR02K"
-      },
-      "artists": [
-        {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 181534,
-      "name": "Pass The Aux",
-      "url": "https://open.spotify.com/track/6AZ4zP4srPZ0wh4uF2z7D3"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1079,38 +1191,6 @@
       "duration_ms": 209312,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2WSzfVx0B988f2CBzrPjTN"
-    },
-    {
-      "added_at": "2026-01-30 17:14:07",
-      "album": {
-        "name": "My Brain EP",
-        "url": "https://open.spotify.com/album/4TJoXqAicnRCsDKkZt3FuC"
-      },
-      "artists": [
-        {
-          "name": "Jentzen",
-          "url": "https://open.spotify.com/artist/4Ae9S2NdmxshDC0tNtKTh8"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Know You Better",
-      "url": "https://open.spotify.com/track/58M7AyZ1HI90agLaU5jX1W"
-    },
-    {
-      "added_at": "2026-01-23 15:20:38",
-      "album": {
-        "name": "For The Night",
-        "url": "https://open.spotify.com/album/2QnJK2my2hW7IMmf4MoLpT"
-      },
-      "artists": [
-        {
-          "name": "Mitch Freeman",
-          "url": "https://open.spotify.com/artist/3Z9cpCACRQX3FR4DzoFOiG"
-        }
-      ],
-      "duration_ms": 261363,
-      "name": "For The Night",
-      "url": "https://open.spotify.com/track/2CHZ0FcivKxDfW0TBfw6ng"
     },
     {
       "added_at": "2026-02-06 05:00:30",
@@ -1201,22 +1281,6 @@
       "url": "https://open.spotify.com/track/0r5Vg7vF0wFgcOY5od6Qsi"
     },
     {
-      "added_at": "2025-11-14 21:15:40",
-      "album": {
-        "name": "So Fine",
-        "url": "https://open.spotify.com/album/6bIDdNvG1xs6fOCoXMDA6m"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        }
-      ],
-      "duration_ms": 148396,
-      "name": "So Fine",
-      "url": "https://open.spotify.com/track/3QGO7gVHnSW0vpEaRWO4kT"
-    },
-    {
       "added_at": "2026-01-23 15:20:38",
       "album": {
         "name": "Back n' Forth",
@@ -1247,22 +1311,6 @@
       "duration_ms": 197862,
       "name": "Mind Game",
       "url": "https://open.spotify.com/track/5zxhUJKdwgXWDKqliUtgRi"
-    },
-    {
-      "added_at": "2025-11-28 05:09:48",
-      "album": {
-        "name": "Look Good",
-        "url": "https://open.spotify.com/album/71DApqhcYDfibOT9unRwuf"
-      },
-      "artists": [
-        {
-          "name": "Ethan Walsh",
-          "url": "https://open.spotify.com/artist/4EOVG7sMtdCjUbRSs1E0aT"
-        }
-      ],
-      "duration_ms": 134095,
-      "name": "Look Good",
-      "url": "https://open.spotify.com/track/6ksxe4Kmq9hdqqti0EFhOk"
     },
     {
       "added_at": "2026-01-09 05:00:36",
@@ -1549,22 +1597,6 @@
       "url": "https://open.spotify.com/track/20o1OZmVtHQfLJa8VKi8HY"
     },
     {
-      "added_at": "2026-01-09 17:17:45",
-      "album": {
-        "name": "Demon Time EP",
-        "url": "https://open.spotify.com/album/2U6aE6HKoTCpw28JZNbwqI"
-      },
-      "artists": [
-        {
-          "name": "White Off",
-          "url": "https://open.spotify.com/artist/3YYih7Xf8yIMm6nm6r1j7N"
-        }
-      ],
-      "duration_ms": 210679,
-      "name": "Demon Time",
-      "url": "https://open.spotify.com/track/1veWxz8UHs9qC5rY8X8pSx"
-    },
-    {
       "added_at": "2025-11-28 05:09:48",
       "album": {
         "name": "Up & Down",
@@ -1627,22 +1659,6 @@
       "duration_ms": 172000,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/2wmbYN8YjWvoR6d0kd1aAH"
-    },
-    {
-      "added_at": "2025-12-12 05:00:36",
-      "album": {
-        "name": "How Deep Are Your Dreams?",
-        "url": "https://open.spotify.com/album/3d4ePJKLgTDCOfuPz4Jrl7"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 228901,
-      "name": "How Deep Are Your Dreams?",
-      "url": "https://open.spotify.com/track/31YCj2AQ7DMeMLVvtwfxhM"
     },
     {
       "added_at": "2025-11-14 05:00:32",
@@ -1715,22 +1731,6 @@
       "duration_ms": 173696,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/3BjL0WoqXRFX0TjBZYJUwX"
-    },
-    {
-      "added_at": "2025-11-11 01:56:18",
-      "album": {
-        "name": "DECEIVER",
-        "url": "https://open.spotify.com/album/2nDEXGi3FyFJzuEXn2JWMV"
-      },
-      "artists": [
-        {
-          "name": "M3RCH",
-          "url": "https://open.spotify.com/artist/6skWnmhNXBlEywqd1PHGC8"
-        }
-      ],
-      "duration_ms": 295384,
-      "name": "DECEIVER",
-      "url": "https://open.spotify.com/track/6TG0jFBiEnDlJMb4wbkYD5"
     },
     {
       "added_at": "2025-09-05 04:00:16",

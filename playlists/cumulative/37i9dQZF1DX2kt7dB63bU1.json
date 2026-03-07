@@ -14718,7 +14718,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 111319,
       "name": "table for two",
       "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
@@ -18230,6 +18230,24 @@
       "duration_ms": 280624,
       "name": "Wonder in the Waiting",
       "url": "https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet"
+    },
+    {
+      "album": {
+        "name": "Wonderful Thing",
+        "url": "https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134198,
+      "name": "Wonderful Thing",
+      "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
     },
     {
       "album": {

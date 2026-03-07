@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Al die nuutste Afrikaanse musiek met Anz\u00e9lle, Riaan Benad\u00e9,  Jo Black, Armand Steenkamp en meer!",
+  "description": "Al die nuutste Afrikaanse musiek met Anz\u00e9lle, Riaan Benad\u00e9,  Jo Black, Elandr\u00e9 en meer!",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -11283,6 +11283,24 @@
     },
     {
       "album": {
+        "name": "Eindelose Pad",
+        "url": "https://open.spotify.com/album/3vnqM6SILXYpzcYeXPuBS8"
+      },
+      "artists": [
+        {
+          "name": "Bevok",
+          "url": "https://open.spotify.com/artist/1sBlOfR14FteLT5dMmVP3S"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153894,
+      "name": "Eindelose Pad",
+      "url": "https://open.spotify.com/track/2ggjAnMcUQIAUCmDq5NSoz"
+    },
+    {
+      "album": {
         "name": "Ek Belowe",
         "url": "https://open.spotify.com/album/7fr1imLRNh3Xi0rIre8Juf"
       },
@@ -11562,7 +11580,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198230,
       "name": "Ek gaan jou vat vanaand",
       "url": "https://open.spotify.com/track/2RHamr45m0k7pEmKUVKxiz"
@@ -12004,6 +12022,24 @@
       "duration_ms": 215624,
       "name": "Ek Mis Jou - Remix",
       "url": "https://open.spotify.com/track/2usZ51LNLgkrlTxNjLiLBu"
+    },
+    {
+      "album": {
+        "name": "Ek Mis Jou Nou",
+        "url": "https://open.spotify.com/album/0tKZfnLZBEBhPEvEkuBbst"
+      },
+      "artists": [
+        {
+          "name": "Liefvlam",
+          "url": "https://open.spotify.com/artist/2gOIbuKlLcFWLFU9POMNAY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174999,
+      "name": "Ek Mis Jou Nou",
+      "url": "https://open.spotify.com/track/4NM3Wl6Z9UedWmxx0JUufk"
     },
     {
       "album": {
@@ -13628,7 +13664,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161691,
       "name": "Gee My",
       "url": "https://open.spotify.com/track/63RE6HlVTqRxUa1JtWkxD2"
@@ -14104,6 +14140,28 @@
       "duration_ms": 260000,
       "name": "Gly",
       "url": "https://open.spotify.com/track/7cF6fETs5IbSQrpqIgOuLG"
+    },
+    {
+      "album": {
+        "name": "God Gese\u00ebnde Kruis",
+        "url": "https://open.spotify.com/album/1P9088sVpzxW1B2TBsWQIR"
+      },
+      "artists": [
+        {
+          "name": "Nuwe Lof",
+          "url": "https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET"
+        },
+        {
+          "name": "Retief Burger",
+          "url": "https://open.spotify.com/artist/38SqGSrjDDkrsjicMn5vLl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269586,
+      "name": "God Gese\u00ebnde Kruis",
+      "url": "https://open.spotify.com/track/2oC4ZLPLszDeKDP3ZyLu8o"
     },
     {
       "album": {
@@ -18528,7 +18586,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181250,
       "name": "John Deere",
       "url": "https://open.spotify.com/track/2cBtogKUCqr1iu8xmg90gk"
@@ -20887,6 +20945,24 @@
     },
     {
       "album": {
+        "name": "Klim Op My Voete",
+        "url": "https://open.spotify.com/album/63zHRHLgA60O4VTrnwRAuf"
+      },
+      "artists": [
+        {
+          "name": "Alweer Dian",
+          "url": "https://open.spotify.com/artist/0ALetw4DG62QL37VPJPJ7d"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182487,
+      "name": "Klim Op My Voete",
+      "url": "https://open.spotify.com/track/0G94fdRhv9g8tTmlBOAxXo"
+    },
+    {
+      "album": {
         "name": "Weer",
         "url": "https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz"
       },
@@ -21188,7 +21264,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225820,
       "name": "Koekamakranka",
       "url": "https://open.spotify.com/track/4tpquilSrvjPnK9QyNkzjD"
@@ -24543,6 +24619,24 @@
     },
     {
       "album": {
+        "name": "Lonely Boer",
+        "url": "https://open.spotify.com/album/1FqPf0ez5xISB7JjuALB4Z"
+      },
+      "artists": [
+        {
+          "name": "Neil Sandilands",
+          "url": "https://open.spotify.com/artist/7eCE8m0v9oiCKytWHtzukY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251866,
+      "name": "Lonely Boer",
+      "url": "https://open.spotify.com/track/5dnGE4esorDnA5lu8zF9H2"
+    },
+    {
+      "album": {
         "name": "Loodsvlam",
         "url": "https://open.spotify.com/album/5qRP9bpuKO8vZfSwCx7r2T"
       },
@@ -26650,6 +26744,24 @@
       "duration_ms": 205670,
       "name": "Muis Van Potchefstroom",
       "url": "https://open.spotify.com/track/3ks2OaYWHm3KmhCIcPIVY2"
+    },
+    {
+      "album": {
+        "name": "Muishond",
+        "url": "https://open.spotify.com/album/34pUKzPxyJO2hjte6pQmgQ"
+      },
+      "artists": [
+        {
+          "name": "Glasparade",
+          "url": "https://open.spotify.com/artist/20Dn34oWd0wEUKzOkTeec8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207327,
+      "name": "Muishond",
+      "url": "https://open.spotify.com/track/5fYXxM6Z2Z1vHD30WCHp9g"
     },
     {
       "album": {
@@ -33576,7 +33688,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 148999,
       "name": "Ryk Met Tyd",
       "url": "https://open.spotify.com/track/2LhwiVyryaBgqfUSbYNlZZ"
@@ -34522,7 +34634,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192375,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4622PJsgP3VeR8iayvdh1G"
@@ -34638,6 +34750,24 @@
       "duration_ms": 197288,
       "name": "Sien Die Lig",
       "url": "https://open.spotify.com/track/5Y0VS3TjajzDbx87t6weXf"
+    },
+    {
+      "album": {
+        "name": "Sien Jy My",
+        "url": "https://open.spotify.com/album/1urgT0blL3brYUhnwyWSbu"
+      },
+      "artists": [
+        {
+          "name": "JohnJ",
+          "url": "https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215447,
+      "name": "Sien Jy My",
+      "url": "https://open.spotify.com/track/3w35lqiCrzh5SIg8Q6fwlN"
     },
     {
       "album": {
@@ -36234,7 +36364,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 275458,
       "name": "Sondaar",
       "url": "https://open.spotify.com/track/6g0A7RWCOg6YxioYpsAai7"
@@ -37508,6 +37638,28 @@
       "duration_ms": 205173,
       "name": "Stella",
       "url": "https://open.spotify.com/track/7i6NZDKEjS9esM2FVUxgf0"
+    },
+    {
+      "album": {
+        "name": "Stellenbosch In Die Somer",
+        "url": "https://open.spotify.com/album/21C4sgROoateBdd3A0LHHF"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/6z6IhChBKFpFOXq4HG3vxw"
+        },
+        {
+          "name": "Ollyvans",
+          "url": "https://open.spotify.com/artist/5mUamRbK8IVMSh1fr8OzWq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207499,
+      "name": "Stellenbosch In Die Somer",
+      "url": "https://open.spotify.com/track/18Oezm8MJUt3M3GN9YhAtm"
     },
     {
       "album": {
@@ -40902,7 +41054,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 177820,
       "name": "Vanaand",
       "url": "https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn"

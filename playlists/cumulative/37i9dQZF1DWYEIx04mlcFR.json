@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "la nueva ola de artistas con Diego Andlover en portada. \ud83c\udf0a\u2728 ",
+  "description": "la nueva ola de artistas con Valsian en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175714,
       "name": "amar est\u00e1 raro",
       "url": "https://open.spotify.com/track/1x9s8H6GNjj3Hqf2M128Z1"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 209948,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/0rOWasfLxZ99lQp1Xj9muJ"
@@ -2480,6 +2480,24 @@
       "duration_ms": 204987,
       "name": "CARACOL",
       "url": "https://open.spotify.com/track/4OE47kOc5ugkSGFn5tyuFo"
+    },
+    {
+      "album": {
+        "name": "consuelo",
+        "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "cari\u00f1o",
+      "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
     },
     {
       "album": {
@@ -3526,7 +3544,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 246000,
       "name": "de verdad soy una estrella",
       "url": "https://open.spotify.com/track/4lyUz5D50Vahv0eK7sQpuK"
@@ -3682,6 +3700,28 @@
       "duration_ms": 178160,
       "name": "Desastre Emocional",
       "url": "https://open.spotify.com/track/7ra9A7fAuuEjTyadsObgHI"
+    },
+    {
+      "album": {
+        "name": "Desayuno",
+        "url": "https://open.spotify.com/album/2gie9y6Rx8xsiqQa8nYuHj"
+      },
+      "artists": [
+        {
+          "name": "ni\u00f1os rosas",
+          "url": "https://open.spotify.com/artist/4Op5dds0nq1iW9B230j18S"
+        },
+        {
+          "name": "Michelle Motel",
+          "url": "https://open.spotify.com/artist/3bKDrQ897FUSpcONsY3Yp2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288140,
+      "name": "Desayuno",
+      "url": "https://open.spotify.com/track/5ctiXDf6ApESsjajdZKnrg"
     },
     {
       "album": {
@@ -6531,6 +6571,28 @@
     },
     {
       "album": {
+        "name": "KAWASAKI (&TEAM Remix)",
+        "url": "https://open.spotify.com/album/4OGsFWXB5l0WfI4TYcZmY8"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        },
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161695,
+      "name": "KAWASAKI (&TEAM Remix)",
+      "url": "https://open.spotify.com/track/6bzFCRAZBn0LBDxUlErNJQ"
+    },
+    {
+      "album": {
         "name": "KR1MIN4L",
         "url": "https://open.spotify.com/album/3oYNKbtMNbSSiVj7cuBXPT"
       },
@@ -6810,7 +6872,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
@@ -7050,7 +7112,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 252329,
       "name": "Lejos De M\u00ed",
       "url": "https://open.spotify.com/track/5wePRhxNSVLKczVpT2I7gE"
@@ -13129,6 +13191,24 @@
     },
     {
       "album": {
+        "name": "una fantas\u00eda",
+        "url": "https://open.spotify.com/album/1XR9k4lLAmYqKErJjjtIMh"
+      },
+      "artists": [
+        {
+          "name": "S\u00d3FFICA",
+          "url": "https://open.spotify.com/artist/3ZmEdq0l9W5psqT7a1bFl0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "soloY\u00d3",
+      "url": "https://open.spotify.com/track/0m9UiT4zIJy6LX57cGHeFN"
+    },
+    {
+      "album": {
         "name": "Braille EP",
         "url": "https://open.spotify.com/album/16prikKe8RnqpiAJlNTP5I"
       },
@@ -13184,6 +13264,24 @@
       "duration_ms": 158492,
       "name": "SUBCONSCIENTE",
       "url": "https://open.spotify.com/track/4gSu8Zd82MehR4h8q0DAhH"
+    },
+    {
+      "album": {
+        "name": "sudor",
+        "url": "https://open.spotify.com/album/1YcklNozbAMWpJkMtQWBSU"
+      },
+      "artists": [
+        {
+          "name": "uPSEt",
+          "url": "https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "sudor",
+      "url": "https://open.spotify.com/track/60Chwrcf7ZBvGxw0CHD5qE"
     },
     {
       "album": {
@@ -14117,6 +14215,24 @@
     },
     {
       "album": {
+        "name": "Todo Se Repite",
+        "url": "https://open.spotify.com/album/13uXgek0xnjbfdd6mm2eeD"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240027,
+      "name": "Todo Se Repite",
+      "url": "https://open.spotify.com/track/6uaENgyq92BJKAKHyshepr"
+    },
+    {
+      "album": {
         "name": "a 9000 km",
         "url": "https://open.spotify.com/album/1cFWEoc6MeQT3cUVet3Csa"
       },
@@ -14457,6 +14573,32 @@
     },
     {
       "album": {
+        "name": "Tu Cara (Monumento)",
+        "url": "https://open.spotify.com/album/1aCjcWqkry0DwPGOGlYhPE"
+      },
+      "artists": [
+        {
+          "name": "chicano wei",
+          "url": "https://open.spotify.com/artist/7EqiVYwHFYEKr843rp3NVt"
+        },
+        {
+          "name": "El Verumcito",
+          "url": "https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY"
+        },
+        {
+          "name": "Waidrian",
+          "url": "https://open.spotify.com/artist/2KHMDED0sL5iU8WLUS3OFj"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139345,
+      "name": "Tu Cara (Monumento)",
+      "url": "https://open.spotify.com/track/2KVOUo21jwhA3kol4moJhw"
+    },
+    {
+      "album": {
         "name": "tu fiel admirador",
         "url": "https://open.spotify.com/album/3mKil68qGPIkGRWFLpdYEe"
       },
@@ -14504,7 +14646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211819,
       "name": "tu nombre",
       "url": "https://open.spotify.com/track/6l86tnT24ec7bp1PuddTMS"
@@ -15314,7 +15456,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 252664,
       "name": "V\u00edctima",
       "url": "https://open.spotify.com/track/5bXHtB09GbVLb7mABQPqyn"

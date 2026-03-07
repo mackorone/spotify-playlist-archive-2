@@ -6491,6 +6491,24 @@
     },
     {
       "album": {
+        "name": "Don't Let It Get You Down",
+        "url": "https://open.spotify.com/album/79QyLSGRvcPrGO9MujjdTn"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179839,
+      "name": "Don't Let It Get You Down",
+      "url": "https://open.spotify.com/track/1czmsKJJuPQenQbDZcgR7x"
+    },
+    {
+      "album": {
         "name": "Don't Make Sense",
         "url": "https://open.spotify.com/album/2ePUvWGz3ZKUUIGOZ0eFZl"
       },
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171160,
       "name": "Front & Back Seat",
       "url": "https://open.spotify.com/track/1KyMTc7vqMotAPD21EvzBx"
@@ -27079,24 +27097,6 @@
     },
     {
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "album": {
         "name": "In Motion, Always",
         "url": "https://open.spotify.com/album/1VI7UrOTuDDrohLvPIQK1S"
       },
@@ -29026,6 +29026,28 @@
       "duration_ms": 195937,
       "name": "When I See It (feat. The Vic)",
       "url": "https://open.spotify.com/track/0ZNO8GpuqnGWSJAzqo3Dso"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
     },
     {
       "album": {

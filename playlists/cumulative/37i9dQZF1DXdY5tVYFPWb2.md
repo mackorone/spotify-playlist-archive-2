@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-951 songs - 2 day 14 hr 46 min
+952 songs - 2 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [I Just Wanna Say](https://open.spotify.com/track/0LzhQmsEkHV4FCUXy0ORZ8) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [I Just Wanna Say](https://open.spotify.com/album/6RoJV5bEkx6sH0YgWMU21I) | 3:22 | 2022-08-23 | 2022-08-25 |
 | [I Just Wanna Say](https://open.spotify.com/track/5vkcfVJTr52BjEa7YCaHAG) | [Mime](https://open.spotify.com/artist/57eMezj5cRrIJreMdbecEh) | [I Just Wanna Say](https://open.spotify.com/album/43sSCvAtUwI6Vmjp0DmYDK) | 3:22 | 2022-08-23 | 2022-08-31 |
 | [i love you](https://open.spotify.com/track/5C815UqOqtChtbEwX9JEwT) | [sancrib](https://open.spotify.com/artist/3HfxYAgfp2Z6MGHQxJ137Y) | [alacarte](https://open.spotify.com/album/7g6vqYJi6CvSnD4Bs5VL34) | 4:12 | 2022-09-13 | 2022-09-28 |
-| [I Want You Closer](https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Toki Asako](https://open.spotify.com/artist/7HCxzXGpudb9CKiylh3nan) | [Midnight City Lovers](https://open.spotify.com/album/3q1iKXscaNhyb7jOyU787D) | 4:08 | 2023-06-15 |  |
+| [I Want You Closer](https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Toki Asako](https://open.spotify.com/artist/7HCxzXGpudb9CKiylh3nan) | [Midnight City Lovers](https://open.spotify.com/album/3q1iKXscaNhyb7jOyU787D) | 4:08 | 2023-06-15 | 2026-03-07 |
 | [I'll be with you](https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc), [Nigel Tay](https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN) | [I'll be with you](https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk) | 3:34 | 2025-08-05 | 2026-01-15 |
 | [I'm In Love](https://open.spotify.com/track/2yesgnppAnmeuSp6MX4Hhv) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [I'm In Love](https://open.spotify.com/album/2aaROtxEkfr1wj0XoWeSzu) | 3:10 | 2023-04-04 | 2023-04-06 |
 | [I'm In Love](https://open.spotify.com/track/6WDzwUTAOcCRVTiOi87yO3) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [I'm In Love](https://open.spotify.com/album/79kiFZwsTsMA0R3GvMIiw0) | 3:10 | 2023-04-05 | 2023-05-13 |
@@ -840,6 +840,7 @@
 | [天気雨 \-Still love me\- \(feat\. ひかり\) \- Vantage Remix](https://open.spotify.com/track/5uscxCi6JPEtHUyBwNGWmd) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [天気雨 \-Still love me\- \(feat\. ひかり\) \[Vantage Remix\]](https://open.spotify.com/album/4onMga0cEQ0CwZQqWipjaX) | 3:05 | 2023-08-15 | 2023-09-06 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-13 |  |
 | [女、深夜の麺屋にて](https://open.spotify.com/track/3MVqcD8Jil1ksouMJtNTMV) | [近視のサエ子](https://open.spotify.com/artist/2MsmOuarlQw1AYEhbDhwUv), [ポセイドン・石川](https://open.spotify.com/artist/4LGHcV1MMN8gOTUZKS5uoQ), [永山雄一](https://open.spotify.com/artist/40TYPMhtw5HAhVcIMqwjMx) | [女、深夜の麺屋にて](https://open.spotify.com/album/06kswcEKFy0iaBG9yzA7h2) | 4:09 | 2022-05-24 | 2022-07-28 |
+| [学芸大前](https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [学芸大前](https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6) | 3:36 | 2026-03-03 |  |
 | [安心と慢心](https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [安心と慢心](https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6) | 4:54 | 2023-07-11 | 2023-07-19 |
 | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/track/31lRhol8b42FFMFAxpotvB) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [小さな嘘 \-Callin' me\- \(feat\. ひかり\)](https://open.spotify.com/album/3skNP2DSlofDefG2aZQiGk) | 3:44 | 2022-07-05 | 2022-07-09 |
 | [小麦色のマーメイド](https://open.spotify.com/track/0ya4KBGKjtOas5XqGt97HU) | [Gota Nishidera](https://open.spotify.com/artist/6zGbXCFNnK3q6gnUrAy9lQ) | [Velvet Motel](https://open.spotify.com/album/4d6pw6jvrA6PboPbzwdu90) | 3:50 | 2023-01-10 | 2023-02-01 |

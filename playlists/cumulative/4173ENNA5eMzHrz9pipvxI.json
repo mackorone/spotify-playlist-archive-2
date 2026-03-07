@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Belters Only &amp; Seamus D",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Valentino Khan &amp; No/Me",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -316,6 +316,36 @@
       "duration_ms": 115034,
       "name": "33 Max Verstappen (feat. Maxx Power) [Cuebrick & Charles B Remix]",
       "url": "https://open.spotify.com/track/05EAswbb3Gffx4FXpZ9DH6"
+    },
+    {
+      "album": {
+        "name": "33 Max Verstappen (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/2HyjwXthbe4RFZOYOoePrD"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Nils Van Zandt",
+          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127875,
+      "name": "33 Max Verstappen (LNY TNZ Remix)",
+      "url": "https://open.spotify.com/track/1SSUIHIoezSIZLiVQdxCiB"
     },
     {
       "album": {
@@ -18663,6 +18693,24 @@
     },
     {
       "album": {
+        "name": "Iunu",
+        "url": "https://open.spotify.com/album/21qrcefrZ7ZRDvKPTZrTuP"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250834,
+      "name": "Iunu",
+      "url": "https://open.spotify.com/track/6D70xfUKLPVeVe2qxyGTN3"
+    },
+    {
+      "album": {
         "name": "iY-Yi (feat. Takunda)",
         "url": "https://open.spotify.com/album/2EJZlhZ7y8UrTFiP2yXlQZ"
       },
@@ -36447,6 +36495,28 @@
     },
     {
       "album": {
+        "name": "That's Her (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/2YTsUD2n4AWeXGK51A4fYb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "That's Her (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/3mAttc0Ojiw3xELRfVN6Ea"
+    },
+    {
+      "album": {
         "name": "HEARTSTRINGS",
         "url": "https://open.spotify.com/album/3M4BDnaYzmeRD0HD3LPNiR"
       },
@@ -40816,6 +40886,28 @@
       "duration_ms": 153230,
       "name": "What About Now",
       "url": "https://open.spotify.com/track/5X9wmreOpsUOsZQXZGiwW3"
+    },
+    {
+      "album": {
+        "name": "What Can I Say",
+        "url": "https://open.spotify.com/album/2fBBZuDrcQsBBGpmzhRx6d"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1isYUV8dk5bEhJuVmhKtgq"
     },
     {
       "album": {

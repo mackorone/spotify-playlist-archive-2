@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,079 songs - 2 day 22 hr 23 min
+1,080 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1021,6 +1021,7 @@
 | [Wall Of Eyes](https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd) | 5:05 | 2024-03-26 | 2024-08-03 |
 | [waltz d'hethert](https://open.spotify.com/track/5jSEk7FFvkwqojeLmtexHB) | [keiyaA](https://open.spotify.com/artist/542BY6B2YGEdf2XWvBFUJV) | [hooke’s law](https://open.spotify.com/album/2sTsH9vYQhIi60IYjE3hJp) | 0:52 | 2026-03-03 |  |
 | [Wanna](https://open.spotify.com/track/7uLBdV19ad7kAjU2oB1l6p) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [In Waves](https://open.spotify.com/album/57MSBg5pBQZH5bfLVDmeuP) | 2:15 | 2025-01-04 |  |
+| [Want It So Bad](https://open.spotify.com/track/0Vx7I8I9FvQJUIRloIyT51) | [Georgia Turman](https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o) | [Multiplication](https://open.spotify.com/album/7cQODIkDlwqAm0TJ0v9lRU) | 3:14 | 2026-03-06 |  |
 | [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2023-12-13 | 2023-12-26 |
 | [War at the Door](https://open.spotify.com/track/3CK3oybt0KITkdz6F4yAMd) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Yasuke](https://open.spotify.com/album/0tOVrY13drf4AGBWtSIkgX) | 2:07 | 2024-03-24 |  |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 | 2024-10-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 
 > Disfruta esta fina selección de los mejores Tangos argentinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,891 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,897 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCT9tm6fRIV.md) - [plain]
 | 70 | [Cafetin](https://open.spotify.com/track/4KKTQJYBJ71nVKTjYPtaX0) | [Osvaldo Pugliese](https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41) | [Osvaldo Pugliese con Alberto Moran y Roberto Chanel](https://open.spotify.com/album/6fvAPxCvZaMgU2Pe1GrgJA) | 2:34 |
 | 71 | [El Mundo De La Fantasía](https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF) | [Cacho Castaña](https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao) | [El Mundo De La Fantasía](https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD) | 3:27 |
 | 72 | [Fuimos \- En Vivo](https://open.spotify.com/track/3wN0brdVqbMYJdGJ0wD0Za) | [Ariel Ardit](https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6), [Andrés Linetzky](https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH) | [Intimos, Vol\. 1 en vivo en Bebop](https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg) | 5:20 |
-| 73 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
-| 74 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
+| 73 | [Mimi Pinson \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp) | [Omar Mollo](https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD), [Gran Orquesta Típica OTRA](https://open.spotify.com/artist/2hQVp6pVrs4q3veFAC3LT8) | [Tango Cosmopolita \(with Gran Orquesta Típica OTRA\)](https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0) | 3:50 |
+| 74 | [Si Tu Quisieras](https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY) | [Angelito Martinez](https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2) | [Antología, Vol\. 3: Yuyo Verde](https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT) | 2:13 |
 | 75 | [La Bicicleta Blanca](https://open.spotify.com/track/52gnzovIQX4fc8CzmXV3qI) | [Horacio Ferrer](https://open.spotify.com/artist/2YVUCSYeU9bgnXbno2WCu5), [Juan Trepiana](https://open.spotify.com/artist/1raFv3PXteep5J6poiA6we) | [Flor de Tangos y Poemas \(feat\. Juan Trepiana\)](https://open.spotify.com/album/0nAClewMjDbOhV1rCIx2Hz) | 3:51 |
 | 76 | [Barrio de Tango](https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j) | [Delfina Cheb](https://open.spotify.com/artist/6a3CKtQ3uBTZlrIB2d6yUq), [The Horacio Avilano Guitar Quartet](https://open.spotify.com/artist/2SQLxgEdwS3gtJ28e44e6N) | [Doce Milongas de Amor y un Tango Desesperado](https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3) | 3:10 |
 | 77 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |

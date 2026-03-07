@@ -4744,7 +4744,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166000,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/17ZWvL2d7T2LmoxoOLHxVM"
@@ -5934,6 +5934,32 @@
       "duration_ms": 132413,
       "name": "Tarakkiyan - From \"Multani Mitti\"",
       "url": "https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V"
+    },
+    {
+      "album": {
+        "name": "Tateeree",
+        "url": "https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Simran Jaglan",
+          "url": "https://open.spotify.com/artist/54x8gJEux02W45CsSv87om"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151895,
+      "name": "Tateeree",
+      "url": "https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm"
     },
     {
       "album": {

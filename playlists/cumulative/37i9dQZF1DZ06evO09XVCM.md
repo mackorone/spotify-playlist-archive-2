@@ -4,7 +4,7 @@
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 10 min
+80 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Love Is My Religion \(Live\)](https://open.spotify.com/track/1d1z4TzhHtzRIsCmoHDeCu) | [Playing For Change](https://open.spotify.com/artist/645m90txZTycwJGdZTWscc), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Playing for Change \(Live\)](https://open.spotify.com/album/1xvTR4a0kOkL0Z0pBGYXV5) | 4:10 | 2024-02-01 |  |
 | [Madanite](https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [dellali](https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m) | 3:55 | 2024-02-01 |  |
 | [Make Some Music](https://open.spotify.com/track/6hI7r4AXANVQU8cGe1HOnq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 4:14 | 2025-11-30 | 2025-12-16 |
-| [Many Mourn For Bob \- Brightside \- New Vinyl Album out 4/18 on Record Store Day](https://open.spotify.com/track/5WwmgkK6N4NY5CSGKk93Po) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/0Dq4skfj3ndef7urknPx48) | 3:52 | 2026-02-07 |  |
+| [Many Mourn For Bob](https://open.spotify.com/track/0bYPMrLUMFwFRuzgTe6XOW) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/3tmtknz4dDX3MgfOAMYrf1) | 3:52 | 2026-03-07 |  |
+| [Many Mourn For Bob \- Brightside \- New Vinyl Album out 4/18 on Record Store Day](https://open.spotify.com/track/5WwmgkK6N4NY5CSGKk93Po) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Many Mourn For Bob](https://open.spotify.com/album/0Dq4skfj3ndef7urknPx48) | 3:52 | 2026-02-07 | 2026-03-07 |
 | [Melancholy Mood](https://open.spotify.com/track/7nY59uK9jauHVfeppS65Ho) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:30 | 2024-09-17 | 2024-09-25 |
 | [MMMM MMMM](https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild and Free](https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o) | 3:30 | 2024-03-09 |  |
 | [Mmmm Mmmm](https://open.spotify.com/track/1rVLXkHg9a2w6A8qGigwsN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Wild And Free](https://open.spotify.com/album/3JhnFg804zHUlIRjByYytY) | 3:30 | 2024-02-01 | 2024-03-10 |

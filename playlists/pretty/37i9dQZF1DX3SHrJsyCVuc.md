@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Amy Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,386 likes - 78 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,420 likes - 78 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 4](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 0:00 |
+| 1 | [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 |
 | 2 | [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 |
 | 3 | [STAMPEDE](https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [STAMPEDE](https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj) | 3:09 |
 | 4 | [WHITE NOISE](https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY) | [Kerala Dust](https://open.spotify.com/artist/6lK8O3kyFThiTmgowQZGOH) | [WHITE NOISE](https://open.spotify.com/album/4Ujzbe9tXwfIZabmtPFAEC) | 4:24 |

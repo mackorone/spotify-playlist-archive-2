@@ -1,13 +1,65 @@
 {
-  "description": "Recent hits and new songs from your fave artists. Cover: Kingfishr",
-  "num_followers": 945603,
+  "description": "Recent hits and new songs from your fave artists. Cover: Alex Warren",
+  "num_followers": 945661,
   "original_name": "Just Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJfRR3nZgE4UhZEPHys8/EaEuLbe",
+  "snapshot_id": "AAAAAF5JMuyGl54d6I7zGRAlsTmMPjJU",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:01:11",
+      "album": {
+        "name": "FEVER DREAM",
+        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Warren",
+          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+        }
+      ],
+      "duration_ms": 153430,
+      "name": "FEVER DREAM",
+      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Rein Me In (with Olivia Dean)",
+        "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 339410,
+      "name": "Rein Me In (with Olivia Dean)",
+      "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
     {
       "added_at": "2026-02-27 05:01:11",
       "album": {
@@ -41,20 +93,20 @@
       "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
-      "added_at": "2026-02-27 05:01:11",
+      "added_at": "2026-03-06 05:00:08",
       "album": {
-        "name": "FEVER DREAM",
-        "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 153430,
-      "name": "FEVER DREAM",
-      "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
+      "duration_ms": 208291,
+      "name": "Elizabeth Taylor",
+      "url": "https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -71,6 +123,22 @@
       "duration_ms": 217240,
       "name": "Be Her",
       "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Queen of Texas",
+        "url": "https://open.spotify.com/album/3XFMsDqtgYA0ImMRJW4e7e"
+      },
+      "artists": [
+        {
+          "name": "Solya",
+          "url": "https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza"
+        }
+      ],
+      "duration_ms": 189933,
+      "name": "Queen of Texas",
+      "url": "https://open.spotify.com/track/5SnAkhrhPXKRSCuvGjCM1s"
     },
     {
       "added_at": "2026-02-27 05:01:11",
@@ -93,6 +161,22 @@
       "url": "https://open.spotify.com/track/5smzdAtuOJOp3jEKjTno3p"
     },
     {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
       "added_at": "2026-02-06 05:00:47",
       "album": {
         "name": "Drive Safe",
@@ -113,6 +197,38 @@
       "url": "https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn"
     },
     {
+      "added_at": "2026-02-20 05:00:41",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+      },
+      "artists": [
+        {
+          "name": "KELS",
+          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "SAME TIME",
+        "url": "https://open.spotify.com/album/3YOkTYmhZIFgI09wDAnBN0"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 211926,
+      "name": "SAME TIME",
+      "url": "https://open.spotify.com/track/76xS3SRc9Zv5ntHoabMN8R"
+    },
+    {
       "added_at": "2026-02-27 05:01:11",
       "album": {
         "name": "Easy On The Eyes",
@@ -127,6 +243,22 @@
       "duration_ms": 224568,
       "name": "Easy On The Eyes",
       "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
+    },
+    {
+      "added_at": "2026-02-27 05:01:11",
+      "album": {
+        "name": "picky choosy",
+        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Jordan",
+          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+        }
+      ],
+      "duration_ms": 173988,
+      "name": "picky choosy",
+      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -161,20 +293,20 @@
       "url": "https://open.spotify.com/track/1sVBT215CDmVJvfy1E2OCU"
     },
     {
-      "added_at": "2026-02-20 05:00:41",
+      "added_at": "2026-03-06 05:00:08",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6ucnlEitExzKDkF4VuFwyM"
+        "name": "Miracle Mile",
+        "url": "https://open.spotify.com/album/5RgaHwAaePVI9nNSHuowOc"
       },
       "artists": [
         {
-          "name": "KELS",
-          "url": "https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU"
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
         }
       ],
-      "duration_ms": 182760,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/5ZtPofuIcSv3Lov9TiNyiE"
+      "duration_ms": 137360,
+      "name": "400 Cities",
+      "url": "https://open.spotify.com/track/0gdNSd9ztRCeONjBec42PE"
     },
     {
       "added_at": "2026-02-27 05:01:11",
@@ -193,20 +325,20 @@
       "url": "https://open.spotify.com/track/7j7J2M3ZsKOsrhBueDjhqF"
     },
     {
-      "added_at": "2026-02-20 05:05:57",
+      "added_at": "2026-03-06 05:00:08",
       "album": {
-        "name": "Save The Day (From \"Hoppers\")",
-        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/2XhdejNPxAfbGZwuoeBEqo"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
         }
       ],
-      "duration_ms": 172333,
-      "name": "Save The Day - From \"Hoppers\"",
-      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+      "duration_ms": 166173,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"
     },
     {
       "added_at": "2026-02-20 05:11:42",
@@ -223,22 +355,6 @@
       "duration_ms": 218526,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/0cVITrJKWy47OkoU1KGhDa"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
       "added_at": "2026-02-20 05:00:41",
@@ -277,6 +393,22 @@
       "url": "https://open.spotify.com/track/3G0SQeuephtTBg5OZtXyRD"
     },
     {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "duration_ms": 158991,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB"
+    },
+    {
       "added_at": "2026-01-30 05:00:42",
       "album": {
         "name": "You Stole The Show",
@@ -291,6 +423,22 @@
       "duration_ms": 207190,
       "name": "You Stole The Show",
       "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
+    },
+    {
+      "added_at": "2025-12-05 05:40:57",
+      "album": {
+        "name": "Easy Street",
+        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 193469,
+      "name": "Your Nonsense Makes Sense",
+      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -325,6 +473,22 @@
       "url": "https://open.spotify.com/track/3GaogYQuDRFs0qhtriRvxX"
     },
     {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Never Thought I Could (Part 1)",
+        "url": "https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS"
+      },
+      "artists": [
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm"
+    },
+    {
       "added_at": "2026-02-27 05:01:11",
       "album": {
         "name": "How I Get",
@@ -339,22 +503,6 @@
       "duration_ms": 219866,
       "name": "How I Get",
       "url": "https://open.spotify.com/track/1gjrb6iiP6KIrQnDBIqqDi"
-    },
-    {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "I Just Might",
-        "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "I Just Might",
-      "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
       "added_at": "2026-02-06 05:00:47",
@@ -421,20 +569,20 @@
       "url": "https://open.spotify.com/track/6DMzMl75NFXqyMgtQy2KYg"
     },
     {
-      "added_at": "2026-02-27 05:01:11",
+      "added_at": "2025-12-05 05:40:57",
       "album": {
-        "name": "picky choosy",
-        "url": "https://open.spotify.com/album/6TD2tnPDc1FltOgEHw0Hpe"
+        "name": "Something In The Heavens",
+        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
       },
       "artists": [
         {
-          "name": "Chelsea Jordan",
-          "url": "https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 173988,
-      "name": "picky choosy",
-      "url": "https://open.spotify.com/track/3AcYk3jezQA6jc6A64mKw2"
+      "duration_ms": 198028,
+      "name": "Something In The Heavens",
+      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     },
     {
       "added_at": "2026-02-13 05:00:31",
@@ -467,54 +615,6 @@
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
-    },
-    {
-      "added_at": "2026-02-20 05:28:32",
-      "album": {
-        "name": "I\u2019m Going To Die",
-        "url": "https://open.spotify.com/album/17clQoJXEn7XKT522d0WBY"
-      },
-      "artists": [
-        {
-          "name": "Leroy Clampitt",
-          "url": "https://open.spotify.com/artist/1RKdNxma7zLA5FAyt5ghJ7"
-        }
-      ],
-      "duration_ms": 180017,
-      "name": "I\u2019m Going To Die",
-      "url": "https://open.spotify.com/track/1GGqXiVW58oZV5DckGpAae"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 235355,
-      "name": "Opalite",
-      "url": "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa"
-    },
-    {
-      "added_at": "2026-02-20 05:00:41",
-      "album": {
-        "name": "Days Of Ash EP",
-        "url": "https://open.spotify.com/album/3vgnEcyvM5xJ479leSdeVT"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "Song Of The Future",
-      "url": "https://open.spotify.com/track/3xbZa70HOBQpGQcaR3HqW1"
     },
     {
       "added_at": "2026-01-23 05:00:28",
@@ -681,22 +781,6 @@
       "url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
     },
     {
-      "added_at": "2026-02-06 05:28:22",
-      "album": {
-        "name": "Indicator",
-        "url": "https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE"
-      },
-      "artists": [
-        {
-          "name": "John The Blind",
-          "url": "https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD"
-        }
-      ],
-      "duration_ms": 216277,
-      "name": "Beautiful Thing",
-      "url": "https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg"
-    },
-    {
       "added_at": "2025-12-05 05:40:57",
       "album": {
         "name": "The Thing I Love",
@@ -715,38 +799,6 @@
       "duration_ms": 172636,
       "name": "The Thing I Love",
       "url": "https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu"
-    },
-    {
-      "added_at": "2026-01-30 05:00:42",
-      "album": {
-        "name": "High Maintenance",
-        "url": "https://open.spotify.com/album/5Yw2010UiiBoJcJrlKnmmO"
-      },
-      "artists": [
-        {
-          "name": "Paul Russell",
-          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
-        }
-      ],
-      "duration_ms": 144407,
-      "name": "High Maintenance",
-      "url": "https://open.spotify.com/track/3nUQ7JkB1GR4NUY4Lbhziy"
-    },
-    {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "I Could Get Used To This",
-        "url": "https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "I Could Get Used To This",
-      "url": "https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw"
     },
     {
       "added_at": "2025-12-05 05:40:57",
@@ -813,22 +865,6 @@
       "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
-      "added_at": "2026-01-23 05:00:28",
-      "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 311733,
-      "name": "Aperture",
-      "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
-    },
-    {
       "added_at": "2026-01-30 05:00:42",
       "album": {
         "name": "The Joker",
@@ -843,98 +879,6 @@
       "duration_ms": 146666,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/47VqjTHCzSCYeWyGQwOxUg"
-    },
-    {
-      "added_at": "2026-01-30 05:00:42",
-      "album": {
-        "name": "Two Car Garage",
-        "url": "https://open.spotify.com/album/35SWvZWmYD6O60FVna7sgP"
-      },
-      "artists": [
-        {
-          "name": "Jon Bellion",
-          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        },
-        {
-          "name": "FANDOM",
-          "url": "https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv"
-        }
-      ],
-      "duration_ms": 182886,
-      "name": "Two Car Garage",
-      "url": "https://open.spotify.com/track/57ZFmLushr2mLmY1NMoZwI"
-    },
-    {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "SWEET LOVE",
-        "url": "https://open.spotify.com/album/1LEX8A7hoDloo5pJrVrb2f"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 145758,
-      "name": "SWEET LOVE",
-      "url": "https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn"
-    },
-    {
-      "added_at": "2026-01-09 05:00:44",
-      "album": {
-        "name": "Manchild",
-        "url": "https://open.spotify.com/album/3wRHV5fOeUcM5hvYzWZsic"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 213645,
-      "name": "Manchild",
-      "url": "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1"
-    },
-    {
-      "added_at": "2026-01-02 05:00:15",
-      "album": {
-        "name": "Eternity",
-        "url": "https://open.spotify.com/album/1arG3K4COe0kCEU9NqPF5S"
-      },
-      "artists": [
-        {
-          "name": "Alex Warren",
-          "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-        },
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 203474,
-      "name": "Eternity",
-      "url": "https://open.spotify.com/track/438QRARw2l8mc0TyFk8BLy"
-    },
-    {
-      "added_at": "2026-01-16 05:00:45",
-      "album": {
-        "name": "Roommates",
-        "url": "https://open.spotify.com/album/2nNElH8jprrtk67FtK0I2v"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 172749,
-      "name": "Roommates",
-      "url": "https://open.spotify.com/track/41NPpWsUgF7D6t3jNQcEz5"
     },
     {
       "added_at": "2026-01-02 05:00:15",
@@ -1047,22 +991,6 @@
     {
       "added_at": "2025-12-05 05:40:57",
       "album": {
-        "name": "Easy Street",
-        "url": "https://open.spotify.com/album/7bUVYoQv3CqY6yMZdSO5F8"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 193469,
-      "name": "Your Nonsense Makes Sense",
-      "url": "https://open.spotify.com/track/3WqN67qY3EMX536LcHIknO"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
         "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
         "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
       },
@@ -1075,22 +1003,6 @@
       "duration_ms": 179086,
       "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
       "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
-    },
-    {
-      "added_at": "2025-12-05 05:40:57",
-      "album": {
-        "name": "Something In The Heavens",
-        "url": "https://open.spotify.com/album/7JKqghg3DcUzw12Sk9XNXf"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 198028,
-      "name": "Something In The Heavens",
-      "url": "https://open.spotify.com/track/4MHORmGs8oN7AASfGmApcM"
     }
   ],
   "unique_name": "Just Good Music",

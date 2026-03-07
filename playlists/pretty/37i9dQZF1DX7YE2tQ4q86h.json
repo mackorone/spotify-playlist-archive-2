@@ -1,13 +1,65 @@
 {
-  "description": "BLACKPINK are having a main pop girl emergency!",
-  "num_followers": 222722,
+  "description": "Bebe Rexha is having a main pop girl emergency!",
+  "num_followers": 222871,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFCeDM88YAS3Wt/O5SALAmvn3Q14",
+  "snapshot_id": "AAAAAICMHpbedIQpfmMfJLkkFhzedafy",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Hot Pink Baby",
+        "url": "https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP"
+      },
+      "artists": [
+        {
+          "name": "Flight School",
+          "url": "https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX"
+        }
+      ],
+      "duration_ms": 163043,
+      "name": "Hot Pink Baby",
+      "url": "https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Burial (from Mother Mary)",
+        "url": "https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq"
+      },
+      "artists": [
+        {
+          "name": "Anne Hathaway",
+          "url": "https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x"
+        }
+      ],
+      "duration_ms": 189859,
+      "name": "Burial (from Mother Mary)",
+      "url": "https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6"
+    },
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
@@ -25,6 +77,74 @@
       "url": "https://open.spotify.com/track/43BJVWcBzHRIDaQCg7abnX"
     },
     {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Midnight Sun (+ more)",
+        "url": "https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 190728,
+      "name": "Midnight Sun - Super Loud",
+      "url": "https://open.spotify.com/track/69psOP7O7y7QOV0dVisyNk"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Save Me Tonight",
+        "url": "https://open.spotify.com/album/4ha2YPiAGZrV5OIIKJkt9Z"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 196003,
+      "name": "Save Me Tonight",
+      "url": "https://open.spotify.com/track/4WuAr5SE1ZfXxu6OWtykkG"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "KiLL iT QUEEN",
+        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "KiLL iT QUEEN",
+      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Losing Streak",
+        "url": "https://open.spotify.com/album/53R2ayL23t6b6oPJWFyGnV"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 218140,
+      "name": "Losing Streak",
+      "url": "https://open.spotify.com/track/3OTN972oOsFGjHvjRbdSnU"
+    },
+    {
       "added_at": "2026-02-27 05:00:35",
       "album": {
         "name": "Lush Life (Spotify Singles)",
@@ -39,6 +159,94 @@
       "duration_ms": 181976,
       "name": "Lush Life - Spotify Singles",
       "url": "https://open.spotify.com/track/19vcdecWhQfCqf4KzEnlRj"
+    },
+    {
+      "added_at": "2026-02-27 05:00:35",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 188320,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "Dog",
+        "url": "https://open.spotify.com/album/3TbON5WSx3OksjRcQVyvpz"
+      },
+      "artists": [
+        {
+          "name": "Cobrah",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 157556,
+      "name": "Dog",
+      "url": "https://open.spotify.com/track/5eBhs4ethVM65azitjNAFv"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "amanda",
+        "url": "https://open.spotify.com/album/279AFyO1fVRd6WhgxwSmrQ"
+      },
+      "artists": [
+        {
+          "name": "Willa Ford",
+          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "Disassociate",
+      "url": "https://open.spotify.com/track/3Fx4AuoiicM7y0lwdnqhqa"
+    },
+    {
+      "added_at": "2026-02-13 05:00:31",
+      "album": {
+        "name": "Wuthering Heights",
+        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 182038,
+      "name": "Dying for You",
+      "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "JOEY RUBBER",
+        "url": "https://open.spotify.com/album/3b5qz12uwcqkzokLPjGXj5"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        },
+        {
+          "name": "REYSHA RAMI",
+          "url": "https://open.spotify.com/artist/3V3EAJjX9EmvSsjm79J32j"
+        }
+      ],
+      "duration_ms": 133282,
+      "name": "JOEY RUBBER",
+      "url": "https://open.spotify.com/track/75wLYjS1en69GHsxEOL6vx"
     },
     {
       "added_at": "2025-10-17 04:00:35",
@@ -61,20 +269,40 @@
       "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
+      "added_at": "2026-03-06 05:00:09",
       "album": {
-        "name": "KiLL iT QUEEN",
-        "url": "https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 168387,
-      "name": "KiLL iT QUEEN",
-      "url": "https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU"
+      "duration_ms": 216026,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "SOS XOX (ft. vi0let)",
+        "url": "https://open.spotify.com/album/6tyUrFJViUo8l93eqpn2Wh"
+      },
+      "artists": [
+        {
+          "name": "MARiMARi",
+          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
+        },
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 139710,
+      "name": "SOS XOX (ft. vi0let)",
+      "url": "https://open.spotify.com/track/1reCHfsIleI81FSbGvcHBN"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -109,24 +337,20 @@
       "url": "https://open.spotify.com/track/3AKzOFfv7b3WSuBmjFxMdp"
     },
     {
-      "added_at": "2026-02-27 05:00:35",
+      "added_at": "2026-03-06 05:00:09",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/0PWDYw8t6pEp4n8sFHZzOj"
+        "name": "Hunnyb\u00e5n / Fine Curls",
+        "url": "https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
         }
       ],
-      "duration_ms": 188320,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/7J4dPn4Xg9Op0e8N2tjqkX"
+      "duration_ms": 161356,
+      "name": "Hunnyb\u00e5n",
+      "url": "https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E"
     },
     {
       "added_at": "2026-02-27 05:00:35",
@@ -149,36 +373,20 @@
       "url": "https://open.spotify.com/track/3D4trADwg7QGGpFlLSLg48"
     },
     {
-      "added_at": "2026-02-13 05:00:31",
+      "added_at": "2026-03-06 05:00:09",
       "album": {
-        "name": "Wuthering Heights",
-        "url": "https://open.spotify.com/album/4oniyB3TRFhjglVSqVgy9e"
+        "name": "Tweak",
+        "url": "https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu"
       },
       "artists": [
         {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "GIRLSET",
+          "url": "https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P"
         }
       ],
-      "duration_ms": 182038,
-      "name": "Dying for You",
-      "url": "https://open.spotify.com/track/0T3sHoiR3t9HtwbIOgTI7J"
-    },
-    {
-      "added_at": "2025-12-27 16:24:52",
-      "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
+      "duration_ms": 148704,
+      "name": "Tweak",
+      "url": "https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO"
     },
     {
       "added_at": "2026-02-20 05:00:50",
@@ -745,22 +953,6 @@
       "url": "https://open.spotify.com/track/3izfXttfacD09wumtm92Bj"
     },
     {
-      "added_at": "2026-01-30 05:01:08",
-      "album": {
-        "name": "Hush",
-        "url": "https://open.spotify.com/album/6u9gVzMK2g0mZh9xEK6avS"
-      },
-      "artists": [
-        {
-          "name": "Cobrah",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 212486,
-      "name": "Hush",
-      "url": "https://open.spotify.com/track/4Vfc9QSzqyDyHtfZy7vGgC"
-    },
-    {
       "added_at": "2026-01-16 05:00:38",
       "album": {
         "name": "MONA LISA",
@@ -957,22 +1149,6 @@
       "url": "https://open.spotify.com/track/4SykKuN3ZpoJViT7Nyhz57"
     },
     {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "Griever",
-        "url": "https://open.spotify.com/album/6meD5wVSeerSX35CaYRoDf"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 151466,
-      "name": "Griever",
-      "url": "https://open.spotify.com/track/3SsJWYARKml3sxaf7UqZFB"
-    },
-    {
       "added_at": "2026-01-09 05:00:44",
       "album": {
         "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
@@ -1019,22 +1195,6 @@
       "duration_ms": 212075,
       "name": "Lucky You're A Star",
       "url": "https://open.spotify.com/track/5FZW41OweIMbQNMuYxyKAa"
-    },
-    {
-      "added_at": "2026-01-16 05:00:38",
-      "album": {
-        "name": "MAGNETIC",
-        "url": "https://open.spotify.com/album/5vme92kLr1E7DEd9OjSsEv"
-      },
-      "artists": [
-        {
-          "name": "ZEE MACHINE",
-          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
-        }
-      ],
-      "duration_ms": 212912,
-      "name": "MAGNETIC",
-      "url": "https://open.spotify.com/track/69d48Kbu4YBG3B1Erg4iNg"
     },
     {
       "added_at": "2025-09-26 04:00:24",
@@ -1133,38 +1293,6 @@
       "url": "https://open.spotify.com/track/3T7dcfT2PMwybgLexpQg6V"
     },
     {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "SADDERN RETURN",
-        "url": "https://open.spotify.com/album/5yvaaQvRCrCkbbTdHWtyZ8"
-      },
-      "artists": [
-        {
-          "name": "EARTH TO EMILY",
-          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
-        }
-      ],
-      "duration_ms": 148958,
-      "name": "SADDERN RETURN",
-      "url": "https://open.spotify.com/track/54Gpi6bYNBcLTD2c48aTP7"
-    },
-    {
-      "added_at": "2025-11-21 05:00:40",
-      "album": {
-        "name": "It\u2019s Not That Deep (Little Bit Extra Version)",
-        "url": "https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 203073,
-      "name": "Joshua Tree",
-      "url": "https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv"
-    },
-    {
       "added_at": "2025-11-28 05:21:59",
       "album": {
         "name": "SELLOUT II",
@@ -1179,38 +1307,6 @@
       "duration_ms": 188533,
       "name": "Afterbody",
       "url": "https://open.spotify.com/track/688F4WEXlJBlNYPMOpLmAx"
-    },
-    {
-      "added_at": "2025-12-05 05:00:22",
-      "album": {
-        "name": "ZONE",
-        "url": "https://open.spotify.com/album/06Z6NmunCkEomOqxsUk6p2"
-      },
-      "artists": [
-        {
-          "name": "Estelle Fly",
-          "url": "https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk"
-        }
-      ],
-      "duration_ms": 167478,
-      "name": "ZONE",
-      "url": "https://open.spotify.com/track/6uAQtMephSqoizW8vufKjK"
-    },
-    {
-      "added_at": "2025-11-28 05:21:59",
-      "album": {
-        "name": "KPOP B!TCH",
-        "url": "https://open.spotify.com/album/7EOFfxjYvlOmhJT0U3Uwxk"
-      },
-      "artists": [
-        {
-          "name": "The Deep",
-          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
-        }
-      ],
-      "duration_ms": 172554,
-      "name": "KPOP B!TCH",
-      "url": "https://open.spotify.com/track/2v8n9luYuBJcvrhylo1G1f"
     },
     {
       "added_at": "2025-11-14 05:00:35",
@@ -1243,22 +1339,6 @@
       "duration_ms": 183622,
       "name": "Headlights",
       "url": "https://open.spotify.com/track/4K6uNplAcD1OBHNnbOimgZ"
-    },
-    {
-      "added_at": "2025-11-21 05:00:40",
-      "album": {
-        "name": "Party Animal",
-        "url": "https://open.spotify.com/album/3qXR3nSUOkcMhoY7Yc0gr7"
-      },
-      "artists": [
-        {
-          "name": "Ella Red",
-          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
-        }
-      ],
-      "duration_ms": 139689,
-      "name": "Party Animal",
-      "url": "https://open.spotify.com/track/4YVoPRtD3oIZzLIDoQ4h3B"
     },
     {
       "added_at": "2025-10-24 04:21:35",
@@ -1387,22 +1467,6 @@
     {
       "added_at": "2025-11-07 05:00:57",
       "album": {
-        "name": "Once I Was A Good Girl",
-        "url": "https://open.spotify.com/album/4r8a3ytRZLzYHtuMPw0nbQ"
-      },
-      "artists": [
-        {
-          "name": "3Quency",
-          "url": "https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA"
-        }
-      ],
-      "duration_ms": 172078,
-      "name": "Once I Was A Good Girl",
-      "url": "https://open.spotify.com/track/7m8meWnPim7LUGBlWFzfIM"
-    },
-    {
-      "added_at": "2025-11-07 05:00:57",
-      "album": {
         "name": "KILLA (feat. Pabllo Vittar & Isabella Lovestory)",
         "url": "https://open.spotify.com/album/4n3fNuyz0AxA22ZLmrI9l1"
       },
@@ -1439,38 +1503,6 @@
       "duration_ms": 146378,
       "name": "Lucky Number One",
       "url": "https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL"
-    },
-    {
-      "added_at": "2025-11-07 05:04:16",
-      "album": {
-        "name": "Do It",
-        "url": "https://open.spotify.com/album/3q2koL9KwKQxUue4hn8oWg"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213145,
-      "name": "Do It",
-      "url": "https://open.spotify.com/track/5BDo6TzD8q0oNtqhhXU3nx"
-    },
-    {
-      "added_at": "2025-11-07 05:00:57",
-      "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
     },
     {
       "added_at": "2025-11-07 05:00:57",
@@ -1519,22 +1551,6 @@
       "duration_ms": 175743,
       "name": "CRANK",
       "url": "https://open.spotify.com/track/5lFu1VR7s2EvuKAi6qxU0G"
-    },
-    {
-      "added_at": "2025-10-17 04:00:35",
-      "album": {
-        "name": "Burn Burn",
-        "url": "https://open.spotify.com/album/5JTnqykKF9Z9WY0ChBUzTi"
-      },
-      "artists": [
-        {
-          "name": "Willa Ford",
-          "url": "https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u"
-        }
-      ],
-      "duration_ms": 199268,
-      "name": "Burn Burn",
-      "url": "https://open.spotify.com/track/4GIiIHBckthRZQDwg4wNKO"
     },
     {
       "added_at": "2025-10-10 04:00:49",

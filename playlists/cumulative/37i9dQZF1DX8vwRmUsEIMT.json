@@ -6673,6 +6673,36 @@
     },
     {
       "album": {
+        "name": "Berghain (Remix)",
+        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154954,
+      "name": "Berghain - Remix",
+      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+    },
+    {
+      "album": {
         "name": "Berlin Nightmare (feat. Evita Manji)",
         "url": "https://open.spotify.com/album/1Ki212TBrb125zZ1S05rNG"
       },
@@ -43201,6 +43231,28 @@
     },
     {
       "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "album": {
         "name": "New Sport",
         "url": "https://open.spotify.com/album/26tr0TFxCiinhbEcNrlGiu"
       },
@@ -62175,7 +62227,7 @@
     },
     {
       "album": {
-        "name": "This is Real (Disappear) [feat. Eyelar]",
+        "name": "This is Real (Disappear)",
         "url": "https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9"
       },
       "artists": [
@@ -62196,7 +62248,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 297187,
-      "name": "This is Real (Disappear) [feat. Eyelar]",
+      "name": "This is Real (Disappear)",
       "url": "https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO"
     },
     {

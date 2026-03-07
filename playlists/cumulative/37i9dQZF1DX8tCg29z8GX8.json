@@ -9230,7 +9230,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 121348,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq"
@@ -12514,6 +12514,24 @@
       "duration_ms": 203333,
       "name": "SCAR",
       "url": "https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy"
+    },
+    {
+      "album": {
+        "name": "Scatter",
+        "url": "https://open.spotify.com/album/3BDEtVroY0AYKNJ7m51JO2"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129923,
+      "name": "Scatter",
+      "url": "https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn"
     },
     {
       "album": {

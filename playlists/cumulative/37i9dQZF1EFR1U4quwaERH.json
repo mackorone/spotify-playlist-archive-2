@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "Hold Out",
+        "url": "https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2"
+      },
+      "artists": [
+        {
+          "name": "Shea Diamond",
+          "url": "https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212038,
+      "name": "Hold Out",
+      "url": "https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR"
+    },
+    {
+      "album": {
         "name": "homies",
         "url": "https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X"
       },

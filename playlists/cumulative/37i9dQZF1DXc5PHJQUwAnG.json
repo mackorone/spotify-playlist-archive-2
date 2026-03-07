@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Victor Rivera y Su Nuevo Estilo en portada.",
+  "description": "Bienvenidx a la trampa mexa. Victor Mendivil y Hades66 en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "ABOVE",
+        "url": "https://open.spotify.com/album/5kiF2w9HDHoN3uAxl9OkHv"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167500,
+      "name": "ABOVE",
+      "url": "https://open.spotify.com/track/24nI1SG28dcXyQe2XNGMhE"
+    },
+    {
+      "album": {
         "name": "Achede",
         "url": "https://open.spotify.com/album/0bOGQgQLTjG8ZhCN6k1k0T"
       },
@@ -492,7 +510,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196933,
       "name": "Al Cien",
       "url": "https://open.spotify.com/track/1Q8owsEuxlCHkfnM3OaSUX"
@@ -518,6 +536,28 @@
       "duration_ms": 134262,
       "name": "AL0NE",
       "url": "https://open.spotify.com/track/54Jk6726TvuuUFrhWnTicw"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
     },
     {
       "album": {
@@ -1240,7 +1280,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 162374,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/0tr262YLE1Ne14rs0Q3AMW"
@@ -3213,6 +3253,28 @@
     },
     {
       "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/5jkxwBDK357V8CLzlQPcUM"
+      },
+      "artists": [
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "SALVAMENTO",
+          "url": "https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188759,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
+    },
+    {
+      "album": {
         "name": "Esquimal",
         "url": "https://open.spotify.com/album/0pAGfIGxeYkGvaHzhzUFFU"
       },
@@ -5078,7 +5140,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143311,
       "name": "La Primera",
       "url": "https://open.spotify.com/track/4F12uZbVbzzvyI1shTud4m"

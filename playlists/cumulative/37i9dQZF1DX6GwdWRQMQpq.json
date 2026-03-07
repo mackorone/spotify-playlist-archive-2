@@ -9787,6 +9787,24 @@
     },
     {
       "album": {
+        "name": "NO HOOK",
+        "url": "https://open.spotify.com/album/4ug1Q2Bskr7WKaSOd4nyVE"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68666,
+      "name": "NO HOOK",
+      "url": "https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk"
+    },
+    {
+      "album": {
         "name": "No Love (with SZA & Cardi B) [Extended Version]",
         "url": "https://open.spotify.com/album/1Rt2ZYJ3tBKqXtFuB19xz4"
       },
@@ -10517,6 +10535,24 @@
     },
     {
       "album": {
+        "name": "Owe Me One",
+        "url": "https://open.spotify.com/album/6yez14TlddOAlC0eis2wGK"
+      },
+      "artists": [
+        {
+          "name": "Mellow Rackz",
+          "url": "https://open.spotify.com/artist/3celDTSIsfH8ks4YQ68B5w"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113831,
+      "name": "Owe Me One",
+      "url": "https://open.spotify.com/track/1iND0yyleoNyAKgcXf8MFt"
+    },
+    {
+      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
       },
@@ -10684,7 +10720,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 159336,
       "name": "Peggy",
       "url": "https://open.spotify.com/track/6UPiTNzNmUFE59YkkyCs9n"
@@ -12526,7 +12562,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 178775,
       "name": "Shake It To The Max (FLY) - Remix",
       "url": "https://open.spotify.com/track/0QCIpQV3twfqo9kh0t8Zza"
@@ -15458,7 +15494,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 200347,
       "name": "Worth My Time",
       "url": "https://open.spotify.com/track/1xxRHYyJBPa86QSa3LpxBW"

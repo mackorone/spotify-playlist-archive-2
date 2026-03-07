@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Mató a un Policía Motorizado.
 
-370 songs - 1 day 3 hr 54 min
+371 songs - 1 day 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/0dQnYqZuIFrj3Sn38Fjg7Q) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve](https://open.spotify.com/album/0pklZTMjcGqRk3d6W3puxz) | 3:56 | 2023-12-22 | 2024-04-19 |
 | [Desde Lejos No Se Ve \- En Vivo](https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Desde Lejos No Se Ve \(En Vivo\)](https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv) | 3:56 | 2022-04-01 | 2024-01-04 |
 | [Desde Lejos No Se Ve \- En Vivo en River 2018](https://open.spotify.com/track/55O0ykD2QyWj5TZwG2VJuT) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Ciro y los Persas en el Estadio de River \(En Vivo\)](https://open.spotify.com/album/6Rz8GNFfkBkWauaPRK8QPw) | 4:10 | 2022-04-01 | 2022-07-23 |
-| [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 | 2024-03-21 |  |
+| [Difícil De Entender \- En Vivo](https://open.spotify.com/track/6j213IFF8ae9gA8lQb6s8o) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Difícil De Entender \(En Vivo\)](https://open.spotify.com/album/4vNwIgcdszi9DH3IOjsoD8) | 5:38 | 2024-03-21 | 2026-03-07 |
 | [Donde Vamos](https://open.spotify.com/track/2s4FbgZH1PS2c6DawiE6up) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [La Mancha 360](https://open.spotify.com/album/4lmRIta1CJWESEv4EA9laV) | 4:42 | 2022-04-01 | 2022-07-28 |
 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 | 2023-08-31 | 2024-08-16 |
 | [Déjate Llevar \- En Vivo](https://open.spotify.com/track/6NmBulAzho0LziJ7uWND7q) | [Trotsky Vengarán](https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk) | [Una Noche de Rock en Medallo \(En Vivo\)](https://open.spotify.com/album/3D9lOWSIxUG37alYDOACB3) | 3:46 | 2022-06-24 | 2022-07-29 |
@@ -296,6 +296,7 @@
 | [Roxana Porcellana \- En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza](https://open.spotify.com/track/1doPJZrqUVxPhD5cFdMzid) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Roxana Porcellana \(En Vivo, Sábado 13 de Diciembre de 2014 / Mendoza\)](https://open.spotify.com/album/52F9O4eYq3oOdWJF6B7d3i) | 4:05 | 2024-06-07 |  |
 | [Sacate la Mierda \- En Vivo](https://open.spotify.com/track/63tUQEbpxDar0yjmtPB6jg) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Hoy Como Ayer \(En Vivo\)](https://open.spotify.com/album/1JYKLf6VSzu0c0V9YMKxqz) | 4:13 | 2022-04-01 | 2023-03-25 |
 | [Sacrificio y Rock and Roll](https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:31 | 2022-04-01 |  |
+| [Salando las Heridas \- En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil](https://open.spotify.com/track/2hSRzXVYNH5KZjICvZkQFo) | [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4), [Los Fundamentalistas del Aire Acondicionado](https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO) | [Salando las Heridas \(En Vivo, Sábado 12 de Marzo de 2016 / Hipódromo de Tandil\)](https://open.spotify.com/album/6ijXMByAmcNJpQRC7guaJS) | 5:05 | 2026-03-06 |  |
 | [Sasha, Sissi Y El Círculo De Baba \- En Vivo](https://open.spotify.com/track/4cbfHPIwApaXNgfQPaUzbK) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después Del Amor 20 Años \( En Vivo \)](https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj) | 4:36 | 2022-04-01 | 2023-10-07 |
 | [Savia \- Vivo en Luna Park](https://open.spotify.com/track/7lY5sUTwLclisN4n6iKBdz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Los Lunáticos Planes de una Mariposa Incandescente \(Vivo en Luna Park\)](https://open.spotify.com/album/4gPo6XbIQfVywsTVYrT42E) | 4:54 | 2023-08-25 | 2025-12-24 |
 | [Se Fue al Cielo \- En Vivo Luna Park](https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Se Fue al Cielo \(En Vivo Luna Park\)](https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK) | 3:50 | 2022-04-01 |  |

@@ -36361,6 +36361,24 @@
     },
     {
       "album": {
+        "name": "Solaria",
+        "url": "https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E"
+      },
+      "artists": [
+        {
+          "name": "Slowtide",
+          "url": "https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226351,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf"
+    },
+    {
+      "album": {
         "name": "Wanna Be There",
         "url": "https://open.spotify.com/album/39HDnFlfpvWMOC3QUseE2N"
       },
@@ -36379,20 +36397,20 @@
     },
     {
       "album": {
-        "name": "Aquarius",
+        "name": "Aquarius (vol 1)",
         "url": "https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz"
       },
       "artists": [
         {
-          "name": "Aqua Music",
-          "url": "https://open.spotify.com/artist/4ePcCXBWcHkxBflhVSM5rd"
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/5hDCRrkgBTxt0okHCV9hnP"
         }
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200000,
-      "name": "Warm In Your Arms - Vintage Hall Version",
+      "name": "Warm In Your Arms",
       "url": "https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs"
     },
     {

@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 賽
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron!
 
-511 songs - 1 day 12 hr 52 min
+515 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,6 +350,7 @@
 | [Period](https://open.spotify.com/track/0KzxzEHDY5iXx1xP8ImPPd) | [906 / Nine\-O\-Six](https://open.spotify.com/artist/1Am4iFYCHbHzsstVYToEmK) | [Period](https://open.spotify.com/album/2wo9xea7hSFAROMwhOT93o) | 3:07 | 2025-03-13 | 2025-04-14 |
 | [permanent triangle](https://open.spotify.com/track/6IFMMSJ6JG6m06bavyHn1E) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [permanent triangle](https://open.spotify.com/album/3SUpBkO5BE8zupb9pVWjFg) | 4:26 | 2024-06-27 | 2024-08-09 |
 | [Perspective](https://open.spotify.com/track/3NNn2JRgGLXUgBp7lYQ4eZ) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Perspective](https://open.spotify.com/album/1v9AVHL7UZEDyMz1PKGAbT) | 2:39 | 2024-08-15 | 2025-03-14 |
+| [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 | 2026-03-06 |  |
 | [Planet Nine](https://open.spotify.com/track/7tzaYUtVNNC9Obk1QO8BbQ) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [1978](https://open.spotify.com/album/55ax5GwEEbCZMIoHdoKmpp) | 4:50 | 2024-06-27 | 2024-08-09 |
 | [Plastic Gold](https://open.spotify.com/track/29kz8GF3MV3jgC5elnCrXa) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [das Ding](https://open.spotify.com/album/4VfO3IGtm6QAZDgx5DTwsJ) | 5:00 | 2025-06-19 | 2025-07-11 |
 | [Pleasure](https://open.spotify.com/track/38dx4drapaEa5PL5KR8cpS) | [Ryozo Band](https://open.spotify.com/artist/0SAQKUQfA2JpZZwvO1rG0I) | [Pleasure](https://open.spotify.com/album/7vG8PwEHf0uwf6ImQttrKn) | 4:36 | 2024-09-26 | 2025-01-31 |
@@ -401,6 +402,7 @@
 | [Stair 1](https://open.spotify.com/track/4jl4G2EWBLxIVKeT03oAe9) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z) | [Diamond Staircase](https://open.spotify.com/album/7ndB2mztr8DG60MZnz93he) | 1:55 | 2025-08-14 | 2026-02-28 |
 | [Steam Train](https://open.spotify.com/track/4T1bg27zOYqe3tNhObzdKn) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [More Chaos](https://open.spotify.com/album/0kUv0WevtizDaXNZe3gBzj) | 6:22 | 2025-07-17 | 2026-01-31 |
 | [Step Ahead](https://open.spotify.com/track/4kx5HMY4HZ3YYe2x9XZU5h) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd), [Nicole McCabe](https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl), [Ka'Cye Thompkins](https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I) | [Step Ahead](https://open.spotify.com/album/1Hm5RnZ6Fb1PKNPWscezsD) | 6:38 | 2025-01-10 | 2025-01-17 |
+| [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 | 2026-03-06 |  |
 | [Streets is Calling \(feat\. M.anifest & Moonchild Sanelly\) \- Single Edit](https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets Is Calling \(feat\. Moonchild Sanelly & M.anifest\)](https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL) | 2:32 | 2024-09-05 | 2024-09-27 |
 | [Sum Love](https://open.spotify.com/track/1VczlNTqhGoDIEKi1jLCTc) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [ECHOES OF PRAYER](https://open.spotify.com/album/3nM9OJqlMxtKqPvttKAQlv) | 2:55 | 2024-10-10 | 2024-12-06 |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-26 | 2025-10-03 |
@@ -464,6 +466,7 @@
 | [Virtual Insanity](https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA), [カマタミズキ](https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s) | [Virtual Insanity](https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg) | 4:47 | 2024-06-27 | 2024-12-18 |
 | [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 | 2025-07-03 | 2025-09-26 |
 | [Vortex](https://open.spotify.com/track/70gLTdoX1syfNjvo2pytVy) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Vortex \(from "LAZARUS" Soundtrack\)](https://open.spotify.com/album/6SmmaTkAGqhVtvsgwHSRuX) | 6:23 | 2025-03-27 | 2025-07-11 |
+| [Vultures](https://open.spotify.com/track/2J5ijA5rTGwIp75MJfhe19) | [Kumail](https://open.spotify.com/artist/2JYgvhoagKBhBYkpD0gIKj), [Nickson Dufala](https://open.spotify.com/artist/6YRbtfpS8ernnGLnjkNAB1) | [Vultures](https://open.spotify.com/album/1SOpl8iZoedRxF3kAuFylv) | 3:29 | 2026-03-06 |  |
 | [Waiting A Minute](https://open.spotify.com/track/6VuZtqlKrLUpGylzDxpeBr) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Eléwa](https://open.spotify.com/artist/4yga9zVKyeLfF0fnGLEYru) | [Still Smokin.III.](https://open.spotify.com/album/3vmcQwoo56JsUl2M0AtrqO) | 4:03 | 2025-06-19 | 2025-08-30 |
 | [Wake Up \(feat\. MMYYKK\) \- Flipped by MMYYKK](https://open.spotify.com/track/3IzOTC89cQcLBfptnDpoRY) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [Code Derivation](https://open.spotify.com/album/3Mc0nvVT7wkqRUurBPxOG7) | 3:08 | 2025-08-29 | 2026-01-23 |
 | [Wanna Die](https://open.spotify.com/track/2tbDr90KoG4ZFyI5StbI39) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Wanna Die](https://open.spotify.com/album/0YqvrdD8O5aT8f1u2ojphY) | 2:41 | 2025-01-30 | 2025-04-05 |
@@ -491,6 +494,7 @@
 | [Wires \(Lazarus Version\)](https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg) | 4:33 | 2025-04-13 | 2025-06-20 |
 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 | 2025-09-25 |  |
 | [Woman “Wの悲劇”より](https://open.spotify.com/track/2LekJIHMXmm2PEZ0sPfFfj) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Woman “Wの悲劇”より](https://open.spotify.com/album/6pdNJgvPa8LfnZXD8giqfx) | 3:53 | 2025-11-20 | 2026-02-28 |
+| [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 | 2026-03-06 |  |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-13 | 2025-04-05 |
 | [Yellow Hello](https://open.spotify.com/track/18rSQpe1DVokN2puNo2Vc0) | [N.S\. DANCEMBLE](https://open.spotify.com/artist/4vgz1ReBFy52w0qHJekFBr) | [Yellow Hello](https://open.spotify.com/album/109Evmqdk2DaOZNeCO7Iow) | 3:14 | 2025-07-17 | 2025-08-20 |
 | [Yellow Light](https://open.spotify.com/track/5e5bW6s0sfXIiBYHho9lnl) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj) | [Yellow Light](https://open.spotify.com/album/1CsPycVnrsLq4L6TRpCpA0) | 4:35 | 2025-04-13 | 2025-07-18 |

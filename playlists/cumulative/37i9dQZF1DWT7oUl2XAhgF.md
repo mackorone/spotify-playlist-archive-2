@@ -2,9 +2,9 @@
 
 ### [Retro Soul](https://open.spotify.com/playlist/37i9dQZF1DWT7oUl2XAhgF)
 
-> A new take on a classic sound\. Cover: The Womack Sisters
+> A new take on a classic sound\. Cover: Jalen Ngonda
 
-589 songs - 1 day 11 hr 22 min
+590 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Digging up Graves](https://open.spotify.com/track/1P2dAOEpNQzC1eXW5er10B) | [Karen Lee Andrews](https://open.spotify.com/artist/3GBnhIpKY4jSuD6uAKxN20) | [EDIN](https://open.spotify.com/album/50py568QonJj2aTffsp4Qm) | 3:43 | 2022-10-07 | 2022-11-12 |
 | [Do It All Again](https://open.spotify.com/track/0Wa2qkfYlHDfx1iGKTaCuU) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [Do It All Again](https://open.spotify.com/album/1uqwOGZogjB2sJ6cHuqD04) | 3:00 | 2024-09-06 | 2026-01-31 |
 | [Do You Wanna Do Nothing with Me?](https://open.spotify.com/track/2M7UdnD0fEaryh8TnCvqFX) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Breakfast](https://open.spotify.com/album/7zRCJCgUmYNYZvTJDTRItd) | 4:11 | 2021-07-09 | 2023-01-28 |
+| [Doctrine of Love](https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Doctrine of Love](https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l) | 3:20 | 2026-03-06 |  |
 | [Doing The Thing](https://open.spotify.com/track/2bWioVam86EwJCz6vdqNpt) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Doing The Thing](https://open.spotify.com/album/4PVSeMBGgX6t48ec7HFvYY) | 3:30 | 2024-05-10 | 2024-06-08 |
 | [Don't Be Afraid](https://open.spotify.com/track/6BT17vBMR1gXKziGubn3Vy) | [Mike Gronsky](https://open.spotify.com/artist/2f5oy3dEmuvQzfZ85FD0TM) | [Don't Be Afraid](https://open.spotify.com/album/7sB0s1sUqsvo2vwMtx7TRW) | 4:13 | 2022-09-23 | 2022-10-08 |
 | [Don't Knock Upon My Door](https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd) | [The Vintage Explosion](https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD) | [Don't Knock Upon My Door](https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy) | 3:06 | 2023-06-30 | 2023-07-22 |
@@ -260,7 +261,7 @@
 | [Joy & Pain](https://open.spotify.com/track/1iHj6nbjMHFpH73fl4AyWB) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Joy & Pain](https://open.spotify.com/album/6OoLcz38MMFvn9l6nAweXC) | 3:43 | 2022-01-14 | 2022-07-29 |
 | [Joy & Pain](https://open.spotify.com/track/456nsH3QN5RspaYysK2GKY) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:43 | 2022-01-14 | 2023-02-18 |
 | [Just Ain't Gonna Work Out](https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [A Strange Arrangement](https://open.spotify.com/album/0kI88dzVn3VuvjfNS2JElU) | 2:30 | 2021-07-09 | 2023-01-28 |
-| [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-03-14 |  |
+| [Just As Long As We're Together](https://open.spotify.com/track/6uAt2PE7YB5gHeCAFeD7G6) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just As Long As We're Together](https://open.spotify.com/album/2q05Sy95Dj43lDHqXANajn) | 3:14 | 2025-03-14 | 2026-03-07 |
 | [Just Like You Used To](https://open.spotify.com/track/4zi12vnfemTW9sYo3XoJ2y) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Just Like You Used To](https://open.spotify.com/album/1k5qKVZeuywgn3a00Khg1Q) | 3:08 | 2022-09-09 | 2023-03-25 |
 | [Keep Me In Mind](https://open.spotify.com/track/3Uq6ndKDd34GsphNxrzmZg) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4), [Renaldo Domino](https://open.spotify.com/artist/1khTv30muAt1j7qrqvjN4U) | [Keep Me In Mind](https://open.spotify.com/album/0RBuoBJVCQx2l3qQx6rSEb) | 3:12 | 2025-04-11 |  |
 | [Keep On](https://open.spotify.com/track/0Nwyp9Qg3qCB17GaoYrdQo) | [The Slim Kings](https://open.spotify.com/artist/0LhcJOSPCu7MwB2o3tZuxf) | [Keep On](https://open.spotify.com/album/7qWegR8dyfgNmGNTLxolo3) | 4:48 | 2025-05-23 | 2025-08-31 |

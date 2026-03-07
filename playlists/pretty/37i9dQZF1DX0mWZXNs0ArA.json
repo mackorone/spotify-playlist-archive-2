@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1945443,
+  "num_followers": 1945350,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPiHKWK8ByBnTarGuUWbme9mqnlo",
+  "snapshot_id": "AAAAAGveSTckM9jCDmpUzXATQA9T+CRF",
   "tracks": [
     {
       "added_at": "2025-11-26 17:14:04",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "MONEY ON THE DASH",
-        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
-      },
-      "artists": [
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        }
-      ],
-      "duration_ms": 116465,
-      "name": "MONEY ON THE DASH - SPED UP",
-      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Blonde Chaya (Sped Up)",
         "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 181052,
       "name": "Blonde Chaya - Sped Up",
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "MONEY ON THE DASH",
+        "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        }
+      ],
+      "duration_ms": 116465,
+      "name": "MONEY ON THE DASH - SPED UP",
+      "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -699,18 +699,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Paro (Speed Up)",
-        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
+        "name": "Say It Right (Sped Up Remix)",
+        "url": "https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F"
       },
       "artists": [
         {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Speed Radio",
+          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Paro - Speed Up",
-      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
+      "duration_ms": 194160,
+      "name": "Say It Right - Sped Up Remix",
+      "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -731,22 +735,18 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Say It Right (Sped Up Remix)",
-        "url": "https://open.spotify.com/album/5Bsu0xoGyVm5sGRxHYH52F"
+        "name": "Paro (Speed Up)",
+        "url": "https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL"
       },
       "artists": [
         {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Say It Right - Sped Up Remix",
-      "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
+      "duration_ms": 153800,
+      "name": "Paro - Speed Up",
+      "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -887,26 +887,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Drowning (Sped Up Version)",
-        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+        "name": "Pool (Gravagerz Version - Sped Up & Slowed Down)",
+        "url": "https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ"
       },
       "artists": [
         {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+          "name": "Gravagerz",
+          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
         },
         {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "kiki wera",
+          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
         }
       ],
-      "duration_ms": 174517,
-      "name": "Drowning - Sped Up Version",
-      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+      "duration_ms": 117039,
+      "name": "Pool - Gravagerz Version - Sped Up",
+      "url": "https://open.spotify.com/track/0yQOKvmYpZDzMmOMS9qY1u"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -927,22 +923,26 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Pool (Gravagerz Version - Sped Up & Slowed Down)",
-        "url": "https://open.spotify.com/album/0x2OZtWCIZP5tDBazcPdlJ"
+        "name": "Drowning (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
       },
       "artists": [
         {
-          "name": "Gravagerz",
-          "url": "https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc"
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
         },
         {
-          "name": "kiki wera",
-          "url": "https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 117039,
-      "name": "Pool - Gravagerz Version - Sped Up",
-      "url": "https://open.spotify.com/track/0yQOKvmYpZDzMmOMS9qY1u"
+      "duration_ms": 174517,
+      "name": "Drowning - Sped Up Version",
+      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -987,26 +987,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "If We Have Each Other (Always By Her Side) [Sped Up Version]",
-        "url": "https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
-        }
-      ],
-      "duration_ms": 156975,
-      "name": "If We Have Each Other (Always By Her Side) - Sped Up Version",
-      "url": "https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Her Way (Sped Up)",
         "url": "https://open.spotify.com/album/1uYvJPQzUytNlcAIHSQPI0"
       },
@@ -1035,6 +1015,26 @@
       "duration_ms": 176286,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "If We Have Each Other (Always By Her Side) [Sped Up Version]",
+        "url": "https://open.spotify.com/album/6THJRzfxXMd5tjtt4uqFGY"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 156975,
+      "name": "If We Have Each Other (Always By Her Side) - Sped Up Version",
+      "url": "https://open.spotify.com/track/1B2mOfWYc7EatMwnVx1g1x"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1197,20 +1197,24 @@
       "url": "https://open.spotify.com/track/4gL8fyRJwOsRIwWi7TXR0n"
     },
     {
-      "added_at": "2025-11-26 17:14:04",
+      "added_at": "2026-03-06 05:00:06",
       "album": {
-        "name": "Mama's Boy (Sped up)",
-        "url": "https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU"
+        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
+        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
       },
       "artists": [
         {
-          "name": "Lewis Hanton",
-          "url": "https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
         }
       ],
-      "duration_ms": 74815,
-      "name": "Mama's Boy - Sped up",
-      "url": "https://open.spotify.com/track/01lTSn2mrimc9wSl2EG4F8"
+      "duration_ms": 123677,
+      "name": "SPAGHETTI (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1227,6 +1231,22 @@
       "duration_ms": 153087,
       "name": "Feather - Sped Up",
       "url": "https://open.spotify.com/track/2WkrEyLzATbOK8U3xt8Ggq"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "Mama's Boy (Sped up)",
+        "url": "https://open.spotify.com/album/1Zd2LdHbIG34x4HfhNQTGU"
+      },
+      "artists": [
+        {
+          "name": "Lewis Hanton",
+          "url": "https://open.spotify.com/artist/7C2uVXwFKLlwHteHGnMLhZ"
+        }
+      ],
+      "duration_ms": 74815,
+      "name": "Mama's Boy - Sped up",
+      "url": "https://open.spotify.com/track/01lTSn2mrimc9wSl2EG4F8"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1269,22 +1289,6 @@
       "url": "https://open.spotify.com/track/3iLEjZtu5Za0ZR35lYIDeu"
     },
     {
-      "added_at": "2026-01-02 05:00:12",
-      "album": {
-        "name": "BEAUTIFUL CHAOS: The Remixes",
-        "url": "https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 165811,
-      "name": "Gabriela - Sped Up Version",
-      "url": "https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG"
-    },
-    {
       "added_at": "2025-11-26 17:14:04",
       "album": {
         "name": "Maria Maria (feat. The Product G&B) [sped up]",
@@ -1307,6 +1311,22 @@
       "duration_ms": 236431,
       "name": "Maria Maria (feat. The Product G&B) - sped up",
       "url": "https://open.spotify.com/track/68R32667rUVTo8ldDkOXyR"
+    },
+    {
+      "added_at": "2026-01-02 05:00:12",
+      "album": {
+        "name": "BEAUTIFUL CHAOS: The Remixes",
+        "url": "https://open.spotify.com/album/6XF8wsqdbLWIBnLgcoEpYu"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 165811,
+      "name": "Gabriela - Sped Up Version",
+      "url": "https://open.spotify.com/track/1hWWXZQFr0jAdnZaSLZYqG"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1339,6 +1359,26 @@
       "duration_ms": 132137,
       "name": "Gangsta (Kehlani) - Sped Up Version",
       "url": "https://open.spotify.com/track/4Z7ZOrHtlgn9kXw68c0pMo"
+    },
+    {
+      "added_at": "2026-03-06 05:00:06",
+      "album": {
+        "name": "EYES CLOSED (with ZAYN) [2X]",
+        "url": "https://open.spotify.com/album/0eNHq5zvwCafUZfPAEclIX"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 166322,
+      "name": "EYES CLOSED (with ZAYN) - 2X",
+      "url": "https://open.spotify.com/track/0IHmXRAKcRd00l50QW5pQU"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1451,6 +1491,22 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 159314,
+      "name": "Saturn - Sped Up",
+      "url": "https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
         "name": "Only Love Can Hurt Like This (Sped Up Version)",
         "url": "https://open.spotify.com/album/4n584qCBn2N7MDkjPX6Cs8"
       },
@@ -1469,20 +1525,20 @@
       "url": "https://open.spotify.com/track/6SCJiS8fAWC5VzRpMEiHxV"
     },
     {
-      "added_at": "2025-11-26 17:14:04",
+      "added_at": "2026-03-06 05:00:06",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+        "name": "Adrenaline (Remix)",
+        "url": "https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
         }
       ],
-      "duration_ms": 159314,
-      "name": "Saturn - Sped Up",
-      "url": "https://open.spotify.com/track/6HCRvVvTrW0gXGOW8cbkqw"
+      "duration_ms": 189608,
+      "name": "Adrenaline (Speed Up Ver.)",
+      "url": "https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1615,22 +1671,6 @@
     {
       "added_at": "2025-11-26 17:14:04",
       "album": {
-        "name": "Never Let Go (Of Me) [Heist Edit]",
-        "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
-      },
-      "artists": [
-        {
-          "name": "Baltra",
-          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
-        }
-      ],
-      "duration_ms": 83360,
-      "name": "Never Let Go (Of Me) - Sped Up",
-      "url": "https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
         "name": "Demons + Paint The Town Red",
         "url": "https://open.spotify.com/album/6nFN6jMhxevXL4Y7tuivv9"
       },
@@ -1643,6 +1683,22 @@
       "duration_ms": 210681,
       "name": "Paint The Town Red - Sped Up",
       "url": "https://open.spotify.com/track/0Rjj6c6oThmuTeNu3EP3um"
+    },
+    {
+      "added_at": "2025-11-26 17:14:04",
+      "album": {
+        "name": "Never Let Go (Of Me) [Heist Edit]",
+        "url": "https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr"
+      },
+      "artists": [
+        {
+          "name": "Baltra",
+          "url": "https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC"
+        }
+      ],
+      "duration_ms": 83360,
+      "name": "Never Let Go (Of Me) - Sped Up",
+      "url": "https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb"
     },
     {
       "added_at": "2025-11-26 17:14:04",
@@ -1791,66 +1847,6 @@
       "duration_ms": 193137,
       "name": "Murder On The Dancefloor - Sped Up Version",
       "url": "https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "DOOR TO DUSK (ODECORE MIX)",
-        "url": "https://open.spotify.com/album/0lzxP3FqDyCvbEL8jER5kX"
-      },
-      "artists": [
-        {
-          "name": "ODECORE",
-          "url": "https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7"
-        },
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 99388,
-      "name": "YOU'RE TOO SLOW - Sped Up",
-      "url": "https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm"
-    },
-    {
-      "added_at": "2026-01-02 05:00:12",
-      "album": {
-        "name": "Revolving door (remixes)",
-        "url": "https://open.spotify.com/album/3Lu2uejItyM8JBMCIOBKeg"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 162801,
-      "name": "Revolving door - sped-up",
-      "url": "https://open.spotify.com/track/4nvvPQ01t8wKia9zUTCHmT"
-    },
-    {
-      "added_at": "2025-11-26 17:14:04",
-      "album": {
-        "name": "One Of Your Girls (Sped Up)",
-        "url": "https://open.spotify.com/album/48cK704EMiYSveyWWCST4j"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "xxtristanxo",
-          "url": "https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr"
-        },
-        {
-          "name": "Speed Radio",
-          "url": "https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER"
-        }
-      ],
-      "duration_ms": 156220,
-      "name": "One Of Your Girls - Sped Up",
-      "url": "https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5"
     }
   ],
   "unique_name": "sped up songs",

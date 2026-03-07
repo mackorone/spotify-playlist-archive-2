@@ -4,7 +4,7 @@
 
 > afrobeats daqui, de fora, de todos os cantos
 
-254 songs - 12 hr 34 min
+255 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,9 +249,10 @@
 | [Veneno](https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o) | [Veneno](https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5) | 2:46 | 2024-01-12 | 2024-06-22 |
 | [Verdade ou Ilusão](https://open.spotify.com/track/2kX3tbCZwWHnS2zRS8FLcO) | [Abayomi](https://open.spotify.com/artist/2uDMCuJTV24DEJJh4p5dc0), [Mr\. Dan](https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52) | [Verdade ou Ilusão](https://open.spotify.com/album/23pMQXiRHWuovyRxKGJpCA) | 3:24 | 2023-11-24 | 2023-12-02 |
 | [VERÃO](https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 3:34 | 2024-03-01 | 2025-07-15 |
-| [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 | 2025-02-21 |  |
+| [Vibe](https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Vibe](https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX) | 2:30 | 2025-02-21 | 2026-03-07 |
 | [Vitória Brindar](https://open.spotify.com/track/2udyF4SetdTT2OLhc9oO57) | [BADZILLA](https://open.spotify.com/artist/3q8BlD7eg64KOuC179EE2g), [Bebé](https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu), [Tarcis](https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Vitória Brindar](https://open.spotify.com/album/0dgw83NEUgjL7oXjFFk75O) | 3:17 | 2023-10-27 | 2023-11-11 |
 | [Wallah Wallah](https://open.spotify.com/track/703TjpxP2MoYYDejagNz5Z) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Wallah Wallah](https://open.spotify.com/album/44dBOLiBaGlCtHnfcFEH3p) | 2:22 | 2025-10-31 |  |
+| [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 | 2026-03-06 |  |
 | [Wifi](https://open.spotify.com/track/2TFk8hcQ7aLErud6AbhKLo) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l) | [O Queridinho de Deus](https://open.spotify.com/album/12FBYClyofbdrOns5C79yq) | 3:20 | 2024-07-05 | 2024-08-10 |
 | [Xona](https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Xona](https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p) | 3:25 | 2023-09-15 | 2024-11-02 |
 | [YESHUA](https://open.spotify.com/track/4KDKbQWEng8BAhPy9Gz2zG) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [YESHUA](https://open.spotify.com/album/3XzX5ht2VaUvLmBJJSG1yx) | 2:40 | 2024-08-30 | 2024-11-23 |

@@ -439,26 +439,6 @@
     {
       "added_at": "2026-02-27 18:07:57",
       "album": {
-        "name": "O Sol Tamb\u00e9m Chora",
-        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
-      },
-      "artists": [
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 157161,
-      "name": "Acha que Eu N\u00e3o Sei",
-      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
-    },
-    {
-      "added_at": "2026-02-27 18:07:57",
-      "album": {
         "name": "DESCE",
         "url": "https://open.spotify.com/album/2DZtqMtwHC5YCjB3htnGE0"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 134400,
       "name": "DESCE",
       "url": "https://open.spotify.com/track/7Iw0FvlqtXjJaDMN68vMPs"
+    },
+    {
+      "added_at": "2026-02-27 18:07:57",
+      "album": {
+        "name": "O Sol Tamb\u00e9m Chora",
+        "url": "https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We"
+      },
+      "artists": [
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 157161,
+      "name": "Acha que Eu N\u00e3o Sei",
+      "url": "https://open.spotify.com/track/1Wihr8eydHL4fTJVdnfVyX"
     },
     {
       "added_at": "2026-02-27 18:07:57",

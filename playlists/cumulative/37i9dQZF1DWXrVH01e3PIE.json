@@ -5030,7 +5030,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 164457,
       "name": "Goteo",
       "url": "https://open.spotify.com/track/1EoEU4HY57qaITp06TkC6B"
@@ -5736,6 +5736,24 @@
       "duration_ms": 135521,
       "name": "Jefa",
       "url": "https://open.spotify.com/track/5p3UrngKJuewvX42AqBBNe"
+    },
+    {
+      "album": {
+        "name": "zelly",
+        "url": "https://open.spotify.com/album/7lNdUIg9CS88Kye35acvOW"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "jenner",
+      "url": "https://open.spotify.com/track/06asrnDRmnNWqYUL9d1qUr"
     },
     {
       "album": {
@@ -7220,6 +7238,28 @@
       "duration_ms": 109830,
       "name": "Michael Jackson",
       "url": "https://open.spotify.com/track/45I9Ev1Hn6sy41DXcQ86AF"
+    },
+    {
+      "album": {
+        "name": "Lata Con Plata",
+        "url": "https://open.spotify.com/album/2YwotMsBPTqvaMKAXBCBRY"
+      },
+      "artists": [
+        {
+          "name": "Tussiwarriors",
+          "url": "https://open.spotify.com/artist/4iVXdkoTNazv6MQh1wojj0"
+        },
+        {
+          "name": "Venen",
+          "url": "https://open.spotify.com/artist/7CrCrSVCxLDfJs3yOyr2Nb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148741,
+      "name": "Michael Jackson",
+      "url": "https://open.spotify.com/track/096EULX9UPyPPpVpCRO2H3"
     },
     {
       "album": {
@@ -11568,7 +11608,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 456939,
       "name": "Tumbando el Club (feat. C.R.O, Obiewanshot, YSY A, Cazzu, KHEA, Lucho SSJ, Coqe\u00e9in Montana, Marcianos Crew & Duki) - Remix",
       "url": "https://open.spotify.com/track/0OWcpVA83HI8Pb5DybDuoX"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:playlist:37i9dQZF1EFHdCJiQTW4YT\">Stephen Wrabel</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:4s4sHVaj6CRcClZ7SFSKzE\">MARIS</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -653,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Body Is On Fire",
+        "url": "https://open.spotify.com/album/5EzCcZlpoHWp4X3IJDRq7b"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142734,
+      "name": "Body Is On Fire",
+      "url": "https://open.spotify.com/track/5dG34aa2xQK9WBbd2U8MAS"
+    },
+    {
+      "album": {
         "name": "b7",
         "url": "https://open.spotify.com/album/4Fv3f2Y4CNZY7UoBXuXqK2"
       },
@@ -1258,7 +1276,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220000,
       "name": "Felicity",
       "url": "https://open.spotify.com/track/7jhYoHM7KXmVSVKTgSuuPH"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 179166,
       "name": "Give Me A Sign (feat. Caroline Kingsbury)",
       "url": "https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ"
@@ -1883,6 +1901,24 @@
     },
     {
       "album": {
+        "name": "IT'S HARD (to be a Man)",
+        "url": "https://open.spotify.com/album/1wtUOQUVs3ij7NEJCWDuhw"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180267,
+      "name": "IT'S HARD (to be a Man)",
+      "url": "https://open.spotify.com/track/5G6ZCA94A0DBcBSDlacRss"
+    },
+    {
+      "album": {
         "name": "JOY",
         "url": "https://open.spotify.com/album/5PLNFCrdaoInB5NU92M38x"
       },
@@ -2078,6 +2114,24 @@
       "duration_ms": 171509,
       "name": "MAKE IT OUT ALIVE",
       "url": "https://open.spotify.com/track/6yQWWm99NGK64J57sXUr5B"
+    },
+    {
+      "album": {
+        "name": "Mary + I",
+        "url": "https://open.spotify.com/album/0hlueOwqC87qbzjuzNSblE"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "Mary + I",
+      "url": "https://open.spotify.com/track/0GfCIDAZiehD1YmAYfgAZK"
     },
     {
       "album": {
@@ -2588,7 +2642,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220036,
       "name": "Replay",
       "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
@@ -2700,6 +2754,24 @@
       "duration_ms": 169714,
       "name": "Safe & Holy",
       "url": "https://open.spotify.com/track/1WDpPOQUQFPFtGpZX5Qnrs"
+    },
+    {
+      "album": {
+        "name": "Salt Water Taffy",
+        "url": "https://open.spotify.com/album/7z9LxFMfUtFV6YGyZHhdHR"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206842,
+      "name": "Salt Water Taffy",
+      "url": "https://open.spotify.com/track/2MuY7Djj8hqZeQFic3dY9a"
     },
     {
       "album": {
@@ -3083,6 +3155,24 @@
     },
     {
       "album": {
+        "name": "The Fight",
+        "url": "https://open.spotify.com/album/2TWeSO79Hf1fBTX6gDWdvl"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "The Fight",
+      "url": "https://open.spotify.com/track/5UQJYPk5sDzQMlKP1Muf1e"
+    },
+    {
+      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/7GicDmV1udDFss8K0QY1v1"
       },
@@ -3206,7 +3296,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171335,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm"
@@ -3530,7 +3620,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 144516,
       "name": "wiggy",
       "url": "https://open.spotify.com/track/1jwXn7H1UDANmEvw6bfDr6"

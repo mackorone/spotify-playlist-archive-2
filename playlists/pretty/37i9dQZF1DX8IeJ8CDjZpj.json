@@ -1,6 +1,6 @@
 {
   "description": "2026 es el nuevo 2016 \ud83d\udcf8 Justin Bieber",
-  "num_followers": 94729,
+  "num_followers": 94737,
   "original_name": "2016 vibes \u2728",
   "owner": {
     "name": "Spotify",
@@ -399,26 +399,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "SremmLife 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
-      },
-      "artists": [
-        {
-          "name": "Rae Sremmurd",
-          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 291893,
-      "name": "Black Beatles",
-      "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 226738,
       "name": "Roses",
       "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "SremmLife 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5v6iBhIlflzR9rEd1LAMbd"
+      },
+      "artists": [
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 291893,
+      "name": "Black Beatles",
+      "url": "https://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Blanco Perla",
         "url": "https://open.spotify.com/album/6mgSRh6Ck9zlY5e9o7ADx7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 228666,
       "name": "Manicomio",
       "url": "https://open.spotify.com/track/3UVM7rdOSbm2vKDXB9SsWo"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "DUELE EL CORAZON (feat. Wisin)",
         "url": "https://open.spotify.com/album/5Ouuxga807CPAs81lSloBJ"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
+        "name": "Desde El Rancho",
+        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Amor Del Bueno",
+      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
         "name": "New English",
         "url": "https://open.spotify.com/album/0cHT4ll3sEPyFFWoFuibMl"
       },
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Desde El Rancho",
-        "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
+        "name": "Stranger Things, Vol. 1 (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
         }
       ],
-      "duration_ms": 193386,
-      "name": "Amor Del Bueno",
-      "url": "https://open.spotify.com/track/6CmFzaTvg7lRSAWwHmBDfj"
+      "duration_ms": 158000,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/68gzf3AleOyt4NlKwpV0MY"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 217746,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/059ACLUOyEcdruA2m9f2jd"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "California (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 235613,
       "name": "Bored to Death",
       "url": "https://open.spotify.com/track/12YGKHMw1l36tXlgU2Vrjj"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 217746,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/059ACLUOyEcdruA2m9f2jd"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Pegao en Youtube",
-        "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
-      },
-      "artists": [
-        {
-          "name": "La Mafia del Amor",
-          "url": "https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA"
-        }
-      ],
-      "duration_ms": 214726,
-      "name": "Xapiadora",
-      "url": "https://open.spotify.com/track/3Gfs29GWViOqUnHSBq911p"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Durmiendo en el Lugar Equivocado",
         "url": "https://open.spotify.com/album/0niloiK76YpMEqEO698GIF"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 195194,
       "name": "Te Dir\u00e1n",
       "url": "https://open.spotify.com/track/1Z0OcQTJWRBvzzGl7D7TtJ"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Pegao en Youtube",
+        "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
+      },
+      "artists": [
+        {
+          "name": "La Mafia del Amor",
+          "url": "https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA"
+        }
+      ],
+      "duration_ms": 214726,
+      "name": "Xapiadora",
+      "url": "https://open.spotify.com/track/3Gfs29GWViOqUnHSBq911p"
     },
     {
       "added_at": "2026-01-23 01:08:49",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-01-23 01:08:49",
       "album": {
-        "name": "Pegao en Youtube",
-        "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
-      },
-      "artists": [
-        {
-          "name": "La Mafia del Amor",
-          "url": "https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA"
-        }
-      ],
-      "duration_ms": 225959,
-      "name": "Tropical",
-      "url": "https://open.spotify.com/track/1c3lEwfoPzQ52Wq7G0RNCA"
-    },
-    {
-      "added_at": "2026-01-23 01:08:49",
-      "album": {
         "name": "Blackstar",
         "url": "https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 384453,
       "name": "Lazarus",
       "url": "https://open.spotify.com/track/7rFN0DhIFPjAWG1EaHO2F0"
+    },
+    {
+      "added_at": "2026-01-23 01:08:49",
+      "album": {
+        "name": "Pegao en Youtube",
+        "url": "https://open.spotify.com/album/0tPACU9RiGW8i2ltvbKDTF"
+      },
+      "artists": [
+        {
+          "name": "La Mafia del Amor",
+          "url": "https://open.spotify.com/artist/58BvN1pGtlKYP897Qsq5QA"
+        }
+      ],
+      "duration_ms": 225959,
+      "name": "Tropical",
+      "url": "https://open.spotify.com/track/1c3lEwfoPzQ52Wq7G0RNCA"
     },
     {
       "added_at": "2026-01-23 01:08:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 
 > Get into the spirit of New Orleans\. Cover: Wynton Marsalis
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,911 likes - 60 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,907 likes - 60 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLsFIeybF20.md) - [plain]
 | 12 | [On the Square](https://open.spotify.com/track/17TMEJXBTWKELB4PQ3vbh1) | [Olympia Brass Band](https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt) | [The Great Olympia Band](https://open.spotify.com/album/0Wnrzvyabjext6HSTvJ4IB) | 3:43 |
 | 13 | [Pennies from Heaven](https://open.spotify.com/track/7pwaLS4RMfIgait3uNhmcs) | [Leroy Jones](https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB) | [Back to My Roots](https://open.spotify.com/album/3h80PQZuBjr2FCMbXdCFio) | 4:14 |
 | 14 | [Do You Know What It Means to Miss New Orleans \- Live](https://open.spotify.com/track/1vgGaSamJ3amxeKmXQIsyD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great Chicago Concert 1956 \- Complete](https://open.spotify.com/album/2gkqH4dEINtzXwuvznrY2Q) | 5:06 |
-| 15 | [I Hope Your Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
+| 15 | [I Hope You're Comin' Back To New Orleans](https://open.spotify.com/track/0foK7CbXYdeDddkIuMEqXk) | [The New Orleans Jazz Vipers](https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j) | [Treme: Music From The HBO Original Series, Season 1](https://open.spotify.com/album/2axJjtgJbRtqYXUgrUy8Sb) | 2:39 |
 | 16 | [The Bucket's Got a Hole in It](https://open.spotify.com/track/6ZRsVuvtvim8tY5H3gWBxG) | [Kid Ory](https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4) | [The Complete Columbia Session 1946](https://open.spotify.com/album/5mCUAqsJuZuwIN4jTTCEKi) | 2:30 |
 | 17 | [When You're Smiling](https://open.spotify.com/track/0Kgk900i6WkIjzLH6vYJMR) | [Kid Thomas](https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe), [Thomas Jefferson](https://open.spotify.com/artist/0cORQgawRwAJfaRkh7nNpR), [Percy Humphrey](https://open.spotify.com/artist/4PMqRbyhDL9yjdb8Qpw6pE) | [New Orleans Traditional Jazz Legends, Vol\. 3](https://open.spotify.com/album/0E1F15zOti40v8RWZ4fADs) | 4:27 |
 | 18 | [Do Whatcha Wanna](https://open.spotify.com/track/5UqzRN9qi2oxmKWff9oIRC) | [Rebirth Brass Band](https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda) | [25th Anniversary](https://open.spotify.com/album/6DWA75mB8yXhnjVYLLpRlu) | 3:12 |

@@ -9,10 +9,10 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Way Back](https://open.spotify.com/track/7EsGZ6VujrpTScGwMfiNKP) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Nicki Wells](https://open.spotify.com/artist/0z6TVKyjgXLDIY0FSIIDUv) | [No Way Back](https://open.spotify.com/album/5s8xkA86nR4wb1IbsjExrF) | 3:39 |
-| 2 | [you're gonna be okay](https://open.spotify.com/track/79YLHDzRnXNDexhFWkDMSn) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [you're gonna be okay](https://open.spotify.com/album/0A3G3Bb36tw8yOM11NybF6) | 4:44 |
-| 3 | [Moments](https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Moments EP](https://open.spotify.com/album/5hTPUaaoJX2PnTdTMZ0EVt) | 3:40 |
-| 4 | [Beneath The Silence](https://open.spotify.com/track/7Jxe0WEJBV9dVnTMhglzIy) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Samsaruh](https://open.spotify.com/artist/1TsJYonLU3ogjhzPP9qOhu) | [Beneath The Silence](https://open.spotify.com/album/7fymCA6jtZGPLHe7xQ2jYm) | 4:12 |
-| 5 | [Victoria](https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Victoria](https://open.spotify.com/album/64NgQmFMWCrwbQe5DwnCqI) | 3:46 |
+| 2 | [Victoria](https://open.spotify.com/track/7mDc9BTeloKNtJ9ZQhfzV4) | [obli](https://open.spotify.com/artist/5bVwCv4C9KQXdUVTCVSjy4) | [Victoria](https://open.spotify.com/album/64NgQmFMWCrwbQe5DwnCqI) | 3:46 |
+| 3 | [you're gonna be okay](https://open.spotify.com/track/79YLHDzRnXNDexhFWkDMSn) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [you're gonna be okay](https://open.spotify.com/album/0A3G3Bb36tw8yOM11NybF6) | 4:44 |
+| 4 | [Moments](https://open.spotify.com/track/3XlM4poGU9OeljXr8PH2DV) | [Noé Solange](https://open.spotify.com/artist/1mn0xkOCIsGf36mamUq7M6) | [Moments EP](https://open.spotify.com/album/5hTPUaaoJX2PnTdTMZ0EVt) | 3:40 |
+| 5 | [Beneath The Silence](https://open.spotify.com/track/7Jxe0WEJBV9dVnTMhglzIy) | [Planet Of Souls](https://open.spotify.com/artist/1hqyzQFuJfTyri74EsObwu), [Samsaruh](https://open.spotify.com/artist/1TsJYonLU3ogjhzPP9qOhu) | [Beneath The Silence](https://open.spotify.com/album/7fymCA6jtZGPLHe7xQ2jYm) | 4:12 |
 | 6 | [searching](https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [searching](https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK) | 4:39 |
 | 7 | [Just](https://open.spotify.com/track/72uN3A1qlZMbdKPcNkj9zG) | [Mona Vale](https://open.spotify.com/artist/2HENzGtBCscHaQpvKoQLYD) | [Asha EP](https://open.spotify.com/album/2geyPuEk2cUTCeSvdU6Cow) | 4:39 |
 | 8 | [Receive](https://open.spotify.com/track/1Kkz7Kis4VvSHwp8kxr2Ov) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2), [Saro](https://open.spotify.com/artist/39kjdm4oUJo40vZgcetOGV) | [Crystallized EP](https://open.spotify.com/album/4SYwuZIpQZtvykYu2emppx) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/4LIb2PKCU2q36oMfA4eNHl.md) - [plain]
 | 99 | [RITUAL \(nothing is lost\)](https://open.spotify.com/track/7xrsufKq2fEmuUL70bi1WN) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [RITUAL \(nothing is lost\)](https://open.spotify.com/album/011DfCTPYJDAcHt8Tahjei) | 3:15 |
 | 100 | [Faber Sanctum](https://open.spotify.com/track/2y83ldCh9YYX51YZPoWkpq) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Joy Paradox](https://open.spotify.com/album/4he5k3MakccOKz5LzaMIUK) | 4:49 |
 
-Snapshot ID: `AAALKJuG6ijpzUD/4SaEdGmUmsewSimg`
+Snapshot ID: `AAALKnsPHh/hz+zCrDgJ2rjjNC6BlYPK`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,093 likes - 40 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,181 likes - 40 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 |
+| 1 | [Red Flag](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 3:06 |
 | 2 | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [MON BÉBÉ \(feat\. Ayra Starr\)](https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT) | 2:17 |
 | 3 | [Solide](https://open.spotify.com/track/68oBz6xab6ATAobLCbtZXX) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [OMW](https://open.spotify.com/album/1APrydqpXaHpfA3RZcbu07) | 3:32 |
 | 4 | [Avec Toi](https://open.spotify.com/track/0SRQ16wkyqjvwMCaIr6nCJ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Avec Toi](https://open.spotify.com/album/7dDITCMm5RIOovZXTk4sSv) | 2:43 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 7 | [RIHANNA](https://open.spotify.com/track/74rFjKlYPfl4BNaayWbffi) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [RIHANNA](https://open.spotify.com/album/5I4dgy1hoY6sagt97wS6cj) | 2:32 |
 | 8 | [Confiance aux femmes](https://open.spotify.com/track/1TqB2ryrDVbwQrSHElWAEw) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Confiance aux femmes](https://open.spotify.com/album/73LffjVbc1NETr2r9JkvzB) | 2:57 |
 | 9 | [MI AMORT](https://open.spotify.com/track/1QmkRQrpwMtKmD2nKqYygD) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [MI AMORT](https://open.spotify.com/album/6jFHDtZGZxITO9B8FO0pOM) | 3:09 |
-| 10 | [Track 8](https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 |
+| 10 | [Shawty](https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 2:39 |
 | 11 | [AVEC MOI](https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [AVEC MOI](https://open.spotify.com/album/3mT7JQV1sTV81SKPxkq0OA) | 3:02 |
 | 12 | [Pardonne moi](https://open.spotify.com/track/1CUzytMt6JV11oYqLoAhYP) | [Fleetzy](https://open.spotify.com/artist/3dYZEqP6PfjEyjkUxgmg8d) | [Pardonne moi](https://open.spotify.com/album/6h6oPvvfyFDC7NNVY21O3H) | 2:52 |
 | 13 | [Comment faire](https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Comment faire](https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG) | 2:54 |

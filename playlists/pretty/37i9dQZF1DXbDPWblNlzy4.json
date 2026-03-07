@@ -1,13 +1,29 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Joaquina",
-  "num_followers": 68240,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Laura Mar\u00e9",
+  "num_followers": 68238,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFdjqfNosw7O0RYyMxUIKv8IW/gh",
+  "snapshot_id": "AAAAAG1dman34k2xhFVYca5SqG5M0lBZ",
   "tracks": [
+    {
+      "added_at": "2026-03-06 04:59:28",
+      "album": {
+        "name": "Muchas (MUCHAS) gracias",
+        "url": "https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "duration_ms": 133411,
+      "name": "Muchas (MUCHAS) gracias",
+      "url": "https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S"
+    },
     {
       "added_at": "2026-01-30 04:59:23",
       "album": {
@@ -27,22 +43,6 @@
     {
       "added_at": "2026-01-30 04:59:23",
       "album": {
-        "name": "Nsqk - Spotify Sessions",
-        "url": "https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 170670,
-      "name": "No Basta Con Querernos M\u00e1s - Spotify Sessions (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka"
-    },
-    {
-      "added_at": "2026-01-30 04:59:23",
-      "album": {
         "name": "Deber\u00eda Ser Yo",
         "url": "https://open.spotify.com/album/272ZhTo8R6fUWDgAbp1wOi"
       },
@@ -55,6 +55,26 @@
       "duration_ms": 166730,
       "name": "Deber\u00eda Ser Yo",
       "url": "https://open.spotify.com/track/1XufZGKFoECAFOFc9BGIkd"
+    },
+    {
+      "added_at": "2026-03-06 04:59:28",
+      "album": {
+        "name": "Nunca Me Lo Esper\u00e9",
+        "url": "https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 165194,
+      "name": "Nunca Me Lo Esper\u00e9",
+      "url": "https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk"
     },
     {
       "added_at": "2026-01-30 04:59:23",

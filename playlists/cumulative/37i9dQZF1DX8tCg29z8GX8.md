@@ -4,7 +4,7 @@
 
 > mate\- Bus stop!
 
-755 songs - 1 day 15 hr 7 min
+756 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Mmerepa](https://open.spotify.com/track/7JksSwrAnm544HQ89kzr6i) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [Kweku Jesus](https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2) | 3:06 | 2024-05-24 | 2024-07-12 |
 | [MO NTWƐN!](https://open.spotify.com/track/7sMAkr15drJKAD6zysmihs) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [MO NTWƐN!](https://open.spotify.com/album/3srUpOMbqL0ez6KKEx8Y91) | 2:02 | 2026-03-06 |  |
 | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/track/4djAFXU6ni8S2T4oxW3yD8) | [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [Matute Boy](https://open.spotify.com/artist/4riXfqk8ehO6Zq9Jb0Ht0L), [DJ Exit](https://open.spotify.com/artist/15sAWkoV7fE9oMkllDie9u) | [Molo \(feat\. LeeMcKrazy, Matute Boy & DJ Exit\)](https://open.spotify.com/album/72VgXlfenVnbl9E3ZKiTjl) | 5:39 | 2024-09-27 | 2024-10-15 |
-| [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-27 |  |
+| [Mon Bebe](https://open.spotify.com/track/1Df7BbqPdArbvnrllykcGq) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Mon Bebe](https://open.spotify.com/album/6d1FnGrErpamMnPW9GWpgf) | 2:01 | 2026-02-27 | 2026-03-07 |
 | [Mon Bebe](https://open.spotify.com/track/2QQk94CGXfsO5J6k6im7Jw) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [The Golden Boy](https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX) | 2:31 | 2022-06-09 | 2023-09-29 |
 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 | 2023-11-03 | 2025-04-01 |
 | [Monsta Alta](https://open.spotify.com/track/4CzjRsUOISdhNlpB09rIz6) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [Monsta Alta & Chérie](https://open.spotify.com/album/5RhWRWtO6UuunZaznnyDce) | 2:50 | 2022-11-18 | 2022-12-09 |
@@ -592,6 +592,7 @@
 | [Savage Flow](https://open.spotify.com/track/5Z5Bl3hHAM3N0rpN8QqxAP) | [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Savage Flow](https://open.spotify.com/album/22fYL3f8XHo5uVloGDbSSQ) | 2:17 | 2024-07-12 | 2024-08-30 |
 | [Say You Bad \(Remix\)](https://open.spotify.com/track/7nMrhVzouCx2Igpdwzo0Ta) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [Say You Bad \(Remix\)](https://open.spotify.com/album/1MSQFlNZ1UqxOk3WRIDxzQ) | 3:24 | 2022-07-07 | 2022-09-20 |
 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 | 2023-04-20 | 2024-06-15 |
+| [Scatter](https://open.spotify.com/track/6v0ipIa8GlGXd6kkzYiaYn) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Scatter](https://open.spotify.com/album/3BDEtVroY0AYKNJ7m51JO2) | 2:09 | 2026-03-06 |  |
 | [Screaming Beauty](https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Screaming Beauty](https://open.spotify.com/album/3So6KWy66vCHStRf64ouQP) | 2:41 | 2025-03-07 |  |
 | [Second Sermon \- Remix](https://open.spotify.com/track/574QNMkQGedluLOgr275s9) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Second Sermon \(Remix\)](https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq) | 3:14 | 2022-06-09 | 2023-02-24 |
 | [See Boday](https://open.spotify.com/track/2fTMA25R9zSVGwW2lBW69q) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [See Boday](https://open.spotify.com/album/2ayfqaSNmC51JUGTgounVm) | 3:09 | 2024-11-08 | 2025-03-01 |

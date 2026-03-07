@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 438226,
+  "num_followers": 438272,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABUYx2mVxV5ojFE5VbMpP7K9UZYG",
+  "snapshot_id": "AAAAAEITkk8Q+//5uszcl61tqOBExmgE",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1083,26 +1083,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 228173,
       "name": "The Echo & The Shadow",
       "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 199746,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Lista de deseos",
-        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
-      },
-      "artists": [
-        {
-          "name": "Medianoche",
-          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Lista de deseos",
-      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "No tenemos tiempo",
         "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 195700,
       "name": "Una Versi\u00f3n Mejor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/7cQGVXDULnR2m9QEYYxEFu"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Lista de deseos",
+        "url": "https://open.spotify.com/album/2wADzv1uyKI64HIC7B2FWL"
+      },
+      "artists": [
+        {
+          "name": "Medianoche",
+          "url": "https://open.spotify.com/artist/0cdMQNFIPkvbCvtapjvbkk"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Lista de deseos",
+      "url": "https://open.spotify.com/track/7r0X1bQXJbZFxttpw3VXG5"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Mandela Place",
         "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Brilla el sol",
+        "url": "https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr"
+      },
+      "artists": [
+        {
+          "name": "Rebe",
+          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
+        }
+      ],
+      "duration_ms": 202025,
+      "name": "Brilla el sol",
+      "url": "https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Brilla el sol",
-        "url": "https://open.spotify.com/album/2hQ31mZrkKFlqwulf87IDr"
-      },
-      "artists": [
-        {
-          "name": "Rebe",
-          "url": "https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF"
-        }
-      ],
-      "duration_ms": 202025,
-      "name": "Brilla el sol",
-      "url": "https://open.spotify.com/track/6n88P24r5XiVb7qXfkXFya"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "S\u00e9 Que Te Vas A Ir",
         "url": "https://open.spotify.com/album/2qW2gVKVFU8aKQMTgLDvC1"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "La torre",
-        "url": "https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3rtel",
-          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "La torre",
-      "url": "https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 151027,
       "name": "Lento",
       "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "La torre",
+        "url": "https://open.spotify.com/album/4YmtpXJo1mIIACyB38Rbxm"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3rtel",
+          "url": "https://open.spotify.com/artist/7tLkQje1Hr44cnNKqS06w9"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "La torre",
+      "url": "https://open.spotify.com/track/5ikeAsdJ8npRBfkfFDK0MJ"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
+        "name": "La Jarrita del Tiempo",
+        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "La Jarrita del Tiempo",
+      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
         "name": "em plou a dins",
         "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
       },
@@ -1543,26 +1563,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "La Jarrita del Tiempo",
-        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "La Jarrita del Tiempo",
-      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 195524,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Primer Amor",
+        "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
+      },
+      "artists": [
+        {
+          "name": "Laaza",
+          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "Primer Amor",
+      "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Primer Amor",
-        "url": "https://open.spotify.com/album/0q4sa4WcOYRKAooPQ4I95z"
-      },
-      "artists": [
-        {
-          "name": "Laaza",
-          "url": "https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "Primer Amor",
-      "url": "https://open.spotify.com/track/47Q3dGvvrMndhNNejITirX"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Kevin",
-        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 203003,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Te perd\u00ed",
         "url": "https://open.spotify.com/album/7fqTQxT1emn8Dgz8R1dVwG"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 200560,
       "name": "Te perd\u00ed",
       "url": "https://open.spotify.com/track/69MHceyqfbUFpGkmAUw7dI"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Kevin",
+        "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 203003,
+      "name": "Kevin",
+      "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "El Vac\u00edo",
         "url": "https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 154187,
       "name": "El Vac\u00edo",
       "url": "https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "EL LABERINTO",
-        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+        "name": "Misma Liga",
+        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
       },
       "artists": [
         {
-          "name": "LEIDAN",
-          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+          "name": "Hnos Munoz",
+          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
         }
       ],
-      "duration_ms": 221774,
-      "name": "TE DOY MI CORAZ\u00d3N",
-      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
+      "duration_ms": 167750,
+      "name": "Misma Liga",
+      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1827,6 +1827,22 @@
       "duration_ms": 176434,
       "name": "Free As a Bird",
       "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "EL LABERINTO",
+        "url": "https://open.spotify.com/album/0ujAwcRGdj1VGw0upziB02"
+      },
+      "artists": [
+        {
+          "name": "LEIDAN",
+          "url": "https://open.spotify.com/artist/064fYl1XrWrWBbHWMcuHFU"
+        }
+      ],
+      "duration_ms": 221774,
+      "name": "TE DOY MI CORAZ\u00d3N",
+      "url": "https://open.spotify.com/track/0803KfjoYRicPbU5IQWdjS"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -1851,38 +1867,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Misma Liga",
-        "url": "https://open.spotify.com/album/44Wotv6bcdehfOEZjWXvQs"
-      },
-      "artists": [
-        {
-          "name": "Hnos Munoz",
-          "url": "https://open.spotify.com/artist/4ePbu0sj0JjaPgGkoRDDdU"
-        }
-      ],
-      "duration_ms": 167750,
-      "name": "Misma Liga",
-      "url": "https://open.spotify.com/track/6pnKysbThfUJQgJQot20iv"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
-      },
-      "artists": [
-        {
-          "name": "Ferran Palau",
-          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
-        }
-      ],
-      "duration_ms": 165806,
-      "name": "Bang bang",
-      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "UNDINE",
         "url": "https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 150361,
       "name": "trist\u00e1n de acu\u00f1a",
       "url": "https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH"
+      },
+      "artists": [
+        {
+          "name": "Ferran Palau",
+          "url": "https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM"
+        }
+      ],
+      "duration_ms": 165806,
+      "name": "Bang bang",
+      "url": "https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
-    },
-    {
-      "added_at": "2026-02-26 23:00:35",
-      "album": {
         "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
         "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 195541,
       "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
       "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
+    },
+    {
+      "added_at": "2026-02-26 23:00:35",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
     },
     {
       "added_at": "2026-02-26 23:00:35",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2026-02-26 23:00:35",
       "album": {
-        "name": "Entre quererte y no s\u00e9",
-        "url": "https://open.spotify.com/album/4bQMzJOFuy5CYeYov5jaji"
+        "name": "Bajo este Sol",
+        "url": "https://open.spotify.com/album/78JUNUPXzAF6fnZ3dDzmoa"
       },
       "artists": [
         {
-          "name": "1DJ SYNC",
-          "url": "https://open.spotify.com/artist/0gWhiwKNoy8CuOkqDkpdt7"
+          "name": "Jose Domingo",
+          "url": "https://open.spotify.com/artist/60XxN4jbU8CLJPAi1fAZPi"
         }
       ],
-      "duration_ms": 229247,
-      "name": "Entre quererte y no s\u00e9",
-      "url": "https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc"
+      "duration_ms": 213359,
+      "name": "Bajo este sol",
+      "url": "https://open.spotify.com/track/0ER1mvGhvfhY1d4wQwUphT"
     }
   ],
   "unique_name": "Relax en casa",

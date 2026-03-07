@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1509452,
+  "num_followers": 1509400,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "B\u00e9di Beat (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
+        "name": "J\u00fapiter (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
       },
       "artists": [
         {
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
         }
       ],
-      "duration_ms": 275750,
-      "name": "B\u00e9di Beat - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
+      "duration_ms": 136208,
+      "name": "J\u00fapiter - Ao Vivo",
+      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1271,18 +1267,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "J\u00fapiter (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2wfBHHWPIKP2P2gZAgGYmf"
+        "name": "B\u00e9di Beat (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7rWDPF2Treuwp15lppTtdo"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
         }
       ],
-      "duration_ms": 136208,
-      "name": "J\u00fapiter - Ao Vivo",
-      "url": "https://open.spotify.com/track/5NMbXBzFfavfYSMY7LBRsP"
+      "duration_ms": 275750,
+      "name": "B\u00e9di Beat - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2T8p68OOvJJ5IL0zaHKF9P"
     },
     {
       "added_at": "2024-08-02 18:37:00",

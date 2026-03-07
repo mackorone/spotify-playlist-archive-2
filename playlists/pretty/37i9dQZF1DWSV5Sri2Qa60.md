@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSV5Sri2Qa60.md) - [plain]
 
 > Where your new favourite bands are discovered\. Cover: Tooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,094 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,103 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Medicine](https://open.spotify.com/track/1pTxyXWghFl2utQ5vEeit0) | [Tooth](https://open.spotify.com/artist/7ALR0GlSnIni4l9iZwJW7s) | [Medicine](https://open.spotify.com/album/3aGiTDyLdNzSgR9zX8Q2yN) | 3:09 |
 | 2 | [5words](https://open.spotify.com/track/0zFd5FI1st50BrRV7LfrrY) | [RIP Magic](https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM) | [5words](https://open.spotify.com/album/1VZc4VYwyBgRCxSjZtj9jl) | 5:17 |
 | 3 | [風｜Kaze](https://open.spotify.com/track/6PpzrR9L9kcto2T7JwZEks) | [bed](https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9) | [風｜Kaze](https://open.spotify.com/album/0dz6iowGbmc2Q0ovSLRke4) | 1:45 |
-| 4 | [Track 27](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 0:00 |
+| 4 | [Teardrop](https://open.spotify.com/track/4RIefFGtLJ2qtG5ZKyCDkV) | [Girl In The Year Above](https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:38 |
 | 5 | [I got god](https://open.spotify.com/track/19LhmxhZyk5LrMWCMMMF0I) | [Victoryland](https://open.spotify.com/artist/63tTs259cHmrkQ7lGTmDdp) | [My Heart Is A Room With No Cameras In It](https://open.spotify.com/album/2DX3rjhortqMx72jCdakYu) | 3:55 |
 | 6 | [Miami](https://open.spotify.com/track/5ZN94e9bgjsaKMwmsIl4E5) | [Pigeon](https://open.spotify.com/artist/2BQ03tTneAqHqm6qWjFKBU) | [Miami](https://open.spotify.com/album/76MibAcuxC1HrFcvLYnxKm) | 3:39 |
 | 7 | [I Was Just A Boy](https://open.spotify.com/track/11cuYyuMk4kkDyv00WepRo) | [Madra Salach](https://open.spotify.com/artist/4ndHOxgaVPMt9xqdNzldgp) | [It's a Hell of an Age](https://open.spotify.com/album/6oZmZb6MX4lhYPN6v3sD2S) | 7:24 |

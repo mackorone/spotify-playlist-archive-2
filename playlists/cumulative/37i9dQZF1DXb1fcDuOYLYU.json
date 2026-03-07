@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "These are the talented women of Latin music. Cover: Gloria Estefan & KAROL G",
+  "description": "These are the talented women of Latin music. Cover: Shakira",
   "name": "Women of Latin",
   "tracks": [
     {
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 267973,
       "name": "Como Me Duele Perderte",
       "url": "https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq"
@@ -1660,7 +1660,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 237466,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/2CNpOXQzoJwWC6YMssLmQY"
@@ -2896,7 +2896,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 128007,
       "name": "FORTY",
       "url": "https://open.spotify.com/track/6jeD3gK27dyfg6rK3yeJAM"
@@ -3620,6 +3620,28 @@
       "duration_ms": 144602,
       "name": "LA MALA",
       "url": "https://open.spotify.com/track/4qd4H8TaQRtPE3yfyQWk8B"
+    },
+    {
+      "album": {
+        "name": "La Mala Era Yo",
+        "url": "https://open.spotify.com/album/6ozCFSLuAcviqzd7fFn9AV"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "La Mala Era Yo",
+      "url": "https://open.spotify.com/track/2nCP0l4ZNJxVm7ZaKBC3mB"
     },
     {
       "album": {
@@ -5967,6 +5989,24 @@
     },
     {
       "album": {
+        "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
+        "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184527,
+      "name": "Pies Descalzos, Sue\u00f1os Blancos - Spotify Anniversary Version",
+      "url": "https://open.spotify.com/track/6ehebXUTI8jx1kodxfE11a"
+    },
+    {
+      "album": {
         "name": "Au",
         "url": "https://open.spotify.com/album/68gJgiFvFFokWUzezIIiQt"
       },
@@ -7968,6 +8008,24 @@
       "duration_ms": 169541,
       "name": "Yo Soy",
       "url": "https://open.spotify.com/track/35GAgahp5pdRfL5eq5b81i"
+    },
+    {
+      "album": {
+        "name": "FX De La Rose",
+        "url": "https://open.spotify.com/album/10FrXNEY6Inn07cZFBf3k3"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118666,
+      "name": "Yo te conozco :):",
+      "url": "https://open.spotify.com/track/1yG1za0O6OK6sKa79xGtsA"
     },
     {
       "album": {

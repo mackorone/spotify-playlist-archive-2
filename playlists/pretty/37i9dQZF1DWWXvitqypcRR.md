@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,369 likes - 47 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,385 likes - 47 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Flying Away with You](https://open.spotify.com/track/0GxkWCaowNJxbaCdrcAPFe) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Flying Away with You](https://open.spotify.com/album/1FiNUDXtRm9FOOtWDhvCRv) | 4:09 |
 | 2 | [Flying Away With You \- andhim Remix](https://open.spotify.com/track/4QCRvEMyYQi4Vs25hPe9ME) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Flying Away With You Remixes](https://open.spotify.com/album/4Wt02ELW10Qyj9OkWMjL6q) | 4:19 |
 | 3 | [Last Day \- David August Revision](https://open.spotify.com/track/5sSlV0um4kVlpZZSjDzxWD) | [David August](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA), [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [Diynamic Revisited \(By David August\)](https://open.spotify.com/album/7aUToQeqbn4jSca2pQUBiR) | 6:44 |
-| 4 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
+| 4 | [Ghost Dance](https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe) | [Brunello](https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [Ghost Dance](https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB) | 6:12 |
 | 5 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
 | 6 | [What To Do \- &ME Remix](https://open.spotify.com/track/3PpvhYXmJdfoxeXGWJmeas) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [What to Do \(Remixes\)](https://open.spotify.com/album/5YZFw1wuLL8CeSriTv4Q7w) | 8:24 |
 | 7 | [Take You Back \- Extended Mix](https://open.spotify.com/track/1EmNhVXD2I85WQk7JYu988) | [Victor Calderone](https://open.spotify.com/artist/2vSlQJ6UWFVWZQPzUaaMGI), [Mykol](https://open.spotify.com/artist/0x7I4Iq04scmrKfTY3VDyA) | [What You Want / Take You Back](https://open.spotify.com/album/2AIAm0AiRXeQF3pSpHPCQH) | 6:14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,649 likes - 125 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,682 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 85 | [The Death of Peace of Mind](https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Death of Peace of Mind](https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9) | 4:01 |
 | 86 | [Rage](https://open.spotify.com/track/4efvHnBxgvaLqIUuMcnMCk) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K) | [Rage](https://open.spotify.com/album/3Bez7vjXWagRClOEWRkZYu) | 4:14 |
 | 87 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
-| 88 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 |
-| 89 | [Cannibal](https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Cannibal](https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ) | 3:21 |
+| 88 | [Cannibal](https://open.spotify.com/track/71ZLUITpAp9J4woBHXnTLa) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Cannibal](https://open.spotify.com/album/4sdOB0zTTdmqLyPs8tHXAJ) | 3:21 |
+| 89 | [Hi!](https://open.spotify.com/track/7pAKQnpPIFHvnw72ssCZXg) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Hi!](https://open.spotify.com/album/5Vl2rwR7D2tV2Mtvl5Wm8n) | 2:22 |
 | 90 | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/track/61lywMXKiITBED8Do8LQHQ) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [You Can't Break Me \(feat\. Brandon Saller of Atreyu\)](https://open.spotify.com/album/6k7ASb40R8wBiQymSSwwh0) | 3:50 |
 | 91 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 |
 | 92 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 |

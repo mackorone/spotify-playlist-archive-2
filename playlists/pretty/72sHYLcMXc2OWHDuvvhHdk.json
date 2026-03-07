@@ -6,7 +6,7 @@
     "name": "Lucciago",
     "url": "https://open.spotify.com/user/1217609118"
   },
-  "snapshot_id": "AAAJ6CZjYpQbdSRUmMXEXrBAmkQoii1p",
+  "snapshot_id": "AAAJ6u6Mdk6FM7wAOZ/7l++CeibhREsG",
   "tracks": [
     {
       "added_at": "2024-09-13 11:56:22",
@@ -22863,17 +22863,17 @@
     {
       "added_at": "2025-07-13 07:03:52",
       "album": {
-        "name": "Aquarius",
+        "name": "Aquarius (vol 1)",
         "url": "https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz"
       },
       "artists": [
         {
-          "name": "Aqua Music",
-          "url": "https://open.spotify.com/artist/4ePcCXBWcHkxBflhVSM5rd"
+          "name": "Aquarius",
+          "url": "https://open.spotify.com/artist/5hDCRrkgBTxt0okHCV9hnP"
         }
       ],
       "duration_ms": 200000,
-      "name": "Warm In Your Arms - Vintage Hall Version",
+      "name": "Warm In Your Arms",
       "url": "https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs"
     },
     {
@@ -39599,6 +39599,38 @@
       "duration_ms": 287279,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01"
+    },
+    {
+      "added_at": "2026-03-06 19:37:01",
+      "album": {
+        "name": "Solaria",
+        "url": "https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E"
+      },
+      "artists": [
+        {
+          "name": "Slowtide",
+          "url": "https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc"
+        }
+      ],
+      "duration_ms": 226351,
+      "name": "Wanderlust",
+      "url": "https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf"
+    },
+    {
+      "added_at": "2026-03-06 19:37:42",
+      "album": {
+        "name": "Nomads",
+        "url": "https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Broadcast",
+          "url": "https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ"
+        }
+      ],
+      "duration_ms": 148261,
+      "name": "Moon Dog",
+      "url": "https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd"
     }
   ],
   "unique_name": "Cruise Music",

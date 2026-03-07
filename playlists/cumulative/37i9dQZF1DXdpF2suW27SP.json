@@ -15319,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "Quase teu",
+        "url": "https://open.spotify.com/album/5hEAny7yNesCyNs8ldJaY3"
+      },
+      "artists": [
+        {
+          "name": "MS Capone",
+          "url": "https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129057,
+      "name": "Quase teu",
+      "url": "https://open.spotify.com/track/25OZ5u4tmHz8TnTnRPXxdy"
+    },
+    {
+      "album": {
         "name": "Quem D\u00e1 Costas \u00c9 Presa",
         "url": "https://open.spotify.com/album/3dv42dU6BcR96jJZ5Am01K"
       },

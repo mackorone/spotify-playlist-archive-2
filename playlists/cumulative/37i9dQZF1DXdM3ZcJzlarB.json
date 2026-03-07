@@ -38,7 +38,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 504935,
       "name": "2009",
       "url": "https://open.spotify.com/track/5lPnUd0gsk708DCpqGJCuJ"
@@ -2874,7 +2874,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 454870,
       "name": "Harvest - Hernan Cattaneo & Soundexile Remix",
       "url": "https://open.spotify.com/track/3HkRQHDo4yJDuYwK23xv5t"
@@ -6271,6 +6271,28 @@
     },
     {
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/7a5Sya3CN0YZ91OmMAmG6D"
+      },
+      "artists": [
+        {
+          "name": "Chapa & Castelo",
+          "url": "https://open.spotify.com/artist/7lsEUAdbQ2XZWH0xOVhiqH"
+        },
+        {
+          "name": "Najles",
+          "url": "https://open.spotify.com/artist/2UfoxuZktEMdFABML4uDKy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241871,
+      "name": "Tasty - Original Mix",
+      "url": "https://open.spotify.com/track/50A9yRYFsOcjm2IrEw1EY7"
+    },
+    {
+      "album": {
         "name": "Telephones",
         "url": "https://open.spotify.com/album/6KRSfJZbv0LnW9rogYUwPi"
       },
@@ -6454,6 +6476,28 @@
       "duration_ms": 435000,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/73TCe3R7yzmuALhEM3RVwl"
+    },
+    {
+      "album": {
+        "name": "The Voice in My Head",
+        "url": "https://open.spotify.com/album/2874NKl3OipI03y1QmO4yt"
+      },
+      "artists": [
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Soundexile",
+          "url": "https://open.spotify.com/artist/0fCvNSLDgVZZGQK2GfYOEg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401000,
+      "name": "The Voice in My Head",
+      "url": "https://open.spotify.com/track/6ZquS1XBnHzu7eJxeoV5BY"
     },
     {
       "album": {

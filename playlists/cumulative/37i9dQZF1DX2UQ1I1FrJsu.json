@@ -203,6 +203,32 @@
     },
     {
       "album": {
+        "name": "asian linen.",
+        "url": "https://open.spotify.com/album/5IhA7Phn2riGGLwzGAznyq"
+      },
+      "artists": [
+        {
+          "name": "Saiming",
+          "url": "https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9"
+        },
+        {
+          "name": "Awaiting Kvng",
+          "url": "https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc"
+        },
+        {
+          "name": "Dylan Hingston",
+          "url": "https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "asian linen.",
+      "url": "https://open.spotify.com/track/6GxsJUQxLphKHiDSG2sDVU"
+    },
+    {
+      "album": {
         "name": "Silver",
         "url": "https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10"
       },
@@ -1059,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "petal rock black",
+        "url": "https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP"
+      },
+      "artists": [
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258228,
+      "name": "ear to the cocoon",
+      "url": "https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m"
+    },
+    {
+      "album": {
         "name": "Easy To Love",
         "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
       },
@@ -1784,7 +1828,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/6lwhVSVpelXVpYMx2NyCLs"
@@ -1936,7 +1980,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 189780,
       "name": "Julia",
       "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"

@@ -4,12 +4,13 @@
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-125 songs - 6 hr 0 min
+126 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A la Media Noche](https://open.spotify.com/track/5IWjqjTkrXqQTouW3jkRNX) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Mucho Ritmo](https://open.spotify.com/album/3PdjnkfBMShSNnDqi23Xjp) | 3:14 | 2022-09-24 | 2024-01-30 |
 | [A Mi Manera](https://open.spotify.com/track/1SM0H4zl7s296mWdL0OYDY) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 4:00 | 2024-01-29 |  |
+| [A Mis Padres \- Mariachi](https://open.spotify.com/track/4DChAO5gchgQt7bzqO0toU) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Con Sentimiento Ranchero \(Mariachi\)](https://open.spotify.com/album/5u6q9WHgVuYUqpYq4DDbU3) | 3:12 | 2026-03-07 |  |
 | [Ahora Puedo Mirar Claro](https://open.spotify.com/track/5Kgo6IQPF6g3ioAiSQIvZq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 3:16 | 2022-06-01 | 2024-02-24 |
 | [Ahora Soy Rico](https://open.spotify.com/track/0rnc7uUzCrZm7AZBsLxxP5) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Tamborazos Zacatecanos , Vol\. 1](https://open.spotify.com/album/307mS3CHQ0B8qfaagb63aX) | 2:31 | 2024-02-01 | 2024-02-16 |
 | [Ando Buscando un Amor](https://open.spotify.com/track/0ksbIDHroMobXN8Z0IiZ3I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Miraron Llorar un Hombre "Recordando los Exitos" Vol\. 3](https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf) | 2:08 | 2022-06-01 | 2023-12-21 |
@@ -21,7 +22,7 @@
 | [Cabaretera](https://open.spotify.com/track/1R4lzOCmdGNt33prdKwZof) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:36 | 2024-10-28 | 2024-10-30 |
 | [Camino De Aguascalientes](https://open.spotify.com/track/1308SaRnXe3eiYEXClt7TL) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Camino De Aguascalientes](https://open.spotify.com/album/6UikJN7iJDdPecf74oGwEP) | 3:01 | 2025-02-17 | 2025-08-29 |
 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 | 2022-06-01 | 2025-06-04 |
-| [Carta Perdida \- Estilo Tierra Caliente](https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:17 | 2022-06-01 |  |
+| [Carta Perdida \- Estilo Tierra Caliente](https://open.spotify.com/track/5phrg6rNHnHRBDSK22718k) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 3:17 | 2022-06-01 | 2026-03-07 |
 | [Chiquilla Carinosa](https://open.spotify.com/track/3M3CJBCx9HtD3uyIOPg1Oa) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La ruca no era ruca](https://open.spotify.com/album/6dVt3gBo9u30rkraGA7P62) | 2:34 | 2024-05-10 | 2024-06-09 |
 | [Chivo Chivon Chivito](https://open.spotify.com/track/41eQTl3PY9oNhOojrHZOr8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:41 | 2022-07-20 | 2022-10-13 |
 | [Como Paloma Errante](https://open.spotify.com/track/1Guvk9I7WHKRklvoiftfpk) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Nuestra Historia, Vol\. 2](https://open.spotify.com/album/4HhIF0ghIRPnva2NjzTqR4) | 2:43 | 2022-06-01 |  |

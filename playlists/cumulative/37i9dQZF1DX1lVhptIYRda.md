@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Luke Combs
+> Today's top country hits\. Cover: Corey Kent
 
-969 songs - 2 day 4 hr 25 min
+970 songs - 2 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,7 +403,7 @@
 | [Homemade](https://open.spotify.com/track/31JID2STTlLuFqXFWHyM8e) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:12 | 2019-11-02 | 2020-03-21 |
 | [Homesick](https://open.spotify.com/track/6D2Up6lpoFazlmFn0Zpkty) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Experiment](https://open.spotify.com/album/3950MST9uRPKyh4Prv7lh1) | 3:25 | 2019-11-16 | 2020-03-21 |
 | [House Again](https://open.spotify.com/track/4OG8nSaGmiATo0y59bvehc) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [House Again](https://open.spotify.com/album/6Oxk5FxwVNUMD9KxChEVrY) | 3:22 | 2024-11-08 | 2026-02-07 |
-| [How Far Does A Goodbye Go](https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [How Far Does A Goodbye Go](https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn) | 3:55 | 2025-09-19 |  |
+| [How Far Does A Goodbye Go](https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [How Far Does A Goodbye Go](https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn) | 3:55 | 2025-09-19 | 2026-03-07 |
 | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/track/6DYtfjCJdFOXUlV3E9a9bI) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [How I Learned To Pray \(feat\. Luke Combs\)](https://open.spotify.com/album/0QikezpLsccyG7W7oNwQ8D) | 4:30 | 2023-10-13 | 2023-12-16 |
 | [How Many Times](https://open.spotify.com/track/0x5aqRejnsR6kiMq0ficsp) | [Kat & Alex](https://open.spotify.com/artist/6K4y1ejK5kZ0kRdgCv5bRg) | [How Many Times](https://open.spotify.com/album/0KWgaxKtKrMDOrzUZguLTd) | 3:25 | 2020-12-12 | 2021-03-27 |
 | [How They Remember You](https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [How They Remember You](https://open.spotify.com/album/1XwToQelPUXtUKSYUApT9G) | 3:31 | 2021-01-23 | 2021-02-20 |
@@ -854,6 +854,7 @@
 | [Thoughts of You](https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [Songs About You](https://open.spotify.com/album/5MTY6WqQu7prI2Y2dEu81n) | 2:52 | 2024-12-06 | 2025-01-25 |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2021-07-24 | 2021-10-16 |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-06-12 | 2021-10-30 |
+| [Time Goes On](https://open.spotify.com/track/4iAvuDXVlF9eCzxQ3qNEpE) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Time Goes On](https://open.spotify.com/album/2NA1s4MQIteXh70JmP8VS4) | 2:55 | 2026-03-06 |  |
 | [Tip of My Tongue](https://open.spotify.com/track/40ufL61vEaDaaOitYhnlQ7) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Tip of My Tongue](https://open.spotify.com/album/2neKEhAldnGfCDEkPE4kW0) | 3:19 | 2019-07-20 | 2020-01-13 |
 | [To a T](https://open.spotify.com/track/1oRRLczVT5KkZkPHXG70n7) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T](https://open.spotify.com/album/4AbT70Vdn1lAdKmpJxNKD5) | 2:58 | 2019-05-26\* | 2019-11-25 |
 | [To a T](https://open.spotify.com/track/64wjSAPLRnrjNByQCxnX3u) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [To a T](https://open.spotify.com/album/1J1Y9C8Rgk1ojpvM06it2Q) | 2:58 | 2019-11-16 | 2020-02-22 |

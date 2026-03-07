@@ -4,7 +4,7 @@
 
 > 🍾
 
-273 songs - 15 hr 34 min
+274 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2023-01-04 | 2024-09-21 |
 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 | 2025-08-28 |  |
 | [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 |  |
+| [Open Sky](https://open.spotify.com/track/3ZLVL6pHNwKUNAbj2rwn28) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT) | [Open Sky](https://open.spotify.com/album/7EKjOk98JB2krF2DVA1X7m) | 2:16 | 2026-03-06 |  |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-22 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-09 |  |
 | [Ordinary Love](https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y) | 4:23 | 2023-06-09 | 2023-09-26 |
@@ -271,7 +272,7 @@
 | [Wet Dream](https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 2:20 | 2022-12-08 | 2023-07-29 |
 | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/track/3KkdZgcQxYQQZQXumGO1Cy) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6), [Suzane](https://open.spotify.com/artist/00CTomLgA78xvwEwL0woWx) | [What A Life \(j'fais ma life\) \[feat\. Suzane\]](https://open.spotify.com/album/5VDE8rAYryH4lTbGDvSMVQ) | 3:05 | 2022-12-08 | 2023-04-29 |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2023-04-28 |  |
-| [When You Know You Know](https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [When You Know You Know](https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI) | 2:41 | 2025-11-28 |  |
+| [When You Know You Know](https://open.spotify.com/track/0gzzv6MFfp9Y8RhmXEj3f5) | [Joneaux](https://open.spotify.com/artist/5gGz6o2Kqyguz6L1O9jzAv) | [When You Know You Know](https://open.spotify.com/album/29faKWBjV1IfpOzdCimXTI) | 2:41 | 2025-11-28 | 2026-03-07 |
 | [Whisper](https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf), [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5), [Mischief](https://open.spotify.com/artist/7r8O7K6KGJwVaP0w7P20bX) | [Whisper](https://open.spotify.com/album/3CPw3JYkY19cnFIlHeJyuM) | 3:21 | 2025-07-25 |  |
 | [Winter Solstice \- Braxe + Falcon Remix](https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [Winter Solstice \(Braxe + Falcon Remix\)](https://open.spotify.com/album/7ivaa2qMMkk1RfF1TDkcYz) | 4:00 | 2023-06-09 | 2025-10-17 |
 | [Without You](https://open.spotify.com/track/4oUwIemilFkGKeoL6HpJjs) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Without You](https://open.spotify.com/album/517Tkn0PUJbbF02tZXYotA) | 2:59 | 2022-12-08 | 2024-06-22 |

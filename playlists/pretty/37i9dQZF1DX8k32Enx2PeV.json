@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15731,
+  "num_followers": 15739,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
+        "name": "Yo Quisiera",
+        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 177446,
+      "name": "Yo Quisiera",
+      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
         "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/12DZ25npZ3OCG49siRWV9l"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 171818,
       "name": "No Avanzan (feat. Luis Eduardo Ac\u00fastico)",
       "url": "https://open.spotify.com/track/35pUfmbGcHh24mEcHJnPGp"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
-        "name": "Yo Quisiera",
-        "url": "https://open.spotify.com/album/1MMT7w9XWU7VjFBXunah09"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 177446,
-      "name": "Yo Quisiera",
-      "url": "https://open.spotify.com/track/6lbRZpCucVLSd7clLDl58q"
     },
     {
       "added_at": "2026-02-27 04:59:16",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
-        "name": "S\u00ed",
-        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 158428,
-      "name": "S\u00ed",
-      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
         "name": "Mochilera",
         "url": "https://open.spotify.com/album/29VDqesyiDj71uuXp6liz0"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 228573,
       "name": "Mochilera",
       "url": "https://open.spotify.com/track/3hZwZDBGZChsE3VI91KRUv"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
+        "name": "S\u00ed",
+        "url": "https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 158428,
+      "name": "S\u00ed",
+      "url": "https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI"
     },
     {
       "added_at": "2026-02-27 04:59:16",

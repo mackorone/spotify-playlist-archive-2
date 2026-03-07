@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Piso 21, Yami Safdie",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Juliana",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -328,6 +328,28 @@
       "duration_ms": 169333,
       "name": "Al Aire",
       "url": "https://open.spotify.com/track/02dsc9B5N8BFatjGcGhk1u"
+    },
+    {
+      "album": {
+        "name": "ALGO T\u00da",
+        "url": "https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213011,
+      "name": "ALGO T\u00da",
+      "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
     },
     {
       "album": {
@@ -3323,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Muchas (MUCHAS) gracias",
+        "url": "https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS"
+      },
+      "artists": [
+        {
+          "name": "Laura Mar\u00e9",
+          "url": "https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133411,
+      "name": "Muchas (MUCHAS) gracias",
+      "url": "https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S"
+    },
+    {
+      "album": {
         "name": "MUCHO CON DEMASIAO'",
         "url": "https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu"
       },
@@ -5310,6 +5350,28 @@
       "duration_ms": 167647,
       "name": "Tiempo Al Tiempo (feat. Goyo)",
       "url": "https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU"
+    },
+    {
+      "album": {
+        "name": "JuanesTeban",
+        "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185658,
+      "name": "Timelapse de Sol",
+      "url": "https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu"
     },
     {
       "album": {

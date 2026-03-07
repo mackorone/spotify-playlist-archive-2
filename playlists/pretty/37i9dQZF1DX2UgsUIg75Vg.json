@@ -1,44 +1,28 @@
 {
-  "description": "Chill r&b. Cover: Victoria Mon\u00e9t",
-  "num_followers": 2369873,
+  "description": "Chill r&b. Cover: Ty Dolla $ign",
+  "num_followers": 2369807,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJh8WuZsKyxaF9KE0YrNWVAfFMRv",
+  "snapshot_id": "AAAAAFZnHMFp4dXAZQ30CGmk4KaJSvnM",
   "tracks": [
     {
-      "added_at": "2026-02-13 05:00:49",
+      "added_at": "2026-03-06 05:40:26",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+        "name": "bad bitch alert",
+        "url": "https://open.spotify.com/album/5uUtc6ORn7VrJIJ3Z6QqKH"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
-    },
-    {
-      "added_at": "2026-01-23 07:39:49",
-      "album": {
-        "name": "Vacancy",
-        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 284997,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup"
+      "duration_ms": 144712,
+      "name": "bad bitch alert",
+      "url": "https://open.spotify.com/track/6E3NhQN1qTXNLao7yI61dK"
     },
     {
       "added_at": "2026-02-15 17:48:14",
@@ -57,20 +41,36 @@
       "url": "https://open.spotify.com/track/4jyyma8YdFC4S4llusSFRu"
     },
     {
-      "added_at": "2025-11-21 09:24:23",
+      "added_at": "2026-02-13 05:00:49",
       "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
         }
       ],
-      "duration_ms": 234080,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "added_at": "2025-11-21 09:24:23",
@@ -93,24 +93,68 @@
       "url": "https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q"
     },
     {
-      "added_at": "2026-02-27 07:03:38",
+      "added_at": "2025-11-21 09:24:23",
       "album": {
-        "name": "Maybe",
-        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
+        "name": "Love Is A Kingdom",
+        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
       },
       "artists": [
         {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 182586,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
+      "duration_ms": 234080,
+      "name": "What You Need",
+      "url": "https://open.spotify.com/track/7x5RhTT2bzS6CCQFeNb5HU"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "Frontin\u2019 - Spotify Singles",
+        "url": "https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 236052,
+      "name": "Frontin\u2019 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj"
+    },
+    {
+      "added_at": "2026-01-23 07:39:49",
+      "album": {
+        "name": "Vacancy",
+        "url": "https://open.spotify.com/album/2UuTaSOSxTNP6whKrwDqnS"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 284997,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/5x1dCNl5oITrYHTytJdqup"
     },
     {
       "added_at": "2025-07-25 08:19:27",
@@ -245,6 +289,26 @@
       "url": "https://open.spotify.com/track/4u5BaS3nzHw1RIm1uEl0x7"
     },
     {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "NEVER BE THE SAME",
+        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 172376,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
+    },
+    {
       "added_at": "2026-02-27 07:03:38",
       "album": {
         "name": "Honour / I Want In",
@@ -259,6 +323,26 @@
       "duration_ms": 250152,
       "name": "Honour",
       "url": "https://open.spotify.com/track/6slVYLrJprL3ayBNhSgd5r"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 195325,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
     },
     {
       "added_at": "2025-10-10 08:45:03",
@@ -279,6 +363,66 @@
       "duration_ms": 217694,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/1mOwVgwbD4HWrATknEbCMP"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Need it Bad - feat. Brent Faiyaz",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "added_at": "2026-02-27 07:03:38",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
+      },
+      "artists": [
+        {
+          "name": "Nali",
+          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "girl music vol. 1",
+        "url": "https://open.spotify.com/album/5GUXKPrSqb6kdXQHKmKmHm"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 195238,
+      "name": "intention (with Brandy)",
+      "url": "https://open.spotify.com/track/1ZGQug62wWSfELA3Jvufl5"
     },
     {
       "added_at": "2026-02-13 05:00:49",
@@ -475,6 +619,22 @@
       "duration_ms": 255237,
       "name": "Sweetest Lullabye",
       "url": "https://open.spotify.com/track/26GYTAkEq471oPD7PDSBhT"
+    },
+    {
+      "added_at": "2026-03-06 05:40:26",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0YhwyHFb8hngSqSyXgu071"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc"
     },
     {
       "added_at": "2026-02-20 06:48:12",
@@ -2781,22 +2941,6 @@
       "url": "https://open.spotify.com/track/4stOWrr3yD1P6yUrXnoSjE"
     },
     {
-      "added_at": "2025-05-30 04:00:37",
-      "album": {
-        "name": "My Peace",
-        "url": "https://open.spotify.com/album/5bzABIv8KjHFep7Krio5Mq"
-      },
-      "artists": [
-        {
-          "name": "J.P.",
-          "url": "https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "My Peace",
-      "url": "https://open.spotify.com/track/3S6k9OO5fSSoqiTeFCnKZf"
-    },
-    {
       "added_at": "2025-10-10 08:45:03",
       "album": {
         "name": "fear",
@@ -3873,26 +4017,6 @@
       "url": "https://open.spotify.com/track/2uD06ODYnSoHFNbskqXIn5"
     },
     {
-      "added_at": "2025-05-23 04:40:36",
-      "album": {
-        "name": "You\u2019re Invited (feat. Kenyon Dixon)",
-        "url": "https://open.spotify.com/album/1GGaFCQrVk2sZNTpIuPjXM"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 178278,
-      "name": "You\u2019re Invited (feat. Kenyon Dixon)",
-      "url": "https://open.spotify.com/track/1sSLrVeHhhfKxFGwx7u5pW"
-    },
-    {
       "added_at": "2025-05-02 04:00:36",
       "album": {
         "name": "HunnyMoon Mountain",
@@ -3959,30 +4083,6 @@
       "duration_ms": 215604,
       "name": "Easier Done Than Said",
       "url": "https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo"
-    },
-    {
-      "added_at": "2025-04-04 04:00:29",
-      "album": {
-        "name": "If Not Now, Then When?",
-        "url": "https://open.spotify.com/album/44xMXoHoFn1lHW1arzLonH"
-      },
-      "artists": [
-        {
-          "name": "Joe Kay",
-          "url": "https://open.spotify.com/artist/6Vn8Kob72sGHpoOBIQvKBk"
-        },
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        },
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 166753,
-      "name": "All Yours (with Amaria & Dylan Sinclair)",
-      "url": "https://open.spotify.com/track/1xdi96EWM6cvxewy00XVqK"
     },
     {
       "added_at": "2025-05-09 04:00:20",
@@ -4103,42 +4203,6 @@
     {
       "added_at": "2025-05-09 04:00:20",
       "album": {
-        "name": "YARN",
-        "url": "https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 153941,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/4vvjCuR7vAXkE4XUrOgVjm"
-    },
-    {
-      "added_at": "2025-04-04 04:00:29",
-      "album": {
-        "name": "Heavy Deluxe: THE LIGHT",
-        "url": "https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Maeta",
-          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
-        }
-      ],
-      "duration_ms": 183952,
-      "name": "OUT OF MY HANDS",
-      "url": "https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI"
-    },
-    {
-      "added_at": "2025-05-09 04:00:20",
-      "album": {
         "name": "Southern Soul",
         "url": "https://open.spotify.com/album/5MVebc75SBfscLBim87bhR"
       },
@@ -4169,22 +4233,6 @@
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
-      "added_at": "2025-03-21 04:44:56",
-      "album": {
-        "name": "Inside Voice(s)",
-        "url": "https://open.spotify.com/album/1roRwweRpNzs6c0t3ff8HO"
-      },
-      "artists": [
-        {
-          "name": "Bathe",
-          "url": "https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK"
-        }
-      ],
-      "duration_ms": 199306,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/47ssAULbAN5FIl89x3eiFB"
-    },
-    {
       "added_at": "2025-04-21 15:47:04",
       "album": {
         "name": "10",
@@ -4199,26 +4247,6 @@
       "duration_ms": 238479,
       "name": "S.I.T.L.",
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
-    },
-    {
-      "added_at": "2025-03-14 05:43:52",
-      "album": {
-        "name": "Afraid, Pt. 2 (feat. Xenia Manasseh)",
-        "url": "https://open.spotify.com/album/6PPLLW6Zbmo6EVz7Gzek9n"
-      },
-      "artists": [
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
-        },
-        {
-          "name": "Xenia Manasseh",
-          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Afraid, Pt. 2 - feat. Xenia Manasseh",
-      "url": "https://open.spotify.com/track/19EDXiaUSGE2BOLJQBZtXV"
     },
     {
       "added_at": "2025-01-31 10:12:57",
@@ -4251,22 +4279,6 @@
       "duration_ms": 180000,
       "name": "be brave",
       "url": "https://open.spotify.com/track/7v7dCVpnS9B40COa6KQ821"
-    },
-    {
-      "added_at": "2025-04-11 15:16:14",
-      "album": {
-        "name": "Crossfaded",
-        "url": "https://open.spotify.com/album/3oTgCAHMTZs9Nu298dAj8S"
-      },
-      "artists": [
-        {
-          "name": "Nali",
-          "url": "https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9"
-        }
-      ],
-      "duration_ms": 128399,
-      "name": "Crossfaded",
-      "url": "https://open.spotify.com/track/6IZ9zRj9hKmQQGaYkRxioA"
     },
     {
       "added_at": "2025-01-31 10:12:57",
@@ -4323,22 +4335,6 @@
       "duration_ms": 215320,
       "name": "Rotation",
       "url": "https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4"
-    },
-    {
-      "added_at": "2025-03-21 04:44:56",
-      "album": {
-        "name": "Confessions of a Loverboy",
-        "url": "https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe"
-      },
-      "artists": [
-        {
-          "name": "No Guidnce",
-          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-        }
-      ],
-      "duration_ms": 161139,
-      "name": "Lovers To Enemies",
-      "url": "https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B"
     }
   ],
   "unique_name": "Chilled R&B",

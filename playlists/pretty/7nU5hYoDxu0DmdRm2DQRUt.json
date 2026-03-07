@@ -1,12 +1,12 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 7883,
+  "num_followers": 7889,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAO1wpa1dUPhzoQe7lULjy3OAzS6A5J",
+  "snapshot_id": "AAAO2SBReNv50NKwRQUpFam/9eoe3TW7",
   "tracks": [
     {
       "added_at": "2026-03-03 13:44:41",
@@ -67,6 +67,22 @@
       "duration_ms": 124892,
       "name": "Biomath",
       "url": "https://open.spotify.com/track/4SbyFYiYN4f65re4h30UpC"
+    },
+    {
+      "added_at": "2026-03-06 11:56:26",
+      "album": {
+        "name": "Classics Vol. 1 (We tried hard and failed again... enjoy!)",
+        "url": "https://open.spotify.com/album/1TXW5Xwqhak17bCW9LxQl4"
+      },
+      "artists": [
+        {
+          "name": "Modeselektor",
+          "url": "https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ"
+        }
+      ],
+      "duration_ms": 318841,
+      "name": "Blockchain",
+      "url": "https://open.spotify.com/track/47b0S4whoRjndeQ2Ibp27f"
     },
     {
       "added_at": "2026-03-03 13:46:38",

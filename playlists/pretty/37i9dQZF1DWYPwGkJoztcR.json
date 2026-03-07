@@ -1,6 +1,6 @@
 {
   "description": "Koffie met gemoedelijke muziek op de achtergrond.",
-  "num_followers": 396374,
+  "num_followers": 396376,
   "original_name": "'t Koffiehuis",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
+      },
+      "artists": [
+        {
+          "name": "Jim Gardner",
+          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
+        }
+      ],
+      "duration_ms": 153973,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
         "name": "goodbye",
         "url": "https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 197116,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2SdpxZ4gq0vst59dkjwml6"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD"
-      },
-      "artists": [
-        {
-          "name": "Jim Gardner",
-          "url": "https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun"
-        }
-      ],
-      "duration_ms": 153973,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
+        "name": "Saturday Silence",
+        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+      },
+      "artists": [
+        {
+          "name": "Iskander Moon",
+          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+        }
+      ],
+      "duration_ms": 175844,
+      "name": "Saturday Silence",
+      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
         "name": "Calling Out",
         "url": "https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 150904,
       "name": "Calling Out",
       "url": "https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
-        "name": "The Ride",
-        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
-      },
-      "artists": [
-        {
-          "name": "Youri Lentjes",
-          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
-        }
-      ],
-      "duration_ms": 189064,
-      "name": "The Ride",
-      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -807,18 +807,18 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Saturday Silence",
-        "url": "https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl"
+        "name": "The Ride",
+        "url": "https://open.spotify.com/album/5Oi2gTlTafNZjGpdmBjSJt"
       },
       "artists": [
         {
-          "name": "Iskander Moon",
-          "url": "https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0"
+          "name": "Youri Lentjes",
+          "url": "https://open.spotify.com/artist/1g79TAEwqA49vqhDmMvfPE"
         }
       ],
-      "duration_ms": 175844,
-      "name": "Saturday Silence",
-      "url": "https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9"
+      "duration_ms": 189064,
+      "name": "The Ride",
+      "url": "https://open.spotify.com/track/6P6GaJIEGrrefHyZXBoUs9"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Someone To Lose",
-        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
-      },
-      "artists": [
-        {
-          "name": "Nina June",
-          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
-        }
-      ],
-      "duration_ms": 160659,
-      "name": "Someone To Lose",
-      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 206453,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Someone To Lose",
+        "url": "https://open.spotify.com/album/59oEzuz3gGaWnivCgAVmAQ"
+      },
+      "artists": [
+        {
+          "name": "Nina June",
+          "url": "https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "Someone To Lose",
+      "url": "https://open.spotify.com/track/1e2tKcpSvlvaCoPKWCiGDQ"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Better Tomorrow",
-        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
-      },
-      "artists": [
-        {
-          "name": "Sennen Bay",
-          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
-        }
-      ],
-      "duration_ms": 211111,
-      "name": "Better Tomorrow",
-      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
       },
@@ -1267,22 +1251,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 195586,
-      "name": "Lonely On Lovers Lane",
-      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Your Spirit (From \"Team Spirit: Next Gen\")",
         "url": "https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 211862,
       "name": "Your Spirit - From \"Team Spirit: Next Gen\"",
       "url": "https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Better Tomorrow",
+        "url": "https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj"
+      },
+      "artists": [
+        {
+          "name": "Sennen Bay",
+          "url": "https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW"
+        }
+      ],
+      "duration_ms": 211111,
+      "name": "Better Tomorrow",
+      "url": "https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 195586,
+      "name": "Lonely On Lovers Lane",
+      "url": "https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Suddenly Forever",
-        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
-      },
-      "artists": [
-        {
-          "name": "Selwyn",
-          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Suddenly Forever",
-      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/264U9Nc6nLZFf6n3FatCnc"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 164493,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/0jL1liKSwSLIfX7IdXt5jW"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Suddenly Forever",
+        "url": "https://open.spotify.com/album/1hQ5EVAbIz9oBeRKxvIth7"
+      },
+      "artists": [
+        {
+          "name": "Selwyn",
+          "url": "https://open.spotify.com/artist/3X7NZ2Z357FRJxw7Plc8sZ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Suddenly Forever",
+      "url": "https://open.spotify.com/track/3JoomyiXjiuOrT4DzCGotR"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Back to the River",
-        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 249863,
-      "name": "Back to the River",
-      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
-    },
-    {
-      "added_at": "2026-03-05 23:00:27",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5FwyV0GtSv7cFi5jf8IykE"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-03-05 23:00:27",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+        "name": "Back to the River",
+        "url": "https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
         }
       ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
+      "duration_ms": 249863,
+      "name": "Back to the River",
+      "url": "https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O"
     },
     {
       "added_at": "2026-03-05 23:00:27",
@@ -1539,6 +1523,22 @@
       "duration_ms": 167320,
       "name": "Po\u00e8te Maudit",
       "url": "https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV"
+    },
+    {
+      "added_at": "2026-03-05 23:00:27",
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/30b8jQkl9CF1p4HkYogm2c"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/4tV7sVnqQLrYao9oTCzYTq"
     },
     {
       "added_at": "2026-03-05 23:00:27",

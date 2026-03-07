@@ -2,9 +2,9 @@
 
 ### [Folk Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX2XI8j0WLbht)
 
-> una guitarra y mucho sentimiento para cantar\. Macario Martínez en portada.
+> una guitarra y mucho sentimiento para cantar\. Natalia Lafourcade en portada.
 
-266 songs - 17 hr 6 min
+268 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cascabel](https://open.spotify.com/track/0xehShyVfkqLIJPNhPvLpY) | [Ariles](https://open.spotify.com/artist/7v4Q7XBBDiCUrSOgWoi5PO) | [Son Jarocho](https://open.spotify.com/album/0cJtBVpwDMgRJAkApvsyup) | 7:05 | 2022-03-04 | 2025-05-31 |
 | [Cascabel](https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR) | [Centeno](https://open.spotify.com/artist/0SXDnCbgaeQMMXjXaspnUb) | [Cascabel](https://open.spotify.com/album/4LKr3W9nb0ZAU56TsKgye5) | 3:14 | 2022-03-04 | 2023-02-04 |
 | [CASI TÚ](https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [CASI TÚ](https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn) | 2:37 | 2025-11-14 |  |
+| [Cenicero](https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9) | [Diana Meril](https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo) | [Cenicero](https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07) | 3:12 | 2026-03-06 |  |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 | 2022-04-20 | 2024-04-19 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2025-05-31 |
 | [Clandestino](https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:40 | 2022-03-04 | 2025-01-11 |
@@ -70,6 +71,7 @@
 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 | 2025-05-30 |  |
 | [De Música Ligera](https://open.spotify.com/track/5bLPTpFDAIZepilkmufet8) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [De Música Ligera](https://open.spotify.com/album/5SUspMXl2khtx0vMiZs2lU) | 2:54 | 2022-03-04 | 2024-06-01 |
 | [De todas las flores](https://open.spotify.com/track/3MAHwAmag1U1gLLuvEQNHU) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:22 | 2025-05-30 |  |
+| [Del Mar, María](https://open.spotify.com/track/2i30wN5DtUxoIntJOCHZhQ) | [Memo Andrés](https://open.spotify.com/artist/0LNn11Wusb6oNemCGHKEBP) | [Del Mar, María](https://open.spotify.com/album/7CohS9NY7LkG1woK8iMRZn) | 3:57 | 2026-03-06 |  |
 | [Después de la tormenta](https://open.spotify.com/track/3kjbhHjaIN9DJbo5zxHZGP) | [Bryan Kaarl](https://open.spotify.com/artist/4B4NUd2099fjeTPgH6X1Ui) | [Después de la tormenta](https://open.spotify.com/album/13wIM8QZSRvoVgrtjnigld) | 2:46 | 2025-05-30 |  |
 | [Después de ti](https://open.spotify.com/track/3oRybpqCtANfRBRZIejyEw) | [Flor de Jade](https://open.spotify.com/artist/1Up3GvbFaHKAiiF4pAm3wO) | [Volar](https://open.spotify.com/album/15eLCLTLTYIsL9zEbzapYB) | 4:01 | 2025-01-10 | 2025-05-31 |
 | [Diciembre 15](https://open.spotify.com/track/1T3vP9J05jXnq0w0ZNpkrl) | [Itani Aline](https://open.spotify.com/artist/5GkT1e3KzLEH9pXEWnlMba) | [Diciembre 15](https://open.spotify.com/album/6O3ZfuhBdb1UKGtPcHkCdH) | 2:55 | 2025-12-19 | 2026-02-28 |
@@ -113,7 +115,7 @@
 | [Hasta la Piel](https://open.spotify.com/track/5zu4MAEQblGCaTrbXtfpb8) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Déjenme Llorar](https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve) | 4:01 | 2025-05-30 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2025-05-30 |  |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-02-22 | 2025-05-31 |
-| [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 | 2026-01-09 |  |
+| [High in the sky](https://open.spotify.com/track/1vbE1yM9H7CVm4Gh5ElvQy) | [Juan Cirerol](https://open.spotify.com/artist/0zipD52jhXFlSyN84URtCm) | [High in the sky](https://open.spotify.com/album/7bvIpDC81g837GCCRTlLmF) | 2:33 | 2026-01-09 | 2026-03-07 |
 | [Hoy Vine Aquí](https://open.spotify.com/track/2apPcRsJaMNm8Bbsr9qDZP) | [Ramita de Cedro](https://open.spotify.com/artist/4QWlbXuMrZRkeRIKbsyRpJ), [RC](https://open.spotify.com/artist/6qRRkW7d2ptDGSc50FdxVZ) | [Ramita de Cedro](https://open.spotify.com/album/5VOnaIGOP0PruYLBwu7F0w) | 5:35 | 2022-03-04 | 2025-05-31 |
 | [Igual No Debo](https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Igual No Debo](https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso) | 2:43 | 2024-10-11 | 2025-05-31 |
 | [La Apuesta](https://open.spotify.com/track/1vnHzi9TUsfNInui1SzkI0) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [La Apuesta](https://open.spotify.com/album/3YsjbaCHFK0qo8MIeRnw0f) | 2:53 | 2026-02-13 |  |

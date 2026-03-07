@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Essential songs of India's beloved crooner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,238,874 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,239,101 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 7 | [Tera Yaar Hoon Main](https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 4:24 |
 | 8 | [O Maahi \(From "Dunki"\)](https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [O Maahi \(From "Dunki"\)](https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC) | 3:53 |
 | 9 | [Soulmate](https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:33 |
-| 10 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
+| 10 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
 | 11 | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Dulquer Salmaan](https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk) | [Heeriye \(feat\. Arijit Singh\)](https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS) | 3:14 |
 | 12 | [Fitratein](https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitratein](https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl) | 3:49 |
 | 13 | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Qaisar\-Ul\-Jafri](https://open.spotify.com/artist/5SMMGwEnXqIWXvhfBfV6BD), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Zamaana Lage \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/7BpW3kwzoeLX4RFWJVvjGx) | 3:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Tumse Behtar \(From "Sunny Sanskari Ki Tulsi Kumari"\)](https://open.spotify.com/track/7FLVm1D9aP231Da7F2p6zs) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Sunny Sanskari Ki Tulsi Kumari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6JZcE32Yu2DNw7ZhJ76rtx) | 4:28 |
 | 50 | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [White Noise Collectives](https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sitaare \(From "Ikkis"\)](https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL) | 4:02 |
 
-Snapshot ID: `AAAAAOm320s/WpP79jy5zic5hCiidtm8`
+Snapshot ID: `AAAAAIR6gCRhk/zG8XihxYvSVTRdskcT`

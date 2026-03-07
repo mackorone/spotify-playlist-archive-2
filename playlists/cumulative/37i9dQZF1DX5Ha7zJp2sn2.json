@@ -782,7 +782,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196034,
       "name": "Hace rato",
       "url": "https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj"
@@ -1130,6 +1130,24 @@
       "duration_ms": 222638,
       "name": "Madera y Hueso",
       "url": "https://open.spotify.com/track/2MNwWHMHuY2XlMRuyyFxls"
+    },
+    {
+      "album": {
+        "name": "JuanesTeban",
+        "url": "https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250484,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/5E4h5elcrYKysRpwQ8se1Z"
     },
     {
       "album": {

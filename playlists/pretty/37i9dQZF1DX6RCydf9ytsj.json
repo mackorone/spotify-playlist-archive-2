@@ -1,6 +1,6 @@
 {
   "description": "We're celebrating the 40th anniversary of The Judd's album \"Why Not Me\" on 80s Country!",
-  "num_followers": 723963,
+  "num_followers": 724080,
   "original_name": "80s Country",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Best Of Kenny Rogers: Through The Years",
-        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "Through The Years",
-      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "The Best Of Kenny Rogers: Through The Years",
+        "url": "https://open.spotify.com/album/2o4ZbNsv2tjlYkAnbBKzrP"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 262079,
+      "name": "Through The Years",
+      "url": "https://open.spotify.com/track/6Rk2hVIgI9Fh6hvZT6n0ky"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -931,18 +931,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Roll On",
-        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
       },
       "artists": [
         {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
         }
       ],
-      "duration_ms": 261416,
-      "name": "Roll On (Eighteen Wheeler)",
-      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
+      "duration_ms": 197026,
+      "name": "Drivin' My Life Away - 2009 Remaster",
+      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -963,6 +963,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
+        "name": "Roll On",
+        "url": "https://open.spotify.com/album/2wxMN8hgpUMTLpD8CilSPb"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 261416,
+      "name": "Roll On (Eighteen Wheeler)",
+      "url": "https://open.spotify.com/track/31LOzuiEqzfMZ6f8nujDVd"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
         "name": "Ultimate Clint Black",
         "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 168000,
       "name": "Killin' Time",
       "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
-        "name": "Number One Hits",
-        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Drivin' My Life Away - 2009 Remaster",
-      "url": "https://open.spotify.com/track/7ITL5IjLVR683ZDNGpDqek"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "The Essential Willie Nelson",
-        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "My Heroes Have Always Been Cowboys",
-      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "The Best Of Michael Martin Murphey",
         "url": "https://open.spotify.com/album/4oNkliPdTLg2FHIDp4PgDN"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 171906,
       "name": "What's Forever For?",
       "url": "https://open.spotify.com/track/5j2yIrnbgDW51GM95ZjqDj"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "My Heroes Have Always Been Cowboys",
+      "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Best Of Eddy Raven",
-        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
-      },
-      "artists": [
-        {
-          "name": "Eddy Raven",
-          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
-        }
-      ],
-      "duration_ms": 146466,
-      "name": "I Got Mexico",
-      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "Ten Years Of Hits",
         "url": "https://open.spotify.com/album/64O4gYFs64wZqznblUncYM"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 215106,
       "name": "Stand By Me - Single Version",
       "url": "https://open.spotify.com/track/3Fa7jdzVHdykpioJP1Qw7Z"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Best Of Eddy Raven",
+        "url": "https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R"
+      },
+      "artists": [
+        {
+          "name": "Eddy Raven",
+          "url": "https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK"
+        }
+      ],
+      "duration_ms": 146466,
+      "name": "I Got Mexico",
+      "url": "https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
+        "name": "Milestones- Greatest Hits",
+        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
+      },
+      "artists": [
+        {
+          "name": "Holly Dunn",
+          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
+        }
+      ],
+      "duration_ms": 209466,
+      "name": "Daddy's Hands",
+      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 159866,
       "name": "American Made",
       "url": "https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
-        "name": "Milestones- Greatest Hits",
-        "url": "https://open.spotify.com/album/1rMIWKHHf4rEp1li4Z8UZP"
-      },
-      "artists": [
-        {
-          "name": "Holly Dunn",
-          "url": "https://open.spotify.com/artist/5RkW6o1M8sDx2FzeAEoNbH"
-        }
-      ],
-      "duration_ms": 209466,
-      "name": "Daddy's Hands",
-      "url": "https://open.spotify.com/track/2VPnnOGXmejtKqxGY4jg66"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Kentucky Hearts",
-        "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
-      },
-      "artists": [
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Give Me One More Chance",
-      "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
-    },
-    {
-      "added_at": "2026-02-17 04:46:38",
-      "album": {
         "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
         "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 160773,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/6PzCKkM1FLgIVCaAQkKyuZ"
+    },
+    {
+      "added_at": "2026-02-17 04:46:38",
+      "album": {
+        "name": "Kentucky Hearts",
+        "url": "https://open.spotify.com/album/0lNKmPEUsnsrVc4vLSnd0x"
+      },
+      "artists": [
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Give Me One More Chance",
+      "url": "https://open.spotify.com/track/3yaillNLF2RYHeHw2bBX96"
     },
     {
       "added_at": "2026-02-17 04:46:38",
@@ -2475,18 +2475,18 @@
     {
       "added_at": "2026-02-17 04:46:38",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7orQwVEEjByRj9hT98frwo"
+        "name": "The Essential Razzy Bailey - The RCA Years",
+        "url": "https://open.spotify.com/album/5T392YQtk3fPok4VkPYgxd"
       },
       "artists": [
         {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/2enKa9Yqr6PZy3xGlxQEu7"
+          "name": "Razzy Bailey",
+          "url": "https://open.spotify.com/artist/7j0u9yPUVMa70NyhpdHfP4"
         }
       ],
-      "duration_ms": 205733,
-      "name": "Crazy For Your Love",
-      "url": "https://open.spotify.com/track/13p0TeLG8v8x11RUIInwAL"
+      "duration_ms": 188586,
+      "name": "Midnight Hauler",
+      "url": "https://open.spotify.com/track/2DUQArE0TjVva28RDgdYI2"
     }
   ],
   "unique_name": "80s Country",

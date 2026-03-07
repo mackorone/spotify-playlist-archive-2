@@ -1,12 +1,12 @@
 {
   "description": "This is Ana B\u00e1rbara. The essential tracks, all in one playlist.",
-  "num_followers": 47177,
+  "num_followers": 47186,
   "original_name": "This Is Ana B\u00e1rbara",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAB7bYnghN8VSXhkOGgvrDhm",
+  "snapshot_id": "aajHgAAAAAC/JUIfJ8RslzzC6F+uToiB",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 183500,
+      "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 151973,
       "name": "No Me Amenaces",
       "url": "https://open.spotify.com/track/0zAwfJMWqYNiqpnBjaKPJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Me Vera Llorar (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6OuUjx0eUvLzxHSOQCnPLn"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 183500,
-      "name": "Nadie Me Vera Llorar - (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/3RSLqRsPNCKNDoDufAPzDL"
     },
     {
       "added_at": null,
@@ -867,6 +867,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Y Siempre",
+      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Vez En Cuando",
         "url": "https://open.spotify.com/album/5r8Dx1QTwa0whbezRX2AyB"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 213329,
       "name": "De Vez En Cuando",
       "url": "https://open.spotify.com/track/3n4C6uS30lIWNIcP72dhBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/3ZmguqRipyO48mXaLCchdz"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Y Siempre",
-      "url": "https://open.spotify.com/track/3N3G4GKbHlkRfktCuNV5Ul"
     },
     {
       "added_at": null,

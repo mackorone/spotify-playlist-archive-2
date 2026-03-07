@@ -1,13 +1,149 @@
 {
-  "description": "The best rock songs of the moment. Cover: The Sheepdogs",
-  "num_followers": 193874,
+  "description": "The best rock songs of the moment. Cover: The Beaches, G FLIP",
+  "num_followers": 193867,
   "original_name": "Rock Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYa8CVFx4Le6KaI+1jZagw3z0nr",
+  "snapshot_id": "AAAAADYtfvsF2ueRtS2Hzd3FQKnTkCVo",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "Time Is A Bomb",
+        "url": "https://open.spotify.com/album/6zPOrWyVY2e57qwUW1m7Si"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "duration_ms": 264586,
+      "name": "Time Is A Bomb",
+      "url": "https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "LEZ GO!",
+        "url": "https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        },
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 164566,
+      "name": "LEZ GO!",
+      "url": "https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 162760,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "Pay No Mind",
+        "url": "https://open.spotify.com/album/1Njy3hDJbiDqdl9RUPVi5n"
+      },
+      "artists": [
+        {
+          "name": "Weird Nightmare",
+          "url": "https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc"
+        }
+      ],
+      "duration_ms": 156745,
+      "name": "Pay No Mind",
+      "url": "https://open.spotify.com/track/2HhN18PFJfkt6uH3Jxhz5a"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/13ePBbGxoFjQ7nmgtkkZJ6"
+      },
+      "artists": [
+        {
+          "name": "The Haunt",
+          "url": "https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p"
+        }
+      ],
+      "duration_ms": 163573,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2hUzBxG3ZuLRq66heHfi6R"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "New Self",
+        "url": "https://open.spotify.com/album/0owImlgT3FJ7jG1LqYGS1V"
+      },
+      "artists": [
+        {
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "New Self",
+      "url": "https://open.spotify.com/track/7gKG7EJIW0fSUAHmOr4b3q"
+    },
+    {
+      "added_at": "2026-03-06 05:01:03",
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "duration_ms": 214088,
+      "name": "Black Boys on Mopeds",
+      "url": "https://open.spotify.com/track/0R9R2fD4C8yGHN2BdBA6hm"
+    },
     {
       "added_at": "2026-02-27 05:01:25",
       "album": {
@@ -1515,134 +1651,6 @@
       "duration_ms": 200196,
       "name": "High Vibration",
       "url": "https://open.spotify.com/track/58GcuQsfJ5dHaUX4nfUl3A"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "I Know Where Mark Chen Lives",
-        "url": "https://open.spotify.com/album/6J0USYx5H0mtsqxVwEREHN"
-      },
-      "artists": [
-        {
-          "name": "Joyce Manor",
-          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
-        }
-      ],
-      "duration_ms": 110101,
-      "name": "I Know Where Mark Chen Lives",
-      "url": "https://open.spotify.com/track/6ZzUmrPFLDuMM51uuVSb0h"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "viagr aboys (Japanese Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2dPU5Mx293e04WenISWOlB"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 159390,
-      "name": "Therapy II",
-      "url": "https://open.spotify.com/track/6qClwrPBURJc3o3RuM4iln"
-    },
-    {
-      "added_at": "2025-12-12 05:01:28",
-      "album": {
-        "name": "Queen of Nothing",
-        "url": "https://open.spotify.com/album/6EU1TLfLxJ9pGLD66Gy8aB"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 181315,
-      "name": "Queen Of Nothing",
-      "url": "https://open.spotify.com/track/5S03UZD1PCeuXyBWZ9Ugml"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "Profane Prophecy and Pharmacy Chronicles",
-        "url": "https://open.spotify.com/album/3mbekn6ySDgzBW57jz6B1U"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 247639,
-      "name": "Profane Prophecy",
-      "url": "https://open.spotify.com/track/5EIMb9DtKFDvq9JSHgmVbs"
-    },
-    {
-      "added_at": "2026-01-09 05:01:24",
-      "album": {
-        "name": "The Things That I've Lost",
-        "url": "https://open.spotify.com/album/4zkwJAt5ZJAJUyQjrCtMUi"
-      },
-      "artists": [
-        {
-          "name": "Calling All Captains",
-          "url": "https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG"
-        }
-      ],
-      "duration_ms": 178682,
-      "name": "Dark Clouds",
-      "url": "https://open.spotify.com/track/7K5POEtKn2bn6mP7jUrOns"
-    },
-    {
-      "added_at": "2025-12-19 01:37:55",
-      "album": {
-        "name": "Pain. // Cry All Month",
-        "url": "https://open.spotify.com/album/4QbeJQGDwYkZmwqp4r5Eow"
-      },
-      "artists": [
-        {
-          "name": "ThxSoMch",
-          "url": "https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Cry All Month",
-      "url": "https://open.spotify.com/track/6JucJVJofpzjawz7Ey0deY"
-    },
-    {
-      "added_at": "2026-01-09 17:21:00",
-      "album": {
-        "name": "where'd it all go wrong",
-        "url": "https://open.spotify.com/album/6zNqKfXziatNRuwpPPRS4v"
-      },
-      "artists": [
-        {
-          "name": "Cam Kahin",
-          "url": "https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw"
-        }
-      ],
-      "duration_ms": 207613,
-      "name": "where'd it all go wrong",
-      "url": "https://open.spotify.com/track/5QBY64TRrOVfB9RmhbgMPn"
-    },
-    {
-      "added_at": "2025-12-12 05:01:28",
-      "album": {
-        "name": "ANTIDOTE",
-        "url": "https://open.spotify.com/album/4Uc2ErLyAbWIK9qPqHMj5n"
-      },
-      "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        }
-      ],
-      "duration_ms": 183965,
-      "name": "ANTIDOTE",
-      "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
     }
   ],
   "unique_name": "Rock Now",

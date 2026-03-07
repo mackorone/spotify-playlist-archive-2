@@ -4,7 +4,7 @@
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-899 songs - 1 day 17 hr 51 min
+902 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-12-08 | 2024-03-09 |
 | [Autobahn](https://open.spotify.com/track/4TEAN4lkqV5W3gkVsWuTXw) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ) | [Autobahn](https://open.spotify.com/album/4GpHvgA5YP9YxjAMl1U7Ql) | 2:23 | 2025-11-07 | 2025-11-22 |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-12-08 | 2024-02-10 |
+| [Baby I](https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Baby I](https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov) | 2:20 | 2026-03-06 |  |
 | [Babyface Maniacs](https://open.spotify.com/track/5jAgJyYGFg75DpIyEGxomh) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Babyface Maniacs](https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x) | 3:41 | 2025-03-28 | 2025-05-10 |
 | [Back 2 Back](https://open.spotify.com/track/13DIg33b655IuPHHdnlimm) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Back 2 Back](https://open.spotify.com/album/4lnsaWcuoXUzDINVbyG9ak) | 3:07 | 2025-08-22 |  |
 | [back outside](https://open.spotify.com/track/6dXHYXHgF0p7NOqZIfTDeg) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [back outside](https://open.spotify.com/album/1pVqyq1wwxoH13nBHNC4q3) | 2:04 | 2025-11-14 |  |
@@ -215,6 +216,7 @@
 | [DOLLAR menu](https://open.spotify.com/track/7JeTOcQTXqXswxABt2vH58) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [DOLLAR menu](https://open.spotify.com/album/49iLBtbXOQkTeMNWI5iD3R) | 4:24 | 2025-04-04 | 2025-05-24 |
 | [Don Who Leo](https://open.spotify.com/track/1cyTVV6UFeoazuBGX3MXFw) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Don Who Leo](https://open.spotify.com/album/4DkigH1XDNwEBW3WHcdoEK) | 2:18 | 2024-02-02 | 2024-02-10 |
 | [Don't Get Me Started \(feat\. Coi Leray & Nija\)](https://open.spotify.com/track/1HaK0frM7BL1EG1bDYz3WI) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Dennis Daughter](https://open.spotify.com/album/7ywXde70bz91YtIKSFzPOh) | 3:19 | 2023-12-08 | 2024-05-11 |
+| [Don't Give Up](https://open.spotify.com/track/7aQJeKHrlcMTEEWXmwfcsN) | [ALLIANCE SuPRM](https://open.spotify.com/artist/38JCPXkZ1jpfzA12bLNZwH), [Tha Incradouble Pack](https://open.spotify.com/artist/73qrKht5hJF2b2StfCewve), [LeFLOFRANCO](https://open.spotify.com/artist/2XwMQRzoUywE0dMIHkvBz3), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [DJ SKORPYON](https://open.spotify.com/artist/3fZxpayvsTP2nRXeiLVl4X) | [Don't Give Up](https://open.spotify.com/album/0QA0JjZBPX0AwqVUJXgb24) | 3:27 | 2026-03-06 |  |
 | [don't rely on other men](https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [don't rely on other men](https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK) | 3:14 | 2024-06-21 | 2024-08-17 |
 | [Don't You Love It?](https://open.spotify.com/track/6u1iqhg7lsllNCEtfmu6tJ) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Don't You Love It?](https://open.spotify.com/album/73xd9xf0eAQsaYeuFyM6zG) | 2:17 | 2024-12-06 | 2025-03-01 |
 | [Doodleverse](https://open.spotify.com/track/5QEySPpoBpiCFq8L1ZxeBh) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Doodleverse](https://open.spotify.com/album/1Kzhk9pMJOCFUGeTTO1GuW) | 2:49 | 2024-10-13 | 2024-11-16 |
@@ -397,6 +399,7 @@
 | [I Just Wanna Know](https://open.spotify.com/track/3XLSJ7wHFJBdl4uw5gZ4jW) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [sunniest of days](https://open.spotify.com/album/5X0cdPab6cpcyE9qekzCJ7) | 3:21 | 2025-06-13 | 2025-07-12 |
 | [I Know](https://open.spotify.com/track/0PP39XfSB33WC8MUFGlF6c) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [I Know](https://open.spotify.com/album/66rjBHk0kAuOTRBHQXrAdm) | 1:56 | 2024-09-06 | 2024-10-05 |
 | [I Know](https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [I Know](https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln) | 1:56 | 2024-10-13 | 2024-10-19 |
+| [I Know](https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [I Know](https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB) | 2:12 | 2026-03-06 |  |
 | [I Look Good](https://open.spotify.com/track/1hlm8wQqrSr4cQEWXheiex) | [Skylar Blatt](https://open.spotify.com/artist/5B0hUg80AXXuTKryq9mFs1) | [I Look Good](https://open.spotify.com/album/4XwcYjBWQgcjqexn1mu4Ye) | 2:56 | 2025-06-13 | 2025-07-19 |
 | [I Look Like](https://open.spotify.com/track/59tJKl874T0lrWnV5wpSYf) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [I Look Like](https://open.spotify.com/album/6ERHiXy2VELXPIbk4ZWL2X) | 3:26 | 2025-04-11 | 2025-05-24 |
 | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/track/02WbmXcfVEPDOZH91K8OtL) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU) | [I Should've Known \(feat\. Kyle Richh\)](https://open.spotify.com/album/1VKYrgULdVHSutxuU2SXgJ) | 2:27 | 2023-12-08 | 2024-03-16 |

@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off\. cover: Devin Donnell
 
-316 songs - 14 hr 33 min
+318 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Outta Bounds](https://open.spotify.com/track/4j5hvjaPGOPie1Avm97mOO) | [Khalil](https://open.spotify.com/artist/0Ve0bm5U01MnOpONJMoEC4) | [Outta Bounds](https://open.spotify.com/album/5qtRqFutcrkuU8pUdJ3G7V) | 2:25 | 2024-05-17 | 2025-11-08 |
 | [Paradise](https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 1:53 | 2025-09-05 |  |
 | [passion](https://open.spotify.com/track/2aersOe3Pcs4OIZQyziEIM) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [passion](https://open.spotify.com/album/1S9iWjgq8VvkX3XC2F70iN) | 3:03 | 2025-08-22 |  |
+| [Peace of Mind](https://open.spotify.com/track/62iMEnBhddNcX8BQOoN8yJ) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Peace of Mind](https://open.spotify.com/album/5ScBBB9b1Qcuk7ft85khc0) | 3:05 | 2026-03-06 |  |
 | [pendulum](https://open.spotify.com/track/5nElZ3cKIdVolDx0YoHJUl) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [memento](https://open.spotify.com/album/54LzVgzLACc6oe6Uv6lbV2) | 3:57 | 2024-02-02 | 2025-10-18 |
 | [Peppermint](https://open.spotify.com/track/5bUx64o8X8FB15A7gk9x0G) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [I CANT FOCUS](https://open.spotify.com/album/0oZVxKfC4LSENpYNbOZbYQ) | 2:53 | 2024-02-02 | 2025-09-20 |
 | [perfect timing](https://open.spotify.com/track/646HOaBSY3LfpbuIAnMrot) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [kame 'n left](https://open.spotify.com/album/0y4FkBE422R6D9C5VWeEh7) | 3:12 | 2024-06-21 | 2025-11-08 |
@@ -302,6 +303,7 @@
 | [Waiting](https://open.spotify.com/track/53KWCQyIWnfhOp5mKHpzrP) | [Masonn Deforest](https://open.spotify.com/artist/6T2xfklpPatA6oqR1OUKsR) | [Waiting](https://open.spotify.com/album/5OtLQQhakrDggO2sDk73D6) | 2:09 | 2025-10-17 |  |
 | [WANT U](https://open.spotify.com/track/7nXstVnAdMKNqPmspkEbXM) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 3:04 | 2025-02-07 | 2025-02-15 |
 | [Want You](https://open.spotify.com/track/5Zl2RWTjTQlIvDKVVtNoX6) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Want You](https://open.spotify.com/album/4eqTUIwtnwlrCYV4uJf08q) | 1:43 | 2025-08-01 |  |
+| [WANTFROMME](https://open.spotify.com/track/2Xi5XcyDAq39wRcbxSHMqo) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [FOR THE GIRLIES](https://open.spotify.com/album/1wTiJzNYtBxtuvNfJe243O) | 2:43 | 2026-03-06 |  |
 | [WASTING TIME](https://open.spotify.com/track/6VugsJRRgONLQmTBLuzTne) | [Samuel Petra](https://open.spotify.com/artist/4nU8lYVaehPFBOgeZcIZr3) | [WASTING TIME](https://open.spotify.com/album/68DY4RzwVW4OdylAcRFONX) | 2:24 | 2025-08-29 |  |
 | [WATER](https://open.spotify.com/track/1vqRkUzvD2o0OIEVAN3cIg) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 1:56 | 2024-02-16 |  |
 | [WE IN LUV](https://open.spotify.com/track/5gg3MMTeKLv6NRcwJEbwrU) | [Che Ecru](https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR) | [PAIN PACK 14](https://open.spotify.com/album/0fxdR12lPB58RctVdjT01z) | 2:00 | 2024-02-16 | 2025-09-20 |

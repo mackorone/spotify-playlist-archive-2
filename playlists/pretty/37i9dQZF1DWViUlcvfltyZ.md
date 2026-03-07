@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Bambole di Pezza in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,971 likes - 105 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,976 likes - 105 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

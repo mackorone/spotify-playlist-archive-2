@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Jordan Rakei
 
-1,254 songs - 3 day 3 hr 59 min
+1,255 songs - 3 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,6 +544,7 @@
 | [Invitation](https://open.spotify.com/track/0kk3E41mdub5RU2pugDLtF) | [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Invitation](https://open.spotify.com/album/1Q4zi5BoSWhx5JkHyHwueG) | 2:29 | 2025-09-01 | 2025-11-12 |
 | [Issues/Hold On](https://open.spotify.com/track/0bxmVPKnEopTyuMMkaTvUb) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [K.T.S.E.](https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU) | 3:05 | 2023-08-15 | 2023-10-07 |
 | [It Ain't Easy](https://open.spotify.com/track/0URMdm9CITB1VIfdVaqTHt) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [It Ain't Easy](https://open.spotify.com/album/2HEt3arRMRqDw4HOv2uTqN) | 3:24 | 2020-03-25\* | 2020-05-15 |
+| [It's All Good](https://open.spotify.com/track/0xoA0lY2LS5HkojNAUlm70) | [Bobby Saint](https://open.spotify.com/artist/6L6VjBcf06AK6boIxqIEit) | [It's All Good](https://open.spotify.com/album/2DXC6Yl9xgwAXeRRhpkKGE) | 2:13 | 2026-03-06 |  |
 | [It's Alright](https://open.spotify.com/track/4xcljUwIz4plmVI0q5dyb9) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn) | [It's Alright](https://open.spotify.com/album/2Z0bubZCNHf5RBhAK0sUwb) | 3:56 | 2024-04-18 | 2024-11-14 |
 | [It’s not Fair](https://open.spotify.com/track/4z0Yyz1qWfuojtjJnLetSt) | [Liquid Spirits](https://open.spotify.com/artist/1Mpk8lMyFVI8UOe4MivsJJ) | [It’s not Fair](https://open.spotify.com/album/299MKQa9z4ZGgjurLnzPHR) | 3:47 | 2021-06-25 | 2021-10-29 |
 | [Japanese Denim](https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Get You \- Single](https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6) | 4:30 | 2020-03-25\* | 2020-06-05 |

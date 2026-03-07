@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-241 songs - 19 hr 39 min
+242 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Ki telfetlah bgha ykatefna](https://open.spotify.com/track/1XAwe7TX1iSlVBB0U2tNyl) | [Kader Tirigou](https://open.spotify.com/artist/3n2PbnGk8kxle7jy3CPzHs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [Ki telfetlah bgha ykatefna](https://open.spotify.com/album/3ZjkQpXeOF0weNHOyMUFtF) | 4:26 | 2024-02-05 |  |
 | [kima dir ndir](https://open.spotify.com/track/15bx2Uh9lxEIysIk5SDlV6) | [Cheb Nassim](https://open.spotify.com/artist/36HNrlSe0rp6bFPEDRRXHo) | [kima dir ndir](https://open.spotify.com/album/5W9y9LYQ7LTLaSW6TYiDns) | 5:30 | 2022-09-20 | 2022-12-27 |
 | [L'milieux jayah](https://open.spotify.com/track/3PxgyxxrPccFPtGQxpYoO5) | [Fethi Manar](https://open.spotify.com/artist/6g9hpEimVF4dYzs32kT94m), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [L'milieux jayah](https://open.spotify.com/album/0gR0p46v0H0BQtFrlMe3iu) | 4:36 | 2024-07-16 |  |
-| [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 | 2023-10-11 |  |
+| [L3ach9 Kamalt M3ah](https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt), [manini sahar](https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb) | [L3ach9 Kamalt M3ah](https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja) | 4:12 | 2023-10-11 | 2026-03-07 |
 | [La Faute Machi Fik](https://open.spotify.com/track/0ojwGiICDOIGEU9BJEpRFW) | [Cheb Houssem](https://open.spotify.com/artist/4l3uOQQa1NaZz7OVNAjbC2), [Cheba Dalila](https://open.spotify.com/artist/5CZ5sGdn0X47HhndSYKqdz) | [La Faute Machi Fik](https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ) | 4:22 | 2022-10-23 | 2022-11-21 |
 | [La Nti Mrida](https://open.spotify.com/track/0uDM6l1BBitqbTVTkidtKz) | [Faycel cholé](https://open.spotify.com/artist/55b0Nu2e9Qoq0rMl6A51As) | [La Nti Mrida](https://open.spotify.com/album/11HL5lFB24mx4ORbibsFXj) | 8:21 | 2023-11-02 |  |
 | [La Vérité 3jabtini](https://open.spotify.com/track/64PcYzsiQA5O9AKzpILgmQ) | [Hbib Himoun](https://open.spotify.com/artist/4GzBsqkkdGxCTUeMehLzvQ), [amine la colombe](https://open.spotify.com/artist/38ODAyQq6fM934Xv9vCjoX) | [La Vérité 3jabtini](https://open.spotify.com/album/0YoNua511P9kqo0REoNDJN) | 4:37 | 2022-10-25 | 2022-11-05 |
@@ -186,6 +186,7 @@
 | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/track/6Of36mRcQXOZUhNFOeMg3t) | [Didou Parisien](https://open.spotify.com/artist/2LWOOorT0uVplVdL6CRncj) | [Rohou Hawlouha \\ Rani Mtwahchha](https://open.spotify.com/album/2IuSc2fo9KnuZ8JhJB4MxH) | 8:58 | 2021-10-19 | 2024-09-02 |
 | [Sahr Lyali](https://open.spotify.com/track/2KLqFKA2x5RDv8AHlKuWHY) | [Bousmaha Mohamed](https://open.spotify.com/artist/4LXU4M55DQHiOs974bOJ2Q), [Amine La Colombe](https://open.spotify.com/artist/5QNVKh6yERfewhdBys6d9E) | [Sahr Lyali](https://open.spotify.com/album/5X0qe2E64Z7kHvr5zX87Tw) | 4:56 | 2022-12-26 | 2025-02-08 |
 | [Sahr Lyali](https://open.spotify.com/track/3cXIVHqz1kQBAkih5IrE3r) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Oualaftek](https://open.spotify.com/album/2SvQ9CXIsfNHXHjorOhS5M) | 5:32 | 2022-11-07 | 2023-03-18 |
+| [Sayi Jat Fiya Kima Bghaha 3douya](https://open.spotify.com/track/2au80dh845mxNMORa4r5F4) | [Chiekh Mamidou](https://open.spotify.com/artist/1hH2bix2MvEGBOrHxMofct) | [Sayi Jat Fiya Kima Bghaha 3douya](https://open.spotify.com/album/5mGkzFQk29mwyspuqIXiCk) | 5:00 | 2026-03-06 |  |
 | [Sayi Lmineur Kebret](https://open.spotify.com/track/6OEvdTHt3MOWU1aZBYfuH5) | [Cheb walid](https://open.spotify.com/artist/6rRjMolKBrQbBfem0IKSDI) | [Sayi Lmineur Kebret](https://open.spotify.com/album/3TlFBb5kNCiNwBzEv0iW2J) | 3:29 | 2024-03-16 | 2025-12-11 |
 | [Sghira Ou Hara](https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Samy](https://open.spotify.com/artist/10bINesF7eZDORpkyHYQFD) | [Sghira Ou Hara](https://open.spotify.com/album/2XA7CTMcjG9n6JuQw5oIDv) | 4:49 | 2021-10-19 | 2023-10-12 |
 | [Smouni Nrodek](https://open.spotify.com/track/4JcwZAIkdqDWrvFlXjt1bU) | [Cherifi Akram](https://open.spotify.com/artist/1GT5LwzTtwW3Ka716vm4c4) | [Smouni Nrodek](https://open.spotify.com/album/1TAo3CzMQO3mM7zrfcgJ5s) | 4:36 | 2025-03-20 | 2025-11-18 |

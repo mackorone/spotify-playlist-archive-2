@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-554 songs - 1 day 6 hr 30 min
+556 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Isla \- Radio Edit](https://open.spotify.com/track/1s6Ur2LBUGzbAHd935MUw9) | [Felon](https://open.spotify.com/artist/4mRHCOgJQT3Pe6zV89tfYC) | [Isla \(Radio Edit\)](https://open.spotify.com/album/5clwJtMkeaSIRGYYoMhnaN) | 3:12 | 2020-09-13\* | 2021-03-06 |
 | [I’ll Find My Way To You](https://open.spotify.com/track/2R2haDSmphwkn4kANdHU5P) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [I’ll Find My Way To You](https://open.spotify.com/album/21DMxcktIoXJynH4cUBz1F) | 4:24 | 2021-09-18 | 2024-05-18 |
 | [Jump](https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC) | [Jump](https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO) | 2:33 | 2024-07-29 | 2026-01-06 |
+| [Jump](https://open.spotify.com/track/06fqBUtCFsSomwcG1Mvgzr) | [MIND](https://open.spotify.com/artist/0HWNrAbt6scbsPPgcIgrZ5) | [Jump](https://open.spotify.com/album/556UTItUBqXnwhnRq56JpB) | 4:44 | 2026-03-06 |  |
 | [Just a Dream](https://open.spotify.com/track/4yFpHBMp9ruVQmN1TgGWOL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Just a Dream](https://open.spotify.com/album/7GuDH0XJmTsFJMAQ1ywTfz) | 2:29 | 2021-03-06 | 2021-05-29 |
 | [Just A Lover](https://open.spotify.com/track/1OLksRNEmcH5G7uHg2z2Fv) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Just A Lover](https://open.spotify.com/album/22BocM6fRXSP598tdVxYLo) | 2:50 | 2021-03-06 | 2021-09-18 |
 | [Just Friends](https://open.spotify.com/track/3NjyrsDr4qS0L424H4muQd) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [Between Us](https://open.spotify.com/album/3BFj0MO4iiDBggZXcJ5k4D) | 3:58 | 2021-03-06 | 2021-11-11 |
@@ -536,6 +537,7 @@
 | [Where the Sun Goes Down](https://open.spotify.com/track/2XOoOrYb8ZptaoTxQdoqfk) | [Badflite](https://open.spotify.com/artist/3AEEmo3VYEBbQBUUEY2fUS), [RYVM](https://open.spotify.com/artist/1WPEvpdkTpcT5R976cTAFJ) | [Where the Sun Goes Down](https://open.spotify.com/album/5pGrEUOizHSULgSDY66Bfj) | 3:04 | 2024-02-23 |  |
 | [Where We Belong](https://open.spotify.com/track/1eCbYVNIkLFf54XkKWN6uf) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Where We Belong](https://open.spotify.com/album/26WkOvzdTHuO2uVVZObHUc) | 4:41 | 2025-10-31 |  |
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2021-04-20 | 2021-11-06 |
+| [White Flag Down](https://open.spotify.com/track/2lRP0VwAcpM25NJS1CCOUV) | [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [White Flag Down](https://open.spotify.com/album/0gFxtkxPt8qZyI83cP8o9L) | 2:02 | 2026-03-06 |  |
 | [Why](https://open.spotify.com/track/5aPAaUZP8YvSaZRGfdoLbt) | [Bobby Love](https://open.spotify.com/artist/15T7qZv0kn5j8U8juOxFm3), [Olive B](https://open.spotify.com/artist/7nuwunwXRTVnt5vapnCthz) | [Why](https://open.spotify.com/album/2i4xWx49nCSjID8ShzHqmy) | 3:23 | 2020-09-13\* | 2024-02-24 |
 | [Wide Awake & Dreaming \- Radio Edit](https://open.spotify.com/track/6HL4GL2ZJQAC20Xzw5q4X5) | [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj) | [Wide Awake & Dreaming](https://open.spotify.com/album/59uazWJ6GhvC3Gl8ZY0IM8) | 3:26 | 2020-09-13\* | 2021-03-06 |
 | [Wild](https://open.spotify.com/track/7z8grMV3fvfgDgEFrCdaAU) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [TAPE ANGEL](https://open.spotify.com/artist/1rH3SUHdkjjouhmAQGC1Ot) | [Wild](https://open.spotify.com/album/2H5dBkkhMViquQiltcUzZt) | 2:13 | 2023-05-19 | 2026-01-15 |

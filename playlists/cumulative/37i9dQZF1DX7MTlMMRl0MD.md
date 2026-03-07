@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: Romeo Santos & Prince Royce
 
-439 songs - 1 day 2 hr 32 min
+440 songs - 1 day 2 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Debate De 4](https://open.spotify.com/track/1dZe54pxTPI1XsISVTR6ns) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:39 | 2022-03-04 | 2024-01-13 |
 | [Dec\. 21](https://open.spotify.com/track/5HXMo0UmeCdK9c8uDm9KKz) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Dec\. 21](https://open.spotify.com/album/1NmenPP7T2r5WlWdYlZNYV) | 3:31 | 2022-03-25 | 2022-07-16 |
 | [Deja vu](https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [FIVE \(Deluxe Edition\)](https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P) | 3:16 | 2022-03-04 | 2024-01-13 |
-| [Descarada](https://open.spotify.com/track/5B8GoSjSUHBCjJIillCQyG) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Descarada](https://open.spotify.com/album/6IyDVgVOb9xmP65G8hjkTR) | 3:40 | 2025-02-14 |  |
+| [Descarada](https://open.spotify.com/track/5B8GoSjSUHBCjJIillCQyG) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Descarada](https://open.spotify.com/album/6IyDVgVOb9xmP65G8hjkTR) | 3:40 | 2025-02-14 | 2026-03-07 |
 | [Descarados](https://open.spotify.com/track/37LgVakNT0vVHU8C7kPjKd) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF) | [Descarados \- Single](https://open.spotify.com/album/2ZYo0qYURje5FXX5j6vcnG) | 3:03 | 2022-03-25 | 2022-07-24 |
 | [Desconocidos](https://open.spotify.com/track/0qkXMXSaDVQfQ7qiP9DDGU) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Desconocidos](https://open.spotify.com/album/624xcZVXB6YCcaHHmdAGL9) | 2:50 | 2025-11-21 |  |
 | [Desde Cero](https://open.spotify.com/track/3Lj8lhwQXIpBpshQNFOpMa) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Desde Cero](https://open.spotify.com/album/3poewmREiVEL85dIOHfped) | 3:28 | 2023-08-11 | 2023-09-04 |
@@ -414,7 +414,7 @@
 | [Tres Veces](https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Tres Veces](https://open.spotify.com/album/4uzfousUQ1sZZltZU9kH5q) | 3:32 | 2024-05-17 | 2025-10-18 |
 | [Tu Eres Ajena \- Bachata](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 | 2022-03-04 | 2024-01-13 |
 | [Tu Eres Mi Amor \- Bachata Version](https://open.spotify.com/track/2PgyPxXOTDKFPiDbtcdLFE) | [Kazzabe](https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv), [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Tu Eres Mi Amor \(Bachata Version\)](https://open.spotify.com/album/1WIwGwoD15YXNCFPhruPNg) | 3:41 | 2024-10-04 | 2025-05-10 |
-| [TU FEO](https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:56 | 2024-09-03 |  |
+| [TU FEO](https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:56 | 2024-09-03 | 2026-03-07 |
 | [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 | 2024-09-06 |  |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-03-04 | 2022-09-03 |
 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 | 2022-09-09 | 2023-04-30 |
@@ -433,6 +433,7 @@
 | [Verdad O Reto](https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 | 2022-09-09 | 2024-04-27 |
 | [Vete Y Aléjate De Mí](https://open.spotify.com/track/4cLaSHyfYxkr9bBuYCPM1B) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [I Love Bachata \(Bachata Hits\)](https://open.spotify.com/album/466Tc4F5S8Lfg5df80aL6s) | 4:34 | 2022-09-09 | 2023-10-24 |
 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 | 2022-03-04 | 2024-01-13 |
+| [Viral en Mi Mente](https://open.spotify.com/track/2WahHoz2VqJMet3A3OOzHd) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Viral en Mi Mente](https://open.spotify.com/album/0whdKc95C3ctNXh0gWOd6s) | 3:20 | 2026-03-06 |  |
 | [Viviré](https://open.spotify.com/track/4Cvkj8t7pNQLfLpHMoKkMC) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Viviré](https://open.spotify.com/album/1CP85ckXcd1esaXdw8WVpN) | 4:13 | 2023-05-05 | 2023-07-13 |
 | [Vocales de amor](https://open.spotify.com/track/3jy0VPEpbkIrNWf0HHEyDa) | [Joan Soriano](https://open.spotify.com/artist/6lNQpovRbGoGOWjRHkP8ry) | [El Duque de la Bachata](https://open.spotify.com/album/6p9TGoJ6zqTBqtxJ0xuFSx) | 5:10 | 2022-09-09 | 2024-01-13 |
 | [Volvieron a Darme las 6](https://open.spotify.com/track/6XBhB6lKrqeAnKn4CB0sVz) | [Grupo Extra](https://open.spotify.com/artist/4L5SLCIDWPPNGzrLraYCOS), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Colores \(Bachata Is Taking Over!\)](https://open.spotify.com/album/0e60AWHAGO3t7mNZPImsKA) | 4:10 | 2022-03-25 | 2022-09-03 |

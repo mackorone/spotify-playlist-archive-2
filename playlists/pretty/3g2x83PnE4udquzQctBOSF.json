@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2696,
+  "num_followers": 2697,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARfXVHrLRjsoUiyRUjNxHz1bIzlApN",
+  "snapshot_id": "AAARfg+5zYd1N3n6M4dLI8CE83N0sSC/",
   "tracks": [
+    {
+      "added_at": "2026-03-06 10:48:52",
+      "album": {
+        "name": "Pista Eterna",
+        "url": "https://open.spotify.com/album/0R9mlowXcypLdCwMROPARl"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "duration_ms": 200156,
+      "name": "Pista Eterna",
+      "url": "https://open.spotify.com/track/5zs7pFEF3aTEufEWCl5asU"
+    },
     {
       "added_at": "2026-03-04 17:36:38",
       "album": {

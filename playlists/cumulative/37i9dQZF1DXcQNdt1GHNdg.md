@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-322 songs - 15 hr 24 min
+323 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [100k](https://open.spotify.com/track/3l4nfzAvE5k2gmYKDCrZbI) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [FYI \(For Your Information\)](https://open.spotify.com/album/5vIvwhpEXU5SeIFhNM9phf) | 2:28 | 2025-06-02 | 2025-07-12 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-07-18 | 2025-04-15 |
 | [12 Bore](https://open.spotify.com/track/4spabAzmxykhdHZtRPdfiS) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Dev Kharoud](https://open.spotify.com/artist/7GXtuySBAajVFEGLUSoo3w), [Jhindi](https://open.spotify.com/artist/79KhzCVesY368au6fdOaj2) | [12 Bore](https://open.spotify.com/album/1lqgmn4bJ72l60zfJxN9mJ) | 2:21 | 2025-04-04 | 2025-06-12 |
-| [12 Vajde](https://open.spotify.com/track/7BqkqK5ZrqePJKUxxCI7Nd) | [Sohal Y](https://open.spotify.com/artist/4hzpfKWl3sNab2m0CE4aQA) | [12 Vajde](https://open.spotify.com/album/0ZHBJzPSGcdY2hZtd8TEPx) | 2:35 | 2026-02-12 |  |
+| [12 Vajde](https://open.spotify.com/track/7BqkqK5ZrqePJKUxxCI7Nd) | [Sohal Y](https://open.spotify.com/artist/4hzpfKWl3sNab2m0CE4aQA) | [12 Vajde](https://open.spotify.com/album/0ZHBJzPSGcdY2hZtd8TEPx) | 2:35 | 2026-02-12 | 2026-03-07 |
 | [2 DUNI 4](https://open.spotify.com/track/6nNO0odUyjf1nMz0SJJ7ig) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [2 DUNI 4](https://open.spotify.com/album/7lnZBuZ4OFMvVXhTFFDBKm) | 2:42 | 2025-08-13 | 2025-09-09 |
 | [25\-25](https://open.spotify.com/track/4aObqXLku7XQqfVQ8azYGo) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Jalwa](https://open.spotify.com/album/5zOoQe3sBQ6o2EUead1B3h) | 3:35 | 2025-08-04 | 2025-09-27 |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-07-18 | 2024-11-29 |
@@ -87,6 +87,7 @@
 | [Convo](https://open.spotify.com/track/5vXDlXE3vNa3eA8E73jySm) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:16 | 2025-07-11 |  |
 | [COOLIN](https://open.spotify.com/track/4JtT28isAsPL7sznEbybpO) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [COOLIN](https://open.spotify.com/album/1MBMMMWRVog86eyr248GlH) | 3:00 | 2024-11-06 | 2024-11-27 |
 | [Court](https://open.spotify.com/track/1weINSMgJOVHx4apkdMr1C) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Court](https://open.spotify.com/album/1sWveBnE9UEJXH3rlFqulY) | 2:47 | 2023-07-18 | 2023-11-18 |
+| [Daaka Daaku Da](https://open.spotify.com/track/72zovf8xydqfbLhWwJWhn9) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Ritu Bhaggi](https://open.spotify.com/artist/0HhjkugAR8RSgHoBqzPd0R), [Rav Hanjra](https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd), [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix) | [Daaka Daaku Da](https://open.spotify.com/album/1KWbeJYu9LwpBEQbxsOf8Z) | 2:40 | 2026-03-06 |  |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-07-18 | 2025-03-22 |
 | [Dapper Dan](https://open.spotify.com/track/6mkq59sR50XwPpf70v96WZ) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [JayB Singh](https://open.spotify.com/artist/3fQeAT5Oo93bKRwmOWo5HM) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 3:07 | 2025-09-19 |  |
 | [Daru Sambh Di](https://open.spotify.com/track/2ULlDmMknqnJZyf5w4s59B) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Sahil Thapar](https://open.spotify.com/artist/3bze3etaYqANIcGf6y6ohD) | [Alcholic](https://open.spotify.com/album/2vK8de8FlB9OTiTVGl8Zxv) | 2:42 | 2024-12-05 | 2025-01-10 |

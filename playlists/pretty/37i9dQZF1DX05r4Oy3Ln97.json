@@ -1,6 +1,6 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 1538566,
+  "num_followers": 1538714,
   "original_name": "Summer House 2026",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,30 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
+        "name": "Fire Fire",
+        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        },
+        {
+          "name": "Kasango",
+          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
+        }
+      ],
+      "duration_ms": 150480,
+      "name": "Fire Fire",
+      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
         "name": "Yamore",
         "url": "https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C"
       },
@@ -187,30 +211,6 @@
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
-        "name": "Fire Fire",
-        "url": "https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf"
-      },
-      "artists": [
-        {
-          "name": "Shimza",
-          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        },
-        {
-          "name": "Kasango",
-          "url": "https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r"
-        }
-      ],
-      "duration_ms": 150480,
-      "name": "Fire Fire",
-      "url": "https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM (BE)",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
-        "name": "Muhuuuuu",
-        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
-      },
-      "artists": [
-        {
-          "name": "Lazare",
-          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
-        },
-        {
-          "name": "ADDAM (BE)",
-          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
-        }
-      ],
-      "duration_ms": 163195,
-      "name": "Muhuuuuu",
-      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "Lauren (I Can't Stay Forever)",
-        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
-      },
-      "artists": [
-        {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Lauren (I Can't Stay Forever)",
-      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
         "name": "Out of My Mind EP",
         "url": "https://open.spotify.com/album/6yNf1ZQOOcc9fJun9HY1xa"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 204737,
       "name": "Out of My Mind",
       "url": "https://open.spotify.com/track/2ejlG3wXw0kCqHEcvCVqsw"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
+        "name": "Lauren (I Can't Stay Forever)",
+        "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
+      },
+      "artists": [
+        {
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Lauren (I Can't Stay Forever)",
+      "url": "https://open.spotify.com/track/33tYADyL2aZctrvR59K1bQ"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "(It Goes Like) Nanana",
-        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 367613,
-      "name": "(It Goes Like) Nanana",
-      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
         "name": "The Finest EP",
         "url": "https://open.spotify.com/album/2MzCc76W5Gt0mGaRRDA9Ve"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 169846,
       "name": "Gets Like That",
       "url": "https://open.spotify.com/track/1aBVDx9VjyLEk8rz8pezru"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
+        "name": "(It Goes Like) Nanana",
+        "url": "https://open.spotify.com/album/6v3I0eftpzoc1VNR9JoVyc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 367613,
+      "name": "(It Goes Like) Nanana",
+      "url": "https://open.spotify.com/track/5Hijdt7rmbj9fUJdXEs6Nz"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1554,6 +1554,10 @@
         {
           "name": "Theophilus London",
           "url": "https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE"
+        },
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
         }
       ],
       "duration_ms": 170640,
@@ -1623,6 +1627,30 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
+        "name": "Hold On, Let Go",
+        "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 241061,
+      "name": "Hold On, Let Go",
+      "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
         "name": "Set My Heart On Fire (I'm Alive x And The Beat Goes On)",
         "url": "https://open.spotify.com/album/4kv5YokXfWwwlG9NBJrsVF"
       },
@@ -1667,30 +1695,6 @@
       "duration_ms": 202560,
       "name": "Weak",
       "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
-        "name": "Hold On, Let Go",
-        "url": "https://open.spotify.com/album/73diRAl84rievVIadGPsoc"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 241061,
-      "name": "Hold On, Let Go",
-      "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1755,18 +1759,22 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+        "name": "Blue Berries",
+        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
       },
       "artists": [
         {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
         }
       ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
+      "duration_ms": 170008,
+      "name": "Blue Berries",
+      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1787,22 +1795,18 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "Blue Berries",
-        "url": "https://open.spotify.com/album/5rYaOhuUSKY1APLQ131QWN"
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
       },
       "artists": [
         {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        },
-        {
-          "name": "Tagmann",
-          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 170008,
-      "name": "Blue Berries",
-      "url": "https://open.spotify.com/track/7M4GUQ0CZU5A9CO2hkadG4"
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1847,22 +1851,6 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "Saturday Morning",
-        "url": "https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 160487,
-      "name": "Saturday Morning",
-      "url": "https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp"
-    },
-    {
-      "added_at": "2026-03-05 05:00:29",
-      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/3kRBeMjU9B4F52Z9AqVGnG"
       },
@@ -1899,18 +1887,42 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "I Know You Want To",
-        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
+        "name": "Saturday Morning",
+        "url": "https://open.spotify.com/album/4ATp8hoJal8KklLDp96Jcu"
       },
       "artists": [
         {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 193488,
-      "name": "I Know You Want To",
-      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
+      "duration_ms": 160487,
+      "name": "Saturday Morning",
+      "url": "https://open.spotify.com/track/24IEGudSMPFjk1U7klc4zp"
+    },
+    {
+      "added_at": "2026-03-05 05:00:29",
+      "album": {
+        "name": "On My Mind (Enzo is Burning Remix)",
+        "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
+      },
+      "artists": [
+        {
+          "name": "Alan Fitzpatrick",
+          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
+        },
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        },
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "On My Mind - Enzo is Burning Remix",
+      "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
     },
     {
       "added_at": "2026-03-05 05:00:29",
@@ -1939,26 +1951,18 @@
     {
       "added_at": "2026-03-05 05:00:29",
       "album": {
-        "name": "On My Mind (Enzo is Burning Remix)",
-        "url": "https://open.spotify.com/album/1LDeKZgXNEW6gkUvLykMkN"
+        "name": "I Know You Want To",
+        "url": "https://open.spotify.com/album/60xGclNsYuzGqMfhUW4nXE"
       },
       "artists": [
         {
-          "name": "Alan Fitzpatrick",
-          "url": "https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive"
-        },
-        {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
-        },
-        {
-          "name": "Enzo is Burning",
-          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 162748,
-      "name": "On My Mind - Enzo is Burning Remix",
-      "url": "https://open.spotify.com/track/6OYWH6FZgixV7e7VN14neq"
+      "duration_ms": 193488,
+      "name": "I Know You Want To",
+      "url": "https://open.spotify.com/track/3qhf5WajCHsJibQ7cQ2qYS"
     },
     {
       "added_at": "2026-03-05 05:00:29",

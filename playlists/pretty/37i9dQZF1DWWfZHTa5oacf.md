@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,600 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,695 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 20 | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/track/25MPTnqXQB1H6OkwSYUXWx) | [Ved Sharma](https://open.spotify.com/artist/7uX1emIGgmfAgtHNRAK50Z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Malang \(Title Track\) \[From "Malang \- Unleash The Madness"\]](https://open.spotify.com/album/6mMs3cpaMLQP3cOLG4wYRy) | 4:47 |
 | 21 | [Raat Bhar](https://open.spotify.com/track/3ctaMit7CuiHIPVYrRvm15) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Heropanti](https://open.spotify.com/album/3OozDMNwTvyCP4bOhsSou0) | 5:25 |
 | 22 | [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 |
-| 23 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
+| 23 | [Ilahi](https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Yeh Jawaani Hai Deewani](https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1) | 3:48 |
 | 24 | [Pyaar Hota Kayi Baar Hai](https://open.spotify.com/track/7zXcLSiKnMtmrmRQ0DieS9) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Tu Jhoothi Main Makkaar](https://open.spotify.com/album/1t1gWslYejaaqicumEbdKU) | 3:36 |
 | 25 | [Gulabi](https://open.spotify.com/track/22kRCQPyNXWZSQEcDvCmGD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [Shuddh Desi Romance](https://open.spotify.com/album/1rrjdhGZe4vVjwxJETqQbK) | 3:50 |
 | 26 | [Makhna \- From "Drive"](https://open.spotify.com/track/7BjQqiOJio4RdPL33yALKE) | [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Makhna \(From "Drive"\)](https://open.spotify.com/album/6pY4tNppoP8sV77Dc4ecVj) | 3:03 |

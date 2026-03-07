@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Samara Cyn",
-  "num_followers": 64958,
+  "num_followers": 64986,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "cul-de-sac",
-        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
-      },
-      "artists": [
-        {
-          "name": "Maya J'an",
-          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
-        }
-      ],
-      "duration_ms": 196700,
-      "name": "cul-de-sac",
-      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+        "name": "cul-de-sac",
+        "url": "https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP"
       },
       "artists": [
         {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+          "name": "Maya J'an",
+          "url": "https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0"
         }
       ],
-      "duration_ms": 245358,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+      "duration_ms": 196700,
+      "name": "cul-de-sac",
+      "url": "https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -411,6 +395,22 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
         "name": "This Is The World (I Made It For You) / Nice Day",
         "url": "https://open.spotify.com/album/4vWx8nV08q3lSTpwZJZQMf"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Bendito Verano",
-        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 151825,
-      "name": "AM\u00c9N BEB\u00c9",
-      "url": "https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Tell Me It's Over",
         "url": "https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 176133,
       "name": "Tell Me It's Over",
       "url": "https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "Bendito Verano",
+        "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 151825,
+      "name": "AM\u00c9N BEB\u00c9",
+      "url": "https://open.spotify.com/track/5Xa1Ck3fLmo29HcnKsAr8H"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
+        "name": "Too Slow (All Night)",
+        "url": "https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx"
+      },
+      "artists": [
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        },
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "Too Slow (All Night)",
+      "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
         "name": "w-w-w-w-w",
         "url": "https://open.spotify.com/album/5wICjFM6k0RJow9l8anfuk"
       },
@@ -639,38 +659,18 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Too Slow (All Night)",
-        "url": "https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx"
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4"
       },
       "artists": [
         {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+          "name": "mercury",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
         }
       ],
-      "duration_ms": 171444,
-      "name": "Too Slow (All Night)",
-      "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
-        "name": "NOT TODAY",
-        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
-      },
-      "artists": [
-        {
-          "name": "Kim Gordon",
-          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
-        }
-      ],
-      "duration_ms": 215286,
-      "name": "NOT TODAY",
-      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
+      "duration_ms": 275841,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -687,6 +687,22 @@
       "duration_ms": 177919,
       "name": "Dream Come True",
       "url": "https://open.spotify.com/track/5u4PukbCMvkFuL3RhKTzhO"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "NOT TODAY",
+        "url": "https://open.spotify.com/album/0CN3gBzAW6mYrtmyBavIqs"
+      },
+      "artists": [
+        {
+          "name": "Kim Gordon",
+          "url": "https://open.spotify.com/artist/3n8qeKQViV1waeCzZmS4Tx"
+        }
+      ],
+      "duration_ms": 215286,
+      "name": "NOT TODAY",
+      "url": "https://open.spotify.com/track/1tXniZMdXRV8FyUZHN51eS"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -719,22 +735,6 @@
       "duration_ms": 224343,
       "name": "Antolog\u00eda - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4"
-      },
-      "artists": [
-        {
-          "name": "mercury",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
-        }
-      ],
-      "duration_ms": 275841,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "Change The Man",
-        "url": "https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO"
-      },
-      "artists": [
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 211419,
-      "name": "Change The Man",
-      "url": "https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N"
-    },
-    {
-      "added_at": "2026-02-23 20:11:02",
-      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 191922,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
+    },
+    {
+      "added_at": "2026-02-23 20:11:02",
+      "album": {
+        "name": "Change The Man",
+        "url": "https://open.spotify.com/album/5rlZ8t1zTFpFPQPOiVUEbO"
+      },
+      "artists": [
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 211419,
+      "name": "Change The Man",
+      "url": "https://open.spotify.com/track/10BWPBIJFx3RPgJfTKS15N"
     },
     {
       "added_at": "2026-02-23 20:11:02",
@@ -899,18 +899,22 @@
     {
       "added_at": "2026-02-23 20:11:02",
       "album": {
-        "name": "I Still Choose You",
-        "url": "https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5"
+        "name": "Who Is Bankroll?",
+        "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
       "artists": [
         {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 268109,
-      "name": "I Still Choose You",
-      "url": "https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq"
+      "duration_ms": 131592,
+      "name": "From The Back",
+      "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
     }
   ],
   "unique_name": "EQUAL US",

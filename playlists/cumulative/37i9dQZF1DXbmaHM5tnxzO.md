@@ -4,7 +4,7 @@
 
 > All the best tracks from Pixar films, including new music from "Hoppers," in theaters soon.
 
-107 songs - 5 hr 0 min
+108 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Temple Duties](https://open.spotify.com/track/78Ti5nbVzqhZRJM8hcDjVB) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Turning Red \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6z1EZ0KfoiVW0bXIbOWAu3) | 1:13 | 2025-07-04 |  |
 | [The Ballad of the Lonesome Cowboy](https://open.spotify.com/track/3a24rUSZ1Ui3xmPNnqpor8) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 1:45 | 2023-09-15 |  |
 | [The Cleaner](https://open.spotify.com/track/1DOK4imxjjUaPWxUQUqHL1) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 1:50 | 2023-09-15 |  |
+| [The First Hop](https://open.spotify.com/track/1FFekn7Uko5HOTxWayKEGk) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:03 | 2026-03-06 |  |
 | [The Life of Riley](https://open.spotify.com/track/4hwwfstxl1XWqA0KKce7FY) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2) | [Inside Out 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD) | 2:32 | 2024-06-17 |  |
 | [The Scare Floor](https://open.spotify.com/track/6miK1DMb1WONHzH1jh5PLk) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters, Inc\. \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7hguux6E8wOGlNsKnZB6Sz) | 2:40 | 2023-09-15 |  |
 | [The Time Of Your Life \- From "A Bug's Life"/Score](https://open.spotify.com/track/33GqT5sh9PQq8mnTPWUkco) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [A Bug's Life](https://open.spotify.com/album/5MYKGPG7eGeLCwk9vteT87) | 3:16 | 2023-09-15 |  |

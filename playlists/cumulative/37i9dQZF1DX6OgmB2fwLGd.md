@@ -4,7 +4,7 @@
 
 > born on the internet\. ft\. the sound chalk makes
 
-1,240 songs - 2 day 2 hr 17 min
+1,242 songs - 2 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [blink twice](https://open.spotify.com/track/3rEZiPKoPetVTFNVz0CYYI) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 1:37 | 2026-02-27 |  |
 | [BLITZ](https://open.spotify.com/track/6sMos8CBjRScWJktutm8ek) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:23 | 2023-04-14 | 2023-05-06 |
 | [bloody mary \(feat\. Ken Car$on\)](https://open.spotify.com/track/5bgHx7A9rlYuOXo5QDerlS) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [The Twin Society](https://open.spotify.com/album/2plgNIBaUWx8Tgog8Y8OwM) | 3:37 | 2022-07-29 | 2022-09-24 |
-| [Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:25 | 2026-01-30 |  |
+| [Blow The Speaker .](https://open.spotify.com/track/27P75rHB4CvezhpyTJvn18) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [The Boy who cried Terrified .](https://open.spotify.com/album/2hDITFU9UORQlTBKz6vj3o) | 2:25 | 2026-01-30 | 2026-03-07 |
 | [Blue Bills \(feat\. $NOT & Fenix Flexin\)](https://open.spotify.com/track/2eXuIbuMb70Mixj7oMSJnn) | [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [FAMILY \(Deluxe\)](https://open.spotify.com/album/33O2GXSm43GLTmYQSTxDoL) | 1:40 | 2022-01-26 | 2022-05-21 |
 | [Blue Devils](https://open.spotify.com/track/2MutiCeyax452vW5ydaizZ) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/6X7OCo3FJb2o0yAAsaq0fw) | 2:00 | 2023-12-21 | 2024-04-19 |
 | [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 | 2023-12-21 | 2024-08-10 |
@@ -225,6 +225,7 @@
 | [Certified Dripper](https://open.spotify.com/track/5jMnDNdpFkR1rrAo6ktupW) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Certified Dripper](https://open.spotify.com/album/3dWl00RjWmmfezNRastKYM) | 2:32 | 2022-06-21 | 2023-01-24 |
 | [Cha Cha](https://open.spotify.com/track/6d6wAt8R2IiVNSxpi4lerS) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cha Cha](https://open.spotify.com/album/17Jxv329yHNbPk3lnZjaQE) | 2:35 | 2023-12-28 | 2024-09-21 |
 | [Cha Cha](https://open.spotify.com/track/516v2eji9NjkmsYc9PErx4) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Cha Cha](https://open.spotify.com/album/7CqC8dZ6sJrOL2796p3B5l) | 2:37 | 2023-12-28 | 2024-04-19 |
+| [Chai Tea](https://open.spotify.com/track/2JXuK1aN70Km9IS65oKLNq) | [oopsy](https://open.spotify.com/artist/0XOrxQAiCY2IEoJdw9dvf6) | [Chai Tea](https://open.spotify.com/album/4ViaLQ0lFWagpmFPQ35KZx) | 1:34 | 2026-03-06 |  |
 | [Chain Gang](https://open.spotify.com/track/21IO3sH0r3hD5c0QZTjSHl) | [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [No Sympathy](https://open.spotify.com/album/2xIVfwAmHRtqvdeZ7LDKlh) | 1:48 | 2023-11-10 | 2024-03-16 |
 | [Champions](https://open.spotify.com/track/11y5mfZsBaMV79mJmg8CJT) | [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [Champions](https://open.spotify.com/album/5JV8d2KR990xfaA6kz8vly) | 1:44 | 2022-02-18 | 2022-02-25 |
 | [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 | 2023-12-13 | 2024-08-06 |
@@ -813,7 +814,7 @@
 | [OKAY SHAWTY](https://open.spotify.com/track/3qsR1pTGoshzapShuYm0ns) | [Kwe the Artist](https://open.spotify.com/artist/1QduOP354RYyRRGRuvYPD2) | [OKAY SHAWTY](https://open.spotify.com/album/2vtizplVpMIp3cguwoT7nA) | 1:46 | 2021-11-29 | 2022-04-29 |
 | [Old English](https://open.spotify.com/track/7hcjkFjIyw8vsUOVIDlcmS) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Old English \- Single](https://open.spotify.com/album/7Bl87kMIXjddIKqaQhdxra) | 3:21 | 2022-05-26 | 2022-06-03 |
 | [OLD TUNES](https://open.spotify.com/track/0Gym2BGsLU15iFSVhMQ3sD) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [CARE PACKAGE](https://open.spotify.com/album/5SWXYl4C8gX1c561DzntR5) | 1:58 | 2023-11-10 | 2024-06-15 |
-| [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-07 |  |
+| [Omens](https://open.spotify.com/track/28NKduvWszfoQSU3k5p7vg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [Omens](https://open.spotify.com/album/3AC7a4tzY2m86AIDyGFkFP) | 2:00 | 2026-02-07 | 2026-03-07 |
 | [OMG XD](https://open.spotify.com/track/4Lk7ZslBj20EgyMlC6VJph) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [OMG XD](https://open.spotify.com/album/7DgcZ9qyCA51DHvyYlG5GK) | 2:03 | 2024-09-18 | 2026-02-08 |
 | [On The Radar Freestyle](https://open.spotify.com/track/6jaf7Il3LkGkR0jMYmBXtv) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [On The Radar Freestyle](https://open.spotify.com/album/4WzlKTa0ZyWBoYXqnxakYp) | 1:42 | 2023-08-25 | 2023-09-09 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-12 | 2024-08-06 |
@@ -990,6 +991,7 @@
 | [shut the fuck up talking to me](https://open.spotify.com/track/7qGw7mD1l16vJt6MnELYSD) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:49 | 2021-10-15 | 2022-02-19 |
 | [Shut Up](https://open.spotify.com/track/7iZGpuboJPQQGH07EprPnR) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [BAD ASS F\*CKING KID](https://open.spotify.com/album/2j74DNrJ8TgnMEukERqnnm) | 2:05 | 2025-01-29 | 2026-02-08 |
 | [sidekick](https://open.spotify.com/track/6hxowqRsDm1fsm00y2eHJP) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 1:18 | 2025-04-10 | 2025-04-19 |
+| [Silk Road](https://open.spotify.com/track/2OITBRdvXlqJOMHNzawWXZ) | [Thaiboy Digital](https://open.spotify.com/artist/3cGojc1Yu89IHXx8OeSnee), [swedm®](https://open.spotify.com/artist/0JoFtJei4JUZYBqN0dk8UK) | [Silk Road](https://open.spotify.com/album/0XGkTcHucqCI0S5Kq0RbDu) | 2:32 | 2026-03-06 |  |
 | [SIMPLE](https://open.spotify.com/track/43KrLcrVbDBimYtjKswIL3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [SIMPLE](https://open.spotify.com/album/6nfwaflmUX1fWLwY0abYxF) | 2:34 | 2022-10-14 | 2023-05-06 |
 | [SINS](https://open.spotify.com/track/32mXd7wU5DXzI3NwxOjeLT) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MANIC MAN](https://open.spotify.com/album/0jqwLKjpjN4ikAbIi7bAHT) | 2:17 | 2023-09-22 | 2024-02-03 |
 | [sins \(let me in\) \- Remix](https://open.spotify.com/track/7d4NMY87lt1tQZeM8ljq8o) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [sins \(let me in\) \[Remix\]](https://open.spotify.com/album/1aspg7ShxaIqxWWxiPHcyA) | 2:44 | 2023-10-27 | 2024-05-06 |

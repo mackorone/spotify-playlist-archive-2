@@ -4286,7 +4286,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 149318,
       "name": "Bonefire",
       "url": "https://open.spotify.com/track/3IV7SN6XAxP9dgvru3wEWb"
@@ -7076,7 +7076,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171428,
       "name": "Cry",
       "url": "https://open.spotify.com/track/2RX2EpUCh9OodJ63ZYLstG"
@@ -8289,6 +8289,28 @@
     },
     {
       "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/55OyYqQkIvzjWd8YHMT4TR"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "CHAINMAN",
+          "url": "https://open.spotify.com/artist/5hognANWcSbjxxUqvZwIfC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/09qze0BFdLERhcw0058gNv"
+    },
+    {
+      "album": {
         "name": "Different Shit",
         "url": "https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu"
       },
@@ -9478,6 +9500,28 @@
       "duration_ms": 197142,
       "name": "DROWNING",
       "url": "https://open.spotify.com/track/1ESY1ydyrdB4FxedIgRuQG"
+    },
+    {
+      "album": {
+        "name": "DRUNK ON UR LOVE",
+        "url": "https://open.spotify.com/album/2vMNz2J7TLC60OSQj1EFUy"
+      },
+      "artists": [
+        {
+          "name": "AVELLO",
+          "url": "https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ"
+        },
+        {
+          "name": "Billi Royce",
+          "url": "https://open.spotify.com/artist/0t5043yIoMTnAwLa0uNuic"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "DRUNK ON UR LOVE",
+      "url": "https://open.spotify.com/track/3BHu2xcX5Ag1W2ktAnTxyr"
     },
     {
       "album": {
@@ -12544,7 +12588,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 234482,
       "name": "Frames of Infinity",
       "url": "https://open.spotify.com/track/6nTBvVuBaYu6s4aYnpA0oV"
@@ -12858,6 +12902,28 @@
       "duration_ms": 218666,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/0oeSHt8QrW3olWPkFO4WbG"
+    },
+    {
+      "album": {
+        "name": "FULL SEND",
+        "url": "https://open.spotify.com/album/1kvJVniw82d9loGIZRDKKH"
+      },
+      "artists": [
+        {
+          "name": "Jantsen",
+          "url": "https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg"
+        },
+        {
+          "name": "Ravenscoon",
+          "url": "https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211862,
+      "name": "FULL SEND",
+      "url": "https://open.spotify.com/track/7uSupgnScNSahebyEiRitY"
     },
     {
       "album": {
@@ -19029,6 +19095,28 @@
     },
     {
       "album": {
+        "name": "LIGHTS GO OUT [Remixes]",
+        "url": "https://open.spotify.com/album/6WRhnNI7NpNq97oD6Onb4l"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Dennett",
+          "url": "https://open.spotify.com/artist/00iuR3hBqoYxY8I0XYcWN9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "LIGHTS GO OUT - Dennett Remix",
+      "url": "https://open.spotify.com/track/1hQAmS4c99YiiXTORf0pCW"
+    },
+    {
+      "album": {
         "name": "The R\u267e\ufe0fts",
         "url": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7"
       },
@@ -19374,7 +19462,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 191034,
       "name": "Lock Arf",
       "url": "https://open.spotify.com/track/4zodu1dcPL0YSLgxQOHxTQ"
@@ -19876,10 +19964,32 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 135724,
       "name": "LOUDER",
       "url": "https://open.spotify.com/track/2eYZqzXb89ma7cR8g7eIKX"
+    },
+    {
+      "album": {
+        "name": "Loudest In The Room",
+        "url": "https://open.spotify.com/album/6s06hzHUmDSQTzhQh77UYK"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Loudest In The Room",
+      "url": "https://open.spotify.com/track/35soU3odbFiPB8PAQNIqjM"
     },
     {
       "album": {
@@ -21458,7 +21568,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 174186,
       "name": "move ting",
       "url": "https://open.spotify.com/track/035MWW56Wl7Wqzc0zk7HzR"
@@ -23014,7 +23124,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154285,
       "name": "OBSCURE VIBE",
       "url": "https://open.spotify.com/track/6TQQukGHEJfKMVD4TAksac"
@@ -23230,7 +23340,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196065,
       "name": "OK OK - Hamdi remix",
       "url": "https://open.spotify.com/track/401geNb9B5l7bFzi53Z3oP"
@@ -23772,6 +23882,28 @@
       "duration_ms": 132000,
       "name": "Onomono",
       "url": "https://open.spotify.com/track/2HEJngNEwvIreCsitsTwOO"
+    },
+    {
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195433,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "album": {
@@ -26739,6 +26871,28 @@
     },
     {
       "album": {
+        "name": "REQUIEM",
+        "url": "https://open.spotify.com/album/2M6i3bzBgewWYn9RQgj7Io"
+      },
+      "artists": [
+        {
+          "name": "Cozy Kev",
+          "url": "https://open.spotify.com/artist/7e0CLdbVq8tdRGfh8Tf6JB"
+        },
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "REQUIEM",
+      "url": "https://open.spotify.com/track/2Oy6oc0Dit6XMcpTBvCdB0"
+    },
+    {
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/2We2z1nLbTSsgJP33xBu61"
       },
@@ -27928,6 +28082,24 @@
       "duration_ms": 190053,
       "name": "Say What",
       "url": "https://open.spotify.com/track/2g0JzCYReBuozImlug3OWV"
+    },
+    {
+      "album": {
+        "name": "say_yes_FESTIVALMIX1",
+        "url": "https://open.spotify.com/album/5G79EoSpJ0nEEkBm1vJPje"
+      },
+      "artists": [
+        {
+          "name": "WINK",
+          "url": "https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "say_yes_FESTIVALMIX1",
+      "url": "https://open.spotify.com/track/0klC111yCH3JWuPCDbpFqP"
     },
     {
       "album": {
@@ -31465,6 +31637,36 @@
     },
     {
       "album": {
+        "name": "G\u00cdRIA",
+        "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        },
+        {
+          "name": "Me Jesmay",
+          "url": "https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv"
+        },
+        {
+          "name": "Lucas Swatch",
+          "url": "https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "SYRINX",
+      "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
+    },
+    {
+      "album": {
         "name": "System Shock",
         "url": "https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq"
       },
@@ -34334,7 +34536,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 110571,
       "name": "UP N DOWN",
       "url": "https://open.spotify.com/track/69WueZRR7SvXxBk118J9Ss"

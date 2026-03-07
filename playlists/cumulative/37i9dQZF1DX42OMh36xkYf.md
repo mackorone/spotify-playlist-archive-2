@@ -2,9 +2,9 @@
 
 ### [IRIS](https://open.spotify.com/playlist/37i9dQZF1DX42OMh36xkYf)
 
-> Resonancias extraordinarias de luminiscencia inclasificable\. Con Motherflowers en portada.
+> Resonancias extraordinarias de luminiscencia inclasificable\. Con Aterciopelados en portada.
 
-243 songs - 13 hr 18 min
+244 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [La Fiesta](https://open.spotify.com/track/2bxNIOvVPSaC57at7jfCsm) | [Estamos Perdidos](https://open.spotify.com/artist/3XSDbgXhPHMMAMAG8uj7YP) | [La Fiesta/María](https://open.spotify.com/album/6oORAsVxrnT86Gk07zVIFr) | 2:35 | 2025-11-21 | 2026-02-14 |
 | [la terminal](https://open.spotify.com/track/4HdsSVEogcoSeVkyH9HqTl) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:35 | 2025-08-01 | 2026-01-31 |
 | [la terminal](https://open.spotify.com/track/1UnU60jPROOjM5WVS9CE7m) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [la terminal](https://open.spotify.com/album/774LNZX5sX4BvtRMuO3lQE) | 3:36 | 2024-04-12 | 2025-08-02 |
+| [La Teta Pirata](https://open.spotify.com/track/1VM0zSdOxcFQ0i2bfv39Ql) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [La Teta Pirata](https://open.spotify.com/album/2XQGhwnv89NMhhZH6Yckxe) | 4:31 | 2026-03-06 |  |
 | [La Tormenta](https://open.spotify.com/track/5DLVjkvxxLJprV4CcXkG02) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Servando](https://open.spotify.com/artist/4dUTDxayFeWfiZzxJNQfDS) | [La Tormenta](https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w) | 2:26 | 2023-09-22 | 2023-11-25 |
 | [La Ventana \- Spotify Sessions](https://open.spotify.com/track/6VE5mKczPtG4QWerZ2Jk6u) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Elsa y Elmar \(Spotify Sessions\)](https://open.spotify.com/album/5jmAIf4GwcKVSFwHCLWh26) | 3:10 | 2026-02-12 |  |
 | [La Vida Sin Ti Apesta](https://open.spotify.com/track/3MOT7l7lFwecHZdtvPnoAY) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [La Vida Sin Ti Apesta](https://open.spotify.com/album/7Kdd2OVrDy83cDzCLPMjLL) | 3:08 | 2024-03-01 | 2025-04-05 |
@@ -170,7 +171,7 @@
 | [No Me Dan Las Cuentas](https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [No Me Dan Las Cuentas](https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE) | 3:55 | 2024-08-02 | 2024-08-31 |
 | [No me digas que estás bien](https://open.spotify.com/track/0UetCgKu0GfX4FxP0tzNKd) | [DeGlorian](https://open.spotify.com/artist/4Rvuu3pP1wo4FFJIV5VpP1) | [TODO SE DERRUMBA](https://open.spotify.com/album/5ZkTUj9Jv4iFjyEhS2JL3u) | 2:45 | 2026-02-27 |  |
 | [NO ME ESTÁS HACIENDO UN FAVOR](https://open.spotify.com/track/2WcPl9wtGox6EUla9BAW7W) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [2030](https://open.spotify.com/album/2BBBxM35Iz9XG9cARYDqlr) | 2:57 | 2023-09-22 | 2025-08-02 |
-| [no voy a salir de casa](https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no voy a salir de casa](https://open.spotify.com/album/3tB4pqG0iTBbrg9oH37sCu) | 2:52 | 2025-11-21 |  |
+| [no voy a salir de casa](https://open.spotify.com/track/5b9jMIQTn9LDmvAiiytOLg) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no voy a salir de casa](https://open.spotify.com/album/3tB4pqG0iTBbrg9oH37sCu) | 2:52 | 2025-11-21 | 2026-03-07 |
 | [Nublado](https://open.spotify.com/track/41UbjFYSaghFjPo1tgywE6) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nublado](https://open.spotify.com/album/1yCJX4nC3qogzGEv6a90kw) | 3:07 | 2023-09-22 | 2023-10-28 |
 | [Nunca Quise Escribirte una Balada](https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Nunca Quise Escribirte una Balada](https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf) | 2:33 | 2023-10-27 | 2023-11-25 |
 | [Ojalá Te Vaya Mal](https://open.spotify.com/track/4ulHRZOvmzZBCxKqdXt6Ie) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Ojalá Te Vaya Mal](https://open.spotify.com/album/0hNOa6YQsez1orqmbIRu98) | 3:00 | 2024-07-19 | 2024-08-24 |

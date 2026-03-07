@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 124257,
+  "num_followers": 124252,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVMu2MyFbydf/84DS3LnGHlgPaTa78",
+  "snapshot_id": "AAAVM3yourc7BdN3tHcsUf5I9cZszXq2",
   "tracks": [
+    {
+      "added_at": "2026-03-06 17:32:47",
+      "album": {
+        "name": "BREAK YOUR NECK",
+        "url": "https://open.spotify.com/album/4nIB5DVnc2ryn9UGX4JdWH"
+      },
+      "artists": [
+        {
+          "name": "DJ Mii",
+          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
+        }
+      ],
+      "duration_ms": 123697,
+      "name": "BREAK YOUR NECK",
+      "url": "https://open.spotify.com/track/4OB9Vpew2T1eDEh8kGarFp"
+    },
     {
       "added_at": "2026-03-05 14:47:00",
       "album": {

@@ -306,7 +306,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158811,
       "name": "Ajo y agua",
       "url": "https://open.spotify.com/track/56n6vTGk13eRUimIfcN8Ue"
@@ -1012,10 +1012,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 243626,
       "name": "Cheques",
       "url": "https://open.spotify.com/track/4sLeBVI7jCaDUd0WcxCWbg"
+    },
+    {
+      "album": {
+        "name": "Cheques",
+        "url": "https://open.spotify.com/album/5Y115yLkxT4q3CEITzdEUV"
+      },
+      "artists": [
+        {
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172971,
+      "name": "Cheques",
+      "url": "https://open.spotify.com/track/2kv0MUq9wNLPABYp33P7Uf"
     },
     {
       "album": {
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 195039,
       "name": "Gracias a Vos",
       "url": "https://open.spotify.com/track/76VjyP6ZghLdYKSg1HINbN"
@@ -4947,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "Montserrat",
+        "url": "https://open.spotify.com/album/1IEguUV4oxY3vYe6AE6osq"
+      },
+      "artists": [
+        {
+          "name": "Draco Rosa",
+          "url": "https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311210,
+      "name": "Montserrat",
+      "url": "https://open.spotify.com/track/4fbFFVQfSUPAKtT2bpGZOy"
+    },
+    {
+      "album": {
         "name": "MSA (Movimiento Social Ascendente)",
         "url": "https://open.spotify.com/album/6Gy4KCBhEwdcjzLdoSJg6V"
       },
@@ -5498,6 +5534,24 @@
       "duration_ms": 320370,
       "name": "Pac\u00edfico (Sinf\u00f3nico)",
       "url": "https://open.spotify.com/track/5mdslcMMZJ85qapl4JTZ1F"
+    },
+    {
+      "album": {
+        "name": "Para alguien m\u00e1s",
+        "url": "https://open.spotify.com/album/6oZztkFuAQt9iKT5ZV7zkL"
+      },
+      "artists": [
+        {
+          "name": "Ale Kurz",
+          "url": "https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202216,
+      "name": "Para alguien m\u00e1s",
+      "url": "https://open.spotify.com/track/4y1z59863rBOzmfD4IuTtz"
     },
     {
       "album": {
@@ -6069,6 +6123,28 @@
     },
     {
       "album": {
+        "name": "Retrovisor",
+        "url": "https://open.spotify.com/album/2fhSVxGwgNNnrpoEsaum3G"
+      },
+      "artists": [
+        {
+          "name": "Mec\u00e1nico",
+          "url": "https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct"
+        },
+        {
+          "name": "Spiral Vortex",
+          "url": "https://open.spotify.com/artist/4bvm188tbbv8vPZvWExXsb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "Retrovisor",
+      "url": "https://open.spotify.com/track/6dRodCqlCp4bH7B8KbyjyQ"
+    },
+    {
+      "album": {
         "name": "Revoluciones Caseras",
         "url": "https://open.spotify.com/album/4pxFxtFZ1DKaG7hTKeobWk"
       },
@@ -6174,7 +6250,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192241,
       "name": "Rock and Roll y Fiebre",
       "url": "https://open.spotify.com/track/2zAIDVCOhSeiCczhKdsMRq"
@@ -6644,7 +6720,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167044,
       "name": "tabaco para armar",
       "url": "https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857"
@@ -7184,6 +7260,24 @@
       "duration_ms": 186466,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/3obYcaXHdTB1EvZE3PVQhd"
+    },
+    {
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Hablamos Cuando Hablamos de Amor?",
+        "url": "https://open.spotify.com/album/4erCBs27VUtGcGFkN7XBly"
+      },
+      "artists": [
+        {
+          "name": "Jero Jones",
+          "url": "https://open.spotify.com/artist/4Tk06wQxbCfPYcxqxGE8yJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309444,
+      "name": "Tu Bar",
+      "url": "https://open.spotify.com/track/0iP5B6MjWzyCD7r7idZZqb"
     },
     {
       "album": {

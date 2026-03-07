@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "A New Day",
+        "url": "https://open.spotify.com/album/50TJbf8ARpqpcp8lHMapuc"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "HNGT",
+          "url": "https://open.spotify.com/artist/1LMZAwKQsYL6iIyAx7VuLK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235615,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/2eaS1iJ2COp7sZWYL6IAFd"
+    },
+    {
+      "album": {
         "name": "Acid Peppers",
         "url": "https://open.spotify.com/album/6oka5q4Rg2o2wOWQ2Jzzei"
       },
@@ -336,6 +358,24 @@
       "duration_ms": 195840,
       "name": "ARPT",
       "url": "https://open.spotify.com/track/3obLSyxtsr0R5hGISMPwFd"
+    },
+    {
+      "album": {
+        "name": "AWAKE",
+        "url": "https://open.spotify.com/album/4UEdAADO57okZjafO05wtK"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/5XH7i3B4Q6ZPHhdv07SEdf"
     },
     {
       "album": {
@@ -1088,7 +1128,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176250,
       "name": "Cry for You",
       "url": "https://open.spotify.com/track/1YyFsHtaVX8Ra5gQzIKq6N"
@@ -1340,7 +1380,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175312,
       "name": "DNA",
       "url": "https://open.spotify.com/track/4BpJJMVKSVn0YTmuiivZEQ"
@@ -1652,6 +1692,24 @@
       "duration_ms": 150004,
       "name": "Evil",
       "url": "https://open.spotify.com/track/3I82UgyI4rzaXSwAGJvvfw"
+    },
+    {
+      "album": {
+        "name": "Ex Machina",
+        "url": "https://open.spotify.com/album/7Fb34mkumndAU8Lc5421C1"
+      },
+      "artists": [
+        {
+          "name": "Groove Delight",
+          "url": "https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121874,
+      "name": "Ex Machina",
+      "url": "https://open.spotify.com/track/40rQKPdcEUr83krJCaNUvz"
     },
     {
       "album": {
@@ -2924,6 +2982,28 @@
       "duration_ms": 210967,
       "name": "If You Wanna Come",
       "url": "https://open.spotify.com/track/3fp3ebsLgDrKDTWyzymWCs"
+    },
+    {
+      "album": {
+        "name": "Mziki, Vol. 2",
+        "url": "https://open.spotify.com/album/3Y7uhCxhDdpo5JQ7j9YPZT"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        },
+        {
+          "name": "Savage & SH\u0113",
+          "url": "https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222148,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/6r6MPuQfr3riRVWcJnfKNe"
     },
     {
       "album": {
@@ -5506,7 +5586,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 261176,
       "name": "Stuka Ju87",
       "url": "https://open.spotify.com/track/5nNWOLemVk2QaeeJQwOKli"

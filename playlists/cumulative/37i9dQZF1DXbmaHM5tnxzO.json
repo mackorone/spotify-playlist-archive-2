@@ -1615,6 +1615,24 @@
     },
     {
       "album": {
+        "name": "Hoppers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm"
+      },
+      "artists": [
+        {
+          "name": "Mark Mothersbaugh",
+          "url": "https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63204,
+      "name": "The First Hop",
+      "url": "https://open.spotify.com/track/1FFekn7Uko5HOTxWayKEGk"
+    },
+    {
+      "album": {
         "name": "Inside Out 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7GxqnKjMYDDxdAftzeAGfD"
       },

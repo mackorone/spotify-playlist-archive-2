@@ -1,13 +1,105 @@
 {
   "description": "New releases for the kids. Cover: Peppa Pig",
-  "num_followers": 90655,
+  "num_followers": 90814,
   "original_name": "New Kids Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKMVBL4BB2Ccc20JaQwkrJU4qtCg",
+  "snapshot_id": "AAAAAFfMQDXcQJylpPB/ktKdR24EXSFw",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "I'm a Little Train",
+        "url": "https://open.spotify.com/album/0VdYzHLsWlT0IzFnBGdMvZ"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "duration_ms": 140769,
+      "name": "I'm a Little Train",
+      "url": "https://open.spotify.com/track/6JxZP3sfvsAoWaYWk2Mgb1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Broccoli Lovers!",
+        "url": "https://open.spotify.com/album/6n2DNMexPrlFVlFXYw9fXi"
+      },
+      "artists": [
+        {
+          "name": "Snuggle Bunch",
+          "url": "https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv"
+        }
+      ],
+      "duration_ms": 92215,
+      "name": "Broccoli Lovers!",
+      "url": "https://open.spotify.com/track/5b6ND6m1Dh84kmxyn7D4p9"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/3ipDuBgpRobIYIHZFb6VvF"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        },
+        {
+          "name": "Lah-Lah",
+          "url": "https://open.spotify.com/artist/6Cmgy0JwJP82zSFZkiCNmm"
+        }
+      ],
+      "duration_ms": 96071,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/1wJhcNcdA3ZEWShxmzTMTJ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "I Went to the Jungle - Purple Monkey Activity Center",
+        "url": "https://open.spotify.com/album/0hTAapFgtcvW6BL4iZREBJ"
+      },
+      "artists": [
+        {
+          "name": "Fisher-Price",
+          "url": "https://open.spotify.com/artist/6TjbqpZF5EKmSYlcUZULk1"
+        },
+        {
+          "name": "Mattel",
+          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
+        }
+      ],
+      "duration_ms": 60339,
+      "name": "I Went to the Jungle - Purple Monkey Activity Center",
+      "url": "https://open.spotify.com/track/6oG21CCWL9eTWFcyEd4jKG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:08",
+      "album": {
+        "name": "Home Among the Gum Trees",
+        "url": "https://open.spotify.com/album/498FnrDSawFL3wrmHZS3WC"
+      },
+      "artists": [
+        {
+          "name": "The Countdown Kids",
+          "url": "https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL"
+        }
+      ],
+      "duration_ms": 165499,
+      "name": "Home Among the Gum Trees",
+      "url": "https://open.spotify.com/track/4j3tart6lsCaDGiquOemPT"
+    },
     {
       "added_at": "2026-02-27 05:00:47",
       "album": {
@@ -1687,226 +1779,6 @@
       "duration_ms": 122461,
       "name": "Birthday Bonanza - Skye's Music Party",
       "url": "https://open.spotify.com/track/0q4hkNaMQ6B0F8IdFc01mr"
-    },
-    {
-      "added_at": "2025-10-10 04:13:22",
-      "album": {
-        "name": "Zoo (From \"Zootopia 2\")",
-        "url": "https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa"
-      },
-      "artists": [
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 190822,
-      "name": "Zoo - From \"Zootopia 2\"",
-      "url": "https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN"
-    },
-    {
-      "added_at": "2025-10-10 04:13:22",
-      "album": {
-        "name": "Farm Explorers, Vol. 1",
-        "url": "https://open.spotify.com/album/63eQQ9FKM4PYhYtM8ywdwv"
-      },
-      "artists": [
-        {
-          "name": "The Baby Einstein Music Box Orchestra",
-          "url": "https://open.spotify.com/artist/3TW7S3OjH8GmXtfvMHzOWb"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Play The Chicken Way",
-      "url": "https://open.spotify.com/track/2fFiSiVbZQfDiSjN7bktMH"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "Gabby\u2019s Dollhouse: The Movie Soundtrack",
-        "url": "https://open.spotify.com/album/0RgJPSavha36mwICc8tjZR"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 191436,
-      "name": "Dollhouse World",
-      "url": "https://open.spotify.com/track/0QQ4iDe9bstx2UuRuR3Gxn"
-    },
-    {
-      "added_at": "2025-10-03 04:00:45",
-      "album": {
-        "name": "Nick Jr. Mix It Up! Vol. 25: Blue\u2019s Clues & You! Nursery Rhymes (The Remixes)",
-        "url": "https://open.spotify.com/album/4z7ZLUasF7L44OG9TWM5ko"
-      },
-      "artists": [
-        {
-          "name": "Nick Jr.",
-          "url": "https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC"
-        },
-        {
-          "name": "Blue's Clues & You",
-          "url": "https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG"
-        }
-      ],
-      "duration_ms": 115553,
-      "name": "What Dinosaurs Do In The Morning - Nursery Rhymes Remix",
-      "url": "https://open.spotify.com/track/47gbMS0Bc34tvMHOdu8kgy"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "Peppa Pig Tales Vol. 2",
-        "url": "https://open.spotify.com/album/1kPLRVqCCpROYm6IGHRsCO"
-      },
-      "artists": [
-        {
-          "name": "Peppa Pig",
-          "url": "https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG"
-        }
-      ],
-      "duration_ms": 124251,
-      "name": "Pink!",
-      "url": "https://open.spotify.com/track/6D7bjKhhwtdz5eUXB9fUHU"
-    },
-    {
-      "added_at": "2025-10-03 04:00:45",
-      "album": {
-        "name": "Table Made of Wood",
-        "url": "https://open.spotify.com/album/5Cv6xGMFoWNiDORFBWPTPT"
-      },
-      "artists": [
-        {
-          "name": "The Okee Dokee Brothers",
-          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
-        }
-      ],
-      "duration_ms": 159533,
-      "name": "Table Made of Wood",
-      "url": "https://open.spotify.com/track/01MRUkIsLcadAxpUf7RL8s"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "Draculaura's Scary Sweet Birthday",
-        "url": "https://open.spotify.com/album/7cjiTb1VHQXFxu3G8IQjao"
-      },
-      "artists": [
-        {
-          "name": "Monster High",
-          "url": "https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 87619,
-      "name": "Heart to Heart",
-      "url": "https://open.spotify.com/track/2NNxlWYlJmmaCcOUSaiiXy"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "A is for Adventure",
-        "url": "https://open.spotify.com/album/64Poa7vcob4c8HkVL9TZgV"
-      },
-      "artists": [
-        {
-          "name": "Barbie",
-          "url": "https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 157909,
-      "name": "A is for Adventure",
-      "url": "https://open.spotify.com/track/20IZcXj4sKrtuUaTnwKi9w"
-    },
-    {
-      "added_at": "2025-09-26 04:00:43",
-      "album": {
-        "name": "Trick Or Treat",
-        "url": "https://open.spotify.com/album/3Xa23G4TYPFmI9SMxcf2gC"
-      },
-      "artists": [
-        {
-          "name": "Little Angel",
-          "url": "https://open.spotify.com/artist/3zDwkELCCr4anWIsL5LyTn"
-        }
-      ],
-      "duration_ms": 177029,
-      "name": "The Witch And The Frog",
-      "url": "https://open.spotify.com/track/4Zdchmi3frs9wwIrpGD4OB"
-    },
-    {
-      "added_at": "2025-09-19 04:00:33",
-      "album": {
-        "name": "Family Forever",
-        "url": "https://open.spotify.com/album/1tvJFnMtvJpJ4Hf2Zp62dE"
-      },
-      "artists": [
-        {
-          "name": "American Girl",
-          "url": "https://open.spotify.com/artist/5uHa58dlzYkc3Yb0WiFhVL"
-        },
-        {
-          "name": "Mattel",
-          "url": "https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY"
-        }
-      ],
-      "duration_ms": 150566,
-      "name": "Family Forever",
-      "url": "https://open.spotify.com/track/2xjwrCu6SH0ryYVVcw4KIE"
-    },
-    {
-      "added_at": "2025-09-19 04:00:33",
-      "album": {
-        "name": "Bush Doof!",
-        "url": "https://open.spotify.com/album/1ecrI7uhpnomHMwK03FXLw"
-      },
-      "artists": [
-        {
-          "name": "The Tree of Wisdom",
-          "url": "https://open.spotify.com/artist/0L6LyoYskg5GYJWfsbSW8i"
-        },
-        {
-          "name": "The Wiggles",
-          "url": "https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf"
-        }
-      ],
-      "duration_ms": 185560,
-      "name": "Bush Doof!",
-      "url": "https://open.spotify.com/track/7zTF7eCipCVGvopAMYNfm2"
-    },
-    {
-      "added_at": "2025-09-19 04:00:33",
-      "album": {
-        "name": "Disney Jr. Music: SuperKitties Su-Purr Wild (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4HlDw3O3fSHy8sFhieGwTA"
-      },
-      "artists": [
-        {
-          "name": "SuperKitties - Cast",
-          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
-        },
-        {
-          "name": "Disney Junior",
-          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
-        }
-      ],
-      "duration_ms": 122789,
-      "name": "Itsy Bitsy SuperKitty",
-      "url": "https://open.spotify.com/track/1PQnZ6WQpth2mGUHBp9M1g"
     }
   ],
   "unique_name": "New Kids Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,385 songs - 5 day 19 hr 20 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 562 likes - 2,387 songs - 5 day 19 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1386,7 +1386,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 1376 | [Black Ties](https://open.spotify.com/track/6MQnKd0GLL0dk7X7S9pcnI) | [Ortus Ash](https://open.spotify.com/artist/0G005x1Qqai242qfv3fuBG), [Joshua Baker](https://open.spotify.com/artist/4F4U6Pnv7Af4ghWPtVMvQg) | [Black Ties](https://open.spotify.com/album/4x9u3xUNYxVYUHCbG8745L) | 3:16 |
 | 1377 | [Better](https://open.spotify.com/track/0m3tBCjc1BtkTRWRCgiXjl) | [Alla Igityan](https://open.spotify.com/artist/3LPpadMH7fmELWrIbagKon) | [Better](https://open.spotify.com/album/4SJjNQQkMcXiufsNK0T11s) | 2:53 |
 | 1378 | [Birth of Dreams](https://open.spotify.com/track/1To8cH5gOB3tZ9QynmgXWC) | [Spring Owls](https://open.spotify.com/artist/3Ru5aQk4TL4BTgqf8tYJCn) | [Birth of Dreams](https://open.spotify.com/album/0qB9X6zLg5vbqYgTFkU87b) | 4:01 |
-| 1379 | [Warm In Your Arms \- Vintage Hall Version](https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs) | [Aqua Music](https://open.spotify.com/artist/4ePcCXBWcHkxBflhVSM5rd) | [Aquarius](https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz) | 3:20 |
+| 1379 | [Warm In Your Arms](https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs) | [Aquarius](https://open.spotify.com/artist/5hDCRrkgBTxt0okHCV9hnP) | [Aquarius \(vol 1\)](https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz) | 3:20 |
 | 1380 | [Bırakma](https://open.spotify.com/track/674g49HaRxzOE4eXSx3QBr) | [Gözübüyük](https://open.spotify.com/artist/61MJKPxrmNSJ45F9KVmpNS), [Berfin Melike Demir](https://open.spotify.com/artist/4jw4SzCX0faFdxXfUqV9R5) | [Bırakma](https://open.spotify.com/album/6IgiI2Ro2UBgwBm2pxIWl6) | 3:52 |
 | 1381 | [Libre](https://open.spotify.com/track/1hA0EWGyXx8iql7YJZ31Q6) | [Los Jaleo](https://open.spotify.com/artist/1NQOAnczmbJasJ5uQDebo1), [Diego Galaz](https://open.spotify.com/artist/48hirtt3ZnCSbubNcf3pns) | [Libre](https://open.spotify.com/album/2mJYJJqu4D1n3AGnJMfiEI) | 3:49 |
 | 1382 | [Let Go](https://open.spotify.com/track/4l9veFEOtBNW9vKGFFmqzb) | [Oppstøt](https://open.spotify.com/artist/5pFrp9xztFYe7KQsczcrqO) | [Let Go](https://open.spotify.com/album/6J7osAg5pJOOiykYUi3DfF) | 1:46 |
@@ -2393,5 +2393,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2383 | [Photo](https://open.spotify.com/track/3AskBZkfkNxWS4FKsmyHom) | [Miles Squiers](https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v), [Morgan Turpin](https://open.spotify.com/artist/0cZNtUCKuCZEyZk6ovvZD4) | [Photo](https://open.spotify.com/album/5jPCEAzxOLtDnPLwIIOruj) | 2:26 |
 | 2384 | [white boy i sat next to on the plane](https://open.spotify.com/track/6sT4uSMkuhCHoplBG5ACgy) | [Kiey](https://open.spotify.com/artist/5EUXxplcFbismt2ccPQNHd) | [white boy i sat next to on the plane](https://open.spotify.com/album/4cDP3rmNwvZIKouMI83ZLg) | 3:24 |
 | 2385 | [It Is What It Is](https://open.spotify.com/track/2aqL67JM0j4CODLfG90N01) | [8 Ball Nation](https://open.spotify.com/artist/1NtVMvCpFHZQLsqsPuBwhZ) | [It Is What It Is](https://open.spotify.com/album/3ysNbsLSS7MjxAlskrzHLl) | 4:47 |
+| 2386 | [Wanderlust](https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf) | [Slowtide](https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc) | [Solaria](https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E) | 3:46 |
+| 2387 | [Moon Dog](https://open.spotify.com/track/5GDVdgsCCuiBumO87YORGd) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:28 |
 
-Snapshot ID: `AAAJ6CZjYpQbdSRUmMXEXrBAmkQoii1p`
+Snapshot ID: `AAAJ6u6Mdk6FM7wAOZ/7l++CeibhREsG`

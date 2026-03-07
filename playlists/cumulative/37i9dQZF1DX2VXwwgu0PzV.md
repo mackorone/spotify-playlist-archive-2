@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: Natalie Okri & TBabz
 
-1,571 songs - 3 day 11 hr 30 min
+1,572 songs - 3 day 11 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [CSOG \- AFRO HOUSE](https://open.spotify.com/track/5v0lSvi13T2pTS0o97GiGQ) | [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [CSOG \(AFRO HOUSE\)](https://open.spotify.com/album/7vkJAxSPZ8hApgiPX1QuWH) | 2:25 | 2025-08-01 | 2025-11-18 |
 | [Curry](https://open.spotify.com/track/2S6JR0CGGHCtVwjuNoBRza) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Zero](https://open.spotify.com/artist/6htaqouwVH0LnEY2gU0KKI) | [Endure](https://open.spotify.com/album/4aoSdYgt7hia1vht8sysVP) | 2:48 | 2023-02-02 | 2023-03-31 |
 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 | 2024-11-01 | 2025-08-22 |
+| [DADA \(Lost For Words\)](https://open.spotify.com/track/2Y3TRSiLS8bZminvW4FUed) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [DADA \(Lost For Words\)](https://open.spotify.com/album/6fZD5esYJk4QkwrwVrjTNF) | 2:33 | 2026-03-06 |  |
 | [Daddy](https://open.spotify.com/track/6vbJ5IM4aUeoeBE7tUVTO6) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Daddy](https://open.spotify.com/album/4XbflW1n9R8PT6HiVrf7M5) | 2:24 | 2023-10-27 | 2023-12-01 |
 | [Daddy](https://open.spotify.com/track/69Pcsnqzv0QaTodhpPdn8j) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Daddy](https://open.spotify.com/album/0jo4aBkmzONSDin9WR4m8d) | 2:10 | 2025-10-24 | 2026-01-02 |
 | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/track/2RWZmHPIBFt3JKONel59uK) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/7qX3BuzNizGmk2hkwRxuq1) | 3:28 | 2023-07-14 | 2025-08-22 |

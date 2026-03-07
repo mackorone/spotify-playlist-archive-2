@@ -1,13 +1,29 @@
 {
-  "description": "Jazzy blips and blops. Cover: Theo Croker",
-  "num_followers": 580306,
+  "description": "Jazzy blips and blops. Cover: Flying Lotus",
+  "num_followers": 580301,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9RudkOtI2IukuAxSWOLAIUNdVM",
+  "snapshot_id": "AAAAACEGpPSUfcBw+IJ6R2Lgi1uVSEZq",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:09",
+      "album": {
+        "name": "BIG MAMA",
+        "url": "https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "duration_ms": 184083,
+      "name": "CAPTAIN KERNEL",
+      "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
+    },
     {
       "added_at": "2026-02-27 05:00:35",
       "album": {
@@ -1283,22 +1299,6 @@
       "duration_ms": 203597,
       "name": "I Love Her",
       "url": "https://open.spotify.com/track/7EuCAIsAs6yAA6zk7rHn1G"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "Flying Lotus Presents: Music From The Hit Game Show Ozzy's Dungeon - Taken From V/H/S/99",
-        "url": "https://open.spotify.com/album/79UUtoObvd4zUpHiewJrMA"
-      },
-      "artists": [
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        }
-      ],
-      "duration_ms": 133780,
-      "name": "Consolation Prizes",
-      "url": "https://open.spotify.com/track/0YBiLolJXSN5mCum0nuBV2"
     },
     {
       "added_at": "2022-04-11 13:55:08",

@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 55512,
+  "num_followers": 55526,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAADSmo6piKRzBZhTeV31I7FH",
+  "snapshot_id": "aajHgAAAAAAr5+bwJVcfB1cZCFIKSL4v",
   "tracks": [
     {
       "added_at": null,
@@ -615,26 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proud of Me (feat. Little Simz)",
-        "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 215862,
-      "name": "Proud of Me (feat. Little Simz)",
-      "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 364181,
       "name": "X",
       "url": "https://open.spotify.com/track/0R4Po8nAlhZMmlA4TKH8Fy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proud of Me (feat. Little Simz)",
+        "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 215862,
+      "name": "Proud of Me (feat. Little Simz)",
+      "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
     },
     {
       "added_at": null,

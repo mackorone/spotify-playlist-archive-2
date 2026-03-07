@@ -4,7 +4,7 @@
 
 > It's giving vibes\. Cover: RnBoi & Ayra Starr
 
-267 songs - 12 hr 9 min
+267 songs - 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Probleem](https://open.spotify.com/track/3X17kfmIMxS7wdS52mh4Hw) | [J.FIZ](https://open.spotify.com/artist/0XlmgJDA7Zqoyyreep2YpT), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Probleem](https://open.spotify.com/album/5EhT6yEZVYh8QF70VP1Cl9) | 2:43 | 2025-12-11 |  |
 | [PUSH 2 START \- REMIX](https://open.spotify.com/track/03A9CAoRTrqSeaEEERXuNT) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [PUSH 2 START \(REMIX\)](https://open.spotify.com/album/35U6V25bSCj8ZWavfOggNO) | 3:07 | 2025-07-17 | 2025-08-05 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-28 |  |
+| [Red Flag](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 3:06 | 2026-03-05 |  |
 | [Regular Girls](https://open.spotify.com/track/0OYJ43sBm7ZmSBAj4QIKJi) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Regular Girls](https://open.spotify.com/album/7N3zxoDY07EwOSopX5xs8A) | 2:23 | 2025-07-17 | 2025-09-12 |
 | [Rembrandtplein](https://open.spotify.com/track/2sdSvWh0CIlAN2Y1xFoDHl) | [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Rembrandtplein](https://open.spotify.com/album/4Nqk4fF46XPY3nqEscyB4V) | 2:37 | 2025-08-28 | 2026-01-15 |
 | [Revive Me](https://open.spotify.com/track/1NZCQqIvAEVdZJFUPzf2Tb) | [Toobss](https://open.spotify.com/artist/0rzkFZ1D0Aayl1ysZnWlpC), [Eranio](https://open.spotify.com/artist/5VZST1JSwD9JThdYzEO7WV) | [Revive Me](https://open.spotify.com/album/3Gv9MfdyAFHOIffnH4f7WJ) | 3:15 | 2025-07-17 | 2025-09-19 |
@@ -243,7 +244,6 @@
 | [Top Tier](https://open.spotify.com/track/7t13ipXkmuas7yzuAcPffz) | [Ruskey](https://open.spotify.com/artist/6ERpZaxy8S2ZWlpYbXG1aK), [Nate](https://open.spotify.com/artist/2VINftEho961QpPR74Ftbb) | [Top Tier](https://open.spotify.com/album/6Ub5VP8L6qLLiv10TGm1sp) | 2:26 | 2025-07-17 | 2025-09-19 |
 | [Toxic](https://open.spotify.com/track/5w1hwhbGikZrfoJbLrjhcX) | [DenzelSN](https://open.spotify.com/artist/3o6rBFfY6bEVAK4dfYISUZ) | [Toxic](https://open.spotify.com/album/71VYznmAATTGTh7xP9XhRT) | 2:17 | 2026-03-05 |  |
 | [Toxic](https://open.spotify.com/track/51kQpKpagyNBxT4S1ljXqD) | [Yxng Le](https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa), [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2) | [Toxic](https://open.spotify.com/album/44X2BlGzjWP16oRX70eEm7) | 2:47 | 2026-01-29 |  |
-| [Track 2](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 | 2026-03-05 |  |
 | [TUTU](https://open.spotify.com/track/3kcwpkgRypt5ioI6pDVGTm) | [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If) | [TUTU](https://open.spotify.com/album/6Ma755dCSYqh8SE53yyUuZ) | 2:40 | 2025-07-17 | 2025-08-29 |
 | [Tweede Kans](https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Think Like a Man](https://open.spotify.com/album/3YkpSQZPAwtkHQBNQZ7qNX) | 2:44 | 2025-07-17 | 2025-11-08 |
 | [VANAVOND](https://open.spotify.com/track/3jG8uhJ40CZernF9nHveqq) | [Furagain](https://open.spotify.com/artist/4JciQkf0ScmAMzUWJnHMOC), [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [VANAVOND](https://open.spotify.com/album/0jjeqbkOEZShK1Ob4AdAbW) | 2:30 | 2025-11-28 | 2026-01-23 |

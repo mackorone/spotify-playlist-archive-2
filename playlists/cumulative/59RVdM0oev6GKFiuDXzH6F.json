@@ -21907,6 +21907,28 @@
     },
     {
       "album": {
+        "name": "What Can I Say",
+        "url": "https://open.spotify.com/album/2fBBZuDrcQsBBGpmzhRx6d"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197910,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1isYUV8dk5bEhJuVmhKtgq"
+    },
+    {
+      "album": {
         "name": "What Do You Mean?!",
         "url": "https://open.spotify.com/album/0IPzQ3XQBn44ejyjqJD62E"
       },

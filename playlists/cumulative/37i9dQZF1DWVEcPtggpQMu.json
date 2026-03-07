@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: LaCabra",
+  "description": "Only the hottest South African rap. \nCover: Sastii",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2058,6 +2058,32 @@
       "duration_ms": 202590,
       "name": "BANDITOS",
       "url": "https://open.spotify.com/track/2QSuaU3ejY9mmMNfnlGOTZ"
+    },
+    {
+      "album": {
+        "name": "BANDZ ON THE WAY",
+        "url": "https://open.spotify.com/album/1TmqcR54DyBnd8Dkfu8EI8"
+      },
+      "artists": [
+        {
+          "name": "MO\u00cbTT",
+          "url": "https://open.spotify.com/artist/0iyiD7Z1iDyjQs4oVRz3b4"
+        },
+        {
+          "name": "Joey Manson",
+          "url": "https://open.spotify.com/artist/3VqJlz60VvvWdBBs4DthJT"
+        },
+        {
+          "name": "Solo Sae",
+          "url": "https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "BANDZ ON THE WAY",
+      "url": "https://open.spotify.com/track/6rECs40RypNzbmuFtowrfj"
     },
     {
       "album": {
@@ -11020,7 +11046,7 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 224508,
       "name": "Kusho Bani",
       "url": "https://open.spotify.com/track/6OY9Y4MJKoj1COWKiUyZCN"
@@ -21875,6 +21901,28 @@
     },
     {
       "album": {
+        "name": "South Coast Yungin\u2019 Never Follows Mixtape",
+        "url": "https://open.spotify.com/album/4T0k6N6dCVAwjApFyjoPEn"
+      },
+      "artists": [
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142593,
+      "name": "Umswarelo",
+      "url": "https://open.spotify.com/track/6P9pmZApftUy4PcEG4faUI"
+    },
+    {
+      "album": {
         "name": "Umswenko",
         "url": "https://open.spotify.com/album/3XiF2bAUQkyXDywZfNDFVk"
       },
@@ -24008,7 +24056,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 266666,
       "name": "You Don't Miss Me",
       "url": "https://open.spotify.com/track/18I4D3oOzmW8GROq69gwTz"

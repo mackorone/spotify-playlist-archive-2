@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Charles Ans, Yubeili, DAAZ y Caztro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,107 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 49 | [Glowstar](https://open.spotify.com/track/2rQo6S1DzbUckHBIuynpzh) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Alexxbacacho](https://open.spotify.com/artist/0B1AssDwSsJD8QdqM6o5Ml) | [Glowstar](https://open.spotify.com/album/1wlGKo8YU0VvQgXUEND8c0) | 1:50 |
 | 50 | [Desde el día cero](https://open.spotify.com/track/7AXJ8eSsdu03gY56fetONF) | [Hione](https://open.spotify.com/artist/0F3owIAAiwFiIzGP2YU6mg), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Dj Kay Fear](https://open.spotify.com/artist/54nmJ9XTJMCad8cxQwsrE6) | [Desde el día cero](https://open.spotify.com/album/54Bp08khScSDrRhey729cA) | 2:57 |
 
-Snapshot ID: `AAAAAB3FQ3PHeDGfUnjUa3kxgrMUMEn1`
+Snapshot ID: `AAAAAFBQacU7B/Ku0qX+mAI/wcufXCX1`

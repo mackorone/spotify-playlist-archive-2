@@ -1,13 +1,29 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 201294,
+  "num_followers": 201327,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAABy2yrr51UXW3VLqlaVCXNnoNEgB",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:03",
+      "album": {
+        "name": "Morning Star (Live)",
+        "url": "https://open.spotify.com/album/6NLJICMnxQwiF1HEiTGhHI"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "duration_ms": 307342,
+      "name": "Morning Star (Live)",
+      "url": "https://open.spotify.com/track/7ggW3iCmsuHGiXAwDL53gv"
+    },
     {
       "added_at": "2026-01-30 05:00:37",
       "album": {
@@ -241,22 +257,6 @@
       "url": "https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5"
     },
     {
-      "added_at": "2023-07-18 13:02:38",
-      "album": {
-        "name": "The Definitive 24 Nights (Live)",
-        "url": "https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 535168,
-      "name": "Crossroads - Live at The Royal Albert Hall, Rock Version",
-      "url": "https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH"
-    },
-    {
       "added_at": "2023-10-06 04:01:00",
       "album": {
         "name": "Rain (Live At Red Rocks, 2023)",
@@ -487,22 +487,6 @@
       "duration_ms": 600506,
       "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
       "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
-        "name": "Key to the Highway (Live at The Royal Albert Hall)",
-        "url": "https://open.spotify.com/album/0Pc7Ti2YgK7xARnrmpCPZv"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 392351,
-      "name": "Key to the Highway - Live at The Royal Albert Hall",
-      "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
     },
     {
       "added_at": "2023-08-11 04:01:00",

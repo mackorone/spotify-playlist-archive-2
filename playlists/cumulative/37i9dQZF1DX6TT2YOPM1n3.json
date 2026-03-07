@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-05",
-  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Murtaza Qizilbash",
+  "description": "Apne mulk ki homegrown hits \ud83c\udfb6 Cover: Samar Jafri",
   "name": "Pakka Hit Hai",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-20",
+      "date_removed": null,
       "duration_ms": 507000,
       "name": "Aaqa - Coke Studio Season 9",
       "url": "https://open.spotify.com/track/7ullpqaNSeTxBObPH8djXd"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 343118,
       "name": "Afsanay",
       "url": "https://open.spotify.com/track/05sqcYfU2wMlKwPVJ0rotq"
@@ -654,6 +654,24 @@
       "duration_ms": 202916,
       "name": "Baat (From \"Meem Se Mohabbat\")",
       "url": "https://open.spotify.com/track/4yQQJ9Tj3DDYG3zgHhEgtq"
+    },
+    {
+      "album": {
+        "name": "Balaghal-Ula Bi-Kamaalihi",
+        "url": "https://open.spotify.com/album/6Gfgfm8Ubbhmic7Bkhl5oQ"
+      },
+      "artists": [
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524000,
+      "name": "Balaghal-Ula Bi-Kamaalihi",
+      "url": "https://open.spotify.com/track/6TuHcNdYaKoV3bnKtJCTnq"
     },
     {
       "album": {
@@ -1064,6 +1082,24 @@
     {
       "album": {
         "name": "Chalo Door Kahin",
+        "url": "https://open.spotify.com/album/1hxqjy9dunSnRuljeoe18h"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158961,
+      "name": "Chalo Door Kahin",
+      "url": "https://open.spotify.com/track/00DxTUDK5maAckhUSYBaBn"
+    },
+    {
+      "album": {
+        "name": "Chalo Door Kahin",
         "url": "https://open.spotify.com/album/65sQMiosPhNePUKN2KKlL0"
       },
       "artists": [
@@ -1074,10 +1110,28 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158961,
       "name": "Chalo Door Kahin",
       "url": "https://open.spotify.com/track/5IvGrMBjvL25j42aIKDvZ9"
+    },
+    {
+      "album": {
+        "name": "Chalo Door Kahin (Reprise)",
+        "url": "https://open.spotify.com/album/1uk8a91XVfqzt2PAvLHiLm"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93506,
+      "name": "Chalo Door Kahin (Reprise)",
+      "url": "https://open.spotify.com/track/3dld13YpQ6n2xSLE4OYj2o"
     },
     {
       "album": {
@@ -1184,6 +1238,24 @@
       "duration_ms": 156116,
       "name": "coffee",
       "url": "https://open.spotify.com/track/5kDfr6gBG4ygrk4KOufFzW"
+    },
+    {
+      "album": {
+        "name": "Coke Studio Season 9: Aye Rah-E-Haq Ke Shaheedo",
+        "url": "https://open.spotify.com/album/1c2fFncuN7WIgSlrJ02mZN"
+      },
+      "artists": [
+        {
+          "name": "Strings",
+          "url": "https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183368,
+      "name": "Coke Studio Season 9: Aye Rah-E-Haq Ke Shaheedo",
+      "url": "https://open.spotify.com/track/2FFbQ7czCZUOLLDdfkTMQW"
     },
     {
       "album": {
@@ -1619,6 +1691,36 @@
     },
     {
       "album": {
+        "name": "Ehsaas",
+        "url": "https://open.spotify.com/album/12ShvJkszHFeRxDuZz2OYk"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Duha Shah",
+          "url": "https://open.spotify.com/artist/3l1qBa4ZTuNfYOap9WGbDQ"
+        },
+        {
+          "name": "Vaibhav Pani",
+          "url": "https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB"
+        },
+        {
+          "name": "Hyder Dar",
+          "url": "https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Ehsaas",
+      "url": "https://open.spotify.com/track/5PetOhEX9N0oyBB0Keqobv"
+    },
+    {
+      "album": {
         "name": "Scars & Screws",
         "url": "https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc"
       },
@@ -1989,6 +2091,28 @@
     },
     {
       "album": {
+        "name": "HAWA ANEY DE",
+        "url": "https://open.spotify.com/album/0UDFjW4d0QPRZ5OuNNjn1U"
+      },
+      "artists": [
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "HAWA ANEY DE",
+      "url": "https://open.spotify.com/track/4CrU2QRv3leVXjHuExztm4"
+    },
+    {
+      "album": {
         "name": "My Terrible Mind",
         "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
       },
@@ -2277,6 +2401,24 @@
     },
     {
       "album": {
+        "name": "Gorakh Dhandha, Vol. 5",
+        "url": "https://open.spotify.com/album/3wfXI3o74VrMfa0YMXGYzF"
+      },
+      "artists": [
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1199313,
+      "name": "Is Karam Ka Karoon Shukr Kaise",
+      "url": "https://open.spotify.com/track/3rdN6Is5HdWSLmd2cZp4zx"
+    },
+    {
+      "album": {
         "name": "Lost;Found",
         "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
       },
@@ -2432,7 +2574,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 233225,
       "name": "Jana Hai Wahin",
       "url": "https://open.spotify.com/track/79LdqruB4lIPquQRSd6QJr"
@@ -2885,6 +3027,28 @@
     },
     {
       "album": {
+        "name": "Kardo Karam",
+        "url": "https://open.spotify.com/album/3wQ9PlYjxW31Q4sYPmGgIS"
+      },
+      "artists": [
+        {
+          "name": "Nabeel Shaukat Ali",
+          "url": "https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp"
+        },
+        {
+          "name": "Sanam Marvi",
+          "url": "https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347240,
+      "name": "Kardo Karam",
+      "url": "https://open.spotify.com/track/0Mip3ISWNojs2XwFS5Z1d5"
+    },
+    {
+      "album": {
         "name": "BEMATLAB",
         "url": "https://open.spotify.com/album/5FxaP7bs11XrDUAza4z5es"
       },
@@ -2988,7 +3152,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188000,
       "name": "Khabbay Sajjay",
       "url": "https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S"
@@ -3108,7 +3272,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 269706,
       "name": "Kurian Lahore Diyan",
       "url": "https://open.spotify.com/track/7lNfRrD2fm0QOiaYtRZlZI"
@@ -3126,7 +3290,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 210209,
       "name": "Kya sach ho tum?",
       "url": "https://open.spotify.com/track/7iQxWIYGzTkkLWlUscD4HP"
@@ -3360,7 +3524,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 218600,
       "name": "Long time no see",
       "url": "https://open.spotify.com/track/6V4N3h4HYD1Ask9cUTxjjg"
@@ -3496,10 +3660,28 @@
       ],
       "date_added": "2025-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205727,
       "name": "Main Rahun (From \"Parwarish\") [Original Motion Picture Soundtrack]",
       "url": "https://open.spotify.com/track/0REdqbK0A99eKrYF66zSDO"
+    },
+    {
+      "album": {
+        "name": "Main Rahun (From \u201cParwarish\u201d) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/2wzgx1Vogp30dpxaVExZdx"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205727,
+      "name": "Main Rahun (From \u201cParwarish\u201d) - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/70vCse6tWlrajeftMSkPQG"
     },
     {
       "album": {
@@ -3994,10 +4176,32 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
+    },
+    {
+      "album": {
+        "name": "Nasha",
+        "url": "https://open.spotify.com/album/2zgGCZeBtP7uKSvorU7t9K"
+      },
+      "artists": [
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Vision",
+          "url": "https://open.spotify.com/artist/0SqdljKM9fqIV6fuxQOlUI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189369,
+      "name": "Nasha",
+      "url": "https://open.spotify.com/track/2JgTFjNOi9fsXsnmANnYWu"
     },
     {
       "album": {
@@ -4038,7 +4242,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190985,
       "name": "Not Enough",
       "url": "https://open.spotify.com/track/1caCUoqSxqsZDN6Ackcswv"
@@ -4082,7 +4286,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 276000,
       "name": "O Yaara",
       "url": "https://open.spotify.com/track/2lp1Tsn8H6mq0bzXgOeLHY"
@@ -4451,6 +4655,28 @@
     },
     {
       "album": {
+        "name": "Piya Ghar Aaya (Remix)",
+        "url": "https://open.spotify.com/album/1IzHolkRH2R3sJXkPi7cqT"
+      },
+      "artists": [
+        {
+          "name": "Asad Khan",
+          "url": "https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235436,
+      "name": "Piya Ghar Aaya - Remix",
+      "url": "https://open.spotify.com/track/55EcrWG7HgMQgm3tfM4FTs"
+    },
+    {
+      "album": {
         "name": "Piya Piya Calling (feat. The Quick Style)",
         "url": "https://open.spotify.com/album/5m488spr3XWOKpzXatfv2R"
       },
@@ -4518,6 +4744,24 @@
       "duration_ms": 243456,
       "name": "Purani Jeans",
       "url": "https://open.spotify.com/track/7IIfhhUGDEmSCJeTVCnyNE"
+    },
+    {
+      "album": {
+        "name": "Qurbaniyan (Orignal Soundtrack from Dekh Zara Pyar Se)",
+        "url": "https://open.spotify.com/album/0DIXsrFbfilk0FCGCZ7IyP"
+      },
+      "artists": [
+        {
+          "name": "Asim Azhar",
+          "url": "https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Qurbaniyan - Orignal Soundtrack from Dekh Zara Pyar Se",
+      "url": "https://open.spotify.com/track/1gJqI5BnqE6OkOwdZqZsNg"
     },
     {
       "album": {
@@ -5308,7 +5552,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 255764,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/3DBCCSY8ys75I4T8iK2TTA"
@@ -5330,6 +5574,24 @@
       "duration_ms": 616509,
       "name": "Tajdar-E-Haram - Coke Studio Season 8",
       "url": "https://open.spotify.com/track/3BIpgJZyNEiSwcZknQxwrr"
+    },
+    {
+      "album": {
+        "name": "Tajdar-E-Haram (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/2c54joQe1Qa3rdQBlFT1up"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 616509,
+      "name": "Tajdar-E-Haram - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/7HfZxrh8AQ9p1JQJh1EJcZ"
     },
     {
       "album": {
@@ -5775,6 +6037,24 @@
     },
     {
       "album": {
+        "name": "Ucchaya Majajan Waali",
+        "url": "https://open.spotify.com/album/1MDWEta7KY0TSby7Q28yFD"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311562,
+      "name": "Ucchayan Majajan Aali",
+      "url": "https://open.spotify.com/track/4mtjpLYSYn8mWQgPJ7Cqu7"
+    },
+    {
+      "album": {
         "name": "Udh Chaliye",
         "url": "https://open.spotify.com/album/48WdvSkVF5zde2ICo6bvRm"
       },
@@ -6009,6 +6289,24 @@
     },
     {
       "album": {
+        "name": "Wohi Khuda",
+        "url": "https://open.spotify.com/album/4obnIXVOOxpSRY8mgzsDjp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409757,
+      "name": "Wohi Khuda",
+      "url": "https://open.spotify.com/track/0c8eAkUFDMCgJB53lplqJv"
+    },
+    {
+      "album": {
         "name": "Chain of Light",
         "url": "https://open.spotify.com/album/7FBtn9gCsJh6UV0GwaZY77"
       },
@@ -6096,6 +6394,32 @@
       "duration_ms": 234376,
       "name": "Yaar Di Akh",
       "url": "https://open.spotify.com/track/2FNmlA73WxtL50tt02nO2o"
+    },
+    {
+      "album": {
+        "name": "Once Upon Ay Time In Mumbai Dobaara !",
+        "url": "https://open.spotify.com/album/381lOukp7nV59bJS13TkPe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Javed Bashir",
+          "url": "https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ"
+        },
+        {
+          "name": "Rajat Arora",
+          "url": "https://open.spotify.com/artist/6Ahs12ksf1lju6bHwuX4X2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314239,
+      "name": "Ye Tune Kya Kiya",
+      "url": "https://open.spotify.com/track/2cPUB8EOT6AfJ8oxhyoNXL"
     },
     {
       "album": {

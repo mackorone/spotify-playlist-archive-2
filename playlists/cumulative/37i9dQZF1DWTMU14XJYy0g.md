@@ -2,9 +2,9 @@
 
 ### [Rock Argentino](https://open.spotify.com/playlist/37i9dQZF1DWTMU14XJYy0g)
 
-> Más vivo que nunca, más nuestro que siempre 📸 No Te Va Gustar con Ciro & Los Persas
+> Más vivo que nunca, más nuestro que siempre 📸 Ale Kurz
 
-446 songs - 1 day 3 hr 40 min
+447 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,7 +186,7 @@
 | [Hablar de Flores](https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Hablar de Flores](https://open.spotify.com/album/1QaPbNvQv3yEVQ3S1V70P7) | 3:09 | 2024-05-10 | 2025-03-08 |
 | [Hacerlo Bien](https://open.spotify.com/track/0hJBuCIq43WYZgZQ9A3Aq7) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Hacerlo Bien](https://open.spotify.com/album/2H73ICOxIxQAbAetEg70Qm) | 4:09 | 2023-10-13 | 2024-04-27 |
 | [Harto](https://open.spotify.com/track/381VNDFzOnJulI6qTS5rTm) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Harto](https://open.spotify.com/album/4jN5OvGwHl6aYZxVlMjJgw) | 4:07 | 2025-11-14 |  |
-| [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 |  |
+| [Hay Momentos \- Acústico](https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Hay Momentos \(Acústico\)](https://open.spotify.com/album/6FKHKWtyIN49H0PHIiHhpG) | 4:39 | 2023-11-10 | 2026-03-07 |
 | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/track/0ohAzwHz8iAtqu2QFUfnwG) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Hay Un Tirano Que Es para Vos](https://open.spotify.com/album/6iQsETOWDbUaRrvnoIKXL9) | 4:03 | 2025-01-09 | 2025-02-22 |
 | [Hice Todo Mal](https://open.spotify.com/track/75vOAe2y7zhW6XCLU60FaW) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Hice Todo Mal](https://open.spotify.com/album/3WkSvs5LcrBVpcCdDowpcb) | 3:14 | 2022-06-24 | 2023-09-27 |
 | [Himno de Mi Corazón](https://open.spotify.com/track/34IdqsIJU7LvCOZbxMkmdt) | [Cachorro Lopez](https://open.spotify.com/artist/2orYYsuKaizxVVHh9ygO9x), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Himno de Mi Corazón](https://open.spotify.com/album/486m3Z1LXcVvDl3uRZNE38) | 4:11 | 2023-12-08 | 2024-11-23 |
@@ -311,7 +311,7 @@
 | [No Se Amarguen](https://open.spotify.com/track/4A9PMFmGUWShmy5gEr5VtI) | [Alter Vu](https://open.spotify.com/artist/5vsjSGTCjYNsUY9Ln4R4dU) | [LA RED](https://open.spotify.com/album/0bMuaS8RADa8I71hKOCuqM) | 3:39 | 2025-04-25 | 2025-08-02 |
 | [No Tengo](https://open.spotify.com/track/0ZGmRAxY2XT3G0TJqWVOjA) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [No Tengo](https://open.spotify.com/album/3l3Pp0CTPk3SNToZzX2fEu) | 5:19 | 2022-06-24 | 2022-07-02 |
 | [Noches de la Luna](https://open.spotify.com/track/20UDEAiUtKvHwclS4MhWmJ) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Noches de la Luna](https://open.spotify.com/album/3jSA6kPSMzjIpPBql7Qyan) | 3:14 | 2024-05-24 | 2025-03-08 |
-| [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 | 2023-09-26 |  |
+| [Nos Pasa Lo Mismo](https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri) | [Hojas por el Barrio](https://open.spotify.com/artist/5Gfm9T0eRK1wOlnjeHrhC6), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Nos Pasa Lo Mismo](https://open.spotify.com/album/0S052giv0KheknU0PiEY5C) | 3:01 | 2023-09-26 | 2026-03-07 |
 | [Nos siguen pegando abajo](https://open.spotify.com/track/23EmcF8T8n8ianLaLAzTWJ) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [HILDA CANTA CHARLY](https://open.spotify.com/album/2cHEbZW4aAGuRVvdnQNX5O) | 3:15 | 2024-05-10 | 2025-12-13 |
 | [Nubes de paso](https://open.spotify.com/track/7yFlhyfmerN1t72wJSPXkS) | [Skay Beilinson](https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED) | [Nubes de paso](https://open.spotify.com/album/72b76M5LShOWJQv2kOjZtA) | 3:07 | 2026-01-16 |  |
 | [Nuestro Verano \- Sesión 20° Aniversario En Vivo](https://open.spotify.com/track/0ENYKDAMZMGiygBAOjs8tk) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Mató a un Policía Motorizado \(Sesión 20° Aniversario En Vivo\)](https://open.spotify.com/album/0S0olAbsD98CFGTuDcOEW2) | 3:03 | 2025-03-07 |  |
@@ -329,6 +329,7 @@
 | [Otro día en la oficina](https://open.spotify.com/track/3l3CzAaI5fuW4SDGYBrjVW) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW) | [Otro día en la oficina](https://open.spotify.com/album/5dSgACQErVdBj1fDrAfQp9) | 4:19 | 2025-08-01 |  |
 | [Paciencia](https://open.spotify.com/track/5D49CFF1HvSiOGsfw6aOuq) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Paciencia](https://open.spotify.com/album/3fwWKqyqgDWK65wDJ5bD7z) | 5:15 | 2025-07-18 |  |
 | [Pacífico](https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ritual Piojoso \(En Vivo en River Plate\)](https://open.spotify.com/album/7v7UBXatukF69a99XWjjX6) | 4:44 | 2024-05-31 |  |
+| [Para alguien más](https://open.spotify.com/track/4y1z59863rBOzmfD4IuTtz) | [Ale Kurz](https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW) | [Para alguien más](https://open.spotify.com/album/6oZztkFuAQt9iKT5ZV7zkL) | 3:22 | 2026-03-06 |  |
 | [Paradoja](https://open.spotify.com/track/29FRFwLHf0Ec9q6I9K0jLZ) | [Babasonicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Trinchera](https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG) | 2:59 | 2022-06-24 | 2024-12-28 |
 | [Parte de Mi](https://open.spotify.com/track/0ZJWq3iEMoEDBzBDzQPIrg) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Parte de Mi](https://open.spotify.com/album/2nTApfwPQa8Z6oIq8hD0Z7) | 3:45 | 2025-03-07 |  |
 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-04 |  |

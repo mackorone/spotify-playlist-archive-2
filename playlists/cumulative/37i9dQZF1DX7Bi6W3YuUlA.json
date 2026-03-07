@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Inspirational hip-hop. Cover: J. Cole",
+  "description": "Inspirational hip-hop. Cover: Voices of Fire and Pharrell",
   "name": "High Lights",
   "tracks": [
     {
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220449,
       "name": "GAS YOU UP - STREET",
       "url": "https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3"
@@ -4474,6 +4474,36 @@
       "duration_ms": 146000,
       "name": "I Can't Let Up",
       "url": "https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV"
+    },
+    {
+      "album": {
+        "name": "OPHANIM",
+        "url": "https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202779,
+      "name": "I FORGIVE YOU (FEAT. CEELO GREEN & QUAVO)",
+      "url": "https://open.spotify.com/track/4CvoOJK3UbsHcXZyjz00bh"
     },
     {
       "album": {

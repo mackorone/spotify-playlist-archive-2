@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits: Back To The Start",
+        "url": "https://open.spotify.com/album/00sgBMhbJo1lEa1hHhYtw4"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Kill The King",
+      "url": "https://open.spotify.com/track/6QpLvP6lx2AuK51d1PcSOK"
+    },
+    {
+      "album": {
         "name": "Warchest",
         "url": "https://open.spotify.com/album/0hjcoB3dyY4BNonhEqdoRq"
       },
@@ -970,7 +988,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 224080,
       "name": "Kill The King",
       "url": "https://open.spotify.com/track/3S9DHHYpM6KW1oqvrN8Lix"

@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 예빛 \(Yebit\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 김효린 \(Kim Hyo Rin\)\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-663 songs - 1 day 14 hr 59 min
+665 songs - 1 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-27 | 2026-01-05 |
-| [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 | 2026-02-23 |  |
+| [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 | 2026-02-23 | 2026-03-07 |
 | [Deeper Than I Thought](https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Deeper Than I Thought](https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq) | 3:07 | 2025-07-11 | 2025-07-29 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 |  |
 | [Dew](https://open.spotify.com/track/4UTL3PskzpjarrW0SaIRfm) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Dew](https://open.spotify.com/album/2iQh9MlACYmy5g9bzX2UaD) | 3:00 | 2025-05-20 | 2025-06-10 |
@@ -143,6 +143,7 @@
 | [Endlessly](https://open.spotify.com/track/1EJ0D4WvCfdU0U0I5T0XaR) | [Jacob \(THE BOYZ\)](https://open.spotify.com/artist/6BVLu5jroLxNtoRp7EdD83) | [Undercover Miss Hong OST Part.3](https://open.spotify.com/album/61yVr17ptFdMzkW5CTliOb) | 3:00 | 2026-01-26 |  |
 | [Envy you](https://open.spotify.com/track/533qJgO1JRlJLL6F0mC0jd) | [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [Envy you](https://open.spotify.com/album/6rdUdeXkuaPHdZb4igsQ2S) | 3:34 | 2022-12-13 | 2022-12-20 |
 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 | 2021-12-10 |  |
+| [Even If the World Tricks You](https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Even If the World Tricks You \(Original Soundtrack from "Number One"\)](https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw) | 4:17 | 2026-03-06 |  |
 | [EVEREST \(with Sam Kim\)](https://open.spotify.com/track/1c3WMOE7Q0dCFN6bjT8KWo) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:15 | 2021-12-10 | 2025-01-18 |
 | [every night every day](https://open.spotify.com/track/4bLj4d2i6hnoIbmsYtqpsJ) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [every night every day](https://open.spotify.com/album/2KzUmmLwP4ZH0X0096aahf) | 3:35 | 2025-04-17 | 2025-07-18 |
 | [Everything](https://open.spotify.com/track/6LKKXN9AU570Y88RrQeM1s) | [YUDABINBAND](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y) | [Missing: The Other Side 2 \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/7GwxpetZKbSuTgzGeduh6z) | 3:19 | 2023-01-14 | 2023-01-26 |
@@ -195,7 +196,7 @@
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2022-07-04 | 2025-10-10 |
 | [Green Tree Frog](https://open.spotify.com/track/5WZ1maxqrMPJDXgtSJZfFJ) | [chiyoonhae](https://open.spotify.com/artist/5UGMSVP5UEbkprViRs5QDq) | [Green Tree Frog](https://open.spotify.com/album/1nhLHj1TUshJs3r7kWSCv8) | 2:29 | 2025-06-19 | 2025-07-18 |
 | [Grumbling](https://open.spotify.com/track/4JWHofUzxD62YSXO00iqbw) | [TAEKWOO](https://open.spotify.com/artist/5Zu4Ot9NEWCHZ8IP7poTDw) | [Grumbling](https://open.spotify.com/album/0BGKFTtfBmXVf72amsr4ZL) | 3:04 | 2022-02-10 | 2022-04-16 |
-| [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 | 2026-02-20 |  |
+| [Guilty Pleasure](https://open.spotify.com/track/3CKGadinrCqXMJf5He0jvO) | [19990619](https://open.spotify.com/artist/2Fqmn8Sl7YZf1TlrwJpI6Z) | [Guilty Pleasure](https://open.spotify.com/album/7B7ObKObjIkOhRxcUOrv0y) | 3:02 | 2026-02-20 | 2026-03-07 |
 | [HAAN DEMO 2](https://open.spotify.com/track/40pFXhQsyPJvXICzULkc8v) | [DWIGON](https://open.spotify.com/artist/43IGet85Estmbg7gKpsOJa) | [All the Month I spent with you : OCTOBER](https://open.spotify.com/album/4DoGu8sHkPjfynT0GSA1wc) | 2:38 | 2021-12-10 | 2022-04-06 |
 | [Half of Sunday](https://open.spotify.com/track/3ytD48qvFh6odzVcOzpeiS) | [Lee O Neul](https://open.spotify.com/artist/2FL8mim5b0Dd0LUkPE9c6t) | [Half of Sunday \(Lee O Neul X Forest Notes\)](https://open.spotify.com/album/1xrvpicIES6aRreMzdIRog) | 2:38 | 2025-09-08 | 2025-11-17 |
 | [Happy Birthday](https://open.spotify.com/track/53LsGc9un1ZfoatZsDhaLP) | [Joochan](https://open.spotify.com/artist/2yyL9EIPSIx2l88MVRdtfW) | [Happy Birthday](https://open.spotify.com/album/78rGEV4Hsdblw0sK6t7Zo0) | 3:18 | 2022-01-13 | 2022-04-13 |
@@ -207,6 +208,7 @@
 | [Hello, goodbye.](https://open.spotify.com/track/6QSkLzLRAwPMaYnesYdqdX) | [Isaac Hong](https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB) | [Hello, goodbye.](https://open.spotify.com/album/5MTTOYSuCUp7Wz6P57lAja) | 3:06 | 2025-11-13 |  |
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-03 | 2022-06-19 |
 | [Hide And Seek](https://open.spotify.com/track/6kgbXxqe6gDKMYrjNL3zqD) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Jumpin'](https://open.spotify.com/album/5zIcY1Rd64xth4HmCwmYwu) | 2:57 | 2022-03-31 | 2022-04-16 |
+| [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/track/7ylQ2APCeCGzmD3H0bgTwP) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp), [kimminseong](https://open.spotify.com/artist/6kEcqDj4yNNQtE3hNjWjgq) | [Hide and Seek \(feat\. kimminseong\)](https://open.spotify.com/album/18soFYAFOWDmjUpL4R09bG) | 3:44 | 2026-03-06 |  |
 | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/track/40YR1sAECqtYHaiN4wzQ9e) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Hide And Seek \(with Cho Jung Chi\)](https://open.spotify.com/album/7ttphjk6H0f6fQ95WyOp5b) | 1:28 | 2022-03-31 | 2022-04-18 |
 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 | 2022-03-07 | 2026-02-11 |
 | [HOME](https://open.spotify.com/track/5TgEh8iGP5sfusUa1R5Z0H) | [HANUM](https://open.spotify.com/artist/6VniDsTqx9dE63GYUWM5AH) | [HOME](https://open.spotify.com/album/4iXVWGwbnDMI78HAx5WRT0) | 2:53 | 2022-12-20 | 2023-01-11 |
@@ -295,7 +297,7 @@
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 | 2025-02-12 |
 | [Late Night Workout](https://open.spotify.com/track/65yx3grfHnTFhJPuYVi2QF) | [Jo So Hyun](https://open.spotify.com/artist/4voH4qkhBVtoXgQbGOnfTF) | [Late Night Workout](https://open.spotify.com/album/7cjr2FSE05LdsoCLgR2xkZ) | 2:29 | 2024-03-06 | 2024-03-16 |
-| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 | 2026-03-04 |
+| [Laughter Hole](https://open.spotify.com/track/17zAtRJmpPI944OijlvkO9) | [Kim Chang\-Wan](https://open.spotify.com/artist/2yMDYqTvjFeBZcGC4ZMMVH) | [Laughter Hole](https://open.spotify.com/album/2ezqWlNqgz4pXJgubNGa6K) | 1:53 | 2026-02-26 |  |
 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Inyu](https://open.spotify.com/artist/4uVDPhjO1wDe5AEptC6wo2) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 | 2022-09-05 | 2022-09-28 |
 | [LEGO\(Let's Go\)](https://open.spotify.com/track/6LBaBhUnFywBr4HP6a5RDM) | [curv moon](https://open.spotify.com/artist/5Lv4ukV1IsTbFO3WupJRL4) | [LEGO\(Let's Go\)](https://open.spotify.com/album/7IMiyn6pyeKOX4GXTIk4M8) | 1:53 | 2022-08-18 | 2022-09-03 |
 | [Let It Pale](https://open.spotify.com/track/6fa1F99fDdvb6jsQZnzJsf) | [Sunbee](https://open.spotify.com/artist/5mWU6kFLkz7K2EBa3w7X8k) | [Sketch, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/12OnMHfBUbSNDwuRpO3MPe) | 2:46 | 2022-03-31 | 2022-04-14 |
@@ -360,7 +362,7 @@
 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-05-15 | 2025-07-10 |
 | [My World Is](https://open.spotify.com/track/2Daki1bJOM9Hc2fggCGwTR) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:14 | 2022-03-31 | 2022-04-14 |
 | [My Yellow](https://open.spotify.com/track/2QZ67tcgnbqziznZl6tC2k) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [My Yellow](https://open.spotify.com/album/30xUoTIuMQTUyFLreOiiDL) | 3:03 | 2021-12-10 | 2022-07-29 |
-| [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 | 2026-02-20 |  |
+| [My you](https://open.spotify.com/track/1FyUjNw4Hwp1inYeEi48Nw) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [My you](https://open.spotify.com/album/7tRboLC40qkLLZFH3wf3GY) | 3:31 | 2026-02-20 | 2026-03-07 |
 | [Nap Fairy](https://open.spotify.com/track/3HlV3eW5V1nmql7xFIkYn8) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Nap Fairy \- SM STATION](https://open.spotify.com/album/3G8R9rd7ILJwQ20iFc1ocQ) | 3:36 | 2022-08-26 | 2022-12-14 |
 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 | 2025-09-22 | 2026-03-03 |
 | [Night](https://open.spotify.com/track/0COlCcBvnLcITfdEln4jAI) | [Hero](https://open.spotify.com/artist/5IkvD7Kp6LU8bkonq3nlXK) | [252524](https://open.spotify.com/album/6ojH0qotC5sEnihFD2ayfl) | 3:28 | 2022-03-31 | 2022-04-20 |

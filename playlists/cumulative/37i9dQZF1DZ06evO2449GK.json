@@ -556,10 +556,32 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 223461,
       "name": "El Rey del Despecho",
       "url": "https://open.spotify.com/track/27mA4YfHxrjHwsYxe8Stt1"
+    },
+    {
+      "album": {
+        "name": "Anarcolirykoz",
+        "url": "https://open.spotify.com/album/21wfgUoxj9SBtHjZrlF66I"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223461,
+      "name": "El Rey del Despecho",
+      "url": "https://open.spotify.com/track/5Andam5kQoD57q7XF8l0PE"
     },
     {
       "album": {

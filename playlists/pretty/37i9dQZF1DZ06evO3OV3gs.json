@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 699640,
+  "num_followers": 699729,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAD3hI1opiPfIRiPUub00RVO",
+  "snapshot_id": "aajHgAAAAACWMWE8/hwrckvpVtSaReJt",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 370426,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Erotica (PA Version)",
-        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 324733,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 241600,
       "name": "Dress You Up",
       "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Erotica (PA Version)",
+        "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 324733,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3b3PnE1ROIZzILjmCGjVib"
     },
     {
       "added_at": null,
@@ -695,6 +695,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebration (Deluxe Version)",
+        "url": "https://open.spotify.com/album/28Ts8e6rqdmSPH6itDV4KP"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Borderline",
+      "url": "https://open.spotify.com/track/55vHakozxvDmLT7smkEYCN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 171115,
+      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
+      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -707,22 +739,6 @@
       "duration_ms": 337840,
       "name": "Lucky Star",
       "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like a Virgin",
-        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
       "added_at": null,
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-        "url": "https://open.spotify.com/album/37EsuQ9TUWNuxc0lLGh5dM"
+        "name": "Like a Virgin",
+        "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 171115,
-      "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
-      "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
+      "duration_ms": 236133,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
     },
     {
       "added_at": null,
@@ -847,22 +863,6 @@
       "duration_ms": 308880,
       "name": "Drowned World / Substitute for Love",
       "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 94986,
-      "name": "Now I'm Following You (Part I)",
-      "url": "https://open.spotify.com/track/0mPPeHgx3Kxj85Olq1hNU7"
     }
   ],
   "unique_name": "This Is Madonna",

@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno y Valentina Marquez",
-  "num_followers": 813910,
+  "num_followers": 814057,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,30 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
+        "name": "Ya Me Cans\u00e9",
+        "url": "https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X"
+      },
+      "artists": [
+        {
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "duration_ms": 156809,
+      "name": "Ya Me Cans\u00e9",
+      "url": "https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
         "name": "Hoy Tengo Ganas De Ti (En Vivo)",
         "url": "https://open.spotify.com/album/2IJ2N2neAcUv9zndezucuP"
       },
@@ -943,30 +967,6 @@
       "duration_ms": 199296,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/4pMpoj9TNQg9ZlfG3fE7W2"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
-        "name": "Ya Me Cans\u00e9",
-        "url": "https://open.spotify.com/album/71Kki8oS4g9fZ7ZTX6129X"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        },
-        {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
-        }
-      ],
-      "duration_ms": 156809,
-      "name": "Ya Me Cans\u00e9",
-      "url": "https://open.spotify.com/track/6vg8SLZ5q5RFfle2bbtk4c"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
+        "name": "Otro D\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 202342,
+      "name": "Otro D\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
         "name": "Que Ganas De No Verte Nunca M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/7EiH2AQ1XUYTekQYChiO77"
       },
@@ -1035,26 +1055,6 @@
       "duration_ms": 160010,
       "name": "Que Ganas De No Verte Nunca M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/2DbId26BELztSnlKG5nUl8"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
-        "name": "Otro D\u00eda M\u00e1s",
-        "url": "https://open.spotify.com/album/4cNI3cWCuif3oiew8cI8ye"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        },
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 202342,
-      "name": "Otro D\u00eda M\u00e1s",
-      "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "No Me Ense\u00f1aste",
-        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
+        "name": "En otra vida (En Vivo)",
+        "url": "https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB"
       },
       "artists": [
         {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
         }
       ],
-      "duration_ms": 192523,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
+      "duration_ms": 139465,
+      "name": "En otra vida - En Vivo",
+      "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "En otra vida (En Vivo)",
-        "url": "https://open.spotify.com/album/0Ujtg97hUUgW4pabzGnMuB"
+        "name": "Fiesta Inolvidable Con La Barra",
+        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
       },
       "artists": [
         {
-          "name": "Los Herrera",
-          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
         }
       ],
-      "duration_ms": 139465,
-      "name": "En otra vida - En Vivo",
-      "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
+      "duration_ms": 245000,
+      "name": "La Cita (La Carta)",
+      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "Fiesta Inolvidable Con La Barra",
-        "url": "https://open.spotify.com/album/7774IVy6uKYk8cQ8PpH8aW"
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/2uqxph6GlzZTfrbclmvixl"
       },
       "artists": [
         {
-          "name": "La Barra",
-          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
         }
       ],
-      "duration_ms": 245000,
-      "name": "La Cita (La Carta)",
-      "url": "https://open.spotify.com/track/76RSkFEXDmTYKj3nITaBfL"
+      "duration_ms": 192523,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/3TuVuXJAEhajh7BfWY9Ad9"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "A veces, a besos",
-        "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        },
-        {
-          "name": "Aneley",
-          "url": "https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ"
-        }
-      ],
-      "duration_ms": 198277,
-      "name": "A veces, a besos",
-      "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
         "name": "LA MONA JIM\u00c9NEZ / Zapada EN VIVO en UN POCO DE RUIDO !",
         "url": "https://open.spotify.com/album/5rRNC7LQg92nq8Kk5hmxCZ"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 152663,
       "name": "EL FEDERAL",
       "url": "https://open.spotify.com/track/7DBHPA2wipmntvOlNJqRYG"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
+        "name": "A veces, a besos",
+        "url": "https://open.spotify.com/album/35ABidXvaHhuRzrpHgR62j"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        },
+        {
+          "name": "Aneley",
+          "url": "https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ"
+        }
+      ],
+      "duration_ms": 198277,
+      "name": "A veces, a besos",
+      "url": "https://open.spotify.com/track/5dJGZ8q6QKV5KcnjvkZMeZ"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
+        "name": "Confesi\u00f3n",
+        "url": "https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 201876,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
         "name": "50% (En Vivo)",
         "url": "https://open.spotify.com/album/2EpxFlCsjh51kHO60qQG1I"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 225077,
       "name": "50% - En Vivo",
       "url": "https://open.spotify.com/track/5CjlFUbDhFW8U85kjRjf2E"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
-        "name": "Confesi\u00f3n",
-        "url": "https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 201876,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "Como Te Va Mi Amor - Hasta Hoy",
-        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
-      },
-      "artists": [
-        {
-          "name": "Valentina Marquez",
-          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
-        }
-      ],
-      "duration_ms": 327488,
-      "name": "Como Te Va Mi Amor - Hasta Hoy",
-      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
         "name": "Esto Se Acab\u00f3",
         "url": "https://open.spotify.com/album/1usW30QraosvadgKpteABF"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
+        "name": "Como Te Va Mi Amor - Hasta Hoy",
+        "url": "https://open.spotify.com/album/4FIthNt89FvPFUUwGVjyVj"
+      },
+      "artists": [
+        {
+          "name": "Valentina Marquez",
+          "url": "https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC"
+        }
+      ],
+      "duration_ms": 327488,
+      "name": "Como Te Va Mi Amor - Hasta Hoy",
+      "url": "https://open.spotify.com/track/1hJtbQKy4IRhaCHRnqxLgu"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "Con Piel de Cuarteto",
-        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
-      },
-      "artists": [
-        {
-          "name": "El Turco Oliva",
-          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "Maldito Coche Negro",
-      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
         "name": "En El Gran Rex",
         "url": "https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 167450,
       "name": "Baby Nueva",
       "url": "https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
+        "name": "Con Piel de Cuarteto",
+        "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
+      },
+      "artists": [
+        {
+          "name": "El Turco Oliva",
+          "url": "https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "Maldito Coche Negro",
+      "url": "https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
-    },
-    {
-      "added_at": "2026-03-05 20:30:12",
-      "album": {
         "name": "El No Va a Venir",
         "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 135287,
       "name": "El No Va a Venir",
       "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
+    },
+    {
+      "added_at": "2026-03-05 20:30:12",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7bPY6lL00xmDVS4VURDFCl"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Castillo de Arena / Me Quieres Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/1J3RQBT8ST47hEVjQQCNq4"
     },
     {
       "added_at": "2026-03-05 20:30:12",
@@ -1899,42 +1899,42 @@
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos (En Vivo)",
-        "url": "https://open.spotify.com/album/7kv36MMXX9UCBezzFhdiTM"
+        "name": "El Trato",
+        "url": "https://open.spotify.com/album/5kb2Fo5HZG0MJzQ6x81ire"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         },
         {
-          "name": "Dami\u00e1n C\u00f3rdoba",
-          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
         }
       ],
-      "duration_ms": 547541,
-      "name": "Por lo Que Yo Te Quiero / Mi\u00e9nteles a Ellos - En Vivo",
-      "url": "https://open.spotify.com/track/5CNL6wtodffbjXzTwKzYS2"
+      "duration_ms": 191177,
+      "name": "El Trato",
+      "url": "https://open.spotify.com/track/7DAaf49d6CDGAXlKSr2IC3"
     },
     {
       "added_at": "2026-03-05 20:30:12",
       "album": {
-        "name": "No Dire Que Si",
-        "url": "https://open.spotify.com/album/6D9PhAmtEItNJZXHZHJoRj"
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/77q0gHxilBoRNnlAAyllDW"
       },
       "artists": [
         {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
         },
         {
-          "name": "Pia Ka",
-          "url": "https://open.spotify.com/artist/6cvXeCH32OR5AITdGlcoix"
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
         }
       ],
-      "duration_ms": 213920,
-      "name": "No Dire Que Si",
-      "url": "https://open.spotify.com/track/0FJIMGhZs0KgL2tiEgeYlV"
+      "duration_ms": 159215,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/5gyT1xYFWyDWzEGDjicz5C"
     }
   ],
   "unique_name": "100% Cuarteto",

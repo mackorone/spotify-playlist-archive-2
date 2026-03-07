@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Ramey Memo, Evil Level Live, Ecto Peach and more",
+  "description": "With Rob Harrowven, The Ramey Memo, Evil Level Live and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -236,7 +236,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 210000,
       "name": "A Pop Song for Satan",
       "url": "https://open.spotify.com/track/14rkrBXoxEBpIdEfoPZx3t"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -1040,10 +1040,32 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 245241,
       "name": "But Mummy I Want To Be A Movie Star!",
       "url": "https://open.spotify.com/track/1pNuveuYkvymxU2JSh6iwc"
+    },
+    {
+      "album": {
+        "name": "Call Me Anytime",
+        "url": "https://open.spotify.com/album/6DXEtkaKXfw1yfLJ6ULLxQ"
+      },
+      "artists": [
+        {
+          "name": "Black Marine",
+          "url": "https://open.spotify.com/artist/4ldRd8z0FkjQw4RTbQI8VN"
+        },
+        {
+          "name": "MX the American",
+          "url": "https://open.spotify.com/artist/3NpREW3KO3Lp6K9BP5DJvU"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229642,
+      "name": "Call Me Anytime",
+      "url": "https://open.spotify.com/track/4F2L9o04CSuAyxVw2apteH"
     },
     {
       "album": {
@@ -1098,7 +1120,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 206896,
       "name": "Cannonball",
       "url": "https://open.spotify.com/track/6zOTd6Pahvwas06vzXh3Dr"
@@ -2478,7 +2500,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 194253,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/7cr1llDHS6GZRpRowOIFPV"
@@ -3048,7 +3070,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -3592,7 +3614,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 152185,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 281500,
       "name": "I'm made for more",
       "url": "https://open.spotify.com/track/43qb7qNNuxjUq6Kq0APvcR"
@@ -4682,7 +4704,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 310769,
       "name": "Miracles (Redeux Mix)",
       "url": "https://open.spotify.com/track/1yZewwLcQP7q0tcQKCvgkl"
@@ -4884,7 +4906,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Murderous Intent",
       "url": "https://open.spotify.com/track/6mPJzhaki4fXKuFVm4k4ID"
@@ -6008,7 +6030,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 215250,
       "name": "Say Something - 2025",
       "url": "https://open.spotify.com/track/67OMaD4imBm8uAnZheZ8bD"
@@ -6102,7 +6124,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 240000,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
@@ -6348,7 +6370,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 141000,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1GiM0sCx7JfmkmHhMDuwQr"
@@ -6894,7 +6916,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 260040,
       "name": "Sunrise Symphony",
       "url": "https://open.spotify.com/track/1yNjERs6ZPT5aEaUjFtTi2"
@@ -7036,6 +7058,24 @@
       "duration_ms": 224310,
       "name": "That Little Feeling",
       "url": "https://open.spotify.com/track/0i8M0j9OEnan1OQGXfQSpH"
+    },
+    {
+      "album": {
+        "name": "That time of the year",
+        "url": "https://open.spotify.com/album/1PlTB91enK1OQGWbdLHPFy"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219450,
+      "name": "That time of the year",
+      "url": "https://open.spotify.com/track/41YaezQoC6GzGVrRhQ5hs6"
     },
     {
       "album": {
@@ -7610,7 +7650,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172000,
       "name": "Thursday",
       "url": "https://open.spotify.com/track/4eHRmn6m7quF6m1z7IWqRJ"
@@ -7758,7 +7798,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -8032,7 +8072,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 214909,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/0CcjAsFdi3wMukU6Yfnrkl"
@@ -8268,7 +8308,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"

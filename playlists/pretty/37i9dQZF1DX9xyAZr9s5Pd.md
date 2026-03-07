@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Motherflowers
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,214 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,224 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
-| 2 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6v640lAjrFzNyut6aRqnro) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:23 |
-| 3 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 |
-| 4 | [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 |
-| 5 | [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 |
+| 1 | [no pienses que me da igual](https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no pienses que me da igual](https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E) | 2:38 |
+| 2 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 |
+| 3 | [un mensaje de voz \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6v640lAjrFzNyut6aRqnro) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Quizá no es para tanto](https://open.spotify.com/album/1D6abDGoj5W44nsKkhm9dB) | 3:23 |
+| 4 | [La Novedad](https://open.spotify.com/track/2upHYVNdcEuk7pnTPsPfDN) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH), [Depresión Sonora](https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO) | [La Novedad](https://open.spotify.com/album/1GMQ07qxd5Sxjb1ga4c1sW) | 3:31 |
+| 5 | [Medusa](https://open.spotify.com/track/5u4WtYlz4AVrsVwu58mKbv) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT) | [Medusa](https://open.spotify.com/album/2Hy8fPqK6DM1nVXECN5qKU) | 3:00 |
 | 6 | [Mariposas Amarillas](https://open.spotify.com/track/1sstT1tv6lHi3dJgUp4PEf) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV), [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Mariposas Amarillas](https://open.spotify.com/album/08hW5Y4PNFEcqvlkxjofU4) | 3:37 |
 | 7 | [La Petite Mort](https://open.spotify.com/track/2f13BemQX8NnUJuuBoCSwk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [V](https://open.spotify.com/album/0dbTYcYItcpd8iPS3XLg3q) | 4:49 |
 | 8 | [Y YA NADA](https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Marcel Bagés](https://open.spotify.com/artist/0zXBa5DyjzKxjRj01iRJkn), [David Soler](https://open.spotify.com/artist/1ASP7GYxPVkYoejPblW6O1) | [Y YA NADA](https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Radio Capital](https://open.spotify.com/track/4RryeZ8UEUYuN4K6x4Quxr) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Nuestra](https://open.spotify.com/album/6e5qfLCN4V5x4aH0cMX4dO) | 4:32 |
 | 60 | [Heart of Thunder](https://open.spotify.com/track/6KcNnnPEEEpAThFNN6DYZl) | [We The Lion](https://open.spotify.com/artist/0D8xIv7lt4m33tauA1HP0z), [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS) | [Heart of Thunder](https://open.spotify.com/album/2NrrkmuqKwy5j0C5gIxeNX) | 3:31 |
 
-Snapshot ID: `AAAAAKwW64f9q4aKAMKv94LFD956Cikn`
+Snapshot ID: `AAAAAC3rcYBlBkmSe5oTm/Vvxr88+qew`

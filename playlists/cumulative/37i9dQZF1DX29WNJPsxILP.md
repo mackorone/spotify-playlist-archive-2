@@ -4,7 +4,7 @@
 
 > Best of Hindi Hip\-Hop! Cover: Siroyi
 
-310 songs - 15 hr 44 min
+311 songs - 15 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [Paisa On My Mind](https://open.spotify.com/track/65kga6DUIuueiZHR52tWcb) | [Deep Kalsi](https://open.spotify.com/artist/23S2w22FCwFjDBBn7qdB2I), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Paisa On My Mind](https://open.spotify.com/album/5MfYCMztv3SfhFm1BX6MVh) | 3:20 | 2023-11-06 | 2025-01-22 |
 | [Paisa Paisa](https://open.spotify.com/track/5Yyi121XIsVNEfCHcHFbcG) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Paisa Paisa](https://open.spotify.com/album/3f4IXfdh2675rAhyHU1AFx) | 3:06 | 2025-06-27 | 2025-10-15 |
 | [Pancake](https://open.spotify.com/track/2r9O7yHHhqC18UTu6dYjr1) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [Pancake](https://open.spotify.com/album/2mmXvoE2o9oyKktHfsR6ap) | 2:42 | 2025-05-16 | 2025-10-15 |
-| [Pendulum](https://open.spotify.com/track/17ZWvL2d7T2LmoxoOLHxVM) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Pendulum](https://open.spotify.com/album/3MnexUpZqQaWoZTQbfEFZl) | 2:46 | 2025-03-14 |  |
+| [Pendulum](https://open.spotify.com/track/17ZWvL2d7T2LmoxoOLHxVM) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Pendulum](https://open.spotify.com/album/3MnexUpZqQaWoZTQbfEFZl) | 2:46 | 2025-03-14 | 2026-03-07 |
 | [PEW PEW!](https://open.spotify.com/track/7zpmshT8nkJEgPnR8XfUdW) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR) | [PEW PEW!](https://open.spotify.com/album/1jTyUrUnZexu0WPbx1tmi0) | 2:21 | 2023-03-10 | 2023-10-12 |
 | [Pilado](https://open.spotify.com/track/4QBZaByPrqWnqe1KzBgHOn) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols) | [Pilado](https://open.spotify.com/album/1cjCwATFB1KNQ5LanBS9CP) | 3:28 | 2024-09-30 | 2024-12-12 |
 | [Pind Dilli](https://open.spotify.com/track/72T5MkmOeLHSIx5XTVgqkA) | [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s) | [Pind Dilli](https://open.spotify.com/album/1QIEowAHIpYBVMYVv10NCt) | 2:07 | 2023-09-20 | 2024-06-08 |
@@ -276,6 +276,7 @@
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 | 2025-01-07 |
 | [Tantrums](https://open.spotify.com/track/5eXDRkSaTVIAhKplQUmYJf) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Tantrums](https://open.spotify.com/album/379jp5oYITtA8JhdSouHQN) | 2:22 | 2024-12-20 |  |
 | [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-11-17 |
+| [Tateeree](https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Simran Jaglan](https://open.spotify.com/artist/54x8gJEux02W45CsSv87om), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tateeree](https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp) | 2:31 | 2026-03-06 |  |
 | [Tension Mat Le \(feat\. Mumzy Stranger & DJ LYAN\)](https://open.spotify.com/track/4a9Lqb427Tuhl0uj5up7SR) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B) | [Tension Mat Le \(feat\. Mumzy Stranger & DJ LYAN\)](https://open.spotify.com/album/1hiqL40QK4HdnAotKoD2ef) | 2:47 | 2024-06-07 | 2024-12-15 |
 | [Tera Hua](https://open.spotify.com/track/2ZVW5S2D4MR6EJO08qInbo) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Tera Hua](https://open.spotify.com/album/6erT6iguLk3iop4nykkHgC) | 2:15 | 2024-05-22 | 2025-01-07 |
 | [Tere Jaisi](https://open.spotify.com/track/7ebzprvKL2Z1tMOfBC40YG) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Meena](https://open.spotify.com/artist/0oyqGTqiIZuiybcnkmKUId), [Richcal](https://open.spotify.com/artist/0jyKZurcbzfe3kD7nxaKAb) | [Tere Jaisi](https://open.spotify.com/album/6WQ9T9HcO88ki3uX1comJi) | 2:49 | 2024-10-23 | 2025-03-15 |

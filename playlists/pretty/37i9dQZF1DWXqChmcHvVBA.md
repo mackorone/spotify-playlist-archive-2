@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > 📸 El Negro Tecla
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,657 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,752 likes - 74 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [C\-U\-L\-O](https://open.spotify.com/track/51oYa09wnI9U86U3R4bVQd) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [C\-U\-L\-O](https://open.spotify.com/album/0toZ9XuBmX7CLSDfbvhTIc) | 2:17 |
 | 2 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
-| 3 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
-| 4 | [PÉGATE](https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [DJ Roman](https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y) | [PÉGATE](https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB) | 2:17 |
-| 5 | [BPP](https://open.spotify.com/track/3MbX2OnWHx4aCnu6s07DTp) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [ASTROLAVISION](https://open.spotify.com/artist/6VSXgGuN9BFVuo2MiyCnpu) | [BPP](https://open.spotify.com/album/5YJsgYmG8orUt1IzZFofMZ) | 2:44 |
-| 6 | [La Hora](https://open.spotify.com/track/6gWhUHq5QwspemhidUCwEP) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [La Hora](https://open.spotify.com/album/0e1MnravPnh76YikaCODvc) | 3:17 |
+| 3 | [2 Totos Rkt](https://open.spotify.com/track/6HnrlSXLTP2jTLlqscThEf) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [DJ PABLO](https://open.spotify.com/artist/146LCvXdrdaJrgjumZulo9) | [2 Totos Rkt](https://open.spotify.com/album/668BEJUwML88s5rmmpsMO3) | 2:01 |
+| 4 | [PUTERÍ4](https://open.spotify.com/track/1IgrATr9zMmRjtFVFY6O7s) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [PUTERÍ4](https://open.spotify.com/album/1lkzZ6bQyw3lWsviJs8HAD) | 2:24 |
+| 5 | [PÉGATE](https://open.spotify.com/track/3YZWI2eI7X2B0xuSHNFCc2) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [DJ Roman](https://open.spotify.com/artist/3Da9oMHorNECMUqxi2g80Y) | [PÉGATE](https://open.spotify.com/album/1FSiNmVh42DRSWKWm0jrYB) | 2:17 |
+| 6 | [BPP](https://open.spotify.com/track/3MbX2OnWHx4aCnu6s07DTp) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [ASTROLAVISION](https://open.spotify.com/artist/6VSXgGuN9BFVuo2MiyCnpu) | [BPP](https://open.spotify.com/album/5YJsgYmG8orUt1IzZFofMZ) | 2:44 |
 | 7 | [TIKI TIKI](https://open.spotify.com/track/7GSKEUunbDOtPSG1TLXq8e) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Martin Vegas](https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp) | [MEGA CALLEJERO FINO](https://open.spotify.com/album/6LLNAIlGUtXizsF3ewCiBv) | 2:19 |
 | 8 | [Tumba](https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res) | 3:00 |
 | 9 | [Me Escapé](https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Me Escapé](https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU) | 2:56 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 73 | [Session en el Barrio \#14](https://open.spotify.com/track/2VNFNR1iQEpDJ3ZWphNioQ) | [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Session en el Barrio \#14](https://open.spotify.com/album/4VQDBXozvaFuSleyT9G36T) | 2:51 |
 | 74 | [SUPUESTAMENTE](https://open.spotify.com/track/1NSFGv6QemZiHiZfMY7F46) | [elaggume](https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0) | [SUPUESTAMENTE](https://open.spotify.com/album/45Aq4OYxS70A7L6mwQWr2T) | 2:18 |
 
-Snapshot ID: `AAAAABd+zWyaIlFcI8kHJmVwQa2BF5P4`
+Snapshot ID: `AAAAAHYXThnAdhQm9gV2EoJ5JUg7KXdM`

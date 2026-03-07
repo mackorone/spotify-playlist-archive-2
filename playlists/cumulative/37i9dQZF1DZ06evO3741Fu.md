@@ -4,10 +4,11 @@
 
 > This is Daphne Oram\. The essential tracks, all in one playlist.
 
-35 songs - 2 hr 48 min
+36 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1966 interrupted](https://open.spotify.com/track/7wTJ09Js663KEVqUjs3MSD) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [afromerm](https://open.spotify.com/artist/7vGFfjPooYhXrBjUApEwyD), [Abi Asisa](https://open.spotify.com/artist/5SkWwegeOVRZw6wvmUzdGv) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 3:04 | 2026-03-07 |  |
 | [Amphitryon 38 \- Remastered](https://open.spotify.com/track/1YpQAH4tIwS0yglgKpJYgR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Amphitryon 38](https://open.spotify.com/album/1OPDHYe1OfUlZoktachWYH) | 0:49 | 2026-03-04 |  |
 | [An Individual Note](https://open.spotify.com/track/04PkbBCvAfZigq5rT3laZc) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Marta Salogni](https://open.spotify.com/artist/3NbcOSuoO2E4yJmfirHXAS) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 4:17 | 2026-03-04 |  |
 | [Are You There..? \- Live from the Roundhouse](https://open.spotify.com/track/7rSUyp6JfBGU46PmqSElMR) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Andrea Parker](https://open.spotify.com/artist/4ugwXaNvZVbB4jqhdIXzKj), [Daz Quayle](https://open.spotify.com/artist/0pnm3wvve3ApGGvwQHUHDk) | [Private Dreams and Public Nightmares](https://open.spotify.com/album/3nX2uKD1E7rfonhnaDDnel) | 29:18 | 2026-03-04 |  |
@@ -19,7 +20,7 @@
 | [Beauty and the Beast, Pt\. 2](https://open.spotify.com/track/22xhx09bRYIVkOiTZXDnuv) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Beauty and The Beast](https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ) | 3:28 | 2026-03-04 |  |
 | [Dr\. Faustus Suite](https://open.spotify.com/track/52Yk2P2JzL3UwZUDyOMFHy) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Dr\. Faustus Suite](https://open.spotify.com/album/6omAW7tFneti1UJiGhBQeS) | 9:41 | 2026-03-04 |  |
 | [Eidolon](https://open.spotify.com/track/6WVbVDTxpD5gFnu2BMKkrq) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Deena Abdelwahed](https://open.spotify.com/artist/20fUkJZtm2I6zdIuj2XpgV) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 3:50 | 2026-03-04 |  |
-| [Electronic Music Is Loud](https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 4:05 | 2026-03-04 |  |
+| [Electronic Music Is Loud](https://open.spotify.com/track/0LmO1ICHFGsgYvXv3iGjU6) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 4:05 | 2026-03-04 | 2026-03-07 |
 | [Episode Metallic](https://open.spotify.com/track/6904m8Sxjj0FGdd02o7FHt) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [Beauty and The Beast](https://open.spotify.com/album/41pm4eRFXr2KdACByVaEtJ) | 5:34 | 2026-03-04 |  |
 | [Folly Tower Blooms](https://open.spotify.com/track/5fVz9HTP6A3wAjLTLyuRvw) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs), [Magz Hall](https://open.spotify.com/artist/1fIKX12a64bAWp0wp2X5cl), [Mieko Shimizu](https://open.spotify.com/artist/3IZbQSCjwUbC4sNNMjZZXr) | [vari/ations \- Ode to Oram](https://open.spotify.com/album/6EaY3YNWKI5ViyR2mkI8FJ) | 3:57 | 2026-03-04 |  |
 | [Four Aspects](https://open.spotify.com/track/1wFoG9wRb1XHGR5VqGUh6v) | [Daphne Oram](https://open.spotify.com/artist/5iipMnjR9MbSaS0sioYXKs) | [An Anthology Of Noise And Electronic Music Vol.2](https://open.spotify.com/album/2P8UMtdO8F1uHUgHaNu6Kb) | 8:14 | 2026-03-04 |  |

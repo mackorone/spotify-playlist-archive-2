@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Mary Middlefield
 
-2,460 songs - 5 day 4 hr 20 min
+2,461 songs - 5 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1382,7 +1382,7 @@
 | [mies präpariert](https://open.spotify.com/track/5rdSGMrLZlwdA2xVE3YUcZ) | [Gwen Dolyn](https://open.spotify.com/artist/4GYs1X1Knyogk7tJVXNlv7) | [mies präpariert](https://open.spotify.com/album/3QHBVLxmVRq7wgXins6kfV) | 2:57 | 2024-07-02 | 2024-08-07 |
 | [Milestone](https://open.spotify.com/track/1DU2tq1ekQubl7Kx1hWvTO) | [Ladina](https://open.spotify.com/artist/3NutXQr2Yvx6R2aUbkQXEo) | [Milestone](https://open.spotify.com/album/3mg8hCwVgYNPFuRM8l78AI) | 2:49 | 2023-07-04 | 2023-08-02 |
 | [Milk](https://open.spotify.com/track/3ErHt7wpxDrOXYGuCnJ11x) | [KÄSSY](https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6) | [Milk](https://open.spotify.com/album/1nkGzH4kiWnvlpHcoxdqwT) | 2:49 | 2025-01-07 | 2025-02-05 |
-| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-03-03 |  |
+| [Milk](https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Milk](https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez) | 4:18 | 2026-03-03 | 2026-03-07 |
 | [Million de Mois](https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Million de Mois](https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D) | 2:57 | 2025-08-05 | 2025-09-04 |
 | [Millionen](https://open.spotify.com/track/0h7eLGSCuTXncP1ewLGJvf) | [Fiva](https://open.spotify.com/artist/1yyVo8VBUjIsROi57j7UIh) | [Millionen](https://open.spotify.com/album/0XZh31usZloDqMWdj9lS35) | 2:53 | 2022-11-07 | 2022-12-01 |
 | [Mind Reader](https://open.spotify.com/track/0k8QlJE37M1euY9L3rsZNE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Oblivion](https://open.spotify.com/album/3QCJELG1LLOrUDzGnskiIa) | 2:43 | 2025-11-04 | 2025-12-04 |
@@ -2040,6 +2040,7 @@
 | [TAG/NACHT](https://open.spotify.com/track/2ELvriNilkGU5ab0D4Ltbf) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [melle](https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [TAG/NACHT](https://open.spotify.com/album/5iStwAr4RijfIkeqm3JM46) | 3:19 | 2024-06-05 | 2025-01-08 |
 | [Take a While](https://open.spotify.com/track/3DTaMVWs1eDCQCj6fl1lEq) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Take a While](https://open.spotify.com/album/2Ce7sXWqwSRzmsKcvQjVtd) | 3:47 | 2023-11-07 | 2024-02-07 |
 | [TAKE IT SLOW](https://open.spotify.com/track/6LwznmiwKIisc33xXOu03y) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TAKE IT SLOW](https://open.spotify.com/album/2529iSh8KsKSp6aaKDLgJk) | 2:45 | 2023-11-07 | 2023-11-30 |
+| [Take me as i am](https://open.spotify.com/track/2XQW9PF9na8qextnDmjg9K) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Will You Take Me As I Am?](https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF) | 3:19 | 2026-03-06 |  |
 | [Take Me Down](https://open.spotify.com/track/5kYD8wp3DP5nyHAQYKjv7t) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Take Me Down](https://open.spotify.com/album/7Ll3evfz8mbgWjVYZ6F7hi) | 3:31 | 2026-01-06 | 2026-02-04 |
 | [Take That](https://open.spotify.com/track/1rRBOQnG1Y86iszGf4J7Px) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz), [Fappe & Bru](https://open.spotify.com/artist/0cQWPaFUVBhwMCkRaCm4bX) | [Take That](https://open.spotify.com/album/7cFPpACcw4uo8ioN0IY2Px) | 5:46 | 2023-04-04 | 2023-05-03 |
 | [Takemeanywhere](https://open.spotify.com/track/4B780anDB9jSu1UL46uzSQ) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Takemeanywhere](https://open.spotify.com/album/7xrJ4cgfzbbQW5Yb8njbdY) | 2:49 | 2025-02-04 | 2025-03-05 |

@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,517 songs - 7 day 3 hr 32 min
+4,518 songs - 7 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1249,6 +1249,7 @@
 | [February \- Late Hours](https://open.spotify.com/track/57J8lHD7BjDYmBuW4QEtM9) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [L'Indécis](https://open.spotify.com/artist/5p1ichthTka1KT0iUvrlIu) | [February \- Late Hours](https://open.spotify.com/album/4Kascb2e0obC2DJ4L84orD) | 3:11 | 2019-05-26\* | 2019-12-11 |
 | [FeeFee](https://open.spotify.com/track/4tatrhpNfgRAcUdsAEZLXS) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [FeeFee](https://open.spotify.com/album/3ZkkycEIhxxZJyaOw4PlJ2) | 2:25 | 2019-11-20 | 2020-04-03 |
 | [Feel Good](https://open.spotify.com/track/3JLHDeGKUNbUJFBHdYBnv2) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl), [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Feel Good](https://open.spotify.com/album/2r2zIfvSFoL55oafxiOqdk) | 2:46 | 2022-06-09 | 2022-06-23 |
+| [Feeling You](https://open.spotify.com/track/77uTC0YXv22IBQ3ucajhru) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Feeling You](https://open.spotify.com/album/4fY3s81h4x1FYK7E1fBxud) | 2:03 | 2026-03-06 |  |
 | [Feels](https://open.spotify.com/track/6uOFOnCqFrgKeFkjapH8N9) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [Feels](https://open.spotify.com/album/51pbm2rSE3P7nOkwXfaWwG) | 2:00 | 2021-02-13 | 2021-06-11 |
 | [Feels Like Home](https://open.spotify.com/track/58XGuacTUZLerQAbrOLFHe) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Feels Like Home](https://open.spotify.com/album/4vfuToHZU1hHblhJbYZ22S) | 1:50 | 2024-09-02 |  |
 | [Felices Siestas](https://open.spotify.com/track/37P1VYFyxYXH3jFsnuONhs) | [Señor Siesta](https://open.spotify.com/artist/2i7FDVuvOVPT1aPOhx6oQ5) | [Felices Siestas](https://open.spotify.com/album/1wRRFA1Lv2RZZXFR0EMaBk) | 2:07 | 2023-03-23 | 2025-04-26 |
@@ -3777,7 +3778,7 @@
 | [Sunflower Fields](https://open.spotify.com/track/5x06pW7r0lebJulesKVnSS) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Sunflower Fields](https://open.spotify.com/album/0NsxmwGazJCuTta9ln196Z) | 1:38 | 2023-03-30 | 2025-05-10 |
 | [Sunflowers](https://open.spotify.com/track/0CjjvJyeefX4M4Alm36agK) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [Sunflowers](https://open.spotify.com/album/3ByoZJmjiiRpkkAPdssXm3) | 1:51 | 2021-10-06 | 2021-10-29 |
 | [Sungazing](https://open.spotify.com/track/6hDacW1bzgMuWS4P1FyJHi) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [The Flipside](https://open.spotify.com/artist/3mY04DjYiRz57V8FeLyuJ1) | [Sungazing](https://open.spotify.com/album/3dzhS0Azi3PeJSQfjWmTAz) | 2:22 | 2026-01-16 |  |
-| [Sunkissed](https://open.spotify.com/track/0mZs9gUYlwiCeYxE48HlbF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Sunkissed](https://open.spotify.com/album/0tMlpNrJLIOpmf8iXteH7A) | 2:00 | 2025-10-03 |  |
+| [Sunkissed](https://open.spotify.com/track/0mZs9gUYlwiCeYxE48HlbF) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Sunkissed](https://open.spotify.com/album/0tMlpNrJLIOpmf8iXteH7A) | 2:00 | 2025-10-03 | 2026-03-07 |
 | [Sunkissed](https://open.spotify.com/track/6sI2PKNUkwTJexvW4FYrah) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB) | [Sunkissed](https://open.spotify.com/album/2jFuqRfCGbNAdgLzySkdWp) | 2:18 | 2024-06-28 | 2024-08-02 |
 | [Sunkissed Streets](https://open.spotify.com/track/5hwkLjTpivqMHPm4ATKcVX) | [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Sunkissed Streets](https://open.spotify.com/album/3TADdS4jjIU8Lqg7NTpg1j) | 1:51 | 2026-02-27 |  |
 | [Sunlight](https://open.spotify.com/track/7jSono8RS7mhnOMr2A5SHk) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa) | [Sunlight](https://open.spotify.com/album/5T7xtmPY9xQnd0wyKNnzmX) | 2:24 | 2024-07-04 | 2024-09-17 |

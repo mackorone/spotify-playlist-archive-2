@@ -35288,8 +35288,8 @@
           "url": "https://open.spotify.com/artist/0CIHy5rV9yWHNaYa8U3KLk"
         },
         {
-          "name": "Senario",
-          "url": "https://open.spotify.com/artist/7iJXB3NvVeSbWoHWB3eM8X"
+          "name": "Senariounion",
+          "url": "https://open.spotify.com/artist/6hpg8z5jXru68ZP2AlXVDE"
         }
       ],
       "date_added": "2026-03-05",
@@ -142257,6 +142257,24 @@
     },
     {
       "album": {
+        "name": "Hunnyb\u00e5n / Fine Curls",
+        "url": "https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161356,
+      "name": "Hunnyb\u00e5n",
+      "url": "https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E"
+    },
+    {
+      "album": {
         "name": "2 Kids On The Block - Part.2",
         "url": "https://open.spotify.com/album/57xErJJ3FrLxw2o6j37F9B"
       },
@@ -218585,6 +218603,28 @@
     },
     {
       "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
+    },
+    {
+      "album": {
         "name": "Let's Standing Show",
         "url": "https://open.spotify.com/album/0v4hD3V0e9f9maj8EIlecH"
       },
@@ -220919,7 +220959,7 @@
     },
     {
       "album": {
-        "name": "no friend, no lover (feat. Keaton Henson)",
+        "name": "no friend, no lover",
         "url": "https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp"
       },
       "artists": [
@@ -220936,7 +220976,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204407,
-      "name": "no friend, no lover (feat. Keaton Henson)",
+      "name": "no friend, no lover",
       "url": "https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe"
     },
     {
@@ -328359,24 +328399,6 @@
     },
     {
       "album": {
-        "name": "Hunnyb\u00e5n / Fine Curls",
-        "url": "https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E"
-    },
-    {
-      "album": {
         "name": "HERE I AM",
         "url": "https://open.spotify.com/album/4fDuajidbZrtR63RpCp0Tq"
       },
@@ -342033,6 +342055,28 @@
     },
     {
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272196,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
+    },
+    {
+      "album": {
         "name": "Warning Signs",
         "url": "https://open.spotify.com/album/11oOeIlvorIYXnd5DLWuUn"
       },
@@ -346116,6 +346160,24 @@
       "duration_ms": 194000,
       "name": "What A Life",
       "url": "https://open.spotify.com/track/4OUASKtHBgvuEY1By2WO5v"
+    },
+    {
+      "album": {
+        "name": "Boyfriend on Demand Part 1 (Soundtack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "What A Love",
+      "url": "https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU"
     },
     {
       "album": {
@@ -371007,7 +371069,7 @@
     },
     {
       "album": {
-        "name": "\u4f60\u904e\u7684\u597d\u55ce",
+        "name": "\u4f60\u904e\u5f97\u597d\u55ce",
         "url": "https://open.spotify.com/album/6sc1k4uoJYRpB70MX6zms4"
       },
       "artists": [
@@ -371020,7 +371082,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 199523,
-      "name": "\u4f60\u904e\u7684\u597d\u55ce",
+      "name": "\u4f60\u904e\u5f97\u597d\u55ce",
       "url": "https://open.spotify.com/track/6L4jShPbcOEzb0l8rpRQm9"
     },
     {
@@ -377298,6 +377360,24 @@
       "duration_ms": 287500,
       "name": "\u6046\u661f\u4e0d\u5fd8 Forever Forever",
       "url": "https://open.spotify.com/track/4eyAIvfoQ8PR7ZBzjh0jW5"
+    },
+    {
+      "album": {
+        "name": "\u6046\u6eab\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/2MHcbeetdkzqQq1MPVb8vJ"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u4f73\u6b61",
+          "url": "https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173823,
+      "name": "\u6046\u6eab\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/1uRCQJC5wVl8JbfJ5jsK7n"
     },
     {
       "album": {

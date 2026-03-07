@@ -5483,6 +5483,28 @@
     },
     {
       "album": {
+        "name": "Feel Good Funk",
+        "url": "https://open.spotify.com/album/3t4mt4bgAc6MpkIemI7gSf"
+      },
+      "artists": [
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        },
+        {
+          "name": "Nakama",
+          "url": "https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96774,
+      "name": "Feel Good Funk",
+      "url": "https://open.spotify.com/track/2jElfWdcul95hdywpEcCkM"
+    },
+    {
+      "album": {
         "name": "Feel Like",
         "url": "https://open.spotify.com/album/2gycRsICkZ2zZlXda4YXA6"
       },
@@ -8130,7 +8152,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 121856,
       "name": "jeans off.",
       "url": "https://open.spotify.com/track/4z5esQs8oMZ5QvNfaGHdnr"
@@ -10386,6 +10408,24 @@
       "duration_ms": 166400,
       "name": "Neomorph",
       "url": "https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u"
+    },
+    {
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/0UnQYyptoOifva5zrEwTI7"
+      },
+      "artists": [
+        {
+          "name": "Sean Pitaro",
+          "url": "https://open.spotify.com/artist/70Jj7g4luHdokdNJXizH0W"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145755,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/3Ded5FbpzJYQ7G9WRv0iZv"
     },
     {
       "album": {

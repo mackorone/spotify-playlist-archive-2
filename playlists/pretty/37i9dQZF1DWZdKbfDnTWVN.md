@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd?si=X4IC83tAQJWD0umA2YRDeg"> Maandy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,141 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,169 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bad Everyday](https://open.spotify.com/track/3WL6zAHhNf0vfdIhRv8O61) | [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Bad Everyday](https://open.spotify.com/album/5kPrLWslg79OTdErJO5wfe) | 2:49 |
-| 2 | [Track 2](https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd) | [Nostalgia](https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi) | 0:00 |
+| 2 | [Nijea](https://open.spotify.com/track/3fBfSl58u7RmJOit53saMA) | [Ares66](https://open.spotify.com/artist/2a94Tj87iis1QVu6hMCZwd) | [Nostalgia](https://open.spotify.com/album/6tgB1mNZSQEZyha1P7skgi) | 2:34 |
 | 3 | [GENJE SANA](https://open.spotify.com/track/64n1TOe9NxsNoNKyyKiwN7) | [BURUKLYN BOYZ](https://open.spotify.com/artist/4iXOuQsJ5qOOC7HgOIXLFU) | [GENJE SANA](https://open.spotify.com/album/6hnSRzBdC44V77fIMsEc7U) | 4:09 |
 | 4 | [Side Hii](https://open.spotify.com/track/6iYlDamEIl6ZYV2ZXcZuFQ) | [Maandy](https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP) | [Side Hii](https://open.spotify.com/album/07arGqg5UyYlDYJcUoD95g) | 2:40 |
 | 5 | [88 Bars 2](https://open.spotify.com/track/73ZImg0oR84KSCpsOOLo3r) | [Moti the NRG](https://open.spotify.com/artist/6sDVFYZNKm4ptJrKaJo2CI), [Unspoken Salaton](https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY) | [88 Bars 2](https://open.spotify.com/album/7cXYbAziuXaew9vzFt0HvC) | 4:12 |

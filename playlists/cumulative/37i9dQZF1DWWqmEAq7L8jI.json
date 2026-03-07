@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Indios",
+  "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Trucha",
   "name": "Radio Pop",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184080,
       "name": "Algo Tiene",
       "url": "https://open.spotify.com/track/40n1j3nwbuF44QZOiKDsQ3"
@@ -2308,6 +2308,24 @@
       "duration_ms": 218052,
       "name": "Dos Veces",
       "url": "https://open.spotify.com/track/4HGW19bNRlHNZUkR1ZLqdk"
+    },
+    {
+      "album": {
+        "name": "Dossier",
+        "url": "https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
     },
     {
       "album": {
@@ -4970,6 +4988,28 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
+    },
+    {
+      "album": {
+        "name": "monumento..",
+        "url": "https://open.spotify.com/album/0K1DpRzofDbHqViJT3mnDl"
+      },
+      "artists": [
+        {
+          "name": "Broke Carrey",
+          "url": "https://open.spotify.com/artist/6FWTqLIVK9jjMGcNJnF7xE"
+        },
+        {
+          "name": "Coc\u00f3",
+          "url": "https://open.spotify.com/artist/7wO9ayWlYsOX16S5xa3EXi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170904,
+      "name": "monumento..",
+      "url": "https://open.spotify.com/track/5gA6oCSFTWxQif7HXqMN2s"
     },
     {
       "album": {

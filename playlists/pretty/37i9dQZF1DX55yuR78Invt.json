@@ -1,13 +1,29 @@
 {
   "description": "This is Harry Styles. The essential tracks, all in one playlist. ",
-  "num_followers": 1677574,
+  "num_followers": 1678311,
   "original_name": "This Is Harry Styles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ5d66X1OlfZnsIPqBuFYP0Wrx00",
+  "snapshot_id": "AAAAACpR18n/8Qg8NG0TcoSXbyr3HTFw",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
     {
       "added_at": "2026-01-23 00:00:41",
       "album": {
@@ -41,6 +57,22 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
       "added_at": "2026-01-15 17:28:29",
       "album": {
         "name": "Fine Line",
@@ -55,6 +87,22 @@
       "duration_ms": 173991,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Carla's Song",
+      "url": "https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo"
     },
     {
       "added_at": "2026-01-15 17:28:29",
@@ -89,6 +137,22 @@
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Dance No More",
+      "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
+    },
+    {
       "added_at": "2026-01-15 17:28:29",
       "album": {
         "name": "Harry's House",
@@ -103,6 +167,22 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
     },
     {
       "added_at": "2026-01-15 17:28:29",
@@ -135,6 +215,22 @@
       "duration_ms": 177954,
       "name": "Late Night Talking",
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 169960,
+      "name": "The Waiting Game",
+      "url": "https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN"
     },
     {
       "added_at": "2026-01-15 17:28:29",
@@ -183,6 +279,22 @@
       "duration_ms": 208917,
       "name": "Golden",
       "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 221653,
+      "name": "Taste Back",
+      "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
     },
     {
       "added_at": "2026-01-15 17:28:29",
@@ -265,6 +377,22 @@
       "url": "https://open.spotify.com/track/2IOFZdYYkFxEHVz1w34PoL"
     },
     {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Are You Listening Yet?",
+      "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
+    },
+    {
       "added_at": "2026-01-15 17:28:29",
       "album": {
         "name": "Harry's House",
@@ -329,6 +457,22 @@
       "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 160400,
+      "name": "Ready, Steady, Go!",
+      "url": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
+    },
+    {
       "added_at": "2026-01-15 17:28:29",
       "album": {
         "name": "Harry's House",
@@ -375,6 +519,22 @@
       "duration_ms": 211954,
       "name": "From the Dining Table",
       "url": "https://open.spotify.com/track/1IF5UcqRO42D12vYwceOY6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 147013,
+      "name": "Paint By Numbers",
+      "url": "https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ"
     },
     {
       "added_at": "2026-01-15 17:28:29",
@@ -473,10 +633,10 @@
       "url": "https://open.spotify.com/track/5Lbsc65org0b85kNsPkluY"
     },
     {
-      "added_at": "2026-01-15 17:28:29",
+      "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
       },
       "artists": [
         {
@@ -484,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
+      "duration_ms": 229560,
+      "name": "Season 2 Weight Loss",
+      "url": "https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe"
     },
     {
       "added_at": "2026-01-15 17:28:29",

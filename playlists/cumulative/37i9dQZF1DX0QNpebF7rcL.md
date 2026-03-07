@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Joe Bonamassa
 
-543 songs - 1 day 12 hr 27 min
+544 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,7 @@
 | [I’m Going Down](https://open.spotify.com/track/0p2gjEwWiiU6N5Xk0HI2xC) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [I’m Going Down](https://open.spotify.com/album/35y6SzyOwEbX19F9TIvf0c) | 5:30 | 2025-01-31 | 2025-02-22 |
 | [I’m Yours And I’m Hers](https://open.spotify.com/track/1CvB0rh0CgCi4ixnbVE6Zh) | [The Blue Quarantinos](https://open.spotify.com/artist/74IHkbIwZfF1D0bH6Usfyd), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Vince Fossett Jr.](https://open.spotify.com/artist/1jV1E6qOXs9NJLH5CPk3mM) | [Phoning It In](https://open.spotify.com/album/5pGCCCUVVmfUGAZ2tz60Rd) | 3:24 | 2021-04-23 | 2022-04-23 |
 | [Judicator Blues](https://open.spotify.com/track/4jlsa0OLIsdu1ETRpkX6QD) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Turquoise Blue](https://open.spotify.com/album/4QBaAT90iqQxoR9TS2izPF) | 3:43 | 2022-02-04 | 2023-12-02 |
-| [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 | 2024-04-05 |  |
+| [Juke Joint](https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/6nziuDYeLmZtW4BdypRzfH) | 2:51 | 2024-04-05 | 2026-03-07 |
 | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/track/0QCa6CGQJvYs5190mDePQP) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Just No Getting Over You \(Dream Cruise\)](https://open.spotify.com/album/5nAs2igKGjEshXErFX2CQe) | 4:40 | 2022-09-09 | 2023-02-11 |
 | [Just One More Time](https://open.spotify.com/track/4dXyMNpMEEKs0ihnj6XnVE) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Just One More Time](https://open.spotify.com/album/2b63qU8xnvBoRiYJGoLKFF) | 2:49 | 2025-11-07 |  |
 | [Kathleen](https://open.spotify.com/track/1wd8LmiJpY9t5OsGqPOCyY) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa), [Ian Moore](https://open.spotify.com/artist/5XZzCqzWFTBV6jgSAOtxTz), [Johnny Moeller](https://open.spotify.com/artist/565TA9CcZBr2UA6mWiL3qk) | [Kathleen](https://open.spotify.com/album/1o0gqB1ldEORbKpXKAbEWR) | 4:17 | 2025-06-13 | 2025-08-23 |
@@ -285,6 +285,7 @@
 | [Last Time \(I Seen the Sun\)](https://open.spotify.com/track/7MEpmTSCARpgFdj2Q9Q2d6) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 3:17 | 2025-07-14 |  |
 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 | 2023-09-09 |
 | [Leave Me Alone](https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX) | [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [Leave Me Alone](https://open.spotify.com/album/2sqbgimLbrq5LXYGktcECB) | 4:38 | 2021-12-10 | 2022-04-23 |
+| [Left Me with My Guitar](https://open.spotify.com/track/71DrFAw6xKEDNqzmKMYdHi) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Left Me with My Guitar](https://open.spotify.com/album/5fKD5HRCPxv8G6l1UbQD9D) | 3:31 | 2026-03-06 |  |
 | [Little By Little](https://open.spotify.com/track/3B9rNHb7e2mGRoFGFbn5Wx) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT) | [Little By Little](https://open.spotify.com/album/2hawlSOnUjx36npp6OpUvm) | 5:08 | 2026-01-30 |  |
 | [Livin' for the Ones](https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Livin' for the Ones](https://open.spotify.com/album/3Flcwo2dVHmmmLc4NUdxR7) | 3:04 | 2022-04-22 | 2024-06-15 |
 | [Livin' It Up Down In Texas](https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Livin' It Up Down In Texas](https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE) | 4:45 | 2025-01-17 |  |

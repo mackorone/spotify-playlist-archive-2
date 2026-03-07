@@ -3589,6 +3589,24 @@
     },
     {
       "album": {
+        "name": "BREACH",
+        "url": "https://open.spotify.com/album/5dpD7TxDEPVgx2Kg6PfChB"
+      },
+      "artists": [
+        {
+          "name": "Jiqui",
+          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174537,
+      "name": "BREACH",
+      "url": "https://open.spotify.com/track/3DG8frxm5QqrdYmZjtrk2K"
+    },
+    {
+      "album": {
         "name": "Break Sh*t",
         "url": "https://open.spotify.com/album/5Pdk86OCqkNESJKy7wlzzC"
       },
@@ -6837,6 +6855,28 @@
     },
     {
       "album": {
+        "name": "Die Young",
+        "url": "https://open.spotify.com/album/55OyYqQkIvzjWd8YHMT4TR"
+      },
+      "artists": [
+        {
+          "name": "Whales",
+          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
+        },
+        {
+          "name": "CHAINMAN",
+          "url": "https://open.spotify.com/artist/5hognANWcSbjxxUqvZwIfC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/09qze0BFdLERhcw0058gNv"
+    },
+    {
+      "album": {
         "name": "Different Shit",
         "url": "https://open.spotify.com/album/1z9aF1zGu0L4qA30Cezvmu"
       },
@@ -6998,7 +7038,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180413,
       "name": "DIRT PONY",
       "url": "https://open.spotify.com/track/0wzxcmXFfKM13TlXehAkBq"
@@ -8912,7 +8952,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 194147,
       "name": "Faced",
       "url": "https://open.spotify.com/track/7LuSjvh9JK7vFDEdcZvAxh"
@@ -9910,7 +9950,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 78750,
       "name": "FORCE MAJEURE",
       "url": "https://open.spotify.com/track/4ebfwFBzoPZfk3TZtxsqUn"
@@ -11448,7 +11488,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154285,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2X6eWOiT8dKSeDqWSma45S"
@@ -12152,7 +12192,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 209142,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/394SgqkD6gJOM08pZI8kol"
@@ -12174,7 +12214,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188839,
       "name": "home",
       "url": "https://open.spotify.com/track/7tDtD9KuDGMAmSTRs4NJd0"
@@ -13110,7 +13150,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143203,
       "name": "IN PEACE YOU SHALL LIVE",
       "url": "https://open.spotify.com/track/1JaKUdytgpJzu1ZmeQYwN8"
@@ -15697,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "ME V ME",
+        "url": "https://open.spotify.com/album/3ah5VpHfEMQutuKO4PbNHv"
+      },
+      "artists": [
+        {
+          "name": "Benda",
+          "url": "https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209577,
+      "name": "ME V ME",
+      "url": "https://open.spotify.com/track/4LlDviPbNd8rn1216SmDql"
+    },
+    {
+      "album": {
         "name": "Meant To Be Lonely",
         "url": "https://open.spotify.com/album/56V9FyY6YpImAG8NuPKn1f"
       },
@@ -17866,6 +17924,28 @@
       "duration_ms": 132000,
       "name": "Onomono",
       "url": "https://open.spotify.com/track/2HEJngNEwvIreCsitsTwOO"
+    },
+    {
+      "album": {
+        "name": "Onslaught",
+        "url": "https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Casey Club",
+          "url": "https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195433,
+      "name": "Onslaught",
+      "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
     {
       "album": {
@@ -20265,6 +20345,24 @@
     },
     {
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/2iRKqICFkJQxSOnaPkWd0J"
+      },
+      "artists": [
+        {
+          "name": "MYTHM",
+          "url": "https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/7EMWUzqM2DcnKAiM0iabR1"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7BpL0bDWem3UNj1J5kASmL"
       },
@@ -20734,6 +20832,24 @@
       "duration_ms": 162206,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/1PHABVpOcs6ppc87VlPiPe"
+    },
+    {
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/39Z59NjzFBqPZMPT4qQgFm"
+      },
+      "artists": [
+        {
+          "name": "So Sus",
+          "url": "https://open.spotify.com/artist/11sKJR32kjCgOpP5jyl38A"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/1f2JxBpYnQD2LRTnuLaTlk"
     },
     {
       "album": {
@@ -21879,6 +21995,28 @@
     },
     {
       "album": {
+        "name": "Shatter",
+        "url": "https://open.spotify.com/album/3UAGcv6p7rE71CmqkbtHEo"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "BROKN",
+          "url": "https://open.spotify.com/artist/03YzG4PH5sQe0UKMLh9rLN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Shatter",
+      "url": "https://open.spotify.com/track/45V3yB2jw22n8UxHuY2Rjj"
+    },
+    {
+      "album": {
         "name": "SHEEESH",
         "url": "https://open.spotify.com/album/7MGp4cfGpvAdgkQFdxyL9n"
       },
@@ -22850,7 +22988,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 241600,
       "name": "Space Boat",
       "url": "https://open.spotify.com/track/28SMM57b3k5KsvufKnik9H"
@@ -26346,6 +26484,32 @@
       "duration_ms": 186206,
       "name": "Turn The Tide",
       "url": "https://open.spotify.com/track/7r5s7HP6dJvcQjYrb0ZsoK"
+    },
+    {
+      "album": {
+        "name": "Turnt",
+        "url": "https://open.spotify.com/album/3HI1onhzxg1pRCuXDmtWNB"
+      },
+      "artists": [
+        {
+          "name": "SubDocta",
+          "url": "https://open.spotify.com/artist/2fRdiG5FNFFs4OjG7p6yxk"
+        },
+        {
+          "name": "sfam",
+          "url": "https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI"
+        },
+        {
+          "name": "EJ THE MAKER",
+          "url": "https://open.spotify.com/artist/0wEcOQzsjzOhIeeL8wo3ob"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Turnt",
+      "url": "https://open.spotify.com/track/0mrQtWSZyksyCnNSzysRpX"
     },
     {
       "album": {

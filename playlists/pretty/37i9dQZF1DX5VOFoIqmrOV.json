@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Pushpa 2",
-  "num_followers": 451353,
+  "num_followers": 451404,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2021-12-16 12:46:43",
       "album": {
+        "name": "Majili",
+        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
+      },
+      "artists": [
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        }
+      ],
+      "duration_ms": 245885,
+      "name": "Priyathama Priyathama",
+      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
         "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 221000,
       "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
       "url": "https://open.spotify.com/track/2YmXGUx32C3CUEgcAyHcGf"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Majili",
-        "url": "https://open.spotify.com/album/6a6ykv4C9RDMutKI4lR36T"
-      },
-      "artists": [
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        }
-      ],
-      "duration_ms": 245885,
-      "name": "Priyathama Priyathama",
-      "url": "https://open.spotify.com/track/4wHZiaLsuI9aQdWv4f3Esd"
     },
     {
       "added_at": "2023-08-07 09:11:28",
@@ -913,30 +913,6 @@
       "url": "https://open.spotify.com/track/2PlHPw8TVj7EqGE64ylc1i"
     },
     {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Acharya",
-        "url": "https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Harika Narayan",
-          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
-        },
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        }
-      ],
-      "duration_ms": 247660,
-      "name": "Laahe Laahe",
-      "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
-    },
-    {
       "added_at": "2023-05-04 06:50:45",
       "album": {
         "name": "Dasara (Telugu)",
@@ -959,6 +935,30 @@
       "duration_ms": 203052,
       "name": "Chamkeela Angeelesi",
       "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
+    },
+    {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Acharya",
+        "url": "https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Harika Narayan",
+          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        }
+      ],
+      "duration_ms": 247660,
+      "name": "Laahe Laahe",
+      "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
     },
     {
       "added_at": "2023-05-04 06:50:45",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 263505,
+      "name": "Nee Chitram Choosi",
+      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
+    },
+    {
       "added_at": "2023-01-10 09:27:27",
       "album": {
         "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
@@ -1051,22 +1067,6 @@
       "duration_ms": 314342,
       "name": "O Rendu Prema Meghaalila (First Love Song) [From \"Baby\"]",
       "url": "https://open.spotify.com/track/0umUo9XJTkjc7dB9w8xK2U"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 263505,
-      "name": "Nee Chitram Choosi",
-      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
     },
     {
       "added_at": "2022-11-28 04:35:07",
@@ -1321,28 +1321,28 @@
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
     },
     {
-      "added_at": "2023-12-12 05:49:47",
+      "added_at": "2022-07-24 04:40:57",
       "album": {
-        "name": "Month Of Madhu",
-        "url": "https://open.spotify.com/album/1AhmzluHPzzD5bO8i8RKRK"
+        "name": "Sarkaru Vaari Paata",
+        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
       },
       "artists": [
         {
-          "name": "Achu",
-          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
         },
         {
-          "name": "Yamini Ghantasala",
-          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
         }
       ],
-      "duration_ms": 224554,
-      "name": "Oh Na Madhu",
-      "url": "https://open.spotify.com/track/46WainWGEgKqmUpnfEnzlH"
+      "duration_ms": 246864,
+      "name": "Ma Ma Mahesha",
+      "url": "https://open.spotify.com/track/18rdJauTStd04N56UetMmZ"
     },
     {
       "added_at": "2025-12-16 12:04:49",
@@ -1369,28 +1369,28 @@
       "url": "https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs"
     },
     {
-      "added_at": "2022-07-24 04:40:57",
+      "added_at": "2023-12-12 05:49:47",
       "album": {
-        "name": "Sarkaru Vaari Paata",
-        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
+        "name": "Month Of Madhu",
+        "url": "https://open.spotify.com/album/1AhmzluHPzzD5bO8i8RKRK"
       },
       "artists": [
         {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
         },
         {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
         },
         {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
         }
       ],
-      "duration_ms": 246864,
-      "name": "Ma Ma Mahesha",
-      "url": "https://open.spotify.com/track/18rdJauTStd04N56UetMmZ"
+      "duration_ms": 224554,
+      "name": "Oh Na Madhu",
+      "url": "https://open.spotify.com/track/46WainWGEgKqmUpnfEnzlH"
     },
     {
       "added_at": "2023-12-12 05:49:47",
@@ -1457,6 +1457,26 @@
       "url": "https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Sarkaru Vaari Paata",
+        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 242322,
+      "name": "Kalaavathi",
+      "url": "https://open.spotify.com/track/1hzaaPxtBKyTTnOiz0zALA"
+    },
+    {
       "added_at": "2023-12-12 05:49:47",
       "album": {
         "name": "Waltair Veerayya (Original Motion Picture Soundtrack)",
@@ -1479,26 +1499,6 @@
       "duration_ms": 198197,
       "name": "Poonakaalu Loading",
       "url": "https://open.spotify.com/track/48bsZQGBWex5u1qNOrSMMU"
-    },
-    {
-      "added_at": "2022-07-24 04:40:57",
-      "album": {
-        "name": "Sarkaru Vaari Paata",
-        "url": "https://open.spotify.com/album/5CI4FwuIVMnJPVCr8e8HLw"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 242322,
-      "name": "Kalaavathi",
-      "url": "https://open.spotify.com/track/1hzaaPxtBKyTTnOiz0zALA"
     },
     {
       "added_at": "2024-04-18 09:26:24",
@@ -1565,22 +1565,6 @@
       "url": "https://open.spotify.com/track/6jUscicoyUljrPOdQCfhnd"
     },
     {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Hemachandra Vedala",
-          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
-        }
-      ],
-      "duration_ms": 273181,
-      "name": "Oosupodu",
-      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
-    },
-    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Solo Brathuke So Better (Original Motion Picture Soundtrack)",
@@ -1603,6 +1587,22 @@
       "duration_ms": 254999,
       "name": "Hey Idi Nenena",
       "url": "https://open.spotify.com/track/10nKbCaaU2OFTywWNvqHkX"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Hemachandra Vedala",
+          "url": "https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN"
+        }
+      ],
+      "duration_ms": 273181,
+      "name": "Oosupodu",
+      "url": "https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV"
     },
     {
       "added_at": "2023-08-07 09:11:28",

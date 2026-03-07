@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 57774,
+  "num_followers": 57825,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -871,8 +871,8 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -951,8 +951,8 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Between Voids",
-        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
-      },
-      "artists": [
-        {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "The Psychedelic One",
-      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Onism",
         "url": "https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 276318,
       "name": "Off-Piste",
       "url": "https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Between Voids",
+        "url": "https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE"
+      },
+      "artists": [
+        {
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "The Psychedelic One",
+      "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Twin Color (Extended Play No. 1)",
-        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 389625,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Building Blocks, Pt. 5",
         "url": "https://open.spotify.com/album/3SoqqjsUkjBm1FlzLlMHBq"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 280818,
       "name": "The Cheek of Daniel",
       "url": "https://open.spotify.com/track/4dPaLJHdNzdTkzotsNo4Op"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Twin Color (Extended Play No. 1)",
+        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 389625,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 278493,
-      "name": "Stereomission",
-      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 293026,
       "name": "Endless Jasmine",
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 278493,
+      "name": "Stereomission",
+      "url": "https://open.spotify.com/track/2bEFcAISP2KpoWCiWI6Pzc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 210007,
       "name": "Journey to the Lemon Moon",
       "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Empty Space",
-        "url": "https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 257789,
-      "name": "Empty Space",
-      "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Nostalgia Por Mesoz\u00f3ica",
         "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Empty Space",
+        "url": "https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 257789,
+      "name": "Empty Space",
+      "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Firstsun",
-        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
-      },
-      "artists": [
-        {
-          "name": "Sunsick",
-          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
-        }
-      ],
-      "duration_ms": 188802,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Meridians",
         "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 304366,
       "name": "Sister Species",
       "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Firstsun",
+        "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
+      },
+      "artists": [
+        {
+          "name": "Sunsick",
+          "url": "https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v"
+        }
+      ],
+      "duration_ms": 188802,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 283289,
+      "name": "Meridians",
+      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Krautzig",
         "url": "https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 283289,
-      "name": "Meridians",
-      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
       "added_at": "2025-11-07 05:00:56",

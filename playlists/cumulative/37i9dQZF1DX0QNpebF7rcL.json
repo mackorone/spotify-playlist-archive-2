@@ -5060,7 +5060,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171310,
       "name": "Juke Joint",
       "url": "https://open.spotify.com/track/3wdI9KWEqn7uXIaM1pj1L6"
@@ -5376,6 +5376,24 @@
       "duration_ms": 278634,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/7kPJfg95ExObovzfkh2moX"
+    },
+    {
+      "album": {
+        "name": "Left Me with My Guitar",
+        "url": "https://open.spotify.com/album/5fKD5HRCPxv8G6l1UbQD9D"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Left Me with My Guitar",
+      "url": "https://open.spotify.com/track/71DrFAw6xKEDNqzmKMYdHi"
     },
     {
       "album": {

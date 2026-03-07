@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 431 songs - 1 day 2 hr 12 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 442 songs - 1 day 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -439,5 +439,16 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 429 | [Home](https://open.spotify.com/track/4f1fSYfrN60il6267bJGFi) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Piñata \(Deluxe Edition\)](https://open.spotify.com/album/4Qvh33TMiFWZIOoSMcM4PM) | 2:13 |
 | 430 | [Childish Things](https://open.spotify.com/track/5sAooo0RyhX44ds11hi5Cs) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 3:33 |
 | 431 | [Melo](https://open.spotify.com/track/3pLkjcxgCDpIP50B07aByL) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [656](https://open.spotify.com/album/3InmPui8pj47JAOOu1e4GR) | 2:45 |
+| 432 | [For My Dawgs](https://open.spotify.com/track/5UIE8Pb27v9aK06EuaoHAf) | [Waka Flocka Flame](https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM) | [Flockaveli](https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM) | 3:21 |
+| 433 | [Fly The Coop](https://open.spotify.com/track/2EtLw937H91M9tb9eKngRF) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Full Court Press](https://open.spotify.com/album/4MLxuO3jk1GYUfJIMYMZCS) | 3:18 |
+| 434 | [STILL TALK’N THAT SHIT](https://open.spotify.com/track/5XK3BD1z7Yg0NlEwy4TT97) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Michael & The Mighty Midnight Revival, Songs For Sinners And Saints](https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO) | 3:00 |
+| 435 | [A Spike Lee Joint \(feat\. Anthony Flammia\)](https://open.spotify.com/track/5I4ipBNoOOXF20YY0pOjCx) | [Flatbush Zombies](https://open.spotify.com/artist/1dqGS5sT6PE2wEvP1gROZC), [Anthony Flammia](https://open.spotify.com/artist/4Aq0I7zm89FSHuqvvh63rw) | [3001: A Laced Odyssey](https://open.spotify.com/album/4Qohh8LwXoV7ucmjCU4MYL) | 4:15 |
+| 436 | [Slipping Into Darkness](https://open.spotify.com/track/1E9jnRS7TRaJtmBf7NzQWn) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [SURF OR DROWN](https://open.spotify.com/album/4cWnM4WLlf53drLOX90KuQ) | 4:16 |
+| 437 | [God Is Great](https://open.spotify.com/track/1sVT1nkXdbHUX1mXAORIYj) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 3:16 |
+| 438 | [Smoke Break](https://open.spotify.com/track/5PdhemEPinSh2zx1U5rLxl) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Covert Coup](https://open.spotify.com/album/7zAHNpdTeq8jNCmZaGK3jf) | 2:23 |
+| 439 | [Ricky](https://open.spotify.com/track/6ygS0qBZAtSO27AroLtBRl) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 4:16 |
+| 440 | [Voodoo](https://open.spotify.com/track/1vFdFfjiYjLtwNM2xAnY4Z) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Retarded Alligator Beats](https://open.spotify.com/album/5dQAv1Wl6wjFqPWrzEMDYN) | 2:53 |
+| 441 | [Walk In Faith](https://open.spotify.com/track/6DmE1MkutuNgNZN72bF4Px) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 2:43 |
+| 442 | [Business Merger](https://open.spotify.com/track/5SFZo1wPWXpRES67Kr29Vz) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [GOLDFISH](https://open.spotify.com/album/6EXDkyvi5H3Ys8KCYDkE6g) | 3:37 |
 
-Snapshot ID: `AAAf6oG0KU2yPxgi6OICzEQh0fX+Hihw`
+Snapshot ID: `AAAf9a1uNthY8iLY7zXTt0MsJQ34Vgyj`

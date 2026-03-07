@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Playboi Carti
 
-198 songs - 8 hr 22 min
+199 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [DIE LIKE THIS](https://open.spotify.com/track/34f1xSx9IGTqTAFRfDBAth) | [untiljapan](https://open.spotify.com/artist/4bXDZie6sqszxFN6D0Mi2K) | [trompe l’oeil](https://open.spotify.com/album/4jP2kCdzLbEinmhFjDOZNK) | 2:45 | 2025-06-06 | 2026-02-07 |
 | [DIRTY SPOT](https://open.spotify.com/track/6ojtrd3WzZYuPfoKOU4wjX) | [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [DIRTY SPOT / 4 to 6](https://open.spotify.com/album/3PEosVTHOA42DbW4OGLlER) | 2:28 | 2023-12-15 | 2024-04-27 |
 | [DIVE IN!](https://open.spotify.com/track/4pXChuim76A52lXVvFSozF) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d) | [REAL RAW!](https://open.spotify.com/album/3iY0PNNnetAbPmKMWWDkKk) | 1:40 | 2023-12-01 | 2024-02-21 |
-| [DOG](https://open.spotify.com/track/1yhtdbnsHy0bB4XpXAI28X) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:23 | 2026-02-21 |  |
+| [DOG](https://open.spotify.com/track/1yhtdbnsHy0bB4XpXAI28X) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:23 | 2026-02-21 | 2026-03-07 |
 | [DXE DXE DXE \(w/ Homixide Gang\)](https://open.spotify.com/track/1zsPL3JaH13XCndHrglC0B) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [DOOR TO DUSK](https://open.spotify.com/album/1guVWyGigDPn9PYzibhbpJ) | 1:36 | 2024-03-15 | 2025-06-21 |
 | [E30](https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E30](https://open.spotify.com/album/4SOOhAjyehmv7FRKgdBOix) | 2:08 | 2024-06-14 | 2025-08-16 |
 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 | 2025-02-22 |  |
@@ -182,6 +182,7 @@
 | [THRILL \(with Ken Carson\)](https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:12 | 2024-09-10 | 2025-11-08 |
 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 | 2025-06-13 |  |
 | [TORE UP](https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 2:06 | 2024-08-04 |  |
+| [Toxic](https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood \(BloodLuxe\)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj) | 4:29 | 2026-03-06 |  |
 | [TOXIC \(with Skepta\)](https://open.spotify.com/track/4evMMKc2HD6fV9slMfgkMx) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:15 | 2025-10-10 |  |
 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 | 2024-08-04 | 2025-09-06 |
 | [Troops](https://open.spotify.com/track/6EDsyZJdzrS1G3aX3VoH9i) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Osama Season](https://open.spotify.com/album/6rwxZslqJuyF0DivxOB0w9) | 2:19 | 2023-12-01 | 2024-03-16 |

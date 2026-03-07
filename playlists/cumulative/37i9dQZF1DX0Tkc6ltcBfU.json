@@ -3576,7 +3576,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 144905,
       "name": "Baby Please",
       "url": "https://open.spotify.com/track/59evisfZLhCmYxLFdi46nq"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 128955,
       "name": "BACK IN THE MIX",
       "url": "https://open.spotify.com/track/1aYbEsnPtBurW3ZCLhAtbw"
@@ -9318,7 +9318,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 106728,
       "name": "Chop Em Down",
       "url": "https://open.spotify.com/track/61IWy9a4z8p8faLOYExAaS"
@@ -13708,7 +13708,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML"
@@ -17708,7 +17708,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 120000,
       "name": "Get Me Dea",
       "url": "https://open.spotify.com/track/5bgvIs6ged5kSPPQq1J83O"
@@ -19682,6 +19682,24 @@
       "duration_ms": 176842,
       "name": "Hat Bacc",
       "url": "https://open.spotify.com/track/6KMpVi6gyLZoqsu1WIb8Gr"
+    },
+    {
+      "album": {
+        "name": "Hate It or Love It",
+        "url": "https://open.spotify.com/album/7asXJ4PLx8S9nBvpEzzky8"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Hate It or Love It",
+      "url": "https://open.spotify.com/track/5xV42iPZ7R9pws1NNR7LRR"
     },
     {
       "album": {
@@ -21921,6 +21939,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB"
+      },
+      "artists": [
+        {
+          "name": "Pradabagshawty",
+          "url": "https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132412,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
+    },
+    {
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
@@ -24105,6 +24141,24 @@
     },
     {
       "album": {
+        "name": "Most Hated 2",
+        "url": "https://open.spotify.com/album/6xQrmsJcsLLZnPfYErWuKW"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138571,
+      "name": "Jumpin' Out a Window",
+      "url": "https://open.spotify.com/track/5s5yhDeZvpdhEbK5E6xmbh"
+    },
+    {
+      "album": {
         "name": "just have PATIENCE",
         "url": "https://open.spotify.com/album/6JRMa3tSweP6kdYTeKN9mK"
       },
@@ -24138,6 +24192,28 @@
       "duration_ms": 134522,
       "name": "Just In Time",
       "url": "https://open.spotify.com/track/7MWv1HHPxLo3OlRX5bRnIt"
+    },
+    {
+      "album": {
+        "name": "Just Like Me (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/6zEz5Vwm6wtsLMqeLGkBay"
+      },
+      "artists": [
+        {
+          "name": "Montana 700",
+          "url": "https://open.spotify.com/artist/0KpToBdtK9KP6TZPFK2zbw"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191518,
+      "name": "Just Like Me (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/4jrB3qtIutJwiAOWWEnt3l"
     },
     {
       "album": {
@@ -30221,6 +30297,32 @@
     },
     {
       "album": {
+        "name": "MUTT THAT BIH [Feat. 1900Rugrat & Key Nyata]",
+        "url": "https://open.spotify.com/album/1nZpfdgFNVpIYCkaKcJCJ2"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "1900Rugrat",
+          "url": "https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5"
+        },
+        {
+          "name": "Key Nyata",
+          "url": "https://open.spotify.com/artist/4X2V63Czlm32j6Yk38WeX5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237421,
+      "name": "MUTT THAT BIH [Feat. 1900Rugrat & Key Nyata]",
+      "url": "https://open.spotify.com/track/3iFNq8TcrmWdElJ7IkqHRF"
+    },
+    {
+      "album": {
         "name": "Kinda Famous (Deluxe)",
         "url": "https://open.spotify.com/album/1bTRnEiTxdO68ZGsNFmWuf"
       },
@@ -31656,6 +31758,24 @@
       "duration_ms": 212088,
       "name": "No Gun No Knife",
       "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
+    },
+    {
+      "album": {
+        "name": "NO HOOK",
+        "url": "https://open.spotify.com/album/4ug1Q2Bskr7WKaSOd4nyVE"
+      },
+      "artists": [
+        {
+          "name": "KARRAHBOOO",
+          "url": "https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68666,
+      "name": "NO HOOK",
+      "url": "https://open.spotify.com/track/2bQQV9oDgqBjU3wnKQtyCk"
     },
     {
       "album": {
@@ -34282,7 +34402,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 101204,
       "name": "Over Now",
       "url": "https://open.spotify.com/track/3zEGtcD7rSiT8OIHBsw1LF"
@@ -34882,6 +35002,24 @@
       "duration_ms": 173521,
       "name": "Passenger Princess (Jibbitz)",
       "url": "https://open.spotify.com/track/7G0MIYpMnZkEAg3cVjMPGd"
+    },
+    {
+      "album": {
+        "name": "Passenger Seat",
+        "url": "https://open.spotify.com/album/6qEo9ZrOWnwkWQOWLXCXNa"
+      },
+      "artists": [
+        {
+          "name": "Nino Breeze",
+          "url": "https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Passenger Seat",
+      "url": "https://open.spotify.com/track/48qkdSZk6gJ5bQ6qUGlYDA"
     },
     {
       "album": {
@@ -39016,7 +39154,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 232000,
       "name": "ROOMS",
       "url": "https://open.spotify.com/track/0LnDKUQRhGvVMraLKhWnuD"
@@ -42443,6 +42581,24 @@
     },
     {
       "album": {
+        "name": "Dirty Scale Music Vol 1.5",
+        "url": "https://open.spotify.com/album/6FIGdAX15h5RtW1b0yN85B"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96936,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/4MbcYaIPmMotpLc73RNJ98"
+    },
+    {
+      "album": {
         "name": "Sprite On The Nightstand",
         "url": "https://open.spotify.com/album/1gtN6HdHsSD8LQQ4pgSvaM"
       },
@@ -42592,6 +42748,32 @@
       "duration_ms": 131764,
       "name": "Standin' On Bidness!",
       "url": "https://open.spotify.com/track/7dioIGShUMZ1bouCeA1lda"
+    },
+    {
+      "album": {
+        "name": "STANDING O",
+        "url": "https://open.spotify.com/album/22bwiqv6tqEcIi36Q2ihvs"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Travis Porter",
+          "url": "https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138461,
+      "name": "STANDING O",
+      "url": "https://open.spotify.com/track/7ycaCmNNfcyjVvH13QSgty"
     },
     {
       "album": {
@@ -44729,6 +44911,32 @@
     },
     {
       "album": {
+        "name": "Strictly 4 The Scythe",
+        "url": "https://open.spotify.com/album/4vhZKLj3AB4e64DF1r6hTG"
+      },
+      "artists": [
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        },
+        {
+          "name": "BKTHERULA",
+          "url": "https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK"
+        },
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210762,
+      "name": "TAN [Feat. Bktherula & TiaCorine]",
+      "url": "https://open.spotify.com/track/0i8BSCd7iN5Ck6jtUl04Tf"
+    },
+    {
+      "album": {
         "name": "Tangled",
         "url": "https://open.spotify.com/album/31FHbVXYHZrw1f58OA4kF2"
       },
@@ -45664,7 +45872,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176867,
       "name": "THE SCYTHE [Feat. TiaCorine & A$AP Ferg]",
       "url": "https://open.spotify.com/track/2cGDqP18a0Bme8o2gtjmiO"
@@ -50000,7 +50208,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157591,
       "name": "what will they say",
       "url": "https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd"
@@ -50022,7 +50230,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 226115,
       "name": "What You Is",
       "url": "https://open.spotify.com/track/2ZCDXVmOLnKUHYVpycIq5F"

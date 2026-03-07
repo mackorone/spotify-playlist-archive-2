@@ -4,7 +4,7 @@
 
 > Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure.
 
-1,218 songs - 3 day 4 hr 18 min
+1,224 songs - 3 day 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2023-07-15 |
 | [Earthen](https://open.spotify.com/track/7sWv4EF2ie6uNrTX46OpyB) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC) | [Earthen](https://open.spotify.com/album/4kdpjgLqZy9VPx47WzZKjx) | 5:24 | 2023-01-20 | 2024-02-03 |
 | [Eaten Alive](https://open.spotify.com/track/5XqjUsKIjEuRpeasDGgHGc) | [Ohhms](https://open.spotify.com/artist/2z7v2xekqVRvMCXWNESxt0) | [Eaten Alive](https://open.spotify.com/album/06lU90Mv5lF5bmBbBuMOor) | 3:56 | 2022-10-07 | 2023-07-15 |
+| [Ecstasy](https://open.spotify.com/track/39Sc8677qaGqgSY5a2q9z4) | [Portrayal of Guilt](https://open.spotify.com/artist/1Uwe1MbiKnPHAFh3qMWuNp) | [Ecstasy / Human Terror](https://open.spotify.com/album/5OV119ac34Sn6GoixidXLa) | 3:44 | 2026-03-06 |  |
 | [ego](https://open.spotify.com/track/4Mv3pU235ug7FvhReT1n1L) | [sace6](https://open.spotify.com/artist/3II4BTkM0mJbwvFxVJRdeS) | [ego](https://open.spotify.com/album/5NsQMntHonlG4cw7wN68uB) | 3:40 | 2026-01-30 |  |
 | [El Camino Car Crash](https://open.spotify.com/track/6D7OXwvAH5dMBIlQo933Ui) | [Deaf Club](https://open.spotify.com/artist/1GHsH4VNAKT2b7lBnppmFx) | [El Camino Car Crash](https://open.spotify.com/album/0XLyF4iYImRVm5klB2rwPC) | 1:40 | 2024-12-13 | 2025-04-11 |
 | [Elements Of Sin](https://open.spotify.com/track/5xfAlFJ33JakfGDeM4UyNe) | [Nervosa](https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH) | [Elements Of Sin](https://open.spotify.com/album/5YT581a2QIS1aPmI6ploqW) | 3:47 | 2023-09-29 | 2024-02-03 |
@@ -552,6 +553,7 @@
 | [Just A Shadow](https://open.spotify.com/track/730L9hWMFO39zpAzLxrdDD) | [A.A\. Williams](https://open.spotify.com/artist/1D0MStnRzJeelcnDjeBo8O) | [Just A Shadow](https://open.spotify.com/album/12BtaLIDkNsfNwwM0WaNax) | 4:46 | 2025-12-12 |  |
 | [K.M.B.](https://open.spotify.com/track/3v18sKtzeSiREITWYWPGnh) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [K.M.B.](https://open.spotify.com/album/2yK4JovZF5kJ4vKRFFG9Y5) | 3:15 | 2022-02-04 | 2023-07-15 |
 | [Karma Goddess](https://open.spotify.com/track/7nIq1nnF5MfihZqyNabpBz) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Bright as Blasphemy](https://open.spotify.com/album/4UfWCai5kezrUuom68hwHt) | 4:11 | 2025-08-15 |  |
+| [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-06 |  |
 | [Kill Fee](https://open.spotify.com/track/1NSnYkwYK7LN8zuiRVD2Xp) | [Deadguy](https://open.spotify.com/artist/06p0y7edz7fFY3A85oiUgF) | [Kill Fee](https://open.spotify.com/album/0aO2cDnbIVfUdmC6554agD) | 2:48 | 2025-05-02 |  |
 | [Kill the Disease](https://open.spotify.com/track/2dZk04PrdKVlnuNrH4FnUu) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Last Day of Sun](https://open.spotify.com/album/0WGIHvgYm71t9u3sUUKylU) | 3:20 | 2023-11-03 | 2024-02-03 |
 | [Killing Floor](https://open.spotify.com/track/0fX96Ub0Y3u8ThVVF5Ot8J) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Killing Floor](https://open.spotify.com/album/6xj91HWUFxs1KHlNtFBapJ) | 2:53 | 2022-11-18 | 2023-07-15 |
@@ -853,9 +855,11 @@
 | [Save Yourself](https://open.spotify.com/track/5LRSgPo7BKrhIBYrX1mL8z) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:45 | 2024-03-29 | 2025-04-11 |
 | [Say It](https://open.spotify.com/track/2UnuT1Wl1oYQVTulCtII8G) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Say It](https://open.spotify.com/album/5XCCFDHcIswJ3d0vhGeC8g) | 3:35 | 2022-01-07 | 2023-07-15 |
 | [Say It](https://open.spotify.com/track/4UCEwS1cNO5qvEJKTx8tJC) | [Strict](https://open.spotify.com/artist/06beC3T1RvJWUKZAMEMOxa) | [Say It](https://open.spotify.com/album/1ic6F5y9ph8qM4UIYkDq0d) | 2:12 | 2024-11-01 | 2025-04-11 |
+| [Say When](https://open.spotify.com/track/449VbLIfrGbdvfznyFndxj) | [The Tony Danza Tapdance Extravaganza](https://open.spotify.com/artist/5DUbYWy2wL1vifFB8hyO74) | [Say When](https://open.spotify.com/album/218JHtpZ6JkFFc695CfMbv) | 4:10 | 2026-03-06 |  |
 | [Scorpion](https://open.spotify.com/track/2JxlxDssmAHyRigZik38Fy) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [Scorpion](https://open.spotify.com/album/1JxF9qHTv5atiG43b7xkYe) | 3:34 | 2023-06-30 | 2024-02-03 |
 | [Screaming Suicide](https://open.spotify.com/track/6ZCh9hBeFzMIPycRnyPqZT) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Screaming Suicide](https://open.spotify.com/album/5RuyqGjhakCG2teiB6VkaC) | 5:30 | 2023-01-20 | 2024-02-03 |
 | [Searching for Tomorrow](https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Searching for Tomorrow](https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK) | 3:33 | 2024-11-22 | 2025-04-11 |
+| [Seattle Day 2](https://open.spotify.com/track/63lCdejOMonsvTbQDA5rqY) | [GILT](https://open.spotify.com/artist/59nCDPMkSmF4iyBkMwzpzx) | [Seattle Day 2](https://open.spotify.com/album/3XcOgaHSSdub2cYxPpyDjb) | 3:00 | 2026-03-06 |  |
 | [Seeing Red](https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Seeing Red](https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe) | 3:39 | 2023-12-08 | 2024-02-03 |
 | [Self Check\-Out](https://open.spotify.com/track/07NtmrCdDHYhAM57sfRKo2) | [American Nightmare](https://open.spotify.com/artist/5FBzEnwXCKl3GoZCeXGMNy) | [Self Check\-Out](https://open.spotify.com/album/6kbNUX5Xr2pr2FDNFAyKMI) | 1:13 | 2023-01-27 | 2024-02-03 |
 | [SELF DESTRUCTION](https://open.spotify.com/track/4KyGwrCkzTiTlMf6nmjgZS) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [PUREST FORM](https://open.spotify.com/album/1r11KOyGYKxz8kU5LnGkHz) | 2:00 | 2024-03-08 | 2025-04-11 |
@@ -937,6 +941,7 @@
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-10 | 2024-02-03 |
 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 | 2023-07-07 | 2024-02-03 |
 | [Steel Spine](https://open.spotify.com/track/5X1e5ufWieZ1rg2EFDMIwt) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Steel Spine](https://open.spotify.com/album/2VvkI58bYdqyrLwcXyG9PK) | 2:26 | 2024-07-19 | 2025-04-11 |
+| [stelliform](https://open.spotify.com/track/2qDDbYmRMDTSWElnDKsqVa) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [silence outlives the earth](https://open.spotify.com/album/78YcVZNpzM357BBvAOKS6H) | 3:54 | 2026-03-06 |  |
 | [Still Suffer](https://open.spotify.com/track/3LmmBjYGnrWIaHpRyGauAG) | [Terror](https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg) | [Still Suffer](https://open.spotify.com/album/0CF9wC1tCIb89Z63FOZSaG) | 2:24 | 2026-02-27 |  |
 | [Stillpoint](https://open.spotify.com/track/7e7MSmuu0opQe214jZFuix) | [Higher Power](https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT), [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Stillpoint](https://open.spotify.com/album/6HYN0mvt1KfBvMOPJc0DlN) | 3:37 | 2024-06-18 | 2025-04-11 |
 | [Stone Cold \(Feat\. Jonny Hawkins\)](https://open.spotify.com/track/6ivyvIgmSVxTmrG0VtTCc8) | [Doobie](https://open.spotify.com/artist/1p68N0GuFAjR2IusIJWFk7), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN) | [Stone Cold \(Feat\. Jonny Hawkins\)](https://open.spotify.com/album/7qNoMrmecMkSFdIG5hw3E3) | 3:37 | 2025-05-09 |  |
@@ -965,6 +970,7 @@
 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 | 2022-03-11 | 2023-07-15 |
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
 | [Sword](https://open.spotify.com/track/52abQEHHYwE5eGxLG0zcH5) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Sword](https://open.spotify.com/album/0oPDylAtcGw4FPvMcRDse8) | 2:26 | 2025-03-14 |  |
+| [sylvia \(i won't belong to you\)](https://open.spotify.com/track/12e6eEN4wkJdnyQZCwacJ3) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [sylvia \(i won't belong to you\)](https://open.spotify.com/album/3ejlTedzXdJNupdT5945CG) | 4:01 | 2026-03-06 |  |
 | [Symptoms of Survival](https://open.spotify.com/track/5PkH7Lk5kzdPANVtXbJCzE) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Symptoms of Survival](https://open.spotify.com/album/5BO87WU4XaRXEU2Uxrg2le) | 3:31 | 2023-11-03 | 2024-02-03 |
 | [SYNDICATE](https://open.spotify.com/track/4kVfdUnLtghRoSGLe9iTmB) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [SYNDICATE](https://open.spotify.com/album/6RZKpDh8JWuq1vKtltxgs0) | 2:29 | 2024-05-10 | 2025-04-11 |
 | [T.M.T.](https://open.spotify.com/track/7bvXaPBvLWWUUNRQQwL6SJ) | [The S.E.T.](https://open.spotify.com/artist/0Zj0IxZKZQu0Cc0veaM3IK) | [T.M.T.](https://open.spotify.com/album/7EzPANLDyvK9VbgTUDDL9Q) | 1:22 | 2026-01-23 |  |

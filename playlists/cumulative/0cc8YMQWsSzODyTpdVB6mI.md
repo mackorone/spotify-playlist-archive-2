@@ -4,7 +4,7 @@
 
 > Music around the world ✈️
 
-201 songs - 11 hr 47 min
+203 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [94 Euphoria](https://open.spotify.com/track/5SLK98E79isxDBfRF1rUIJ) | [Bulgarian Cartrader](https://open.spotify.com/artist/6lxux8VJXRZ98idfyMzZmx) | [94 Euphoria](https://open.spotify.com/album/3KNksYI5qVkuofQhBNxmw0) | 3:49 | 2022-05-23 | 2022-07-26 |
 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2026-02-19 |  |
 | [AC Press](https://open.spotify.com/track/13rZF5byPbv9PHi8hSpi42) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O) | [AC Press](https://open.spotify.com/album/1TztZFAvUwYjI0EL1OKBL4) | 3:43 | 2022-06-01 | 2022-08-06 |
+| [Acido](https://open.spotify.com/track/7AC11mYcOdZk58gfjGXqj2) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Acido](https://open.spotify.com/album/47Q7qUponqCNN16ivl3w3G) | 5:16 | 2026-03-06 |  |
 | [Alleviate](https://open.spotify.com/track/0PfJOrtdlLh9FuYTvN1DdN) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Alleviate](https://open.spotify.com/album/4XNbVuMQyvKoIq5FRnTrYD) | 3:31 | 2022-08-05 | 2022-11-05 |
 | [AMBIANCE](https://open.spotify.com/track/4NhiYKMp8tiPsb5oYOgLjo) | [FEE](https://open.spotify.com/artist/5D1CTIyRb5B0MLhFV9W0J9), [Zay Doja](https://open.spotify.com/artist/66v9Oo6OWqv7awEVmmQHJK) | [AMBIANCE](https://open.spotify.com/album/2cJm9GOLuDHLLew1pHgeFc) | 3:41 | 2022-07-19 | 2022-10-11 |
 | [Away](https://open.spotify.com/track/3AUVgd5EWkAGDzqrKR36DN) | [Pollena](https://open.spotify.com/artist/6jLF65ZDRDiQCnTvs7O7CF), [Max Wheeler](https://open.spotify.com/artist/3VfVPS04066laDWCxcVe1j) | [Away](https://open.spotify.com/album/0hhqR9E19JXrsqF2EjPUNc) | 3:37 | 2022-12-02 | 2026-02-27 |
@@ -180,6 +181,7 @@
 | [summer on the inside](https://open.spotify.com/track/0IRDLaO3ng5eyl4Po8hZXj) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/1bkPNy0jxEKPG7nSTn5Saa) | 3:25 | 2026-02-19 |  |
 | [Surf You](https://open.spotify.com/track/7iBPGBKUezy2EuH1eA82ut) | [Archil & Leon](https://open.spotify.com/artist/76ptaW1lOTbARlWqFoNJVI) | [Surf You](https://open.spotify.com/album/5qo2UbCeU262V9qWLfjedL) | 3:35 | 2022-05-16 | 2022-07-21 |
 | [Synchronise](https://open.spotify.com/track/6f9XYKnQIkBfar5zfEm5Eu) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Synchronise](https://open.spotify.com/album/1ELHpKQWozs7pR6Y6L4QAA) | 4:47 | 2022-06-10 | 2022-08-25 |
+| [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 | 2026-03-06 |  |
 | [Tambourine \- BVRLY Remix](https://open.spotify.com/track/3h6YpBT1NYdZq0PHWAekke) | [Lil Seyi](https://open.spotify.com/artist/2Z5C4k6StRPuT2ZipvC00O), [BVRLY](https://open.spotify.com/artist/7jVQkSC4lWncicyGQ7kZg6) | [Remixes](https://open.spotify.com/album/3wPNA3kA8jPNLYGaDjPLMa) | 3:32 | 2023-05-30 | 2026-02-27 |
 | [TE NECESITO¡! \(club\)](https://open.spotify.com/track/3kTongg66uYQDvmqViLXad) | [MATVEÏ](https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1), [Melika](https://open.spotify.com/artist/5Om1eyevwmfGPz1PTWn8VK) | [TALES\_FOR\_NIGHTCLUBS \(extended\)](https://open.spotify.com/album/1fwN0p83Sfq9ljvfcYI7Iy) | 3:12 | 2022-04-15 | 2022-06-24 |
 | [Termínelo](https://open.spotify.com/track/3KeHo3x5woeso0oWOIIRGV) | [Ivohé](https://open.spotify.com/artist/1IsGvmgaAR24a2BUJyChhL) | [Termínelo](https://open.spotify.com/album/3Wk9HVRqXZwyCRQ5w45Nha) | 2:18 | 2022-04-18 | 2022-06-28 |

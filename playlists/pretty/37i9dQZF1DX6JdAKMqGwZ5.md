@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: BLAYA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,707 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,766 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 21 | [Lo Que Me Pasa](https://open.spotify.com/track/3GBWdd8w6zqMM6mUsmfcRR) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf), [Albert Cases](https://open.spotify.com/artist/61llloTcQIbaT4ojaBOJbS) | [Lo Que Me Pasa](https://open.spotify.com/album/3bjFlNdShEBcKmQVd7KvZm) | 2:52 |
 | 22 | [Verde](https://open.spotify.com/track/7IIhqZnvWA2drToEC8IpDR) | [Laaza](https://open.spotify.com/artist/7y7gSptY7bTXgQRqFv5xhy), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO) | [Verde](https://open.spotify.com/album/0yooW6UNUKvJfiCRHbHpbR) | 3:34 |
 | 23 | [Mala Mía](https://open.spotify.com/track/4NeYeEIf8pvY69LVUI6H2U) | [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [Mala Mía](https://open.spotify.com/album/1MebE6lk9ARjwoq9JIA2KU) | 4:13 |
-| 24 | [Track 14](https://open.spotify.com/track/7eS7kimtsGeT0MOWmXj4sf) | [Lorea](https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149) | [Miel de mosca](https://open.spotify.com/album/0bdQUKbL7ppJKoeKvrx3U4) | 0:00 |
+| 24 | [Yo en amores soy muy ligera](https://open.spotify.com/track/7eS7kimtsGeT0MOWmXj4sf) | [Lorea](https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149) | [Miel de mosca](https://open.spotify.com/album/0bdQUKbL7ppJKoeKvrx3U4) | 2:43 |
 | 25 | [Soy un avión](https://open.spotify.com/track/0HuMsGcFrztItXtd2YczBE) | [San Tosielo](https://open.spotify.com/artist/1Vp0zKCF6r1aut8Emx7CHH) | [Soy un avión](https://open.spotify.com/album/2XrTvh8wXfdLs2ZaMiuY2k) | 4:08 |
 | 26 | [Estar con una popstar](https://open.spotify.com/track/4SF9Cx69ZzIo4wDtqhzf65) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Algo debe haber para mí](https://open.spotify.com/album/3bGgNUqBCZQniY4qDfwRq5) | 2:35 |
 | 27 | [Un Pañuelo](https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [Un Pañuelo](https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN) | 3:42 |

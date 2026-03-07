@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "yung n dumb",
+        "url": "https://open.spotify.com/album/2WDxxKrZ5ClHGFLdvIrIEj"
+      },
+      "artists": [
+        {
+          "name": "Marc Vinyls",
+          "url": "https://open.spotify.com/artist/1Jj1ewi8O25wqaO3dgM6P8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112940,
+      "name": "yung n dumb",
+      "url": "https://open.spotify.com/track/0Nq9hgrKMmdVdJUQzvj2DK"
+    },
+    {
+      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },

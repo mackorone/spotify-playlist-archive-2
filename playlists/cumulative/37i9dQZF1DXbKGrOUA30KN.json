@@ -3691,6 +3691,24 @@
     },
     {
       "album": {
+        "name": "VIER AUGEN",
+        "url": "https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06"
+      },
+      "artists": [
+        {
+          "name": "HE/RO",
+          "url": "https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138835,
+      "name": "LET IT BE",
+      "url": "https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0"
+    },
+    {
+      "album": {
         "name": "Letzte Liebe",
         "url": "https://open.spotify.com/album/0QXuNVZSPyLRCF9LK5pPBQ"
       },
@@ -4188,8 +4206,8 @@
       },
       "artists": [
         {
-          "name": "Tuana",
-          "url": "https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv"
+          "name": "Tuanelle",
+          "url": "https://open.spotify.com/artist/4gGRWikXqUBItzySh7nOPn"
         }
       ],
       "date_added": "2026-02-12",
@@ -4743,6 +4761,24 @@
     },
     {
       "album": {
+        "name": "LIEDER F\u00dcR DICH",
+        "url": "https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M"
+      },
+      "artists": [
+        {
+          "name": "KAYEF",
+          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "PFLASTER",
+      "url": "https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC"
+    },
+    {
+      "album": {
         "name": "Phase",
         "url": "https://open.spotify.com/album/10tnzSKRUtM0Lpr5U0IsQe"
       },
@@ -5064,6 +5100,24 @@
       "duration_ms": 207410,
       "name": "schlechte tochter",
       "url": "https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo"
+    },
+    {
+      "album": {
+        "name": "baby T EP",
+        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126200,
+      "name": "schwindelig (omgomgomg)",
+      "url": "https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx"
     },
     {
       "album": {
@@ -5432,60 +5486,6 @@
       "duration_ms": 154426,
       "name": "Tot",
       "url": "https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd"
-    },
-    {
-      "album": {
-        "name": "VIER AUGEN",
-        "url": "https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06"
-      },
-      "artists": [
-        {
-          "name": "HE/RO",
-          "url": "https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 12",
-      "url": "https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0"
-    },
-    {
-      "album": {
-        "name": "LIEDER F\u00dcR DICH",
-        "url": "https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M"
-      },
-      "artists": [
-        {
-          "name": "KAYEF",
-          "url": "https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC"
-    },
-    {
-      "album": {
-        "name": "baby T EP",
-        "url": "https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx"
     },
     {
       "album": {

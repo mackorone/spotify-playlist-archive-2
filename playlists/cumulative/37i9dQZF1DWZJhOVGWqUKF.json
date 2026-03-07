@@ -3841,6 +3841,24 @@
     },
     {
       "album": {
+        "name": "Devil's Parade",
+        "url": "https://open.spotify.com/album/5PzNf0Z7RlW3QGMEEkVRLg"
+      },
+      "artists": [
+        {
+          "name": "Saint Chaos",
+          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157727,
+      "name": "Devil's Parade",
+      "url": "https://open.spotify.com/track/35bfMen0lAhDNayRrBTWsB"
+    },
+    {
+      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/5PdzVcmTEKVpm1rqWzIbU8"
       },
@@ -14422,24 +14440,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "Devil's Parade",
-        "url": "https://open.spotify.com/album/5PzNf0Z7RlW3QGMEEkVRLg"
-      },
-      "artists": [
-        {
-          "name": "Saint Chaos",
-          "url": "https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/35bfMen0lAhDNayRrBTWsB"
     },
     {
       "album": {

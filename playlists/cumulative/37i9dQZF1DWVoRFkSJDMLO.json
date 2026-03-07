@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "World music from the continent, to the islands with Sean Paul and Stalk Ashley.",
+  "description": "World music from the continent, to the islands with Ayra Starr.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1566,6 +1566,36 @@
       "duration_ms": 169926,
       "name": "Anansi",
       "url": "https://open.spotify.com/track/3gPG1wuCzgHMHhDRHqG7Ns"
+    },
+    {
+      "album": {
+        "name": "Ancient Seed",
+        "url": "https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Ancient Seed",
+      "url": "https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n"
     },
     {
       "album": {
@@ -6044,7 +6074,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 208484,
       "name": "CHIEF KEEF (feat. Sfera Ebbasta & Skillibeng)",
       "url": "https://open.spotify.com/track/6wp73WIgt66WS4e9PPGSV1"
@@ -13965,6 +13995,32 @@
     },
     {
       "album": {
+        "name": "In The Dance",
+        "url": "https://open.spotify.com/album/5Ip0BKAOmI0bgK3imb1bOD"
+      },
+      "artists": [
+        {
+          "name": "Manga Saint Hilare",
+          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
+        },
+        {
+          "name": "MoreNight",
+          "url": "https://open.spotify.com/artist/20lI1hzkqOx9sBNAyjW54N"
+        },
+        {
+          "name": "Freeza Chin",
+          "url": "https://open.spotify.com/artist/7LMa5Vtsyxt7XO5FzlzxOo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170482,
+      "name": "In The Dance",
+      "url": "https://open.spotify.com/track/7uaBPSGW8Xn9DCzEVAJUES"
+    },
+    {
+      "album": {
         "name": "In The Dark",
         "url": "https://open.spotify.com/album/699GsKyuJ2KyXSmx4mVtNv"
       },
@@ -19258,7 +19314,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157023,
       "name": "MY HEALER",
       "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
@@ -32143,6 +32199,24 @@
     },
     {
       "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "album": {
         "name": "In The Mood",
         "url": "https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0"
       },
@@ -32450,7 +32524,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"

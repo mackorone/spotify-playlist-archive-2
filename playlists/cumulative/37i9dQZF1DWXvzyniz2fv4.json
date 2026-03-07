@@ -764,7 +764,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 281142,
       "name": "Bate A Onda",
       "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2025-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190833,
       "name": "Comemorar?",
       "url": "https://open.spotify.com/track/3WS2dJ222nMJ5YcIYGsA7x"
@@ -4259,6 +4259,32 @@
     },
     {
       "album": {
+        "name": "Pedras no Caminho",
+        "url": "https://open.spotify.com/album/4kuJH4uki3ayfHC9SYRNJB"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Pedras no Caminho",
+      "url": "https://open.spotify.com/track/71b7yoPiWC5fYss6x1fWx7"
+    },
+    {
+      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -4912,6 +4938,32 @@
       "duration_ms": 127794,
       "name": "RASTAFARI",
       "url": "https://open.spotify.com/track/1vK57Ufl3GsX5zrT9ZiRf7"
+    },
+    {
+      "album": {
+        "name": "Ravi",
+        "url": "https://open.spotify.com/album/6cQ9MrRLvyqXj30x3jTctL"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ Gbeats",
+          "url": "https://open.spotify.com/artist/6FP14bsH6aFtDwsiBOBc9B"
+        },
+        {
+          "name": "Bollivia",
+          "url": "https://open.spotify.com/artist/3m6lOMpo95hGM9EEIvCs4z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Ravi",
+      "url": "https://open.spotify.com/track/2MZpemTUrTTyOrX5VIkhix"
     },
     {
       "album": {

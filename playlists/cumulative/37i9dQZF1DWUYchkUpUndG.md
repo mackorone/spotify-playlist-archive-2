@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Sal Ly
 
-7,524 songs - 23 day 1 hr 56 min
+7,526 songs - 23 day 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1221,6 +1221,7 @@
 | [Daar](https://open.spotify.com/track/6uMAbrsmpfFuMYnM7gTUGo) | [André Van Wyngaardt](https://open.spotify.com/artist/37zpTgPGK8vPj3PLrGVmNk) | [Daar](https://open.spotify.com/album/4lyEna8T97dAGhoQinfUlA) | 4:09 | 2024-03-15 | 2024-03-26 |
 | [Daar Is Hoop \- Live](https://open.spotify.com/track/3dWZ0mHqiN5LrfsjwR7yDQ) | [Nuwe Lof](https://open.spotify.com/artist/6CDeMbGPacYljmQ1ry9RET), [Reinhardt Smit](https://open.spotify.com/artist/36nDm3kkUgXNWCRH18Cj9Z) | [Daar Is Hoop \(Live\)](https://open.spotify.com/album/6ao7y5JL4Dex8BMapVmMyD) | 3:55 | 2025-02-07 | 2025-02-15 |
 | [Dada](https://open.spotify.com/track/1vvK2zq6woEywmnRlItEAP) | [Tem\-Pee](https://open.spotify.com/artist/1GhBskMXoupdS2AqTGiKNk), [Realerman](https://open.spotify.com/artist/0ZQxVVl3Rxo2O1Sb26VJ02) | [Dada](https://open.spotify.com/album/4VK4vaBcJE2PTiF0bb1P0O) | 3:10 | 2024-12-13 | 2024-12-27 |
+| [DADA \(Lost For Words\)](https://open.spotify.com/track/2Y3TRSiLS8bZminvW4FUed) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [DADA \(Lost For Words\)](https://open.spotify.com/album/6fZD5esYJk4QkwrwVrjTNF) | 2:33 | 2026-03-06 |  |
 | [Daddy](https://open.spotify.com/track/0Gx0Z3YpTdOnk42rQuyiuN) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6) | [Daddy](https://open.spotify.com/album/07dj6nxbCDKPP9AjjXQ3mb) | 2:41 | 2025-08-08 | 2025-08-22 |
 | [Daddy](https://open.spotify.com/track/628qcrHPXw8BTIrZEYObiY) | [Kinsu](https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh) | [Daddy](https://open.spotify.com/album/47Rd2oNXNr1IprfyG5QoPQ) | 3:06 | 2025-01-31 | 2025-02-07 |
 | [Daddy](https://open.spotify.com/track/6vbJ5IM4aUeoeBE7tUVTO6) | [Nuelzo](https://open.spotify.com/artist/6CPuXxiR9CqQ0d2irmAlnR), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q) | [Daddy](https://open.spotify.com/album/4XbflW1n9R8PT6HiVrf7M5) | 2:24 | 2023-10-27 | 2023-11-10 |
@@ -4190,6 +4191,7 @@
 | [Miracle Season](https://open.spotify.com/track/5IqJ8yatgnsKakT9rDk5Gx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Miracle Season](https://open.spotify.com/album/0G3KmZWweFL5ar1Bjylv8t) | 4:32 | 2025-07-04 | 2025-07-18 |
 | [Miracle Walking \- Live](https://open.spotify.com/track/3ChV9SY5hdcNOAbvwVBUGs) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Miracle Walking \(Live\)](https://open.spotify.com/album/536KgvRn6R6OMQoK3Z4DCq) | 9:06 | 2026-02-13 | 2026-02-27 |
 | [Miracle Worker](https://open.spotify.com/track/5nBCcwAYV5kp9Xv2zojBKK) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Miracle Worker](https://open.spotify.com/album/1Pb22dDOEVVhnf6NakfaDx) | 2:29 | 2025-07-11 | 2025-07-25 |
+| [MIRACLE WORKER](https://open.spotify.com/track/5qKMC4NDcCxWBP1KjmxZnO) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [OPHANIM](https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5) | 3:47 | 2026-03-06 |  |
 | [Miracle Working God](https://open.spotify.com/track/0SR8QpJeSdvSHQo5rNd04Q) | [JESSE PRATT](https://open.spotify.com/artist/2UIrBWP9lEJGdMpxYEAwEl) | [Miracle Working God](https://open.spotify.com/album/4vG9oyHherK4ngLxOnVHVo) | 5:49 | 2024-08-16 | 2024-08-23 |
 | [Miracle working God](https://open.spotify.com/track/0zVNqjnVU7RDwsiTxLylkv) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Miracle working God](https://open.spotify.com/album/6zI0XFXCIYIpVbcmWpWHLh) | 3:48 | 2024-08-09 | 2024-08-23 |
 | [MIRACLE WORKING GOD](https://open.spotify.com/track/2slvCjyWLS0b5rXqCMkWEo) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [MINISTER PRUDENCE](https://open.spotify.com/artist/1FoLyWBxydEq8sFPtL8ZRi) | [SOUNDS FROM THE DEEP](https://open.spotify.com/album/1rTLX5Je4G78ese0lm8NEZ) | 3:43 | 2025-04-11 | 2025-04-18 |

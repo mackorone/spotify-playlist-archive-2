@@ -621,6 +621,32 @@
     },
     {
       "album": {
+        "name": "Treasures of English Church Music",
+        "url": "https://open.spotify.com/album/36HxD0mMGqPaxx4h9YvnAS"
+      },
+      "artists": [
+        {
+          "name": "Richard Farrant",
+          "url": "https://open.spotify.com/artist/2445lVDTZLpMKPINeQ25LE"
+        },
+        {
+          "name": "The Cambridge Singers",
+          "url": "https://open.spotify.com/artist/0daVGEYMVnQZ3NZIpIuFWn"
+        },
+        {
+          "name": "John Rutter",
+          "url": "https://open.spotify.com/artist/0qlhpgr87PEG89Jd5iRpxe"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80840,
+      "name": "Hide Not Thou Thy Face From Us, O Lord",
+      "url": "https://open.spotify.com/track/0j6IYsUKjKVj3X1mogIRDB"
+    },
+    {
+      "album": {
         "name": "Faire Is the Heaven: Music Of the English Church",
         "url": "https://open.spotify.com/album/6QLH81woQQHSMppURzDs7W"
       },
@@ -748,7 +774,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 116093,
       "name": "Jesu dulcis memoria",
       "url": "https://open.spotify.com/track/2uBGuyW7hmrwZNNTMFFhDS"

@@ -4,7 +4,7 @@
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-80 songs - 5 hr 37 min
+81 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Llama Por Favor \- Live At Palacio De Los Deportes, México/2011](https://open.spotify.com/track/7wX3d2vKDMRxS1jyEdYlvK) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO), [Moderatto](https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg) | [Alejandra Guzmán 20 Años De Éxitos En Vivo Con Moderatto](https://open.spotify.com/album/4ooEw3Yx5o1v96xxnpRdVn) | 5:40 | 2024-03-12 | 2024-06-08 |
 | [Lo Aprendí de Ti \- HA\-ASH Primera Fila \- Hecho Realidad \[En Vivo\]](https://open.spotify.com/track/3xrpI0GqWNMjMDOdXUOnK3) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [HA\-ASH Primera Fila \- Hecho Realidad](https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM) | 3:17 | 2023-08-11 |  |
 | [Loca \- En Vivo En River Plate](https://open.spotify.com/track/1FE0ntxkphStccYenFcGoj) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Loca](https://open.spotify.com/album/0uADQqOUgKiWAMqkvXZNCq) | 3:53 | 2024-08-01 |  |
-| [María \(with Natalia Lafourcade\) \- Directo Primera Fila](https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:01 | 2023-08-11 |  |
+| [María \(with Natalia Lafourcade\) \- Directo Primera Fila](https://open.spotify.com/track/0xiI5ZeP6mUbem9onslgtK) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Primera Fila](https://open.spotify.com/album/7pC1BMjl8x5Yr60xX2tyZh) | 4:01 | 2023-08-11 | 2026-03-07 |
 | [Mi Credo](https://open.spotify.com/track/5k057RF9fQMimy59dS0pYJ) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 6:02 | 2023-08-11 | 2023-12-21 |
 | [Mi Credo \(En Vivo\)](https://open.spotify.com/track/2K5XrnXHgV7r71gbQjxoUo) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 6:02 | 2023-08-11 | 2024-04-19 |
 | [Mi Peor Error \- Primera Fila \[En Vivo\]](https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán en Primera Fila](https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6) | 4:05 | 2023-08-11 |  |
@@ -75,6 +75,7 @@
 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 | 2023-08-11 |  |
 | [Te Equivocaste \(Primera Fila\) \(feat\. Malú\) \- En Vivo](https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Primera Fila \(En Vivo\)](https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG) | 4:06 | 2023-08-11 | 2025-04-26 |
 | [Te He Prometido \(feat\. Ricardo Montaner\) \- En Vivo](https://open.spotify.com/track/6LYOEpZALvazO2nUPwJatS) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:10 | 2023-08-11 |  |
+| [Te Pido \- Live](https://open.spotify.com/track/1H5crwO6VY8nGJbHGUcKD6) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maxi Espindola](https://open.spotify.com/artist/4Obfe35qOZ6JZmezYo8K0v) | [Te Pido \(Live\)](https://open.spotify.com/album/7nFswoVh8Wd7czV2IvqPzc) | 3:12 | 2026-03-06 |  |
 | [Te Pienso Sin Querer \(feat\. Gloria Trevi\) \- Vuelve en Primera Fila \- Live Version](https://open.spotify.com/track/2s1biIrO5DCMrqw3RoidGO) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Franco De Vita Vuelve en Primera Fila](https://open.spotify.com/album/2KwMBLrvM82Kxm18H5bxdw) | 4:10 | 2023-08-11 |  |
 | [Te Quiero Tanto, Tanto \- En Vivo](https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [OV7 Primera Fila](https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa) | 4:28 | 2023-08-11 | 2025-03-15 |
 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/1lAFWiaVhJhvQ5Gtzp6vSu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [En Vivo](https://open.spotify.com/album/6zGGjiyCeY36tgNrxsFrK9) | 4:02 | 2023-08-11 |  |

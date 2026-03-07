@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-374 songs - 1 day 10 hr 34 min
+377 songs - 1 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Echodeltaalfaxray \- AKA AKA Remix](https://open.spotify.com/track/5OmDWhyNKMjew4AXxs9QwD) | [Der Dritte Raum](https://open.spotify.com/artist/5RZGHff3PE1rPUKOpDIqaO), [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72) | [Echodeltaalfaxray](https://open.spotify.com/album/2U2sD0FAmRORmxhmJBDSJB) | 5:34 | 2022-12-16 | 2024-01-27 |
 | [Ego Rave B](https://open.spotify.com/track/1PhMiQKoYQr0jX0XZbh3sb) | [Deetron](https://open.spotify.com/artist/0d4nL4lAEkHJIqLZSHBuav) | [Ego Rave](https://open.spotify.com/album/1FZjqtGarKJCB38L042Vdw) | 6:42 | 2022-09-16 | 2023-05-03 |
 | [Electro Chemical Mind](https://open.spotify.com/track/01W3qXxnLN6kTH5YcCST1i) | [Breitenstein](https://open.spotify.com/artist/1ksDKTQ1DzaLdpVeM6bZcs) | [Electro Chemical Mind](https://open.spotify.com/album/7rBzbXM2aD8veaxD0yXf1p) | 5:04 | 2023-01-20 | 2024-06-11 |
+| [Engine](https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Engine](https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx) | 8:00 | 2026-03-06 |  |
 | [Enjoy Yourself](https://open.spotify.com/track/0CRJG06feSIhls8hfPZgCd) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 7:05 | 2024-05-10 | 2024-07-27 |
 | [Escape](https://open.spotify.com/track/2LTmm5xRkc9nn84QgJgjHU) | [Erly Tepshi](https://open.spotify.com/artist/3p4rWxMeVAsWCHG8F0HyRj) | [Unica](https://open.spotify.com/album/2k57CNwLoKbtycIR2x4w3s) | 6:29 | 2025-06-27 |  |
 | [Euphoria](https://open.spotify.com/track/4HM6sm5QAAUYzAyB1SEzDE) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/5rGYIvW4LFeBonvZQBxPvi) | 3:21 | 2023-02-10 | 2023-03-04 |
@@ -205,6 +206,7 @@
 | [Lost In Complexity \- Edit](https://open.spotify.com/track/5XkCL9BU3CzHdf4e3kJX7V) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [ILAYO](https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR) | [Lost In Complexity \(Edit\) + Remixes](https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC) | 4:14 | 2023-10-06 | 2023-10-28 |
 | [Lost In Complexity \- Nusha Remix](https://open.spotify.com/track/627lNP3VLOIz68JigQiS9u) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [ILAYO](https://open.spotify.com/artist/2Wzl6ov46GbQTZHUpy23iR), [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [Lost In Complexity \(Edit\) + Remixes](https://open.spotify.com/album/1C1pAoJA45saJXg3HZfBXC) | 6:32 | 2023-10-06 | 2024-06-29 |
 | [Lost in the Labyrinth](https://open.spotify.com/track/44fLHRYTOm2GBUXTbiNHVM) | [Prevision](https://open.spotify.com/artist/4k96Bq31oEcNXkeT6OOEYs) | [Lost in the Labyrinth](https://open.spotify.com/album/1dD5PvJl63IaMYXipKVZWA) | 7:03 | 2025-01-24 | 2025-06-28 |
+| [Loud Music \- Club Mix](https://open.spotify.com/track/1JwHKVqIjTUF3uERfVCNIq) | [Eric Wishes](https://open.spotify.com/artist/5dGWriwUqrYL96UnZ2FPHp), [Stefan Hollaender](https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI) | [Loud Music](https://open.spotify.com/album/5rircDPYgvidUixZCjK0KT) | 3:38 | 2026-03-06 |  |
 | [Love And Forgive](https://open.spotify.com/track/6Qy9lpJM7rvPJ6edx9gYbI) | [The Timewriter](https://open.spotify.com/artist/4aBd3jIK7ZGYMzV8CkL6rr) | [Love And Forgive](https://open.spotify.com/album/03SCD6AOiVJEeA6GkvfY2N) | 4:50 | 2022-09-16 | 2022-12-10 |
 | [Love Beats](https://open.spotify.com/track/0zfu5E1Iz3BrzHewwbcDRu) | [Tony Senghore](https://open.spotify.com/artist/5ZK1SZxMVlg0vKMmBOTbIw) | [Lovepack One](https://open.spotify.com/album/14RX2tQt9pqiRDJ163hCnj) | 4:21 | 2023-05-19 | 2023-12-09 |
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-09-16 | 2022-09-24 |
@@ -363,6 +365,7 @@
 | [Voices](https://open.spotify.com/track/1FwFv6kS81a4lsx9tJD2hE) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Voices](https://open.spotify.com/album/4REOwk3rHoHIETrGt1m1YX) | 4:54 | 2023-10-06 | 2023-12-09 |
 | [Voices \(feat\. Dan Diamond\)](https://open.spotify.com/track/1rzg4NUtl1hbo08uqWtAO4) | [Carlo Reutz](https://open.spotify.com/artist/58zpCe706KHkMTIGCC4HSq), [Dan Diamond](https://open.spotify.com/artist/2MXl3PpdGGUqQNgfboIImS) | [Global Underground: Select \#6 \(Unmixed\)](https://open.spotify.com/album/73RcWGhmonTvHLdN5iuVwn) | 7:19 | 2022-09-16 | 2023-02-11 |
 | [Voices of Caladan](https://open.spotify.com/track/7fW4t2EhyPSqxyYYfcVC2V) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt) | [Voices of Caladan](https://open.spotify.com/album/0FtwDzvr0hCwR88BZ8lN2o) | 4:30 | 2024-12-17 | 2025-05-30 |
+| [Wait A Minute](https://open.spotify.com/track/2y1G8H9dm0vrsEExAFVklj) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Wait A Minute](https://open.spotify.com/album/6TFEuSiVIP6kVbUtPKmkNI) | 4:23 | 2026-03-06 |  |
 | [We Begin](https://open.spotify.com/track/2M5L3hRA23q2eQXgAqTNcW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [We Begin](https://open.spotify.com/album/0lXCiIEET1JsMzGDaOcJAS) | 3:44 | 2025-06-20 | 2025-12-23 |
 | [Welcome To The Discotheque \- Si Begg Total Fusion Remix](https://open.spotify.com/track/6uA4gn96bLNgFfmm6cvG6G) | [Si Begg](https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII) | [Welcome To The Discotheque 2024](https://open.spotify.com/album/4tRr5qdrbGk8kCsAWAJQnT) | 5:11 | 2024-11-08 | 2025-05-30 |
 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 | 2022-12-09 | 2023-02-04 |

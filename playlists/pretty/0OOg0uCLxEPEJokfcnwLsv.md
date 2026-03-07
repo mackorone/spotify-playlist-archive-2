@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 760 likes - 61 songs - 3 hr 51 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 761 likes - 62 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 59 | [Devil Begone](https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Devil Begone](https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s) | 4:39 |
 | 60 | [No puedes saber](https://open.spotify.com/track/38PUgH2fdebmRiXGbrrHt3) | [Decode](https://open.spotify.com/artist/4LveHUW9mrBnEh7xARbo3r) | [No puedes saber](https://open.spotify.com/album/2V9ECtvzI8NCv4fWOEEWWf) | 4:57 |
 | 61 | [Solitario](https://open.spotify.com/track/5ASTeFNSL8IqOU165b9pRF) | [Hot Dog](https://open.spotify.com/artist/7zqoqGmLGianOlJo47jQ1f) | [Ardiente \(EP\)](https://open.spotify.com/album/7vDeWBbCQIqssX6YPbKLuy) | 4:34 |
+| 62 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 |
 
-Snapshot ID: `AAAFO0NN8DSGCrhfEZpeQDG1rR2WhQAO`
+Snapshot ID: `AAAFPPG0MoB13eFXYht9HFO5TH1aUaph`

@@ -1,6 +1,6 @@
 {
   "description": "Kick nostalgia up a notch with these throwback bangers. ",
-  "num_followers": 77460,
+  "num_followers": 77505,
   "original_name": "Rewind: Naija Hits",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,22 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
+        "name": "Aboki",
+        "url": "https://open.spotify.com/album/1alweGRwffgnQuovKvYOe1"
+      },
+      "artists": [
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        }
+      ],
+      "duration_ms": 220760,
+      "name": "Aboki",
+      "url": "https://open.spotify.com/track/0JbBVIBfhayLLsKG6pTJ06"
+    },
+    {
+      "added_at": "2025-08-26 11:12:59",
+      "album": {
         "name": "Sugarcane",
         "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 182857,
       "name": "Ma Lo",
       "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
-    },
-    {
-      "added_at": "2025-08-26 11:12:59",
-      "album": {
-        "name": "Aboki",
-        "url": "https://open.spotify.com/album/1alweGRwffgnQuovKvYOe1"
-      },
-      "artists": [
-        {
-          "name": "Ice Prince",
-          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
-        }
-      ],
-      "duration_ms": 220760,
-      "name": "Aboki",
-      "url": "https://open.spotify.com/track/0JbBVIBfhayLLsKG6pTJ06"
     },
     {
       "added_at": "2025-08-26 11:12:59",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-08-26 11:12:59",
       "album": {
-        "name": "Face 2 Face 10.0",
-        "url": "https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF"
+        "name": "Everybody Loves Ice Prince",
+        "url": "https://open.spotify.com/album/35IQekv12aRfdoWjonmwWi"
       },
       "artists": [
         {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
         }
       ],
-      "duration_ms": 260986,
-      "name": "African Queen - Remastered Version",
-      "url": "https://open.spotify.com/track/5WrrKyhWgHbqelmd2ENpSf"
+      "duration_ms": 255976,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/1peZOCos8iTHCMSeEkzkDB"
     }
   ],
   "unique_name": "Rewind: Naija Hits",

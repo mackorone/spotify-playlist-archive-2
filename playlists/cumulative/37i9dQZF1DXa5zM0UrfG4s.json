@@ -4315,6 +4315,32 @@
     },
     {
       "album": {
+        "name": "I natt",
+        "url": "https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150481,
+      "name": "I natt",
+      "url": "https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2"
+    },
+    {
+      "album": {
         "name": "Ikv\u00e4ll Igen",
         "url": "https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32"
       },
@@ -8334,7 +8360,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 140240,
       "name": "Vi trenger ikke preke om det",
       "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"

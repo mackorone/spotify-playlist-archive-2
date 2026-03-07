@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-259 songs - 16 hr 11 min
+260 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Holding Pattern](https://open.spotify.com/track/29MlUsEsDHZ1vIv7I41UVq) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Celebrants](https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq) | 3:05 | 2023-09-29 | 2024-04-19 |
 | [Holding Pattern](https://open.spotify.com/track/5rR0Xg7Jn31EqbdueZYS3h) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Holding Pattern](https://open.spotify.com/album/54yXHow53RS0QZJWWjU38r) | 3:05 | 2023-03-24 | 2026-02-21 |
 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 | 2022-05-16 |  |
-| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-11-19 |  |
+| [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-11-19 | 2026-03-07 |
 | [How It Ends](https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:19 | 2023-12-08 | 2024-04-19 |
 | [How It Ends](https://open.spotify.com/track/20EzOEcvFcUi5xvGerRRbE) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:19 | 2022-05-16 | 2026-02-21 |
 | [Hurts so Good](https://open.spotify.com/track/0pERFI5FC1bCTH0n6EvyWo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:55 | 2023-08-11 | 2024-04-19 |
@@ -242,6 +242,7 @@
 | [Uphill](https://open.spotify.com/track/3veerjbMOXcQgwWGk25rvp) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/1qjxKYNBHnir7rx2QMYMaZ) | 3:01 | 2021-11-19 | 2026-02-21 |
 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 | 2021-11-19 |  |
 | [Wake Me When It's Over](https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Wake Me When It's Over](https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz) | 4:18 | 2023-04-28 |  |
+| [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 | 2026-03-06 |  |
 | [War With My Mind](https://open.spotify.com/track/6dV5ohVw7jYD7ZeMsSz15j) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [War With My Mind](https://open.spotify.com/album/3Gf11NuU7KYiVZJ2Cn7UcQ) | 4:04 | 2021-11-19 |  |
 | [We're All in This Together Now](https://open.spotify.com/track/7DPcXtOGL9yzR9KsoUlKqU) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All in This Together Now](https://open.spotify.com/album/7L3P1iEoljsP34W4rCocbY) | 4:02 | 2021-11-19 | 2026-02-21 |
 | [We're All In This Together Now \(feat\. Rosanne Cash\)](https://open.spotify.com/track/4ncV3yQ55Kw7Gi4C4xxhMX) | [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb), [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [We're All In This Together Now](https://open.spotify.com/album/0eZAwdZNdsuniGk7hkyFEB) | 4:02 | 2022-05-16 | 2024-04-19 |

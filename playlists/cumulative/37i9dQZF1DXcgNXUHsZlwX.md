@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. ❄️
 
-566 songs - 1 day 9 hr 47 min
+568 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [fin pm](https://open.spotify.com/track/5RfuZ5YOvLicj7LbKs0NPl) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/5aQA5dQiOjahrXv7M9W3xv) | 3:11 | 2026-01-30 |  |
 | [Flash in the Pan](https://open.spotify.com/track/0uY0U9VPR26rHcYf3oyZK0) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Eleven Songs](https://open.spotify.com/album/77m8od7UnE2rznmbLzpp76) | 2:49 | 2021-10-03 |  |
 | [FLATTE!](https://open.spotify.com/track/0q9SpxJXi5uLhxKQNsJflG) | [Fred Tremblay](https://open.spotify.com/artist/4MpruP4drFjBWNU64Ipd6n) | [Au pire, j'vendrai du gaz...](https://open.spotify.com/album/5LFv3Rp4aBp2WQbtJzBlDa) | 3:07 | 2021-02-23 | 2021-05-27 |
+| [Flavie s'en va](https://open.spotify.com/track/7McJTrpBlAvRKgwEl4teap) | [Yasmina Léveillé](https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui) | [Entre Beyrouth et Lévis](https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h) | 3:32 | 2026-03-06 |  |
 | [Fontaine à vœux](https://open.spotify.com/track/22zJbNjvH4ZFplXfypE9Yo) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19) | 3:30 | 2022-07-08 | 2023-09-16 |
 | [Fontaine à vœux](https://open.spotify.com/track/4S9LrQt71r4XcUQylmgyGM) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Boîte aux lettres](https://open.spotify.com/album/0vl6hSJqFCkUPeE0FNvf6e) | 3:30 | 2021-01-03\* | 2022-07-29 |
 | [For The Breakdowns](https://open.spotify.com/track/2fN3mTftR80HwV5r79rq10) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [For the Breakdowns](https://open.spotify.com/album/5yoqFxiDljDVn70lVn1Sd2) | 3:04 | 2022-09-16 | 2023-02-12 |
@@ -507,6 +508,7 @@
 | [Ton vieux nom](https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [The Ballad of the Runaway Girl](https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU) | 4:41 | 2021-01-15 | 2023-04-29 |
 | [Ton équilibre](https://open.spotify.com/track/1PktdmpT9r2gAOQtASLK4z) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Les choses extérieures](https://open.spotify.com/album/3RLBT6Do3B4ZbX5eJBdCH0) | 3:50 | 2022-07-08 | 2024-04-19 |
 | [Ton équilibre](https://open.spotify.com/track/2Y10L0A6jX0JmWzYZ4oU2L) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Ton équilibre](https://open.spotify.com/album/3hi8B3keG1GVEzdkKVKVyD) | 3:50 | 2021-01-15 | 2022-07-29 |
+| [Too Far to Run](https://open.spotify.com/track/1469IXFAtWFkL11GREMfKD) | [Daniel Isaiah](https://open.spotify.com/artist/4aDuNE6LWkaBuXT43fA4P6) | [Too Far to Run](https://open.spotify.com/album/4U014bkh4YKajHqOLlRtlL) | 3:02 | 2026-03-06 |  |
 | [Tous les chemins / Darl Bundren](https://open.spotify.com/track/6IRdDBcQLbaCkRnbllf2x1) | [Hôtel Invisible](https://open.spotify.com/artist/7f7YYtcRIuuRYU6KOjxBZD) | [Le Théâtre Zéro](https://open.spotify.com/album/2BCLDUi2WK0GKmJwsr3R6Z) | 3:42 | 2021-04-19 | 2021-05-28 |
 | [Tout ce qu'il faut](https://open.spotify.com/track/390ZAYNYk1BcfKljH81feS) | [Félix Lemelin](https://open.spotify.com/artist/5AV5KFAMnP1PcDCZaQKiBY) | [Seul à la fin](https://open.spotify.com/album/49T2GUj3Yt681hTLnLSK0G) | 3:17 | 2022-04-08 | 2022-04-20 |
 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2025-10-18 |
@@ -522,7 +524,7 @@
 | [Uh Oh](https://open.spotify.com/track/4goLYQrqyQ5vNANg88gwrK) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Uh Oh](https://open.spotify.com/album/3QUfCdvvPLOflf0OHsBYL0) | 3:48 | 2025-10-02 |  |
 | [Un chant d'amour](https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [Un chant d'amour](https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T) | 3:41 | 2025-10-17 |  |
 | [Un peu de magie](https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz) | [Philippe Brach](https://open.spotify.com/artist/1ZyKRTkzuio6OSVVGeVgQt) | [Les gens qu'on aime](https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9) | 3:02 | 2023-03-31 | 2023-10-11 |
-| [Un réveil](https://open.spotify.com/track/64UM1r9WN1VoVKeMDitUrr) | [Simon Boisseau](https://open.spotify.com/artist/7yuhTKqvg8STJhzxzHVKTJ) | [Un réveil](https://open.spotify.com/album/1loyRDHjtV77N1zcaLgMkQ) | 3:24 | 2026-01-30 |  |
+| [Un réveil](https://open.spotify.com/track/64UM1r9WN1VoVKeMDitUrr) | [Simon Boisseau](https://open.spotify.com/artist/7yuhTKqvg8STJhzxzHVKTJ) | [Un réveil](https://open.spotify.com/album/1loyRDHjtV77N1zcaLgMkQ) | 3:24 | 2026-01-30 | 2026-03-07 |
 | [Un rêve](https://open.spotify.com/track/0y8j2uk4HhhbcQKHy6feeE) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Un rêve](https://open.spotify.com/album/5ZJuJVEBM397cCYUpRfcb8) | 3:11 | 2025-06-13 | 2026-01-31 |
 | [Understand It](https://open.spotify.com/track/1j3RlvCYzUnWxWQozjEzTh) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:40 | 2022-07-08 | 2024-04-19 |
 | [Understand It](https://open.spotify.com/track/2RubaaZsnVHTz8dcZVJq4z) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:40 | 2021-10-02 | 2022-07-29 |
@@ -569,7 +571,7 @@
 | [À travers mes yeux](https://open.spotify.com/track/6IaStSELLqTeLEdl7RPqQZ) | [Geneviève et Alain](https://open.spotify.com/artist/6coTzew0su1zZilZlwA7vX) | [À travers mes yeux](https://open.spotify.com/album/1qx0TPUcHXP5da8FQK5OFh) | 3:24 | 2021-05-04 | 2022-07-29 |
 | [Âme de la rive](https://open.spotify.com/track/0f9QxSOCd537v0z4rFyHr8) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Âme de la rive](https://open.spotify.com/album/0mt9m7lsDx6M6LQEHub1Ud) | 3:27 | 2022-03-25 | 2022-07-29 |
 | [Éclatant](https://open.spotify.com/track/6NbzU506ERsESkya4sLEsf) | [Valérie de l'Est](https://open.spotify.com/artist/7szs7nSft7NHNUN1HmDxiz) | [Éclatant](https://open.spotify.com/album/620muQH916ETrKhCBdOUSP) | 3:05 | 2021-01-03\* | 2021-01-15 |
-| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 |  |
+| [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 | 2021-05-30 | 2026-03-07 |
 | [Écoute ma belle](https://open.spotify.com/track/4LTKSuFur0BIYhKRKUf5Eu) | [BronKo](https://open.spotify.com/artist/2JTDfR1rOVr8DO2EEO0SRs) | [Accroche\-toi](https://open.spotify.com/album/0xfoWauBjCYxWkaK8bIhk0) | 4:00 | 2021-01-15 | 2021-10-03 |
 | [Élégie](https://open.spotify.com/track/5C8JUfpCwJQRrDRQhs1opi) | [Arielle Soucy](https://open.spotify.com/artist/6xeAWvZ8hB33vfmGeyLPoG) | [Il n'y a rien que je ne suis pas](https://open.spotify.com/album/7yn7BiFIFfeTwf5V42Eu6S) | 3:18 | 2023-10-20 | 2023-11-11 |
 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 | 2025-11-14 |  |

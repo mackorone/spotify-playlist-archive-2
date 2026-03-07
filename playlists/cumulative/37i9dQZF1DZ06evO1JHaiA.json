@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 198026,
       "name": "Lonely Lonely",
       "url": "https://open.spotify.com/track/0RgjRcULI5LVchDNASRzEK"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2022-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 193136,
       "name": "One In a Million",
       "url": "https://open.spotify.com/track/5d8L74OY8ckIWzDL30RtHV"
@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 257333,
       "name": "Only One",
       "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"
@@ -1459,6 +1459,24 @@
     },
     {
       "album": {
+        "name": "\u30b6\u30fb\u30a4\u30f3\u30c8\u30a5\u30eb\u30fc\u30c0\u30fc\u30ba\u30fb\u30a2\u30fc\u30fb\u30c8\u30a5\u30b2\u30b6\u30fc",
+        "url": "https://open.spotify.com/album/5OcIlk2jXD9ikgWwlmMqsa"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "UP AND DOWN THE LADDER",
+      "url": "https://open.spotify.com/track/5Vzh8lGP4ITZZxkbanp6Bh"
+    },
+    {
+      "album": {
         "name": "Energy of Love",
         "url": "https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5"
       },
@@ -1470,7 +1488,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 197026,
       "name": "What's Easy for Two Is so Hard for One",
       "url": "https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC"

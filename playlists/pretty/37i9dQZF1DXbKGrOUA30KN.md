@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Sarah Connor, Sido
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,262 likes - 80 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,257 likes - 80 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Interstellar \(Zwischen den Sternen\)](https://open.spotify.com/track/5PQUtofqhSPbfsC3Mi4YtS) | [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Freigeistin \(Special Deluxe Edition\)](https://open.spotify.com/album/1ByHcDp8XP4924mNwGeBdY) | 2:28 |
 | 2 | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/track/2WaGqcbTEIiM8QPHPmqclR) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0) | [Weißt du überhaupt noch wer ich bin?](https://open.spotify.com/album/1cuITNhAFG8ycP1y2QnXh9) | 2:08 |
 | 3 | [BIS WIR ALT SIND](https://open.spotify.com/track/5LR51Zn4yKXA1ogGZnfLEM) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [BIS WIR ALT SIND](https://open.spotify.com/album/2gFwk2YBAnZQSNd2wmnvHV) | 2:34 |
-| 4 | [Track 6](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 0:00 |
+| 4 | [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 |
 | 5 | [Das Leben](https://open.spotify.com/track/4uCExAnSFZqLYiKTdcr83M) | [Jonny Mahoro](https://open.spotify.com/artist/6yo5P4iDSOU6JnCRGJfU98) | [Das Leben](https://open.spotify.com/album/16ltJ4OtzrxT7BX2yoA7Uz) | 2:19 |
 | 6 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 |
 | 7 | [Fast vergessen](https://open.spotify.com/track/0rnU64SEFpchNbDFlghgqu) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Fast vergessen](https://open.spotify.com/album/17gOHh7o2n0breRqHXvcAT) | 2:37 |
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 16 | [Boomboompow](https://open.spotify.com/track/4hsteXGiwcwhsTkTlxiPzD) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Boomboompow](https://open.spotify.com/album/5LiEuvLimiwoQrIIzeQMYH) | 2:37 |
 | 17 | [irgendwann](https://open.spotify.com/track/0K6ovr0D8RzwNnhGs03hzr) | [Mika Noé](https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9) | [irgendwann...](https://open.spotify.com/album/2kxlxuyFGP3Z0ykFUwVfit) | 2:40 |
 | 18 | [WAS ICH BIN](https://open.spotify.com/track/7syy0KIJDEXson69rGXK35) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [WAS ICH BIN](https://open.spotify.com/album/2eqpPfHpit3GmkMsbUHujt) | 2:09 |
-| 19 | [Track 12](https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [VIER AUGEN](https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06) | 0:00 |
+| 19 | [LET IT BE](https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [VIER AUGEN](https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06) | 2:18 |
 | 20 | [Ballade](https://open.spotify.com/track/09Vs37o0Zg2gY2n7UqRRRi) | [CCOSMO](https://open.spotify.com/artist/0DFSWsBGwp4kqEKvU9Akj4) | [Ballade](https://open.spotify.com/album/5symCvNqJGPymGLo3gWnLR) | 3:01 |
 | 21 | [Niemand ist wie du](https://open.spotify.com/track/5pUHH09wavdCzEEQaFxx5Y) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Niemand ist wie du](https://open.spotify.com/album/10Vaf4MwKnRAmFAZCcBice) | 2:23 |
-| 22 | [Track 2](https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [LIEDER FÜR DICH](https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M) | 0:00 |
+| 22 | [PFLASTER](https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [LIEDER FÜR DICH](https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M) | 2:15 |
 | 23 | [Blaue Flecken](https://open.spotify.com/track/6wrVi0us10v6f5ZBtLLoyX) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq) | [Blaue Flecken](https://open.spotify.com/album/67UTVVvNulF2gfV1oo0o5Q) | 2:41 |
 | 24 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 |
 | 25 | [Stolz auf Dich](https://open.spotify.com/track/31h7fYk6L6NnPQTZPUqemN) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Stolz auf Dich](https://open.spotify.com/album/3zqjNnfFcg6pdGv2Lvb1Ez) | 2:31 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 56 | [Immer Nur An Dich](https://open.spotify.com/track/0P09fm8FrVraMoJ3beXoEk) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Immer Nur An Dich](https://open.spotify.com/album/0zRP13ekW4PETWa0xL2iBC) | 1:57 |
 | 57 | [Drunk in Love](https://open.spotify.com/track/7MMIqKbRvpFSfF3WaJ7IdW) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Drunk in Love](https://open.spotify.com/album/5j8myFVGmuDLHHVNGamVer) | 2:44 |
 | 58 | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/track/4T3QpM4OS10if1WkHBfbgE) | [Baumgart](https://open.spotify.com/artist/0246ulS40LyInkc84zSYcO) | [Der schlimmste Ort ist in mir drin](https://open.spotify.com/album/2GjplfLq8EecTxuHL1Gdid) | 3:18 |
-| 59 | [Nasser Asphalt](https://open.spotify.com/track/6UZhlIQvEUaCuonBy1Nqbh) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Nasser Asphalt](https://open.spotify.com/album/2lOqQM0TNxtwuP3PMNJvP9) | 3:15 |
+| 59 | [Nasser Asphalt](https://open.spotify.com/track/6UZhlIQvEUaCuonBy1Nqbh) | [Tuanelle](https://open.spotify.com/artist/4gGRWikXqUBItzySh7nOPn) | [Nasser Asphalt](https://open.spotify.com/album/2lOqQM0TNxtwuP3PMNJvP9) | 3:15 |
 | 60 | [Liebe auf den letzten Blick](https://open.spotify.com/track/0bDS2pqRkirPh3EkuospR5) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Deja Vu 1/2](https://open.spotify.com/album/2IT793UDPbkvmG7iDAAjmO) | 3:05 |
 | 61 | [aurelian](https://open.spotify.com/track/0Tma31IJTrFwQfSlz79taX) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [aurelian](https://open.spotify.com/album/4zHn1HRugSbGNI72BjbXIa) | 2:23 |
 | 62 | [Renn!](https://open.spotify.com/track/3uKAPZDXq6yE8Zqfhjbpp6) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [Renn!](https://open.spotify.com/album/6Kb7RsCVhNArBtaJkLOflg) | 2:46 |

@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 173920,
       "name": "Female Energy, Part 2",
       "url": "https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5"
@@ -1508,7 +1508,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 244412,
       "name": "Honest Man",
       "url": "https://open.spotify.com/track/5aXZpsS16SJ1pVwgGJ8KPV"
@@ -1652,7 +1652,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156819,
       "name": "Hush \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP"
@@ -1839,6 +1839,24 @@
     },
     {
       "album": {
+        "name": "Lady Love",
+        "url": "https://open.spotify.com/album/5KtS6O5ZINVqrxbVAUHSAx"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193236,
+      "name": "I'll come back to you",
+      "url": "https://open.spotify.com/track/0OazqCWoKk9we4AIrgGlW0"
+    },
+    {
+      "album": {
         "name": "I'm a Man",
         "url": "https://open.spotify.com/album/5quvKWbQnbnOLhRrQmt1Gn"
       },
@@ -1976,7 +1994,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 155565,
       "name": "Johanna",
       "url": "https://open.spotify.com/track/6gH2V6XzhDXfTqml6c2w4Z"
@@ -2106,7 +2124,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171115,
       "name": "LA BAMBOLA (FOR DOLCE & GABBANA - the one)",
       "url": "https://open.spotify.com/track/3QsCqPFpctYwsNTAMp15P5"
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 206588,
       "name": "Lady Love (Omnichord version)",
       "url": "https://open.spotify.com/track/1K706YVvIGmYufKIDqCxM6"
@@ -3352,7 +3370,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-07",
+      "date_removed": null,
       "duration_ms": 183569,
       "name": "she calls me daddy",
       "url": "https://open.spotify.com/track/4nBsvvjN134KFVcvFMLWwK"

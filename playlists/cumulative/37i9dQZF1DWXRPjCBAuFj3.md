@@ -2,7 +2,7 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  Morad in cover
+> Brani virali e trend, rap e urban 📈  Sayf in cover
 
 994 songs - 2 day 3 hr 23 min
 

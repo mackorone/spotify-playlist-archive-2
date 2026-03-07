@@ -1451,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "BIG MAMA",
+        "url": "https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184083,
+      "name": "CAPTAIN KERNEL",
+      "url": "https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel"
+    },
+    {
+      "album": {
         "name": "Yume",
         "url": "https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX"
       },

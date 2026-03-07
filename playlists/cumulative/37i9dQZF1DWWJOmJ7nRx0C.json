@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Beartooth",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Shinedown",
   "name": "VOLUME",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 221193,
       "name": "'Bout To Lose It",
       "url": "https://open.spotify.com/track/2ryag1UOk4qCqzs2bxN7Sm"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 232825,
       "name": "Angels Cry",
       "url": "https://open.spotify.com/track/7uLc0Acq6JOMhJC40u4K65"
@@ -3273,6 +3273,24 @@
     },
     {
       "album": {
+        "name": "silence outlives the earth",
+        "url": "https://open.spotify.com/album/78YcVZNpzM357BBvAOKS6H"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218213,
+      "name": "black cloud",
+      "url": "https://open.spotify.com/track/3mKOb2WrVo8YAyqV4sqRA0"
+    },
+    {
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/04ilbtJjDrLaNGsr6BBe6I"
       },
@@ -4298,6 +4316,24 @@
       "duration_ms": 201533,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/7ClwnN5j16cc6i5MqWFgHK"
+    },
+    {
+      "album": {
+        "name": "The Sky, The Earth & All Between",
+        "url": "https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190566,
+      "name": "Broken Mirror",
+      "url": "https://open.spotify.com/track/44TUJhvq8ZSoIO1AzpD6X7"
     },
     {
       "album": {
@@ -7396,6 +7432,28 @@
       "duration_ms": 180624,
       "name": "Degrade Me",
       "url": "https://open.spotify.com/track/4Prj9fsFBVEGEpokBWz6nI"
+    },
+    {
+      "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/2Tlbb5F2tt4IatJzeEm6DS"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286272,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/2vbSolhCUDzOJ8nNaK2UKa"
     },
     {
       "album": {
@@ -13617,6 +13675,24 @@
     },
     {
       "album": {
+        "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+        "url": "https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV"
+      },
+      "artists": [
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132400,
+      "name": "I Don\u2019t Think It\u2019s the Right Time for Emojis",
+      "url": "https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse"
+    },
+    {
+      "album": {
         "name": "I EXIST",
         "url": "https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5"
       },
@@ -15128,6 +15204,24 @@
       "duration_ms": 257798,
       "name": "Keeping Secrets",
       "url": "https://open.spotify.com/track/23ZfzJ2uI17JXeZUJNgC6e"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "album": {
@@ -16986,7 +17080,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 170000,
       "name": "Love To Be Loved",
       "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
@@ -18874,7 +18968,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186843,
       "name": "Nervous Wreck",
       "url": "https://open.spotify.com/track/0es8dQ6I7klbKRnwc7fkEd"
@@ -19492,6 +19586,24 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
     },
     {
       "album": {
@@ -29132,7 +29244,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 208510,
       "name": "tower of memories",
       "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
@@ -31787,6 +31899,24 @@
     },
     {
       "album": {
+        "name": "WIRED / Broken By Design",
+        "url": "https://open.spotify.com/album/1ZrrDRubcm6BnwzadNcJnP"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153530,
+      "name": "WIRED",
+      "url": "https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF"
+    },
+    {
+      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -32094,7 +32224,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180840,
       "name": "World Apart",
       "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
@@ -32668,7 +32798,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 239582,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2iWsTTbLNy658UrUR14T9k"

@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "AMANDLA",
+        "url": "https://open.spotify.com/album/6P4Uvso8V2PgTAKXYA5ALS"
+      },
+      "artists": [
+        {
+          "name": "Just G",
+          "url": "https://open.spotify.com/artist/1gvbwTngEGhgojhW2imJUV"
+        },
+        {
+          "name": "Nue_Sam",
+          "url": "https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "AMANDLA",
+      "url": "https://open.spotify.com/track/3Lw1q6LfVTtNg1GWKeomWz"
+    },
+    {
+      "album": {
         "name": "Asiwine",
         "url": "https://open.spotify.com/album/0Ug7YS6FRnN7QVH4HbAxKr"
       },
@@ -1024,7 +1046,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 243000,
       "name": "Amazwe",
       "url": "https://open.spotify.com/track/06hXLzosnqOCy6dn8BPQaT"
@@ -3606,7 +3628,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 232258,
       "name": "Flight Ya Hoseng (feat. Ch'cco, Nomfundo Moh & Baby S.O.N)",
       "url": "https://open.spotify.com/track/0G8mdG6OgKGxH49wkSgp5h"
@@ -6066,6 +6088,24 @@
       "duration_ms": 199245,
       "name": "Jabula",
       "url": "https://open.spotify.com/track/5e2vMDSGRmgjPEfJxOE2C2"
+    },
+    {
+      "album": {
+        "name": "Ihlumile",
+        "url": "https://open.spotify.com/album/1ZCM1Yw3BKCSC8axzt0fgq"
+      },
+      "artists": [
+        {
+          "name": "Zamo",
+          "url": "https://open.spotify.com/artist/6lciFPtYBbUsw2rvbArekZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Jabula",
+      "url": "https://open.spotify.com/track/51KkTuxHUuuXt0ymodfw1X"
     },
     {
       "album": {
@@ -12945,6 +12985,28 @@
     },
     {
       "album": {
+        "name": "OLEANDER",
+        "url": "https://open.spotify.com/album/0LeEQWm86INy8AhfGNxvJl"
+      },
+      "artists": [
+        {
+          "name": "Maeywon",
+          "url": "https://open.spotify.com/artist/4Gol5wlJU4IJnzEC6iNd3A"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218416,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/4g6OkfinKEB8AKfBtpiEoo"
+    },
+    {
+      "album": {
         "name": "Tell Me Your Politik (feat. Moonchild Sanelly & Nile Rodgers)",
         "url": "https://open.spotify.com/album/583uUk11hoNS3Y4T5r5cdg"
       },
@@ -14954,7 +15016,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 284055,
       "name": "Uvume Kanjani?",
       "url": "https://open.spotify.com/track/1SBdVvoxfFvuO6BVY9WqnI"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: Nali and Coi Leray",
+  "description": "New music from your favorite women.  Cover: Nia Smith",
   "name": "Queen",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 173875,
       "name": "act right",
       "url": "https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196017,
       "name": "All That and More (with Maverick Sabre)",
       "url": "https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220501,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/6dMELI5Qt3qfU5C4GFqTOs"
@@ -2998,7 +2998,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181895,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m"
@@ -3176,6 +3176,24 @@
       "duration_ms": 204333,
       "name": "Exhale (Shoop Shoop) - from \"Waiting to Exhale\" - Original Soundtrack",
       "url": "https://open.spotify.com/track/1X3ypzPnyerpZuMqrDFK29"
+    },
+    {
+      "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142229,
+      "name": "F.O.O.L",
+      "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
     },
     {
       "album": {
@@ -3425,6 +3443,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Direction",
+        "url": "https://open.spotify.com/album/1wdaTBq43kCrSb0QMGk8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jazlyn Martin",
+          "url": "https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Follow Your Direction",
+      "url": "https://open.spotify.com/track/3gtTzAZdndu1iF0fdAEyAL"
+    },
+    {
+      "album": {
         "name": "Ashanti",
         "url": "https://open.spotify.com/album/5M3BrdaT0TV5SsYsM5PM8X"
       },
@@ -3490,7 +3526,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 132000,
       "name": "Forgive & Forget",
       "url": "https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb"
@@ -3671,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "G.O.D.",
+        "url": "https://open.spotify.com/album/5RPqaJYNh2zQmeLCRdvnkm"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "G.O.D.",
+      "url": "https://open.spotify.com/track/2VUaCpFcrgpjMZiWvDncE7"
+    },
+    {
+      "album": {
         "name": "GANG",
         "url": "https://open.spotify.com/album/1x3J6WxUBpVsk58fDM2KLf"
       },
@@ -3690,6 +3744,24 @@
       "duration_ms": 224702,
       "name": "GANG",
       "url": "https://open.spotify.com/track/2pDJmM3hkzefoW8c8St7Iw"
+    },
+    {
+      "album": {
+        "name": "Gemini Eyes",
+        "url": "https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299520,
+      "name": "Gemini Eyes",
+      "url": "https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd"
     },
     {
       "album": {
@@ -4388,7 +4460,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160000,
       "name": "Hot Body",
       "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
@@ -5007,6 +5079,24 @@
     },
     {
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2VqTbLEoditxboQwT8h1ix"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158685,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12"
+    },
+    {
+      "album": {
         "name": "Instructions",
         "url": "https://open.spotify.com/album/1579N4l9ljWuCGsw98b0rz"
       },
@@ -5036,7 +5126,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217162,
       "name": "irl",
       "url": "https://open.spotify.com/track/4Xm4vhlJi5cwbfizY6uhR1"
@@ -6053,6 +6143,24 @@
     },
     {
       "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/1n5EdNTC19hyG6v9VIK0Ac"
+      },
+      "artists": [
+        {
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187360,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2RKMszeCzgVDRp425arKKT"
+    },
+    {
+      "album": {
         "name": "Maybe",
         "url": "https://open.spotify.com/album/1gJkv3Nxw6gA1iDHLDktAm"
       },
@@ -6527,6 +6635,28 @@
     },
     {
       "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187096,
+      "name": "Need it Bad - feat. Brent Faiyaz",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "album": {
         "name": "Neither One Of Us",
         "url": "https://open.spotify.com/album/7GNfj26cSJZEWvS822NELd"
       },
@@ -6556,7 +6686,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 291437,
       "name": "Never Been to the Parties",
       "url": "https://open.spotify.com/track/2yYj3utfIB8M10IoCwTYuj"
@@ -6942,6 +7072,24 @@
       "duration_ms": 254066,
       "name": "Nothing Is Impossible With You",
       "url": "https://open.spotify.com/track/1jP8sjGxTpkQz13WzS1fpw"
+    },
+    {
+      "album": {
+        "name": "Nothing To Say",
+        "url": "https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189227,
+      "name": "Nothing To Say",
+      "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
     },
     {
       "album": {
@@ -7584,7 +7732,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 125562,
       "name": "Pity (feat. Tanya Stephens)",
       "url": "https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH"
@@ -8392,7 +8540,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172333,
       "name": "Save The Day - From \"Hoppers\"",
       "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
@@ -8706,7 +8854,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 162500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f"
@@ -9306,7 +9454,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 163840,
       "name": "Superheroes",
       "url": "https://open.spotify.com/track/5mz13HKBlshUYYzi3E69T6"
@@ -10034,7 +10182,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 226652,
       "name": "Toot Toot",
       "url": "https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o"
@@ -10135,6 +10283,28 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195325,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
+    },
+    {
+      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },
@@ -10200,7 +10370,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 214719,
       "name": "Trying",
       "url": "https://open.spotify.com/track/0ZyRqzVfrqqGt4XbTzKOVx"
@@ -10236,7 +10406,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 204033,
       "name": "Two Ships",
       "url": "https://open.spotify.com/track/2yMzgNJml0Vlp41r3gYSSw"
@@ -10521,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109966,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
+    },
+    {
+      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
       },
@@ -10731,6 +10919,24 @@
     },
     {
       "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
       },
@@ -10814,7 +11020,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167533,
       "name": "Who's To Blame?",
       "url": "https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW"

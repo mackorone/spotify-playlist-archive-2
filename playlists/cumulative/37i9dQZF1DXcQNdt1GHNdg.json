@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 155769,
       "name": "12 Vajde",
       "url": "https://open.spotify.com/track/7BqkqK5ZrqePJKUxxCI7Nd"
@@ -1816,6 +1816,36 @@
       "duration_ms": 167142,
       "name": "Court",
       "url": "https://open.spotify.com/track/1weINSMgJOVHx4apkdMr1C"
+    },
+    {
+      "album": {
+        "name": "Daaka Daaku Da",
+        "url": "https://open.spotify.com/album/1KWbeJYu9LwpBEQbxsOf8Z"
+      },
+      "artists": [
+        {
+          "name": "Jassie Gill",
+          "url": "https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA"
+        },
+        {
+          "name": "Ritu Bhaggi",
+          "url": "https://open.spotify.com/artist/0HhjkugAR8RSgHoBqzPd0R"
+        },
+        {
+          "name": "Rav Hanjra",
+          "url": "https://open.spotify.com/artist/2iWspbujhMADVaxwZAwrmd"
+        },
+        {
+          "name": "Snappy",
+          "url": "https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160754,
+      "name": "Daaka Daaku Da",
+      "url": "https://open.spotify.com/track/72zovf8xydqfbLhWwJWhn9"
     },
     {
       "album": {

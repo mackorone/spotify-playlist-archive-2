@@ -1,13 +1,29 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 66682,
+  "num_followers": 66696,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFG8By+wZdZs7EW7QraRDrgbuji3",
+  "snapshot_id": "AAAAAF6ccROz9Sg/u1rz/aBOuFDfuUAM",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:03",
+      "album": {
+        "name": "Angels",
+        "url": "https://open.spotify.com/album/4W2fYO1XsLFtTRgo2WsZ3q"
+      },
+      "artists": [
+        {
+          "name": "Alan Braufman",
+          "url": "https://open.spotify.com/artist/2e0U1o784LrLomZQcvKH6H"
+        }
+      ],
+      "duration_ms": 273133,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/5QuoDL25jFMi1NsB6O8eKF"
+    },
     {
       "added_at": "2026-02-06 05:00:24",
       "album": {
@@ -1039,34 +1055,6 @@
       "duration_ms": 427746,
       "name": "Nona's Blues",
       "url": "https://open.spotify.com/track/0yRHtnaA8A7F0G4L5xM443"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Old Growth Forest",
-        "url": "https://open.spotify.com/album/4eCAq5wPTqdDngSGZ8cIbW"
-      },
-      "artists": [
-        {
-          "name": "Harris Eisenstadt",
-          "url": "https://open.spotify.com/artist/3dukvxlKzyhitoIQV1WyYC"
-        },
-        {
-          "name": "Jeb Bishop",
-          "url": "https://open.spotify.com/artist/2fyqvyjXLb0rEdBiScSboe"
-        },
-        {
-          "name": "Tony Malaby",
-          "url": "https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0"
-        },
-        {
-          "name": "Jason Roebke",
-          "url": "https://open.spotify.com/artist/0bIKt2rjdgUD1nHuifr8iz"
-        }
-      ],
-      "duration_ms": 441973,
-      "name": "Hemlock",
-      "url": "https://open.spotify.com/track/0Ru8qoDCdYck8yELWqRUbO"
     },
     {
       "added_at": "2021-06-04 04:01:00",

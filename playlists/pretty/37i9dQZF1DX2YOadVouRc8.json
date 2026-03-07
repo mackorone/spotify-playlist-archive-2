@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 45851,
+  "num_followers": 45875,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-03-06 00:01:16",
       "album": {
+        "name": "Catapult",
+        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
+      },
+      "artists": [
+        {
+          "name": "Strei",
+          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
+        },
+        {
+          "name": "Dxtiny",
+          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Catapult",
+      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
+    },
+    {
+      "added_at": "2026-03-06 00:01:16",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 180160,
       "name": "Look To You (feat. Llona)",
       "url": "https://open.spotify.com/track/3mDhfpGRzwixQCGNGNdi68"
-    },
-    {
-      "added_at": "2026-03-06 00:01:16",
-      "album": {
-        "name": "Catapult",
-        "url": "https://open.spotify.com/album/3wggJeCAlQiFbx7LK7bHOb"
-      },
-      "artists": [
-        {
-          "name": "Strei",
-          "url": "https://open.spotify.com/artist/4ecfG9zQhMOr4yMTqgD79g"
-        },
-        {
-          "name": "Dxtiny",
-          "url": "https://open.spotify.com/artist/5bAj0wNTQ1Ig6lMzndMkdZ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Catapult",
-      "url": "https://open.spotify.com/track/1oWzy39dcfQk7NdRFwaN7Q"
     },
     {
       "added_at": "2026-03-06 00:01:16",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-03-06 00:01:16",
       "album": {
+        "name": "Compose",
+        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Compose",
+      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
+    },
+    {
+      "added_at": "2026-03-06 00:01:16",
+      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/7huXtUw0I2ftTQLFNMEYWL"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 182142,
       "name": "Bobo",
       "url": "https://open.spotify.com/track/48fNM8TUHTZbndUYoWnEUy"
-    },
-    {
-      "added_at": "2026-03-06 00:01:16",
-      "album": {
-        "name": "Compose",
-        "url": "https://open.spotify.com/album/21sRdNR6C6BHH4iqpQ2EpV"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "taves",
-          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Compose",
-      "url": "https://open.spotify.com/track/2z13PLFl2jTiV2JLvQZtwI"
     },
     {
       "added_at": "2026-03-06 00:01:16",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-03-06 00:01:16",
       "album": {
-        "name": "Must Have Been",
-        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
+        "name": "E-Major",
+        "url": "https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas"
       },
       "artists": [
         {
-          "name": "TAR1Q",
-          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+          "name": "VASA",
+          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
         }
       ],
-      "duration_ms": 156320,
-      "name": "Must Have Been",
-      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
+      "duration_ms": 168000,
+      "name": "E-Major",
+      "url": "https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8"
     },
     {
       "added_at": "2026-03-06 00:01:16",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-03-06 00:01:16",
       "album": {
-        "name": "E-Major",
-        "url": "https://open.spotify.com/album/3hHAePr1rCWX5ImgaEdPas"
+        "name": "Must Have Been",
+        "url": "https://open.spotify.com/album/6R5XHfGugWX5i0X6BkD5vr"
       },
       "artists": [
         {
-          "name": "VASA",
-          "url": "https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q"
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
         }
       ],
-      "duration_ms": 168000,
-      "name": "E-Major",
-      "url": "https://open.spotify.com/track/2DQcw0LhHaTbg3JnMcV0O8"
+      "duration_ms": 156320,
+      "name": "Must Have Been",
+      "url": "https://open.spotify.com/track/36FTrsF2c7s1Cwt46Wij7U"
     },
     {
       "added_at": "2026-03-06 00:01:16",

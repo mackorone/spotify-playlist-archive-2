@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la d\u00e9cada. En portada: Joe Arroyo",
-  "num_followers": 794660,
+  "num_followers": 794765,
   "original_name": "Salsa: Los 90s",
   "owner": {
     "name": "Spotify",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-12 19:20:44",
       "album": {
-        "name": "Super Exitos",
-        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
-      },
-      "artists": [
-        {
-          "name": "Luisito Ayala Y La Puerto Rican Power",
-          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
-        }
-      ],
-      "duration_ms": 250773,
-      "name": "No Puedo Prescindir De Ti",
-      "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
-    },
-    {
-      "added_at": "2024-07-12 19:20:44",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6T8WrnfmEISgQiDThcNGwW"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 267693,
       "name": "T\u00f9 No Le Amas Le Temes",
       "url": "https://open.spotify.com/track/31fgUJf2VBazZPGseEdsbZ"
+    },
+    {
+      "added_at": "2024-07-12 19:20:44",
+      "album": {
+        "name": "Super Exitos",
+        "url": "https://open.spotify.com/album/4ny39fXV8NndHMSBu1V0bT"
+      },
+      "artists": [
+        {
+          "name": "Luisito Ayala Y La Puerto Rican Power",
+          "url": "https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7"
+        }
+      ],
+      "duration_ms": 250773,
+      "name": "No Puedo Prescindir De Ti",
+      "url": "https://open.spotify.com/track/7LDZh6bVrES7Z9RuD4HMTC"
     },
     {
       "added_at": "2024-07-12 19:20:44",

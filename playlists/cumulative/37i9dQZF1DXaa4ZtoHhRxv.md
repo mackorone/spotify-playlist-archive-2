@@ -4,7 +4,7 @@
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-253 songs - 13 hr 27 min
+254 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [tin foil hat \- MOONLGHT Remix](https://open.spotify.com/track/7ejXZg9ImpO21wVSXycnhu) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [MOONLGHT](https://open.spotify.com/artist/0b9SpFqsoxkyoTbZqLlzSs) | [tin foil hat \(MOONLGHT Remix\)](https://open.spotify.com/album/50mgmp62svJ85WuDjq5qQt) | 2:23 | 2026-01-02 |  |
 | [Travel On](https://open.spotify.com/track/2VDOxNnumSziK28ytHEJqc) | [MC4D](https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI) | [Wanderings](https://open.spotify.com/album/0iFhcXBuEORWfefmGK5tBa) | 3:30 | 2024-12-06 | 2025-06-01 |
 | [Two Black Cadillacs / Jolene \(Dee Jay Silver Edit\) \(feat\. Dolly Parton\)](https://open.spotify.com/track/3H0JQLCfWoVvPGfQvzDT42) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Country Club](https://open.spotify.com/album/0ND26IiObIrQgNuzU5dFmt) | 4:12 | 2021-12-10 | 2025-06-01 |
+| [Under The Table \(feat\. Chris Lane\)](https://open.spotify.com/track/2PFtpbXyJEaSpPJzpLZBgf) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Under The Table \(feat\. Chris Lane\)](https://open.spotify.com/album/4I2O2LWWzS6Qf2rrCBNPDs) | 2:52 | 2026-03-06 |  |
 | [Us ft\. ERNEST](https://open.spotify.com/track/0Tcr2YRAz84AVjopX9Sm7Q) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT) | 3:16 | 2023-12-15 | 2024-04-19 |
 | [Us ft\. ERNEST](https://open.spotify.com/track/1pNvwvyu0toAciKIigdbO5) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [HiROQUEST 2: Double Helix](https://open.spotify.com/album/2Y5AL4Rd7wOyEWycA1kRzO) | 3:16 | 2023-11-17 | 2025-06-01 |
 | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/track/0poKbTUdYz7lXFd15XuHiC) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB), [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc) | [Use Me \(Brutal Hearts\) \(feat\. Sturgill Simpson, Dove Cameron & Johnny Blue Skies\)](https://open.spotify.com/album/1Wp9ImrDqyqMGfZVohAfw1) | 3:22 | 2023-04-14 | 2025-06-01 |

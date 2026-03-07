@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,807 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,807 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 5 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 6 | [Of Joy](https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Of Joy](https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7) | 3:19 |
 | 7 | [Bass Dhol](https://open.spotify.com/track/2rVhkoMwbeOzsBdqMUnm0p) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Bass Dhol](https://open.spotify.com/album/6zPVFPc0OjKODf5SkRSlNu) | 3:38 |
-| 8 | [This is Real \(Disappear\) \[feat\. Eyelar\]](https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [This is Real \(Disappear\) \[feat\. Eyelar\]](https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9) | 4:57 |
+| 8 | [This is Real \(Disappear\)](https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [This is Real \(Disappear\)](https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9) | 4:57 |
 | 9 | [hold tight](https://open.spotify.com/track/2gZpDSPgPs0N41CAtErXWz) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [hold tight](https://open.spotify.com/album/4kUwLZkwyuhrcibGvmto12) | 2:28 |
-| 10 | [Track 11](https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t) | 0:00 |
+| 10 | [When You're Gone](https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Blue](https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t) | 3:20 |
 | 11 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:32 |
 | 12 | [Manticore](https://open.spotify.com/track/3QrcVUaPX6v9eIsz2SyVWV) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Tales from the Power Hour EP](https://open.spotify.com/album/2OdmBZ7ijpR59J7OI7oJa6) | 3:21 |
 | 13 | [Tell It Like It Is](https://open.spotify.com/track/5pTX9NqSufLDiYrvP2q5Qb) | [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [Tell It Like It Is](https://open.spotify.com/album/7uLxm6T56bGTuRZe31NSr8) | 4:52 |

@@ -62859,6 +62859,24 @@
     },
     {
       "album": {
+        "name": "nanti bila engkau pergi",
+        "url": "https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU"
+      },
+      "artists": [
+        {
+          "name": "Argya",
+          "url": "https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262569,
+      "name": "nanti bila engkau pergi",
+      "url": "https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr"
+    },
+    {
+      "album": {
         "name": "NAPI",
         "url": "https://open.spotify.com/album/0zthkAS367LzgwiWxiTm4O"
       },

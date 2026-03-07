@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Kross Vasquez y Vondr\u00e9 en Portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Margaritas Podridas en Portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Cantar y amar",
+        "url": "https://open.spotify.com/album/2jKSpP2UKGNEN9u9dsdynm"
+      },
+      "artists": [
+        {
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Cantar y amar",
+      "url": "https://open.spotify.com/track/2s0rlgH5aEemPbIRwLeRnm"
+    },
+    {
+      "album": {
         "name": "Can\u00edbales",
         "url": "https://open.spotify.com/album/37kItkJ305rM8XUpDKDDev"
       },
@@ -2280,6 +2298,24 @@
       "duration_ms": 218806,
       "name": "Club de Fans de John Boy",
       "url": "https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sico Moderno",
+        "url": "https://open.spotify.com/album/6QmjrKiRgKrwjn4brnrfYZ"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Cl\u00e1sico Moderno",
+      "url": "https://open.spotify.com/track/5LAUYkaMHRDeG7jMQsAEc1"
     },
     {
       "album": {
@@ -2888,7 +2924,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175840,
       "name": "C\u00f3mo Ser\u00e1 Vivir en el Campo",
       "url": "https://open.spotify.com/track/6D87OewwdEhhSUWij4jUKp"
@@ -4225,6 +4261,46 @@
     },
     {
       "album": {
+        "name": "El Himno (Me Siento Genial)",
+        "url": "https://open.spotify.com/album/4qpzOeDPcSkjeMDCkfsGw7"
+      },
+      "artists": [
+        {
+          "name": "Chingadazo de Kung Fu",
+          "url": "https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL"
+        },
+        {
+          "name": "Q69k",
+          "url": "https://open.spotify.com/artist/1Mg8WSoSk3WhU7ohjk6uEO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "El Himno (Me Siento Genial)",
+      "url": "https://open.spotify.com/track/3oHtR8PdWEDOWJPAmHTE0M"
+    },
+    {
+      "album": {
+        "name": "El Hombre Planeta",
+        "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232255,
+      "name": "El Hombre Planeta",
+      "url": "https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d"
+    },
+    {
+      "album": {
         "name": "El Lago Del Alma",
         "url": "https://open.spotify.com/album/1LC7xXRFlSZOYCnUeGXvyW"
       },
@@ -4586,7 +4662,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 228668,
       "name": "Entretenimiento",
       "url": "https://open.spotify.com/track/6uE9zxLrlrKche9d8LpuAD"
@@ -4666,7 +4742,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 200492,
       "name": "Eres Para M\u00ed - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/30hP7rsy8RDu3t1ahdfiKV"
@@ -5530,7 +5606,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 151637,
       "name": "Halloween II",
       "url": "https://open.spotify.com/track/0ygAzclwMfvkQeqcdY0jD7"
@@ -7658,7 +7734,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 204146,
       "name": "Mala Prensa",
       "url": "https://open.spotify.com/track/0TjWln3dlSMwbB0gvHxlaU"
@@ -10993,6 +11069,28 @@
     },
     {
       "album": {
+        "name": "Puto",
+        "url": "https://open.spotify.com/album/70Wsk6A6CieJgGhk6I9QUP"
+      },
+      "artists": [
+        {
+          "name": "Somos Frijoleros",
+          "url": "https://open.spotify.com/artist/3hwTer72EBFaWBn0eGrjwy"
+        },
+        {
+          "name": "Malcriada",
+          "url": "https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133635,
+      "name": "Puto",
+      "url": "https://open.spotify.com/track/79joHwLFdt7hLWuVyPhUVl"
+    },
+    {
+      "album": {
         "name": "P\u00f3lvora",
         "url": "https://open.spotify.com/album/3JqGrzsy5ogAHAshKRv7Ef"
       },
@@ -11030,6 +11128,24 @@
       "duration_ms": 209250,
       "name": "Que fue lo que Pas\u00f3",
       "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
+    },
+    {
+      "album": {
+        "name": "Metales Pesados",
+        "url": "https://open.spotify.com/album/70uJ6Bd2dJIEaB6VJCFgSN"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Quema Los Recuerdos",
+      "url": "https://open.spotify.com/track/6HEA8aeNZeAuh0jqOwFkkT"
     },
     {
       "album": {
@@ -11176,7 +11292,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212706,
       "name": "Qui\u00e9n Pensar\u00eda",
       "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"

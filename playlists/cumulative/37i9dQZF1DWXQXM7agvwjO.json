@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: ena mori (Philippines)",
+  "description": "Hottest indie sounds from Asia. Cover: Wendy Wander (TW) + Billyrrom (JP)",
   "name": ".ORG",
   "tracks": [
     {
@@ -2152,7 +2152,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184500,
       "name": "Another Version",
       "url": "https://open.spotify.com/track/6eC54qe0rmrN1bH7H8hv9a"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213833,
       "name": "ascending faster than before - ACT I : The Beginning",
       "url": "https://open.spotify.com/track/4KWDXp5vKg3P2hco4WxFE1"
@@ -9043,6 +9043,24 @@
     },
     {
       "album": {
+        "name": "Di Pinggir Marjin",
+        "url": "https://open.spotify.com/album/0wPMikKrIjVQNb8JrsGN4i"
+      },
+      "artists": [
+        {
+          "name": "The Brandals",
+          "url": "https://open.spotify.com/artist/2m4svlAq5bNKN5MS4uS5gh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292053,
+      "name": "Di Pinggir Marjin",
+      "url": "https://open.spotify.com/track/1HSuk23o9CUYts5IpXkayV"
+    },
+    {
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/7z9APiQaFzWNPP8uECGPgv"
       },
@@ -9942,7 +9960,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 111219,
       "name": "down",
       "url": "https://open.spotify.com/track/1hd75la7U1A8oO8Bpz8eGt"
@@ -16167,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "I Always Knew",
+        "url": "https://open.spotify.com/album/7zFrN4PbAIWP85Atr17wvi"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "I Always Knew",
+      "url": "https://open.spotify.com/track/3795oPflx7wwOBKJC462ao"
+    },
+    {
+      "album": {
         "name": "I Avoided Saying Things",
         "url": "https://open.spotify.com/album/5S8v2v3Zkwv9WbObBmw1TB"
       },
@@ -16322,7 +16358,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 214363,
       "name": "I Don't Really Mind",
       "url": "https://open.spotify.com/track/2hDB3npwE99otPx4aIaPVU"
@@ -19265,6 +19301,24 @@
     },
     {
       "album": {
+        "name": "KIMA",
+        "url": "https://open.spotify.com/album/17HXJts6l5wf43YpxzQDft"
+      },
+      "artists": [
+        {
+          "name": "Jana Garcia",
+          "url": "https://open.spotify.com/artist/2M4mQMnLHQQXsFsRmTTqsR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220921,
+      "name": "KIMA",
+      "url": "https://open.spotify.com/track/4EgOq3urtn5ymm9nkHLS1c"
+    },
+    {
+      "album": {
         "name": "King of Sadtown",
         "url": "https://open.spotify.com/album/3JYPXy9wUuPHw1tkU6GiWR"
       },
@@ -20716,7 +20770,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 178848,
       "name": "Liminal Dreaming",
       "url": "https://open.spotify.com/track/4YK3iJ7nxmRhQJ14Sz3a9a"
@@ -22741,6 +22795,24 @@
     },
     {
       "album": {
+        "name": "memries that stay",
+        "url": "https://open.spotify.com/album/5LfH5l4LLmVYIConAz0LNA"
+      },
+      "artists": [
+        {
+          "name": "Ruru",
+          "url": "https://open.spotify.com/artist/4G8qsHO0ipAGtyto79fWjo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202857,
+      "name": "memries that stay",
+      "url": "https://open.spotify.com/track/4dFGV715u1urrscsebYk3Q"
+    },
+    {
+      "album": {
         "name": "Mencari (2009 Mix)",
         "url": "https://open.spotify.com/album/5Hkt5Yopx1bVPbXiS4Q1pK"
       },
@@ -22984,7 +23056,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 309000,
       "name": "Midnight Gospel",
       "url": "https://open.spotify.com/track/3cZ4ohsf6tU8E7PBE11KNl"
@@ -23660,6 +23732,28 @@
       "duration_ms": 217709,
       "name": "Monologue",
       "url": "https://open.spotify.com/track/391axiRsUvdgWt7rgaajF3"
+    },
+    {
+      "album": {
+        "name": "Monopolar (Tom Furse Remix)",
+        "url": "https://open.spotify.com/album/4OfKdPcOGCrn3MxBvr1WkM"
+      },
+      "artists": [
+        {
+          "name": "Strange Fruit",
+          "url": "https://open.spotify.com/artist/2rxlzU062cVwq4yA0LFQGy"
+        },
+        {
+          "name": "Tom Furse",
+          "url": "https://open.spotify.com/artist/656QlXWNjRtnzAr5YNBEQB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "Monopolar - Tom Furse Remix",
+      "url": "https://open.spotify.com/track/5TR2FSjKZeNN3VQsSA6iVy"
     },
     {
       "album": {
@@ -25111,6 +25205,28 @@
     },
     {
       "album": {
+        "name": "Night Bloom",
+        "url": "https://open.spotify.com/album/4bj5Sz2HFCIgWNwjEWk4I6"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        },
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275730,
+      "name": "Night Bloom",
+      "url": "https://open.spotify.com/track/61e3yAb92msUp08gkryt2D"
+    },
+    {
+      "album": {
         "name": "\u7b2c\u516b\u4f5c\u54c1\u96c6\u300e\u7121\u984c\u300f",
         "url": "https://open.spotify.com/album/56oudFcHR5axk94kl0A011"
       },
@@ -25510,7 +25626,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188719,
       "name": "NO THANKS",
       "url": "https://open.spotify.com/track/3xPDY1ei8CfpXK4C7UD8J3"
@@ -25622,6 +25738,24 @@
       "duration_ms": 206250,
       "name": "noose",
       "url": "https://open.spotify.com/track/6TY9ZYoZhejZlFODlnezB1"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0aam5ijHT4xS6s4NURTbTv"
+      },
+      "artists": [
+        {
+          "name": "CHEONG NAN",
+          "url": "https://open.spotify.com/artist/7fnlgfFq1e0d0ORL0tpFaK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206904,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/69tD26YUIOc68UBs4sMGZN"
     },
     {
       "album": {
@@ -25774,6 +25908,24 @@
       "duration_ms": 240085,
       "name": "Nothing ever stops me",
       "url": "https://open.spotify.com/track/6QzUlsc7K5iyY9lCEjUKOx"
+    },
+    {
+      "album": {
+        "name": "nothing left, we don\u2019t know why",
+        "url": "https://open.spotify.com/album/1HWeHIiosyZ1xznrpRxizV"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "nothing left, we don\u2019t know why",
+      "url": "https://open.spotify.com/track/0HaDAS34EmQQSWm7CW667p"
     },
     {
       "album": {
@@ -26410,7 +26562,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 268004,
       "name": "ONE & ONLY",
       "url": "https://open.spotify.com/track/67thbTVrA35kYtwbeLslNl"
@@ -27188,6 +27340,24 @@
       "duration_ms": 261594,
       "name": "paper love",
       "url": "https://open.spotify.com/track/0sa48wOE7TieaeNNnc6iMB"
+    },
+    {
+      "album": {
+        "name": "Eventually Colored",
+        "url": "https://open.spotify.com/album/6tX9evqkBEgSid17QAZIi9"
+      },
+      "artists": [
+        {
+          "name": "The Color of Tears",
+          "url": "https://open.spotify.com/artist/02QcpNGEjhuTLEMAPkHdwm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190044,
+      "name": "Para Palayain",
+      "url": "https://open.spotify.com/track/47Ptsa6wKshmh4HNUTd6l8"
     },
     {
       "album": {
@@ -28664,7 +28834,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 119739,
       "name": "Public Holiday",
       "url": "https://open.spotify.com/track/1GuugzjDdBeVeRXWXVaVYM"
@@ -29010,7 +29180,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 238446,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/1vg0H6yZPr0l5AidnnLpYh"
@@ -34731,6 +34901,24 @@
     },
     {
       "album": {
+        "name": "Takbir Terdengar Kejam",
+        "url": "https://open.spotify.com/album/5eWIvRYmwWeZ8mS5qC6Qt8"
+      },
+      "artists": [
+        {
+          "name": "Dongker",
+          "url": "https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199783,
+      "name": "Takbir Terdengar Kejam",
+      "url": "https://open.spotify.com/track/5s53GI8rkbUKpc0vxVidNs"
+    },
+    {
+      "album": {
         "name": "Take",
         "url": "https://open.spotify.com/album/3zr5IaEwRZnpKcHCj4cOrL"
       },
@@ -35740,7 +35928,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184447,
       "name": "the party song",
       "url": "https://open.spotify.com/track/3KPXbXXOS2oJbXOaX6xP27"
@@ -35816,6 +36004,24 @@
       "duration_ms": 186894,
       "name": "The Reason Why",
       "url": "https://open.spotify.com/track/7pI7fujsmn0lauSjuiKoTw"
+    },
+    {
+      "album": {
+        "name": "the river",
+        "url": "https://open.spotify.com/album/0nUlCvIFEo4qVhYhueTEYL"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194624,
+      "name": "the river",
+      "url": "https://open.spotify.com/track/7fenr5zdjkJKH50czhtBnq"
     },
     {
       "album": {
@@ -36352,7 +36558,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212844,
       "name": "Tiga Benam Menara",
       "url": "https://open.spotify.com/track/03dnnlcWDAQQWWhD5QlIqb"
@@ -43912,6 +44118,24 @@
       "duration_ms": 228452,
       "name": "\u5e30\u308d\u3046",
       "url": "https://open.spotify.com/track/7DdBE5bGf8pOwTBye0xPi3"
+    },
+    {
+      "album": {
+        "name": "Mobileden",
+        "url": "https://open.spotify.com/album/4WlY8LGpEGmBDWiF41ssQc"
+      },
+      "artists": [
+        {
+          "name": "P1us",
+          "url": "https://open.spotify.com/artist/7BD6B8s3JDIRfDQwgHmaD0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "\u5e36\u4f60\u53bb\u83ef\u76db\u9813\u884c\u4e00\u5708",
+      "url": "https://open.spotify.com/track/02bWV0hw1J43OMTTWcPl9T"
     },
     {
       "album": {

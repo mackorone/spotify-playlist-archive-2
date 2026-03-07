@@ -1,13 +1,97 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:playlist:37i9dQZF1EFQuy1uEYTm1p\">Ariel Imani</a> ",
-  "num_followers": 87564,
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  <a href=\"spotify:artist:60LfX8q7jliswygVxBPIL4\">Rita Wilson</a> ",
+  "num_followers": 87591,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK",
+  "snapshot_id": "AAAAAHNAUJ8nzNTKHq2zY+Nt3QENQtg/",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "1",
+        "url": "https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx"
+      },
+      "artists": [
+        {
+          "name": "Savana Santos",
+          "url": "https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm"
+        },
+        {
+          "name": "Alex Hope",
+          "url": "https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP"
+        }
+      ],
+      "duration_ms": 133259,
+      "name": "die!",
+      "url": "https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "West End Girl",
+        "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 150733,
+      "name": "Tennis",
+      "url": "https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/5ziOA3BzD49xDKsSJMMikl"
+      },
+      "artists": [
+        {
+          "name": "JOY.",
+          "url": "https://open.spotify.com/artist/2sphpXGg1u97VSzbm5gR2P"
+        }
+      ],
+      "duration_ms": 219803,
+      "name": "Out of Love",
+      "url": "https://open.spotify.com/track/2EY3pVlOb3gio2j2dk8Yg6"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "KISSING CONCRETE",
+        "url": "https://open.spotify.com/album/3gWbQloPE5DnaADqGHCyWN"
+      },
+      "artists": [
+        {
+          "name": "KANNER",
+          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "BAD AT MATH",
+      "url": "https://open.spotify.com/track/01Sa5D6Odl5TCylRxMJTse"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/5OQHSj1cZeZUS34ePprYFq"
+      },
+      "artists": [
+        {
+          "name": "Lara Buchanan",
+          "url": "https://open.spotify.com/artist/2MpvmnNz8i4y2XPX2DLpPh"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/3Cu4apMkDxFIIh8aKNFNPg"
+    },
     {
       "added_at": "2026-02-06 05:00:28",
       "album": {
@@ -71,6 +155,22 @@
       "duration_ms": 303333,
       "name": "A Woman's Worth",
       "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "stardust",
+        "url": "https://open.spotify.com/album/2HNjUP7VDUpyxQ2J3Cbch4"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 142088,
+      "name": "silent treatment",
+      "url": "https://open.spotify.com/track/1U3ZQNpnLslt4lCyQZzUx0"
     },
     {
       "added_at": "2026-02-06 05:00:28",
@@ -711,106 +811,6 @@
       "duration_ms": 178064,
       "name": "More",
       "url": "https://open.spotify.com/track/2U0xhn59OdwhnvQwrijjHr"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Lennon & McCartney",
-        "url": "https://open.spotify.com/album/14miY7hrK3lOKNVmOr2pgi"
-      },
-      "artists": [
-        {
-          "name": "Frankie Bird",
-          "url": "https://open.spotify.com/artist/4j8LfmADKGMGknwJOUFKYf"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "Lennon & McCartney",
-      "url": "https://open.spotify.com/track/3hhpQfWXusUNwQzx3VN4g3"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Wrong Until Right",
-        "url": "https://open.spotify.com/album/4j0RHtVrx8INqXLZrr1CCs"
-      },
-      "artists": [
-        {
-          "name": "ChiChi",
-          "url": "https://open.spotify.com/artist/7HTE9gwBIt58NNKbLhnql9"
-        },
-        {
-          "name": "Cecilia Gault",
-          "url": "https://open.spotify.com/artist/1A1ZXMqcpElewwm16R0cmk"
-        }
-      ],
-      "duration_ms": 141605,
-      "name": "4ME",
-      "url": "https://open.spotify.com/track/3eAO9ikD1UCnLA8nakwMji"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "WHEN IT'S ALL HAPPENING",
-        "url": "https://open.spotify.com/album/3mlKuxtJkPzW4ijNL6BTbf"
-      },
-      "artists": [
-        {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
-        }
-      ],
-      "duration_ms": 158863,
-      "name": "WHEN IT'S ALL HAPPENING",
-      "url": "https://open.spotify.com/track/5J5nNJuC002ukgXvjDseA6"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "Sheryl Crow",
-        "url": "https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        }
-      ],
-      "duration_ms": 290733,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/7wGBEZamABJVD15MDQG0hl"
-    },
-    {
-      "added_at": "2026-01-09 05:00:48",
-      "album": {
-        "name": "Can I Come Too?",
-        "url": "https://open.spotify.com/album/5007izIDA5T2I96QI67JaO"
-      },
-      "artists": [
-        {
-          "name": "Eden Rain",
-          "url": "https://open.spotify.com/artist/05VijScuoKQiWkLdXcsQAq"
-        }
-      ],
-      "duration_ms": 200153,
-      "name": "Ugly Crier",
-      "url": "https://open.spotify.com/track/6xVeO0jiOrV5XZDnM8wAzB"
-    },
-    {
-      "added_at": "2025-11-07 22:30:33",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     }
   ],
   "unique_name": "Created by Women",

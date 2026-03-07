@@ -196,7 +196,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 253666,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/1OTB8tW3bEPoJ4LzYtOyG2"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 140506,
       "name": "Aw Heck",
       "url": "https://open.spotify.com/track/6AmZ17zWgqFkjD50TnzTvM"
@@ -272,6 +272,24 @@
       "duration_ms": 222333,
       "name": "Before That Final Bell",
       "url": "https://open.spotify.com/track/0LtjFdoO1QDNBWBGVmun8l"
+    },
+    {
+      "album": {
+        "name": "Best of Our Possible Lives",
+        "url": "https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC"
+      },
+      "artists": [
+        {
+          "name": "Boy Golden",
+          "url": "https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188988,
+      "name": "Best of Our Possible Lives",
+      "url": "https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX"
     },
     {
       "album": {
@@ -341,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/5GW2GHHipzlaR68KEFFQl2"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219418,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/14XXUg03igAVw2a70VjmKI"
+    },
+    {
+      "album": {
         "name": "Paranoid Cocoon",
         "url": "https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO"
       },
@@ -370,7 +406,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 187725,
       "name": "Blue Pill Blues",
       "url": "https://open.spotify.com/track/6mFWXPietqhGexi0hkNH1B"
@@ -442,10 +478,28 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186773,
       "name": "Breakfast",
       "url": "https://open.spotify.com/track/4FDGp2BcZSmT9dZucG4ksY"
+    },
+    {
+      "album": {
+        "name": "Can't Hold A Candle To",
+        "url": "https://open.spotify.com/album/58XxW10On4MrmgPyxARAyx"
+      },
+      "artists": [
+        {
+          "name": "Karli Lar Durden",
+          "url": "https://open.spotify.com/artist/7lQRgNE4OVcj5EB2lz00Bp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261493,
+      "name": "Can't Hold A Candle To",
+      "url": "https://open.spotify.com/track/6txJCnbb6w8y5zAqdWTW4M"
     },
     {
       "album": {
@@ -460,7 +514,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 290972,
       "name": "Civilized Hell",
       "url": "https://open.spotify.com/track/4QO2PpZDTP0Loy9YOrKCNW"
@@ -496,7 +550,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 256281,
       "name": "Cocaine Country Dancing",
       "url": "https://open.spotify.com/track/16l9NihqKg5PcBbbIi2buW"
@@ -572,7 +626,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192626,
       "name": "Cowpoke",
       "url": "https://open.spotify.com/track/3nuXMmXEJz8nRjDikhLryl"
@@ -626,7 +680,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 206413,
       "name": "Denim & Diamonds",
       "url": "https://open.spotify.com/track/7fHUqBn0fIdmVjBLq0ofbx"
@@ -644,7 +698,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 254393,
       "name": "Downtown Train",
       "url": "https://open.spotify.com/track/0aWBdWQQcMWpuSmO4GKuHw"
@@ -673,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Dreamer Dreamer",
+        "url": "https://open.spotify.com/album/3R0XB9WrGBYfxNM2MZZEjl"
+      },
+      "artists": [
+        {
+          "name": "Julianna Zachariou",
+          "url": "https://open.spotify.com/artist/3MKLoCXEXufW2ldiQtUokO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "Dreamer Dreamer",
+      "url": "https://open.spotify.com/track/0VciKkrBcrbkuvckK315DI"
+    },
+    {
+      "album": {
         "name": "Dublin, Texas",
         "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
       },
@@ -684,7 +756,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 269286,
       "name": "Dublin, Texas",
       "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
@@ -724,7 +796,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 258188,
       "name": "Feet Off The Ground (feat. Jade Bird)",
       "url": "https://open.spotify.com/track/5HlqJxuU7T8Tqn56f2d3Pg"
@@ -808,7 +880,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205693,
       "name": "Forever Whatever",
       "url": "https://open.spotify.com/track/214Xr7LA7fbT9VN74raGLA"
@@ -941,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/1WzeryfBKaLye5onsOzhNy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206300,
+      "name": "Gone - Cover",
+      "url": "https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K"
+    },
+    {
+      "album": {
         "name": "Green Rocky Road",
         "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
@@ -1024,7 +1114,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 232693,
       "name": "Hearts on Fire - 2002 Remaster",
       "url": "https://open.spotify.com/track/3THXntC8T110BDg3X8OaOf"
@@ -1096,7 +1186,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 239803,
       "name": "Holy Ghost Fire",
       "url": "https://open.spotify.com/track/2LjvIdtY6NISb0eIB2wDJb"
@@ -1132,7 +1222,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217333,
       "name": "Hot Burrito #1",
       "url": "https://open.spotify.com/track/0fRAGPWGKsntkIB2uZ9zkd"
@@ -1222,7 +1312,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192706,
       "name": "In Light Of Us",
       "url": "https://open.spotify.com/track/6ZTgl1SOuIaX7Azvy66Wiy"
@@ -1288,7 +1378,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 124760,
       "name": "Isn\u2019t It",
       "url": "https://open.spotify.com/track/7jGJXnajUOnQrBO3QN7Cst"
@@ -1432,7 +1522,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 296520,
       "name": "L.A. Freeway",
       "url": "https://open.spotify.com/track/0HFu4LUT4kKxwIPFnS7UGz"
@@ -1666,7 +1756,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 229400,
       "name": "Los Chicos Tristes",
       "url": "https://open.spotify.com/track/6X0Q2zxM4kiNDk1CY2vkZJ"
@@ -1720,7 +1810,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188396,
       "name": "Low Sun",
       "url": "https://open.spotify.com/track/4TwFXylgQheM8AUgY00G7C"
@@ -1738,7 +1828,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167709,
       "name": "Luck of the Draw",
       "url": "https://open.spotify.com/track/37WNhzp7wOKMuMsByEsUF2"
@@ -1756,7 +1846,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211846,
       "name": "Make My Mind Up",
       "url": "https://open.spotify.com/track/1xCLVikxgsHqwKjGCrqAyB"
@@ -1774,7 +1864,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 238600,
       "name": "Mendocino (feat. Duane Eddy)",
       "url": "https://open.spotify.com/track/5gAt45dCnLedFHWRzHqi3X"
@@ -1828,7 +1918,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169133,
       "name": "Miller's Cave",
       "url": "https://open.spotify.com/track/2Zq979VWE5SG5WIcd396Ay"
@@ -1846,7 +1936,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 271958,
       "name": "Mornings In Memphis",
       "url": "https://open.spotify.com/track/3XSMqnPOR0UJBnbEZL656D"
@@ -1940,7 +2030,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220699,
       "name": "Oh, Sister [Feat. Courtney Marie Andrews]",
       "url": "https://open.spotify.com/track/4DNWkjZlBuGgSmNnqOVBeN"
@@ -2016,6 +2106,24 @@
       "duration_ms": 220573,
       "name": "Poncho & Lefty",
       "url": "https://open.spotify.com/track/6QXtKi4TVe1458QNodE3cs"
+    },
+    {
+      "album": {
+        "name": "Queen of Spades",
+        "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Queen of Spades",
+      "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
     },
     {
       "album": {
@@ -2146,7 +2254,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165225,
       "name": "Rendezvous USA",
       "url": "https://open.spotify.com/track/2QYVddrs3CcYAOS7awh8JG"
@@ -2200,7 +2308,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 365746,
       "name": "Riding For The Feeling",
       "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
@@ -2276,7 +2384,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 221440,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/6q6czsVwoeC3mm0oJUwsgd"
@@ -2528,7 +2636,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 272786,
       "name": "Space And Time",
       "url": "https://open.spotify.com/track/4sYhsIGQV2DRzYuTIBSoFN"
@@ -2640,7 +2748,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 258930,
       "name": "Strange Fascination",
       "url": "https://open.spotify.com/track/1RQcETFoOBuy8oPHXE8dq7"
@@ -2948,7 +3056,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 294286,
       "name": "The Wolf",
       "url": "https://open.spotify.com/track/2FGFj7w2KzTwPTWJMWcFvg"
@@ -3042,7 +3150,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196765,
       "name": "Toshiba Sky",
       "url": "https://open.spotify.com/track/2xmNUTjFh6DeZIXgc6CfU1"
@@ -3186,7 +3294,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188186,
       "name": "Turtles All the Way Down",
       "url": "https://open.spotify.com/track/4NE3oWyUQI2b2NjyMyC8Bi"
@@ -3204,7 +3312,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 234224,
       "name": "U Do U",
       "url": "https://open.spotify.com/track/07jlI3uVHBzWfeNW5J2gX2"
@@ -3328,7 +3436,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 301960,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/3VM6iAbIufq8F3b73OTMiJ"
@@ -3382,7 +3490,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165186,
       "name": "Waiting Around to Die",
       "url": "https://open.spotify.com/track/7gtrXOGETM9OkerNjNXeie"
@@ -3444,7 +3552,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 185754,
       "name": "Welcome To Hard Times",
       "url": "https://open.spotify.com/track/09fKvii5cZUzqJl6ESLsFM"
@@ -3502,7 +3610,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 183894,
       "name": "When A Cowboy Trades His Spurs For Wings",
       "url": "https://open.spotify.com/track/6KXIT7swzbtBjIepVzbarJ"
@@ -3520,7 +3628,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 284030,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
@@ -3628,7 +3736,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 179520,
       "name": "Windfall - 2015 Remaster",
       "url": "https://open.spotify.com/track/52iyhfd6jgU2wYB8QIYs6t"

@@ -2,7 +2,7 @@
 
 ### [Edisons Pop 2026](https://open.spotify.com/playlist/37i9dQZF1DX8mnKbIkppDf)
 
-> De Edisons\-nominaties 2026 in de categorieën Song, Album,  Nieuwkomer, Pop, Hiphop, Hollands, Nederlandstalig, Alternative, Soul/R&B/Funk, Dance & Rock.
+> De genomineerden: Song, Album,  Nieuwkomer, Pop, Hiphop, Hollands, Nederlandstalig, Alternative, Soul/R&B/Funk, Dance & Rock.
 
 124 songs - 6 hr 30 min
 

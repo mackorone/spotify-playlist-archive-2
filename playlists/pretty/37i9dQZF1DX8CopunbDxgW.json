@@ -1,13 +1,85 @@
 {
-  "description": "we recommend pairing a cocktail with this new fabich album\ud83c\udf79 metropolis is your home for the best indie dance",
-  "num_followers": 874840,
+  "description": "joshua idehen's new album has us beaming \ud83e\udde1 metropolis is your home for the best indie dance",
+  "num_followers": 874799,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAG2934ONJ7T7QXrWB8icVk5igbr",
+  "snapshot_id": "AAAAAM9JMeufNZ64VCy8LGuaBEJWFQle",
   "tracks": [
+    {
+      "added_at": "2026-03-06 17:10:39",
+      "album": {
+        "name": "I know you're hurting, everyone is hurting, everyone is trying, you have got to try",
+        "url": "https://open.spotify.com/album/0DcM6gjvAIGwlParaxKz8w"
+      },
+      "artists": [
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 205096,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/5YdXaCrBhHWCMe9VUBCZ91"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Magnetic / Addicted To Your Love",
+        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+    },
+    {
+      "added_at": "2026-02-27 05:00:49",
+      "album": {
+        "name": "Do I Like You Like That?",
+        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
+      },
+      "artists": [
+        {
+          "name": "Justin Jay",
+          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+        },
+        {
+          "name": "EVA",
+          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
+        }
+      ],
+      "duration_ms": 161152,
+      "name": "Do I Like You Like That?",
+      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Talk To You",
+        "url": "https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "54 Ultra",
+          "url": "https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ"
+        }
+      ],
+      "duration_ms": 191076,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v"
+    },
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
@@ -45,6 +117,46 @@
       "url": "https://open.spotify.com/track/2Qwp0YeGOipTgVok5mLtqv"
     },
     {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "JOY (This One)",
+        "url": "https://open.spotify.com/album/0cCdQCrrpTdgKeJkhTt7VY"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Stush",
+          "url": "https://open.spotify.com/artist/3lR9sktAKCI2eJeTEHBcTT"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "JOY (This One)",
+      "url": "https://open.spotify.com/track/188ciRFWgwvGO63WwTRcfm"
+    },
+    {
       "added_at": "2026-02-13 05:00:40",
       "album": {
         "name": "mangetout (The Dare remix)",
@@ -65,44 +177,36 @@
       "url": "https://open.spotify.com/track/1IkSG0zP2JfECRpgPcr9Uq"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
+      "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "JOY (Nobody Ever)",
-        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
+        "name": "Shattered / Affect",
+        "url": "https://open.spotify.com/album/56Zl1w8nl4BVYKoHddaq6H"
       },
       "artists": [
         {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
         },
         {
-          "name": "Tamaraebi",
-          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
-        }
-      ],
-      "duration_ms": 212932,
-      "name": "JOY (Nobody Ever) 7\u201d mix",
-      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
-        "name": "Do I Like You Like That?",
-        "url": "https://open.spotify.com/album/1uL0MJ82ZEIJXzBLN7l2in"
-      },
-      "artists": [
-        {
-          "name": "Justin Jay",
-          "url": "https://open.spotify.com/artist/5k5eiijuHxrGwXp2Pz37GZ"
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
         },
         {
-          "name": "EVA",
-          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ross Meen",
+          "url": "https://open.spotify.com/artist/7CXbFIOsm6PhB8gVtLXdbM"
         }
       ],
-      "duration_ms": 161152,
-      "name": "Do I Like You Like That?",
-      "url": "https://open.spotify.com/track/0wmoYDroQBJResdGOxuH1B"
+      "duration_ms": 331346,
+      "name": "Shattered",
+      "url": "https://open.spotify.com/track/00wXAYLSualHDbHXFtf1uG"
     },
     {
       "added_at": "2026-02-20 07:35:50",
@@ -137,6 +241,54 @@
       "url": "https://open.spotify.com/track/5XZQ4aIsrTZGuTqsuWZpOK"
     },
     {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Powder Hour",
+        "url": "https://open.spotify.com/album/6AfsLqVMVP8xhSgwiziCza"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        }
+      ],
+      "duration_ms": 153750,
+      "name": "Powder Hour",
+      "url": "https://open.spotify.com/track/5XW6pzlCr6RJ6YZdMjLauL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Orla",
+        "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 205190,
+      "name": "Orla",
+      "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
+    },
+    {
+      "added_at": "2026-02-20 07:35:50",
+      "album": {
+        "name": "Loverr",
+        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+      },
+      "artists": [
+        {
+          "name": "Human Family",
+          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+        }
+      ],
+      "duration_ms": 200761,
+      "name": "Loverr",
+      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+    },
+    {
       "added_at": "2026-02-20 07:35:50",
       "album": {
         "name": "Dance With You",
@@ -161,20 +313,36 @@
       "url": "https://open.spotify.com/track/24ywd2iYsIrfEaHIOCEhm1"
     },
     {
-      "added_at": "2026-02-27 05:00:49",
+      "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Magnetic / Addicted To Your Love",
-        "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
+        "name": "a love letter",
+        "url": "https://open.spotify.com/album/73I7v3LXBbWThjBG1K2Osy"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "MAX RAD",
+          "url": "https://open.spotify.com/artist/2Igm79AVp3dCbQhfF6I60Z"
         }
       ],
-      "duration_ms": 181384,
-      "name": "Magnetic",
-      "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
+      "duration_ms": 195041,
+      "name": "a love letter",
+      "url": "https://open.spotify.com/track/40N8VbV4IYt8xhaAbIECW5"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Elktorn / All I Could Think Of",
+        "url": "https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Elktorn",
+      "url": "https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW"
     },
     {
       "added_at": "2026-02-13 05:00:40",
@@ -209,6 +377,22 @@
       "url": "https://open.spotify.com/track/6vMRtaCVRTsGC90Zy6KW5D"
     },
     {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "Carla's Song",
+      "url": "https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo"
+    },
+    {
       "added_at": "2026-02-27 05:00:49",
       "album": {
         "name": "Undressed",
@@ -223,6 +407,50 @@
       "duration_ms": 180250,
       "name": "Undressed",
       "url": "https://open.spotify.com/track/0wzQIzJRmKSeHxvPiehhnh"
+    },
+    {
+      "added_at": "2026-02-06 05:00:47",
+      "album": {
+        "name": "JOY (Nobody Ever)",
+        "url": "https://open.spotify.com/album/19601lAugpHsknNX99BKDz"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Tamaraebi",
+          "url": "https://open.spotify.com/artist/5PRqaEB5d1aoPXZzCHNmoZ"
+        }
+      ],
+      "duration_ms": 212932,
+      "name": "JOY (Nobody Ever) 7\u201d mix",
+      "url": "https://open.spotify.com/track/5EQPP2o54ROuY3DII048De"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Can't Fake The Feeling (Radio Mix)",
+        "url": "https://open.spotify.com/album/6AFRIq41vWqfICYzrtA5V2"
+      },
+      "artists": [
+        {
+          "name": "Kamma & Masalo",
+          "url": "https://open.spotify.com/artist/3kYivDAcsxzKQe5D6tSISu"
+        },
+        {
+          "name": "Kamma",
+          "url": "https://open.spotify.com/artist/775xcuXzPW9p8TODycEul0"
+        },
+        {
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+        }
+      ],
+      "duration_ms": 276479,
+      "name": "Can't Fake The Feeling - Radio Mix",
+      "url": "https://open.spotify.com/track/6Um8WBoZODMJFTXeQwl2Mo"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -261,20 +489,20 @@
       "url": "https://open.spotify.com/track/5bx1aS5zltF4dNAgKidK4Z"
     },
     {
-      "added_at": "2026-02-20 07:35:50",
+      "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Loverr",
-        "url": "https://open.spotify.com/album/1IAifM8CYCpNvG45SIUMHt"
+        "name": "Give Me More",
+        "url": "https://open.spotify.com/album/01chO9HowxXCWl9eZtFFt1"
       },
       "artists": [
         {
-          "name": "Human Family",
-          "url": "https://open.spotify.com/artist/3rAmqzzZzmxAbxPyi3liyH"
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
         }
       ],
-      "duration_ms": 200761,
-      "name": "Loverr",
-      "url": "https://open.spotify.com/track/70Kh9erWe00Bvll9YKpIhu"
+      "duration_ms": 156250,
+      "name": "Give Me More",
+      "url": "https://open.spotify.com/track/4cqK0ZHV9TnQqx2qQHroXy"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -327,22 +555,6 @@
       "duration_ms": 228000,
       "name": "Same As I Do",
       "url": "https://open.spotify.com/track/4CMcKFSCIAjeJJ3t70BvJC"
-    },
-    {
-      "added_at": "2026-01-09 05:00:42",
-      "album": {
-        "name": "Future Chic EP",
-        "url": "https://open.spotify.com/album/4Eu7jmYbEQcfDdODAzAMA2"
-      },
-      "artists": [
-        {
-          "name": "Davide Dev",
-          "url": "https://open.spotify.com/artist/2C6UKuUrQSYVz39Fm5Ko4q"
-        }
-      ],
-      "duration_ms": 167841,
-      "name": "What You Need",
-      "url": "https://open.spotify.com/track/1Q6zHALZxfArSQYmrZIHuJ"
     },
     {
       "added_at": "2026-01-30 05:01:10",
@@ -789,26 +1001,6 @@
       "url": "https://open.spotify.com/track/18SkZPigYCfd5Y37qNz2BM"
     },
     {
-      "added_at": "2026-02-06 05:00:47",
-      "album": {
-        "name": "Fantasy Camera (feat. Forest Claudette)",
-        "url": "https://open.spotify.com/album/7LCKojbf1T8VJGaqm9eVHq"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        },
-        {
-          "name": "Forest Claudette",
-          "url": "https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM"
-        }
-      ],
-      "duration_ms": 184080,
-      "name": "Fantasy Camera (feat. Forest Claudette)",
-      "url": "https://open.spotify.com/track/5GrUr9jQJqRRvA6AuHiYYH"
-    },
-    {
       "added_at": "2026-01-16 05:00:40",
       "album": {
         "name": "Out Of Phase",
@@ -895,30 +1087,6 @@
       "duration_ms": 265511,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5RZ74VjNYc2wX6jMU9qD2G"
-    },
-    {
-      "added_at": "2025-11-21 05:00:38",
-      "album": {
-        "name": "Otherside",
-        "url": "https://open.spotify.com/album/2Ksvhe4WBN9qUAbCqzQXXD"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Thunder Jackson",
-          "url": "https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ"
-        },
-        {
-          "name": "MiiRACLES",
-          "url": "https://open.spotify.com/artist/6zsHYQWjSH9RbUYoc07Kp5"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Otherside",
-      "url": "https://open.spotify.com/track/1xXwHbCF1Vm9DHxxQkef4i"
     },
     {
       "added_at": "2026-01-23 05:00:29",
@@ -1313,22 +1481,6 @@
       "url": "https://open.spotify.com/track/1HLTR6jmmraeE6OucxKGZS"
     },
     {
-      "added_at": "2026-01-02 17:26:24",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7aXyqdNlaSsdpxzmzIAkcj"
-      },
-      "artists": [
-        {
-          "name": "Cody Currie",
-          "url": "https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx"
-        }
-      ],
-      "duration_ms": 309302,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/02pnMOuhlDIhb89haEyorN"
-    },
-    {
       "added_at": "2026-01-09 05:00:42",
       "album": {
         "name": "LIVE 4 THE WEEKEND",
@@ -1343,26 +1495,6 @@
       "duration_ms": 157058,
       "name": "LIVE 4 THE WEEKEND",
       "url": "https://open.spotify.com/track/5RvZ6VwgeJv5bCJAHq0pIG"
-    },
-    {
-      "added_at": "2026-01-09 05:00:42",
-      "album": {
-        "name": "Peaches",
-        "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
-      },
-      "artists": [
-        {
-          "name": "Young Franco",
-          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 147243,
-      "name": "Peaches",
-      "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
     },
     {
       "added_at": "2025-11-14 05:00:40",
@@ -1473,58 +1605,6 @@
       "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
     },
     {
-      "added_at": "2025-10-10 04:00:37",
-      "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/4fSeCHsY6f1o4ccUxC7FRT"
-      },
-      "artists": [
-        {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
-        }
-      ],
-      "duration_ms": 173772,
-      "name": "I Like It Like That",
-      "url": "https://open.spotify.com/track/70EG3KoKRu3jvsBlFVZYkJ"
-    },
-    {
-      "added_at": "2025-11-14 05:00:40",
-      "album": {
-        "name": "Staaaaaaaaaay",
-        "url": "https://open.spotify.com/album/24T3mTxGXuZBMgGXVqil4T"
-      },
-      "artists": [
-        {
-          "name": "Taite Imogen",
-          "url": "https://open.spotify.com/artist/3mkzFWYCYAGqxo02F1trQL"
-        },
-        {
-          "name": "DijahSB",
-          "url": "https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt"
-        }
-      ],
-      "duration_ms": 198214,
-      "name": "Staaaaaaaaaay",
-      "url": "https://open.spotify.com/track/54HE9SBZW1lDoKhf0cZ73D"
-    },
-    {
-      "added_at": "2025-11-14 05:00:40",
-      "album": {
-        "name": "Club Burn",
-        "url": "https://open.spotify.com/album/6m3iYS0C8mrVMMRaNybdGz"
-      },
-      "artists": [
-        {
-          "name": "Life on Planets",
-          "url": "https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Club Burn",
-      "url": "https://open.spotify.com/track/6XWy5BIUB0ikfVwwrO5aO8"
-    },
-    {
       "added_at": "2025-10-24 04:00:19",
       "album": {
         "name": "Treat Yourself",
@@ -1629,22 +1709,6 @@
       "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG"
     },
     {
-      "added_at": "2025-09-26 04:00:18",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/2kCjkEVRnLdEV5UOaQSAG4"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 205308,
-      "name": "Dracula",
-      "url": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
-    },
-    {
       "added_at": "2025-10-03 18:57:26",
       "album": {
         "name": "In Daytona Yellow",
@@ -1685,26 +1749,6 @@
       "url": "https://open.spotify.com/track/1iX4H6DTyg7xrmt8EzJbzB"
     },
     {
-      "added_at": "2025-10-17 04:00:57",
-      "album": {
-        "name": "HARD N SOFT",
-        "url": "https://open.spotify.com/album/5XyCvxjioJ9Lex2yBQ6Hd8"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        },
-        {
-          "name": "Fiorious",
-          "url": "https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor"
-        }
-      ],
-      "duration_ms": 201717,
-      "name": "HARD N SOFT",
-      "url": "https://open.spotify.com/track/0NGzHyfkHvF7anlcBt7Stn"
-    },
-    {
       "added_at": "2025-09-05 04:00:22",
       "album": {
         "name": "MOVEMENT",
@@ -1735,42 +1779,6 @@
       "duration_ms": 213706,
       "name": "Our Home",
       "url": "https://open.spotify.com/track/5r29ub7D58nOi0vZbnvWGv"
-    },
-    {
-      "added_at": "2025-06-27 04:00:20",
-      "album": {
-        "name": "Hypnotised",
-        "url": "https://open.spotify.com/album/1KeOKmz86ujYQKPcmVO8SO"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Linden Jay",
-          "url": "https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC"
-        }
-      ],
-      "duration_ms": 202787,
-      "name": "Hypnotised (feat. Linden Jay)",
-      "url": "https://open.spotify.com/track/67N1PtpuY7DgemawuzioIz"
-    },
-    {
-      "added_at": "2025-08-01 04:00:40",
-      "album": {
-        "name": "Fidget Spinner EP",
-        "url": "https://open.spotify.com/album/5PiNrjLl5nIgkgsjMwWdm1"
-      },
-      "artists": [
-        {
-          "name": "Ciutat",
-          "url": "https://open.spotify.com/artist/6mopaAcodk04EGM8lJ2AnW"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Quiero Verte Bailar",
-      "url": "https://open.spotify.com/track/3VFuA7YsxBKrSNxk9nT71j"
     },
     {
       "added_at": "2025-05-02 04:00:40",

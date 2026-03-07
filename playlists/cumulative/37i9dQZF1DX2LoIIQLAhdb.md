@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Franglish
 
-658 songs - 1 day 6 hr 59 min
+658 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Ready pour toi](https://open.spotify.com/track/60tv6rj8FjizLupCy3d51G) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Ready pour toi](https://open.spotify.com/album/2qLdyWpYhnQYhvQiRhdyfH) | 2:12 | 2025-10-09 | 2025-11-07 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
 | [Recommencer Pt.2](https://open.spotify.com/track/7qekyyp9UZWV3ZgAbGXanv) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [15 Vol.2 : La polyvalence est un don](https://open.spotify.com/album/0X943C64oj0FwgOnZDaTm9) | 2:50 | 2024-10-10 | 2025-02-21 |
+| [Red Flag](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 3:06 | 2026-03-05 |  |
 | [RendezVOUS](https://open.spotify.com/track/0ZRjsqlzK08NTuIAJPBC4w) | [Kan](https://open.spotify.com/artist/3ScmxG7aEI7lW0gf9vRs6g), [Lazuli](https://open.spotify.com/artist/5KGjhTaGG0FvcOtQRAvoCE), [MadeInParis](https://open.spotify.com/artist/2NRdZaTYZk1CexnDSlnxZU) | [RendezVOUS](https://open.spotify.com/album/072DDlsUr6lEJsmLqYGkhd) | 2:28 | 2025-03-06 | 2025-04-18 |
 | [Reste encore](https://open.spotify.com/track/0uZ2FEXaXuasSUy6s9vDFs) | [C2AM](https://open.spotify.com/artist/1acO9gERaiQD0BiOOdBrlG) | [Baby Boyz](https://open.spotify.com/album/1JNbcdTsBsPlcuyBBpOcuk) | 2:38 | 2025-06-26 | 2025-08-08 |
 | [RESTE\-LÀ](https://open.spotify.com/track/6yg2N05MAebATBiYQytC6N) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:02 | 2024-09-19 | 2025-09-05 |
@@ -555,6 +556,7 @@
 | [SHAKE](https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [SHAKE](https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x) | 2:51 | 2024-08-01 | 2024-09-27 |
 | [Shake](https://open.spotify.com/track/6D1SBrgvBx6fy25syegHtf) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Shake](https://open.spotify.com/album/2jwhlGrdKvvcBKx1JYqGiX) | 2:43 | 2024-06-06 | 2025-02-14 |
 | [Shatta](https://open.spotify.com/track/0d8ub8EIWkadmVWUP21a4K) | [Neyda](https://open.spotify.com/artist/1YNtvynvmeKZHpO2WHGLu3) | [Mes anges](https://open.spotify.com/album/5vh2oneihmAs3zaE2P9BqN) | 2:38 | 2025-08-14 | 2025-09-12 |
+| [Shawty](https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 2:39 | 2026-03-05 |  |
 | [SHINE](https://open.spotify.com/track/5TCpgr5z8ijC4U2CYWF8ep) | [DAKEEZ](https://open.spotify.com/artist/63TYAXPLsZ7A3AFeGiGGGu) | [SHINE](https://open.spotify.com/album/11dur3MuAfGH3vZ30jYKnk) | 2:26 | 2025-07-03 | 2025-10-24 |
 | [si j'avais pu](https://open.spotify.com/track/6XLdsbYjkONIN6TAt8s7yS) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [si j'avais pu](https://open.spotify.com/album/5t9FkBCsHX4BSsTDATZD8P) | 2:26 | 2024-01-18 | 2024-03-01 |
 | [Si t'es pas là](https://open.spotify.com/track/7iFHqrO5zR5W2BLX1tcFvU) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Si t'es pas là](https://open.spotify.com/album/0w4IYykWb4wgw3LkUxRpwg) | 3:17 | 2024-01-25 | 2024-08-02 |
@@ -626,8 +628,6 @@
 | [Tout se sait](https://open.spotify.com/track/3AwtCxUXJfQqy2mwWVRzTl) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Tout se sait](https://open.spotify.com/album/4HopVoWJplseTouNu1qJnU) | 3:32 | 2026-01-15 | 2026-02-27 |
 | [Toxic](https://open.spotify.com/track/69YKkqBo1RGZzW6z3cBfiQ) | [Djeneva](https://open.spotify.com/artist/74Bk9HuRAbkzv775XaTS2E) | [Djene's Room](https://open.spotify.com/album/2Cw6MkVoG0jxOfywMc9zyE) | 2:48 | 2024-12-05 | 2025-01-17 |
 | [TPMP](https://open.spotify.com/track/5c99frMDxk1WXXhyd9jdHb) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [TPMP](https://open.spotify.com/album/4Z2k0UlODEiPW49gbqL7AT) | 2:42 | 2024-01-11 | 2024-05-17 |
-| [Track 2](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 | 2026-03-05 |  |
-| [Track 8](https://open.spotify.com/track/76DkZEqZZj5zLWDnUaHZU7) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 | 2026-03-05 |  |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
 | [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 | 2024-03-01 |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |

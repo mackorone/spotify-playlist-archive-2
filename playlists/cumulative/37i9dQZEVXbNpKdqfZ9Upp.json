@@ -13978,7 +13978,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
@@ -14238,7 +14238,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -18650,7 +18650,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158440,
       "name": "Domingo Familiar",
       "url": "https://open.spotify.com/track/6s5fdTesXo77NneP3tn3Km"
@@ -26079,6 +26079,24 @@
     },
     {
       "album": {
+        "name": "Fuerzas Pa'",
+        "url": "https://open.spotify.com/album/4LIG7szX1bzJitlAlf0PUz"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159768,
+      "name": "Fuerzas Pa'",
+      "url": "https://open.spotify.com/track/6SsspmS2fecS6kMKEN3uEP"
+    },
+    {
+      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -32586,7 +32604,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 218760,
       "name": "Join Me In Death - Strongroom Mix",
       "url": "https://open.spotify.com/track/3M19tMWNijQ9UCQdXS6Ill"
@@ -70800,7 +70818,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 246479,
       "name": "Una Cosa He Demandado",
       "url": "https://open.spotify.com/track/31iyBJ2Sh38PRUI4IHOIoj"

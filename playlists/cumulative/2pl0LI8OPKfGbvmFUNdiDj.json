@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Aeon's End",
+        "url": "https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296334,
+      "name": "Aeon's End",
+      "url": "https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY"
+    },
+    {
+      "album": {
         "name": "No Rest 'Til Sunrise",
         "url": "https://open.spotify.com/album/3c7ImHtPFFtTTZTM7DbaWp"
       },

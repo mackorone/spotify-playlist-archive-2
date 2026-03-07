@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA"
+      },
+      "artists": [
+        {
+          "name": "Forever Factory",
+          "url": "https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194749,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT"
+    },
+    {
+      "album": {
         "name": "Accentology",
         "url": "https://open.spotify.com/album/1srYSjA58vBQbgnAfl5ZDO"
       },
@@ -74,6 +92,24 @@
       "duration_ms": 178909,
       "name": "Accentology",
       "url": "https://open.spotify.com/track/3pbmVfBmPF9AOyC7fzxPu0"
+    },
+    {
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200087,
+      "name": "African Sky",
+      "url": "https://open.spotify.com/track/2aiW0epKtoG6XgUCzh1opp"
     },
     {
       "album": {
@@ -684,6 +720,24 @@
       "duration_ms": 215301,
       "name": "Funny Pills",
       "url": "https://open.spotify.com/track/7J7AKyvwOUQdmTxcyDJgDz"
+    },
+    {
+      "album": {
+        "name": "Songbook '126-'127",
+        "url": "https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou"
+      },
+      "artists": [
+        {
+          "name": "Tom Burton",
+          "url": "https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195918,
+      "name": "Get Me Out A Can Light",
+      "url": "https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47"
     },
     {
       "album": {

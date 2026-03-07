@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2150753,
+  "num_followers": 2150605,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Palindrome Hunches",
-        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
-      },
-      "artists": [
-        {
-          "name": "Neil Halstead",
-          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Digging Shelters",
-      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 211509,
       "name": "Weatherman",
       "url": "https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Palindrome Hunches",
+        "url": "https://open.spotify.com/album/6nWn2IqFMPLfo5fEi42XOe"
+      },
+      "artists": [
+        {
+          "name": "Neil Halstead",
+          "url": "https://open.spotify.com/artist/3QbwwBVHCVDEDrVpvUcCwj"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "Digging Shelters",
+      "url": "https://open.spotify.com/track/5z0rixDlXqm0iXZ1Zxz3YX"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Those Nights",
-        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
-      },
-      "artists": [
-        {
-          "name": "Carla Rego",
-          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
-        }
-      ],
-      "duration_ms": 153979,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "The Life",
         "url": "https://open.spotify.com/album/0P7elKGRg3sqrIoxF5gHqw"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 146873,
       "name": "The Life",
       "url": "https://open.spotify.com/track/6v2NgEbmGFOulY74emLe6u"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
+      },
+      "artists": [
+        {
+          "name": "Carla Rego",
+          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
+        }
+      ],
+      "duration_ms": 153979,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "The Doubles",
-        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
-      },
-      "artists": [
-        {
-          "name": "Matt the Electrician",
-          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
-        }
-      ],
-      "duration_ms": 264866,
-      "name": "The Bear (Trio)",
-      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "I Hope It Takes You Higher (Acoustic)",
         "url": "https://open.spotify.com/album/6NmGBBMgSEzqXprwqAIGad"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 220864,
       "name": "I Hope It Takes You Higher - Acoustic",
       "url": "https://open.spotify.com/track/71aHrUacV9bMtm1qCqJuwZ"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "The Doubles",
+        "url": "https://open.spotify.com/album/1qGM9zumfbz1UjQ1DQO83V"
+      },
+      "artists": [
+        {
+          "name": "Matt the Electrician",
+          "url": "https://open.spotify.com/artist/4OqDaxbU5qV78AIr6HneTn"
+        }
+      ],
+      "duration_ms": 264866,
+      "name": "The Bear (Trio)",
+      "url": "https://open.spotify.com/track/3IMVnJdSxf273uAT13oWVV"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Twin",
-        "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
-      },
-      "artists": [
-        {
-          "name": "Anna Mieke",
-          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
-        }
-      ],
-      "duration_ms": 317838,
-      "name": "Twin",
-      "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Life And Life Only (Expanded Edition)",
         "url": "https://open.spotify.com/album/251B0kXoPz8dil5Miu9b4H"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 229407,
       "name": "Go Down River - Acoustic",
       "url": "https://open.spotify.com/track/0mvml8wDmxQjbxnifxQslV"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Twin",
+        "url": "https://open.spotify.com/album/5TyFSfaDYsFcXBlofHXNiq"
+      },
+      "artists": [
+        {
+          "name": "Anna Mieke",
+          "url": "https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL"
+        }
+      ],
+      "duration_ms": 317838,
+      "name": "Twin",
+      "url": "https://open.spotify.com/track/17MuSO2Pp6sZ3Dnrc4BTxu"
     },
     {
       "added_at": "2026-01-09 13:51:16",

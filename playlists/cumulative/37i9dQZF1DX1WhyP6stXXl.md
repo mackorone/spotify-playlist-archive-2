@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: G Flip, The Beaches
 
-1,943 songs - 4 day 2 hr 40 min
+1,945 songs - 4 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [dead to me](https://open.spotify.com/track/1IdsmtCr9Uf0mDDaI9vONX) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [dead to me](https://open.spotify.com/album/3Dy2yTTXSsGy1UPTDDp6L2) | 2:57 | 2024-06-28 | 2024-07-05 |
 | [Dead To Me](https://open.spotify.com/track/0HtKDTDBOQwOdCX24OymzO) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Dead To Me](https://open.spotify.com/album/5SY0bDrwMoMZqqbumGDjkn) | 2:21 | 2025-11-13 | 2025-12-12 |
 | [deadlove](https://open.spotify.com/track/7nZhPTR1aJq8Uh3IXKWTGr) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [deadlove](https://open.spotify.com/album/1n5K80Dd84RLBbAj0MVbge) | 2:26 | 2026-02-26 |  |
+| [Dear Diary](https://open.spotify.com/track/3hsGUVFoStuLUPBOBzRrAg) | [We Three](https://open.spotify.com/artist/5oYuKMBiaAc0W8Gt7FVIjb) | [Dear Diary](https://open.spotify.com/album/3R3GhpjAZkL7YDuRDXZRen) | 3:33 | 2026-03-05 |  |
 | [Dear Me \- From The Original Documentary "Diane Warren: Relentless"](https://open.spotify.com/track/6GTTgyBHSqYLbJfMWNwPVU) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Dear Me \(From The Original Documentary "Diane Warren: Relentless"\)](https://open.spotify.com/album/5rFSttIqFbbi0DkoejrmXH) | 3:20 | 2025-01-23 | 2025-02-21 |
 | [Death Wish](https://open.spotify.com/track/3tX3O0C3n8RB9knm9QRFsc) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Death Wish](https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA) | 3:25 | 2025-12-04 | 2026-01-15 |
 | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/track/5CYblb1W46TNSWMR7BBwS2) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Death Wish Love \(From Twisters: The Album\)](https://open.spotify.com/album/30yglxGzvUeX7i6XCcV8JC) | 3:43 | 2024-07-18 | 2024-08-16 |
@@ -1208,6 +1209,7 @@
 | [Never the same](https://open.spotify.com/track/1mc9ZGd7tFDCdYS8EP6PqC) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Never the same](https://open.spotify.com/album/3GqagQDa9ynKUhlc5DNlr0) | 2:22 | 2024-06-28 | 2024-07-12 |
 | [NEW FRIENDS](https://open.spotify.com/track/6Qag39kJfma6CtUwPk45Qf) | [Skyler Wind](https://open.spotify.com/artist/6NgwMYnjqJakjMbMECN2qT) | [NEW FRIENDS](https://open.spotify.com/album/2uwdWxWE4KHOuKHRQyx99Y) | 2:53 | 2024-06-28 | 2024-07-27 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2024-06-28 | 2024-07-12 |
+| [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-05 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-15 | 2024-09-13 |
 | [new year's eve](https://open.spotify.com/track/3NIob5XXgl0hKE0GX4rBtt) | [philine](https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL) | [new year's eve](https://open.spotify.com/album/0Z2heez0LaB9Pn8uuV70cc) | 3:47 | 2024-12-19 | 2025-01-24 |
 | [Next Summer](https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Next Summer](https://open.spotify.com/album/1wWQTVv9OUwmW6EIAOZ3Ri) | 2:45 | 2025-02-27 | 2025-03-28 |

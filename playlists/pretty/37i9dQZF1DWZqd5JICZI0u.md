@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,733,484 likes - 230 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,734,192 likes - 230 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,4 +239,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 229 | [Brösull](https://open.spotify.com/track/0vnT7yMuP9TPxgVxdlLRa0) | [Ström](https://open.spotify.com/artist/0GrHUOaxUA1EUn8UlzeHBS) | [Brösull](https://open.spotify.com/album/6kjWSialNRNR2sxHF569EV) | 2:54 |
 | 230 | [Moonlit](https://open.spotify.com/track/5yZbWuXbM1Z2N6Ig8v1w6m) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Moonlit](https://open.spotify.com/album/2HcKrsJcNe1yGPzLYi12Df) | 2:43 |
 
-Snapshot ID: `AAAAABEkkw7rsQqdVhdi+ZRbIqEHWq59`
+Snapshot ID: `AAAAAOE1nRFqyad6f0UATR7+FeXvxt/Q`

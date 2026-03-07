@@ -11304,7 +11304,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 129544,
       "name": "N\u00e3o \u00c9 Amor (S\u00f3 P* e Tchau)",
       "url": "https://open.spotify.com/track/17PSpje8Gh2NYwSnXLeZsw"
@@ -13558,7 +13558,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 147692,
       "name": "Qual Sua Inten\u00e7\u00e3o?",
       "url": "https://open.spotify.com/track/0cJZMZHKdXKf99f6Ed0S27"
@@ -17705,6 +17705,28 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea (Remix)",
+        "url": "https://open.spotify.com/album/7Jdi1YIeZABZ0dD695gixE"
+      },
+      "artists": [
+        {
+          "name": "Delinn",
+          "url": "https://open.spotify.com/artist/0YZV75xF136zfiSYukmY6p"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203437,
+      "name": "Voc\u00ea - Remix",
+      "url": "https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7"
+    },
+    {
+      "album": {
         "name": "Voc\u00ea N\u00e3o Pode Dizer Nada",
         "url": "https://open.spotify.com/album/2g3qsZ0fxqhfz4xsM32oM5"
       },
@@ -18046,6 +18068,36 @@
       "duration_ms": 165641,
       "name": "YOU GOT IT",
       "url": "https://open.spotify.com/track/3WzGd7wDKGI5jEGU8cixpM"
+    },
+    {
+      "album": {
+        "name": "YSL",
+        "url": "https://open.spotify.com/album/43U0I938wNzJ3P1F9kR467"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "NAVII",
+          "url": "https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131775,
+      "name": "YSL",
+      "url": "https://open.spotify.com/track/5OaJE18FphzIsdQZMbov2g"
     },
     {
       "album": {

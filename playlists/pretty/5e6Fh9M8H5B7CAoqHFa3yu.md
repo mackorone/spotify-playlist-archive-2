@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 277 likes - 1,971 songs - 4 day 22 hr 6 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 1,977 songs - 4 day 22 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1979,5 +1979,11 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1969 | [Art of Waves](https://open.spotify.com/track/1K6jYliyZPelIN3VMFeADT) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj) | [ART of WAVES](https://open.spotify.com/album/2gMOtsag4f3smuL3wb5NJ3) | 3:42 |
 | 1970 | [Collecting Memories](https://open.spotify.com/track/3nPD47QNIbjfezj5uqvinO) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/2eOOYgcPCi9T0lseYWXddj), [Natasha Cleophas](https://open.spotify.com/artist/00nfdeOv0SOQu5itQbz3ic) | [Collecting Memories](https://open.spotify.com/album/6lotPV2jvHGnU0ioo3efhU) | 3:10 |
 | 1971 | [Coniglietto DJ](https://open.spotify.com/track/4I89YYb7dlVegs6RhnLeN8) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Coniglietto DJ](https://open.spotify.com/album/7xaHYTCnmu5LVmUVFyb1LA) | 2:39 |
+| 1972 | [Empty Church](https://open.spotify.com/track/3a4ytkMl0gnwTqSCwjT84H) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 |
+| 1973 | [Empty Church Dub](https://open.spotify.com/track/3EMsfF8JivwTLuDhOD7ATH) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp) | [Empty Church](https://open.spotify.com/album/5EPDmSu1mO725gViYE4Anw) | 3:49 |
+| 1974 | [Trees](https://open.spotify.com/track/3F41qzPCBIQzxtToQ38QeP) | [Felt Zen](https://open.spotify.com/artist/5L2WazxjD4UXfabeeUVXvZ) | [Trees](https://open.spotify.com/album/1camvevb8ZACETpkiWxiU9) | 2:38 |
+| 1975 | [Balmy Evening](https://open.spotify.com/track/7p3WLqk0LE5ys6Ok8DOJI5) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 3:21 |
+| 1976 | [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 |
+| 1977 | [Peaceful Meadow](https://open.spotify.com/track/410Q9n3o9N3La6nEQceEBf) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 2:11 |
 
-Snapshot ID: `AAAIPPn1GFeYtj2rlJxTLmASyCAyJadH`
+Snapshot ID: `AAAIQcxui1wxkdhjQvR1ozQMXx7dvXhJ`

@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Dil Nu",
+        "url": "https://open.spotify.com/album/4Hv1aQLuVT9HMo6qgy07LW"
+      },
+      "artists": [
+        {
+          "name": "Sukhjinder Alfaaz",
+          "url": "https://open.spotify.com/artist/6fCDRp75C6FXv1xVCD2SK5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271749,
+      "name": "Dil Nu",
+      "url": "https://open.spotify.com/track/4KCC0GErxzcP7zEhRQYRm5"
+    },
+    {
+      "album": {
         "name": "The Best of Hans Raj Hans",
         "url": "https://open.spotify.com/album/2IWlYsJ3zRA2umEAYccWtK"
       },
@@ -792,7 +810,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 312111,
       "name": "Jo Tere Gham Nu",
       "url": "https://open.spotify.com/track/0I7ZLpEWBn9DXQhih1wzCc"

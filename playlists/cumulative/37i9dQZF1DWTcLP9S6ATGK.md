@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Armada
 
-843 songs - 2 day 6 hr 58 min
+844 songs - 2 day 7 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -447,6 +447,7 @@
 | [Maumu Apa](https://open.spotify.com/track/38OeRntmd4MLNMqvNvKhAV) | [Deanda](https://open.spotify.com/artist/6oJPWrK6sRuygfZ1b58SfB) | [Maumu Apa](https://open.spotify.com/album/3Oh5BqgERsTszkYk2FFrID) | 3:51 | 2024-06-27 | 2024-08-02 |
 | [Melangitkanmu](https://open.spotify.com/track/7s8c4Ap7Gdzdvb3gGuVGhy) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Melangitkanmu](https://open.spotify.com/album/39dqeYCRARABzKQEazIV8Z) | 4:34 | 2025-03-20 | 2025-09-26 |
 | [Melati](https://open.spotify.com/track/4koI5WbXEXwrO2dhbfErvS) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/5m0VWZtQpAYtYdnZLh7R4d) | 2:56 | 2026-02-26 |  |
+| [Melati \- Demo Version](https://open.spotify.com/track/2BPLc7QDhqtlavuPd0TX9e) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/7CSu72oZxVLGGPOrH0cDV8) | 3:14 | 2026-03-05 |  |
 | [Memilih Berhenti](https://open.spotify.com/track/4MngDPGeICOJ30Xeaf7SPH) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Memilih Berhenti](https://open.spotify.com/album/7Ez8NmZRbNHAvk6XISPwQx) | 3:57 | 2024-08-22 | 2025-01-10 |
 | [Memilih Berhenti \- Acoustic](https://open.spotify.com/track/5Hl1MoirusAn9TIzIXIWrR) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Chapter 1.5 \(Acoustic\)](https://open.spotify.com/album/4ejyv5o7RBYzo7YRjrjPak) | 3:54 | 2024-06-27 | 2024-07-12 |
 | [Memori](https://open.spotify.com/track/2ZEXytbCABVSSV7wn47941) | [RAN](https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX) | [TEATER NESTAPA](https://open.spotify.com/album/6z3bQ2C26jxl3sSCRJgNUf) | 3:33 | 2024-10-24 | 2024-11-29 |
@@ -499,6 +500,7 @@
 | [Mungkin Hanya Kamu](https://open.spotify.com/track/06ecDe5VHZhpCi7V5kQFTW) | [Aurelia Syaharani](https://open.spotify.com/artist/7A8RuvaCkbtKEZwf1pW3cn) | [Mungkin Hanya Kamu](https://open.spotify.com/album/3sy9zZeAtCUk6BAnOQZb9K) | 3:39 | 2025-05-08 | 2025-06-06 |
 | [Muslihat \- Muslihat Original Soundtrack](https://open.spotify.com/track/234mUkdICBtkPqZqsSdw97) | [Tata Janeeta](https://open.spotify.com/artist/6reQVU3OFzQdP0NqZCwrCz) | [Muslihat \(Muslihat Original Soundtrack\)](https://open.spotify.com/album/5PFDIJ7EvKDnENjhy3iNai) | 4:53 | 2024-07-18 | 2024-09-27 |
 | [Nada Kasih](https://open.spotify.com/track/66v72L6lQ3W33f2AtOfYxb) | [Fariz RM](https://open.spotify.com/artist/1m5XLTx8naayWUXhNNrHjT), [Rieka Roslan](https://open.spotify.com/artist/1uv8Uq3SQm91fql1Ef6G2l), [Harsya Rieuwpassa](https://open.spotify.com/artist/3EIWLqVx1wWdsayIvqwe0w) | [Nada Kasih](https://open.spotify.com/album/3gxPL86jiJVh5quZLL6c7n) | 3:11 | 2024-11-28 | 2025-02-28 |
+| [nanti bila engkau pergi](https://open.spotify.com/track/37u0UUtJixRnhUHRuA7APr) | [Argya](https://open.spotify.com/artist/0kUYC1ocZkwUTcgQwsT345) | [nanti bila engkau pergi](https://open.spotify.com/album/59orweIZ7wBeRSVtp7P1PU) | 4:22 | 2026-03-05 |  |
 | [Nanti Kita Seperti Ini \- Cinematic Version](https://open.spotify.com/track/6qXk3QKnbSufkqUqz0A0Rm) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2), [Hannah Delisha](https://open.spotify.com/artist/3XrI2jzqgzcCwiYFuLKBbQ) | [Nanti Kita Seperti Ini \(Cinematic Version\)](https://open.spotify.com/album/0Pi1n9XHDkjxAGELekQy7p) | 4:24 | 2025-06-26 | 2025-09-26 |
 | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/track/02oUCOLqEaUAiMlsFhMtQi) | [Five Minutes](https://open.spotify.com/artist/1jpcciDZSo632cA34WIfTX) | [Nasib Suami Di Akhir Bulan](https://open.spotify.com/album/6FHTCzGVQD0QyVvywYoXjn) | 3:49 | 2024-10-03 | 2024-11-08 |
 | [Nikah Sempurna](https://open.spotify.com/track/7xfVzvVzxRXfgmiHaERnY1) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Nikah Sempurna](https://open.spotify.com/album/50k5gWGBVJALWvmfXPHE4V) | 3:55 | 2026-02-12 |  |
@@ -820,7 +822,6 @@
 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 | 2025-06-26 |  |
 | [Titip Rindu Buat Ayah](https://open.spotify.com/track/02XaSZQIcHhd9D0jPQ2vW0) | [Ebiet G\. Ade](https://open.spotify.com/artist/50l3hdnSiYODINDYhyP0QA), [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Titip Rindu Buat Ayah](https://open.spotify.com/album/6cWNWavOXkbVePQ1opO1Ky) | 5:09 | 2025-09-05 | 2025-11-28 |
 | [Tolak Ukur](https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ) | [Mitty Zasia](https://open.spotify.com/artist/7w5TB54pRaR6R4Fdx7OqRz) | [Tolak Ukur](https://open.spotify.com/album/2itP4ZroM7SAonfToHunso) | 3:35 | 2024-07-18 | 2024-09-06 |
-| [Track 2](https://open.spotify.com/track/2BPLc7QDhqtlavuPd0TX9e) | [Aku Jeje](https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f) | [Melati](https://open.spotify.com/album/7CSu72oZxVLGGPOrH0cDV8) | 0:00 | 2026-03-05 |  |
 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 | 2025-09-25 | 2025-11-07 |
 | [Trust Issue](https://open.spotify.com/track/1bbw0lMgWN3LeIREdadUpi) | [Vadel Nasir](https://open.spotify.com/artist/5aQ9whRm1qPaLSaYGP1vdk) | [Trust Issue](https://open.spotify.com/album/1C8XM0G2Yc6yhhwryYNaUC) | 4:05 | 2024-11-07 | 2024-12-13 |
 | [Tuhan Pasti Tahu](https://open.spotify.com/track/2MU9GB5Stt1sI2LDWMPciS) | [Berlliana Lovell](https://open.spotify.com/artist/4QqJsYziS0tOsMOdU6lXFa) | [Tuhan Pasti Tahu](https://open.spotify.com/album/6ymzPnROz3BDRGB4jzWUk2) | 4:05 | 2024-11-28 | 2025-02-28 |

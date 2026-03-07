@@ -789,6 +789,36 @@
     },
     {
       "album": {
+        "name": "Ancient Seed",
+        "url": "https://open.spotify.com/album/4SP8alHSsTAwom8blEF6iY"
+      },
+      "artists": [
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "WondaGurl",
+          "url": "https://open.spotify.com/artist/43Pidv3EujM1Q6woVw4Jy0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Ancient Seed",
+      "url": "https://open.spotify.com/track/68ecoJITGB8aJzb02krL8n"
+    },
+    {
+      "album": {
         "name": "And Just Like That (ft. Cruel Santino)",
         "url": "https://open.spotify.com/album/69ArVdRJrzRLFiSS1TeVDr"
       },

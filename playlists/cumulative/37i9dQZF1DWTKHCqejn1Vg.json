@@ -288,7 +288,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 167240,
       "name": "Bad Desire",
       "url": "https://open.spotify.com/track/7Af5nsqGEtTtrBK95nlU1n"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 161640,
       "name": "Blame",
       "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211085,
       "name": "Drug",
       "url": "https://open.spotify.com/track/1FVtOJnzvGudC6DNaoS07W"
@@ -2822,7 +2822,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 206349,
       "name": "In The Room",
       "url": "https://open.spotify.com/track/7m9z7YFMxBgB69sydNhFWD"
@@ -4484,7 +4484,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 121039,
       "name": "Ride on you",
       "url": "https://open.spotify.com/track/0ZoYp2KXvaggnEUlszU5BW"
@@ -5113,6 +5113,24 @@
     },
     {
       "album": {
+        "name": "Step?",
+        "url": "https://open.spotify.com/album/0BZbR4rNEd6R5t73qhF90D"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Step?",
+      "url": "https://open.spotify.com/track/3fU8FWNIgHEOepLTidZWyq"
+    },
+    {
+      "album": {
         "name": "Stigma Effect (Original Webtoon Soundtrack)Pt.1 - Do You Love Me Just Like Me?",
         "url": "https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13"
       },
@@ -5528,7 +5546,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-28",
+      "date_removed": null,
       "duration_ms": 185760,
       "name": "TOUCHIN'",
       "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
@@ -5961,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "JOAH",
+        "url": "https://open.spotify.com/album/0cCge5MT23HTVlPi7bEAKU"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205166,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/0lWch33abOEAlkQLuPbtf8"
+    },
+    {
+      "album": {
         "name": "Lowlife Princess: Noir",
         "url": "https://open.spotify.com/album/5d3MLIcMASyP0i6yqtbghZ"
       },
@@ -6236,7 +6272,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 160443,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
@@ -6312,7 +6348,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219742,
       "name": "Your/My",
       "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"

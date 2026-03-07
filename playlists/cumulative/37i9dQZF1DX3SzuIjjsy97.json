@@ -294,7 +294,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203706,
       "name": "Dead Girl Walking",
       "url": "https://open.spotify.com/track/1XVtdhL8J4L0orlDeKXZyq"
@@ -654,6 +654,24 @@
       "duration_ms": 124733,
       "name": "Love Is an Open Door - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/3IPnBzGRMg6BfViFxxa0Gq"
+    },
+    {
+      "album": {
+        "name": "Marmalade",
+        "url": "https://open.spotify.com/album/5VUq37YN6ccM0BTGgeSJsV"
+      },
+      "artists": [
+        {
+          "name": "Paddington The Musical",
+          "url": "https://open.spotify.com/artist/4yhYkrJARi1BP6W4Wi3C2w"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227302,
+      "name": "Marmalade",
+      "url": "https://open.spotify.com/track/3ih1Vqen1qoCpc0O9rOU87"
     },
     {
       "album": {

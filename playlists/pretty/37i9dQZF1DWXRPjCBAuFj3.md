@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Brani virali e trend, rap e urban 📈  Morad in cover
+> Brani virali e trend, rap e urban 📈  Sayf in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,907 likes - 113 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,911 likes - 113 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DARKMONEY \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [KING OF DARK](https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN) | 2:46 |
-| 2 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 |
-| 3 | [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 |
-| 4 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
-| 5 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
-| 6 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
-| 7 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
-| 8 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
+| 1 | [TU MI PIACI TANTO](https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [TU MI PIACI TANTO](https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k) | 3:29 |
+| 2 | [DARKMONEY \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/1SWUq0qtTSDRGrDtgq7POw) | [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [KING OF DARK](https://open.spotify.com/album/4oJZFEKPVLVViFlG5VnAhN) | 2:46 |
+| 3 | [Lamine](https://open.spotify.com/track/0kHyQJgRXOfB5EhBFTSpRJ) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Reinsertado 2.0](https://open.spotify.com/album/1dpi5vuuSZ0NILVDKhi8Ii) | 3:29 |
+| 4 | [Tristano e Isotta](https://open.spotify.com/track/7dFfkSJrAHnUdKM5jaUOLt) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 3:37 |
+| 5 | [DAVVERODAVVERO](https://open.spotify.com/track/6bdTp8Jkp3IAU15rVPWFuJ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [LA BELLAVITA](https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH) | 2:45 |
+| 6 | [Prima che](https://open.spotify.com/track/1bXER40RxwNWTf9fnQOY64) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Prima che](https://open.spotify.com/album/2BWwjP2nMSpRRS1mdnHnIP) | 3:03 |
+| 7 | [2 GIORNI DI FILA \(feat\. Sfera Ebbasta, ANNA\)](https://open.spotify.com/track/5CqjSq1ZJFPWxonCeZPyRk) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 3:31 |
+| 8 | [Ma c sta disc \(feat\. Young Hash\)](https://open.spotify.com/track/3urK1DRfhEQLPyBpGsXoku) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [Young Hash](https://open.spotify.com/artist/3DzRZC35HaSRnc4VrIbYYX), [Cocobeatz](https://open.spotify.com/artist/2kKkiWrxTciNuT6joW36iW) | [Tello](https://open.spotify.com/album/0H0UhBxunOl0oWIOHSFKrZ) | 2:45 |
 | 9 | [Affari di Famiglia](https://open.spotify.com/track/4asfq8On9n52IARlPE7p7f) | [Pocho](https://open.spotify.com/artist/6Ib960PxdWSXy8x0xAdJTG) | [Affari di Famiglia](https://open.spotify.com/album/4yBHx4se3rJmBp2UZxvfgT) | 1:53 |
 | 10 | [ROVA \(feat\. Capo Plaza\)](https://open.spotify.com/track/2tn3eqpzvgoeXCsymtsSdN) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [TRAPPER](https://open.spotify.com/album/1GRFmMBH1Y0P4DFMvseDZS) | 3:20 |
 | 11 | [Labirinto](https://open.spotify.com/track/11C1h0tuCW9qRa1QGPV9Vj) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Labirinto](https://open.spotify.com/album/0vrr3P8BXPhM3eXtsBptuq) | 3:47 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 112 | [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 |
 | 113 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 |
 
-Snapshot ID: `AAAAAL54g+d3RGj2rYILzdO+buu7a0QK`
+Snapshot ID: `AAAAANOdxwCHYOkdcgg6y/n2EqDPfhu7`

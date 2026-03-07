@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 416922,
+  "num_followers": 416976,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
+        "name": "Maneva 20 Anos, Origem - Ao Vivo",
+        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Incenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
+    },
+    {
+      "added_at": "2026-01-09 03:01:26",
+      "album": {
         "name": "Revolvendo as Raizes",
         "url": "https://open.spotify.com/album/1xNlNHe5bXk8ZC4rxoZdvf"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 230896,
       "name": "Bora Chamegar",
       "url": "https://open.spotify.com/track/0aCRuXTStPeNGRU3cpmVZa"
-    },
-    {
-      "added_at": "2026-01-09 03:01:26",
-      "album": {
-        "name": "Maneva 20 Anos, Origem - Ao Vivo",
-        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Incenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -831,18 +831,26 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Meu Destino \u00e9 o Litoral",
-        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
+        "name": "Deusa Do Amor (Reggae Version)",
+        "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
       },
       "artists": [
         {
-          "name": "MENSANA",
-          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
+          "name": "Marcelinho Da Lua",
+          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
+        },
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        },
+        {
+          "name": "tranq\u00fcilo inc",
+          "url": "https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp"
         }
       ],
-      "duration_ms": 190250,
-      "name": "Meu Destino \u00e9 o Litoral",
-      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
+      "duration_ms": 312490,
+      "name": "Deusa Do Amor - Reggae Version",
+      "url": "https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -887,26 +895,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Deusa Do Amor (Reggae Version)",
-        "url": "https://open.spotify.com/album/1oxZt4tOzbHFerdyA7LNBY"
+        "name": "Meu Destino \u00e9 o Litoral",
+        "url": "https://open.spotify.com/album/6dmHQknnJsKsaoZ9Ow44Mh"
       },
       "artists": [
         {
-          "name": "Marcelinho Da Lua",
-          "url": "https://open.spotify.com/artist/4Yw5FcyGxFtur6gG4YWmZ6"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "tranq\u00fcilo inc",
-          "url": "https://open.spotify.com/artist/2RmRQYQ1LMLhCIxmIhIQgp"
+          "name": "MENSANA",
+          "url": "https://open.spotify.com/artist/3xgO1ucAJJWnEHjh0zyHdL"
         }
       ],
-      "duration_ms": 312490,
-      "name": "Deusa Do Amor - Reggae Version",
-      "url": "https://open.spotify.com/track/0ZxYosj0mowV4YcZlwhhia"
+      "duration_ms": 190250,
+      "name": "Meu Destino \u00e9 o Litoral",
+      "url": "https://open.spotify.com/track/6nvvhe2emrtQsoCmO1dxNg"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -927,22 +927,18 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
-        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
+        "name": "Agarradinho - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
       "artists": [
         {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
-        },
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         }
       ],
-      "duration_ms": 249864,
-      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
-      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
+      "duration_ms": 164494,
+      "name": "Agarradinho - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
     },
     {
       "added_at": "2026-01-09 03:01:26",
@@ -979,18 +975,22 @@
     {
       "added_at": "2026-01-09 03:01:26",
       "album": {
-        "name": "Agarradinho - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
+        "name": "Que seja um reggae (feat. Os Paralamas Do Sucesso)",
+        "url": "https://open.spotify.com/album/6wsQgv2V3kQ05UlhVNFnWE"
       },
       "artists": [
         {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
+        },
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 164494,
-      "name": "Agarradinho - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j9YiLIN5TqwUuBwoyglMW"
+      "duration_ms": 249864,
+      "name": "Que seja um reggae - feat. Os Paralamas Do Sucesso",
+      "url": "https://open.spotify.com/track/3zd3n5iZXXcMZXWBh6Ibyr"
     },
     {
       "added_at": "2026-01-09 03:01:26",

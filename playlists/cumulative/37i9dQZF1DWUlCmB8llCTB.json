@@ -1333,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "AMOR DE DELINCUENCIA",
+        "url": "https://open.spotify.com/album/6EgnzGcZQMVRsDboBOqG4R"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "AMOR DE DELINCUENCIA",
+      "url": "https://open.spotify.com/track/7yA7AiOk7tGs20qUdZOdsP"
+    },
+    {
+      "album": {
         "name": "Amor de Mari",
         "url": "https://open.spotify.com/album/60mBWKk4jq4imHvfrykCkR"
       },
@@ -9116,7 +9138,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 194400,
       "name": "Gatita Malva",
       "url": "https://open.spotify.com/track/7BxsP1kxSNnoq1V3LXH31s"
@@ -21374,7 +21396,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 130910,
       "name": "SOCIEDAD",
       "url": "https://open.spotify.com/track/2OvXZkLK3niWOV9NK2QJpZ"
@@ -22767,6 +22789,28 @@
     },
     {
       "album": {
+        "name": "Tu Favorito",
+        "url": "https://open.spotify.com/album/1D7UQFnk0r4SXcxbDKu42w"
+      },
+      "artists": [
+        {
+          "name": "Piku",
+          "url": "https://open.spotify.com/artist/1f8zx2kFDxy1K8yr0aLKQz"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "Tu Favorito",
+      "url": "https://open.spotify.com/track/5F8aJjFlBDFs4ZNKuukHXY"
+    },
+    {
+      "album": {
         "name": "Tu Gato Bellaco (Remix)",
         "url": "https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy"
       },
@@ -23616,7 +23660,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192098,
       "name": "Vali\u00f3 La Pena",
       "url": "https://open.spotify.com/track/1DYMojCbmXo1c8bLpVKxIz"

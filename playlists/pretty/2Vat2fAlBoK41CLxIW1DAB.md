@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,597 likes - 894 songs - 2 day 8 hr 18 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,598 likes - 902 songs - 2 day 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -902,5 +902,13 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 892 | [Natural](https://open.spotify.com/track/3dLC3AnDK6QbxnhPWwWRAE) | [Optional Ganesh](https://open.spotify.com/artist/3hSejCXiZtx3chBHEwFsB5) | [Math](https://open.spotify.com/album/3Q5Qp1xWCfFg3YYSNlmwU9) | 3:13 |
 | 893 | [The Piper's Call with Jan Andersen](https://open.spotify.com/track/1K6q4HZXhHS7Ba4CHvQQDK) | [Ribera del Júcar Revival](https://open.spotify.com/artist/04gcWUfNrbcWSklXOdnmjY) | [El regreso de Misha](https://open.spotify.com/album/1WzQvW37ruDPOL1jPk9FKb) | 5:26 |
 | 894 | [Machinist](https://open.spotify.com/track/390uDe1clzKPgHHfd5i7pg) | [Age of Alteration](https://open.spotify.com/artist/0efMU3AGg3sdyFIYadU5x7) | [Machinist](https://open.spotify.com/album/2BYIyXYp7D1GVDdlE9qLyT) | 3:01 |
+| 895 | [Dark Forest](https://open.spotify.com/track/6VbCboaJYYjOXOBuFsK2QN) | [Becker](https://open.spotify.com/artist/1JBAK5V2WNlY6lFqztPcbh) | [Dark Forest](https://open.spotify.com/album/0ifQAWD02Axlof1r5uRaMb) | 3:52 |
+| 896 | [Étoile filante](https://open.spotify.com/track/26hNIEGpPFju35mGC9dnE7) | [Naghmeh](https://open.spotify.com/artist/3e5qBCtQ2njfzuO3bOTz0a) | [Étoile filante](https://open.spotify.com/album/4x8IeORcUdpLZBMFwfX7aH) | 5:27 |
+| 897 | [Might As Well Fucking Dance](https://open.spotify.com/track/6mms4ACptIDHuCdmuXWnnj) | [The Deefons](https://open.spotify.com/artist/2F6LMhgMlj8nV04Mk93jvC) | [Sunrise](https://open.spotify.com/album/3SgVgzDJL2bOrJKns7Za6q) | 3:27 |
+| 898 | [LOVE ME HATE ME](https://open.spotify.com/track/014eBnpDs1AP6oT4iJdiig) | [BOT41](https://open.spotify.com/artist/4WI9St4UDgfcbmol7lO49V) | [LOVE ME HATE ME](https://open.spotify.com/album/7aBZAuT80VvU83aKSTLfac) | 3:26 |
+| 899 | [Saffron Desert](https://open.spotify.com/track/6KYCDti7qANpsQuyUpR5h5) | [LYSERIUS](https://open.spotify.com/artist/6TSYnE6dlIHSSJ1aOxHcpp) | [Saffron Desert](https://open.spotify.com/album/1JOu4mZyOanf5dpfaIGMm7) | 5:54 |
+| 900 | [Frozen Lusters of Shattered Purity](https://open.spotify.com/track/7s4A4kjY9ZEqioiu08jPyU) | [Trails of Anguish](https://open.spotify.com/artist/6LUo6fHv3BDFWskGqljGlP) | [Frozen Lusters of Shattered Purity](https://open.spotify.com/album/7wk0cRINe5xCLEIb3zzb3h) | 4:24 |
+| 901 | [Devil's Tritone](https://open.spotify.com/track/3iPRRYGK6HDcxWNMebuc60) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Devil's Tritone](https://open.spotify.com/album/2rd9CGbE1VFveckWCmPptu) | 3:06 |
+| 902 | [dying](https://open.spotify.com/track/4iV3NgChpB7r1JsJPU04uh) | [AG3HA](https://open.spotify.com/artist/3Bryh2TwlIU7t3Gku6as6p) | [dying](https://open.spotify.com/album/4ZRIJJsfhMlzNRoMjuGygA) | 2:58 |
 
-Snapshot ID: `AAADnwkCmZvf10PloNlLHoqzdw6oghId`
+Snapshot ID: `AAADpxe4IURllGDvozeNBUO8BnCu/TDS`

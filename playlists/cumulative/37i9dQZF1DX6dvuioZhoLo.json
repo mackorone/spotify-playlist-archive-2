@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New makes old. Cover: Melissa Carper & Theo Lawrence ",
+  "description": "New makes old. Cover: Chaparelle",
   "name": "Vintage Vibes",
   "tracks": [
     {
@@ -417,6 +417,24 @@
     },
     {
       "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+    },
+    {
+      "album": {
         "name": "Italian Ice",
         "url": "https://open.spotify.com/album/74UN1ucm77OPXi3VyWVgAE"
       },
@@ -709,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Don't Waste Your Prayers",
+        "url": "https://open.spotify.com/album/1v3yDVsW0j1D7hVqKrPQqm"
+      },
+      "artists": [
+        {
+          "name": "Chaparelle",
+          "url": "https://open.spotify.com/artist/48c9PKsgH8QMkAN6pg6Xz8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173716,
+      "name": "Don't Waste Your Prayers",
+      "url": "https://open.spotify.com/track/73KH2rdA1bzlIydzmoXJF7"
+    },
+    {
+      "album": {
         "name": "Robert Ellis",
         "url": "https://open.spotify.com/album/1cOWI3gTpBWdPp9Rhv4Ezt"
       },
@@ -756,10 +792,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 201000,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/3tvlD4NK5C1bGjCu6GM76u"
+    },
+    {
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224568,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
     },
     {
       "album": {
@@ -886,6 +940,24 @@
       "duration_ms": 338814,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3YMVQRRsQFxYizd8EJugrD"
+    },
+    {
+      "album": {
+        "name": "Flyin'",
+        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145995,
+      "name": "Flyin'",
+      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
     },
     {
       "album": {
@@ -1152,7 +1224,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-08",
+      "date_removed": null,
       "duration_ms": 218493,
       "name": "Good Kisser",
       "url": "https://open.spotify.com/track/4PcNBh7bpbk5kpe4rwllY5"
@@ -1488,7 +1560,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 170915,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS"
@@ -1732,7 +1804,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 170960,
       "name": "Howard Hughes Blues",
       "url": "https://open.spotify.com/track/4b0bqJ5otqOIycisoiiKs2"
@@ -1978,7 +2050,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196680,
       "name": "If Tommy Duncan's Voice Was Booze",
       "url": "https://open.spotify.com/track/7L6nL3D8AxgvuPZh567xhc"
@@ -2014,7 +2086,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161733,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/1jzBSEvkIH8uDZbLstFVbV"
@@ -2072,6 +2144,24 @@
       "duration_ms": 152866,
       "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
       "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "album": {
+        "name": "It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162384,
+      "name": "It\u2019s Been Too Long",
+      "url": "https://open.spotify.com/track/6LHqwTM5LpkeBh1C8bSLcT"
     },
     {
       "album": {
@@ -2198,6 +2288,24 @@
       "duration_ms": 210173,
       "name": "Kindness of Strangers",
       "url": "https://open.spotify.com/track/32QP97prqm0wjkHEqfbz19"
+    },
+    {
+      "album": {
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
     },
     {
       "album": {
@@ -2328,10 +2436,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190600,
       "name": "Like a Wave",
       "url": "https://open.spotify.com/track/71rSVRkRNj9nLPWjiqGmty"
+    },
+    {
+      "album": {
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "album": {
@@ -2462,7 +2588,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 310893,
       "name": "Love Don\u2019t",
       "url": "https://open.spotify.com/track/31ZxzRFepEtFwGcJiR2ePy"
@@ -3730,7 +3856,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 189093,
       "name": "Stone Me",
       "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
@@ -3993,6 +4119,24 @@
     },
     {
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -4026,7 +4170,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156021,
       "name": "Today I Started Loving You Again",
       "url": "https://open.spotify.com/track/0SUeDxIX7QXvA9uVkkYYWs"
@@ -4149,6 +4293,28 @@
     },
     {
       "album": {
+        "name": "Tumbleweeds and Chewing Gum",
+        "url": "https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159330,
+      "name": "Tumbleweeds and Chewing Gum",
+      "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
+    },
+    {
+      "album": {
         "name": "Patsy Cline",
         "url": "https://open.spotify.com/album/7nicBOHkAJ944utrDrR3kv"
       },
@@ -4160,7 +4326,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154026,
       "name": "Walkin' After Midnight",
       "url": "https://open.spotify.com/track/5TklECQ3x2MybRjaeIsTlm"

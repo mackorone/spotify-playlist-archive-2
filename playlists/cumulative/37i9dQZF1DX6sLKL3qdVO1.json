@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Shawty lo que necesitas es darle flow. Tainy, Rauw Alejandro, y JHAYCO en portada",
+  "description": "Shawty lo que necesitas es darle flow. Jere Klein en portada",
   "name": "Dale Flow",
   "tracks": [
     {
@@ -2545,6 +2545,36 @@
     },
     {
       "album": {
+        "name": "La Liga Femenina",
+        "url": "https://open.spotify.com/album/2ACYG7pun4NOIgkltuPFsR"
+      },
+      "artists": [
+        {
+          "name": "Boy Wonder CF",
+          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
+        },
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
+        },
+        {
+          "name": "Charlee Way",
+          "url": "https://open.spotify.com/artist/6EDCaSmqeDArGXLlVEq15u"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152678,
+      "name": "Bugutu",
+      "url": "https://open.spotify.com/track/5MRiM0rrx9ORwBGlNq6H0O"
+    },
+    {
+      "album": {
         "name": "BYAK",
         "url": "https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5"
       },
@@ -3362,7 +3392,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205320,
       "name": "Como Es Que Se Hace",
       "url": "https://open.spotify.com/track/2L1lCDnKE9WcnTEre5QKCP"
@@ -4856,7 +4886,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 136956,
       "name": "Dios los Bendiga",
       "url": "https://open.spotify.com/track/3vDnMJ7jpmqgNaobJBOUqW"
@@ -7164,6 +7194,28 @@
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
+    },
+    {
+      "album": {
+        "name": "JEREMIAS",
+        "url": "https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "GATA SENSUAL",
+      "url": "https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v"
     },
     {
       "album": {
@@ -11310,7 +11362,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 168793,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6Lt2L5aZOPglacvJAbqi14"
@@ -12354,6 +12406,24 @@
       "duration_ms": 187920,
       "name": "MY LOVE (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1HXaqcO4SEORgvIbhFquI0"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155867,
+      "name": "M\u00e1s Cara",
+      "url": "https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ"
     },
     {
       "album": {
@@ -16508,7 +16578,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157759,
       "name": "R\u00c1PIDOS Y FURIOSOS 11",
       "url": "https://open.spotify.com/track/0OxD1r7oeCFCTqf50HHbk5"
@@ -17808,7 +17878,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169617,
       "name": "Sin Verg\u00fcenza",
       "url": "https://open.spotify.com/track/7pW6jlnkG7IVSlhhEI7P58"
@@ -20411,6 +20481,32 @@
     },
     {
       "album": {
+        "name": "Viral",
+        "url": "https://open.spotify.com/album/1eneMpKMy7vEmKaqkusKIL"
+      },
+      "artists": [
+        {
+          "name": "Amarion",
+          "url": "https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197352,
+      "name": "Viral",
+      "url": "https://open.spotify.com/track/7d7Y6KWUdpXUyY0o7d2oG2"
+    },
+    {
+      "album": {
         "name": "VISTA AL MAR",
         "url": "https://open.spotify.com/album/5ihYKNgcOMifCJmcGp7CkW"
       },
@@ -21128,6 +21224,28 @@
       "duration_ms": 201290,
       "name": "\u00bfC\u00f3mo Est\u00e1s?",
       "url": "https://open.spotify.com/track/7eDECObfvicrHyWQuevmHf"
+    },
+    {
+      "album": {
+        "name": "\u00bfte ACUERDAS de mi?",
+        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173575,
+      "name": "\u00bfte ACUERDAS de mi?",
+      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
     },
     {
       "album": {

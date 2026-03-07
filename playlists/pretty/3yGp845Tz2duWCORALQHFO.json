@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26059,
+  "num_followers": 26053,
   "original_name": "NEW EDM 2026\u26a1 EDM HITS 2026 \u26a1 MUSICA ELECTRONICA 2026",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABlOWvulSAdBkK7/wBLo6pNuKfBzlWR",
+  "snapshot_id": "AABlPmuF45jOBAoBEHn+nHdDWjFXCtbz",
   "tracks": [
     {
       "added_at": "2026-02-26 13:27:58",
@@ -205,6 +205,38 @@
       "url": "https://open.spotify.com/track/4OQfCzFZChXFw2TcPZgpdu"
     },
     {
+      "added_at": "2026-03-06 12:55:53",
+      "album": {
+        "name": "All In Now",
+        "url": "https://open.spotify.com/album/7y164DTepaniPafo0wbUZx"
+      },
+      "artists": [
+        {
+          "name": "Benj",
+          "url": "https://open.spotify.com/artist/2emZyiUjPMNr61GnFoxLLO"
+        }
+      ],
+      "duration_ms": 171602,
+      "name": "All In Now",
+      "url": "https://open.spotify.com/track/16oKs0X2U7epgzoSY647ZK"
+    },
+    {
+      "added_at": "2026-03-06 12:54:51",
+      "album": {
+        "name": "I See Colors",
+        "url": "https://open.spotify.com/album/2UAYn0C5f08N04l31Fd8xv"
+      },
+      "artists": [
+        {
+          "name": "Mala'kai",
+          "url": "https://open.spotify.com/artist/5yrQaGtBMRudJctcPQtTE5"
+        }
+      ],
+      "duration_ms": 224827,
+      "name": "I See Colors",
+      "url": "https://open.spotify.com/track/6WlCdcHs4gbI8m4uMTWXuR"
+    },
+    {
       "added_at": "2026-02-28 12:36:53",
       "album": {
         "name": "Can't Slow Down",
@@ -271,6 +303,22 @@
       "duration_ms": 220952,
       "name": "Distorted Love",
       "url": "https://open.spotify.com/track/7qhw9e6NTSdEQSnrVlWe0u"
+    },
+    {
+      "added_at": "2026-03-06 12:55:52",
+      "album": {
+        "name": "Moonlight Premium Remix album",
+        "url": "https://open.spotify.com/album/7lwbrpfkw15IQAqo6bppXg"
+      },
+      "artists": [
+        {
+          "name": "Katinka Meidell",
+          "url": "https://open.spotify.com/artist/4rW2Jzm7bhGRmlQ6Byynvw"
+        }
+      ],
+      "duration_ms": 256718,
+      "name": "Moonlight - Premium R0.2",
+      "url": "https://open.spotify.com/track/1SYPyLWTG6ftyGKrK95vOp"
     },
     {
       "added_at": "2026-02-26 13:27:58",
@@ -423,6 +471,22 @@
       "duration_ms": 140035,
       "name": "Mainline - Steve Allen Remix",
       "url": "https://open.spotify.com/track/2gTKRTWdUi5XtxdJySDkmP"
+    },
+    {
+      "added_at": "2026-03-06 12:54:55",
+      "album": {
+        "name": "Mission",
+        "url": "https://open.spotify.com/album/7aZN0MxrNYSvMxIMczdblT"
+      },
+      "artists": [
+        {
+          "name": "Katinka Meidell",
+          "url": "https://open.spotify.com/artist/4rW2Jzm7bhGRmlQ6Byynvw"
+        }
+      ],
+      "duration_ms": 191959,
+      "name": "Mission",
+      "url": "https://open.spotify.com/track/0de44cxXzqZ14Cv5b9ESfk"
     },
     {
       "added_at": "2026-02-26 13:27:58",
@@ -999,6 +1063,22 @@
       "duration_ms": 181935,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2yWtbIBhuwJ6GHR5X5qP4O"
+    },
+    {
+      "added_at": "2026-03-06 12:56:52",
+      "album": {
+        "name": "Make Love...",
+        "url": "https://open.spotify.com/album/4baeBh50shaE08mn5tFRzA"
+      },
+      "artists": [
+        {
+          "name": "st. art",
+          "url": "https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Make Love...",
+      "url": "https://open.spotify.com/track/25rni91zwqjpzLVEj9QIEl"
     },
     {
       "added_at": "2026-02-26 13:27:58",

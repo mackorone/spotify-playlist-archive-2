@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Casper Sage",
+  "description": "R&B of the moment by the artists of the future. Cover: Ama",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -520,6 +520,24 @@
       "duration_ms": 168928,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/5mxyI5JvaxInlaZFgCLr5j"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/0795ydA0SHGE3tgsCPPdOQ"
+      },
+      "artists": [
+        {
+          "name": "We The Band",
+          "url": "https://open.spotify.com/artist/4DLWXl0N5JnZRnMu7gddI0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "911",
+      "url": "https://open.spotify.com/track/05PnaWvrK404HXfHiVi6P3"
     },
     {
       "album": {
@@ -1344,7 +1362,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181545,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/2voqA9EpioDoAWfkmFnYHu"
@@ -2280,7 +2298,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 146086,
       "name": "Back In Bed",
       "url": "https://open.spotify.com/track/46nmFflkXHOsvROPEMsxGr"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 249462,
       "name": "Become",
       "url": "https://open.spotify.com/track/1H3B3MtjUbP5YTt0Jv0BDY"
@@ -7102,7 +7120,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 177536,
       "name": "Days Are Over",
       "url": "https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV"
@@ -7272,6 +7290,24 @@
       "duration_ms": 223004,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/3U0d3bzQ5LMt51QzrI3BQK"
+    },
+    {
+      "album": {
+        "name": "Desire - Spotify Singles",
+        "url": "https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Desire - Spotify Singles",
+      "url": "https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv"
     },
     {
       "album": {
@@ -9091,6 +9127,24 @@
     },
     {
       "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142229,
+      "name": "F.O.O.L",
+      "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
+    },
+    {
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -10654,7 +10708,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 113305,
       "name": "Foul",
       "url": "https://open.spotify.com/track/6lYb8xPgq1lhfoxfx6UJqr"
@@ -10792,6 +10846,24 @@
       "duration_ms": 250644,
       "name": "Friends",
       "url": "https://open.spotify.com/track/6r5jZYV9v3Nt9sDD9RQCpE"
+    },
+    {
+      "album": {
+        "name": "Frontin\u2019 - Spotify Singles",
+        "url": "https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236052,
+      "name": "Frontin\u2019 - Spotify Singles",
+      "url": "https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj"
     },
     {
       "album": {
@@ -10992,6 +11064,24 @@
       "duration_ms": 181290,
       "name": "Gave You My All",
       "url": "https://open.spotify.com/track/2WEgOHRhsCMNiV4qcWNxAX"
+    },
+    {
+      "album": {
+        "name": "Gemini Eyes",
+        "url": "https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299520,
+      "name": "Gemini Eyes",
+      "url": "https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd"
     },
     {
       "album": {
@@ -12536,7 +12626,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186706,
       "name": "Heard What You Said",
       "url": "https://open.spotify.com/track/7CDchH4EG7QOmjTIK5Yakl"
@@ -13508,7 +13598,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171875,
       "name": "Hurts Anymore",
       "url": "https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr"
@@ -19333,6 +19423,28 @@
     },
     {
       "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187096,
+      "name": "Need it Bad - feat. Brent Faiyaz",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "album": {
         "name": "Need U Like",
         "url": "https://open.spotify.com/album/4rSJXZieqQpt16ly5KwaIE"
       },
@@ -19410,6 +19522,28 @@
       "duration_ms": 234482,
       "name": "Never",
       "url": "https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J"
+    },
+    {
+      "album": {
+        "name": "NEVER BE THE SAME",
+        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172376,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
     },
     {
       "album": {
@@ -20186,6 +20320,24 @@
       "duration_ms": 265386,
       "name": "Nothing Sweeter",
       "url": "https://open.spotify.com/track/7gHhebSuMPZrHaFU830ly5"
+    },
+    {
+      "album": {
+        "name": "Nothing To Say",
+        "url": "https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189227,
+      "name": "Nothing To Say",
+      "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
     },
     {
       "album": {
@@ -23276,7 +23428,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182400,
       "name": "reggie - Sometimes",
       "url": "https://open.spotify.com/track/1MROOOUs89a4Sm7ek2MoLV"
@@ -24712,7 +24864,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
@@ -25040,7 +25192,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 163258,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0Kdt3t112bMaFjwQPls7yo"
@@ -27323,6 +27475,24 @@
     },
     {
       "album": {
+        "name": "Sweet Persuasion",
+        "url": "https://open.spotify.com/album/234KhgpsAdOiRRKHPlKRTz"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168299,
+      "name": "Sweet Persuasion",
+      "url": "https://open.spotify.com/track/2VdVyxlj2B9ivNAluQZorZ"
+    },
+    {
+      "album": {
         "name": "sweet tooth",
         "url": "https://open.spotify.com/album/4Zm4DG6bNYmNdEOglOYp3d"
       },
@@ -27888,7 +28058,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 236173,
       "name": "tell me what you want",
       "url": "https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX"
@@ -28805,6 +28975,24 @@
     },
     {
       "album": {
+        "name": "MINDFIELDS",
+        "url": "https://open.spotify.com/album/6INVkw6zEJjhLSNDjlcp2X"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220040,
+      "name": "To Myself",
+      "url": "https://open.spotify.com/track/74NpjceFhcxsKDVptmskzj"
+    },
+    {
+      "album": {
         "name": "to see thru closed eyes",
         "url": "https://open.spotify.com/album/2r1gIPuzPCvtd4sURMPYS9"
       },
@@ -29102,7 +29290,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158674,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/5iJJvvVUVumJNoM5yIPlLk"
@@ -29172,6 +29360,28 @@
       "duration_ms": 118073,
       "name": "Touchin\u2019 (feat. Capella Grey)",
       "url": "https://open.spotify.com/track/1s8gUJ98VZJKuzOMO7QERt"
+    },
+    {
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195325,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
     },
     {
       "album": {
@@ -30279,6 +30489,24 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109966,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
+    },
+    {
+      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -30810,7 +31038,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 128000,
       "name": "When The Money Comes",
       "url": "https://open.spotify.com/track/63mIqHCyGzEADBb9hM4pum"

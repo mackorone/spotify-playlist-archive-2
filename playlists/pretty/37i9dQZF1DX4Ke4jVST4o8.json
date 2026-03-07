@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers and big streamers of 2012. ",
-  "num_followers": 320,
+  "num_followers": 398,
   "original_name": "Dance Hits of 2012",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2022-10-14 00:00:00",
       "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221075,
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
+    },
+    {
+      "added_at": "2022-10-14 00:00:00",
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 271426,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
-    },
-    {
-      "added_at": "2022-10-14 00:00:00",
-      "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        }
-      ],
-      "duration_ms": 221075,
-      "name": "Primadonna",
-      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1104,13 +1104,13 @@
           "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Cover Drive",
+          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
         }
       ],
-      "duration_ms": 237106,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/35w3imkurxO8IVBhQv1FVR"
+      "duration_ms": 195960,
+      "name": "Turn Up The Love",
+      "url": "https://open.spotify.com/track/4HQ9gXAtONKs8NCM0MFUTu"
     },
     {
       "added_at": "2022-10-14 00:00:00",
@@ -1208,13 +1208,13 @@
           "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
         },
         {
-          "name": "Cover Drive",
-          "url": "https://open.spotify.com/artist/4jbcqKzc4Wuy6MivHhzPrP"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 195960,
-      "name": "Turn Up The Love",
-      "url": "https://open.spotify.com/track/4HQ9gXAtONKs8NCM0MFUTu"
+      "duration_ms": 237106,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/35w3imkurxO8IVBhQv1FVR"
     }
   ],
   "unique_name": "Dance Hits of 2012",

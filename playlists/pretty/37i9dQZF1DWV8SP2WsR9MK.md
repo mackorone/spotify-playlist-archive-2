@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,829 likes - 100 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,870 likes - 100 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 79 | [It's A Blue World \- Original](https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v) | [Billy Bauer](https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf) | [The Best of Billy Bauer](https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9) | 4:13 |
 | 80 | [Little Walk](https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [What We Do](https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7) | 6:36 |
 | 81 | [Tenderly](https://open.spotify.com/track/7kxl3YY1zqfybhYMylZGRz) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG) | [Easy Like](https://open.spotify.com/album/4FEQUVniR5kClrtPy9uVJD) | 3:15 |
-| 82 | [Once Around the Park](https://open.spotify.com/track/2kt141xiuDX8l0wPV61S9q) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Sound of Love](https://open.spotify.com/album/7prLNRTG2wRjyK5zM067oi) | 6:52 |
-| 83 | [All The Things You Are](https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Jazz Winds From A New Direction](https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB) | 4:26 |
+| 82 | [All The Things You Are](https://open.spotify.com/track/5R4pT3lFeGTBJZCZ2NCZKx) | [Hank Garland](https://open.spotify.com/artist/0u6DJDoOcJlWRaXBnEZxaU) | [Jazz Winds From A New Direction](https://open.spotify.com/album/4Vm5jnLkuiWyxkFAgfYknB) | 4:26 |
+| 83 | [Once Around the Park](https://open.spotify.com/track/2kt141xiuDX8l0wPV61S9q) | [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf) | [Sound of Love](https://open.spotify.com/album/7prLNRTG2wRjyK5zM067oi) | 6:52 |
 | 84 | [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 |
 | 85 | [Enjoy The Future !](https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Past Present](https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit) | 5:21 |
 | 86 | [Yesterdays](https://open.spotify.com/track/1SeSq9ok1FHh2mRna8UJGR) | [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Clarence Penn](https://open.spotify.com/artist/5rJj8HrmzwTut6lKzChcEh) | [Sight](https://open.spotify.com/album/4Hud8C5AEW8aKw1AdIVPgt) | 7:26 |

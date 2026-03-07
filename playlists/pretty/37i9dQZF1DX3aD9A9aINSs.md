@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Sema Moritz
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,270 likes - 84 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,295 likes - 84 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 57 | [Med Cezir](https://open.spotify.com/track/2QqrMSgnJ7PfZKNATFK9vZ) | [Aliyah](https://open.spotify.com/artist/2kkeivLGN3OVvEsbAwY6J0) | [Med Cezir](https://open.spotify.com/album/7aqlcussK6NkimSLpfW0qB) | 2:36 |
 | 58 | [Ağ Elime Mor Kınalar](https://open.spotify.com/track/6zk4jMczSdn5DT00LLFDbU) | [Ceren Boynuk](https://open.spotify.com/artist/35Kl5jmicwD3kkMH7B74Bd) | [Deniz Ortası](https://open.spotify.com/album/58zr6DTcMxRl1lDpahjMzP) | 2:28 |
 | 59 | [Ahdım Olsun](https://open.spotify.com/track/2yNnBkQ3VsoZVgo9cZMzxD) | [Yasemin Göksu](https://open.spotify.com/artist/7JgTUq2jADYIQKlExfTHVn) | [Ahdım Olsun](https://open.spotify.com/album/2LaT8M8T2O0OKUerQY7h6n) | 4:24 |
-| 60 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/59UiDNLaYTIO5VFojlIqFm) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
+| 60 | [Barlarda Öpersin Birini](https://open.spotify.com/track/1JxE4WHY2mo7TakJ320wMb) | [Venüs](https://open.spotify.com/artist/0Eww2KCVprS4Lj6qoLQlpf) | [Barlarda Öpersin Birini](https://open.spotify.com/album/2IPENiDRPR5Gm6vZxSt0LF) | 2:34 |
 | 61 | [İnsaf Yar](https://open.spotify.com/track/7jvy983AsCNliEgbwHRL1f) | [Nergiz](https://open.spotify.com/artist/6DMYtiYLBngbfHzWLnGVJf) | [İnsaf Yar](https://open.spotify.com/album/4ihsbrNn0zBWDWwdll6xDr) | 2:16 |
 | 62 | [İz](https://open.spotify.com/track/7oupyR2yK3ByUfPBb4BMyt) | [Melike Şahin](https://open.spotify.com/artist/5wGUFIwrtiUXyB3pV1hFvm) | [İz](https://open.spotify.com/album/77UMHgCIPIBmlDPYd9PcGd) | 2:54 |
 | 63 | [ANLASANA](https://open.spotify.com/track/3G4cRN2VPMKcLOMQcu2luK) | [Layla Puliçe](https://open.spotify.com/artist/7c4gILi1Wg9B1PpE3h4PbL) | [ANLASANA](https://open.spotify.com/album/2PFZu1xyMi4GFbpH1mPwox) | 2:43 |

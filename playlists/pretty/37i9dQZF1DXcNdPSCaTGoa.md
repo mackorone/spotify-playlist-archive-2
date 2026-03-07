@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > A celebration of classics, curated by Kwesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532 likes - 32 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 561 likes - 32 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 31 | [Thambo Lam](https://open.spotify.com/track/2levlsTHhDIGQbeTLhD0zI) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr) | [Echoes Of Kofifi](https://open.spotify.com/album/6g9HnnrrKgxSM0McHEaPF5) | 3:58 |
 | 32 | [Macala \(feat\. Sfeesoh, Kwesta & Thabsie\)](https://open.spotify.com/track/6lMhwBCwGf5Tfm3iusJnv5) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Sfeesoh](https://open.spotify.com/artist/6d3TwRIFc6COj7WwCy8ISW), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Thabsie](https://open.spotify.com/artist/1NxUAhBblIWiJcJOKw3am3) | [Emakhaya](https://open.spotify.com/album/3YPT8bW8XTiZIjMEhryLEU) | 4:33 |
 
-Snapshot ID: `AAAAADnf438w8DiyMn4jcKzp2uKZvOGf`
+Snapshot ID: `AAAAAHItU9sSbyd+IOp4k6jHIM7EC63n`

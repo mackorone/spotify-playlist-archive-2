@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Con Yeison Jimenez en portada 🤍
 
-330 songs - 16 hr 59 min
+331 songs - 17 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [El Niño del Barrio](https://open.spotify.com/track/1AeXahQor3fgffkLy5yuZg) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [El Niño del Barrio](https://open.spotify.com/album/1iYbnwi0y6IUfUCA4YWBzm) | 2:16 | 2025-03-07 | 2026-02-07 |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/45DhsSxAU4rENWHUfaZedt) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/3hoHs5feFArgYdfpEoQTqq) | 5:01 | 2022-08-12 | 2024-04-19 |
 | [El Precio de Tu Error \- En Vivo](https://open.spotify.com/track/4LbGHQLSkcDZlYpufbtJBQ) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Ayer, Hoy y Siempre \(En Vivo\)](https://open.spotify.com/album/5mab8qFRUJFw6ale18NflS) | 5:01 | 2024-04-05 | 2025-11-15 |
-| [El Princeso](https://open.spotify.com/track/0dKwn0SA4EKciRZEpEhhV1) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El Agropecuario](https://open.spotify.com/album/7KYyomJyjBmwJiAjEbihL6) | 2:48 | 2025-08-08 |  |
+| [El Princeso](https://open.spotify.com/track/0dKwn0SA4EKciRZEpEhhV1) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [El Agropecuario](https://open.spotify.com/album/7KYyomJyjBmwJiAjEbihL6) | 2:48 | 2025-08-08 | 2026-03-07 |
 | [El Problema](https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [El Problema](https://open.spotify.com/album/1GnZsUWgomAWdrU6lj49lf) | 3:35 | 2022-08-12 | 2023-09-09 |
 | [El Provinciano](https://open.spotify.com/track/0Bm7IA6LFnU5KwlT3A8emi) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Provinciano](https://open.spotify.com/album/6QsYzYrVwGxP0YtqsXbjNy) | 3:08 | 2024-07-05 | 2024-08-03 |
 | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/track/6W94uSiipjqPHeg4SsW8mf) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [El Tierno \(feat\. DFZM\)](https://open.spotify.com/album/2OiPtzxuqeonaf5LQ2hhr6) | 2:46 | 2024-12-06 | 2025-04-05 |
@@ -224,6 +224,7 @@
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/4ggJRnJzcDtXwrkmQ8ZiLG) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/0DeM6uRe2NUTaNLr27NaQd) | 3:18 | 2023-09-29 | 2023-11-04 |
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/5qTOMXiOdtjgaaqnrANccu) | [Alexis Cortés](https://open.spotify.com/artist/74F14UgJDPL2FCVmQE8Ycj) | [No Me Hubiera Enamorado](https://open.spotify.com/album/7MSKmORkjFaVDyWfRxbgJl) | 3:18 | 2023-10-18 | 2023-11-11 |
 | [No Pasa Nada](https://open.spotify.com/track/3rb1EiGwlw19yvzM5cSc6P) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [No Pasa Nada](https://open.spotify.com/album/5mqSlC0VNjpWbKEybTa7nq) | 2:42 | 2024-06-06 | 2024-07-13 |
+| [No Puedo Olvidarla](https://open.spotify.com/track/66J9wKivXNDkx7to8w0wfF) | [Camilo Mendez](https://open.spotify.com/artist/2pNIXSjWzFLBn3hauPztre), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [No Puedo Olvidarla](https://open.spotify.com/album/7kkYqudO0m0aoLqyLhTpXT) | 3:41 | 2026-03-06 |  |
 | [No Quería Engañarte](https://open.spotify.com/track/1IGd9cS67gcK1SGVyWqEtz) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [No Quería Engañarte](https://open.spotify.com/album/7iOHpFiXyBtlIvkCMInHpN) | 4:01 | 2022-12-02 | 2023-01-28 |
 | [No Sufriré por Nadie \- Remix](https://open.spotify.com/track/4wxik78a6zidW8pshbCviV) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c), [Maycol Rosero](https://open.spotify.com/artist/6rl1lk6U6dB8FT0neMV8Iu), [Beren](https://open.spotify.com/artist/2eVjwcrAdghDt14w3e7nDu) | [No Sufriré por Nadie \(Remix\)](https://open.spotify.com/album/0NQHVRev3BGZXBjWayS9hI) | 3:31 | 2023-03-03 | 2023-09-09 |
 | [No Te Contaron Mal](https://open.spotify.com/track/1LO951RWD10l9Vys0NrFty) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Te Contaron Mal](https://open.spotify.com/album/2IVO6VBGIEP4EA7qB2EAQi) | 2:36 | 2022-08-12 |  |

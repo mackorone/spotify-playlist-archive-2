@@ -213,6 +213,36 @@
     },
     {
       "album": {
+        "name": "C\u00ea T\u00e1 Doido (S\u00e3o Jos\u00e9 do Rio Preto) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/62j8p7msWX6Rihchd4hFEh"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250453,
+      "name": "12 Horas / Pra Voc\u00ea Acreditar - Ao Vivo",
+      "url": "https://open.spotify.com/track/0UTzWSuoLHFl2JB8ObzQqy"
+    },
+    {
+      "album": {
         "name": "C\u00ea T\u00e1 Doido (S\u00e3o Jos\u00e9 Do Rio Preto) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0gbJAL2rZwc77ra11uiHDu"
       },
@@ -7224,7 +7254,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 161298,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
@@ -9306,7 +9336,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
@@ -12168,7 +12198,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 124000,
       "name": "Esse Cupido N\u00e3o Me Ajuda",
       "url": "https://open.spotify.com/track/58lPXPuE7deTicTvsdvVbL"
@@ -15408,7 +15438,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
@@ -23994,7 +24024,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 126043,
       "name": "N\u00e3o Mexe nas Minhas Gavetas - Ao Vivo",
       "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
@@ -27724,7 +27754,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 207520,
       "name": "Pra Sempre Com Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq"
@@ -28852,7 +28882,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 468953,
       "name": "Quem \u00c9 Esse? - Ao Vivo",
       "url": "https://open.spotify.com/track/035Q417M83JnP3wvSlyFEK"

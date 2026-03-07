@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-487 songs - 1 day 3 hr 42 min
+488 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 | 2025-07-31 | 2025-10-04 |
 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 | 2022-11-11 |  |
 | [BAGELS](https://open.spotify.com/track/5R4tnsOeQ3vkfOwrbEHqDY) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [BAGELS](https://open.spotify.com/album/4G0CGg9PpmfsyyyX6dHmOy) | 4:12 | 2023-06-09 | 2023-07-07 |
+| [Bajo este sol](https://open.spotify.com/track/0ER1mvGhvfhY1d4wQwUphT) | [Jose Domingo](https://open.spotify.com/artist/60XxN4jbU8CLJPAi1fAZPi) | [Bajo este Sol](https://open.spotify.com/album/78JUNUPXzAF6fnZ3dDzmoa) | 3:33 | 2026-02-26 |  |
 | [Bang bang](https://open.spotify.com/track/6iY2uTtG6iATz8OPe7sgYW) | [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [Bang Bang](https://open.spotify.com/album/4Kr9Lm4k3zBZL0OWSRaHIH) | 2:45 | 2026-01-16 |  |
 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 | 2022-11-11 | 2023-03-01 |
 | [Barcelona](https://open.spotify.com/track/4ksOH8hJAZJpqWzOJJ5fCV) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Barcelona](https://open.spotify.com/album/6TzswGbJlD3UorEQoST3bc) | 2:35 | 2022-11-11 | 2024-06-22 |
@@ -137,7 +138,7 @@
 | [em plou a dins](https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Pau Figueres](https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy) | [em plou a dins](https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0) | 2:56 | 2025-09-18 |  |
 | [England Skies](https://open.spotify.com/track/5fVFW9WqTsBt34JFhKxIty) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [All in Time](https://open.spotify.com/album/4YFnBSCR7R4KZANH33DdDW) | 3:55 | 2022-11-11 | 2024-04-19 |
 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2022-11-11 | 2024-04-19 |
-| [Entre quererte y no sé](https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc) | [1DJ SYNC](https://open.spotify.com/artist/0gWhiwKNoy8CuOkqDkpdt7) | [Entre quererte y no sé](https://open.spotify.com/album/4bQMzJOFuy5CYeYov5jaji) | 3:49 | 2026-01-16 |  |
+| [Entre quererte y no sé](https://open.spotify.com/track/15t5U7fSsetlfBP3tUaNBc) | [1DJ SYNC](https://open.spotify.com/artist/0gWhiwKNoy8CuOkqDkpdt7) | [Entre quererte y no sé](https://open.spotify.com/album/4bQMzJOFuy5CYeYov5jaji) | 3:49 | 2026-01-16 | 2026-03-07 |
 | [Equilibri](https://open.spotify.com/track/5HDvMHInN6E41815Z6ZRlp) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [Equilibri](https://open.spotify.com/album/6BPSeyqa5ChOR3DqltpUIR) | 3:56 | 2024-05-02 | 2025-10-10 |
 | [ERES GUAPA \(✿´‿\`\) \- Taranta](https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR) | [Ángeles Toledano](https://open.spotify.com/artist/4E1RSsrjfViRShEG4r0ofW) | [SANGRE SUCIA](https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM) | 3:44 | 2025-09-18 |  |
 | [Escolta la tempesta \- Daniela Forever \- End Titles](https://open.spotify.com/track/1H4BsrydFVdqGZ3FDYGhk0) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY), [Beatrice Grannò](https://open.spotify.com/artist/5VHuOdFhE2oK2v1IG7PZRI) | [Daniela Forever \(Original Soundtrack\)](https://open.spotify.com/album/1Ksl4u33pffetVZyCUc6aZ) | 5:27 | 2025-07-31 | 2025-10-04 |

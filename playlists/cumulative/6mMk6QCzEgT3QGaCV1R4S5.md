@@ -4,7 +4,7 @@
 
 > Get moving on the dancefloor with some big room beats with the biggest dance hits in 2025
 
-323 songs - 17 hr 11 min
+324 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2025-12-18 | 2025-12-20 |
 | [ALL WE GOT](https://open.spotify.com/track/5LWmVBXWFwspwJ77mecPVN) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [ALL WE GOT](https://open.spotify.com/album/44hrwklx8fo4sus11mpV30) | 2:16 | 2024-01-19 | 2024-07-03 |
 | [Angels](https://open.spotify.com/track/4Uj4L7dEHc0H1fcJXlMwuU) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [EVALINA](https://open.spotify.com/artist/2EOdORJgTiT4w2eLQk1IWE) | [Angels](https://open.spotify.com/album/7naA0xGAPgLU44VMz9iRMy) | 2:27 | 2025-03-17 |  |
+| [Another Night](https://open.spotify.com/track/2DshAeAB3M6if76Bi0m6xB) | [fkblnde](https://open.spotify.com/artist/5UZvfnCX1JUXy90IjseIbl) | [Another Night](https://open.spotify.com/album/6aH9HbvRPptIVmlm9xUktM) | 2:32 | 2026-03-06 |  |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-01-23 |  |
 | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/track/57jyHZNcnXvrl6UmQpEWgq) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Alex Hosking](https://open.spotify.com/artist/5YCU9eHY4IYTyNa8XRFuw9) | [BAD \(feat\. Discrete & Alex Hosking\)](https://open.spotify.com/album/7nFNFPoVFpbuFFZRIwOimj) | 2:31 | 2023-12-08 | 2024-01-13 |
 | [badthiings \(rip avicii\)](https://open.spotify.com/track/5DfmnhUS1s3m87fsDSedoe) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:31 | 2024-07-19 | 2025-02-08 |
@@ -216,7 +217,7 @@
 | [Obsessed \(with Charlie Puth & Shenseea\)](https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Funk Wav Bounces Vol\. 2](https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS) | 3:46 | 2023-12-08 | 2024-03-23 |
 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 | 2025-09-05 |  |
 | [Off The Hook](https://open.spotify.com/track/40XPEPjWBsZeicluU4yro2) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Off The Hook](https://open.spotify.com/album/6WdW8Amle4K5bCjRAmcJjZ) | 2:34 | 2025-11-14 |  |
-| [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 | 2024-11-08 |  |
+| [Often](https://open.spotify.com/track/44QZweE0DwqYkjyAySHY61) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4) | [Often](https://open.spotify.com/album/5SFDE5073LzAsA0UmkpeKO) | 2:55 | 2024-11-08 | 2026-03-07 |
 | [On My Mind](https://open.spotify.com/track/4OqCbJgaxx0VuL8Q7leohP) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5), [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [On My Mind](https://open.spotify.com/album/1JsWPuCub4zigHwKxlGAxI) | 4:19 | 2026-02-27 |  |
 | [On My Way](https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [REDUX 006](https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE) | 4:15 | 2023-12-08 | 2024-02-24 |
 | [On The Way](https://open.spotify.com/track/6sYjJiyaE4thO62cLT8VWY) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [On The Way](https://open.spotify.com/album/3jjLfizSOLAfw4phk7n64W) | 3:59 | 2025-09-12 | 2025-09-20 |

@@ -4,7 +4,7 @@
 
 > El sonido de la nueva canción latinoamericana\. Foto: Mónica Giraldo
 
-108 songs - 6 hr 17 min
+109 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Este Momento](https://open.spotify.com/track/4Vn2kyOnhExYt9czn17VaX) | [Lucas Hill](https://open.spotify.com/artist/0grWhu56S2tVSOeSzQiSTM) | [Renacido](https://open.spotify.com/album/6lhi4ISdbN4qBge018zMxM) | 3:45 | 2023-09-29 | 2023-11-18 |
 | [Guerrera](https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Guerrera](https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD) | 4:11 | 2023-09-29 |  |
 | [Hace rato](https://open.spotify.com/track/0QoKaa9fZSFmz9R61OVkTR) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4RRb4w2jbfNesupImVAMvW) | 3:16 | 2023-11-17 | 2024-04-19 |
-| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-12-08 |  |
+| [Hace rato](https://open.spotify.com/track/52nXzZrcAfgpg6SkBsrcEj) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Lisboa](https://open.spotify.com/album/4GhLuGhfn4tJ3bnT1pK4Gz) | 3:16 | 2023-12-08 | 2026-03-07 |
 | [Idas y Vueltas](https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr) | [Maria Mulata](https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q), [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU) | [Idas y Vueltas](https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO) | 3:52 | 2023-09-29 | 2024-08-17 |
 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 | 2023-09-29 | 2023-11-18 |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2023-09-29 | 2023-11-18 |
@@ -66,6 +66,7 @@
 | [Los Guaduales](https://open.spotify.com/track/0m3HCRWOsJZPfPbhsuIU9i) | [Katie James](https://open.spotify.com/artist/22CvgjvwICkeXjcYWLykD3) | [Los Guaduales](https://open.spotify.com/album/5AEZt1WkrsoELFu7jzZiiH) | 3:21 | 2023-09-29 |  |
 | [Los Lugares Más Bonitos](https://open.spotify.com/track/4slJEqinbznsUEVXQ6GeFW) | [Gonzalo Ávila](https://open.spotify.com/artist/4PuwS1TZc8ybMnXxgUIOn6), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Los Lugares Más Bonitos](https://open.spotify.com/album/1jxXdXtX2trPeB1i32e0W5) | 2:38 | 2024-08-16 |  |
 | [Madera y Hueso](https://open.spotify.com/track/2MNwWHMHuY2XlMRuyyFxls) | [Las Avispas Africanas](https://open.spotify.com/artist/5wNyuX0rTVznB4G0iHsFhV) | [Madera y Hueso](https://open.spotify.com/album/44Azb2K3xfy28pMzyKA7qd) | 3:42 | 2023-09-29 | 2025-03-22 |
+| [Madre](https://open.spotify.com/track/5E4h5elcrYKysRpwQ8se1Z) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 4:10 | 2026-03-06 |  |
 | [Mailof \- Sesión en Vivo](https://open.spotify.com/track/5sPyYzdKLMjWeGSB3ZKVlT) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Mailof \(Sesión en Vivo\)](https://open.spotify.com/album/3Xq3Zg46E7TG71GZbg1lgX) | 3:42 | 2023-09-29 |  |
 | [Mar \- Live Session](https://open.spotify.com/track/4d6zTjtumVC5Q2z2nqmBhJ) | [Maria Elisa Pinto](https://open.spotify.com/artist/5v1VNs2dVgkRTm4Byt6z5A) | [La Grieta y La Luz \(Live Session\)](https://open.spotify.com/album/5IVVJwQXt5IHQxaBYADF8G) | 3:14 | 2025-03-21 |  |
 | [Mba'e pa' Doña Froilana](https://open.spotify.com/track/1Lobn6i0a408P7fYWJTmMb) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Mba'e pa' Doña Froilana](https://open.spotify.com/album/56sqC93aecg1ykFuBFF2Kx) | 2:30 | 2023-09-29 | 2023-11-18 |

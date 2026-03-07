@@ -4,7 +4,7 @@
 
 > Hit music from Ethiopia's finest.
 
-126 songs - 9 hr 24 min
+129 songs - 9 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Atse Tewodros](https://open.spotify.com/track/00T2SlsSVzJSVYMmbAiclO) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Ethiopia](https://open.spotify.com/album/4EVEPI1V6dWOEw2wN1ghmJ) | 7:57 | 2018-10-04 | 2024-05-25 |
 | [Ayeneye](https://open.spotify.com/track/4wSz0N4SCEwdHolekBUdmv) | [Hayleyesus Feyssa](https://open.spotify.com/artist/4jYB05zmRJeaMatlpZTn9i) | [Yeaddis Ken Tsehay](https://open.spotify.com/album/77Nr43rl51Q1PsN78MlhCF) | 7:02 | 2020-06-05 |  |
 | [Aymelesem](https://open.spotify.com/track/5E1nojcspbVe6yrHVpiHz9) | [Lastarock](https://open.spotify.com/artist/2p1llRTtQY8IJPaTwPwW1x) | [Aymelesem](https://open.spotify.com/album/0aW55aqypy7Q01Ecorl9BZ) | 2:56 | 2023-08-14 |  |
-| [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 |  |
+| [Aynama](https://open.spotify.com/track/6gf5wTdci9QTxjJfc8UDlf) | [Sol Romeyo](https://open.spotify.com/artist/4QK1PhAwLD8knsSXnXI9Cg), [Flashkiiddo](https://open.spotify.com/artist/63tu1CZybzgoXM2tPG7UE5) | [Aynama](https://open.spotify.com/album/2UG2pd1aBEDIFetK9Gm9na) | 4:00 | 2022-11-17 | 2026-03-07 |
 | [Ayy Fikir](https://open.spotify.com/track/0wGN48CQ9Jp89MGTyo3DXi) | [AfroNile](https://open.spotify.com/artist/3CJxwpev37bR1n9QlUpv8B), [Dibekulu](https://open.spotify.com/artist/25rlHNovanEzvUxrZ0S7fM) | [The New Wave](https://open.spotify.com/album/3nAmDYxtOP4s2ZswOAtOVU) | 3:39 | 2024-07-12 |  |
 | [AYZON](https://open.spotify.com/track/29nzNE7CyuywKJKBlt2deI) | [BiniZion](https://open.spotify.com/artist/0gP8OJt9A0EdaSAyuUhSEU), [Anteneh Minalu](https://open.spotify.com/artist/6dIY3ynRrBa1745sJFNgkY) | [AYZON](https://open.spotify.com/album/1Fuoeuwn8qldn6ATtrAUPD) | 4:32 | 2024-05-24 |  |
 | [Baby I Like You](https://open.spotify.com/track/2vHxbqyjmmWJbjXwA5vemN) | [Mikael](https://open.spotify.com/artist/6I5gAHP6D7Hq1nmwcJXRdK) | [Baby I Like You](https://open.spotify.com/album/7CqSOctRr8f69vJ0tf6Guf) | 1:55 | 2023-03-17 | 2024-04-20 |
@@ -36,7 +36,7 @@
 | [Bob Marly](https://open.spotify.com/track/0zGOvZFRuKSe3SasV1TFue) | [Natti Haile](https://open.spotify.com/artist/7wqwO7cnVqGdHenEADW9k2) | [Nahom Favorite, Vol\. 14 \(Best Collections\)](https://open.spotify.com/album/3M5gXrIX9VhqPfsvfOHI51) | 4:55 | 2018-10-04 | 2023-06-24 |
 | [Brana \(Intro\)](https://open.spotify.com/track/4fFWPrxIv2Jdcu0R8WCUdF) | [Ebne Hakim](https://open.spotify.com/artist/3g3l6KISY37B2AsBheD3vW) | [Brana \(Intro\)](https://open.spotify.com/album/41obugVIRWBPHzr7jODXrO) | 1:34 | 2024-04-19 |  |
 | [Chall Zendero](https://open.spotify.com/track/7K7n8T0Ozc1EquLicWRs9r) | [Dawit Tsige](https://open.spotify.com/artist/0er7UYZjJL3ack3JOGzq5q) | [Yene Zema](https://open.spotify.com/album/7ENDKOE0sFneQCIXLwNyjf) | 3:52 | 2020-06-05 | 2025-10-25 |
-| [Chaw Tilina](https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Chaw Tilina](https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ) | 3:31 | 2023-03-17 |  |
+| [Chaw Tilina](https://open.spotify.com/track/5imDrGjz7SeqJadNh8Iryl) | [Esubalew Yetayew](https://open.spotify.com/artist/0GYW8GPX3VKpRxJ8ZYUE4O) | [Chaw Tilina](https://open.spotify.com/album/2lN05SxdWxOx6sfhP0vTDQ) | 3:31 | 2023-03-17 | 2026-03-07 |
 | [Checheho](https://open.spotify.com/track/3B3YUcoMB8CmXOuKT3z1WD) | [Aster Aweke](https://open.spotify.com/artist/6oCxgUP6Vdx3YIJb59Ia0L) | [Checheho](https://open.spotify.com/album/3hbNRs65PT6F0HoTIF1Ziv) | 6:09 | 2018-10-04 | 2023-03-18 |
 | [Chicken On Bike](https://open.spotify.com/track/27mpiouzsM2nVeEzM5Y4uI) | [Olana](https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy), [Harvey Sutherland](https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf) | [Chicken On Bike](https://open.spotify.com/album/4QERVU1WH5ZQXnJuPx33Wn) | 2:27 | 2025-03-14 |  |
 | [Darm Yelat](https://open.spotify.com/track/6SVoDXBSU1eZKRdokV2yaT) | [Nahom Mekuria](https://open.spotify.com/artist/3zFxJvpOzvb6aD0Lvk96he) | [Darm Yelat](https://open.spotify.com/album/5WbVCGdmMmWVjCbR64FghT) | 3:17 | 2022-12-12 |  |
@@ -45,6 +45,7 @@
 | [DEJARME LLEVAR](https://open.spotify.com/track/0TCzFRMCWyMbu9kkwpEtak) | [Nadlyn](https://open.spotify.com/artist/1pRMorsV4ogEE770hp6N0X) | [DEJARME LLEVAR](https://open.spotify.com/album/0ZOP15lhHm3J6hdNPhu23A) | 2:53 | 2023-03-17 |  |
 | [Desnaan Jedheeraa/ Des Blognal](https://open.spotify.com/track/5U2Q9ASY20xyZv1LbVCI9k) | [Yamlu Molla](https://open.spotify.com/artist/0UphqXsRfB4p1OFCSO0w0z), [Kurkuraa Bonie Ko](https://open.spotify.com/artist/1ZdYdbWLgazeYfd9jUkGpZ) | [Desnaan Jedheeraa/ Des Blognal](https://open.spotify.com/album/3g7wtD9LihHxT174iXs1Gt) | 2:26 | 2024-03-08 |  |
 | [Disc 1: Sitalekish Des Alishign \(A\. Agonafir\)](https://open.spotify.com/track/6Hux3tjwWhozjKoOajz9nb) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- 6\-cd Box Set](https://open.spotify.com/album/1tIZbl4nLZZlj9nhb4PCc4) | 5:04 | 2018-10-04 | 2022-07-29 |
+| [Dub Will Keep Us Together](https://open.spotify.com/track/6VuOyEfNNEmGX7gF5ImFxm) | [Dub Colossus](https://open.spotify.com/artist/0kkJ6OXGsnN2A0jTCo0tjz) | [Dub Will Keep Us Together](https://open.spotify.com/album/0L0RuPk4xJW3RF7wlDkror) | 5:47 | 2026-03-06 |  |
 | [Dèra](https://open.spotify.com/track/2IIb271RwaISQdftWsD7HT) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/0kGmTDYh6sYO9EmeTWYiAv) | 6:23 | 2018-10-04 | 2024-12-07 |
 | [Dèra](https://open.spotify.com/track/5Ib3C5Pwn5vVGjONPEjlJg) | [Mahmoud Ahmed](https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha) | [Live In Paris](https://open.spotify.com/album/7hRfo6CmgWCk8ekWnG2zpR) | 6:23 | 2018-10-04 | 2024-04-19 |
 | [Ena](https://open.spotify.com/track/3lDh5FFo45l6iPMQ223yn0) | [Muluken Dawit](https://open.spotify.com/artist/2zUgHt41Ctg8PSdKvqBRwV) | [Mengedegna](https://open.spotify.com/album/7ktHIg4rf3y3U4DToGlIO3) | 4:42 | 2018-10-04 | 2023-09-15 |
@@ -97,6 +98,7 @@
 | [Pretty Girls](https://open.spotify.com/track/4RZcW3j9AOkU2R0p1QoLO9) | [Abel](https://open.spotify.com/artist/2sj79jP5y6LxWux7yHd5ss) | [Pretty Girls](https://open.spotify.com/album/4PVi3ze2hRUq45YejBEsuj) | 1:23 | 2024-05-03 | 2024-10-05 |
 | [Qal](https://open.spotify.com/track/0ZM9wgVnliFhDKdNdND349) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [Sidist \(VI\)](https://open.spotify.com/album/25lSM4Kr3XmfZPALspAiNH) | 4:51 | 2022-11-17 | 2025-02-08 |
 | [Rega](https://open.spotify.com/track/5srRfLAfga930OVMWupdB7) | [Jano Band](https://open.spotify.com/artist/29rBOow0bKfFfNXRSzZrBm), [Ahadu](https://open.spotify.com/artist/656D6SvS3ESkvQdroZMC6W), [Ezra](https://open.spotify.com/artist/2WrgUQR8a2v9yu8ViT1aIH) | [Rega](https://open.spotify.com/album/6V0xmnyjX86ZfvuUTVKaLB) | 4:15 | 2019-11-25 | 2024-10-26 |
+| [Replay](https://open.spotify.com/track/60mGffrPEDbwXr3QQO7X1S) | [itsonlybruk](https://open.spotify.com/artist/3dRpcKG7vbvxDBMlubvFDm) | [Replay](https://open.spotify.com/album/21b8adhCX5lhGLDWxTXZum) | 3:04 | 2026-03-06 |  |
 | [Setaleksh Des Alishign, Abinet Agonafir](https://open.spotify.com/track/3x1IPNc49eHFIRYPqrge1h) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [The Ethiopian Millennium Collection \- Dance](https://open.spotify.com/album/7JIzV5YLIR8GidhHgQ4LJa) | 5:04 | 2018-10-04 | 2022-11-14 |
 | [She Will Be Loved](https://open.spotify.com/track/2R167fmwPN79bfF1BqqNol) | [TK SNO](https://open.spotify.com/artist/1k6HVfpL0t6d9ZIiOT4xWR) | [She Will Be Loved](https://open.spotify.com/album/6P86LrrDckjeM4TqdyknhO) | 3:36 | 2023-09-14 |  |
 | [SHEGIYE](https://open.spotify.com/track/4eTZ9MoScTBfgRAPkMKxoP) | [Rophnan](https://open.spotify.com/artist/3LqZ41yvB4W7KSjEYLL31w) | [ZETEGN \| NOR](https://open.spotify.com/album/5TiaBIND5BaCCPyVUllODr) | 3:44 | 2024-10-04 |  |
@@ -107,6 +109,7 @@
 | [Shemuna](https://open.spotify.com/track/4uFUCGBv4tq0QTxixJrtbS) | [Hewan Gebrewold](https://open.spotify.com/artist/60fiWbQASuQ0otDUr7mBSE) | [Hewan](https://open.spotify.com/album/5IDFkDxuCCkBvABL7GYmAS) | 3:27 | 2024-03-22 |  |
 | [Sherosa](https://open.spotify.com/track/40FlcwnMrGOAaOzWn6kQg9) | [Dagi D](https://open.spotify.com/artist/3YOmlimmUHkxvGOKvjHxYp) | [Sherosa](https://open.spotify.com/album/1oHNRptCAPInR033NI1pfa) | 3:28 | 2023-06-23 | 2023-08-15 |
 | [Sitalekish Des Alishign](https://open.spotify.com/track/2UMLCweE5NvY4sdeJCaFFX) | [Abinet Agonafir](https://open.spotify.com/artist/0R8QDnSxcOe9PLNBI6m80j) | [Hidden Beauty](https://open.spotify.com/album/2HPUUWewF1dWh0IXbP6LUh) | 5:05 | 2018-10-04 | 2023-09-15 |
+| [Surulere](https://open.spotify.com/track/4wdWwDlRgVidbouF13TQ4O) | [IssaGhad](https://open.spotify.com/artist/7AnHmZvWtGrjAJ1UJDldSo) | [Surulere](https://open.spotify.com/album/5uYNxkwaZuMybmJUhmIjfP) | 3:06 | 2026-03-06 |  |
 | [Tefa Yemileyen](https://open.spotify.com/track/7FTywuxqZm5nFhoZGP0xn2) | [Sami Dan](https://open.spotify.com/artist/6pmiKm0FnDKK5oIYrMCLRY) | [Keras Gar Negeger](https://open.spotify.com/album/6AxXfgZACYYxYWdp6mwBr2) | 5:02 | 2018-10-04 | 2023-03-18 |
 | [Tewedaj](https://open.spotify.com/track/4FHNogeGpRbEFRlLCqw1GH) | [Haleluya Tekletsadik](https://open.spotify.com/artist/4ZpsiP2o6O2aNe2E7Kk9Ke) | [Tewedaj, Vol\. 1](https://open.spotify.com/album/6xDnveRco4B2JmHZdJeV6W) | 3:26 | 2022-11-17 |  |
 | [Teywa](https://open.spotify.com/track/1wmNXWGVkLxaJNYWNV8oq5) | [Aman](https://open.spotify.com/artist/10H83AFY6wbiZCiOd8guQR) | [Studio 30 Volume 1](https://open.spotify.com/album/3BGMxmK1XEj84UosGYTk61) | 3:05 | 2022-11-17 |  |

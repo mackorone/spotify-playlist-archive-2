@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-905 songs - 1 day 21 hr 10 min
+907 songs - 1 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,6 +825,8 @@
 | [V!ttu](https://open.spotify.com/track/5jw1cv3MgIDqrsbrBYFt2e) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Sanansaattaja](https://open.spotify.com/album/455WKEDIMDRAxRyFa8sqvN) | 2:41 | 2024-11-14 | 2024-12-13 |
 | [Vaarallinen Nainen](https://open.spotify.com/track/0XWzwurinuiDIyvlq0lx93) | [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Vaarallinen Nainen](https://open.spotify.com/album/21Lc9yZqlkPlPUo9og8lua) | 2:35 | 2024-07-11 | 2024-10-11 |
 | [Vaatteet ja iho](https://open.spotify.com/track/427I5MP8z0avmKQZX4ZgGA) | [Apulanta](https://open.spotify.com/artist/5kwthnxNdfnqGk0nL35wDC) | [Oire jostakin](https://open.spotify.com/album/51uB52lJNWlW8kevWUPDiA) | 4:00 | 2024-11-21 | 2025-01-03 |
+| [Vahvana \(feat\. Tuomas Kauhanen\)](https://open.spotify.com/track/1DNH06u2sRUkLY7ipFivBg) | [Petra Gargano](https://open.spotify.com/artist/4TkCzUif7TdJyGpvqyRvQ4), [Tuomas Kauhanen](https://open.spotify.com/artist/61ZSrIBRin3VT35hbvS5UE) | [Vahvana \(feat\. Tuomas Kauhanen\)](https://open.spotify.com/album/4ltuKQM54Sznm9WSXM8HKb) | 2:55 | 2026-03-06 |  |
+| [Vaikka lähtisit pois](https://open.spotify.com/track/1Z2RALD4puYWngQXG7yPtE) | [Vanna](https://open.spotify.com/artist/5kLqwu1nHkVed1l5GAbt5B) | [Vaikka lähtisit pois](https://open.spotify.com/album/4uentRpWnR84cwS2PIpL0C) | 3:14 | 2026-03-06 |  |
 | [Vain nyt](https://open.spotify.com/track/7bENtR0BjygtVylRFwikME) | [Lili & Luna](https://open.spotify.com/artist/5K10NuCY4qVWSgk3kGsQTZ) | [Vain nyt](https://open.spotify.com/album/2UZC2j5MOWY5tm8oiwmiHf) | 3:15 | 2024-07-25 | 2024-08-10 |
 | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/track/31lZDgdGLl7bzGcVqtuWdr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Vaisto \(feat\. Juuna Chill\)](https://open.spotify.com/album/3CvcY3DQFo8nLf8pA4qCG5) | 2:25 | 2024-07-02 | 2024-10-18 |
 | [Valheista kaunein](https://open.spotify.com/track/2W1fGOBi9irc3iLZb6D7Pp) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Valheista kaunein](https://open.spotify.com/album/2AtAyhsTL41uPOSyOo2AZz) | 2:40 | 2024-07-02 | 2024-07-12 |
@@ -845,7 +847,7 @@
 | [Vasara](https://open.spotify.com/track/00raJsPfZM5Ipv5KDjdHec) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Vasara](https://open.spotify.com/album/1hCscYsfkR5SRkNo7g3ant) | 2:41 | 2026-02-26 | 2026-03-06 |
 | [Vegas](https://open.spotify.com/track/6oY7qFe5Cn5A0vUGuD5A4w) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Voiko enkelitkin eksyä](https://open.spotify.com/album/6pk45MMtYAFpXHnzt7lL6N) | 4:06 | 2025-10-09 | 2025-10-31 |
 | [Veli](https://open.spotify.com/track/06Jn7UjPJzP99sg0cT49KA) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Naarmuja](https://open.spotify.com/album/4GqH3QQoP5BOlmxTkbq8mg) | 2:56 | 2025-09-18 | 2025-10-10 |
-| [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-02-05 |  |
+| [Veli nojaa siskoon](https://open.spotify.com/track/6MihxSwAbPXzD8NCt5wAs7) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Veli nojaa siskoon](https://open.spotify.com/album/7z5GKxXv9o8kReu8W04isP) | 2:47 | 2026-02-05 | 2026-03-07 |
 | [Velkaa](https://open.spotify.com/track/5ItsWCQ97a5kt2pFglV9ZN) | [Tupe.](https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5) | [Velkaa](https://open.spotify.com/album/6zTk34ayu8vfMfbh5BmWnH) | 3:25 | 2024-07-02 | 2024-09-13 |
 | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/track/1JcLdVOMosBedEtjG2C4xx) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF), [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [Veri viiniks \(feat\. Mikael Gabriel\)](https://open.spotify.com/album/1sxFu3D0Ftmr5NPiKfVIzd) | 3:26 | 2025-04-24 | 2025-06-13 |
 | [Vie mut \(Vain elämää kausi 15\)](https://open.spotify.com/track/5wFghFP2eHApglXgFw8h6Q) | [Roope Salminen](https://open.spotify.com/artist/0fUotQ9XbnLcg1a0OAHAxC), [Roope Salminen & Koirat](https://open.spotify.com/artist/3OElmmR1D18e4dPTISAF5r) | [Vie mut \(Vain elämää kausi 15\)](https://open.spotify.com/album/4a4e1WIQHRaTNzM4XymUw8) | 2:28 | 2024-10-04 | 2024-10-11 |

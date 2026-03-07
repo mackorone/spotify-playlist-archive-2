@@ -2,9 +2,9 @@
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: J\. Cole
+> Inspirational hip\-hop\. Cover: Voices of Fire and Pharrell
 
-538 songs - 1 day 2 hr 59 min
+539 songs - 1 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [From a City](https://open.spotify.com/track/3x5a0wMlNoXKqhKfTCNV7M) | [Morgan "Juice" Ellison](https://open.spotify.com/artist/6O1Dp614Lri6nK2U8KAxVn), [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM), [COLLAB](https://open.spotify.com/artist/0neOgsfgMDypHdkpnlqmeF) | [From a City](https://open.spotify.com/album/7wU6Fz4HUQeRC6Ak4GnQab) | 2:25 | 2022-03-25 | 2022-04-15 |
 | [FYE FYE](https://open.spotify.com/track/08L5NUKHYS0RO32tz34G4A) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [FYE FYE](https://open.spotify.com/album/6fyajWzEooH12hA3oJIOZU) | 3:52 | 2021-12-11 | 2023-12-10 |
 | [FYE FYE](https://open.spotify.com/track/4g2OxXjs5skPc9cSFwxLSd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [FYE FYE](https://open.spotify.com/album/1KJH4MaROvdW0KbHN6GW5B) | 3:52 | 2023-02-18 | 2024-04-19 |
-| [GAS YOU UP \- STREET](https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Danny A\. Thomas](https://open.spotify.com/artist/4nQhZL6pcDzSaFPmAMKCB3) | [Gas You Up](https://open.spotify.com/album/3kvThZp3piFOkt53pwOPzj) | 3:40 | 2026-01-16 |  |
+| [GAS YOU UP \- STREET](https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Danny A\. Thomas](https://open.spotify.com/artist/4nQhZL6pcDzSaFPmAMKCB3) | [Gas You Up](https://open.spotify.com/album/3kvThZp3piFOkt53pwOPzj) | 3:40 | 2026-01-16 | 2026-03-07 |
 | [Genes](https://open.spotify.com/track/0nFeYMN51MWvGOQhenG4XN) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [Genes](https://open.spotify.com/album/1Tb2uOlFRxyJr1Xj76qE1T) | 2:14 | 2021-12-11 | 2022-11-19 |
 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 | 2025-03-28 |  |
 | [Ghost](https://open.spotify.com/track/4qsJoHZ26OlufnruQvQqNv) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Ghost](https://open.spotify.com/album/6IRyi9wbNGEtGaWAp2VvuB) | 2:07 | 2022-05-28 | 2022-11-19 |
@@ -218,6 +218,7 @@
 | [I Apologize](https://open.spotify.com/track/5lgOCvn7DLwv6jwRhbaZwX) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [I Apologize](https://open.spotify.com/album/5LKKy22HUo9dIAzwukGN5K) | 2:45 | 2024-06-25 |  |
 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 | 2022-11-18 | 2024-08-27 |
 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 | 2022-11-18 |  |
+| [I FORGIVE YOU \(FEAT\. CEELO GREEN & QUAVO\)](https://open.spotify.com/track/4CvoOJK3UbsHcXZyjz00bh) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [OPHANIM](https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5) | 3:22 | 2026-03-06 |  |
 | [I Know I Been Changed \(Music From The Motion Picture "American Skin"\) \[feat\. Gary Clark Jr.\]](https://open.spotify.com/track/0SqO4j9UTyzdAV7NJWcDYH) | [Keedron Bryant](https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX), [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [I Know I Been Changed \(Music From The Motion Picture "American Skin"\) \[feat\. Gary Clark Jr.\]](https://open.spotify.com/album/09pulMY06JHZrN23zR51H1) | 3:19 | 2021-12-11 | 2022-07-14 |
 | [I Love It](https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [I Love It](https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00) | 2:42 | 2024-06-25 | 2024-08-27 |
 | [I Love It \(Remix\)](https://open.spotify.com/track/4uItU1qpsYuWkWKPsHBHX4) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [I Love It \(Remix\)](https://open.spotify.com/album/7kN2C7LKgWUav9K1OlLzR5) | 2:42 | 2024-08-26 | 2024-10-05 |

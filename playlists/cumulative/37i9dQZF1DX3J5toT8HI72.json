@@ -1197,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Estou Apaixonado (Luiza Possi, P\u00e9ricles)",
+        "url": "https://open.spotify.com/album/1omVEDNXH6BLMs0FEQtuMz"
+      },
+      "artists": [
+        {
+          "name": "Luiza Possi",
+          "url": "https://open.spotify.com/artist/46P1tvf6evAk5wk2Rg3jOq"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226380,
+      "name": "Estou Apaixonado (Luiza Possi, P\u00e9ricles)",
+      "url": "https://open.spotify.com/track/27k1Gc3HwIqj5U12Vot8JX"
+    },
+    {
+      "album": {
         "name": "Tim Maia 1970",
         "url": "https://open.spotify.com/album/7HjYI9iWYOsEEvBhyCva66"
       },
@@ -3188,7 +3210,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 244806,
       "name": "Sou Assim At\u00e9 Mudar",
       "url": "https://open.spotify.com/track/3WvSwNtssCbdCJxzMNIbyp"

@@ -4,7 +4,7 @@
 
 > Unique covers by your favorite country artists\. Cover: Dan + Shay
 
-446 songs - 1 day 3 hr 53 min
+447 songs - 1 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@
 | [Make Me Want To](https://open.spotify.com/track/5qzSSqOzkNTLr6NPtH4xtD) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Make Me Want To](https://open.spotify.com/album/2rb2vdtPBkHPzqw05jbQAU) | 2:55 | 2022-09-13 | 2023-01-01 |
 | [Make Me Want To](https://open.spotify.com/track/6N97FC8o9OKlHb5sT0NKna) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Little More Tequila](https://open.spotify.com/album/4A5deLd84PViQDMdC0Jzew) | 2:55 | 2023-02-10 | 2023-04-10 |
 | [Mama He's Crazy](https://open.spotify.com/track/3uuAVN4ZepStnZvWZqzBDD) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/24C6lc3X1I18wfRmuiAkiy) | 3:17 | 2023-10-27 | 2023-11-11 |
-| [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-03 |  |
+| [Mama He’s Crazy](https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Tribute To The Judds](https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG) | 3:17 | 2023-11-03 | 2026-03-07 |
 | [Mama, I'm Coming Home](https://open.spotify.com/track/27hFnDcq32Q9wGx0W3bFUG) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Mama, I'm Coming Home](https://open.spotify.com/album/34VR7v0VYnTqwT7bLHD94o) | 3:56 | 2025-10-17 |  |
 | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/50yaJDcExOmFaKeyGOyRiE) | [Shannon McNally](https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T) | [Mammas Don’t Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/album/0qqdReY9Phr0htx5Rn9F82) | 3:32 | 2022-03-11 | 2022-06-28 |
 | [Man Of Constant Sorrow](https://open.spotify.com/track/4CYckHP3FnrXCysqEavOd5) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Man Of Constant Sorrow](https://open.spotify.com/album/7jlzOCM6wAcFjOn0sQvrKj) | 3:34 | 2023-08-18 | 2023-09-02 |
@@ -284,6 +284,7 @@
 | [On and On](https://open.spotify.com/track/7AiZcV5BSDVxNjW3kKNvsv) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK), [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [On and On](https://open.spotify.com/album/2o6drPabKBPi6Gx8A9qqxX) | 3:01 | 2021-12-10 | 2022-07-18 |
 | [On The Road Again](https://open.spotify.com/track/1tf6lHEfPoQfzpZiIul5HR) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [The Chain](https://open.spotify.com/album/1GG1Pl3dFbrgYBhTE61V4H) | 3:49 | 2022-03-25 | 2022-07-09 |
 | [One Man Band](https://open.spotify.com/track/1wIZmRtB9eVWMdQ10oIkX1) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [One Man Band](https://open.spotify.com/album/28mHJEd1a4pcrJI8PBfYBJ) | 2:56 | 2021-12-10 | 2022-07-20 |
+| [Only Daddy That'll Walk The Line](https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y), [Country Never Dies](https://open.spotify.com/artist/6TCgpmXVJnPOtKQVBWv4nk) | [Only Daddy That'll Walk The Line](https://open.spotify.com/album/2xa8mCSTqEWOUkXOoRTiSy) | 2:37 | 2026-03-06 |  |
 | [Only You \(And You Alone\)](https://open.spotify.com/track/2nBKv02cKXHbdtOgqru73d) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Heart To Heart](https://open.spotify.com/album/63RurYMZG9NhfDV0L0PB7P) | 2:52 | 2021-12-10 | 2022-07-29 |
 | [Outskirts of Heaven](https://open.spotify.com/track/2G8c1ylMTRTN32YegAxlbr) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/0LgPEUr7Hoyxpav1cAbWJK) | 4:03 | 2022-07-08 | 2022-08-10 |
 | [Outskirts of Heaven](https://open.spotify.com/track/7H3EzoWKPRcagDVhJU4WxI) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Outskirts of Heaven](https://open.spotify.com/album/6koiaXW97fMtsGIFX11CZm) | 4:03 | 2022-08-26 | 2023-11-04 |

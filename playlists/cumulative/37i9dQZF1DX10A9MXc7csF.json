@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana.  Hermanos Espinoza \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana.  Yaritza Y Su Esencia \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -6614,7 +6614,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161203,
       "name": "CUERNO LABUBU",
       "url": "https://open.spotify.com/track/4OEFIOfOzCKmzhtcOSSacA"
@@ -7988,7 +7988,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160665,
       "name": "Disfruto El Proceso",
       "url": "https://open.spotify.com/track/2c7ddBSG4xPTMomuLkWdHl"
@@ -9770,7 +9770,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 147142,
       "name": "El Mismo",
       "url": "https://open.spotify.com/track/1K3idamkSc1wHPTRsX3tVt"
@@ -11786,7 +11786,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186474,
       "name": "Estrategia",
       "url": "https://open.spotify.com/track/4Vjn4JuCI0p7GS3TmbLaLJ"
@@ -14445,6 +14445,24 @@
     },
     {
       "album": {
+        "name": "Julieta",
+        "url": "https://open.spotify.com/album/0kwSLeS9YkBi9er4O5I4Y1"
+      },
+      "artists": [
+        {
+          "name": "Low Clika",
+          "url": "https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201804,
+      "name": "Julieta",
+      "url": "https://open.spotify.com/track/2qSRWPxsgu6VHdNnpRTUDW"
+    },
+    {
+      "album": {
         "name": "Junto a M\u00ed",
         "url": "https://open.spotify.com/album/2kIukdelFinEOc0QlfVmMj"
       },
@@ -16943,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "Los D\u00edas",
+        "url": "https://open.spotify.com/album/5fcsS6wbKYKVJ6cDOJN6Sy"
+      },
+      "artists": [
+        {
+          "name": "Loreto",
+          "url": "https://open.spotify.com/artist/3CIaj6zebZCp6FUdl4SBHh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "Los D\u00edas",
+      "url": "https://open.spotify.com/track/58ywp1imKiUkend4q6UaSl"
+    },
+    {
+      "album": {
         "name": "Los Hombres Tambien Lloran",
         "url": "https://open.spotify.com/album/4laRqveSThcLcHq4zU0i8b"
       },
@@ -17614,6 +17650,28 @@
       "duration_ms": 255320,
       "name": "Mando 15",
       "url": "https://open.spotify.com/track/6jaaK01VdLoJeDOvDLqT0y"
+    },
+    {
+      "album": {
+        "name": "Maniaque",
+        "url": "https://open.spotify.com/album/1bTWfPzmSsyWfgDyqQQ2ju"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155970,
+      "name": "Maniaque",
+      "url": "https://open.spotify.com/track/0zWhZGXOh5EZyAbXeWdTbL"
     },
     {
       "album": {
@@ -18566,6 +18624,28 @@
       "duration_ms": 153451,
       "name": "Mi Alma",
       "url": "https://open.spotify.com/track/4a6weKya7NosmL4Xd2OXsN"
+    },
+    {
+      "album": {
+        "name": "Mi Amante",
+        "url": "https://open.spotify.com/album/7ly8TCWqxNJqhfQSei4uQh"
+      },
+      "artists": [
+        {
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
+        },
+        {
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Mi Amante",
+      "url": "https://open.spotify.com/track/7Jqr6FdbWCdzuo8dvOSF4R"
     },
     {
       "album": {
@@ -19686,7 +19766,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190512,
       "name": "MODELO V",
       "url": "https://open.spotify.com/track/0CkRWoCbCPsBrVp6s8psZ2"
@@ -22786,6 +22866,24 @@
       "duration_ms": 203863,
       "name": "Oye Bebe",
       "url": "https://open.spotify.com/track/5QZBPMzcmscG48lmTfD6Fg"
+    },
+    {
+      "album": {
+        "name": "O\u00eddos Sordos",
+        "url": "https://open.spotify.com/album/1q0EMeWp6yXKG5iYbolRE4"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214831,
+      "name": "O\u00eddos Sordos",
+      "url": "https://open.spotify.com/track/13NTcv9NSptJaE14Bpa17C"
     },
     {
       "album": {
@@ -26180,7 +26278,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 155255,
       "name": "Risk Takers",
       "url": "https://open.spotify.com/track/2Ina8OxEQ3knMzWFRz9imx"
@@ -27030,6 +27128,24 @@
       "duration_ms": 168250,
       "name": "SE ME FUE MI AMOR",
       "url": "https://open.spotify.com/track/6bs0sAUteRx3NnwZQR8Gse"
+    },
+    {
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "album": {
@@ -29762,7 +29878,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158909,
       "name": "Todos Los D\u00edas Son Viernes",
       "url": "https://open.spotify.com/track/2nPb3DOmLtNJ91tIEMKACB"
@@ -30446,6 +30562,24 @@
       "duration_ms": 114139,
       "name": "TUPAC",
       "url": "https://open.spotify.com/track/5CzQyArJBw2gU0guVUgXsC"
+    },
+    {
+      "album": {
+        "name": "PERR\u00d3N 58",
+        "url": "https://open.spotify.com/album/35IAmC0i6PZIZ4YeKpaHx3"
+      },
+      "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203530,
+      "name": "Tur\u00edstico",
+      "url": "https://open.spotify.com/track/4Fzas0Nu7pIQmloOp8NaKA"
     },
     {
       "album": {

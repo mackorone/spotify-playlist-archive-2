@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 117039,
+  "num_followers": 117047,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -375,42 +375,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "Vi trenger ikke preke om det",
-        "url": "https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "Vi trenger ikke preke om det",
-      "url": "https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "B\u00e6st I Test",
         "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
@@ -423,6 +387,46 @@
       "duration_ms": 186453,
       "name": "K\u00e6m Tok Ho Me S\u00e6",
       "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "I natt",
+        "url": "https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Marcus & Martinus",
+          "url": "https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 150481,
+      "name": "I natt",
+      "url": "https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -907,38 +911,6 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "Tr\u00f8bbel",
-        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
-      },
-      "artists": [
-        {
-          "name": "Spelloppmaker",
-          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
-        }
-      ],
-      "duration_ms": 193374,
-      "name": "Tr\u00f8bbel",
-      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-02-19 23:00:46",
-      "album": {
         "name": "Svensk i kv\u00e4ll",
         "url": "https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX"
       },
@@ -959,22 +931,34 @@
     {
       "added_at": "2026-02-19 23:00:46",
       "album": {
-        "name": "GUT OG KAR",
-        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
       },
       "artists": [
         {
-          "name": "Skei & PT",
-          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
-        },
-        {
-          "name": "BEIST",
-          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
         }
       ],
-      "duration_ms": 187206,
-      "name": "GUT OG KAR",
-      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "Tr\u00f8bbel",
+        "url": "https://open.spotify.com/album/5whjLWaR2WqXmBjuNSp9bw"
+      },
+      "artists": [
+        {
+          "name": "Spelloppmaker",
+          "url": "https://open.spotify.com/artist/6hA33Zcv5XlydUzUFEAgmi"
+        }
+      ],
+      "duration_ms": 193374,
+      "name": "Tr\u00f8bbel",
+      "url": "https://open.spotify.com/track/3xUzAD6beIGFICeRmMrjat"
     },
     {
       "added_at": "2026-02-19 23:00:46",
@@ -995,6 +979,26 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
+    },
+    {
+      "added_at": "2026-02-19 23:00:46",
+      "album": {
+        "name": "GUT OG KAR",
+        "url": "https://open.spotify.com/album/4opWplypCUUjthOCQdGk1e"
+      },
+      "artists": [
+        {
+          "name": "Skei & PT",
+          "url": "https://open.spotify.com/artist/1F4NLUTwRsFlczHZ4TppzV"
+        },
+        {
+          "name": "BEIST",
+          "url": "https://open.spotify.com/artist/10OhWVHbW5GVS77R9qkWWC"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "GUT OG KAR",
+      "url": "https://open.spotify.com/track/46fuiumV19QtKLPU6JolRF"
     },
     {
       "added_at": "2026-02-19 23:00:46",

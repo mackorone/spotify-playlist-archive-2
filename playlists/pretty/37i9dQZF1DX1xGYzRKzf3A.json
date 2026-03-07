@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 169323,
+  "num_followers": 169350,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Lo logre",
+        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 194078,
+      "name": "Lo logre",
+      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Punta Cana",
         "url": "https://open.spotify.com/album/3YvrPSD94Th9TvHcykVsyK"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 168230,
       "name": "Punta Cana",
       "url": "https://open.spotify.com/track/1TPAAS0YvLKzmDMAGrRd6i"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Lo logre",
-        "url": "https://open.spotify.com/album/6YqUR5CZ41mFCMDQd2E3a4"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 194078,
-      "name": "Lo logre",
-      "url": "https://open.spotify.com/track/5VCwxSMbHdXr22LxROFgyA"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -655,6 +655,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "No Hay Loco Que No Corone",
         "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 217298,
       "name": "Nena Moxita",
       "url": "https://open.spotify.com/track/4jC9blSAq4KNgejoNeQgwA"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Mundo De Dos",
-        "url": "https://open.spotify.com/album/2u8JTAoZvB8ypIGy52V1AB"
-      },
-      "artists": [
-        {
-          "name": "Charlie Rodd",
-          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
-        }
-      ],
-      "duration_ms": 168125,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/0i1W9QxdJKLZjxbgBKYv82"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Ni Una Sola Palabra (feat. IMA)",
         "url": "https://open.spotify.com/album/0bzo8Jsq6kthTs8V8bsqSS"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 262153,
       "name": "Ni Una Sola Palabra (feat. IMA)",
       "url": "https://open.spotify.com/track/4h9tHQkrlXA3N1wvpqDXmR"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Mundo De Dos",
+        "url": "https://open.spotify.com/album/2u8JTAoZvB8ypIGy52V1AB"
+      },
+      "artists": [
+        {
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        }
+      ],
+      "duration_ms": 168125,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/0i1W9QxdJKLZjxbgBKYv82"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Talento de Vida",
-        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Comienza la Dinast\u00eda",
         "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 188540,
       "name": "Ella Te Enga\u00f1a",
       "url": "https://open.spotify.com/track/26StxwJZilB1s1Ha5UfuYW"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Talento de Vida",
+        "url": "https://open.spotify.com/album/2pvr1DnmS01brEuyN0iNgd"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/5DBoa0YTjE7xXAK1S2C2X3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "DISCOTECA",
-        "url": "https://open.spotify.com/album/2xRnwlxokJoSxlcDdO7ghC"
-      },
-      "artists": [
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
-        }
-      ],
-      "duration_ms": 128276,
-      "name": "DISCOTECA",
-      "url": "https://open.spotify.com/track/0KIRlrBShTbDMb9SSB0gQ3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Necios",
         "url": "https://open.spotify.com/album/7CGMwSZjYJx3fJiFt5e9UP"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 234997,
       "name": "Si No Vas a Ser T\u00fa",
       "url": "https://open.spotify.com/track/0YmihiZsgfqKIQO6Le00QL"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "DISCOTECA",
+        "url": "https://open.spotify.com/album/2xRnwlxokJoSxlcDdO7ghC"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 128276,
+      "name": "DISCOTECA",
+      "url": "https://open.spotify.com/track/0KIRlrBShTbDMb9SSB0gQ3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "#El Regreso",
+        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "NECIA",
         "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 183607,
       "name": "NECIA",
       "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "#El Regreso",
-        "url": "https://open.spotify.com/album/65Jli3h6cwCimwjpsMDwOe"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/2B6Iw4NVbrLhguZ9pVpVGq"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "El Rosario (Bonus Track)",
-        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
-      },
-      "artists": [
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "El Rosario - Bonus Track",
-      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Me Haces Falta",
         "url": "https://open.spotify.com/album/1nwnsqrVtE7wP8SZf344hc"
       },
@@ -2191,26 +2171,6 @@
       "duration_ms": 207853,
       "name": "Indispensable",
       "url": "https://open.spotify.com/track/05TjvPiZoIpGsv47cEFn7w"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 184736,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2247,6 +2207,46 @@
       "duration_ms": 237333,
       "name": "Gitana (feat. Jeis, Pao Alvarado & Charly Romero)",
       "url": "https://open.spotify.com/track/36sCyXGpgGVkiPaTObxvVT"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "El Rosario (Bonus Track)",
+        "url": "https://open.spotify.com/album/75TfeAsBWBy2qZ5azTcHUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "El Rosario - Bonus Track",
+      "url": "https://open.spotify.com/track/4l0hk9ZTlp86BTJFJO9xB3"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Por Ti",
-        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
-      },
-      "artists": [
-        {
-          "name": "Pasabordo",
-          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "El Calendario",
-      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "A veces sue\u00f1o cuando me quedo despierto",
         "url": "https://open.spotify.com/album/25fxj4NUOxhi5dwCsoGpOo"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 214875,
       "name": "Lastimame",
       "url": "https://open.spotify.com/track/5PXxjDvG6r8n0d7FxZjWly"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Por Ti",
+        "url": "https://open.spotify.com/album/2s6tNGh8UjpTRonLYN3CbL"
+      },
+      "artists": [
+        {
+          "name": "Pasabordo",
+          "url": "https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "El Calendario",
+      "url": "https://open.spotify.com/track/5m4Yr42boaSHFxTD6hmUeu"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Verde",
-        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Macario Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
-        }
-      ],
-      "duration_ms": 266055,
-      "name": "Otra salida",
-      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Cuando",
         "url": "https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D"
       },
@@ -2411,6 +2391,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/7bmA9sOUyjkl2gSEkEE3Fd"
+      },
+      "artists": [
+        {
+          "name": "Wuicho kun",
+          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
+        },
+        {
+          "name": "Macario Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4"
+        }
+      ],
+      "duration_ms": 266055,
+      "name": "Otra salida",
+      "url": "https://open.spotify.com/track/1e7WuxzFwE4Rn1GCFvOos2"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -2423,6 +2423,22 @@
       "duration_ms": 187600,
       "name": "Miente",
       "url": "https://open.spotify.com/track/1gA2JKymFK2wqvNKbiZmjl"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Nitrocumbia",
+        "url": "https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3"
+      },
+      "artists": [
+        {
+          "name": "Los Dutis",
+          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Nitrocumbia",
+      "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2455,38 +2471,18 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Nitrocumbia",
-        "url": "https://open.spotify.com/album/4vDymKr8UcyvMaaZOGELy3"
+        "name": "Prom",
+        "url": "https://open.spotify.com/album/3C9JUf1lop0U0NlwxSEJjX"
       },
       "artists": [
         {
-          "name": "Los Dutis",
-          "url": "https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi"
+          "name": "Los Caliz",
+          "url": "https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Nitrocumbia",
-      "url": "https://open.spotify.com/track/5Ub2ljGAxC1ZWZ4IxAZRKa"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Es As\u00ed",
-        "url": "https://open.spotify.com/album/0BF82aBeWmhKrMf81RpUeb"
-      },
-      "artists": [
-        {
-          "name": "Wuicho kun",
-          "url": "https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E"
-        },
-        {
-          "name": "Sam Vazquez",
-          "url": "https://open.spotify.com/artist/3k684W4rJtfWKNkUZIhuAq"
-        }
-      ],
-      "duration_ms": 207980,
-      "name": "Es As\u00ed",
-      "url": "https://open.spotify.com/track/6UcSnz6quThUb3XsjQbmgY"
+      "duration_ms": 142500,
+      "name": "Prom",
+      "url": "https://open.spotify.com/track/0fcSrSjsn3davHBci18iT0"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

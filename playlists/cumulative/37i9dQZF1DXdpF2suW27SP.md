@@ -4,7 +4,7 @@
 
 > Piruka entra na zona.
 
-965 songs - 2 day 2 hr 52 min
+966 songs - 2 day 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,6 +741,7 @@
 | [Quando Quiseres](https://open.spotify.com/track/5MGLrlZlzfCuosuAR6Q0xJ) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi), [Mr\. Marley](https://open.spotify.com/artist/1IFNNxxrEmMT7e5H9ioRSB) | [Quando Quiseres](https://open.spotify.com/album/7zBnYqXux65VVgVWoo1V9B) | 2:58 | 2023-04-06 | 2023-06-23 |
 | [Quarto de Hora](https://open.spotify.com/track/3J1JRP6FRXkGJut5GOjJQd) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Quarto de Hora](https://open.spotify.com/album/1tutu4TywvyaUcEUM7FfwG) | 4:03 | 2023-10-05 | 2024-09-20 |
 | [Quase](https://open.spotify.com/track/1SysQN5EYHlbU7uDogTJ2A) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Quase](https://open.spotify.com/album/7nJ5skhJINnVGV5Tl5p5Nw) | 2:25 | 2025-05-22 |  |
+| [Quase teu](https://open.spotify.com/track/25OZ5u4tmHz8TnTnRPXxdy) | [MS Capone](https://open.spotify.com/artist/1HOLnVK9G35A2MAqz2e8AP) | [Quase teu](https://open.spotify.com/album/5hEAny7yNesCyNs8ldJaY3) | 2:09 | 2026-03-06 |  |
 | [Quem Dá Costas É Presa](https://open.spotify.com/track/6HudAnk1daR6C9cor9qMbF) | [Holly Hood](https://open.spotify.com/artist/3DOJU0CqEqSdfFIMGiykRv) | [Quem Dá Costas É Presa](https://open.spotify.com/album/3dv42dU6BcR96jJZ5Am01K) | 2:25 | 2025-12-05 |  |
 | [Quem Sabe Um Dia](https://open.spotify.com/track/6qKtu8IuiSNFjluK0K4t7D) | [Uzzy](https://open.spotify.com/artist/2Ia5AqFe2PZmGirbLc7zMi) | [Stilo De Vida](https://open.spotify.com/album/6v9TIamLIRxVHsKXbDaI0Y) | 3:30 | 2025-05-08 | 2025-05-16 |
 | [Quem Tu Mereces](https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Quem Tu Mereces](https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7) | 3:32 | 2024-02-09 | 2024-06-14 |

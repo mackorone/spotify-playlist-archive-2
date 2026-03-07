@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 106583,
+  "num_followers": 106616,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Slaaptekort",
+        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "duration_ms": 215978,
+      "name": "Habiba",
+      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/6JbQ9aaIInPGBPblLb3gn4"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 226912,
       "name": "Ik Kom Bij Je",
       "url": "https://open.spotify.com/track/5CeKSGsjyGQ0ck2UeMDbBw"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Slaaptekort",
-        "url": "https://open.spotify.com/album/62mwenWca7ZVvsUFaHYNwu"
-      },
-      "artists": [
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 215978,
-      "name": "Habiba",
-      "url": "https://open.spotify.com/track/0kax62GXeNWiIlA1ONZH5i"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -343,26 +343,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Visionair",
         "url": "https://open.spotify.com/album/2HTLRDquouddfqMAmhiY8Q"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 156081,
       "name": "DomDoen",
       "url": "https://open.spotify.com/track/5vJpSCkDDqLE6bNF4cRqRG"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "18 Plus",
-        "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
-      },
-      "artists": [
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Finest Sno",
-          "url": "https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "18 Plus",
-      "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Allemaal Een Droom",
         "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 155433,
       "name": "Tout Est Bon",
       "url": "https://open.spotify.com/track/1tA3foex0E78CzVzNkDhdf"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "18 Plus",
+        "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
+      },
+      "artists": [
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Finest Sno",
+          "url": "https://open.spotify.com/artist/2jZdMwF6R1JW2QPNLwMcSz"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "18 Plus",
+      "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "POSITIE",
         "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 200970,
       "name": "POSITIE",
       "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "MGSEASON 2",
+        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Hard 2 Get",
+      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Rompe",
         "url": "https://open.spotify.com/album/3rZb8GgKNTUgL4MZYFoacP"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 184400,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/4YaKdKVcrM6Gf5ZALtp0gI"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "MGSEASON 2",
-        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Hard 2 Get",
-      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Ik Leef",
-        "url": "https://open.spotify.com/album/2ibLsqb4jdCcfC7iy6PZCH"
-      },
-      "artists": [
-        {
-          "name": "Jayh",
-          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Volgende Stap",
-      "url": "https://open.spotify.com/track/7vIlKSC5fcyNhDBaQyFTxM"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Hele Meneer #Dingems - EP",
         "url": "https://open.spotify.com/album/0yPM77F6QoP63pXIXCR7ia"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 163263,
       "name": "Hele Meneer",
       "url": "https://open.spotify.com/track/7HRMo1cEFxoInV9fWjkoqB"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Ik Leef",
+        "url": "https://open.spotify.com/album/2ibLsqb4jdCcfC7iy6PZCH"
+      },
+      "artists": [
+        {
+          "name": "Jayh",
+          "url": "https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Volgende Stap",
+      "url": "https://open.spotify.com/track/7vIlKSC5fcyNhDBaQyFTxM"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Woozy",
+        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
+      },
+      "artists": [
+        {
+          "name": "Caza",
+          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 144667,
+      "name": "Woozy",
+      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Nachtwacht",
         "url": "https://open.spotify.com/album/0ZakSoY5lCsL5vBf1LFlJw"
       },
@@ -1771,26 +1791,6 @@
       "duration_ms": 240000,
       "name": "C'est la vie",
       "url": "https://open.spotify.com/track/3TUafDwB2Oygi8lyZlLyQt"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Woozy",
-        "url": "https://open.spotify.com/album/5pUAwlSQbMdGGS96lNIDRU"
-      },
-      "artists": [
-        {
-          "name": "Caza",
-          "url": "https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 144667,
-      "name": "Woozy",
-      "url": "https://open.spotify.com/track/541peoOERBSTw2fRDZTHbd"
     },
     {
       "added_at": "2024-07-19 06:38:33",

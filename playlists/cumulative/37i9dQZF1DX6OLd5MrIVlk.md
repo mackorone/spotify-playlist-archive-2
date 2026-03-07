@@ -4,7 +4,7 @@
 
 > Come on board and bring along all your hopes and dreams\. Listen to the music from and inspired by ONE PIECE, now streaming on Netflix.
 
-90 songs - 4 hr 20 min
+91 songs - 4 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Wealth Fame Power](https://open.spotify.com/track/3r6uOOqD9JShsQqRsN2Id8) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [Wealth Fame Power \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4Cv7Wt5mRumB2FrbtAxe1S) | 3:44 | 2023-08-31 |  |
 | [Welcome To Arlong Park](https://open.spotify.com/track/3upMS1cS2zVvtUtPi5GaT6) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 3:59 | 2023-08-31 |  |
 | [Welcome To Baratie](https://open.spotify.com/track/3W5zGsOFSMJTssLAVSp575) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 1:34 | 2023-09-08 |  |
+| [Whisky Peak Saloon feat\. Leo P \(from the Netflix Series "One Piece"\)](https://open.spotify.com/track/4aoXVH71dDP8Jnc3KU32Pw) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [Leo P](https://open.spotify.com/artist/6CF5ONB3XoE4MvOodYnM4w) | [Whisky Peak Saloon feat\. Leo P \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/0kTwzSFwfu4YRguFNSstdo) | 3:19 | 2026-03-06 |  |
 | [Who The Hell Is Monkey D Luffy](https://open.spotify.com/track/6QObQ5Vc8zghjxCbxKKeEl) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6), [One Piece Big Band](https://open.spotify.com/artist/6LblTqTQrZt3nOzku8rgyy) | [Mixtape from Baratie \(from the Netflix Series "One Piece"\)](https://open.spotify.com/album/4t1c9UpLCg3Fldvo0vAb2w) | 0:53 | 2023-09-08 |  |
 | [Who's Hungry](https://open.spotify.com/track/3VFNxZHbR3LEEZdmHmB6uk) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 2:28 | 2023-08-31 |  |
 | [Why Do They Call Him Axe Anyway](https://open.spotify.com/track/7z6E7X6WiUyD3VzFJRz6Cu) | [Sonya Belousova](https://open.spotify.com/artist/0JnNzCUsHuDcUcBatOzuGP), [Giona Ostinelli](https://open.spotify.com/artist/2GGcFMw7PABKRpAS0lpYX6) | [One Piece \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3SpAbtsIKZ9omjpDCPUQKJ) | 3:52 | 2023-08-31 |  |

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: I'm With Her
 
-317 songs - 20 hr 39 min
+318 songs - 20 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Black Peter](https://open.spotify.com/track/4rQyvLAxf6ENq0dB4WFbOR) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Grass Roots](https://open.spotify.com/album/6A9zPtwsWCWvHOSuRGD2N0) | 5:30 | 2023-05-19 | 2025-02-01 |
 | [Blinding Lights](https://open.spotify.com/track/6Yha6zZt78YGfpUT8pZZHD) | [Heather Sarona](https://open.spotify.com/artist/5cne7YJw2nterSfuPr16W0) | [Blinding Lights](https://open.spotify.com/album/7falZh1l6FbSfdXBRRGeWm) | 3:35 | 2022-12-02 | 2024-09-28 |
 | [Blinding Lights](https://open.spotify.com/track/3V9VuEtA4EYTbK5utLOZZK) | [Micah Wagner](https://open.spotify.com/artist/6TvBcI7m0Jq96Br9pAXCGy) | [Blinding Lights](https://open.spotify.com/album/0l8nQQvBiFAJnTbzbnSK3f) | 3:05 | 2024-10-04 |  |
-| [Born At The Right Time](https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf) | [Chris Roberts](https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr) | [Born At The Right Time](https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq) | 4:48 | 2024-02-23 |  |
+| [Born At The Right Time](https://open.spotify.com/track/4dR5U0ARtEkuIVI17zilxf) | [Chris Roberts](https://open.spotify.com/artist/0wrLBy1hHUUDMRjdL9xxGr) | [Born At The Right Time](https://open.spotify.com/album/3LRnF4dHzSpanoNzgY8THq) | 4:48 | 2024-02-23 | 2026-03-07 |
 | [Born to Run](https://open.spotify.com/track/3ZMEwdh8QGsUSOmXGsLcAu) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Born to Run](https://open.spotify.com/album/6XXtLt6TrZqAEpf075BH6X) | 4:41 | 2024-07-26 |  |
 | [Both Sides Now](https://open.spotify.com/track/1cjDZNaMWIv7Q1eRqF9Rca) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Those Were the Days](https://open.spotify.com/album/4afclf1PXcwWZYU1B1wie1) | 3:34 | 2026-02-04 |  |
 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 | 2021-08-20 | 2023-04-15 |
@@ -171,6 +171,7 @@
 | [Let Your Love Flow](https://open.spotify.com/track/4BNKLzaOKJp2NhnoDQVOhJ) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6jqh9xProzlkcBe2KEtNR7) | 2:57 | 2022-10-07 | 2024-01-20 |
 | [Let Your Love Flow](https://open.spotify.com/track/7jupT6wzegD9jbY4lbfb6O) | [Betty Fisher](https://open.spotify.com/artist/37JcV5BAEqxOfKkeKQf9pr) | [Smiling Faces & Different Places](https://open.spotify.com/album/6DxIJfgKCZkfcojIPoIjdo) | 2:57 | 2022-10-07 | 2022-10-14 |
 | [Let's Get It Started](https://open.spotify.com/track/0Ti70H69CvNwtfku4ajGTA) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Let's Get It Started](https://open.spotify.com/album/6fiyjUrbHehvrjmiWvBwiw) | 3:29 | 2023-03-17 | 2023-07-29 |
+| [Linger](https://open.spotify.com/track/4L2VxFPupG0uZTFukuZBoY) | [Aine Burns](https://open.spotify.com/artist/2YO7UDjRwu6oFYXDQxVfOz) | [Linger](https://open.spotify.com/album/34HJ7PfTw1XuNCkWwUoJRP) | 4:28 | 2026-02-04 |  |
 | [Linger](https://open.spotify.com/track/3RQGHYqNkEuixUCCCnS7vw) | [The Desert Willows](https://open.spotify.com/artist/11kqrpD777gwAzqoqbGk11), [Shane Travis](https://open.spotify.com/artist/0Rpj6yLa15br1rTsEz4ZAv), [Cloverdale Family Band](https://open.spotify.com/artist/4DQBIKp7t2Bq5WSJ1lC7MC), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R) | [Linger](https://open.spotify.com/album/7jdmHluAywfiIgFd1G8g5x) | 4:00 | 2024-07-13 |  |
 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 | 2023-09-02 |  |
 | [Little Piece of My Heart](https://open.spotify.com/track/4MhBFMMibAWuJv8zMQWrKA) | [John Hartford](https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6) | [Gum Tree Canoe](https://open.spotify.com/album/13BUiVlKesdaWPgQqozhYv) | 3:10 | 2021-08-20 |  |

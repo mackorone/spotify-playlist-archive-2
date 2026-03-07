@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 165960,
+  "num_followers": 166005,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJtTkbe/0C9qTgRplJ67OGjyZNrL",
+  "snapshot_id": "AAAAAEZnrQPKwOinrvY/j1mBbdFUV3Mg",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:01",
+      "album": {
+        "name": "Wonderful Thing",
+        "url": "https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 134198,
+      "name": "Wonderful Thing",
+      "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"
+    },
     {
       "added_at": "2026-02-20 05:00:31",
       "album": {
@@ -823,22 +839,6 @@
       "duration_ms": 192480,
       "name": "They Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/1OJ2GWymJkmjgoKXsLNpok"
-    },
-    {
-      "added_at": "2025-05-09 04:00:26",
-      "album": {
-        "name": "table for two",
-        "url": "https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 111319,
-      "name": "table for two",
-      "url": "https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k"
     },
     {
       "added_at": "2025-05-09 04:00:26",

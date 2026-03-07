@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Abstract",
+        "url": "https://open.spotify.com/album/2wbh0mXpqZE65sHoo4Ltrn"
+      },
+      "artists": [
+        {
+          "name": "MyceliumBug",
+          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Abstract",
+      "url": "https://open.spotify.com/track/6Curu4yls4TfvynqNTnrfp"
+    },
+    {
+      "album": {
         "name": "Abuela",
         "url": "https://open.spotify.com/album/5MSAqzWWNeS7JMNdjnMQ9C"
       },
@@ -1073,6 +1091,28 @@
     },
     {
       "album": {
+        "name": "Anaphora",
+        "url": "https://open.spotify.com/album/25xjik3GjWG0EpCVU7uRyE"
+      },
+      "artists": [
+        {
+          "name": "Half Blue",
+          "url": "https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC"
+        },
+        {
+          "name": "Wizards Ink",
+          "url": "https://open.spotify.com/artist/3wl9W60HX2fhAkQLUZPEn9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82372,
+      "name": "Anaphora",
+      "url": "https://open.spotify.com/track/1ORwhFF7cbFfnTX5ck8zqS"
+    },
+    {
+      "album": {
         "name": "Sit In Silence",
         "url": "https://open.spotify.com/album/0N30zIM8QCiCUmhaGBFQDn"
       },
@@ -1466,7 +1506,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 98931,
       "name": "As far as I can remember",
       "url": "https://open.spotify.com/track/6sLTxPY204HkrIavlAkHxE"
@@ -2271,6 +2311,32 @@
     },
     {
       "album": {
+        "name": "Before Midnight",
+        "url": "https://open.spotify.com/album/6iTKy0RgiM3iaWRv80yaOd"
+      },
+      "artists": [
+        {
+          "name": "Youthology",
+          "url": "https://open.spotify.com/artist/333R5FY9kU0xShruEP0BQM"
+        },
+        {
+          "name": "cxlt.",
+          "url": "https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA"
+        },
+        {
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Before Midnight",
+      "url": "https://open.spotify.com/track/6lRnpIOv9YTII2cZWRblle"
+    },
+    {
+      "album": {
         "name": "before the snow",
         "url": "https://open.spotify.com/album/0T2656L7zt89gA8yPVe166"
       },
@@ -2704,6 +2770,24 @@
       "duration_ms": 133953,
       "name": "bloom",
       "url": "https://open.spotify.com/track/7ibOAuOTDY6mRVXRR8tnP6"
+    },
+    {
+      "album": {
+        "name": "Bloom 5.40pm",
+        "url": "https://open.spotify.com/album/0dT0lDxZwBjAPKdto2viyR"
+      },
+      "artists": [
+        {
+          "name": "Pearldiver",
+          "url": "https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "Bloom 5.40pm",
+      "url": "https://open.spotify.com/track/1uymbxlOBhprDDZwLqzY6r"
     },
     {
       "album": {
@@ -3274,6 +3358,24 @@
       "duration_ms": 163143,
       "name": "Bunnies",
       "url": "https://open.spotify.com/track/2EZY5Sg9XBmLqXBnAHINK6"
+    },
+    {
+      "album": {
+        "name": "burrow",
+        "url": "https://open.spotify.com/album/60f293dKPsh15AcHajvF7f"
+      },
+      "artists": [
+        {
+          "name": "azayaka",
+          "url": "https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "burrow",
+      "url": "https://open.spotify.com/track/1Ct1TYvI4Hx12oSHq40bda"
     },
     {
       "album": {
@@ -4954,7 +5056,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 105000,
       "name": "Counting Clouds",
       "url": "https://open.spotify.com/track/08CpMXvMRKF9Zth0NTYzk0"
@@ -5082,6 +5184,28 @@
       "duration_ms": 94285,
       "name": "Creep",
       "url": "https://open.spotify.com/track/6m2MszMvNmnh0k20SiUkPw"
+    },
+    {
+      "album": {
+        "name": "Crema",
+        "url": "https://open.spotify.com/album/7ytE319JmrH2ausMDz8nGj"
+      },
+      "artists": [
+        {
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
+        },
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Crema",
+      "url": "https://open.spotify.com/track/6R13DnbCUnX9ITBGmwDxxC"
     },
     {
       "album": {
@@ -5412,7 +5536,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 91898,
       "name": "day trip",
       "url": "https://open.spotify.com/track/4Mh1F7ZTpJKlSW9Np5MeaX"
@@ -6820,7 +6944,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 129230,
       "name": "easy days",
       "url": "https://open.spotify.com/track/7KLCxzFFntOpFNLNlykLMd"
@@ -7038,6 +7162,28 @@
       "duration_ms": 158728,
       "name": "Ek Ladki Ko Dekha Toh Aisa Laga - LoFi",
       "url": "https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW"
+    },
+    {
+      "album": {
+        "name": "Elara",
+        "url": "https://open.spotify.com/album/2LOyuIi7pMM4bUPpQTzfEz"
+      },
+      "artists": [
+        {
+          "name": "yosei.",
+          "url": "https://open.spotify.com/artist/611H6R34SPmF5jQLMzc0wf"
+        },
+        {
+          "name": "howupheelin'",
+          "url": "https://open.spotify.com/artist/23RWeaDeSVPWEOGogfsQ0i"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69147,
+      "name": "Elara",
+      "url": "https://open.spotify.com/track/09oTE21w18ZCGbcHQzMzM0"
     },
     {
       "album": {
@@ -8274,6 +8420,28 @@
       "duration_ms": 252121,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck"
+    },
+    {
+      "album": {
+        "name": "flowers",
+        "url": "https://open.spotify.com/album/2V4JXB8UhM3zoLvW72GWAX"
+      },
+      "artists": [
+        {
+          "name": "Kichiro",
+          "url": "https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo"
+        },
+        {
+          "name": "so.tired",
+          "url": "https://open.spotify.com/artist/4ordIijwezMyR8fJkOaVNy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "flowers",
+      "url": "https://open.spotify.com/track/4kYHK1YFkSeuVaONpR1Mv5"
     },
     {
       "album": {
@@ -10254,7 +10422,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 140000,
       "name": "how long",
       "url": "https://open.spotify.com/track/1Ol9enLwistR75xYyEHi1t"
@@ -15294,7 +15462,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 132375,
       "name": "Mayan",
       "url": "https://open.spotify.com/track/1OE6DUbMhfX8IRYmnjTLMN"
@@ -15458,7 +15626,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 144013,
       "name": "melbourne st.",
       "url": "https://open.spotify.com/track/10qRBYJMNMDlnZU3cBQOEz"
@@ -16977,6 +17145,24 @@
     },
     {
       "album": {
+        "name": "night cat",
+        "url": "https://open.spotify.com/album/0gLrrsDlRl8W4ucz4XOtNK"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "night cat",
+      "url": "https://open.spotify.com/track/2Nc3rcu1UxgSufuBqU7mGi"
+    },
+    {
+      "album": {
         "name": "Night Flight",
         "url": "https://open.spotify.com/album/6JWzC7HHdOQZxxqCKkX0d5"
       },
@@ -17600,7 +17786,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 113076,
       "name": "Oaktree",
       "url": "https://open.spotify.com/track/5vLp5IrT62YgBOh2MxM5ZH"
@@ -18540,7 +18726,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 115200,
       "name": "pancakes",
       "url": "https://open.spotify.com/track/4G31kkmfsLvCopH02jTZFV"
@@ -18736,7 +18922,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 126315,
       "name": "Past Times",
       "url": "https://open.spotify.com/track/1jtrK7M7haKLdMoqnxwSlU"
@@ -18866,7 +19052,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 113333,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/2pXldSYGIk7RJADYDVgnAb"
@@ -19258,7 +19444,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 98630,
       "name": "Placebo",
       "url": "https://open.spotify.com/track/4bonX3vacAyqsQK6rG2FYJ"
@@ -20132,6 +20318,28 @@
       "duration_ms": 147044,
       "name": "Recess",
       "url": "https://open.spotify.com/track/6ssNmKLshslUMfoO1kSlca"
+    },
+    {
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2iSIk5ZIUuy4s8GrRwFENI"
+      },
+      "artists": [
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Klemsis",
+          "url": "https://open.spotify.com/artist/0r7O4KBzhl6RxxDjyvWy8j"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "reconciliation",
+      "url": "https://open.spotify.com/track/4Cbn0V5zUmMnob1tGWNokJ"
     },
     {
       "album": {
@@ -23607,6 +23815,28 @@
     },
     {
       "album": {
+        "name": "Split Fiction",
+        "url": "https://open.spotify.com/album/6funpPjWTkXJ6Ud5YqLzAO"
+      },
+      "artists": [
+        {
+          "name": "Henagon",
+          "url": "https://open.spotify.com/artist/5c6af61Jy6gKq7fJVc3AQT"
+        },
+        {
+          "name": "Bits & Hits",
+          "url": "https://open.spotify.com/artist/2BMmryAcDdRy8GQq89hrqF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126101,
+      "name": "Split Fiction",
+      "url": "https://open.spotify.com/track/2YvQf5eX1OPgEZes39UxK9"
+    },
+    {
+      "album": {
         "name": "Spotless",
         "url": "https://open.spotify.com/album/0qcVJC0RwcmxEAXcXMy3Zo"
       },
@@ -23644,6 +23874,24 @@
       "duration_ms": 86923,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/7sL5GGfy3zsqw9pyhlfCF4"
+    },
+    {
+      "album": {
+        "name": "Spring Again",
+        "url": "https://open.spotify.com/album/5UmXwGBYpBXedkngcF4FdU"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164800,
+      "name": "Spring Again",
+      "url": "https://open.spotify.com/track/0vzWY9bzQPBuaStxkCN9cF"
     },
     {
       "album": {
@@ -28599,6 +28847,24 @@
     },
     {
       "album": {
+        "name": "What If?",
+        "url": "https://open.spotify.com/album/4Q3XFtuq3XdDE3kzEH3ult"
+      },
+      "artists": [
+        {
+          "name": "amies",
+          "url": "https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "What If?",
+      "url": "https://open.spotify.com/track/3EL1YrRwKoTqykmzfW4fzH"
+    },
+    {
+      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/2zAdkbS8TPaCXxvlYHaE77"
       },
@@ -29274,7 +29540,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 140863,
       "name": "with the right people",
       "url": "https://open.spotify.com/track/1nRSYcPnNqmiQ7KsUBY5V4"

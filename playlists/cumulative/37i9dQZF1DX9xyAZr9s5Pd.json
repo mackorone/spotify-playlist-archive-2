@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-27",
-  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Motherflowers ",
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia ",
   "name": "Indie Andinos",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156852,
       "name": "devut",
       "url": "https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB"
@@ -1414,6 +1414,24 @@
       "duration_ms": 235760,
       "name": "No Me Dan Las Cuentas",
       "url": "https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw"
+    },
+    {
+      "album": {
+        "name": "no pienses que me da igual",
+        "url": "https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E"
+      },
+      "artists": [
+        {
+          "name": "Greccia",
+          "url": "https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158261,
+      "name": "no pienses que me da igual",
+      "url": "https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei"
     },
     {
       "album": {

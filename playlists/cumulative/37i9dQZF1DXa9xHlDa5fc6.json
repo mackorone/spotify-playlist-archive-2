@@ -150,7 +150,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196040,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 260333,
       "name": "Ain't Scared",
       "url": "https://open.spotify.com/track/5HzEg0V4L0GKCke6xOBNwO"
@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Different Kind Of Love",
+        "url": "https://open.spotify.com/album/2ruEVIwYM4HjFXEjvnU45o"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Different Kind Of Love",
+      "url": "https://open.spotify.com/track/2aD8QNWrmr8vslwcTLApxd"
+    },
+    {
+      "album": {
         "name": "Disappear Here",
         "url": "https://open.spotify.com/album/2U3f9U5EFMNMObXxRMLVbW"
       },
@@ -1990,6 +2008,24 @@
       "duration_ms": 338333,
       "name": "DIVING BELL",
       "url": "https://open.spotify.com/track/0Gfac5uYHFk21q1gR59P0w"
+    },
+    {
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/1JyR83IWoLzfzV7LdMi5jU"
+      },
+      "artists": [
+        {
+          "name": "Very Nice Person",
+          "url": "https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/13P90bXVlTD3WGBTMV0sxp"
     },
     {
       "album": {
@@ -2364,7 +2400,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 287439,
       "name": "Falling for the Evening",
       "url": "https://open.spotify.com/track/1hsYIJgjp93IOkZZJe00aU"
@@ -2696,7 +2732,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225277,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/6Y7xUTnb3aI79DpqBioAcr"
@@ -4019,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "just friends",
+        "url": "https://open.spotify.com/album/6wQxgwBgSGrktX8yuskrX8"
+      },
+      "artists": [
+        {
+          "name": "camille blackman",
+          "url": "https://open.spotify.com/artist/5jswcyyCL6uoFlF9TaEtHc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208363,
+      "name": "just friends",
+      "url": "https://open.spotify.com/track/0sP4yWgpbVOTq5ttjo4lSW"
+    },
+    {
+      "album": {
         "name": "Just Say When",
         "url": "https://open.spotify.com/album/37ok5osrawwAKytEhlXjGD"
       },
@@ -4258,6 +4312,24 @@
       "duration_ms": 260146,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/1vrXl5UJBWRJJxjCyCRPMv"
+    },
+    {
+      "album": {
+        "name": "leaving is easy",
+        "url": "https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "leaving is easy",
+      "url": "https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv"
     },
     {
       "album": {
@@ -6515,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Idols (Complete)",
+        "url": "https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279798,
+      "name": "Suburban Requiem",
+      "url": "https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3"
+    },
+    {
+      "album": {
         "name": "Foundering",
         "url": "https://open.spotify.com/album/6rRZp4HCnXyoSxDvz8lbIa"
       },
@@ -6778,7 +6868,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205129,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/2U6hcDLZHYRSd9Up0mMe9W"

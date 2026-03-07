@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: \ucd5c\uc720\ub9ac (Choi Yu Ree)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: \uae40\ub098\uc601 (Kim Na Young)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -1040,6 +1040,24 @@
       "duration_ms": 221141,
       "name": "After we broke up",
       "url": "https://open.spotify.com/track/5AOz0kqwBBM4gK7QlAWsVG"
+    },
+    {
+      "album": {
+        "name": "After you've gone",
+        "url": "https://open.spotify.com/album/5dzMwq0NIBg9uMMf7dPbiB"
+      },
+      "artists": [
+        {
+          "name": "Lim Jae Hyun",
+          "url": "https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255909,
+      "name": "After you've gone",
+      "url": "https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf"
     },
     {
       "album": {
@@ -6513,6 +6531,24 @@
     },
     {
       "album": {
+        "name": "Even If the World Tricks You (Original Soundtrack from \"Number One\")",
+        "url": "https://open.spotify.com/album/1zLvJj5lnR2LzUnKSunQAw"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Even If the World Tricks You",
+      "url": "https://open.spotify.com/track/17DoRpMJ8Yqso1kA3aE3sU"
+    },
+    {
+      "album": {
         "name": "Even If This Love Disappears Tonight",
         "url": "https://open.spotify.com/album/2kjmJMg1P4XbOZfTpH9PoF"
       },
@@ -8816,7 +8852,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 120000,
       "name": "Have A Good Time",
       "url": "https://open.spotify.com/track/5FIBWD7WZLgbtOpzS8ijKU"
@@ -24240,7 +24276,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 320000,
       "name": "That\u2019s My Own World",
       "url": "https://open.spotify.com/track/7AjYNBhpjOZSddvL5F2Vx2"

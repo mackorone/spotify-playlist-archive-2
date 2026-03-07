@@ -2,7 +2,7 @@
 
 ### [Dark & Gothic](https://open.spotify.com/playlist/37i9dQZF1DX0Nb1cyWS6Tq)
 
-> Bela Lugosi's Dead..\. Bauhaus on cover.
+> Release the bats..\. The Cure on cover.
 
 306 songs - 22 hr 55 min
 

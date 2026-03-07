@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93805,
+  "num_followers": 93816,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
+        "name": "Glasshouse",
+        "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        },
+        {
+          "name": "Ingrid",
+          "url": "https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
         "name": "RANSOMS",
         "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
@@ -299,26 +319,6 @@
       "duration_ms": 211233,
       "name": "Tillbaka",
       "url": "https://open.spotify.com/track/1wJZanZoGHXqgzrHZQ17Aw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
-        "name": "Glasshouse",
-        "url": "https://open.spotify.com/album/5y6ilMb7yPnyeF1kTrZl36"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        },
-        {
-          "name": "Ingrid",
-          "url": "https://open.spotify.com/artist/3BdrVMEizhOoxjo2tWSiM6"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/3igailADWMRi9mHKiv7Xo2"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -355,6 +355,22 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
+        "name": "jaywalking",
+        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 170818,
+      "name": "Glasshouse",
+      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
         "name": "Nebraska '82: Expanded Edition",
         "url": "https://open.spotify.com/album/6Cd23zUXeW83jRFlUiwcPM"
       },
@@ -387,24 +403,8 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "jaywalking",
-        "url": "https://open.spotify.com/album/2HLlLIQ0ix7wufudTXUV4x"
-      },
-      "artists": [
-        {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
-        }
-      ],
-      "duration_ms": 170818,
-      "name": "Glasshouse",
-      "url": "https://open.spotify.com/track/71Sada6IOdfaCS8PKo1bRw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
+        "name": "About Nothing",
+        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 190584,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
+      "duration_ms": 193433,
+      "name": "About Nothing",
+      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -487,8 +487,8 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "About Nothing",
-        "url": "https://open.spotify.com/album/69JvVDyuNFI6dPONVjlW7z"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/1xWBiCeGXSEcxBAvcYFcPX"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 193433,
-      "name": "About Nothing",
-      "url": "https://open.spotify.com/track/076zcqaNjJIOxXNUeMCYv2"
+      "duration_ms": 190584,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/4djJK0BuxKPm0QyQVXSUEi"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -575,8 +575,8 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Black Swans",
-        "url": "https://open.spotify.com/album/6qE48M1cEdAVoBmG7pgC8g"
+        "name": "In Your Grace",
+        "url": "https://open.spotify.com/album/6VV7zn9Bjb1jqUFWZkvsmN"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ"
         }
       ],
-      "duration_ms": 206929,
-      "name": "Black Swans",
-      "url": "https://open.spotify.com/track/3emMZ39WW0DykmzabtBMPi"
+      "duration_ms": 327480,
+      "name": "In Your Grace",
+      "url": "https://open.spotify.com/track/6mpZzSwKvQxgYtQ0cEBvtx"
     },
     {
       "added_at": "2026-03-05 23:00:36",

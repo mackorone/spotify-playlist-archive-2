@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10mzpW.md) - [plain]
 | 4 | [Cult of Isis](https://open.spotify.com/track/0mkGpUDzAqdL4POn65GBu8) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 7:41 |
 | 5 | [Morning Splendor](https://open.spotify.com/track/5BfnCpWSG8cirVL9FNUDzz) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 6:02 |
 | 6 | [The Eighteen Beautiful Memories](https://open.spotify.com/track/5lrxTVaWy5DfgaTlLNYaXP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 4:03 |
-| 7 | [Alpine Flight](https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:30 |
+| 7 | [Symphonic Industry](https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:39 |
 | 8 | [Phantom Dancer](https://open.spotify.com/track/1kqewyGYEj7eUroTS1mUIm) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:17 |
 | 9 | [Virgin Ice](https://open.spotify.com/track/5CmYgfxDfGjUENk5UKhktc) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 4:38 |
 | 10 | [Equatorial Sunrise](https://open.spotify.com/track/7u1AULlNvkkp8Iq2K9aLAv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 6:10 |
-| 11 | [Symphonic Industry](https://open.spotify.com/track/7CDSMEvYr4QQQnYmw6N7Th) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 6:39 |
+| 11 | [Alpine Flight](https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Spectre](https://open.spotify.com/album/0N7jPT8QKsSB48eDUn4KPT) | 7:30 |
 | 12 | [Century C](https://open.spotify.com/track/7GIhh2VzlUmvq36pJ0fUZN) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Consort](https://open.spotify.com/album/4NSbHfbNTp2hmDyFJY7INN) | 4:37 |
 | 13 | [Gossamer Silk](https://open.spotify.com/track/6ARYaaNvfIntwSRlo6F57i) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Trans\-Millenia Music](https://open.spotify.com/album/4hY9BjX7ydDk7hlXaP8ykw) | 5:39 |
 | 14 | [I Still Hope](https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Angel Tears in Sunlight](https://open.spotify.com/album/1XtRcRYDb1uA7hvvZzC2Xd) | 2:28 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10mzpW.md) - [plain]
 | 25 | [Freebasing](https://open.spotify.com/track/2rOxqqDdR7YrJ9s5RXPQhY) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 9:34 |
 | 26 | [Plot Zero](https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP) | [Pauline Anna Strom](https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW) | [Plot Zero](https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl) | 4:42 |
 
-Snapshot ID: `aad2AAAAAABrojMHG98JORs42qvxeK6c`
+Snapshot ID: `aajHgAAAAAC25e7S3fnWngCIYl30YhSx`

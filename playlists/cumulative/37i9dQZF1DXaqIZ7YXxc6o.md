@@ -2,9 +2,9 @@
 
 ### [New Dance Beats](https://open.spotify.com/playlist/37i9dQZF1DXaqIZ7YXxc6o)
 
-> Your weekly dose of new dance\. Cover: Harry Hayes
+> Your weekly dose of new dance\. Cover: Baby Rexha
 
-3,812 songs - 8 day 16 hr 50 min
+3,813 songs - 8 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Actor \- Hotel Rubio Remix](https://open.spotify.com/track/1VPXqIEtjOjD87nMJGWitM) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Actor \(Hotel Rubio Remix\)](https://open.spotify.com/album/0VtO7uKCzH9fwJWejXMWME) | 2:59 | 2024-01-11 | 2024-02-02 |
 | [Addicted](https://open.spotify.com/track/14yugoFdkgO8ZUxLlX6fpJ) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [Addicted](https://open.spotify.com/album/3BxfwMC0HjWxk7muzxUqyk) | 2:43 | 2026-01-22 |  |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-03-28 | 2024-05-10 |
-| [Addicted To Bass \- Dom Dolla Relapse](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 | 2026-03-05 |  |
+| [Addicted To Bass \- Dom Dolla Relapse](https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Puretone](https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8) | [Addicted To Bass \(Dom Dolla Relapse\)](https://open.spotify.com/album/659fi13MrTySSxJqmatMMu) | 3:09 | 2026-03-05 |  |
 | [Addiction \(feat\. Jai Waetford\)](https://open.spotify.com/track/7qfvLOlyhDIYYCO1C3cacU) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Jai Waetford](https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3) | [Addiction \(feat\. Jai Waetford\)](https://open.spotify.com/album/49N0fz7WkUXI0aLjI9XBOd) | 2:36 | 2025-06-19 | 2025-08-09 |
 | [Addiction \(feat\. KEL\)](https://open.spotify.com/track/7GgpGxQmLLLEPj1c556hdP) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [Addiction \(feat\. KEL\)](https://open.spotify.com/album/7kZtUDcUxaXy8oDoprzzFK) | 2:36 | 2025-01-23 | 2025-02-28 |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-11 | 2023-09-01 |
@@ -2316,6 +2316,7 @@
 | [New Bottega](https://open.spotify.com/track/2Xy868PdXC7mV3Y9fRBSNz) | [Torren Foot](https://open.spotify.com/artist/7lQOxDl96wmNoqGoW4kgv4), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [New Bottega](https://open.spotify.com/album/405q3ZXJJum0c6ojdu6s2U) | 3:08 | 2023-03-16 | 2023-03-28 |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 | 2022-12-08 | 2023-01-27 |
 | [New Phone](https://open.spotify.com/track/5dBHUnIinhOcuhIp6dXbRM) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [New Phone](https://open.spotify.com/album/27mdSfyu1Xx8jI2QXO6mdJ) | 3:27 | 2025-06-05 | 2025-07-11 |
+| [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-05 |  |
 | [New Style](https://open.spotify.com/track/0VeuDFGBUgRINBQr8tMrAy) | [Strath](https://open.spotify.com/artist/6iM3BATbxNbAxuQ9YaaWFe) | [New Style](https://open.spotify.com/album/1r5919XikfVwtUgYsIeMSE) | 3:32 | 2025-12-11 | 2026-02-06 |
 | [New York ft\. mazie](https://open.spotify.com/track/0WdkklLlHI5SdulAdk32wE) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [New York ft\. mazie](https://open.spotify.com/album/5MIu1XVdFF3AD2rTuMvGX8) | 2:12 | 2023-01-05 | 2023-01-27 |
 | [Next To Me](https://open.spotify.com/track/6nEsyBcYBDN9rQ2c9Nh1kO) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Gaby Gerlis](https://open.spotify.com/artist/2RhLnPONe3TYeSQRl8WHZv) | [Next To Me](https://open.spotify.com/album/5SdlzjBnLvetgupRk7FXrM) | 3:05 | 2024-12-12 | 2025-02-21 |

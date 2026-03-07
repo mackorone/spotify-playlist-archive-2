@@ -4,12 +4,13 @@
 
 > 📸 El Negro Tecla
 
-305 songs - 13 hr 54 min
+306 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0 Sentimientos RKT](https://open.spotify.com/track/3V1I6Ufrnte3fbLEdRtC0w) | [TIKETE DJ](https://open.spotify.com/artist/5UUKPVLOQcyPrqr7OWaEA2) | [0 Sentimientos RKT](https://open.spotify.com/album/2V7BVDlFuA07hOKXdrhc06) | 2:12 | 2024-09-10 | 2024-10-12 |
 | [2 Pa 2 RKT](https://open.spotify.com/track/220mkQOz2XMy0vnHVbhB4t) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [2 Pa 2 RKT](https://open.spotify.com/album/7IwOyeCi1nJPn4kgqE1y7i) | 2:12 | 2024-09-10 |  |
+| [2 Totos Rkt](https://open.spotify.com/track/6HnrlSXLTP2jTLlqscThEf) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [PACOREMIX](https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju), [DJ PABLO](https://open.spotify.com/artist/146LCvXdrdaJrgjumZulo9) | [2 Totos Rkt](https://open.spotify.com/album/668BEJUwML88s5rmmpsMO3) | 2:01 | 2026-03-06 |  |
 | [3 En 1](https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1) | [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [3 En 1](https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP) | 3:05 | 2023-12-15 |  |
 | [30 GRADOS](https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [30 Grados](https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg) | 2:31 | 2024-02-16 |  |
 | [420 Rkt](https://open.spotify.com/track/4OayatXGjk7Uwg1PgCQMY9) | [Rodrii Ortiz](https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2), [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [420 Rkt](https://open.spotify.com/album/0AQTlC9z2JpUAIU1agPKw9) | 3:17 | 2024-03-15 | 2024-04-13 |
@@ -119,7 +120,7 @@
 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/1e1IR2nfSPsCbCxZaYTulK), [Gusty dj](https://open.spotify.com/artist/6A6qNFh1bOIg8mYkz1IgNx) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 | 2023-12-15 | 2025-02-15 |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-12-15 | 2024-02-17 |
 | [La Herramienta RKT](https://open.spotify.com/track/2lMeidnZtWrmvKr7wQufs4) | [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [La Herramienta RKT](https://open.spotify.com/album/0NNHnAyLvY9439OZonybGe) | 2:39 | 2024-06-07 | 2024-11-02 |
-| [La Hora](https://open.spotify.com/track/6gWhUHq5QwspemhidUCwEP) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [La Hora](https://open.spotify.com/album/0e1MnravPnh76YikaCODvc) | 3:17 | 2026-02-20 |  |
+| [La Hora](https://open.spotify.com/track/6gWhUHq5QwspemhidUCwEP) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Yael YTBM](https://open.spotify.com/artist/6Asqb0vVpW3cLUbK53VIK5) | [La Hora](https://open.spotify.com/album/0e1MnravPnh76YikaCODvc) | 3:17 | 2026-02-20 | 2026-03-07 |
 | [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 | 2024-07-19 |
 | [LA MONEDA](https://open.spotify.com/track/7HBfy91fUKNz5ldpPcDczK) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [LA MONEDA](https://open.spotify.com/album/1c21EJrWmkCGVaX0FKAutu) | 1:38 | 2023-12-15 | 2024-01-11 |
 | [LA PRE$iON 危 Vol • 1](https://open.spotify.com/track/6rurdBnoekyRMavGpweEkI) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [LA PRE$iON 危 Vol • 1](https://open.spotify.com/album/0Hg81h5apwPqv5QmOoPTiV) | 2:15 | 2025-06-13 | 2026-02-14 |

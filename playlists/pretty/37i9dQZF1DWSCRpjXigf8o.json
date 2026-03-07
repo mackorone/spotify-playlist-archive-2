@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88931,
+  "num_followers": 88927,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -599,18 +599,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
+        "name": "Kolohe",
+        "url": "https://open.spotify.com/album/3uXztbTQtLRVAmlZuXFwX0"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "Wavvy",
+          "url": "https://open.spotify.com/artist/1pYU5y6mtFPrF67l5VfOrW"
+        },
+        {
+          "name": "8RO8",
+          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
         }
       ],
-      "duration_ms": 215594,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
+      "duration_ms": 187251,
+      "name": "Kolohe",
+      "url": "https://open.spotify.com/track/4Pjxy2sB2cPaGfeSQbbv2p"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -631,22 +635,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "Kolohe",
-        "url": "https://open.spotify.com/album/3uXztbTQtLRVAmlZuXFwX0"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3HfZsOOCcsDXiqciichy9J"
       },
       "artists": [
         {
-          "name": "Wavvy",
-          "url": "https://open.spotify.com/artist/1pYU5y6mtFPrF67l5VfOrW"
-        },
-        {
-          "name": "8RO8",
-          "url": "https://open.spotify.com/artist/5LTQDaq9tqtYv4tvXwbYD8"
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 187251,
-      "name": "Kolohe",
-      "url": "https://open.spotify.com/track/4Pjxy2sB2cPaGfeSQbbv2p"
+      "duration_ms": 215594,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/05i0gnCc4Tj9Rshavrirfh"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "\u706f\u53f0 (Live Session)",
+      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "Make it Right",
         "url": "https://open.spotify.com/album/3jhIleUdOWesOnWaDc88rD"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 171244,
       "name": "Make it Right",
       "url": "https://open.spotify.com/track/5E8KMsnXfuuzBKw149o7RS"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/6I0HWqhpZOXuY6jwfmWJ4r"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "\u706f\u53f0 (Live Session)",
-      "url": "https://open.spotify.com/track/2a3s6DyCghaqmS14lIlGez"
     },
     {
       "added_at": "2026-02-19 15:16:11",

@@ -4,7 +4,7 @@
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: Liniker
 
-453 songs - 21 hr 32 min
+454 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-13 | 2023-02-11 |
 | [Gata Anos 2000](https://open.spotify.com/track/1DvlUpexkIWV0CVSuSRSk5) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [FELÍDIA](https://open.spotify.com/album/5mhGt9oKU8QOAWaI4HSh2C) | 2:59 | 2025-11-28 |  |
 | [GLITTER](https://open.spotify.com/track/3yfjvYImiSdypyIeYUknyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/6GKytGwQgYxwGwYuo4spvq) | 2:24 | 2023-02-24 | 2023-04-01 |
-| [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 | 2025-11-28 |  |
+| [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 | 2025-11-28 | 2026-03-07 |
 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 | 2024-04-26 | 2024-09-07 |
 | [Gueto](https://open.spotify.com/track/2AzBHIVlSYb0fx8zHWQIgl) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Gueto](https://open.spotify.com/album/3LdpXPZAvjcjVg3Iy4CoyB) | 2:48 | 2022-01-14 | 2022-08-06 |
 | [hoje \(tanto faz\)](https://open.spotify.com/track/7Czo8exKcYohS7NDOkOePd) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [hoje \(tanto faz\)](https://open.spotify.com/album/6CMYkED6oa2RoyzPRwuHCh) | 2:54 | 2024-11-22 | 2025-12-13 |
@@ -233,7 +233,7 @@
 | [Mar de Rosas](https://open.spotify.com/track/0jqfLFMPSPXpWWDyJaErVP) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Mar de Rosas](https://open.spotify.com/album/3ZWi0l4tbZgHmIt4vhrPxN) | 2:45 | 2025-10-24 | 2025-11-01 |
 | [Maria Magdalena](https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Maria Magdalena](https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8) | 2:36 | 2025-03-07 | 2025-06-19 |
 | [MARÉ](https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MARÉ](https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ) | 2:48 | 2024-04-19 | 2024-06-01 |
-| [Me Deixa Partir](https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Me Deixa Partir](https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk) | 2:54 | 2025-11-28 |  |
+| [Me Deixa Partir](https://open.spotify.com/track/4062mzuQjzKCOBTUaF0ijr) | [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Me Deixa Partir](https://open.spotify.com/album/6oq4OgPFbtPi11mDFP0xlk) | 2:54 | 2025-11-28 | 2026-03-07 |
 | [Me Deixa Viver](https://open.spotify.com/track/5iJvohWRfudJWPr7XpDHGM) | [GIANA](https://open.spotify.com/artist/4qB4n69ENaMdCb37AYd6wk) | [Me Deixa Viver](https://open.spotify.com/album/2nDaxKg56RVEtrnSATeAAV) | 3:14 | 2024-09-16 | 2025-07-12 |
 | [Me dói, boy](https://open.spotify.com/track/4uCFdG7R68kRkddT2KYc29) | [Lori](https://open.spotify.com/artist/30zBkdxHh8fXgxTx99rwhH), [Matias](https://open.spotify.com/artist/3hHdEHtL3SZWDjjz4cAWP2), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS) | [Me dói, boy](https://open.spotify.com/album/5tuAV2Ou1rWmoCKUZC1U3T) | 3:02 | 2023-02-03 | 2023-02-24 |
 | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Me Gusta \(with Cardi B & Myke Towers\)](https://open.spotify.com/album/5J7bWCachL4Q662xAfzyJd) | 3:00 | 2022-01-14 | 2022-02-05 |
@@ -314,6 +314,7 @@
 | [Perfume da Bôta](https://open.spotify.com/track/6tmrvVNxAL01q00cOVERPI) | [Zaynara](https://open.spotify.com/artist/3g5sxvKldw7Kss4e5FPSXb) | [Perfume da Bôta](https://open.spotify.com/album/6l4Gq07lqv4lKeNJWdutb0) | 2:38 | 2025-03-21 | 2025-05-14 |
 | [pessoa certa hora errada](https://open.spotify.com/track/0Rq7EzwIvsVqPPUNM3M4as) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [pessoa certa hora errada](https://open.spotify.com/album/7fdrjXirtCLGb1l9oX9psZ) | 2:44 | 2022-01-14 | 2022-06-04 |
 | [Pilantra](https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pilantra](https://open.spotify.com/album/4hlz1rcVyPZhv5K2rezb3K) | 3:12 | 2023-03-13 | 2024-12-14 |
+| [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 | 2026-03-06 |  |
 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 | 2022-07-19 | 2024-04-10 |
 | [Piripaque](https://open.spotify.com/track/34YiGxsF0ESM7TEGRYf38X) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Piripaque](https://open.spotify.com/album/2t02byB5tMIdKeAh3bdXlE) | 2:04 | 2022-12-16 | 2023-01-06 |
 | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/track/6yoEBvEehjyf8JHHrlqgOj) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Pirâmide Social \- Spotify Singles](https://open.spotify.com/album/15A0WaLUbAvVsZNpwUKvCF) | 3:18 | 2022-02-09 | 2022-03-05 |

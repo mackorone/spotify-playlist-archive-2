@@ -1,13 +1,29 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Leanna Crawford & Seph Schlueter",
-  "num_followers": 440445,
+  "num_followers": 440571,
   "original_name": "Top Contemporary Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkv+Io219NxHLMUo7Myj+9rdrqg",
+  "snapshot_id": "AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx",
   "tracks": [
+    {
+      "added_at": "2026-02-27 05:00:41",
+      "album": {
+        "name": "belief",
+        "url": "https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "duration_ms": 169982,
+      "name": "belief",
+      "url": "https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2"
+    },
     {
       "added_at": "2026-02-27 05:00:41",
       "album": {

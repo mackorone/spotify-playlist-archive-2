@@ -1,12 +1,12 @@
 {
   "description": "Songs to make your Zumba workout extra fun.",
-  "num_followers": 97051,
+  "num_followers": 97128,
   "original_name": "Bollywood Zumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEsnkDb3QKk2SewEUoVXTGFWjwNJ",
+  "snapshot_id": "AAAAAJNyo61i7nmWHDMzjEEWVZ6xaYCh",
   "tracks": [
     {
       "added_at": "2026-02-26 06:53:57",
@@ -228,12 +228,16 @@
           "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
         },
         {
-          "name": "Dev Arijit",
-          "url": "https://open.spotify.com/artist/6BZExpYe5yylgSeHAWVsF6"
+          "name": "Aarvan",
+          "url": "https://open.spotify.com/artist/6TAYIefXnilxpTxwdicmwS"
         },
         {
           "name": "Kumaar",
           "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
         }
       ],
       "duration_ms": 235555,
@@ -966,6 +970,10 @@
         {
           "name": "Sunidhi Chauhan",
           "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "duration_ms": 260552,
@@ -1070,6 +1078,10 @@
         {
           "name": "Shefali Alvares",
           "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "duration_ms": 252760,

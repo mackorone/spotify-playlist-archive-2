@@ -2,9 +2,9 @@
 
 ### [Jupiter](https://open.spotify.com/playlist/37i9dQZF1DXdoMAjKwiHY5)
 
-> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop/rock favorites\. Cover: Counting Crows
+> Got Fray\-fever? Or craving some DeGraw\-delights? Board the Train\-train and enjoy these pop\-rock favorites.
 
-88 songs - 5 hr 39 min
+89 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Greatest Of All Time](https://open.spotify.com/track/57MOYJiJyxRG2ekDRaP3Vj) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Face The River](https://open.spotify.com/album/4YG58y43kECDcA1w5XNO2m) | 3:39 | 2023-06-08 |  |
 | [Happy](https://open.spotify.com/track/0RrKyzyblCasbn9qClbv2z) | [Saving Jane](https://open.spotify.com/artist/3SFVchRRMmFuOi3Azi0vTo) | [Girl Next Door](https://open.spotify.com/album/4AcMwJvUNwlHpYtujwAP56) | 3:31 | 2023-06-08 |  |
 | [Here's to the Night](https://open.spotify.com/track/4tgeQrPu5xkrnwErym2JsJ) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Horrorscope](https://open.spotify.com/album/2aO4ZbunEAG1iaw45Aiosv) | 4:09 | 2023-06-08 |  |
-| [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2023-07-06 |  |
+| [Hey, Soul Sister](https://open.spotify.com/track/4HlFJV71xXKIGcU3kRyttv) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 3:36 | 2023-07-06 | 2026-03-07 |
 | [Hollywood's Not America \- Matrix Version](https://open.spotify.com/track/5wizvr1JlRR3XWmKkOmEtV) | [Ferras](https://open.spotify.com/artist/3ZajykUFFll0Xwgal0fQfO) | [Aliens & Rainbows](https://open.spotify.com/album/2fYGqY3ELfZ5goVJJjXIWi) | 3:15 | 2023-06-08 |  |
 | [Home](https://open.spotify.com/track/2mobr1UlKjhxDTOVqng3jw) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Daughtry \(Deluxe Edition\)](https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj) | 4:15 | 2023-07-06 |  |
 | [How to Save a Life](https://open.spotify.com/track/5fVZC9GiM4e8vu99W0Xf6J) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 4:22 | 2023-07-06 | 2025-09-27 |
@@ -85,6 +85,7 @@
 | [The Mess I Made](https://open.spotify.com/track/46XMysg4VurmyAQ28tshqz) | [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e) | [Losing Sleep \(Deluxe Edition\)](https://open.spotify.com/album/59YENayZZdriET9JqxZyLH) | 3:51 | 2023-07-06 |  |
 | [The Remedy \(I Won't Worry\)](https://open.spotify.com/track/4tK4ARuilOrBzwVQK73E0Y) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Waiting for My Rocket to Come](https://open.spotify.com/album/6I9GBueBmRdHdDQjbL7El1) | 4:16 | 2023-07-06 |  |
 | [The Time of My Life](https://open.spotify.com/track/6avyV3xlz2UFeiAUZ0SqyT) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [David Cook](https://open.spotify.com/album/4MJcuG31fFG8rimuSCvJyx) | 3:36 | 2023-07-06 |  |
+| [The Weekend](https://open.spotify.com/track/0cBi0FWQFeZ8maPjsSE5Mc) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [The Weekend](https://open.spotify.com/album/7f9oUUbD25iMavLWOX3E0e) | 3:28 | 2026-03-06 |  |
 | [Until You](https://open.spotify.com/track/4iQhfDlMpWHoMnBtX09KM4) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Brother, Bring the Sun](https://open.spotify.com/album/6t3Flungcv9zkoADU6OBkm) | 4:05 | 2023-07-06 |  |
 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 | 2023-06-08 |  |
 | [What Matters Most](https://open.spotify.com/track/10Kylccyddh80NzTunQIlW) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [What Matters Most](https://open.spotify.com/album/5Jshp99HBceJEaAeyre8Pr) | 4:10 | 2023-06-08 |  |

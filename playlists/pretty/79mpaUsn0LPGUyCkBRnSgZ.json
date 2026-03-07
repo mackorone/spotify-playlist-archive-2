@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAItf+4Wh1gKumUa+W3AES44icMb+zk",
+  "snapshot_id": "AAAItjJW94F1/930qKbEMZzjxMWeBRv4",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -11439,6 +11439,22 @@
       "duration_ms": 498480,
       "name": "A Fake in a Faker\u2019s World",
       "url": "https://open.spotify.com/track/1dJx3jat0jXUxBari5KSiw"
+    },
+    {
+      "added_at": "2026-03-06 21:22:25",
+      "album": {
+        "name": "Multiplication",
+        "url": "https://open.spotify.com/album/7cQODIkDlwqAm0TJ0v9lRU"
+      },
+      "artists": [
+        {
+          "name": "Georgia Turman",
+          "url": "https://open.spotify.com/artist/608TxlqbZ7rnRPGm8V0v5o"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Want It So Bad",
+      "url": "https://open.spotify.com/track/0Vx7I8I9FvQJUIRloIyT51"
     }
   ],
   "unique_name": "Zacklog",

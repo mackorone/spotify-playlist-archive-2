@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Presley Regier
 
-1,545 songs - 3 day 5 hr 9 min
+1,546 songs - 3 day 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 | 2024-11-26 |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
 | [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 | 2024-07-16 |
-| [Everything We Used To Do](https://open.spotify.com/track/0jLBXHKeU5VXYIvHIwOjcQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Booster Pack](https://open.spotify.com/album/6jUcgtpKSSAaltoe8wBkVM) | 3:35 | 2025-12-19 |  |
+| [Everything We Used To Do](https://open.spotify.com/track/0jLBXHKeU5VXYIvHIwOjcQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Booster Pack](https://open.spotify.com/album/6jUcgtpKSSAaltoe8wBkVM) | 3:35 | 2025-12-19 | 2026-03-07 |
 | [EVERYTHING YOU WANTED](https://open.spotify.com/track/2gvdqsxVtVayLEclQIFDRk) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [EVERYTHING YOU WANTED\*ALL I EVER WANTED](https://open.spotify.com/album/5sP9gedfCsXH9VvjbzHbYh) | 2:52 | 2024-11-08 | 2024-11-16 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
@@ -634,6 +634,7 @@
 | [How Do You Sleep?](https://open.spotify.com/track/7skoWi7cN9FjNdJOkwQ4YY) | [AJA](https://open.spotify.com/artist/4i8jleH8zrMtVQNpir3iDj) | [How Do You Sleep?](https://open.spotify.com/album/3z8DWMIyTqjI3382gxMklh) | 3:30 | 2022-12-23 | 2023-03-11 |
 | [How Does It Feel](https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [How Does It Feel](https://open.spotify.com/album/7oEIRmKyqKCbWQO7LAgvrU) | 2:23 | 2023-05-05 | 2023-07-22 |
 | [How Long](https://open.spotify.com/track/3ntYF8MmJNzrMshD7ofFxU) | [Rec Hall](https://open.spotify.com/artist/7n0i6RECXvCkOElGs6IP97) | [How Long](https://open.spotify.com/album/3xW517EjeSgYvBR95zFxRD) | 2:45 | 2024-04-27 | 2024-06-29 |
+| [How the Fire Started](https://open.spotify.com/track/6muc6qsSWXopaIhitb7Elb) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [How the Fire Started](https://open.spotify.com/album/3b70siwvHaKL8mYunPu3Zd) | 2:55 | 2026-03-06 |  |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2025-11-26 |
 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 | 2024-04-12 | 2024-06-01 |
 | [Hug Yourself](https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [trying not to panic](https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4) | 2:54 | 2026-01-23 |  |
@@ -1222,7 +1223,7 @@
 | [spinnin](https://open.spotify.com/track/0yB9bFHPntWhj0iJoVFkDm) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [spinnin](https://open.spotify.com/album/0SL254Ra6O4r6VXzrIBTzW) | 2:11 | 2021-10-29 | 2022-02-26 |
 | [Spite](https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spite](https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51) | 2:42 | 2024-04-05 | 2024-04-28 |
 | [Spoil My Night](https://open.spotify.com/track/0fERVAjuA2g2XBONBC5dey) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [Spoil My Night](https://open.spotify.com/album/5LJrdT0sSUEKE6hDHDYYEQ) | 3:59 | 2025-07-18 | 2025-09-21 |
-| [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 | 2025-11-14 |  |
+| [Square One](https://open.spotify.com/track/4Z2PgAbOS261znlbkp6M4T) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Square One](https://open.spotify.com/album/2gpplpkQfk4si2JdU4TGUI) | 3:00 | 2025-11-14 | 2026-03-07 |
 | [stacy's song](https://open.spotify.com/track/2612sZ6C1AhcvasbJlQCjC) | [Jiwon](https://open.spotify.com/artist/4LyqJpHI1a45aZHIkVRBSQ), [Wett Brain](https://open.spotify.com/artist/5rRR4a0u50S9JNZtL4OB5K) | [stacy's song](https://open.spotify.com/album/29LFtpTS5iYd1KZvhRwmpT) | 2:22 | 2024-11-25 | 2025-01-25 |
 | [star tripping](https://open.spotify.com/track/1ozWhltP7jnU01qOMWYBXH) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [star tripping](https://open.spotify.com/album/4hohZtRQRa3Iz76pJPwJwR) | 2:34 | 2022-10-07 | 2023-03-04 |
 | [Stargirl](https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Stargirl](https://open.spotify.com/album/61RHJE3TKzvkgRtozvA9oE) | 2:53 | 2023-04-21 | 2023-07-22 |

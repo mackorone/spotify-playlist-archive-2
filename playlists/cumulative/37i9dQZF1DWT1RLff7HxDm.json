@@ -578,7 +578,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 535168,
       "name": "Crossroads - Live at The Royal Albert Hall, Rock Version",
       "url": "https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 392351,
       "name": "Key to the Highway - Live at The Royal Albert Hall",
       "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
@@ -1684,6 +1684,24 @@
       "duration_ms": 259584,
       "name": "Morning Glory - Live",
       "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
+    },
+    {
+      "album": {
+        "name": "Morning Star (Live)",
+        "url": "https://open.spotify.com/album/6NLJICMnxQwiF1HEiTGhHI"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307342,
+      "name": "Morning Star (Live)",
+      "url": "https://open.spotify.com/track/7ggW3iCmsuHGiXAwDL53gv"
     },
     {
       "album": {

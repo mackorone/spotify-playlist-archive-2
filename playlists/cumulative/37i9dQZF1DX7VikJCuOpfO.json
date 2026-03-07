@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Michelle Maciel \ud83d\udcf8",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Grupo Triunfadores, Posadas\ud83d\udcf8",
   "name": "Mariachi 2026",
   "tracks": [
     {
@@ -648,7 +648,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160010,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225520,
       "name": "Bailar Contigo (feat. Mariachi Sol De Mexico De Jose Hernandez)",
       "url": "https://open.spotify.com/track/4qkhHNpS8k5U5Oq2rFoRbB"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212126,
       "name": "Cuando Yo Quiera Has De Volver",
       "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 148680,
       "name": "Cu\u00e1ndo Se Ha Visto",
       "url": "https://open.spotify.com/track/2f22XJZsgMvo4tQlRICvjH"
@@ -3854,7 +3854,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143306,
       "name": "La Caminera",
       "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217693,
       "name": "Lo que no fue no ser\u00e1",
       "url": "https://open.spotify.com/track/2Kw2dZoKcrtPDAJZ3p7Odc"
@@ -6213,6 +6213,24 @@
     },
     {
       "album": {
+        "name": "No Voy a Regresar",
+        "url": "https://open.spotify.com/album/4ltDXZWMsobll9mj0ogUrb"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195922,
+      "name": "No Voy a Regresar",
+      "url": "https://open.spotify.com/track/0QQpCnFeMyEIcmkuic0iIT"
+    },
+    {
+      "album": {
         "name": "No Vuelvo A Enamorarme",
         "url": "https://open.spotify.com/album/6Bfg2NgnpQCfoeYyPeU2yP"
       },
@@ -6528,7 +6546,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 216000,
       "name": "Palabras Tristes",
       "url": "https://open.spotify.com/track/5HjrFBysgnmOX5McjIykYd"
@@ -7624,7 +7642,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180000,
       "name": "Se Cancela La Llorada",
       "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
@@ -7776,6 +7794,46 @@
       "duration_ms": 176680,
       "name": "Se Me Olvid\u00f3 Otra Vez (En Vivo) - En el Palacio de Bellas Artes",
       "url": "https://open.spotify.com/track/10o700fPQOCPZFrzFssSof"
+    },
+    {
+      "album": {
+        "name": "Se Me Sigue Olvidando",
+        "url": "https://open.spotify.com/album/0ghyA4LynKnYbejvvWPWFg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Triunfadores",
+          "url": "https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ"
+        },
+        {
+          "name": "Posadas",
+          "url": "https://open.spotify.com/artist/5H855iUf9G9bfBIVpVUNCg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179566,
+      "name": "Se Me Sigue Olvidando",
+      "url": "https://open.spotify.com/track/61rsUkZSrsaP53mSVEPfWu"
+    },
+    {
+      "album": {
+        "name": "Coleccionando Corazones",
+        "url": "https://open.spotify.com/album/2Lkkjn0SYlRVUksgK3CWhd"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196766,
+      "name": "Se Me Va A Pasar",
+      "url": "https://open.spotify.com/track/1Otrczl9uZqXBcUcPowZwy"
     },
     {
       "album": {
@@ -8254,6 +8312,28 @@
       "duration_ms": 187960,
       "name": "Siempre Te Voy A Recordar",
       "url": "https://open.spotify.com/track/2QW4BERfECAthx967SSNy5"
+    },
+    {
+      "album": {
+        "name": "Sin Despedida",
+        "url": "https://open.spotify.com/album/54Z7XyTnUVnuusid94Jj5Y"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230980,
+      "name": "Sin Despedida",
+      "url": "https://open.spotify.com/track/0zBHDsiokQcMyGkrbHRLoK"
     },
     {
       "album": {
@@ -10058,7 +10138,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 141710,
       "name": "\u00bfSeguimos o No?",
       "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"

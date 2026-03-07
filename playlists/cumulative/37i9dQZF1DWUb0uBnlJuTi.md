@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-451 songs - 1 day 10 hr 10 min
+452 songs - 1 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Desert Rain](https://open.spotify.com/track/077KnQCjOyA2qCDcECZ72T) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Desert Rain](https://open.spotify.com/album/7dZPZfRTKe4IFnfZxfRGV6) | 3:47 | 2020-10-30 |  |
 | [Desert Rain](https://open.spotify.com/track/3BhIyhUaz8s4QeJqyWc6R5) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/2NECEnZwEaR6at7uEP8Kmj) | 3:47 | 2021-04-09 | 2023-04-29 |
 | [Desert Rain](https://open.spotify.com/track/3KfBhRPQ7AaxQYh6r1CAXw) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Doug Carn JID005](https://open.spotify.com/album/7KGmy3wpG6ofn4ZC79Ih7W) | 3:47 | 2021-04-09 | 2024-02-29 |
+| [Devotion](https://open.spotify.com/track/322s1Mr5j33uwYVgjfGGFl) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Devotion](https://open.spotify.com/album/04yzrf8Eda4ydshQ2N28X7) | 5:29 | 2026-03-06 |  |
 | [Diamond Ring](https://open.spotify.com/track/0lmy3IKmljVgfvGB11T3Az) | [Jonah Nilsson](https://open.spotify.com/artist/3kjUc2BfNgd4fBUZf1Tkw5), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Diamond Ring](https://open.spotify.com/album/0MqCJJBWl1gVwgz2jeNK6G) | 5:08 | 2021-08-06 | 2023-04-22 |
 | [Dick Cavett](https://open.spotify.com/track/197JI3tYRtPb4Ehr8FgsAy) | [Tabloid](https://open.spotify.com/artist/5rcnMGND7eyKJRbVGpIjOG) | [Dick Cavett](https://open.spotify.com/album/7srtYYAjwKxJHR01YQTZMB) | 5:04 | 2024-04-12 |  |
 | [Dinky Doinky](https://open.spotify.com/track/201ZmH4WWYflWBpg2CJ8uc) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Dinky Doinky](https://open.spotify.com/album/3ua0yfjr5aZfh7kOaEHja7) | 3:48 | 2023-09-29 | 2023-11-18 |
@@ -364,7 +365,7 @@
 | [Take a Breath](https://open.spotify.com/track/0HHWb03tvmcBdgG19naupS) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [Take a Breath](https://open.spotify.com/album/0OAvrB1xafqyl9Yf60LL5J) | 5:27 | 2021-06-25 |  |
 | [Take a Breath \(Live\)](https://open.spotify.com/track/1qjy5HEADS29zdpNwvBVYT) | [Lionmilk](https://open.spotify.com/artist/0ssDUMMQsAhDLqKwBqEnGZ), [Lionmilk Quartet](https://open.spotify.com/artist/6Iy1fMGJlsYpOhzXLKNe8I) | [O.T.S\. \(Live\)](https://open.spotify.com/album/50R9IUC6X5mY1IJACWYyo1) | 5:27 | 2021-06-25 | 2024-04-19 |
 | [Talent Stick](https://open.spotify.com/track/7yukuMCiNS57X6amD5MMwe) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [Talent Stick](https://open.spotify.com/album/6iHyp8p7M8TYEZegzZxUBW) | 4:00 | 2023-04-28 | 2023-05-20 |
-| [TAXI](https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Tyler Gauldin](https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU) | [TAXI](https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W) | 6:21 | 2025-01-24 |  |
+| [TAXI](https://open.spotify.com/track/6b7aEk1d1ShskUECbRR8yq) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx), [Tyler Gauldin](https://open.spotify.com/artist/0zkTQamZ2Vp5GYsoFUzJnU) | [TAXI](https://open.spotify.com/album/1kDbUfS7ad8KOFxrSPOX2W) | 6:21 | 2025-01-24 | 2026-03-07 |
 | [Tell Me What To Do](https://open.spotify.com/track/5sModgX43bJ4fgnSRtLBVA) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/5rZFpmGxIAERAoqLsAlbfH) | 5:17 | 2020-10-09 | 2023-10-21 |
 | [Tell Me What To Do](https://open.spotify.com/track/4uMmOXFsZ1YJSTqTNifMhF) | [Johnny "Hammond" Smith](https://open.spotify.com/artist/1HlUMELUuz04YNiIbzWLsq) | [Gears](https://open.spotify.com/album/65fQ2OhECWQBzLdtEKqK0U) | 5:19 | 2020-10-09 | 2022-04-17 |
 | [Tema de Benja](https://open.spotify.com/track/3xWWQ10PFmASoMTeCBmyBW) | [Daniel Maza](https://open.spotify.com/artist/5TI8IZa6vgPAcb8wuMZfN7), [Patricia "Piojo" Zappia](https://open.spotify.com/artist/0BDCAebyhWwaNQLpfa1aLK) | [Melomazeando](https://open.spotify.com/album/5KTKZNtFdtY8jf5bN8uO45) | 4:55 | 2023-05-19 | 2024-04-13 |

@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/6k7vcufEcTyaP7wilCmdPK"
+      },
+      "artists": [
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144282,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/015iQx9j5GA2Wde3S0orZT"
+    },
+    {
+      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp"
       },
@@ -1287,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "BLAH BLAH BLAH",
+        "url": "https://open.spotify.com/album/0h0u5Sep1GRSZBslUBeneY"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187727,
+      "name": "BLAH BLAH BLAH",
+      "url": "https://open.spotify.com/track/2ZVQo7aRQPW9LMi6CNdiRt"
+    },
+    {
+      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/5awEnPUdqgYwqsc33hPk52"
       },
@@ -1592,7 +1632,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 120000,
       "name": "Caramelle",
       "url": "https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE"
@@ -2822,7 +2862,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156218,
       "name": "Everything You Have Done",
       "url": "https://open.spotify.com/track/44lgAk4wJN8ObrFSglxui5"
@@ -2994,7 +3034,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182098,
       "name": "Find A Way (feat. Suli Breaks)",
       "url": "https://open.spotify.com/track/5rGTgmrgSkVQNJtwy8aRzn"
@@ -5558,7 +5598,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 149557,
       "name": "Mine Tonight",
       "url": "https://open.spotify.com/track/4xOlhAXTGPTWOy5cNKZVTk"
@@ -5734,6 +5774,28 @@
       "duration_ms": 171432,
       "name": "My Love",
       "url": "https://open.spotify.com/track/5TPcLWBvXQObT3fNXRf6y2"
+    },
+    {
+      "album": {
+        "name": "My Loving",
+        "url": "https://open.spotify.com/album/2HBmhLOs1tpnr1KGvJd6B3"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Chrystal",
+          "url": "https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170213,
+      "name": "My Loving",
+      "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
     },
     {
       "album": {
@@ -6436,6 +6498,28 @@
       "duration_ms": 193333,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/743qi98yKf7rLdhKnHbrMf"
+    },
+    {
+      "album": {
+        "name": "People Like Us",
+        "url": "https://open.spotify.com/album/5hv79KtUL5zPYmNHaexXoM"
+      },
+      "artists": [
+        {
+          "name": "Jackie Hollander",
+          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
+        },
+        {
+          "name": "Charlie Shell",
+          "url": "https://open.spotify.com/artist/1hxWpdJKpsP6vKbnwhSlwk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192272,
+      "name": "People Like Us",
+      "url": "https://open.spotify.com/track/4OtVMOooJI6jPn6jvAT9k2"
     },
     {
       "album": {
@@ -7485,6 +7569,32 @@
     },
     {
       "album": {
+        "name": "Spend The Night (feat. Dannielle Gaha) [Archie Hamilton Remix Edit]",
+        "url": "https://open.spotify.com/album/0gY4f3OiB7vzDXIH9RFhjP"
+      },
+      "artists": [
+        {
+          "name": "Danny J Lewis",
+          "url": "https://open.spotify.com/artist/3Z26EjrymkTLeLcJWzJT9S"
+        },
+        {
+          "name": "Dannielle Gaha",
+          "url": "https://open.spotify.com/artist/7bdwPn0i43lXcJsqDjSbRE"
+        },
+        {
+          "name": "Archie Hamilton",
+          "url": "https://open.spotify.com/artist/0DfYCARYRJ4vlSWlief3jv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209076,
+      "name": "Spend The Night (feat. Dannielle Gaha) - Archie Hamilton Remix Edit",
+      "url": "https://open.spotify.com/track/4H5oSx5xIV1Y81umfi0Coi"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/3lOxGtxE3okQgACvvcJdDR"
       },
@@ -7496,7 +7606,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165961,
       "name": "Stay",
       "url": "https://open.spotify.com/track/74y1VgzL668hynrvA59WQB"
@@ -8194,6 +8304,28 @@
       "duration_ms": 219738,
       "name": "Texting At Midnight",
       "url": "https://open.spotify.com/track/1dXU7GzSDtcDLprQwcAQyM"
+    },
+    {
+      "album": {
+        "name": "That's Her (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/2YTsUD2n4AWeXGK51A4fYb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "That's Her (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/3mAttc0Ojiw3xELRfVN6Ea"
     },
     {
       "album": {
@@ -9342,7 +9474,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166597,
       "name": "What You've Done To Me (feat. Bemend\u00e9)",
       "url": "https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv"

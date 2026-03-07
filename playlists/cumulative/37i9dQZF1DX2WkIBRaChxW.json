@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Naomi Sharon.",
+  "description": "What's happening in r&b, right now \u2013 featuring Ty Dolla $ign.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 122033,
       "name": "Bet",
       "url": "https://open.spotify.com/track/1mbW86eR8OhhH8fokyO961"
@@ -2983,6 +2983,28 @@
     },
     {
       "album": {
+        "name": "Blue Lights (Havoc Remix)",
+        "url": "https://open.spotify.com/album/4KDuRP6CT5bY2hwmYq2sPU"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Havoc",
+          "url": "https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262184,
+      "name": "Blue Lights - Havoc Remix",
+      "url": "https://open.spotify.com/track/5hQZ4Q9wPS9iCzZYJMpoTY"
+    },
+    {
+      "album": {
         "name": "Bl\u00fc Moon",
         "url": "https://open.spotify.com/album/4Zq8nr1P9iDhupYoj2wuQz"
       },
@@ -3052,7 +3074,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 146258,
       "name": "BOTHER ME (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/4ZAdgjD0HL9F6NkTqcqhlX"
@@ -6982,7 +7004,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190032,
       "name": "Expensive",
       "url": "https://open.spotify.com/track/09laGbkP9bV49m265Xtx7h"
@@ -7152,6 +7174,24 @@
       "duration_ms": 189411,
       "name": "Fan",
       "url": "https://open.spotify.com/track/5IDvV5y6vl4Xcj6p4gAMfV"
+    },
+    {
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/0YhwyHFb8hngSqSyXgu071"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc"
     },
     {
       "album": {
@@ -7998,7 +8038,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182812,
       "name": "For War",
       "url": "https://open.spotify.com/track/7aTxTd8KhzZFIMEKV5m3Rq"
@@ -8096,7 +8136,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 113305,
       "name": "Foul",
       "url": "https://open.spotify.com/track/6lYb8xPgq1lhfoxfx6UJqr"
@@ -13214,7 +13254,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 165920,
       "name": "Limit",
       "url": "https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t"
@@ -13464,7 +13504,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 131707,
       "name": "LOCKED IN",
       "url": "https://open.spotify.com/track/79hkyX6iGUalVRrXszyDCO"
@@ -14912,7 +14952,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 148404,
       "name": "miss u 2 (with Leon Thomas)",
       "url": "https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ"
@@ -15763,6 +15803,28 @@
     },
     {
       "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187096,
+      "name": "Need it Bad - feat. Brent Faiyaz",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -15804,6 +15866,28 @@
       "duration_ms": 234482,
       "name": "Never",
       "url": "https://open.spotify.com/track/14ABt5PRAULFoVVVUsQV0J"
+    },
+    {
+      "album": {
+        "name": "NEVER BE THE SAME",
+        "url": "https://open.spotify.com/album/3X5Z1evpkUJM8c24N6SDZk"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172376,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/1bFObYeRf8zfPOh4IJqrYf"
     },
     {
       "album": {
@@ -16372,6 +16456,28 @@
       "duration_ms": 157058,
       "name": "NOBODY ELSE",
       "url": "https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo"
+    },
+    {
+      "album": {
+        "name": "nobody has to know (with Ronald Isley)",
+        "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197379,
+      "name": "nobody has to know (with Ronald Isley)",
+      "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
     },
     {
       "album": {
@@ -20952,7 +21058,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 245159,
       "name": "SLIDE4U (Hating)",
       "url": "https://open.spotify.com/track/2YjwAcWg2VUHwhVQatQP2q"
@@ -21090,7 +21196,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 151133,
       "name": "Smoke n Drank",
       "url": "https://open.spotify.com/track/1ZdJs4bRHZ3SxQZbsN7GK1"
@@ -21790,7 +21896,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 161481,
       "name": "Spin The Block",
       "url": "https://open.spotify.com/track/4xsbMmk4sWSsnlMMiuPwdp"
@@ -22630,7 +22736,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 150857,
       "name": "Supposed To Be My Lover",
       "url": "https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG"
@@ -22854,6 +22960,24 @@
       "duration_ms": 286856,
       "name": "T.H.",
       "url": "https://open.spotify.com/track/7Cj2Buxud8yjgRCdRW6VUs"
+    },
+    {
+      "album": {
+        "name": "TABOO",
+        "url": "https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Falls",
+          "url": "https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "TABOO",
+      "url": "https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY"
     },
     {
       "album": {
@@ -24420,7 +24544,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 125954,
       "name": "Touch bby",
       "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
@@ -24508,6 +24632,28 @@
       "duration_ms": 224675,
       "name": "Touchin\u2019 (feat. Busta Rhymes)",
       "url": "https://open.spotify.com/track/0lEMOTD4fbqxowazj6mRE9"
+    },
+    {
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195325,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
     },
     {
       "album": {
@@ -25756,6 +25902,24 @@
       "duration_ms": 195278,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/35CjECBbcR7MU75NpTGd4a"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109966,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
     },
     {
       "album": {

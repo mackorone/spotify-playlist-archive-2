@@ -1,8 +1,48 @@
 {
   "date_first_scraped": "2025-10-21",
-  "description": "\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0917\u093e\u0901\u0935 \u0926\u0947\u0936 \u0915\u0947 \u092e\u093e\u091f\u0940 \u0915\u0947 \u0928\u092f\u093e \u0938\u0902\u0917\u0940\u0924\u092e\u092f \u0938\u0941\u0917\u0902\u0927 \u0938\u0941\u0928\u0940\u0902.",
-  "name": "Bhojpuriya Maati",
+  "description": "\u0917\u093e\u0901\u0935-\u0918\u0930 \u0915\u0940 \u0936\u093e\u0926\u093f\u092f\u094b\u0902 \u0915\u093e \u0905\u0938\u0932\u0940 \u0938\u0902\u0917\u0940\u0924 '\u092d\u094b\u091c\u092a\u0941\u0930\u0940 \u0935\u093f\u0935\u093e\u0939 \u0917\u0940\u0924'.",
+  "name": "Bhojpuri Vivah Geet",
   "tracks": [
+    {
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293856,
+      "name": "Aaiye Swagat Barat Mein Sarkaar Raur (From \"Pyar Karela Himmat Chaahi\")",
+      "url": "https://open.spotify.com/track/2GeGEtoM8FlXTS5G1fuMU0"
+    },
+    {
+      "album": {
+        "name": "Mahua Tapke Chunariya Mein",
+        "url": "https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449306,
+      "name": "Aaja Balam Leke Doli",
+      "url": "https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2"
+    },
     {
       "album": {
         "name": "Aaju Mithila Nagariya Nihal Sakhiya",
@@ -68,7 +108,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 230588,
       "name": "Are Are Saguni",
       "url": "https://open.spotify.com/track/0jLbnHOI3W14h9pclhLQRu"
@@ -86,10 +126,106 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 224391,
       "name": "Bagiya",
       "url": "https://open.spotify.com/track/48ZAPt4dLgYko0T1rCfimu"
+    },
+    {
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Rajnish Mishra",
+          "url": "https://open.spotify.com/artist/6CwN1T7GObQ3G0mZJzuLwO"
+        },
+        {
+          "name": "Rajesh Jha",
+          "url": "https://open.spotify.com/artist/51rEFvnRaw5mZbcKg5T8zj"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271694,
+      "name": "Baliya Baraat Jaai (From \"Nirhua Rikshawala\")",
+      "url": "https://open.spotify.com/track/0BygvN78MZMLGIBwJBrZmD"
+    },
+    {
+      "album": {
+        "name": "Banal Rahe Amar Suhag",
+        "url": "https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh"
+      },
+      "artists": [
+        {
+          "name": "Alka Singh Pahadiya",
+          "url": "https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268845,
+      "name": "Banal Rahe Amar Suhag",
+      "url": "https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK"
+    },
+    {
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Deepa Narayan Jha",
+          "url": "https://open.spotify.com/artist/6SzXWOTikoakLyVORKpugx"
+        },
+        {
+          "name": "Khushboo Jain",
+          "url": "https://open.spotify.com/artist/2M8ZZEQdxPXHTee5xxkC3M"
+        },
+        {
+          "name": "Supriya Joshi",
+          "url": "https://open.spotify.com/artist/5DoEZi8HmGHT8FcBP2zpsB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278816,
+      "name": "Banno Ke Hardi Lagaav Re (From \"Ho Gayini Diwana Tohra Pyar Mein\")",
+      "url": "https://open.spotify.com/track/3VpNZCtxUFbIPkkAQ38oo0"
+    },
+    {
+      "album": {
+        "name": "BIYAH WALI GAARI",
+        "url": "https://open.spotify.com/album/22eABdi6Mvq1dqCtVC68Wr"
+      },
+      "artists": [
+        {
+          "name": "BhojpuriT Stage",
+          "url": "https://open.spotify.com/artist/27uQVy9ArPxsidmRKBQCVQ"
+        },
+        {
+          "name": "Mohini Dwivedi",
+          "url": "https://open.spotify.com/artist/4cRYiIKUvFsRMeAnuPSdIO"
+        },
+        {
+          "name": "KUMARI SONAL",
+          "url": "https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1"
+        },
+        {
+          "name": "Ananyya Singhh",
+          "url": "https://open.spotify.com/artist/5c0OFxSsAvZzF5GS2ZZNmM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179428,
+      "name": "BIYAH WALI GAARI",
+      "url": "https://open.spotify.com/track/5lLkOQLSjAotwfnEDFv9nh"
     },
     {
       "album": {
@@ -116,6 +252,24 @@
       "duration_ms": 177600,
       "name": "BIYAH WALI GAARI 4",
       "url": "https://open.spotify.com/track/0JQoXV8FpAoEk3y76Ijtd5"
+    },
+    {
+      "album": {
+        "name": "Dacait (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2iL6AoCQ6oZYsLibMz49nz"
+      },
+      "artists": [
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248543,
+      "name": "Chal Jayie Sasural",
+      "url": "https://open.spotify.com/track/5kfAtenoVSfYjavPReU68R"
     },
     {
       "album": {
@@ -152,10 +306,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212421,
       "name": "Chalni Ke Chalal Dulha",
       "url": "https://open.spotify.com/track/1l7SGuQSAKSk00MVkql6tc"
+    },
+    {
+      "album": {
+        "name": "Chumawan Siya Raghuvar Ke",
+        "url": "https://open.spotify.com/album/4ibGudkT7zDPEuUZGKwjfZ"
+      },
+      "artists": [
+        {
+          "name": "Anu Dubey",
+          "url": "https://open.spotify.com/artist/61ew4gzw6zXjlnawFTtGkH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389362,
+      "name": "Chumawan Siya Raghuvar Ke",
+      "url": "https://open.spotify.com/track/30WJUwy5OVhKz5frtEaVPF"
     },
     {
       "album": {
@@ -170,7 +342,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 276224,
       "name": "Chunariya Me Daag",
       "url": "https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW"
@@ -213,6 +385,42 @@
     },
     {
       "album": {
+        "name": "Chutki Bhar Senura Lagwate A Baba",
+        "url": "https://open.spotify.com/album/7h4cHjEJzG0QJzcJ2bJt0f"
+      },
+      "artists": [
+        {
+          "name": "Alka Singh Pahadiya",
+          "url": "https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373883,
+      "name": "Chutki Bhar Senura Lagwate A Baba",
+      "url": "https://open.spotify.com/track/5DTGAWIPfl1An70u2vMzSE"
+    },
+    {
+      "album": {
+        "name": "Sindur Daan",
+        "url": "https://open.spotify.com/album/1CDm1ncj7X7JrmnmLlHmdt"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469706,
+      "name": "Dheere Dheere Ho Bhasur",
+      "url": "https://open.spotify.com/track/4PxrQ11iCVYt3EXga7jbKG"
+    },
+    {
+      "album": {
         "name": "Dilwa Loot Lihla",
         "url": "https://open.spotify.com/album/0zkbYsD5wkTpSQlvEatrMV"
       },
@@ -224,10 +432,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181577,
       "name": "Dilwa Loot Lihla",
       "url": "https://open.spotify.com/track/5L2JpyWV23u9Rq74Q6vOpi"
+    },
+    {
+      "album": {
+        "name": "Dulha Hindustani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P"
+      },
+      "artists": [
+        {
+          "name": "Alka Singh",
+          "url": "https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "Doli Leke Aihein Dulhiniya",
+      "url": "https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5"
     },
     {
       "album": {
@@ -264,7 +490,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 352789,
       "name": "Ehi Thaiyan",
       "url": "https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2"
@@ -282,7 +508,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 155647,
       "name": "Far Gaile Nembua",
       "url": "https://open.spotify.com/track/5dS1QpIQNwYBb1UQEGwuND"
@@ -304,7 +530,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176656,
       "name": "FULAURI BINA CHATNI",
       "url": "https://open.spotify.com/track/6o6I0y3nCi6suPvXCBQeUq"
@@ -329,6 +555,32 @@
     },
     {
       "album": {
+        "name": "Hardi Chumawan Hota Ho (From \"Shubh Vivah\")",
+        "url": "https://open.spotify.com/album/1frKKhRfy3mA3OpyrFYryC"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        },
+        {
+          "name": "Pyare Lal Yadav",
+          "url": "https://open.spotify.com/artist/0CbLemfR93bOkJbl4hRj19"
+        },
+        {
+          "name": "Om Jha",
+          "url": "https://open.spotify.com/artist/2jsc0wG26OwmCKHEhHxLfi"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242393,
+      "name": "Hardi Chumawan Hota Ho - From \"Shubh Vivah\"",
+      "url": "https://open.spotify.com/track/4JL0IuQxU2QigBnLXKCjD8"
+    },
+    {
+      "album": {
         "name": "HARDI Haradiya",
         "url": "https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n"
       },
@@ -344,6 +596,42 @@
       "duration_ms": 168000,
       "name": "HARDI Haradiya",
       "url": "https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM"
+    },
+    {
+      "album": {
+        "name": "Shubh Vivah",
+        "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367420,
+      "name": "Hardi Hardiya (Haldi)",
+      "url": "https://open.spotify.com/track/67pYYX5V8SpyaaGRjSRY6u"
+    },
+    {
+      "album": {
+        "name": "Mangal Geet",
+        "url": "https://open.spotify.com/album/5LRXr1pKz4moRJ8bH6afmh"
+      },
+      "artists": [
+        {
+          "name": "Devi",
+          "url": "https://open.spotify.com/artist/5w9vr3Fiv8Up0KCOz6fgAk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404096,
+      "name": "Hare-Hare Hare Dada",
+      "url": "https://open.spotify.com/track/1atl5wZPYRVqYotOzmiWiL"
     },
     {
       "album": {
@@ -384,10 +672,46 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220170,
       "name": "Holi Khele Raghuveera",
       "url": "https://open.spotify.com/track/6lgbG3DfmZvJ7r1iJYbrN8"
+    },
+    {
+      "album": {
+        "name": "Ailein Dulha Raja",
+        "url": "https://open.spotify.com/album/6OKyFlMxEdBcoEJozVgbiI"
+      },
+      "artists": [
+        {
+          "name": "Kalpana Patowary",
+          "url": "https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253480,
+      "name": "Janghiya Baithawal Ae Papa",
+      "url": "https://open.spotify.com/track/3rItI3pw4qd21dUfpQgoDI"
+    },
+    {
+      "album": {
+        "name": "Jehne Kishori Mori",
+        "url": "https://open.spotify.com/album/3vQJ42HlP9D2MK9rOrpEvF"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281379,
+      "name": "Jehne Kishori Mori",
+      "url": "https://open.spotify.com/track/5NAhU7NpZHDVTY9xUmkiYr"
     },
     {
       "album": {
@@ -446,7 +770,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 197802,
       "name": "JUG JUG JIYA SU LALANWA SOHAR",
       "url": "https://open.spotify.com/track/6v9a59GBqiiui2L65Hrfe4"
@@ -464,7 +788,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225045,
       "name": "Kachauri Gali",
       "url": "https://open.spotify.com/track/2m7fE5rq2if3kiTDBb7wzD"
@@ -504,7 +828,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154285,
       "name": "Kaise Khele Jaibu Sawan Mein Kajariya",
       "url": "https://open.spotify.com/track/1f27pTsO6nwMoI93a7d6mc"
@@ -522,10 +846,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 127659,
       "name": "Khele Ke Milal Goti",
       "url": "https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh"
+    },
+    {
+      "album": {
+        "name": "Kothwa Upar Baba (Wedding Song)",
+        "url": "https://open.spotify.com/album/7is37iX44ubPEy8hqwmEfq"
+      },
+      "artists": [
+        {
+          "name": "Khushi Kakkar",
+          "url": "https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Kothwa Upar Baba (Wedding Song)",
+      "url": "https://open.spotify.com/track/11w8nTWqAWIZ33GvWyYklB"
     },
     {
       "album": {
@@ -540,10 +882,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 192000,
       "name": "KURBAN",
       "url": "https://open.spotify.com/track/4YyFE8b4QSo3pkroH4S3wM"
+    },
+    {
+      "album": {
+        "name": "Devrani Jethani 2",
+        "url": "https://open.spotify.com/album/0o9F4zmybbDXPuiLcKVyrG"
+      },
+      "artists": [
+        {
+          "name": "Priyanka Singh",
+          "url": "https://open.spotify.com/artist/6a5KdTA4zpapsLLfyiNk0M"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222399,
+      "name": "Lamhar Damad Ho Vivah Geet",
+      "url": "https://open.spotify.com/track/718CsHd3urtjTh2GiSbhYH"
     },
     {
       "album": {
@@ -562,7 +922,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 228367,
       "name": "Love Ke Ghoont",
       "url": "https://open.spotify.com/track/1hZZk21zhBoCb3V3e2VLSf"
@@ -598,10 +958,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 224042,
       "name": "Mannat",
       "url": "https://open.spotify.com/track/1d0zIgTp19xhO6LS05vmme"
+    },
+    {
+      "album": {
+        "name": "Aaj Hamar Pyar Ke Shadi Ba",
+        "url": "https://open.spotify.com/album/75HvUXEGVqZELGskMSWmCi"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176070,
+      "name": "Matkor",
+      "url": "https://open.spotify.com/track/1ATvLTbYClJlx8dTebRMHB"
     },
     {
       "album": {
@@ -638,7 +1016,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 175384,
       "name": "MEHANDI SURKAB NA",
       "url": "https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F"
@@ -656,7 +1034,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 242241,
       "name": "Mori Dhani Chunariya Iter Ghamke - Jhumar",
       "url": "https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM"
@@ -678,7 +1056,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 150000,
       "name": "NADIYA KE OH PAAR",
       "url": "https://open.spotify.com/track/1Q7Qpt5MyPReEMIArW7LqF"
@@ -696,10 +1074,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 239221,
       "name": "Naginiya",
       "url": "https://open.spotify.com/track/18zB9BCWYwjvQ0zjVBSxQQ"
+    },
+    {
+      "album": {
+        "name": "Kaahe Ko Byahe Bides",
+        "url": "https://open.spotify.com/album/1W6iCSVsuBVhMUchYAfhCO"
+      },
+      "artists": [
+        {
+          "name": "Malini Awasthi",
+          "url": "https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426946,
+      "name": "Najariya Lag Jaihen",
+      "url": "https://open.spotify.com/track/6JlkX8qubfCB7ekW5rPZum"
     },
     {
       "album": {
@@ -714,7 +1110,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219753,
       "name": "Nanad Tora Gauwan",
       "url": "https://open.spotify.com/track/21VWH4J8WTE4dYE7ddQMuA"
@@ -736,10 +1132,32 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166829,
       "name": "Nazariya Se Baat",
       "url": "https://open.spotify.com/track/4c2wzNGvqLq3x6xvgxBX9g"
+    },
+    {
+      "album": {
+        "name": "Parichhawan Me",
+        "url": "https://open.spotify.com/album/5pSqXD2Nv2Tykx1GOTa6Az"
+      },
+      "artists": [
+        {
+          "name": "Pawan Singh",
+          "url": "https://open.spotify.com/artist/1T7MiVJ2MJlR5GKi11w4VT"
+        },
+        {
+          "name": "Shivani Singh",
+          "url": "https://open.spotify.com/artist/22bsH6ya7Wbrlf9Snsw8q3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193721,
+      "name": "Parichhawan Me",
+      "url": "https://open.spotify.com/track/273OjO0cHi4P8xhEDEIRli"
     },
     {
       "album": {
@@ -762,10 +1180,46 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 246507,
       "name": "PATNA WALI MUNIYA",
       "url": "https://open.spotify.com/track/1eNfX9L5Epg8OPPgQPTj8Q"
+    },
+    {
+      "album": {
+        "name": "Piya Ke Nagariya",
+        "url": "https://open.spotify.com/album/6n20SlnH9DmN3TEK0fZicn"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348262,
+      "name": "Purab Disha Se - Lagan Geet",
+      "url": "https://open.spotify.com/track/0m2gwu1YhGPbaphMUVNbZo"
+    },
+    {
+      "album": {
+        "name": "Beti Ke Biaah",
+        "url": "https://open.spotify.com/album/5biXtMXgPKuqCs4UWbAowR"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Paudwal",
+          "url": "https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375000,
+      "name": "Purain Paat Par",
+      "url": "https://open.spotify.com/track/3RuAcWipM4CYbMzQ4zCh5H"
     },
     {
       "album": {
@@ -802,7 +1256,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 204000,
       "name": "Pyaar ka Vyapar",
       "url": "https://open.spotify.com/track/1uZwqNRdcBAviDx2bcJoA2"
@@ -820,7 +1274,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190800,
       "name": "Re Sajni",
       "url": "https://open.spotify.com/track/4hiPErACgGGVB6NN3jSH6G"
@@ -838,7 +1292,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 321654,
       "name": "Reliya Bairan",
       "url": "https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X"
@@ -860,10 +1314,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211266,
       "name": "Runjhun Khola Na Kewadiya",
       "url": "https://open.spotify.com/track/0QGBV1H3I6m9byzSyYl0B2"
+    },
+    {
+      "album": {
+        "name": "Shubh Vivah",
+        "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447030,
+      "name": "Saanvar - Saanvar Suratiya Tohar Dulha (Baraat)",
+      "url": "https://open.spotify.com/track/5EROAJcLJVFVIC3qFb67aY"
     },
     {
       "album": {
@@ -878,7 +1350,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 262536,
       "name": "Saari Saari Ratiya",
       "url": "https://open.spotify.com/track/21TDQB67T7YG0Kt1ipq7rk"
@@ -900,7 +1372,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 222000,
       "name": "SAJANWA Love in Bangkok",
       "url": "https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID"
@@ -962,7 +1434,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 206451,
       "name": "SAWARIYA",
       "url": "https://open.spotify.com/track/3yq59mQFfnqp8oh1Dxi8VC"
@@ -984,6 +1456,86 @@
       "duration_ms": 321280,
       "name": "Senura Chhodave La Gaon",
       "url": "https://open.spotify.com/track/03OMZYOx4xz6gCs3drFx2e"
+    },
+    {
+      "album": {
+        "name": "Senurwa Singar Hokhela",
+        "url": "https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5"
+      },
+      "artists": [
+        {
+          "name": "Ankush Raja",
+          "url": "https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220844,
+      "name": "Senurwa Singar Hokhela",
+      "url": "https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET"
+    },
+    {
+      "album": {
+        "name": "Shubh Vivah",
+        "url": "https://open.spotify.com/album/42FFkrYRo42VtNFN1ClXEA"
+      },
+      "artists": [
+        {
+          "name": "Neelkamal Singh",
+          "url": "https://open.spotify.com/artist/2pywmTkxO0H1CY8ZXSJTSC"
+        },
+        {
+          "name": "Amrita Dixit",
+          "url": "https://open.spotify.com/artist/2u9ayLxzYVTazdBQmotAXH"
+        },
+        {
+          "name": "Antra Singh Priyanka",
+          "url": "https://open.spotify.com/artist/1ddZZOn4qZRdqnmLuzPcKd"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 778125,
+      "name": "Shubh Vivah",
+      "url": "https://open.spotify.com/track/4P0iD4tryb0xaRJR9GKZDQ"
+    },
+    {
+      "album": {
+        "name": "Sikadiya",
+        "url": "https://open.spotify.com/album/6GdKZ1aZEVeZIOiRspXdBX"
+      },
+      "artists": [
+        {
+          "name": "Khushbu Tiwari KT",
+          "url": "https://open.spotify.com/artist/2fzxSTOd2GIgQWLCSUUFkk"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282222,
+      "name": "Sikadiya",
+      "url": "https://open.spotify.com/track/4d4eiUekZmnWelJZt90nB8"
+    },
+    {
+      "album": {
+        "name": "Dulhin",
+        "url": "https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493270,
+      "name": "Sir Ke Sundoor Re Gavanva",
+      "url": "https://open.spotify.com/track/1lUZzS2Yt5MjSXgFAxmq4f"
     },
     {
       "album": {
@@ -1045,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Shubh Vivah",
+        "url": "https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe"
+      },
+      "artists": [
+        {
+          "name": "Sharda Sinha",
+          "url": "https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Suna Ho Paahun (Lava Chhitaai)",
+      "url": "https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK"
+    },
+    {
+      "album": {
         "name": "Tani Tani Sa Baat",
         "url": "https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB"
       },
@@ -1056,7 +1626,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 283800,
       "name": "Tani Tani Sa Baat",
       "url": "https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa"
@@ -1074,10 +1644,28 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 226701,
       "name": "Tohre me Base Sajna",
       "url": "https://open.spotify.com/track/3MH3r1uLG0uBeCNgMAOioE"
+    },
+    {
+      "album": {
+        "name": "Bhojpuri Vivah Geet",
+        "url": "https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV"
+      },
+      "artists": [
+        {
+          "name": "Indu Sonali",
+          "url": "https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 917893,
+      "name": "Vivah Geet (From \"Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka\")",
+      "url": "https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX1KKclrVPfDr"

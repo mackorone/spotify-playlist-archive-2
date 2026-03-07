@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Buddynice",
+  "description": "Get revived with some of the best Deep House South Africa has to offer. Cover: Garth Brown",
   "name": "Deep House Session",
   "tracks": [
     {
@@ -629,6 +629,32 @@
     },
     {
       "album": {
+        "name": "My Journey Continues",
+        "url": "https://open.spotify.com/album/0cl66dryUl4y8GpCtlFmyt"
+      },
+      "artists": [
+        {
+          "name": "George Lesley",
+          "url": "https://open.spotify.com/artist/1b4XcTXxb48CLaCUCAFWhL"
+        },
+        {
+          "name": "Kelvin Momo",
+          "url": "https://open.spotify.com/artist/4VlxI0WKDh7HFgHjXcfj6v"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404869,
+      "name": "Banomona",
+      "url": "https://open.spotify.com/track/67Ddv7uS5uLD5OOG231jQ7"
+    },
+    {
+      "album": {
         "name": "BAUHAUS",
         "url": "https://open.spotify.com/album/6vzBGNFrmX28conXn3lj07"
       },
@@ -948,6 +974,24 @@
       "duration_ms": 452101,
       "name": "Cast - Nostalgic Mix",
       "url": "https://open.spotify.com/track/3DBG5ziT8L6yUUnjSwtc9O"
+    },
+    {
+      "album": {
+        "name": "White Label",
+        "url": "https://open.spotify.com/album/2T0fkR33aVQ1S6BTKnahcL"
+      },
+      "artists": [
+        {
+          "name": "Kek'star",
+          "url": "https://open.spotify.com/artist/7lgauJ5ZMIIwrJwvUvrWC4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361659,
+      "name": "Chelete",
+      "url": "https://open.spotify.com/track/4dh3JGb7alSIwoCsgwuLIz"
     },
     {
       "album": {

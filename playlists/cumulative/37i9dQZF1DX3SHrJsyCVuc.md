@@ -4,7 +4,7 @@
 
 > Punk spirit, alternative bones\. Music that pushes us forward\. Cover: Amy Taylor
 
-132 songs - 7 hr 12 min
+132 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [NEW AGE](https://open.spotify.com/track/1iBoLtHJkiR4JHcZSoDtF9) | [sleepazoid](https://open.spotify.com/artist/6IYHXeYElVd2F2ovDrYFel) | [NEW AGE](https://open.spotify.com/album/4gkvq2hK8b3GPeKY6W2E03) | 3:32 | 2025-10-23 |  |
 | [New Case](https://open.spotify.com/track/5LF2zTvtSPdm6Ffa2IuXUf) | [Upchuck](https://open.spotify.com/artist/7mhCgHESQzEKKyWshkMTwW) | [New Case](https://open.spotify.com/album/5szt6cyBnFYsksLYpu4jw1) | 2:46 | 2025-10-23 |  |
 | [No Love](https://open.spotify.com/track/54pSlokgcxJakkfBm10N3c) | [Sex Mask](https://open.spotify.com/artist/58TcB8X9Cr1VpR9PrXJeTQ) | [No Love](https://open.spotify.com/album/2gZS32bPZcfyBu0Cg8Colc) | 1:58 | 2025-10-23 | 2025-11-28 |
+| [Nobody's Son](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp), [Tom Coll](https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 2:15 | 2026-03-05 |  |
 | [Not Sorry](https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [When A Flower Doesn't Grow](https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm) | 2:50 | 2026-01-29 |  |
 | [nuclear](https://open.spotify.com/track/3sS5EHvZrM7XqTRh3wdxRx) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [nuclear](https://open.spotify.com/album/34OS4k4RcL6LjVxWoZ4ick) | 5:45 | 2025-10-23 | 2026-02-13 |
 | [omni shambles](https://open.spotify.com/track/741HkhBFMxxkmq1uU0VJSz) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [omni shambles](https://open.spotify.com/album/45dbSWXwlSOxhPLcWs1n9X) | 2:16 | 2025-10-23 | 2026-02-21 |
@@ -131,7 +132,6 @@
 | [Today Might Be The Hit](https://open.spotify.com/track/0vlHDBj2OpXqPCllTJNOLt) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Today Might Be The Hit](https://open.spotify.com/album/7pjYZia3RiUqYGtZ2FRaXT) | 2:11 | 2025-10-23 | 2026-01-23 |
 | [Tongue](https://open.spotify.com/track/7tRI5028bm53M2KJyItRHh) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Tongue](https://open.spotify.com/album/577XDhAIhJ0K2KCZDJTNUf) | 2:28 | 2026-02-12 |  |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-10-23 | 2025-11-14 |
-| [Track 4](https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq) | [Amy Taylor](https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 0:00 | 2026-03-05 |  |
 | [Trickle Down](https://open.spotify.com/track/371ba2eszCmnxTSzAbkyg4) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Trickle Down](https://open.spotify.com/album/2dQKcjHdSTqW7lN9oM45yr) | 2:47 | 2026-03-05 |  |
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-11-27 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-10-23 | 2025-11-21 |

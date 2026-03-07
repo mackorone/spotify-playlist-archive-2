@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Tucker Wetmore and the biggest hits in country music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,389 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,384 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 7 | [Taillight This Town](https://open.spotify.com/track/1n1NjVpPDdpn8BMQOL7lGY) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Taillight This Town](https://open.spotify.com/album/7hxiN7d6lCpcwPgLRSWpoH) | 3:06 |
 | 8 | [I'm Leavin' You](https://open.spotify.com/track/6PUQOqhQVjchu5iqsMTVEX) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN) | [I'm Leavin' You](https://open.spotify.com/album/7lpDPjfOekEcPLJTBwxLKj) | 2:32 |
 | 9 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 |
-| 10 | [Hurtin' Songs](https://open.spotify.com/track/0T0tw43OEpIBjIQFFBdoCg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Let Your Horses Run \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/4OwKgEgCtTiYFnPbk1a1HY) | 3:04 |
-| 11 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
+| 10 | [6 Months Later](https://open.spotify.com/track/4Km9FSF9iaQiTLnFPdbPom) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [6 Months Later](https://open.spotify.com/album/0JGIg3ny1crTowB0Qi1Zx1) | 3:02 |
+| 11 | [Hurtin' Songs](https://open.spotify.com/track/0T0tw43OEpIBjIQFFBdoCg) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm), [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Let Your Horses Run \- The Album \(Deluxe Edition\)](https://open.spotify.com/album/4OwKgEgCtTiYFnPbk1a1HY) | 3:04 |
 | 12 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
 | 13 | [Bar None](https://open.spotify.com/track/212xtcXoSqbbwFAYd0zvNP) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bar None](https://open.spotify.com/album/2dbV2Hkxmm5CiUu7a5tBjI) | 2:53 |
 | 14 | [Somebody I Know](https://open.spotify.com/track/6T9BLDu6WMTplsum4NfoXv) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [Somebody I Know](https://open.spotify.com/album/2u0tcHfJFHaxudbFcuz23e) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 49 | [Be Your Man](https://open.spotify.com/track/7v8UTNAwAE5eb85FGKVl4N) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Be Your Man](https://open.spotify.com/album/4y0kalZtaXrYjUxkqG6wu7) | 3:13 |
 | 50 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 |
 
-Snapshot ID: `AAAAALcCJSbdjxa72vCeiuX01NSeIkIw`
+Snapshot ID: `AAAAAE5gF47vzbDr0o54XDyjPeMSE48Y`

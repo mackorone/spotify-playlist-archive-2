@@ -889,6 +889,28 @@
     },
     {
       "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/1VOmpfma0UivK1IYlnyQ8P"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/4wMzY3Ppuc9eHhM4TbU1Km"
+    },
+    {
+      "album": {
         "name": "Blue Water",
         "url": "https://open.spotify.com/album/6RnUPmayHAPNfJx26chel8"
       },
@@ -1692,6 +1714,24 @@
       "duration_ms": 135230,
       "name": "Darlin Corey",
       "url": "https://open.spotify.com/track/2UFcexUGAYwuuskfg7HUcn"
+    },
+    {
+      "album": {
+        "name": "Darlin' Cory",
+        "url": "https://open.spotify.com/album/4yRv8SGmUXn4XM6iR2JRgi"
+      },
+      "artists": [
+        {
+          "name": "Johanna Wacker",
+          "url": "https://open.spotify.com/artist/5woN9C1Shm6Q4xmgOhuH2c"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145317,
+      "name": "Darlin' Cory",
+      "url": "https://open.spotify.com/track/2slxTMp4dVPpz88LXc4Qm8"
     },
     {
       "album": {
@@ -2866,7 +2906,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 229742,
       "name": "Glacier Song",
       "url": "https://open.spotify.com/track/5H5CKMF7vtOkCuwAMbU1gg"
@@ -3850,7 +3890,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 252000,
       "name": "I'll Break Out Again Tonight",
       "url": "https://open.spotify.com/track/4lLDWBlDgQNnfA0HVrFLAI"
@@ -4665,6 +4705,32 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Sing Our Song",
+        "url": "https://open.spotify.com/album/6CMRU9CtorShQRCTgKpYcz"
+      },
+      "artists": [
+        {
+          "name": "Jason Carter",
+          "url": "https://open.spotify.com/artist/3qg6YysLbvZgzhzKcTAf4r"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239440,
+      "name": "Let\u2019s Sing Our Song",
+      "url": "https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW"
+    },
+    {
+      "album": {
         "name": "Life On The Road",
         "url": "https://open.spotify.com/album/6rOlqhR1OJEAJO9K71NgTF"
       },
@@ -4774,7 +4840,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205159,
       "name": "Little Darling Pal of Mine - Live At The American Legion Post 82",
       "url": "https://open.spotify.com/track/2WzsI1E3mtPuqOLxBAXszS"
@@ -5206,7 +5272,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 215806,
       "name": "Maple On The Hill",
       "url": "https://open.spotify.com/track/6agmhgRRCFWtGxiGCcBIok"
@@ -6880,6 +6946,24 @@
       "duration_ms": 228091,
       "name": "Riverside Rest",
       "url": "https://open.spotify.com/track/1xkqCZXuVoPPvFV2FtvOm6"
+    },
+    {
+      "album": {
+        "name": "Roan Mountain",
+        "url": "https://open.spotify.com/album/7D2L98Tqkg8FWHeG7rxITA"
+      },
+      "artists": [
+        {
+          "name": "Adam & Amy Pope",
+          "url": "https://open.spotify.com/artist/1mDZ6edHYsVTzKz8VLYdQY"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225328,
+      "name": "Roan Mountain",
+      "url": "https://open.spotify.com/track/0ofBs38aCFb6sAkwIoHNwx"
     },
     {
       "album": {

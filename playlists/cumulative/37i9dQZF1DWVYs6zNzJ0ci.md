@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari con Nonpalidece & Tippy I\-Grade
 
-432 songs - 1 day 4 hr 20 min
+433 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -350,7 +350,7 @@
 | [Sentimiento Colectivo](https://open.spotify.com/track/5Mt39ZADBRZMNeKG4DxDJP) | [Colectivo Ley De Origen](https://open.spotify.com/artist/5J6qDQo17awBaFEmOGhfb3), [David Kawooq](https://open.spotify.com/artist/71miEAUvClO9XgUdy6dqnZ), [Lengualerta](https://open.spotify.com/artist/451HB6ulceS82BVD3cncjW), [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx) | [Sentimiento Colectivo](https://open.spotify.com/album/7e75vjhSH4p79UErg0u8hy) | 3:08 | 2021-12-10 | 2022-07-29 |
 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 | 2021-12-10 |  |
 | [Si Tú Me Quieres](https://open.spotify.com/track/1aGrwoxshC9Bfblm67C5oQ) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Si Tú Me Quieres](https://open.spotify.com/album/6Dwm2KnliEQQuefTWJnBnm) | 4:08 | 2021-12-10 |  |
-| [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 | 2025-07-30 |  |
+| [Si Tú No Estás](https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd), [E.N Young](https://open.spotify.com/artist/14vjE0DKC1Y9G1WfdCSzFf) | [Si Tú No Estás](https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi) | 3:10 | 2025-07-30 | 2026-03-07 |
 | [Siempre](https://open.spotify.com/track/7d42VpwmsJhlBcfOJ5XQu0) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Siempre](https://open.spotify.com/album/4tx8t2F5LBamtUKg4Wk7ik) | 4:24 | 2021-12-10 | 2022-07-29 |
 | [Sierra del Mar](https://open.spotify.com/track/1m4h2rplVZ3cpcWplrJYSw) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r), [Totidub](https://open.spotify.com/artist/1VTBqewro51M1puZAUn4jt) | [Sierra del Mar](https://open.spotify.com/album/2jCf17eHD4u8U7Gp3PZ4ba) | 5:17 | 2025-01-07 |  |
 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 | 2021-12-10 |  |
@@ -379,6 +379,7 @@
 | [Ten paciencia](https://open.spotify.com/track/3xO3L3sFUMDtJQdRl8H9XG) | [DJ Lápiz](https://open.spotify.com/artist/3ZvlR85i8esZ2Hc0iFDG2F), [Na Bóka Noti](https://open.spotify.com/artist/5gey5yOrisQLiqmMxOc6CO) | [Ten paciencia](https://open.spotify.com/album/4GutepaHRIFZd6CNwesSmr) | 3:17 | 2023-07-21 | 2023-08-19 |
 | [The Heaven](https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:52 | 2024-01-26 |  |
 | [This Strange Effect](https://open.spotify.com/track/5XfpYQ0Mj24oHVJ3c0JMOX) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [This Strange Effect](https://open.spotify.com/album/1PLz4S3i1sl9cUaD1wTf15) | 4:20 | 2023-09-08 | 2023-09-23 |
+| [Timelapse de Sol](https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 3:05 | 2026-03-06 |  |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2021-12-10 |  |
 | [Todo se Soluciona](https://open.spotify.com/track/582ZzddI9KhmtvPfSUL81X) | [Delasierra](https://open.spotify.com/artist/5fe8FJ3C3lkMkSKiOZkopk) | [Todo se Soluciona](https://open.spotify.com/album/1Pod3KeHC3EdjuanFN5WDj) | 4:13 | 2023-07-21 | 2023-08-19 |
 | [Todo Tiene Su Tiempo](https://open.spotify.com/track/1TyyXiIMIL0yhYQqv5GfUs) | [Mamma Motta](https://open.spotify.com/artist/49C3kSJ3U0It8eGGwXWzrF) | [Elevándote](https://open.spotify.com/album/1AzhzZ8JOMRL0bOMzhdF8H) | 4:51 | 2021-12-10 | 2022-07-24 |

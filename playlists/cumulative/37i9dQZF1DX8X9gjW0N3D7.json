@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Bye Parula",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Vincent Khouni",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 212184,
       "name": "Abri",
       "url": "https://open.spotify.com/track/0JOPcNqsVH2uVsm9oKmFBc"
+    },
+    {
+      "album": {
+        "name": "Accident",
+        "url": "https://open.spotify.com/album/06HTIjcP9rX3SPbzrkROCK"
+      },
+      "artists": [
+        {
+          "name": "VINCENT KHOUNI",
+          "url": "https://open.spotify.com/artist/7JCnd0ZS2KdbkXSRGUemf8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241280,
+      "name": "Accident",
+      "url": "https://open.spotify.com/track/2TO7vvluSBxNRCBBSR34B5"
     },
     {
       "album": {
@@ -222,7 +240,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 178872,
       "name": "Another Tangerine",
       "url": "https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm"
@@ -324,6 +342,24 @@
       "duration_ms": 154153,
       "name": "Autour du feu",
       "url": "https://open.spotify.com/track/1oKs2jNC0GZE2r7HEATSDS"
+    },
+    {
+      "album": {
+        "name": "Malgr\u00e9 la temp\u00eate (Deluxe)",
+        "url": "https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N"
+      },
+      "artists": [
+        {
+          "name": "GreenWoodz",
+          "url": "https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "Avant qu'il soit trop tard",
+      "url": "https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8"
     },
     {
       "album": {
@@ -802,6 +838,24 @@
       "duration_ms": 152803,
       "name": "Ce qui se passe",
       "url": "https://open.spotify.com/track/24D8vMbIc8lS9sTth7uGxh"
+    },
+    {
+      "album": {
+        "name": "Champs-de-Mars",
+        "url": "https://open.spotify.com/album/5fN2HyfTd4T8iusPxMUCMo"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ron",
+          "url": "https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232200,
+      "name": "Champ-de-Mars",
+      "url": "https://open.spotify.com/track/4lUvhF5u11Nswi8YXY9Zq5"
     },
     {
       "album": {
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 269322,
       "name": "Hirondelle",
       "url": "https://open.spotify.com/track/07u2B4PIbpqUdB15kqf7eo"
@@ -2882,7 +2936,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198635,
       "name": "Jeans t-shirt",
       "url": "https://open.spotify.com/track/512uvLkvueZs41nvJTJ5f7"
@@ -3160,7 +3214,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 234853,
       "name": "L'odeur de la pluie",
       "url": "https://open.spotify.com/track/4gEDXhCMj0H3u8CPJ84UXW"
@@ -3943,6 +3997,24 @@
     },
     {
       "album": {
+        "name": "Face A",
+        "url": "https://open.spotify.com/album/5LbKIkO9T2S6FOdciRIU1v"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9anne Sabourin-C\u00f4t\u00e9",
+          "url": "https://open.spotify.com/artist/4bgPlxnoanAoq5xdIfRTG2"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270337,
+      "name": "Les catastrophes",
+      "url": "https://open.spotify.com/track/6WTs6yDjbkWvQAxJy52bco"
+    },
+    {
+      "album": {
         "name": "Dynastie",
         "url": "https://open.spotify.com/album/7iQA80BCQhFCWe0In1PRp0"
       },
@@ -3976,6 +4048,24 @@
       "duration_ms": 206079,
       "name": "Les ent\u00eat\u00e9.e.s",
       "url": "https://open.spotify.com/track/4e8lef1lBidiTu7WlUWJ5N"
+    },
+    {
+      "album": {
+        "name": "Entre Beyrouth et L\u00e9vis",
+        "url": "https://open.spotify.com/album/5oLTU3Dc75WLB6cq586f0h"
+      },
+      "artists": [
+        {
+          "name": "Yasmina L\u00e9veill\u00e9",
+          "url": "https://open.spotify.com/artist/2mqsXujGcEAShex2pxA4ui"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162016,
+      "name": "Les grands espaces",
+      "url": "https://open.spotify.com/track/3nzEEdWjKtlHCz4xKWZFfa"
     },
     {
       "album": {
@@ -4214,6 +4304,24 @@
       "duration_ms": 185573,
       "name": "L\u00e9o",
       "url": "https://open.spotify.com/track/3fB7SMF0iP2LZDeLsyR9cg"
+    },
+    {
+      "album": {
+        "name": "L\u00e9vesque",
+        "url": "https://open.spotify.com/album/4lRf15vftMhrReEB0tA1Jq"
+      },
+      "artists": [
+        {
+          "name": "Tristan Guay",
+          "url": "https://open.spotify.com/artist/0Bi9l2FyMlGmNQ4xKUcJYU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208847,
+      "name": "L\u00e9vesque",
+      "url": "https://open.spotify.com/track/7CgpMII0Dpx8ySRHQMYExD"
     },
     {
       "album": {
@@ -4600,7 +4708,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 317520,
       "name": "monsieur Quan",
       "url": "https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY"
@@ -4746,6 +4854,24 @@
       "duration_ms": 229760,
       "name": "M\u00e9lancolie",
       "url": "https://open.spotify.com/track/6vYbyQpKM21rfhsHwb4HIb"
+    },
+    {
+      "album": {
+        "name": "M\u00eal\u00e9",
+        "url": "https://open.spotify.com/album/75yqGJVqvHvLD4Gm7pV1HJ"
+      },
+      "artists": [
+        {
+          "name": "Statzz",
+          "url": "https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "M\u00eal\u00e9",
+      "url": "https://open.spotify.com/track/06O4pPBFojvSiI8xDIDnhU"
     },
     {
       "album": {
@@ -5890,7 +6016,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166266,
       "name": "S'il te pla\u00eet, fais-moi danser",
       "url": "https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy"
@@ -6992,7 +7118,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 308240,
       "name": "Ville",
       "url": "https://open.spotify.com/track/1LEuLVZ3jzXuMqO35Zrnlq"

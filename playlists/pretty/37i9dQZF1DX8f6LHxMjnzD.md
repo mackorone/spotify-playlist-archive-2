@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,016 likes - 40 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,110 likes - 40 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Internet](https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Internet](https://open.spotify.com/album/6IE54t4dhpEIX9kI3lWjJY) | 3:34 |
 | 40 | [hopeless romantic](https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [hopeless romantic](https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P) | 3:03 |
 
-Snapshot ID: `AAAAAPqmUKlmSutuLyst/QTbsXFtXqlk`
+Snapshot ID: `AAAAAJM+c/xVlUT/LY5AhLScTaom+gsY`

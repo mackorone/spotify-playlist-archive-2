@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-413 songs - 22 hr 21 min
+416 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [fuyubiyori](https://open.spotify.com/track/4ySo0yGXykcQZjhb3lMKdX) | [kf13](https://open.spotify.com/artist/0TFWGy2L2asgDxsuDnaV4E) | [fuyubiyori](https://open.spotify.com/album/0n6K9r0i152tJvTIIKeTnz) | 2:30 | 2026-02-13 | 2026-02-28 |
 | [Fuzzy peach](https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Fuzzy peach](https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx) | 4:11 | 2022-05-03 | 2024-07-03 |
 | [Garden](https://open.spotify.com/track/0odZSHqoof9UZWUrZqg3L0) | [Jackingcong 잭킹콩](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [At My Peaceful Garden](https://open.spotify.com/album/7ACB9MzjQBsmhvuXa0FZRe) | 3:22 | 2022-05-03 | 2022-07-15 |
-| [Gardens of Suzhou](https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C) | [ProdbyTobi](https://open.spotify.com/artist/4854MRSY0HY6k9i0qGQuw5) | [Gardens of Suzhou](https://open.spotify.com/album/5629ZkcYKMHYkKLxoiz80x) | 2:01 | 2024-07-02 |  |
+| [Gardens of Suzhou](https://open.spotify.com/track/76RjpMjFxsvHOTA5Qj3D5C) | [ProdbyTobi](https://open.spotify.com/artist/4854MRSY0HY6k9i0qGQuw5) | [Gardens of Suzhou](https://open.spotify.com/album/5629ZkcYKMHYkKLxoiz80x) | 2:01 | 2024-07-02 | 2026-03-07 |
 | [garlic odor \- instrumental](https://open.spotify.com/track/3QmKJbvk7XfnHZAI3Xpgh4) | [스칼렛킴](https://open.spotify.com/artist/1KdPniIkzzws7qAkJ8XsJ5) | [garlic odor](https://open.spotify.com/album/0RNSNjz78BukyCrG4A9Y13) | 4:01 | 2022-05-03 | 2022-07-22 |
 | [Give Me Your](https://open.spotify.com/track/39wNZpYE66vs3FlqMyhMYA) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I made](https://open.spotify.com/album/479xGDGrqMXN8YLmJMEoTG) | 3:40 | 2022-05-03 | 2024-07-03 |
 | [Gold Powder](https://open.spotify.com/track/5DfOGcKjXLocgijpEQgLla) | [Lost Files](https://open.spotify.com/artist/0NA9RjFnSsIlj1FUMhfuow), [Pukem](https://open.spotify.com/artist/52C0aO6MUWo6a8tRyR8eKV) | [Kintsukuroi](https://open.spotify.com/album/4fkpxS01a1c2dozXwKiv6i) | 1:17 | 2026-02-20 |  |
@@ -209,6 +209,7 @@
 | [Maudie](https://open.spotify.com/track/0fu1BE5X5HZsYrphbof5DS) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest](https://open.spotify.com/album/1WjSq9kkrkKU1on2PT18Wh) | 4:04 | 2022-09-07 | 2022-12-03 |
 | [Maudie](https://open.spotify.com/track/1sJu6euhP60yK5uHMLMfLX) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [숲 Forest](https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR) | 4:04 | 2023-01-25 | 2024-06-22 |
 | [Maudie](https://open.spotify.com/track/7qcdtKc7dflDG35ieESgo9) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 4:04 | 2022-05-03 | 2022-07-29 |
+| [Midnight Thoughts](https://open.spotify.com/track/6dgegoRp7BrEg1Rax4w4pq) | [Yasumu](https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM) | [Way of Life](https://open.spotify.com/album/4ktK0PC4NZjqmmLPLJlcI2) | 2:28 | 2026-03-06 |  |
 | [Mind Pool](https://open.spotify.com/track/4imLlC6vDXkcrQAngZkcac) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN) | [Time In Motion](https://open.spotify.com/album/0Nf8o7le6bPuEi27tuEYSL) | 1:34 | 2024-07-02 | 2026-01-23 |
 | [miracle](https://open.spotify.com/track/47mAzBWrGWnIUs3WEiGF5O) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Planet Zen](https://open.spotify.com/album/2sgyPMR2h2mYJMAb8Xbg6F) | 3:30 | 2024-07-02 | 2025-05-24 |
 | [Miso](https://open.spotify.com/track/6dIgNPbGc6tsl2BofmRPUa) | [Shiitaki](https://open.spotify.com/artist/0nzcDWQ95e9yOxs81NUpQ8) | [Miso](https://open.spotify.com/album/6rNinkR51S3ThVRoEZ0ic6) | 2:09 | 2024-07-02 | 2025-12-10 |
@@ -279,7 +280,7 @@
 | [Red Lamps.](https://open.spotify.com/track/1IkGsJo1MkPXHTC4rvdBTd) | [greenface](https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [Red Lamps.](https://open.spotify.com/album/754cKk6njePm3Wx8zJ1Pyi) | 2:11 | 2024-07-02 |  |
 | [Redbone](https://open.spotify.com/track/7cDlVNC3d0RRW4p2qmiMLm) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Redbone](https://open.spotify.com/album/6lwBWMoBmU8rWn0433yyjT) | 1:42 | 2024-07-02 | 2025-04-15 |
 | [Remembrance](https://open.spotify.com/track/5IOnrqVaLAQ0gS8gjNNdDU) | [Kerusu](https://open.spotify.com/artist/2Ckfavq6yKfTznirabm1L8) | [Remembrance](https://open.spotify.com/album/4uRYwjUle4SuyO1Uzwi17v) | 3:30 | 2024-07-02 |  |
-| [Ren'ai](https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:23 | 2024-07-02 |  |
+| [Ren'ai](https://open.spotify.com/track/2Vs4mAQUclWvqJWCwZNx8R) | [JazzyCal](https://open.spotify.com/artist/2xJEE7AyFH4DwefFkWjcPd) | [Maiko](https://open.spotify.com/album/20CT67v0oJI13iOsNPj5O0) | 3:23 | 2024-07-02 | 2026-03-07 |
 | [rest & be thankful](https://open.spotify.com/track/1qObLobp2GhmwXJYzrJ7u1) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH), [I Eat Plants for a Living](https://open.spotify.com/artist/5EevHNEa1e2YvcJgksJpRK) | [rest & be thankful](https://open.spotify.com/album/1KnlzGpydfNw0XXyyVUdV8) | 2:06 | 2024-07-02 |  |
 | [Rising Light](https://open.spotify.com/track/2SvVkBk3CzOle7MQqViMzV) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:14 | 2024-07-02 |  |
 | [Road to Kiyomizu](https://open.spotify.com/track/2VtwKcB38DMOBBJW6EsYGq) | [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Road to Kiyomizu](https://open.spotify.com/album/1PwAaIHNxoaUh2zMzRHZdb) | 2:43 | 2024-07-02 | 2025-11-15 |
@@ -298,7 +299,8 @@
 | [Secret Place](https://open.spotify.com/track/7nYSThKhGZuaOQ8zeKSm1X) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Harmony](https://open.spotify.com/album/7biuWedEj1S1VAkVovjzX1) | 4:27 | 2024-07-02 |  |
 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 | 2024-07-02 |  |
 | [Shangri\-la](https://open.spotify.com/track/3qVG7xejiok5tjEVguRbra) | [sftspkn](https://open.spotify.com/artist/2RTHRVmtTiMDjDCZIOO9wq) | [Journey To Osaka](https://open.spotify.com/album/6UcQeTFgDgCjzlXRVBHQhm) | 2:18 | 2024-07-02 | 2025-08-28 |
-| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 |  |
+| [Shinjuku](https://open.spotify.com/track/7LBO0230RXsB371lZmWKrv) | [Just Big Hills](https://open.spotify.com/artist/2ih5O9wwxSSYLe9Bnce309) | [Shinjuku](https://open.spotify.com/album/4KaWvtsalcd0fMEbval9dO) | 2:48 | 2026-03-06 |  |
+| [Shinjuku](https://open.spotify.com/track/1avj4Lvjk4hleD9KCaIuN8) | [Tophat Panda](https://open.spotify.com/artist/2WhnHknWvBgrC3pHYKDMSs) | [The Legend of Shirokuro](https://open.spotify.com/album/17RN8GvKD2sUQ7BgiiTJgr) | 2:05 | 2024-07-02 | 2026-03-07 |
 | [Shinrin](https://open.spotify.com/track/0tvVGLB8YrW4JLezmfJZmN) | [Vindu](https://open.spotify.com/artist/2CRx4wZoJ1wJLX6DtKJpej) | [Peace of Mind](https://open.spotify.com/album/6TqEfURNizG4pHGCh5THZd) | 3:15 | 2024-07-02 |  |
 | [Shower duty](https://open.spotify.com/track/3vCbwbAIRB1vkQAGbNXO3F) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [A Call from My Dream](https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M) | 4:33 | 2022-05-03 | 2022-09-09 |
 | [Shukumei](https://open.spotify.com/track/5Yh6bCE7FhGAXpa1cLhIc3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Shukumei](https://open.spotify.com/album/67IP6RzANksSy3VH6XKfKg) | 3:18 | 2025-05-23 | 2025-06-10 |
@@ -374,6 +376,7 @@
 | [Waiting To Board](https://open.spotify.com/track/29zJNvKmZbvuDt6bofVXfK) | [vhskid.](https://open.spotify.com/artist/7jqvj8jfIMreNLAN8DJWlq) | [Waiting To Board](https://open.spotify.com/album/0IoQZx76wVaEcG1hUHDXQl) | 2:18 | 2025-09-09 |  |
 | [Walking with you](https://open.spotify.com/track/7cvu0T8jjJTk2RpzKsmn8t) | [NEUL](https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn) | [Piece Of Love](https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf) | 3:51 | 2022-05-03 | 2022-07-26 |
 | [Waltz For You](https://open.spotify.com/track/0cpZV7KdlhDT4dYmp8jQ4Q) | [Jung Yup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Waltz For You \(Single Edition 1\)](https://open.spotify.com/album/6ay1zLT4ok3MT3mnQW4qzh) | 3:27 | 2022-05-03 | 2022-07-28 |
+| [Water Lily](https://open.spotify.com/track/3MUBdWLyWZhyyzK77ytTZy) | [Asokah](https://open.spotify.com/artist/7hx0fxCukHneK8d9gDMcsT) | [Water Lily](https://open.spotify.com/album/68eNVEgcYZEOKgXa0cHv47) | 1:21 | 2026-03-06 |  |
 | [Watercolour](https://open.spotify.com/track/272cbvi62JUEhBKrsGIbdJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 4:14 | 2022-05-03 | 2024-06-22 |
 | [Waters of March](https://open.spotify.com/track/6ZAdaChu9ukRHdWARdTWIS) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:37 | 2022-05-03 | 2024-07-03 |
 | [We are all Muse \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1p3EE66M8YuZ86FyYPpvnn) | [The BLANK Shop](https://open.spotify.com/artist/1EpuNC9xipj4L0GbEz6RJk), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Tailor](https://open.spotify.com/album/14g9BZeQyFfVOie1oKai3Z) | 4:27 | 2022-05-03 | 2024-07-03 |

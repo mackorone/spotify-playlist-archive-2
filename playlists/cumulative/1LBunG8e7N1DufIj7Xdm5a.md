@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,111 songs - 9 day 2 hr 43 min
+4,112 songs - 9 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2002,6 +2002,7 @@
 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 | 2025-07-28 |  |
 | [Lejos de aquí](https://open.spotify.com/track/5Ys3niIfv2ofhuCOE0XfKB) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 2:54 | 2025-07-25 |  |
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
+| [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 | 2026-03-06 |  |
 | [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
 | [Let me try again](https://open.spotify.com/track/0xjCRP1uRfxXICjXoDmteU) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [Let me try again](https://open.spotify.com/album/42eSRFYwg1HeSiXpVeGySr) | 3:26 | 2025-04-02 |  |
 | [Let super](https://open.spotify.com/track/2c4558q1mDpIpnuPyuM5iW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:43 | 2025-09-12 |  |

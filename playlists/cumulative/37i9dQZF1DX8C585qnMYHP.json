@@ -3713,6 +3713,36 @@
     },
     {
       "album": {
+        "name": "Beyond Pharoah",
+        "url": "https://open.spotify.com/album/2chPt1K3XYccwahyc3P3Or"
+      },
+      "artists": [
+        {
+          "name": "Enzo Favata",
+          "url": "https://open.spotify.com/artist/0SoYr1tqqCE2acUajk30c6"
+        },
+        {
+          "name": "Pasquale Mirra",
+          "url": "https://open.spotify.com/artist/0dmvnPuOvkiWbZT9z4MTXu"
+        },
+        {
+          "name": "Marco Frattini",
+          "url": "https://open.spotify.com/artist/6kad5fHYNR3iXDjLCAogn0"
+        },
+        {
+          "name": "Fabio Giachino",
+          "url": "https://open.spotify.com/artist/6PhcZkO4iU39XChybYpiS9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2YtIXHcSSxjQDXhdC4QiED"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52"
       },
@@ -14857,6 +14887,24 @@
     },
     {
       "album": {
+        "name": "Harm",
+        "url": "https://open.spotify.com/album/3XcZDnmAQGwjCIE99fzu2h"
+      },
+      "artists": [
+        {
+          "name": "Rosenau & Sanborn",
+          "url": "https://open.spotify.com/artist/6fSXaI61QwhurdSbBWty65"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291153,
+      "name": "Harm",
+      "url": "https://open.spotify.com/track/4LmpsbxxFWEyQ3JWMUpCRB"
+    },
+    {
+      "album": {
         "name": "Harmony of Irrelevant Facts",
         "url": "https://open.spotify.com/album/5BZfP1YHygVdLCVCnhvASe"
       },
@@ -16330,7 +16378,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 237093,
       "name": "I Think I Just Died a Lil Bit",
       "url": "https://open.spotify.com/track/16DhEPGbwJb08lHjupIhXF"
@@ -31016,7 +31064,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 554026,
       "name": "Solvay Beach",
       "url": "https://open.spotify.com/track/3Q62MpruGadQlTmN7LHtmu"
@@ -38158,7 +38206,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 132318,
       "name": "Waiting pt 1",
       "url": "https://open.spotify.com/track/06ctaytGDUM1piASlJKz7C"
@@ -40708,6 +40756,24 @@
       "duration_ms": 383090,
       "name": "\u98a8\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX"
+    },
+    {
+      "album": {
+        "name": "\uff0d\uff0d \u00b7\u00b7\uff0d \u00b7\uff0d\u00b7\u00b7 \uff0d \u00b7\u00b7 \u00b7\uff0d\uff0d\u00b7 \u00b7\uff0d\u00b7\u00b7 \u00b7\uff0d \uff0d\u00b7\uff0d\uff0d",
+        "url": "https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212535,
+      "name": "\uff0d\uff0d \u00b7\u00b7\uff0d \u00b7\uff0d\u00b7\u00b7 \uff0d \u00b7\u00b7 \u00b7\uff0d\uff0d\u00b7 \u00b7\uff0d\u00b7\u00b7 \u00b7\uff0d \uff0d\u00b7\uff0d\uff0d",
+      "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP"

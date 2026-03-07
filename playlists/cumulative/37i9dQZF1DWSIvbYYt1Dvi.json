@@ -7537,6 +7537,28 @@
     },
     {
       "album": {
+        "name": "INFRA\u00c7\u00c3O - 1\u00ba ATO",
+        "url": "https://open.spotify.com/album/0d1H9Ibh2JL1JauWYcNI5g"
+      },
+      "artists": [
+        {
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202304,
+      "name": "NEM ERA PRA EU T\u00c1 AQUI (Deus Que Me Escolheu)",
+      "url": "https://open.spotify.com/track/5JYIcuUNEVhy57xY8M1eHh"
+    },
+    {
+      "album": {
         "name": "Sabotage 50",
         "url": "https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ"
       },

@@ -4,7 +4,7 @@
 
 > Nieuwe alternative & rock releases\. Cover: Twenty One Pilots
 
-760 songs - 1 day 20 hr 18 min
+761 songs - 1 day 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 | 2025-09-05 | 2025-09-27 |
 | [Under Your Influence \- uit Liefde Voor Muziek](https://open.spotify.com/track/2AtYFD9MUEwXi3tYxB3gGm) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [Under Your Influence \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/52RZYZq3bgJSC72GUcjrr8) | 3:23 | 2025-04-04 | 2025-06-21 |
 | [Undertow](https://open.spotify.com/track/1xjSa52OsjBnsMhQgeQ3pm) | [Sloper](https://open.spotify.com/artist/35fxvnr5oanOFB1JNB2Ber) | [Undertow](https://open.spotify.com/album/5wdaz6mmb6s74ZZOzLHhnG) | 4:23 | 2024-06-24 | 2024-09-28 |
+| [Universal Soldier](https://open.spotify.com/track/7dpPH25jaKKvKDJcYDgF6d) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:20 | 2026-03-06 |  |
 | [Uno II](https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Uno II](https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg) | 2:15 | 2025-02-27 | 2025-05-17 |
 | [Unravelling](https://open.spotify.com/track/6Df0RNShcnfIJmrRoJ6Gc9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Unravelling](https://open.spotify.com/album/05Wvj3dfspiuII55ddVkPh) | 3:58 | 2025-06-20 | 2025-08-30 |
 | [Unsent Letter](https://open.spotify.com/track/0zNBJY8EPOP4ovWu96LZUU) | [Nouveau Vélo](https://open.spotify.com/artist/2fHGph9uCiA0sBSfoumYQn) | [Fruit](https://open.spotify.com/album/3TVODxPf7esnsONMdb8LcY) | 4:02 | 2025-02-21 | 2025-05-07 |

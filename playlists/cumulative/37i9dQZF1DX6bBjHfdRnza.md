@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Dance](https://open.spotify.com/playlist/37i9dQZF1DX6bBjHfdRnza)
 
-> The best new dance tracks from independent artists & labels\. Curated by human Spotify editors\. Featuring Kenta204.
+> The best new dance tracks from independent artists & labels\. Curated by human Spotify editors\. Featuring PITCHBLACK.
 
-3,428 songs - 9 day 7 hr 8 min
+3,431 songs - 9 day 7 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [BATTERY OPERATED](https://open.spotify.com/track/2P7fnktG0n0P0UN9wUgas9) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [BATTERY OPERATED](https://open.spotify.com/album/3e2A87CYUkCLsEtpDZXE8v) | 2:07 | 2025-03-12 | 2026-01-15 |
 | [Bby](https://open.spotify.com/track/59kJK9zso5CWEUOxGaGgLg) | [Dj Cinéma Quartier Latin](https://open.spotify.com/artist/3nI698C0lc7EpVCIDShUgD) | [Bby](https://open.spotify.com/album/2nGcWrbfE5EF56EEPwXFn3) | 3:05 | 2025-08-15 | 2025-09-27 |
 | [BBY](https://open.spotify.com/track/2I96t943912zYjLcMHPnNw) | [RAUU](https://open.spotify.com/artist/2o2urqQv41AMJoZ8V5l4Of), [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [BBY](https://open.spotify.com/album/58X5cnMe69iNTNyXuD4iNN) | 2:36 | 2025-06-18 | 2025-07-24 |
+| [BD Baile](https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs) | [BD Baile](https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy) | 1:48 | 2026-03-06 |  |
 | [BDSM \(BLISS, DREAMS, SOUL, MEMORIES\)](https://open.spotify.com/track/4rcmIIdM55mOPvJ43VMuWV) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT) | [Harri Poter](https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB) | 3:32 | 2025-01-17 | 2025-03-08 |
 | [Be a Human](https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM) | [Anahit Vardanyan](https://open.spotify.com/artist/3B0Z2WunAUciyiCc3DsnAa) | [Be a Human](https://open.spotify.com/album/3s11NDJr64QILeC3PLEoPR) | 7:02 | 2023-06-21 | 2023-08-03 |
 | [Be Good](https://open.spotify.com/track/7vaPvdlnM8kBtibPGjRwxp) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Be Good](https://open.spotify.com/album/1BxTavE4Mq4RYV9NafcpWx) | 3:18 | 2022-02-23 | 2022-04-14 |
@@ -379,7 +380,7 @@
 | [Blush](https://open.spotify.com/track/0vdzx5gNcGMYeAwGvDzqsv) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc), [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Blush/Sweetpea](https://open.spotify.com/album/13GO7f97z42ssjQMlGRHOm) | 2:50 | 2023-02-08 | 2023-03-02 |
 | [Blush](https://open.spotify.com/track/2Dnh5y1kaUPymUifmimhD7) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blush](https://open.spotify.com/album/4QWYTWnk5Cb1a7zUXQLGts) | 3:45 | 2022-03-09 | 2022-04-14 |
 | [BNP](https://open.spotify.com/track/0NKkJ1Eu6ePVq73UN0QCAE) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [BNP](https://open.spotify.com/album/4aa7JyX7WUwk6uA28IOELp) | 3:21 | 2024-10-11 | 2024-11-21 |
-| [BOARD SHORTS](https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL) | [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU) | [BOARD SHORTS EP](https://open.spotify.com/album/05YQ0zn8KYeUm8DuJjKxpd) | 5:25 | 2026-02-04 |  |
+| [BOARD SHORTS](https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL) | [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU) | [BOARD SHORTS EP](https://open.spotify.com/album/05YQ0zn8KYeUm8DuJjKxpd) | 5:25 | 2026-02-04 | 2026-03-07 |
 | [Boasting](https://open.spotify.com/track/20edFoFJ5vq9vkuU6mILL6) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/0cUUfvisfk9yqe1R82KJPr) | 4:01 | 2023-01-18 | 2023-02-16 |
 | [Boasting](https://open.spotify.com/track/59XAgkZIPbfD4Ic51eRX8S) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Fantasy Food](https://open.spotify.com/album/6HUeOu2veO4w1FQft4iuBn) | 4:01 | 2023-01-18 | 2023-02-04 |
 | [Bocha Bocha](https://open.spotify.com/track/5NSjxBfnO0Kfn4qL1slvbo) | [Tom Zeta](https://open.spotify.com/artist/1KagGHhjHBqLcu6fySzMsy) | [Gonna Get You Real Good EP](https://open.spotify.com/album/73gNvLVFmnvyaFg0zTfqn4) | 5:59 | 2023-01-11 | 2023-02-09 |
@@ -1003,7 +1004,7 @@
 | [F.U.](https://open.spotify.com/track/7LSMkz6hAlMqt1qNqlA5V6) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [F.U.](https://open.spotify.com/album/59Vusax4IuNkWBWkNfLx8d) | 2:55 | 2023-10-11 | 2023-11-30 |
 | [F4LL1N9](https://open.spotify.com/track/0QD6ezuCQ2osrZYk6ugWjf) | [YMNK](https://open.spotify.com/artist/0ypKFOPlldTHzQPhODOGxI) | [F4LL1N9](https://open.spotify.com/album/0yRMpA3JH5q39bzvDWnX7a) | 4:23 | 2024-03-06 | 2024-04-13 |
 | [FACE2FACE](https://open.spotify.com/track/6BugkpjgXkfDljFdkcE6mi) | [Dera Meelan](https://open.spotify.com/artist/3R1Rrzk35Rhldipx3IiKpp), [Church](https://open.spotify.com/artist/0XNPcxBkBpkd4MIa8DWuYQ) | [FACE2FACE](https://open.spotify.com/album/3MFpdO7n6GNczDIVjH5s5T) | 2:58 | 2023-04-03 | 2023-04-27 |
-| [Fade Into the Morning Light \- Radio Edit](https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Fade Into The Morning Light](https://open.spotify.com/album/0GREH05xopggg900XInMwI) | 2:52 | 2026-01-16 |  |
+| [Fade Into the Morning Light \- Radio Edit](https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr) | [Hatiras](https://open.spotify.com/artist/7DQ8fX4Fbi43HaesfrVYpO) | [Fade Into The Morning Light](https://open.spotify.com/album/0GREH05xopggg900XInMwI) | 2:52 | 2026-01-16 | 2026-03-07 |
 | [Faded](https://open.spotify.com/track/19MsxQkRPQWqu5ixq8h1Fc) | [SKAI](https://open.spotify.com/artist/2g7geQWdr5NIudJUYYFycd) | [Faded](https://open.spotify.com/album/0ZDVQuFIkj8Uip56Vun6Vg) | 3:02 | 2024-11-06 | 2024-12-05 |
 | [Faded Love](https://open.spotify.com/track/2BGdN0sQGTni2wtVkMoOZH) | [Jonah Vii](https://open.spotify.com/artist/0O8bHP7mInxHsEPgj2EMrk) | [Faded Love EP](https://open.spotify.com/album/7zzeBMh4tef2HTUJjVbqgf) | 4:40 | 2022-06-15 | 2022-09-01 |
 | [Fading](https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Fading](https://open.spotify.com/album/4bUlfYprHew2m5NsyzD84I) | 4:27 | 2023-05-10 | 2024-01-11 |
@@ -1026,6 +1027,7 @@
 | [Fantasmagorii](https://open.spotify.com/track/5Bg2xmAFHsWmFsUWxyjKhX) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fantasmagorii EP](https://open.spotify.com/album/4cRqqjosVkLS8rIVRcboi4) | 7:04 | 2022-09-28 | 2022-10-06 |
 | [Fantasy](https://open.spotify.com/track/3hqwdKWk9JMxG0cnLZcyMi) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [Fantasy](https://open.spotify.com/album/6QcKSF2m6u09gNMpg4uOtZ) | 4:30 | 2022-05-04 | 2022-07-07 |
 | [fast money](https://open.spotify.com/track/1RdRv8nwKnnZCDJ4Ih8cvv) | [Drewbyrd](https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [fast money](https://open.spotify.com/album/2c8mUAmKslHvjMhSIBFDYu) | 2:29 | 2025-06-11 | 2026-01-15 |
+| [Fast Money](https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q) | [PITCHBLACK](https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW) | [Fast Money](https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN) | 2:22 | 2026-03-06 |  |
 | [Faster](https://open.spotify.com/track/32wWoepx8MRN4zf2rzIZEK) | [HUMS](https://open.spotify.com/artist/5QjAqXjrOtaLmrUuT2U1CE) | [Faster](https://open.spotify.com/album/2GF8ON7y9f8dhs3aGGVHNY) | 3:21 | 2024-02-21 | 2024-04-04 |
 | [Fata Organa](https://open.spotify.com/track/2ZxGR3QjrxnctPNF5k2Zad) | [Tigerskin](https://open.spotify.com/artist/09UQUOICiqSgc3C8TRhTEh) | [Fata Organa](https://open.spotify.com/album/7GhNIrYhYsFvZEKboTBHXW) | 5:23 | 2022-09-28 | 2022-11-10 |
 | [Fate](https://open.spotify.com/track/68g8XQCURAg8Dt6D10l2jN) | [Pepé](https://open.spotify.com/artist/5Z4OIeXWXn0UMTPe8JL0Cx) | [Fate](https://open.spotify.com/album/3bTyREPmR7bsYurXyLuxyu) | 3:49 | 2024-01-10 | 2024-05-18 |
@@ -1403,7 +1405,7 @@
 | [Hold Me](https://open.spotify.com/track/0XdDuFh2Ei42bQSEzdej4v) | [Mikey Jubbly](https://open.spotify.com/artist/73c1utHLFmVmj4xV6acYN2) | [Hold Me](https://open.spotify.com/album/0hSwx1BnsJCIi1ea5M2xeE) | 2:57 | 2022-09-14 | 2022-10-27 |
 | [Hold Me](https://open.spotify.com/track/6iEe1C3rLAB8CXfBH4rrlU) | [Race Banyon](https://open.spotify.com/artist/5btOKBbjh04dkX7iqFERLL) | [Hold Me](https://open.spotify.com/album/0u8UYcvGL3pKeT1FQw9SuA) | 5:19 | 2023-10-04 | 2023-11-30 |
 | [Hold Me](https://open.spotify.com/track/3y54PvUPngWdp0zuM7SpOj) | [ZUSO](https://open.spotify.com/artist/6ZsS4MH8OG5vLGrXAoC5Ee) | [Hold Me](https://open.spotify.com/album/1UEU3bVxrTMka0QEnSwoJd) | 3:53 | 2023-10-18 | 2023-11-30 |
-| [Hold On](https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx) | [Headrow](https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx) | [Hold On](https://open.spotify.com/album/2MnNjWYjz7gqNSEzzKNlXv) | 2:19 | 2026-01-15 |  |
+| [Hold On](https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx) | [Headrow](https://open.spotify.com/artist/5DWBBgWu9YrbMoQGUcwSzx) | [Hold On](https://open.spotify.com/album/2MnNjWYjz7gqNSEzzKNlXv) | 2:19 | 2026-01-15 | 2026-03-07 |
 | [Hold On](https://open.spotify.com/track/3sJf3XoQG1TuSi3URcow8B) | [REMY QUINN](https://open.spotify.com/artist/6OQoRzjz71ofDCQa5OTlfq) | [Hold On](https://open.spotify.com/album/0RtASWxCBdXCoUKjE3x8WF) | 4:06 | 2024-10-23 | 2024-11-21 |
 | [Hold On](https://open.spotify.com/track/700RWaQjL1fKlIIXBzORp7) | [ROKAR](https://open.spotify.com/artist/1LLLQlvDT5CZamubBAYMkC) | [Hold On / Tip Off](https://open.spotify.com/album/5o7WUSg1bVi0kigPP73QHy) | 3:02 | 2026-01-30 | 2026-02-27 |
 | [Hold On](https://open.spotify.com/track/4FaZ87ysFGzan5sRi8wMpR) | [Space Milk](https://open.spotify.com/artist/0Xl8EOlBr1fhhwo07BLPMA) | [Feed Your Soul](https://open.spotify.com/album/1CjzL8QsHfhNTEtWIapmKX) | 2:22 | 2024-01-17 | 2024-03-16 |
@@ -1592,6 +1594,7 @@
 | [Instant Moments](https://open.spotify.com/track/3La3KFoSyjE2MOxoljTioT) | [Divasi](https://open.spotify.com/artist/5UuDK1Ur9PtuTelWdTGevY) | [Instant Moments](https://open.spotify.com/album/5Fg45x7G4Pq2DNZAek17vu) | 2:40 | 2025-08-29 | 2025-10-16 |
 | [Insurrection \- Mixed](https://open.spotify.com/track/2bLbC9cUYN1RA3QdWnED8G) | [Fauzia](https://open.spotify.com/artist/5a8f6ZZzBZ3lFtv9wQClHl) | [Mixmag Presents Logic1000](https://open.spotify.com/album/5RtXdNzE9CUqaAvzgDhi1X) | 2:54 | 2022-07-20 | 2022-08-25 |
 | [Intergalactic Sitdown](https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ) | [Luzi Tudor](https://open.spotify.com/artist/0P4MdjIcZqLtx676443ZGd) | [Intergalactic Sitdown](https://open.spotify.com/album/3LoFgU9NAEJTOmtfMGLRxh) | 6:36 | 2024-03-29 | 2024-05-18 |
+| [Interlude](https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek) | [Vlad](https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj) | [Interlude EP](https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B) | 3:39 | 2026-03-06 |  |
 | [International Confusion](https://open.spotify.com/track/0DQ405FyEXx2Jujui8Uhg6) | [Airrica](https://open.spotify.com/artist/57sPl5iWgq5t6AscVbMTOW), [Ashee](https://open.spotify.com/artist/20NZhZk0qrMO7jImyuR3hz) | [International Confusion](https://open.spotify.com/album/1MsoGxqvVIikO2HzXJ8SAi) | 3:00 | 2023-08-23 | 2023-09-28 |
 | [Interrupted](https://open.spotify.com/track/3eex4wwrUerLtMyz3z9gWf) | [Kush Jones](https://open.spotify.com/artist/5ifmtTvKK5Pfk6K1b0eHZm) | [existing, do not desire to be perceived](https://open.spotify.com/album/1tdskiHifccigcrEr2BcCJ) | 4:46 | 2022-04-13 | 2022-05-12 |
 | [Intersection](https://open.spotify.com/track/4PhsQ6YBW1C5PNqNniOHOU) | [Cortese](https://open.spotify.com/artist/60Fn82pTq3Z4vyJPgBjH77) | [Intersection](https://open.spotify.com/album/73r0PS8ARH89XAyRyMhe4m) | 5:50 | 2022-01-12 | 2022-03-17 |

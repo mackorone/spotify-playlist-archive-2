@@ -6893,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "Pista Eterna",
+        "url": "https://open.spotify.com/album/0R9mlowXcypLdCwMROPARl"
+      },
+      "artists": [
+        {
+          "name": "fabiom_dj",
+          "url": "https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Pista Eterna",
+      "url": "https://open.spotify.com/track/5zs7pFEF3aTEufEWCl5asU"
+    },
+    {
+      "album": {
         "name": "Pitch Thing",
         "url": "https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO"
       },

@@ -168,7 +168,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 181586,
       "name": "Ariel Angelo",
       "url": "https://open.spotify.com/track/34iRrsao8eXZSQ41HqfM4L"
@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Clover Honey",
+        "url": "https://open.spotify.com/album/5SkmfpUPh3s1ODsAzoSmEq"
+      },
+      "artists": [
+        {
+          "name": "Myshkin's Ruby Warblers",
+          "url": "https://open.spotify.com/artist/2tY7jyyLc3NFIEUcXK0lMF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248173,
+      "name": "Clover Honey",
+      "url": "https://open.spotify.com/track/5c6IHLyqN9NZX1IVxxar4N"
+    },
+    {
+      "album": {
         "name": "Coffee Stain",
         "url": "https://open.spotify.com/album/6hW4QKW2Bmzhtkrx4D28di"
       },
@@ -696,7 +714,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 189677,
       "name": "Cool Story Bro",
       "url": "https://open.spotify.com/track/5GvWYBiKovK3KWGjmCi9wX"
@@ -964,7 +982,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 259146,
       "name": "Dressed in Daylight",
       "url": "https://open.spotify.com/track/0gScvAu09lkAZ0Qf7XAgeR"
@@ -1088,7 +1106,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 298285,
       "name": "Excess & Lewis Findlay)",
       "url": "https://open.spotify.com/track/0Itvhn3niERQXu4y0bDNVY"
@@ -1124,7 +1142,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 368640,
       "name": "Fear - Demo",
       "url": "https://open.spotify.com/track/1xGQKuz3lqVEjEdGaa2U7J"
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 242599,
       "name": "Five After Dark",
       "url": "https://open.spotify.com/track/7aA340rxW0YcyEvaKhgkpw"
@@ -1517,6 +1535,24 @@
     },
     {
       "album": {
+        "name": "I Don't Need the Lord",
+        "url": "https://open.spotify.com/album/020PK5VGFavHPpSU4nqfJ4"
+      },
+      "artists": [
+        {
+          "name": "Diving Horse",
+          "url": "https://open.spotify.com/artist/6IcqfGqEvjqf6l5ym0wnu9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211678,
+      "name": "I Don't Need the Lord",
+      "url": "https://open.spotify.com/track/0aIVNG9Z14hrJXlkBMpIPv"
+    },
+    {
+      "album": {
         "name": "i don't wanna care",
         "url": "https://open.spotify.com/album/0MbGOLo5BgPCKmvimiEf49"
       },
@@ -1608,7 +1644,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 210754,
       "name": "I'm Ready",
       "url": "https://open.spotify.com/track/1v0ZbkSDNAINz6edJ8c98i"
@@ -2372,7 +2408,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 220531,
       "name": "Roots Gal Party",
       "url": "https://open.spotify.com/track/2MKtXR1IJruRE4dOosk8fE"
@@ -2891,6 +2927,24 @@
     },
     {
       "album": {
+        "name": "Bedside Opera",
+        "url": "https://open.spotify.com/album/0Z6CpWVOCn8VcZqEQGKoK6"
+      },
+      "artists": [
+        {
+          "name": "Sean By Mercy",
+          "url": "https://open.spotify.com/artist/2LkECyiaX4X9ICXTzyzXjZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232365,
+      "name": "The Neighbour's House",
+      "url": "https://open.spotify.com/track/35K2nVqDK59RnvW7pdj1LZ"
+    },
+    {
+      "album": {
         "name": "Too Wild To Last, Too Rare To Die",
         "url": "https://open.spotify.com/album/0BCU1vqSSANQ0IDqBw0DR1"
       },
@@ -2986,7 +3040,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 226991,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/36OMuCJLDppFYMpAiz02gP"

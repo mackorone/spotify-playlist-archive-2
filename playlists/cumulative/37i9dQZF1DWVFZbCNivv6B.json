@@ -2881,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "C-KGAN",
+        "url": "https://open.spotify.com/album/0vSoG4rst60XoEkrXr03uj"
+      },
+      "artists": [
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219154,
+      "name": "C-KGAN",
+      "url": "https://open.spotify.com/track/2idA2HiWT3llkzDN3eL7eG"
+    },
+    {
+      "album": {
         "name": "Cachondos Session #1 (feat. Victor Mendivil, Dani Flow, Tiagz & Los Esquivel)",
         "url": "https://open.spotify.com/album/7MAbhQjPNHnD411F8VyamG"
       },
@@ -3168,7 +3186,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 195441,
       "name": "Carlos V",
       "url": "https://open.spotify.com/track/2ULA5r4NEEEqawqL3EZ9Sl"
@@ -4058,7 +4076,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 191515,
       "name": "Contando",
       "url": "https://open.spotify.com/track/4ZpMTXHBxhpycSHQmI4gOY"
@@ -4597,6 +4615,36 @@
     },
     {
       "album": {
+        "name": "Cypher Dobrman Shop",
+        "url": "https://open.spotify.com/album/2eiBouTtolZt8mqMYEIEtW"
+      },
+      "artists": [
+        {
+          "name": "Ballin",
+          "url": "https://open.spotify.com/artist/35BPWrbRCzHa7yWWvCi8BI"
+        },
+        {
+          "name": "Leazzy",
+          "url": "https://open.spotify.com/artist/4iPx95BzuqFwzfmIMPBC1p"
+        },
+        {
+          "name": "La Tuza",
+          "url": "https://open.spotify.com/artist/6YcGVYzzlsGyJ7vHhoYzJ9"
+        },
+        {
+          "name": "K Eme",
+          "url": "https://open.spotify.com/artist/6UwoTU2mv31fmOoMHW0gwl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206625,
+      "name": "Cypher Dobrman Shop",
+      "url": "https://open.spotify.com/track/1ObMrnrzmk1dHropibzici"
+    },
+    {
+      "album": {
         "name": "Cypher Rv X Capital Gang",
         "url": "https://open.spotify.com/album/5tw3f8pEpPTY0yEqYzIaYg"
       },
@@ -4864,6 +4912,24 @@
       "duration_ms": 226666,
       "name": "De Roll",
       "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "album": {
+        "name": "Del Polvo",
+        "url": "https://open.spotify.com/album/4YPA9NqikopFylrBRubsYI"
+      },
+      "artists": [
+        {
+          "name": "Nodslie",
+          "url": "https://open.spotify.com/artist/0lm7DZmUwzmsCvRwEWpBbs"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126600,
+      "name": "Del Polvo",
+      "url": "https://open.spotify.com/track/7bedQBtXGZU9G99VEUka46"
     },
     {
       "album": {
@@ -5984,7 +6050,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219285,
       "name": "El Rocka",
       "url": "https://open.spotify.com/track/7sI22IVeIQesSE6ls05v0C"
@@ -6544,6 +6610,28 @@
       "duration_ms": 207478,
       "name": "Escandaloso",
       "url": "https://open.spotify.com/track/4dwZ5JrFndns65MS2EcjmN"
+    },
+    {
+      "album": {
+        "name": "Esc\u00e1ndalo",
+        "url": "https://open.spotify.com/album/5jkxwBDK357V8CLzlQPcUM"
+      },
+      "artists": [
+        {
+          "name": "Big Sempa",
+          "url": "https://open.spotify.com/artist/5aroBdSzO56ovglkIfI9Uf"
+        },
+        {
+          "name": "SALVAMENTO",
+          "url": "https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188759,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/3m8momUN2p0pi5ErGfiKJd"
     },
     {
       "album": {
@@ -9440,7 +9528,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 107006,
       "name": "La Vida No Perdona",
       "url": "https://open.spotify.com/track/4ALlm9Z2H8rpEZwCtNrWPg"
@@ -10284,7 +10372,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 317800,
       "name": "Los Reyes Caen, los Dioses Callan",
       "url": "https://open.spotify.com/track/4x7W6yhmEjWMzqHnEDM5sU"
@@ -10918,7 +11006,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 182564,
       "name": "Me Mantengo",
       "url": "https://open.spotify.com/track/384mmeevGRhDnrIOnGyiwD"
@@ -12224,7 +12312,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 186061,
       "name": "Nintendo",
       "url": "https://open.spotify.com/track/0E03PVvYeOUM2bOJjEifxj"
@@ -12476,6 +12564,28 @@
       "duration_ms": 141187,
       "name": "No me retracto",
       "url": "https://open.spotify.com/track/06F1xerME9zW3bZMP4RweE"
+    },
+    {
+      "album": {
+        "name": "No Puedo Ocultar",
+        "url": "https://open.spotify.com/album/4h7Lr4epv0fFfUAd2yWnQR"
+      },
+      "artists": [
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "No Puedo Ocultar",
+      "url": "https://open.spotify.com/track/57Xnzfap5DLfNjNbPRN59P"
     },
     {
       "album": {
@@ -15448,6 +15558,36 @@
       "duration_ms": 186000,
       "name": "Sal\u00ed Del Barrio",
       "url": "https://open.spotify.com/track/2I6PoaMR4PT0K6udXeJRfF"
+    },
+    {
+      "album": {
+        "name": "Sangre Azteca",
+        "url": "https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb"
+      },
+      "artists": [
+        {
+          "name": "Airam Paez",
+          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "La Catrina De M\u00e9xico",
+          "url": "https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227191,
+      "name": "SANGRE AZTECA",
+      "url": "https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H"
     },
     {
       "album": {
@@ -18674,6 +18814,28 @@
       "duration_ms": 208571,
       "name": "Vuelo",
       "url": "https://open.spotify.com/track/7qbuOorMhBfKWBp9ISG28e"
+    },
+    {
+      "album": {
+        "name": "Wacha Trucha",
+        "url": "https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Wacha Trucha",
+      "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
     },
     {
       "album": {

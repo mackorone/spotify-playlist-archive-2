@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-515 songs - 1 day 7 hr 21 min
+516 songs - 1 day 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [Piano Cut \- Original Mix](https://open.spotify.com/track/47xYP9z5UvuRinGKLuFHba) | [Krizman Toni](https://open.spotify.com/artist/1gs5auXmVRzKT318H1yRJ0) | [Piano Cut](https://open.spotify.com/album/4Btco6sLBM6L2mQtIJbwtu) | 5:42 | 2023-04-16 | 2023-05-01 |
 | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/track/6o0gJtOgimGamRBTS80H5g) | [PAWSA](https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [PICK UP THE PHONE \(feat\. Nate Dogg\)](https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE) | 3:44 | 2024-07-07 |  |
 | [Pick Ya Poison](https://open.spotify.com/track/5hamqNFbifQSTPOd1zE64S) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pick Ya Poison](https://open.spotify.com/album/26P5uusBZB47RKNRjfSDjW) | 2:58 | 2024-02-18 | 2024-04-15 |
+| [Pista Eterna](https://open.spotify.com/track/5zs7pFEF3aTEufEWCl5asU) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [Pista Eterna](https://open.spotify.com/album/0R9mlowXcypLdCwMROPARl) | 3:20 | 2026-03-06 |  |
 | [Pitch Thing](https://open.spotify.com/track/6Kea7kd9xbq4bAgEp1srdN) | [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Pitch Thing](https://open.spotify.com/album/36khe7dGDSL0YUI6stNTzO) | 3:37 | 2023-03-05 | 2023-03-20 |
 | [Play](https://open.spotify.com/track/0oa5iPL8Y9Vad48UA3AQJi) | [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Play](https://open.spotify.com/album/06wkyiYorhBRoSLgQhhbvS) | 2:57 | 2024-03-10 | 2024-04-15 |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-12 | 2023-03-06 |

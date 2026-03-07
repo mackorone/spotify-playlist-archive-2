@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 
 > 
 
-[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,725 likes - 772 songs - 2 day 3 hr 28 min
+[Red Vox](https://open.spotify.com/user/vinnyvinesauce) - 4,726 likes - 772 songs - 2 day 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -374,7 +374,7 @@ pretty - [cumulative](/playlists/cumulative/5l8NqdrXc4JHxSu1arjWgC.md) - [plain]
 | 364 | [Soldier Girl](https://open.spotify.com/track/7yHjGj7rDKqolyqeZjPv9t) | [The Polyphonic Spree](https://open.spotify.com/artist/0inqWv3OS4VpWt691ki8yk) | [The Beginning Stages Of ...](https://open.spotify.com/album/6NlU7ZtjDMNSEfxfjzDnwL) | 3:59 |
 | 365 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 |
 | 366 | [It's The End Of The World As We Know It \(And I Feel Fine\)](https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 4:06 |
-| 367 | [Life's An Ocean \- Remastered 2016](https://open.spotify.com/track/0f1BOtLNUSfO1Gg9KqFHfS) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:41 |
+| 367 | [Life's An Ocean \- Remastered 2016](https://open.spotify.com/track/0f1BOtLNUSfO1Gg9KqFHfS) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(Remastered 2016 / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:41 |
 | 368 | [Welcome To The Occupation](https://open.spotify.com/track/0lWmYkUT12Nv9AD8EiKGPt) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \(R.E.M\. No\. 5\)](https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy) | 2:48 |
 | 369 | [Perihelion](https://open.spotify.com/track/6Mxqj3ClyindysAxYqqrrg) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Infest The Rats' Nest](https://open.spotify.com/album/5Bz2LxOp0wz7ov0T9WiRmc) | 3:11 |
 | 370 | [Heresy](https://open.spotify.com/track/0xVErSyw96YDLsjtNNpZJf) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/3nJnyDV8fwFpffo0EyHQto) | 3:54 |

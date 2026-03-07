@@ -4,7 +4,7 @@
 
 > Top Christian Hits 2026 \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> 2016 \| Winter storm \| snow storm 2026 \| GRAMMYs 2026 \| feeling cozy
 
-176 songs - 11 hr 49 min
+178 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [A Million Chances](https://open.spotify.com/track/0sfd53iGsKTy4lo6NGwbYg) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [A Million Chances](https://open.spotify.com/album/24JZao6BL4cMvLwgCX9eLn) | 3:21 | 2024-11-15 |  |
 | [A New Eden \- Live](https://open.spotify.com/track/15YSfwwIosOjmc3yGad6pn) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Lauren Sloat](https://open.spotify.com/artist/0QnfjcipXuIdXf2my3uoAp) | [A New Eden \(Live\)](https://open.spotify.com/album/1qy8v552qL1akwKfQNobYs) | 6:32 | 2025-02-07 | 2025-09-20 |
 | [Abandoned \- Original](https://open.spotify.com/track/4fHbncM8pS8ZX45OGIZrCa) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [Abandoned \(Original\)](https://open.spotify.com/album/15cpzeKKzSQiY6LBshhFyo) | 5:04 | 2024-05-24 |  |
+| [AFRAID!](https://open.spotify.com/track/7CL73y6Alwtgh9UGeugLYH) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [AFRAID!](https://open.spotify.com/album/0MK4yks85NeMeaUhRKBHYj) | 2:44 | 2026-03-06 |  |
 | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/track/6zVrfIqS5aymzVww9f8DR0) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Arie Camp](https://open.spotify.com/artist/38LL4aTJrwk1PwZNx5Ipcx), [Bella Camp](https://open.spotify.com/artist/2ehPZFpqtj6ObUkkbJ5wtD) | [Again \(with Arie Camp and Bella Camp\)](https://open.spotify.com/album/6biPeOhkhcgDYVOf1jhyM4) | 3:39 | 2025-05-09 |  |
 | [Ain't No Way](https://open.spotify.com/track/0liluEGeInfODcv6T6cAXp) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Jamie MacDonald](https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp) | 2:48 | 2026-01-23 |  |
 | [Alaba \- Live At Intimidad Con Dios / 2023](https://open.spotify.com/track/2zLgzu8nD1GLLFwuJxirRl) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Intimidad Worship](https://open.spotify.com/artist/4kTG6PgHuvq7bsSjJ2ZPhL) | [Alaba \(Live\)](https://open.spotify.com/album/6gXra4SIHn4IZuOURl0b8k) | 5:11 | 2025-01-31 | 2025-09-20 |
@@ -145,6 +146,7 @@
 | [Stars](https://open.spotify.com/track/1QKtl5FOh7JgKM5HEt1EaG) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Stars](https://open.spotify.com/album/75RnYnEkzvvOmksDhEivMq) | 2:54 | 2025-09-05 | 2025-10-18 |
 | [Stay Strong](https://open.spotify.com/track/5X08wv5osqvAQ1kjfZb04B) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 3:18 | 2024-05-24 |  |
 | [STILL \(with Zach Williams\)](https://open.spotify.com/track/3Kv3w1eqprdpV2HHtM55aq) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [STILL \(with Zach Williams\)](https://open.spotify.com/album/4aDh8Dl7HGSqLlPf6GLVTK) | 3:12 | 2025-09-22 |  |
+| [Still Do \(with Cole Swindell\)](https://open.spotify.com/track/4EJFSgGTN73ExICMomPHZq) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Still Do \(with Cole Swindell\)](https://open.spotify.com/album/5I1UfKeHML9TuLlq84KYrc) | 3:03 | 2026-03-06 |  |
 | [Still The King](https://open.spotify.com/track/3XcVlTj9WAhq3lt8F3iXQu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The King Is Still The King](https://open.spotify.com/album/2ieE6Mqwu3aMWflIdIbNkS) | 4:46 | 2025-09-26 |  |
 | [Strong](https://open.spotify.com/track/7qKq3YnzxmYfYipYQxzLe4) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:24 | 2024-05-24 |  |
 | [Take It All Back](https://open.spotify.com/track/4AjyX21TX61oa8AFaKZmxc) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest), [Davies.](https://open.spotify.com/artist/4gHYwyqJOALI9pJO1QCzq8) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:13 | 2024-08-07 |  |

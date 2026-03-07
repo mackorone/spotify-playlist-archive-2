@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,016 likes - 111 songs - 5 hr 10 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,011 likes - 111 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

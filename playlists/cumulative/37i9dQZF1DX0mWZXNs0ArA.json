@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline (Remix)",
+        "url": "https://open.spotify.com/album/1lSvq3SLvzcu61cr77Qz0i"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189608,
+      "name": "Adrenaline (Speed Up Ver.)",
+      "url": "https://open.spotify.com/track/3nGoOCoxgADXa6Fxl9eQsd"
+    },
+    {
+      "album": {
         "name": "af1 (sped up)",
         "url": "https://open.spotify.com/album/5n0OHA9uNQ6voLmTJJkg5B"
       },
@@ -1460,6 +1478,28 @@
       "duration_ms": 197916,
       "name": "Evergreen (You Didn\u2019t Deserve Me At All) - Sped Up Version",
       "url": "https://open.spotify.com/track/5RQ1oQUUWBv2urYLF0xWzz"
+    },
+    {
+      "album": {
+        "name": "EYES CLOSED (with ZAYN) [2X]",
+        "url": "https://open.spotify.com/album/0eNHq5zvwCafUZfPAEclIX"
+      },
+      "artists": [
+        {
+          "name": "JISOO",
+          "url": "https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166322,
+      "name": "EYES CLOSED (with ZAYN) - 2X",
+      "url": "https://open.spotify.com/track/0IHmXRAKcRd00l50QW5pQU"
     },
     {
       "album": {
@@ -4432,7 +4472,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 156220,
       "name": "One Of Your Girls - Sped Up",
       "url": "https://open.spotify.com/track/3aP1ep4PqgP5IPXUdPsxD5"
@@ -4966,7 +5006,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 162801,
       "name": "Revolving door - sped-up",
       "url": "https://open.spotify.com/track/4nvvPQ01t8wKia9zUTCHmT"
@@ -5446,6 +5486,28 @@
       "duration_ms": 183938,
       "name": "Soweto - Sped Up",
       "url": "https://open.spotify.com/track/3SaF6WLUiyfcOM5sTvUEOb"
+    },
+    {
+      "album": {
+        "name": "SPAGHETTI (Bon App\u00e9tit Remixes)",
+        "url": "https://open.spotify.com/album/0ElLaBBHmkoS0UL2nmM0YA"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123677,
+      "name": "SPAGHETTI (Sped Up ver.)",
+      "url": "https://open.spotify.com/track/50Xf5ETG7lTf4emGnoVwSj"
     },
     {
       "album": {
@@ -6466,7 +6528,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 99388,
       "name": "YOU'RE TOO SLOW - Sped Up",
       "url": "https://open.spotify.com/track/28IsqKmZQyl6eGiIapyUNm"

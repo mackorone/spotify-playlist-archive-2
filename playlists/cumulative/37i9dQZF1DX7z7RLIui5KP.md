@@ -4,7 +4,7 @@
 
 > Proudly Kenyan gems made for the entire family\. Cover: Mejja
 
-147 songs - 8 hr 21 min
+147 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Catchi Yoh Whine](https://open.spotify.com/track/1H8bWAkucKINTrOaovslR9) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz) | [Catchi Yoh Whine](https://open.spotify.com/album/2LzuFCeZ43aPCo37S3lYZ5) | 2:30 | 2025-10-23 |  |
 | [Colors](https://open.spotify.com/track/0KRLUkUZLsIh6k6d7Vp8Ir) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Four Letter Word \(Deluxe\)](https://open.spotify.com/album/2BQcxkODkLjlM9SbwZqQS6) | 3:21 | 2025-10-23 |  |
 | [Come My Way](https://open.spotify.com/track/0IATSVLIGhvQrYPYhEwy1v) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Come My Way](https://open.spotify.com/album/3YUAVNlSPHTHHYrhOYwqiH) | 2:56 | 2025-11-27 | 2026-02-20 |
+| [Confidence](https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:41 | 2026-03-05 |  |
 | [Crash Out](https://open.spotify.com/track/40EchY6PKUPrt14nEdmKXA) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [Zaituni Wambui](https://open.spotify.com/artist/70MvDj2d6WZpoIyRBHnXna) | [Crash Out](https://open.spotify.com/album/1AEOnjNRJMursjuMQ4o28C) | 3:39 | 2025-10-23 | 2026-02-13 |
 | [Dawa](https://open.spotify.com/track/08e888zImNSTqNrv6muOWM) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh), [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [Dr\. Flow Will See You Now](https://open.spotify.com/album/7yJbIkh03o7NxlOoYeZ6YX) | 3:11 | 2025-10-23 | 2025-12-19 |
 | [Disko](https://open.spotify.com/track/5PbomBMKhyN2lSFqqHb9n8) | [KODONGKLAN](https://open.spotify.com/artist/5pscK9bZJKOl2Fp84THKLQ) | [Disko](https://open.spotify.com/album/4w8CyKP0Ltge777VzBvQKo) | 3:53 | 2025-10-23 |  |
@@ -137,7 +138,6 @@
 | [Taya](https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Healing](https://open.spotify.com/album/6mjstDKxdSDfK7PgOvnKRC) | 3:59 | 2025-10-23 |  |
 | [TIKI TAKO](https://open.spotify.com/track/2gJRqeN8Q9Yg5jpx6WKm7h) | [Matata](https://open.spotify.com/artist/7imj8fIllhgGJqvKUVrdgV), [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [TIKI TAKO](https://open.spotify.com/album/5qBMXffGoDp4pPe9S7niXJ) | 3:52 | 2025-10-23 |  |
 | [Time Flies \(feat\. Sauti Sol\)](https://open.spotify.com/track/1taXjBXUnhPCPunwB6xOgp) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo) | [Twice As Tall](https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV) | 3:44 | 2025-11-21 | 2025-11-28 |
-| [Track 6](https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 0:00 | 2026-03-05 |  |
 | [TRUE LOVE](https://open.spotify.com/track/7fYxFqeGTfr9IvVBrWAyvO) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [TRUE LOVE](https://open.spotify.com/album/3AWoNtSF6MCGBrJO1jrFR0) | 2:32 | 2025-10-23 |  |
 | [Trust No 1](https://open.spotify.com/track/4Nfq2CziIZHDzVP8A6llUF) | [Brandy Maina](https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Trust No 1](https://open.spotify.com/album/5g5q1Ixr9A5kyxW6F3GXWQ) | 3:16 | 2026-01-29 |  |
 | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/track/2U3JPdRdWygADeO36alrJU) | [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Tumewaka \(feat\. Watendawili\)](https://open.spotify.com/album/5EnhsYf7p2yFdhqd1ReGDG) | 3:29 | 2025-12-04 |  |

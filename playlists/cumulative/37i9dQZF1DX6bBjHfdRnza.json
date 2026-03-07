@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring Kenta204.\n",
+  "description": "The best new dance tracks from independent artists & labels. Curated by human Spotify editors. Featuring PITCHBLACK.\n",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -5563,6 +5563,24 @@
     },
     {
       "album": {
+        "name": "BD Baile",
+        "url": "https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy"
+      },
+      "artists": [
+        {
+          "name": "Mezraa",
+          "url": "https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108945,
+      "name": "BD Baile",
+      "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
+    },
+    {
+      "album": {
         "name": "Harri Poter",
         "url": "https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB"
       },
@@ -7042,7 +7060,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 325454,
       "name": "BOARD SHORTS",
       "url": "https://open.spotify.com/track/2UKAII37kaqeME2T2NfAQL"
@@ -18934,7 +18952,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 172380,
       "name": "Fade Into the Morning Light - Radio Edit",
       "url": "https://open.spotify.com/track/1snaKZmXvVuVmCS2OYtRvr"
@@ -19370,6 +19388,24 @@
       "duration_ms": 149791,
       "name": "fast money",
       "url": "https://open.spotify.com/track/1RdRv8nwKnnZCDJ4Ih8cvv"
+    },
+    {
+      "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
     },
     {
       "album": {
@@ -26538,7 +26574,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 139345,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/12pK2W23mKJkT3FHnwGpIx"
@@ -30102,6 +30138,24 @@
       "duration_ms": 396326,
       "name": "Intergalactic Sitdown",
       "url": "https://open.spotify.com/track/4JoCdrZ7cMCTPKAxL1hvNJ"
+    },
+    {
+      "album": {
+        "name": "Interlude EP",
+        "url": "https://open.spotify.com/album/2jbqKKQDZW2I83VVSbr64B"
+      },
+      "artists": [
+        {
+          "name": "Vlad",
+          "url": "https://open.spotify.com/artist/1EIO8S6whyykFRs6kqBhHj"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219067,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/381jPDN0rwVGOWxrtlQ6ek"
     },
     {
       "album": {

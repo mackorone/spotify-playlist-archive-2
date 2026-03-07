@@ -4,10 +4,11 @@
 
 > you're the main character in a romance novel.
 
-120 songs - 6 hr 53 min
+121 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [360 \(Arr\. For Cello Obligato and String Quartet\)](https://open.spotify.com/track/22B0img3GewOBsjGMoYx9T) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [Bridgerton Season Four \(Covers from the Netflix Series\)](https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF) | 2:11 | 2026-03-06 |  |
 | [5 Pièces, Op\. 109: No\. 5 in D\-Flat Major, Mélisande](https://open.spotify.com/track/6S6LhL6EO4RMeRC0mehilx) | [Mel Bonis](https://open.spotify.com/artist/1LauM5YBWB1nIe6KRwKNdG), [Joseph Moog](https://open.spotify.com/artist/24kGrCKxX5OW1eq0mNk15V) | [Belle Epoque](https://open.spotify.com/album/6jgmX01PL3PrBHviwvvP26) | 2:33 | 2025-04-17 |  |
 | [6.6 Gigue](https://open.spotify.com/track/6yPUtBVbbSpp7khUpcmcDu) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE), [Richard Harwood](https://open.spotify.com/artist/6qc7jg6OMExVkMu2Uzril9), [Reinoud Ford](https://open.spotify.com/artist/5fVIkYGFnKyKO5CTphBoKO), [Tim Lowe](https://open.spotify.com/artist/4c6Gwxq0m60hm6dx4dnAqB), [Ben Chappell](https://open.spotify.com/artist/5Bcr5JYvl4wiO9jvoDvH8F), [Katherine Jenkinson](https://open.spotify.com/artist/3GD1m7RLwgmITy17vj8Ht6) | [Bach: The Cello Suites \- Recomposed by Peter Gregson](https://open.spotify.com/album/0Fs1VrnUcbVxKW6Dbq7jyZ) | 2:48 | 2022-02-14 |  |
 | [A Colour Field \- Piano Version](https://open.spotify.com/track/4ukcqr2CrApch1Ddjk1yxk) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [A Colour Field \(Piano Version\)](https://open.spotify.com/album/45cblmLOyEeXopS1hBlEzn) | 2:34 | 2024-10-11 |  |

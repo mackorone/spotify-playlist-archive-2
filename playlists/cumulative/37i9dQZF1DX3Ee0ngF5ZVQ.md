@@ -2,9 +2,9 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
+> New and trending tracks from Texas Country icons and rising stars\. Cover: Cody Johnson
 
-721 songs - 1 day 18 hr 55 min
+722 songs - 1 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Big Wide Open](https://open.spotify.com/track/1SsadgOE1rru44D5JF9t4E) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Loose Funky Texas Junky](https://open.spotify.com/album/36ZZqLdtCy8MzCl08LuEo4) | 4:19 | 2024-05-31 | 2024-12-14 |
 | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/track/5Dl4entYlkGPbKJFL3yrva) | [Taylor Tumlinson](https://open.spotify.com/artist/2qY2krsaIOF7H8SUEVYiBn) | [Bigger Than Texas \(Acoustic\)](https://open.spotify.com/album/4ENCMX5nehWshFu23EkNvJ) | 4:26 | 2021-12-17 | 2022-07-29 |
 | [Bird in a Cage](https://open.spotify.com/track/35ck3r2qYcU6NZxbAgxaLF) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Bird in a Cage](https://open.spotify.com/album/6iUmd2lTyZZfgEIvZAAHzI) | 3:18 | 2023-09-22 | 2023-10-14 |
+| [Blame Texas](https://open.spotify.com/track/7qhItbDMoTlq3Dyh1Qh1Ch) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Blame Texas](https://open.spotify.com/album/6b7b3eGyXQEbl44yJiMY1x) | 3:12 | 2026-03-06 |  |
 | [Bless Her Heart](https://open.spotify.com/track/6QIwqG7Alb9todpZfh5Zep) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Bless Her Heart](https://open.spotify.com/album/1l1wBvJ9aDaCKssXNDxMWF) | 2:59 | 2021-12-17 | 2022-07-10 |
 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 | 2022-02-11 | 2023-12-22 |
 | [Boat](https://open.spotify.com/track/6JViSSEsMTYdKpXWgrpuRg) | [Ben McPeak](https://open.spotify.com/artist/7ly5T1xTU0IzHygu5IC2CY) | [Boat](https://open.spotify.com/album/5EWN5DLTfsypaYtPh231A4) | 2:55 | 2023-01-06 | 2023-01-08 |
@@ -143,7 +144,7 @@
 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 | 2024-01-05 |  |
 | [Country Like You](https://open.spotify.com/track/0c3YD78qj2UlCClyVuw2sx) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Country Like You](https://open.spotify.com/album/66Li9RsTsw3WRc4fIHJbAS) | 3:59 | 2022-03-18 | 2022-07-27 |
 | [Country Nights](https://open.spotify.com/track/52kKdS8gexeh2ePnEYpaQE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [Country Nights](https://open.spotify.com/album/75prAvBAPUakc6BwI4RiE5) | 3:37 | 2023-05-12 | 2023-08-19 |
-| [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 | 2024-08-30 |  |
+| [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/track/0MbTyGD6yYiYL45DhNljoQ) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Country Round Here Tonight \(feat\. Justin Moore\)](https://open.spotify.com/album/4Rv54VNYpnod5egRBkP20a) | 3:43 | 2024-08-30 | 2026-03-07 |
 | [County Road 123](https://open.spotify.com/track/0YzmIrYwxjhUCEzrRmhTH4) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [County Road 123](https://open.spotify.com/album/77QZTXu1DoZcAZuJNi55Ft) | 3:46 | 2025-03-28 | 2025-06-26 |
 | [Cow Pissin'](https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv) | [Carson Jeffrey](https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l) | [Cow Pissin'](https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj) | 3:37 | 2022-08-05 | 2022-09-17 |
 | [Cowboy Kid](https://open.spotify.com/track/6HQDLJ0hcek1X70QOP6e3x) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Cowboy Kid](https://open.spotify.com/album/6aNpBKhFEU5CBJ8vY1TLk0) | 3:31 | 2023-10-13 | 2024-01-13 |

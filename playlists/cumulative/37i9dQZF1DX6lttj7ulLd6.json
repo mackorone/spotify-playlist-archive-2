@@ -1189,6 +1189,24 @@
     },
     {
       "album": {
+        "name": "Golden Hour",
+        "url": "https://open.spotify.com/album/79T28R4Pzi3AsZ4riDAUH8"
+      },
+      "artists": [
+        {
+          "name": "Rosello Blue",
+          "url": "https://open.spotify.com/artist/25oZlFal7MonBvnIataENe"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174445,
+      "name": "Golden Hour",
+      "url": "https://open.spotify.com/track/72hAIzB2mQRITHaWCtcAyH"
+    },
+    {
+      "album": {
         "name": "Golden Hour Groove",
         "url": "https://open.spotify.com/album/68Xew9Io7x9Hpz8j2xi5RS"
       },
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 414834,
       "name": "Squeeze Me",
       "url": "https://open.spotify.com/track/6dSzZ1ll6LwJ7OG5U1w7RG"
@@ -2986,7 +3004,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 283000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x"
@@ -3502,6 +3520,24 @@
       "duration_ms": 269573,
       "name": "Vinyl",
       "url": "https://open.spotify.com/track/2q2kwEh9flpSMwwqpPYCC3"
+    },
+    {
+      "album": {
+        "name": "Warm Breeze, No Plans",
+        "url": "https://open.spotify.com/album/5iWCoJLQRRQfW2NNRYpAK4"
+      },
+      "artists": [
+        {
+          "name": "Martin Landstr\u00f6m",
+          "url": "https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273713,
+      "name": "Warm Breeze, No Plans",
+      "url": "https://open.spotify.com/track/45S1m0gzipf5XV5jWhabH7"
     },
     {
       "album": {

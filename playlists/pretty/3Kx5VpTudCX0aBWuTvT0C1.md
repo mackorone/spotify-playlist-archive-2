@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,396 likes - 70 songs - 4 hr 0 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,400 likes - 72 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 68 | [You Got The Chops](https://open.spotify.com/track/4cV8r6HqCU5M237e2E62Gw) | [Mark Rosal](https://open.spotify.com/artist/4rCAMDYZqXv0TYKBFaU4YW) | [You Got The Chops](https://open.spotify.com/album/0ruXTwor3TO4B7Y8MZJt0I) | 4:00 |
 | 69 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 |
 | 70 | [Resplandor](https://open.spotify.com/track/470q0uES7555MaiDrMXxDh) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Resplandor](https://open.spotify.com/album/2eJ7zfBLPHBEBym0BEOWHv) | 3:21 |
+| 71 | [Bonfire](https://open.spotify.com/track/5e0BHKevSDHIAdq0LCwB7M) | [Califortune](https://open.spotify.com/artist/1GLEJCnZZn6s7jjiP6xVyo) | [Bonfire](https://open.spotify.com/album/4zNR5UI6guqnwSpwR5aXfe) | 4:35 |
+| 72 | [Spotkamy Się](https://open.spotify.com/track/0o8WYe52SJCuH6AJXfaqfl) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [Spotkamy Się](https://open.spotify.com/album/4XLheMiPz8YUwEL9Q1TXnG) | 6:34 |
 
-Snapshot ID: `AAACdvlICDNezGDWTA/TshsuM6OlPP3F`
+Snapshot ID: `AAACeJLKa0OJ+Ryqd01KKGCUL2VQuOkd`

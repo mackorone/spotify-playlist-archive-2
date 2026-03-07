@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,426 likes - 65 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,537 likes - 65 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,21 +15,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 5 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 |
 | 6 | [BIG FEELING](https://open.spotify.com/track/0sH7M5s2bEWFRe7v7VRemW) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK) | [LUCY](https://open.spotify.com/album/0EnjeA3ZeMivEGuACIgrQi) | 1:55 |
 | 7 | [Sloppy Joe](https://open.spotify.com/track/3JZO1MJaqB34F8fvkMjzPo) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood](https://open.spotify.com/album/4M1Gzy271EuRkCAcW5HAFa) | 2:26 |
-| 8 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
-| 9 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
+| 8 | [EVIL J0RDAN](https://open.spotify.com/track/6iycYUk3oB0NPMdaDUrN1w) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:03 |
+| 9 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
 | 10 | [PB&J \(with Ken Carson\)](https://open.spotify.com/track/1uJiHxYj2jMgbSTNiuf6zV) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:29 |
-| 11 | [DOG](https://open.spotify.com/track/1yhtdbnsHy0bB4XpXAI28X) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:23 |
-| 12 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |
-| 13 | [Pwned](https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Pwned](https://open.spotify.com/album/0grZYBy7nQIG8G9XDGkf9o) | 1:49 |
-| 14 | [No Compadre](https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Designer Junkie](https://open.spotify.com/album/6Eb3spgLo0qXfgTdP1kxjd) | 2:04 |
-| 15 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 |
-| 16 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
-| 17 | [EXTREME](https://open.spotify.com/track/4Y6OEfE3axE1hIkeCgncav) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 3:04 |
-| 18 | [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 |
-| 19 | [Outta Here](https://open.spotify.com/track/6mbexPPxCusq64fVT8IFBi) | [sixbill](https://open.spotify.com/artist/56MdwFrWGvYtq9wGACLZCK) | [Outta Here](https://open.spotify.com/album/1S2nMmhRTpCFBt4mwqGVpc) | 2:17 |
-| 20 | [NOTICE ME](https://open.spotify.com/track/4N0mipKSv3FFDOYNatjbiT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 2:29 |
-| 21 | [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 |
-| 22 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
+| 11 | [Blick Sum \(feat\. Playboi Carti\)](https://open.spotify.com/track/7nCgpOjCZWL7hKFqmCSyXo) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Sugar Honey Iced Tea](https://open.spotify.com/album/4Qsc4at71izsrBdiJv3Kds) | 3:12 |
+| 12 | [Toxic](https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [Half Blood \(BloodLuxe\)](https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj) | 4:29 |
+| 13 | [No Compadre](https://open.spotify.com/track/2IzcwHQ6uv1geOvCszrO4P) | [Sk8star](https://open.spotify.com/artist/2PAnRRa7mwTO0WArmY1vCc) | [Designer Junkie](https://open.spotify.com/album/6Eb3spgLo0qXfgTdP1kxjd) | 2:04 |
+| 14 | [open it up \(with Ken Carson\)](https://open.spotify.com/track/3Lir4xFT8g2t923T7d2Xmq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [</3³](https://open.spotify.com/album/3EeCAQiNJn4hfIkn5lnbOq) | 4:22 |
+| 15 | [Tic Tac Toe \(with Ken Carson\)](https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:57 |
+| 16 | [EXTREME](https://open.spotify.com/track/4Y6OEfE3axE1hIkeCgncav) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 3:04 |
+| 17 | [Blakk Rokkstar](https://open.spotify.com/track/7IzutleLK1419FM8rUpYmq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [More Chaos](https://open.spotify.com/album/3tIS7SDlvbyJ0oFQzNqjco) | 3:50 |
+| 18 | [Outta Here](https://open.spotify.com/track/6mbexPPxCusq64fVT8IFBi) | [sixbill](https://open.spotify.com/artist/56MdwFrWGvYtq9wGACLZCK) | [Outta Here](https://open.spotify.com/album/1S2nMmhRTpCFBt4mwqGVpc) | 2:17 |
+| 19 | [NOTICE ME](https://open.spotify.com/track/4N0mipKSv3FFDOYNatjbiT) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Hardrock](https://open.spotify.com/artist/1EM110Ljwqga6grZH2Dym3) | [MANIA](https://open.spotify.com/album/3Ot1gTcCdtkhyce9yrc4Wj) | 2:29 |
+| 20 | [JUMPIN](https://open.spotify.com/track/2sABxyWikItSP31WOu3fup) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [JUMPIN](https://open.spotify.com/album/1AkmRGpbgD6jTHiKBezVEu) | 1:09 |
+| 21 | [PUT IT ONG](https://open.spotify.com/track/6CgbSOe4GooCaxkyMJToze) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:37 |
+| 22 | [Pwned](https://open.spotify.com/track/5wlv6qNr4sBuoEfRwV00RD) | [Protect](https://open.spotify.com/artist/14Ah9L7Sei8VOOty0tZrOR) | [Pwned](https://open.spotify.com/album/0grZYBy7nQIG8G9XDGkf9o) | 1:49 |
 | 23 | [5G](https://open.spotify.com/track/08j2Jh51yVfb9sD33TAPYJ) | [HXG](https://open.spotify.com/artist/6N2Q9haXoRiIiSQTRv9MSb) | [5G](https://open.spotify.com/album/79nZhu9My4y3JRzooOkCoL) | 3:26 |
 | 24 | [margiela](https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [margiela](https://open.spotify.com/album/6lCILy46F44uFdrHCunZss) | 2:18 |
 | 25 | [WITH THE MAFIA](https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [WITH THE MAFIA](https://open.spotify.com/album/1ptHy3DR2LDt747iEh54eH) | 2:23 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 64 | [The Grinch](https://open.spotify.com/track/2VKHWIONh47ntN7wyoSxEQ) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You 4](https://open.spotify.com/album/5nDqjtvRwDYElIflvoNDdE) | 1:31 |
 | 65 | [if looks could kill](https://open.spotify.com/track/7cFLFmj3fLV5wxhcFfol7u) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:14 |
 
-Snapshot ID: `AAAAAPKeW0jeRaZuP3Ag9irNfwSLnWIQ`
+Snapshot ID: `AAAAAPURjl0UrOAUsR7/n90GS307uT+b`

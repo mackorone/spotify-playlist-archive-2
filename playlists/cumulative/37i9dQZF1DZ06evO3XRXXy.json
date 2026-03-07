@@ -519,6 +519,28 @@
     },
     {
       "album": {
+        "name": "You're The Inspiration: The Music Of David Foster And Friends (Int'l DMD)",
+        "url": "https://open.spotify.com/album/7zXao5a6CPcsA8mbmdKpVs"
+      },
+      "artists": [
+        {
+          "name": "David Foster",
+          "url": "https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF"
+        },
+        {
+          "name": "Kenny G",
+          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Love Theme from St. Elmo's Fire (feat. Kenny G) - Live",
+      "url": "https://open.spotify.com/track/7AcZoTDqYtqYyYYt3CBPSw"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },

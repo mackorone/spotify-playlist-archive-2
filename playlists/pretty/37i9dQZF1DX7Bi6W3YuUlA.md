@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 ### [High Lights](https://open.spotify.com/playlist/37i9dQZF1DX7Bi6W3YuUlA)
 
-> Inspirational hip\-hop\. Cover: J\. Cole
+> Inspirational hip\-hop\. Cover: Voices of Fire and Pharrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,277 likes - 99 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,305 likes - 99 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Man Up Above](https://open.spotify.com/track/0C9B7SpULk3KlkOz3MhTEb) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:58 |
-| 2 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 |
-| 3 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 |
-| 4 | [GAS YOU UP \- STREET](https://open.spotify.com/track/58Fa5cPeHmuvmj67oDH5Q3) | [Propaganda](https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t), [ProducerTrentTaylor](https://open.spotify.com/artist/63rnoegtIHSr7mx6sTImej), [Danny A\. Thomas](https://open.spotify.com/artist/4nQhZL6pcDzSaFPmAMKCB3) | [Gas You Up](https://open.spotify.com/album/3kvThZp3piFOkt53pwOPzj) | 3:40 |
+| 1 | [I FORGIVE YOU \(FEAT\. CEELO GREEN & QUAVO\)](https://open.spotify.com/track/4CvoOJK3UbsHcXZyjz00bh) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [OPHANIM](https://open.spotify.com/album/15XpAX69AlFzmTgU8XRdo5) | 3:22 |
+| 2 | [Man Up Above](https://open.spotify.com/track/0C9B7SpULk3KlkOz3MhTEb) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 4:58 |
+| 3 | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/track/0FhJlX7tfC1FPkRxu5vaPa) | [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [THE ONE \(FEAT\. PHARRELL WILLIAMS\)](https://open.spotify.com/album/5tV2bocoFi3meMBfiK2JjU) | 3:06 |
+| 4 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 |
 | 5 | [The Truth](https://open.spotify.com/track/4zgT4ofik5gzGZGTUzhAfX) | [Road to Restoration](https://open.spotify.com/artist/5HNGuh45sTuaF2y8xr2nKt), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [The Truth](https://open.spotify.com/album/1eLtVuTe9osRrF2XhfvaH2) | 2:47 |
 | 6 | [911'](https://open.spotify.com/track/59c5mSvlBRPBuJJ48NdByR) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [MERCY"](https://open.spotify.com/album/3qWFFEdowMoUlbbuWcwBYb) | 3:01 |
 | 7 | [Headphones](https://open.spotify.com/track/7pMJ2uIwF5C04AY5ZNdWOF) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Reconstruction](https://open.spotify.com/album/0uwbHaYo7t65nwqE62AyZl) | 3:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 98 | [Get Ready \(feat\. Kodak Black\)](https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 3:51 |
 | 99 | [THANKFUL \(feat\. Lil Wayne & Jeremih\)](https://open.spotify.com/track/5suOUHDyRxvWDYF5GA6dly) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 5:38 |
 
-Snapshot ID: `AAAAAPwR1mt/rdFfs/8OArpVKhgGBuhe`
+Snapshot ID: `AAAAAEeL1Xk4XuJMW5C2eZ0hMV72a82I`

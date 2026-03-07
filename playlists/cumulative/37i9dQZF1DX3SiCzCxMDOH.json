@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 255117,
       "name": "A love song",
       "url": "https://open.spotify.com/track/40omREcnBxztksjO7XTnP8"
@@ -2286,6 +2286,24 @@
       "duration_ms": 193188,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY"
+    },
+    {
+      "album": {
+        "name": "Blue Drift",
+        "url": "https://open.spotify.com/album/3Unsom9QCSrXtOTaqewmer"
+      },
+      "artists": [
+        {
+          "name": "Sand Quartet",
+          "url": "https://open.spotify.com/artist/7yfwOkCekTgoZgzi9VavgA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Blue Drift",
+      "url": "https://open.spotify.com/track/2Lqa5hHBQWmXAGk864aVcg"
     },
     {
       "album": {
@@ -9742,7 +9760,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 188838,
       "name": "Mellow Moments",
       "url": "https://open.spotify.com/track/3YGVTfSxTCuDykWrENqmGp"
@@ -14329,6 +14347,24 @@
     },
     {
       "album": {
+        "name": "Suddenly You Appeared",
+        "url": "https://open.spotify.com/album/4QGhhhVaaLW1GBA5XEQpWM"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hide Trio",
+          "url": "https://open.spotify.com/artist/0vF49H73xGuKS1vRSNN3av"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215281,
+      "name": "Suddenly You Appeared",
+      "url": "https://open.spotify.com/track/7zUbOIo3J8FQDuMdmqSSZT"
+    },
+    {
+      "album": {
         "name": "Summer Green",
         "url": "https://open.spotify.com/album/6EyhVfE0XMIls6HYY5jQDa"
       },
@@ -14340,7 +14376,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 263481,
       "name": "Summer Green",
       "url": "https://open.spotify.com/track/2uuGu4QUlVIC24OS2ZilNR"
@@ -16616,7 +16652,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 261432,
       "name": "Velvet Corners",
       "url": "https://open.spotify.com/track/5TiaRaPZfvchcccYge8ldg"
@@ -16746,6 +16782,24 @@
       "duration_ms": 162266,
       "name": "Violet",
       "url": "https://open.spotify.com/track/1eH1braLVAu6MdyeaUpSoG"
+    },
+    {
+      "album": {
+        "name": "Violets for Your Furs",
+        "url": "https://open.spotify.com/album/37DeQ1VHFSoKkl8Rj7P3qB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Violets for Your Furs",
+      "url": "https://open.spotify.com/track/27ZdIE8SGlkYVLua15ASGD"
     },
     {
       "album": {
@@ -16908,6 +16962,24 @@
       "duration_ms": 214940,
       "name": "Waltz At Midnight",
       "url": "https://open.spotify.com/track/6fmBZeSeM8Cp4mNivC7AGT"
+    },
+    {
+      "album": {
+        "name": "Wandering Heart",
+        "url": "https://open.spotify.com/album/5O4Fu6zLBUVKbdciyLFdLo"
+      },
+      "artists": [
+        {
+          "name": "The Blue Alley",
+          "url": "https://open.spotify.com/artist/2OqSm9mH0el2YOy4V6gG6w"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197455,
+      "name": "Wandering Heart",
+      "url": "https://open.spotify.com/track/5uN7jlpkXhRefNKgVjz9ri"
     },
     {
       "album": {

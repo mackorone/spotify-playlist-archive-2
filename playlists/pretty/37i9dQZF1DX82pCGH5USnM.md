@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,415,026 likes - 197 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,415,325 likes - 197 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 196 | [Lifelike](https://open.spotify.com/track/4LmgY8iN3SqkDOPCNxmaGX) | [Dahtona](https://open.spotify.com/artist/0BFc77yZN31TbzgtbLIhkW) | [Lifelike](https://open.spotify.com/album/3aFsP5L0bi65KCip5gyghd) | 2:36 |
 | 197 | [Comrate](https://open.spotify.com/track/3Rd69TLNlUD1LRlq5rx2th) | [Edward The Eagle](https://open.spotify.com/artist/2Un95yxT6GCP6qwydEfQ4d) | [Comrate](https://open.spotify.com/album/6r9zacxDV2W6TeWIbowOQY) | 2:09 |
 
-Snapshot ID: `AAAAAHbBYFzMJopCV7zSnseTuJs/VEK8`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

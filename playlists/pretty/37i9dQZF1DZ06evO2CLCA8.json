@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAACYUfguP8XlmkxCdZNbNnSA",
+  "snapshot_id": "aajHgAAAAACoYH8+fVNUTlGowxCHFFck",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Change Of Heart",
-      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She's the One (Songs and Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 147800,
       "name": "Angel Dream (No. 4)",
       "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Change Of Heart",
+      "url": "https://open.spotify.com/track/0jVm8tMbpsDN7goNU6NyzL"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Anything That's Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into The Great Wide Open",
         "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 189266,
       "name": "Two Gunslingers",
       "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 202973,
+      "name": "The Dark Of The Sun",
+      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 215613,
       "name": "I Should Have Known It",
       "url": "https://open.spotify.com/track/0qyQKbbPLaG9FIENFTL7KY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "All The Wrong Reasons",
-      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Into The Great Wide Open",
+        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "All The Wrong Reasons",
+      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mojo",
         "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 250520,
       "name": "Something Good Coming",
       "url": "https://open.spotify.com/track/53DoKGKHCae8SekXxqUqys"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into The Great Wide Open",
-        "url": "https://open.spotify.com/album/42G5ULkCRRl3crJMlg6eKd"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 202973,
-      "name": "The Dark Of The Sun",
-      "url": "https://open.spotify.com/track/0QXX3wBM2quMca45ptpjfZ"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heartbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "The Wild One, Forever",
-      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -815,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel Dream (Songs and Music From The Motion Picture \"She\u2019s The One\")",
-        "url": "https://open.spotify.com/album/0sX76SUnbgcKtdZcJ9kJwd"
+        "name": "Tom Petty And The Heartbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
       },
       "artists": [
         {
@@ -824,9 +808,25 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215802,
-      "name": "Thirteen Days",
-      "url": "https://open.spotify.com/track/5khakanIneOQaelzgiG7LK"
+      "duration_ms": 183400,
+      "name": "The Wild One, Forever",
+      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mojo",
+        "url": "https://open.spotify.com/album/1x0nxFkOWytBolK91qkUSJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 350733,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/3BFOW7dc6oxzuEPWKsESTI"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

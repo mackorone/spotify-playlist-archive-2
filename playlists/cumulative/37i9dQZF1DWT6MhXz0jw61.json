@@ -1733,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "ALREADY MINE",
+        "url": "https://open.spotify.com/album/5FrD2Gq0lVZnFqln6OKmb7"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "ALREADY MINE",
+      "url": "https://open.spotify.com/track/3r0z0osqa5540ESSK3xQrq"
+    },
+    {
+      "album": {
         "name": "Some People Scream, Some People Talk",
         "url": "https://open.spotify.com/album/5CVZBLsQKpTNmjjq1xmQJW"
       },
@@ -4990,6 +5008,24 @@
       "duration_ms": 256500,
       "name": "Can\u2019t Take the Hood to Heaven",
       "url": "https://open.spotify.com/track/3kwScli0Ft2DoYWGfIg0sc"
+    },
+    {
+      "album": {
+        "name": "Cap Gun",
+        "url": "https://open.spotify.com/album/56vVmJOyEQmIFhQ9Vo1y2V"
+      },
+      "artists": [
+        {
+          "name": "Khary",
+          "url": "https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216073,
+      "name": "Cap Gun",
+      "url": "https://open.spotify.com/track/29HF10sv86aeRAHsPRyNHC"
     },
     {
       "album": {
@@ -8972,7 +9008,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 173266,
       "name": "Everything Allocated",
       "url": "https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD"
@@ -9270,7 +9306,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225000,
       "name": "Faith Lies",
       "url": "https://open.spotify.com/track/7EoDxj5kugBVwOwc7oM9tL"
@@ -17866,7 +17902,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 173758,
       "name": "MiSOGYNISTICAL",
       "url": "https://open.spotify.com/track/16FG85bdBWTIb0KahMLEl6"
@@ -22556,7 +22592,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184500,
       "name": "Reminiscing",
       "url": "https://open.spotify.com/track/26e3iwow6J1qzEopUPPNsf"
@@ -22960,7 +22996,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158797,
       "name": "Round Me",
       "url": "https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T"
@@ -23282,6 +23318,24 @@
       "duration_ms": 273813,
       "name": "Samurai (feat. Troy Tyler)",
       "url": "https://open.spotify.com/track/4No5AkSyE2kw2yBx1rAA49"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/0kBOm35DEoJ4T0GAF17jMM"
+      },
+      "artists": [
+        {
+          "name": "Malz Monday",
+          "url": "https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/5Blbbh0UxwFFx2In6w9yMf"
     },
     {
       "album": {
@@ -28958,6 +29012,24 @@
       "duration_ms": 143434,
       "name": "T\u00e9l\u00e9 Couleur",
       "url": "https://open.spotify.com/track/6uNa9YhkIlugSGnxHv36UB"
+    },
+    {
+      "album": {
+        "name": "Unapologetic",
+        "url": "https://open.spotify.com/album/1oLtD7t1FlyuKIdH8pgKkR"
+      },
+      "artists": [
+        {
+          "name": "Marlon Craft",
+          "url": "https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "Unapologetic",
+      "url": "https://open.spotify.com/track/2UVnxfCRYPysZ1V8s1XICt"
     },
     {
       "album": {

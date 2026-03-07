@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Cheema Y
+> Ultimate 101 Punjabi Hits with Simiran Kaur Dhadli
 
 570 songs - 1 day 5 hr 3 min
 

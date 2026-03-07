@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-2,126 songs - 5 day 4 hr 17 min
+2,127 songs - 5 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1962,8 +1962,9 @@
 | [Walk Away](https://open.spotify.com/track/1HLTAHgjEetWUQqTtUnHOa) | [Hayden Lloyd](https://open.spotify.com/artist/3SYVblff7e3KNH8sspHoCN) | [Walk Away](https://open.spotify.com/album/3EytPmskfa78EXWg9AMOkm) | 3:59 | 2024-11-11 |  |
 | [Walnuts Essence](https://open.spotify.com/track/2FHn4OncVPRmVUUqJKrukk) | [Jonhatan Tenerini](https://open.spotify.com/artist/0lRWhDXcHY9gOUTPR2pMFm) | [Noisy Shadows](https://open.spotify.com/album/4WdflLjFjshcoWmVoAvjwL) | 3:05 | 2025-09-29 |  |
 | [Wanderer](https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [Wanderer](https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI) | 2:48 | 2026-01-06 |  |
+| [Wanderlust](https://open.spotify.com/track/2b2n8QRwymnZiHd7At3vwf) | [Slowtide](https://open.spotify.com/artist/4gVVPt0VVJsl1EqZAtJlQc) | [Solaria](https://open.spotify.com/album/6IPfiZtUyj8lxGABNfxp8E) | 3:46 | 2026-03-06 |  |
 | [Wanna Be There](https://open.spotify.com/track/7zCylugusWXSJq7aUoLfeF) | [Beau Audio](https://open.spotify.com/artist/0rNKItJKS1Cku4iKnNv4f0) | [Wanna Be There](https://open.spotify.com/album/39HDnFlfpvWMOC3QUseE2N) | 2:30 | 2025-09-22 |  |
-| [Warm In Your Arms \- Vintage Hall Version](https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs) | [Aqua Music](https://open.spotify.com/artist/4ePcCXBWcHkxBflhVSM5rd) | [Aquarius](https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz) | 3:20 | 2025-07-13 |  |
+| [Warm In Your Arms](https://open.spotify.com/track/57JGGGESZGMqMZYvBbIkRs) | [Aquarius](https://open.spotify.com/artist/5hDCRrkgBTxt0okHCV9hnP) | [Aquarius \(vol 1\)](https://open.spotify.com/album/64ZWWk5CZ8JDiKVoq9P7rz) | 3:20 | 2025-07-13 |  |
 | [Was Ist Schon Perfekt?](https://open.spotify.com/track/2vLPHbLEXuhj5YvrMj9vfA) | [NAHO](https://open.spotify.com/artist/41uWslIMyRwwThLcprJvNb) | [Was Ist Schon Perfekt?](https://open.spotify.com/album/0eiFvrV8VIHqbJRkVB2CAj) | 2:46 | 2025-08-01 |  |
 | [Wasted Time](https://open.spotify.com/track/650vvNfkO4iOKeRi8g7Z8T) | [STH](https://open.spotify.com/artist/6aEjseFZvUIvGHcd9bKV1K) | [Somewhere In Time](https://open.spotify.com/album/13xLE4SXqI8IpRTeP4pudt) | 4:11 | 2025-11-06 |  |
 | [Wasting Time](https://open.spotify.com/track/3nczBTLEklKhGnqJjbOtLP) | [Hazy Oak](https://open.spotify.com/artist/3KNkF4bGScih7yD1o08Kro) | [The Downfall](https://open.spotify.com/album/0T2Teicw5xgqPIGUgWGFtQ) | 4:10 | 2026-02-09 |  |

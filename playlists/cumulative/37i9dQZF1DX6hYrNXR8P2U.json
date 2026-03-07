@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "MUY PIOLA\n\ud83d\udcf7 TOBIKA",
+  "description": "MUY PIOLA\n\ud83d\udcf7 Juana Rozas",
   "name": "piola",
   "tracks": [
     {
@@ -582,7 +582,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166500,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/4t4i6kFApE5s50eUGEfw7p"
@@ -1130,7 +1130,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 133432,
       "name": "Ay Mami! (feat. Pablo Rojas, DJ Acres)",
       "url": "https://open.spotify.com/track/1Jn46nlw3HGA75rOVU1va1"
@@ -1890,6 +1890,24 @@
       "duration_ms": 104545,
       "name": "Capaz Necesito Otro Abrazo-Vaso",
       "url": "https://open.spotify.com/track/2sPN4s0vimRAQBtjqQBS37"
+    },
+    {
+      "album": {
+        "name": "CAPIT\u00c1N",
+        "url": "https://open.spotify.com/album/79KU6YUJgSaDPo94AjqlKz"
+      },
+      "artists": [
+        {
+          "name": "Juana Rozas",
+          "url": "https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "CAPIT\u00c1N",
+      "url": "https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg"
     },
     {
       "album": {
@@ -2984,6 +3002,24 @@
       "duration_ms": 183703,
       "name": "DOS PARTES",
       "url": "https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u"
+    },
+    {
+      "album": {
+        "name": "Dossier",
+        "url": "https://open.spotify.com/album/3yOGQeve6r2M9yNaA3Y3wH"
+      },
+      "artists": [
+        {
+          "name": "Trucha",
+          "url": "https://open.spotify.com/artist/5fsk587VCGq4VWwPyCW9rW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Dossier",
+      "url": "https://open.spotify.com/track/04hBXrNXKdlYGmPZ2orD7o"
     },
     {
       "album": {
@@ -4210,7 +4246,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 131515,
       "name": "hott",
       "url": "https://open.spotify.com/track/2bveQ1Uw2uBX5oQdbAkrXP"
@@ -4530,7 +4566,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 248927,
       "name": "Kimerap",
       "url": "https://open.spotify.com/track/6E4IprUX0TtcDFBPQLbkwa"
@@ -4742,6 +4778,24 @@
       "duration_ms": 179327,
       "name": "La M\u00e1quina",
       "url": "https://open.spotify.com/track/00RN1so6DXcJo1zFqlfezf"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "album": {
@@ -5186,7 +5240,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 152784,
       "name": "lo que pase",
       "url": "https://open.spotify.com/track/06CoDtZi2S0mBJDrpCHi3p"
@@ -6904,7 +6958,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -8568,7 +8622,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 129328,
       "name": "quereme",
       "url": "https://open.spotify.com/track/4lUdpTa3Jnruu4oYlQnLrg"
@@ -9334,7 +9388,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 225230,
       "name": "SLOWJAM25",
       "url": "https://open.spotify.com/track/595d5s3q6UxDzQBGWQXrbx"

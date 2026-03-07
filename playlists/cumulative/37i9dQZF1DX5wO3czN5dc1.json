@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 528015,
       "name": "Amillo",
       "url": "https://open.spotify.com/track/40QhJOUflMFGdjF2LeHvik"
@@ -3574,6 +3574,36 @@
       "duration_ms": 157868,
       "name": "Masalale",
       "url": "https://open.spotify.com/track/5JREUdYQwOzVjF4HVbWtWP"
+    },
+    {
+      "album": {
+        "name": "Mbalenhle\u2019s Prayer",
+        "url": "https://open.spotify.com/album/48pvilSbhL7NMeouYGnfrM"
+      },
+      "artists": [
+        {
+          "name": "Mbalenhle M",
+          "url": "https://open.spotify.com/artist/4RYtjdGDorR1hFO3vjAdIO"
+        },
+        {
+          "name": "Smanga",
+          "url": "https://open.spotify.com/artist/5PtqKmS7MyoWUMVOwqVSPj"
+        },
+        {
+          "name": "Vee Rsa",
+          "url": "https://open.spotify.com/artist/7hch0lXKeTNzLBz4LYRBYK"
+        },
+        {
+          "name": "Soultaker Mthathi",
+          "url": "https://open.spotify.com/artist/362Tyd2XMh0w1PzMnevbOm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394634,
+      "name": "Mbalenhle\u2019s Prayer",
+      "url": "https://open.spotify.com/track/24AdQhBM0cy194JyjouRJ2"
     },
     {
       "album": {

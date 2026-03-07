@@ -4,7 +4,7 @@
 
 > Les incontournables du Raï.
 
-66 songs - 5 hr 42 min
+67 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Saragossa \- Live](https://open.spotify.com/track/1PMwegRivxvRWxcDLkWZfa) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Erja...! Ou Hadi...! \(Live\)](https://open.spotify.com/album/2ghmY5K2y2AaTIcOue5dUj) | 4:43 | 2024-01-03 |  |
 | [Sbaart Ou Tal Adabi](https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:46 | 2024-01-03 |  |
 | [Sid El Houari](https://open.spotify.com/track/7mTBXvwad1sexl1Ha9w3ip) | [Cheb Kader](https://open.spotify.com/artist/6EB4XzIj8t9JSMy5zyEJi3) | [History](https://open.spotify.com/album/5wAl8WmZ6lsn95Wbo2uNsr) | 5:25 | 2024-01-03 |  |
+| [TAL GHIYABEK TA GHOZALI](https://open.spotify.com/track/3y8vvqfilLpokyO7IC9IiO) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Mazal Souvenir Andi](https://open.spotify.com/album/7pF4Qe1f9Ti4q6SwzEbqMZ) | 5:37 | 2026-03-06 |  |
 | [Tal Ghiyabek Ya Ghozali](https://open.spotify.com/track/7iLGyoBmEWcfcLw7nsWdnD) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:37 | 2024-01-03 |  |
 | [Tlabti lafrak](https://open.spotify.com/track/66Rt29ZaDmb1uNi3nTYVzH) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Dak el mahroum](https://open.spotify.com/album/6EHkCFSzcsecGInoU2gYa6) | 5:45 | 2024-01-03 |  |
 | [Trigue Lycee](https://open.spotify.com/track/1WjHI9D4syoy6rhrkNjzzZ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Kenza](https://open.spotify.com/album/4PQFrVyQ6xWGjbq5kkVVaX) | 4:43 | 2024-01-03 |  |

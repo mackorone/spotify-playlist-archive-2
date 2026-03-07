@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-530 songs - 1 day 5 hr 34 min
+531 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Musician](https://open.spotify.com/track/6uyltToZgo3MDKhCJ7F8Wc) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:58 | 2025-02-04 | 2025-04-02 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/7uGYWMwRy24dm7RUDDhUlD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:23 | 2024-06-24 | 2024-08-23 |
 | [My Darling, My Angel](https://open.spotify.com/track/1Rq8bZKQGBrHK4YK2htyT1) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/50zspfq3s6XeqRF25SL6IK) | 2:13 | 2025-03-05 | 2025-03-09 |
-| [My Darling, My Angel](https://open.spotify.com/track/4S65LZ1l0ateIDSlmcxwNi) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:13 | 2025-12-16 |  |
+| [My Darling, My Angel](https://open.spotify.com/track/4S65LZ1l0ateIDSlmcxwNi) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Light hit my face like a straight right](https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP) | 2:13 | 2025-12-16 | 2026-03-07 |
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2025-03-08 | 2025-03-12 |
 | [My Songs Know What You Did In The Dark \(Light Em Up\)](https://open.spotify.com/track/2E43WFS4rRc09za2r2GmZl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:06 | 2024-10-04 | 2024-10-08 |
 | [Need You Now](https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 4:37 | 2024-09-07 | 2024-09-11 |
@@ -451,6 +451,7 @@
 | [Talk talk](https://open.spotify.com/track/62fqMvguJbsSs9HKhhRfuS) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:41 | 2025-02-07 | 2025-12-20 |
 | [Teenage Dream](https://open.spotify.com/track/5jzKL4BDMClWqRguW5qZvh) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2024-10-07 | 2024-12-25 |
 | [Teenage Dream](https://open.spotify.com/track/55qBw1900pZKfXJ6Q9A2Lc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:47 | 2025-03-29 | 2025-04-02 |
+| [Tell Me \(U Want It\)](https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Tell Me \(U Want It\)](https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo) | 3:33 | 2026-03-06 |  |
 | [Tell Me Why](https://open.spotify.com/track/3rnI1UCyGJvUTVvT97VQr5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless](https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x) | 3:20 | 2026-01-20 | 2026-01-24 |
 | [thanK you aIMee](https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 4:23 | 2024-06-24 | 2024-08-20 |
 | [That's Rich](https://open.spotify.com/track/17uJWOskYtbfPqjN7SHSgz) | [Brooke](https://open.spotify.com/artist/2LYnplZ8En2Jao1Xkv4iS2) | [That's Rich](https://open.spotify.com/album/0p1SmirF4ca8S1BikgAUG9) | 3:01 | 2025-03-11 | 2025-03-18 |

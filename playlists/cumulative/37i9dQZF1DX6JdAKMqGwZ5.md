@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: BLAYA.
 
-741 songs - 1 day 14 hr 15 min
+741 songs - 1 day 14 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,7 +667,6 @@
 | [Todos menos tú](https://open.spotify.com/track/4vhtRQdd9QTKTufs8GDzBW) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy), [I\-Ace](https://open.spotify.com/artist/4mPVIQNhAAWQ00jvzMv9E0) | [Todos menos tú](https://open.spotify.com/album/1glqnjzKUryH8YfGhMYE8S) | 2:50 | 2024-06-27 | 2024-09-20 |
 | [tormenta](https://open.spotify.com/track/2ROg8dXdst6G4ITXCEYdhc) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [tormenta](https://open.spotify.com/album/48TkaLaWvD63cROQHdOIzc) | 4:16 | 2025-01-30 | 2025-03-28 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-10-31 |
-| [Track 14](https://open.spotify.com/track/7eS7kimtsGeT0MOWmXj4sf) | [Lorea](https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149) | [Miel de mosca](https://open.spotify.com/album/0bdQUKbL7ppJKoeKvrx3U4) | 0:00 | 2026-03-05 |  |
 | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/track/0cHAaDELCxNqaGfz9GMwWf) | [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw), [alberto.vela](https://open.spotify.com/artist/56BJ9TARPYDpPBpxwDdNok) | [Tres Otoños \(feat\. alberto.vela\)](https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB) | 3:51 | 2024-06-27 | 2025-03-28 |
 | [Trámite](https://open.spotify.com/track/4AnbZ70nxY05G30ZRqdXLZ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Trámite](https://open.spotify.com/album/6as7JjgjSDm2R44zkMYsOR) | 3:08 | 2025-04-10 | 2025-04-18 |
 | [Tu Buen Chaval](https://open.spotify.com/track/3co2WqpeIhiQI21jz2l2qm) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Nuevos Lemas](https://open.spotify.com/album/0f4weFEnA91MfjYF61UfOU) | 2:25 | 2024-06-27 | 2024-11-15 |
@@ -737,6 +736,7 @@
 | [YE YE](https://open.spotify.com/track/4eG0fRhHic7VBFL3BrPjaD) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [YE YE](https://open.spotify.com/album/6CoUCIlyLE6YFVCVDadC7B) | 2:41 | 2024-08-29 | 2024-10-04 |
 | [YERBABUENA](https://open.spotify.com/track/74ujIumBc7STBhR0kL1rwP) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [YERBABUENA](https://open.spotify.com/album/0EhdOLT75A27wDXTT7YCgj) | 2:48 | 2025-01-09 | 2025-01-31 |
 | [YNEPN](https://open.spotify.com/track/3M5HDJIYUYqJhfSCLnZiAY) | [Queralt Lahoz](https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5) | [YNEPN](https://open.spotify.com/album/7gfLCmMw8VdSLn0p3GhiZk) | 3:19 | 2025-03-07 | 2025-04-11 |
+| [Yo en amores soy muy ligera](https://open.spotify.com/track/7eS7kimtsGeT0MOWmXj4sf) | [Lorea](https://open.spotify.com/artist/1MDkDwsmewnWgu5bS7k149) | [Miel de mosca](https://open.spotify.com/album/0bdQUKbL7ppJKoeKvrx3U4) | 2:43 | 2026-03-05 |  |
 | [Yo pensaba que me había tocado Dios](https://open.spotify.com/track/0vF9TaEJHO0Zm1ejF7AGC0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy), [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Yo pensaba que me había tocado Dios](https://open.spotify.com/album/6oWod7EJVMaMOg6G0d0rsj) | 3:26 | 2024-07-11 |  |
 | [YO TAMBIÉN PENSABA QUE SÍ](https://open.spotify.com/track/4mTSIc3Z3mvfYUuMTAZybM) | [RATA](https://open.spotify.com/artist/28xI1L1VYJXU9XnhzWmHdR) | [YO TAMBIÉN PENSABA QUE SÍ](https://open.spotify.com/album/6IMwruK8QSxVkdSH6bB2vy) | 3:36 | 2026-01-29 |  |
 | [Yuuuuuuuuu](https://open.spotify.com/track/1ltESONZwR4ypbWAcRD02U) | [Hadren](https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln), [GEM777](https://open.spotify.com/artist/2npJ68ByZkis4g9m4s79wv) | [Yuuuuuuuuu](https://open.spotify.com/album/1q8xvA8bwY7bX3col8nl51) | 3:06 | 2026-02-05 | 2026-02-20 |

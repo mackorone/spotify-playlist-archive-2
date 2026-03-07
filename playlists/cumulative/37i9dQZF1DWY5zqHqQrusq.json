@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Genge Soul",
+        "url": "https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad"
+      },
+      "artists": [
+        {
+          "name": "Billy Black",
+          "url": "https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223392,
+      "name": "Dear Irene",
+      "url": "https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y"
+    },
+    {
+      "album": {
         "name": "Deja",
         "url": "https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1"
       },
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 124363,
       "name": "Pete",
       "url": "https://open.spotify.com/track/2DDM0D8wOXNPxshFgtYIG1"

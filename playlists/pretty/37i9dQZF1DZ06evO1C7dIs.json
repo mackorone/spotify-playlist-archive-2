@@ -1,12 +1,12 @@
 {
   "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 263761,
+  "num_followers": 263781,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAAYsWWjbNxx4KxfOwZt5fZz",
+  "snapshot_id": "aajHgAAAAABBcpuglm7gUC6heTBuYw9X",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 602080,
-      "name": "Ghost Love Score",
-      "url": "https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN. :II: NATURE.",
         "url": "https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 340281,
       "name": "Noise",
       "url": "https://open.spotify.com/track/0RZVAhyB8vhxQz6ITjiuyA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 602080,
+      "name": "Ghost Love Score",
+      "url": "https://open.spotify.com/track/5dyQ8spGuggi5RBqhkUToy"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dark Passion Play",
-        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 305972,
-      "name": "The Islander",
-      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 419080,
       "name": "Rest Calm",
       "url": "https://open.spotify.com/track/7zki7ndhBSNAK9hKrhWUYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dark Passion Play",
+        "url": "https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 305972,
+      "name": "The Islander",
+      "url": "https://open.spotify.com/track/7DCLfDduecRwxLkcLUY2kQ"
     },
     {
       "added_at": null,

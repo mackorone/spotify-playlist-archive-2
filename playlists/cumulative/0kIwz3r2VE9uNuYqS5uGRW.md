@@ -4,7 +4,7 @@
 
 > 
 
-161 songs - 8 hr 21 min
+163 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Miss you](https://open.spotify.com/track/2iOZyY6QNKmivaA09P7r7k) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Miss you](https://open.spotify.com/album/0NRBaZWZkEJ8uTOtc8XjBB) | 2:42 | 2025-04-14 |  |
 | [MMA Rooky](https://open.spotify.com/track/4DNReWW0F9YaLDt6yqc2u1) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [Figurants](https://open.spotify.com/album/08njCEqmT3aT9CW0knBFGt) | 3:05 | 2025-03-12 |  |
 | [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 | 2026-01-02 |  |
+| [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 | 2026-03-06 |  |
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
 | [no evidence](https://open.spotify.com/track/3SbYA5SX1jA1sLpbume305) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [anytime but now](https://open.spotify.com/album/3DHm8gapNXPAuy9RuRD6xc) | 2:52 | 2025-08-14 |  |
 | [No Lover](https://open.spotify.com/track/37V9X9p9qwOarHwCjsCSRr) | [Haryx](https://open.spotify.com/artist/3KyoaBJkZoxcSSuFnuv9lA) | [No Lover](https://open.spotify.com/album/4TAfyJTinnMVPLUfnEz6gX) | 2:30 | 2025-11-03 |  |
@@ -122,6 +123,7 @@
 | [Pussy](https://open.spotify.com/track/3KYujzyF0dbCwsJAEb4Djf) | [C4BASS](https://open.spotify.com/artist/2R18tm7N0kJVNrtVTAs6Fw), [Jhey Dottor](https://open.spotify.com/artist/2LGdqmsihZguVs2AAbIfV4) | [Pussy](https://open.spotify.com/album/0izPf4zGr5MYpKSNpIUUHn) | 2:26 | 2026-02-25 |  |
 | [Que somos¿](https://open.spotify.com/track/0SARdMrIILVY8go5R421YG) | [Marche](https://open.spotify.com/artist/5x8Xce2apfeu5ETjcA0Das) | [Que somos¿](https://open.spotify.com/album/7kQMcWVDuXVW9ZIebJFIRp) | 1:59 | 2025-03-12 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-04-01 |  |
+| [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-06 |  |
 | [Rediscover](https://open.spotify.com/track/6jcQAF29ks7utSXJhngxmP) | [SurfingDJs](https://open.spotify.com/artist/6AY5RfIP4ITA8k7K4lRex3) | [Rediscover](https://open.spotify.com/album/0KCa2Z68Iqm32QKn5Uhgan) | 4:01 | 2026-02-17 |  |
 | [relapse](https://open.spotify.com/track/3CvRv1klCmdwGoOTRyJawj) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [relapse](https://open.spotify.com/album/0Yl4XnXHS0trdkI8rvFqyS) | 3:06 | 2025-03-26 |  |
 | [Return of a King](https://open.spotify.com/track/5WtPqlQHxx50OFEGFiO6pv) | [Killian Ordono](https://open.spotify.com/artist/1yMfzq45DtTDq4SGtHNRo4), [IzRosh](https://open.spotify.com/artist/2p1bgggvCXinSQz2OtBHXu), [Jayy Dogg](https://open.spotify.com/artist/33LUb0cLTRldb9HEzejGBC) | [Return of a King](https://open.spotify.com/album/3XFMPFaloBNSXpNZPWwCBC) | 2:17 | 2025-03-12 |  |

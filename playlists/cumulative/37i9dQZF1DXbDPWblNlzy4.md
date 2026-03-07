@@ -2,9 +2,9 @@
 
 ### [Frecuencia Pop](https://open.spotify.com/playlist/37i9dQZF1DXbDPWblNlzy4)
 
-> Los éxitos más POPulares en español los encuentras aquí\. Foto: Joaquina
+> Los éxitos más POPulares en español los encuentras aquí\. Foto: Laura Maré
 
-525 songs - 1 day 3 hr 26 min
+527 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Misión Imposible](https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [tres](https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd) | 2:34 | 2024-05-10 |  |
 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 | 2023-03-17 | 2023-10-01 |
 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 | 2023-11-24 | 2024-05-11 |
+| [Muchas \(MUCHAS\) gracias](https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS) | 2:13 | 2026-03-06 |  |
 | [Mucho Más Que Ayer](https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Mucho Más Que Ayer](https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS) | 3:42 | 2025-09-05 | 2026-01-31 |
 | [Mujer](https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [SECO](https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD) | 4:36 | 2025-01-17 |  |
 | [Multicolor](https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Multicolor](https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF) | 3:40 | 2024-05-24 | 2024-07-19 |
@@ -339,7 +340,7 @@
 | [Ni Feliz Ni Triste](https://open.spotify.com/track/7gVjCWszGK1EsGaqpfGlZX) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Alta Fidelidad: El Mixtape](https://open.spotify.com/album/42o7ybB55bGnKbfv9nLuhb) | 2:46 | 2025-07-11 | 2025-10-18 |
 | [Niña Mía](https://open.spotify.com/track/2zLl44y8k324ML18Jcpre8) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [No Le Creas a Tu Cabeza \(Cuando T Diga Que No Mereces Eso Que Tú Hiciste Realidad\)](https://open.spotify.com/album/51B03yAKFGkkk2uFFkJDeI) | 2:30 | 2025-05-23 | 2025-07-19 |
 | [Niño Yo Te Amé](https://open.spotify.com/track/2WqlC0I8UXKGDqO5IBvrgc) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Niño Yo Te Amé](https://open.spotify.com/album/3G5Cifil07gObHvzhJtCe8) | 3:07 | 2024-11-15 |  |
-| [No Basta Con Querernos Más \- Spotify Sessions \(Acústico\)](https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Nsqk \- Spotify Sessions](https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL) | 2:50 | 2026-01-30 |  |
+| [No Basta Con Querernos Más \- Spotify Sessions \(Acústico\)](https://open.spotify.com/track/75k7sXf2eclJPy7pU1XRka) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Nsqk \- Spotify Sessions](https://open.spotify.com/album/20eVKdTYyAfrnevyqPNrqL) | 2:50 | 2026-01-30 | 2026-03-07 |
 | [No Creo En Mujeres](https://open.spotify.com/track/1khZCgEjEDU5O3SvFXhvAw) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [The Classics, Vol\. 1](https://open.spotify.com/album/7Fk8BYKoCrlqVHAyYY7yfP) | 3:33 | 2023-10-27 | 2023-11-11 |
 | [No Es Suficiente](https://open.spotify.com/track/6HtDbgyCH4O0SeOkoQ4yGm) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [No Es Suficiente](https://open.spotify.com/album/7KQ3Uvk69GpWX2xqr0UXDV) | 3:02 | 2024-01-12 | 2024-02-03 |
 | [No Escuches Esta Canción](https://open.spotify.com/track/6KAuZJVlWj9yOcw0CJTNKR) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [No Escuches Esta Canción](https://open.spotify.com/album/5X3VP73kaBFCmaVxEzxcCI) | 3:11 | 2024-06-14 | 2024-07-19 |
@@ -362,6 +363,7 @@
 | [Nudo Ciego](https://open.spotify.com/track/3f8pzgpatzDxuD68POqhoj) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Nudo Ciego](https://open.spotify.com/album/38rtFXKY5ccZnS4Opplsqk) | 2:45 | 2023-03-17 | 2023-04-15 |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-08-18 | 2023-10-18 |
 | [Nunca Deja de Llover](https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Nunca Deja De Llover](https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I) | 2:50 | 2023-06-23 | 2023-09-09 |
+| [Nunca Me Lo Esperé](https://open.spotify.com/track/7gtowQfLM1t2nlS1ZKG6uk) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Nunca Me Lo Esperé](https://open.spotify.com/album/1PWDNAdAcDUbyMPUHMHGoa) | 2:45 | 2026-03-06 |  |
 | [Nunca Tuve Tanto](https://open.spotify.com/track/676WeBQ2T3dW4p8mywOZvG) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nunca Tuve Tanto](https://open.spotify.com/album/1yHxFivky2OZXF0lNBxrzB) | 2:49 | 2023-05-26 | 2024-02-17 |
 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 | 2023-10-06 | 2024-06-01 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-14 | 2023-05-20 |

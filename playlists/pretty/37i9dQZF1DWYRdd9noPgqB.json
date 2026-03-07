@@ -1,12 +1,12 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 299060,
+  "num_followers": 299051,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACxKpKir9nJGdJ+DIJCAWJqr/XqM",
+  "snapshot_id": "AAAAAD/kHf4mfFnYScPAJysbW9NUy9Vn",
   "tracks": [
     {
       "added_at": "2026-02-26 23:00:32",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "Slow Tonight",
+        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 192495,
+      "name": "Slow Tonight",
+      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Take A Drive",
         "url": "https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 253350,
       "name": "Let It All Out",
       "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Slow Tonight",
-        "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 192495,
-      "name": "Slow Tonight",
-      "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -243,22 +243,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "lost",
         "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 181737,
       "name": "lost",
       "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/28LN7UaMESB80svwZttTYF"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "Blue Sky Mentality",
-        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 176985,
-      "name": "Walk Walk Walk",
-      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "un th\u00e9?",
         "url": "https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 152659,
       "name": "un th\u00e9?",
       "url": "https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "Blue Sky Mentality",
+        "url": "https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 176985,
+      "name": "Walk Walk Walk",
+      "url": "https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "Chronologic",
+        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
+      },
+      "artists": [
+        {
+          "name": "Caravan Palace",
+          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Sweet Emotion",
         "url": "https://open.spotify.com/album/5mILhipavFpMWDb54C4dPh"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 247588,
       "name": "Eden",
       "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Chronologic",
-        "url": "https://open.spotify.com/album/1cj8QzlUPWBiMicVFU1Ry7"
-      },
-      "artists": [
-        {
-          "name": "Caravan Palace",
-          "url": "https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/2tGDVVK0QBtiF9K4nGeNmh"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
+        "name": "Feel Myself / Wait For You",
+        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 164002,
+      "name": "Feel Myself",
+      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
         "name": "Electronicity",
         "url": "https://open.spotify.com/album/3WPR5y3pK1RW3GMt9ivjUC"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 193604,
       "name": "Jupiter and Mars",
       "url": "https://open.spotify.com/track/16t5EAiyN5QoxAi17KIR88"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
-        "name": "Feel Myself / Wait For You",
-        "url": "https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 164002,
-      "name": "Feel Myself",
-      "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "The House That Doesn\u2019t Exist",
-        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 143985,
-      "name": "The House That Doesn\u2019t Exist",
-      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Give Me Your Love Back",
         "url": "https://open.spotify.com/album/4r1zRFQ6pgIPFid4U7ztUO"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 176097,
       "name": "Give Me Your Love Back",
       "url": "https://open.spotify.com/track/070mI5fDgAV77ZBrmoAcfs"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "The House That Doesn\u2019t Exist",
+        "url": "https://open.spotify.com/album/3KrWKehFGLzIywovhhRoUx"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 143985,
+      "name": "The House That Doesn\u2019t Exist",
+      "url": "https://open.spotify.com/track/2EW7Z014nM1OJkU2OMhzQL"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 159078,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
-    },
-    {
-      "added_at": "2026-02-26 23:00:32",
-      "album": {
         "name": "Dodged A Bullet",
         "url": "https://open.spotify.com/album/6kLLJQFrfLqvl71WdqQLz9"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 158658,
       "name": "Dodged A Bullet",
       "url": "https://open.spotify.com/track/4RQ5rPSO5B0PDoV4hrz7Cw"
+    },
+    {
+      "added_at": "2026-02-26 23:00:32",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/4GZkJrxJFY9dPuG919zAmQ"
+      },
+      "artists": [
+        {
+          "name": "Melody's Echo Chamber",
+          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
+        }
+      ],
+      "duration_ms": 159078,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2Derfdf5dzn6LXehZFR5Qj"
     },
     {
       "added_at": "2026-02-26 23:00:32",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2026-02-26 23:00:32",
       "album": {
-        "name": "The Meeting (Deluxe)",
-        "url": "https://open.spotify.com/album/6hJvlNYhmPZeJH19TTAKde"
+        "name": "Note to self",
+        "url": "https://open.spotify.com/album/6cONV0PwNUpEoaEtnQrKoQ"
       },
       "artists": [
         {
-          "name": "Astels",
-          "url": "https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii"
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
         }
       ],
-      "duration_ms": 173172,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/367jZlkmOpSqMGwjlRvQrp"
+      "duration_ms": 165458,
+      "name": "Note to self",
+      "url": "https://open.spotify.com/track/4kLzXyCBn0kUOFihOaOxXZ"
     }
   ],
   "unique_name": "Feel Good",

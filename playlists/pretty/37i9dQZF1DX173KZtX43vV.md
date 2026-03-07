@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Ty Dolla $ign
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,570 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,577 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 20 | [Mona Lisa Who?](https://open.spotify.com/track/1TmoPIuxoNJ4iEYXp2zh5J) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Mona Lisa Who?](https://open.spotify.com/album/43ygofdDUcI8kZO0kBe8cN) | 3:00 |
 | 21 | [Rollercoaster](https://open.spotify.com/track/4mzuXvJc0Qnsq2z3r4vBcw) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy) | [Rollercoaster Of Emotions](https://open.spotify.com/album/1O0ZsU6VnOb1I08ehIl0GX) | 2:15 |
 | 22 | [Chai Tea](https://open.spotify.com/track/2JXuK1aN70Km9IS65oKLNq) | [oopsy](https://open.spotify.com/artist/0XOrxQAiCY2IEoJdw9dvf6) | [Chai Tea](https://open.spotify.com/album/4ViaLQ0lFWagpmFPQ35KZx) | 1:34 |
-| 23 | [no friend, no lover \(feat\. Keaton Henson\)](https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [no friend, no lover \(feat\. Keaton Henson\)](https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp) | 3:24 |
+| 23 | [no friend, no lover](https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [no friend, no lover](https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp) | 3:24 |
 | 24 | [Ready for the Ride](https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Ready for the Ride](https://open.spotify.com/album/0rSKLa2MWT7QVQLdczMGuk) | 3:27 |
 | 25 | [Point To Prove](https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Point To Prove](https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK) | 2:18 |
 | 26 | [PARTYGYAL](https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [PARTYGYAL](https://open.spotify.com/album/58KANh9hTj5sxFClFIuTty) | 2:47 |

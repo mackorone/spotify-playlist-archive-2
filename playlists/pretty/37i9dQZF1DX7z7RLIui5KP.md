@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Mejja
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,104 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,118 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [M.O.T.O](https://open.spotify.com/track/13RrmTzCsknCAV7jb1hPnx) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ), [SUNS3T](https://open.spotify.com/artist/5W3JLL9j3Xwn9wScCLFHSt) | [M.O.T.O](https://open.spotify.com/album/1z3vDn9mlXrNfJgXeXIdwb) | 3:19 |
 | 2 | [Better Love](https://open.spotify.com/track/48FW62a8isVS443e7EaIUE) | [V\-Be](https://open.spotify.com/artist/4J1fmBdd2R01ls06DjuccW), [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT) | [Better Love](https://open.spotify.com/album/2K6u2p51mwoN9MbDNWzFAI) | 3:02 |
-| 3 | [Track 6](https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 0:00 |
+| 3 | [Confidence](https://open.spotify.com/track/41iNGuUsKmvNv8cQtiyFU3) | [Mejja](https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [Mtoto wa Khadija](https://open.spotify.com/album/2K7N2vaEzwGlz8TX91cFfn) | 2:41 |
 | 4 | [All Over](https://open.spotify.com/track/3rByEZzH7lk609vg6pAn3m) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu) | [All Over](https://open.spotify.com/album/19i8esoItUheg9XSpqjf78) | 3:22 |
 | 5 | [Mafrrrmbanya](https://open.spotify.com/track/31M7GUY837ioZrO1M9FX7E) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Hekaya](https://open.spotify.com/album/2kTsEaD1ueaIy6diuV7qKP) | 2:57 |
 | 6 | [More](https://open.spotify.com/track/2khOVgq6GJRUaANyp8kUgO) | [Mwanaa](https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa), [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ), [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp), [SoFresh 254](https://open.spotify.com/artist/2fKzlGIaEWqBYFLICdRJFP) | [More](https://open.spotify.com/album/5CMzUP97soB0N3VEWUkNyn) | 4:27 |

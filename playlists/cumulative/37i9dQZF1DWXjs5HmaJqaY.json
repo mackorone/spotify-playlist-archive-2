@@ -1885,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Engine",
+        "url": "https://open.spotify.com/album/0vD5h7ShEyz40OqiHrw5Dx"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480000,
+      "name": "Engine",
+      "url": "https://open.spotify.com/track/1gLucsjGXqpbyiA8Hkp8Z1"
+    },
+    {
+      "album": {
         "name": "A.I.",
         "url": "https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy"
       },
@@ -3848,6 +3866,28 @@
       "duration_ms": 423750,
       "name": "Lost in the Labyrinth",
       "url": "https://open.spotify.com/track/44fLHRYTOm2GBUXTbiNHVM"
+    },
+    {
+      "album": {
+        "name": "Loud Music",
+        "url": "https://open.spotify.com/album/5rircDPYgvidUixZCjK0KT"
+      },
+      "artists": [
+        {
+          "name": "Eric Wishes",
+          "url": "https://open.spotify.com/artist/5dGWriwUqrYL96UnZ2FPHp"
+        },
+        {
+          "name": "Stefan Hollaender",
+          "url": "https://open.spotify.com/artist/7nWt0T6CwrGLek3B4686vI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218409,
+      "name": "Loud Music - Club Mix",
+      "url": "https://open.spotify.com/track/1JwHKVqIjTUF3uERfVCNIq"
     },
     {
       "album": {
@@ -6928,6 +6968,24 @@
       "duration_ms": 270447,
       "name": "Voices of Caladan",
       "url": "https://open.spotify.com/track/7fW4t2EhyPSqxyYYfcVC2V"
+    },
+    {
+      "album": {
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/6TFEuSiVIP6kVbUtPKmkNI"
+      },
+      "artists": [
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/2y1G8H9dm0vrsEExAFVklj"
     },
     {
       "album": {

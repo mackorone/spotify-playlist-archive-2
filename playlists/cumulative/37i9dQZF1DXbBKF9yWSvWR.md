@@ -4,7 +4,7 @@
 
 > Wekelijkse update met de beste Indie releases\. Cover: Kids With Buns
 
-768 songs - 1 day 21 hr 6 min
+769 songs - 1 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,7 +287,7 @@
 | [Here Comes The Summer](https://open.spotify.com/track/1o3VBLCPBjwM9npexE4Ig0) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [Here Comes The Summer](https://open.spotify.com/album/6WT7wDTt8ZUawLduyUKRTs) | 3:36 | 2026-01-12 | 2026-02-14 |
 | [Hey Now \(feat\. Tessa Rose Jackson\)](https://open.spotify.com/track/00DHyjqbIU9p9fnBYYUUgR) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE), [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ) | [Hey Now \(feat\. Tessa Rose Jackson\)](https://open.spotify.com/album/0Djgc0OCahAYIzs5BryJeo) | 4:27 | 2025-04-11 | 2025-06-27 |
 | [High Life](https://open.spotify.com/track/51CpldyP285fsyago28ncM) | [Lov3less](https://open.spotify.com/artist/35uSH8tDlmVMM4Z4RpcxY8) | [High Life](https://open.spotify.com/album/78vyonhsN8TAxopDc73yUP) | 2:43 | 2024-06-24 | 2024-08-02 |
-| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-12-08 |  |
+| [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 | 2025-12-08 | 2026-03-07 |
 | [Hocus Pocus](https://open.spotify.com/track/2ToN3eKF4xLBM0yihlNQB0) | [Sylvie Kreusch](https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl) | [Hocus Pocus](https://open.spotify.com/album/20MzdqGreRzxHFxWIdXFgF) | 3:18 | 2024-06-27 | 2024-10-24 |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-06-24 | 2024-07-05 |
 | [Home](https://open.spotify.com/track/5LqHalawZqviSYyhq4KxMf) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Home](https://open.spotify.com/album/6iB29E0Lo8vM1F0Hg5KTmR) | 2:11 | 2025-06-26 | 2025-09-13 |
@@ -625,6 +625,7 @@
 | [Stuff I Don't Need](https://open.spotify.com/track/58nQiapDkRiWzqncAAhUYq) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Stuff I Don't Need](https://open.spotify.com/album/2zpoawbfmqKewTBC9KYRYe) | 2:54 | 2024-07-09 | 2024-10-04 |
 | [Sugar Syrup \- Alternate](https://open.spotify.com/track/5RxwvkzZnEzxIdmSkSqM8Y) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sugar Syrup \(Alternate\)](https://open.spotify.com/album/5grvwJ4MTyhXUdEYRGOE6g) | 3:03 | 2025-09-12 | 2025-11-25 |
 | [Sun Goes Down](https://open.spotify.com/track/1lujMVHrOumNJKaUK3YNnJ) | [SYNGA](https://open.spotify.com/artist/1ceK58kt6VUiqWfYwQ15aU) | [Sun Goes Down](https://open.spotify.com/album/4uoEwBj0BH6TKrqTFAAsdW) | 3:17 | 2024-07-26 | 2024-08-31 |
+| [Sunday Light](https://open.spotify.com/track/3aysr8fLK4g3qR6aaNITKM) | [Anna Calvi](https://open.spotify.com/artist/50sSN9E5i4DJzYDclAXlSo), [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA), [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:02 | 2026-03-06 |  |
 | [sunflower boy](https://open.spotify.com/track/2SVgcMYIiFJ1wQK1yiprjP) | [FLORA](https://open.spotify.com/artist/3QroRhBWtyB95SWJ7kyj5W) | [sunflower boy](https://open.spotify.com/album/1GupNMDuAKHrKlhHJNrokM) | 2:26 | 2024-06-24 | 2024-08-31 |
 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 | 2025-01-16 | 2025-03-29 |
 | [Supernatural](https://open.spotify.com/track/41z3cq0r6dOEQYS6r3yNO6) | [TJE](https://open.spotify.com/artist/7MpTEotcUgJBQ0rMLYS2mb) | [Supernatural](https://open.spotify.com/album/2LbenpUg0eW2nsBeyU9k2I) | 3:37 | 2026-01-30 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Chayan, Yudee, Yoki and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Sameer Rahat, Yudee, Yoki and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -9396,7 +9396,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217500,
       "name": "Hona Likha Tha",
       "url": "https://open.spotify.com/track/6xvYu1IXEpxo6JC0MY0YDx"
@@ -15175,6 +15175,28 @@
     },
     {
       "album": {
+        "name": "Lambi SHAAM",
+        "url": "https://open.spotify.com/album/4TdMuZyOzbdxwfPbs6mCNE"
+      },
+      "artists": [
+        {
+          "name": "Sameer Rahat",
+          "url": "https://open.spotify.com/artist/0GjCAhxXdNW2Cje8YIHxp0"
+        },
+        {
+          "name": "Mir Kashif Iqbal",
+          "url": "https://open.spotify.com/artist/2pbx8FCpifrZIn1uuosOvv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277831,
+      "name": "Lambi SHAAM",
+      "url": "https://open.spotify.com/track/2QNoliHJDaN3fblji7AFdx"
+    },
+    {
+      "album": {
         "name": "Lamha",
         "url": "https://open.spotify.com/album/22CHNkmNX09NS50j8tYICm"
       },
@@ -17897,6 +17919,32 @@
     },
     {
       "album": {
+        "name": "Naaqis",
+        "url": "https://open.spotify.com/album/1UJXIziD8IJn1Hs1WSr1Js"
+      },
+      "artists": [
+        {
+          "name": "Antariksh",
+          "url": "https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l"
+        },
+        {
+          "name": "Jakub Zytecki",
+          "url": "https://open.spotify.com/artist/43EA0mCA9Iiw33kdPtMa1q"
+        },
+        {
+          "name": "MOMIN KHAN",
+          "url": "https://open.spotify.com/artist/1MlngYhDcXLiKXIqabA7s4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287097,
+      "name": "Naaqis",
+      "url": "https://open.spotify.com/track/4Jdktu4oqI3YQDAaAeE24R"
+    },
+    {
+      "album": {
         "name": "nadaaniyan",
         "url": "https://open.spotify.com/album/5iB4wggqDR2cQSduJGBfUy"
       },
@@ -19420,7 +19468,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212526,
       "name": "Parwah Nahi",
       "url": "https://open.spotify.com/track/5bIntORzqsTc97he8qux2M"
@@ -23037,6 +23085,24 @@
     },
     {
       "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/5xQugUos41LTOBMLLno8e2"
+      },
+      "artists": [
+        {
+          "name": "Chayan",
+          "url": "https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265945,
+      "name": "Shabnam",
+      "url": "https://open.spotify.com/track/5cBNutkawRifoxL1jGTg9X"
+    },
+    {
+      "album": {
         "name": "Shakkarpari",
         "url": "https://open.spotify.com/album/5XoIbseclC8BhggTODTDFH"
       },
@@ -25786,7 +25852,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 0,
       "name": "Track 4",
       "url": "https://open.spotify.com/track/7IoHsgosn84V7GSHUh4esd"

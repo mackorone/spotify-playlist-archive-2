@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,052 likes - 93 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,070 likes - 93 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 | 47 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/5mM0WWPQ0rSjBqSvY4JsuR) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Blinkmoth \(July Mix\)](https://open.spotify.com/album/0FxHgSpMi30Sgb3n7Ii2Aj) | 7:03 |
 | 48 | [Strong\-Willed](https://open.spotify.com/track/6DD3ItePqdlLpjjO8xVdge) | [Pavel Milyakov](https://open.spotify.com/artist/5E8J16XR1FuqmFNkL65CKo), [Yana Pavlova](https://open.spotify.com/artist/2jdPeiZyx76yDPEjyBWeuX) | [Blue](https://open.spotify.com/album/2G2NMMqNJFhxQb3JWOROeR) | 5:26 |
 | 49 | [JK](https://open.spotify.com/track/2g3AGeOP7N7fWgauYrutFY) | [Lavurn](https://open.spotify.com/artist/5d49daKe25neM4xGYit9Od) | [Lavurn](https://open.spotify.com/album/6Burf70t95L4FDKc24MO3g) | 5:11 |
-| 50 | [Protecting Hands Pt 2](https://open.spotify.com/track/1gV0eBmQqSimzZMoiEnLnI) | [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Protecting Hands](https://open.spotify.com/album/7zkrLEkV8tA5el3qQy1f5X) | 4:51 |
+| 50 | [Protecting Hands Pt 2](https://open.spotify.com/track/1gV0eBmQqSimzZMoiEnLnI) | [Clouds](https://open.spotify.com/artist/5TjGtWygxS7XTmbCbvR5Gp) | [Protecting Hands](https://open.spotify.com/album/7zkrLEkV8tA5el3qQy1f5X) | 4:51 |
 | 51 | [Lift You](https://open.spotify.com/track/14Pbm2W3kF8lEc0EGDsdjH) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e), [Sophia Al\-Maria](https://open.spotify.com/artist/2dkpXyS21IPCnBHrghiJ3k) | [You Never End](https://open.spotify.com/album/06IJJi2iZOfJvHWFM8lRI9) | 3:52 |
 | 52 | [Kicked Out by Seven](https://open.spotify.com/track/7C3WQU2fIKc6lZmz8aNVVN) | [Double Virgo](https://open.spotify.com/artist/6z7qEMTNZigz2k3qozRYw1) | [Eros In The Bunker](https://open.spotify.com/album/3dEfiLTB06J18QUqHPeXxc) | 2:55 |
 | 53 | [Stroke Of Luck](https://open.spotify.com/track/4z9xC8Tp8sKJyFlssVJvwA) | [Tryphème](https://open.spotify.com/artist/4eQGHcndwAUIvowedpuiwE) | [Odd Balade](https://open.spotify.com/album/7GdLoityBaCRBphiRAdVcc) | 4:01 |

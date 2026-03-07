@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
+> Best of Punjabi Hip\-Hop! Cover:  Jxggi
 
-322 songs - 15 hr 56 min
+323 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Shah Ji](https://open.spotify.com/track/0e4uipfFzht1FPT7l3Wx2u) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/0bIeOOk2klDQTbtgkx7SwE) | 3:57 | 2023-06-23 | 2024-04-19 |
 | [Shah Ji](https://open.spotify.com/track/6SoqPMebHJMj4imd2vIZPQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Shah Ji](https://open.spotify.com/album/5x8cDu0sNQK9T9VHmG68qi) | 3:57 | 2023-03-18 | 2024-10-17 |
 | [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-11-07 | 2025-11-22 |
-| [Shikari](https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Shikari](https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK) | 2:48 | 2025-04-18 |  |
+| [Shikari](https://open.spotify.com/track/6NK0r2uRTDVRjFM8mlienL) | [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Shikari](https://open.spotify.com/album/5nnfRcMzQF2qSl3XhAS9CK) | 2:48 | 2025-04-18 | 2026-03-07 |
 | [Shoes Off](https://open.spotify.com/track/6yLHfNMsOXkGOacTJdK5zn) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Iqbal](https://open.spotify.com/artist/6RWbIF7ghLlX3R3J32QRTp), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Shoes Off](https://open.spotify.com/album/3DdWTfPbTgtEiP95BDFctH) | 3:49 | 2025-07-11 | 2025-08-27 |
 | [Shopping List \(From "Leonization"\)](https://open.spotify.com/track/0lvzBRk7cpnMIlQ4EBMB3R) | [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Shopping List \(From "Leonization"\)](https://open.spotify.com/album/1wnW9BMrnmsf64WIxPqszW) | 2:58 | 2025-04-25 |  |
 | [Silicone](https://open.spotify.com/track/0qLjHFymEO1R7JSCeqomqQ) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [Silicone](https://open.spotify.com/album/1RqwEmbCknatOwhjzxRMLV) | 3:26 | 2023-04-23 | 2023-06-24 |
@@ -308,6 +308,7 @@
 | [These Days \(feat\. Bohemia\)](https://open.spotify.com/track/2zQE8TE5BQDJA11ggnope9) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:29 | 2023-03-18 | 2024-11-12 |
 | [They Know](https://open.spotify.com/track/5aNAawi2jFEe0qGPJSogRp) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:24 | 2023-03-18 | 2025-01-25 |
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 | 2024-10-11 |
+| [Thug Love](https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Through Her Eyes](https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk) | 2:46 | 2026-03-06 |  |
 | [Time Is Money](https://open.spotify.com/track/2qfgB5I2DCpnFLUIcNPTNR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Time Is Money](https://open.spotify.com/album/6kJgtWHygct1bH5kGEJPFQ) | 2:06 | 2025-06-06 |  |
 | [Todh](https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Munawar Faruqui](https://open.spotify.com/artist/7yLGN6pQ3Fll8eWpjJwwQl), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Todh](https://open.spotify.com/album/1Bizgnf47ZtwxKiQtTDMrx) | 3:56 | 2023-03-18 | 2025-04-12 |
 | [TOP DAWG](https://open.spotify.com/track/6utrzFB2h4OTocXYng2V4M) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [4 Da Gang](https://open.spotify.com/album/3X3BRgSMlXiaWJflJHCMpH) | 2:49 | 2024-11-21 |  |

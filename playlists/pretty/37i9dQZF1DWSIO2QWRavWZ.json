@@ -1,13 +1,65 @@
 {
-  "description": "New music from your favorite women.  Cover: Nali and Coi Leray",
-  "num_followers": 230047,
+  "description": "New music from your favorite women.  Cover: Nia Smith",
+  "num_followers": 230085,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANBQ5RMn1VLN+3YfzJMbB9mSf3k0",
+  "snapshot_id": "AAAAAKpPscjUfIkOJbtVlJ/8KG/pE7+1",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 195325,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO"
+    },
+    {
+      "added_at": "2026-02-13 05:40:53",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "duration_ms": 291513,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Gemini Eyes",
+        "url": "https://open.spotify.com/album/6v9iRVS2E9epoj2xr1c2tL"
+      },
+      "artists": [
+        {
+          "name": "Arima Ederra",
+          "url": "https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3"
+        }
+      ],
+      "duration_ms": 299520,
+      "name": "Gemini Eyes",
+      "url": "https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd"
+    },
     {
       "added_at": "2026-02-27 08:07:16",
       "album": {
@@ -45,6 +97,58 @@
       "url": "https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888"
     },
     {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Need it Bad (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 187096,
+      "name": "Need it Bad - feat. Brent Faiyaz",
+      "url": "https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Don\u2019t Come Home",
+        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
+      },
+      "artists": [
+        {
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
+        }
+      ],
+      "duration_ms": 109966,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn"
+    },
+    {
       "added_at": "2026-02-27 08:07:16",
       "album": {
         "name": "Miss That",
@@ -61,20 +165,20 @@
       "url": "https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE"
     },
     {
-      "added_at": "2026-02-13 05:40:53",
+      "added_at": "2026-03-06 05:18:12",
       "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/7H0zJ2YjvitbNFGqwmTbgu"
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/1n5EdNTC19hyG6v9VIK0Ac"
       },
       "artists": [
         {
-          "name": "Victoria Mon\u00e9t",
-          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+          "name": "MALIA",
+          "url": "https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6"
         }
       ],
-      "duration_ms": 291513,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
+      "duration_ms": 187360,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2RKMszeCzgVDRp425arKKT"
     },
     {
       "added_at": "2026-02-27 08:07:16",
@@ -91,6 +195,22 @@
       "duration_ms": 146363,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Deposit",
+        "url": "https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU"
+      },
+      "artists": [
+        {
+          "name": "Storm Ford",
+          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
+        }
+      ],
+      "duration_ms": 142229,
+      "name": "F.O.O.L",
+      "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -129,20 +249,36 @@
       "url": "https://open.spotify.com/track/2K9I0bmmcNBrAfOfGWMOVX"
     },
     {
-      "added_at": "2026-02-27 08:07:16",
+      "added_at": "2026-03-06 05:18:12",
       "album": {
-        "name": "LMK",
-        "url": "https://open.spotify.com/album/7kxQ2FUM4JqnwwJ5y37Z2F"
+        "name": "G.O.D.",
+        "url": "https://open.spotify.com/album/5RPqaJYNh2zQmeLCRdvnkm"
       },
       "artists": [
         {
-          "name": "Jastin Martin",
-          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
         }
       ],
-      "duration_ms": 136488,
-      "name": "LMK",
-      "url": "https://open.spotify.com/track/6eMqWfGVODOuquKiZ316UG"
+      "duration_ms": 147500,
+      "name": "G.O.D.",
+      "url": "https://open.spotify.com/track/2VUaCpFcrgpjMZiWvDncE7"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Nothing To Say",
+        "url": "https://open.spotify.com/album/5HmKal8MVZAn7vmbk8R8Zr"
+      },
+      "artists": [
+        {
+          "name": "Adanna Duru",
+          "url": "https://open.spotify.com/artist/3Ov1o1t4WuiZfVcU7rXG90"
+        }
+      ],
+      "duration_ms": 189227,
+      "name": "Nothing To Say",
+      "url": "https://open.spotify.com/track/2EWhT6sApw6LSZi9ECKsjk"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -209,20 +345,36 @@
       "url": "https://open.spotify.com/track/3AKXYHa9w1gyX1fEAwDssN"
     },
     {
-      "added_at": "2026-02-20 06:05:29",
+      "added_at": "2026-03-06 05:18:12",
       "album": {
-        "name": "Save The Day (From \"Hoppers\")",
-        "url": "https://open.spotify.com/album/64nT7kIqLeG2Z3mz8OVubL"
+        "name": "Follow Your Direction",
+        "url": "https://open.spotify.com/album/1wdaTBq43kCrSb0QMGk8Rf"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Jazlyn Martin",
+          "url": "https://open.spotify.com/artist/6qnQ8pEWian26DWdjRMXr0"
         }
       ],
-      "duration_ms": 172333,
-      "name": "Save The Day - From \"Hoppers\"",
-      "url": "https://open.spotify.com/track/1OLttIkaPLvRnYkLAIkmnb"
+      "duration_ms": 180000,
+      "name": "Follow Your Direction",
+      "url": "https://open.spotify.com/track/3gtTzAZdndu1iF0fdAEyAL"
+    },
+    {
+      "added_at": "2026-02-27 08:07:16",
+      "album": {
+        "name": "LMK",
+        "url": "https://open.spotify.com/album/7kxQ2FUM4JqnwwJ5y37Z2F"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "duration_ms": 136488,
+      "name": "LMK",
+      "url": "https://open.spotify.com/track/6eMqWfGVODOuquKiZ316UG"
     },
     {
       "added_at": "2026-02-27 08:07:16",
@@ -327,6 +479,22 @@
       "duration_ms": 217570,
       "name": "My Bag",
       "url": "https://open.spotify.com/track/5wf7ByRR1su9s6vKg3y1Xs"
+    },
+    {
+      "added_at": "2026-03-06 05:18:12",
+      "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/2VqTbLEoditxboQwT8h1ix"
+      },
+      "artists": [
+        {
+          "name": "Ama Louise",
+          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
+        }
+      ],
+      "duration_ms": 158685,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2Y0EVQZvvA16eoejvPfW12"
     },
     {
       "added_at": "2026-02-20 06:05:29",
@@ -1029,22 +1197,6 @@
       "url": "https://open.spotify.com/track/0A9JjK85okDiAue5YhYlEc"
     },
     {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/2HxAj9mulZk9cmPZPmew8W"
-      },
-      "artists": [
-        {
-          "name": "Gabby Samone",
-          "url": "https://open.spotify.com/artist/7HG0h68edTQghFb450QSJK"
-        }
-      ],
-      "duration_ms": 220501,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6dMELI5Qt3qfU5C4GFqTOs"
-    },
-    {
       "added_at": "2025-11-14 09:13:01",
       "album": {
         "name": "CiCi (Deluxe)",
@@ -1197,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0HqIvIEYPWDnI2gSmyxWZy"
     },
     {
-      "added_at": "2025-12-19 05:00:40",
-      "album": {
-        "name": "irl",
-        "url": "https://open.spotify.com/album/7CO0JrpBZWeK7oiNFzNeJh"
-      },
-      "artists": [
-        {
-          "name": "QUIN",
-          "url": "https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA"
-        }
-      ],
-      "duration_ms": 217162,
-      "name": "irl",
-      "url": "https://open.spotify.com/track/4Xm4vhlJi5cwbfizY6uhR1"
-    },
-    {
       "added_at": "2026-01-23 05:42:11",
       "album": {
         "name": "Almost There",
@@ -1309,22 +1445,6 @@
       "url": "https://open.spotify.com/track/0DW2oDjvCpHYWAGPboo3jr"
     },
     {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Hot Body",
-        "url": "https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Hot Body",
-      "url": "https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6"
-    },
-    {
       "added_at": "2025-11-21 11:20:02",
       "album": {
         "name": "Officer, Pt. 2",
@@ -1355,22 +1475,6 @@
       "duration_ms": 165920,
       "name": "Limit",
       "url": "https://open.spotify.com/track/6NkJkPVDH8BRWTJXerQU2t"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Never Been to the Parties",
-        "url": "https://open.spotify.com/album/2L4H4SK26xLW6x7JjG9OjK"
-      },
-      "artists": [
-        {
-          "name": "Tiara Thomas",
-          "url": "https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI"
-        }
-      ],
-      "duration_ms": 291437,
-      "name": "Never Been to the Parties",
-      "url": "https://open.spotify.com/track/2yYj3utfIB8M10IoCwTYuj"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -1455,22 +1559,6 @@
       "duration_ms": 241507,
       "name": "know about me (feat. GloRilla)",
       "url": "https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY"
-    },
-    {
-      "added_at": "2025-11-14 09:13:01",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/0JFcLrkPDSyFJASHH94uII"
-      },
-      "artists": [
-        {
-          "name": "Essosa",
-          "url": "https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/2OY1FPx3DtP1EejTyIMG1f"
     },
     {
       "added_at": "2025-12-19 05:00:40",
@@ -1677,22 +1765,6 @@
       "url": "https://open.spotify.com/track/0X5obnBCTtXdhJgTwuJ1L5"
     },
     {
-      "added_at": "2025-10-24 04:00:29",
-      "album": {
-        "name": "Emergency",
-        "url": "https://open.spotify.com/album/463NSKRGKqug4qqKofhDoC"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        }
-      ],
-      "duration_ms": 181895,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/3nlq6ALlXjM9Ph3ohP1s4m"
-    },
-    {
       "added_at": "2025-11-07 06:06:34",
       "album": {
         "name": "Safe Space",
@@ -1727,22 +1799,6 @@
       "duration_ms": 208626,
       "name": "Always",
       "url": "https://open.spotify.com/track/3Y1aIQRbvcXc7ZxcDC4rvs"
-    },
-    {
-      "added_at": "2025-11-07 06:06:34",
-      "album": {
-        "name": "act right",
-        "url": "https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX"
-      },
-      "artists": [
-        {
-          "name": "Sasha Keable",
-          "url": "https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf"
-        }
-      ],
-      "duration_ms": 173875,
-      "name": "act right",
-      "url": "https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ"
     },
     {
       "added_at": "2025-09-26 04:27:04",
@@ -1819,26 +1875,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Luvergirl",
-        "url": "https://open.spotify.com/album/61eozJ5NzcOYxA41Zi3wuF"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "Tanya Stephens",
-          "url": "https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ"
-        }
-      ],
-      "duration_ms": 125562,
-      "name": "Pity (feat. Tanya Stephens)",
-      "url": "https://open.spotify.com/track/7v92RvFSd3yqp5wUUYVcNH"
     },
     {
       "added_at": "2025-11-14 09:13:01",
@@ -1949,38 +1985,6 @@
       "url": "https://open.spotify.com/track/4z5YYKyexnNgnTF29GZSDj"
     },
     {
-      "added_at": "2025-11-14 09:13:01",
-      "album": {
-        "name": "A Soft Place To Land",
-        "url": "https://open.spotify.com/album/55ggRxWon8h7NSVUG6Tpq6"
-      },
-      "artists": [
-        {
-          "name": "Felicia Temple",
-          "url": "https://open.spotify.com/artist/0F3X6Fta17Df58PeXnaUAv"
-        }
-      ],
-      "duration_ms": 204033,
-      "name": "Two Ships",
-      "url": "https://open.spotify.com/track/2yMzgNJml0Vlp41r3gYSSw"
-    },
-    {
-      "added_at": "2025-11-07 06:06:34",
-      "album": {
-        "name": "Superheroes",
-        "url": "https://open.spotify.com/album/4LalUKgE9vlyvH0KcfDti0"
-      },
-      "artists": [
-        {
-          "name": "Dawn Carroll",
-          "url": "https://open.spotify.com/artist/2Q9GugoDR7xo9NUxVx8w4j"
-        }
-      ],
-      "duration_ms": 163840,
-      "name": "Superheroes",
-      "url": "https://open.spotify.com/track/5mz13HKBlshUYYzi3E69T6"
-    },
-    {
       "added_at": "2025-11-07 06:06:34",
       "album": {
         "name": "Make Me Feel",
@@ -2079,38 +2083,6 @@
       "duration_ms": 169314,
       "name": "10%",
       "url": "https://open.spotify.com/track/7ehB2Wp1OpCNAraJZpBBXI"
-    },
-    {
-      "added_at": "2025-09-26 04:27:04",
-      "album": {
-        "name": "Toot Toot",
-        "url": "https://open.spotify.com/album/6xnkILTaILSmlkZPW7gVtu"
-      },
-      "artists": [
-        {
-          "name": "Tweet",
-          "url": "https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Toot Toot",
-      "url": "https://open.spotify.com/track/4nd047fTPL3XfSpD8Y0b2o"
-    },
-    {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/0VvYgptccj6sVwbTJbSCwY"
-      },
-      "artists": [
-        {
-          "name": "Storm Ford",
-          "url": "https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2"
-        }
-      ],
-      "duration_ms": 214719,
-      "name": "Trying",
-      "url": "https://open.spotify.com/track/0ZyRqzVfrqqGt4XbTzKOVx"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -2385,22 +2357,6 @@
       "url": "https://open.spotify.com/track/0VmI6CdAptZsED2B2HLJVB"
     },
     {
-      "added_at": "2025-10-10 07:33:06",
-      "album": {
-        "name": "Long Story Short",
-        "url": "https://open.spotify.com/album/7b49arVIF7QxfxhkCNl9UN"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "Who's To Blame?",
-      "url": "https://open.spotify.com/track/5ulkr0vGr2u9O1WC2ZsHwW"
-    },
-    {
       "added_at": "2025-09-19 16:39:00",
       "album": {
         "name": "My World (beyond)",
@@ -2415,22 +2371,6 @@
       "duration_ms": 245972,
       "name": "My World (beyond)",
       "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "Forgive & Forget",
-        "url": "https://open.spotify.com/album/4MKYOIlZOjLfZIgn1vgBHf"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Forgive & Forget",
-      "url": "https://open.spotify.com/track/6KafcmIAnIcYOA1Qppfurb"
     },
     {
       "added_at": "2025-09-19 16:39:00",
@@ -2463,26 +2403,6 @@
       "duration_ms": 282444,
       "name": "Same Ol\u2019 Love",
       "url": "https://open.spotify.com/track/2UJV3mMuthhYHRa4KgeMBo"
-    },
-    {
-      "added_at": "2025-09-19 16:39:00",
-      "album": {
-        "name": "All That and More (with Maverick Sabre)",
-        "url": "https://open.spotify.com/album/32xmrLOID1vBsLNtcmIaOB"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        }
-      ],
-      "duration_ms": 196017,
-      "name": "All That and More (with Maverick Sabre)",
-      "url": "https://open.spotify.com/track/6lmqmPp3EnwUi0AkrVXEcl"
     },
     {
       "added_at": "2025-09-19 16:39:00",

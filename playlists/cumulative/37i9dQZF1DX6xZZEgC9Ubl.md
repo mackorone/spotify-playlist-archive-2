@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-968 songs - 1 day 19 hr 50 min
+969 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,7 +528,7 @@
 | [MELODY](https://open.spotify.com/track/6WyFtGksVSqcA4nW37lV74) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/3010O0T0Imh2k7wSbVqgZo) | 2:54 | 2023-09-01 |  |
 | [MELODY](https://open.spotify.com/track/1NfjUyoSiqliAy40rR9CVv) | [Kevin Powers](https://open.spotify.com/artist/4X8TR9pBFyewFlIDYt1o2s) | [MELODY](https://open.spotify.com/album/0rbnod5eDoqsgg8rBWUD1i) | 2:54 | 2023-09-01 | 2024-04-19 |
 | [MEMORIES!](https://open.spotify.com/track/27XMmSWSOXJ7eVb40tH93T) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [TROUBLED MEMORIES!](https://open.spotify.com/album/3OFuRXFkPOzEZbFp3Os28q) | 2:17 | 2021-06-19 |  |
-| [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 | 2021-01-15 |  |
+| [Memory](https://open.spotify.com/track/3UkPmK7Sk0wuLXzVnQihva) | [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [SadBoyProlific](https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z) | [Memory](https://open.spotify.com/album/0vqbFCVFfruEwtG4Au08yD) | 2:14 | 2021-01-15 | 2026-03-07 |
 | [memory\_lo55](https://open.spotify.com/track/2yyApFUUVm7G4ujRr0MT8B) | [Oliver Francis](https://open.spotify.com/artist/0WvTK38rXqPCD5pZMDuX20) | [memory\_lo55\_reloaded](https://open.spotify.com/album/0hsdw1CBoxDAHt33NyfkGP) | 4:23 | 2022-06-10 | 2022-06-17 |
 | [MESS](https://open.spotify.com/track/5ac2xlGNJWLpdpcVUV8DY8) | [Justin Stone](https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk) | [MESS](https://open.spotify.com/album/3sq7L8jBJ80mNvmFdGZp34) | 1:54 | 2021-12-03 | 2022-04-21 |
 | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/track/6kvJA69Zx2u4REmYhqUUhs) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Michelle Pfeiffer \(feat\. lil aaron\)](https://open.spotify.com/album/2c3xoZeO0AO58W4CoJ4g9T) | 4:31 | 2021-02-13 | 2021-02-27 |
@@ -902,6 +902,7 @@
 | [Watch Me Wither](https://open.spotify.com/track/2DaU44ilSPYqUI5T998EBI) | [iamjakehill](https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ) | [Autumn Gloom](https://open.spotify.com/album/4xL8Agj0pO2zwbr0WDO6Ee) | 3:28 | 2021-01-15 | 2021-04-24 |
 | [Water World](https://open.spotify.com/track/557GPWoXsbALezINZhftNf) | [Derek Pope](https://open.spotify.com/artist/5wWvcn0hJXPhCw9eYUody0) | [Miracle Mile](https://open.spotify.com/album/5Yyw9PEcJwpfx6VxSeeENp) | 3:10 | 2021-05-15 | 2022-05-25 |
 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 | 2022-05-20 |  |
+| [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/track/2XhatQ5NqfdqZMLCegWnbD) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [We Don’t Get Along \(with Marshmello\)](https://open.spotify.com/album/7Jpx8HeGHBjfhvDpsy1CJQ) | 2:29 | 2026-03-06 |  |
 | [weak](https://open.spotify.com/track/54aOKrInbwtLdxRUa711Lv) | [Guard](https://open.spotify.com/artist/5T9M6oY1Nf9z6tPSV9XLGl) | [RAT KING](https://open.spotify.com/album/7vFEwu8EGrKg9CRsvhZmOT) | 2:38 | 2021-12-17 | 2021-12-19 |
 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 | 2022-04-29 | 2022-05-07 |
 | [welcome to my world](https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Ouse](https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [Flooding the Gates](https://open.spotify.com/album/3qb2iS8suNWXclQEoAQJUJ) | 2:25 | 2023-06-30 | 2025-07-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 
 > It's giving vibes\. Cover: RnBoi & Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,932 likes - 85 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,931 likes - 85 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2BCjruDQhfl.md) - [plain]
 | 4 | [Niet Alleen](https://open.spotify.com/track/63rbtDV69QDQd7jpsg2MFW) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Niet Alleen](https://open.spotify.com/album/68gEYFDR7LxGuiS1PC9Cdt) | 2:23 |
 | 5 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 |
 | 6 | [Birkin Bag](https://open.spotify.com/track/3gKXEoSctLCasuL2jHWgW5) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Latifah](https://open.spotify.com/artist/1a4DIEh9pp70HzDHgyjioB) | [Birkin Bag](https://open.spotify.com/album/6VpPRW97yPW13qE4ClURQo) | 2:51 |
-| 7 | [Track 2](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 0:00 |
+| 7 | [Red Flag](https://open.spotify.com/track/6Fdx3B2JlJ8OoSNQ8K316W) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Love & Sugar](https://open.spotify.com/album/1jYvKFsjLa6SAvijyfXheX) | 3:06 |
 | 8 | [Cipriani](https://open.spotify.com/track/46HNmYU7eYtTLeppahCVYk) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/0uaSqnvZNTvMPspvhjk1E7) | 2:41 |
 | 9 | [Never Leave Me](https://open.spotify.com/track/5n3H5B5gWOLzxY0w1GF7b6) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Never Leave Me](https://open.spotify.com/album/5byQdsrgBIzBTsmFCMNH4W) | 2:04 |
 | 10 | [Lay it On Me](https://open.spotify.com/track/66AJdZhZxuUZgESo6Y8ScD) | [EAN](https://open.spotify.com/artist/2R6fMantwd4zJz4s07Wpnm) | [Lay it On Me](https://open.spotify.com/album/05gdSY2aStDPKXt2565sc6) | 3:33 |

@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Sarah Connor, Sido
 
-357 songs - 16 hr 2 min
+357 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Lebensmüde](https://open.spotify.com/track/2jhRolUWqBGHoZmknrltwO) | [Christoph Sakwerda](https://open.spotify.com/artist/04R6CrSnQeDoB6j6Z7x8Lq), [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [Lebensmüde](https://open.spotify.com/album/1547AAy8nakEWMd0rF4gEJ) | 2:19 | 2025-10-24 | 2025-11-21 |
 | [leicht](https://open.spotify.com/track/11reqIzoHjabDRgj1oMXTB) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [leicht](https://open.spotify.com/album/5jYfMjaHxCKVJDJPLLIuU7) | 2:21 | 2025-11-20 | 2025-12-19 |
 | [Leise](https://open.spotify.com/track/74b7U40UyovtnZPAzIuWLr) | [Josh.](https://open.spotify.com/artist/1nngQyj8LCicyLKclbWTmU) | [Leise](https://open.spotify.com/album/671Sx2mRv2PATZ64qxvaQW) | 3:30 | 2025-11-27 | 2026-01-16 |
+| [LET IT BE](https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [VIER AUGEN](https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06) | 2:18 | 2026-03-05 |  |
 | [Letzte Liebe](https://open.spotify.com/track/5xYVJdt0IxIqcVy8Lx4C2o) | [Wincent Weiss](https://open.spotify.com/artist/12xme1fwd3iGEW7rF9b6tp) | [Letzte Liebe](https://open.spotify.com/album/0QXuNVZSPyLRCF9LK5pPBQ) | 2:38 | 2026-01-08 | 2026-01-23 |
 | [Letzter Mensch](https://open.spotify.com/track/7Buw73JcMhd8sbrkIy0NUB) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [Longus Mongus](https://open.spotify.com/artist/0n1kV1G3NQrfuLGJosIGxb) | [Letzter Mensch](https://open.spotify.com/album/0FLDhTobRqCV03GKzC34Jh) | 3:17 | 2026-03-05 |  |
 | [LETZTER TAG](https://open.spotify.com/track/7l9qt1sUAbqSXXlAMlkrFs) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [LETZTER TAG](https://open.spotify.com/album/0yK0orUAzJF2C06LDJPb3I) | 2:14 | 2025-11-06 | 2026-01-02 |
@@ -231,7 +232,7 @@
 | [Mit besten Wünschen](https://open.spotify.com/track/6q4MDW9XtKc0ZgPsDnmhim) | [YOSU](https://open.spotify.com/artist/0rbGvVf9NlLZOTY92SpdxL) | [Mit besten Wünschen](https://open.spotify.com/album/4OvijPT0BJAFirIexQjjVE) | 3:31 | 2025-10-24 | 2025-11-07 |
 | [Märchen aus Hollywood](https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K), [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Märchen aus Hollywood](https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z) | 4:39 | 2026-02-12 | 2026-02-27 |
 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 | 2025-10-30 | 2025-12-19 |
-| [Nasser Asphalt](https://open.spotify.com/track/6UZhlIQvEUaCuonBy1Nqbh) | [Tuana](https://open.spotify.com/artist/3ZWwXDrjt9O5p1w7vxLyUv) | [Nasser Asphalt](https://open.spotify.com/album/2lOqQM0TNxtwuP3PMNJvP9) | 3:15 | 2026-02-12 |  |
+| [Nasser Asphalt](https://open.spotify.com/track/6UZhlIQvEUaCuonBy1Nqbh) | [Tuanelle](https://open.spotify.com/artist/4gGRWikXqUBItzySh7nOPn) | [Nasser Asphalt](https://open.spotify.com/album/2lOqQM0TNxtwuP3PMNJvP9) | 3:15 | 2026-02-12 |  |
 | [Nebel](https://open.spotify.com/track/0W91uIfjOLjNC1ijjjNe9T) | [helena Delphi ](https://open.spotify.com/artist/1Bl1zS084yAe6JnH3SYzVy) | [Nebel](https://open.spotify.com/album/0Np1wHtrQVStr0H715XnJW) | 3:46 | 2026-01-08 | 2026-01-23 |
 | [NEIN](https://open.spotify.com/track/6k9RYn3QeRUuJHAzek3KwS) | [ELIF](https://open.spotify.com/artist/65AzRSW0jKSs0WtttEXrOw) | [NEIN](https://open.spotify.com/album/2VBSthzJ393V6wnQyjYSQT) | 2:10 | 2025-10-30 | 2025-12-05 |
 | [Nein sagen](https://open.spotify.com/track/4Q1BQevOOJPuQijwCRcldT) | [amelie](https://open.spotify.com/artist/7cEnAUBptjGti4uq3nkGoV) | [Nein sagen](https://open.spotify.com/album/5cPRYZDRSlCEc9hDeu8SW5) | 2:24 | 2026-02-26 |  |
@@ -261,6 +262,7 @@
 | [Perfekt](https://open.spotify.com/track/6rrFF2WsQkf96DpyEHhvt4) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Perfekt](https://open.spotify.com/album/7t3sxfcv47LcLwhOncSw79) | 2:40 | 2026-02-26 |  |
 | [Peter Pan](https://open.spotify.com/track/0FgKVO56B6jXqZ1qCQEcTy) | [NIEMALS](https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y) | [Peter Pan](https://open.spotify.com/album/5w7zO3LXptH8ZzEGY2MLpS) | 2:27 | 2026-02-19 |  |
 | [peu à peu](https://open.spotify.com/track/4SchPSB8Tu7WDWm2QsfR4f) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [peu à peu](https://open.spotify.com/album/6FOo0U0w6SkBdVZuopQLGm) | 2:55 | 2025-10-24 | 2025-11-07 |
+| [PFLASTER](https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [LIEDER FÜR DICH](https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M) | 2:15 | 2026-03-05 |  |
 | [Phase](https://open.spotify.com/track/24qTQJ9XsTUkr6XZuRmnf2) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Phase](https://open.spotify.com/album/10tnzSKRUtM0Lpr5U0IsQe) | 2:34 | 2026-01-15 | 2026-02-13 |
 | [Phasen](https://open.spotify.com/track/4xFkvzIIubUMKVqJ32w2vA) | [TONI](https://open.spotify.com/artist/0ZQGbwqD6c0iFu34y0tGsY) | [Phasen](https://open.spotify.com/album/3JUy8ErClqdCaBl5hB7epG) | 2:43 | 2026-02-26 |  |
 | [PING\-PONG](https://open.spotify.com/track/3iya1trOXIoDbKCOL3LuXO) | [Gregor Hägele](https://open.spotify.com/artist/43fk67sl4SOrjJ7mtLTVVt) | [PING\-PONG](https://open.spotify.com/album/5cqCqMwELqpUqfgZMS9ewE) | 2:24 | 2026-02-26 |  |
@@ -279,6 +281,7 @@
 | [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 | 2026-02-05 | 2026-02-27 |
 | [Scherben](https://open.spotify.com/track/4nlGk2Eg1rjXhU4wXcIO0Z) | [Lovis](https://open.spotify.com/artist/08xqubZPFcvhvCPSxwpbj5) | [Scherben](https://open.spotify.com/album/1uKhs1Xn1h7iLDUdZ8D3D5) | 2:23 | 2025-10-24 | 2026-01-15 |
 | [schlechte tochter](https://open.spotify.com/track/5NmPESN62fKy8xc4Dwsnfo) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [schlechte tochter](https://open.spotify.com/album/0XWjsDi93ZoA87yo3BRiyw) | 3:27 | 2026-01-29 | 2026-03-06 |
+| [schwindelig \(omgomgomg\)](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 2:06 | 2026-03-05 |  |
 | [Seelenruhig](https://open.spotify.com/track/2wfJuxPSkgoBeghpPX7IsB) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Seelenruhig](https://open.spotify.com/album/2agvFxxjA2iS17SNoAnWTZ) | 2:42 | 2026-02-19 |  |
 | [SEEPFERDCHEN](https://open.spotify.com/track/0BLfV6baATssbWPe2Pfe1Q) | [COSTA](https://open.spotify.com/artist/0KW88WbljA61xuGltoU6Ss) | [SEEPFERDCHEN](https://open.spotify.com/album/5jWtGnf5VSbVsXfDRayQ5M) | 3:05 | 2026-01-29 | 2026-02-20 |
 | [SEHNSUCHT](https://open.spotify.com/track/23nvSc6l82ANajc3BVpHt4) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [SEHNSUCHT](https://open.spotify.com/album/258vc0HyhI0VhrJ3uNEeCE) | 3:31 | 2025-12-11 | 2026-01-15 |
@@ -299,9 +302,6 @@
 | [tempo](https://open.spotify.com/track/7w2QhLdDSUK4T140YEIGEw) | [ELEHA](https://open.spotify.com/artist/56mSZjn1q0tcYyC1N2c7TT) | [tempo](https://open.spotify.com/album/4qBF8JWfH4beWAun8VKdcl) | 2:24 | 2026-01-15 | 2026-02-27 |
 | [Ti amo, Italiano!](https://open.spotify.com/track/5NWiaNjrJl0l3R89nOo4Vd) | [Sportfreunde Stiller](https://open.spotify.com/artist/5PwcOudItUhq3ciF9QwaXZ) | [Ti amo, Italiano!](https://open.spotify.com/album/6HlDFrz02QPE0vqlaFAUzn) | 3:21 | 2026-01-08 | 2026-01-30 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 12](https://open.spotify.com/track/1ZjM0ux6GZLvRc3GKNZ9r0) | [HE/RO](https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6) | [VIER AUGEN](https://open.spotify.com/album/4Lsy3IyNqOlJ6TbM1PeU06) | 0:00 | 2026-03-05 |  |
-| [Track 2](https://open.spotify.com/track/4FiMqa1rcQMyg26HrJcjkC) | [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [LIEDER FÜR DICH](https://open.spotify.com/album/575DqEoO3A5l2vyLebU42M) | 0:00 | 2026-03-05 |  |
-| [Track 6](https://open.spotify.com/track/6hQgOls99mEFCS8LSOQSUx) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [baby T EP](https://open.spotify.com/album/1cpx6JVPFV9fHA2RYbHxqC) | 0:00 | 2026-03-05 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 |  |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Alex Sampson",
-  "num_followers": 433817,
+  "num_followers": 433914,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALtpwykCEtgMBiNcTeB9uOJkS2kX",
+  "snapshot_id": "AAAAAGxIr29M4gFVb/c4EQrMFUheHvf7",
   "tracks": [
     {
       "added_at": "2024-09-27 04:00:00",
@@ -43,38 +43,6 @@
     {
       "added_at": "2026-02-27 05:00:42",
       "album": {
-        "name": "Leaving Me Lonely",
-        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
-      },
-      "artists": [
-        {
-          "name": "tig3r lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "Leaving Me Lonely",
-      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
-    },
-    {
-      "added_at": "2026-02-06 05:50:36",
-      "album": {
-        "name": "You Stole The Show",
-        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 207190,
-      "name": "You Stole The Show",
-      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
-    },
-    {
-      "added_at": "2026-02-27 05:00:42",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/105LdQFucx264gr5MMo2AX"
       },
@@ -91,6 +59,38 @@
     {
       "added_at": "2026-02-27 05:00:42",
       "album": {
+        "name": "Leaving Me Lonely",
+        "url": "https://open.spotify.com/album/1NLZrqKes9GNSOzh4NUc0o"
+      },
+      "artists": [
+        {
+          "name": "tig3r lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 192954,
+      "name": "Leaving Me Lonely",
+      "url": "https://open.spotify.com/track/2BhjFbZKCY6GqJfCOuiQWf"
+    },
+    {
+      "added_at": "2026-03-06 05:00:11",
+      "album": {
+        "name": "LOVE, LOVE, LOVE",
+        "url": "https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 242287,
+      "name": "LOVE, LOVE, LOVE",
+      "url": "https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI"
+    },
+    {
+      "added_at": "2026-02-27 05:00:42",
+      "album": {
         "name": "The Romantic",
         "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
       },
@@ -103,6 +103,22 @@
       "duration_ms": 174676,
       "name": "On My Soul",
       "url": "https://open.spotify.com/track/4i4BVY2JiH4mDSLIBdNGKD"
+    },
+    {
+      "added_at": "2026-02-06 05:50:36",
+      "album": {
+        "name": "You Stole The Show",
+        "url": "https://open.spotify.com/album/1K7SMm8IvVx0hT40q1tfTh"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "duration_ms": 207190,
+      "name": "You Stole The Show",
+      "url": "https://open.spotify.com/track/23ZdNaFSfH7VdSVU4U0Agb"
     },
     {
       "added_at": "2026-02-23 17:14:33",
@@ -1499,22 +1515,6 @@
       "duration_ms": 209200,
       "name": "AMAZING",
       "url": "https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Angel Face (Club Deluxe)",
-        "url": "https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 196633,
-      "name": "The Other Side",
-      "url": "https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH"
     },
     {
       "added_at": "2024-04-19 04:01:00",

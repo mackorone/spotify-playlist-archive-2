@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "Apambichao",
+        "url": "https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147533,
+      "name": "Apambichao",
+      "url": "https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV"
+    },
+    {
+      "album": {
         "name": "Apego Emocional",
         "url": "https://open.spotify.com/album/6Gr26CThK4xZ7ulKVkKsd2"
       },
@@ -2211,6 +2233,28 @@
     },
     {
       "album": {
+        "name": "Back to the Basics",
+        "url": "https://open.spotify.com/album/1dX5EUHPPQbnshlRAGDy8m"
+      },
+      "artists": [
+        {
+          "name": "Merenglass Grupo",
+          "url": "https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA"
+        },
+        {
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307153,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/3lsLE053C6EiydWvC3d1Gn"
+    },
+    {
+      "album": {
         "name": "Siendo Yo",
         "url": "https://open.spotify.com/album/1QuKhWzqY6kJYx27m3f5iG"
       },
@@ -2484,7 +2528,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 179042,
       "name": "Carita",
       "url": "https://open.spotify.com/track/5gtIktNWlEjTEP5n2ZWSOm"
@@ -3952,7 +3996,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 170170,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/0qkXMXSaDVQfQ7qiP9DDGU"
@@ -11113,6 +11157,24 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Cara",
+        "url": "https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Noticia de Ayer",
+      "url": "https://open.spotify.com/track/5HS6bM4c7vf2nYTMJcBaGn"
+    },
+    {
+      "album": {
         "name": "NOVIO GOLDEN",
         "url": "https://open.spotify.com/album/2EQKi80GtJoeeGdYC7S8sR"
       },
@@ -11876,7 +11938,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181248,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/6LSwTnRYt9LNyupRrYt39j"
@@ -16060,7 +16122,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 228500,
       "name": "Usted No Sabe",
       "url": "https://open.spotify.com/track/4UB1HVTbNTBHajxeqg1Ub0"
@@ -16370,6 +16432,24 @@
       "duration_ms": 189463,
       "name": "Vienes",
       "url": "https://open.spotify.com/track/16UmAk18CfaF0nTzPwCRAA"
+    },
+    {
+      "album": {
+        "name": "Viral en Mi Mente",
+        "url": "https://open.spotify.com/album/0whdKc95C3ctNXh0gWOd6s"
+      },
+      "artists": [
+        {
+          "name": "Daniel Santacruz",
+          "url": "https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Viral en Mi Mente",
+      "url": "https://open.spotify.com/track/2WahHoz2VqJMet3A3OOzHd"
     },
     {
       "album": {

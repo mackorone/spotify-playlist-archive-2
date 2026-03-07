@@ -201,6 +201,32 @@
     },
     {
       "album": {
+        "name": "Alzypher Vol. 23",
+        "url": "https://open.spotify.com/album/09iTZNUeamOD5klE9yBlly"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Foyone",
+          "url": "https://open.spotify.com/artist/1F2erLLqRHbaFvEYHeVIHJ"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "Alzypher Vol. 23",
+      "url": "https://open.spotify.com/track/6LmQGM2qED3EL6ib52XpBH"
+    },
+    {
+      "album": {
         "name": "Alzypher Vol. 3",
         "url": "https://open.spotify.com/album/46ZihTRzRSBPKRuPOE0VRD"
       },
@@ -954,7 +980,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181900,
       "name": "Kryptonita",
       "url": "https://open.spotify.com/track/34ha9oVnIHbvOiYZkcu0xU"

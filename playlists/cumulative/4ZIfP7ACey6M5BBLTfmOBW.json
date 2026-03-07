@@ -1159,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Baby I",
+        "url": "https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140050,
+      "name": "Baby I",
+      "url": "https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49"
+    },
+    {
+      "album": {
         "name": "Babyface Maniacs",
         "url": "https://open.spotify.com/album/4t9pNaVyoEp5W1eVLARj0x"
       },
@@ -4152,6 +4174,40 @@
       "duration_ms": 199746,
       "name": "Don't Get Me Started (feat. Coi Leray & Nija)",
       "url": "https://open.spotify.com/track/1HaK0frM7BL1EG1bDYz3WI"
+    },
+    {
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/0QA0JjZBPX0AwqVUJXgb24"
+      },
+      "artists": [
+        {
+          "name": "ALLIANCE SuPRM",
+          "url": "https://open.spotify.com/artist/38JCPXkZ1jpfzA12bLNZwH"
+        },
+        {
+          "name": "Tha Incradouble Pack",
+          "url": "https://open.spotify.com/artist/73qrKht5hJF2b2StfCewve"
+        },
+        {
+          "name": "LeFLOFRANCO",
+          "url": "https://open.spotify.com/artist/2XwMQRzoUywE0dMIHkvBz3"
+        },
+        {
+          "name": "QUEST",
+          "url": "https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi"
+        },
+        {
+          "name": "DJ SKORPYON",
+          "url": "https://open.spotify.com/artist/3fZxpayvsTP2nRXeiLVl4X"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207520,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7aQJeKHrlcMTEEWXmwfcsN"
     },
     {
       "album": {
@@ -7812,6 +7868,24 @@
       "duration_ms": 116756,
       "name": "I Know",
       "url": "https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV"
+    },
+    {
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB"
+      },
+      "artists": [
+        {
+          "name": "Pradabagshawty",
+          "url": "https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132412,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
     },
     {
       "album": {

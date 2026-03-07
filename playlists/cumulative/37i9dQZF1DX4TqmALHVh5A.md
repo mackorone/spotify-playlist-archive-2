@@ -2,7 +2,7 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Ofé
+> La scène française branchée sur courant alternatif\. Photo : Liv del Estal
 
 445 songs - 23 hr 26 min
 

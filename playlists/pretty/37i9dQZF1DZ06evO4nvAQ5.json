@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16169,
+  "num_followers": 16175,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAACLI13n7y5Zmm1Pr9Krw1K3",
+  "snapshot_id": "aajHgAAAAACGWljX3YmUXUOp9iiLwefh",
   "tracks": [
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rose Petals",
         "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
       },
@@ -819,6 +803,30 @@
       "duration_ms": 214767,
       "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
       "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 188783,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
     },
     {
       "added_at": null,
@@ -863,26 +871,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
         }
       ],
-      "duration_ms": 188783,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,

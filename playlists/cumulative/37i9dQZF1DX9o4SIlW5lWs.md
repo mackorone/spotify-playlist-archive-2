@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-574 songs - 1 day 8 hr 16 min
+575 songs - 1 day 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 | 2022-01-14 |  |
 | [Amor de Chat \- En vivo](https://open.spotify.com/track/0rBpusCK0zUkuEBrTcTpox) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg) | [Amor de Chat \(En Vivo\)](https://open.spotify.com/album/0NtnjBuRZchY2kvAN7UvTA) | 4:37 | 2024-09-13 | 2024-12-02 |
 | [Amor de Verdad](https://open.spotify.com/track/4nJ3IvzpHPCUPzQ0oUf2L2) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Amor de Verdad](https://open.spotify.com/album/2YEyHinoMiFTrTTJxdlx6m) | 3:37 | 2022-01-14 | 2022-07-20 |
+| [Amor Entre Mujeres](https://open.spotify.com/track/7JoglzZ0cprbYPwCD5bf4f) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Amor Entre Mujeres](https://open.spotify.com/album/3BzDhIjGKNUR7yGXDdLsOg) | 2:59 | 2026-03-06 |  |
 | [Amor Pirata](https://open.spotify.com/track/7F15KCy88ObXpqnBrfJsbb) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:15 | 2022-03-11 |  |
 | [Amor Secreto](https://open.spotify.com/track/54Jr171k3fvsYRcuy6G7qi) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Mi Corazón Canta para Vos](https://open.spotify.com/album/3a8kuLV7GUW3tDNBNsGC7L) | 3:18 | 2022-04-01 | 2022-06-10 |
 | [Amor y Deudas](https://open.spotify.com/track/2lX34uxOakDVkNDwiV0aCL) | [Sabroso](https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO) | [Amor y Deudas](https://open.spotify.com/album/7lt8y2dL66EVdZtlSJcbaY) | 4:20 | 2022-01-21 | 2022-06-17 |
@@ -202,7 +203,7 @@
 | [Estaba Aquí Pensando](https://open.spotify.com/track/65VgYpCL5GgFkoCMqmsHgQ) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Estaba Aquí Pensando](https://open.spotify.com/album/0MrsYRR3NibzRN6qZ927zO) | 3:09 | 2025-05-09 | 2025-07-25 |
 | [Estaba Aquí Pensando](https://open.spotify.com/track/3KLJ5whtoUtU410ngf5Rzu) | [La Repandilla](https://open.spotify.com/artist/4TeM4orWQq9H1Wj2intCub), [Aneley](https://open.spotify.com/artist/0fwYg36a0rtDscNA60ULVQ) | [Estaba Aquí Pensando](https://open.spotify.com/album/5nTyYQMVF86WvS91opGkUa) | 2:44 | 2025-01-24 | 2026-01-05 |
 | [Estos Celos](https://open.spotify.com/track/6gLbjubs9mWaigVoUlqVwB) | [Mr\. Gato](https://open.spotify.com/artist/0lLZuPpTtNi5DxZ9QhiReO), [Franco Arroyo](https://open.spotify.com/artist/5QnY6Cap0lhIH7joetHu6q) | [Estos Celos](https://open.spotify.com/album/4mVrLgRnbUm3OnKuFtGzPM) | 3:53 | 2024-06-21 | 2024-08-31 |
-| [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 |  |
+| [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 | 2026-03-07 |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 | 2022-01-21 | 2023-08-05 |
 | [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 | 2024-09-07 |

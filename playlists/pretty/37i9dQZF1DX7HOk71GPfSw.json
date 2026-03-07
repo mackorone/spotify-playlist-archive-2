@@ -1,12 +1,12 @@
 {
   "description": "<3 ___ <3",
-  "num_followers": 493695,
+  "num_followers": 493812,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHvlnnV6AocGwmTeMu5QyTPo7S81",
+  "snapshot_id": "AAAAADVQ5JG0FU92Gt2psx4L+T07er62",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:52",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-02-20 05:00:48",
       "album": {
-        "name": "Beautiful Disaster",
-        "url": "https://open.spotify.com/album/2QzilKeFlINfqFZZWzgv0J"
-      },
-      "artists": [
-        {
-          "name": "MGNA Crrrta",
-          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
-        }
-      ],
-      "duration_ms": 127843,
-      "name": "Heels broke = died",
-      "url": "https://open.spotify.com/track/1nVg0Xk8QSIQZQHuHRrTaU"
-    },
-    {
-      "added_at": "2026-02-20 05:00:48",
-      "album": {
         "name": "START OVER",
         "url": "https://open.spotify.com/album/6JzeTEulNDFMqji6Jq6JY4"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 170381,
       "name": "START OVER",
       "url": "https://open.spotify.com/track/23iKYWszFScsU02y1HJb92"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "Red Horse",
-        "url": "https://open.spotify.com/album/6EzjgA9a0soBHbBFIrwk55"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 146351,
-      "name": "Red Horse",
-      "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -87,6 +55,86 @@
       "duration_ms": 161502,
       "name": "Shutting Up",
       "url": "https://open.spotify.com/track/6Nv3YIAjAcakczsJafMv0C"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "prototype",
+        "url": "https://open.spotify.com/album/0xRNPryFtPD67496idfDsO"
+      },
+      "artists": [
+        {
+          "name": "pnkdrco",
+          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
+        }
+      ],
+      "duration_ms": 99265,
+      "name": "prototype",
+      "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
+    },
+    {
+      "added_at": "2026-02-20 05:00:48",
+      "album": {
+        "name": "Beautiful Disaster",
+        "url": "https://open.spotify.com/album/2QzilKeFlINfqFZZWzgv0J"
+      },
+      "artists": [
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 127843,
+      "name": "Heels broke = died",
+      "url": "https://open.spotify.com/track/1nVg0Xk8QSIQZQHuHRrTaU"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "one4u",
+        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 255428,
+      "name": "one4u",
+      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
+    },
+    {
+      "added_at": "2026-03-06 05:00:15",
+      "album": {
+        "name": "fall in love with the dj (deluxe)",
+        "url": "https://open.spotify.com/album/1KgxaU2u9eZoJ6TZO11Evo"
+      },
+      "artists": [
+        {
+          "name": "Lucky Iris",
+          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
+        }
+      ],
+      "duration_ms": 215666,
+      "name": "i dream of you and i",
+      "url": "https://open.spotify.com/track/5Ee67DVwPmJs6fzA0yc7P3"
+    },
+    {
+      "added_at": "2026-02-27 05:00:52",
+      "album": {
+        "name": "Red Horse",
+        "url": "https://open.spotify.com/album/6EzjgA9a0soBHbBFIrwk55"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        }
+      ],
+      "duration_ms": 146351,
+      "name": "Red Horse",
+      "url": "https://open.spotify.com/track/7C36qjso9lFwADSdoOU0gj"
     },
     {
       "added_at": "2026-02-20 05:00:48",
@@ -213,6 +261,34 @@
       "url": "https://open.spotify.com/track/27v8QdBidbC5idqWHqPBBj"
     },
     {
+      "added_at": "2026-03-06 05:00:15",
+      "album": {
+        "name": "4DS (feat. Nakamura Minami, echo & valknee)",
+        "url": "https://open.spotify.com/album/00BtOAy4E1AePhVLSSVcaO"
+      },
+      "artists": [
+        {
+          "name": "4s4ki",
+          "url": "https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND"
+        },
+        {
+          "name": "nakamura minami",
+          "url": "https://open.spotify.com/artist/2tjvUXbw9nH3lOxmifmbLi"
+        },
+        {
+          "name": "echo",
+          "url": "https://open.spotify.com/artist/3XERnDGb3EMgS3U6Wc3mYm"
+        },
+        {
+          "name": "valknee",
+          "url": "https://open.spotify.com/artist/5XOjyFVFORvz5wwievXJNn"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "4DS (feat. Nakamura Minami, echo & valknee)",
+      "url": "https://open.spotify.com/track/5ehrxCzfQfZOuwLloI2um5"
+    },
+    {
       "added_at": "2026-02-27 05:00:52",
       "album": {
         "name": "J is for Joon",
@@ -227,22 +303,6 @@
       "duration_ms": 234874,
       "name": "Zines & Gibberish",
       "url": "https://open.spotify.com/track/164KRTDMG3ol7IMpgK38bv"
-    },
-    {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "prototype",
-        "url": "https://open.spotify.com/album/0xRNPryFtPD67496idfDsO"
-      },
-      "artists": [
-        {
-          "name": "pnkdrco",
-          "url": "https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI"
-        }
-      ],
-      "duration_ms": 99265,
-      "name": "prototype",
-      "url": "https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS"
     },
     {
       "added_at": "2026-02-13 05:00:37",
@@ -263,6 +323,22 @@
       "duration_ms": 224000,
       "name": "Sisters",
       "url": "https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:15",
+      "album": {
+        "name": "PRTY 4 U :)",
+        "url": "https://open.spotify.com/album/6HXTja1soebjzTKumKemcU"
+      },
+      "artists": [
+        {
+          "name": "Kidd Kleto",
+          "url": "https://open.spotify.com/artist/0HIrqtxwmnvX2ySgodpk0m"
+        }
+      ],
+      "duration_ms": 139136,
+      "name": "PRTY 4 U :)",
+      "url": "https://open.spotify.com/track/4nCsd9bkLsQc6MIapeCBNz"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -417,22 +493,6 @@
       "url": "https://open.spotify.com/track/3YQoG8Ey0eYsLS9yAmeHK1"
     },
     {
-      "added_at": "2026-02-27 05:00:52",
-      "album": {
-        "name": "one4u",
-        "url": "https://open.spotify.com/album/7GzKdWFhCzGI7atbZglKuF"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 255428,
-      "name": "one4u",
-      "url": "https://open.spotify.com/track/22QyJJgibWEtYCXxTQlbOh"
-    },
-    {
       "added_at": "2026-02-18 19:24:40",
       "album": {
         "name": "Die Without Makeup",
@@ -479,6 +539,22 @@
       "duration_ms": 179612,
       "name": "LoveKGirls - + dj g2g & PZZS in the club remix",
       "url": "https://open.spotify.com/track/50EaFn7229y7hVF51avRuj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:15",
+      "album": {
+        "name": "KIKYU",
+        "url": "https://open.spotify.com/album/1hKsLvRaDrpCG8qTVaLCqC"
+      },
+      "artists": [
+        {
+          "name": "XAMIYA",
+          "url": "https://open.spotify.com/artist/6pscTrZm8WmvDi2oABuwgC"
+        }
+      ],
+      "duration_ms": 138642,
+      "name": "KIKYU",
+      "url": "https://open.spotify.com/track/1jFpPFKsRuNsBfQlYDDoKr"
     },
     {
       "added_at": "2026-02-27 05:00:52",
@@ -1341,22 +1417,6 @@
       "url": "https://open.spotify.com/track/6nr0obIqNhSFWiW14h5mz9"
     },
     {
-      "added_at": "2025-11-21 05:00:35",
-      "album": {
-        "name": "heart 4 heart",
-        "url": "https://open.spotify.com/album/6ngwuSbZqGBiTMi35FcQp5"
-      },
-      "artists": [
-        {
-          "name": "Lucky Iris",
-          "url": "https://open.spotify.com/artist/7IvhQ1o9oI4ybFDpisgvkC"
-        }
-      ],
-      "duration_ms": 198411,
-      "name": "heart 4 heart",
-      "url": "https://open.spotify.com/track/6k42eRkrkynbgclbyTMUxN"
-    },
-    {
       "added_at": "2026-01-16 05:00:36",
       "album": {
         "name": "Offscreen",
@@ -1499,30 +1559,6 @@
       "duration_ms": 145831,
       "name": "We Don't Leave the House",
       "url": "https://open.spotify.com/track/5Tej0q4FelEClV0ZvYvz89"
-    },
-    {
-      "added_at": "2026-01-02 17:13:15",
-      "album": {
-        "name": "Come Find Me (with Clementine Douglas) [Danny L Harle Remix]",
-        "url": "https://open.spotify.com/album/67PTtH3IDyV8YRckiNAwLE"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        },
-        {
-          "name": "Danny L Harle",
-          "url": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
-        }
-      ],
-      "duration_ms": 262206,
-      "name": "Come Find Me (with Clementine Douglas) - Danny L Harle Remix",
-      "url": "https://open.spotify.com/track/7sXBFCN5U9BlwKfQqY0tyj"
     },
     {
       "added_at": "2025-12-05 05:00:23",
@@ -1885,22 +1921,6 @@
       "url": "https://open.spotify.com/track/2iRe0Fl9YPUDygrkfWzPUr"
     },
     {
-      "added_at": "2025-11-14 05:00:39",
-      "album": {
-        "name": "Got It In Tha Mix",
-        "url": "https://open.spotify.com/album/3sWl9eqr9XF0E18eFLeJz8"
-      },
-      "artists": [
-        {
-          "name": "Ms* Gloom",
-          "url": "https://open.spotify.com/artist/3ZFdkChwfqb4vtzlBfcQPu"
-        }
-      ],
-      "duration_ms": 195224,
-      "name": "Got It In Tha Mix",
-      "url": "https://open.spotify.com/track/1ryz4LWb2VKPECrK1tFzJE"
-    },
-    {
       "added_at": "2026-01-06 19:47:29",
       "album": {
         "name": "I Love My Computer",
@@ -1995,26 +2015,6 @@
       "duration_ms": 107175,
       "name": "What a shame i love you too",
       "url": "https://open.spotify.com/track/6VP6nTZ2QBf0kQj8RdAnuZ"
-    },
-    {
-      "added_at": "2025-09-12 04:00:15",
-      "album": {
-        "name": "Lick The Lens \u2013 Pt.1",
-        "url": "https://open.spotify.com/album/6MLL5vClk79Yhned782Crg"
-      },
-      "artists": [
-        {
-          "name": "Oli XL",
-          "url": "https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX"
-        },
-        {
-          "name": "Ecco2k",
-          "url": "https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "NOSEBLEED MELODY",
-      "url": "https://open.spotify.com/track/4NFIyVd9WKQrNuzIw5OAzh"
     },
     {
       "added_at": "2025-09-12 04:00:15",

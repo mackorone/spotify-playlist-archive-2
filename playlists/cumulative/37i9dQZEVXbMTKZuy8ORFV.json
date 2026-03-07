@@ -6512,7 +6512,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 270697,
       "name": "Canasteo",
       "url": "https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng"
@@ -11506,7 +11506,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -14436,7 +14436,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 244000,
       "name": "Espont\u00e1neo + Volvamos al inicio",
       "url": "https://open.spotify.com/track/3Obzl8GXufUfQ3ozsrbAj7"
@@ -22018,7 +22018,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 193800,
       "name": "Las Mu\u00f1equitas",
       "url": "https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f"
@@ -23088,7 +23088,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 134071,
       "name": "Looping the Rooms (feat. HATSUNE MIKU)",
       "url": "https://open.spotify.com/track/3wmzZRtm6hwqXX3KndOtSI"
@@ -25022,7 +25022,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 333517,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/42NCRp4TSQXohIcpnNECrJ"
@@ -31776,7 +31776,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 90143,
       "name": "Paleta Dame Paleta",
       "url": "https://open.spotify.com/track/5t2mApzdkw3lxMBfMmXZJV"
@@ -31810,6 +31810,28 @@
       "duration_ms": 147904,
       "name": "Paleta Dame Paleta",
       "url": "https://open.spotify.com/track/7AprU1Nb2A5gL080qjzj6f"
+    },
+    {
+      "album": {
+        "name": "Paleta Dame Paleta",
+        "url": "https://open.spotify.com/album/1XzKV9C7jqlT4BWSNNv5sw"
+      },
+      "artists": [
+        {
+          "name": "VORTR\u00d8N",
+          "url": "https://open.spotify.com/artist/2BIENZ4oRjcA4jAHJrIKtk"
+        },
+        {
+          "name": "El Rey Del Mixtape",
+          "url": "https://open.spotify.com/artist/4V3NCsxrUxKdMrnsMD3P0Y"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90816,
+      "name": "Paleta Dame Paleta",
+      "url": "https://open.spotify.com/track/6cWB2VwR2OtmcmuDaq5QI5"
     },
     {
       "album": {
@@ -40676,7 +40698,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213952,
       "name": "Te Lo Advert\u00ed - Desde Abbey Road",
       "url": "https://open.spotify.com/track/3CkvO1rIroPZWc6vZ9SOPZ"
@@ -41064,7 +41086,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"

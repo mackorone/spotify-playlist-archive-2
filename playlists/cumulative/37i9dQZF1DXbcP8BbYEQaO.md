@@ -4,7 +4,7 @@
 
 > Pop for neon streets, rainy windows, and everything you still feel after dark.
 
-834 songs - 1 day 22 hr 50 min
+836 songs - 1 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Bruxelles je t’aime](https://open.spotify.com/track/4sOjKbpa7RLZVRNxcO26eb) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Bruxelles je t'aime](https://open.spotify.com/album/72XwipnC6NWfEd5BIWAXMp) | 3:48 | 2021-10-23 | 2022-04-17 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-04-17 |
 | [Bulletproof](https://open.spotify.com/track/3kMrazSvILsgcwtidZd1Qd) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 3:25 | 2021-06-19 | 2021-07-04 |
+| [Burial \(from Mother Mary\)](https://open.spotify.com/track/1SO1Y6rjbEl7VfXssVG0t6) | [Anne Hathaway](https://open.spotify.com/artist/0nIyPY7J7G68WgQEOLHn0x) | [Burial \(from Mother Mary\)](https://open.spotify.com/album/5yscdemhEgEbczPVNX0oxq) | 3:09 | 2026-03-06 |  |
 | [Burn Again](https://open.spotify.com/track/1n0R7zfIgTGKeJOnr6P4uQ) | [Markella](https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt) | [Burn Again](https://open.spotify.com/album/002riN5oRTYuhXmc89gvgp) | 3:25 | 2022-03-25 | 2024-05-25 |
 | [Burning Bridges \- Initial Talk Remix](https://open.spotify.com/track/2Na24Q9TJRfhtV5Un8AY5d) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ), [Initial Talk](https://open.spotify.com/artist/0YQmcNgfnoqxBMJ8dcw3Eh) | [Burning Bridges \(Initial Talk Remix\)](https://open.spotify.com/album/7dVmmOtkUkNFY2WjvTXrMN) | 2:47 | 2021-10-02 | 2022-03-18 |
 | [By Now](https://open.spotify.com/track/10d5yjvKxiSG8mi8xITDLi) | [Ferdinand Schwartz](https://open.spotify.com/artist/1LOUv4mycFtm2iiRHh9I9X) | [By Now](https://open.spotify.com/album/1S0UmhfXiQBTHNdNhYlNVD) | 5:22 | 2020-10-13\* | 2021-07-17 |
@@ -590,6 +591,7 @@
 | [Please Don't Suck](https://open.spotify.com/track/2Sx4OLfgMfRgYDvGHBJvck) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Please Don't Suck](https://open.spotify.com/album/7he1ByOAq0rTVmSoW5ny1E) | 2:55 | 2021-07-19 | 2022-01-01 |
 | [Poison](https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Poison \(feat\. The Weeknd\)](https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO) | 2:42 | 2021-12-17 | 2022-04-17 |
 | [Ponytail](https://open.spotify.com/track/4y2KeXbvKEjalxsElqq9Ze) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Ponytail](https://open.spotify.com/album/3og4eBQKRVoMIPJAArPD4X) | 3:39 | 2024-07-19 | 2024-08-24 |
+| [Pop](https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:36 | 2026-03-06 |  |
 | [POSE](https://open.spotify.com/track/1Mf7qE54NoBp5hrZV2iPrX) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [POSE](https://open.spotify.com/album/2N3NGQjuCC1B7qPiY7saGG) | 3:13 | 2022-03-09 | 2022-10-29 |
 | [Powerline](https://open.spotify.com/track/4DIXN5pGfWjYbIXXYA6pq7) | [Phangs](https://open.spotify.com/artist/7zDSYCgSGUDOaKiXUiZkpi) | [\_A BREAK](https://open.spotify.com/album/5goyJEMY4dnRhO9vrxI4wX) | 3:27 | 2020-10-13\* | 2021-02-19 |
 | [pretend \(2003\) \(with Tennyson\)](https://open.spotify.com/track/0wjQx6amJQ61K8tFQaDkgw) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [why can't we just pretend?](https://open.spotify.com/album/3yzDE04dMgYvyZHzJm1p2b) | 2:56 | 2022-04-15 | 2022-05-20 |
@@ -777,12 +779,12 @@
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-19 | 2023-04-09 |
 | [Unconditional](https://open.spotify.com/track/2mpoTHp955e9ojKaA2Yb9b) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Unconditional](https://open.spotify.com/album/665ddrCgPJLmhnGjWJmmRj) | 3:32 | 2025-09-12 |  |
 | [Universe](https://open.spotify.com/track/6g4tLLDSCsZiuPQCYggQ0X) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Universe](https://open.spotify.com/album/6NHTTGRUitvFNPC55j97jj) | 3:48 | 2023-03-10 | 2023-03-18 |
-| [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 |  |
+| [Up At Night](https://open.spotify.com/track/6azR5gSOWDFB6pDVYMndYv) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/0aNGi98a44M6mUInTYCSPF) | 2:42 | 2024-07-19 | 2026-03-07 |
 | [ur gf](https://open.spotify.com/track/0PqnLIwJi5ikmE53xvoPl4) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [milk & honey](https://open.spotify.com/album/2mSTkRkw7ukApj7hTm9uwl) | 2:53 | 2025-08-01 | 2026-01-24 |
 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 | 2025-09-12 |  |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-11-07 |  |
 | [V.C.R.](https://open.spotify.com/track/5PbgSubIzKFLBCI7Jp9ilH) | [Chey Rose](https://open.spotify.com/artist/1FLo8t5Xtr2OOWob1rXcOa) | [Even the Moon Goes Through Phases](https://open.spotify.com/album/31n7OYKnEojZZS9KIzLGIx) | 2:55 | 2021-07-20 | 2022-02-05 |
-| [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 | 2023-08-11 |  |
+| [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 | 2023-08-11 | 2026-03-07 |
 | [Vanity](https://open.spotify.com/track/0AU2a60eNXKv2XP3CkXyos) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt) | [Vanity](https://open.spotify.com/album/2r1SLo3tTmw7w1omWMUlkW) | 3:30 | 2025-07-02 |  |
 | [VERDE MENTA](https://open.spotify.com/track/5Mg31AcUBHV7QOPrYH74kQ) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:08 | 2023-02-03 | 2023-07-08 |
 | [VERDE MENTA](https://open.spotify.com/track/7fsJoYyY8d8PrXKv7S2g3l) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:08 | 2022-11-11 | 2023-02-05 |

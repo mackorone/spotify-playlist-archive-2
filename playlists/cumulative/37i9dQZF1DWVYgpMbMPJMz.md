@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> Experience the lastest and the greatest Worship music right here, right now\. Cover: UPPERROOM
+> Experience the lastest and the greatest Worship music right here, right now\. Cover: Passion
 
 963 songs - 3 day 18 hr 42 min
 
@@ -460,7 +460,7 @@
 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 | 2023-03-24 | 2024-05-04 |
 | [Just That Good](https://open.spotify.com/track/41Z1kDTRyaclKHmXkR0vn7) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [No Fear](https://open.spotify.com/album/0gDdrITVEHF5puxOo0ma1o) | 3:37 | 2025-05-30 |  |
 | [Just That Good](https://open.spotify.com/track/53fIGsvNyKO15Huu3nFnsK) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/29PYVen9YZ7QjjQoYQ6rze) | 3:44 | 2025-11-14 |  |
-| [Just That Good](https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:18 | 2026-02-27 | 2026-03-03 |
+| [Just That Good](https://open.spotify.com/track/4Io4Eg5hbiwUbjOs4PFIGY) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Just That Good](https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA) | 4:18 | 2026-02-27 |  |
 | [Just The Mention Of His Name \- Live](https://open.spotify.com/track/2C9FM0zZmWp4au1kWwiqZ3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Now \(Live\)](https://open.spotify.com/album/7yRZsYRLvroRSwMfqaYEOA) | 5:10 | 2022-06-03 | 2023-01-14 |
 | [Keep Me](https://open.spotify.com/track/2jbsSzWlINM5HrtvPh4uAM) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Keep Me](https://open.spotify.com/album/6mXhvlb7eRSVLd137OoVh5) | 3:40 | 2025-02-07 | 2025-10-18 |
 | [Kid Again \- Live](https://open.spotify.com/track/1WyD5o3WVDlAhzAPFKgczc) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [Kid Again \(Live\)](https://open.spotify.com/album/2qBkpQX29A5SOboW73izN7) | 7:26 | 2025-08-08 | 2025-08-30 |

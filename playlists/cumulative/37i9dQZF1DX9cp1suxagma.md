@@ -2,9 +2,9 @@
 
 ### [Pop Colombia](https://open.spotify.com/playlist/37i9dQZF1DX9cp1suxagma)
 
-> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Piso 21, Yami Safdie
+> Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Juliana
 
-315 songs - 16 hr 33 min
+318 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Adiós](https://open.spotify.com/track/7JlkxvPt4HQSzr4XT5Plsl) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Adiós](https://open.spotify.com/album/4Ir9tMgz5BSmUYljvn6pR3) | 3:02 | 2023-02-17 |  |
 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 | 2023-02-17 |  |
 | [Al Aire](https://open.spotify.com/track/02dsc9B5N8BFatjGcGhk1u) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Al Aire](https://open.spotify.com/album/0lsCYOOfGhVVlB7CiTAnAs) | 2:49 | 2023-02-17 |  |
+| [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 | 2026-03-06 |  |
 | [Amiga Mía \- Spotify Singles](https://open.spotify.com/track/1ErWnacP0i3my6KJn35b6q) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Amiga Mía \- Spotify Singles](https://open.spotify.com/album/1X8nKXgC68X8DBc3YT3VrB) | 3:26 | 2023-02-17 | 2023-04-29 |
 | [Amo Que Respires](https://open.spotify.com/track/0aFlwsjFGlVBs3ez3WVehY) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv) | [Amo Que Respires](https://open.spotify.com/album/3HgKRciAyZKUxp0amRQqlD) | 2:23 | 2024-08-09 | 2024-08-31 |
 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 | 2023-06-09 | 2023-09-23 |
@@ -181,6 +182,7 @@
 | [Milagros](https://open.spotify.com/track/1B1maIpcMpPDZ8GT0WHT0V) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Milagros](https://open.spotify.com/album/3k0FgbH2hF3R59J1Fwzd66) | 3:55 | 2025-05-09 |  |
 | [Montego Bay](https://open.spotify.com/track/6E6HfkDjVPWz0WennU8YME) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Florida Sunset](https://open.spotify.com/album/14CyDZl2awxUUatkW5u1ii) | 3:09 | 2025-07-25 | 2025-11-08 |
 | [Mosaico Pirata](https://open.spotify.com/track/5lnqF1tIXA4SDd4wxQVsaV) | [Duplat](https://open.spotify.com/artist/74Bgwc5zD9KyNHiMqy2QJO), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Mosaico Pirata](https://open.spotify.com/album/5D86xGaD8KNU6H6JH9Rftz) | 2:59 | 2024-07-26 | 2024-10-05 |
+| [Muchas \(MUCHAS\) gracias](https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [Muchas \(MUCHAS\) gracias](https://open.spotify.com/album/5cQiuS0mh4pvXGhCNqrGrS) | 2:13 | 2026-03-06 |  |
 | [MUCHO CON DEMASIAO'](https://open.spotify.com/track/0C4EGmFGx2AxA28Sq0wY9L) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [MUCHO CON DEMASIAO'](https://open.spotify.com/album/4ZmmHuczCn4jkAV8zkK8zu) | 2:19 | 2026-02-06 |  |
 | [Mundos Aparte](https://open.spotify.com/track/5sfnG7xd8angYVfT9RgdgQ) | [Wamba](https://open.spotify.com/artist/70psacNWL8yL2MPne6sgaB) | [Mundos Aparte](https://open.spotify.com/album/1X6UZEiG0dCcwaz8n0gUMO) | 2:44 | 2023-02-17 | 2024-05-04 |
 | [Muriendo en Vida](https://open.spotify.com/track/1cP7B6Fn6hOzZnvoKVOyBo) | [Sinisterra](https://open.spotify.com/artist/46hFpNlGbQT8hFf233H29I) | [Muriendo en Vida](https://open.spotify.com/album/5HzmWdLS7wuVNcjd8sBRZB) | 2:45 | 2023-03-09 | 2025-05-10 |
@@ -282,6 +284,7 @@
 | [Tengo Sed](https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [LOBA Vol\. I](https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2) | 2:53 | 2023-10-27 | 2024-02-17 |
 | [Teresa](https://open.spotify.com/track/4cgEbCOaaN0nzhAZvJinb8) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Teresa](https://open.spotify.com/album/2g4WfH84dp88AXNqaY9jaw) | 3:34 | 2025-11-07 | 2025-12-20 |
 | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy) | 2:47 | 2025-11-07 | 2026-02-07 |
+| [Timelapse de Sol](https://open.spotify.com/track/2kUA7nwy2cSFygzs43ngMu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [JuanesTeban](https://open.spotify.com/album/5iAsaLrEdtuC40rR2LbgbU) | 3:05 | 2026-03-06 |  |
 | [TODAVÍA](https://open.spotify.com/track/6T4PDkwPhKi5qFwJuOZaKJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [TODAVÍA](https://open.spotify.com/album/45WAkTP0H8oIyXjQXEZkYw) | 2:50 | 2024-06-28 | 2025-05-31 |
 | [Todos Tenemos Cicatrices](https://open.spotify.com/track/7vEDuljzjMXQOyrZZh8ipu) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Todos Tenemos Cicatrices](https://open.spotify.com/album/6FkTpFrUi4EZEPDKmCtIX0) | 3:38 | 2025-05-30 | 2025-12-06 |
 | [Triste \(Arial 1\)](https://open.spotify.com/track/5NLL3U7OkuCqaAG0zI1K2F) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Triste \(Arial 1\)](https://open.spotify.com/album/6MfUhAGiZ9FizmSn0F8KQj) | 2:57 | 2024-02-02 | 2024-08-03 |

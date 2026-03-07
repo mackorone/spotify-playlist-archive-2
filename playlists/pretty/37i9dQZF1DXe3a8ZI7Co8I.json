@@ -1,6 +1,6 @@
 {
   "description": "Temitas chulos para acompa\u00f1arte cuando vas de un sitio a otro.",
-  "num_followers": 678054,
+  "num_followers": 677984,
   "original_name": "Voy pall\u00e1",
   "owner": {
     "name": "Spotify",
@@ -23,30 +23,6 @@
       "duration_ms": 200040,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
-    },
-    {
-      "added_at": "2025-12-09 15:14:32",
-      "album": {
-        "name": "La Plena (W Sound 05)",
-        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
-      },
-      "artists": [
-        {
-          "name": "W Sound",
-          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 150001,
-      "name": "La Plena - W Sound 05",
-      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "added_at": "2025-12-09 15:14:32",
@@ -75,6 +51,30 @@
       "duration_ms": 252306,
       "name": "Give Me Everything (feat. Nayer)",
       "url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W"
+    },
+    {
+      "added_at": "2025-12-09 15:14:32",
+      "album": {
+        "name": "La Plena (W Sound 05)",
+        "url": "https://open.spotify.com/album/4Xdo78uvvt1P7rWRX8TOPt"
+      },
+      "artists": [
+        {
+          "name": "W Sound",
+          "url": "https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 150001,
+      "name": "La Plena - W Sound 05",
+      "url": "https://open.spotify.com/track/6iOndD4OFo7GkaDypWQIou"
     },
     {
       "added_at": "2025-12-09 15:14:32",
@@ -751,22 +751,18 @@
     {
       "added_at": "2025-12-09 15:14:32",
       "album": {
-        "name": "why",
-        "url": "https://open.spotify.com/album/49qKeW5IBHWaHGILvsm050"
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
       "artists": [
         {
-          "name": "D.Valentino",
-          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
-        },
-        {
-          "name": "Sneaky wh",
-          "url": "https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf"
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
         }
       ],
-      "duration_ms": 174107,
-      "name": "why",
-      "url": "https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu"
+      "duration_ms": 216999,
+      "name": "Princesas",
+      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
     },
     {
       "added_at": "2025-12-09 15:14:32",
@@ -787,18 +783,22 @@
     {
       "added_at": "2025-12-09 15:14:32",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
+        "name": "why",
+        "url": "https://open.spotify.com/album/49qKeW5IBHWaHGILvsm050"
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+          "name": "D.Valentino",
+          "url": "https://open.spotify.com/artist/01WzyfcDKX94myMXnGfU4N"
+        },
+        {
+          "name": "Sneaky wh",
+          "url": "https://open.spotify.com/artist/0hUhE5n1TjnCHwNLp2mIKf"
         }
       ],
-      "duration_ms": 216999,
-      "name": "Princesas",
-      "url": "https://open.spotify.com/track/3hlWUNjAlbZ6nOjAbrivBv"
+      "duration_ms": 174107,
+      "name": "why",
+      "url": "https://open.spotify.com/track/6aWKjqvFULsZhpF8Nugfeu"
     },
     {
       "added_at": "2025-12-09 15:14:32",

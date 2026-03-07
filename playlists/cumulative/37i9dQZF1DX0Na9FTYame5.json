@@ -882,7 +882,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 144926,
       "name": "Brauch nur dich",
       "url": "https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5"
@@ -3467,6 +3467,24 @@
     },
     {
       "album": {
+        "name": "Liebe ist h\u00e4sslich.",
+        "url": "https://open.spotify.com/album/6j9MHIuYM6eHjx9xrMjAAN"
+      },
+      "artists": [
+        {
+          "name": "Rasa",
+          "url": "https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126024,
+      "name": "Liebe ist h\u00e4sslich.",
+      "url": "https://open.spotify.com/track/3IJmYStLMIMa16tXvM4FRB"
+    },
+    {
+      "album": {
         "name": "Liebestext",
         "url": "https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N"
       },
@@ -3558,6 +3576,28 @@
       "duration_ms": 125807,
       "name": "Ljubim te",
       "url": "https://open.spotify.com/track/5eei53cPg1Q8m3LMuO3ydu"
+    },
+    {
+      "album": {
+        "name": "Loch",
+        "url": "https://open.spotify.com/album/71DPt5dB8famA0nrxRMIXu"
+      },
+      "artists": [
+        {
+          "name": "Eljero Winchester",
+          "url": "https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ"
+        },
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160686,
+      "name": "Loch",
+      "url": "https://open.spotify.com/track/5He0LbVtjKcvmsvcQ5lqhc"
     },
     {
       "album": {
@@ -4018,7 +4058,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217714,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig"

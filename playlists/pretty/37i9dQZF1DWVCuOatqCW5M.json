@@ -1,6 +1,6 @@
 {
   "description": "Latest music from Papon, Madhubanti Bagchi, Hansika Pareek and more.",
-  "num_followers": 89033,
+  "num_followers": 89195,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -359,7 +359,7 @@
     {
       "added_at": "2026-02-27 02:28:30",
       "album": {
-        "name": "Ishq Bada Zahreela",
+        "name": "Ishq Bada Zehreela",
         "url": "https://open.spotify.com/album/7iKg0B4QkCF6xxbuRaiJsZ"
       },
       "artists": [
@@ -377,7 +377,7 @@
         }
       ],
       "duration_ms": 190689,
-      "name": "Ishq Bada Zahreela",
+      "name": "Ishq Bada Zehreela",
       "url": "https://open.spotify.com/track/2cD24R9wamTBSWaHyTcCaj"
     },
     {
@@ -627,6 +627,30 @@
       "duration_ms": 165180,
       "name": "Nikki Nikki Gal",
       "url": "https://open.spotify.com/track/7fFe27upQCJjpOq8RmlzAt"
+    },
+    {
+      "added_at": "2026-02-20 06:07:34",
+      "album": {
+        "name": "Valeti Daaru",
+        "url": "https://open.spotify.com/album/6cLPsUvWTng6c6RCnRXTQ5"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Phenom",
+          "url": "https://open.spotify.com/artist/03hG7s3MUquIZwa4OvtLD7"
+        }
+      ],
+      "duration_ms": 177211,
+      "name": "Valeti Daaru",
+      "url": "https://open.spotify.com/track/6olZNsDtuNZqTBpRhgaUfG"
     },
     {
       "added_at": "2026-02-20 06:07:34",

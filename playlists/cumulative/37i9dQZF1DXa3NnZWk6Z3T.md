@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-391 songs - 22 hr 39 min
+392 songs - 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Azul \(with Rodrigo Amarante\)](https://open.spotify.com/track/58iNllszkXpDOcYRgcfLfH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Rodrigo Amarante](https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg) | [Mujer Divina \- Homenaje a Agustín Lara](https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh) | 4:51 | 2021-12-09 | 2022-10-28 |
 | [Bachata Rosa](https://open.spotify.com/track/4kN3Q110F6hH9fSMNHlluH) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Bachata Rosa](https://open.spotify.com/album/572kD3xhAbww3C6eqh9mQV) | 4:15 | 2021-12-09 |  |
 | [Barco del Tiempo](https://open.spotify.com/track/4qApGI6Nt1Mryef3KLJTY0) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Dar Vida](https://open.spotify.com/album/17kVGKI88jjmL2XH4MNjYd) | 3:55 | 2024-05-24 |  |
+| [barquito \- bonus track](https://open.spotify.com/track/3p8qlvSvFlFtlzADchNJpi) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/3szw5BHAAHGTkYsDoK75k0) | 3:24 | 2026-03-06 |  |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada Beverido\)](https://open.spotify.com/track/6ILQZiGqQFvDawuu45ZCOe) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada Beverido](https://open.spotify.com/artist/15e8wAIPW8vihGAOQiTUv4) | [Elementales](https://open.spotify.com/album/1dydo5mIdwoV2cvacOzcWo) | 4:23 | 2023-06-16 | 2024-04-19 |
 | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/track/67507AwT1mSegl0VA5qSCE) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Barro, Cemento y Sal \(feat\. Silvana Estrada\)](https://open.spotify.com/album/7g0hzIsFEDIcTBLpcnZk1Q) | 4:24 | 2022-04-07 | 2022-04-21 |
 | [Batida do Amor](https://open.spotify.com/track/5KFdGVgTD4wLrlUesiWiVc) | [Francisca La Braza](https://open.spotify.com/artist/1m6KQa90x6qi9RJAZco74B), [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn) | [Francisca La Braza](https://open.spotify.com/album/6Xj8zgaUSBRrrDgmz4y4lS) | 3:54 | 2022-04-07 | 2024-07-10 |
@@ -368,7 +369,7 @@
 | [Té De Tila](https://open.spotify.com/track/3JRbCOgf5piyZMppyg3hA4) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Tiempo Compartido](https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a) | 3:22 | 2021-12-09 |  |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-12-09 | 2022-10-28 |
 | [Tú Con Él](https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Canciones del Alma](https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi) | 3:25 | 2021-12-09 | 2022-03-22 |
-| [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-09 |  |
+| [Tú Me Dijíste Que Venías](https://open.spotify.com/track/1HGuh9bVVWEaPhPvQ5woRm) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J) | [Tú Me Dijíste Que Venías](https://open.spotify.com/album/4AgWVLq6Yh25oqreliWR23) | 2:37 | 2021-12-09 | 2026-03-07 |
 | [Un Amor Violento](https://open.spotify.com/track/5boCZfOIDyELEfYoD94fky) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Un Amor Violento](https://open.spotify.com/album/1oKMUZGbpNkXrMYd2UJ2NU) | 4:49 | 2022-04-07 | 2022-10-28 |
 | [Un Beso Más \- Versión Acústica](https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Un Beso Más \(Versión Acústica\)](https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l) | 3:18 | 2021-12-09 |  |
 | [Un Cariñito](https://open.spotify.com/track/2gzjpDzWlfAcazV5WNz9z6) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Un Cariñito](https://open.spotify.com/album/1lAFc7CVkN6tec14ZR6Z8x) | 3:03 | 2021-12-09 | 2022-07-29 |

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con todo el sentimiento andino! Foto: William Luna",
-  "num_followers": 64081,
+  "num_followers": 64103,
   "original_name": "Huaynos Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-24 17:38:16",
       "album": {
-        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
-        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
-      },
-      "artists": [
-        {
-          "name": "Flor Sinque\u00f1a",
-          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
-        }
-      ],
-      "duration_ms": 160640,
-      "name": "Vas a Llorar",
-      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
-    },
-    {
-      "added_at": "2024-06-24 17:38:16",
-      "album": {
         "name": "Conjunto Condemayta de Acomayo",
         "url": "https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 173066,
       "name": "Serenata Condemayta",
       "url": "https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus"
+    },
+    {
+      "added_at": "2024-06-24 17:38:16",
+      "album": {
+        "name": "Selecci\u00f3n de Huaynos: Centro - Sur",
+        "url": "https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO"
+      },
+      "artists": [
+        {
+          "name": "Flor Sinque\u00f1a",
+          "url": "https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe"
+        }
+      ],
+      "duration_ms": 160640,
+      "name": "Vas a Llorar",
+      "url": "https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W"
     },
     {
       "added_at": "2024-06-24 17:38:16",

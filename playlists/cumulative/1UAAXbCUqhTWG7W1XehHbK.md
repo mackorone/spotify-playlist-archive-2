@@ -4,14 +4,16 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-154 songs - 9 hr 1 min
+157 songs - 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Love Is\) Corrupted Code](https://open.spotify.com/track/3eO2ad5IkMC97DodASyBPQ) | [Peepall](https://open.spotify.com/artist/0aYT6hZTd5p8g0qWhuZPyX) | [\(Love Is\) Corrupted Code](https://open.spotify.com/album/532XswazKaWQqmgBuq7CFm) | 3:24 | 2025-09-10 | 2025-12-17 |
 | [\(You're\) Never Gonna Change](https://open.spotify.com/track/2qi8k1FyrainwRZysuLv7V) | [Gwyn English Nielsen](https://open.spotify.com/artist/2qiQLmWs81Zno7WFH4lLiS) | [\(You're\) Never Gonna Change](https://open.spotify.com/album/28NZ5cQBM9VwLI6pAcLVRG) | 3:11 | 2025-11-13 |  |
 | [27](https://open.spotify.com/track/5w2e7oZmzJEe4U8HfRiTce) | [Ethan Brown](https://open.spotify.com/artist/5W55dgAAq0SZRlnxQ6LGAI) | [27](https://open.spotify.com/album/0ihIAt6hhNPMeWJVnSWXhl) | 4:03 | 2025-09-11 | 2025-12-17 |
+| [Absence](https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT) | [Forever Factory](https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH) | [Absence](https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA) | 3:14 | 2026-03-06 |  |
 | [Accentology](https://open.spotify.com/track/3pbmVfBmPF9AOyC7fzxPu0) | [Anton Paul](https://open.spotify.com/artist/4Rl67kg1sCSQyikdCZdh2L) | [Accentology](https://open.spotify.com/album/1srYSjA58vBQbgnAfl5ZDO) | 2:58 | 2025-10-20 |  |
+| [African Sky](https://open.spotify.com/track/2aiW0epKtoG6XgUCzh1opp) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 3:20 | 2026-03-06 |  |
 | [All I Needed](https://open.spotify.com/track/4rNgGT7YtwFjhnGXjITWwF) | [Thousand Foot View](https://open.spotify.com/artist/2UYQ1wbCbJVJlman2oDa93) | [All I Needed](https://open.spotify.com/album/5RnCthxroXitHmFbyEZjwc) | 5:02 | 2025-08-27 | 2025-12-17 |
 | [All The Streets Were Empty](https://open.spotify.com/track/2zVQBDD2vKOLpHyCnGiQVk) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [Afterimages](https://open.spotify.com/album/0KJP6gjrr60y15M8tsPade) | 4:25 | 2025-11-13 |  |
 | [All The Time](https://open.spotify.com/track/7LWM489V6yqPKxgBVrpVd8) | [Ann Helene Hagen](https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj) | [All The Time](https://open.spotify.com/album/3xnNEWlS48OxjDg500aO8H) | 3:15 | 2025-10-03 |  |
@@ -45,6 +47,7 @@
 | [fAMilies](https://open.spotify.com/track/08BJ8aNYrXmgFXEr4nDFQW) | [robot families](https://open.spotify.com/artist/0YJ1TvQjr00cJyiq0BqZgY) | [fAMilies](https://open.spotify.com/album/6bxLjh750C08RzeytMQMZu) | 4:02 | 2025-10-28 |  |
 | [Flying Free Forever](https://open.spotify.com/track/0wHfp0B55S4BAcG1PFEkth) | [Richard Dobeson](https://open.spotify.com/artist/28KWLvWlBhBq9vp1HwGfTH) | [Call Of Dreams](https://open.spotify.com/album/7x7tNtFxr9HtMol8KE5ARR) | 3:18 | 2024-04-01 |  |
 | [Funny Pills](https://open.spotify.com/track/7J7AKyvwOUQdmTxcyDJgDz) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [Funny Pills](https://open.spotify.com/album/77IqY4DR0tx1QavGVePSxP) | 3:35 | 2025-10-21 |  |
+| [Get Me Out A Can Light](https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Songbook '126\-'127](https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou) | 3:15 | 2026-03-06 |  |
 | [Ghost Skin](https://open.spotify.com/track/5pHEqCiFsCUwNT1MZ704xm) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [Ghost Skin](https://open.spotify.com/album/3YHvKACYd2PHnmlwDZIlKw) | 2:18 | 2025-08-25 | 2025-12-17 |
 | [Gone is Gone](https://open.spotify.com/track/1SIwD4xWPZ7LQR2JjRKkMo) | [ITZ](https://open.spotify.com/artist/4iiraoDwoUYNr0fSUPGobd) | [Gone is Gone](https://open.spotify.com/album/7FswSFw2CgfRkANSEn6Kju) | 2:40 | 2025-09-08 | 2025-12-17 |
 | [Good Daze](https://open.spotify.com/track/6QWjGNjBhAeDEuMmutumcW) | [Lunar Reverb](https://open.spotify.com/artist/1A8Te6U8iongiGwNxYhvhc) | [Good Daze](https://open.spotify.com/album/3fnlb4kJLADgzEepHto25S) | 5:53 | 2025-11-14 |  |

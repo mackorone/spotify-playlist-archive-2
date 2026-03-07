@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: HANA
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,969 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,003 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 89 | [Angelseek](https://open.spotify.com/track/1MEjwcB4LYKiCq0dsFGckD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Angelseek](https://open.spotify.com/album/1FHrSsOvsfP1YdidikH1xw) | 3:49 |
 | 90 | [SWEET MAGIC](https://open.spotify.com/track/61tmQ29LoIoDmAgcZLqfyf) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [SWEET MAGIC](https://open.spotify.com/album/0suptqC4XOddvtb9eF0kUX) | 3:13 |
 
-Snapshot ID: `AAAAADAaI4iM1KWqSr6UJyFq1d1c2jfo`
+Snapshot ID: `AAAAAJzSt6n9tsVfRQkNJvNlHu0ZRcQc`

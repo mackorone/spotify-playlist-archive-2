@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: Morat",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: ROBI",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 173666,
       "name": "0%",
       "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180631,
       "name": "aunquetelopida",
       "url": "https://open.spotify.com/track/5OszUdNFVSsd3lGIHWGRpi"
@@ -2877,6 +2877,24 @@
     },
     {
       "album": {
+        "name": "BRRREAK!",
+        "url": "https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9"
+      },
+      "artists": [
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167782,
+      "name": "BRRREAK!",
+      "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
+    },
+    {
+      "album": {
         "name": "BRUTAL",
         "url": "https://open.spotify.com/album/5ezpjFttuIxLBWH0d96WDO"
       },
@@ -3374,6 +3392,24 @@
       "duration_ms": 212452,
       "name": "Cardenalito",
       "url": "https://open.spotify.com/track/4d9zmsvDnW1ZXeAGORchBz"
+    },
+    {
+      "album": {
+        "name": "consuelo",
+        "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "cari\u00f1o",
+      "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
     },
     {
       "album": {
@@ -6857,6 +6893,24 @@
     },
     {
       "album": {
+        "name": "ENCONTREMOS UNA MANERA",
+        "url": "https://open.spotify.com/album/6f1tNlGmy7U1rIn9Ye94RC"
+      },
+      "artists": [
+        {
+          "name": "PARDOPARDO",
+          "url": "https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134446,
+      "name": "ENCONTREMOS UNA MANERA",
+      "url": "https://open.spotify.com/track/7vB1xkHbYIC6pLavmhMJjb"
+    },
+    {
+      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/4zAbx6Zpe8YoXezMynqlfv"
       },
@@ -10024,7 +10078,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 206536,
       "name": "La Iron\u00eda Del Querer",
       "url": "https://open.spotify.com/track/4ckhPsQ5DRsbdjppRYs4Up"
@@ -10086,6 +10140,24 @@
       "duration_ms": 176236,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/5nIZkrEBVzbt3XhXRyVRQo"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "album": {
@@ -11230,7 +11302,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217674,
       "name": "Love & Sex",
       "url": "https://open.spotify.com/track/1XoWJWLnH0dawjkxQ2SkGX"
@@ -19087,6 +19159,24 @@
     },
     {
       "album": {
+        "name": "Suiza",
+        "url": "https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Isabel",
+          "url": "https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140342,
+      "name": "Suiza",
+      "url": "https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju"
+    },
+    {
+      "album": {
         "name": "Summer En Par\u00eds",
         "url": "https://open.spotify.com/album/3qLo8V07kEVNmjuklblbk5"
       },
@@ -21038,7 +21128,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 158659,
       "name": "Un d\u00eda como hoy",
       "url": "https://open.spotify.com/track/79bBKIZG98S8i2gDqPBGjs"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/31A14TfHevKvkdkmtPAaq1.md) - [plain]
 
 > March is Christian Music Month \- a time to celebrate the songs that uplift, inspire, and bring hope! From timeless worship anthems to fresh new sounds, this playlist is all about faith, encouragement, and joy\. Hit play, turn it up, and share the love! Discover more at ChristianMusicMonth.com
 
-[gospelmusicassoc](https://open.spotify.com/user/gospelmusicassoc) - 287 likes - 44 songs - 3 hr 3 min
+[gospelmusicassoc](https://open.spotify.com/user/gospelmusicassoc) - 288 likes - 44 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Donovan Woods",
+  "description": "A laid-back trip in the folk scene. Cover: Charlotte Cornfield",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 213094,
       "name": "'Til Later",
       "url": "https://open.spotify.com/track/0r85lST3XcWqBZMvUIiGtS"
@@ -3976,7 +3976,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 154880,
       "name": "CAT SONG",
       "url": "https://open.spotify.com/track/6BFtLI7TdNGS9W3oVlXjKi"
@@ -7770,6 +7770,24 @@
     {
       "album": {
         "name": "False Start",
+        "url": "https://open.spotify.com/album/0yytuAMgULL79wV6dVu9DG"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203859,
+      "name": "False Start",
+      "url": "https://open.spotify.com/track/553jD3ipiSaR4plKiGNugq"
+    },
+    {
+      "album": {
+        "name": "False Start",
         "url": "https://open.spotify.com/album/5594EnVFgb6SCinyZcd40V"
       },
       "artists": [
@@ -9231,6 +9249,24 @@
     },
     {
       "album": {
+        "name": "Gameshow",
+        "url": "https://open.spotify.com/album/0WrNdcswqSMLDm0RkToEDU"
+      },
+      "artists": [
+        {
+          "name": "John Shambles",
+          "url": "https://open.spotify.com/artist/06I4xBSxNsS6WHTINcKEwl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211478,
+      "name": "Gameshow",
+      "url": "https://open.spotify.com/track/1RXNsfzeF1pdEV7ZsJfECe"
+    },
+    {
+      "album": {
         "name": "Gaza is Calling",
         "url": "https://open.spotify.com/album/33xs5LXJkJZDVptz8ovCcb"
       },
@@ -9430,6 +9466,24 @@
       "duration_ms": 166008,
       "name": "Gone (Away)",
       "url": "https://open.spotify.com/track/6UCdCOFnahKI4yjILCPn3H"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/1WzeryfBKaLye5onsOzhNy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206300,
+      "name": "Gone - Cover",
+      "url": "https://open.spotify.com/track/4vtykJQdJkHJfYxIUJP74K"
     },
     {
       "album": {
@@ -10984,7 +11038,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 231026,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/7J9DEND05zjJwWs7yCBndX"
@@ -14132,7 +14186,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203999,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/6P8IIwWWumTQxfSrY5Ybv7"
@@ -14749,6 +14803,24 @@
     },
     {
       "album": {
+        "name": "Lost Leader",
+        "url": "https://open.spotify.com/album/4SSWrhiUxYa3sikYDUtefB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187661,
+      "name": "Lost Leader",
+      "url": "https://open.spotify.com/track/1qFxxFm82Z3kxVxNpr4pLj"
+    },
+    {
+      "album": {
         "name": "Glossolalia",
         "url": "https://open.spotify.com/album/66hCqmyDrUMjZrooeuG1PM"
       },
@@ -14836,6 +14908,28 @@
       "duration_ms": 270226,
       "name": "Love's Changing",
       "url": "https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e"
+    },
+    {
+      "album": {
+        "name": "Lover I'm Gonna Miss You",
+        "url": "https://open.spotify.com/album/05bwXm1KhTHhGc33Z8VHUF"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        },
+        {
+          "name": "May Erlewine",
+          "url": "https://open.spotify.com/artist/2OCklJbxEeL54I1EQOlbxW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231210,
+      "name": "Lover I'm Gonna Miss You",
+      "url": "https://open.spotify.com/track/1Nd24ZJSkqvVfYrq4Pytzw"
     },
     {
       "album": {
@@ -17495,6 +17589,24 @@
     },
     {
       "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+    },
+    {
+      "album": {
         "name": "In Limerence",
         "url": "https://open.spotify.com/album/1UJb5PdzFT9C7f9fc1QxLO"
       },
@@ -18008,7 +18120,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 219453,
       "name": "Only Hoping (feat. Hiss Golden Messenger)",
       "url": "https://open.spotify.com/track/3wMhfV89IJahm0BRoERDrP"
@@ -18080,7 +18192,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211027,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2"
@@ -19462,7 +19574,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 201560,
       "name": "Rage",
       "url": "https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog"
@@ -24728,6 +24840,24 @@
       "duration_ms": 219648,
       "name": "Time After Time - Spotify Singles",
       "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 18386,
+  "num_followers": 18388,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAAdKES8X7B8g8o6qRL7GTm2",
+  "snapshot_id": "aajHgAAAAAC1hYgTTAgvO1KqWyj4rT22",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Perfect Crime",
-        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 206826,
-      "name": "The Perfect Crime",
-      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brain Invaders",
         "url": "https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 175272,
       "name": "We're Not Alright",
       "url": "https://open.spotify.com/track/5RhtBPx2JcJ3iy1KNpVDwN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Perfect Crime",
+        "url": "https://open.spotify.com/album/2ZWhDKzgWckMPzdKzbh4bf"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 206826,
+      "name": "The Perfect Crime",
+      "url": "https://open.spotify.com/track/5rRwE8PjHsBXfvQ2toLAA9"
     },
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Broadcast to the World",
+        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "Lobotomy For Dummies",
+      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World's On Fire",
         "url": "https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 200293,
       "name": "Out of Control",
       "url": "https://open.spotify.com/track/4qcXBDltsFoCFeERHYfFKE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Broadcast to the World",
-        "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "Lobotomy For Dummies",
-      "url": "https://open.spotify.com/track/66OAAgbg7SmKJHxZoaSe34"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Call Your Friends",
-        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 187516,
-      "name": "Call Your Friends",
-      "url": "https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 229773,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Call Your Friends",
+        "url": "https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 187516,
+      "name": "Call Your Friends",
+      "url": "https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Nice!",
-        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 225340,
-      "name": "Blackout",
-      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 181933,
       "name": "Rated \"U\" For Ugly",
       "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Nice!",
+        "url": "https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 225340,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Panty Raid (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 205786,
-      "name": "Survivor",
-      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 165386,
       "name": "Postcards From Hell",
       "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panty Raid (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 205786,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d"
     },
     {
       "added_at": null,

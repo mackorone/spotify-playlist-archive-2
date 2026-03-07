@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:4iBwchw0U0GZv5RfVYSMxN">Anyma</a>'s favorite tracks\. Updated regularly\. Curated by Anyma\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,674 likes - 47 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,712 likes - 47 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 36 | [Quantum](https://open.spotify.com/track/6fPkKnzWCeAM6O7XQ6UYPQ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Chris Avantgarde](https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U) | [Quantum Echoes, Pt\. I](https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U) | 3:31 |
 | 37 | [Drop Me a Line \- Mano Le Tough Remix](https://open.spotify.com/track/1v1fNoS1h5KGwOopD03JbG) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le), [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp) | [Midnight Creepers Remixes](https://open.spotify.com/album/46Dlj3CMrNam6aPWuK9B5z) | 7:20 |
 | 38 | [Alone \- Four Tet Remix](https://open.spotify.com/track/33gpxTp8FlcGTyj9ksswGe) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Alone \(Four Tet Remix\)](https://open.spotify.com/album/4NeAALY2Y5w5UnEaVmqjgp) | 6:16 |
-| 39 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 |
+| 39 | [Galaxy](https://open.spotify.com/track/2h5Nvt8nCnpaX4xrwmcMnV) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Galaxy](https://open.spotify.com/album/2BALbsQWKxU1RbUN9oh0NS) | 2:50 |
 | 40 | [Chaleur](https://open.spotify.com/track/0HBUq9Ixk7kHZhyAHqrBKd) | [Sames](https://open.spotify.com/artist/1N3srLjyNA8boH4kg7Ry8d) | [Chaleur EP](https://open.spotify.com/album/2XEvG3lEJlb9o30TCnxkop) | 3:36 |
 | 41 | [REAPER](https://open.spotify.com/track/6lvQvKFGIfCPqUjS1lUWCI) | [Tayla](https://open.spotify.com/artist/0khWD7xNpAO9OF87xsNPVS) | [A Spark](https://open.spotify.com/album/47RxIpRGUtNkaGcoXInBaf) | 2:56 |
 | 42 | [low high \- Jonathan Kaspar Remix](https://open.spotify.com/track/14aThy41jGtwYWZWe2xEU8) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ), [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [tell me more](https://open.spotify.com/album/3hE3y22MI6neF7zblWOBZ4) | 7:57 |

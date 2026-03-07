@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn\. Cover: ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,462 likes - 407 songs - 1 day 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,475 likes - 407 songs - 1 day 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 406 | [Back To '89](https://open.spotify.com/track/4RYlANUIQAf8g4y6SEMQku) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Boogietraxx](https://open.spotify.com/artist/2CMUIHJ41MQbfrEoG6Jsof), [Akeem Raphael](https://open.spotify.com/artist/1QNHbzaaDt7sCdrRxn2rKE) | [Back To '89](https://open.spotify.com/album/7vK2XkzynM63vx6GD8kxgp) | 2:34 |
 | 407 | [Kuwe](https://open.spotify.com/track/0ORWrNURhLN2MghAwUWJD9) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Kuwe](https://open.spotify.com/album/1mM1J5FQo1vohr5fPkYc6u) | 2:45 |
 
-Snapshot ID: `AAAAAPp7Yy2gRgNgEAPwxxezThnCz0cc`
+Snapshot ID: `AAAAAD+34o+AMeOgidV+3zhoY+EmhDw2`

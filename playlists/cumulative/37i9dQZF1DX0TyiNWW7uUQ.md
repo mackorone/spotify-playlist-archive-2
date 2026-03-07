@@ -2,7 +2,7 @@
 
 ### [Kollywood Cream](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Finest collection of Tamil Music from the past 10 years<br/>Cover : Dude
+> Finest collection of Tamil Music from the past 10 years<br/>Cover : Sublashini
 
 208 songs - 13 hr 44 min
 

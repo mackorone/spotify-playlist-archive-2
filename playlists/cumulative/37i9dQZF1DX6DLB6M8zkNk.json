@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Bridgerton Season Four (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5i1sHzYpjy5XKnhgFjukXF"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131317,
+      "name": "360 (Arr. For Cello Obligato and String Quartet)",
+      "url": "https://open.spotify.com/track/22B0img3GewOBsjGMoYx9T"
+    },
+    {
+      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/6jgmX01PL3PrBHviwvvP26"
       },

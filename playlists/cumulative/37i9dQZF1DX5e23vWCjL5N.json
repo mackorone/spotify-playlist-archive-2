@@ -566,7 +566,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169848,
       "name": "Amica sopra al tavolo (feat. Abby 6ix)",
       "url": "https://open.spotify.com/track/4UMe5hRNllMSVnmy7XMWAw"
@@ -2316,7 +2316,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 178923,
       "name": "Dama Malerba",
       "url": "https://open.spotify.com/track/3JzN4nTuTZx4UQA1WlTh28"
@@ -3022,7 +3022,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 164000,
       "name": "Fottuta",
       "url": "https://open.spotify.com/track/1YpJkNdtzcQwiH9rC025ok"
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 210009,
       "name": "J.T.V.",
       "url": "https://open.spotify.com/track/4WPRYGxGEB55aRpwKCmusB"
@@ -6913,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "Sfoghi di una vita complicata 5",
+        "url": "https://open.spotify.com/album/2y8CANUxlby7nxb7fbyfi0"
+      },
+      "artists": [
+        {
+          "name": "lowlow",
+          "url": "https://open.spotify.com/artist/5tBnK7LvBMgvkXuePtfywp"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121445,
+      "name": "Sfoghi di una vita complicata 5 (Atto III)",
+      "url": "https://open.spotify.com/track/1n6xhi0kch30b174KlxoOB"
+    },
+    {
+      "album": {
         "name": "sharp",
         "url": "https://open.spotify.com/album/673EVAAQVmLEkh5Yy6tsYq"
       },
@@ -7844,6 +7862,24 @@
       "duration_ms": 201293,
       "name": "Verso Altri Lidi",
       "url": "https://open.spotify.com/track/4ns5QMZm4Nw96OmzuySsT1"
+    },
+    {
+      "album": {
+        "name": "La Migliore Stagione",
+        "url": "https://open.spotify.com/album/6Fn8UnTIOM12LpLniQA4wq"
+      },
+      "artists": [
+        {
+          "name": "Claver Gold",
+          "url": "https://open.spotify.com/artist/65U1A6j2pIHfZXLoitJFXz"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218118,
+      "name": "Vertigine Soggettiva",
+      "url": "https://open.spotify.com/track/0zDVgdDEscFZveCA05m3f1"
     },
     {
       "album": {

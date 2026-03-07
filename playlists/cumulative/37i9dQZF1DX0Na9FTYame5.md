@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Alies, Zuna
 
-346 songs - 15 hr 43 min
+348 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Bisou :\*](https://open.spotify.com/track/7dAI9IZpHaA9Lzhd8d60Tp) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Bisou :\*](https://open.spotify.com/album/6Y9pFqdaD1O343Vr9sZuR5) | 2:41 | 2024-06-28 | 2025-01-20 |
 | [Bitte sei vorsichtig](https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C) | [Jassin](https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh) | [Bitte sei vorsichtig](https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C) | 2:36 | 2025-07-17 |  |
 | [Bitterkalt](https://open.spotify.com/track/1yBLbvFknx6TPhInLR3bOh) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Bitterkalt](https://open.spotify.com/album/75I9L51LVqoKmZCBWYigsX) | 2:25 | 2024-06-28 | 2024-10-11 |
-| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 |  |
+| [Brauch nur dich](https://open.spotify.com/track/5LNWlJBv0K98uz22LwkHY5) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Brauch nur dich](https://open.spotify.com/album/72BKfRKueMPQ4QBYLNhtiq) | 2:24 | 2025-01-20 | 2026-03-07 |
 | [Breaking your heart](https://open.spotify.com/track/3pyvUdSZvgrmZbXcEsL2bs) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Breaking your heart](https://open.spotify.com/album/55wIIBndlS3o541UqLLdrg) | 2:50 | 2024-06-28 | 2025-08-17 |
 | [Brennt wie Feuer](https://open.spotify.com/track/2KkZqA88hrFEInvbEWb6Fg) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Brennt wie Feuer](https://open.spotify.com/album/5x58mDq9I6ow9q08HmOhXY) | 2:59 | 2025-11-13 | 2026-01-24 |
 | [Bring mich nach Haus](https://open.spotify.com/track/07NDaezeYAJ2FoXxoE8GUC) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK), [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1) | [Augen träumen Herzen sehen](https://open.spotify.com/album/4b81tOq2S4nIFWkVpcQlXy) | 3:02 | 2025-10-10 | 2026-01-23 |
@@ -181,11 +181,13 @@
 | [Liebe](https://open.spotify.com/track/1ZZXvHOj2w46xknyOK6i9P) | [Vega](https://open.spotify.com/artist/6F9QTYrJgiLY80BZGzWIHO), [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Liebe](https://open.spotify.com/album/1zKtSM9pxuu65xNaermEOz) | 3:14 | 2025-10-23 | 2025-12-02 |
 | [Liebe = Schmerz](https://open.spotify.com/track/7dG0k6FNKGnrW15bBbvWmF) | [Paves 16](https://open.spotify.com/artist/2gAXwURDNLBpiwlrgcl9HM) | [Liebe = Schmerz](https://open.spotify.com/album/34epGENIY7DM2iBHT1LnLK) | 2:37 | 2024-06-28 | 2025-05-16 |
 | [Liebe ist ein Dieb](https://open.spotify.com/track/01LYfVauZ0LlK5gok0HdTO) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Liebe ist ein Dieb](https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW) | 3:11 | 2024-06-28 |  |
+| [Liebe ist hässlich.](https://open.spotify.com/track/3IJmYStLMIMa16tXvM4FRB) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [Liebe ist hässlich.](https://open.spotify.com/album/6j9MHIuYM6eHjx9xrMjAAN) | 2:06 | 2026-03-06 |  |
 | [Liebestext](https://open.spotify.com/track/6ZBLTqqXM0l8YEw9Rj1JX9) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Liebestext](https://open.spotify.com/album/2S0IxG8lyHUPPBB3xeaD1N) | 3:07 | 2025-04-24 | 2025-05-16 |
 | [Liebst du mich](https://open.spotify.com/track/1AmHFe9qiR4ydvHRMQgMnY) | [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Liebst du mich](https://open.spotify.com/album/2OCFALs4BTWP2Xdhdyu9pd) | 2:57 | 2024-06-28 | 2025-01-19 |
 | [Lifestyle](https://open.spotify.com/track/7IMWZb1BzYwsekwpdWU4BC) | [Kane](https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf) | [Lifestyle](https://open.spotify.com/album/2g3gtj9Zs0c7NV6XQTJpnO) | 3:16 | 2025-11-13 | 2025-12-20 |
 | [Lila](https://open.spotify.com/track/4D6P7YK4vvETiWPyCST7JT) | [Rosc](https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c) | [Lila](https://open.spotify.com/album/2uaOR6BiKSs3LQivT3kjoG) | 2:50 | 2025-12-19 | 2026-01-31 |
 | [Ljubim te](https://open.spotify.com/track/5eei53cPg1Q8m3LMuO3ydu) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Ljubim te](https://open.spotify.com/album/2zzuR8Lo7vAQa1BIOv56dt) | 2:05 | 2025-08-07 | 2025-08-31 |
+| [Loch](https://open.spotify.com/track/5He0LbVtjKcvmsvcQ5lqhc) | [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ), [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [Loch](https://open.spotify.com/album/71DPt5dB8famA0nrxRMIXu) | 2:40 | 2026-03-06 |  |
 | [Loser](https://open.spotify.com/track/5f3DCz8dOQdTLxzh8QQuvV) | [Apache 207](https://open.spotify.com/artist/1qQLhymHXFPtP5U8KNKsm6) | [Loser](https://open.spotify.com/album/4q6XOYZLyDrLOexWA8wEWu) | 3:36 | 2024-06-28 |  |
 | [LOV](https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [LOV](https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr) | 3:16 | 2025-12-19 |  |
 | [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-07-03 | 2025-10-07 |
@@ -209,7 +211,7 @@
 | [Mein Traum](https://open.spotify.com/track/5bl6OGSUnPWX2xWDESe5xZ) | [Rosc](https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c) | [Mein Traum](https://open.spotify.com/album/5G9FpnTDMMf2q5wdPy7AMD) | 2:32 | 2025-12-19 | 2026-01-24 |
 | [Mein Type](https://open.spotify.com/track/6SOxRyOgCHD8K0tskkrs9M) | [Matterz](https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP) | [Mein Type](https://open.spotify.com/album/7gOI3Tzkyi6cytldUFot2J) | 2:34 | 2024-08-30 |  |
 | [Meine Augen](https://open.spotify.com/track/5MnpPgnUEiJMMa5WzbLOWe) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Meine Augen](https://open.spotify.com/album/4aM7Vsa3PIsMm2qarPJ4Is) | 2:16 | 2024-06-28 | 2025-11-23 |
-| [Memories](https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Memories](https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT) | 3:37 | 2025-10-02 |  |
+| [Memories](https://open.spotify.com/track/4PFe51A35tfRKVzAl5Jzig) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Memories](https://open.spotify.com/album/63mqkFwL6GiyvqXAweVeHT) | 3:37 | 2025-10-02 | 2026-03-07 |
 | [MISS YOU](https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS) | [Disarstar](https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [The Cratez](https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb) | [MISS YOU](https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB) | 2:09 | 2024-06-28 | 2024-09-16 |
 | [MISSED CALLS](https://open.spotify.com/track/4RHDWNlp4yrk54rQATSiQK) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR) | [MISSED CALLS](https://open.spotify.com/album/1Y5ep8GDT8ky8wwu02coOH) | 2:12 | 2024-06-28 | 2024-12-03 |
 | [Mit dir](https://open.spotify.com/track/4yABFkdkOPeHMDsXMBcwra) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Mit dir](https://open.spotify.com/album/6jHUlaT6ZIf8F1SMk7rf8V) | 2:33 | 2025-10-16 | 2025-12-30 |

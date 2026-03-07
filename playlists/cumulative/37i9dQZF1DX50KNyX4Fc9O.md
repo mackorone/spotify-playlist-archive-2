@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Harry Styles
 
-2,561 songs - 5 day 12 hr 19 min
+2,562 songs - 5 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1545,6 +1545,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-07 | 2024-07-05 |
 | [Never Loved](https://open.spotify.com/track/69XPWdofkuTdIGglCep1ul) | [Jemma Siles](https://open.spotify.com/artist/647ZMtcX3HcjejdoUPqdAM) | [Never Loved](https://open.spotify.com/album/4bqMd9gL9P8ratK2CHLGWA) | 3:07 | 2025-10-09 | 2025-11-14 |
 | [new friends](https://open.spotify.com/track/2qaPgYqEShm6ZYUFXHgYWZ) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [new friends](https://open.spotify.com/album/3Xo6i17vaV6miD1Sv4A4tt) | 2:45 | 2025-06-26 | 2025-08-08 |
+| [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-03-05 |  |
 | [New Sport](https://open.spotify.com/track/0usOlPnt5aAAmpkVCrVz67) | [Rizzle Kicks](https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF) | [New Sport](https://open.spotify.com/album/26tr0TFxCiinhbEcNrlGiu) | 3:06 | 2024-11-07 | 2024-12-06 |
 | [NEW WOMAN](https://open.spotify.com/track/3KE9mWNb1KGCQ3Ju0PhQcT) | [Venice Qin](https://open.spotify.com/artist/1w6QttbP1dpScDOCGGvecW) | [NEW WOMAN](https://open.spotify.com/album/11ZY4eIvzzdUCo1NCwNm9V) | 2:48 | 2025-03-27 | 2025-05-02 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2024-09-06 |

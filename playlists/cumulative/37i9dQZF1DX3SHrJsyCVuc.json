@@ -1381,6 +1381,36 @@
     },
     {
       "album": {
+        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
+      },
+      "artists": [
+        {
+          "name": "Amy Taylor",
+          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
+        },
+        {
+          "name": "Tom Coll",
+          "url": "https://open.spotify.com/artist/3LSCSUB1kS40Dd57wmkfyC"
+        },
+        {
+          "name": "Antony Genn",
+          "url": "https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW"
+        },
+        {
+          "name": "Martin Slattery",
+          "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135751,
+      "name": "Nobody's Son",
+      "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
+    },
+    {
+      "album": {
         "name": "When A Flower Doesn't Grow",
         "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
       },
@@ -2288,24 +2318,6 @@
       "duration_ms": 190728,
       "name": "Toyota Camry",
       "url": "https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa"
-    },
-    {
-      "album": {
-        "name": "Peaky Blinders - The Immortal Man (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X"
-      },
-      "artists": [
-        {
-          "name": "Amy Taylor",
-          "url": "https://open.spotify.com/artist/40PFUFiyNzfhg8U0IhCybp"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3WqBMrDMPnbBjBZsa6YrIq"
     },
     {
       "album": {

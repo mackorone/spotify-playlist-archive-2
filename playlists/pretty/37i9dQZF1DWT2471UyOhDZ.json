@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Anna Calvi",
-  "num_followers": 93710,
+  "num_followers": 93704,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -521,26 +521,6 @@
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
     },
     {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Melodramatic Fanatic",
-        "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
-      },
-      "artists": [
-        {
-          "name": "Lime Cordiale",
-          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
-        },
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 249166,
-      "name": "Melodramatic Fanatic",
-      "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
-    },
-    {
       "added_at": "2026-02-23 15:28:05",
       "album": {
         "name": "Begging for Change",
@@ -559,6 +539,26 @@
       "duration_ms": 260550,
       "name": "Begging for Change",
       "url": "https://open.spotify.com/track/0HeZeCEzrXPXdaTD9JDA4a"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Melodramatic Fanatic",
+        "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
+      },
+      "artists": [
+        {
+          "name": "Lime Cordiale",
+          "url": "https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 249166,
+      "name": "Melodramatic Fanatic",
+      "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Spike Island",
-        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
-      },
-      "artists": [
-        {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
-        }
-      ],
-      "duration_ms": 282459,
-      "name": "Spike Island",
-      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 257400,
       "name": "Iceberg",
       "url": "https://open.spotify.com/track/7db86FvWNptUWJIFwvjiCG"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Spike Island",
+        "url": "https://open.spotify.com/album/2g6yLR2pkP43lYZjz80oSy"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 282459,
+      "name": "Spike Island",
+      "url": "https://open.spotify.com/track/6g6DnHs3W4U6qMERbKwpDd"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -803,6 +803,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 156386,
+      "name": "80 Days",
+      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Always The Same (feat. St. Vincent)",
         "url": "https://open.spotify.com/album/1ymjKA3yey1nVI4GuktFk0"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 256875,
       "name": "Always The Same (feat. St. Vincent)",
       "url": "https://open.spotify.com/track/4gWVMKnpY7zU1SfNr7sFbg"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 156386,
-      "name": "80 Days",
-      "url": "https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Selling A Vibe",
-        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
-      },
-      "artists": [
-        {
-          "name": "The Cribs",
-          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
-        }
-      ],
-      "duration_ms": 170533,
-      "name": "Never The Same",
-      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "To The Sandals",
         "url": "https://open.spotify.com/album/6IoiGncVRksI6Tcw6UXzDw"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
+        "name": "Selling A Vibe",
+        "url": "https://open.spotify.com/album/5nSzIeVYqFB0laixl71FYq"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "The Cribs",
+          "url": "https://open.spotify.com/artist/51Eq6WMVEOjjx9KQMAnneG"
         }
       ],
-      "duration_ms": 173637,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
+      "duration_ms": 170533,
+      "name": "Never The Same",
+      "url": "https://open.spotify.com/track/5IZqxf8th5sQVZgAiotTMY"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1059,6 +1043,22 @@
       "duration_ms": 188417,
       "name": "Chapel of Salt",
       "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/5HZ2pmg3km9QzTEfF5gI0Q"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 173637,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/69VnWaqockdVbacMEIfvQN"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Pale Song / Love Is",
-        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 188271,
-      "name": "Love Is",
-      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "All The People (\u6240\u6709\u4eba)",
         "url": "https://open.spotify.com/album/0nC0feKX2EiVtfEQLHAUV2"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 213322,
       "name": "All The People (\u6240\u6709\u4eba)",
       "url": "https://open.spotify.com/track/4P1jRNtwsrEx72UfiZnlIv"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Pale Song / Love Is",
+        "url": "https://open.spotify.com/album/1G6shFmSgbuQ7Gz3aD4LRZ"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 188271,
+      "name": "Love Is",
+      "url": "https://open.spotify.com/track/7zuTE1Eah3KFnYb6ybC1dB"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
         "name": "Shells",
         "url": "https://open.spotify.com/album/0Y3QobZNbtGaLW5TgnbgZL"
       },
@@ -1519,18 +1535,22 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "100 Horses",
-        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
       },
       "artists": [
         {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        },
+        {
+          "name": "Moth\u00e9",
+          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
         }
       ],
-      "duration_ms": 226355,
-      "name": "100 Horses",
-      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
+      "duration_ms": 151454,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1567,22 +1587,18 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
+        "name": "Oranges",
+        "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        },
-        {
-          "name": "Moth\u00e9",
-          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
         }
       ],
-      "duration_ms": 151454,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
+      "duration_ms": 172778,
+      "name": "Oranges",
+      "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1599,22 +1615,6 @@
       "duration_ms": 283040,
       "name": "SLUGLIFE",
       "url": "https://open.spotify.com/track/6mliFFTDhUNOo0I3ye5uaf"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
-        "name": "Oranges",
-        "url": "https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 172778,
-      "name": "Oranges",
-      "url": "https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ"
     },
     {
       "added_at": "2026-02-20 10:02:12",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-02-20 10:02:12",
       "album": {
-        "name": "Drug Dealer",
-        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "Drug Dealer",
-      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
-    },
-    {
-      "added_at": "2026-02-20 10:02:12",
-      "album": {
         "name": "The Jamie Oliver Petrol Station",
         "url": "https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 323960,
       "name": "The Jamie Oliver Petrol Station",
       "url": "https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U"
+    },
+    {
+      "added_at": "2026-02-20 10:02:12",
+      "album": {
+        "name": "Drug Dealer",
+        "url": "https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "Drug Dealer",
+      "url": "https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL"
     }
   ],
   "unique_name": "The Listening Post",

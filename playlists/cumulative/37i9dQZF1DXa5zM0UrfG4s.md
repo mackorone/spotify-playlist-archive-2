@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-435 songs - 19 hr 55 min
+436 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [HÖRRU BARTENDER](https://open.spotify.com/track/1mcr3HuCyabJgAZ9z0zVvx) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE), [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [HÖRRU BARTENDER](https://open.spotify.com/album/1b9a5LDUt0kdBj6H6o2dOa) | 2:25 | 2023-01-12 | 2023-07-16 |
 | [Høgt over landet](https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Høgt over landet](https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn) | 3:23 | 2025-05-22 |  |
 | [Høl i potta](https://open.spotify.com/track/1fl1aY5bCIv0cin4a2YadF) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [ZadeKing](https://open.spotify.com/artist/1HFOFTPBhTc2hxFWJw1yzw), [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2) | [Høl i potta](https://open.spotify.com/album/4G82Kih2HtHLiM3xBptOZD) | 2:20 | 2022-05-19 | 2023-06-20 |
+| [I natt](https://open.spotify.com/track/5vbCn0kZNFFCkxCmGoiTa2) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [I natt](https://open.spotify.com/album/5vfB0w1bOkEqvBdGYy4usj) | 2:30 | 2026-02-19 |  |
 | [Ikväll Igen](https://open.spotify.com/track/4o5Ob60pz8QHcFKcr4MWyf) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Ikväll Igen](https://open.spotify.com/album/1ivEkyr50tSXBwwZ8z7E32) | 2:17 | 2023-04-13 | 2024-02-09 |
 | [Ingen Fara, Mamma!](https://open.spotify.com/track/5pKIWdiohAHDgGUwjXJiLm) | [Truse Tarzan](https://open.spotify.com/artist/2wvRnhwhYuLc04HMOciPiZ), [Brünost](https://open.spotify.com/artist/0iAVl7yqzaGpEM3LLVT589) | [Ingen Fara, Mamma!](https://open.spotify.com/album/1PnczWmm84V0DfpyYfdqrA) | 2:19 | 2021-12-16 | 2022-10-16 |
 | [Ja likaväl](https://open.spotify.com/track/3lqKf1pbBrOFPtLMDqJjh5) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Ja likaväl](https://open.spotify.com/album/4RcarBvLnRaQutxwxYLpJh) | 2:41 | 2022-10-15 | 2025-08-15 |
@@ -423,7 +424,7 @@
 | [Vi Svinger Oss I Dansen](https://open.spotify.com/track/1oje28LUjxKx6dyLN45m5i) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt I Blinken](https://open.spotify.com/album/1mHWQdGuWcq8SoVmuOD8wk) | 2:32 | 2022-01-06 | 2022-07-27 |
 | [Vi svinger oss i dansen](https://open.spotify.com/track/5NiRCAAZfx70MFnvvaAug3) | [Fernando](https://open.spotify.com/artist/2Yi64ssaB3Kz8cUWYGr7MJ) | [Midt i blinken](https://open.spotify.com/album/2026ajRTf5JyS5sUwWIbDF) | 2:32 | 2022-10-13 | 2022-10-16 |
 | [Vi tar det igjen neste år](https://open.spotify.com/track/0xwR5vB4PYsfBgWhTSXpXV) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2), [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Vi tar det igjen neste år](https://open.spotify.com/album/5TdfrM5ed5gG9sX4k06PoZ) | 3:00 | 2021-12-16 | 2022-10-16 |
-| [Vi trenger ikke preke om det](https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi trenger ikke preke om det](https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u) | 2:20 | 2026-01-08 |  |
+| [Vi trenger ikke preke om det](https://open.spotify.com/track/6iRNwzuscGYPlTlmUoeFbp) | [Hagle](https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Vi trenger ikke preke om det](https://open.spotify.com/album/3qQRUvBOhiJbCl5bbMYa0u) | 2:20 | 2026-01-08 | 2026-03-07 |
 | [Viddas Himmelblå](https://open.spotify.com/track/2R3gKCBXGTtZStAchsKsFq) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9), [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu), [Nils Mikael Hætta](https://open.spotify.com/artist/2mGY9GWzeVhGxwHQAeut6d) | [Viddas Himmelblå](https://open.spotify.com/album/3E018LLkx3aXWwYLw7rIMb) | 3:12 | 2021-12-16 |  |
 | [Vill ha dig](https://open.spotify.com/track/3tuVDdCxxgoU94NyqzTeTC) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ), [Flöber](https://open.spotify.com/artist/1fcZ5xS3sNC2USFveWZA7t) | [Vill ha dig](https://open.spotify.com/album/5xYfkDkUxtuCL6jhUPpnZ7) | 3:13 | 2022-01-06 | 2022-07-25 |
 | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/track/0JDaabBuiKaBEpIvwLGXUO) | [Staysman & Lazz](https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Jaa9](https://open.spotify.com/artist/6K2UrKcl0B8oxLrZUl4DA4) | [Volvo & Viagra \(feat\. Jaa9\)](https://open.spotify.com/album/4R3gv6RiRbxTxILW9t9U8D) | 2:42 | 2021-12-16 | 2022-07-06 |

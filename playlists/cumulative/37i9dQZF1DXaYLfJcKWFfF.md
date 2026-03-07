@@ -4,7 +4,7 @@
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Mishy Kope
 
-407 songs - 23 hr 28 min
+408 songs - 23 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Justified](https://open.spotify.com/track/4JmakVNGzH6qD8yBtRXN1g) | [Uba Stephen](https://open.spotify.com/artist/4cRKxH1MPIUVbCcGpIbOZH) | [Superpowers](https://open.spotify.com/album/0XEPP0DkiGxJjk2rTB1oKY) | 3:52 | 2022-12-08 | 2023-03-10 |
 | [Keep On Keeping On](https://open.spotify.com/track/6slN1qecSOImyahsP3Z8Mu) | [Tommy WÁ](https://open.spotify.com/artist/17e35Wp915ZK8I2wCBT1Kd) | [Keep On Keeping On](https://open.spotify.com/album/0kivW345iYRWhl8LYC2PC0) | 4:28 | 2025-06-13 | 2025-10-17 |
 | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/track/6P6NBxeNQTQIu1ZGpoTwks) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Keep On Loving Me \(Biko Biko\)](https://open.spotify.com/album/2uRLG0A0JXYaXfe0zLCbrR) | 2:14 | 2025-03-21 | 2026-02-14 |
-| [Know Me](https://open.spotify.com/track/2TaNDudh64HPCZNgFUzL8J) | [Daniel John](https://open.spotify.com/artist/6VGiqiQk4AlwrgjKaozUno) | [Know Me](https://open.spotify.com/album/76NZkpZX6bNrED2CC3dPOC) | 2:49 | 2026-02-13 |  |
+| [Know Me](https://open.spotify.com/track/2TaNDudh64HPCZNgFUzL8J) | [Daniel John](https://open.spotify.com/artist/6VGiqiQk4AlwrgjKaozUno) | [Know Me](https://open.spotify.com/album/76NZkpZX6bNrED2CC3dPOC) | 2:49 | 2026-02-13 | 2026-03-07 |
 | [Korba](https://open.spotify.com/track/6CaEPMe8NUOegYd06CGBWa) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/56tUJqILM4XfQ0XfyCPqGh) | 2:45 | 2022-12-08 | 2023-02-27 |
 | [Korba](https://open.spotify.com/track/7F7GbdbIqiRxrGLBTh70kC) | [Silent Witness](https://open.spotify.com/artist/5NIuX7TUqng13EgbUVGkqy), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Silent Witness II](https://open.spotify.com/album/2SskA3Gs1lDySqd3PN3Kn0) | 2:45 | 2023-01-27 | 2023-06-23 |
 | [Korle Bu No Get Bed](https://open.spotify.com/track/161wQEvlxiqmUFT3TmLMOX) | [M3NSA](https://open.spotify.com/artist/5GQSDYH4c2IB7RBZD5Lb2s), [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [F.O.L.A.H 1 \(Fear Of Love And Happiness\)](https://open.spotify.com/album/4ABLWme9yWPWOB4mqhDr5t) | 2:04 | 2025-04-11 | 2025-08-29 |
@@ -193,6 +193,7 @@
 | [Light](https://open.spotify.com/track/41NqESXB9XqryxvtaRjubm) | [Muzi](https://open.spotify.com/artist/4fd3n8zcAmsG2up1QWDNj5) | [Milk & Honey / Light](https://open.spotify.com/album/7bPhbpX3wRkmgf75CFSd6m) | 3:11 | 2023-10-13 | 2024-07-12 |
 | [Light in Darkest Night](https://open.spotify.com/track/7c81879sor33GdZ2Qx4ris) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Light in Darkest Night](https://open.spotify.com/album/1RxBMM4vbJeC8PPfbTjNy3) | 2:48 | 2025-08-28 | 2026-02-27 |
 | [Light It Up](https://open.spotify.com/track/6yGXvc3MzZOYIfh5bVwe07) | [Stereo Club](https://open.spotify.com/artist/4NJbKjkR9DcoyVT4ZXgAkv) | [Light It Up](https://open.spotify.com/album/5uSHlJUvdsRzCA6ZN0MC9Z) | 3:33 | 2025-09-25 | 2025-10-03 |
+| [Lonely, Lonely](https://open.spotify.com/track/7mKAUad3IQ6x6Fkf6RMh1L) | [S\-Que](https://open.spotify.com/artist/0vQFWM1zpxvMVOwTdvtWjP) | [Lonely, Lonely](https://open.spotify.com/album/1WtjMgT2cWtidpGuLYuKnw) | 2:12 | 2026-03-06 |  |
 | [Lookalike](https://open.spotify.com/track/1MSSCIOpcASLtHvb2idZIo) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Lookalike](https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr) | 2:34 | 2026-02-13 |  |
 | [Lost](https://open.spotify.com/track/4mlBTW22c1ejZwJd8pU26M) | [ARCHR](https://open.spotify.com/artist/6sbMpWQfzVDSz8MY0SAXSw) | [Lost](https://open.spotify.com/album/2EEJYOIDQOGUYXLMNHEK2A) | 4:55 | 2025-09-19 | 2025-10-17 |
 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 | 2025-09-19 | 2025-11-22 |

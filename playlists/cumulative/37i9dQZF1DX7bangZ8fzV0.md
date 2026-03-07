@@ -4,7 +4,7 @@
 
 > Net die beste Afrikaanse musiek! Omslag: Riaan Benadé
 
-371 songs - 20 hr 32 min
+372 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Meisies Soos Jy](https://open.spotify.com/track/67N0nsJvvBnvDYzh9ajNWF) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Meisies Soos Jy](https://open.spotify.com/album/164AAP3cVdfP6Wt1nDNPla) | 4:10 | 2022-04-22 | 2022-11-25 |
 | [Memories Maak](https://open.spotify.com/track/3Iue15EbnjaD5dfgYCw7mf) | [Ariana Venus](https://open.spotify.com/artist/2NxHVU4CsjrwS2MIA0dupe) | [Memories Maak](https://open.spotify.com/album/28qOth6mq7ANU4Pgrb5KK9) | 3:36 | 2025-06-19 | 2025-08-01 |
 | [Mia](https://open.spotify.com/track/6fqNmXtn5MYZZYZwoxZSUx) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Die Piesangskille](https://open.spotify.com/album/1JcQPXPd5FDmCJ37nk6uXC) | 4:06 | 2025-11-06 |  |
+| [Mila](https://open.spotify.com/track/50ZHOPP42jXBg5uMnPHYZY) | [JACOBUS](https://open.spotify.com/artist/24iz20utElKngkNR7P2uBt) | [Mila](https://open.spotify.com/album/4enI5oy6qL2Ibdf96K29vL) | 2:52 | 2026-03-06 |  |
 | [Moegdans](https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Moegdans](https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq) | 3:21 | 2023-09-21 | 2025-09-03 |
 | [Mooier As Mens](https://open.spotify.com/track/6Sf2Gix8i6F5dppxF4SDsW) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Mooier As Mens](https://open.spotify.com/album/6icQRVPzVaFuFForSooh0L) | 3:31 | 2025-05-15 | 2025-09-19 |
 | [Morsig](https://open.spotify.com/track/2PM1iKRKIz73N0r5wRfl5e) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Morsig](https://open.spotify.com/album/4apOG7LWrQ140OaSwLtWNs) | 3:14 | 2024-09-27 | 2025-06-07 |
@@ -341,7 +342,7 @@
 | [Toe Vind Ek Jou](https://open.spotify.com/track/6aoOsdstETztQMiH8ly95z) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF), [Karen Zoid](https://open.spotify.com/artist/5KzahF4M0rVmp2M12wTtyn) | [Francois Van Coke](https://open.spotify.com/album/5kV2rJtTo3ki4iThFnYpWs) | 4:06 | 2025-11-10 |  |
 | [Toe, Nou en Altyd](https://open.spotify.com/track/0rjzroUiVMuRCNzC8iMVkf) | [Bobby Van Jaarsveld](https://open.spotify.com/artist/2c2ibERmshNT2uvFBiRDWD) | [Toe, Nou en Altyd](https://open.spotify.com/album/0fv8JKFHUF6o7GuWqPbpyy) | 3:41 | 2023-07-27 | 2023-12-22 |
 | [Toer Om Die Vloer](https://open.spotify.com/track/5oMumOpP2Bavh3JyjbOqP5) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Insomnia](https://open.spotify.com/album/0b8YXBab3WjJJWimv8HgBB) | 3:11 | 2022-10-28 |  |
-| [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 | 2024-11-07 |  |
+| [Trek Hom Plat](https://open.spotify.com/track/0wuhtOH1S7wjjx8HWqN5Md) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Chris Steyn](https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q) | [Trek Hom Plat](https://open.spotify.com/album/3PGqATRN5CbIoDlwp2XbLd) | 2:52 | 2024-11-07 | 2026-03-07 |
 | [Troumateriaal](https://open.spotify.com/track/2bxBLbKyJWd0406RLKr6wK) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Troumateriaal](https://open.spotify.com/album/7qWT35R3KlS5cNQegnYAEt) | 3:21 | 2025-11-14 | 2026-02-16 |
 | [Vanaand](https://open.spotify.com/track/4ElPtyisAGJsV1C2xUxhKn) | [Die Beste Band In Die Wêreld ...Ooit, Ek Sweer](https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd) | [Vanaand](https://open.spotify.com/album/2PFEJJopy6TM7UmsE3JIF6) | 2:57 | 2025-12-11 |  |
 | [Vat 'n Bietjie](https://open.spotify.com/track/181RlW4FYWSzaV9xt8xUPQ) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:12 | 2021-04-19 | 2025-11-15 |

@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "all of me was you",
+        "url": "https://open.spotify.com/album/6OTHWLZPXFbQnx8xNurMK5"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184273,
+      "name": "all of me was you",
+      "url": "https://open.spotify.com/track/3jd0nELFcCS31ly7VmeJ71"
+    },
+    {
+      "album": {
         "name": "All of Mine",
         "url": "https://open.spotify.com/album/6xvsEY40vvDhe4dzefkwSc"
       },
@@ -2765,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Finally Complete",
+        "url": "https://open.spotify.com/album/34BjnNVsMM6OQGwUtm3wvq"
+      },
+      "artists": [
+        {
+          "name": "Clayton Nile Young",
+          "url": "https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192713,
+      "name": "Finally Complete",
+      "url": "https://open.spotify.com/track/1LNSC5mQxjZClcoMA32t26"
+    },
+    {
+      "album": {
         "name": "Finch In The Pantry",
         "url": "https://open.spotify.com/album/3GNgRPzfWWQ6UAkcYzTTvg"
       },
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 157013,
       "name": "Gardens",
       "url": "https://open.spotify.com/track/0Rrrxb4Wrqk5MGE6KevSg1"
@@ -7108,7 +7144,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 252188,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/0ivBXQFCf5gzDA8BBQ2im1"

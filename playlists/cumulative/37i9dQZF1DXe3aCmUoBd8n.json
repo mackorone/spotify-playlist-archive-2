@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "Top Sharqi hits right now. Cover: Nassif Zeytoun",
+  "description": "Top Sharqi hits right now. Cover: Bessan Ismail",
   "name": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629",
   "tracks": [
     {
@@ -1012,7 +1012,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 174117,
       "name": "Dwali",
       "url": "https://open.spotify.com/track/0FTatqMMiIIYA1b5tds3Fc"
@@ -1142,7 +1142,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 196235,
       "name": "El Waet Hdiye",
       "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
@@ -1795,6 +1795,28 @@
     },
     {
       "album": {
+        "name": "Khawa",
+        "url": "https://open.spotify.com/album/1aZQgBMu6IIFd8WWzeZk59"
+      },
+      "artists": [
+        {
+          "name": "Amjad Jomaa",
+          "url": "https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU"
+        },
+        {
+          "name": "Noel Kharman",
+          "url": "https://open.spotify.com/artist/76G2QPGz4HBmhn0D3vr9UL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "Khawa",
+      "url": "https://open.spotify.com/track/4vfSMQVxH257r4TUeIUKaa"
+    },
+    {
+      "album": {
         "name": "Khedi El Ghamrat",
         "url": "https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW"
       },
@@ -2240,6 +2262,24 @@
       "duration_ms": 224574,
       "name": "Nafas",
       "url": "https://open.spotify.com/track/2idxKbgiLYQF8H8Z5cUNgd"
+    },
+    {
+      "album": {
+        "name": "Najma | \u0646\u062c\u0645\u0629",
+        "url": "https://open.spotify.com/album/2Dcu6wTmvfQfP8SvEmPcGo"
+      },
+      "artists": [
+        {
+          "name": "Bessan Ismail",
+          "url": "https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157214,
+      "name": "Najma | \u0646\u062c\u0645\u0629",
+      "url": "https://open.spotify.com/track/6LN0mwRqIC9RAUqLXUUCdA"
     },
     {
       "album": {

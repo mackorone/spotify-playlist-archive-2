@@ -14727,6 +14727,32 @@
     },
     {
       "album": {
+        "name": "BADDIE (feat. Maury North)",
+        "url": "https://open.spotify.com/album/2hmJiLoIddlP4UB9pWMO4f"
+      },
+      "artists": [
+        {
+          "name": "Heartman",
+          "url": "https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt"
+        },
+        {
+          "name": "Maury North",
+          "url": "https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry"
+        },
+        {
+          "name": "Lie O'Neill",
+          "url": "https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196285,
+      "name": "BADDIE (feat. Maury North)",
+      "url": "https://open.spotify.com/track/2VZw7esRsghIuIllx3hHWU"
+    },
+    {
+      "album": {
         "name": "Baddie Baddie",
         "url": "https://open.spotify.com/album/4oRJgw3nyDQ3hnx7cXlbQr"
       },
@@ -83551,7 +83577,7 @@
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145998,
+      "duration_ms": 145453,
       "name": "Madan",
       "url": "https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi"
     },
@@ -93759,6 +93785,28 @@
     },
     {
       "album": {
+        "name": "Wall-To-Wall",
+        "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
+      },
+      "artists": [
+        {
+          "name": "msft",
+          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
+        },
+        {
+          "name": "sbk",
+          "url": "https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "My Turn (feat. sbk)",
+      "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
+    },
+    {
+      "album": {
         "name": "My Way / Cyan Blue",
         "url": "https://open.spotify.com/album/0Uq3D7kpSjpSesIRvKbySe"
       },
@@ -95734,6 +95782,28 @@
       "duration_ms": 210052,
       "name": "New Martyrs (Ride 4 U)",
       "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
+    },
+    {
+      "album": {
+        "name": "New Religion",
+        "url": "https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "New Religion",
+      "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
       "album": {
@@ -143547,7 +143617,7 @@
     },
     {
       "album": {
-        "name": "This is Real (Disappear) [feat. Eyelar]",
+        "name": "This is Real (Disappear)",
         "url": "https://open.spotify.com/album/4maE8TUee3j02PYXDhvxM9"
       },
       "artists": [
@@ -143568,7 +143638,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 297187,
-      "name": "This is Real (Disappear) [feat. Eyelar]",
+      "name": "This is Real (Disappear)",
       "url": "https://open.spotify.com/track/3z8BNqNO2H8vlu5gnb2vAO"
     },
     {
@@ -146835,24 +146905,6 @@
     },
     {
       "album": {
-        "name": "Wall-To-Wall",
-        "url": "https://open.spotify.com/album/0B9Olm8ITkG2zl7vMyI1ga"
-      },
-      "artists": [
-        {
-          "name": "msft",
-          "url": "https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx"
-        }
-      ],
-      "date_added": "2026-03-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/05sEHLouKqQvs0ShE4tWbD"
-    },
-    {
-      "album": {
         "name": "PI\u00d9 CHE SOLIDO",
         "url": "https://open.spotify.com/album/1p4XYB6kR49pnvbdBJibCT"
       },
@@ -146864,7 +146916,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 0,
       "name": "Track 3",
       "url": "https://open.spotify.com/track/2u7oaYuzOEAnkgoiWlVjoW"

@@ -4,7 +4,7 @@
 
 > 2021
 
-168 songs - 11 hr 26 min
+169 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,5 +176,6 @@
 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2025-05-14 |  |
 | [Wish You Were Here](https://open.spotify.com/track/1HzDhHApjdjXPLHF6GGYhu) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Collection Of Great Dance Songs](https://open.spotify.com/album/15Tc3f1XzDKLodDXDELISe) | 5:21 | 2024-12-05 |  |
 | [You Could Be Happy](https://open.spotify.com/track/7zkLcJktbodeRntovGdXQK) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/5PYva5C1cdwx2PAsOgZBHN) | 3:01 | 2025-03-09 |  |
+| [You Love Me](https://open.spotify.com/track/4BqIT4j2xzROrC9dMlgXPT) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Hidden Vagenda](https://open.spotify.com/album/12025laJ05m1gjmZVLNv2B) | 2:39 | 2026-03-06 |  |
 
 \*This playlist was first scraped on 2024-01-15. Prior content cannot be recovered.

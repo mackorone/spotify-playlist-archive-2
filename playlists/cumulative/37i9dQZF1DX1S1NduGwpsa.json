@@ -18427,6 +18427,28 @@
     },
     {
       "album": {
+        "name": "WANDERING - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4j6eZIVNNtLqQCExUtDpxe"
+      },
+      "artists": [
+        {
+          "name": "Bren Joy",
+          "url": "https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208643,
+      "name": "WANDERING - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/42XCaHeTZb08ixoZ4zanCj"
+    },
+    {
+      "album": {
         "name": "Warm In December",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },

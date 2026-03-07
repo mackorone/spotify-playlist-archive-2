@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 
 > All the freshest hip\-hop heaters in one list! Cover: A$AP Rocky.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,679 likes - 103 songs - 4 hr 49 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 28,678 likes - 106 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,5 +111,8 @@ pretty - [cumulative](/playlists/cumulative/4ZIfP7ACey6M5BBLTfmOBW.md) - [plain]
 | 101 | [push the pipe](https://open.spotify.com/track/6B64s9LUjWse0rtS9A7oyU) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [HYPERYOUTH \(afterparty\)](https://open.spotify.com/album/3vIpUJFnNJgMwB4nygKtgV) | 3:08 |
 | 102 | [Thug Love](https://open.spotify.com/track/7H0vjdxgl0aBWLC9IDFAGe) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG) | [Through Her Eyes](https://open.spotify.com/album/0gVsu04Wmbfa7bKaQIxTTk) | 2:46 |
 | 103 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
+| 104 | [Baby I](https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Baby I](https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov) | 2:20 |
+| 105 | [I Know](https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd) | [Pradabagshawty](https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm) | [I Know](https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB) | 2:12 |
+| 106 | [Don't Give Up](https://open.spotify.com/track/7aQJeKHrlcMTEEWXmwfcsN) | [ALLIANCE SuPRM](https://open.spotify.com/artist/38JCPXkZ1jpfzA12bLNZwH), [Tha Incradouble Pack](https://open.spotify.com/artist/73qrKht5hJF2b2StfCewve), [LeFLOFRANCO](https://open.spotify.com/artist/2XwMQRzoUywE0dMIHkvBz3), [QUEST](https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi), [DJ SKORPYON](https://open.spotify.com/artist/3fZxpayvsTP2nRXeiLVl4X) | [Don't Give Up](https://open.spotify.com/album/0QA0JjZBPX0AwqVUJXgb24) | 3:27 |
 
-Snapshot ID: `AAAnrS7ioikt6twtzRZG8NxmzMBw3FVf`
+Snapshot ID: `AAAnsC9/66pExdv9G1TSd1xrlzpKXKQ7`

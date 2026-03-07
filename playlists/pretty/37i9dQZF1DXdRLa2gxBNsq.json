@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Inkandescencia y Laura DSK.",
-  "num_followers": 114716,
+  "num_followers": 114721,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Las Calles Tienen Memoria",
-        "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
-      },
-      "artists": [
-        {
-          "name": "Tiempos de Ira",
-          "url": "https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy"
-        },
-        {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "Las Calles Tienen Memoria",
-      "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Rayo ke no cesa",
         "url": "https://open.spotify.com/album/0NnbF8YiKNGAmde0I8yRpw"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 227530,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/1v1i0DriBu0BPeiRtJvbfL"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Las Calles Tienen Memoria",
+        "url": "https://open.spotify.com/album/3UkeWshRdY8sX78tSQI8Xi"
+      },
+      "artists": [
+        {
+          "name": "Tiempos de Ira",
+          "url": "https://open.spotify.com/artist/25vYjwA9cgXFdERLL1h6vy"
+        },
+        {
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "Las Calles Tienen Memoria",
+      "url": "https://open.spotify.com/track/5xrwfphFtporIEf0dNcV8c"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "Figurante",
-        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Nacho Vidal",
-          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
-        }
-      ],
-      "duration_ms": 150701,
-      "name": "Figurante",
-      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Amaneceres",
         "url": "https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 230724,
       "name": "Amaneceres",
       "url": "https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "Figurante",
+        "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Nacho Vidal",
+          "url": "https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz"
+        }
+      ],
+      "duration_ms": 150701,
+      "name": "Figurante",
+      "url": "https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
-        "name": "J\u00f3venes Promesas de la Delincuencia",
-        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
-      },
-      "artists": [
-        {
-          "name": "Rat-Zinger",
-          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
-        }
-      ],
-      "duration_ms": 171005,
-      "name": "J\u00f3venes Promesas de la Delincuencia",
-      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
         "name": "Rico deprimido (XX5)",
         "url": "https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 205696,
       "name": "Rico deprimido - XX5",
       "url": "https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
+        "name": "J\u00f3venes Promesas de la Delincuencia",
+        "url": "https://open.spotify.com/album/6IRgFasohZEQPq4O9KPRQz"
+      },
+      "artists": [
+        {
+          "name": "Rat-Zinger",
+          "url": "https://open.spotify.com/artist/1WVMR6t5Uqq5IBqQiFYKTR"
+        }
+      ],
+      "duration_ms": 171005,
+      "name": "J\u00f3venes Promesas de la Delincuencia",
+      "url": "https://open.spotify.com/track/5TJt3gSmt1X1h9HkxwNpHJ"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-02-09 12:00:06",
       "album": {
+        "name": "Control de Masas",
+        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
+      },
+      "artists": [
+        {
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
+        }
+      ],
+      "duration_ms": 221144,
+      "name": "Control de Masas",
+      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
+    },
+    {
+      "added_at": "2026-02-09 12:00:06",
+      "album": {
         "name": "Un D\u00eda en Texas [con Anna y Skiper (Sistema de Entretenimiento)]",
         "url": "https://open.spotify.com/album/1SGR4hi9vjFaYFbQ4bmSak"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 142162,
       "name": "Un D\u00eda en Texas - con Anna y Skiper (Sistema de Entretenimiento)",
       "url": "https://open.spotify.com/track/59Ma9tohRKQXsljxhr70n7"
-    },
-    {
-      "added_at": "2026-02-09 12:00:06",
-      "album": {
-        "name": "Control de Masas",
-        "url": "https://open.spotify.com/album/0wDmAO63FZOYvotxqeCOlm"
-      },
-      "artists": [
-        {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 221144,
-      "name": "Control de Masas",
-      "url": "https://open.spotify.com/track/1wraUGXXMRMPpFglQuZhU4"
     },
     {
       "added_at": "2026-02-09 12:00:06",
@@ -1724,9 +1724,9 @@
           "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
       "added_at": "2026-02-09 12:00:06",

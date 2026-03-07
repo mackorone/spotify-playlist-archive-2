@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,170 songs - 9 day 5 hr 42 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,171 songs - 9 day 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4178,5 +4178,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4168 | [duda dela fe](https://open.spotify.com/track/5DwIozHasjA4zwXrXLfZB8) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 2:38 |
 | 4169 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 |
 | 4170 | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7) | 2:36 |
+| 4171 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 |
 
-Snapshot ID: `AAAHpyTXU8jHEIk5iKIeYOhmRnn776WY`
+Snapshot ID: `AAAHqNDuYjumo9G9tHRfDKYP9vlhlIrZ`

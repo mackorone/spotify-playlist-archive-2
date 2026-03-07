@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 76667,
+  "num_followers": 76663,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAAWI1dtgcuunn7M15Keb0jH",
+  "snapshot_id": "aajHgAAAAABtmjR3XfYNdvlt8p1tnFHp",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Name of Love",
-        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 106666,
-      "name": "Name of Love",
-      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
+      "duration_ms": 158740,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
     },
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+        "name": "Name of Love",
+        "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         }
       ],
-      "duration_ms": 158740,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+      "duration_ms": 106666,
+      "name": "Name of Love",
+      "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
     },
     {
       "added_at": null,

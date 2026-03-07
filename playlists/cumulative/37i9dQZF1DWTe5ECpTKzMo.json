@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. Milkman por siempre \ud83e\udee1",
+  "description": "La tierra del Rap de oro puro.  Cypress Hill y Alem\u00e1n dominando ",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -578,7 +578,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 200914,
       "name": "Calabozos y Princesas",
       "url": "https://open.spotify.com/track/4kLcUhwTygRdP3RHNxIWSj"
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 241344,
       "name": "Celebrando",
       "url": "https://open.spotify.com/track/1IwmThLeTTcroR7cI77CIX"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 231272,
       "name": "Sue\u00f1os Grandes",
       "url": "https://open.spotify.com/track/3hJAvcGarXuTfC2ryzEW5j"
@@ -3606,6 +3606,28 @@
       "duration_ms": 218000,
       "name": "Volando",
       "url": "https://open.spotify.com/track/1aHD6BlYi6rsJCetEWH9f4"
+    },
+    {
+      "album": {
+        "name": "Wacha Trucha",
+        "url": "https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "Wacha Trucha",
+      "url": "https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB"
     },
     {
       "album": {

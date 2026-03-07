@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Peaches.
 
-450 songs - 1 day 3 hr 25 min
+451 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Do Dat Baby](https://open.spotify.com/track/75DcS0cmvDFFWni1ah7UGE) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9) | [Do Dat Baby](https://open.spotify.com/album/2qvRboRK59jvKqYS0MMyi0) | 3:07 | 2024-03-01 | 2024-09-07 |
 | [Do It For You](https://open.spotify.com/track/3IC5oKi7Fo7OLJlYj3fSOp) | [Malugi](https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Do It For You](https://open.spotify.com/album/3DP6iVxhvU8EQURr1sZ2cP) | 2:38 | 2024-06-14 | 2024-07-02 |
 | [Do You Wanna Funk?](https://open.spotify.com/track/7u1FUecu9iOM7AkEUHz1ce) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO), [Sylvester](https://open.spotify.com/artist/5TGTpu4g8siFOIctZuQO7y) | [Patrick Cowley: The Ultimate Collection](https://open.spotify.com/album/20e1KcDovwLUFtSTvCDmyv) | 6:06 | 2024-06-14 | 2024-07-02 |
+| [Dog](https://open.spotify.com/track/5eBhs4ethVM65azitjNAFv) | [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Dog](https://open.spotify.com/album/3TbON5WSx3OksjRcQVyvpz) | 2:37 | 2026-03-06 |  |
 | [Don't Be Afraid](https://open.spotify.com/track/1xzLopiLJt7wEzzjXi6LQ1) | [Will Watt](https://open.spotify.com/artist/01GObtyNNir2fl1CBUMwyq) | [Don't Be Afraid](https://open.spotify.com/album/5nYQNvu2wrqB6RpcJBS0xK) | 3:21 | 2025-02-21 | 2025-06-14 |
 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 | 2024-06-01 | 2025-04-12 |
 | [Don't Bother Me](https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [Don't Bother Me EP](https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE) | 3:30 | 2024-06-01 | 2024-06-15 |
@@ -276,7 +277,7 @@
 | [Men Adore \- Cinthie's Remix](https://open.spotify.com/track/35j7MX6lwGssCH4giK6brK) | [Fat Tony](https://open.spotify.com/artist/7zXmFB1OCLqDGPTbGn4myy), [Fierce Child](https://open.spotify.com/artist/10JCwdYQXq4wWL3s39dUrz), [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Men Adore \(Cinthie Remix\)](https://open.spotify.com/album/2ZGGLIkIuKoGe93HNNIlJ0) | 4:00 | 2025-02-21 | 2025-07-12 |
 | [Miasto](https://open.spotify.com/track/0weYBSmvIBpSgwfNECBjzn) | [Baasch](https://open.spotify.com/artist/063D0MKbIbbBjKgtYRGBga) | [Noc](https://open.spotify.com/album/4VRsOPNYWyOBqaG02BDVEf) | 4:12 | 2024-06-01 | 2024-06-15 |
 | [Mine](https://open.spotify.com/track/2hPA6eCXmilws9KXeKwOGN) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Mine](https://open.spotify.com/album/0ugHcuARkUFmlZTRIpN00U) | 3:41 | 2024-06-28 | 2024-10-12 |
-| [MISS MAX](https://open.spotify.com/track/58dDRolmHM5yH9HM2I6djH) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [PRESS X](https://open.spotify.com/album/5fIHkB8RI8ieqvGfPGKM4Y) | 3:55 | 2025-11-07 |  |
+| [MISS MAX](https://open.spotify.com/track/58dDRolmHM5yH9HM2I6djH) | [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [PRESS X](https://open.spotify.com/album/5fIHkB8RI8ieqvGfPGKM4Y) | 3:55 | 2025-11-07 | 2026-03-07 |
 | [Moodboard](https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Moodboard](https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA) | 2:12 | 2024-09-06 |  |
 | [MOVE IT](https://open.spotify.com/track/4kM0cCRw8ufrtbEdORq60P) | [Bob's Dance Shop](https://open.spotify.com/artist/2dPiYsxFbqCHiJNQxRlai0) | [MOVE IT](https://open.spotify.com/album/0Jw5vqLrsrqOBflPL2o7JA) | 2:39 | 2025-08-08 |  |
 | [Moved 2 LA](https://open.spotify.com/track/1rGEWjkvYitclorCMdraGf) | [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI), [Queen Of Melrose](https://open.spotify.com/artist/4D4TS44nU8GMC5wPNZcs8J) | [Moved 2 LA](https://open.spotify.com/album/2noiCSRSTjX22GVq3lTtSD) | 2:33 | 2024-11-08 | 2025-03-01 |

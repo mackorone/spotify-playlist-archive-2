@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: YUNGBLUD, Steven Tyler and Joe Perry at The VMAs
 
-386 songs - 1 day 0 hr 57 min
+387 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2024-06-15 |
 | [Miss Murder \- From The “American Psycho” Comic Series Soundtrack](https://open.spotify.com/track/2pXqBJbCbDQ6rmmfpdAKst) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Miss Murder \(From The “American Psycho” Comic Series Soundtrack\)](https://open.spotify.com/album/7gQot3rgf5B3A3lL4muhAp) | 3:00 | 2024-09-13 |  |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 | 2025-01-18 |
-| [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
+| [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 | 2026-03-07 |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 | 2022-11-26 |
 | [No Ordinary Love \- 2005 Remaster](https://open.spotify.com/track/2lwkf3MVqTYmo5NoAoWFqN) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/0UArfu79AC2LrQ6lsvohp5) | 5:30 | 2022-03-25 | 2025-01-18 |
 | [No Rain](https://open.spotify.com/track/2pPUp719PiWcXFGxJCVzgD) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [No Rain](https://open.spotify.com/album/2gTHSUAhQJmBqlFT5FbcYX) | 3:37 | 2020-12-16 | 2022-07-18 |
@@ -357,6 +357,7 @@
 | [Under Pressure](https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Under Pressure](https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS) | 3:31 | 2020-12-16 | 2024-04-20 |
 | [Under Pressure](https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:31 | 2024-04-19 |  |
 | [Uninvited](https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Uninvited](https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8) | 4:19 | 2020-12-16 |  |
+| [Universal Soldier](https://open.spotify.com/track/7dpPH25jaKKvKDJcYDgF6d) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 3:20 | 2026-03-06 |  |
 | [Voodoo Child](https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Comandante](https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA) | 5:12 | 2020-12-16 | 2025-01-18 |
 | [Wait and Bleed \- Spotify Singles](https://open.spotify.com/track/1BDUdn6OmlJ9oR9XpSxgNR) | [Zulu](https://open.spotify.com/artist/38tO9pZm2G0JjANgRFvC1a) | [Spotify Singles](https://open.spotify.com/album/6ZACt8yCJS2jPAlwspSMaO) | 2:35 | 2023-06-16 | 2023-07-25 |
 | [Waiting For Love \- Recorded At RAK Studios, London](https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Spotify Singles](https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL) | 2:45 | 2022-03-25 |  |

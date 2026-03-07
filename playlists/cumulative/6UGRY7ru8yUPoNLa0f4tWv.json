@@ -543,6 +543,28 @@
     },
     {
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/7E4IFMWK42zFPGhDOXjfgl"
+      },
+      "artists": [
+        {
+          "name": "Backin'99",
+          "url": "https://open.spotify.com/artist/3tn5x8fesHasLTy5ePCNT5"
+        },
+        {
+          "name": "Alex Ross",
+          "url": "https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/6eR3tKgcldJfTeLOz1ovW9"
+    },
+    {
+      "album": {
         "name": "Drink & Drugs & Sex & Money",
         "url": "https://open.spotify.com/album/4kGb21KI1hLPoPD6V671vw"
       },

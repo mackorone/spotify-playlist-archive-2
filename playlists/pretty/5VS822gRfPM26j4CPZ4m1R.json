@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 17957,
+  "num_followers": 17959,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMXjwRsGjlBESKDUVOSbccigL0bZb0",
+  "snapshot_id": "AAAMYmNlQ6AwmvOmwHZTZy7RUsPkNHc8",
   "tracks": [
+    {
+      "added_at": "2026-03-06 08:23:36",
+      "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/0UO3MF90mlDKvNfwVXODub"
+      },
+      "artists": [
+        {
+          "name": "Marcoca",
+          "url": "https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4"
+        }
+      ],
+      "duration_ms": 290425,
+      "name": "Hold Me. Keep Me. Maybe",
+      "url": "https://open.spotify.com/track/4QGZUXY3ZyHxOAfeHswxqd"
+    },
     {
       "added_at": "2026-02-27 07:49:26",
       "album": {
@@ -39,6 +55,26 @@
       "duration_ms": 290625,
       "name": "end times",
       "url": "https://open.spotify.com/track/6I6bqgyNdrZ21jRGUoN530"
+    },
+    {
+      "added_at": "2025-09-19 08:32:21",
+      "album": {
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
     },
     {
       "added_at": "2025-11-28 14:52:01",
@@ -579,26 +615,6 @@
       "duration_ms": 162671,
       "name": "Black Water",
       "url": "https://open.spotify.com/track/07PkOUYkemf8GYZTB5Yvar"
-    },
-    {
-      "added_at": "2025-09-19 08:32:21",
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/0FMCpmIYZQzznX67Nv8yts"
-      },
-      "artists": [
-        {
-          "name": "Boy Deco",
-          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
-        },
-        {
-          "name": "Quantum Keys",
-          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/0VPgqqsj5Ck8TA1DPKqnuI"
     },
     {
       "added_at": "2025-07-18 09:42:29",
@@ -10515,6 +10531,26 @@
       "duration_ms": 169879,
       "name": "Bye Dummy",
       "url": "https://open.spotify.com/track/13xRpimF9gtVsB5GM8Gyjz"
+    },
+    {
+      "added_at": "2026-03-06 08:26:36",
+      "album": {
+        "name": "SAP",
+        "url": "https://open.spotify.com/album/5qWAWScy8fUrOgwWphDvdD"
+      },
+      "artists": [
+        {
+          "name": "Boy Deco",
+          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
+        },
+        {
+          "name": "Quantum Keys",
+          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
+        }
+      ],
+      "duration_ms": 105500,
+      "name": "Gum Head II",
+      "url": "https://open.spotify.com/track/637QmKCvSglVuabJ7MowG6"
     }
   ],
   "unique_name": "Nice Guys | 24/7 Radio",

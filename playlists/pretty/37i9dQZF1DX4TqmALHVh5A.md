@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Ofé
+> La scène française branchée sur courant alternatif\. Photo : Liv del Estal
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,592 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,619 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Take Off Late](https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Mārara](https://open.spotify.com/album/1T3PfI7AsCc3hHXfsZTGC1) | 3:23 |
-| 2 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
-| 3 | [Un Cri Dans Le Métro](https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Un Cri Dans Le Métro](https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS) | 3:22 |
-| 4 | [Viens en moi](https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Dark Star](https://open.spotify.com/album/3SzAcYU1XQjWeocjF8Gn5j) | 3:03 |
-| 5 | [Je trace](https://open.spotify.com/track/2eTOkhL8ug3czviQ3tzTRF) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [Je trace](https://open.spotify.com/album/0liEQ85REpuvXdh7kD1WYq) | 2:20 |
-| 6 | [CŒUR TITANE](https://open.spotify.com/track/1UfqVe7OZltMAJxyvkoLw7) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [CŒUR TITANE](https://open.spotify.com/album/0kmPpZo26WeThAFctGflS6) | 3:36 |
-| 7 | [La Fable](https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa) | [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [La Fable](https://open.spotify.com/album/61giTMofDEougdMZ1vPnME) | 2:50 |
-| 8 | [En Sentido Contrario](https://open.spotify.com/track/4khRClTR8t347HO18rAOmf) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [En Sentido Contrario](https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER) | 3:13 |
-| 9 | [La nuit](https://open.spotify.com/track/6gvpn1sakSHny7E03huVzq) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU), [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [La nuit](https://open.spotify.com/album/4sg8ZR9A2SAYkh5fJPkSVC) | 3:41 |
-| 10 | [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 |
+| 1 | [CŒUR TITANE](https://open.spotify.com/track/1UfqVe7OZltMAJxyvkoLw7) | [Liv del Estal](https://open.spotify.com/artist/2QFqSnoWpKrh7zmNrFQltY) | [CŒUR TITANE](https://open.spotify.com/album/0kmPpZo26WeThAFctGflS6) | 3:36 |
+| 2 | [ça pik un peu quand même](https://open.spotify.com/track/2ujqZZagehmL85kUTw8qFc) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [industry plant](https://open.spotify.com/album/3wx2wcQ53Ilo5NOUU6Mw65) | 2:17 |
+| 3 | [Take Off Late](https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Mārara](https://open.spotify.com/album/1T3PfI7AsCc3hHXfsZTGC1) | 3:23 |
+| 4 | [Winter Days 冬の日々\(feat\. Salasa\)](https://open.spotify.com/track/2bWgeHJmSexEyZgOCCPiAM) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Winter Days 冬の日々 \(feat\. Salasa\)](https://open.spotify.com/album/4P1S3gomsgdZjScXrhLKWA) | 3:42 |
+| 5 | [Un Cri Dans Le Métro](https://open.spotify.com/track/2hWWHIXzcexn3QjpsBWsJP) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Un Cri Dans Le Métro](https://open.spotify.com/album/6fQKbdeZ74qspEkX5MnuPS) | 3:22 |
+| 6 | [Viens en moi](https://open.spotify.com/track/3NXB3g0GGucjYBxY8JqmZ9) | [Marlon Magnée](https://open.spotify.com/artist/0NscG1sENWBbNcF8Wj5yLs), [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Dark Star](https://open.spotify.com/album/3SzAcYU1XQjWeocjF8Gn5j) | 3:03 |
+| 7 | [Je trace](https://open.spotify.com/track/2eTOkhL8ug3czviQ3tzTRF) | [NAVA](https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj) | [Je trace](https://open.spotify.com/album/0liEQ85REpuvXdh7kD1WYq) | 2:20 |
+| 8 | [La Fable](https://open.spotify.com/track/2jq53C6bIzTpqvgnFZZUNa) | [Cabadzi](https://open.spotify.com/artist/6SOfR3vMDf9otrCMyzrdDn) | [La Fable](https://open.spotify.com/album/61giTMofDEougdMZ1vPnME) | 2:50 |
+| 9 | [En Sentido Contrario](https://open.spotify.com/track/4khRClTR8t347HO18rAOmf) | [Exsonvaldes](https://open.spotify.com/artist/4x1cLsIXGk0UN4RMtMtgJb), [Helena Miquel](https://open.spotify.com/artist/6Yf8Pbx7zg5uPx2PUeIwp9) | [En Sentido Contrario](https://open.spotify.com/album/25hA2iBqLcVIFSBEPZSVER) | 3:13 |
+| 10 | [La nuit](https://open.spotify.com/track/6gvpn1sakSHny7E03huVzq) | [VONFELT](https://open.spotify.com/artist/6A93vsKzaeq6m03BwAkTAU), [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [La nuit](https://open.spotify.com/album/4sg8ZR9A2SAYkh5fJPkSVC) | 3:41 |
 | 11 | [Approximatif](https://open.spotify.com/track/0I5EAx0lrJ4cL4Dj21MoK4) | [Cyril Mokaiesh](https://open.spotify.com/artist/1SDpo7FeZDqdk329wj2wRk) | [Bonne chance pour la suite](https://open.spotify.com/album/5Xi1T4E5u564I6Njs5iLLm) | 4:05 |
 | 12 | [sympa](https://open.spotify.com/track/2cjBJ5UEWmzN4uy7VuuxWw) | [Dab Rozer](https://open.spotify.com/artist/33Mlo4xMrJsseOIv75xdfl) | [sympa](https://open.spotify.com/album/1CBmtnrlHIOqhMU7YQfiNd) | 3:20 |
 | 13 | [SVP faites du bruit](https://open.spotify.com/track/1H73rbNesXp1PkkX5DoQzO) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [SVP faites du bruit](https://open.spotify.com/album/3qIYqEKukvK7pCQLr7UdTz) | 3:10 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 48 | [Bal de fin d'année](https://open.spotify.com/track/4tOehJCrjHFakWKIt2yuHd) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [Bal de fin d'année](https://open.spotify.com/album/7Cj6DYtezHa2YFV7egsXU7) | 3:26 |
 | 49 | [Buzz](https://open.spotify.com/track/5mysBYvFfQpZobu9bCRJ6e) | [P.R2B](https://open.spotify.com/artist/6R6tuqCxJRopO4bE8nfLGk) | [Presque Punk](https://open.spotify.com/album/2tLSulOAVaq89ILmVaFE71) | 3:06 |
 
-Snapshot ID: `AAAAADgrRu9RQOYIcedscu/LWinS4Uuh`
+Snapshot ID: `AAAAAHi6Owe57sSpxrXlx60vXigZbLG9`

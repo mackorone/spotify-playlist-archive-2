@@ -362,6 +362,10 @@
         {
           "name": "Shefali Alvares",
           "url": "https://open.spotify.com/artist/1Jt7JB3WIWaANzwHoybsVn"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
       "date_added": "2023-07-11",
@@ -1453,7 +1457,7 @@
     },
     {
       "album": {
-        "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
+        "name": "Husn Hai Suhana (from \"Coolie No. 1\")",
         "url": "https://open.spotify.com/album/3FkE669VDUI9nh7g86QyAs"
       },
       "artists": [
@@ -1476,7 +1480,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-27",
+      "date_removed": null,
       "duration_ms": 267416,
       "name": "Husnn Hai Suhaana New (from \"Coolie No. 1\")",
       "url": "https://open.spotify.com/track/6XvQPMLZdPPV22rY7FEBpI"
@@ -2530,7 +2534,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 176125,
       "name": "Muqabla (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"

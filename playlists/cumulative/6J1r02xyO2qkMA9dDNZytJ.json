@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/5mvpCFZ3zKUaag4ReegRdd"
+      },
+      "artists": [
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/7kF0hYHCa1j5AyiJeMQuvf"
+    },
+    {
+      "album": {
         "name": "Leaders Of The New School 2026",
         "url": "https://open.spotify.com/album/78PEi8LTSF6z90hLzxcaQL"
       },
@@ -886,7 +904,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211874,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/0xgH8vk0HiygTzNuSFNRr6"
@@ -970,7 +988,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 151904,
       "name": "Dreaming (Feelings)",
       "url": "https://open.spotify.com/track/03fBbF1Y6uNdC4v7RhBCrH"
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169250,
       "name": "Follow The Chant",
       "url": "https://open.spotify.com/track/4xkZUfJp684WRV7shBgtpp"
@@ -1222,6 +1240,24 @@
       "duration_ms": 179380,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/2O2qDKPqS7SIU9OsI4Rk7c"
+    },
+    {
+      "album": {
+        "name": "Freak No More",
+        "url": "https://open.spotify.com/album/7CQd9RZt0pfon0nYZEMAtr"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237807,
+      "name": "Freak No More",
+      "url": "https://open.spotify.com/track/43F50TSS1rcnteYoyp7YCy"
     },
     {
       "album": {
@@ -1258,6 +1294,24 @@
       "duration_ms": 179771,
       "name": "Front 2 Back",
       "url": "https://open.spotify.com/track/5O3BBu1w4gfT0vsLPN3bfW"
+    },
+    {
+      "album": {
+        "name": "Funky Operator",
+        "url": "https://open.spotify.com/album/1Pi1B7ChhtMOIcYbCeQxZA"
+      },
+      "artists": [
+        {
+          "name": "Nausica",
+          "url": "https://open.spotify.com/artist/7HXV8ycB1JbrppM8SUI5N9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179554,
+      "name": "Funky Operator",
+      "url": "https://open.spotify.com/track/2mDOU2R6tTzgJ2bTUDer1W"
     },
     {
       "album": {
@@ -1426,7 +1480,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 169994,
       "name": "Give Me That",
       "url": "https://open.spotify.com/track/4UHthvD8XNfehUZeAkKqfo"
@@ -1916,7 +1970,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 190952,
       "name": "In It",
       "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
@@ -2088,6 +2142,28 @@
       "duration_ms": 166153,
       "name": "Knockin\u2019",
       "url": "https://open.spotify.com/track/3IRzG2YlLaOpHU9ehv7jsk"
+    },
+    {
+      "album": {
+        "name": "Knockin\u2019 (James Poole Remix)",
+        "url": "https://open.spotify.com/album/4gcu2Jq3moKU3qoIfxIHjH"
+      },
+      "artists": [
+        {
+          "name": "Danny Howard",
+          "url": "https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK"
+        },
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164516,
+      "name": "Knockin\u2019 - James Poole Remix",
+      "url": "https://open.spotify.com/track/2PTNNPHpBb5rV3TNdRlj2S"
     },
     {
       "album": {
@@ -2516,7 +2592,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198425,
       "name": "Love Songs (feat. Kosmo Kint)",
       "url": "https://open.spotify.com/track/0aNPB23MLFcGGYaMNN7DCf"
@@ -2618,7 +2694,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 166874,
       "name": "Murder Mystery",
       "url": "https://open.spotify.com/track/7LsVN5B04U0wwZAGqOlQlw"
@@ -2723,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "On A Wave",
+        "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
+      },
+      "artists": [
+        {
+          "name": "East End Dubs",
+          "url": "https://open.spotify.com/artist/5nw8Cj9x9XXKDuuNhl5mF7"
+        },
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "On A Wave",
+      "url": "https://open.spotify.com/track/3muLFpPgteeIB5djrsEjk6"
+    },
+    {
+      "album": {
         "name": "On The Run",
         "url": "https://open.spotify.com/album/6b0I625GSDrFoQ45PYgv4o"
       },
@@ -2818,7 +2916,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 184153,
       "name": "Organ Work",
       "url": "https://open.spotify.com/track/3ugs9BPUCPPiqJ7AxndF9G"
@@ -3107,6 +3205,28 @@
     },
     {
       "album": {
+        "name": "Raise Them",
+        "url": "https://open.spotify.com/album/1nzJTHFCJW2uR6I32bWS3l"
+      },
+      "artists": [
+        {
+          "name": "Wh0",
+          "url": "https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA"
+        },
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174247,
+      "name": "Raise Them",
+      "url": "https://open.spotify.com/track/230rSVr4xpk5eTDX6yXILb"
+    },
+    {
+      "album": {
         "name": "Raw (Tony Romera Remix)",
         "url": "https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ"
       },
@@ -3166,7 +3286,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181638,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/5dOo4e33dMDOpUliMa8PCo"
@@ -3319,6 +3439,28 @@
     },
     {
       "album": {
+        "name": "Share The House (bullet tooth Remix)",
+        "url": "https://open.spotify.com/album/5m1oInGZBzAnZxrCdmB5Cf"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "Share The House - bullet tooth Remix",
+      "url": "https://open.spotify.com/track/17FQbcaXOeafGPBwGdGsGd"
+    },
+    {
+      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/5KgBt6PFJJM6lm5wb1nnnN"
       },
@@ -3388,7 +3530,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 177304,
       "name": "Soulshaker",
       "url": "https://open.spotify.com/track/5abCDaSm3wpA9tgHy553aH"
@@ -3752,7 +3894,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 163636,
       "name": "Thinking About You",
       "url": "https://open.spotify.com/track/12LH9eZbjEaKqllpe5WGIo"
@@ -4015,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Wave \u2018Em",
+        "url": "https://open.spotify.com/album/3pE0Ehc8UXEZAk4E4bncgt"
+      },
+      "artists": [
+        {
+          "name": "ZOFIA",
+          "url": "https://open.spotify.com/artist/3mHYYxXJzjhq07Su3sYMvl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Wave \u2018Em",
+      "url": "https://open.spotify.com/track/0raEM5xv4RbVdXrKAQ5CnY"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/4kCI75IoniUlYK3l4tm7ND"
       },
@@ -4183,6 +4343,28 @@
     },
     {
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Hk0F2RlWdBGYkiTKJG17N"
+      },
+      "artists": [
+        {
+          "name": "Rue Jay",
+          "url": "https://open.spotify.com/artist/6PRSGfADyj9452tYywGxq7"
+        },
+        {
+          "name": "Marcella Woods",
+          "url": "https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6miDtKDFBvBAl2QPYOtTOt"
+    },
+    {
+      "album": {
         "name": "You Are In My System (Philip George Remix)",
         "url": "https://open.spotify.com/album/1AQ1S6l99M7Z1ldeV1e8hY"
       },
@@ -4220,7 +4402,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 187619,
       "name": "You Can't Stop",
       "url": "https://open.spotify.com/track/3QyBDVUrAuHt9lotAcCgGr"

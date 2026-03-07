@@ -3979,6 +3979,24 @@
     },
     {
       "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/1RPbh1ZGcaz62MYvR6ZPnG"
+      },
+      "artists": [
+        {
+          "name": "Sheezay",
+          "url": "https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93494,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/2Jt7Ba7EfzHk8SvL3JcIw9"
+    },
+    {
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/1yiOp0VQox1dog9oRIgZng"
       },
@@ -6586,6 +6604,28 @@
       "duration_ms": 166000,
       "name": "Welcome To Thiruvizha",
       "url": "https://open.spotify.com/track/6CzLr7SMDZTMXYeBkzPIjl"
+    },
+    {
+      "album": {
+        "name": "What The Heck (From \"Loopd\")",
+        "url": "https://open.spotify.com/album/0byB27TWQqQsbb8YQ9nO1L"
+      },
+      "artists": [
+        {
+          "name": "The She Unit",
+          "url": "https://open.spotify.com/artist/5MT9IxvR6t6ztyY6s0trfc"
+        },
+        {
+          "name": "MR NURA",
+          "url": "https://open.spotify.com/artist/5h6hA70JGpFtJg4zn35wxS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "What The Heck (From \"Loopd\")",
+      "url": "https://open.spotify.com/track/19XTzloySSYKl8E755hMKw"
     },
     {
       "album": {

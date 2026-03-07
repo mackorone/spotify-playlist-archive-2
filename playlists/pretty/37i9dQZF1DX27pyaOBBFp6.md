@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,210 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,216 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 67 | [Da Doo Ron Ron](https://open.spotify.com/track/7CaFlYMP3S0nzP6rFu9NNx) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:17 |
 | 68 | [Wil u een stekkie? In een rijtuigie\. Op een mooie Pinksterdag\. M'n opa.](https://open.spotify.com/track/0iY2Ju7FiPTP505dYq3A6T) | [Harry Bannink](https://open.spotify.com/artist/1p8ZTsL8Oyog1jwhp9X3Fd) | [Zingt](https://open.spotify.com/album/1KoK4OFIIoQffVwLee1T4R) | 8:13 |
 | 69 | [Ik Vraag Het Aan De Sterren](https://open.spotify.com/track/6lyKdpQyifZpfBC7TDwgrb) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 2:32 |
-| 70 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
-| 71 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
+| 70 | [Arrivederci Ans](https://open.spotify.com/track/7xu8NzGEawIl7MztxduoGv) | [Ronnie Tober](https://open.spotify.com/artist/7AHlsFyu6r8OVqezmQRbhm) | [Het Beste van Ronnie Tober](https://open.spotify.com/album/6588JMhX6PqxYEo5k0Uqg3) | 3:11 |
+| 71 | [Teddybeer](https://open.spotify.com/track/7Abqdhr2qG6SdczwtyEXMY) | [Reggy Van Der Burgt](https://open.spotify.com/artist/0tc045Mrv3v0OFBSaMEY42) | [Teddybeer](https://open.spotify.com/album/4c6viEUmnbWPVgetFhChEM) | 2:22 |
 | 72 | [Mama Vertel Me](https://open.spotify.com/track/2tSzuIy0Yhn3jcbdOdmGbm) | [Heintje](https://open.spotify.com/artist/2V4AS8qG0fOsXkH1AgLlB8) | [Hollands Glorie](https://open.spotify.com/album/7Hwcw0ieQVVRrJ8pYFtZjd) | 3:11 |
 | 73 | [Schemering \(Wanneer De Zon Verkleurt Tot Oranje\) \- Remastered](https://open.spotify.com/track/0hKoOOgxib2r9hNoGtyTyI) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Favorieten Expres](https://open.spotify.com/album/7ghZOFhVXnKPQrcsZ0mJXl) | 2:38 |
 | 74 | [Mona Lisa](https://open.spotify.com/track/47YsvianwaXFBWYz0J8OQo) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Hollandse Sterren](https://open.spotify.com/album/4zUjc5MAG9tJUNAIEhDLhs) | 2:39 |
 | 75 | [Vader Is De Dader \- Bonus Track](https://open.spotify.com/track/1Mqd5anFyBvNSxbNAgR4d6) | [Egbert Douwe](https://open.spotify.com/artist/6P88irnnuZ1Nk5UyGNXfp2) | [Kom Uit De Bedstee Mijn Liefste \(Bonus Track\)](https://open.spotify.com/album/5R5atJoMJqLCowLQgyP7xo) | 3:47 |
 | 76 | [Jij Alleen](https://open.spotify.com/track/6Fa3DamR01xXEz7tB0rrf6) | [Gert & Hermien](https://open.spotify.com/artist/40JZ4PcqTsMqvVWLi0OaOP) | [De Gert Timmerman Show No\. 2](https://open.spotify.com/album/0riKMv34shrO6OSwiSkAHC) | 2:01 |
-| 77 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
-| 78 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
+| 77 | [Parel Van De Zuidzee](https://open.spotify.com/track/3CA9D4W9IGIwaJvqEluwqt) | [Trea Dobbs](https://open.spotify.com/artist/4F3c2IiCJy6mhP4EHQVDEe) | [Dit Is De Nacht](https://open.spotify.com/album/10Q5R2eGFjQMYwjD4ovGyk) | 2:28 |
+| 78 | [Ik Heb Me Weer Vergist](https://open.spotify.com/track/0Uyl6ZCHXgiBW1EfEPjZjt) | [Bob Smit & the Duke City Sextet](https://open.spotify.com/artist/4yFGeDevG1iIHEryWKl7iL) | [The Story of Indo Rock, Vol\. 5](https://open.spotify.com/album/7aRjoPQ3OjMqUQS10W8B1t) | 3:02 |
 | 79 | [Beestjes](https://open.spotify.com/track/5bNlDs2IvevjBJ3MH0FluN) | [Ronnie](https://open.spotify.com/artist/4T7ASdOjsGw9IwfeBt7ZjO), [De Ronnies](https://open.spotify.com/artist/4RSK0PChFYVDOyk9yHrhjC) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 2:48 |
 | 80 | [Oh Was Ik Maar Bij Moeder Thuis Gebleven](https://open.spotify.com/track/3IKPbGsMMEZS2ngXYcrVNC) | [Johnny Hoes](https://open.spotify.com/artist/1Mi47bz9As8xAtRrVDTn3x) | [Hollandse Hits Top 100](https://open.spotify.com/album/3olYePqSyCQeR2jvXwKhiD) | 3:08 |
 | 81 | [Spel Kaarten](https://open.spotify.com/track/68A1ozNluwp0GuDzSiYnDT) | [Gerard De Vries](https://open.spotify.com/artist/0NkWtmKhwsCX7VoMu0DpGP) | [Heerlijk Hollands \- Het Allerbeste van Gerard de Vries & Henk Wijngaard](https://open.spotify.com/album/2X9Y0QCl5xrDvqrsaVWj0l) | 4:23 |

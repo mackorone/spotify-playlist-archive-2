@@ -4975,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "Under The Table (feat. Chris Lane)",
+        "url": "https://open.spotify.com/album/4I2O2LWWzS6Qf2rrCBNPDs"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172074,
+      "name": "Under The Table (feat. Chris Lane)",
+      "url": "https://open.spotify.com/track/2PFtpbXyJEaSpPJzpLZBgf"
+    },
+    {
+      "album": {
         "name": "HiROQUEST 2: Double Helix",
         "url": "https://open.spotify.com/album/4pkSnhESY9LSZUk1n0pLTT"
       },

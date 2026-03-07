@@ -1666,7 +1666,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 143722,
       "name": "Chenthamara",
       "url": "https://open.spotify.com/track/3W4P7DX7sdN3jB8YZTiLPz"
@@ -7482,6 +7482,36 @@
       "duration_ms": 168500,
       "name": "Pollunnunde",
       "url": "https://open.spotify.com/track/75yafDG35Tx47lp1NIc6l3"
+    },
+    {
+      "album": {
+        "name": "Shambari",
+        "url": "https://open.spotify.com/album/7fCfvbcyY5BhEyF5Qv0YrW"
+      },
+      "artists": [
+        {
+          "name": "Jinu Vijayan",
+          "url": "https://open.spotify.com/artist/3w2sXw6r9f455JklJcsbgo"
+        },
+        {
+          "name": "Ilaa Irene",
+          "url": "https://open.spotify.com/artist/1AdaT6vrGsoI7KI578cBYw"
+        },
+        {
+          "name": "Visakh Sivaraman",
+          "url": "https://open.spotify.com/artist/4q7p27lubzRX0MbOfvunbK"
+        },
+        {
+          "name": "Abhiram Suresh",
+          "url": "https://open.spotify.com/artist/5bzwJLHzQ3oE0dyyxRy1jG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Poomaala Trap",
+      "url": "https://open.spotify.com/track/6tqK4xKIaeFJSvffDxtv7E"
     },
     {
       "album": {

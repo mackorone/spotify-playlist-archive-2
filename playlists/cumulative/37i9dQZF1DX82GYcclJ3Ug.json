@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Master Peace",
+  "description": "No rules. No boundaries. The best new alternative tracks. Cover: Metric",
   "name": "The New Alt",
   "tracks": [
     {
@@ -724,7 +724,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 187889,
       "name": "555",
       "url": "https://open.spotify.com/track/3kdKikExAZGvLjuvgyJwQ3"
@@ -2965,6 +2965,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
         "name": "RAT TRAP 5: the beginning",
         "url": "https://open.spotify.com/album/1VznxDXEvTGtos0ElI7CRn"
       },
@@ -3426,7 +3444,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -3826,7 +3844,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 135666,
       "name": "Ash on the Floor",
       "url": "https://open.spotify.com/track/2nEpSh7lKERRGXVO1Msnie"
@@ -10781,6 +10799,24 @@
     },
     {
       "album": {
+        "name": "Choo Choo",
+        "url": "https://open.spotify.com/album/1K9FBRQLKXTdbXr7kkzC7t"
+      },
+      "artists": [
+        {
+          "name": "Friko",
+          "url": "https://open.spotify.com/artist/5HViQsHNdOovxKa420CPGR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200768,
+      "name": "Choo Choo",
+      "url": "https://open.spotify.com/track/2CftoriIV6cBsAcFMzm5Cx"
+    },
+    {
+      "album": {
         "name": "Choose the latter",
         "url": "https://open.spotify.com/album/1kqAKcx3JMzvDBPSAmg1YQ"
       },
@@ -12513,6 +12549,24 @@
     },
     {
       "album": {
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253346,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz"
+    },
+    {
+      "album": {
         "name": "Crutch",
         "url": "https://open.spotify.com/album/1rNP32XZdvbJAAhJ20gxdi"
       },
@@ -14162,7 +14216,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 212422,
       "name": "Depressed",
       "url": "https://open.spotify.com/track/1jUNEF8KHemuZZOhk2nhfs"
@@ -15498,6 +15552,24 @@
       "duration_ms": 229193,
       "name": "Don't Take The Night",
       "url": "https://open.spotify.com/track/7sWnUG7lH6vjFiJlrFH8EA"
+    },
+    {
+      "album": {
+        "name": "Trampoline",
+        "url": "https://open.spotify.com/album/1JyR83IWoLzfzV7LdMi5jU"
+      },
+      "artists": [
+        {
+          "name": "Very Nice Person",
+          "url": "https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/13P90bXVlTD3WGBTMV0sxp"
     },
     {
       "album": {
@@ -20092,6 +20164,24 @@
       "duration_ms": 184666,
       "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
       "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
+    },
+    {
+      "album": {
+        "name": "Forever Your Star",
+        "url": "https://open.spotify.com/album/3chBpC3akZ9ZjubdlWq0Nd"
+      },
+      "artists": [
+        {
+          "name": "The Chain Gang Of 1974",
+          "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239218,
+      "name": "Forever Your Star",
+      "url": "https://open.spotify.com/track/4fZjevD67tzAsDwUPMGpiB"
     },
     {
       "album": {
@@ -24922,6 +25012,24 @@
       "duration_ms": 208800,
       "name": "highway robbery",
       "url": "https://open.spotify.com/track/3t6PVWXiWGamqfgOCO64NQ"
+    },
+    {
+      "album": {
+        "name": "Hiraeth",
+        "url": "https://open.spotify.com/album/6ctn6jq4F0igkYugxjC9km"
+      },
+      "artists": [
+        {
+          "name": "Sub Urban",
+          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200852,
+      "name": "Hiraeth",
+      "url": "https://open.spotify.com/track/5rbEgluvVAsM1cLyUgsUmy"
     },
     {
       "album": {
@@ -29977,6 +30085,24 @@
     },
     {
       "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "album": {
         "name": "keys make noise",
         "url": "https://open.spotify.com/album/1wdoMIFW30LYYqzuFSKqEP"
       },
@@ -30909,6 +31035,24 @@
     },
     {
       "album": {
+        "name": "leaving is easy",
+        "url": "https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "leaving is easy",
+      "url": "https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv"
+    },
+    {
+      "album": {
         "name": "Leaving The Light",
         "url": "https://open.spotify.com/album/2w9vjWFtC4W6MiNK9TwnYq"
       },
@@ -30996,6 +31140,24 @@
       "duration_ms": 194538,
       "name": "Legs In A Snare",
       "url": "https://open.spotify.com/track/4SARwD24Cqn9M5CYBWCkYq"
+    },
+    {
+      "album": {
+        "name": "LEMON",
+        "url": "https://open.spotify.com/album/7xtbwAejzM8pIXP1EMaXjH"
+      },
+      "artists": [
+        {
+          "name": "almost a.m.",
+          "url": "https://open.spotify.com/artist/4Z2wzyq0l5fihW1OrsGtMt"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "LEMON",
+      "url": "https://open.spotify.com/track/71IZtCJ2WJidE0PwbrisiC"
     },
     {
       "album": {
@@ -33244,7 +33406,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 170000,
       "name": "Love To Be Loved",
       "url": "https://open.spotify.com/track/7L9Fgs88bbwSOIYGJHOIBs"
@@ -35682,7 +35844,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 214650,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/09R5HWam8mF3571YmUfLe1"
@@ -37802,6 +37964,24 @@
       "duration_ms": 182494,
       "name": "Nod",
       "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
     },
     {
       "album": {
@@ -44268,7 +44448,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 205466,
       "name": "RIGHTBACK",
       "url": "https://open.spotify.com/track/76j6xbDNnQh1n6VyADPExg"
@@ -46706,7 +46886,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 255801,
       "name": "Seven Degrees",
       "url": "https://open.spotify.com/track/1jhNev5Mk0Xgu4rO8PseTS"
@@ -48542,7 +48722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 230129,
       "name": "SLATHER ON THE HONEY",
       "url": "https://open.spotify.com/track/1c4cTw79dH5vuCrVn81zeW"
@@ -56089,6 +56269,24 @@
     },
     {
       "album": {
+        "name": "Time Is A Bomb",
+        "url": "https://open.spotify.com/album/6zPOrWyVY2e57qwUW1m7Si"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Time Is A Bomb",
+      "url": "https://open.spotify.com/track/2B2CwJ9ViewmNc6qDKTS3I"
+    },
+    {
+      "album": {
         "name": "Tough Kid EP",
         "url": "https://open.spotify.com/album/0mzbKYOJgiNvCtevFiS1kv"
       },
@@ -58091,6 +58289,28 @@
     },
     {
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200689,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/7dpPH25jaKKvKDJcYDgF6d"
+    },
+    {
+      "album": {
         "name": "Universe (feat. iDA HAWK)",
         "url": "https://open.spotify.com/album/2pdWephmuNIPKFh6ZSzWap"
       },
@@ -58764,7 +58984,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 203306,
       "name": "Victim Of Luck",
       "url": "https://open.spotify.com/track/5gH0Jr4nPOHPapmjfSYs4Y"
@@ -59396,6 +59616,28 @@
       "duration_ms": 216067,
       "name": "Warm Beers",
       "url": "https://open.spotify.com/track/3sbdqZVzWv5amY4iQXqo8Y"
+    },
+    {
+      "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272196,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/0RVh6eHyE6wxV0MSl3KYep"
     },
     {
       "album": {
@@ -62878,7 +63120,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 194570,
       "name": "you woke me up",
       "url": "https://open.spotify.com/track/55hBQyyUNR5j2pZYGj9lj0"

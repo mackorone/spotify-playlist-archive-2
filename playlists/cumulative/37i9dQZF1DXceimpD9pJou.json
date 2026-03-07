@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Alex Campos",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: MISSION MUSICA",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -5046,7 +5046,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 233051,
       "name": "Ancla",
       "url": "https://open.spotify.com/track/0jaBsMtcRO842yH17nlwQc"
@@ -15357,6 +15357,32 @@
     },
     {
       "album": {
+        "name": "Danzando Latino",
+        "url": "https://open.spotify.com/album/0Sp4tDfsRAYgnhElV75Hph"
+      },
+      "artists": [
+        {
+          "name": "Ammi Worship",
+          "url": "https://open.spotify.com/artist/5n1TEfMQLyrLCad5qFzVxg"
+        },
+        {
+          "name": "Daniel Calveti",
+          "url": "https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h"
+        },
+        {
+          "name": "Julian Delgado",
+          "url": "https://open.spotify.com/artist/5kC8gcdT9bWaTaVA58YUu9"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338784,
+      "name": "Danzando Latino",
+      "url": "https://open.spotify.com/track/0iPN1s8yZXe5o69E94vPLb"
+    },
+    {
+      "album": {
         "name": "Danzar\u00e9",
         "url": "https://open.spotify.com/album/3XBSouiYdwrmNZdPTA0cpH"
       },
@@ -25290,7 +25316,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 488000,
       "name": "Estoy Convencido (En Vivo)",
       "url": "https://open.spotify.com/track/6wfiNCeOPAR6Tpom3ntOMv"
@@ -25927,6 +25953,24 @@
     },
     {
       "album": {
+        "name": "Faltabas T\u00fa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2IYqfznGFbFRWUMJ8bcLcy"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162469,
+      "name": "Faltabas T\u00fa - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7rXpwYiIurQJjcAq6ay71h"
+    },
+    {
+      "album": {
         "name": "FAMILIA",
         "url": "https://open.spotify.com/album/0f33AKu85hICJPvwUTmkWG"
       },
@@ -26252,7 +26296,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 349705,
       "name": "Fiel",
       "url": "https://open.spotify.com/track/7l1UXQJF9ypHJy8E1z4m7b"
@@ -29868,7 +29912,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 257509,
       "name": "Gratitud",
       "url": "https://open.spotify.com/track/0yePLfM8KEZmrTXJjAOrWh"
@@ -30656,6 +30700,24 @@
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/16oxOGkjLHON4PReY2q44e"
+    },
+    {
+      "album": {
+        "name": "Hasta la Locura (En Concierto)",
+        "url": "https://open.spotify.com/album/5keOjJO9VnHggX2rEY9wSm"
+      },
+      "artists": [
+        {
+          "name": "Maurilio Su\u00e1rez y el grupo M\u00e9ssia",
+          "url": "https://open.spotify.com/artist/79DdMTTLznPo5fIX5tlE1K"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315045,
+      "name": "Hasta la Locura - En Concierto",
+      "url": "https://open.spotify.com/track/3LX3Ys1NHbUrRv3SgtVEHY"
     },
     {
       "album": {
@@ -40166,6 +40228,24 @@
       "duration_ms": 217636,
       "name": "Manantial de Toda Gracia",
       "url": "https://open.spotify.com/track/1YTDzEX4zOtIms3JHjHYoN"
+    },
+    {
+      "album": {
+        "name": "Manantial de Vida",
+        "url": "https://open.spotify.com/album/3A705mIHvb2gb8CTOU3p3m"
+      },
+      "artists": [
+        {
+          "name": "Jimmy's",
+          "url": "https://open.spotify.com/artist/5wKWCZRVBErveTfC1y1vLJ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405633,
+      "name": "Manantial de Vida",
+      "url": "https://open.spotify.com/track/7JOGokeeoAZkUr86ecalGy"
     },
     {
       "album": {
@@ -56599,6 +56679,24 @@
     },
     {
       "album": {
+        "name": "RECUERDOS",
+        "url": "https://open.spotify.com/album/242Pr5XHxiFPBH4SFaP6dx"
+      },
+      "artists": [
+        {
+          "name": "LINARES",
+          "url": "https://open.spotify.com/artist/1ZcXhSocsTKmpTQQnreFS8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174055,
+      "name": "RECUERDOS",
+      "url": "https://open.spotify.com/track/3c74DhGIfzfkg85iLlF1bg"
+    },
+    {
+      "album": {
         "name": "Recu\u00e9rdame",
         "url": "https://open.spotify.com/album/6aaHFKQJBqiJufqbGqmHmd"
       },
@@ -61644,7 +61742,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 183912,
       "name": "Sin Ti (Desde El Valle)",
       "url": "https://open.spotify.com/track/5fProtUJh6iNKAniBkJAKd"
@@ -62616,6 +62714,32 @@
       "duration_ms": 221854,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/19fHZXYG18tJI5tYcrpf3e"
+    },
+    {
+      "album": {
+        "name": "Solo Tu Eres Fiel",
+        "url": "https://open.spotify.com/album/2eoFEMdgYvuxJZhMLNRjlQ"
+      },
+      "artists": [
+        {
+          "name": "MISSION MUSICA",
+          "url": "https://open.spotify.com/artist/16xtOvCPk7NaeGsdrLehgw"
+        },
+        {
+          "name": "Matthew Morales",
+          "url": "https://open.spotify.com/artist/7hRLiC2CsmaKDjcIxNyFMj"
+        },
+        {
+          "name": "Waleska Morales",
+          "url": "https://open.spotify.com/artist/6C0t2XuoPExvGxcVfo7aHc"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551029,
+      "name": "Solo Tu Eres Fiel",
+      "url": "https://open.spotify.com/track/75ppYmJcypk1oogBSswDp3"
     },
     {
       "album": {
@@ -66098,7 +66222,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 422440,
       "name": "Te Respiro - Live Concert",
       "url": "https://open.spotify.com/track/5s7Crat3Rdzuw6Kf5iZKkD"
@@ -70402,7 +70526,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 282314,
       "name": "Tuyo Soy",
       "url": "https://open.spotify.com/track/2VChSSNRTJT5cM7m1mt3Ed"
@@ -74330,6 +74454,24 @@
       "duration_ms": 167210,
       "name": "Vivir para Ti",
       "url": "https://open.spotify.com/track/1uSUizbBumFqzrGbWkoIDq"
+    },
+    {
+      "album": {
+        "name": "Vivir Sin Fingirte",
+        "url": "https://open.spotify.com/album/7750BD0QDYWx8AsfzcNVc9"
+      },
+      "artists": [
+        {
+          "name": "Dianette Mendez",
+          "url": "https://open.spotify.com/artist/3jRJ0ZwP995rXGeeB0EjNL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568277,
+      "name": "Vivir Sin Fingirte",
+      "url": "https://open.spotify.com/track/4NRPNIHKZ7yrGe8aVfXEA3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/78Q3Vn0T0RcTGOD6xVcOdx.md) - [plain]
 
 > 
 
-[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 484 likes - 280 songs - 16 hr 2 min
+[www.lanzados.blog](https://open.spotify.com/user/11141650175) - 485 likes - 280 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

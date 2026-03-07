@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 
 > Relive the defining era of 2015\-2019 in UK Rap, R&B, Hip\-Hop, Afroswing and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,409 likes - 80 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,428 likes - 80 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6iFz8juuQdH.md) - [plain]
 | 79 | [Energy \(Stay Far Away\)](https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Energy \(Stay Far Away\)](https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB) | 3:19 |
 | 80 | [Active](https://open.spotify.com/track/52YnEPFQEqxOL7SZcu3vWV) | [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Brixton](https://open.spotify.com/album/1ETrwwNXRqYGe4CUlvGVVF) | 3:48 |
 
-Snapshot ID: `AAAAAKoZibr5uwyjnftWYwcfBO458Yod`
+Snapshot ID: `AAAAADd2riF8QgeZgb1IkgFwuDXbLYeB`

@@ -1,12 +1,12 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: A$AP Rocky.",
-  "num_followers": 28679,
+  "num_followers": 28678,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAnrS7ioikt6twtzRZG8NxmzMBw3FVf",
+  "snapshot_id": "AAAnsC9/66pExdv9G1TSd1xrlzpKXKQ7",
   "tracks": [
     {
       "added_at": "2026-02-20 18:56:17",
@@ -1867,6 +1867,74 @@
       "duration_ms": 100444,
       "name": "Pop Shit",
       "url": "https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn"
+    },
+    {
+      "added_at": "2026-03-06 16:57:05",
+      "album": {
+        "name": "Baby I",
+        "url": "https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 140050,
+      "name": "Baby I",
+      "url": "https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49"
+    },
+    {
+      "added_at": "2026-03-06 16:58:15",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/3RdQfMFhqMXLkOk9m7AQwB"
+      },
+      "artists": [
+        {
+          "name": "Pradabagshawty",
+          "url": "https://open.spotify.com/artist/5IyinZYJjqYfHlgtdyUYnm"
+        }
+      ],
+      "duration_ms": 132412,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/5lTqCImHbc7CyDYfMkyyVd"
+    },
+    {
+      "added_at": "2026-03-06 17:31:22",
+      "album": {
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/0QA0JjZBPX0AwqVUJXgb24"
+      },
+      "artists": [
+        {
+          "name": "ALLIANCE SuPRM",
+          "url": "https://open.spotify.com/artist/38JCPXkZ1jpfzA12bLNZwH"
+        },
+        {
+          "name": "Tha Incradouble Pack",
+          "url": "https://open.spotify.com/artist/73qrKht5hJF2b2StfCewve"
+        },
+        {
+          "name": "LeFLOFRANCO",
+          "url": "https://open.spotify.com/artist/2XwMQRzoUywE0dMIHkvBz3"
+        },
+        {
+          "name": "QUEST",
+          "url": "https://open.spotify.com/artist/53EnPnTBwa06MmLjFNKjDi"
+        },
+        {
+          "name": "DJ SKORPYON",
+          "url": "https://open.spotify.com/artist/3fZxpayvsTP2nRXeiLVl4X"
+        }
+      ],
+      "duration_ms": 207520,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7aQJeKHrlcMTEEWXmwfcsN"
     }
   ],
   "unique_name": "Fresh Hip Hop",

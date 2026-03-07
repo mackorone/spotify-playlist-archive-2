@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 254036,
+  "num_followers": 254091,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u8a8d\u4e86\u5427",
-        "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
-      },
-      "artists": [
-        {
-          "name": "Eason Chan",
-          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
-        }
-      ],
-      "duration_ms": 283640,
-      "name": "\u6dd8\u6c70",
-      "url": "https://open.spotify.com/track/5sYtvIl1mx9QuIgwC6FDU1"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u600e\u6a23",
         "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 242440,
       "name": "\u4f60\u8981\u7684\u611b",
       "url": "https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u8a8d\u4e86\u5427",
+        "url": "https://open.spotify.com/album/0o999KbXQDQREsY9VLerc5"
+      },
+      "artists": [
+        {
+          "name": "Eason Chan",
+          "url": "https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI"
+        }
+      ],
+      "duration_ms": 283640,
+      "name": "\u6dd8\u6c70",
+      "url": "https://open.spotify.com/track/5sYtvIl1mx9QuIgwC6FDU1"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -383,22 +383,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "Transfer",
-        "url": "https://open.spotify.com/album/7DpdMbp6mDHG5jJVFppI1p"
-      },
-      "artists": [
-        {
-          "name": "Steve Chou",
-          "url": "https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO"
-        }
-      ],
-      "duration_ms": 344200,
-      "name": "\u9ec3\u660f",
-      "url": "https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u98db\u5152\u6a02\u5718",
         "url": "https://open.spotify.com/album/268ZucmIubAGuH8AGwYZEZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 238933,
       "name": "Lydia",
       "url": "https://open.spotify.com/track/4D4KVgVNxed4Hd3rGWlCo2"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "Transfer",
+        "url": "https://open.spotify.com/album/7DpdMbp6mDHG5jJVFppI1p"
+      },
+      "artists": [
+        {
+          "name": "Steve Chou",
+          "url": "https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO"
+        }
+      ],
+      "duration_ms": 344200,
+      "name": "\u9ec3\u660f",
+      "url": "https://open.spotify.com/track/4mronxcllhfyhBRqyZi8kU"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u5931\u6200\u7121\u7f6a",
-        "url": "https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX"
-      },
-      "artists": [
-        {
-          "name": "A-Lin",
-          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
-        }
-      ],
-      "duration_ms": 246693,
-      "name": "\u5931\u6200\u7121\u7f6a",
-      "url": "https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX"
-    },
-    {
-      "added_at": "2026-02-09 02:31:39",
-      "album": {
         "name": "\u52c7\u6c23",
         "url": "https://open.spotify.com/album/0zOP4pz0B5oh16UD2362sN"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2026-02-09 02:31:39",
       "album": {
-        "name": "\u60f3\u592a\u591a",
-        "url": "https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE"
+        "name": "\u5931\u6200\u7121\u7f6a",
+        "url": "https://open.spotify.com/album/7gHrAaQilQVA4XF0adabZX"
       },
       "artists": [
         {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+          "name": "A-Lin",
+          "url": "https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a"
         }
       ],
-      "duration_ms": 216607,
-      "name": "\u60f3\u592a\u591a",
-      "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
+      "duration_ms": 246693,
+      "name": "\u5931\u6200\u7121\u7f6a",
+      "url": "https://open.spotify.com/track/2s96YKKpfBUbQP3lJuhkfX"
     },
     {
       "added_at": "2026-02-09 02:31:39",
@@ -559,6 +543,22 @@
       "duration_ms": 265967,
       "name": "\u5012\u5e36",
       "url": "https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG"
+    },
+    {
+      "added_at": "2026-02-09 02:31:39",
+      "album": {
+        "name": "\u60f3\u592a\u591a",
+        "url": "https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
+        }
+      ],
+      "duration_ms": 216607,
+      "name": "\u60f3\u592a\u591a",
+      "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
     },
     {
       "added_at": "2026-02-09 02:31:39",

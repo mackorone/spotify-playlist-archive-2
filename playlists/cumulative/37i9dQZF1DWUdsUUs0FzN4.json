@@ -1081,6 +1081,24 @@
     },
     {
       "album": {
+        "name": "Confesiones de las que me voy a arrepentir",
+        "url": "https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "bellaka",
+      "url": "https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC"
+    },
+    {
+      "album": {
         "name": "Vente Cari\u00f1a",
         "url": "https://open.spotify.com/album/3n4el3WQZsBA9mlzIdwWp3"
       },
@@ -2574,7 +2592,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 104888,
       "name": "Como T\u00fa",
       "url": "https://open.spotify.com/track/0B579r7pTXXfLY4bP90rOA"
@@ -3280,6 +3298,32 @@
       "duration_ms": 158117,
       "name": "DOCE",
       "url": "https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH"
+    },
+    {
+      "album": {
+        "name": "DOGGYSTYLE",
+        "url": "https://open.spotify.com/album/5ey1vcVV7IbskYGhA6cu0T"
+      },
+      "artists": [
+        {
+          "name": "Ikoniko",
+          "url": "https://open.spotify.com/artist/2w5RgAOf08UbdF1UG6DySh"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Fuentes Prod",
+          "url": "https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160408,
+      "name": "DOGGYSTYLE",
+      "url": "https://open.spotify.com/track/1Z9x2cExo980DaCTMONpGL"
     },
     {
       "album": {
@@ -3990,7 +4034,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 150062,
       "name": "Fugitivos",
       "url": "https://open.spotify.com/track/6abf0Csa41gdGDnL6p0O9t"
@@ -4586,6 +4630,28 @@
       "duration_ms": 168906,
       "name": "Jala",
       "url": "https://open.spotify.com/track/226rYwWD40vlzyvDfU1vVP"
+    },
+    {
+      "album": {
+        "name": "Jenni Rivera",
+        "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Fhany Santin",
+          "url": "https://open.spotify.com/artist/7pymJP5fuOGdIIJ4RbtG9h"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "Jenni Rivera",
+      "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
     },
     {
       "album": {
@@ -10860,7 +10926,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 129428,
       "name": "TETRA",
       "url": "https://open.spotify.com/track/5yNoKGgePKTPCSpl5VU6vC"

@@ -1,12 +1,12 @@
 {
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
-  "num_followers": 1414,
+  "num_followers": 1415,
   "original_name": "This Is Teenage Wrist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aad2AAAAAAB+P3rwewuqbhD+2kilKq+2",
+  "snapshot_id": "aajHgAAAAABmmVeAWnBWMlgRNNq5Ov7i",
   "tracks": [
     {
       "added_at": null,
@@ -266,15 +266,11 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        },
-        {
-          "name": "Heavenward",
-          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 194252,
-      "name": "Humbug",
-      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
+      "duration_ms": 252314,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
     },
     {
       "added_at": null,
@@ -304,9 +300,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 206149,
-      "name": "New Emotion",
-      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
+      "duration_ms": 194978,
+      "name": "Yellowbelly",
+      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
     },
     {
       "added_at": null,
@@ -334,11 +330,15 @@
         {
           "name": "Teenage Wrist",
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        },
+        {
+          "name": "Heavenward",
+          "url": "https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk"
         }
       ],
-      "duration_ms": 252314,
-      "name": "Something Good",
-      "url": "https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r"
+      "duration_ms": 194252,
+      "name": "Humbug",
+      "url": "https://open.spotify.com/track/2oex8WpGBSNHgM3Jw7SnRU"
     },
     {
       "added_at": null,
@@ -368,9 +368,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 194978,
-      "name": "Yellowbelly",
-      "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+      "duration_ms": 206149,
+      "name": "New Emotion",
+      "url": "https://open.spotify.com/track/4fPaQVq5eklkLMduNY3Gnb"
     },
     {
       "added_at": null,

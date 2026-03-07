@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 
 > It's all about the song  🎧 cover: Kingfishr<br/>📍Somewhere between indie, pop, folk and country
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,249 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,264 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yr14c1UH4B.md) - [plain]
 | 5 | [Somewhere Without You](https://open.spotify.com/track/6LwdFLN3VdFUuQjpnrattn) | [Kanako Yamamoto](https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E) | [Somewhere Without You](https://open.spotify.com/album/2FKnYayAkRAcXgJRkFZk6l) | 3:16 |
 | 6 | [Long Time Coming](https://open.spotify.com/track/6xMggNvbtZg5eevkqB1l57) | [Jos Rivers](https://open.spotify.com/artist/1MYNyuOMAAwyEYFwieKOjC) | [Long Time Coming](https://open.spotify.com/album/5ystHj82LhMaGTYuLRp3Uu) | 2:07 |
 | 7 | [My Regards](https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [My Regards](https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2) | 3:11 |
-| 8 | [no friend, no lover \(feat\. Keaton Henson\)](https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [no friend, no lover \(feat\. Keaton Henson\)](https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp) | 3:24 |
+| 8 | [no friend, no lover](https://open.spotify.com/track/48tWTnNMgnlQuEP1gvwVIe) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI), [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [no friend, no lover](https://open.spotify.com/album/5YkSSqo5QIwTPouCJSAYMp) | 3:24 |
 | 9 | [Nothing in it for me](https://open.spotify.com/track/328qniA976epLuTZXzCkwd) | [Ellie Nanni](https://open.spotify.com/artist/3spMydBaIHg5DCbXY8tDqc) | [Nothing in it for me](https://open.spotify.com/album/0kQmPCFvJmBXszQL98Km0W) | 3:29 |
 | 10 | [Rest Of My Life](https://open.spotify.com/track/0BmF7xjQpN3Aupq77dX7jx) | [Hannah Grace](https://open.spotify.com/artist/597GQ9dmhOQoBfqmfQINKB) | [Rest Of My Life](https://open.spotify.com/album/63c6Z0txIj8Co8qB1yWCgi) | 3:10 |
 | 11 | [SAME TIME](https://open.spotify.com/track/76xS3SRc9Zv5ntHoabMN8R) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [SAME TIME](https://open.spotify.com/album/3YOkTYmhZIFgI09wDAnBN0) | 3:31 |

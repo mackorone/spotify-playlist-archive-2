@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "67",
+        "url": "https://open.spotify.com/album/7GHDw6jBzxvvdqho4toGJX"
+      },
+      "artists": [
+        {
+          "name": "Roney",
+          "url": "https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117551,
+      "name": "67",
+      "url": "https://open.spotify.com/track/50A5P0eRJStPGiEPnmoI5w"
+    },
+    {
+      "album": {
         "name": "6AM Thoughts",
         "url": "https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx"
       },
@@ -5996,7 +6014,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 230000,
       "name": "Broken Stairways",
       "url": "https://open.spotify.com/track/0XhfvzXhundllhCkd1viVu"
@@ -6620,7 +6638,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 86606,
       "name": "CAMH",
       "url": "https://open.spotify.com/track/4jxWZ4iqrYrjgIQk12LBdf"
@@ -21257,6 +21275,24 @@
     },
     {
       "album": {
+        "name": "LIKE VLADDY",
+        "url": "https://open.spotify.com/album/3JDOKKZWFJzg6KduTBRAPq"
+      },
+      "artists": [
+        {
+          "name": "4sante",
+          "url": "https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189947,
+      "name": "LIKE VLADDY",
+      "url": "https://open.spotify.com/track/07kQ8uEez7h58ULZQLUnxw"
+    },
+    {
+      "album": {
         "name": "Likkle Honey",
         "url": "https://open.spotify.com/album/05kt4iPMDS5NpRdyoTqlj8"
       },
@@ -24156,6 +24192,24 @@
       "duration_ms": 152653,
       "name": "Multiply",
       "url": "https://open.spotify.com/track/1NyhS1oCFvWg9m4xFim6HP"
+    },
+    {
+      "album": {
+        "name": "Muscle",
+        "url": "https://open.spotify.com/album/3NF2WyANF3Z2tiCR2JSH8T"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108783,
+      "name": "Muscle",
+      "url": "https://open.spotify.com/track/6mN2pUAG5qAX09bRCoIwLy"
     },
     {
       "album": {
@@ -28966,7 +29020,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 105000,
       "name": "Pillz",
       "url": "https://open.spotify.com/track/4Nu0clplxzCrB8bRYISe1t"
@@ -33165,6 +33219,24 @@
     },
     {
       "album": {
+        "name": "Shot Kalla",
+        "url": "https://open.spotify.com/album/5uBqAVwoLV0gjbHFzsMbe3"
+      },
+      "artists": [
+        {
+          "name": "Lost",
+          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152627,
+      "name": "Shot Kalla",
+      "url": "https://open.spotify.com/track/6al8PLaE7ebqmBWGVO5Bph"
+    },
+    {
+      "album": {
         "name": "Father Figure",
         "url": "https://open.spotify.com/album/3i9dNxXGq4WVICBDk2AUOA"
       },
@@ -33732,6 +33804,24 @@
       "duration_ms": 154853,
       "name": "SMS (Save My Soul)",
       "url": "https://open.spotify.com/track/1OF2NiVcS4Mwv5iKtufT6m"
+    },
+    {
+      "album": {
+        "name": "Smudge Bowl",
+        "url": "https://open.spotify.com/album/2xb2ru3Dxw21YNg22dBa70"
+      },
+      "artists": [
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192473,
+      "name": "Smudge Bowl",
+      "url": "https://open.spotify.com/track/2Xprl9DRrL9pwioHZb8OZl"
     },
     {
       "album": {
@@ -37152,7 +37242,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 104900,
       "name": "The Majors",
       "url": "https://open.spotify.com/track/0JbvKcZpbxTSkoMEefQVcy"
@@ -38520,7 +38610,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 147492,
       "name": "Top 10",
       "url": "https://open.spotify.com/track/1HHFxfFuKGnXUr38WoCOcu"

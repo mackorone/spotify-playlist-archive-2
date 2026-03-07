@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Motherflowers
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Greccia
 
-110 songs - 6 hr 15 min
+111 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Desprevenido](https://open.spotify.com/track/2iJwRkYxLQ5qK3yCPOHYYK) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Desprevenido](https://open.spotify.com/album/5b7GmiY0WfSAAPDdfI4Hoh) | 3:17 | 2023-09-22 | 2024-02-24 |
 | [después del PARi](https://open.spotify.com/track/1yPyDQ64m8YxTIMaihyimf) | [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [después del PARi](https://open.spotify.com/album/092D7xodckEdeVDgc4Jcva) | 3:52 | 2026-02-27 |  |
 | [Destino](https://open.spotify.com/track/0ELDsNFntqHq5bEokxAIMP) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Destino](https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p) | 3:56 | 2023-09-22 |  |
-| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 |  |
+| [devut](https://open.spotify.com/track/69pSgqboXTZjbBZCExlUtB) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:36 | 2024-08-23 | 2026-03-07 |
 | [Difícil](https://open.spotify.com/track/21HPuDDBXtXJhj3XKp3hni) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Difícil](https://open.spotify.com/album/1BNHMSShX2mt49uzHcMpEE) | 3:13 | 2025-01-24 |  |
 | [Dime Si Es Posible Medir](https://open.spotify.com/track/20CuwWHUvoMM4OVYaUkT4j) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [El Sol Sale Para Todos](https://open.spotify.com/album/4tGzbREm9Rxjh8qh0MEIUw) | 4:02 | 2025-03-07 |  |
 | [Déjame Ir \- Sesión En Vivo](https://open.spotify.com/track/3jWsQr0g2beZgdaWj1Pv0y) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Nicolás y los Fumadores](https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh) | [Déjame Ir \(Sesión En Vivo\)](https://open.spotify.com/album/6rH83cKM2JX2Mp2xg9PeMJ) | 3:19 | 2024-05-17 |  |
@@ -82,6 +82,7 @@
 | [NIDI](https://open.spotify.com/track/1t8jiSCpgv7iPYTm1hT1Rc) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [NIDI](https://open.spotify.com/album/1AwekDMwY8VRbcymgGeDJy) | 3:20 | 2023-09-22 |  |
 | [No es culpa tuya](https://open.spotify.com/track/0vHeN8JovVFOOSta12kaQM) | [yumhji](https://open.spotify.com/artist/1kZW1tP8aoEp0iWuMVbCqx) | [No es culpa tuya](https://open.spotify.com/album/5Gm2ELl1iV8Jk1Il4Zk1QV) | 2:40 | 2024-08-02 | 2024-10-18 |
 | [No Me Dan Las Cuentas](https://open.spotify.com/track/5zfvXukZ4FrdNR7gEDScGw) | [Ceci Juno](https://open.spotify.com/artist/1ej99EpQv6okGltIakeNFu), [Pilar Cabrera](https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva) | [No Me Dan Las Cuentas](https://open.spotify.com/album/5D2lSTtk0P7OTtg4WuzJaE) | 3:55 | 2024-08-02 | 2025-03-08 |
+| [no pienses que me da igual](https://open.spotify.com/track/6nTCraTVQYUmWNvLUbk8Ei) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [no pienses que me da igual](https://open.spotify.com/album/3ggOl1Y3LwTTzkQ93Que5E) | 2:38 | 2026-03-06 |  |
 | [No Te Vayas Nunca](https://open.spotify.com/track/5FMfpa1gMxWPg3INPurOI4) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [No Te Vayas Nunca](https://open.spotify.com/album/1UvWnU9UKjbxzKbLxk8Njx) | 3:21 | 2023-09-22 | 2025-04-12 |
 | [No Tengo Tiempo](https://open.spotify.com/track/0J5PXybiNqoNQrethIsoDX) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [No Tengo Tiempo](https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV) | 2:50 | 2023-09-22 | 2024-08-03 |
 | [No Tengo Tiempo](https://open.spotify.com/track/7hmvkFDZGMLaRyHMBySatI) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [ARMN](https://open.spotify.com/album/5ZKQlMu308fEdUEOYXUjIp) | 2:50 | 2023-10-13 | 2024-04-19 |

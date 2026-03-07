@@ -4,7 +4,7 @@
 
 > The best jazz new releases\. Cover: Dominique Fils\-Aimé
 
-929 songs - 2 day 18 hr 34 min
+930 songs - 2 day 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Wait A While](https://open.spotify.com/track/2y7p83lOa1MpcyTeHHYXcL) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH) | [Wait A While](https://open.spotify.com/album/7t25V8XrGM2RzxXrb11dPu) | 3:34 | 2024-06-06 | 2024-09-20 |
 | [Walk In The Sun](https://open.spotify.com/track/29PUWKH8SVvm0mgV2f5eub) | [Edouard Ferlet](https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni), [Macha Gharibian](https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow) | [Walk In The Sun](https://open.spotify.com/album/0srnsYI5Fa7wiB6efttfPI) | 3:13 | 2024-09-26 | 2024-12-20 |
 | [Walton St](https://open.spotify.com/track/37vqYc0prYUPrH4sPRWxlV) | [Simon Dufour](https://open.spotify.com/artist/3MJwju3XDhIjxT5t9Tq4aw), [Aaron Day](https://open.spotify.com/artist/7iIKqzMPFhySieiHdJv0zp) | [Walton St](https://open.spotify.com/album/5hxXApzEe9LJOMvoWXtNdW) | 4:54 | 2022-04-14 | 2022-06-03 |
+| [WANDERING \- A COLORS SHOW](https://open.spotify.com/track/42XCaHeTZb08ixoZ4zanCj) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [WANDERING \- A COLORS SHOW](https://open.spotify.com/album/4j6eZIVNNtLqQCExUtDpxe) | 3:28 | 2026-03-05 |  |
 | [Warm In December](https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Warm In December](https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM) | 2:41 | 2022-11-17 | 2023-03-10 |
 | [Wave of Interest](https://open.spotify.com/track/2gYsdI8oB5mHdtXuB0Sh3u) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K) | [Wave of Interest](https://open.spotify.com/album/67R0QsEML7HjIug0FRaNPm) | 3:44 | 2022-04-14 | 2022-07-22 |
 | [Way Out](https://open.spotify.com/track/1hQ6kSmwbBGLLAjihto6x8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/0cFhFaP7KvGdUhvb9g1Iwl) | 3:20 | 2022-04-28 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-241 songs - 14 hr 51 min
+242 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Movimento Barraco](https://open.spotify.com/track/6qAtUlwjZFrpUs8ITyTycQ) | [Peyote](https://open.spotify.com/artist/2jlDdJ58pw1y20cCSrmbPF), [Carbono](https://open.spotify.com/artist/7pjey9YZRudRWPkwyM0L7B), [Helena](https://open.spotify.com/artist/68ykJPo7z4VMBaaLo3ENaE) | [Movimento Barraco](https://open.spotify.com/album/7r9tmeiUiNZ9kNVnegNrwk) | 3:17 | 2025-10-01 | 2026-01-05 |
 | [Mr\. Collision](https://open.spotify.com/track/3Myo59jcWevFL6EwcOSkdF) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Mr\. Collision / Awhile Longer](https://open.spotify.com/album/2fZawAuY6K7uSCv7Jwb5gw) | 5:01 | 2026-02-13 | 2026-03-05 |
 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2026-03-03 |  |
+| [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-03-06 |  |
 | [My Energy Transformation](https://open.spotify.com/track/4zpMCYjAJQrazZod6z2Jc1) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 6:21 | 2025-11-29 | 2025-12-28 |
 | [My Journey into Space](https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:12 | 2025-12-29 | 2026-01-21 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 | 2026-01-05 |

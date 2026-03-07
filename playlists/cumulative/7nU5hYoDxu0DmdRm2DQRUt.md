@@ -4,7 +4,7 @@
 
 > New Arrivals keeps you posted on the latest records arriving in our record store and online shop &\#x2F; kompakt.fm
 
-426 songs - 1 day 17 hr 11 min
+427 songs - 1 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Biomath](https://open.spotify.com/track/4SbyFYiYN4f65re4h30UpC) | [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h), [Out Of Place Artefacts](https://open.spotify.com/artist/7agTRlVVHyy6v5TjyDuxyL) | [A Complex Interplay of Zeros and Ones](https://open.spotify.com/album/3uqWmGXZ5jLuhocj1GfeRm) | 2:04 | 2026-03-03 |  |
 | [Bis uns das Licht vertreibt \- Marcel Dettmann Version 2 Remix \- Mixed](https://open.spotify.com/track/5WsRwqPkxPw1nMobU9EAbR) | [Tocotronic](https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu), [Marcel Dettmann](https://open.spotify.com/artist/1sxHp39RqBEE01pgVqsdyP) | [Running Back Mastermix: Marcel Dettmann \- Edits & Cuts \(DJ Mix\)](https://open.spotify.com/album/3t8d7MkH1hAUbLaVGHaLct) | 4:19 | 2025-07-04 |  |
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/3iHnAH5IlTJhyEX8mBvrVH) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 7:03 | 2025-09-17 |  |
+| [Blockchain](https://open.spotify.com/track/47b0S4whoRjndeQ2Ibp27f) | [Modeselektor](https://open.spotify.com/artist/2jYMYP2SVifgmzNRQJx3SJ) | [Classics Vol\. 1 \(We tried hard and failed again..\. enjoy!\)](https://open.spotify.com/album/1TXW5Xwqhak17bCW9LxQl4) | 5:18 | 2026-03-06 |  |
 | [Bo Knows](https://open.spotify.com/track/7nU7bzK48HqKSivZqS1BGz) | [Sascha Funke](https://open.spotify.com/artist/1dDTkRz9WVOQr63enjJ1Yd) | [Germina Speeder](https://open.spotify.com/album/3WDE4IqUDA5SRnL9n6jyIw) | 6:57 | 2025-03-10 | 2026-01-15 |
 | [Body Music](https://open.spotify.com/track/4Cmdy2dNVMteL3I8F3t16X) | [Ashtar Afterhours](https://open.spotify.com/artist/6BpuYRnswVfunDciLR16nA) | [Body Music](https://open.spotify.com/album/01Nn2mY1Lz09D0XiieeKwf) | 6:07 | 2025-09-16 |  |
 | [Body on Body](https://open.spotify.com/track/4eNmdcBJ770bhw2Ee6F0U4) | [AFAR](https://open.spotify.com/artist/3RISmAgVwF5b24BjC8OsYZ) | [Body on Body](https://open.spotify.com/album/0AymIdPRppmrsB2kO9AbVF) | 4:15 | 2025-09-05 |  |

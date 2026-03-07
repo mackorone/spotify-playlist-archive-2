@@ -6,7 +6,7 @@
     "name": "Indie Music",
     "url": "https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg"
   },
-  "snapshot_id": "AAADt2NQlUvCsFZo1egUEP+DlB/8ahA9",
+  "snapshot_id": "AAADuoVA92rOQ93nC1tFMWJJMc3GRaG8",
   "tracks": [
     {
       "added_at": "2024-04-04 18:03:50",
@@ -1627,6 +1627,54 @@
       "duration_ms": 184857,
       "name": "The Only Path",
       "url": "https://open.spotify.com/track/6UujZvpE9Zi6lXV7Ndi1HH"
+    },
+    {
+      "added_at": "2026-03-06 13:03:27",
+      "album": {
+        "name": "Absence",
+        "url": "https://open.spotify.com/album/5kU8SjJJtKDz1zNrIS1IkA"
+      },
+      "artists": [
+        {
+          "name": "Forever Factory",
+          "url": "https://open.spotify.com/artist/53C0PQbEIv809l7k0jwLcH"
+        }
+      ],
+      "duration_ms": 194749,
+      "name": "Absence",
+      "url": "https://open.spotify.com/track/6OHV8uVJTMY364wZnHDnGT"
+    },
+    {
+      "added_at": "2026-03-06 13:16:18",
+      "album": {
+        "name": "Songbook '126-'127",
+        "url": "https://open.spotify.com/album/7MYAJOatgBYiJW0BQ4Omou"
+      },
+      "artists": [
+        {
+          "name": "Tom Burton",
+          "url": "https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Get Me Out A Can Light",
+      "url": "https://open.spotify.com/track/2oQZNRoOBDLNLWSC9txl47"
+    },
+    {
+      "added_at": "2026-03-06 13:17:23",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 200087,
+      "name": "African Sky",
+      "url": "https://open.spotify.com/track/2aiW0epKtoG6XgUCzh1opp"
     }
   ],
   "unique_name": "Indie Music Artists Essentials",

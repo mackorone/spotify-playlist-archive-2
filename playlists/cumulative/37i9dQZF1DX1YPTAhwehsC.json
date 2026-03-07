@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "10s",
+        "url": "https://open.spotify.com/album/2i0VzzQaSX7oPtMvZ8V0pK"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128056,
+      "name": "10s",
+      "url": "https://open.spotify.com/track/6vjWDWJyVxTFbjoUbQXslM"
+    },
+    {
+      "album": {
         "name": "11pm In London",
         "url": "https://open.spotify.com/album/0ZFFurqkSHiXTf5m0ggw29"
       },
@@ -1205,6 +1223,36 @@
     },
     {
       "album": {
+        "name": "The Good Part, Vol. 1",
+        "url": "https://open.spotify.com/album/3yuiLjvVsNJDECTPYqO6D4"
+      },
+      "artists": [
+        {
+          "name": "Jae Skeese",
+          "url": "https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ"
+        },
+        {
+          "name": "ILL Tone Beats",
+          "url": "https://open.spotify.com/artist/6tnVrW2kcTINik13Z4vTb8"
+        },
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Stove God Cooks",
+          "url": "https://open.spotify.com/artist/35fcckhFq2cF2u7hIG0fPv"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313468,
+      "name": "Accelerant",
+      "url": "https://open.spotify.com/track/4uqfp14eftGfJ7ic4cFRTU"
+    },
+    {
+      "album": {
         "name": "Accepted",
         "url": "https://open.spotify.com/album/7zRHKxeYjBYNqgr1asCWWE"
       },
@@ -1630,6 +1678,24 @@
       "duration_ms": 141479,
       "name": "Alcatraz",
       "url": "https://open.spotify.com/track/5MNBATfg8bUvBkMGIFQ1PU"
+    },
+    {
+      "album": {
+        "name": "TIGRAY FUNK",
+        "url": "https://open.spotify.com/album/2ffHSjHOlyZeKhP7vpbrsK"
+      },
+      "artists": [
+        {
+          "name": "Sideshow",
+          "url": "https://open.spotify.com/artist/53xeKWbSRuGgTxViJTAZKC"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104354,
+      "name": "ALENA(\u12a3\u1208\u1293)PARADISE LOST",
+      "url": "https://open.spotify.com/track/2Y05SQlUbQSHsf6xKWerru"
     },
     {
       "album": {
@@ -2131,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Any Day",
+        "url": "https://open.spotify.com/album/7c3PnLHyc7BXhfYhS4Ax2L"
+      },
+      "artists": [
+        {
+          "name": "Bri3",
+          "url": "https://open.spotify.com/artist/2nQ17oZU3rP09w7d17VK8H"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Any Day",
+      "url": "https://open.spotify.com/track/0YHhDFczaWDpkROywtqhwP"
+    },
+    {
+      "album": {
         "name": "Any Second",
         "url": "https://open.spotify.com/album/18HOlFvpNYKCPdwy2kbDxx"
       },
@@ -2190,7 +2274,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 109714,
       "name": "Arch Ya Back",
       "url": "https://open.spotify.com/track/1IRvXWVnYuWTvs3oDTkwAi"
@@ -2518,6 +2602,28 @@
       "duration_ms": 172105,
       "name": "Baby Girl On The Way",
       "url": "https://open.spotify.com/track/6FHsuGMFpmY4cxT7qL4l1c"
+    },
+    {
+      "album": {
+        "name": "Baby I",
+        "url": "https://open.spotify.com/album/006WlILgYRtLjhs1W1w1Ov"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140050,
+      "name": "Baby I",
+      "url": "https://open.spotify.com/track/47Rtl2vYmAYEIt2fWvKq49"
     },
     {
       "album": {
@@ -3352,6 +3458,24 @@
       "duration_ms": 195428,
       "name": "battery back",
       "url": "https://open.spotify.com/track/25hZUPHHzDGVRwTHBJWtNa"
+    },
+    {
+      "album": {
+        "name": "Bazin",
+        "url": "https://open.spotify.com/album/28FPiyxSPYCJSJa05JKPQy"
+      },
+      "artists": [
+        {
+          "name": "Skrilla",
+          "url": "https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148299,
+      "name": "Bazin",
+      "url": "https://open.spotify.com/track/5gaSZumOBMlrnFv9QLStnD"
     },
     {
       "album": {
@@ -12389,6 +12513,24 @@
     },
     {
       "album": {
+        "name": "FIJI",
+        "url": "https://open.spotify.com/album/2SknDGjIYMDmm3imTXp8RD"
+      },
+      "artists": [
+        {
+          "name": "Shordie Shordie",
+          "url": "https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "FIJI",
+      "url": "https://open.spotify.com/track/3o3oF6mXg9Ko21ylS5DBzB"
+    },
+    {
+      "album": {
         "name": "FIJI (feat. Cruza)",
         "url": "https://open.spotify.com/album/7mue6v0O7LbOnUned27pzi"
       },
@@ -14014,7 +14156,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 151857,
       "name": "GEN5!",
       "url": "https://open.spotify.com/track/55hPkN1NmNYxgqpr4Xq0Xc"
@@ -15684,7 +15826,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 144000,
       "name": "Hard ES",
       "url": "https://open.spotify.com/track/0q98r6GiZsMR6rpgEM5Gux"
@@ -16026,7 +16168,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 160966,
       "name": "HELICOPTER",
       "url": "https://open.spotify.com/track/6zJ68ym0Buv2TpuUu8tw9A"
@@ -16764,6 +16906,28 @@
       "duration_ms": 212142,
       "name": "Hottest In My City (feat. Rob49)",
       "url": "https://open.spotify.com/track/0uEkLt1na2pzVo3NUzI1CJ"
+    },
+    {
+      "album": {
+        "name": "Hottie",
+        "url": "https://open.spotify.com/album/2twmUmPe4f4BBTheU3TNC9"
+      },
+      "artists": [
+        {
+          "name": "B Jack$",
+          "url": "https://open.spotify.com/artist/2bnV4zuMP2tBXzsGbPmkuo"
+        },
+        {
+          "name": "thickney",
+          "url": "https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201978,
+      "name": "Hottie",
+      "url": "https://open.spotify.com/track/6eUEXpvA66x2h75R1m0v52"
     },
     {
       "album": {
@@ -19802,7 +19966,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 173479,
       "name": "Lasagna",
       "url": "https://open.spotify.com/track/4Elh59m7WL8zLHxGd6rUgc"
@@ -21216,7 +21380,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198620,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/4Pvk6rjCSRGOloZ6B3IfrC"
@@ -26092,7 +26256,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180625,
       "name": "One And Only",
       "url": "https://open.spotify.com/track/6oZ9Qpb5BFl1mSQsAwL8jA"
@@ -29364,7 +29528,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 168791,
       "name": "Rat Trap",
       "url": "https://open.spotify.com/track/3cTUJ3P0wlS9wv3b4CRa0R"
@@ -32790,7 +32954,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 174577,
       "name": "Sneaky Link NYC",
       "url": "https://open.spotify.com/track/6ByrI5Ht94BWo7pMUk2EWO"
@@ -36477,6 +36641,24 @@
     },
     {
       "album": {
+        "name": "Half Blood (BloodLuxe)",
+        "url": "https://open.spotify.com/album/2LryMcusFgY0edlYwJDIqj"
+      },
+      "artists": [
+        {
+          "name": "slayr",
+          "url": "https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269875,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3F1ostPsVmNFzFNDfPj7ua"
+    },
+    {
+      "album": {
         "name": "Toxic Ish",
         "url": "https://open.spotify.com/album/6wdCYDNMmP5C8cdePXGmWh"
       },
@@ -36724,7 +36906,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 209666,
       "name": "Triple Profit",
       "url": "https://open.spotify.com/track/4hvDsR0GFiDg8cbD2nmJ6F"
@@ -39458,6 +39640,24 @@
       "duration_ms": 150002,
       "name": "Winter's Over",
       "url": "https://open.spotify.com/track/1zKTAM10B7Z5ES2A0SsQ3W"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/5pIYTTC1eZTlaOBIirQha6"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165088,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4pACtAVffmWj3KHWb2MXvM"
     },
     {
       "album": {

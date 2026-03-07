@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,911,115 likes - 266 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,911,514 likes - 266 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,4 +275,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 265 | [Timeless Nights](https://open.spotify.com/track/6RNGRLaqWkbevhjBmaZE2l) | [Lost storys](https://open.spotify.com/artist/5z30j24d40G43dHG9LDa3e) | [Timeless Nights](https://open.spotify.com/album/44ATuLdftaiLOw0QTlISBo) | 3:05 |
 | 266 | [Two Step](https://open.spotify.com/track/0nVDNIi4oBi9QKyMZxBdGc) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Two Step](https://open.spotify.com/album/6diKKr5RstCRWEL3FWaQQL) | 2:25 |
 
-Snapshot ID: `AAAAAEBtv/mOjrHY1MMHfwNob/0jAq2r`
+Snapshot ID: `AAAAAAynE3unWq/u+ol1aEetNiBWmGUR`

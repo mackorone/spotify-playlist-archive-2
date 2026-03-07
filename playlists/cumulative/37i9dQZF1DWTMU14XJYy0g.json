@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 No Te Va Gustar con Ciro & Los Persas",
+  "description": "M\u00e1s vivo que nunca, m\u00e1s nuestro que siempre \ud83d\udcf8 Ale Kurz",
   "name": "Rock Argentino",
   "tracks": [
     {
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 279684,
       "name": "Hay Momentos - Ac\u00fastico",
       "url": "https://open.spotify.com/track/19KbiCmPqcAcG3sYMrWPzN"
@@ -5878,7 +5878,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 181790,
       "name": "Nos Pasa Lo Mismo",
       "url": "https://open.spotify.com/track/5gSDKJXKITtPcxnQJ8yNri"
@@ -6204,6 +6204,24 @@
       "duration_ms": 284048,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
+    },
+    {
+      "album": {
+        "name": "Para alguien m\u00e1s",
+        "url": "https://open.spotify.com/album/6oZztkFuAQt9iKT5ZV7zkL"
+      },
+      "artists": [
+        {
+          "name": "Ale Kurz",
+          "url": "https://open.spotify.com/artist/6702vlPBoiA7zeDvv6wPkW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202216,
+      "name": "Para alguien m\u00e1s",
+      "url": "https://open.spotify.com/track/4y1z59863rBOzmfD4IuTtz"
     },
     {
       "album": {

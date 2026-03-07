@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "belief",
+        "url": "https://open.spotify.com/album/2zHvAXT8cLsC0QW96LsSS6"
+      },
+      "artists": [
+        {
+          "name": "Jervis Campbell",
+          "url": "https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169982,
+      "name": "belief",
+      "url": "https://open.spotify.com/track/00RJUxqmSh4UFm0NHOCAV2"
+    },
+    {
+      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6KSuDvpfQOEt7aD55Krul6"
       },

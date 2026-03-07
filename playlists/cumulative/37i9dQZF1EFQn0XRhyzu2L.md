@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-655 songs - 1 day 12 hr 6 min
+656 songs - 1 day 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Hindsight](https://open.spotify.com/track/228Ehll19oYwpJMdKyRRsF) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Hindsight](https://open.spotify.com/album/3bGlbyvgK45mjAHZSqAk9c) | 2:25 | 2024-02-27 | 2026-01-30 |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2024-02-27 |  |
 | [Hit Me Again \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/6c12PkO6SiZ2hLczuRSNSX) | [Johnathan Nieves](https://open.spotify.com/artist/0ycCR1MDf5h3Q6dnlUbDgW), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:06 | 2024-02-27 | 2025-06-28 |
+| [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 | 2026-03-06 |  |
 | [Home](https://open.spotify.com/track/6Ncr1lCYnE3JHwtVK4nLAx) | [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [NRG 105](https://open.spotify.com/album/6PKB6B0RPSG7aOFcoeDNXZ) | 3:52 | 2024-02-27 | 2025-06-28 |
 | [Home \- From The Motion Picture "Ferdinand"](https://open.spotify.com/track/3ljbxs1TzSdmNFUYPDz50H) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Olé el viaje de Ferdinand \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1DdHSJKH7HD2sdaG0HA7DW) | 3:00 | 2025-06-27 |  |
 | [Home Alone](https://open.spotify.com/track/1y9tWIZvkOumFGxzsVGbUk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Andrew Barth Feldman](https://open.spotify.com/artist/7JdtavLedJga3j8YZlff5R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 2:55 | 2025-12-04 |  |

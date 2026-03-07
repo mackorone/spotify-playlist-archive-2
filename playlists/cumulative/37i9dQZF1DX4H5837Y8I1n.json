@@ -912,7 +912,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 305377,
       "name": "Jigelu Rani",
       "url": "https://open.spotify.com/track/5o0we0zcu0rhgpW5nFL0yG"
@@ -2524,6 +2524,40 @@
       "duration_ms": 273587,
       "name": "You\u2019Re My Love",
       "url": "https://open.spotify.com/track/0EV7Iol5TYTzVufJTT6ZSX"
+    },
+    {
+      "album": {
+        "name": "Ziddi Ziddi (From \"BIKER\")",
+        "url": "https://open.spotify.com/album/33gh5hlRWjKRQp4LYqOu4U"
+      },
+      "artists": [
+        {
+          "name": "Ghibran",
+          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Aravind Srinivas",
+          "url": "https://open.spotify.com/artist/4D3Rik34ofGp07ieu9zENY"
+        },
+        {
+          "name": "Sudharsan Ram",
+          "url": "https://open.spotify.com/artist/66wBNPC8tutPBOpdiVyDz7"
+        },
+        {
+          "name": "Krishna Kanth",
+          "url": "https://open.spotify.com/artist/2yvOLf1gt6m9qPgzzqpxQx"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125446,
+      "name": "Ziddi Ziddi (From \"BIKER\")",
+      "url": "https://open.spotify.com/track/55KVD2hsqvGJk8J0lclWR0"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX4H5837Y8I1n"

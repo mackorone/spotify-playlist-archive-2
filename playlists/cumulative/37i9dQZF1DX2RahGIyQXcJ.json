@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of Desi Hip-Hop! Cover: Karan Aujla\n",
+  "description": "Best of Desi Hip-Hop! Cover: Badshah\n",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -2617,6 +2617,24 @@
     },
     {
       "album": {
+        "name": "COLOGNE",
+        "url": "https://open.spotify.com/album/1kXkbOQSKIwswgQMCgl7De"
+      },
+      "artists": [
+        {
+          "name": "raghavforbharat",
+          "url": "https://open.spotify.com/artist/2GzczL1ySXt5RJCuGuaMPW"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "COLOGNE",
+      "url": "https://open.spotify.com/track/21foYvPWvQMVlPOz7Gw3Pd"
+    },
+    {
+      "album": {
         "name": "ROCKSTAR WITHOUT A GUITAR",
         "url": "https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So"
       },
@@ -4659,6 +4677,32 @@
     },
     {
       "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/42PvNq23DxqtPLuV3FFfxs"
+      },
+      "artists": [
+        {
+          "name": "Notorious G",
+          "url": "https://open.spotify.com/artist/3j3NorBhH0Zq7psi2104it"
+        },
+        {
+          "name": "ENXOFREEZE",
+          "url": "https://open.spotify.com/artist/2QeoCX461oh1xJrd2JvZM2"
+        },
+        {
+          "name": "Noidsensi",
+          "url": "https://open.spotify.com/artist/7tAnXDRJy5trGo9QgTle5K"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131997,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/5JMSorD9n26Ayo0L2ONUzy"
+    },
+    {
+      "album": {
         "name": "House Of Lies",
         "url": "https://open.spotify.com/album/58U6KMHr9ApwuTXeKXIGa9"
       },
@@ -5180,7 +5224,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 168956,
       "name": "Jungle Juice",
       "url": "https://open.spotify.com/track/0zlvEtMxdljVfaR7zuNSMB"
@@ -6146,7 +6190,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 180800,
       "name": "love lost",
       "url": "https://open.spotify.com/track/6yaF2WzaQpY00JnKPtOEB0"
@@ -6776,7 +6820,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 217366,
       "name": "Mister M",
       "url": "https://open.spotify.com/track/1GFGSnH0fXRzrJ2VPI8vhb"
@@ -9792,6 +9836,32 @@
       "duration_ms": 276757,
       "name": "Tasweer",
       "url": "https://open.spotify.com/track/2CMMyIYdieC1RDpxnIPeMG"
+    },
+    {
+      "album": {
+        "name": "Tateeree",
+        "url": "https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Simran Jaglan",
+          "url": "https://open.spotify.com/artist/54x8gJEux02W45CsSv87om"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151895,
+      "name": "Tateeree",
+      "url": "https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm"
     },
     {
       "album": {

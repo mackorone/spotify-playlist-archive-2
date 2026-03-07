@@ -1169,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Big Sun",
+        "url": "https://open.spotify.com/album/3yw9ch231KTfNVVFx4bNT4"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231297,
+      "name": "Big Sun",
+      "url": "https://open.spotify.com/track/52HdKUeIsk60y53MV7zGL7"
+    },
+    {
+      "album": {
         "name": "Big Wide World",
         "url": "https://open.spotify.com/album/6G5WVhD7EsJIDEXnJ53rUC"
       },

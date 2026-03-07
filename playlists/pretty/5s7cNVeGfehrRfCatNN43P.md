@@ -4,20 +4,23 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,866 likes - 11 songs - 37 min 56 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,866 likes - 14 songs - 43 min 50 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Wuthering Heights](https://open.spotify.com/track/5Mz8glwG7ktA3eNeI2a7TX) | [Elias O\. Graversen](https://open.spotify.com/artist/1i0C8yKc70dR8tzPtKAWYd) | [Wuthering Heights](https://open.spotify.com/album/7x7igPQAVkV1f2YrmffITe) | 2:58 |
-| 2 | [YDH](https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [YDH](https://open.spotify.com/album/3zPoIGOVUpW7dWlHWI3YTw) | 3:17 |
-| 3 | [Ride](https://open.spotify.com/track/4eFJFnEflnDkWSXTJZbx52) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Ride](https://open.spotify.com/album/5Q8Shtn19UwYXmNTLQxOX3) | 4:39 |
-| 4 | [Goodbye Goodmorning](https://open.spotify.com/track/3tT0G35LmYq159xYGCBGSU) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To](https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2) | 3:24 |
-| 5 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 |
-| 6 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 7 | [Casual Lady](https://open.spotify.com/track/56edMzlWCGCZNsTGAXbZDs) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Casual Lady](https://open.spotify.com/album/5wA8jdtd6ipkhSILzenhzh) | 3:14 |
-| 8 | [Good Grief](https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 4:21 |
-| 9 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
-| 10 | [Out Of My Mind](https://open.spotify.com/track/1v2OE4of19wgkoeszZjA6J) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Out Of My Mind](https://open.spotify.com/album/5v8oTLyPQJUgpNEqRQaCRO) | 2:57 |
-| 11 | [LLORONiTA](https://open.spotify.com/track/04gvZiPbx6ueasTHhq9jU7) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [LLORONiTA](https://open.spotify.com/album/7zbvllEi5vpQVIhlt9jJAu) | 4:00 |
+| 1 | [What's In My Bag](https://open.spotify.com/track/3jVgOjcsT0tpr4fUlZEw1K) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [What's In My Bag](https://open.spotify.com/album/4xzntmjWVcmOwVY1qdsaXc) | 3:01 |
+| 2 | [Disassociate](https://open.spotify.com/track/3Fx4AuoiicM7y0lwdnqhqa) | [Willa Ford](https://open.spotify.com/artist/0kuEP1E9k3WBEwMKwEmp9u) | [amanda](https://open.spotify.com/album/279AFyO1fVRd6WhgxwSmrQ) | 2:42 |
+| 3 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 |
+| 4 | [Ready, Steady, Go!](https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:40 |
+| 5 | [The Book of Love](https://open.spotify.com/track/1d34entSOiu5ICLuMtYUud) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:08 |
+| 6 | [Just Friends](https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Suni MF](https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Just Friends](https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH) | 3:35 |
+| 7 | [I Can Feel Your Love](https://open.spotify.com/track/3qR5tdg8Su2Cl3aBQoV2nT) | [Alexis Taylor](https://open.spotify.com/artist/6zclVXoEfp3nFq4dOgqgOX) | [I Can Feel Your Love](https://open.spotify.com/album/2hxVBJHqiDoTipPsoSqjnn) | 3:39 |
+| 8 | [love on the run \(feat\. YUKA\)](https://open.spotify.com/track/5KdnJoP5GG8GvOppedSy3P) | [Yorke](https://open.spotify.com/artist/0fqpHg28DnvRvfJYvJKk8N), [YUKA](https://open.spotify.com/artist/762RAUTV6WKHmrHR7fsFbj) | [love on the run \(feat\. YUKA\)](https://open.spotify.com/album/3ZD84ICn6t8DELowoU9yCh) | 2:56 |
+| 9 | [Pluto Baby](https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Pluto Baby](https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9) | 2:57 |
+| 10 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
+| 11 | [When You're Gone](https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh), [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Blue](https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t) | 3:20 |
+| 12 | [Eins, Zwei, Drei](https://open.spotify.com/track/26xlJAlQoCMbnAWd0sGCQf) | [LOOK MUM NO COMPUTER](https://open.spotify.com/artist/24KLOfQv2HrpsCerfN6bef) | [Eins, Zwei, Drei](https://open.spotify.com/album/7yGx7Va1vpyhsLvdwRmKyT) | 3:10 |
+| 13 | [Idol](https://open.spotify.com/track/4MvBnJ4ebGqU5SKqrQcV93) | [The Rions](https://open.spotify.com/artist/4EdUmknefakeMJSEbCb85Y) | [Idol](https://open.spotify.com/album/5VWIUKmMRqgllf6rJzsJab) | 3:30 |
+| 14 | [Big Deal](https://open.spotify.com/track/4Ic6XMfevsaGJ73loZAt05) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Big Deal](https://open.spotify.com/album/51uAGsbJyrxwXBfClOUAlu) | 2:30 |
 
-Snapshot ID: `AAALq7H8ix+1doPxmZFshngSRp6mPM67`
+Snapshot ID: `AAALrxu4cVrRE388Yvc+XVeTA2lrZ9HZ`

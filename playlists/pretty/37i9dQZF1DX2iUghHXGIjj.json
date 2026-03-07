@@ -1,13 +1,33 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Tinsley Ellis",
-  "num_followers": 880836,
+  "num_followers": 880821,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGw0gsY1Oxomd/3AMHE3I9I+cn3e",
+  "snapshot_id": "AAAAAFOOGuo076BO88R/NJaL9Amwi9af",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:03",
+      "album": {
+        "name": "Matter of Time Blues",
+        "url": "https://open.spotify.com/album/3hU75lbUPRzRuBvi74scUs"
+      },
+      "artists": [
+        {
+          "name": "Chris Tapp",
+          "url": "https://open.spotify.com/artist/4XDF1GKyo98bheTGvzoYUN"
+        },
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 187059,
+      "name": "Matter of Time Blues",
+      "url": "https://open.spotify.com/track/7118GO0ci5jD1lICx8cEST"
+    },
     {
       "added_at": "2026-01-30 05:00:39",
       "album": {
@@ -1487,22 +1507,6 @@
       "duration_ms": 201746,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/2flh4b34mwwNSAK39s64Yl"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "Migration Blues",
-        "url": "https://open.spotify.com/album/3GUjuuxc6SUovceRCUngc2"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Refugee Moan",
-      "url": "https://open.spotify.com/track/519peDYoPxR11QfcNJajXW"
     },
     {
       "added_at": "2020-08-11 16:18:31",

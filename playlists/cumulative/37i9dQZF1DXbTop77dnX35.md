@@ -4,7 +4,7 @@
 
 > New Music from Ayra Starr, Skyla Tyla, Haeven, Njerae, Juno and more
 
-5,238 songs - 11 day 0 hr 50 min
+5,239 songs - 11 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Believe](https://open.spotify.com/track/2jQ6G6i7kje1e11sPmOa3S) | [Bizakeem](https://open.spotify.com/artist/7MjHESkTg4qIgZ6nPCYOVN) | [Believe](https://open.spotify.com/album/6VdJGT0bjhrUWIP1NsYU2S) | 2:33 | 2024-12-20 | 2025-01-10 |
 | [Believe](https://open.spotify.com/track/0mhTXfQbfTOd8VGvnsTr1P) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Believe](https://open.spotify.com/album/39TePDQqn0v1F4l6cMpqsB) | 2:39 | 2025-07-04 | 2025-07-12 |
 | [Believe](https://open.spotify.com/track/2fZ7XuCUiahqDANyfVd7mv) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Believe](https://open.spotify.com/album/5qekxZ9z5PwdGpQKDejJ9c) | 2:39 | 2025-03-28 | 2025-04-04 |
+| [BELIEVE](https://open.spotify.com/track/6nsEZ234q9BVD46xW3TCSC) | [Singah](https://open.spotify.com/artist/42B7kT9OrmQyjYb2jYGFHe) | [FULL MOON](https://open.spotify.com/album/5wBJusQ5i2xHtEZnHg1KGU) | 3:05 | 2026-03-06 |  |
 | [Believe](https://open.spotify.com/track/3ECpMum3Z097aEP03UNUYa) | [Victor Collins](https://open.spotify.com/artist/2cx2q93TdyDvgatIURJOAH) | [Believe](https://open.spotify.com/album/1JwaMisv7FyW3zoENDMQWl) | 2:00 | 2024-08-09 | 2024-08-17 |
 | [Believer](https://open.spotify.com/track/5wtj681ak0jF5EeuoWmweC) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [WALK WITH ME](https://open.spotify.com/album/5AMNvhVAyOSfEwTtZ4lXdl) | 3:05 | 2025-10-31 | 2025-11-07 |
 | [Belinda](https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Belinda](https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3) | 3:17 | 2025-11-07 | 2025-11-14 |
@@ -2683,6 +2684,7 @@
 | [Lost](https://open.spotify.com/track/3zRzwveWZimcIXck96oqcr) | [Barry Jhay](https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt) | [Lost](https://open.spotify.com/album/2bKhMLrApxroMa3x8ry236) | 2:55 | 2025-02-28 | 2025-03-07 |
 | [Lost](https://open.spotify.com/track/5NnGvFIl3STpCEAJitWUtj) | [Bunie The First](https://open.spotify.com/artist/2Z6wMKaxyAH0MmXhM35BDg) | [Lost](https://open.spotify.com/album/1aieKq25ZT1RyfqvvYTSf9) | 2:42 | 2025-03-28 | 2025-04-04 |
 | [lost](https://open.spotify.com/track/3wdV4OJ37JdoLyUJMm50UW) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [lost](https://open.spotify.com/album/5CLUFOEWCqiMNRrX5Ibxod) | 2:48 | 2025-04-25 | 2025-05-02 |
+| [Lost & Found](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:35 | 2026-03-06 |  |
 | [Lost My Mind](https://open.spotify.com/track/6XUV1VSMXuAfQacsy4AORj) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp), [Crystal Murray](https://open.spotify.com/artist/2lRXAjsNoYGqyYkgHxk5OH) | [Lost My Mind](https://open.spotify.com/album/2OKt1XZRrtqkpf649qNbzf) | 3:02 | 2025-09-19 | 2025-09-26 |
 | [lost my mind in the moment](https://open.spotify.com/track/3UOrFt1Iswr6QHSw9R1sVf) | [tmdistant](https://open.spotify.com/artist/6BJvojHlWWAV9cbJouYPUi) | [lost my mind in the moment](https://open.spotify.com/album/1HNl8ClkDQIsmEszfKOAWE) | 2:58 | 2025-08-15 | 2025-08-22 |
 | [LOTDF](https://open.spotify.com/track/5lDAysaKeH4QWcjrsjHCrP) | [Joel Prodigee](https://open.spotify.com/artist/18Dw5YShp4bW9ljfOEP9dd) | [LOTDF & TRUTH](https://open.spotify.com/album/55fXp59Q6qa9nAA2GqZ2wt) | 2:05 | 2024-08-02 | 2024-08-09 |
@@ -3505,7 +3507,7 @@
 | [Only God](https://open.spotify.com/track/6v6EryPXEEWnz8oUMghIDi) | [Camidoh](https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi) | [TrustnGod +](https://open.spotify.com/album/5P65otOgIIHPskLTZ76JQP) | 2:17 | 2025-09-26 | 2025-10-03 |
 | [Only Me Refix](https://open.spotify.com/track/6P7urYJGt9IapR99aeTDRn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Only Me Refix](https://open.spotify.com/album/5y3KE57hqeXyr7kqlMqqpA) | 3:14 | 2025-06-27 | 2025-07-04 |
 | [only u](https://open.spotify.com/track/2zmzogiVnesAdiv7FIoEfk) | [Gimba](https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK) | [only u](https://open.spotify.com/album/3PigDoDoicbL7txnqGx0Uz) | 2:04 | 2024-08-02 | 2024-08-09 |
-| [Only Water](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 | 2026-03-06 |  |
+| [Only Water \- Feat\. Lady Donli](https://open.spotify.com/track/7Jab29rKwvimrPgzaEVjeM) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Only Water \(Feat\. Lady Donli\)](https://open.spotify.com/album/7MEBWGWCwubTCxXZcis1wF) | 3:07 | 2026-03-06 |  |
 | [Only You](https://open.spotify.com/track/0z955moZM2waA9ctq3Acxo) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Ghanapiano \- The Album](https://open.spotify.com/album/5keSaUEMkjNS9AtQp3gILB) | 4:25 | 2025-07-11 | 2025-07-18 |
 | [Only You](https://open.spotify.com/track/0TsluXk9NbbHP7L30HJPO6) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Only You](https://open.spotify.com/album/2SorVbJ1FW9p879J1Lr4Ua) | 3:26 | 2024-11-29 | 2024-12-06 |
 | [Only You](https://open.spotify.com/track/4rR60GuM4Y3se2RcNYozZ2) | [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Only You](https://open.spotify.com/album/4FwgoKuiSvZNtJJYZZkYXg) | 3:25 | 2024-08-23 | 2024-08-30 |
@@ -4770,7 +4772,6 @@
 | [Trabaye](https://open.spotify.com/track/08e0A9k3bZHg1ayABWHt6o) | [VASA](https://open.spotify.com/artist/2TQT9f1Kn5DhKVULYFBq8Q), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Trabaye](https://open.spotify.com/album/4EEt8kNnWUVTqXgnUF7Kw5) | 2:56 | 2024-06-14 | 2024-06-21 |
 | [TRABZ](https://open.spotify.com/track/37q6nr9zUrFCyBCcoKdaMJ) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [TRABZ](https://open.spotify.com/album/5b9bt1fofoZKmzGnPrcnPd) | 2:22 | 2026-02-27 | 2026-03-06 |
 | [Track 1](https://open.spotify.com/track/61j282lTW0Q2F2Zl7MDQZ9) | [Killervybez](https://open.spotify.com/artist/2dQ0P9Tlnf3S8fz7gVne4l) | [](https://open.spotify.com/album/null) | 0:00 | 2026-02-13 | 2026-02-14 |
-| [Track 7](https://open.spotify.com/track/7mlMJdmG49vYGTEH8CCpvm) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 0:00 | 2026-03-06 |  |
 | [Tranchées](https://open.spotify.com/track/1WFV0xsjOvvoXh8J1ygmAr) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [CAPITALE DU CRIME RADIO, vol\. 3](https://open.spotify.com/album/0XHAPZhoDyPzMnigsKZeej) | 2:47 | 2026-01-30 | 2026-02-06 |
 | [Tranquility](https://open.spotify.com/track/7xFM6FkWpeBajNWVQBQFuL) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Tranquility](https://open.spotify.com/album/6vOSzSW8OtfTZChRzqUng6) | 2:30 | 2025-01-10 | 2025-01-11 |
 | [Treasure](https://open.spotify.com/track/4Nf5pq3LgZZ6MgUxbL2tC9) | [Mike Mungu](https://open.spotify.com/artist/0dFrQZdLlx53kCCQ9ITBm4), [Darkua](https://open.spotify.com/artist/4zDTokzX1QoX7Wh9PKYcgP) | [Treasure](https://open.spotify.com/album/5hnOuxYNLaVGQaXma3X6i2) | 3:37 | 2025-10-17 | 2025-10-24 |

@@ -1,13 +1,81 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3567,
+  "num_followers": 3566,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADaWt9InlfTOmA0+6T8utLYi+yD0TF",
+  "snapshot_id": "AAADbiP27iUJew3wV0oXOTYSivvkN83W",
   "tracks": [
+    {
+      "added_at": "2026-03-06 15:29:19",
+      "album": {
+        "name": "Long Time Running",
+        "url": "https://open.spotify.com/album/0uVeIKsbdjlyCFJ4NkW8Kr"
+      },
+      "artists": [
+        {
+          "name": "Molly Johnson",
+          "url": "https://open.spotify.com/artist/0OhbmRARz9nrChla8W2OGU"
+        },
+        {
+          "name": "Jim Cuddy",
+          "url": "https://open.spotify.com/artist/1RprcCfY08k2trEW0m3aHg"
+        }
+      ],
+      "duration_ms": 273362,
+      "name": "Long Time Running",
+      "url": "https://open.spotify.com/track/168M2U5YvSH98cViNDPjZz"
+    },
+    {
+      "added_at": "2026-03-06 15:29:33",
+      "album": {
+        "name": "What Lies Ahead (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/2gzcg0D1hhcs3FLzH7QGYb"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 172421,
+      "name": "What Lies Ahead (Bright-Side Mix)",
+      "url": "https://open.spotify.com/track/2AUNZCdSl2hiNpB78Bv0BS"
+    },
+    {
+      "added_at": "2026-03-06 15:29:47",
+      "album": {
+        "name": "It\u2019s Been Too Long",
+        "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 162384,
+      "name": "It\u2019s Been Too Long",
+      "url": "https://open.spotify.com/track/6LHqwTM5LpkeBh1C8bSLcT"
+    },
+    {
+      "added_at": "2026-03-06 15:29:55",
+      "album": {
+        "name": "Everything Will Be Alright In The End",
+        "url": "https://open.spotify.com/album/5bwoCpDhski3iIxwsdgPTM"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 193733,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1O9D7P7Z1wMJXW19zTXrXi"
+    },
     {
       "added_at": "2026-02-13 17:26:11",
       "album": {

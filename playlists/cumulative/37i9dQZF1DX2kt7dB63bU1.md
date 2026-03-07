@@ -4,7 +4,7 @@
 
 > Jazz voices of today\. Cover: Gabrielle Cavassa
 
-894 songs - 2 day 13 hr 58 min
+895 songs - 2 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,7 @@
 | [Sweet Pea](https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc) | [The Hot Sardines](https://open.spotify.com/artist/7zIBiD6dJ7x0a6BPND2fIy) | [French Fries & Champagne](https://open.spotify.com/album/3heL0BxCl4Ts7IhS0NRYSv) | 2:21 | 2020-10-09 | 2022-02-16 |
 | [Sweet Pumpkin](https://open.spotify.com/track/7xINpy0rVreuzLsNMFaC4P) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY) | [Sweet Pumpkin](https://open.spotify.com/album/0POEh5608y0eem6LXKOG76) | 3:54 | 2022-08-26 | 2023-02-25 |
 | [Sweet Pumpkin \(feat\. Gerald Clayton\) \- Duo Version](https://open.spotify.com/track/4gmxdNHKgBmE8x0CyKnvc0) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8) | [Sweet Pumpkin \(Duo Version\)](https://open.spotify.com/album/4uqKcyr2SSRVfK1huj5gQx) | 3:44 | 2023-02-10 | 2023-04-15 |
-| [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-05-09 |  |
+| [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 | 2025-05-09 | 2026-03-07 |
 | [Tainted Love](https://open.spotify.com/track/0jOulpJbFDaGwb09pAx1q9) | [Deborah Silver](https://open.spotify.com/artist/3mVGbbLuRhDTfZAOl4O85u), [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Steve Jordan](https://open.spotify.com/artist/53XJ4BIv6iblv2Osdpp5ls), [John Clayton](https://open.spotify.com/artist/7xpCL3ZjAsjhUIPJBE5PmB) | [Tainted Love](https://open.spotify.com/album/4y2qRFTK0ZD5bMfs6vaz52) | 4:09 | 2025-04-04 |  |
 | [Take Love Easy](https://open.spotify.com/track/70bb4rPssrRLC3WIKuxcvI) | [Miriam Netti](https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP) | [Take Love Easy](https://open.spotify.com/album/05vX7tbISbLuPvTqbJMGxx) | 5:02 | 2023-03-10 | 2024-06-29 |
 | [Take this stone \(feat\. June McDoom & Kate Davis\)](https://open.spotify.com/track/5njraCJH3kezunxuBGpKf1) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn), [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV), [Kate Davis](https://open.spotify.com/artist/4jXKRg7GZPm3mKGgKwUEco) | [Oh Snap](https://open.spotify.com/album/7uiAPDnBrbgujLp0p9E32Z) | 3:34 | 2025-09-19 |  |
@@ -874,6 +874,7 @@
 | [Without You](https://open.spotify.com/track/43lTZae0hP92dJUfaBlKQo) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Without You](https://open.spotify.com/album/2nwFdSEvJhqzXFYPgkkFHZ) | 4:20 | 2023-10-27 | 2025-06-21 |
 | [Woman's Reach](https://open.spotify.com/track/5b4LwXqmIpgYmwIMsXor45) | [KerenDun](https://open.spotify.com/artist/2TlOOJAaDba5S9tmsFyCWj), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [Woman's Reach](https://open.spotify.com/album/62fZHDlJIDiFQbCFqgE13S) | 3:37 | 2021-02-05 | 2022-02-12 |
 | [Wonder in the Waiting](https://open.spotify.com/track/4gVz0PNVbWFkWKz2abuAet) | [Crystal Lewis](https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf) | [A Seasonal Thing...Winter](https://open.spotify.com/album/5qHocH0PxAZIXtT4fBmjUg) | 4:40 | 2024-02-16 | 2026-01-15 |
+| [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 | 2026-03-06 |  |
 | [Wonderful Words](https://open.spotify.com/track/53GtzwyXwm4ucKVJ5KZu4X) | [TICO DE MORAES](https://open.spotify.com/artist/4B4UjhXvu9OoY3D1Tq3m05), [Jesse Rivest](https://open.spotify.com/artist/1AaY7NYQidTReRR6t1l9OF), [Misael Barros](https://open.spotify.com/artist/1hJLJF3t74lnmceuXeCJsO), [Alexander Raichenok](https://open.spotify.com/artist/0gx7dOa0Yy1vWQ1XQL6ky6) | [Wonderful Words](https://open.spotify.com/album/7ivBZYLmSa4YnlFJVElIWr) | 4:11 | 2022-04-04 | 2022-06-23 |
 | [Wrong Side of Midnight](https://open.spotify.com/track/7LRPGJ7TZfoKB4wwARAUsA) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [Wrong Side of Midnight](https://open.spotify.com/album/79xZg93Il2X9cs7WxnjbfK) | 3:40 | 2025-01-03 | 2025-02-22 |
 | [Wuthering Heights](https://open.spotify.com/track/3YSyFPN4BpcKwE4Oy12vlD) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Ghost Song](https://open.spotify.com/album/69TYdq2UOhXr1OpIN9kdwJ) | 2:43 | 2022-03-04 | 2023-02-25 |

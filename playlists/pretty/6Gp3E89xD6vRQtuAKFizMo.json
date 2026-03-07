@@ -1,13 +1,121 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 43531,
+  "num_followers": 43530,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAamIid1jGdnKNHBPyDaZ+rfc8POgjo",
+  "snapshot_id": "AAAanlU7j3zT3kSNHu/r5kKCc6JgJSj6",
   "tracks": [
+    {
+      "added_at": "2026-03-06 05:00:47",
+      "album": {
+        "name": "Currently On Earth Remixes",
+        "url": "https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        }
+      ],
+      "duration_ms": 171204,
+      "name": "Running - Ookay Remix",
+      "url": "https://open.spotify.com/track/0tNVqP7h2s2aUV9CfVfvim"
+    },
+    {
+      "added_at": "2026-03-06 05:00:46",
+      "album": {
+        "name": "Currently On Earth Remixes",
+        "url": "https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "KARTY",
+          "url": "https://open.spotify.com/artist/1d4NBnW4o8yblqpLJ0EEci"
+        }
+      ],
+      "duration_ms": 210524,
+      "name": "Running - KARTY Remix",
+      "url": "https://open.spotify.com/track/3epakg3oUvNuBFYWq2Sql8"
+    },
+    {
+      "added_at": "2026-03-06 05:00:46",
+      "album": {
+        "name": "Currently On Earth Remixes",
+        "url": "https://open.spotify.com/album/7JUYT95dnaemQAfStopYkO"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "2Spade",
+          "url": "https://open.spotify.com/artist/4pgbuGIiSAJXvW5TeXPkfn"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Make It Wet - 2Spade Remix",
+      "url": "https://open.spotify.com/track/2eeHxJ29oyvrToTmPw8Jtr"
+    },
+    {
+      "added_at": "2026-03-06 05:00:45",
+      "album": {
+        "name": "909 Hittin",
+        "url": "https://open.spotify.com/album/7EXWEskGpH365MRdTThgf1"
+      },
+      "artists": [
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "duration_ms": 140537,
+      "name": "909 Hittin",
+      "url": "https://open.spotify.com/track/0YH8m815wipIdqit4uUKWg"
+    },
+    {
+      "added_at": "2026-03-06 05:00:45",
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/7hVOHmsrsXaqjprMw29OGG"
+      },
+      "artists": [
+        {
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/2LsTAhsH8uUEbC0cAxVqUd"
+    },
+    {
+      "added_at": "2026-03-06 05:00:44",
+      "album": {
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/0dZNT6EBkDwihQ0TcK3Zpd"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/37Q1w8I8QEfBT9FBfnkHV0"
+    },
     {
       "added_at": "2026-02-13 05:00:24",
       "album": {

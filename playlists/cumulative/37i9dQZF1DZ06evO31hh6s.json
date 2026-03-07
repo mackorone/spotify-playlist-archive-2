@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 211307,
       "name": "Does Anybody Feel Me",
       "url": "https://open.spotify.com/track/4K9WdMLQ8sIGKhn0yG5fiP"
@@ -2962,7 +2962,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 298333,
       "name": "Rolling",
       "url": "https://open.spotify.com/track/1IZDCUBhENHGqh2ua1WVcm"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-21",
+      "date_removed": null,
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 268235,
       "name": "Stop Trying",
       "url": "https://open.spotify.com/track/4PTYv3IqqG71z78v7LT8NW"
@@ -3396,7 +3396,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-07",
       "duration_ms": 198400,
       "name": "The Fight",
       "url": "https://open.spotify.com/track/3E1EgF2oFqpTJT6T2ybRGt"
@@ -3510,6 +3510,28 @@
       "duration_ms": 230226,
       "name": "The Uppercut",
       "url": "https://open.spotify.com/track/1SgENhaSaWJ9OWci6zRAvD"
+    },
+    {
+      "album": {
+        "name": "The Year Of The Underdogz",
+        "url": "https://open.spotify.com/album/1dx23xoRwbjHAocCBxW1de"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Gage Gully",
+          "url": "https://open.spotify.com/artist/6AQJQwybpIlfvLzWfvbRPO"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257929,
+      "name": "The Year Of The Underdogz (feat. Crooked I)",
+      "url": "https://open.spotify.com/track/0l3Y3zpdnUFlGPRE7ZefLJ"
     },
     {
       "album": {

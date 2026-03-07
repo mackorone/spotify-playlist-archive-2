@@ -1,13 +1,53 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Belters Only &amp; Seamus D",
-  "num_followers": 118546,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Valentino Khan &amp; No/Me",
+  "num_followers": 118541,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAg0kWthNNRnwkYEN+xsBZCGNq5+n7G",
+  "snapshot_id": "AAAg3QVm9kTDl8AVf4OVk8QXNneWAe+7",
   "tracks": [
+    {
+      "added_at": "2026-03-06 09:03:01",
+      "album": {
+        "name": "That's Her (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/2YTsUD2n4AWeXGK51A4fYb"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "That's Her (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/3mAttc0Ojiw3xELRfVN6Ea"
+    },
+    {
+      "added_at": "2026-03-06 09:03:01",
+      "album": {
+        "name": "What Can I Say",
+        "url": "https://open.spotify.com/album/2fBBZuDrcQsBBGpmzhRx6d"
+      },
+      "artists": [
+        {
+          "name": "Valentino Khan",
+          "url": "https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh"
+        },
+        {
+          "name": "No/Me",
+          "url": "https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL"
+        }
+      ],
+      "duration_ms": 197910,
+      "name": "What Can I Say",
+      "url": "https://open.spotify.com/track/1isYUV8dk5bEhJuVmhKtgq"
+    },
     {
       "added_at": "2026-02-27 00:34:13",
       "album": {
@@ -87,6 +127,50 @@
       "duration_ms": 153230,
       "name": "What About Now",
       "url": "https://open.spotify.com/track/5X9wmreOpsUOsZQXZGiwW3"
+    },
+    {
+      "added_at": "2026-03-06 09:03:05",
+      "album": {
+        "name": "Iunu",
+        "url": "https://open.spotify.com/album/21qrcefrZ7ZRDvKPTZrTuP"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 250834,
+      "name": "Iunu",
+      "url": "https://open.spotify.com/track/6D70xfUKLPVeVe2qxyGTN3"
+    },
+    {
+      "added_at": "2026-03-06 09:03:05",
+      "album": {
+        "name": "33 Max Verstappen (LNY TNZ Remix)",
+        "url": "https://open.spotify.com/album/2HyjwXthbe4RFZOYOoePrD"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Nils Van Zandt",
+          "url": "https://open.spotify.com/artist/5Stz8LetjJ6OBHOZKuPrPj"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        },
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        }
+      ],
+      "duration_ms": 127875,
+      "name": "33 Max Verstappen (LNY TNZ Remix)",
+      "url": "https://open.spotify.com/track/1SSUIHIoezSIZLiVQdxCiB"
     },
     {
       "added_at": "2026-02-27 00:34:13",

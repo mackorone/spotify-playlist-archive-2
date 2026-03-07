@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Live in Europe 1964 (2025 Remaster)",
+        "url": "https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249440,
+      "name": "All My Life - Live in Europe 1964 - 2025 Remaster",
+      "url": "https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3"
+    },
+    {
+      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
