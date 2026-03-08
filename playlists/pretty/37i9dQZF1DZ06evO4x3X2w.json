@@ -1,12 +1,12 @@
 {
   "description": "This is Aerosmith. The essential tracks, all in one playlist.",
-  "num_followers": 721052,
+  "num_followers": 721083,
   "original_name": "This Is Aerosmith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAACDj9b86J9XG6RtUCxu+Ejg",
+  "snapshot_id": "aaoZAAAAAAAJOFklCD6hTHhuvF5LbdTy",
   "tracks": [
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Draw The Line",
-        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
+        "name": "The Very Best Of Aerosmith",
+        "url": "https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 295637,
-      "name": "Kings And Queens",
-      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
+      "duration_ms": 244924,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/3Dl4oQ169dnLsRuoKuegH3"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Aerosmith",
-        "url": "https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX"
+        "name": "Draw The Line",
+        "url": "https://open.spotify.com/album/3Qb7LY8ePk29MqQmnFhzUd"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 244924,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/3Dl4oQ169dnLsRuoKuegH3"
+      "duration_ms": 295637,
+      "name": "Kings And Queens",
+      "url": "https://open.spotify.com/track/0HwXmm9QsRiCbyWnwMIwnZ"
     },
     {
       "added_at": null,

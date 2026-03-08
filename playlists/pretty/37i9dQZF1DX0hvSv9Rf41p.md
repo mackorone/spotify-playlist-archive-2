@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with Mary Droppinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,633 likes - 90 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,662 likes - 90 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Goddess](https://open.spotify.com/track/3HD9GLv9hzwTPAkhmBIXKq) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Jaira Burns](https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX) | [Goddess](https://open.spotify.com/album/26KY5Noaiuq6EZB5CTiEpC) | 2:58 |
 | 2 | [A.F.B.1.](https://open.spotify.com/track/0IMWZ7rMu864N1ouQsBpkQ) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [A.F.B.1.](https://open.spotify.com/album/2ki6eX40TKfZgzo7CSwFJ7) | 3:30 |
-| 3 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:15 |
+| 3 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:01 |
 | 4 | [Pop](https://open.spotify.com/track/0TgoIKzHyU2zysMf12KuJD) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Pop](https://open.spotify.com/album/69znXGnL5lj0jEIbl7yni7) | 2:59 |
 | 5 | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/track/0klC111yCH3JWuPCDbpFqP) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/album/5G79EoSpJ0nEEkBm1vJPje) | 3:08 |
 | 6 | [his name is](https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [TYNAN TIME](https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from The Brook & The Bluff
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,871 likes - 150 songs - 8 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,835 likes - 150 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 10 | [Internet](https://open.spotify.com/track/5BQnHZI0SzXIcWIwUzCUij) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Internet](https://open.spotify.com/album/6IE54t4dhpEIX9kI3lWjJY) | 3:34 |
 | 11 | [Billy Elliot](https://open.spotify.com/track/7gf3M0upbz1PemBCtDUP7D) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Billy Elliot / Alone In Cologne](https://open.spotify.com/album/38VWIVrqrK8bn6d7Q6zL5o) | 3:11 |
 | 12 | [Where's My Phone?](https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Where's My Phone?](https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G) | 3:09 |
-| 13 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
+| 13 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
 | 14 | [Jane!](https://open.spotify.com/track/5BdTXOmNx4NANVF4IMitQQ) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/2dKFGp34DsNa9bzZ3NoTC5) | 3:06 |
 | 15 | [Ring Of Fire](https://open.spotify.com/track/4yvqnW2T2V73yhMWu8OyaT) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Ring Of Fire](https://open.spotify.com/album/6lZXWwg79uVFYoyrAaRjtZ) | 3:52 |
 | 16 | [Dandelion](https://open.spotify.com/track/1JjL9mpChpaO3fZRFI402Z) | [Dogpark](https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7) | [Corporate Pudding](https://open.spotify.com/album/5nW0M9ugNbNygM09L8oMj6) | 3:14 |

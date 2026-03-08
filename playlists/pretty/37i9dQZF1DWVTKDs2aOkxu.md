@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Gretel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,800 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,735 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 7 | [One of the Greats](https://open.spotify.com/track/3qrht50EwYuMgjPkM2A3aJ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/0z7l9VEJyFMv8p8wffRDaF) | 6:32 |
 | 8 | [Break the Girl](https://open.spotify.com/track/1G6tftTrUHgg1g6cP3VkJ5) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Break the Girl](https://open.spotify.com/album/66ZkWrGgZzUsC7G1U7Z2gl) | 3:31 |
 | 9 | [Mantis](https://open.spotify.com/track/4H7gZWrCfKN4Yc8HMGvmNw) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Mantis/Sugar Plum](https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh) | 4:40 |
-| 10 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
+| 10 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
 | 11 | [Let's Do It Again!](https://open.spotify.com/track/4CcfLmYhrih0jVPOEd1plJ) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Let's Do It Again!](https://open.spotify.com/album/5pZ5WWoM7SbZhxMKPKPSce) | 4:31 |
 | 12 | [If I Leave](https://open.spotify.com/track/4eMXMUkWS4aChMfA1UO4YJ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:00 |
 | 13 | [Every Woman](https://open.spotify.com/track/0Vor1chusdXS3b1nUYS2vQ) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Every Woman](https://open.spotify.com/album/2T0C5eYERwZo0VbRRDfsgn) | 3:56 |

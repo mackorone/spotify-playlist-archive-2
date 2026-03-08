@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Yebba
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,730 likes - 81 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,762 likes - 81 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 55 | [Point To Prove](https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Point To Prove](https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK) | 2:18 |
 | 56 | [scared](https://open.spotify.com/track/0ZVozjmLnWpmhgbGp32pkB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [USB](https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT) | 3:46 |
 | 57 | [Your Favorite Toy](https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea) | 2:56 |
-| 58 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
+| 58 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
 | 59 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 |
 | 60 | [Imposter](https://open.spotify.com/track/5VqWwnkDTHNz3oXdlh2jn7) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Imposter](https://open.spotify.com/album/47GKjNzCbyJVYNrgpq4314) | 2:38 |
 | 61 | [professional heartbreaker](https://open.spotify.com/track/1cXe8OVF7fL9OyRWMFHytH) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [professional heartbreaker](https://open.spotify.com/album/2X5QpEX5O4DFQMLhr9iXx7) | 2:55 |

@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: B.I)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221411,
+  "num_followers": 221425,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
         "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
         "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 170013,
       "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
       "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -631,26 +631,6 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "On the street",
-        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
-      },
-      "artists": [
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 209154,
-      "name": "On the street (Feat. ASH ISLAND)",
-      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 219093,
       "name": "Lovey Dovey (Feat. meenoi)",
       "url": "https://open.spotify.com/track/1s3AJx7XASsPSA2cKJdXG6"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
+        "name": "On the street",
+        "url": "https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU"
+      },
+      "artists": [
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 209154,
+      "name": "On the street (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
         "name": "Dingo X H1GHR MUSIC",
         "url": "https://open.spotify.com/album/2t5fdLTQu0xX89rDf4NMNX"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 259982,
       "name": "iffy (Prod. GroovyRoom)",
       "url": "https://open.spotify.com/track/4q9JLlC3HIhN4CDC6KlpYK"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "E",
-        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        }
-      ],
-      "duration_ms": 112965,
-      "name": "maybe baby",
-      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
         "name": "6SEOUL",
         "url": "https://open.spotify.com/album/0YV6qvJTTXx7AYD2RSyMfh"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "Vancouver 2",
-        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
+        "name": "E",
+        "url": "https://open.spotify.com/album/3qgDvO08Y80fcmDPw1k5Kw"
       },
       "artists": [
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
         }
       ],
-      "duration_ms": 202213,
-      "name": "Vancouver 2",
-      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
+      "duration_ms": 112965,
+      "name": "maybe baby",
+      "url": "https://open.spotify.com/track/1zqbsVEYjCCloTKL3yiWhS"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -971,6 +955,22 @@
       "duration_ms": 124615,
       "name": "Wifey",
       "url": "https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
+        "name": "Vancouver 2",
+        "url": "https://open.spotify.com/album/0cuXDMN1yjtTrYJfrnVxFq"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 202213,
+      "name": "Vancouver 2",
+      "url": "https://open.spotify.com/track/2fiI6e0WxyZB3QnmRxYGPg"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "HANDS",
-        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jung Zi So",
-          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "Life Is A Movie (Feat. Jung Zi So)",
-      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
         "name": "H.A.L.F (Have.A.Little.Fun)",
         "url": "https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm"
       },
@@ -1051,18 +1031,22 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+        "name": "HANDS",
+        "url": "https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jung Zi So",
+          "url": "https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti"
         }
       ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+      "duration_ms": 190773,
+      "name": "Life Is A Movie (Feat. Jung Zi So)",
+      "url": "https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1083,6 +1067,22 @@
       "duration_ms": 168640,
       "name": "Shawty (feat. Coogie)",
       "url": "https://open.spotify.com/track/020gy3mTtwOCI4MHkZXlBe"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1415,26 +1415,22 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "Organic2",
+        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
       },
       "artists": [
         {
-          "name": "DON MALIK",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 205106,
+      "name": "AURORA (feat. Crush)",
+      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1471,6 +1467,30 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+      },
+      "artists": [
+        {
+          "name": "DON MALIK",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
         "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
         "url": "https://open.spotify.com/album/3Z8nre7uQyLXZPieySyjYP"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 137250,
       "name": "\ubbf8\uc6cc\ubbf8\uc6cc",
       "url": "https://open.spotify.com/track/3Qrk2n9heBxrDNRThqg1Sh"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
-        "name": "Organic2",
-        "url": "https://open.spotify.com/album/4do2LvREDAeSafUqlFjNOn"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 205106,
-      "name": "AURORA (feat. Crush)",
-      "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1607,6 +1607,30 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
+        "name": "BLEND",
+        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
+      },
+      "artists": [
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 137546,
+      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
+      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
         "name": "Show Me The Money 10 Episode 1",
         "url": "https://open.spotify.com/album/57an88yn23zGQ4rmor7tkX"
       },
@@ -1643,30 +1667,6 @@
       "duration_ms": 319106,
       "name": "Memories of You and Me",
       "url": "https://open.spotify.com/track/1F5MRky5joGXiNlsfUdaXa"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
-        "name": "BLEND",
-        "url": "https://open.spotify.com/album/6ftmYAVe6L56j8u2YYzyeR"
-      },
-      "artists": [
-        {
-          "name": "Way Ched",
-          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
-        },
-        {
-          "name": "BANG YEDAM",
-          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 137546,
-      "name": "Bad Idea (Feat. BANG YEDAM, pH-1)",
-      "url": "https://open.spotify.com/track/5YkYwKTub2bBqnoUsK89Su"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
-        "name": "AFTER UPSET",
-        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "muah",
-      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
         "name": "MBT",
         "url": "https://open.spotify.com/album/2XP5oAZ4KePlCQrdUKddn4"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 142280,
       "name": "MBT",
       "url": "https://open.spotify.com/track/17wvYb3NN58riCL6wQJjFl"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
+        "name": "AFTER UPSET",
+        "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "muah",
+      "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
     },
     {
       "added_at": "2026-03-03 07:03:31",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2026-03-03 07:03:31",
       "album": {
+        "name": "The Star",
+        "url": "https://open.spotify.com/album/0T9hFotUzoCdwNs0lF69QK"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "\u00dc",
+      "url": "https://open.spotify.com/track/1lZv5rGGJ2VEPXhWs9GndB"
+    },
+    {
+      "added_at": "2026-03-03 07:03:31",
+      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
-    },
-    {
-      "added_at": "2026-03-03 07:03:31",
-      "album": {
-        "name": "The Star",
-        "url": "https://open.spotify.com/album/0T9hFotUzoCdwNs0lF69QK"
-      },
-      "artists": [
-        {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "\u00dc",
-      "url": "https://open.spotify.com/track/1lZv5rGGJ2VEPXhWs9GndB"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

@@ -4,7 +4,7 @@
 
 > The best in house music
 
-772 songs - 2 day 1 hr 54 min
+773 songs - 2 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 | 2022-05-16 | 2024-08-31 |
 | [A Bit Patchy \- Eric Prydz Remix](https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov) | [Switch](https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI), [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [A Bit Patchy \(Remixes\)](https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm) | 7:40 | 2022-04-14 | 2024-02-01 |
 | [A Night In The Room \- Saison Extended Remix](https://open.spotify.com/track/5HWPzvEOUqBrBkI37KR5fz) | [Yuichi Inoue](https://open.spotify.com/artist/2fhhRPvRUyymOwkL21ZnI1), [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [A Night In The Room \(Saison Rework\) / Last Train](https://open.spotify.com/album/3sSu7eI0zV5x8zOUrHU0KG) | 5:48 | 2025-01-30 | 2025-05-09 |
+| [About Yourself](https://open.spotify.com/track/0TJYzpDpsNRvfxcJZFy9Gp) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [About Yourself](https://open.spotify.com/album/424UwjUyukTLxeYRfPYBbl) | 2:45 | 2026-03-05 |  |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-06-15 | 2022-11-19 |
 | [After All This Time](https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ) | [VIGI](https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o) | [Chicago 87](https://open.spotify.com/album/0FQkFZnBlZR7mNybn4xQzB) | 6:19 | 2022-04-14 | 2024-03-01 |
 | [Agua De Beber](https://open.spotify.com/track/2fxfwzMeq5ICIY5zakeKmn) | [SUBB](https://open.spotify.com/artist/0Yjc1aaTwDoJy2KP5xS20r), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Agua De Beber](https://open.spotify.com/album/0YpRLkAism461pPF50wJu3) | 3:17 | 2025-03-20 |  |
@@ -286,7 +287,7 @@
 | [Hands](https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Hands](https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW) | 2:28 | 2024-04-09 | 2025-02-21 |
 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 | 2024-02-15 | 2025-01-31 |
 | [Harder \(Shermanology Remix\) \- Radio Edit](https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Harder \(With Busta Rhymes\) \- Shermanology Remix](https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2) | 3:24 | 2022-04-20 | 2024-03-21 |
-| [Have a Good Time](https://open.spotify.com/track/2vIEBETfRHbUdjCqZtT4mk) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Have a Good Time](https://open.spotify.com/album/5rDGnIZ53L9lHtadvQpSUq) | 3:15 | 2026-01-23 |  |
+| [Have a Good Time](https://open.spotify.com/track/2vIEBETfRHbUdjCqZtT4mk) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Have a Good Time](https://open.spotify.com/album/5rDGnIZ53L9lHtadvQpSUq) | 3:15 | 2026-01-23 | 2026-03-08 |
 | [Head up High \- Radio Edit](https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV) | [Jason Herd](https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ), [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Head up High](https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub) | 4:56 | 2023-05-25 | 2024-06-25 |
 | [Hear the Sound](https://open.spotify.com/track/6TgNyT7e33SYf8xSpKwKpZ) | [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Hear the Sound](https://open.spotify.com/album/6WIjv4t8wXHzGGMU3qrHQj) | 3:04 | 2025-09-22 | 2025-10-04 |
 | [Hear The Voices \- Edit](https://open.spotify.com/track/1KrNQ6NSSIGVN1O9laLnye) | [Greg Van Bueren](https://open.spotify.com/artist/4XaX11VVNHfq7Rbbn1E5Gk), [Dutchican Soul](https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB) | [Hear The Voices](https://open.spotify.com/album/7KHlAoSZAnsxN9wH9l0iXO) | 3:32 | 2023-02-16 | 2024-09-13 |

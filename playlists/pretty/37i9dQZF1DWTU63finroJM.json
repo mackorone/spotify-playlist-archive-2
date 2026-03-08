@@ -1,6 +1,6 @@
 {
-  "description": "Meet the future of music around the world. Cover: wane",
-  "num_followers": 84971,
+  "description": "Meet the future of music around the world. Cover: Fernanda D\u00edaz",
+  "num_followers": 84969,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-02-13 14:00:26",
       "album": {
-        "name": "man down",
-        "url": "https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB"
-      },
-      "artists": [
-        {
-          "name": "63OG",
-          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
-        }
-      ],
-      "duration_ms": 128503,
-      "name": "man down",
-      "url": "https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu"
-    },
-    {
-      "added_at": "2026-02-13 14:00:26",
-      "album": {
         "name": "FEVER TIME",
         "url": "https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 224628,
       "name": "FEVER TIME",
       "url": "https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V"
+    },
+    {
+      "added_at": "2026-02-13 14:00:26",
+      "album": {
+        "name": "man down",
+        "url": "https://open.spotify.com/album/5hboPejEJjKJ1Pr0mSrgrB"
+      },
+      "artists": [
+        {
+          "name": "63OG",
+          "url": "https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k"
+        }
+      ],
+      "duration_ms": 128503,
+      "name": "man down",
+      "url": "https://open.spotify.com/track/5wXIjuSQ0wxBnATunXtslu"
     },
     {
       "added_at": "2026-02-13 14:00:26",

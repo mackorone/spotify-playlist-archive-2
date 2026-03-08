@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-409 songs - 19 hr 17 min
+410 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Quiet Stars](https://open.spotify.com/track/7h3QYG1cPw7onxrDxnaYEI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Quiet Stars](https://open.spotify.com/album/6kheDSIxcjPBu2No01PQmH) | 2:02 | 2023-04-24 |  |
 | [Quiet Water](https://open.spotify.com/track/6Sed7lQ9q1Iu87ew0WQlLl) | [Aisher Rami](https://open.spotify.com/artist/2zHZRicUVAYrE91sAwS4IJ) | [Quiet Water](https://open.spotify.com/album/1mqXXd4yMsXMPvHnbhkkzx) | 3:23 | 2023-12-18 |  |
 | [Rain Dew](https://open.spotify.com/track/2muRqaytFxVDmrdAPsHNmi) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Rain Dew](https://open.spotify.com/album/0eN4xGek46r1K2sv123tvP) | 2:48 | 2024-07-16 | 2026-02-25 |
-| [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 |  |
+| [Rain Journey](https://open.spotify.com/track/4vUj9kxhOGXpK7XC7jnwiN) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Rain Journey](https://open.spotify.com/album/7nyqoIIzMo1JwYBBR12YGf) | 3:12 | 2024-04-01 | 2026-03-08 |
 | [Rain Therapy](https://open.spotify.com/track/05i3bG4mz8nD21c2roVStX) | [Heal Divisions](https://open.spotify.com/artist/0kAuGd32wX67fzHjIJtSWn) | [Rain Therapy](https://open.spotify.com/album/6Q2V4aSZrco28N0df5OMe7) | 2:23 | 2025-03-14 |  |
 | [Recovery](https://open.spotify.com/track/2ieNJNNIwKIiT68JKVNv9I) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Recovery](https://open.spotify.com/album/31vutoDOOQeWJWo3B1s45F) | 3:12 | 2023-10-26 | 2024-07-17 |
 | [Recursive](https://open.spotify.com/track/70CElW5vR4cUlUbGiVJLky) | [turquoise waters](https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK) | [Recursive](https://open.spotify.com/album/1LJUcoa1MHNaJuOnuQwVds) | 2:40 | 2025-04-29 |  |
@@ -346,6 +346,7 @@
 | [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 | 2025-12-18 |  |
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
+| [Softwood Mist](https://open.spotify.com/track/5529RBTOKi6pZwOHaSQCP4) | [Emerald Haze](https://open.spotify.com/artist/1ZAxYNJ7InAWRbooQVWtoD) | [Softwood Mist](https://open.spotify.com/album/2CZceCsGyB6BtWpgbKFH2Z) | 2:36 | 2026-03-06 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 | 2025-10-02 |
 | [Solar Skies](https://open.spotify.com/track/1W3SYju3DvZHWgNSzb3N0S) | [Caelestis Nati](https://open.spotify.com/artist/5FYjMehrDmyDkbZqpYP1j8) | [Solar Skies](https://open.spotify.com/album/1cNfEsEpQg6o6Pw9z4EnZc) | 2:40 | 2025-04-29 | 2026-03-03 |
 | [Solitude](https://open.spotify.com/track/0PQpUqvsTITOfhkjD86swb) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Solitude](https://open.spotify.com/album/68GqXg8GI84Bc4lUmg0V7L) | 2:38 | 2023-05-19 | 2023-05-31 |

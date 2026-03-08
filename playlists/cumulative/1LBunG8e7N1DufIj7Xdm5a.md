@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,112 songs - 9 day 2 hr 46 min
+4,113 songs - 9 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [BOUNCE!](https://open.spotify.com/track/4OGogSW2OYjzwX49JyJFMo) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:08 | 2025-09-08 |  |
 | [Bouncer](https://open.spotify.com/track/3y7gkTOnO0hczBigr9xklv) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC), [Emma Blo](https://open.spotify.com/artist/12bJlmIeRHXrfx9fBPKttz) | [Bouncer](https://open.spotify.com/album/5jQp97761h1Qyt4OH5GW0Y) | 2:36 | 2025-06-05 |  |
 | [Bowser](https://open.spotify.com/track/1Lw6qn23DBZJRSO4am7OGV) | [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [Babyvamp](https://open.spotify.com/album/5CwsNmgMIKasvVCLNqQ1Wr) | 2:09 | 2025-05-16 |  |
+| [boyfriend...\(ew\)](https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [boyfriend...\(ew\)](https://open.spotify.com/album/2BFMWu941leigGSnriv5HB) | 2:21 | 2026-03-07 |  |
 | [Brand New Day](https://open.spotify.com/track/365Hns7Hf2P1s05HoCyf2V) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Brand New Day](https://open.spotify.com/album/3Qlg3UE7TDHXhzGAqyBtsT) | 3:03 | 2024-10-29 |  |
 | [Brave](https://open.spotify.com/track/5XwGzbCtHUypaAbUs57TvB) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [No Time To Be Sad](https://open.spotify.com/album/0jCv1PmqT8yUk8g60ezvm3) | 3:56 | 2025-06-02 |  |
 | [Bravo Scemo](https://open.spotify.com/track/1hBYt1CPaTawJXnhng8R6b) | [Axel Blue](https://open.spotify.com/artist/5pmgAAnLDoJMy6FCDofoyM), [G \- FELLAS](https://open.spotify.com/artist/24oN6Fbrj3QPT6dwmEsWpr) | [Bravo Scemo](https://open.spotify.com/album/5nXBUUKLnBXW1YcPeYX1Cs) | 2:04 | 2025-06-02 |  |

@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 284362,
+  "num_followers": 284399,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Make Me Stay or Make Me Go",
-        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
       },
       "artists": [
         {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Make Me Stay or Make Me Go",
-      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Cover to Cover",
-        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
+        "name": "Make Me Stay or Make Me Go",
+        "url": "https://open.spotify.com/album/3QkAYftQee59XEOOGoPeFN"
       },
       "artists": [
         {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
         }
       ],
-      "duration_ms": 184773,
-      "name": "You Can Close Your Eyes",
-      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
+      "duration_ms": 191000,
+      "name": "Make Me Stay or Make Me Go",
+      "url": "https://open.spotify.com/track/2HNsjA02EScFsBj3VIg2RS"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1239,6 +1219,26 @@
       "duration_ms": 281287,
       "name": "YMCA",
       "url": "https://open.spotify.com/track/6qhhp15Dmknb3QSiEqLOOm"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Cover to Cover",
+        "url": "https://open.spotify.com/album/4N2eJ7m1ziNW5ODI6jGOTB"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 184773,
+      "name": "You Can Close Your Eyes",
+      "url": "https://open.spotify.com/track/1zqdtI0wJIjCXK2xWSPPFD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "All Will Be Well",
-        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
-      },
-      "artists": [
-        {
-          "name": "Sister Sadie",
-          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "All Will Be Well",
-      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Heart-Shaped Box",
         "url": "https://open.spotify.com/album/1oCcDnADb3h6NEvVPa2Cps"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 265066,
       "name": "Heart-Shaped Box",
       "url": "https://open.spotify.com/track/5IUxHfkYd9hl4NDE8ayShP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "All Will Be Well",
+        "url": "https://open.spotify.com/album/5YzAQsWTKi4xqpFSGGfrQ5"
+      },
+      "artists": [
+        {
+          "name": "Sister Sadie",
+          "url": "https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "All Will Be Well",
+      "url": "https://open.spotify.com/track/6PKbLypSzDkN4RaPGUYVF8"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Simply Bluegrass (Live / Vol. 1)",
-        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
-      },
-      "artists": [
-        {
-          "name": "Country's Family Reunion",
-          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
-        },
-        {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
-        }
-      ],
-      "duration_ms": 190955,
-      "name": "Drivin' Nails In My Coffin - Live",
-      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1519,6 +1499,26 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Simply Bluegrass (Live / Vol. 1)",
+        "url": "https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B"
+      },
+      "artists": [
+        {
+          "name": "Country's Family Reunion",
+          "url": "https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt"
+        },
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 190955,
+      "name": "Drivin' Nails In My Coffin - Live",
+      "url": "https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Norwegian Wood (This Bird Has Flown)",
         "url": "https://open.spotify.com/album/6QjVfP6KCKaTBAv68CLa1Q"
       },
@@ -1531,6 +1531,22 @@
       "duration_ms": 167827,
       "name": "Norwegian Wood (This Bird Has Flown)",
       "url": "https://open.spotify.com/track/2FFZNaGdYTRWlYftmpCexq"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Johnny B. Goode",
+        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
+      },
+      "artists": [
+        {
+          "name": "Seth Mulder & Midnight Run",
+          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
+        }
+      ],
+      "duration_ms": 197250,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1567,22 +1583,6 @@
       "duration_ms": 215600,
       "name": "Break on Through (To the Other Side)",
       "url": "https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Johnny B. Goode",
-        "url": "https://open.spotify.com/album/3GwPLOfHKwTHpOdO349mRv"
-      },
-      "artists": [
-        {
-          "name": "Seth Mulder & Midnight Run",
-          "url": "https://open.spotify.com/artist/6evegGCBbWtKn22mb9NcBp"
-        }
-      ],
-      "duration_ms": 197250,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/2dEAao1ozL1u3uFKtqS6Hq"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Can't Let Go",
-        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
-      },
-      "artists": [
-        {
-          "name": "Della Mae",
-          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
-        }
-      ],
-      "duration_ms": 185305,
-      "name": "Can't Let Go",
-      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "If I Needed You",
         "url": "https://open.spotify.com/album/3rgGZOnKSdbWYMwa6wuZBU"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 203416,
       "name": "If I Needed You",
       "url": "https://open.spotify.com/track/4GQUszeC8ejtWRVEq7y6ag"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Can't Let Go",
+        "url": "https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr"
+      },
+      "artists": [
+        {
+          "name": "Della Mae",
+          "url": "https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh"
+        }
+      ],
+      "duration_ms": 185305,
+      "name": "Can't Let Go",
+      "url": "https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Fistful Of Bullets",
+        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
+      },
+      "artists": [
+        {
+          "name": "Mandowar",
+          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
+        }
+      ],
+      "duration_ms": 271753,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Late Night Talking",
         "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 280441,
       "name": "Guess I'm Doing Fine",
       "url": "https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Fistful Of Bullets",
-        "url": "https://open.spotify.com/album/7aWpejKmEQo1pREHHuJrMk"
-      },
-      "artists": [
-        {
-          "name": "Mandowar",
-          "url": "https://open.spotify.com/artist/7nTsvdE7Uj4xEh2HyNadks"
-        }
-      ],
-      "duration_ms": 271753,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/78lXYBtukQUDjgqbkZzkL0"
     },
     {
       "added_at": "2026-02-04 05:00:53",

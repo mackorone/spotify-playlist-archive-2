@@ -1,12 +1,12 @@
 {
   "description": "This is Sly & The Family Stone. The essential tracks, all in one playlist.",
-  "num_followers": 30234,
+  "num_followers": 30237,
   "original_name": "This Is Sly & The Family Stone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAB77ks72l9guUsUsSoHC4Ay",
+  "snapshot_id": "aaoZAAAAAACqusWhvvvHhUJuBrVRUbhK",
   "tracks": [
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Whole New Thing",
-        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
+        "name": "Back On The Right Track",
+        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 190266,
-      "name": "If This Room Could Talk",
-      "url": "https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4"
+      "duration_ms": 177640,
+      "name": "It Takes All Kinds",
+      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back On The Right Track",
-        "url": "https://open.spotify.com/album/1FQgfDq2fQT3YqrnBqhDVN"
+        "name": "A Whole New Thing",
+        "url": "https://open.spotify.com/album/2Qxaq1aDwgNib9fm73rRGy"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 177640,
-      "name": "It Takes All Kinds",
-      "url": "https://open.spotify.com/track/17RLnWJ3HB1CrpLu6UMBcu"
+      "duration_ms": 190266,
+      "name": "If This Room Could Talk",
+      "url": "https://open.spotify.com/track/6tLOKNQHVDFZgbjLxFoze4"
     },
     {
       "added_at": null,

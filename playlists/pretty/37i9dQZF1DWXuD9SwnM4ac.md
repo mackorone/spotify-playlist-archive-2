@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,325 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,317 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 53 | [Cowboy Without a Clue](https://open.spotify.com/track/4p3SjzPhcImuzWcsgL43xw) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [No Love Lost to Kindness](https://open.spotify.com/album/3APYkdryV1LvMQS6wJyax6) | 3:57 |
 | 54 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
 | 55 | [You Have Been Blessed](https://open.spotify.com/track/7idM3k12zC9u0wckoDIFRq) | [EXEK](https://open.spotify.com/artist/7ldGIajEfZUsa38eyvJ04V) | [You Have Been Blessed](https://open.spotify.com/album/0bq3II9Uj1J9wb94NnA439) | 5:07 |
-| 56 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
+| 56 | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/track/7dtX124bngqv8RPPccWYUC) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Puppet \- Taken From Peaky Blinders: The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6Ear3FNXxaxeTUqTinbPRD) | 4:26 |
 | 57 | [Better Than Ever](https://open.spotify.com/track/29wasPuhAidYxMC6WXR3JS) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [New Day](https://open.spotify.com/album/5Ev2w3fmyrYkYg8j23YAZU) | 3:03 |
 | 58 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 59 | [Good Girl](https://open.spotify.com/track/5916POJDlPQRBbe1SJc7uK) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Girl](https://open.spotify.com/album/6i5yc4dRqvo2Mu8mGrRXkE) | 4:23 |

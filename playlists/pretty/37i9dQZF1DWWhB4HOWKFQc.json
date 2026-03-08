@@ -1,6 +1,6 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: TIA",
-  "num_followers": 1494695,
+  "num_followers": 1494674,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
@@ -762,6 +762,10 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
         }
       ],
       "duration_ms": 193733,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air\. / 上質なアンビエントとオルタナティブミュージック cover: Exportion
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,618 likes - 148 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,706 likes - 148 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Steve Ibrahim",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Wamen",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -2534,6 +2534,24 @@
       "duration_ms": 198789,
       "name": "La symphonie des \u00e9clairs",
       "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
+    },
+    {
+      "album": {
+        "name": "La vie d'adulte",
+        "url": "https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG"
+      },
+      "artists": [
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "La vie d'adulte",
+      "url": "https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Lapili.",
-  "num_followers": 21236,
+  "num_followers": 21250,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-03 23:00:24",
       "album": {
-        "name": "Para 2",
-        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Para 2",
-      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
-    },
-    {
-      "added_at": "2026-03-03 23:00:24",
-      "album": {
         "name": "Un Mundo Feliz",
         "url": "https://open.spotify.com/album/7qbBtYrC3VJMH2T5S1cwqC"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 271383,
       "name": "Un Mundo Feliz",
       "url": "https://open.spotify.com/track/1UwbvBUt2EZYpP5pM6dzfH"
+    },
+    {
+      "added_at": "2026-03-03 23:00:24",
+      "album": {
+        "name": "Para 2",
+        "url": "https://open.spotify.com/album/3c0HPOeMOHyMpFo0I91mFo"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Para 2",
+      "url": "https://open.spotify.com/track/3YsnILvtiyRxqhTOQn6oQK"
     },
     {
       "added_at": "2026-03-03 23:00:24",

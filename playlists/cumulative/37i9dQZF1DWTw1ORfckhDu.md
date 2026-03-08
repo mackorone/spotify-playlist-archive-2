@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,128 songs - 2 day 5 hr 33 min
+1,129 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Musta Kissa](https://open.spotify.com/track/60LatrTBnphlOyfczM6cUa) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Musta Kissa](https://open.spotify.com/album/2WZxTVBPdi6msqONrwVsEq) | 2:29 | 2024-02-01 | 2024-03-15 |
 | [Musta Rolls Royce](https://open.spotify.com/track/3LFouhy6jUUGqQ4mNsIECd) | [Laineen Kasperi](https://open.spotify.com/artist/5tZ4tk3tuZXAafP4ColDmA) | [DOPE](https://open.spotify.com/album/0bc8zDE6rjjd66zIHSsYAF) | 3:33 | 2024-05-30 | 2024-07-02 |
 | [Mutsis kaa](https://open.spotify.com/track/0kH0dbuiJaA7fIEw38VXDR) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Mutsis kaa](https://open.spotify.com/album/7s1EKlQ9ai0yjJtzbg9CIE) | 2:32 | 2024-06-06 | 2024-07-02 |
+| [Mutta millä hinnalla](https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Mutta millä hinnalla](https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp) | 2:57 | 2026-03-07 |  |
 | [Muut](https://open.spotify.com/track/2R1hmiYii3vtmSMCr9s05M) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Muut](https://open.spotify.com/album/2RwqgdgKBboGjESQrvcKvO) | 3:18 | 2023-10-05 | 2023-10-20 |
 | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/track/7AEPMkRjqF9wPoOBAPpRp5) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [MVP \(feat\. ibe & Elastinen\)](https://open.spotify.com/album/1xAtCy8uDkU0FS7Hxhtjlp) | 3:05 | 2025-02-27 | 2025-08-29 |
 | [My Cup](https://open.spotify.com/track/129Od0XU709Tc84aqVLa2t) | [Young Mike](https://open.spotify.com/artist/6fWwDqSHfbKp204VY6DgQa) | [My Cup](https://open.spotify.com/album/6Bu1mRJFRbm8IzpTA0ske0) | 2:52 | 2025-11-13 | 2025-11-28 |

@@ -2491,6 +2491,24 @@
     },
     {
       "album": {
+        "name": "Face The Unknown",
+        "url": "https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210416,
+      "name": "Face The Unknown",
+      "url": "https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw"
+    },
+    {
+      "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
       },
@@ -6060,7 +6078,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 208159,
       "name": "N\u00e5got ska d\u00f6",
       "url": "https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0"

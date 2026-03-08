@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Rosie Carney
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,721 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,734 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 79 | [I'm Not Going Anywhere](https://open.spotify.com/track/7xUYVXZTGsU45EQDaDcZbr) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [I'm Not Going Anywhere](https://open.spotify.com/album/4U5EfAbYTY0kgMkMeTEnzP) | 4:06 |
 | 80 | [Angel](https://open.spotify.com/track/5jrhDvQuihrF1CNg50Sh9O) | [Anthony Layde](https://open.spotify.com/artist/0yqNBd8uKaCUmtT23hztRM) | [Angel](https://open.spotify.com/album/6UMpXEtCJyCNgDHqOyY7kx) | 3:40 |
 
-Snapshot ID: `AAAAADKu0BOK1e+GNnMKnpofyujY+Nk2`
+Snapshot ID: `AAAAAIq7uFqX73o5QaRscPfw6zVyy3TO`

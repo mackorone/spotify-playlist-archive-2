@@ -9046,7 +9046,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 199736,
       "name": "Habits",
       "url": "https://open.spotify.com/track/2XMwyntBTC3OgWE2N2wXoX"
@@ -21562,8 +21562,8 @@
       },
       "artists": [
         {
-          "name": "Benny Bell",
-          "url": "https://open.spotify.com/artist/6kJ90ye2U6Eqja1cDGBJgS"
+          "name": "Benny Bellson",
+          "url": "https://open.spotify.com/artist/5d853eyaCknmc4SynWaoR6"
         }
       ],
       "date_added": "2026-02-20",
@@ -24230,6 +24230,24 @@
       "duration_ms": 134797,
       "name": "You Need Jesus",
       "url": "https://open.spotify.com/track/2JJjWLvlJhfYSfj4umyaTc"
+    },
+    {
+      "album": {
+        "name": "early life crisis",
+        "url": "https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148253,
+      "name": "you ready?",
+      "url": "https://open.spotify.com/track/4StTpr2rt9cNqeDsu1bqFk"
     },
     {
       "album": {

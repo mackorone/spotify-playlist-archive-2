@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 56152,
+  "num_followers": 56170,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Qui de nous deux",
-        "url": "https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc"
-      },
-      "artists": [
-        {
-          "name": "-M-",
-          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "Qui de nous deux",
-      "url": "https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 188173,
       "name": "Dis-moi encore que tu m'aimes",
       "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Qui de nous deux",
+        "url": "https://open.spotify.com/album/4RGGnIevJw3BObQqMPffAc"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "Qui de nous deux",
+      "url": "https://open.spotify.com/track/0PZiPbrDCdORrSW6IIICRG"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Weathering",
-        "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
-      },
-      "artists": [
-        {
-          "name": "Last Train",
-          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
-        }
-      ],
-      "duration_ms": 237853,
-      "name": "Way Out",
-      "url": "https://open.spotify.com/track/5NWLroOOcY9s6sBMT4BbAI"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Aucun mal ne vous sera fait",
         "url": "https://open.spotify.com/album/67KzexkVZ1xJZH5ZjNBVKW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242533,
       "name": "Qu'est-ce qu'on va faire de toi",
       "url": "https://open.spotify.com/track/00ENwiGXMl2NpX2pI3FDoA"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Weathering",
+        "url": "https://open.spotify.com/album/4fRujS6zU3icVHKbTZMbGn"
+      },
+      "artists": [
+        {
+          "name": "Last Train",
+          "url": "https://open.spotify.com/artist/4S47feOS2ATuhc7Ao5ilfG"
+        }
+      ],
+      "duration_ms": 237853,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/5NWLroOOcY9s6sBMT4BbAI"
     },
     {
       "added_at": "2025-11-13 09:07:41",

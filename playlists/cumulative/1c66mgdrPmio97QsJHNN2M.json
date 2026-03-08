@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Addictive (Not Sorry)",
+        "url": "https://open.spotify.com/album/4qtgnVfgmoKRpzNl41UBlj"
+      },
+      "artists": [
+        {
+          "name": "Cody Rose",
+          "url": "https://open.spotify.com/artist/3wMDceiSqnOM5M4E4CpIs2"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109639,
+      "name": "Addictive (Not Sorry)",
+      "url": "https://open.spotify.com/track/24SQzH29ZZ4DsKVBxyU6B8"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/5sBq7jFfmicJEmyMhOZjih"
       },
@@ -1652,7 +1670,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 197698,
       "name": "Back Seat",
       "url": "https://open.spotify.com/track/4oWtSjCf9apCaEVxGgCX3H"
@@ -1714,6 +1732,24 @@
       "duration_ms": 173472,
       "name": "Back to you",
       "url": "https://open.spotify.com/track/63sMNXygExcc83zwOsNwen"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4PBnCncaaQ1F2Hhzv0irCR"
+      },
+      "artists": [
+        {
+          "name": "SSANJAY",
+          "url": "https://open.spotify.com/artist/2ewSrS6QoK7mFPSeeUdr6H"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122305,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/4mo1cw2OtK8czkXbqSDXlY"
     },
     {
       "album": {
@@ -1782,7 +1818,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 324054,
       "name": "Bad Dream",
       "url": "https://open.spotify.com/track/3iCKSWSpAiJe1ydenHKzWm"
@@ -1944,6 +1980,24 @@
       "duration_ms": 186763,
       "name": "Be Able to Love",
       "url": "https://open.spotify.com/track/2WMcEWz3MGj2IkpaFxOi3W"
+    },
+    {
+      "album": {
+        "name": "be alright",
+        "url": "https://open.spotify.com/album/6AYGv38FGO63EJPc0qlnYu"
+      },
+      "artists": [
+        {
+          "name": "DRIM",
+          "url": "https://open.spotify.com/artist/4qPHvF9yQBRM5ndTXEc4OT"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182621,
+      "name": "be alright",
+      "url": "https://open.spotify.com/track/7rbaLLtwjbDT3uyHkFUYST"
     },
     {
       "album": {
@@ -2138,7 +2192,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 221570,
       "name": "Better Than You",
       "url": "https://open.spotify.com/track/0ra03Lsd5701nEpZYxmgab"
@@ -2652,7 +2706,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 303221,
       "name": "Bow To The Screen",
       "url": "https://open.spotify.com/track/1GKe19z79W5410XBiEFSG5"
@@ -4119,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "Crossroads",
+        "url": "https://open.spotify.com/album/57MtEguuuive7uW4XAl4xh"
+      },
+      "artists": [
+        {
+          "name": "Mert Ertun\u00e7",
+          "url": "https://open.spotify.com/artist/36s62GGImQGrEsvoD8iRCz"
+        },
+        {
+          "name": "Ann Helene Hagen",
+          "url": "https://open.spotify.com/artist/7aXFGhNg982wa7TzhTp2fj"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203571,
+      "name": "Crossroads",
+      "url": "https://open.spotify.com/track/5g0HFo6XKLG3CTL0cW6VQo"
+    },
+    {
+      "album": {
         "name": "Crowded",
         "url": "https://open.spotify.com/album/4j97THOE5xqGPWzaKpNIX3"
       },
@@ -5542,7 +5618,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 237073,
       "name": "Dreaming In FM",
       "url": "https://open.spotify.com/track/74jMrxOKgwrEPPeutDqruL"
@@ -6217,6 +6293,24 @@
     },
     {
       "album": {
+        "name": "Pace",
+        "url": "https://open.spotify.com/album/7i1ajXI8sQfpYNbd5FwVXF"
+      },
+      "artists": [
+        {
+          "name": "Onur \u00dcnl\u00fc",
+          "url": "https://open.spotify.com/artist/7bxRGEXecNnOq6D0G5poBc"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87599,
+      "name": "Epic Love",
+      "url": "https://open.spotify.com/track/5ZeJqwfh8L9mBSjl02GH6U"
+    },
+    {
+      "album": {
         "name": "Equanimity",
         "url": "https://open.spotify.com/album/5BPfsEE0aSiD2EB96egkX6"
       },
@@ -6506,6 +6600,24 @@
       "duration_ms": 256719,
       "name": "Face It Love",
       "url": "https://open.spotify.com/track/673S6yRDrwrsQTpQv171wY"
+    },
+    {
+      "album": {
+        "name": "Faded Off Your Love",
+        "url": "https://open.spotify.com/album/2COPkbE8aVQ5J6KPIdGSj8"
+      },
+      "artists": [
+        {
+          "name": "Neon Dahlia",
+          "url": "https://open.spotify.com/artist/1L0pOCtnvySOpa5LlXlGit"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187399,
+      "name": "Faded Off Your Love",
+      "url": "https://open.spotify.com/track/7LAMB92ruJF7ijAxdc1c3l"
     },
     {
       "album": {
@@ -8258,7 +8370,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 170055,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/3KtbD4fmH2XmgP1ChQ19Lm"
@@ -10075,6 +10187,24 @@
     },
     {
       "album": {
+        "name": "Ich will nur dich",
+        "url": "https://open.spotify.com/album/2lcIu02H5Gmylt7Gs9PxcX"
+      },
+      "artists": [
+        {
+          "name": "Marc Aviano",
+          "url": "https://open.spotify.com/artist/07X0BAHJwXOLVyfwkwE2mU"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203679,
+      "name": "Ich will nur dich",
+      "url": "https://open.spotify.com/track/1lNBW4xtLBOuLDr80Y6LY1"
+    },
+    {
+      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg"
       },
@@ -11372,7 +11502,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 204288,
       "name": "Leave the City",
       "url": "https://open.spotify.com/track/6ewSC92f5j6IOCtd2r4bxF"
@@ -12306,6 +12436,24 @@
       "duration_ms": 163583,
       "name": "Love City",
       "url": "https://open.spotify.com/track/4OCAhNWlSmkrD1DmSSGRRT"
+    },
+    {
+      "album": {
+        "name": "love is a burden",
+        "url": "https://open.spotify.com/album/74CDpYakY2N6MSdws0TUEq"
+      },
+      "artists": [
+        {
+          "name": "wrongplaylist",
+          "url": "https://open.spotify.com/artist/7LUjMPX8YexWvdlr9AdjAI"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69144,
+      "name": "love is a burden",
+      "url": "https://open.spotify.com/track/6tjC6qZjgaA8QxOzzOHlmk"
     },
     {
       "album": {
@@ -14590,7 +14738,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 190439,
       "name": "Noch 3 Minuten bleiben",
       "url": "https://open.spotify.com/track/3KOkH51vikIoinPAC7LKQO"
@@ -17781,6 +17929,24 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/3jqamy7sB7G8eP3F9Fr52t"
+      },
+      "artists": [
+        {
+          "name": "BrunoHTK",
+          "url": "https://open.spotify.com/artist/2AQu9fSRmry2BR1QhjzzDo"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108370,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/345eCnbfTIZH7cz8pp9DMe"
+    },
+    {
+      "album": {
         "name": "Say My Name",
         "url": "https://open.spotify.com/album/2zlw5pANZDdXKuF7r0T5DS"
       },
@@ -19707,6 +19873,24 @@
     },
     {
       "album": {
+        "name": "Sunshine (2025)",
+        "url": "https://open.spotify.com/album/46K8Cw5IeMSFUrt9xbRvtv"
+      },
+      "artists": [
+        {
+          "name": "5ON5",
+          "url": "https://open.spotify.com/artist/4eL68XzLzLsLXnpJyG79Ze"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152376,
+      "name": "Sunshine - Remake",
+      "url": "https://open.spotify.com/track/5vqbw3IU0hsnjqIltriMMS"
+    },
+    {
+      "album": {
         "name": "Sunshine after the rain",
         "url": "https://open.spotify.com/album/11EBLcSkELU16qNCY8Qqer"
       },
@@ -19834,7 +20018,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 170951,
       "name": "Sweet Blue Moon",
       "url": "https://open.spotify.com/track/4Rt3uzW4h8k1EVNarWHEpW"
@@ -20926,7 +21110,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 181524,
       "name": "The Straight Dope",
       "url": "https://open.spotify.com/track/5hDYejXE5UjuLI5wCNtXUm"
@@ -21304,7 +21488,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 204959,
       "name": "This Light Is Mine",
       "url": "https://open.spotify.com/track/6iAjs5h9vamPjEGjolWE8s"
@@ -22826,7 +23010,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 174383,
       "name": "When I Fall",
       "url": "https://open.spotify.com/track/7gMLfb1NbOeDgmWZ6qZt7V"
@@ -23688,7 +23872,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 200566,
       "name": "Yarmouth Castle",
       "url": "https://open.spotify.com/track/0Pma4kVDVeRQnvNS3XzwyK"
@@ -24006,6 +24190,42 @@
       "duration_ms": 185519,
       "name": "You Messed Up",
       "url": "https://open.spotify.com/track/2qxbs5tHWeAQwBDOlcxxRj"
+    },
+    {
+      "album": {
+        "name": "You Never Leave",
+        "url": "https://open.spotify.com/album/0qv5zt1oOF63FC4fEgB3O3"
+      },
+      "artists": [
+        {
+          "name": "Raffael Wong",
+          "url": "https://open.spotify.com/artist/0eeorAe43RiZxuzLBWgVLO"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151312,
+      "name": "You Never Leave",
+      "url": "https://open.spotify.com/track/4SuOAFmzm0MZiiWRoxK3CA"
+    },
+    {
+      "album": {
+        "name": "You Walked In",
+        "url": "https://open.spotify.com/album/5DGQ8y9ZHa0sAJzmL78sOc"
+      },
+      "artists": [
+        {
+          "name": "Billy Holley",
+          "url": "https://open.spotify.com/artist/4kyZuN4Dowu3l7KKv5T0hO"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207757,
+      "name": "You Walked In",
+      "url": "https://open.spotify.com/track/32W4eaf9gPOra2YugGB3Cg"
     },
     {
       "album": {

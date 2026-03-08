@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,319 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,336 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Running Out Of Time](https://open.spotify.com/track/4qIdRNZsrZ0HHPq73AWGQW) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Half Life](https://open.spotify.com/album/51JYG8XPpVVVA7uQTnm4tI) | 3:30 |
 | 100 | [Right Back to It](https://open.spotify.com/track/0MyiHsmsraegQsowpoWxEf) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Right Back to It](https://open.spotify.com/album/6dfylVJKzAQlAQtZgrmB0p) | 4:33 |
 
-Snapshot ID: `AAAAAJJPMBdRUlYXXs/d0U204ZsD4rRk`
+Snapshot ID: `AAAAAL/ekwS6VYEELruv4xwB8VCHVQfD`

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 247738,
+  "num_followers": 247776,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "At The Close Of A Century",
-        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "I Just Called To Say I Love You",
-      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "The Game (2011 Remaster)",
         "url": "https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 163373,
       "name": "Crazy Little Thing Called Love - Remastered 2011",
       "url": "https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "At The Close Of A Century",
+        "url": "https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "I Just Called To Say I Love You",
+      "url": "https://open.spotify.com/track/6RNDeRnWsRMjPdNVgupZCs"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Remain in Light (Deluxe Version)",
         "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
       },
@@ -1035,6 +1019,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
         "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
       },
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Dois",
-        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
-      },
-      "artists": [
-        {
-          "name": "Legi\u00e3o Urbana",
-          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
-        }
-      ],
-      "duration_ms": 271440,
-      "name": "Eduardo E M\u00f4nica",
-      "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Big Bang",
         "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 189533,
       "name": "Lanterna Dos Afogados",
       "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Dois",
+        "url": "https://open.spotify.com/album/4OCJTpOLqSgysGY4yBCGhn"
+      },
+      "artists": [
+        {
+          "name": "Legi\u00e3o Urbana",
+          "url": "https://open.spotify.com/artist/6tw6EpC9RgmSRZiZg0n22t"
+        }
+      ],
+      "duration_ms": 271440,
+      "name": "Eduardo E M\u00f4nica",
+      "url": "https://open.spotify.com/track/6Pa6VpdGS8OfiVOEnNAHHw"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Luar",
-        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
+        "name": "Maior Abandonado",
+        "url": "https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
         }
       ],
-      "duration_ms": 266173,
-      "name": "Palco",
-      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
+      "duration_ms": 213933,
+      "name": "Bete Balan\u00e7o",
+      "url": "https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Maior Abandonado",
-        "url": "https://open.spotify.com/album/6k3oXZh66IHJ9EznRhC9kR"
+        "name": "Luar",
+        "url": "https://open.spotify.com/album/3qoUU8sm4eBT5POFHQSl5L"
       },
       "artists": [
         {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 213933,
-      "name": "Bete Balan\u00e7o",
-      "url": "https://open.spotify.com/track/0SrDqCmn2ClzEzNkAZYc2Y"
+      "duration_ms": 266173,
+      "name": "Palco",
+      "url": "https://open.spotify.com/track/2wL88cvKXUOfHuYVd62hji"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Disintegration (Remastered)",
-        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 208266,
-      "name": "Lovesong - Remastered",
-      "url": "https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Fullg\u00e1s",
         "url": "https://open.spotify.com/album/3CgjFI4cjXwJEf7EQaXJQP"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 247533,
       "name": "Fullg\u00e1s",
       "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Disintegration (Remastered)",
+        "url": "https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 208266,
+      "name": "Lovesong - Remastered",
+      "url": "https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL"
     },
     {
       "added_at": "2024-07-09 20:48:06",

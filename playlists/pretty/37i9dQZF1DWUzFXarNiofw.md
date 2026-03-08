@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,230 likes - 250 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,274 likes - 250 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 2 | [bad bitch alert](https://open.spotify.com/track/6E3NhQN1qTXNLao7yI61dK) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [bad bitch alert](https://open.spotify.com/album/5uUtc6ORn7VrJIJ3Z6QqKH) | 2:24 |
 | 3 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
 | 4 | [Frontin’ \- Spotify Singles](https://open.spotify.com/track/3ugbJvYqKD5nsmgYBrJ8Uj) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Frontin’ \- Spotify Singles](https://open.spotify.com/album/7BrAgVmrrrXtFq9Jp6pUA0) | 3:56 |
-| 5 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 5 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 6 | [Fantasy](https://open.spotify.com/track/2t59BDeppXjzPUDQtbzoqc) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [Fantasy](https://open.spotify.com/album/0YhwyHFb8hngSqSyXgu071) | 3:42 |
 | 7 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
 | 8 | [Wasted](https://open.spotify.com/track/3aj6fapBNx5A3bzy6VYGIn) | [Pimmie](https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll) | [Don’t Come Home](https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo) | 1:49 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 43 | [ASAP \(Remix\)](https://open.spotify.com/track/0vfrD59deamGv601WOHz8z) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [ASAP \(Remix\)](https://open.spotify.com/album/7cdOWcQK2NwyFvuNB1sxKp) | 3:41 |
 | 44 | [Asleep at the Wheel](https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX) | [rum.gold](https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB) | [Asleep At The Wheel](https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD) | 3:03 |
 | 45 | [Shut It Down](https://open.spotify.com/track/2lb2g8Otp8qDlpNFTVHjlh) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Shut It Down](https://open.spotify.com/album/1pBHZvxW0PjRj3JDYlAovT) | 2:26 |
-| 46 | [Days Are Over](https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Days Are Over](https://open.spotify.com/album/22pHrLhD7PQ5RTE0F4AaqB) | 2:57 |
+| 46 | [Days Are Over](https://open.spotify.com/track/2HEQmnm5GxHysvHRc5uttV) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i), [Kaliyah S.](https://open.spotify.com/artist/1xKe2GHa2JWDHVTNZRtEpT) | [Days Are Over](https://open.spotify.com/album/22pHrLhD7PQ5RTE0F4AaqB) | 2:57 |
 | 47 | [fiftyfive](https://open.spotify.com/track/5IpZBiClRFZ61ue19PWbp5) | [Devin Donnell](https://open.spotify.com/artist/6HL912h0I4WSdVWuArkUSc) | [fiftyfive](https://open.spotify.com/album/5X0pDpzylW7su4SfhFX8SF) | 2:11 |
 | 48 | [C'est La Vie \- Acoustic](https://open.spotify.com/track/4bE92AYf7aYM9MN0yvYQTT) | [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [THE GEMINI \(Deluxe\)](https://open.spotify.com/album/5gvjnK1zJ0CJ2gEt9aYojp) | 3:06 |
 | 49 | [Never Gonna Break Your Heart](https://open.spotify.com/track/6xAGoKB2V2H4ACHoTvQwkY) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Never Gonna Break Your Heart](https://open.spotify.com/album/1ix8xDmseuGFtXqIuLah0d) | 2:42 |

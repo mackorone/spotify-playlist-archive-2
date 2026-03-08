@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Sebastian. The essential tracks, all in one playlist.",
-  "num_followers": 1009328,
+  "num_followers": 1009561,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAD8TPPm2L6Usmt46IRwRmWK",
+  "snapshot_id": "aaoZAAAAAACcHOX3ZgzUSUHh5ngMjCMQ",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 164000,
       "name": "Te Ir\u00e1 Mejor Sin M\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/4MkqVtX64ycxgAHi6urJYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Las Mariposas (En Vivo)",
+        "url": "https://open.spotify.com/album/3DGujdYm7zWYhBtY1uyvXJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "Y Las Mariposas - En Vivo",
+      "url": "https://open.spotify.com/track/2zoKsJsKoSFHYNtTmLozXt"
     },
     {
       "added_at": null,
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Y Las Mariposas",
-      "url": "https://open.spotify.com/track/1uYRtqTqOw0KIihWtu8lUK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Baladas Favoritas",
-        "url": "https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 208486,
-      "name": "Manantial De Llanto",
-      "url": "https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alza El Vuelo",
         "url": "https://open.spotify.com/album/6UShlJGWod3wfFwauvmF1t"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Baladas Favoritas",
+        "url": "https://open.spotify.com/album/7Db7VCq3IQIgkzJxdsvQSy"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 208486,
+      "name": "Manantial De Llanto",
+      "url": "https://open.spotify.com/track/2ddqucsZ04B82NxZcXPVsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/28S0SWEBQrVLIOjvewF5n2"
       },
@@ -631,22 +631,6 @@
       "duration_ms": 186734,
       "name": "Melod\u00eda Para Dos",
       "url": "https://open.spotify.com/track/623Lx99JwTGxEivWzNIyX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Mejor De Joan Sebastian",
-        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 187315,
-      "name": "Mi C\u00f3mplice",
-      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
       "duration_ms": 139691,
       "name": "Ojitos De Golondrina",
       "url": "https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De Joan Sebastian",
+        "url": "https://open.spotify.com/album/1lx8CxUv6eeiMkK7iv7Pte"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 187315,
+      "name": "Mi C\u00f3mplice",
+      "url": "https://open.spotify.com/track/0iEH53cTwBCIZjJg6P81Gn"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joan Sebastian Con Tambora",
-        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 203778,
-      "name": "Me La Escondieron Sus Padres",
-      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Peor De Tus Antojos",
         "url": "https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202786,
       "name": "Juanita (Flor De Walamo)",
       "url": "https://open.spotify.com/track/242lyf8OjxomhjLpeas75s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Sebastian Con Tambora",
+        "url": "https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 203778,
+      "name": "Me La Escondieron Sus Padres",
+      "url": "https://open.spotify.com/track/1Ke5g7pgyPRt5xaO5OBBhN"
     },
     {
       "added_at": null,

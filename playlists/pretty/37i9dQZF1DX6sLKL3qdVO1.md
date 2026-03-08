@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Jere Klein en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 686,864 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 686,841 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 | 9 | [Y si peleamos](https://open.spotify.com/track/0JWgArA3FO5l0JQdi4d6O1) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Y si peleamos](https://open.spotify.com/album/1CpUVHEtxwsRB3KGiqnDVY) | 3:12 |
 | 10 | [Chaparrita \(Remix\)](https://open.spotify.com/track/1Du2rsAGiX1LcCegMomlFH) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G) | [Chaparrita \(Remix\)](https://open.spotify.com/album/6PrdKGA2ZSkdjEQBqWzxeV) | 4:26 |
 | 11 | [Flow Diferente](https://open.spotify.com/track/2KcL07oaGGoiXlvaB4bnen) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Flow Diferente](https://open.spotify.com/album/01GKrdP6K77Ajz3u1heJ7n) | 2:18 |
-| 12 | [klk klwa](https://open.spotify.com/track/3VU5D7slCHrUqyvxsiEcNf) | [geomafia](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh), [The Ozakis](https://open.spotify.com/artist/0x5KKxRIyIvaM5KQOdiLUS) | [klk klwa](https://open.spotify.com/album/5s2eURHjxbxfQ5OQ9cNvFI) | 2:43 |
+| 12 | [klk klwa](https://open.spotify.com/track/3VU5D7slCHrUqyvxsiEcNf) | [geomafia](https://open.spotify.com/artist/2mzrWihYniKXcK0vNi9UUh), [The Ozakis](https://open.spotify.com/artist/1v8YIG0I9MqWw9pSNAiEuV) | [klk klwa](https://open.spotify.com/album/5s2eURHjxbxfQ5OQ9cNvFI) | 2:43 |
 | 13 | [RIDIN](https://open.spotify.com/track/4D8EhdAPBtxxXWTwajdblG) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [RIDIN](https://open.spotify.com/album/0a2y9dUPmPCtTurd4jfEJg) | 2:00 |
 | 14 | [TE PUSISTE RIKA](https://open.spotify.com/track/0ohbpEBIsL2e9qTGqCeIhF) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [TE PUSISTE RIKA](https://open.spotify.com/album/1Zoffenney6GiazwagbHEg) | 2:39 |
 | 15 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |

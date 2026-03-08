@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Eileen Alister",
-  "num_followers": 37812,
+  "num_followers": 37811,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "difficult",
-        "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 156609,
-      "name": "difficult",
-      "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Des montagnes de toi",
         "url": "https://open.spotify.com/album/2YgOkEKH4iJbGz4SOwHEAe"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 181333,
       "name": "Des montagnes de toi",
       "url": "https://open.spotify.com/track/4SyrpjEFYjsYJKq2kNhzSs"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "difficult",
+        "url": "https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 156609,
+      "name": "difficult",
+      "url": "https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "fire",
-        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
-      },
-      "artists": [
-        {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
-        }
-      ],
-      "duration_ms": 135866,
-      "name": "fire",
-      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Enough",
         "url": "https://open.spotify.com/album/1gXNFFoqxKAFpjEQNoaD1A"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 214404,
       "name": "Fcuk!",
       "url": "https://open.spotify.com/track/0evmOxpkmNxaJGPPYSnPGm"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "fire",
+        "url": "https://open.spotify.com/album/1hgAohjAQrlGl43jp3gipc"
+      },
+      "artists": [
+        {
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+        }
+      ],
+      "duration_ms": 135866,
+      "name": "fire",
+      "url": "https://open.spotify.com/track/7odcXBYFpT2gzYBWBrKRlo"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "[fuck it]",
-        "url": "https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM"
+        "name": "As I Am",
+        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
       },
       "artists": [
         {
-          "name": "The Gardener & The Tree",
-          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
         }
       ],
-      "duration_ms": 174527,
-      "name": "[fuck it]",
-      "url": "https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj"
+      "duration_ms": 207307,
+      "name": "As I Am",
+      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -499,34 +499,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "As I Am",
-        "url": "https://open.spotify.com/album/3gUDZfZ8ySMiWT5zFINNuC"
+        "name": "[fuck it]",
+        "url": "https://open.spotify.com/album/1VZCMkCZf5N6yLr5jlMasM"
       },
       "artists": [
         {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+          "name": "The Gardener & The Tree",
+          "url": "https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN"
         }
       ],
-      "duration_ms": 207307,
-      "name": "As I Am",
-      "url": "https://open.spotify.com/track/0Si7p6lXTof0devKu3oISy"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
-        "name": "Heat",
-        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
-      },
-      "artists": [
-        {
-          "name": "Anna Rossinelli",
-          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
-        }
-      ],
-      "duration_ms": 163917,
-      "name": "Heat",
-      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
+      "duration_ms": 174527,
+      "name": "[fuck it]",
+      "url": "https://open.spotify.com/track/6pYDn2ulHzNFsqW2jXMCwj"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -543,6 +527,22 @@
       "duration_ms": 190000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Heat",
+        "url": "https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu"
+      },
+      "artists": [
+        {
+          "name": "Anna Rossinelli",
+          "url": "https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X"
+        }
+      ],
+      "duration_ms": 163917,
+      "name": "Heat",
+      "url": "https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -611,22 +611,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Full 180",
-        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 216249,
-      "name": "Full 180",
-      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Hear Me",
         "url": "https://open.spotify.com/album/4H4yvoBW8CEkKUZUXtmXZL"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 206102,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/5HqTsHkvjPtRSzv1i0CJ51"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Full 180",
+        "url": "https://open.spotify.com/album/3eieGX1EUezKzPNSdCtPER"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 216249,
+      "name": "Full 180",
+      "url": "https://open.spotify.com/track/62UNeZ8qIJ4INYevYoQadG"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -823,18 +823,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+        "name": "Maggie",
+        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
       },
       "artists": [
         {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
         }
       ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+      "duration_ms": 179617,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -855,18 +855,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Maggie",
-        "url": "https://open.spotify.com/album/527ETuK6j0NsH3ZlhdiUHp"
+        "name": "Young Bones",
+        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
       },
       "artists": [
         {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
         }
       ],
-      "duration_ms": 179617,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/71xZNB0u4MKxLKSo0vsIjk"
+      "duration_ms": 184880,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Young Bones",
-        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
       },
       "artists": [
         {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
         }
       ],
-      "duration_ms": 184880,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Million de Mois",
-        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 177376,
-      "name": "Million de Mois",
-      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 189310,
       "name": "Again",
       "url": "https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Million de Mois",
+        "url": "https://open.spotify.com/album/2dd0VBYJZpZb0tSrqrcg2D"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 177376,
+      "name": "Million de Mois",
+      "url": "https://open.spotify.com/track/3KM0f6MYQav0xwNwYKTpPI"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "homemade dynamite",
-        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 209415,
-      "name": "homemade dynamite",
-      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Dein Herz",
         "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 168610,
       "name": "Dein Herz",
       "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "homemade dynamite",
+        "url": "https://open.spotify.com/album/0uAEZ3O8vzbgHdKJqa5zvg"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 209415,
+      "name": "homemade dynamite",
+      "url": "https://open.spotify.com/track/2K9010FkmAfEBAqeFQzm2N"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        }
-      ],
-      "duration_ms": 164066,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/0oqpXtuxUCEbiIXnauFbXw"
       },
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/2cHXXBz5wRN0kNbU53sD7D"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        }
+      ],
+      "duration_ms": 164066,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/4wSKiYLFHTcG3HRXgbjNyI"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/5YSgMAS15Hai4c69Gfnzez"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 258014,
       "name": "Milk",
       "url": "https://open.spotify.com/track/3sFCKf3AsmHIPJPnkIg8PG"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 164851,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1155,18 +1139,34 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Trapped in the Middle",
-        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
+        "name": "Blue Rider, Blue Faced",
+        "url": "https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr"
       },
       "artists": [
         {
-          "name": "Joya Marleen",
-          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
+          "name": "Fiona Fiasco",
+          "url": "https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few"
         }
       ],
-      "duration_ms": 138443,
-      "name": "Trapped in the Middle",
-      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
+      "duration_ms": 205923,
+      "name": "Blue Rider, Blue Faced",
+      "url": "https://open.spotify.com/track/6HSuf0rKOtvGv1yhNSsBXK"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 164851,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Boyfriend Of The Year (Deluxe)",
-        "url": "https://open.spotify.com/album/2xXfmYITiAF4uYAWq9o68L"
+        "name": "Trapped in the Middle",
+        "url": "https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw"
       },
       "artists": [
         {
-          "name": "Jamila",
-          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
+          "name": "Joya Marleen",
+          "url": "https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb"
         }
       ],
-      "duration_ms": 177874,
-      "name": "Start All Over",
-      "url": "https://open.spotify.com/track/2MI2dyVKDCctQ9l0BnTZOG"
+      "duration_ms": 138443,
+      "name": "Trapped in the Middle",
+      "url": "https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
+        "name": "Hurting",
+        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Hurting",
+      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
         "name": "Down To My Bones",
         "url": "https://open.spotify.com/album/6qrZVY8wS9AiYjNaHTXreD"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Hurting",
-        "url": "https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap"
+        "name": "Boyfriend Of The Year (Deluxe)",
+        "url": "https://open.spotify.com/album/2xXfmYITiAF4uYAWq9o68L"
       },
       "artists": [
         {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+          "name": "Jamila",
+          "url": "https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Hurting",
-      "url": "https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH"
+      "duration_ms": 177874,
+      "name": "Start All Over",
+      "url": "https://open.spotify.com/track/2MI2dyVKDCctQ9l0BnTZOG"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1279,22 +1295,6 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
-        "name": "Blue Rider, Blue Faced",
-        "url": "https://open.spotify.com/album/5aMb0lWLkrRnwmc1eH3Llr"
-      },
-      "artists": [
-        {
-          "name": "Fiona Fiasco",
-          "url": "https://open.spotify.com/artist/77Sy5Zgnd5KHzbsqKW6few"
-        }
-      ],
-      "duration_ms": 205923,
-      "name": "Blue Rider, Blue Faced",
-      "url": "https://open.spotify.com/track/6HSuf0rKOtvGv1yhNSsBXK"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1347,38 +1347,6 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "i always remember all of my dreams",
-        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Amaru",
-          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "that life",
-      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
-        "name": "Echo",
-        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
-      },
-      "artists": [
-        {
-          "name": "Malumm\u00ed",
-          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
-        }
-      ],
-      "duration_ms": 175253,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c"
       },
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
+        "name": "i always remember all of my dreams",
+        "url": "https://open.spotify.com/album/5uul9EttWCRZtIkvxLwNwq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Amaru",
+          "url": "https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp"
+        }
+      ],
+      "duration_ms": 171800,
+      "name": "that life",
+      "url": "https://open.spotify.com/track/2h380v9zZM6kaarDPvijMk"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
         "name": "Good",
         "url": "https://open.spotify.com/album/17d8AeWoYu428twNlwtXjI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 227413,
       "name": "Good",
       "url": "https://open.spotify.com/track/22LulLIuYZS8qspHQeVi7w"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/6vVr05Pf0DhZZS76GNdu2n"
+      },
+      "artists": [
+        {
+          "name": "Malumm\u00ed",
+          "url": "https://open.spotify.com/artist/6dZYwSaKQKdDOro5lIHORl"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/3J2WDzUHrCNrPR8yVeRpFl"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+        "name": "You Better Get Used To It",
+        "url": "https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Pina Palau",
+          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
         }
       ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+      "duration_ms": 179519,
+      "name": "You See Me",
+      "url": "https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2026-03-05 23:00:29",
       "album": {
-        "name": "You Better Get Used To It",
-        "url": "https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
       },
       "artists": [
         {
-          "name": "Pina Palau",
-          "url": "https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP"
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
         }
       ],
-      "duration_ms": 179519,
-      "name": "You See Me",
-      "url": "https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At"
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1543,6 +1543,22 @@
       "duration_ms": 166982,
       "name": "closer somehow",
       "url": "https://open.spotify.com/track/68QCVINMRipIbGaqxhvPwo"
+    },
+    {
+      "added_at": "2026-03-05 23:00:29",
+      "album": {
+        "name": "Type Of Way",
+        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
+      },
+      "artists": [
+        {
+          "name": "Marlin",
+          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
+        }
+      ],
+      "duration_ms": 194750,
+      "name": "Type Of Way",
+      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-03-05 23:00:29",
@@ -1575,22 +1591,6 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-03-05 23:00:29",
-      "album": {
-        "name": "Type Of Way",
-        "url": "https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj"
-      },
-      "artists": [
-        {
-          "name": "Marlin",
-          "url": "https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG"
-        }
-      ],
-      "duration_ms": 194750,
-      "name": "Type Of Way",
-      "url": "https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV"
     },
     {
       "added_at": "2026-03-05 23:00:29",

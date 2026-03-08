@@ -4,7 +4,7 @@
 
 > The home for heavy music\. Cover: Split Chain
 
-705 songs - 1 day 18 hr 28 min
+706 songs - 1 day 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-03 | 2025-09-12 |
 | [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-17 | 2025-09-12 |
 | [Afraid Of The Dark](https://open.spotify.com/track/46odPfzMypgxCBMUPmdKxr) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Afraid Of The Dark](https://open.spotify.com/album/7e9ka8itzOI5qCIKXIyCy2) | 4:38 | 2026-01-30 |  |
-| [AFTERLIFE](https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [AFTERLIFE](https://open.spotify.com/album/29EcAXVqyiawfFLxNAr7dG) | 3:36 | 2025-10-23 |  |
+| [AFTERLIFE](https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb) | [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [AFTERLIFE](https://open.spotify.com/album/29EcAXVqyiawfFLxNAr7dG) | 3:36 | 2025-10-23 | 2026-03-08 |
 | [Afterlove](https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Afterlove](https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY) | 3:20 | 2024-11-22 | 2025-09-12 |
 | [Aimless](https://open.spotify.com/track/6V6r27N6KvM5VMyHfcwvvN) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Aimless](https://open.spotify.com/album/2nZTSSGr5nd7wAdkdL76mt) | 3:37 | 2025-03-26 | 2025-09-12 |
 | [AIN'T MY GAME](https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [AIN'T MY GAME](https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py) | 3:01 | 2025-10-03 | 2026-01-24 |
@@ -450,6 +450,7 @@
 | [No Loss, No Love](https://open.spotify.com/track/3be9lEoOwbDROZViutmSgd) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [No Loss, No Love](https://open.spotify.com/album/7BhHSUylWCFLbOahXAn74K) | 2:56 | 2025-02-07 | 2026-01-31 |
 | [NO LOVE BUT FOR OUR OWN](https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8) | [Speed](https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn) | [ONLY ONE MODE](https://open.spotify.com/album/6oAIXc1WpYw66bMdyYNcu9) | 2:52 | 2024-07-11 | 2025-09-12 |
 | [No Shame](https://open.spotify.com/track/7tEOucZMfYd1hnW1lN8dMd) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Whatever The Weather](https://open.spotify.com/album/4AGDYW1rAzimrnrahLHF6p) | 2:48 | 2024-10-04 | 2025-09-12 |
+| [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 | 2026-03-06 |  |
 | [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-02-07 | 2025-09-12 |
 | [Notion](https://open.spotify.com/track/5fnVNZotDRjpyoDohip3r9) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Notion](https://open.spotify.com/album/0Q3VYGJreWH7MNNZU1tbpo) | 3:15 | 2024-09-20 | 2025-09-12 |
 | [Novocaine](https://open.spotify.com/track/7ylI3Csj3EG4HPVf11L2jz) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp), [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [Novocaine](https://open.spotify.com/album/7dMhiwQNwLVNmqUdRCQ8My) | 4:55 | 2024-03-08 | 2025-10-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 
 > Music from the gaming series "Yakuza: Like a Dragon" \-「龍が如く8」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリストが登場
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,532 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,538 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40xbLWvaxZD.md) - [plain]
 | 39 | [恋のディスコクイーン](https://open.spotify.com/track/1ZaGUKgxlJs3Aqb4F52AYC) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side B\)](https://open.spotify.com/album/3xVRwuJMV19kLiGWKG0hUV) | 2:04 |
 | 40 | [怨魔の契り](https://open.spotify.com/track/6VIlYbDHOP8XbY1YFZIQX3) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [庄司 英徳](https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF) | [龍が如く0 誓いの場所 オリジナルサウンドトラック \(Side A\)](https://open.spotify.com/album/4nsbP5ew80FH1s5ocYCbQA) | 3:55 |
 | 41 | [Receive You The Hyperactive](https://open.spotify.com/track/5BD2DCf6SFAPdgGmUbP5h4) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [83key](https://open.spotify.com/artist/4nBsH2GSePetK23pAK70rZ), [庄司 英徳](https://open.spotify.com/artist/5HOu40y4JzaPi68Juxb7gF) | [龍が如く７ 光と闇の行方 ORIGINAL SOUNDTRACK](https://open.spotify.com/album/57dJZ3V3lwWfQp0vw84TE7) | 4:48 |
-| 42 | [JUDGEMENT\-審判\- \- Full Spec Edition](https://open.spotify.com/track/2wf2iF6yS4sYSQqJblt2O9) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 3:51 |
+| 42 | [JUDGEMENT\-審判\- \- Full Spec Edition](https://open.spotify.com/track/2wf2iF6yS4sYSQqJblt2O9) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 3:51 |
 | 43 | [24時間シンデレラ \- Full Spec Edition](https://open.spotify.com/track/5cWxbtuack9EjQyqXYEErq) | [真島吾朗\(宇垣秀成\)](https://open.spotify.com/artist/2zVL188G4nA4K7JtwwkULn) | [真島吾朗 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/0vDgbOvtqmjdJCcKzN8p5w) | 4:11 |
-| 44 | [MachineGun Kiss \- Full Spec Edition](https://open.spotify.com/track/4EwzzGCJncxHcOLwyppWTz) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:30 |
+| 44 | [MachineGun Kiss \- Full Spec Edition](https://open.spotify.com/track/4EwzzGCJncxHcOLwyppWTz) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:30 |
 | 45 | [さよならSilent Night \- Full Spec Edition](https://open.spotify.com/track/5GC4TP7C9zymJ6zc2mfnik) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [龍が如く7 外伝 名を消した男 Original Soundtrack](https://open.spotify.com/album/18UMqkCfW8jvNIjVcntBZW) | 5:08 |
 | 46 | [KONNANじゃないっ!](https://open.spotify.com/track/2X25prwE8bL2SHJkdGLxYX) | [澤村 遥\(釘宮理恵\)](https://open.spotify.com/artist/3n3yQs1qBmKQu2i4zgLaZ3) | [龍が如く5 夢、叶えし者 オリジナルサウンドトラック \(Vol.2\)](https://open.spotify.com/album/2LOEdcLPOKogbsk6uJdihq) | 5:10 |
 | 47 | [Like A Butterfly \- Red Eyes Edition](https://open.spotify.com/track/3RylitdAdXZhW9d6Qx7fpN) | [赤目\(ファーストサマーウイカ\)](https://open.spotify.com/artist/2e4m0NkcJGhZJY1gflbjSZ) | [龍が如く7 外伝 名を消した男 Original Soundtrack](https://open.spotify.com/album/18UMqkCfW8jvNIjVcntBZW) | 4:08 |
 | 48 | [悪魔の地獄鍋 \- Full Spec Edition](https://open.spotify.com/track/4hv3C2dBdZ2mGBMwTDU34r) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS) | [龍が如く7 カラオケ新曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb) | 4:25 |
 | 49 | [夢見た姿へ \- Full Spec Edition](https://open.spotify.com/track/0iAuMGZXdibcXPMbTgDhfj) | [春日一番\(中谷一博\)](https://open.spotify.com/artist/2STZnJDjAUm8VoELOCW7HS) | [龍が如く7 カラオケ新曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/2jshSvMBzHKtD5mjrqp0Nb) | 3:44 |
-| 50 | [ばかみたい \- Taxi Driver Edition](https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:51 |
+| 50 | [ばかみたい \- Taxi Driver Edition](https://open.spotify.com/track/6z3Yfhf2btFUDBuG2s2yhW) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [桐生一馬 カラオケ定番曲コレクション\(龍が如く7 光と闇の行方\)](https://open.spotify.com/album/4ynD53oRoOMXqcUM0TlzVD) | 4:51 |
 
 Snapshot ID: `AAAAAKq8nmEscpCmUBHgIET6z+CBVulz`

@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: JOan Manuell Serrat.",
-  "num_followers": 348703,
+  "num_followers": 348733,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "30 a\u00f1os",
-        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264197,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Luna nueva",
         "url": "https://open.spotify.com/album/06wdTbvLdXkO7dC2TdrzUd"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Logo",
-        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+        "name": "30 a\u00f1os",
+        "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
         }
       ],
-      "duration_ms": 244933,
-      "name": "Anoche So\u00f1\u00e9 Contigo",
-      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
+      "duration_ms": 264197,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -719,6 +703,22 @@
       "duration_ms": 152906,
       "name": "Yo no soy esa",
       "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "Logo",
+        "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 244933,
+      "name": "Anoche So\u00f1\u00e9 Contigo",
+      "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "San Jos\u00e9, Almer\u00eda",
-        "url": "https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "San Jos\u00e9, Almer\u00eda",
-      "url": "https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Mujeres de Fina Estampa",
         "url": "https://open.spotify.com/album/5YmzTZ5AVgpJmKLTfSviCF"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "San Jos\u00e9, Almer\u00eda",
+        "url": "https://open.spotify.com/album/3K7yTOr0HcWK0ar43zC1tH"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        }
+      ],
+      "duration_ms": 222746,
+      "name": "San Jos\u00e9, Almer\u00eda",
+      "url": "https://open.spotify.com/track/14KTHyfbq3kEATrTKblhg9"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Cerezos en flor",
-        "url": "https://open.spotify.com/album/3SPCK1KljQ4LeyxaDFYZOc"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 190788,
-      "name": "La niebla",
-      "url": "https://open.spotify.com/track/0gjTieZUtFOxmiQEj9E4vc"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 240000,
       "name": "Agua",
       "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "Cerezos en flor",
+        "url": "https://open.spotify.com/album/3SPCK1KljQ4LeyxaDFYZOc"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 190788,
+      "name": "La niebla",
+      "url": "https://open.spotify.com/track/0gjTieZUtFOxmiQEj9E4vc"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
         "name": "Ef\u00edmera",
         "url": "https://open.spotify.com/album/76zI7H8SmY6myHlHdWQKJS"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 181825,
       "name": "Quererte",
       "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Mar\u00eda la portuguesa",
-      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2026-03-05 23:00:36",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-03-05 23:00:36",
       "album": {
-        "name": "Pensando en ti",
-        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 195537,
-      "name": "Pensando en ti",
-      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
-    },
-    {
-      "added_at": "2026-03-05 23:00:36",
-      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 157386,
       "name": "Contigo en la Distancia",
       "url": "https://open.spotify.com/track/7820J99MJU42DADC6DsMfh"
+    },
+    {
+      "added_at": "2026-03-05 23:00:36",
+      "album": {
+        "name": "Pensando en ti",
+        "url": "https://open.spotify.com/album/0eLoO935VNMY86isjkZfEe"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 195537,
+      "name": "Pensando en ti",
+      "url": "https://open.spotify.com/track/2u9PuocHGoekwh0lQE6ez4"
     },
     {
       "added_at": "2026-03-05 23:00:36",

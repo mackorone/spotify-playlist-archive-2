@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 45733,
+  "num_followers": 45972,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
+      },
+      "artists": [
+        {
+          "name": "Karla Blum",
+          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+        }
+      ],
+      "duration_ms": 181714,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
         "name": "FU In My Head (Dirty Version)",
         "url": "https://open.spotify.com/album/2amIiVugmAdVVSv7NxgIXe"
       },
@@ -351,22 +367,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
-      },
-      "artists": [
-        {
-          "name": "Tiffany Aris",
-          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Heart's Desire",
         "url": "https://open.spotify.com/album/67FT3edp04m0M8CpPWZXuc"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
       },
       "artists": [
         {
-          "name": "Karla Blum",
-          "url": "https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO"
+          "name": "Tiffany Aris",
+          "url": "https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+      "duration_ms": 139000,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -431,18 +431,18 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "massenschl\u00e4gerei",
-        "url": "https://open.spotify.com/album/3A9ZZyI7nsnBoxpW9Tawe4"
+        "name": "TWIN",
+        "url": "https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh"
       },
       "artists": [
         {
-          "name": "yola",
-          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+          "name": "Rubi",
+          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
         }
       ],
-      "duration_ms": 164724,
-      "name": "massenschl\u00e4gerei",
-      "url": "https://open.spotify.com/track/58bDYyl7yNXx3QBTXNjGD7"
+      "duration_ms": 112980,
+      "name": "TWIN",
+      "url": "https://open.spotify.com/track/6TlMfzlLPrOsSK2rpVOEPm"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "TWIN",
-        "url": "https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh"
+        "name": "massenschl\u00e4gerei",
+        "url": "https://open.spotify.com/album/3A9ZZyI7nsnBoxpW9Tawe4"
       },
       "artists": [
         {
-          "name": "Rubi",
-          "url": "https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2"
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
         }
       ],
-      "duration_ms": 112980,
-      "name": "TWIN",
-      "url": "https://open.spotify.com/track/6TlMfzlLPrOsSK2rpVOEPm"
+      "duration_ms": 164724,
+      "name": "massenschl\u00e4gerei",
+      "url": "https://open.spotify.com/track/58bDYyl7yNXx3QBTXNjGD7"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
+        "name": "venedig",
+        "url": "https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd"
+      },
+      "artists": [
+        {
+          "name": "Caro Schaeffler",
+          "url": "https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB"
+        }
+      ],
+      "duration_ms": 205389,
+      "name": "venedig",
+      "url": "https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
         "name": "ZICKZACK",
         "url": "https://open.spotify.com/album/46vocArEiFAjtgffnrUp73"
       },
@@ -595,22 +611,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "venedig",
-        "url": "https://open.spotify.com/album/2ZOgyyUsVRtsg8IM5su8Hd"
-      },
-      "artists": [
-        {
-          "name": "Caro Schaeffler",
-          "url": "https://open.spotify.com/artist/0HOgHNCucycZ7DUyWjFhNB"
-        }
-      ],
-      "duration_ms": 205389,
-      "name": "venedig",
-      "url": "https://open.spotify.com/track/6wtaikaFM89NrXfXvKYTYv"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Nike Shox",
         "url": "https://open.spotify.com/album/1O4OQRbrXJxRM6Q8zb4lcL"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 171428,
       "name": "Nike Shox",
       "url": "https://open.spotify.com/track/7snTBRoLMEtNVsIhrliPjO"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
-        "name": "MEER",
-        "url": "https://open.spotify.com/album/1EGSQlGxOxYbZfHZU9EG4v"
-      },
-      "artists": [
-        {
-          "name": "ENNI",
-          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
-        }
-      ],
-      "duration_ms": 125208,
-      "name": "MEER",
-      "url": "https://open.spotify.com/track/64S9AfNoT9Ru73N9kmS2u3"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -659,18 +643,18 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Wenn ich du w\u00e4re",
-        "url": "https://open.spotify.com/album/5KENc1diJ6AMquXmUkhyGE"
+        "name": "MEER",
+        "url": "https://open.spotify.com/album/1EGSQlGxOxYbZfHZU9EG4v"
       },
       "artists": [
         {
-          "name": "LARYSSA",
-          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
+          "name": "ENNI",
+          "url": "https://open.spotify.com/artist/1xfDtBGP0PhXYiFJXbfudW"
         }
       ],
-      "duration_ms": 141272,
-      "name": "Wenn ich du w\u00e4re",
-      "url": "https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca"
+      "duration_ms": 125208,
+      "name": "MEER",
+      "url": "https://open.spotify.com/track/64S9AfNoT9Ru73N9kmS2u3"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -687,6 +671,22 @@
       "duration_ms": 110875,
       "name": "Tiger",
       "url": "https://open.spotify.com/track/0KFXKZvilUouJaTQUl4Mg6"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "Wenn ich du w\u00e4re",
+        "url": "https://open.spotify.com/album/5KENc1diJ6AMquXmUkhyGE"
+      },
+      "artists": [
+        {
+          "name": "LARYSSA",
+          "url": "https://open.spotify.com/artist/6PDF2Plzpbcd21czXbH6pa"
+        }
+      ],
+      "duration_ms": 141272,
+      "name": "Wenn ich du w\u00e4re",
+      "url": "https://open.spotify.com/track/5PuU9r35GQIISF2WkywOca"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "Not Bad For A Girl",
-        "url": "https://open.spotify.com/album/2MoayCbZxBRV8FRpY11Yga"
-      },
-      "artists": [
-        {
-          "name": "Ella Eliza",
-          "url": "https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Not Bad For A Girl",
-      "url": "https://open.spotify.com/track/5WKUQ6S8XdaZQA9aBXDCuD"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "sonnenmond",
         "url": "https://open.spotify.com/album/50YpoQu7b1nw0GEzdZ1sgN"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 160773,
       "name": "sonnenmond",
       "url": "https://open.spotify.com/track/1eGgZDFHdG7wSpOSiCsBC8"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "Not Bad For A Girl",
+        "url": "https://open.spotify.com/album/2MoayCbZxBRV8FRpY11Yga"
+      },
+      "artists": [
+        {
+          "name": "Ella Eliza",
+          "url": "https://open.spotify.com/artist/536exPivinhENIIxKTKZKQ"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Not Bad For A Girl",
+      "url": "https://open.spotify.com/track/5WKUQ6S8XdaZQA9aBXDCuD"
     },
     {
       "added_at": "2026-03-06 09:09:52",

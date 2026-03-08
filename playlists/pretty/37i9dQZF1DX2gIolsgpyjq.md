@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: MYKKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,236 likes - 135 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,241 likes - 135 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

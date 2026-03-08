@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover: Kalyn Fay
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,820 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,849 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Varnado](https://open.spotify.com/track/78ctqi5omDE6dJJ1AQNtub) | [Adam Hood](https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk) | [Varnado](https://open.spotify.com/album/1uhS0UMkjr0g9zCNHgrFNU) | 4:02 |
 | 100 | [Love Is A Place](https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Love Is A Place](https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE) | 3:05 |
 
-Snapshot ID: `AAAAAMXwi2MlWHCQKKMWLFdW+d/8kMqj`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

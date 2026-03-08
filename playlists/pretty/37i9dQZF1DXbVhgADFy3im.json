@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1237570,
+  "num_followers": 1238345,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
+        "name": "Winning Speech",
+        "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Seshnolan",
+          "url": "https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN"
+        }
+      ],
+      "duration_ms": 227441,
+      "name": "Winning Speech",
+      "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
         "name": "Sang Rahiyo",
         "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
       },
@@ -1031,26 +1051,6 @@
       "duration_ms": 213288,
       "name": "Sang Rahiyo",
       "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
-        "name": "Winning Speech",
-        "url": "https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC"
-      },
-      "artists": [
-        {
-          "name": "Karan Aujla",
-          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
-        },
-        {
-          "name": "Seshnolan",
-          "url": "https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN"
-        }
-      ],
-      "duration_ms": 227441,
-      "name": "Winning Speech",
-      "url": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ"
     },
     {
       "added_at": "2026-03-05 12:29:42",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
-        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
-        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
-      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
         "name": "Making Memories",
         "url": "https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 155161,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
+        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
     },
     {
       "added_at": "2026-03-05 12:29:42",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
-        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Jyotica Tangri",
-          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
-        }
-      ],
-      "duration_ms": 281856,
-      "name": "O Meri Laila",
-      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
         "name": "Bachna Ae Haseeno",
         "url": "https://open.spotify.com/album/4mFLdK8SkUo3cx8ERLQC92"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 333583,
       "name": "Khuda Jaane",
       "url": "https://open.spotify.com/track/0gPgdRfB4jdGrlyXS0Vx78"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
+        "name": "Laila Majnu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Jyotica Tangri",
+          "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        }
+      ],
+      "duration_ms": 281856,
+      "name": "O Meri Laila",
+      "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
     },
     {
       "added_at": "2026-03-05 12:29:42",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
-        "name": "YRF Top 10 - Falling in Love",
-        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 260536,
-      "name": "Dil Diyan Gallan",
-      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
         "name": "Andaaz e Karam",
         "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
       },
@@ -1407,6 +1391,22 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
+        "name": "YRF Top 10 - Falling in Love",
+        "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 260536,
+      "name": "Dil Diyan Gallan",
+      "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
         "name": "Kithe Reh Gaya",
         "url": "https://open.spotify.com/album/3oQOPTv98c46WJTZtR1XBK"
       },
@@ -1423,6 +1423,30 @@
       "duration_ms": 215225,
       "name": "Kithe Reh Gaya",
       "url": "https://open.spotify.com/track/7oONSa0G2CvYQ0I7G02kgi"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
+        "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
+        "url": "https://open.spotify.com/album/68OViDFFwerfn315fcwwwl"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prasad S",
+          "url": "https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "duration_ms": 232568,
+      "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
+      "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
     },
     {
       "added_at": "2026-03-05 12:29:42",
@@ -1455,50 +1479,6 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
-        "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
-        "url": "https://open.spotify.com/album/68OViDFFwerfn315fcwwwl"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Prasad S",
-          "url": "https://open.spotify.com/artist/1bC9tQ3AM7JQfK6VfzfZLI"
-        },
-        {
-          "name": "Kunaal Vermaa",
-          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-        }
-      ],
-      "duration_ms": 232568,
-      "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
-      "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
-        "name": "O Saathi (From \"Baaghi 2\")",
-        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        }
-      ],
-      "duration_ms": 251818,
-      "name": "O Saathi",
-      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
         "name": "Yeh Jawaani Hai Deewani",
         "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
       },
@@ -1523,6 +1503,42 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
+        "name": "O Saathi (From \"Baaghi 2\")",
+        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "O Saathi",
+      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
+        "name": "Tere Bina Na Guzara E",
+        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
+      },
+      "artists": [
+        {
+          "name": "Josh Brar",
+          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Tere Bina Na Guzara E",
+      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
+    },
+    {
+      "added_at": "2026-03-05 12:29:42",
+      "album": {
         "name": "Mirzapur",
         "url": "https://open.spotify.com/album/1m7HJi4LyJDQAUhFCoRRiC"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 350739,
       "name": "Vaaroon",
       "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
-    },
-    {
-      "added_at": "2026-03-05 12:29:42",
-      "album": {
-        "name": "Tere Bina Na Guzara E",
-        "url": "https://open.spotify.com/album/2F1gMtjzItjOoTMgp9qakV"
-      },
-      "artists": [
-        {
-          "name": "Josh Brar",
-          "url": "https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Tere Bina Na Guzara E",
-      "url": "https://open.spotify.com/track/0NXnuTqFQHDsbEIoKIAVCN"
     },
     {
       "added_at": "2026-03-05 12:29:42",
@@ -1635,26 +1635,26 @@
     {
       "added_at": "2026-03-05 12:29:42",
       "album": {
-        "name": "WITHOUT PREJUDICE",
-        "url": "https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi"
+        "name": "Heeriye (feat. Arijit Singh)",
+        "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
       },
       "artists": [
         {
-          "name": "Guru Randhawa",
-          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
         },
         {
-          "name": "Sanjoy",
-          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Gill Machhrai",
-          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+          "name": "Dulquer Salmaan",
+          "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Qatal",
-      "url": "https://open.spotify.com/track/5FDVyL6VahLO3B4T7xRYD9"
+      "duration_ms": 194857,
+      "name": "Heeriye (feat. Arijit Singh)",
+      "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
     }
   ],
   "unique_name": "Trending Now India",

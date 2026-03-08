@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Vimbs Mavimbs",
-  "num_followers": 12941,
+  "num_followers": 12946,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -427,18 +427,22 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Our People",
-        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
+        "name": "The Y-Factor Project",
+        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
       "artists": [
         {
-          "name": "NLite.",
-          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
+          "name": "Billy Monama",
+          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
+        },
+        {
+          "name": "MoAfrika Wa Mokgathi",
+          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
         }
       ],
-      "duration_ms": 199480,
-      "name": "Our People",
-      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
+      "duration_ms": 258920,
+      "name": "Elusive Freedom",
+      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -459,22 +463,18 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "The Y-Factor Project",
-        "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
+        "name": "Our People",
+        "url": "https://open.spotify.com/album/2wyTG0UqnHXTJ4FffxJ9PS"
       },
       "artists": [
         {
-          "name": "Billy Monama",
-          "url": "https://open.spotify.com/artist/6EEx5rAGr364qfmgHHOf9m"
-        },
-        {
-          "name": "MoAfrika Wa Mokgathi",
-          "url": "https://open.spotify.com/artist/11bbCo2uUJXVimYJOrEJrs"
+          "name": "NLite.",
+          "url": "https://open.spotify.com/artist/1LtjSJhBTIHe7auEuEg7VZ"
         }
       ],
-      "duration_ms": 258920,
-      "name": "Elusive Freedom",
-      "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+      "duration_ms": 199480,
+      "name": "Our People",
+      "url": "https://open.spotify.com/track/4knK9nXhnH4k01cVOo33jj"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -679,26 +679,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Tones of Epiphany",
-        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
-      },
-      "artists": [
-        {
-          "name": "Zu.",
-          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
-        },
-        {
-          "name": "Zuko Collective",
-          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
-        }
-      ],
-      "duration_ms": 362790,
-      "name": "The Aha Moment",
-      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3s5eLz0oFuLKU6O0lo3mBH"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 304495,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1nsUHf6IzILt5Vh5UCDVrH"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "Tones of Epiphany",
+        "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
+      },
+      "artists": [
+        {
+          "name": "Zu.",
+          "url": "https://open.spotify.com/artist/1CQAguK72YsRMOjz1ECeqq"
+        },
+        {
+          "name": "Zuko Collective",
+          "url": "https://open.spotify.com/artist/7ES5SeD9pzZlWsStxrVUMK"
+        }
+      ],
+      "duration_ms": 362790,
+      "name": "The Aha Moment",
+      "url": "https://open.spotify.com/track/5DCuEzR8CjK94M2DWwKygy"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -747,34 +747,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Njia",
-        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
-      },
-      "artists": [
-        {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
-        },
-        {
-          "name": "Jonno Sweetman",
-          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
-        },
-        {
-          "name": "Gontse Makhene",
-          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
-        },
-        {
-          "name": "Micca Manganye",
-          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
-        }
-      ],
-      "duration_ms": 113750,
-      "name": "Njia",
-      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Homecoming (Part 1) [Revisited]",
         "url": "https://open.spotify.com/album/3L92zDOHjNuj33K1jWZJjT"
       },
@@ -799,6 +771,34 @@
       "duration_ms": 371396,
       "name": "Homecoming (Part 1) - Revisited",
       "url": "https://open.spotify.com/track/1S62PSTgmuEycOj5qJvjOH"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "Njia",
+        "url": "https://open.spotify.com/album/7IYWPcAgxfOe7xPwAFti5w"
+      },
+      "artists": [
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Jonno Sweetman",
+          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
+        },
+        {
+          "name": "Gontse Makhene",
+          "url": "https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD"
+        },
+        {
+          "name": "Micca Manganye",
+          "url": "https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae"
+        }
+      ],
+      "duration_ms": 113750,
+      "name": "Njia",
+      "url": "https://open.spotify.com/track/6tmedtkicLtB4uJKuc2spW"
     },
     {
       "added_at": "2026-02-13 11:57:24",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
-        "name": "Africa",
-        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
-      },
-      "artists": [
-        {
-          "name": "Lucas Senyatso",
-          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
-        }
-      ],
-      "duration_ms": 236202,
-      "name": "Africa",
-      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
         "name": "Born Coloured, not Born-Free",
         "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
       },
@@ -903,6 +887,38 @@
     {
       "added_at": "2026-02-13 11:57:24",
       "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/7GcqgHF7SmQUnbxuYMIV1E"
+      },
+      "artists": [
+        {
+          "name": "Lucas Senyatso",
+          "url": "https://open.spotify.com/artist/1JDBWTfLGnDr23BYeQWjAy"
+        }
+      ],
+      "duration_ms": 236202,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/1nHEaAGVdy0VUFrA88FwGP"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
+        "name": "MaBrrrrrrrrr",
+        "url": "https://open.spotify.com/album/3RW0JPlmVfKYSXZEvg3ICs"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 296678,
+      "name": "MaBrrrrrrrrr",
+      "url": "https://open.spotify.com/track/0k6nNPe8JO0P2Z9ndX3IeZ"
+    },
+    {
+      "added_at": "2026-02-13 11:57:24",
+      "album": {
         "name": "IZIBONGO",
         "url": "https://open.spotify.com/album/7gVaa0qRHW4ZNaSGDqkEWg"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 412966,
       "name": "Words",
       "url": "https://open.spotify.com/track/4sstxwYHtvwJqTfvgZ0rBZ"
-    },
-    {
-      "added_at": "2026-02-13 11:57:24",
-      "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     }
   ],
   "unique_name": "Jazz NXT",

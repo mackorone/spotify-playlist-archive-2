@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,067 likes - 21 songs - 1 hr 20 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 13,074 likes - 21 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 4 | [Pay No Mind](https://open.spotify.com/track/2HhN18PFJfkt6uH3Jxhz5a) | [Weird Nightmare](https://open.spotify.com/artist/2dRm7hmP96rgIGGGX1wiLc) | [Pay No Mind](https://open.spotify.com/album/1Njy3hDJbiDqdl9RUPVi5n) | 2:36 |
 | 5 | [I Wanna Feel Pretty](https://open.spotify.com/track/1cgEbfMat1B3PjXuWg5XeS) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [I Wanna Feel Pretty](https://open.spotify.com/album/0u6XQFs7LncOiZGbwLbb4w) | 2:03 |
 | 6 | [Sunday Morning](https://open.spotify.com/track/3K5275d1yQMVf0RjtsX9LD) | [Beth Gibbons](https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 4:49 |
-| 7 | [Angel](https://open.spotify.com/track/6SKnEaNjOvDtJbCwxjU4gN) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:13 |
+| 7 | [Angel](https://open.spotify.com/track/6SKnEaNjOvDtJbCwxjU4gN) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE), [Antony Genn](https://open.spotify.com/artist/0havfeAeChSqpSggNGyysW), [Martin Slattery](https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp), [The Immortal Man](https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs) | [Peaky Blinders \- The Immortal Man \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/1apuF76Of8Klo1V1E5uZ3X) | 4:13 |
 | 8 | [Dropped Down The Well](https://open.spotify.com/track/0HZk6tx9agpLwiknkqTW7f) | [MEMORIALS](https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP) | [Dropped Down The Well](https://open.spotify.com/album/1dkhzfaDCv3Nin7SiL75nZ) | 4:30 |
 | 9 | [Sorry Anyway](https://open.spotify.com/track/1S1SdxTcqD6eZ5qmWG3jjl) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq) | [Sorry Anyway](https://open.spotify.com/album/4JRcStZ2ekVd5m3vllWDI4) | 4:24 |
 | 10 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |

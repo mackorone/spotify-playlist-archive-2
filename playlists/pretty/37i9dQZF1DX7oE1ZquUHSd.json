@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 222742,
+  "num_followers": 222817,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Sincopa",
         "url": "https://open.spotify.com/album/6XpSHxvcHf2VbRpDnMN091"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 293346,
       "name": "Volar Volar",
       "url": "https://open.spotify.com/track/4pxigeVSDmHxM2gLQmVVH0"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Faruz Fit, Vol. 1",
+        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 204214,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 248000,
       "name": "Tardes",
       "url": "https://open.spotify.com/track/3Y5jrneE5ErAfidBuofcKJ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Faruz Fit, Vol. 1",
-        "url": "https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 204214,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -931,6 +931,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Lujo Ib\u00e9rico",
+        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
+      },
+      "artists": [
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Tengo Un Trato",
+      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Verte Cerquita",
         "url": "https://open.spotify.com/album/77Q12SIPTgFOPBZ2qRR1Kv"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Lujo Ib\u00e9rico",
-        "url": "https://open.spotify.com/album/52zw3rWRaKV94g7KSjlbrx"
-      },
-      "artists": [
-        {
-          "name": "Mala Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Tengo Un Trato",
-      "url": "https://open.spotify.com/track/3sg4RFemnrzSDr0LpaxqCy"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Apaga el celular",
         "url": "https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK"
       },
@@ -987,22 +987,6 @@
       "duration_ms": 225942,
       "name": "Apaga el Celular",
       "url": "https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "C\u00edrculo Vicioso",
-        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
-      },
-      "artists": [
-        {
-          "name": "Granuja",
-          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
-        }
-      ],
-      "duration_ms": 263023,
-      "name": "De Pe a Pa",
-      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1027,22 +1011,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "El Tiempo Cura",
-        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+        "name": "C\u00edrculo Vicioso",
+        "url": "https://open.spotify.com/album/31HSq8pOXZCts7GqWXTRU1"
       },
       "artists": [
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Adan Golden Ganga",
-          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
         }
       ],
-      "duration_ms": 208564,
-      "name": "El Tiempo Cura",
-      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+      "duration_ms": 263023,
+      "name": "De Pe a Pa",
+      "url": "https://open.spotify.com/track/77ozYKcoGc9Cc6M9wRZH9d"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1059,6 +1039,26 @@
       "duration_ms": 245958,
       "name": "Minotauro",
       "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "El Tiempo Cura",
+        "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        }
+      ],
+      "duration_ms": 208564,
+      "name": "El Tiempo Cura",
+      "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Me\u00f1iques",
-      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Los Grandes \u00c9xitos En Espa\u00f1ol (Spanish Greatest Hits)",
         "url": "https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 178533,
       "name": "Dr. Dedoverde (Dr. Greenthumb) - Spanish Version",
       "url": "https://open.spotify.com/track/27ccZxdrx3VbCTUXI433OO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
+      },
+      "artists": [
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Me\u00f1iques",
+      "url": "https://open.spotify.com/track/1WL1tQMLFYL1abzN5U3Bl2"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
-      },
-      "artists": [
-        {
-          "name": "Simpson Ahuevo",
-          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
-        }
-      ],
-      "duration_ms": 159007,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Mis Disculpas",
         "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
-        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
       },
       "artists": [
         {
-          "name": "Rafael Lechowski",
-          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
-        },
-        {
-          "name": "Gla\u00e7",
-          "url": "https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm"
+          "name": "Simpson Ahuevo",
+          "url": "https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw"
         }
       ],
-      "duration_ms": 438706,
-      "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
-      "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
+      "duration_ms": 159007,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1259,6 +1239,26 @@
       "duration_ms": 305454,
       "name": "R\u00e9plica",
       "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
+        "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
+      },
+      "artists": [
+        {
+          "name": "Rafael Lechowski",
+          "url": "https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3"
+        },
+        {
+          "name": "Gla\u00e7",
+          "url": "https://open.spotify.com/artist/15hd9Fica9zjDslWUJUKgm"
+        }
+      ],
+      "duration_ms": 438706,
+      "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
+      "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "No Tengo Nada",
+        "url": "https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "No Tengo Nada",
+      "url": "https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Alma Coraz\u00f3n Y Vida",
         "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 790440,
       "name": "Anochece / Manifiesto",
       "url": "https://open.spotify.com/track/1EnpICfLSoEqih0r6wkUEx"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "No Tengo Nada",
-        "url": "https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "McKlopedia",
-          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "No Tengo Nada",
-      "url": "https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "In Tha House",
-        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
-      },
-      "artists": [
-        {
-          "name": "Cuarto Poder",
-          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "Arenita Playita (feat. Eska)",
-      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "1 2 3",
         "url": "https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 124891,
       "name": "1 2 3",
       "url": "https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "In Tha House",
+        "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
+      },
+      "artists": [
+        {
+          "name": "Cuarto Poder",
+          "url": "https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "Arenita Playita (feat. Eska)",
+      "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
     },
     {
       "added_at": "2024-07-12 18:46:41",

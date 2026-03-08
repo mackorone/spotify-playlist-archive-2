@@ -1,6 +1,6 @@
 {
   "description": "A playlist of some of our favorite new songs, updated weekly. See our archived playlists for songs from previous weeks.",
-  "num_followers": 13067,
+  "num_followers": 13074,
   "original_name": "BrooklynVegan's Favorite Songs of the Week",
   "owner": {
     "name": "BrooklynVegan",
@@ -126,6 +126,10 @@
         {
           "name": "Martin Slattery",
           "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        },
+        {
+          "name": "The Immortal Man",
+          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
         }
       ],
       "duration_ms": 253415,

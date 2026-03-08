@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Harry Styles, Ramlah Ram, Dayang Nurfaizah, Aisha Retno, Sarah Suhairi,  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,255 likes - 118 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,262 likes - 118 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 16 | [Inikan Hari Raya](https://open.spotify.com/track/0oxDxJYDBgzCjfdWLsC5JT) | [Syasya Rizal](https://open.spotify.com/artist/5v6OyN4JnkVwba9Rd83ozu) | [Inikan Hari Raya](https://open.spotify.com/album/4d0krlTx2K75hVUy5VblUv) | 2:41 |
 | 17 | [LOVE, LOVE, LOVE](https://open.spotify.com/track/3j49aLXWWkbjQyUyvngokI) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [LOVE, LOVE, LOVE](https://open.spotify.com/album/1blSqiJB7glrGiCVEQZG3f) | 4:02 |
 | 18 | [Where Do We Go](https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Where Do We Go](https://open.spotify.com/album/22G67mCJChTPDKcEan8LOh) | 2:56 |
-| 19 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 19 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 20 | [Best Part Of Raya](https://open.spotify.com/track/5eEvygwXmaZ8IrMsxpgXuz) | [Najmi Niery](https://open.spotify.com/artist/65QCOKdpwe4cd7ksqsHsnT), [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Best Part Of Raya](https://open.spotify.com/album/3KqXXTFxQbs9cBVud8onRP) | 2:24 |
 | 21 | [Sayang Raya](https://open.spotify.com/track/5P4K9wN1xDhkiK9rEdzVSg) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Sandrina](https://open.spotify.com/artist/7j2KcU3ogpP9jtAsomBNwA) | [Sayang Raya](https://open.spotify.com/album/0YO777OcI8qNO7O41auqHH) | 3:04 |
 | 22 | [KEEP MOVING](https://open.spotify.com/track/3pgbWxT2KTAOdqFwY2rPwp) | [Atta Music](https://open.spotify.com/artist/03gm5A8C3DLE8LmTRdNp67), [TUJULOCA](https://open.spotify.com/artist/2XSkJRHmtC3SzHchT6Qwl3) | [KEEP MOVING](https://open.spotify.com/album/0tc0gxvgf0NtbGRgz1IQJU) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Dancing to electro-pop like a robot from 1984. Cover: Bronski Beat",
-  "num_followers": 205172,
+  "num_followers": 205270,
   "original_name": "Synthpop Classics ",
   "owner": {
     "name": "Spotify",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B"
+        "name": "Construction Time Again",
+        "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
       },
       "artists": [
         {
-          "name": "A Flock Of Seagulls",
-          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 330960,
-      "name": "Wishing (If I Had a Photograph of You)",
-      "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
+      "duration_ms": 261053,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "Construction Time Again",
-        "url": "https://open.spotify.com/album/4PACSjpgl1unuvybxtiZqo"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/3rZuJ5oWUJGLmJLpvILp1B"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "A Flock Of Seagulls",
+          "url": "https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt"
         }
       ],
-      "duration_ms": 261053,
-      "name": "Everything Counts",
-      "url": "https://open.spotify.com/track/1mb5bblw96UieIjCPlWyEw"
+      "duration_ms": 330960,
+      "name": "Wishing (If I Had a Photograph of You)",
+      "url": "https://open.spotify.com/track/6bJhaEuaDpObzFOrsOejlJ"
     },
     {
       "added_at": "2024-07-09 02:45:34",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-09 02:45:34",
       "album": {
-        "name": "The Pleasure Principle",
-        "url": "https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt"
-      },
-      "artists": [
-        {
-          "name": "Gary Numan",
-          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
-        }
-      ],
-      "duration_ms": 238906,
-      "name": "Cars",
-      "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
-    },
-    {
-      "added_at": "2024-07-09 02:45:34",
-      "album": {
         "name": "Into The Gap",
         "url": "https://open.spotify.com/album/0jcUegqpKCfHQ8va6aWwv0"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 286666,
       "name": "Hold Me Now",
       "url": "https://open.spotify.com/track/0BJU4rYOfj43xHw6gvTIwE"
+    },
+    {
+      "added_at": "2024-07-09 02:45:34",
+      "album": {
+        "name": "The Pleasure Principle",
+        "url": "https://open.spotify.com/album/6wHjdKs7VVPVcqaHRzwqJt"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "duration_ms": 238906,
+      "name": "Cars",
+      "url": "https://open.spotify.com/track/6HZ67VImxqr8aMBEEhblzf"
     },
     {
       "added_at": "2024-07-09 02:45:34",

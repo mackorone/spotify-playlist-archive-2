@@ -5666,6 +5666,24 @@
     {
       "album": {
         "name": "Going Normal",
+        "url": "https://open.spotify.com/album/3kHR1cNiz1WQ6ZzFR1LNe6"
+      },
+      "artists": [
+        {
+          "name": "Matt Martians",
+          "url": "https://open.spotify.com/artist/7ycsWk9ae4pTAlWH8j6Hf9"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "An Eater",
+      "url": "https://open.spotify.com/track/06GsIwIfcPjuaxlErmAcbB"
+    },
+    {
+      "album": {
+        "name": "Going Normal",
         "url": "https://open.spotify.com/album/1dX8F7HD9V9p6YT3DIxiLP"
       },
       "artists": [
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 147500,
       "name": "An Eater",
       "url": "https://open.spotify.com/track/0ofbSMwGB6a63ydEIeaq4K"
@@ -31956,6 +31974,10 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
         }
       ],
       "date_added": "2026-02-20",
@@ -48354,7 +48376,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/2kH5fiDaoj2Tn4hBRXSYjQ"
@@ -62228,7 +62250,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 195015,
       "name": "other side.",
       "url": "https://open.spotify.com/track/2iZ9yiTcL1iywzSUZxlJrZ"
@@ -78354,7 +78376,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 195000,
       "name": "String By",
       "url": "https://open.spotify.com/track/4eKboSkfneEWs7JzWHbvQW"
@@ -95854,7 +95876,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 216645,
       "name": "Yoga (Vocal)",
       "url": "https://open.spotify.com/track/3IUF3QgrGznRBK0RfpAJ34"

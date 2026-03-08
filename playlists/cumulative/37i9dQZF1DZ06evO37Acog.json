@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 185346,
       "name": "Paulita Guti\u00e9rrez",
       "url": "https://open.spotify.com/track/6wF7xuEiAxZVbe3AvfqI0k"
@@ -2058,6 +2058,24 @@
       "duration_ms": 161253,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "album": {
+        "name": "Corridos Autenticos",
+        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Tres Viudas Solas",
+      "url": "https://open.spotify.com/track/32mh6f1u7mEu5z4sUymQQU"
     },
     {
       "album": {

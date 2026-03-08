@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: aron!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,821 likes - 84 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,825 likes - 84 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Wonderful Thing](https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Wonderful Thing](https://open.spotify.com/album/4AqjAlTpQzooXdJXY7G4Px) | 2:14 |
-| 2 | [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 |
+| 2 | [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 |
 | 3 | [The qante](https://open.spotify.com/track/4mdrdhKGAhrFBpPpIXsDDC) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b), [Kojoe](https://open.spotify.com/artist/3yP8JwasYIrAxRT2Dw1xZu) | [Lims](https://open.spotify.com/album/3UFsV7eEi8jztQlKV3D3uw) | 4:29 |
 | 4 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 |
 | 5 | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/4E3KtwZMFrikOc4k0mQToP) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [It’s All Love \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/17CNXUhZwnrfgAO7LXqSLx) | 3:28 |

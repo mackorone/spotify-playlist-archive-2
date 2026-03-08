@@ -4,7 +4,7 @@
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ANOTR
 
-3,868 songs - 9 day 5 hr 35 min
+3,868 songs - 9 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2530,7 +2530,7 @@
 | [Only You](https://open.spotify.com/track/615WJK7fyg5iylprqeB6XK) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Only You](https://open.spotify.com/album/6HvGmXvwlzqqhAtKFi6cAl) | 2:49 | 2022-11-25 | 2023-01-21 |
 | [Only You](https://open.spotify.com/track/7g1DZDQlJml1nwx3RXO5kC) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Only You](https://open.spotify.com/album/7JobxIfMxmbEvbbcuYMniN) | 3:22 | 2020-11-21 | 2021-01-08 |
 | [Only You \- &ME Remix](https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg), [Wil Malone](https://open.spotify.com/artist/7jzCxvaCAS6u8iivGjTVOl), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Only You \(&ME Remix\)](https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM) | 7:14 | 2024-05-24 | 2024-06-29 |
-| [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:15 | 2026-03-06 |  |
+| [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:01 | 2026-03-06 |  |
 | [Ooo](https://open.spotify.com/track/3O4VZXxFLtyb8yhCHnClDu) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Ooo](https://open.spotify.com/album/55F9lvdT7PRtVofAzLXDRX) | 3:59 | 2025-08-08 | 2025-10-25 |
 | [OoooH](https://open.spotify.com/track/0pirokrbgCxZ0nvZsl5qEU) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn) | [OoooH](https://open.spotify.com/album/0GFRCYzjZQJDNCnu4z4FOa) | 3:22 | 2022-07-22 | 2022-10-01 |
 | [Open Up The Door](https://open.spotify.com/track/6N5lfO0tYTFEaAAHvsRzZN) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n) | 2:14 | 2024-06-14 | 2024-07-06 |

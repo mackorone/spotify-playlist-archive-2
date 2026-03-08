@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: Carol Ades",
-  "num_followers": 1673585,
+  "num_followers": 1673536,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 160666,
       "name": "d\u00a3aler",
       "url": "https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -667,38 +667,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Basic Being Basic",
-        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Basic Being Basic",
-      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 303698,
-      "name": "Sugar Water",
-      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Doggy (feat. Love Spells and Truly Young)",
         "url": "https://open.spotify.com/album/7azUuF24wzDvguS18Eq4tV"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 172359,
       "name": "Doggy (feat. Love Spells and Truly Young)",
       "url": "https://open.spotify.com/track/5Vu1MTtsQFUO03YpHyfcuU"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "At The Beach, In Every Life",
+        "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 303698,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/7mDgx8aONzvoKw0Ckx3wF7"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Basic Being Basic",
+        "url": "https://open.spotify.com/album/47VVI2IwHNGV3GDKMneUQl"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/03zWQa4ZQEMofug2Gmh6io"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "2SIDED",
-        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "2SIDED",
-      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Fleeting",
         "url": "https://open.spotify.com/album/4NryqaG2gunT4GC5edrqVA"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 171386,
       "name": "Truth Of Pursuit",
       "url": "https://open.spotify.com/track/213XNePBS3v9QW0lnPUXmZ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "2SIDED",
+        "url": "https://open.spotify.com/album/7c96M3LIPAXq2J7I8dR8SL"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "2SIDED",
+      "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 266129,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Tough Luck",
         "url": "https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 192866,
       "name": "Tough Luck",
       "url": "https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 266129,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "The Clearing",
         "url": "https://open.spotify.com/album/2kKc3Yid0YR3SSbeQ3x5kV"
       },
@@ -1023,18 +1007,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Drama King",
-        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
       },
       "artists": [
         {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
         }
       ],
-      "duration_ms": 190901,
-      "name": "Drama King",
-      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1075,6 +1059,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "Drama King",
+        "url": "https://open.spotify.com/album/02iICHeNdgziyDRE70DCse"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 190901,
+      "name": "Drama King",
+      "url": "https://open.spotify.com/track/2BeddMVJY8DhWZAC4uKPqx"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "EURO-COUNTRY",
         "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
       },
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "terrible4u",
-        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
       },
       "artists": [
         {
-          "name": "Luke Chiang",
-          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 198092,
-      "name": "terrible4u",
-      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+      "duration_ms": 161007,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "terrible4u",
+        "url": "https://open.spotify.com/album/2HUHCPVbtnaN77LoUrzutn"
+      },
+      "artists": [
+        {
+          "name": "Luke Chiang",
+          "url": "https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj"
+        }
+      ],
+      "duration_ms": 198092,
+      "name": "terrible4u",
+      "url": "https://open.spotify.com/track/1AYIBIhwU2XFVBfGp0QVZl"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "In Twos",
         "url": "https://open.spotify.com/album/69T3NDWI9uysXn3tsMfPLW"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/45RCgfBr05rkdk1h8shjVB"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 161007,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0hbgaixFghGK7zjc3p27H6"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "AngieAngieAngie",
+        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 139363,
+      "name": "Roamer",
+      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Chasing The Chimera",
         "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "AngieAngieAngie",
-        "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
+        "name": "Stupid Bitches",
+        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
       },
       "artists": [
         {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+          "name": "Grace Ives",
+          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
         }
       ],
-      "duration_ms": 139363,
-      "name": "Roamer",
-      "url": "https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ"
+      "duration_ms": 211893,
+      "name": "Stupid Bitches",
+      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Stupid Bitches",
-        "url": "https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP"
-      },
-      "artists": [
-        {
-          "name": "Grace Ives",
-          "url": "https://open.spotify.com/artist/4TZieE5978SbTInJswaay2"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Stupid Bitches",
-      "url": "https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Is This Love??",
         "url": "https://open.spotify.com/album/0EuILydBpAc9FqLSG6pqOW"
       },
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 180056,
-      "name": "Jelly",
-      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Flowers - Spotify Singles",
         "url": "https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 236167,
       "name": "Flowers - Spotify Singles",
       "url": "https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/6WJ2hKMecjy6AcOanyIBgt"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 180056,
+      "name": "Jelly",
+      "url": "https://open.spotify.com/track/2MKZXMDTgvJGZyq5XJz272"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "Would You Go Down On A Girl? (Deluxe)",
+        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 221152,
+      "name": "Silverlake Baby",
+      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Death Wish",
         "url": "https://open.spotify.com/album/2uDeSxmbT8XFv0uxQyz3hA"
       },
@@ -1455,18 +1471,34 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "Would You Go Down On A Girl? (Deluxe)",
-        "url": "https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus"
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3LPzHubHMTywYtKhF1beHW"
       },
       "artists": [
         {
-          "name": "D\u00e9yyess",
-          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+          "name": "New Constellations",
+          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
         }
       ],
-      "duration_ms": 221152,
-      "name": "Silverlake Baby",
-      "url": "https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh"
+      "duration_ms": 243000,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/1dvYCfO9EXPJCXvksXV8iu"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "the punisher",
+        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 189107,
+      "name": "the punisher",
+      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "the punisher",
-        "url": "https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 189107,
-      "name": "the punisher",
-      "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Hi My Love",
         "url": "https://open.spotify.com/album/5IUwyON6SEB85IblIjowCP"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 176486,
       "name": "Hi My Love",
       "url": "https://open.spotify.com/track/5ZHRKtrosRwOzUHv7WmyGK"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3LPzHubHMTywYtKhF1beHW"
-      },
-      "artists": [
-        {
-          "name": "New Constellations",
-          "url": "https://open.spotify.com/artist/5WF5jtgP0H31QTl5g4WxW9"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Dandelion",
-      "url": "https://open.spotify.com/track/1dvYCfO9EXPJCXvksXV8iu"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1583,18 +1583,18 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "the apple tree under the sea",
-        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
+        "name": "Texas Baby",
+        "url": "https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO"
       },
       "artists": [
         {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+          "name": "Susannah Joffe",
+          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
         }
       ],
-      "duration_ms": 333956,
-      "name": "be the girl!",
-      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
+      "duration_ms": 147106,
+      "name": "Texas Baby",
+      "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
+        "name": "the apple tree under the sea",
+        "url": "https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 333956,
+      "name": "be the girl!",
+      "url": "https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
         "name": "Elio",
         "url": "https://open.spotify.com/album/7z1xNN3mLYLteqDB73NIIx"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 316933,
       "name": "Elio",
       "url": "https://open.spotify.com/track/6eKiMLX87zqbiA7K3Abbg5"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
-        "name": "Texas Baby",
-        "url": "https://open.spotify.com/album/2RohVNCqHRA2YyoHBhGPiO"
-      },
-      "artists": [
-        {
-          "name": "Susannah Joffe",
-          "url": "https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw"
-        }
-      ],
-      "duration_ms": 147106,
-      "name": "Texas Baby",
-      "url": "https://open.spotify.com/track/6pNWRbfpSwxnQAhTYPcajr"
     },
     {
       "added_at": "2026-02-27 05:00:32",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-02-27 05:00:32",
       "album": {
-        "name": "A Man Written by a Woman",
-        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
-      },
-      "artists": [
-        {
-          "name": "Whitney Whitney",
-          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
-        }
-      ],
-      "duration_ms": 167440,
-      "name": "A Man Written by a Woman",
-      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
-    },
-    {
-      "added_at": "2026-02-27 05:00:32",
-      "album": {
         "name": "Maybe I'm the Reason / Be Cool",
         "url": "https://open.spotify.com/album/740ifSZHnTYtaKanxZ5pcd"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 174128,
       "name": "Maybe I'm the Reason",
       "url": "https://open.spotify.com/track/1TPCNPlitIbnPjJfL8TjC4"
+    },
+    {
+      "added_at": "2026-02-27 05:00:32",
+      "album": {
+        "name": "A Man Written by a Woman",
+        "url": "https://open.spotify.com/album/19Ca1DmhPTJE00W9rPvf6E"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "duration_ms": 167440,
+      "name": "A Man Written by a Woman",
+      "url": "https://open.spotify.com/track/3KMiZhglQNHEyMOoR2u2Yk"
     }
   ],
   "unique_name": "Indie Pop",

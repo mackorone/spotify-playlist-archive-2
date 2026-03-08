@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Tu Angel De La Guarda",
+        "url": "https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257665,
+      "name": "Hoy Me Ir\u00e9 de Casa",
+      "url": "https://open.spotify.com/track/19Lt516JdsMtylk8dT41Kb"
+    },
+    {
+      "album": {
         "name": "El Amor",
         "url": "https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE"
       },

@@ -1,6 +1,6 @@
 {
   "description": "recent trending tracks in rock, alt, metal, and punk.",
-  "num_followers": 171430,
+  "num_followers": 171466,
   "original_name": "Viral Rock",
   "owner": {
     "name": "Spotify",
@@ -82,6 +82,10 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
         }
       ],
       "duration_ms": 193733,

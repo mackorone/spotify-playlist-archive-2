@@ -1,6 +1,6 @@
 {
   "description": "Explore all things indie rock right now. Featuring music from The Brook & The Bluff",
-  "num_followers": 807871,
+  "num_followers": 807835,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
@@ -218,6 +218,10 @@
         {
           "name": "Martin Slattery",
           "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        },
+        {
+          "name": "The Immortal Man",
+          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
         }
       ],
       "duration_ms": 266759,

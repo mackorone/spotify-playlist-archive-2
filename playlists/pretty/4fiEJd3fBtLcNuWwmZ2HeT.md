@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 434 songs - 1 day 0 hr 51 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 435 songs - 1 day 0 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 231 | [P3 fes \-Reload\-](https://open.spotify.com/track/6cyVHSgEiEebYQXrm7Sr2p) | [Azumi Takahashi](https://open.spotify.com/artist/4VeqFgWkP7P9eEGwzPuXcM), [Lotus Juice](https://open.spotify.com/artist/0HM4KuHUJ5ww5DdOGi3FEf), [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN), [ATLUS GAME MUSIC](https://open.spotify.com/artist/7tUDDR0lAc9PLMPHPfzaqI) | [Persona 3 Reload: Episode Aigis Original Soundtrack](https://open.spotify.com/album/7Ic5fXfxRtYiRgyqNj1iyN) | 1:28 |
 | 232 | [Black Hole Sun](https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:18 |
 | 233 | [厭世という名の病](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 |
-| 234 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 |
+| 234 | [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 |
 | 235 | [I want to be poisoned by you and drown](https://open.spotify.com/track/1EXISH6kISEMaqXAoD8uEO) | [式浦躁吾](https://open.spotify.com/artist/64tqgUSdRPy0Kl8KmvBj8s) | [I want to be poisoned by you and drown](https://open.spotify.com/album/165uzoJNb4F27IaludLZCU) | 2:12 |
 | 236 | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/track/3LW4FCmPUAErFmMRDOhvE0) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ネバーフィクション \(feat\. 星街すいせい\)](https://open.spotify.com/album/61hPWE3xufYcYjiqZGYHXp) | 2:03 |
 | 237 | [指切り](https://open.spotify.com/track/4wpXmgzRjw7BPn98g9P97I) | [すこっぷ](https://open.spotify.com/artist/0nUd9oIcmVWMeYtx4sfJJv) | [指切り](https://open.spotify.com/album/4HCRzZ4VypUoEmHr5Pn04L) | 2:48 |
@@ -367,7 +367,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 357 | [Vampire Requiem](https://open.spotify.com/track/57xhHuhjhiqqDptYzR0OZO) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [GOTHIC\(A\-type\)](https://open.spotify.com/album/1pruXAHSYCW3bSCEC6DSHT) | 4:31 |
 | 358 | [ふこうぶつ](https://open.spotify.com/track/7abGCbVHOoTyIgVOG2Ggue) | [WAKUSEI ABNORMAL](https://open.spotify.com/artist/1MeQhADFeadgcic2GpcND1) | [私は怒りでできている](https://open.spotify.com/album/2gAfA53QQF1h82B5xo11da) | 2:43 |
 | 359 | [夜になったら耿十八は](https://open.spotify.com/track/67m8OAMRKgo4zhTFoKinW3) | [Peg](https://open.spotify.com/artist/2nXscFBFNh9ryugWGdW5po) | [Immortal Club](https://open.spotify.com/album/3F8Y95zceuJs2RWgn5VQwS) | 3:37 |
-| 360 | [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 |
+| 360 | [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 |
 | 361 | [QUEEN](https://open.spotify.com/track/32zpHDchUY83w80C8mMtOs) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/4abbUX3gfMhHSN0gDrchyc) | 2:21 |
 | 362 | [KUCHUBURANKO](https://open.spotify.com/track/1c2CyIh5XLIxbJv0s3z8MI) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [KUCHUBURANKO](https://open.spotify.com/album/2fy2QRd4TmqZyM1cYSVRTN) | 5:24 |
 | 363 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
@@ -442,5 +442,6 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 432 | [私は雨](https://open.spotify.com/track/3s5sFHV8VTzg0CSXy3gz5y) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [私は雨](https://open.spotify.com/album/6kAEY3WED6CgfhVzsLUQHN) | 3:40 |
 | 433 | [私の恋はヘルファイア \(feat\. MEIKO\)](https://open.spotify.com/track/1fqpUqtqVLbDZXrtmFK1eW) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR) | [私の恋はヘルファイア](https://open.spotify.com/album/1WyO7Ij2uvv5FDimlZTBbr) | 3:16 |
 | 434 | [るるちゃんの自殺配信](https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [児童カルテ](https://open.spotify.com/album/6lENS0EtwbvQiwEaHFbV3J) | 3:59 |
+| 435 | [赤ずきんの狼](https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:20 |
 
-Snapshot ID: `AAAJ7RER8UWPLywhMh+46BG9J23oulDl`
+Snapshot ID: `AAAJ7kkaFC1lS76liu7xT6EChgDFsN2d`

@@ -363,6 +363,24 @@
     },
     {
       "album": {
+        "name": "Holy Spirit",
+        "url": "https://open.spotify.com/album/7s4KFFw83SK8KLoNKJ6D1p"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219469,
+      "name": "Holy Spirit",
+      "url": "https://open.spotify.com/track/6U2QzcexhOvb7Lxw8RaWsR"
+    },
+    {
+      "album": {
         "name": "ROOTED",
         "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
       },

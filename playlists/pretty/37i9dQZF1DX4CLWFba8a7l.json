@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Chet Faker",
-  "num_followers": 136185,
+  "num_followers": 136274,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -102,6 +102,10 @@
         {
           "name": "Martin Slattery",
           "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        },
+        {
+          "name": "The Immortal Man",
+          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
         }
       ],
       "duration_ms": 135751,
@@ -707,22 +711,6 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "NOT OK",
-        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 206040,
-      "name": "NOT OK",
-      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -747,6 +735,22 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
+        "name": "NOT OK",
+        "url": "https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 206040,
+      "name": "NOT OK",
+      "url": "https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
         "name": "WHERE YOU'LL FIND ME",
         "url": "https://open.spotify.com/album/3XYF72bBKt5XbmIoqjWhbb"
       },
@@ -759,22 +763,6 @@
       "duration_ms": 169958,
       "name": "ONE MORE",
       "url": "https://open.spotify.com/track/6NSoFwlKHCQV0yKfcEQxDj"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
-        "name": "Cartoon Darkness",
-        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 204773,
-      "name": "U Should Not Be Doing That",
-      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -795,6 +783,22 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
+        "name": "Cartoon Darkness",
+        "url": "https://open.spotify.com/album/6yubtXRtg07Pd4REHb6lc7"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 204773,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/6zfVBdPDopmP36NeHd4O2m"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
         "name": "Yougotmefeeling",
         "url": "https://open.spotify.com/album/1cEohOuRI90FBrWx9DRkJ4"
       },
@@ -811,22 +815,6 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
         "name": "wraith",
         "url": "https://open.spotify.com/album/1wG3pKqRfaOxRl70min6lC"
       },
@@ -839,6 +827,22 @@
       "duration_ms": 245892,
       "name": "summer in december",
       "url": "https://open.spotify.com/track/3uQzLQIn6SVdMQSRNCybtz"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/5W4CcAwDaexCCylbBeebWV"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/1PBUZ6LkNYHSbGW9taWOd7"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -879,22 +883,6 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
         "name": "I Did You Wrong",
         "url": "https://open.spotify.com/album/3qWNwf5a53GPFLXKhZWZbi"
       },
@@ -907,6 +895,22 @@
       "duration_ms": 172965,
       "name": "I Did You Wrong",
       "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
+        "name": "STAMPEDE",
+        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "STAMPEDE",
+      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -927,22 +931,18 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "This isn\u2019t what you think it is (EP)",
-        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        },
-        {
-          "name": "Rome Fortune",
-          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 199395,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -987,18 +987,22 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "STAMPEDE",
-        "url": "https://open.spotify.com/album/7A2scjvl1X6PS9TBZ6BzFj"
+        "name": "This isn\u2019t what you think it is (EP)",
+        "url": "https://open.spotify.com/album/4OcCeiJxG51PNH2Eh1rz8u"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        },
+        {
+          "name": "Rome Fortune",
+          "url": "https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np"
         }
       ],
-      "duration_ms": 189200,
-      "name": "STAMPEDE",
-      "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
+      "duration_ms": 199395,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/5UBJAAEppHYq8QH5gfllVE"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -1019,18 +1023,18 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
+        "name": "GEEKD",
+        "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
       },
       "artists": [
         {
-          "name": "X CLUB.",
-          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
+          "name": "YNG Martyr",
+          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM"
+      "duration_ms": 131186,
+      "name": "GEEKD",
+      "url": "https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -1067,34 +1071,18 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "GEEKD",
-        "url": "https://open.spotify.com/album/3bwIFbfnfDlsek3SlfFNcd"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/069YF5u0N8zI2htQXUod5R"
       },
       "artists": [
         {
-          "name": "YNG Martyr",
-          "url": "https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF"
+          "name": "X CLUB.",
+          "url": "https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ"
         }
       ],
-      "duration_ms": 131186,
-      "name": "GEEKD",
-      "url": "https://open.spotify.com/track/5GYyqVHW2Gf2kaZK0KaUYA"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
-        "name": "Never Love",
-        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 210203,
-      "name": "Never Love",
-      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
+      "duration_ms": 227500,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/24kyh4hM1lJTxpfL2QxnTM"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -1111,6 +1099,22 @@
       "duration_ms": 272507,
       "name": "MOLLY",
       "url": "https://open.spotify.com/track/5FxXv3uQHKFKoslI6sMpYi"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
+        "name": "Never Love",
+        "url": "https://open.spotify.com/album/60WOQEtaq1qwvxgr8LjrxQ"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 210203,
+      "name": "Never Love",
+      "url": "https://open.spotify.com/track/1bxQtlnSdrDxV4vOc3IksQ"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -1171,22 +1175,6 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
-      },
-      "artists": [
-        {
-          "name": "Ocean Alley",
-          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
-        }
-      ],
-      "duration_ms": 290802,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
-    },
-    {
-      "added_at": "2026-03-05 13:01:22",
-      "album": {
         "name": "BLEACH",
         "url": "https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO"
       },
@@ -1199,6 +1187,22 @@
       "duration_ms": 148071,
       "name": "BLEACH",
       "url": "https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR"
+    },
+    {
+      "added_at": "2026-03-05 13:01:22",
+      "album": {
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/4pjK5O8h9VkpKmyCY12mZR"
+      },
+      "artists": [
+        {
+          "name": "Ocean Alley",
+          "url": "https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr"
+        }
+      ],
+      "duration_ms": 290802,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6yuBDYdORL4p8gQZYpGz3a"
     },
     {
       "added_at": "2026-03-05 13:01:22",
@@ -1291,22 +1295,18 @@
     {
       "added_at": "2026-03-05 13:01:22",
       "album": {
-        "name": "Feel So Good Around U",
-        "url": "https://open.spotify.com/album/5jQDO3r5tVB7t0H6ipp9vO"
+        "name": "Tell Me How It Feels",
+        "url": "https://open.spotify.com/album/20WT44ywZwSmZsYSk4OW7l"
       },
       "artists": [
         {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Skin On Skin",
-          "url": "https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa"
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
         }
       ],
-      "duration_ms": 272492,
-      "name": "Feel So Good Around U",
-      "url": "https://open.spotify.com/track/2ZG3zaIGpmIFU4CTwhhgyn"
+      "duration_ms": 203520,
+      "name": "Tell Me How It Feels",
+      "url": "https://open.spotify.com/track/7heLi5l4FqgKvOG3IN8jFm"
     }
   ],
   "unique_name": "Turn Up Aus",

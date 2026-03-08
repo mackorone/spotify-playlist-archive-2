@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 
 > New year, same Kitty\. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,025 likes - 115 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,105 likes - 115 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdxPuMYBuAk.md) - [plain]
 | 88 | [Y DON'T U](https://open.spotify.com/track/2O2qTOmeuVGinDRz7SxqJk) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Take A Daytrip](https://open.spotify.com/artist/3StB6ddX8vfwCGVD9HlNUw) | [Before I Die](https://open.spotify.com/album/0uBOsR6tRMSBEPe2dfOtNe) | 2:12 |
 | 89 | [Run Away](https://open.spotify.com/track/6BYYA15dyPOSi8baFOpDgr) | [MONA](https://open.spotify.com/artist/1cFDUoQ5wYnwrHsSkwvUHr) | [When](https://open.spotify.com/album/3eIiVTuooJKLwyXAypE0eR) | 3:34 |
 | 90 | [W8ing 4 U](https://open.spotify.com/track/3o5L1QgIi5xJLdkOyIEcKK) | [Soo Joo](https://open.spotify.com/artist/0kMAwDmzj6jRTj5Ff1Cq50) | [W8ing 4 U](https://open.spotify.com/album/7uZPwaTJf6zr0mjhiVptAs) | 4:19 |
-| 91 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
+| 91 | [NO GOOD REASON](https://open.spotify.com/track/0hZs9kWnaewkXEufPYjbvf) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82X\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:36 |
 | 92 | [Guess I've Changed](https://open.spotify.com/track/2FThX74t4IIB9ozWacu9Xd) | [Caveboy](https://open.spotify.com/artist/3B2czCg33JaJkntjWiCEO4) | [Night in the Park, Kiss in the Dark](https://open.spotify.com/album/2MAkOacwf7ipO9ywdL1IM7) | 3:58 |
 | 93 | [About Love \- From The Netflix Film “To All The Boys: P.S\. I Still Love You”](https://open.spotify.com/track/4XII12nbsvJblXfG1I2QR4) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [About Love \(From The Netflix Film “To All The Boys: P.S\. I Still Love You”\)](https://open.spotify.com/album/3UqotmoFHhdvwBHbP70amM) | 3:34 |
 | 94 | [Lovers](https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct) | 3:35 |

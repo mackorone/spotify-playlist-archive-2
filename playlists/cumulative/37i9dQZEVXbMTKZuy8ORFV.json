@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 228959,
       "name": "Adicto a ti",
       "url": "https://open.spotify.com/track/07gNcsqI3PIzPWe2cgoAHk"
@@ -11437,6 +11437,40 @@
     },
     {
       "album": {
+        "name": "Dichavate",
+        "url": "https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF"
+      },
+      "artists": [
+        {
+          "name": "Ya Ice Dilan",
+          "url": "https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA"
+        },
+        {
+          "name": "Rey Tony",
+          "url": "https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l"
+        },
+        {
+          "name": "Helabusador",
+          "url": "https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX"
+        },
+        {
+          "name": "JipMusic Global",
+          "url": "https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "Dichavate",
+      "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
+    },
+    {
+      "album": {
         "name": "did i tell u that i miss u",
         "url": "https://open.spotify.com/album/0pedkI7nWlHCeiluBRLF7O"
       },
@@ -19864,10 +19898,28 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/3bpGAsjsCIMTz98E7injb2"
+    },
+    {
+      "album": {
+        "name": "No Dogs Allowed",
+        "url": "https://open.spotify.com/album/1RbfvnXTISZJR42nZQSfb8"
+      },
+      "artists": [
+        {
+          "name": "Sidney Gish",
+          "url": "https://open.spotify.com/artist/2orBKFyc84jo9AZH5jarhI"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294260,
+      "name": "Impostor Syndrome",
+      "url": "https://open.spotify.com/track/3fYHsokGq9RpDHzKjFfB5D"
     },
     {
       "album": {
@@ -31828,7 +31880,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 90816,
       "name": "Paleta Dame Paleta",
       "url": "https://open.spotify.com/track/6cWB2VwR2OtmcmuDaq5QI5"
@@ -38998,7 +39050,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 117322,
       "name": "Spider Man",
       "url": "https://open.spotify.com/track/2uJgP3nSURnYPBjP9WROI3"
@@ -40727,6 +40779,32 @@
     },
     {
       "album": {
+        "name": "Te Luciste Enga\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/4aisQDNTmQQaCxQxLDIY8M"
+      },
+      "artists": [
+        {
+          "name": "VAL-H",
+          "url": "https://open.spotify.com/artist/6R2YXCdHllit4DBx4yFH6Z"
+        },
+        {
+          "name": "Rosiflor",
+          "url": "https://open.spotify.com/artist/1JinNiREM4saTpon1C7kkw"
+        },
+        {
+          "name": "Julio Cesar Quispe Puma",
+          "url": "https://open.spotify.com/artist/1ypBkptxWWp3saDixm9B4d"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279127,
+      "name": "Te Luciste Enga\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/1zLM9Afz4fxbT8cvwzV0SA"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/6cJrlF56yG7nnFzfdrnQ6P"
       },
@@ -41086,7 +41164,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 211022,
       "name": "Termonuclear",
       "url": "https://open.spotify.com/track/7AvyWxJDbrAjR3G50RBW3b"
@@ -41892,7 +41970,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 192064,
       "name": "Todo Lo Fue",
       "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
@@ -45552,7 +45630,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-18",
+      "date_removed": null,
       "duration_ms": 236160,
       "name": "V\u00e1monos De Viaje",
       "url": "https://open.spotify.com/track/1tyI6Sq6oBLsMmIgvBfQrI"

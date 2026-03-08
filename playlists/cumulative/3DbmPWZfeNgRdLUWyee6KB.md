@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-729 songs - 1 day 18 hr 55 min
+731 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [24](https://open.spotify.com/track/0auAhRNjTNd5rzOEnpLFqX) | [Sush 28](https://open.spotify.com/artist/2VSNYqXIGA7Sr8XyIDMczK) | [24](https://open.spotify.com/album/3sVAjWg3oST76Lb1xxgQhv) | 2:12 | 2026-02-11 |  |
 | [3.32](https://open.spotify.com/track/59mnJcXOSvRZ9ac99Ans7r) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [3.32](https://open.spotify.com/album/472ZMnbtlayJCQWlopwf5i) | 2:32 | 2025-11-11 | 2025-12-21 |
 | [30th Day](https://open.spotify.com/track/7hw2C4wZeCFErLYjtrWVBG) | [Austel](https://open.spotify.com/artist/7jMnfga7535wl3kJmUlRvq) | [30th Day](https://open.spotify.com/album/7dwecrXQ6HIdkiNnRnCxpE) | 3:53 | 2026-02-26 |  |
+| [321 \(Self\-Destruct\)](https://open.spotify.com/track/5UkH8DqReMbDEb5VrnhQ9U) | [Jessie Alexandra](https://open.spotify.com/artist/6Qx6xEgIkrAc6GMu9uJ9b7) | [321 \(Self\-Destruct\)](https://open.spotify.com/album/3s7n1PPX8T37zbJzk0xrVd) | 3:16 | 2026-03-07 |  |
 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 | 2025-12-15 | 2026-01-15 |
 | [6 P.M\. \- Sped Up + Reverbed](https://open.spotify.com/track/13c4SLMyy8znHwt61koe4Z) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [6 P.M\. \(Sped Up + Reverbed\)](https://open.spotify.com/album/5rYYBjP2VsETOIm13VcJ5H) | 3:42 | 2026-01-14 | 2026-02-20 |
 | [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 | 2026-01-31 | 2026-02-28 |
@@ -112,6 +113,7 @@
 | [Capim](https://open.spotify.com/track/6Nwx6TfDnrUrb8LLIoeGJO) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ), [Andrea Maia](https://open.spotify.com/artist/0GKHbfqyqJ3ViQi45PopsQ), [Luca Segala](https://open.spotify.com/artist/6J49zCELs85KDUCsgXa3X7) | [Capim](https://open.spotify.com/album/253pommivuFv095QrEJCly) | 2:32 | 2023-04-27 | 2025-11-29 |
 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2026-02-16 |  |
 | [Carrera 7](https://open.spotify.com/track/02j6yzhXx5F3wMin5pvAsD) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs) | [The Golden Age, Vol\. 1](https://open.spotify.com/album/0iMPNCPmESC621cb8jVKfX) | 6:04 | 2023-12-14 | 2025-11-29 |
+| [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 | 2026-03-07 |  |
 | [Catch the Spark](https://open.spotify.com/track/5m1itjQzMzetHUjbVGsMxY) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Catch the Spark](https://open.spotify.com/album/6y5ZbPFz6h5NxytG5jkmLA) | 3:37 | 2025-12-18 | 2026-01-15 |
 | [Cerimony for "The Chinese"](https://open.spotify.com/track/1k63sjTtq3pkzrd9fUHD9I) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Alfredo Posillipo](https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [Cerimony for "The Chinese"](https://open.spotify.com/album/1RyqSDdWLWG1WWpoj6lDQs) | 6:02 | 2023-04-27 | 2025-11-29 |
 | [Chainsaws And Machetes \- CRISISBEATZZ & PROD\. MYKEY Remix Version](https://open.spotify.com/track/3Nq7RhYY4RtdQ627ijEpg4) | [M\-Cray](https://open.spotify.com/artist/0Pjtw8hYTa1OlObMo8sMcD), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [Prod\. MyKey](https://open.spotify.com/artist/5EihbHGDf7x0IUptnEGvFm) | [Chainsaws And Machetes \(CRISISBEATZZ & PROD\. MYKEY Remix Version\)](https://open.spotify.com/album/6sCVnNzWzE0Ig3HM4JomcV) | 1:27 | 2025-09-11 | 2025-12-21 |

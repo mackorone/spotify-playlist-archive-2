@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 70491,
+  "num_followers": 70526,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAB3M8eT7fzcyEQeArktYLMu",
+  "snapshot_id": "aaoZAAAAAAAxA0MWpqioXsJFGUZEjvH1",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TETRICO",
+        "url": "https://open.spotify.com/album/0bQbQqXJgC0chLxFn2dwt8"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 187948,
+      "name": "TETRICO",
+      "url": "https://open.spotify.com/track/5vVNAvx49iV38H7Nu244Kh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TETRICO",
-        "url": "https://open.spotify.com/album/0bQbQqXJgC0chLxFn2dwt8"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 187948,
-      "name": "TETRICO",
-      "url": "https://open.spotify.com/track/5vVNAvx49iV38H7Nu244Kh"
     },
     {
       "added_at": null,
@@ -619,26 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pobreza Buena",
-        "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
+        "name": "Los Benjamines",
+        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
       },
       "artists": [
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 209683,
-      "name": "La Pobreza Buena",
-      "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
+      "duration_ms": 166284,
+      "name": "Los Benjamines",
+      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
     },
     {
       "added_at": null,
@@ -663,18 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Benjamines",
-        "url": "https://open.spotify.com/album/0VEaLh5tBoho0M6BlbGUIa"
+        "name": "La Pobreza Buena",
+        "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
       },
       "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
         {
           "name": "Los Dareyes De La Sierra",
           "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 166284,
-      "name": "Los Benjamines",
-      "url": "https://open.spotify.com/track/5YHQqBnzB1UWcwKoDiFK6b"
+      "duration_ms": 209683,
+      "name": "La Pobreza Buena",
+      "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
     },
     {
       "added_at": null,
@@ -891,42 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Avioneta",
-        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        },
-        {
-          "name": "El Wiko",
-          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "La Avioneta",
-      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con Banda",
-        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Adi\u00f3s Mi Amor",
-      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "C ARMO",
         "url": "https://open.spotify.com/album/5kzK7xsCCuNueER2C9Hc7g"
       },
@@ -947,6 +911,42 @@
       "duration_ms": 182500,
       "name": "C ARMO",
       "url": "https://open.spotify.com/track/1jM2U517tfgPyoCrnRqa2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Banda",
+        "url": "https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 201533,
+      "name": "Adi\u00f3s Mi Amor",
+      "url": "https://open.spotify.com/track/1jeCMfIQVMVWToyknhkFvD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Avioneta",
+        "url": "https://open.spotify.com/album/0n5Mfmi6EO9EuGAK8YclFx"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Wiko",
+          "url": "https://open.spotify.com/artist/711tZI6sxBPYHe5FvbLQjs"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "La Avioneta",
+      "url": "https://open.spotify.com/track/1aIdtyVK4s9NSfvYVrXmpJ"
     },
     {
       "added_at": null,

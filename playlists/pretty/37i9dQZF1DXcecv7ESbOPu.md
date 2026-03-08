@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Harry Styles, waterbaby och LKN med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,270 likes - 98 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,273 likes - 98 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 57 | [Long Way](https://open.spotify.com/track/11EtGSnG8UeI2od6YNZ8I5) | [Occrasy](https://open.spotify.com/artist/2aXHsRS2aWr0PhWJI2HYSD) | [Long Way](https://open.spotify.com/album/0zsMSAWbr1SYfgrTneD2mb) | 3:22 |
 | 58 | [Like Me](https://open.spotify.com/track/5sNygpa288BFWcMfCFaqXQ) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3) | [Like Me](https://open.spotify.com/album/3zJUiCFj4EDdCzDnnF7UMO) | 2:22 |
 | 59 | [One Stop](https://open.spotify.com/track/0GCUxw7uzhyMUvSph5FWpu) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [One Stop](https://open.spotify.com/album/62vLY3CSQPy0uBR7CPjJEY) | 3:30 |
-| 60 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 60 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 61 | [Borrowed Time](https://open.spotify.com/track/3eJsbUwVIqzwdH7P8aZGw6) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Borrowed Time](https://open.spotify.com/album/2eF0pm2lt3PA6oLMSgYt4P) | 3:49 |
 | 62 | [Medicine](https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Medicine](https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO) | 2:34 |
 | 63 | [Be Mine](https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Be Mine](https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE) | 1:53 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Curated with love by human Spotify editors\. Featuring Mary Ann Alexander.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,703 likes - 130 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,689 likes - 130 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

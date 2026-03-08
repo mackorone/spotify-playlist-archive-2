@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: John West & Lange Frans
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,169 likes - 90 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,203 likes - 90 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alles Wat Ik Zoek](https://open.spotify.com/track/2cFuY8lgMNDh0UPqwSADJb) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Alles Wat Ik Zoek](https://open.spotify.com/album/1vfS5j7BUwPfoIKPrAVkt3) | 3:07 |
 | 2 | [Diamanten Ring](https://open.spotify.com/track/216eeUqrm8YJVsUyId75rl) | [Daymian Van Os](https://open.spotify.com/artist/0wJ3lSX1D60OTNub53er9p) | [Diamanten Ring](https://open.spotify.com/album/40sE58BIwX1cwNH8MDafFc) | 2:43 |
 | 3 | [More Amor Por Favor](https://open.spotify.com/track/0VPlYGFdJUcGtnniKAiKoa) | [Vinzzent](https://open.spotify.com/artist/3fUb97KMK2mirr4PQrYKVX) | [More Amor Por Favor](https://open.spotify.com/album/532AjAx1Hih8SJdZVNwdoM) | 2:36 |
-| 4 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
+| 4 | [De Avond Is Van Ons](https://open.spotify.com/track/2misMDi4t5KGdaeLKXOryx) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [De Avond Is Van Ons](https://open.spotify.com/album/0BqQjNilA8YsSzrWIRikMa) | 2:53 |
 | 5 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 6 | [Blijf Nog Even](https://open.spotify.com/track/75pIaGYXZtON7rS2oi3U0Q) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Blijf Nog Even](https://open.spotify.com/album/0pP7q6M8fMompvyFIV5PSE) | 2:59 |
 | 7 | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/track/3pg9B5UsUEtQTNUcKbX52N) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Ik Ben Een Stap Te Ver Gegaan](https://open.spotify.com/album/3UeDyDiuoL8GFHtTWqwMBo) | 2:34 |

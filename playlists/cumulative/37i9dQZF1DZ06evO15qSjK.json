@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 170799,
       "name": "A BOP Song (A Shaboozey Cover)",
       "url": "https://open.spotify.com/track/0gKbNULuiYkDLKjRg4O4kN"
@@ -344,6 +344,24 @@
       "duration_ms": 199401,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/0Z0zuM0t5zumHKU5jplwcp"
+    },
+    {
+      "album": {
+        "name": "KIDZ BOP 50",
+        "url": "https://open.spotify.com/album/1N7y2uOiGxoza5nabKtsMA"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/2L5ML7WOyY6VScyBISDU4E"
     },
     {
       "album": {

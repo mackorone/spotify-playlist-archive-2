@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,371 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,391 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 46 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |
 | 47 | [今夜はドラマティック](https://open.spotify.com/track/79kbjlrWZSQQGrXBobzUw7) | [Tatsuhiko Yamamoto](https://open.spotify.com/artist/0egy8bsVRJUYpdjEvjfR0h) | [ROMANTIC VIEW](https://open.spotify.com/album/26E9XSySWWbBLPjEvKvYzy) | 4:18 |
 | 48 | [SAY GOODBYE](https://open.spotify.com/track/1sRKxcTDO1nYdoc47L1ZqM) | [Hiroshi Sato](https://open.spotify.com/artist/71uGKB11tJQ1uuLLppcHDj) | [Awakening](https://open.spotify.com/album/27M0r1SO7DE7f3IgRkwHB7) | 3:26 |
-| 49 | [GATSBY WOMAN](https://open.spotify.com/track/72cpecSoAAUaluyL2GNJEd) | [Kingo Hamada](https://open.spotify.com/artist/2FdiOm1d5IVBdLlobhzlTF) | [ＭＵＧＳＨＯＴ](https://open.spotify.com/album/7u2JWvr9mkfzBbK7ZaoMpc) | 4:26 |
-| 50 | [電話しても \- 2020 Remaster](https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR) | [Kazuhito Murata](https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd) | [一本の音楽 〜MOON YEARS〜](https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl) | 3:49 |
+| 49 | [電話しても \- 2020 Remaster](https://open.spotify.com/track/5MvIqNNzJGYbdOG1crN4XR) | [Kazuhito Murata](https://open.spotify.com/artist/1YAn7piNSpMgdC8inGcOLd) | [一本の音楽 〜MOON YEARS〜](https://open.spotify.com/album/6nJtVEt3KpCEoOMwVv7DWl) | 3:49 |
+| 50 | [Night Time](https://open.spotify.com/track/216Fc22fWQxAxlTxjtO8P2) | [DEW](https://open.spotify.com/artist/6s0EJ878jNWwfOMva62XgK) | [TOKYO 1980s Victor Edition \(The Compilation\) Boogie, Funk & Modern Soul from Japan](https://open.spotify.com/album/0v1MoZARbqi7wOeECMI8Up) | 4:14 |
 
 Snapshot ID: `AAAAAPtIGWtsSkFG0oNWUbSM1Lh+wETB`

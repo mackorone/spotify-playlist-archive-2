@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Sara Landry
 
-356 songs - 1 day 0 hr 25 min
+357 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 | 2025-10-25 |
 | [Do You Think About Me](https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Do You Think About Me](https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR) | 2:24 | 2024-09-06 | 2025-01-11 |
+| [DON'T WANNA MISS THIS](https://open.spotify.com/track/0kEmoJeOPaIXVgRT0XREw0) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L) | [DON'T WANNA MISS THIS](https://open.spotify.com/album/0lIyBi6BOkCAjFXGohyNm4) | 2:40 | 2026-03-06 |  |
 | [Don’t Say A Word](https://open.spotify.com/track/0KhH0P4Gfs5h2wNB5gzPph) | [Kander](https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd) | [R007](https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT) | 4:46 | 2024-04-09 | 2024-06-26 |
 | [Dooms Night](https://open.spotify.com/track/0V8yBXUvXv5PascZlSTKVc) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU), [Azzido Da Bass](https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr), [Timo Maas](https://open.spotify.com/artist/1nN9sUUgtCl0Z9ciCLc48Q) | [Dooms Night](https://open.spotify.com/album/1gXOorzuKBK9WnfX7AU5wc) | 3:25 | 2025-01-18 | 2025-09-25 |
 | [Dopamin](https://open.spotify.com/track/1SXKHT4MP8OjHqBjb1vDZS) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Dopamin](https://open.spotify.com/album/3cf02iCcXJRAZDLk7kkR8b) | 3:28 | 2025-03-19 |  |
@@ -137,7 +138,7 @@
 | [Full Belly](https://open.spotify.com/track/3FO2udFq5htKXTN61UwDNU) | [Cera Khin](https://open.spotify.com/artist/49QMv0RvuxcUG8Xk6YweEz) | [Full Belly](https://open.spotify.com/album/3RzpO4RjhbgfiAJjmxoM67) | 5:17 | 2024-04-09 | 2024-08-17 |
 | [Fury](https://open.spotify.com/track/19VttUxQp2uerPFEZoLQGi) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Fury EP](https://open.spotify.com/album/4FDkRB2ZvvFP6yo5MONB6E) | 4:00 | 2025-11-07 | 2026-02-11 |
 | [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-04-25 |  |
-| [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 |  |
+| [Get Ready](https://open.spotify.com/track/50VU7qfIoUAqG1tzJwtmzh) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Father 808](https://open.spotify.com/artist/6sggmB5DTVWDcShHGMqYi6) | [Get Ready](https://open.spotify.com/album/2afAHCgfm4r4unfH8lI7kR) | 2:14 | 2025-04-04 | 2026-03-08 |
 | [GET THE FUCK OUT](https://open.spotify.com/track/5Hb3P9vrw0364dyW82Uyjd) | [Vieze Asbak](https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig) | [GET THE FUCK OUT](https://open.spotify.com/album/71MKbWH7kgU3xHaj05KxXK) | 2:49 | 2025-03-19 |  |
 | [Get Up](https://open.spotify.com/track/3cwufpzK10CqK1wFWZCRxj) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC), [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [Get Up](https://open.spotify.com/album/25UZcKrzHZ5LqkSQfX1nSL) | 3:09 | 2025-02-07 | 2025-02-21 |
 | [Gettogether](https://open.spotify.com/track/4umMJJesNImOQ4uERpQtqA) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Gettogether](https://open.spotify.com/album/3OYEIb3CxkmIxheEGnSUpB) | 5:26 | 2024-04-09 | 2024-10-25 |

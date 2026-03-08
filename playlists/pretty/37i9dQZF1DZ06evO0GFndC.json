@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 63237,
+  "num_followers": 63251,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABghaM3ogUdQvm/hiiT1CNp",
+  "snapshot_id": "aaoZAAAAAAB6O/LW0QfNuy/YZEwrVA5v",
   "tracks": [
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Proyecto A",
-        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Legado",
-      "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bien Equipados",
         "url": "https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 170461,
       "name": "Bien Equipados",
       "url": "https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Proyecto A",
+        "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Legado",
+      "url": "https://open.spotify.com/track/5jd85MnXpMNa6OxhLJKwQQ"
     },
     {
       "added_at": null,

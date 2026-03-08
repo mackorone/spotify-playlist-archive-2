@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Kaestrings
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,302 likes - 100 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,336 likes - 100 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 89 | [LOVE LETTER \- Live](https://open.spotify.com/track/1DWwUpjkxLjBKiioxibJ84) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT), [Noble G](https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm) | [LOVE LETTER \(Live\)](https://open.spotify.com/album/2XzxlGhn4CESGnHGbPkpUm) | 13:23 |
 | 90 | [Ukuphila \- Live](https://open.spotify.com/track/5Fft3xcH817tgZtd6IKUQp) | [Puleng March](https://open.spotify.com/artist/65cfvyR00rBULLtOhWfNTn) | [Worship In Newness \(Live\)](https://open.spotify.com/album/2KGge9CX8aegzYEq3X8f02) | 6:25 |
 | 91 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
-| 92 | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 |
+| 92 | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 |
 | 93 | [Carry Me](https://open.spotify.com/track/06fxnpXNeFEd3LzsHn8Wwy) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Carry Me](https://open.spotify.com/album/4ECzawlYXN2Ek3SsailujV) | 8:00 |
 | 94 | [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 |
 | 95 | [You I Live For \- Live at Bliss Experience](https://open.spotify.com/track/2lgTUPSsNM3okBb4mZ7Nx1) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 7:22 |

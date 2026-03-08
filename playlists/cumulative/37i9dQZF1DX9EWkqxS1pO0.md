@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Doğa
 
-365 songs - 18 hr 31 min
+366 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-20 | 2025-09-26 |
 | [Benden Öte](https://open.spotify.com/track/6JfgPAQw0QReNRefKBu13n) | [Kaan Ceylan](https://open.spotify.com/artist/3c78ilDTckX5klD0x6fHlj) | [Benden Öte](https://open.spotify.com/album/6Qq7CP7qhgqwW3bvrMpHnw) | 2:50 | 2025-12-11 |  |
 | [Beni Anla](https://open.spotify.com/track/4hDNZTqjqDrtM07DaOYAei) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Beni Anla](https://open.spotify.com/album/0168AFy8qdzlb6z5NddBxt) | 3:36 | 2024-08-15 | 2024-09-09 |
-| [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 | 2025-07-24 |  |
+| [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 | 2025-07-24 | 2026-03-08 |
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-10 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 | 2025-03-01 |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
@@ -294,6 +294,7 @@
 | [Uykusuzum](https://open.spotify.com/track/0FK0LJu6P1S0EoRSsXGI3W) | [Lil Begy](https://open.spotify.com/artist/50do41eMmwBzQICjvnmwxN) | [Uykusuzum](https://open.spotify.com/album/1n0Yub001RO6dD5WVcvPcE) | 2:12 | 2025-01-16 | 2025-03-30 |
 | [uzak mıdır aşk?](https://open.spotify.com/track/6OoqPxoRorsbKUNAY6oF3u) | [Bahadır Macit](https://open.spotify.com/artist/0FL1jGhozSxbhJoOt7uacc) | [uzak mıdır aşk?](https://open.spotify.com/album/4rYSfKI6uxqIODI2vVa4t1) | 2:00 | 2024-06-20 | 2024-11-17 |
 | [Uzaktan Biri](https://open.spotify.com/track/3EUbQ8gOVePK42p4AG6F4s) | [Egemen Akkol](https://open.spotify.com/artist/0ElJABfA5B9H3gSqB6wf4l) | [Uzaktan Biri](https://open.spotify.com/album/6T8Pt8JZFK22EGdec01fg9) | 3:41 | 2025-02-27 |  |
+| [Uzatmam](https://open.spotify.com/track/1sGd8ofqiKxm2obCJA8YoQ) | [Gizem Duman](https://open.spotify.com/artist/7CwBX1ov1EbdYm7VPxTkkQ) | [Uzatmam](https://open.spotify.com/album/0hO0bEf6rhYs090LN60ZbY) | 2:30 | 2026-02-27 |  |
 | [Vah Benim Halime](https://open.spotify.com/track/3dnN5XUK6g8Pbry58cGhFt) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Vah Benim Halime](https://open.spotify.com/album/6WisSxs0WdJKRR2a7FBphn) | 3:14 | 2024-10-03 |  |
 | [Var Olamaz Bu His](https://open.spotify.com/track/1ryRd66Ao9D5Cv9hzm8xgr) | [Ezgi Erdoğan](https://open.spotify.com/artist/04E93fjneJyca3DegcGoTk) | [Var Olamaz Bu His](https://open.spotify.com/album/4OX4CDexDAPUmkgNiUyete) | 3:16 | 2024-06-20 | 2026-01-30 |
 | [Veda](https://open.spotify.com/track/0NwM0mW9D9UaIvQO2YgW0K) | [Gökçe Yeşilbaş](https://open.spotify.com/artist/4vEHJ2k0qrokabt96heePy) | [Veda](https://open.spotify.com/album/3dblvzOPpyJRCtBbZIbMC4) | 2:33 | 2024-09-27 | 2024-11-29 |

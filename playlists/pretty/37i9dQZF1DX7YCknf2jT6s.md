@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Walter Smith III
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,047,091 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,047,090 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Circus](https://open.spotify.com/track/4WaueK654l7uuPzuM25jqU) | [Walter Smith III](https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b) | [Twio Vol\. 2](https://open.spotify.com/album/6FeF2mRDXdsvuz5gNNHDBs) | 4:52 |
-| 2 | [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 |
+| 2 | [Perspective of Purpose \(feat\. Keyon Harrold\)](https://open.spotify.com/track/4fC4pkTrE2HwVdcM69JvXL) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [PURPOSE](https://open.spotify.com/album/7LJAcx38gw1YCNPnH7SOO9) | 3:15 |
 | 3 | [Visual Assault](https://open.spotify.com/track/75uNqSwLB6hLOieM28bzKB) | [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Visual Assault](https://open.spotify.com/album/2FAvH7vDB7buwtR3PUxkSx) | 2:43 |
 | 4 | [CAPTAIN KERNEL](https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 3:04 |
 | 5 | [Now More Than Ever](https://open.spotify.com/track/2Hc6OHdtqld9wG1KFydQjq) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Louie Vega](https://open.spotify.com/artist/5dncbrnveDMX9DgxcedeUg), [Masters At Work](https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1) | [EP Two](https://open.spotify.com/album/7H33k7xVpzSzQAB1ijKSAy) | 5:28 |

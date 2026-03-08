@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: Furui Riho
 
-1,235 songs - 3 day 6 hr 4 min
+1,236 songs - 3 day 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 | 2026-02-24 |  |
 | [0821\_a](https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Nisshoku Natsuko 15th Anniversary BEST \- Fly\-by2024\-](https://open.spotify.com/album/7gmE43E3l6qPzX5muaklAK) | 5:39 | 2024-09-17 | 2024-10-02 |
 | [100](https://open.spotify.com/track/3FtCvVQkdoBvCEVnC1tHk4) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [100](https://open.spotify.com/album/1HEiG0oqNKVF2bYmXZU20q) | 3:07 | 2024-11-19 | 2025-04-18 |
+| [100年後にはどうせ皆死んでいる](https://open.spotify.com/track/5QeoqHzHOnRq0zOhAseALm) | [早川 蓮](https://open.spotify.com/artist/7t8DbkykbW5BcKoZZHwzMX) | [100年後にはどうせ皆死んでいる](https://open.spotify.com/album/0csW6hEvGHOjTqmvtH3PPe) | 2:50 | 2026-03-03 |  |
 | [13日の金曜日](https://open.spotify.com/track/4KULpbplZNTABgsZInHr4a) | [iiichanman](https://open.spotify.com/artist/6I8QBjbVfdeTc0uBFdxHOS) | [可愛いのろい](https://open.spotify.com/album/6AoYoFIIZbZkVa4kwFGxBo) | 3:33 | 2026-02-11 | 2026-02-18 |
 | [18](https://open.spotify.com/track/6ZBHOqmPWEqqIeakyvZQTm) | [Vuat](https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y) | [18](https://open.spotify.com/album/0D5rrCZSev5TCKhNrTQMXa) | 4:11 | 2025-10-08 | 2025-10-15 |
 | [18才の夏休み](https://open.spotify.com/track/4SKUc66FMz0BXpqaF2G94u) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [18才の夏休み](https://open.spotify.com/album/7HjvNgMZN1YHWOFNbu36Ob) | 3:41 | 2024-07-16 | 2024-07-27 |
@@ -755,7 +756,7 @@
 | [キミがいないと](https://open.spotify.com/track/0DvgsF4TJLflTcGrlkIpKM) | [AYANE](https://open.spotify.com/artist/3fYxdxiuKlZYMW9Pma6UBM) | [キミがいないと](https://open.spotify.com/album/0uT3czZrsT57vsb4R9KPG5) | 3:35 | 2025-11-25 | 2026-02-12 |
 | [キミとボクの最幸な生活。](https://open.spotify.com/track/1QRy1W0m4UWGHvjrZBj1AX) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [キミとボクの最幸な生活。](https://open.spotify.com/album/0WssnNIUvw3DtiQC8NjBBp) | 3:03 | 2024-08-27 | 2024-12-01 |
 | [キラーフレーズ](https://open.spotify.com/track/4342v2p53IgXi9G9G3Lzbq) | [中川昌利](https://open.spotify.com/artist/3IBNhb2Ud0d8GCLov9ksaf) | [君と出会う前の気持ちを僕は思い出せない](https://open.spotify.com/album/3zlXigZEPdmvmuLO1KVnO9) | 5:45 | 2025-03-04 | 2025-03-12 |
-| [キンモクセイ](https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [キンモクセイ](https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU) | 3:38 | 2026-02-11 |  |
+| [キンモクセイ](https://open.spotify.com/track/3h3bw1hR9vvsvzNyz0NG4Q) | [Mel](https://open.spotify.com/artist/2T4LjvsrIhyjcLqNEDaCQ2) | [キンモクセイ](https://open.spotify.com/album/7kV1hiwsXPxIEY0TlEyndU) | 3:38 | 2026-02-11 | 2026-03-08 |
 | [キンモクセイ](https://open.spotify.com/track/4Dc7HhgTf3lvnOEk8kaSCU) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [キンモクセイ](https://open.spotify.com/album/2cF3FboitdxvaADTCzWWmQ) | 3:07 | 2024-07-02 | 2024-12-04 |
 | [ギリギリガール](https://open.spotify.com/track/3l5PqJmUaIxzKTex48pfiT) | [ゆうやけしはす](https://open.spotify.com/artist/3CwuIn6tAOwZiPt8e0ydoi) | [ギリギリガール](https://open.spotify.com/album/5BeUOqlFuZiacNLBWAuIrw) | 3:00 | 2024-07-30 | 2024-08-07 |
 | [ギルティ \- Guilty](https://open.spotify.com/track/6T39ocn30lHZqy9PCMGdSc) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [ギルティ \- Guilty](https://open.spotify.com/album/5b2yWdyyfJhDIFuJjPlsxZ) | 3:29 | 2025-07-29 | 2025-12-03 |

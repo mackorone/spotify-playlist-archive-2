@@ -372,7 +372,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 257000,
       "name": "24h",
       "url": "https://open.spotify.com/track/4inMQ83GNpQ2OHDredH5hW"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 256905,
       "name": "24H",
       "url": "https://open.spotify.com/track/4UC3NBjtqbYcqPqRq1s57D"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 306477,
       "name": "B\u1ea1n \u0110\u1eddi",
       "url": "https://open.spotify.com/track/0fGJiHH6xSUJU1MAVjxq5m"
@@ -9738,7 +9738,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 195402,
       "name": "GO",
       "url": "https://open.spotify.com/track/3FZPp9lBUvhsxFxKJi3VkB"
@@ -16753,6 +16753,36 @@
     },
     {
       "album": {
+        "name": "S\u00d3NG 26 - T\u01a0 T\u01af\u1edeNG V\u1edaI TH\u1edcI GIAN",
+        "url": "https://open.spotify.com/album/3zUg1e2rSSGVJRgQXd4hkv"
+      },
+      "artists": [
+        {
+          "name": "VCT",
+          "url": "https://open.spotify.com/artist/2FO4DJ1tBx3Y7sYJqOZMsw"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "Jey B",
+          "url": "https://open.spotify.com/artist/4nxHXVJhEDW8IBb2oUwWxA"
+        },
+        {
+          "name": "Ng\u00f4 Ki\u1ebfn Huy",
+          "url": "https://open.spotify.com/artist/7at0gkjCnhOBrxwQlJPJ4s"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354440,
+      "name": "NG\u01af\u1edcI NH\u01af ANH X\u1ee8NG \u0110\u00c1NG C\u00d4 \u0110\u01a0N - KH\u00d4NG \u0110AU N\u1eeeA R\u1ed2I",
+      "url": "https://open.spotify.com/track/6ag0c7tBr3PIqPb00C2rK4"
+    },
+    {
+      "album": {
         "name": "ANH TRAI \"SAY HI\" 2025, T\u1eacP 2",
         "url": "https://open.spotify.com/album/69GHmxwa2HTLLQJCe2icok"
       },
@@ -21194,7 +21224,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 234168,
       "name": "Sinh Ra \u0110\u00e3 L\u00e0 Th\u1ee9 \u0110\u1ed1i L\u1eadp Nhau (feat. Badbies)",
       "url": "https://open.spotify.com/track/5BTzf3doGTigDIYUFtbkI9"
@@ -23888,7 +23918,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 269021,
       "name": "Th\u1ee9c Gi\u1ea5c",
       "url": "https://open.spotify.com/track/1MiJk3dXC5jzhvLFP0dUM7"
@@ -24770,7 +24800,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/2DrLqMSO89napGpafkcvM4"
@@ -24788,7 +24818,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 300750,
       "name": "T\u00ecnh M\u00ecnh L\u1ea1 K\u00ec",
       "url": "https://open.spotify.com/track/3VkV6L37ub0rtuYQoawAqz"
@@ -26100,7 +26130,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 210067,
       "name": "V\u1ebft M\u01b0a",
       "url": "https://open.spotify.com/track/5cn5oHiXJTLiuthgbgfkMh"

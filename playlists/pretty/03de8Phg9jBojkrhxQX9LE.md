@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,953 likes - 197 songs - 10 hr 58 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,957 likes - 197 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FOREVER, forever](https://open.spotify.com/track/5G6eAyYEfhH694fEPRlO8I) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [FOREVER, forever](https://open.spotify.com/album/7wIg26kwkxGKymr30MKf9S) | 3:15 |
 | 2 | [SYRINX](https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [RHR](https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6), [Me Jesmay](https://open.spotify.com/artist/1p3gsovsSOdWucOGKaMEFv), [Lucas Swatch](https://open.spotify.com/artist/23IdyGJLgKTvopNrHG3XfF) | [GÍRIA](https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8) | 2:27 |
 | 3 | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/track/0klC111yCH3JWuPCDbpFqP) | [WINK](https://open.spotify.com/artist/0tmvLj5Sa3njrifpuruKBu) | [say\_yes\_FESTIVALMIX1](https://open.spotify.com/album/5G79EoSpJ0nEEkBm1vJPje) | 3:08 |
-| 4 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:15 |
+| 4 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:01 |
 | 5 | [solo \- KETTAMA remix](https://open.spotify.com/track/38s5FDNYihNd7EK7cyObNh) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [USB002 REMIXES](https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9) | 4:20 |
 | 6 | [REACHING4U](https://open.spotify.com/track/3Glu1zslCaFSi5YtJbvHj5) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [REACHING4U](https://open.spotify.com/album/50jbD7gWudXcSO5luJ1KUz) | 3:17 |
 | 7 | [BROBOBASHER](https://open.spotify.com/track/1aMU637vj6dzOkphmZK5hQ) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 1:51 |

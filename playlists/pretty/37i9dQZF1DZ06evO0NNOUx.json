@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 187178,
+  "num_followers": 187383,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAC+ZxC+VW713cpIIMoq9ihr",
+  "snapshot_id": "aaoZAAAAAACJUXJkp5z21RRWNArDm63M",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KEEP IT SIMPLE",
-        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 140813,
-      "name": "KEEP IT SIMPLE",
-      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 163796,
       "name": "Go Tell It",
       "url": "https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KEEP IT SIMPLE",
+        "url": "https://open.spotify.com/album/158fyQIUL3fFwVlmC9BxkR"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 140813,
+      "name": "KEEP IT SIMPLE",
+      "url": "https://open.spotify.com/track/1FkxNyq6WAGDvdZ1zjURFz"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 188063,
       "name": "Nothing But The Blood",
       "url": "https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 181374,
-      "name": "ALIVE",
-      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 155067,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 181374,
+      "name": "ALIVE",
+      "url": "https://open.spotify.com/track/7BQQqUAn7arwd5cbifdZcd"
     },
     {
       "added_at": null,

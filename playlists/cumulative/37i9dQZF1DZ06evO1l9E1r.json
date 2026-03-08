@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 74153,
       "name": "Old Neighborhood",
       "url": "https://open.spotify.com/track/1EqLUiIgjatjz8DuELFF2k"
@@ -2508,6 +2508,24 @@
       "duration_ms": 96893,
       "name": "The Execution",
       "url": "https://open.spotify.com/track/50XacmDHCboQAAyunrMddY"
+    },
+    {
+      "album": {
+        "name": "The Bride! (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XjFdeM4VwDiSGxSXvs95S"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116908,
+      "name": "The Fall",
+      "url": "https://open.spotify.com/track/4n4p5J9mUea31Lbn9S98Uj"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Tollywood Pearls](https://open.spotify.com/playlist/37i9dQZF1DX5VOFoIqmrOV)
 
-> The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
+> The finest set of Telugu music from the past 10 years\. <br/>Cover : Ramya Behara
 
 271 songs - 18 hr 1 min
 

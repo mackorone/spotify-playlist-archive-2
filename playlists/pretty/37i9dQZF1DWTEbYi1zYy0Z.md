@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,083 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,096 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Waiting in the Wings](https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV) | [Stick It Out](https://open.spotify.com/album/5Cd0BxylSBhnRDhFCNxSPz) | 4:32 |
 | 100 | [Our Night](https://open.spotify.com/track/0MVwhMNLPjnZssyiYPDrg4) | [Paul Cherry](https://open.spotify.com/artist/1xbu7UyVdZxwIiNfLcUKqn) | [Our Night](https://open.spotify.com/album/11S03JFEOKyrRjabBbhIyt) | 4:04 |
 
-Snapshot ID: `AAAAANFEDmKE0ymbcC+oBhB37JFbJZKd`
+Snapshot ID: `AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm`

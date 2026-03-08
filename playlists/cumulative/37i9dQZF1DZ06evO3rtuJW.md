@@ -4,7 +4,7 @@
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-220 songs - 10 hr 57 min
+221 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a) | 3:39 | 2024-10-30 | 2025-03-09 |
 | [In The Air \(feat\. Lil Durk\)](https://open.spotify.com/track/6CKqTFTUPGJqqqJqWg53eR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Big Swerv 2.0](https://open.spotify.com/album/65h8c3viDOcBSZvrEZhygC) | 3:39 | 2025-04-16 | 2025-06-01 |
 | [Influence](https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:56 | 2024-09-09 |  |
+| [Intuition](https://open.spotify.com/track/0icI5GfDfSYel9RQAnIykR) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sonta](https://open.spotify.com/artist/030FjQpP38xhjIPyWgjmiv), [2PRETTY](https://open.spotify.com/artist/2gDCTIYwHifJciv9xhmlW7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 4:06 | 2026-03-08 |  |
 | [It's Something In Me](https://open.spotify.com/track/6s3JnDyFFq4VX5yFDZL7je) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Survivor's Remorse: A Side & B Side](https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU) | 2:42 | 2022-11-13 | 2023-01-29 |
 | [KICK DOOR](https://open.spotify.com/track/3hrNmOrVieY0t27DijFfYH) | [SwaVay](https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [ALMETHA’S SON](https://open.spotify.com/album/1xGuwE8Kx83IOZRPHnoUKA) | 3:22 | 2022-11-18 | 2022-12-13 |
 | [Kill Shit \(feat\. Lil Bibby\) \(Bonus Track\)](https://open.spotify.com/track/4DLO89J3G62BcXy6coIukw) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Bibby](https://open.spotify.com/artist/4uSN8Y3kgFNVULUWsZEAVW) | [Welcome to Fazoland](https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl) | 2:59 | 2022-10-28 |  |
@@ -214,7 +215,7 @@
 | [Went Legit](https://open.spotify.com/track/2I9517MJ7979KTtFjbDo5E) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN) | [Greatest Rapper Alive](https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8) | 2:20 | 2025-07-31 | 2026-01-15 |
 | [Went Legit \(Bonus\)](https://open.spotify.com/track/4ZSJifET0qPf7XtPrtV6EN) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 2:20 | 2026-01-15 |  |
 | [What You Need](https://open.spotify.com/track/2HFXYVDmkTNXTOtAZJvf1r) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Strictly 4 My Fans 2](https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW) | 2:51 | 2023-04-30 | 2023-08-31 |
-| [Whatever U Want \(feat\. Jeremih\)](https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Whatever U Want](https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v) | 2:29 | 2025-10-10 |  |
+| [Whatever U Want \(feat\. Jeremih\)](https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Whatever U Want](https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v) | 2:29 | 2025-10-10 | 2026-03-08 |
 | [Where Would I Be?](https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Lil Herb](https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f) | 3:01 | 2025-11-09 |  |
 | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/0tFBUAD6EUgXmmj1ooNzVT) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Untreated Trauma](https://open.spotify.com/album/4b3YhxbbwYFmhqdzmty0rQ) | 2:48 | 2025-08-19 | 2026-01-21 |
 | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/track/2xFFAAEhz1bIfYShWEto0K) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [White Lies \(feat\. G Herbo\)](https://open.spotify.com/album/2niITwO5X7ODSlOKvOoAsq) | 2:48 | 2025-08-01 | 2025-08-19 |

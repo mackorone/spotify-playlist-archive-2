@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-5,797 songs - 13 day 11 hr 55 min
+5,798 songs - 13 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,7 +590,7 @@
 | [Black Magic](https://open.spotify.com/track/4lbKunBAYECY3e0OPVNqHR) | [Arielle Diba](https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG) | [Black Magic](https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W) | 3:24 | 2023-12-14 | 2023-12-22 |
 | [Blackbird](https://open.spotify.com/track/3xYosaleOoOjwZ5v8Ltzte) | [Doug Walther](https://open.spotify.com/artist/1KFQ2dbapzFnzTBP3wSqAS) | [Sit Back and Try to Relax](https://open.spotify.com/album/5r4L4jNpqoaxRGJDRElqxZ) | 2:04 | 2022-12-16 | 2023-01-07 |
 | [blackjack](https://open.spotify.com/track/1BGBVg76Xbp6Tukir110dD) | [Lyndon Enow](https://open.spotify.com/artist/0Kbe33sOyWEoDt8SwEfrPS) | [blackjack](https://open.spotify.com/album/5noSK1S4VQQQVh6yGMAwaW) | 3:15 | 2021-10-23 | 2021-11-09 |
-| [BLACKSHEEP](https://open.spotify.com/track/5USJ6dYt7G0LJLb6IEnoSw) | [RICHARD MOROSE](https://open.spotify.com/artist/1mBA3qB0gWttEDgV2u8FKK) | [BLACKSHEEP](https://open.spotify.com/album/4UlMSDBe7dOX1uC1FKibG6) | 2:18 | 2026-02-24 |  |
+| [BLACKSHEEP](https://open.spotify.com/track/5USJ6dYt7G0LJLb6IEnoSw) | [RICHARD MOROSE](https://open.spotify.com/artist/1mBA3qB0gWttEDgV2u8FKK) | [BLACKSHEEP](https://open.spotify.com/album/4UlMSDBe7dOX1uC1FKibG6) | 2:18 | 2026-02-24 | 2026-03-08 |
 | [Blackstone](https://open.spotify.com/track/0GiY8zyuG7ga5oGKmg495I) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8) | [Songs from Under a Guava Tree](https://open.spotify.com/album/3b7v3JO5Hw2tMbPWVkXKOu) | 4:17 | 2020-01-04 | 2020-01-14 |
 | [Blades](https://open.spotify.com/track/77F6ryVdeVe0ZabzhpCad2) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:41 | 2023-11-08 | 2023-12-30 |
 | [Blame](https://open.spotify.com/track/1LIBhSk77UxJFcRm0hSAUn) | [Frannk Whitte](https://open.spotify.com/artist/7z8FlI7aFeNqXIkm2mDCtB), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [Blame](https://open.spotify.com/album/3WNgj7d0mIUhoimLxUXGFB) | 2:55 | 2023-07-08 | 2023-07-29 |
@@ -990,6 +990,7 @@
 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 | 2024-08-12 |  |
 | [Come Back Home](https://open.spotify.com/track/6UGP7Qli0iil3p7mH8Fi9H) | [Meeting of the Mimes](https://open.spotify.com/artist/2uRJUGXt7p1rtEdPySZ8nh) | [Come Back Home](https://open.spotify.com/album/05HuSBfw3cZuL9gNhIwQPy) | 4:12 | 2024-10-26 | 2024-11-07 |
 | [Come Back to Me!](https://open.spotify.com/track/6NHzPMLqocep68G9ve5HLo) | [Messiah'el Bey](https://open.spotify.com/artist/1TSU8ZHoDGcAyrAfPtiDZU), [Rocio Del Pozo](https://open.spotify.com/artist/0CQk1e3d6eGlsH6K6o3yi9) | [Jazz Can Heal America's Soul](https://open.spotify.com/album/6eNpJgWcxO8lcvoXO8IOk4) | 4:57 | 2024-03-13 | 2024-03-22 |
+| [Come Closer](https://open.spotify.com/track/0UREytiAyD0YqW8lzKIvbp) | [Sarife](https://open.spotify.com/artist/7dxviwWacvevEgy3sLjg4f), [Joél Davíd](https://open.spotify.com/artist/2VIhuQHWV8VY8rJQZCuVJ5) | [Come Closer](https://open.spotify.com/album/1YGKCRId9miMhNJdeuZfYi) | 4:20 | 2026-03-07 |  |
 | [Come Down](https://open.spotify.com/track/4VlyGw3pzkZ5ZKmeST3XYG) | [Jacob Fleming](https://open.spotify.com/artist/0OmkCIXIHSOOP24pKklKlr) | [Come Down](https://open.spotify.com/album/3MbHSaFdb7OwYeK9T8gMjo) | 4:05 | 2024-01-30 | 2024-02-11 |
 | [Come Home](https://open.spotify.com/track/2VYt1eQeEKo31TP5nnD9wJ) | [Christian James](https://open.spotify.com/artist/2cl5NOs4eJ5SKfjweJlHMB) | [Come Home](https://open.spotify.com/album/0d9Pj1ATkpwWrXUXR6Pc9d) | 2:38 | 2026-02-03 |  |
 | [Come Jesus Come](https://open.spotify.com/track/72aFaoWMcBGR7UopMR92ra) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Come Jesus Come](https://open.spotify.com/album/5aAwnlcci0dIlIuMxroAGR) | 3:32 | 2022-11-22 | 2022-12-11 |
@@ -4864,7 +4865,7 @@
 | [Talk About It](https://open.spotify.com/track/5kDScRmwuoaj80H0xKUZ5S) | [ADINAH VINE](https://open.spotify.com/artist/3l52uxa2NAkAIvqC1Qjke2) | [Talk About It](https://open.spotify.com/album/5tvxEEt8n6Z5K43B6L0GBp) | 2:22 | 2024-10-20 | 2024-11-02 |
 | [Talk About It](https://open.spotify.com/track/2mMbYe7kd4YnTDnwP28Ght) | [Miyamoto](https://open.spotify.com/artist/5CF46SR2u5iy00KXQRZqYt) | [Talk About It](https://open.spotify.com/album/5dIYPDaQpW7Iu1rZA9QoXK) | 3:02 | 2021-12-31 | 2022-01-15 |
 | [Talk And Give](https://open.spotify.com/track/0bBMZbuPGpdzuGA52Eywqj) | [Júsef René](https://open.spotify.com/artist/6ZdIUy4nrwQ7KxZQX8804L), [Khaja](https://open.spotify.com/artist/7xvJ01VveC2vr3XZpfHTHm) | [Talk And Give](https://open.spotify.com/album/0xEISW2qpJKDxsKS2Y7a9e) | 2:21 | 2025-10-02 | 2025-10-14 |
-| [Talk To Johnny](https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Talk To Johnny](https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ) | 2:43 | 2026-02-24 |  |
+| [Talk To Johnny](https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv) | [Noah James](https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq) | [Talk To Johnny](https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ) | 2:43 | 2026-02-24 | 2026-03-08 |
 | [Talk To Me](https://open.spotify.com/track/2tseEPCbD2xdVl86U4ZYgX) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Talk To Me](https://open.spotify.com/album/5WNJDdCcm16oW2VBKCXBt3) | 3:18 | 2024-03-24 | 2024-08-13 |
 | [TALK TO YOU](https://open.spotify.com/track/0U2trRp7HndAG6rm1179B1) | [N!CO](https://open.spotify.com/artist/7r9Tb0zhwFqULO8MnivMve) | [TALK TO YOU](https://open.spotify.com/album/6hi4A2IxZoQbFi0ZeOLaFs) | 3:29 | 2024-12-20 | 2025-01-01 |
 | [Talk U Thru It](https://open.spotify.com/track/6wqYruexXpyJP92a1K5kwy) | [Ashton Pierce](https://open.spotify.com/artist/2RvoIOUOJMzsOeTfOAYaIr), [Siergio](https://open.spotify.com/artist/5XIX8O7SCbFnCBcGfd7puL) | [Under Pressure](https://open.spotify.com/album/3cfN1J6tTG60BlR3DNbhJJ) | 3:16 | 2025-08-21 | 2025-09-02 |

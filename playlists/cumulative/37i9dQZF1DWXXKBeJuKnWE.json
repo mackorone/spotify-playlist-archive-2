@@ -302,7 +302,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 216083,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/4OAP0t2AbljWcYfHdAPBmb"
@@ -8310,6 +8310,24 @@
       "duration_ms": 168786,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/7tEOucZMfYd1hnW1lN8dMd"
+    },
+    {
+      "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162760,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
     },
     {
       "album": {

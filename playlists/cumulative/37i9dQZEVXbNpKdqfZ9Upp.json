@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 228959,
       "name": "Adicto a ti",
       "url": "https://open.spotify.com/track/07gNcsqI3PIzPWe2cgoAHk"
@@ -7594,10 +7594,28 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology - 1974-1981",
+        "url": "https://open.spotify.com/album/7rCpFovU7itXZjSXnbvWeg"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
     },
     {
       "album": {
@@ -13978,7 +13996,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 210452,
       "name": "Como Un P\u00e1jaro",
       "url": "https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5"
@@ -14238,7 +14256,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 224360,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
@@ -20916,7 +20934,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 213960,
       "name": "EL MUNDO SE VA A ACABAR",
       "url": "https://open.spotify.com/track/6SkbzQSYMJzrmmDBEvbh0S"
@@ -21510,7 +21528,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 156708,
       "name": "Ela k\u00e9 Leitada",
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh"
@@ -28150,6 +28168,24 @@
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/0Qe2g06yzLBuuSvVmFiweP"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os De Amor 20 Aniversario",
+        "url": "https://open.spotify.com/album/1p72t19ekafGD27k5zrzUC"
+      },
+      "artists": [
+        {
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147613,
+      "name": "Hasta Donde Te Quiero",
+      "url": "https://open.spotify.com/track/5gcHIPUzf4WZwcgfJ7vHkq"
     },
     {
       "album": {
@@ -42380,6 +42416,24 @@
       "duration_ms": 197960,
       "name": "Mi Viejo",
       "url": "https://open.spotify.com/track/3bWMCH2M7JWUga1WRagDzs"
+    },
+    {
+      "album": {
+        "name": "Mi Yo de Antes",
+        "url": "https://open.spotify.com/album/2y77rjJAPxg73wjdzAeTMN"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182793,
+      "name": "Mi Yo de Antes",
+      "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
     },
     {
       "album": {
@@ -58960,7 +59014,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 130677,
       "name": "Se Dejo Del Novio",
       "url": "https://open.spotify.com/track/1Xr3x1zElsBYlFzTvS60c8"

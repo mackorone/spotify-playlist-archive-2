@@ -643,6 +643,28 @@
     },
     {
       "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189179,
+      "name": "Addicted To Bass - Dom Dolla Relapse",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 269713,
       "name": "Back To The Groove",
       "url": "https://open.spotify.com/track/4tMr7Bik0z8R6nAOz3FPQ1"
@@ -12519,6 +12541,24 @@
     },
     {
       "album": {
+        "name": "if you wanna party, come over to my house",
+        "url": "https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "if you wanna party, come over to my house",
+      "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -16314,7 +16354,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 219692,
       "name": "Mind Dimension - Adam Sellouk Remix",
       "url": "https://open.spotify.com/track/7e5S2rMuJtJNdqTGXflxsn"
@@ -19332,6 +19372,40 @@
       "duration_ms": 209374,
       "name": "Party Out",
       "url": "https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk"
+    },
+    {
+      "album": {
+        "name": "Party Started (feat. French Caviar)",
+        "url": "https://open.spotify.com/album/3ctVYeZDf3nHqFk3j8mtfe"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        },
+        {
+          "name": "KAYA",
+          "url": "https://open.spotify.com/artist/7igXJX2v4kumgqAl13JMTJ"
+        },
+        {
+          "name": "French Caviar",
+          "url": "https://open.spotify.com/artist/5DW1slepFlsU3WcGRkJDqb"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143801,
+      "name": "Party Started (feat. French Caviar)",
+      "url": "https://open.spotify.com/track/4KUvvPHDP6QEjs1T4ZIvA6"
     },
     {
       "album": {
@@ -24172,7 +24246,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 154354,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/7tZSQgFyzWAAtsb7OUUDbn"

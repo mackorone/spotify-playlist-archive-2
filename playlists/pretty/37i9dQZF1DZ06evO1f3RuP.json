@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAAq1ITxs5DT+rm/3Uz7MQH5",
+  "snapshot_id": "aaoZAAAAAACA8uJy3hDZUQknAWNc8cfn",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
+        }
+      ],
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
@@ -131,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -163,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Banoffee",
-          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
         }
       ],
-      "duration_ms": 166688,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "demon time",
-        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
-      },
-      "artists": [
-        {
-          "name": "Mura Masa",
-          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130057,
-      "name": "demon time (with BAYLI)",
-      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2nWaVG4ZaLj1J41LBBwzLA"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 192941,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/1YnewALtpmHPZg86MgB1C0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "demon time",
+        "url": "https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm"
+      },
+      "artists": [
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130057,
+      "name": "demon time (with BAYLI)",
+      "url": "https://open.spotify.com/track/4bLUlN1VbZvCksmFpjABwf"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busy (BAYLI Remix)",
-        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
-      },
-      "artists": [
-        {
-          "name": "Nina Las Vegas",
-          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 165086,
-      "name": "Busy - BAYLI Remix",
-      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spend It",
         "url": "https://open.spotify.com/album/3xMUGDB2h7dVP5vWZjDpjf"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 180000,
       "name": "Spend It",
       "url": "https://open.spotify.com/track/1KlJZMMGrpXMVGYadMc3wF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busy (BAYLI Remix)",
+        "url": "https://open.spotify.com/album/4QItHH0p7qev4nWghJWNQe"
+      },
+      "artists": [
+        {
+          "name": "Nina Las Vegas",
+          "url": "https://open.spotify.com/artist/3L2tOP2vRYfjXVW4W1tKEJ"
+        },
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 165086,
+      "name": "Busy - BAYLI Remix",
+      "url": "https://open.spotify.com/track/7dgyEXVCMkwj3vj3Yy5hr7"
     },
     {
       "added_at": null,

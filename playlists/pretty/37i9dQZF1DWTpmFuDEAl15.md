@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,831 likes - 118 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,841 likes - 118 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 117 | [NONCHALANT \(feat\. Mamii\)](https://open.spotify.com/track/2mz9mssxUxuUdBBiMWXdIF) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Mamii](https://open.spotify.com/artist/0QPC36N4aQVrUp0NzaSXHI) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 3:24 |
 | 118 | [Wait a Minute \(feat\. Lil' Kim\)](https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [This Ain't A Game](https://open.spotify.com/album/4cmmca5HU2WP9yIvErhnf6) | 3:47 |
 
-Snapshot ID: `AAAAAO1G2dn+cUwxm156Q46qW4735Pdt`
+Snapshot ID: `AAAAANEzimXNkHPOiAf8QidbskRadiBC`

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf31\ud83c\udf38\ud83c\udf3e\ud83c\udf3c\n",
-  "num_followers": 159565,
+  "num_followers": 159571,
   "original_name": "v\u00e5r i lufta",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Again, for the first time",
-        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
-      },
-      "artists": [
-        {
-          "name": "Iris Caltwait",
-          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
-        }
-      ],
-      "duration_ms": 219130,
-      "name": "Alchemy (Living Is Not For The Heart)",
-      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Hjemme",
         "url": "https://open.spotify.com/album/5EVeTeHyY3IvVXYmz29rZr"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 236619,
       "name": "Hjemme",
       "url": "https://open.spotify.com/track/6FPKJnJMghrBQUQuSY5nnQ"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "Again, for the first time",
+        "url": "https://open.spotify.com/album/395n7Rh9sxYRP7n9ylsNVd"
+      },
+      "artists": [
+        {
+          "name": "Iris Caltwait",
+          "url": "https://open.spotify.com/artist/5jOiYJPp5e84cnK2KO1aNz"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Alchemy (Living Is Not For The Heart)",
+      "url": "https://open.spotify.com/track/3kkoHaiT9qQkEyMBNkdDxQ"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
+        "name": "Milk and Honey",
+        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 210807,
+      "name": "Milk and Honey",
+      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
         "name": "Southern Star (feat. AURORA)",
         "url": "https://open.spotify.com/album/09ffeND0KDUNaU5UvzHioj"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 304760,
       "name": "Southern Star (feat. AURORA)",
       "url": "https://open.spotify.com/track/4rDNGiBF4tZbCDeeTH42II"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
-        "name": "Milk and Honey",
-        "url": "https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 210807,
-      "name": "Milk and Honey",
-      "url": "https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "Ta med deg d\u00f8ra",
-        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
-      },
-      "artists": [
-        {
-          "name": "Zimmermann",
-          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
-        }
-      ],
-      "duration_ms": 211810,
-      "name": "Ta med deg d\u00f8ra",
-      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Hold d\u00e6 fast",
         "url": "https://open.spotify.com/album/22CpNiSjlxIcFTcUS2Mqbr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 198814,
       "name": "Hold d\u00e6 fast",
       "url": "https://open.spotify.com/track/62z5Gj6uZQshGKaUFqV3dN"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "Ta med deg d\u00f8ra",
+        "url": "https://open.spotify.com/album/4VHqpvGnzLuNqkT5cEbE4K"
+      },
+      "artists": [
+        {
+          "name": "Zimmermann",
+          "url": "https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB"
+        }
+      ],
+      "duration_ms": 211810,
+      "name": "Ta med deg d\u00f8ra",
+      "url": "https://open.spotify.com/track/1OAkvD5srk4M9AGZk0gSPQ"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "ETTERGL\u00d8D",
-        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
+        "name": "Fargepalett",
+        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
       },
       "artists": [
         {
-          "name": "Ka2",
-          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
+          "name": "Nessi",
+          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
         }
       ],
-      "duration_ms": 241500,
-      "name": "For alltid",
-      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
+      "duration_ms": 141335,
+      "name": "Fargepalett",
+      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1299,22 +1299,6 @@
       "duration_ms": 206333,
       "name": "Du ska f\u00e5 en dag i m\u00e5rg\u00e5",
       "url": "https://open.spotify.com/track/4ijd1dEAZFTJ8FEUyD7k45"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
-        "name": "Fargepalett",
-        "url": "https://open.spotify.com/album/7DDnAh6stiJh89pYttClM6"
-      },
-      "artists": [
-        {
-          "name": "Nessi",
-          "url": "https://open.spotify.com/artist/6BU3m4HABKbgt8jhyFuBdl"
-        }
-      ],
-      "duration_ms": 141335,
-      "name": "Fargepalett",
-      "url": "https://open.spotify.com/track/7r8FITLqf8562PHKShR9gc"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1351,34 +1335,18 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "YOUNG: Part 1 & 2",
-        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+        "name": "ETTERGL\u00d8D",
+        "url": "https://open.spotify.com/album/1jbJbBZDzFYZbs1EE8gwP3"
       },
       "artists": [
         {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+          "name": "Ka2",
+          "url": "https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe"
         }
       ],
-      "duration_ms": 137160,
-      "name": "If I'm So Bad",
-      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
-      },
-      "artists": [
-        {
-          "name": "Hannah Storm",
-          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
-        }
-      ],
-      "duration_ms": 187869,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
+      "duration_ms": 241500,
+      "name": "For alltid",
+      "url": "https://open.spotify.com/track/21rohU3ZnqnLXDvHFbR3E2"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1399,6 +1367,22 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
+        "name": "YOUNG: Part 1 & 2",
+        "url": "https://open.spotify.com/album/1fgSrvKpIkI49fAy6SFHPV"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 137160,
+      "name": "If I'm So Bad",
+      "url": "https://open.spotify.com/track/3qOFI6kpf9FqZ2GxKCJV3M"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
         "name": "Finaste s\u00e5 finns",
         "url": "https://open.spotify.com/album/3zhOvMVq1g3idvO6BnboI1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 190405,
       "name": "Finaste s\u00e5 finns",
       "url": "https://open.spotify.com/track/7JBNrNLt5nncS9OYTBFA2F"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/2M3flg4qynuOU0A5YAqciG"
+      },
+      "artists": [
+        {
+          "name": "Hannah Storm",
+          "url": "https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL"
+        }
+      ],
+      "duration_ms": 187869,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/1tKt5lYHwNymK3SMDrzQNK"
     },
     {
       "added_at": "2026-03-06 07:45:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-03-06 07:45:58",
       "album": {
-        "name": "05050",
-        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n",
-          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
-        }
-      ],
-      "duration_ms": 186739,
-      "name": "DESPU\u00c9S DE LA FERIA",
-      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
-    },
-    {
-      "added_at": "2026-03-06 07:45:58",
-      "album": {
         "name": "Og eg lyger s\u00e5 det renner som en foss gjennom rommet",
         "url": "https://open.spotify.com/album/5Z2a34xi0uWqZK2nE72zHH"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 220333,
       "name": "S\u00e5 easy",
       "url": "https://open.spotify.com/track/5XseAj5jHF5ncdTu6a89ak"
+    },
+    {
+      "added_at": "2026-03-06 07:45:58",
+      "album": {
+        "name": "05050",
+        "url": "https://open.spotify.com/album/78Y7RCEFDKdDWfQ62prVwx"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n",
+          "url": "https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL"
+        }
+      ],
+      "duration_ms": 186739,
+      "name": "DESPU\u00c9S DE LA FERIA",
+      "url": "https://open.spotify.com/track/0gi0UeiivFSkgrc8Bw7m4x"
     },
     {
       "added_at": "2026-03-06 07:45:58",

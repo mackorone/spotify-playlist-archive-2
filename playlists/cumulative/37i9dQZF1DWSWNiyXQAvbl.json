@@ -1577,24 +1577,6 @@
     },
     {
       "album": {
-        "name": "Ultimate Manilow",
-        "url": "https://open.spotify.com/album/5h6i4wiKdWSO8E0m4GDcs2"
-      },
-      "artists": [
-        {
-          "name": "Barry Manilow",
-          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
-        }
-      ],
-      "date_added": "2020-07-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 197733,
-      "name": "Mandy",
-      "url": "https://open.spotify.com/track/3PL7ESy586g34Pp0ycijrG"
-    },
-    {
-      "album": {
         "name": "The Greatest Songs Of The Seventies",
         "url": "https://open.spotify.com/album/29MkM2BlD2jnF6g8lcMDuP"
       },
@@ -1628,6 +1610,24 @@
       "duration_ms": 213333,
       "name": "Mandy",
       "url": "https://open.spotify.com/track/6iXQrhhgBisdfvS34EMTZ3"
+    },
+    {
+      "album": {
+        "name": "Ultimate Manilow",
+        "url": "https://open.spotify.com/album/5h6i4wiKdWSO8E0m4GDcs2"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2020-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Mandy - Single Version",
+      "url": "https://open.spotify.com/track/3PL7ESy586g34Pp0ycijrG"
     },
     {
       "album": {

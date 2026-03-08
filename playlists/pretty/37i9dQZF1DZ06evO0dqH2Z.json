@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 4565,
+  "num_followers": 4568,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAC/KhdcHSOXjDLXy52Z7/fc",
+  "snapshot_id": "aaoZAAAAAACla6vuFrfuLZ+Hepsqs44V",
   "tracks": [
     {
       "added_at": null,
@@ -127,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 149558,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primary Colors",
         "url": "https://open.spotify.com/album/6m8HloBBOV8cd5evEUTY4U"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 217371,
       "name": "Primary Colors",
       "url": "https://open.spotify.com/track/6SWFl2FvTy2j4JJyHZ87CN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/3j2H05IR3iTMMQ3FeYQXt7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 149558,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/3rNePDz5uV8FGnpuuq63RO"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Slow Come On",
-      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+      "duration_ms": 161386,
+      "name": "Distress Signal",
+      "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Distress Signal",
-      "url": "https://open.spotify.com/track/0WNkiBlZdhn6JXzyCki4gO"
+      "duration_ms": 195320,
+      "name": "Slow Come On",
+      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,

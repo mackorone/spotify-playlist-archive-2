@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: MC Cabelinho, Tz da Coronel
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,796 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,849 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
+| 1 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
 | 2 | [prime](https://open.spotify.com/track/7dw61GUJOPCE3SWhVMxMLw) | [Tchelo](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [retroboy](https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY) | [prime](https://open.spotify.com/album/2pEQiGYl6nElNHBiaTvD2H) | 2:00 |
 | 3 | [PULSO](https://open.spotify.com/track/18r8sv80kmc5eczyyukWYw) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [PULSO](https://open.spotify.com/album/6gn3urItJE7uGMqp8yiHu8) | 6:03 |
 | 4 | [Safira](https://open.spotify.com/track/5yJqYXl2JRF88Ai4Ir1vi8) | [Franco, The Sir!](https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU) | [Rubi e Safira](https://open.spotify.com/album/079drK6XjS3EcZaae0Hp4K) | 2:58 |

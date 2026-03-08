@@ -12913,6 +12913,24 @@
     },
     {
       "album": {
+        "name": "Mutta mill\u00e4 hinnalla",
+        "url": "https://open.spotify.com/album/1nwaC7MbyUc5sQju47xbJp"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177804,
+      "name": "Mutta mill\u00e4 hinnalla",
+      "url": "https://open.spotify.com/track/5suG6Qed1VC7QtGkrHIxAd"
+    },
+    {
+      "album": {
         "name": "Muut",
         "url": "https://open.spotify.com/album/2RwqgdgKBboGjESQrvcKvO"
       },

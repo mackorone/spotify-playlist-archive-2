@@ -4,7 +4,7 @@
 
 > This is Osunlade\. The essential tracks, all in one playlist.
 
-76 songs - 6 hr 57 min
+77 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Chocolate Puddin' \- FNX Omar Remix](https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [James Curd](https://open.spotify.com/artist/2PwiPk4hJp1MX6zH2YJmIL), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Chocolate Puddin'](https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7) | 6:28 | 2025-06-28 |  |
 | [Comin' Around](https://open.spotify.com/track/2TLAATjDGstuELmuUKnfoW) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Ache'](https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4) | 4:41 | 2025-12-05 | 2025-12-19 |
 | [Cosmic Signs](https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Dedication EP](https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX) | 3:13 | 2025-06-28 |  |
-| [Crazy U \- Unplugged](https://open.spotify.com/track/6t1aT7dmE6gjVRBki6h6o7) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Purple Music](https://open.spotify.com/album/26QnUn09WwqnKnK2UkA8l9) | 3:58 | 2026-02-21 |  |
+| [Crazy U \- Unplugged](https://open.spotify.com/track/6t1aT7dmE6gjVRBki6h6o7) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Purple Music](https://open.spotify.com/album/26QnUn09WwqnKnK2UkA8l9) | 3:58 | 2026-02-21 | 2026-03-08 |
 | [Crazy You](https://open.spotify.com/track/2LPqiasQ4eNQe5xsefvkew) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Rewind, Vol\. 5](https://open.spotify.com/album/2FrNJjEGwkJV8Z32ZMuKo9) | 3:58 | 2025-06-28 |  |
 | [Cucumber Sweat](https://open.spotify.com/track/33NSI1z6i0aIIzHSDy9Cat) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Cucumber Sweat](https://open.spotify.com/album/6jfI5la9YYjyyRxatJMo0H) | 3:32 | 2025-06-28 | 2025-12-17 |
 | [Dance Circle](https://open.spotify.com/track/04R8GPa3nH28LIDTVSL7bA) | [Mr\. Flip](https://open.spotify.com/artist/1yODnwYRnOM87gsZKi31Xl), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Osunlade Presents Mr\. Flip](https://open.spotify.com/album/3bSqGNEv3hgYePAtBPdukQ) | 5:07 | 2025-10-19 | 2025-11-03 |
@@ -60,6 +60,7 @@
 | [Natives Tongue](https://open.spotify.com/track/2CEsYinJFRDJfX2f3eiqu8) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Natives Tongue](https://open.spotify.com/album/68kE4iE9bgRtb7psaoStUl) | 3:56 | 2025-06-28 |  |
 | [No Way](https://open.spotify.com/track/1munpHmR7jwdF2X7OJrZ9U) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Pyrography](https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH) | 6:01 | 2025-08-23 |  |
 | [Plantation Earth](https://open.spotify.com/track/5ApNxXVJLVsCw6YFQmLJPm) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [INvite ONly](https://open.spotify.com/album/7ILkptkE77YgKwCq7Gkhxa) | 4:18 | 2025-06-28 |  |
+| [Poh's Devotion](https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Ache'](https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4) | 1:37 | 2026-03-08 |  |
 | [Pride \(Main Mix\)](https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Nadirah Shakoor](https://open.spotify.com/artist/6NxIOj0bsCWjW5mJGDEFwy) | [Pride](https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68) | 6:28 | 2025-06-28 |  |
 | [Put It On \- Osunlade Club Mix](https://open.spotify.com/track/1SpdnBjTgVNmtjdmAHMR9K) | [Atjazz](https://open.spotify.com/artist/5E1HWPplEsztsh2zh1c9mH), [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Ernesto](https://open.spotify.com/artist/1whoHyyDCn7LqwFWdJjyqg) | [Osunlade vs Papa](https://open.spotify.com/album/5JwaDhx5S9k2pATGBgnbFv) | 7:52 | 2025-07-02 | 2025-07-06 |
 | [Recovery Music](https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY), [Mike Steva](https://open.spotify.com/artist/4hI9hUPsu9oDID6Sk9JFV6) | [The Quieter You Become, the More You Hear](https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO) | 4:47 | 2025-06-28 |  |

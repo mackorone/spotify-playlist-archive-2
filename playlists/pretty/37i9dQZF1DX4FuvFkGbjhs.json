@@ -1,6 +1,6 @@
 {
   "description": "Beyond titles, beyond genre. Cover: waterbaby",
-  "num_followers": 199312,
+  "num_followers": 199309,
   "original_name": "UNTITLED",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Wall of Sound",
-        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
+        "name": "House featuring John Cale",
+        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 144426,
-      "name": "Wall of Sound",
-      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
+      "duration_ms": 197593,
+      "name": "House featuring John Cale",
+      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -447,22 +451,18 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "House featuring John Cale",
-        "url": "https://open.spotify.com/album/6bUbneSMvxPLFuOEeyHgJo"
+        "name": "Wall of Sound",
+        "url": "https://open.spotify.com/album/5xQarRykqfONyHrL792y8z"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
         }
       ],
-      "duration_ms": 197593,
-      "name": "House featuring John Cale",
-      "url": "https://open.spotify.com/track/6lYUgmE829m06SMC6tG3qD"
+      "duration_ms": 144426,
+      "name": "Wall of Sound",
+      "url": "https://open.spotify.com/track/3wEAaX6X3HCKrN3O2xmVQD"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
+        "name": "Tell Me (U Want It)",
+        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Tell Me (U Want It)",
+      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 164605,
       "name": "What It Gave Me",
       "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Tell Me (U Want It)",
-        "url": "https://open.spotify.com/album/3JedLQJK34WnW9thqc8BAo"
-      },
-      "artists": [
-        {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Tell Me (U Want It)",
-      "url": "https://open.spotify.com/track/1dsKLYqHpiIkgTK4TdMUzy"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -839,6 +839,22 @@
       "duration_ms": 281786,
       "name": "This Is The World (I Made It For You)",
       "url": "https://open.spotify.com/track/6xgNV9489zKLRXnvpiZQXJ"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Jean",
+        "url": "https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 184481,
+      "name": "Earth, Wind & California",
+      "url": "https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1075,26 +1091,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Ah Ya",
-        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        },
-        {
-          "name": "Thee Diane",
-          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
-        }
-      ],
-      "duration_ms": 253317,
-      "name": "Ah Ya",
-      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Ostentatious",
         "url": "https://open.spotify.com/album/0Y0OQfgW9cFQHrKpZvicX2"
       },
@@ -1115,6 +1111,42 @@
       "duration_ms": 224000,
       "name": "Ostentatious",
       "url": "https://open.spotify.com/track/0buN3nIjGOmj2boRh7zNrz"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Ah Ya",
+        "url": "https://open.spotify.com/album/26E3GgqTPaL3Gn0VSwWZyG"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Thee Diane",
+          "url": "https://open.spotify.com/artist/7DcE4JnEVxd3ZHlA5TVBK5"
+        }
+      ],
+      "duration_ms": 253317,
+      "name": "Ah Ya",
+      "url": "https://open.spotify.com/track/3MaYsrNTYEASQ8Ean2d8WE"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9"
+      },
+      "artists": [
+        {
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        }
+      ],
+      "duration_ms": 191922,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1151,26 +1183,6 @@
       "duration_ms": 242240,
       "name": "Automatic Love",
       "url": "https://open.spotify.com/track/6TLEg0rUFLH0EF9CYfRJ7B"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Tell Me",
-        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "Blood Orange",
-          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
-        }
-      ],
-      "duration_ms": 169273,
-      "name": "Tell Me",
-      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1215,18 +1227,22 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Oxis 8",
-        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/3REQzRGObqM9DqmOmiuvzP"
       },
       "artists": [
         {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+          "name": "Sassy 009",
+          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Dogfish",
-      "url": "https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3"
+      "duration_ms": 169273,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1251,18 +1267,54 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "Enemy",
-        "url": "https://open.spotify.com/album/3p3lmExl5r6M8ZV6kBLUl9"
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
       },
       "artists": [
         {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
         }
       ],
-      "duration_ms": 191922,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/3nvQr4XpiZFHuG0QLzh3V8"
+      "duration_ms": 177569,
+      "name": "Nothing I Could Hide",
+      "url": "https://open.spotify.com/track/10AQo2SdV1WMKxuF7XuMqu"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Oxis 8",
+        "url": "https://open.spotify.com/album/13YaZjYWXK9tFlLK9VUcIx"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Dogfish",
+      "url": "https://open.spotify.com/track/38G45tr5jBQA1Y7HP5o4x3"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1331,22 +1383,6 @@
     {
       "added_at": "2026-03-06 00:00:31",
       "album": {
-        "name": "High Road",
-        "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 206143,
-      "name": "High Road",
-      "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
         "name": "Stick Fight",
         "url": "https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU"
       },
@@ -1359,6 +1395,22 @@
       "duration_ms": 202016,
       "name": "Stick Fight",
       "url": "https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ"
+    },
+    {
+      "added_at": "2026-03-06 00:00:31",
+      "album": {
+        "name": "High Road",
+        "url": "https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 206143,
+      "name": "High Road",
+      "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
     },
     {
       "added_at": "2026-03-06 00:00:31",
@@ -1411,66 +1463,6 @@
       "duration_ms": 159471,
       "name": "monty (\uff3e\u1d25\uff3e)",
       "url": "https://open.spotify.com/track/0EFMiBoeQrnAdvjIoTLF9L"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Dreamer+",
-        "url": "https://open.spotify.com/album/5NtxvFIhVQUjNaGE69y93P"
-      },
-      "artists": [
-        {
-          "name": "Sassy 009",
-          "url": "https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L"
-        },
-        {
-          "name": "BEA1991",
-          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
-        }
-      ],
-      "duration_ms": 202013,
-      "name": "Sleepwalker's Pendulum",
-      "url": "https://open.spotify.com/track/6loiJKdA0IDMYBGAmPGJb4"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "Children of the Baked Potato",
-        "url": "https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Children of the Baked Potato",
-      "url": "https://open.spotify.com/track/0sCjYTtc6PW1vkKJcKO00b"
-    },
-    {
-      "added_at": "2026-03-06 00:00:31",
-      "album": {
-        "name": "viscus (feat. FKA twigs)",
-        "url": "https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        },
-        {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
-        }
-      ],
-      "duration_ms": 220534,
-      "name": "viscus (feat. FKA twigs)",
-      "url": "https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20"
     }
   ],
   "unique_name": "UNTITLED",

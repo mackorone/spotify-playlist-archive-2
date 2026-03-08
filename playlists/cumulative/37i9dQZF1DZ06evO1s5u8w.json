@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Naked",
+        "url": "https://open.spotify.com/album/6iOPhFscLxdpzGug0qxpcZ"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "(Nothing But) Flowers",
+      "url": "https://open.spotify.com/track/3tLolIaNbQSoIv6Usvhboh"
+    },
+    {
+      "album": {
+        "name": "Naked",
         "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 332093,
       "name": "(Nothing But) Flowers - 2005 Remaster",
       "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"

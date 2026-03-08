@@ -1,6 +1,6 @@
 {
   "description": "The best indie music of the moment. Cover: Gretel",
-  "num_followers": 1168800,
+  "num_followers": 1168735,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
@@ -178,6 +178,10 @@
         {
           "name": "Martin Slattery",
           "url": "https://open.spotify.com/artist/6t3PJIhjCRRJ1SH1O3zbLp"
+        },
+        {
+          "name": "The Immortal Man",
+          "url": "https://open.spotify.com/artist/30m2gfOVcyLAAcSW8JZpFs"
         }
       ],
       "duration_ms": 266759,

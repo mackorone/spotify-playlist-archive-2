@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Harry Styles, Sarah Connor, Mary Middlefield, Jazeek & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,790 likes - 98 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,796 likes - 98 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 92 | [Orla](https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Orla](https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O) | 3:25 |
 | 93 | [London's Burning](https://open.spotify.com/track/7zSo6VFBUzx3jrH6RpaUyP) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Little Miss Crazy B!tch](https://open.spotify.com/album/3rbz11TmDHUWPKLNVJ2Vzj) | 2:49 |
 | 94 | [ICH WAR HIER](https://open.spotify.com/track/0Hiydp2FPlfsltfPgx3h14) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [ICH WAR HIER](https://open.spotify.com/album/1xiNvX2AZz3WOwoWcZlT4g) | 2:51 |
-| 95 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 95 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 96 | [Devil You Know](https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Devil You Know](https://open.spotify.com/album/3XutjqiiywXz5uD4Fx6JA0) | 3:10 |
 | 97 | [Adiletten & Weißwein](https://open.spotify.com/track/3YnY2J5wpXWvD9QLVLSQjy) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG), [nils fie](https://open.spotify.com/artist/2jXDpuKP3CSQXR36w4tqwK) | [Adiletten & Weißwein](https://open.spotify.com/album/0v4pbVrNxoSCBNopDYmCU4) | 2:53 |
 | 98 | [Lasst uns reden](https://open.spotify.com/track/0tgoIuykipCg5BsXh42vaU) | [Roland Kaiser](https://open.spotify.com/artist/1uphmI1bErhHslREq9QusL) | [Marathon+](https://open.spotify.com/album/55eh3MFrStbKpciU29Ogpm) | 3:48 |

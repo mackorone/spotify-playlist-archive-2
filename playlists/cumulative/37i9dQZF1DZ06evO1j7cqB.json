@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 124626,
       "name": "Outlander - The Skye Boat Song (Castle Leoch Version) [feat. Raya Yarbrough]",
       "url": "https://open.spotify.com/track/3RQPR2TN3DIj4dqDUEE2LO"
@@ -1448,6 +1448,32 @@
       "duration_ms": 215587,
       "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
       "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "album": {
+        "name": "Outlander: Season 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6fAwNhRkNSOUyxzQDHDfp6"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245267,
+      "name": "Outlander - The Skye Boat Song (The Journey's End Extended Version) (feat. Annie Lennox)",
+      "url": "https://open.spotify.com/track/3Nxj97lDKXIEkIzRBL33NA"
     },
     {
       "album": {
@@ -1484,7 +1510,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 315440,
       "name": "Passacaglia",
       "url": "https://open.spotify.com/track/5B7UhhIGDHgcvY1TdnLl8x"
@@ -1538,7 +1564,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 212013,
       "name": "People Disappear All the Time",
       "url": "https://open.spotify.com/track/2j03d8wjAXEh5Gyvs2GuiT"

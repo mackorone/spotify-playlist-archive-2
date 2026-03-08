@@ -819,17 +819,21 @@
     {
       "added_at": "2025-12-03 12:15:52",
       "album": {
-        "name": "C'est mon BB",
+        "name": "C'est mon BB (feat. Chily)",
         "url": "https://open.spotify.com/album/1EGsiCAKg0HrWXfg3AoFde"
       },
       "artists": [
         {
           "name": "Emma'a",
           "url": "https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx"
+        },
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
         }
       ],
       "duration_ms": 148480,
-      "name": "C'est mon BB",
+      "name": "C'est mon BB (feat. Chily)",
       "url": "https://open.spotify.com/track/2WC22k0LeiZMaAjLsTBhPj"
     },
     {

@@ -313,6 +313,32 @@
     },
     {
       "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/0o03yi54DW1bVidSYt9hZZ"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140109,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1Qt93wdcRF1sgRNnJeeldt"
+    },
+    {
+      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69"
       },
@@ -324,7 +350,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 158429,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo"

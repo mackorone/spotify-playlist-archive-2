@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-454 songs - 1 day 2 hr 23 min
+455 songs - 1 day 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [勇者](https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [勇者](https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO) | 3:14 | 2024-05-03 |  |
 | [厭世という名の病](https://open.spotify.com/track/4wX19Nf6Mc2ACCOnfD01bQ) | [蟲の知らせ](https://open.spotify.com/artist/28dGfhcMY5UMKJCRLLonvf), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [厭世という名の病](https://open.spotify.com/album/1ZU3Lcg2jRN1UcoqfbBPbk) | 3:50 | 2024-10-03 |  |
 | [君はできない子](https://open.spotify.com/track/7corSqnjU5bX09ZXy3nhVD) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク3](https://open.spotify.com/album/5eSuy3Rr40DI0qcPOMFgX0) | 4:21 | 2022-11-25 |  |
-| [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 | 2024-10-14 |  |
+| [哀悼、そして日常は続く](https://open.spotify.com/track/18v2m4Y7q5wIBgQT3H9i6V) | [卯花ロク](https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.3 交響のパラノーマル\)](https://open.spotify.com/album/3otMRyCvg5ZHOMOtKTuLbi) | 4:22 | 2024-10-14 |  |
 | [堕天 \- Daten](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天 \- Daten](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 | 2023-06-22 |  |
 | [壊れた人形のマーチ](https://open.spotify.com/track/6mHdGKGQNLCa4V0Z6W5PUO) | [少女理論観測所](https://open.spotify.com/artist/2nwIeM1Ph9IiHtFuNvhFDu) | [Border on Blossom](https://open.spotify.com/album/53OwVselTqJ9NxGSkBjx2F) | 4:24 | 2024-09-02 |  |
 | [夕暮れの鳥](https://open.spotify.com/track/4dZDlAkUb9b4hFkj6TNfK3) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo) | [幼さを入院させて](https://open.spotify.com/album/1BZrhUoHveceCAbxUmMnuE) | 5:02 | 2024-10-28 | 2024-11-28 |
@@ -402,7 +402,7 @@
 | [孤独の宗教](https://open.spotify.com/track/1ZIr94qQM1N05mSqrZkz9v) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [必死](https://open.spotify.com/album/4hU4a62lifie6pzLvWjUqO) | 3:10 | 2024-09-09 |  |
 | [宵々古今](https://open.spotify.com/track/3KLHSYHSmny4sJo2finqy9) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Σ](https://open.spotify.com/album/5MruJPW5X4cal6bpN7llrF) | 4:17 | 2023-11-12 |  |
 | [幽霊東京](https://open.spotify.com/track/6gmwKGGuoY7NAqKI3pzMPC) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 3:30 | 2023-07-18 |  |
-| [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [裏命](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 | 2025-10-08 |  |
+| [心中なら倉敷で](https://open.spotify.com/track/7suTW2CMSgQdioqvEvaALy) | [SLAVE.V\-V\-R](https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR), [RIME](https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs) | [音楽的同位体 裏命 1st COMPILATION ALBUM パラノーマル \(vol.1 残響のパラノーマル\)](https://open.spotify.com/album/3n2dujCufrAXLzL8ABdRF6) | 3:12 | 2025-10-08 |  |
 | [心臓](https://open.spotify.com/track/7seqDm8KZRDOpL2z9ONTiA) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [Stupid dog](https://open.spotify.com/album/7az7pLGS7uW4AEY3BPy3sZ) | 3:44 | 2025-07-20 |  |
 | [忘れてやらない](https://open.spotify.com/track/47xVHFTtByhvrYFZCi0Fgh) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [忘れてやらない](https://open.spotify.com/album/2gcOhrqnwqostpe71Vkqxu) | 3:43 | 2023-05-06 |  |
 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 | 2021-04-05 |  |
@@ -448,6 +448,7 @@
 | [薔薇は美しく散る](https://open.spotify.com/track/6RhRXYnuXBiGWgqhGQGqz8) | [LAREINE](https://open.spotify.com/artist/2w3S57NmAGnZwqC1ATXxDP) | [LILLILLIE CHARLOTTE within MetamorphoseLIE CHARLOTTE](https://open.spotify.com/album/6qbq1zVhBAnsTgiupg8obS) | 3:31 | 2025-09-25 |  |
 | [虚像のCarousel](https://open.spotify.com/track/2FCkgW3vOc3IvpOCd0LJMT) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [虚像のCarousel](https://open.spotify.com/album/4HnTbIJinqxIvnHeIBaJv6) | 3:48 | 2023-08-06 |  |
 | [蜜月アン・ドゥ・トロワ](https://open.spotify.com/track/5NqbWhWvnOVbWgkBS3gyhM) | [Ryo\-kun](https://open.spotify.com/artist/3WtpN29KizqR4NjuJGx6jE) | [Re:alize](https://open.spotify.com/album/4eE5jhzVkqd9smfhX1aUNy) | 4:10 | 2024-01-22 |  |
+| [赤ずきんの狼](https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [きくおミク2](https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol) | 4:20 | 2026-03-07 |  |
 | [超常マイマイン](https://open.spotify.com/track/7yuRlwbz9rgtIZwBPbtDjR) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [ナユタン星からの物体Ｎ](https://open.spotify.com/album/41ZGXbCyhkBOt8lqtQxWBZ) | 2:25 | 2022-11-01 |  |
 | [踊](https://open.spotify.com/track/7z6qHGEKxRtwtYym2epV7l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [踊](https://open.spotify.com/album/6jfXGkieuNnsFxi5pS3vJ2) | 3:28 | 2023-10-13 |  |
 | [迷い子山中神隠し奇譚](https://open.spotify.com/track/4WuEpuvGm2MNXu9QQ5sZD5) | [浮足立](https://open.spotify.com/artist/3khRVJyfuSQWVudz1bzD3g) | [迷い子山中神隠し奇譚](https://open.spotify.com/album/1m5KWs7oRBKjiW0fScvQ3D) | 3:10 | 2025-04-21 |  |

@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 박지현\)<br/>Let's party with cheerful Korean trot medley.
 
-1,084 songs - 2 day 14 hr 0 min
+1,085 songs - 2 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -862,7 +862,7 @@
 | [Weed](https://open.spotify.com/track/67tFEwTUkl1FUbLWZXuO8K) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Noh Jihoon](https://open.spotify.com/artist/52N8AeAbuYhIYqRoClTfzz) | [Love call center PART16](https://open.spotify.com/album/7u8HLtO5WhyaSCGDmciwMT) | 2:54 | 2022-04-22 | 2022-07-16 |
 | [Whale hunting](https://open.spotify.com/track/20uTSeVJMbTe1tAG8PoWNP) | [Yeong Tak](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:28 | 2022-04-22 | 2022-05-18 |
 | [What about my age](https://open.spotify.com/track/1ydwpL3msDrcrQx9gutdvX) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART8](https://open.spotify.com/album/5foFjCTKaWf5je3HLOvx8C) | 3:20 | 2022-05-03 | 2022-07-27 |
-| [What if](https://open.spotify.com/track/2aFpxBegC2yzDECyy8edhc) | [Cho Hangjo](https://open.spotify.com/artist/3jI8038NCW7yXJ1IUE4wgm), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 3:18 | 2022-04-22 |  |
+| [What if](https://open.spotify.com/track/2aFpxBegC2yzDECyy8edhc) | [Cho Hangjo](https://open.spotify.com/artist/3jI8038NCW7yXJ1IUE4wgm), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART17](https://open.spotify.com/album/3koMaEVHRnRL3NW5WZRrs1) | 3:18 | 2022-04-22 | 2026-03-08 |
 | [What is it](https://open.spotify.com/track/2vAk8mg9Y4asVvWcjabpY8) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART26](https://open.spotify.com/album/5O3IqGbIkx9JZAbfAXVPnW) | 3:33 | 2022-05-03 | 2022-07-21 |
 | [What's there to life](https://open.spotify.com/track/1paS0TQIPPvKBJ3PbZ4rZT) | [CHA SEOWON](https://open.spotify.com/artist/6q3MAbM1MgPna745eGNj6T) | [Second Husband \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/7ojhGpLUPTbY7QOy0NXoIu) | 3:06 | 2022-04-07 | 2022-07-26 |
 | [When The Flowers Bloom And The Birds Cry](https://open.spotify.com/track/0JhrK2xULBPn1b72AawxjJ) | [조명섭](https://open.spotify.com/artist/1pC2zaWEUKiTmizWEgHKE4) | [When The Flowers Bloom And The Birds Cry](https://open.spotify.com/album/58P90sSwrMVjjvayaHxIYG) | 3:17 | 2022-04-07 | 2022-07-16 |
@@ -1084,6 +1084,7 @@
 | [하늘 여행](https://open.spotify.com/track/7i6gw4yvdxfTAbjHOmSjsP) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [bright;燦](https://open.spotify.com/album/0KnSUj4tVouYcRhP0DePZn) | 3:53 | 2024-08-13 |  |
 | [하트 하트](https://open.spotify.com/track/4EsnxewSwubb7BtWJPIzD8) | [조은새](https://open.spotify.com/artist/2msqO4YQHEJYTBwM11jwu3) | [하트 하트](https://open.spotify.com/album/2kh1ES76vos2NdZtu3N0hV) | 3:06 | 2022-04-21 | 2022-07-15 |
 | [하트뿅뿅](https://open.spotify.com/track/3xV3HFBSTVhqgI0UmXYJ4e) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:14 | 2022-04-22 |  |
+| [하트뿅뿅](https://open.spotify.com/track/0L9oeqPxOKS44gJQB1DepO) | [안정이](https://open.spotify.com/artist/4TJabQzvV3rf5h4Rzy2Dal) | [하트뿅뿅](https://open.spotify.com/album/1GXaHzafg1Pep4W9BZ4k4H) | 3:26 | 2026-02-25 |  |
 | [한잔해](https://open.spotify.com/track/3RzXaAgfDWmPb3QsJY3uzW) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [한잔해](https://open.spotify.com/album/0tYyIhabxVv2VMT5H3dP4q) | 3:19 | 2022-04-07 |  |
 | [할무니](https://open.spotify.com/track/5xLpdTwL3qKyxhbfbYAECK) | [KIM HOJOONG](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [우리家](https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w) | 3:35 | 2022-10-07 | 2024-04-19 |
 | [홀로아리랑 \(Prod\. 박경훈\)](https://open.spotify.com/track/1YEPlFih5U3nsThB67Rz5A) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [We Are Family](https://open.spotify.com/album/4e0v16WqKxXCl822Srrkeq) | 4:46 | 2022-04-07 | 2022-07-29 |

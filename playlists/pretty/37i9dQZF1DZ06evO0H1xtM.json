@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 368370,
+  "num_followers": 368433,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAAFsNtMwgQG7WoNQGEcrNyZ",
+  "snapshot_id": "aaoZAAAAAAA68+bSiYzkobwkiMVOw4DV",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/1qbxWcbWtxjohwFQkRQcJA"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 233521,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/6i8Fn9GEX4YfHD0F5g2fv0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Stop The Magic",
         "url": "https://open.spotify.com/album/5I5DtMQDh1PnflVUtTLMN7"
       },
@@ -43,26 +63,6 @@
       "duration_ms": 190553,
       "name": "Di Que S\u00ed",
       "url": "https://open.spotify.com/track/3J6d00TsKXTJV9zSJwEOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/2xxUP4IxDoeN2weEeuwLin"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 154688,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/147A9xW2QqtbFGCj00ZR8I"
     },
     {
       "added_at": null,

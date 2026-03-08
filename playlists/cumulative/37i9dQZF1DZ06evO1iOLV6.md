@@ -4,7 +4,7 @@
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-143 songs - 8 hr 20 min
+144 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Hale Hale](https://open.spotify.com/track/2iSeKtlHJAc9COUxZ5f57p) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR) | 3:28 | 2021-12-28 | 2022-02-13 |
 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 | 2022-02-12 |  |
 | [Happy Day](https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Happy Day](https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD) | 4:20 | 2021-12-28 |  |
-| [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 | 2021-12-28 |  |
+| [Heal D World](https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Heal D World](https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY) | 3:44 | 2021-12-28 | 2026-03-08 |
 | [Higher](https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 3:11 | 2023-11-10 |  |
 | [HIGHER](https://open.spotify.com/track/6S1W6Ll9DEAFMsQYoiem4l) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [HIGHER](https://open.spotify.com/album/4yXr5GRRquWlt7ExXmh7CY) | 3:11 | 2023-08-19 | 2023-11-11 |
 | [I Believe \(feat\. Patoranking & Silly Walks Discotheque\)](https://open.spotify.com/track/5olEm6oL6PhnW6FUhZQIAF) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Silly Walks Discotheque](https://open.spotify.com/artist/6VUJvKOKnSE0RHbbtqfgKH) | [The Gentle Man](https://open.spotify.com/album/06xLblJu6SFwSwauSfDFtY) | 3:02 | 2024-03-29 | 2024-12-02 |
@@ -113,6 +113,7 @@
 | [Penetrate](https://open.spotify.com/track/3iaGr6kK4g3kZFms0ASb5S) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Penetrate](https://open.spotify.com/album/51viQUw5o1TqDJM1BLY7N2) | 3:30 | 2022-01-04 | 2022-01-28 |
 | [Players](https://open.spotify.com/track/50Hp4O0dgseNnTHSMDOVyK) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [A.W.A.M.](https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN) | 3:39 | 2025-12-25 |  |
 | [Prayer Request](https://open.spotify.com/track/0MBtpJl9D3E08t2YnTR9J4) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request](https://open.spotify.com/album/4kSVYeLN9Z7918DM3JrDQp) | 3:13 | 2024-02-17 |  |
+| [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 | 2026-03-08 |  |
 | [Pretty Girl](https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-02-05 |  |
 | [Roll On Me](https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo) | [evrYwhr](https://open.spotify.com/artist/11xAvdpLHrDd9f2VIG8QB3), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Roll On Me](https://open.spotify.com/album/5fNWSpENYMGAqIYehytNyU) | 2:49 | 2022-11-14 | 2024-02-14 |
 | [Roll On Me](https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC) | [Lavaud](https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Saint & Citizen](https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY) | [Roll On Me](https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ) | 3:10 | 2023-10-10 | 2025-05-07 |

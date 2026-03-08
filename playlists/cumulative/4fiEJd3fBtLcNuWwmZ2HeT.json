@@ -7316,7 +7316,7 @@
           "url": "https://open.spotify.com/artist/2IVqSBc264wMKlgTTFZN2r"
         },
         {
-          "name": "\u88cf\u547d",
+          "name": "RIME",
           "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
         }
       ],
@@ -7558,7 +7558,7 @@
           "url": "https://open.spotify.com/artist/1onKSSP12ag3LqViv4sBzR"
         },
         {
-          "name": "\u88cf\u547d",
+          "name": "RIME",
           "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
         }
       ],
@@ -8414,6 +8414,24 @@
       "duration_ms": 250663,
       "name": "\u871c\u6708\u30a2\u30f3\u30fb\u30c9\u30a5\u30fb\u30c8\u30ed\u30ef",
       "url": "https://open.spotify.com/track/5NqbWhWvnOVbWgkBS3gyhM"
+    },
+    {
+      "album": {
+        "name": "\u304d\u304f\u304a\u30df\u30af2",
+        "url": "https://open.spotify.com/album/26tBjFO9k2Aq7j72p0nTol"
+      },
+      "artists": [
+        {
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "\u8d64\u305a\u304d\u3093\u306e\u72fc",
+      "url": "https://open.spotify.com/track/6T2lJKZceH9Eic5Cp3EPDk"
     },
     {
       "album": {

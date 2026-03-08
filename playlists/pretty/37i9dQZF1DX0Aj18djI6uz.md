@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aj18djI6uz.md) - [plain]
 
 > 블랙핑크가 직접 국립중앙박물관의 유물들을 설명해주는 스포티파이 공식 도슨트 플레이리스트입니다\. \(This is a Spotify official docent playlist, featuring the members of BLACKPINK as they personally guide you through the artifacts of the National Museum of Korea.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,639 likes - 17 songs - 27 min 16 sec
+[Spotify](https://open.spotify.com/user/spotify) - 4,140 likes - 17 songs - 27 min 16 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Aj18djI6uz.md) - [plain]
 | 16 | [\[ROSÉ\_ENG\] 청동 은입사 물가풍경 무늬 정병 \(Bronze Kundika with Silver Inlaid Landscape Design\)](https://open.spotify.com/track/3yVNhpAoXsRQNjbIyS8TA1) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 0:59 |
 | 17 | [JUMP](https://open.spotify.com/track/7f4Aj1thFgXuXyqwsTdzMR) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/5EDiZm2nDfN10Uyr5XvQu8) | 2:44 |
 
-Snapshot ID: `AAAAAExA+X065+qYsTtYzQc/JoweW3qN`
+Snapshot ID: `AAAAAIbjirEiIosKYNOHdNcnNsSCcH3H`

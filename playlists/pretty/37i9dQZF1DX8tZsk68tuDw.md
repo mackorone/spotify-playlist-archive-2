@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with ANOTR
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,840,500 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,840,438 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 29 | [XTC](https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Jocelyn Enriquez](https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB) | [XTC](https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV) | 3:02 |
 | 30 | [Share The House](https://open.spotify.com/track/6e9r7gwOb02rrn0uDJ4UQS) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Share The House](https://open.spotify.com/album/5htcQ3WE3AZlyiuiScVJJl) | 3:12 |
 | 31 | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/track/5LkWl4o5BrKqnf7Zms4D0u) | [Linska](https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [World & Back \(feat\. Riko Dan\)](https://open.spotify.com/album/3VUsBW3tT4QzsItJSDVL5n) | 2:59 |
-| 32 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:15 |
+| 32 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:01 |
 | 33 | [What It Feels Like](https://open.spotify.com/track/3QVcmMnWPTcuCSRPzO7Iuf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [What It Feels Like](https://open.spotify.com/album/6GEqAR3MHnXmUfSz0sTt79) | 2:18 |
 | 34 | [only the best](https://open.spotify.com/track/6tf107l5fbVJK19RFKG1zW) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [only the best](https://open.spotify.com/album/6fx3yIWsnfcF3tRFEC3vNU) | 3:22 |
 | 35 | [Let the Bass Kick](https://open.spotify.com/track/7ASQWCYtKa2JD2oz9LWkA2) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Let the Bass Kick](https://open.spotify.com/album/1YE4DRmquv66glbyTpY2ul) | 2:26 |

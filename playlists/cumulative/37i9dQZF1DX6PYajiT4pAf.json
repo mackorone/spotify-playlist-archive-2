@@ -13665,7 +13665,7 @@
     },
     {
       "album": {
-        "name": "Campos De Castilla Para Siempre",
+        "name": "Campos de Castilla para siempre",
         "url": "https://open.spotify.com/album/06sf21LXtuo0TVNuR71WcY"
       },
       "artists": [
@@ -13678,7 +13678,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241935,
-      "name": "Campos De Castilla Para Siempre",
+      "name": "Campos de Castilla para siempre",
       "url": "https://open.spotify.com/track/4jyjfcIuSZ6TmidQvCsJww"
     },
     {
@@ -14380,10 +14380,6 @@
           "url": "https://open.spotify.com/artist/6o4L5N0aiAhdtN3pqEwG0P"
         },
         {
-          "name": "Dlomalo",
-          "url": "https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c"
-        },
-        {
           "name": "MARCE",
           "url": "https://open.spotify.com/artist/5fBsGbmh5tJ3kU7FhVnYbh"
         },
@@ -14398,6 +14394,10 @@
         {
           "name": "Pablo Mas",
           "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+        },
+        {
+          "name": "Dlomalo",
+          "url": "https://open.spotify.com/artist/2PUiO6Pd4s3mEGgXkOBR4c"
         }
       ],
       "date_added": "2026-03-05",

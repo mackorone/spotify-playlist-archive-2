@@ -4,14 +4,14 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-96 songs - 5 hr 14 min
+97 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Santita](https://open.spotify.com/track/4rqrMtxJ20AqKoClzYOrYD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [A Mi Santita](https://open.spotify.com/album/5KJIuwIZx3lBjCrsJt77cm) | 3:12 | 2024-01-29 | 2024-04-07 |
 | [Ace Of Spades](https://open.spotify.com/track/17IMhVVKNTHfiGPn90U9WB) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Dueto Consentido](https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:05 | 2024-01-29 | 2024-02-24 |
 | [Ace of Spades \(En Vivo\)](https://open.spotify.com/track/4XFgCRUD6Ys1z4VPP759nC) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:59 | 2024-11-15 | 2024-12-01 |
-| [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 |  |
+| [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 | 2026-03-08 |
 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 | 2024-05-22 | 2026-02-23 |
 | [Ahora Nos Ven](https://open.spotify.com/track/3Jub5p08dcOIxBEt42Ir0O) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ahora Nos Ven](https://open.spotify.com/album/5qVj3KoJry15JOwsBqoinL) | 3:01 | 2024-03-08 | 2024-05-22 |
 | [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 | 2025-03-13 |
@@ -68,6 +68,7 @@
 | [La Diabla](https://open.spotify.com/track/35prGfzbqzldR6JVvHdmqy) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:21 | 2025-07-25 | 2025-08-07 |
 | [La Patrulla](https://open.spotify.com/track/7dueUpuihkYhTDGO5V3IBD) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 2:18 | 2025-05-16 | 2025-08-25 |
 | [La Persecución](https://open.spotify.com/track/3PCjpBibAqNnD5dGlLBNQN) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [La Persecución](https://open.spotify.com/album/6PymX3BNs2gmr23Ire8CG0) | 3:25 | 2025-11-10 |  |
+| [Las Patrullas](https://open.spotify.com/track/3RgejDei48mlcox97DJ6fb) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ) | [Las Patrullas](https://open.spotify.com/album/2AOTzSrOFDReMtRo9SPLX1) | 2:57 | 2026-03-08 |  |
 | [Las Vacaciones del Jefe](https://open.spotify.com/track/0M9CGFVX73YETJxg1KNcm0) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [LA Privada](https://open.spotify.com/album/0PNMxKlPkcdUXEwCf9pcPf) | 3:37 | 2025-05-29 | 2025-08-04 |
 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 | 2024-01-29 |  |
 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 | 2024-01-29 |  |

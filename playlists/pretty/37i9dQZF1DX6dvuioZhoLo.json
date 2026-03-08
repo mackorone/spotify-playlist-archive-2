@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Chaparelle",
-  "num_followers": 313033,
+  "num_followers": 313026,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Time Flies",
+        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "duration_ms": 190923,
+      "name": "Time Flies",
+      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Luxury Liner (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/2MY03ZPfqzrUmM5xPcyfrx"
       },
@@ -415,6 +431,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 143939,
       "name": "Powder Blue",
       "url": "https://open.spotify.com/track/4eml8c7ZKYbMPFNgtfiwou"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Time Flies",
-        "url": "https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt"
-      },
-      "artists": [
-        {
-          "name": "Shakey Graves",
-          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
-        }
-      ],
-      "duration_ms": 190923,
-      "name": "Time Flies",
-      "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Giddy Up",
-        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 181320,
-      "name": "Giddy Up",
-      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "The Returner",
         "url": "https://open.spotify.com/album/1gQi88Gj1UGV8ZBzYJjJ3i"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 227894,
       "name": "To Learn Her",
       "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Giddy Up",
+        "url": "https://open.spotify.com/album/4PmXzKdrmohY9hqUenv2cl"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 181320,
+      "name": "Giddy Up",
+      "url": "https://open.spotify.com/track/0ZAkzqCljhDcAOBhemJfs0"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Snakelife",
-        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 277613,
-      "name": "Snakelife",
-      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Ramblin' Soul",
+        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "From What I Recall",
+      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Same Devil (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "Ramblin' Soul",
-        "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
-      },
-      "artists": [
-        {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "From What I Recall",
-      "url": "https://open.spotify.com/track/4vCu2i1WDukiV06xQUnCMj"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Playing Old Games",
         "url": "https://open.spotify.com/album/1Snd0dkRGTZ2mVH4AmCzvP"
       },
@@ -1119,18 +1103,34 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
       "artists": [
         {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
         }
       ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+      },
+      "artists": [
+        {
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+        }
+      ],
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
         "name": "Magnolia Queen",
         "url": "https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 226784,
       "name": "Marriage Ain't the End of Being Lonely",
       "url": "https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
-      },
-      "artists": [
-        {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
-        }
-      ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "True Love's Face",
-        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
-      },
-      "artists": [
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "True Love's Face",
-      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "True Love's Face",
+        "url": "https://open.spotify.com/album/1cHnfarRGbvB6PjVvq35dK"
+      },
+      "artists": [
+        {
+          "name": "Erin Rae",
+          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "True Love's Face",
+      "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
     },
     {
       "added_at": "2026-03-06 05:00:13",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-06 05:00:13",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2026-03-06 05:00:13",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2026-03-06 05:00:13",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2026-03-06 05:00:13",

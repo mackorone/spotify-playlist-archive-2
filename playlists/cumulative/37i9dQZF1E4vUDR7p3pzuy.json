@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, The Ramey Memo, Evil Level Live and more",
+  "description": "With The Guilt, The Ramey Memo, Jamie Rust and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -410,7 +410,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 271597,
       "name": "Altostratus 26",
       "url": "https://open.spotify.com/track/1KfOqudRftSTun86gB69xM"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "apoca-lips",
       "url": "https://open.spotify.com/track/2MTcR4vNAYLtguyNscbceQ"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 213108,
       "name": "Betrayal",
       "url": "https://open.spotify.com/track/7dST6nUksQ5kUZaDejsAqy"
@@ -856,6 +856,24 @@
       "duration_ms": 271388,
       "name": "Blind",
       "url": "https://open.spotify.com/track/4jhV1n0o9UDs0AWdqsow6R"
+    },
+    {
+      "album": {
+        "name": "Blood + Wine",
+        "url": "https://open.spotify.com/album/0TGVoNbpAlzVYIQNr7vJ3E"
+      },
+      "artists": [
+        {
+          "name": "SINE",
+          "url": "https://open.spotify.com/artist/5DKXx9g0oHUOY2ziWL42Pa"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Blood + Wine",
+      "url": "https://open.spotify.com/track/3xBZ5kfxjGqQ6vNmhTfjoN"
     },
     {
       "album": {
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2026-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 269538,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/66Utp40WE7272VaS384fo8"
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 314188,
       "name": "Comfort in Disease",
       "url": "https://open.spotify.com/track/6VmKwotqJLsCSzMCcwG1Ml"
@@ -1832,7 +1850,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-22",
+      "date_removed": null,
       "duration_ms": 247296,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/0YKEjExveJD2pUxe4S5vyz"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 250249,
       "name": "Den of Noises",
       "url": "https://open.spotify.com/track/75DezFCcNsIDgzpXbW3P29"
@@ -2190,7 +2208,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
@@ -2518,7 +2536,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 137054,
       "name": "Fine & Dandy - Single Edit",
       "url": "https://open.spotify.com/track/1FUpjRcUG2BFXsoC9giGvA"
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 176821,
       "name": "FUCK WAR! - Remix",
       "url": "https://open.spotify.com/track/1zGCWTRvCzJkEWwTj7bC43"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 199709,
       "name": "Happy Song (Single Edit)",
       "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "Hello",
       "url": "https://open.spotify.com/track/6yxiMSrPbysUBvl3EKeww3"
@@ -3614,7 +3632,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 152185,
       "name": "I WANNA KNOW",
       "url": "https://open.spotify.com/track/7GlKSGGjBpuVVfCQO48yM1"
@@ -4155,6 +4173,24 @@
     },
     {
       "album": {
+        "name": "Laissez-faire",
+        "url": "https://open.spotify.com/album/2olnauw3lG43i39KFrTFM7"
+      },
+      "artists": [
+        {
+          "name": "Scared of My Brother",
+          "url": "https://open.spotify.com/artist/7FWj9E465vHktCqqFQZ3EO"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201468,
+      "name": "Laissez-faire",
+      "url": "https://open.spotify.com/track/7iAGjF1eTqPxTuzN7Gjo39"
+    },
+    {
+      "album": {
         "name": "The Thirteenth Hour",
         "url": "https://open.spotify.com/album/2Y1pCIhpIlHpf1jJR2gkwD"
       },
@@ -4394,7 +4430,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 259840,
       "name": "Living The Dream",
       "url": "https://open.spotify.com/track/3P9g9xPpj9KCFzNEGmjuet"
@@ -4502,7 +4538,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 258480,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/1UIlEp367m4nDBJOaOtTjx"
@@ -5976,7 +6012,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 216230,
       "name": "Sapphic Lipstain",
       "url": "https://open.spotify.com/track/64jtoWn9jBfVBFD3iIaIOA"
@@ -7072,7 +7108,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 219450,
       "name": "That time of the year",
       "url": "https://open.spotify.com/track/41YaezQoC6GzGVrRhQ5hs6"
@@ -7358,7 +7394,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 153199,
       "name": "The Void",
       "url": "https://open.spotify.com/track/1tzTUX3w3V9pYntggNL8Ej"
@@ -7578,7 +7614,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 251066,
       "name": "Threats",
       "url": "https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4"
@@ -7762,7 +7798,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 184590,
       "name": "TOMORROW.IS.GONE",
       "url": "https://open.spotify.com/track/4dz2I13MPmF0Q1HN5cxTSd"
@@ -7798,7 +7834,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 197888,
       "name": "Touch",
       "url": "https://open.spotify.com/track/4LGumMKgQR6CIuFdecAowS"
@@ -8308,7 +8344,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 160000,
       "name": "Weaponry",
       "url": "https://open.spotify.com/track/64byd64mWqDoRIjgNFdFXR"
@@ -8496,7 +8532,7 @@
       ],
       "date_added": "2026-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 196171,
       "name": "Whomever You Need",
       "url": "https://open.spotify.com/track/3CSv43GAVspGJ281rrkb0M"
@@ -8532,7 +8568,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 124399,
       "name": "Wildfire Heart",
       "url": "https://open.spotify.com/track/6Q7ApqsX2ZWOPGIEklmgL6"

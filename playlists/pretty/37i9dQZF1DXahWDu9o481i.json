@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Baby Keem",
-  "num_followers": 74620,
+  "num_followers": 74864,
   "original_name": "Editors' Picks: Best Songs of February",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "Broken Record",
-        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
-      },
-      "artists": [
-        {
-          "name": "Alemeda",
-          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
-        }
-      ],
-      "duration_ms": 145181,
-      "name": "Broken Record",
-      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "If You Ain\u2019t In Love By Now",
         "url": "https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 182532,
       "name": "If You Ain\u2019t In Love By Now",
       "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "Broken Record",
+        "url": "https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S"
+      },
+      "artists": [
+        {
+          "name": "Alemeda",
+          "url": "https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8"
+        }
+      ],
+      "duration_ms": 145181,
+      "name": "Broken Record",
+      "url": "https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu"
     },
     {
       "added_at": "2026-03-02 12:43:35",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-03-02 12:43:35",
       "album": {
-        "name": "hollyweird",
-        "url": "https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf"
-      },
-      "artists": [
-        {
-          "name": "aja monet",
-          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
-        }
-      ],
-      "duration_ms": 320679,
-      "name": "hollyweird",
-      "url": "https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y"
-    },
-    {
-      "added_at": "2026-03-02 12:43:35",
-      "album": {
         "name": "Speed Kills",
         "url": "https://open.spotify.com/album/3EBYpe6uTx0dx36KDFicjf"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 185318,
       "name": "Blame it on You",
       "url": "https://open.spotify.com/track/6IDSEVZ64PvF2kgVSoFe3c"
+    },
+    {
+      "added_at": "2026-03-02 12:43:35",
+      "album": {
+        "name": "hollyweird",
+        "url": "https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf"
+      },
+      "artists": [
+        {
+          "name": "aja monet",
+          "url": "https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF"
+        }
+      ],
+      "duration_ms": 320679,
+      "name": "hollyweird",
+      "url": "https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y"
     },
     {
       "added_at": "2026-03-02 12:43:35",

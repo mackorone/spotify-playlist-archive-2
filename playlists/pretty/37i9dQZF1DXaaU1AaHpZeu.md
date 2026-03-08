@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español con Leo Rizzi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,678 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,645 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 7 | [Me voy](https://open.spotify.com/track/6uPA1umYIk8HP2ipaKGXRL) | [Fangoria](https://open.spotify.com/artist/7CJiKj8TrQSms0WSCKbHm4) | [Me voy](https://open.spotify.com/album/71KuF8WX42E0zcHzQYCt1R) | 3:30 |
 | 8 | [siete días](https://open.spotify.com/track/4qxrRPgU6rHfhQi9wnNpKO) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [siete días](https://open.spotify.com/album/0FXzqZrkpqMHEekvTu7bCF) | 2:58 |
 | 9 | [Algo especial](https://open.spotify.com/track/3800qliKwzML9D2aoZ1Q3B) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Algo especial](https://open.spotify.com/album/1itGp18PlKDMuWjMeLMCxZ) | 3:13 |
-| 10 | [Campos De Castilla Para Siempre](https://open.spotify.com/track/4jyjfcIuSZ6TmidQvCsJww) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Campos De Castilla Para Siempre](https://open.spotify.com/album/06sf21LXtuo0TVNuR71WcY) | 4:01 |
+| 10 | [Campos de Castilla para siempre](https://open.spotify.com/track/4jyjfcIuSZ6TmidQvCsJww) | [Xoel López](https://open.spotify.com/artist/59bV1Zv97BwGJYy6O2SvUx) | [Campos de Castilla para siempre](https://open.spotify.com/album/06sf21LXtuo0TVNuR71WcY) | 4:01 |
 | 11 | [Todo Se Repite](https://open.spotify.com/track/6uaENgyq92BJKAKHyshepr) | [Valsian](https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa) | [Todo Se Repite](https://open.spotify.com/album/13uXgek0xnjbfdd6mm2eeD) | 4:00 |
 | 12 | [cariño](https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [consuelo](https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh) | 3:02 |
 | 13 | [Prefiero Que Me Duela](https://open.spotify.com/track/1tkoq5jwdEpYsUdfqDqOIA) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Prefiero Que Me Duela](https://open.spotify.com/album/3Hz5FH6Oim8VnD9ODql3Gc) | 3:36 |

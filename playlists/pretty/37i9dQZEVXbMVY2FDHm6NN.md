@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,054 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,069 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [愛情你比我想的閣較偉大 \(《當男人戀愛時》電影主題曲\)](https://open.spotify.com/track/6m2I6ZyWRkxjBrrLVQILfl) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [愛情你比我想的閣較偉大 \(《當男人戀愛時》電影主題曲\)](https://open.spotify.com/album/2Ooz6iBT6eLFRAKtQAHoFM) | 3:52 |
 | 50 | [看着我的眼睛说](https://open.spotify.com/track/7d6eShN6yVeR4Y2Md9uCA4) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1rH94s6Uw5ejDiOO5UjpNi) | 4:20 |
 
-Snapshot ID: `MT45wAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MT+LQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

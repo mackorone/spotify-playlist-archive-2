@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABjEwT6t/bDfTa6qxEN6OWy",
+  "snapshot_id": "aaoZAAAAAACFZGsyBtLTIjIYzZH/hH8W",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 397413,
-      "name": "Sandrevan Lullaby - Lifestyles",
-      "url": "https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE"
+      "duration_ms": 201826,
+      "name": "To Whom It May Concern",
+      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
     },
     {
       "added_at": null,
@@ -300,29 +300,53 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 201826,
-      "name": "To Whom It May Concern",
-      "url": "https://open.spotify.com/track/0BhwDEYXisE3bcWuV4BSk3"
+      "duration_ms": 397413,
+      "name": "Sandrevan Lullaby - Lifestyles",
+      "url": "https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE"
     },
     {
       "added_at": null,
       "album": {
-        "name": "QMusic Top 500 van de 90's",
-        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+        "name": "For Rodriguez",
+        "url": "https://open.spotify.com/album/1T6SJIgdXL7tMQXmE258sp"
       },
       "artists": [
         {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+          "name": "SA for Sugar Man",
+          "url": "https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka"
+        },
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd"
+        },
+        {
+          "name": "Sandra Rodriguez",
+          "url": "https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb"
+        },
+        {
+          "name": "Marc Skarda",
+          "url": "https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye"
+        },
+        {
+          "name": "Mark Beling",
+          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
         },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        },
+        {
+          "name": "Graham Gillot",
+          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
+        },
+        {
+          "name": "Kahn Morbee",
+          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
         }
       ],
-      "duration_ms": 211920,
-      "name": "Ecuador (feat. Rodriguez) - Single Mix",
-      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
+      "duration_ms": 241836,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/5tUBiU75b0UgKLUgdzAmaa"
     },
     {
       "added_at": null,
@@ -371,6 +395,26 @@
       "duration_ms": 124653,
       "name": "Silver Words?",
       "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "QMusic Top 500 van de 90's",
+        "url": "https://open.spotify.com/album/6aCPo37uj2guJ8BAiW4RJB"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Ecuador (feat. Rodriguez) - Single Mix",
+      "url": "https://open.spotify.com/track/0e3vnSO6QNZtqtWgwPwQip"
     }
   ],
   "unique_name": "This Is Rodr\u00edguez",

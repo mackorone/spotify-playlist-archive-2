@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60014,
+  "num_followers": 60040,
   "original_name": "Nederlandse Zomerhits 2026",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,30 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Tussen Jou en Mij",
+        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
+      },
+      "artists": [
+        {
+          "name": "Willem & Jan",
+          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
+        },
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        },
+        {
+          "name": "Jan Smit",
+          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
+        }
+      ],
+      "duration_ms": 178708,
+      "name": "Tussen Jou en Mij",
+      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Als Ik Je Weer Zie",
         "url": "https://open.spotify.com/album/5m1URbxyOpdcKwbvexXPdI"
       },
@@ -295,30 +319,6 @@
       "duration_ms": 207733,
       "name": "Als Ik Je Weer Zie",
       "url": "https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Tussen Jou en Mij",
-        "url": "https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm"
-      },
-      "artists": [
-        {
-          "name": "Willem & Jan",
-          "url": "https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq"
-        },
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        },
-        {
-          "name": "Jan Smit",
-          "url": "https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq"
-        }
-      ],
-      "duration_ms": 178708,
-      "name": "Tussen Jou en Mij",
-      "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
     },
     {
       "added_at": "2026-02-03 23:00:20",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-02-03 23:00:20",
       "album": {
+        "name": "Waar Ga Je Heen",
+        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Waar Ga Je Heen",
+      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
+    },
+    {
+      "added_at": "2026-02-03 23:00:20",
+      "album": {
         "name": "Missen Zou",
         "url": "https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
-    },
-    {
-      "added_at": "2026-02-03 23:00:20",
-      "album": {
-        "name": "Waar Ga Je Heen",
-        "url": "https://open.spotify.com/album/5vo4P3v3h4ve0vsyzv5tjl"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Waar Ga Je Heen",
-      "url": "https://open.spotify.com/track/5G6hrPIse64sqdsqVxBK78"
     },
     {
       "added_at": "2026-02-03 23:00:20",

@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1539171,
+  "num_followers": 1539401,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
-        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
+        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 257161,
-      "name": "When Love And Hate Collide",
-      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
+      "duration_ms": 283693,
+      "name": "A Tale That Wasn't Right",
+      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Keeper of the Seven Keys, Pt. I (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp"
+        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
+        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 283693,
-      "name": "A Tale That Wasn't Right",
-      "url": "https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB"
+      "duration_ms": 257161,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
+        "name": "The Time of the Oath",
+        "url": "https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4"
+      },
+      "artists": [
+        {
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+        }
+      ],
+      "duration_ms": 234533,
+      "name": "Forever and One (Neverland)",
+      "url": "https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
         "name": "Deadly Sting: The Mercury Years",
         "url": "https://open.spotify.com/album/6aiwtadb1HB5ImfuFgX4r7"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 261186,
       "name": "God Was Never on Your Side",
       "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Vol. 4 (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/3iRW4cZOM90lX9Rtc2Qglh"
-      },
-      "artists": [
-        {
-          "name": "Black Sabbath",
-          "url": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ"
-        }
-      ],
-      "duration_ms": 282493,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/4MpIwDaZdFLafMDcAx4k4q"
     }
   ],
   "unique_name": "Heavy Ballads",

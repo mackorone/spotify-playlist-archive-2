@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Watendawili
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,575 likes - 59 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,586 likes - 59 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 58 | [Keki](https://open.spotify.com/track/3G6JOHEn46OK8LUH4qiJhW) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Bahati](https://open.spotify.com/artist/6UkxHaSUX7ZGKZ8YoDuj6Z) | [Keki](https://open.spotify.com/album/3JiAtCjaZzPx1Z4uK1n16W) | 3:03 |
 | 59 | [Naoa \(feat\. Alikiba\)](https://open.spotify.com/track/6ETg6zK0OdMIODhjDxvEp9) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [The Big One](https://open.spotify.com/album/6V2mC374CElofU3s0DkshR) | 3:20 |
 
-Snapshot ID: `AAAAAE6RShDKQMZKxxwO5fL6DdmyJo1H`
+Snapshot ID: `AAAAAEcwmxLhCYUyqColsTmtWgQpf2KH`

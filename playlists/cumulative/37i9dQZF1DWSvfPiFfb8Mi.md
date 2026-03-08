@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-424 songs - 1 day 3 hr 36 min
+425 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Just Another Love Song \- Radio](https://open.spotify.com/track/572OoFzBv3brHdVzTVXJOB) | [Ron Trent](https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d) | [Just Another Love Song \(Radio\)](https://open.spotify.com/album/1YBVE7xgGCmQg6ocp0sKjq) | 4:44 | 2025-03-28 | 2025-06-09 |
 | [Just Be Good To Me](https://open.spotify.com/track/5mdFJPMK2JoLCnTtdCbF9c) | [Baccus](https://open.spotify.com/artist/1j748qGtsUgMFsBi3yl6PW) | [Just Be Good To Me](https://open.spotify.com/album/3iWzrqktRWTbz4XlYlvPjw) | 2:41 | 2025-05-09 |  |
 | [Just for the Night \- Jean Tonique Remix](https://open.spotify.com/track/5sbK8z7M4GRaqUAzIdT9Ux) | [Zac Tenenbaum](https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I), [ilayda](https://open.spotify.com/artist/2JctEubYrAEVMCbHAfdYPU), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI) | [Just for the Night \(Jean Tonique Remix\)](https://open.spotify.com/album/5aeZJVEbJ8vpSv17brEa1n) | 3:25 | 2023-05-26 | 2023-07-30 |
+| [Just Friends](https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Suni MF](https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Just Friends](https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH) | 3:35 | 2026-03-06 |  |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-18 |  |
 | [Kill The Soundboy](https://open.spotify.com/track/72AMbEMW0SGjL36DpLuYfY) | [Denney](https://open.spotify.com/artist/7vm3musYjzfqoMloVCEF7v) | [Kill The Soundboy](https://open.spotify.com/album/19yhnnzXMUkzctGGijNagH) | 6:44 | 2022-06-20 | 2023-06-04 |
 | [KILO](https://open.spotify.com/track/5OTSZ0D28LQQ7eyQBVykFM) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [KILO](https://open.spotify.com/album/52AvyYxCRm3RbgeIPebr0y) | 5:10 | 2023-05-19 | 2024-05-04 |
@@ -246,7 +247,7 @@
 | [make luv in the sun](https://open.spotify.com/track/2nf1p6d0kqouWJ6Xz1A7H1) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [make luv in the sun](https://open.spotify.com/album/63fnJ08mH8Jf4hRExAb3Wf) | 2:29 | 2025-09-26 | 2025-12-17 |
 | [Mama Wanna Dance](https://open.spotify.com/track/6oZJ7DOtCP5mJUvkOgdfse) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Mama Wanna Dance](https://open.spotify.com/album/2lCAdFaQvCbBSTzhXEN6K8) | 5:56 | 2024-09-06 | 2024-09-24 |
 | [Marlboro Sounds](https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy) | [Marlboro Sounds](https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM) | 6:03 | 2025-03-28 |  |
-| [Maybe In Another Life \- Bosq Sunset Boogie Mix](https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Maybe In Another Life](https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG) | 3:39 | 2025-01-31 |  |
+| [Maybe In Another Life \- Bosq Sunset Boogie Mix](https://open.spotify.com/track/1MgedSTahfRlJnlYYzknSq) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY), [Bosq](https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U) | [Maybe In Another Life](https://open.spotify.com/album/5FkZt02jeeDcZXjHukmpIG) | 3:39 | 2025-01-31 | 2026-03-08 |
 | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jacob Lusk](https://open.spotify.com/artist/6dm2qCTCfqv1fqrow7UOcj) | [Mercy \(feat\. Jacob Lusk\)](https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2) | 2:58 | 2023-06-23 |  |
 | [Mess It Up \- Purple Disco Machine Remix](https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 3:35 | 2023-11-17 | 2025-08-09 |
 | [Mind Talking](https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate \(Deluxe\)](https://open.spotify.com/album/1n3V1SMu8hLeccUhgTunwx) | 2:34 | 2023-08-04 | 2023-09-24 |

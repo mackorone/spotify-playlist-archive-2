@@ -4,7 +4,7 @@
 
 > High gloss glitch pop 🪩<br/>Cover: Bebe Rexha
 
-2,164 songs - 4 day 12 hr 18 min
+2,165 songs - 4 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 | 2021-05-14 | 2021-06-12 |
 | [Ben & Jerry](https://open.spotify.com/track/2sg5fd4wF4r6NKMj9Zm3Rr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Ben & Jerry](https://open.spotify.com/album/1Hn5Rbk7431cLlGNQw32Cj) | 2:38 | 2021-08-21 | 2021-10-30 |
 | [Benny](https://open.spotify.com/track/09JUir78ynEmNxcLfsMu1G) | [Luke Hemmings](https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ) | [boy](https://open.spotify.com/album/3Ry4DmajssDWHmThH2KseJ) | 2:52 | 2024-04-26 | 2024-06-22 |
+| [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 | 2026-03-07 |  |
 | [Best Days](https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:31 | 2021-09-25 | 2021-10-30 |
 | [Best Friend](https://open.spotify.com/track/7mABSSPLVFF6HGlVLhmSsZ) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Best Friend](https://open.spotify.com/album/7AF8UxAKHt77J9j8ZBpH7J) | 3:09 | 2023-11-24 | 2024-04-10 |
 | [Best Friend Breakup](https://open.spotify.com/track/28a302Jx34OM1z5qG7ykMJ) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Best Friend Breakup](https://open.spotify.com/album/7L4j1hSTzMMGj3K7BmbtfL) | 2:21 | 2023-02-10 | 2023-03-03 |
@@ -525,7 +526,7 @@
 | [Dreaming](https://open.spotify.com/track/3TBNXtO8ukvpbgvkMuttsb) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dreaming](https://open.spotify.com/album/0WK5sLNYIynhTomJpn1bqs) | 3:28 | 2024-02-02 | 2024-04-19 |
 | [Dreams](https://open.spotify.com/track/1vIaGytGpR3V9QVCVxJObE) | [Honey.](https://open.spotify.com/artist/2Rki2mP8GPq0ZTeHqSbcMN) | [Dreams](https://open.spotify.com/album/0X25tZlCCHAofXorBcuty3) | 3:38 | 2025-06-05 | 2025-07-12 |
 | [Drink Me Up](https://open.spotify.com/track/0M1HpnqE77W5DULLL2Pluq) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [Drink Me Up](https://open.spotify.com/album/2wwaNyCtHMoZp11jZ389Rz) | 3:23 | 2024-03-04 | 2024-05-04 |
-| [Drip](https://open.spotify.com/track/7A8TjnegZwDGOhWaQetlfE) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More is More is More](https://open.spotify.com/album/4szXUtJNCDZ17vDNcrpLm5) | 2:22 | 2025-11-28 |  |
+| [Drip](https://open.spotify.com/track/7A8TjnegZwDGOhWaQetlfE) | [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [More is More is More](https://open.spotify.com/album/4szXUtJNCDZ17vDNcrpLm5) | 2:22 | 2025-11-28 | 2026-03-08 |
 | [Drive](https://open.spotify.com/track/2DcSCMzP3lOE0ObtckWCn5) | [Just Wondering](https://open.spotify.com/artist/3cYJRMfmmDpWgSolJyNVwV) | [Drive](https://open.spotify.com/album/6wTv9Yqoym1LtJqWD4TYnr) | 3:00 | 2020-11-14 | 2021-02-20 |
 | [Drowning](https://open.spotify.com/track/1U01USQ1KoGB36wlCHw6px) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [Heatwave/Drowning](https://open.spotify.com/album/65sVg5JZEC2W2CsPApyASp) | 3:14 | 2025-10-09 | 2025-12-05 |
 | [Drunk in the Bathtub](https://open.spotify.com/track/1EFfOdupn1DbhX9WLP5efs) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Drunk in the Bathtub](https://open.spotify.com/album/7sbfuEc5X1TwieMFPRXn6t) | 2:46 | 2022-12-02 | 2023-03-03 |

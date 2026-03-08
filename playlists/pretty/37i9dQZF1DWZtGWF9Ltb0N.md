@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtGWF9Ltb0N.md) - [plain]
 
 > Floor shattering bass and dark soundscapes ♣️
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,082 likes - 150 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,206 likes - 150 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Section](https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Section](https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT) | 2:54 |
-| 2 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:15 |
+| 2 | [Onslaught](https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Casey Club](https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj) | [Onslaught](https://open.spotify.com/album/2vCpnm7TzVfcDyzA7YKZH7) | 3:01 |
 | 3 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
 | 4 | [Seance](https://open.spotify.com/track/3rliJQC1pZ1AFSbrXprQtB) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Are We Dreaming?](https://open.spotify.com/album/5SLXmClA3IiEXxT9Nykfaq) | 4:00 |
 | 5 | [l!sten](https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [l!sten](https://open.spotify.com/album/3VDdMX2Cr34oAkZp7sgg7P) | 3:05 |

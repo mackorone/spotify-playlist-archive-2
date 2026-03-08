@@ -36,6 +36,10 @@
           "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
         },
         {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        },
+        {
           "name": "Keyon Harrold",
           "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
         }
@@ -291,26 +295,6 @@
     {
       "added_at": "2026-03-06 05:00:00",
       "album": {
-        "name": "Dracula (Remix)",
-        "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Dracula - JENNIE Remix",
-      "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
-    },
-    {
-      "added_at": "2026-03-06 05:00:00",
-      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
       },
@@ -371,26 +355,6 @@
       "duration_ms": 151576,
       "name": "My Funny Valentine (Studio Japan '69)",
       "url": "https://open.spotify.com/track/4cUA0vsXM8MGEx7p8jaQ23"
-    },
-    {
-      "added_at": "2026-03-06 05:00:00",
-      "album": {
-        "name": "Lolita",
-        "url": "https://open.spotify.com/album/6EotlJtKLIkYGnzCzWOOaW"
-      },
-      "artists": [
-        {
-          "name": "RZA",
-          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
-        },
-        {
-          "name": "Craig G",
-          "url": "https://open.spotify.com/artist/6PHq7gqoQmOD05QBJ69IC0"
-        }
-      ],
-      "duration_ms": 276877,
-      "name": "Lolita",
-      "url": "https://open.spotify.com/track/0ipV8mxZknMlHRu8i5bcfX"
     },
     {
       "added_at": "2026-03-06 05:00:00",
@@ -819,26 +783,6 @@
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
-    },
-    {
-      "added_at": "2026-03-06 05:00:00",
-      "album": {
-        "name": "Comme Caroline (feat. MC Solaar)",
-        "url": "https://open.spotify.com/album/70kgTL1sdlX06MdZ5wa4rq"
-      },
-      "artists": [
-        {
-          "name": "Zaho",
-          "url": "https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o"
-        },
-        {
-          "name": "MC Solaar",
-          "url": "https://open.spotify.com/artist/3nU8TSIICYDbUqRpJISTRE"
-        }
-      ],
-      "duration_ms": 185466,
-      "name": "Comme Caroline (feat. MC Solaar)",
-      "url": "https://open.spotify.com/track/4EWeDhIeB90lUmgsVKATi2"
     },
     {
       "added_at": "2026-03-06 05:00:00",

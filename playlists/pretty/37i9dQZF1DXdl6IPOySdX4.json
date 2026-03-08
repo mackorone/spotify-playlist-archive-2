@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2151671,
+  "num_followers": 2152080,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 258693,
+      "name": "Smooth Operator - Single Version",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
         "name": "My Dear Melancholy,",
         "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 241066,
       "name": "I Was Never There",
       "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 258693,
-      "name": "Smooth Operator - Single Version",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
     },
     {
       "added_at": "2025-07-03 03:36:52",
@@ -1525,22 +1525,6 @@
       "url": "https://open.spotify.com/track/6OOdgnBjXKHCiq0K6pPeaE"
     },
     {
-      "added_at": "2025-09-05 04:00:04",
-      "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
-      },
-      "artists": [
-        {
-          "name": "Haley Joelle",
-          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
-        }
-      ],
-      "duration_ms": 192124,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
@@ -1555,6 +1539,22 @@
       "duration_ms": 191786,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1T575AhHueYinKSDflEsGK"
+    },
+    {
+      "added_at": "2025-09-05 04:00:04",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/77rMURUUj3uzuUOYNGG68R"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 192124,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
     },
     {
       "added_at": "2024-08-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-81 songs - 4 hr 46 min
+82 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Grande](https://open.spotify.com/track/17VbSbtrl7X64bNnTTQlFG) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:52 | 2022-06-04 |  |
 | [Habla Blah Blah](https://open.spotify.com/track/1ki575hbZbZ6nkBrfpzD0b) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:49 | 2022-06-04 |  |
 | [Hijoeputa](https://open.spotify.com/track/1jiQYy7fysk0pGHQCdwl1y) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Diosa De La Noche](https://open.spotify.com/album/1z3DG5YTz8ZLOusVBZc01Q) | 3:08 | 2026-02-04 |  |
+| [Hoy Me Iré de Casa](https://open.spotify.com/track/19Lt516JdsMtylk8dT41Kb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 4:17 | 2026-03-07 |  |
 | [Inmortal](https://open.spotify.com/track/7GD5WRuBP0h3eDQxV6q8Im) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:47 | 2022-06-04 |  |
 | [Inocente](https://open.spotify.com/track/6UkuCMLfUR73tP39cBmMAW) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Inocente](https://open.spotify.com/album/7kzEdBcv5kzOXeo6aNZlh5) | 3:17 | 2025-04-01 |  |
 | [Jack el Reprobador](https://open.spotify.com/track/64TA9g90KKv6iFkqNQSWzR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:09 | 2025-06-04 |  |

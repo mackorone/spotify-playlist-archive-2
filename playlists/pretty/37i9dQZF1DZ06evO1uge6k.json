@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 260707,
+  "num_followers": 260725,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAACX28gdbTb/YxUawc9eYCo9",
+  "snapshot_id": "aaoZAAAAAABEFmaM5PSJ1EiReFE7qDdb",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/47ZuHutG1JNtCB9Pg5QZFZ"
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 179333,
-      "name": "Sharp Dressed Man",
-      "url": "https://open.spotify.com/track/15mLZ2fY0LoJyjWs1wrtgs"
+      "duration_ms": 236200,
+      "name": "Doubleback",
+      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+        "name": "Deguello",
+        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Doubleback",
-      "url": "https://open.spotify.com/track/5do2NQzjriskVEaFM2z4ge"
+      "duration_ms": 286573,
+      "name": "I'm Bad, I'm Nationwide",
+      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deguello",
-        "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 286573,
-      "name": "I'm Bad, I'm Nationwide",
-      "url": "https://open.spotify.com/track/5ETdfJuLBfjAOy5pbXMWxK"
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
     },
     {
       "added_at": null,

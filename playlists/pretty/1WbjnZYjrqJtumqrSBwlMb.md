@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,215 songs - 3 day 2 hr 42 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,216 songs - 3 day 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1223,5 +1223,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1213 | [In the dark](https://open.spotify.com/track/2LXrbR5g8YtHOwsUajVA3n) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [In the dark](https://open.spotify.com/album/4f79OSrDn7wmCau5h8u1t9) | 4:01 |
 | 1214 | [Play my guitar](https://open.spotify.com/track/2ivXSSVfpv2YUYMqX9x426) | [venturing](https://open.spotify.com/artist/13xKCVJaX32BL7EN9IOiCM) | [Ghostholding](https://open.spotify.com/album/0zfRCNRF2ya1KZDtgGXUgI) | 3:30 |
 | 1215 | [Take A Drive](https://open.spotify.com/track/6786wQ6hLGYDqIcl0x2Nmk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Take A Drive](https://open.spotify.com/album/3fdCAIvFKpHTHZ3QPtpe0a) | 3:45 |
+| 1216 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
 
-Snapshot ID: `AAAJwLLts7MQGfQlEBWhbDrZGeaJqbfg`
+Snapshot ID: `AAAJwe2/A5BJM2xUG0B4ZN0m3UHqShCq`

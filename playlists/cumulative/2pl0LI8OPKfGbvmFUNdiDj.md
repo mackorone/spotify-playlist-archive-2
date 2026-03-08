@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-366 songs - 20 hr 33 min
+369 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 | 2025-12-24 | 2026-01-15 |
 | [I Am Myself](https://open.spotify.com/track/4epi22E8Nfxddq4sB3QmaL) | [Mc Lic](https://open.spotify.com/artist/1EsbQyIL0vr4ze4rKKVHoe), [7sete7](https://open.spotify.com/artist/201Meo78dft4fx9JCW9RwW) | [I Am Myself](https://open.spotify.com/album/1AKtzNNNJrLpSCmA3Coipz) | 2:27 | 2026-01-18 | 2026-02-21 |
 | [I Can See](https://open.spotify.com/track/3dq8Lc5qdHtvqYjABo6p2x) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [I Can See](https://open.spotify.com/album/3EsMwipMnmMhMP9RWOHOPH) | 2:48 | 2025-12-22 | 2026-03-03 |
+| [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-03-07 |  |
 | [I'll Be Alright](https://open.spotify.com/track/07rCURpFsBIeD7R6jwsxp5) | [Rob Skinner](https://open.spotify.com/artist/13bCwVHw1MUQUDKj7NrWiT) | [I'll Be Alright](https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0) | 4:00 | 2025-11-17 | 2026-01-05 |
 | [Ibuprofeno](https://open.spotify.com/track/4494LHT6jmnv9dzvNJ0LpP) | [Adrap](https://open.spotify.com/artist/4fJb2mig8YyyhwPC4JgIXI) | [Collage](https://open.spotify.com/album/78iXBQSLQd5SnSts47tzAI) | 1:34 | 2025-11-17 | 2026-01-05 |
 | [If I Can't Have You](https://open.spotify.com/track/5CxxnPvc1oqXmmf9GvBuuR) | [Glen Caleb](https://open.spotify.com/artist/4Hyl6jqlskLvgHqxk3eKbA) | [If I Can't Have You](https://open.spotify.com/album/1UGBW7p7M46l2LRoYu2ifg) | 2:45 | 2025-11-17 | 2026-01-05 |
@@ -270,6 +271,7 @@
 | [Real Talk](https://open.spotify.com/track/0VZonNcbe7t9baqsGVeU7n) | [Young JD](https://open.spotify.com/artist/4GeZGR2T3FNXXcQFqjvnuL) | [Real Talk](https://open.spotify.com/album/0Na2C3AJXAMGt1JDy6sCe8) | 4:33 | 2025-11-05 | 2025-12-01 |
 | [Recognize](https://open.spotify.com/track/5EpZwXMWUCS3sLKBPpl7oJ) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Recognize](https://open.spotify.com/album/10lOKU6lpAZ6up58TCYNsR) | 3:09 | 2025-11-10 | 2025-12-01 |
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
+| [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 | 2026-03-07 |  |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 | 2026-02-21 |
@@ -318,6 +320,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |
 | [The Thinker And The Prover](https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/66gGHDPKfLxjss96Sj4lnM) | 6:01 | 2025-08-24 | 2026-01-25 |
+| [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-07 |  |
 | [The Voiceless](https://open.spotify.com/track/0vbPyXsxrJqxuj6AjiXKaF) | [Purple Microdot](https://open.spotify.com/artist/7a8uvG9bm2pkf2BeVpJiB4) | [The Voiceless](https://open.spotify.com/album/4Lq6CpG2nc0wFg6zRXxr4S) | 1:59 | 2026-01-24 |  |
 | [THE WORST PART](https://open.spotify.com/track/1eGmUjqVeD4MOHTx9en1S2) | [KYL3.](https://open.spotify.com/artist/25uvdhBsvGflCoeNRehds8) | [COLLEGE TAPES](https://open.spotify.com/album/3xR8IcdYdezBDXZzZ2Fa68) | 2:15 | 2025-11-08 | 2025-12-01 |
 | [These Days](https://open.spotify.com/track/6OmhyzNc5npG63GgGaPtJm) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [These Days](https://open.spotify.com/album/5TIcIHvjz2ydUJFBQB7L3M) | 3:33 | 2025-11-10 | 2025-12-01 |

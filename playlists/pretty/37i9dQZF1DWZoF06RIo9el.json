@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de marzo 2026. Cover: Omar Courtz",
-  "num_followers": 1554591,
+  "num_followers": 1554643,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
-        "name": "Infinito",
-        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 134277,
-      "name": "Me Voy A La Chingada",
-      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
         "name": "ganga",
         "url": "https://open.spotify.com/album/7hUNrguCnr82K3zt93l1pQ"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 165949,
       "name": "ganga",
       "url": "https://open.spotify.com/track/7gyHVcxDQ0uMnWwGTsE9YX"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
+        "name": "Infinito",
+        "url": "https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 134277,
+      "name": "Me Voy A La Chingada",
+      "url": "https://open.spotify.com/track/297ql9Y4MLwYwt6wY1wFID"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
+        "name": "Algo de m\u00ed",
+        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 181914,
+      "name": "Algo de m\u00ed",
+      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
         "name": "ESPACIO",
         "url": "https://open.spotify.com/album/4xhFGaj0T9cAYG3wBhd87J"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 172857,
       "name": "ESPACIO",
       "url": "https://open.spotify.com/track/0EOhkB8NqywpgtAYKoq4tw"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "Algo de m\u00ed",
-        "url": "https://open.spotify.com/album/7mUyUHgpceqFrbVqKnyoqm"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 181914,
-      "name": "Algo de m\u00ed",
-      "url": "https://open.spotify.com/track/6ciwQPaKG7QERMMLrjznZE"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
-        "name": "TODO PENDEJO",
-        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 190359,
-      "name": "TODO PENDEJO",
-      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
         "name": "11:11pm",
         "url": "https://open.spotify.com/album/0o4SYeBmX74gFITqRgErxp"
       },
@@ -535,6 +519,22 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
+        "name": "TODO PENDEJO",
+        "url": "https://open.spotify.com/album/3Dy4cbywafEQjnU2tliWXK"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 190359,
+      "name": "TODO PENDEJO",
+      "url": "https://open.spotify.com/track/53rgAXUcCzGoK5wPjBQbhk"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
         "name": "Los Paraca\u00eddas",
         "url": "https://open.spotify.com/album/0qmMtLIVz5a9l1PGAba0XF"
       },
@@ -547,6 +547,22 @@
       "duration_ms": 189429,
       "name": "Los Paraca\u00eddas",
       "url": "https://open.spotify.com/track/6UVEZ6gXAXkcUK5eKpLrHl"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
+        "name": "barquito (bonus track)",
+        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 204974,
+      "name": "barquito - bonus track",
+      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -635,6 +651,22 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
+        "name": "Oda",
+        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 224798,
+      "name": "oda",
+      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
         "name": "BES4ME",
         "url": "https://open.spotify.com/album/2pDTIwOIb85dGC7Pj0RUay"
       },
@@ -647,6 +679,26 @@
       "duration_ms": 153176,
       "name": "BES4ME",
       "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
+        "name": "\u00bfte ACUERDAS de mi?",
+        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
+      },
+      "artists": [
+        {
+          "name": "DIA",
+          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "duration_ms": 173575,
+      "name": "\u00bfte ACUERDAS de mi?",
+      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -683,18 +735,18 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
-        "name": "Luna de Miel",
-        "url": "https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6"
+        "name": "Choque",
+        "url": "https://open.spotify.com/album/5mM7KUXUGCCCa8xFyOPTv2"
       },
       "artists": [
         {
-          "name": "Delilah",
-          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 212443,
-      "name": "Luna de Miel",
-      "url": "https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp"
+      "duration_ms": 243541,
+      "name": "Choque",
+      "url": "https://open.spotify.com/track/1ulnhZ9EhkiyokthZbGbXA"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -715,6 +767,22 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
+        "name": "Luna de Miel",
+        "url": "https://open.spotify.com/album/6AYXDaMyg9gsrWByz7Vtu6"
+      },
+      "artists": [
+        {
+          "name": "Delilah",
+          "url": "https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR"
+        }
+      ],
+      "duration_ms": 212443,
+      "name": "Luna de Miel",
+      "url": "https://open.spotify.com/track/5axajboxCw101fMlC7U8Lp"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
         "name": "Hay algo que te quiero decir",
         "url": "https://open.spotify.com/album/62M1UTDi3MRtR5dQM2XteT"
       },
@@ -727,6 +795,22 @@
       "duration_ms": 218769,
       "name": "Hay algo que te quiero decir",
       "url": "https://open.spotify.com/track/0hTkMqX524QLtetsbdj7co"
+    },
+    {
+      "added_at": "2026-03-06 14:17:29",
+      "album": {
+        "name": "La M\u00e1quina",
+        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 154912,
+      "name": "La M\u00e1quina",
+      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
     },
     {
       "added_at": "2026-03-06 14:17:29",
@@ -799,122 +883,34 @@
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
-        "name": "Amor.illo",
-        "url": "https://open.spotify.com/album/4iymNbKMfKg7RmKLWtH6df"
+        "name": "BRRREAK!",
+        "url": "https://open.spotify.com/album/5pSsnrYZIOxKiZdWLRLpa9"
       },
       "artists": [
         {
-          "name": "Louie El Ser",
-          "url": "https://open.spotify.com/artist/1nKfzK3n5Ti6TzUlj56jx7"
-        },
-        {
-          "name": "Tommie Phoenix",
-          "url": "https://open.spotify.com/artist/7tW9uIBTXtakDgCDsAy6gk"
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 193939,
-      "name": "Amor.illo",
-      "url": "https://open.spotify.com/track/66aahjHbtB5iAr5klNgNYV"
+      "duration_ms": 167782,
+      "name": "BRRREAK!",
+      "url": "https://open.spotify.com/track/5bW3kexDHYek62nlbRBi7c"
     },
     {
       "added_at": "2026-03-06 14:17:29",
       "album": {
-        "name": "La M\u00e1quina",
-        "url": "https://open.spotify.com/album/7HPpJQmljEPIaedgm7vBsa"
+        "name": "le f*llen al miedo",
+        "url": "https://open.spotify.com/album/6CtkaDBkGQ7KkRUCOddpNi"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Antony Z",
+          "url": "https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc"
         }
       ],
-      "duration_ms": 154912,
-      "name": "La M\u00e1quina",
-      "url": "https://open.spotify.com/track/5acc1o99QTGUXSkKQHnpZZ"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "En Tercera Persona",
-        "url": "https://open.spotify.com/album/0MqVHSORj4pxurPL2VYuKT"
-      },
-      "artists": [
-        {
-          "name": "More",
-          "url": "https://open.spotify.com/artist/0vLXnXSAplgnptyE3jKnpi"
-        }
-      ],
-      "duration_ms": 211435,
-      "name": "En Tercera Persona",
-      "url": "https://open.spotify.com/track/3qCHZJdMbtIzyQiTqClp4n"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "\u00bfte ACUERDAS de mi?",
-        "url": "https://open.spotify.com/album/4p1LeCsBKpNwg318Z7iIsP"
-      },
-      "artists": [
-        {
-          "name": "DIA",
-          "url": "https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        }
-      ],
-      "duration_ms": 173575,
-      "name": "\u00bfte ACUERDAS de mi?",
-      "url": "https://open.spotify.com/track/0frwR02LadHmK4qqoT5gjN"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "barquito (bonus track)",
-        "url": "https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 204974,
-      "name": "barquito - bonus track",
-      "url": "https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "consuelo",
-        "url": "https://open.spotify.com/album/1J8b1nwZO4k1IkoKtZVoxh"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "cari\u00f1o",
-      "url": "https://open.spotify.com/track/4R8grinJeW7qnUxpoMx3CI"
-    },
-    {
-      "added_at": "2026-03-06 14:17:29",
-      "album": {
-        "name": "Oda",
-        "url": "https://open.spotify.com/album/4v7uRExuPK8lxPiooSjY1T"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 224798,
-      "name": "oda",
-      "url": "https://open.spotify.com/track/7FHFuoxWoO7Hx523AbDJW0"
+      "duration_ms": 147000,
+      "name": "UN PIKETON",
+      "url": "https://open.spotify.com/track/7cF71NBxGJjBo6k7ssiiJu"
     }
   ],
   "unique_name": "Lo mejor del mes",

@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 20914,
+  "num_followers": 20933,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-03-06 00:01:14",
       "album": {
-        "name": "IRON BOY",
-        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 137727,
-      "name": "Eye Open",
-      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
-    },
-    {
-      "added_at": "2026-03-06 00:01:14",
-      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
+    },
+    {
+      "added_at": "2026-03-06 00:01:14",
+      "album": {
+        "name": "IRON BOY",
+        "url": "https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 137727,
+      "name": "Eye Open",
+      "url": "https://open.spotify.com/track/0lyZHhlrCzh3A74aWN8GdH"
     },
     {
       "added_at": "2026-03-06 00:01:14",
@@ -403,34 +403,18 @@
     {
       "added_at": "2026-03-06 00:01:14",
       "album": {
-        "name": "BALENCIAGA II",
-        "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        },
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "SAMA'",
-          "url": "https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM"
-        },
-        {
-          "name": "Oseikrom Sikanii",
-          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
         }
       ],
-      "duration_ms": 301530,
-      "name": "BALENCIAGA II",
-      "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
     },
     {
       "added_at": "2026-03-06 00:01:14",
@@ -459,18 +443,34 @@
     {
       "added_at": "2026-03-06 00:01:14",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+        "name": "BALENCIAGA II",
+        "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
       "artists": [
         {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "SAMA'",
+          "url": "https://open.spotify.com/artist/56lnidsuyzPjHuymxZCwPM"
+        },
+        {
+          "name": "Oseikrom Sikanii",
+          "url": "https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+      "duration_ms": 301530,
+      "name": "BALENCIAGA II",
+      "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
     },
     {
       "added_at": "2026-03-06 00:01:14",
@@ -967,18 +967,26 @@
     {
       "added_at": "2026-03-06 00:01:14",
       "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/0o03yi54DW1bVidSYt9hZZ"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        },
+        {
+          "name": "CrashDummy",
+          "url": "https://open.spotify.com/artist/0pyehJ4fIGvJMD8EXGLUAI"
         }
       ],
-      "duration_ms": 158429,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo"
+      "duration_ms": 140109,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1Qt93wdcRF1sgRNnJeeldt"
     }
   ],
   "unique_name": "Soloku ",

@@ -32,6 +32,24 @@
           "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
         }
       ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "And Then It's OK",
+      "url": "https://open.spotify.com/track/35aBZUn6gHTfa2NFaYf2Nd"
+    },
+    {
+      "album": {
+        "name": "Odyshape",
+        "url": "https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -74,6 +92,24 @@
       "duration_ms": 259720,
       "name": "Balloonacy",
       "url": "https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq"
+    },
+    {
+      "album": {
+        "name": "The Raincoats",
+        "url": "https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ"
+      },
+      "artists": [
+        {
+          "name": "The Raincoats",
+          "url": "https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149293,
+      "name": "Black and White",
+      "url": "https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl"
     },
     {
       "album": {
@@ -160,7 +196,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 253906,
       "name": "Family Treet",
       "url": "https://open.spotify.com/track/5qhrTs1kFkJSBK9c6EJaoQ"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 231573,
       "name": "The Void",
       "url": "https://open.spotify.com/track/007mKIn7XPKaX4XtBDSOSP"

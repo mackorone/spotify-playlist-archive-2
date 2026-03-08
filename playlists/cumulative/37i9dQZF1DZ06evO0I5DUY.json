@@ -358,10 +358,28 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 190906,
       "name": "El Caballo Jovero",
       "url": "https://open.spotify.com/track/7KLfQ4cx2w4Wv26r0MZKQM"
+    },
+    {
+      "album": {
+        "name": "20 Norte\u00f1as Los Cadetes De Linares",
+        "url": "https://open.spotify.com/album/4drxRjJ751SoIDI3pAaqwz"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195001,
+      "name": "El Caballo Jovero",
+      "url": "https://open.spotify.com/track/3KAakRayZHiDzdOwQqRzdG"
     },
     {
       "album": {

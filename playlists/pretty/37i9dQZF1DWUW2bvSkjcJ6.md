@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Harry Styles, Sarah Connor, Zartmann, Jazeek & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,261 likes - 88 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,268 likes - 88 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 70 | [London's Burning](https://open.spotify.com/track/7zSo6VFBUzx3jrH6RpaUyP) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [Little Miss Crazy B!tch](https://open.spotify.com/album/3rbz11TmDHUWPKLNVJ2Vzj) | 2:49 |
 | 71 | [Vogue](https://open.spotify.com/track/4VUU80G0426vyvmcFdaWRm) | [c4rl](https://open.spotify.com/artist/72UhalaIOck67xEkd5G07c) | [Vogue](https://open.spotify.com/album/4W8fHNLoUxAEooYPUTrSGa) | 1:49 |
 | 72 | [Ride Of Your Life \(Scarborough Fair\)](https://open.spotify.com/track/1sPIWtbLJNa4vCkK8wv4tI) | [AVA CROWN](https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC) | [Ride Of Your Life \(Scarborough Fair\)](https://open.spotify.com/album/5PV3Y5996bW2eZrrj8E4V7) | 2:12 |
-| 73 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 73 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 74 | [Devil You Know](https://open.spotify.com/track/0SvFR7coUg1LeJvGPWxG2w) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Devil You Know](https://open.spotify.com/album/3XutjqiiywXz5uD4Fx6JA0) | 3:10 |
 | 75 | [Adiletten & Weißwein](https://open.spotify.com/track/3YnY2J5wpXWvD9QLVLSQjy) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [FABE BROWN](https://open.spotify.com/artist/1H2agrqo1Y8alTi5Wde6UG), [nils fie](https://open.spotify.com/artist/2jXDpuKP3CSQXR36w4tqwK) | [Adiletten & Weißwein](https://open.spotify.com/album/0v4pbVrNxoSCBNopDYmCU4) | 2:53 |
 | 76 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 |

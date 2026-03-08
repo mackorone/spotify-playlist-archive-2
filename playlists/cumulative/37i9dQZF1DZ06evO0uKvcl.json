@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Music Legends Howlin' Wolf: The Giant Voice of Blues",
+        "url": "https://open.spotify.com/album/10PSqAaeMiAWmeYtheIs4Z"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175379,
+      "name": "I'm Leaving You",
+      "url": "https://open.spotify.com/track/6uNfp2UaHJFucfdxmZaQvx"
+    },
+    {
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },

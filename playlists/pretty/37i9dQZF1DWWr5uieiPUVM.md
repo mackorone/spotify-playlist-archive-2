@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > coração vazio, pente cheio, ódio no olhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,546,559 likes - 55 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,546,508 likes - 55 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 17 | [Discreto](https://open.spotify.com/track/2tojoGnvHLNuMuGncpnjAC) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Discreto](https://open.spotify.com/album/1ACVXYNOm1AwwCPxzgZfe1) | 2:00 |
 | 18 | [FLORES 💐](https://open.spotify.com/track/3h7Hn9WEMOJFn8yw9NUmAX) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [FKAY](https://open.spotify.com/album/4bJZgUcP13Q7LEswwYrDxR) | 2:41 |
 | 19 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |
-| 20 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
+| 20 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
 | 21 | [FATOR DETETIVE](https://open.spotify.com/track/7eI6espPJCEzewXT74VB2m) | [KayG](https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Fahel](https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC), [Kenji](https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO), [Bila](https://open.spotify.com/artist/746soIdyigoh87LO1Y8KXd), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq) | [FATOR DETETIVE](https://open.spotify.com/album/0DU9AAL74JBTslyO0fgsju) | 2:41 |
 | 22 | [MOTIVO](https://open.spotify.com/track/1qKALAI1oDHKjSEz95KO4w) | [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV) | [MOTIVO](https://open.spotify.com/album/5FV4dy58QXaDjngYtT6VaB) | 2:46 |
 | 23 | [Drive\-In](https://open.spotify.com/track/337ctDJq6yBjGmHuN3AYCX) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [808 CLUB: AFTER](https://open.spotify.com/album/1BnqgpPiP1yXYUgd17kTTr) | 3:33 |

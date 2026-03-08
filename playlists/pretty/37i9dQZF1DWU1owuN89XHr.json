@@ -1,6 +1,6 @@
 {
   "description": "Historias y versos que tocan la piel. ",
-  "num_followers": 295936,
+  "num_followers": 295954,
   "original_name": "Esenciales Trova",
   "owner": {
     "name": "Spotify",
@@ -835,22 +835,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Colecci\u00f3n Nos Queda Su Canci\u00f3n, Vol. 8: Entre Otros",
         "url": "https://open.spotify.com/album/2drFmUeIpLaHk3R3WeuqDR"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 206204,
       "name": "Para una Imaginaria Mar\u00eda del Carmen",
       "url": "https://open.spotify.com/track/7HHoh2ZEXYchu6tNdBQJwE"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -931,22 +931,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Silvio",
-        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 336400,
-      "name": "Qui\u00e9n Fuera",
-      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Norte",
         "url": "https://open.spotify.com/album/6skXhhSHPiVDNpnCjgHMmk"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 280000,
       "name": "Norte",
       "url": "https://open.spotify.com/track/3iv7GUp4v9SF8HfMKhv5Bo"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Silvio",
+        "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
     },
     {
       "added_at": "2023-08-01 14:42:56",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Encanto",
         "url": "https://open.spotify.com/album/0smFumIxHdTArp6Tsm0rhi"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 252380,
       "name": "Encanto",
       "url": "https://open.spotify.com/track/0hJcXk3AyYjXzT88BsgNlP"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/7nQRBFSxhSKMqDp0jggQBR"
     },
     {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "Noche Sin Fin y Mar",
-        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 184968,
-      "name": "Noche Sin Fin y Mar",
-      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
-    },
-    {
       "added_at": "2022-01-11 03:05:13",
       "album": {
         "name": "30 A\u00f1os",
@@ -1131,6 +1115,22 @@
       "duration_ms": 280893,
       "name": "Alfonsina Y El Mar",
       "url": "https://open.spotify.com/track/1dsG4CwDogYQ6Lfnca9PpX"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Noche Sin Fin y Mar",
+        "url": "https://open.spotify.com/album/7BsIanRYYPVAqaeBVUQdUf"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 184968,
+      "name": "Noche Sin Fin y Mar",
+      "url": "https://open.spotify.com/track/0Sp3VjpbsMuMv72CHBuQFc"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
-        "name": "Sounds of Havana, Vol. 1",
-        "url": "https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU"
-      },
-      "artists": [
-        {
-          "name": "Carlos Varela",
-          "url": "https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "Una Palabra",
-      "url": "https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
         "name": "Ser\u00e1 Posible El Sur?",
         "url": "https://open.spotify.com/album/2U6CJqnFntxEWLSLBoeCs1"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 290666,
       "name": "Todo Cambia",
       "url": "https://open.spotify.com/track/4ZOomo8OwEczYXh0I9qOGU"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
+        "name": "Sounds of Havana, Vol. 1",
+        "url": "https://open.spotify.com/album/6LAgHUV1qLh2jQUyK3AGbU"
+      },
+      "artists": [
+        {
+          "name": "Carlos Varela",
+          "url": "https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "Una Palabra",
+      "url": "https://open.spotify.com/track/4OdjDo0fQUNDYWvxsHqLdi"
     },
     {
       "added_at": "2021-07-29 16:46:05",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2021-07-29 16:46:05",
       "album": {
+        "name": "30 A\u00f1os",
+        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 264040,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
+    },
+    {
+      "added_at": "2021-07-29 16:46:05",
+      "album": {
         "name": "D\u00edas de Junio",
         "url": "https://open.spotify.com/album/1mwi4HuLUtD1YyOqof2iZk"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 200520,
       "name": "D\u00edas de Junio",
       "url": "https://open.spotify.com/track/4NvTDPBXZk4CKH5KyHQ0z9"
-    },
-    {
-      "added_at": "2021-07-29 16:46:05",
-      "album": {
-        "name": "30 A\u00f1os",
-        "url": "https://open.spotify.com/album/5k9z28Gw7Nf6FtHp8UIXSE"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 264040,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/7LG5cNXKsKSV3IrHNrHzGa"
     },
     {
       "added_at": "2021-07-29 16:46:05",

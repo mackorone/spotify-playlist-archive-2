@@ -484,12 +484,12 @@
           "url": "https://open.spotify.com/artist/5a4ZtVIIv7tXhpSniKoUdv"
         },
         {
-          "name": "Thiago Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
-        },
-        {
           "name": "Pastoras do Ros\u00e1rio",
           "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        },
+        {
+          "name": "Thiago Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/3GVMJbhuozmJd74QTpxP1O"
         }
       ],
       "date_added": "2022-09-22",
@@ -976,7 +976,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 191426,
       "name": "Funk-se quem puder",
       "url": "https://open.spotify.com/track/0VOTHJFg4WNqO08vyu7usH"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 141426,
       "name": "Tatarue",
       "url": "https://open.spotify.com/track/397flPDxxM0ThZbsGTVGMb"

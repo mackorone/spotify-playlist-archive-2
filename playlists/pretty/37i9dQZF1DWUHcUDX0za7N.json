@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Fimi",
-  "num_followers": 78118,
+  "num_followers": 78149,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-03-06 00:01:10",
       "album": {
-        "name": "Oh My Days",
-        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
-      },
-      "artists": [
-        {
-          "name": "Islambo",
-          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
-        }
-      ],
-      "duration_ms": 119166,
-      "name": "Oh My Days",
-      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
-    },
-    {
-      "added_at": "2026-03-06 00:01:10",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167000,
       "name": "Life",
       "url": "https://open.spotify.com/track/42K8Irooh4QNXZz2J3E31S"
+    },
+    {
+      "added_at": "2026-03-06 00:01:10",
+      "album": {
+        "name": "Oh My Days",
+        "url": "https://open.spotify.com/album/03NtEqY1Id8juYBHnvSikk"
+      },
+      "artists": [
+        {
+          "name": "Islambo",
+          "url": "https://open.spotify.com/artist/4e4RJ4iHnchQtUlUxyznqR"
+        }
+      ],
+      "duration_ms": 119166,
+      "name": "Oh My Days",
+      "url": "https://open.spotify.com/track/0toWffYQiopaESjvTWNz1l"
     },
     {
       "added_at": "2026-03-06 00:01:10",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-06 00:01:10",
       "album": {
-        "name": "IDI AMIN",
-        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
-      },
-      "artists": [
-        {
-          "name": "6uff",
-          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
-        }
-      ],
-      "duration_ms": 136470,
-      "name": "IDI AMIN",
-      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
-    },
-    {
-      "added_at": "2026-03-06 00:01:10",
-      "album": {
         "name": "JONBU",
         "url": "https://open.spotify.com/album/5N84TrhEsfEvJwVdJwIwzP"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 158195,
       "name": "JONBU",
       "url": "https://open.spotify.com/track/6ljpoEvVqHtKsakkSvo5hQ"
+    },
+    {
+      "added_at": "2026-03-06 00:01:10",
+      "album": {
+        "name": "IDI AMIN",
+        "url": "https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN"
+      },
+      "artists": [
+        {
+          "name": "6uff",
+          "url": "https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG"
+        }
+      ],
+      "duration_ms": 136470,
+      "name": "IDI AMIN",
+      "url": "https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp"
     },
     {
       "added_at": "2026-03-06 00:01:10",

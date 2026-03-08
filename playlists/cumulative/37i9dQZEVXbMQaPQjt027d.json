@@ -1607,6 +1607,24 @@
     },
     {
       "album": {
+        "name": "Bazooka",
+        "url": "https://open.spotify.com/album/6cM8Ky6V5piRMcuePn2H4L"
+      },
+      "artists": [
+        {
+          "name": "Miami XO",
+          "url": "https://open.spotify.com/artist/3YtYKFoeuIDJs7UVGiFauz"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108121,
+      "name": "Bazooka",
+      "url": "https://open.spotify.com/track/28Y6r99oMdMAb4LxwLLKwa"
+    },
+    {
+      "album": {
         "name": "The Chris Rainbow Anthology",
         "url": "https://open.spotify.com/album/3uJ0vJKjo6059nVpcQGpLC"
       },
@@ -1618,10 +1636,28 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology - 1974-1981",
+        "url": "https://open.spotify.com/album/7rCpFovU7itXZjSXnbvWeg"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
     },
     {
       "album": {
@@ -12362,7 +12398,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"
@@ -13014,7 +13050,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 146742,
       "name": "Psycho Mode",
       "url": "https://open.spotify.com/track/49vulLgZTfotpKFD4N58Wz"
@@ -14983,6 +15019,24 @@
     },
     {
       "album": {
+        "name": "Surah Al Ahzab 35",
+        "url": "https://open.spotify.com/album/3vOf9Hae9KOUs9cczLW9OY"
+      },
+      "artists": [
+        {
+          "name": "Egzon Ibrahimi",
+          "url": "https://open.spotify.com/artist/4ZcYm5S3dEqyd8yuKCNVw7"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96943,
+      "name": "Surah Al Ahzab 35",
+      "url": "https://open.spotify.com/track/28vWn1P3W5HjmeuEFXCcW0"
+    },
+    {
+      "album": {
         "name": "Survive",
         "url": "https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA"
       },
@@ -15258,6 +15312,24 @@
     {
       "album": {
         "name": "That's The Way It Is",
+        "url": "https://open.spotify.com/album/76UXGwUst31tICFVctrWtw"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
+    },
+    {
+      "album": {
+        "name": "That's The Way It Is",
         "url": "https://open.spotify.com/album/6AXR5LiuVES9yZgS20xQ8o"
       },
       "artists": [
@@ -15268,7 +15340,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 174960,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/7mNZJFF0B4r3cB8c2GPwz8"
@@ -17502,7 +17574,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 188095,
       "name": "We Do What We Want - Edit",
       "url": "https://open.spotify.com/track/2qGvgsRsmrB0Y7Y4MmuP1M"
@@ -18628,7 +18700,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 216645,
       "name": "Yoga (Vocal)",
       "url": "https://open.spotify.com/track/3IUF3QgrGznRBK0RfpAJ34"

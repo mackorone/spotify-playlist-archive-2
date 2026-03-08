@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Haddad Alwi, Danilla
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,734 likes - 127 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,740 likes - 127 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 112 | [Harap Dan Ragu](https://open.spotify.com/track/2FBPuxsygz2z5ZWOPe66Le) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Harap Dan Ragu](https://open.spotify.com/album/1aFNZ4zyms3ykHkZHql4LN) | 3:12 |
 | 113 | [It Hurts A Little](https://open.spotify.com/track/53yLJQ8cpghI7pBjVuMknH) | [Nadine Kei](https://open.spotify.com/artist/0MunFmmsHxcruu9oGeFjKL) | [It Hurts A Little](https://open.spotify.com/album/4sHcqOCnxE9n4glm0OVpoi) | 4:19 |
 | 114 | [Cegil](https://open.spotify.com/track/1hfSoyfUsiIYQrB9LJrRN1) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Cegil](https://open.spotify.com/album/3lxXnNeKdTgQrGiuZtIo5s) | 2:56 |
-| 115 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
+| 115 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
 | 116 | [Ramu](https://open.spotify.com/track/2bGWVOJph2fsQMcuL04PrU) | [Rizki Jonathan](https://open.spotify.com/artist/2Pc5nBssh59fUoQGWOb0KS) | [Ramu](https://open.spotify.com/album/6Um3awxwOSoxLVVBn85UjA) | 3:23 |
 | 117 | [masih baru](https://open.spotify.com/track/1CRQPijzdpP3KNPFkskNJx) | [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp), [dera](https://open.spotify.com/artist/58FbhhHdEYrGkSwQY4MCV7) | [masih baru](https://open.spotify.com/album/5d5L7NpLjlqXY8KRAiijiI) | 2:47 |
 | 118 | [Bawa Uang](https://open.spotify.com/track/72joMSi6bnRvjMCS8Nr23L) | [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ), [Mardial](https://open.spotify.com/artist/6G3dgFot4EpJCy7BtSN7Md), [Santini](https://open.spotify.com/artist/2cTmpeyehCwS1Hcg4sIdHW) | [Dreams Are Made in Pasar Minggu](https://open.spotify.com/album/1TxuudzUTTXhKfp5yYKBxP) | 2:37 |

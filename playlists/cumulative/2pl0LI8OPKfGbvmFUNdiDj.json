@@ -2919,6 +2919,24 @@
     },
     {
       "album": {
+        "name": "i chose (you)",
+        "url": "https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc"
+      },
+      "artists": [
+        {
+          "name": "wone",
+          "url": "https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118536,
+      "name": "i chose (you)",
+      "url": "https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc"
+    },
+    {
+      "album": {
         "name": "I'll Be Alright",
         "url": "https://open.spotify.com/album/2G1b3ApnkYG52ydlyumBv0"
       },
@@ -4857,6 +4875,24 @@
     },
     {
       "album": {
+        "name": "Remedy Show",
+        "url": "https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149393,
+      "name": "Remedy Show",
+      "url": "https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5"
+    },
+    {
+      "album": {
         "name": "Ridiculous",
         "url": "https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH"
       },
@@ -5738,6 +5774,24 @@
       "duration_ms": 361737,
       "name": "The Thinker And The Prover",
       "url": "https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H"
+    },
+    {
+      "album": {
+        "name": "The Time Will Come",
+        "url": "https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189570,
+      "name": "The Time Will Come",
+      "url": "https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Dan + Shay",
-  "num_followers": 135650,
+  "num_followers": 135666,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,38 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
+        "name": "Here Without You",
+        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
+      },
+      "artists": [
+        {
+          "name": "Chase Matthew",
+          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
+        }
+      ],
+      "duration_ms": 246152,
+      "name": "Here Without You",
+      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
+      },
+      "artists": [
+        {
+          "name": "Gareth",
+          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+        }
+      ],
+      "duration_ms": 204078,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
         "name": "Wake Me up (Country Version)",
         "url": "https://open.spotify.com/album/1hnsF3H1B372xHHohhCX0e"
       },
@@ -655,18 +687,18 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/0xbmMCxRyQtswaJnCcLLbL"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/5Pz1XUoROtDn7FDFTDHJLv"
       },
       "artists": [
         {
-          "name": "Gareth",
-          "url": "https://open.spotify.com/artist/0r0HGFrFjLgQZch834rCSq"
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
         }
       ],
-      "duration_ms": 204078,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/6XtCRiSN5qHIa32aundC6Y"
+      "duration_ms": 231739,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/4bStocfukU8QNoJaoeAVYL"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -699,38 +731,6 @@
       "duration_ms": 131949,
       "name": "BLACKBIIRD",
       "url": "https://open.spotify.com/track/7eEr7lgWYudwEKEaWCPiPI"
-    },
-    {
-      "added_at": "2026-03-06 05:00:18",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/5Pz1XUoROtDn7FDFTDHJLv"
-      },
-      "artists": [
-        {
-          "name": "Adam Doleac",
-          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
-        }
-      ],
-      "duration_ms": 231739,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/4bStocfukU8QNoJaoeAVYL"
-    },
-    {
-      "added_at": "2026-03-06 05:00:18",
-      "album": {
-        "name": "Here Without You",
-        "url": "https://open.spotify.com/album/0h3vNLDmZwxKvqLR2FwrF2"
-      },
-      "artists": [
-        {
-          "name": "Chase Matthew",
-          "url": "https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH"
-        }
-      ],
-      "duration_ms": 246152,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/7DNVkcNZrgVpmoT2cCYHx1"
     },
     {
       "added_at": "2026-03-06 05:00:18",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-03-06 05:00:18",
       "album": {
-        "name": "Dammit",
-        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Kay",
-          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
-        }
-      ],
-      "duration_ms": 199445,
-      "name": "Dammit",
-      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
-    },
-    {
-      "added_at": "2026-03-06 05:00:18",
-      "album": {
         "name": "There\u2019s Your Trouble - Spotify Singles",
         "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 191949,
       "name": "There\u2019s Your Trouble - Spotify Singles (Live from Spotify House)",
       "url": "https://open.spotify.com/track/3XNThMhQwdrRvPax42wzKQ"
+    },
+    {
+      "added_at": "2026-03-06 05:00:18",
+      "album": {
+        "name": "Dammit",
+        "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Kay",
+          "url": "https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV"
+        }
+      ],
+      "duration_ms": 199445,
+      "name": "Dammit",
+      "url": "https://open.spotify.com/track/0fQIh3kxy3MeDDuHuJMEXN"
     },
     {
       "added_at": "2026-03-06 05:00:18",

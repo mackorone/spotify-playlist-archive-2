@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥 cover: Cizzo
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,104 likes - 57 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,091 likes - 57 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

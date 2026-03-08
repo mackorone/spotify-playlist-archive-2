@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Bixarte
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,958 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,949 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 31 | [TE ESQUECER](https://open.spotify.com/track/2WixhCtUfy0CIorrWVyZ0E) | [Diego Martins](https://open.spotify.com/artist/2UufgQQgpWU5q0qBflqUeP) | [TE ESQUECER](https://open.spotify.com/album/0sHN0uelXhKkS8UHuLchyt) | 2:28 |
 | 32 | [GASOLINA](https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy) | [Mia Badgyal](https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [MUCHO SEXY](https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV) | 3:05 |
 | 33 | [GPS](https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op) | [GPS](https://open.spotify.com/album/3fspTzHPt0IaSs08acolgG) | 2:32 |
-| 34 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 |
-| 35 | [Sideral](https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sideral](https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ) | 2:49 |
+| 34 | [Sideral](https://open.spotify.com/track/4Eut1sqS71Zu8cF19RFYXF) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Sideral](https://open.spotify.com/album/6TiorEL15WEFFuOBQQVBVQ) | 2:49 |
+| 35 | [Pós Love](https://open.spotify.com/track/29irNwrelJMk8wublGdvXg) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [IVYO](https://open.spotify.com/artist/3HbuQbAHMPwBb4mQyNllCa), [Bahia Baby](https://open.spotify.com/artist/7rwAj9PJhdlGmVQTz6GTd7) | [ANJO](https://open.spotify.com/album/6qHhupVEPR5We3gEM7tnng) | 2:47 |
 | 36 | [coisas triviais](https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [coisas triviais](https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9) | 3:10 |
 | 37 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 38 | [Egoísta](https://open.spotify.com/track/1xqRzHGo7Eie8X6Atc8klO) | [Lucas Pretti](https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83) | [Cara Ideal](https://open.spotify.com/album/3vUJU5WTZlyb9gb1P8KvmS) | 2:24 |

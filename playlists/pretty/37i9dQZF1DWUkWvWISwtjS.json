@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 437499,
+  "num_followers": 437399,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 136977,
-      "name": "A Gente Continua - Ao Vivo",
-      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Mui\u00e9 Brava",
         "url": "https://open.spotify.com/album/2CxiqbhzoS3ZxqiJapoVA5"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 201560,
       "name": "Mui\u00e9 brava",
       "url": "https://open.spotify.com/track/0ysTJCguBamXVvxwR1BNzE"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 136977,
+      "name": "A Gente Continua - Ao Vivo",
+      "url": "https://open.spotify.com/track/53TSKwq0ZmtT3UYUHZF9Vh"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Onde a Saudade Mora",
-        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
-      },
-      "artists": [
-        {
-          "name": "Israel & Rodolffo",
-          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
-        }
-      ],
-      "duration_ms": 123060,
-      "name": "Deus Me Livre Quem Me Dera",
-      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Esquenta do DVD",
         "url": "https://open.spotify.com/album/7vP0uuTxpBPK2jpmt8TcyV"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 155661,
       "name": "Sofro Onde Eu Quiser",
       "url": "https://open.spotify.com/track/2Xr33epIjw1fbwOhrng4Pd"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Onde a Saudade Mora",
+        "url": "https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "duration_ms": 123060,
+      "name": "Deus Me Livre Quem Me Dera",
+      "url": "https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd"
     },
     {
       "added_at": "2026-01-16 03:03:24",

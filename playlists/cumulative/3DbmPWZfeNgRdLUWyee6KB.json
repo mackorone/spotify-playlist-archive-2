@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "321 (Self-Destruct)",
+        "url": "https://open.spotify.com/album/3s7n1PPX8T37zbJzk0xrVd"
+      },
+      "artists": [
+        {
+          "name": "Jessie Alexandra",
+          "url": "https://open.spotify.com/artist/6Qx6xEgIkrAc6GMu9uJ9b7"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196526,
+      "name": "321 (Self-Destruct)",
+      "url": "https://open.spotify.com/track/5UkH8DqReMbDEb5VrnhQ9U"
+    },
+    {
+      "album": {
         "name": "Random Acts of Cynicism",
         "url": "https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF"
       },
@@ -2090,6 +2108,24 @@
       "duration_ms": 364532,
       "name": "Carrera 7",
       "url": "https://open.spotify.com/track/02j6yzhXx5F3wMin5pvAsD"
+    },
+    {
+      "album": {
+        "name": "In Between The Covers",
+        "url": "https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3"
+      },
+      "artists": [
+        {
+          "name": "Every Other Thursday",
+          "url": "https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240541,
+      "name": "Catch Me On The Breeze",
+      "url": "https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2"
     },
     {
       "album": {

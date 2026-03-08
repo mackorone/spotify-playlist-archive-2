@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,458 likes - 100 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,535 likes - 100 songs - 11 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 56 | [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/track/45862d4xPNe3rlx7FBCajD) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Sindi Ntombela](https://open.spotify.com/artist/7cgnTBawtnmiIuatGdoQ0U) | [Ngu Jesu \(Bayede\) \(Live\)](https://open.spotify.com/album/1RF8MyVJzi0MrVWmS4ofih) | 19:39 |
 | 57 | [Lomhlengi / Uvukile \(Live\)](https://open.spotify.com/track/1Sh5lTwJdEkcZEVGGYTi8O) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Lomhlengi / Uvukile \(Live\)](https://open.spotify.com/album/2hqvjazkKC4aQLYDkhZFv5) | 11:43 |
 | 58 | [Ulwandle](https://open.spotify.com/track/6ilg9EOG5RkRtHxjiUQwSZ) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Egameni LikaJesu](https://open.spotify.com/album/5GyAo0sFpDRvvkXH7xT35R) | 4:16 |
-| 59 | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 |
+| 59 | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 |
 | 60 | [Bayazibuza](https://open.spotify.com/track/33pRs7b2nBdqG7mCOHQuqh) | [Nduduzo Matse](https://open.spotify.com/artist/6pLZutxrnCCiFIcxy7drQK) | [New Sounds of Glory](https://open.spotify.com/album/1p9jZMfZfbpxRUbel7Ph07) | 5:00 |
 | 61 | [Ewe Getsemane \- Live](https://open.spotify.com/track/6h2aZSTOUOMtFWN9N8ynXX) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [A David Kind of Psalm \(Live\)](https://open.spotify.com/album/0UFsdWxo8Kr73S5dQwzxVl) | 8:27 |
 | 62 | [Emmanuel \- Recorded at Studio](https://open.spotify.com/track/4aAbmhOtG5pQT3tBXYKHQN) | [Universal Khathisma Apostolic Church In Zion](https://open.spotify.com/artist/4XMCB93O98csLnrucGLvuw) | [MOPOROFETA](https://open.spotify.com/album/6zu9UliivfrJ11NZEnXcol) | 5:03 |

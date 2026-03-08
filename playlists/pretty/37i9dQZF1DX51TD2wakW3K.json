@@ -1,6 +1,6 @@
 {
   "description": "The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today. Cover: The Linda Lindas",
-  "num_followers": 9,
+  "num_followers": 118,
   "original_name": "Women of Punk",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
+        "name": "NIIS WORLD",
+        "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
+      },
+      "artists": [
+        {
+          "name": "Niis",
+          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
+        }
+      ],
+      "duration_ms": 171070,
+      "name": "The Bow",
+      "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
         "name": "Frenching The Bully (2024 Remaster)",
         "url": "https://open.spotify.com/album/0unK1ttNt8xgj6bU0cMo2t"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 181453,
       "name": "Modern Girl",
       "url": "https://open.spotify.com/track/2GOQVqZ3uVp7LKVAY1T0mk"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
-        "name": "NIIS WORLD",
-        "url": "https://open.spotify.com/album/6j1pjKXLri5eYuBjjW4Vul"
-      },
-      "artists": [
-        {
-          "name": "Niis",
-          "url": "https://open.spotify.com/artist/6USZzPyoOOFd3eusDLYt9X"
-        }
-      ],
-      "duration_ms": 171070,
-      "name": "The Bow",
-      "url": "https://open.spotify.com/track/50ZE3JmXxdylxW9Kikg07N"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "NVM",
-        "url": "https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 123328,
-      "name": "Crimson Wave",
-      "url": "https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2"
-    },
-    {
-      "added_at": "2026-03-05 23:16:41",
-      "album": {
         "name": "Luxury Problem",
         "url": "https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 248893,
       "name": "Bad Ass Bitch",
       "url": "https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1"
+    },
+    {
+      "added_at": "2026-03-05 23:16:41",
+      "album": {
+        "name": "NVM",
+        "url": "https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 123328,
+      "name": "Crimson Wave",
+      "url": "https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2"
     },
     {
       "added_at": "2026-03-05 23:16:41",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2026-03-05 23:16:41",
       "album": {
-        "name": "Jon Savage Presents Black Hole - Californian Punk 1977-80",
-        "url": "https://open.spotify.com/album/29mbwdyADmRx0SYP94cq8A"
+        "name": "Cost of Living",
+        "url": "https://open.spotify.com/album/2L3KXGq3u2VpVTFMwPyPrb"
       },
       "artists": [
         {
-          "name": "The Bags",
-          "url": "https://open.spotify.com/artist/5ARrP3PUwmseLT5FTqHqS1"
+          "name": "Downtown Boys",
+          "url": "https://open.spotify.com/artist/7l8uFATeRemkWEA8Gn15YC"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Survive",
-      "url": "https://open.spotify.com/track/08wuSNb0pSgqRx8uLiHdRn"
+      "duration_ms": 203373,
+      "name": "Somos Chulas (No Somos Pendejas)",
+      "url": "https://open.spotify.com/track/1kPzZGjU0mcL6Hh2DLI0of"
     }
   ],
   "unique_name": "Women of Punk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OLd5MrIVlk.md) - [plain]
 
 > Come on board and bring along all your hopes and dreams\. Listen to the music from and inspired by ONE PIECE, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,017 likes - 91 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,036 likes - 91 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

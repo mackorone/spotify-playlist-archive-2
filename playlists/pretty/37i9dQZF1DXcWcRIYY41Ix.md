@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Guille Galván.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,378 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,374 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [El Vacío](https://open.spotify.com/track/68PCxfDSBboppXCEFPgGrn) | [Adam Guerrero](https://open.spotify.com/artist/3GJmCYBp0vJTVDDi5Vd9wn) | [El Vacío](https://open.spotify.com/album/6skDBDXe2ZXw7m5TLbOyux) | 2:34 |
 | 100 | [Increíble](https://open.spotify.com/track/2Zz5YrfcOsM7bCXNjuuOhR) | [Lorena Álvarez](https://open.spotify.com/artist/2cbf8lSm29egE3KU2CYeTA) | [Increíble](https://open.spotify.com/album/3Tsw1mmwzaGHrYo83JODVk) | 4:49 |
 
-Snapshot ID: `AAAAALYaxHEJBPZEAp+0iHRTLsCeykjt`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

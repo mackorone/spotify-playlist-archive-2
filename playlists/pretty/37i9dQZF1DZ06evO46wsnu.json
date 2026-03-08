@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 176445,
+  "num_followers": 176458,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABgQELh4wS/qYCc2T/x3ZUJ",
+  "snapshot_id": "aaoZAAAAAAA7IHIB0iv9OVk5zN5xwUZU",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ghost Note Symphonies, Vol.1",
-        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 242534,
-      "name": "Miracle - Ghost Note Symphonies",
-      "url": "https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siren Song Of The Counter-Culture",
         "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 224013,
       "name": "Life Less Frightening",
       "url": "https://open.spotify.com/track/27QBppG8UuQ8pRlbgIUPn4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Note Symphonies, Vol.1",
+        "url": "https://open.spotify.com/album/6Q5roPzwOZwZ3mOzOU47Wl"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 242534,
+      "name": "Miracle - Ghost Note Symphonies",
+      "url": "https://open.spotify.com/track/4OtIlddVzUj3p2q28uCvjl"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Unraveling (Re-Issue)",
-        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Everchanging",
-      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Long Forgotten Songs: B-Sides & Covers 2000-2013",
         "url": "https://open.spotify.com/album/3rsOMcHwc9NTQBgEBLcWlP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 193453,
       "name": "Dirt And Roses",
       "url": "https://open.spotify.com/track/5NfDTmK8fnXgLmUqnFWmbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Unraveling (Re-Issue)",
+        "url": "https://open.spotify.com/album/0eoON27HHTOIEMTRFJJn5u"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Everchanging",
+      "url": "https://open.spotify.com/track/0qBWQ8Vai0ZVGcxZVM25zJ"
     },
     {
       "added_at": null,

@@ -2331,6 +2331,36 @@
     },
     {
       "album": {
+        "name": "Sangre Azteca",
+        "url": "https://open.spotify.com/album/6DUgAPrpMqSn4ETY6vI5pb"
+      },
+      "artists": [
+        {
+          "name": "Airam Paez",
+          "url": "https://open.spotify.com/artist/4CpBebr8ODROqjgGVmiF7X"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "La Catrina De M\u00e9xico",
+          "url": "https://open.spotify.com/artist/7eoWBgCT692evDNaG8hMc4"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227191,
+      "name": "SANGRE AZTECA",
+      "url": "https://open.spotify.com/track/7iOhOjm1FeFBqGtxCQdb9H"
+    },
+    {
+      "album": {
         "name": "Con Los Pies en La Tierra",
         "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
       },
@@ -2602,7 +2632,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 172839,
       "name": "Te Atreves A Pecar",
       "url": "https://open.spotify.com/track/3PUBzloHZxJseSDkuNdl5X"

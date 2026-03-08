@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,465 likes - 402 songs - 22 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,466 likes - 402 songs - 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -161,7 +161,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 151 | [wisdom teeth](https://open.spotify.com/track/2UQiLOzoeLNjcolPxrlXAn) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 3:01 |
 | 152 | [My Own Dance](https://open.spotify.com/track/1JWQRZr8rlmTAb74rFBUO5) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [High Road](https://open.spotify.com/album/4HZ195qaMlhiKebUtF36ni) | 2:41 |
 | 153 | [Home With You](https://open.spotify.com/track/0SHVPx5dQaqBi1um98oWlf) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [First Time \- EP](https://open.spotify.com/album/0ViYtdxPRPslcrPfqwJE9b) | 3:01 |
-| 154 | [Tension](https://open.spotify.com/track/3kKNJN3ZSb2dVM5obAMlDj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:23 |
+| 154 | [Tension](https://open.spotify.com/track/1lnmoTU9AuF9CqJa8nDdo7) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:23 |
 | 155 | [Born to Love U \(feat\. Jussie Smollett\)](https://open.spotify.com/track/2RfZwGjbRuf897vJiPaURW) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Jussie Smollett](https://open.spotify.com/artist/120Hnh6hOWiIpfL4WDo7nm) | [Empire: Music From 'Without A Country'](https://open.spotify.com/album/6klL39wpPDD7Ojnin5DtyU) | 3:35 |
 | 156 | [Run](https://open.spotify.com/track/5DFbj1RfpjymQqRe8TaJgk) | [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP) | [Big Fat Lie \(Deluxe\)](https://open.spotify.com/album/4bri66CrtrD3e2I6ge0Ja0) | 3:30 |
 | 157 | [Forever](https://open.spotify.com/track/0nELsIU1usFlFYwGiszSTK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [The Lego Batman Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20Am1bee946Kdace8R9bC0) | 3:48 |
@@ -240,8 +240,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 230 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 231 | [He Loves Me, But...](https://open.spotify.com/track/24Yn3IkIQOklbhWvyRgh0A) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:26 |
 | 232 | [Naughty](https://open.spotify.com/track/01yvNfAsGivvyyN0sv3lSH) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:07 |
-| 233 | [self crucify](https://open.spotify.com/track/36devlce37d8V3cICTukvN) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 4:00 |
-| 234 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
+| 233 | [When You Know](https://open.spotify.com/track/72WG3s5wgJRrgXz4Y8kw3r) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 4:29 |
+| 234 | [self crucify](https://open.spotify.com/track/36devlce37d8V3cICTukvN) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [elated!](https://open.spotify.com/album/1bddkQczuUlV4e4MW2SOO1) | 4:00 |
 | 235 | [Walking the Wire / My Life \- Live in Vegas](https://open.spotify.com/track/79Dw44YYmsTgYgGqvGyhAe) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Imagine Dragons Live in Vegas](https://open.spotify.com/album/0fQaGkCbRIg5z7ta2SCrY0) | 6:32 |
 | 236 | [When I Was A Little Girl](https://open.spotify.com/track/1Cg4hAWU9Ox1HpaN2oWg4P) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 3:28 |
 | 237 | [Switch](https://open.spotify.com/track/59vpl8fDWIIisaOx628oKj) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/5mQKMz8qdYqO6gpbb07DzP) | 3:00 |
@@ -271,8 +271,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 261 | [Waste My Time](https://open.spotify.com/track/5P0E8KZB5Yo69j90RgEwo5) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:36 |
 | 262 | [Getting Warmer](https://open.spotify.com/track/0lvCgY0ZDo6krZgqIxYLHb) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:24 |
 | 263 | [Break Up](https://open.spotify.com/track/6kwBcC7U9RwISZWEnkaP7R) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [CLIQUE](https://open.spotify.com/album/1FlLNVRnsUIIDy7all4UTg) | 3:34 |
-| 264 | [Fight Sleep](https://open.spotify.com/track/163xyAjP4e0udurQr3Temc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:50 |
-| 265 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 264 | [BUBBLING](https://open.spotify.com/track/6s5eOLOj3Zlb9x6eOfN1lM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [BUBBLING](https://open.spotify.com/album/5Olp3mWtW2kYfGxGKNXzID) | 2:45 |
+| 265 | [Fight Sleep](https://open.spotify.com/track/163xyAjP4e0udurQr3Temc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Ultraviolet](https://open.spotify.com/album/4o7X6PlFvXIEkSDIF1Mpik) | 3:50 |
 | 266 | [Secret Santa](https://open.spotify.com/track/3BZ7yrvXIAEgSRAbtPIRwI) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [You Make It Feel Like Christmas \(Deluxe\)](https://open.spotify.com/album/78Yh1HvMa6BsVZdEtlPQO9) | 3:25 |
 | 267 | [Two Tears in a Bucket](https://open.spotify.com/track/10gyY1WZESnXfhMJmvC7YK) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:49 |
 | 268 | [The Point](https://open.spotify.com/track/70QAlstCJ0tRfvo6MkDup4) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Persona](https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt) | 2:43 |
@@ -408,7 +408,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 398 | [Disco \- Extended](https://open.spotify.com/track/3aVttrUSwGUJUJZudd0zgi) | [Jack Armano](https://open.spotify.com/artist/3876m9vL2h0q8uTsJ80GkQ) | [Disco](https://open.spotify.com/album/3OLkHq4ckTvyH1NG0dek2S) | 6:39 |
 | 399 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
 | 400 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
-| 401 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
-| 402 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 401 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 402 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcLb7AAAAADZp5zxpEAuQcQcWgtDKdek`
+Snapshot ID: `AcLhjAAAAADq62WBowMyuPJy8HbXUd71`

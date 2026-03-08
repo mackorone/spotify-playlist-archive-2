@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 
 > Les meilleures nouveautés de la variété française avec Oria
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,134 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,138 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSBZhfF4ZHr8.md) - [plain]
 | 44 | [Crash 404](https://open.spotify.com/track/0KAer3rHTN83dkRcSIfnXl) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Crash 404](https://open.spotify.com/album/5IYdM41ewgdw56nnArwFdm) | 2:31 |
 | 45 | [Au revoir au départ](https://open.spotify.com/track/0XUvdwliJwl40PGatwdeHV) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Au revoir au départ](https://open.spotify.com/album/3vComKlyCoucrCMXFh6DYF) | 2:32 |
 | 46 | [Pourquoi ?](https://open.spotify.com/track/58Pie8O9NHYEITXYzkqbLm) | [Patxi](https://open.spotify.com/artist/0gSwb8hjVjngaLSPYOcpy9), [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Pourquoi ?](https://open.spotify.com/album/2tNEEMApXdjVjHbV3EzPcP) | 2:58 |
-| 47 | [Mon paradis](https://open.spotify.com/track/758expDDK3WThsnyCMtrYl) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [Mon paradis](https://open.spotify.com/album/2i5x2wHf6PsiVfvM5aiex1) | 3:05 |
+| 47 | [MON PARADIS](https://open.spotify.com/track/758expDDK3WThsnyCMtrYl) | [Ebony](https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ) | [MON PARADIS](https://open.spotify.com/album/2i5x2wHf6PsiVfvM5aiex1) | 3:05 |
 | 48 | [Avant toi](https://open.spotify.com/track/1gCloDmEV2A6r0acZ3UogQ) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [Avant toi](https://open.spotify.com/album/3Xr69JpGDO78MDKLbXdthH) | 2:27 |
 | 49 | [Je dors](https://open.spotify.com/track/2gtBiMhgr0reYXn2CAoXGP) | [Tumulte](https://open.spotify.com/artist/3ot5afmxg2m0UcMaw6SaOg) | [Je dors](https://open.spotify.com/album/0EeVZMmm0FkrsiDkHCMI9D) | 2:43 |
 | 50 | [5 SUR NOUS](https://open.spotify.com/track/3UXwpgatg0RkOD4uAZUrGW) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [5 SUR NOUS](https://open.spotify.com/album/71GsY4RgwyQ3PkIt9k81RX) | 2:23 |

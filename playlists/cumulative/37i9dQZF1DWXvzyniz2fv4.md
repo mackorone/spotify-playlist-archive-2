@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-263 songs - 13 hr 59 min
+264 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Mensagem](https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs), [lowz](https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q) | [Mensagem](https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26) | 2:19 | 2021-11-12 |  |
 | [Meu Passado](https://open.spotify.com/track/19rYsBUNClYidByVMkY3H1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 3:57 | 2023-10-13 | 2024-10-05 |
 | [Minha Mina é Braba](https://open.spotify.com/track/34D1cEXeYGBl53uRSJTywU) | [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Minha Mina é Braba](https://open.spotify.com/album/6mtPlDFW6xquEHzgIICgx6) | 2:06 | 2024-06-14 | 2025-03-08 |
-| [Minha Morena \(Doce de Coco\)](https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T) | [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Ferrero](https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7) | [Minha Morena \(Doce de Coco\)](https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF) | 2:55 | 2026-01-09 |  |
+| [Minha Morena \(Doce de Coco\)](https://open.spotify.com/track/1iVDGNYNyBezkmdfsLT95T) | [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Ferrero](https://open.spotify.com/artist/4MCdbtcr6TeOmylmw2uqy7) | [Minha Morena \(Doce de Coco\)](https://open.spotify.com/album/17RziSmih4wRjbWDFw4SiF) | 2:55 | 2026-01-09 | 2026-03-08 |
 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 | 2023-03-31 | 2023-10-28 |
 | [Minissaia](https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Minissaia](https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr) | 2:19 | 2025-03-24 |  |
 | [Mistério](https://open.spotify.com/track/2syPgLsmPg8dBNvqdKhCnc) | [Knust](https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [Mistério](https://open.spotify.com/album/3kBRkJc0JKJ7Cb9PRbs5HG) | 2:22 | 2021-11-12 | 2025-12-01 |
@@ -228,6 +228,7 @@
 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 | 2025-10-03 |  |
 | [Sofá](https://open.spotify.com/track/2iaGlQgmvtmMeyRrOJGrX3) | [Ramaciote](https://open.spotify.com/artist/6tTXtOpxDid06B4ssYLmqk), [NBEATZ](https://open.spotify.com/artist/7HNjBjJI32FtmXCd2pRE43) | [Sofá](https://open.spotify.com/album/4T9xavReRre65J7H5Qnzky) | 1:45 | 2022-06-24 | 2022-07-30 |
 | [Sol, Eu e Você](https://open.spotify.com/track/6EwECcMJpnRj11CXBXAjIQ) | [MC Neguinho do Kaxeta](https://open.spotify.com/artist/27mVhYvJa7apj1zCoZ9TF2) | [Sol, Eu e Você](https://open.spotify.com/album/1sCTQpM5hZYae8aAwjm3xE) | 2:47 | 2022-04-22 | 2022-06-11 |
+| [Solidificando a Caminhada](https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE) | [MC Rodolfinho](https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp) | [Solidificando a Caminhada](https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb) | 2:09 | 2026-03-06 |  |
 | [Solstício](https://open.spotify.com/track/2eL6c0AYrGtyUJfcuApZt6) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n) | [Solstício](https://open.spotify.com/album/1SR7g37coJXdwzSflFFtgI) | 2:30 | 2022-06-10 | 2022-06-25 |
 | [Sou Fã](https://open.spotify.com/track/4cCXyCUPg9FFidRr4lWJFl) | [Italo Melo](https://open.spotify.com/artist/7DCF8Y7xwC2LkdHth5E7c8), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [Sou Fã](https://open.spotify.com/album/7xFfnMWxvM5VwUxF0Nk1p7) | 3:44 | 2023-04-28 | 2023-07-08 |
 | [Spoiler](https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK) | [Roig](https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk) | [Spoiler](https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs) | 3:16 | 2021-11-12 | 2025-03-25 |

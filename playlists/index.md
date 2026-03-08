@@ -1,4 +1,4 @@
-## Playlists \(9135\)
+## Playlists \(9136\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -3763,7 +3763,7 @@
 - [Liner Voice+  Awich『THE UNION』](/playlists/pretty/37i9dQZF1DXcZ0D9Pii8ub.md)
 - [Liner Voice+ SiM『PLAYDEAD』](/playlists/pretty/37i9dQZF1DWUAK58Yov6Re.md)
 - [Liricisti](/playlists/pretty/37i9dQZF1DX5e23vWCjL5N.md)
-- [Lista de LOS40 \(Oficial\) \- Bruno Mars en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
+- [Lista de LOS40 \(Oficial\) \- Romeo Santos y Prince Royce  en el Nº1](/playlists/pretty/2z7k6r8z0OlXuDsIuy80ZN.md)
 - [Little Mix: Pride](/playlists/pretty/37i9dQZF1DX7wHseZmxqFF.md)
 - [Live Gospel](/playlists/pretty/37i9dQZF1DWYW0wKwdPj2g.md)
 - [Livet på Bøgda!](/playlists/pretty/37i9dQZF1DXa5zM0UrfG4s.md)
@@ -8278,6 +8278,7 @@
 - [Written By Moli](/playlists/pretty/37i9dQZF1EFCDLlreQRnS3.md)
 - [Written By Monro](/playlists/pretty/37i9dQZF1EFKk3TLwZn2ny.md)
 - [Written By Murda Beatz](/playlists/pretty/37i9dQZF1EFA0CfcznYLLB.md)
+- [Written By NEA](/playlists/pretty/37i9dQZF1EFJ7FIErJiGPT.md)
 - [Written By Natali Noor](/playlists/pretty/37i9dQZF1EFLCxccHYZAKZ.md)
 - [Written By Natania](/playlists/pretty/37i9dQZF1EFDU180SwHkZi.md)
 - [Written By Nathan Galante](/playlists/pretty/37i9dQZF1EFSipnR79Y2Xq.md)

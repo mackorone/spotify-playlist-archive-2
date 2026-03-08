@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Sik\-K\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,620 likes - 90 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,577 likes - 90 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

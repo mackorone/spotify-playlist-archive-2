@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,325 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 28 | [Regen Op Warm Asfalt](https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:38 |
 | 29 | [Get Money](https://open.spotify.com/track/6GaAIbK70c7PTacYXO9IcK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Hefvermogen](https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P) | 2:26 |
 | 30 | [Gekkenhuis FT\. Jawat](https://open.spotify.com/track/50Rr5oZu70pOqUQjvZewsh) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 6:07 |
-| 31 | [Klein, Klein Jongetje](https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Rotterdam](https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN) | 4:25 |
-| 32 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 |
+| 31 | [Cocktail](https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:28 |
+| 32 | [Klein, Klein Jongetje](https://open.spotify.com/track/1wTU7sJqqrDSFkcK1VCtAz) | [U\-niq](https://open.spotify.com/artist/15cp217nCdrUbiZ2m7wyAb), [Feis](https://open.spotify.com/artist/7EiPZFDrVMi9MjYXP4l8Jc) | [Rotterdam](https://open.spotify.com/album/2yeBzg1PXDkV7Iah1AMdLN) | 4:25 |
 | 33 | [Colucci](https://open.spotify.com/track/6nUZPNbKCePGt0MdjwiTqE) | [Fakkelbrigade](https://open.spotify.com/artist/3NGONi5kwXaIZBCfZOqS1r) | [Colucci Era \(Standard version\)](https://open.spotify.com/album/2X2AKav7dnZkuIj2h0CzM0) | 4:07 |
 | 34 | [Wie Is Ut?](https://open.spotify.com/track/0wigYjF9exiXBoXN5Br2py) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:06 |
 | 35 | [Voor Dough](https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:45 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d6nUbucouc.md) - [plain]
 | 55 | [Sporen](https://open.spotify.com/track/3ql0vdOmqy74NqAqAtDXTI) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Vloeistof](https://open.spotify.com/album/20k5lZpmdy6XCpAPf9fEC2) | 4:15 |
 | 56 | [Duivelszoon](https://open.spotify.com/track/11Vj2tq58GOIOdML7Tp7Kh) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Big2](https://open.spotify.com/artist/3B1Z5CuKo6kA4NzitgWwWV), [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 5:15 |
 | 57 | [De Kleren Van De Keyser](https://open.spotify.com/track/2eABN9qCm4iAUQgedUxrCP) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Noah's Ark](https://open.spotify.com/album/3qopX9Swa3jLMlk0UvhD5D) | 3:23 |
-| 58 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
-| 59 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
-| 60 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
+| 58 | [Crisis](https://open.spotify.com/track/56wQYS4UHiYxK3Z1zLfdmp) | [Postmen](https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We) | [Documents \(15th Anniversary Edition\)](https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e) | 4:14 |
+| 59 | [Je Kan Niks Doen](https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:31 |
+| 60 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 |
 | 61 | [Nog 1 Keer](https://open.spotify.com/track/0gF2cKwrCf5qziB7raaLRq) | [Great Minds](https://open.spotify.com/artist/1FRYercTve9gszoIb619JS) | [Great Minds](https://open.spotify.com/album/7nNkmATAymmK1WZ4zes95Z) | 5:15 |
 | 62 | [Hotel Beschaving](https://open.spotify.com/track/5FVstDdvVcNcj3tguuFo1Z) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx) | [Tussen Licht En Lucht](https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu) | 3:08 |
 | 63 | [Spraakwater Lest De Dorst!](https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT) | [Extince](https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5) | [De Avonturen...](https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX) | 3:23 |

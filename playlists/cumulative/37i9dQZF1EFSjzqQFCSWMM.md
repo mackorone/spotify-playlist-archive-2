@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 6 hr 15 min
+135 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,8 @@
 | [Mhmm](https://open.spotify.com/track/3wqh0yW8QqgWC0ugN1fEZM) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Out Here \- Single](https://open.spotify.com/album/7cB2PmK41V2q8whJzGOVpQ) | 2:13 | 2023-12-13 | 2025-10-06 |
 | [Nada](https://open.spotify.com/track/3CVEQzKtULatPcRoCUMDvU) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:17 | 2023-12-13 |  |
 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 | 2023-12-13 |  |
-| [Noi Siamo Così](https://open.spotify.com/track/28CYNIsMJ6FNieaKWNZbbm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 2:06 | 2023-12-13 |  |
+| [Noi Siamo Così](https://open.spotify.com/track/1Y4MJkhqvUWPEIong70IkI) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC 9 \(QUELLO CHE VI CONSIGLIO, VOL\. 9\)](https://open.spotify.com/album/7HEY3is8ffxZXtB19b9PBN) | 2:06 | 2026-03-07 |  |
+| [Noi Siamo Così](https://open.spotify.com/track/28CYNIsMJ6FNieaKWNZbbm) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [QVC9 \- QUELLO CHE VI CONSIGLIO VOL\. 9](https://open.spotify.com/album/5lfSlorm20o9qN9YoDmwFe) | 2:06 | 2023-12-13 | 2026-03-08 |
 | [Not Sorry](https://open.spotify.com/track/7ps92YupHzzx6b1Lyhmiyc) | [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am) | [STAGES](https://open.spotify.com/album/2wTHtRmJdIwS8e7F4mrCzm) | 2:06 | 2023-12-13 |  |
 | [Not Sure](https://open.spotify.com/track/2HZw9e2ph4C02ElCOLqLnj) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o), [Love Mansuy](https://open.spotify.com/artist/2Z6VTMBnnuSQHmRyus3zbx) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 4:43 | 2023-12-13 |  |
 | [Number One Candidate](https://open.spotify.com/track/3qk2QJ5JR6IO2LBMqkOnx7) | [AntsLive](https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk) | [Just A Matter Of Time](https://open.spotify.com/album/4SI5eZJ5UYpS1057wiqlXv) | 2:45 | 2023-12-13 |  |

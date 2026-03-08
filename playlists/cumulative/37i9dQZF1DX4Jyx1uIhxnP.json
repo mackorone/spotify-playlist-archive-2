@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Bring On The Comets",
+        "url": "https://open.spotify.com/album/071rpwZbMRgOP4th1ijf39"
+      },
+      "artists": [
+        {
+          "name": "VHS or Beta",
+          "url": "https://open.spotify.com/artist/5ZjMJYukp8ZmGCpXpzqZkV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243640,
+      "name": "Bring On The Comets",
+      "url": "https://open.spotify.com/track/7iPRwh9lN16vS3dUcIKHxV"
+    },
+    {
+      "album": {
         "name": "Too Rye Ay",
         "url": "https://open.spotify.com/album/5zAvTl8CrdzprudxBEErNC"
       },
@@ -560,7 +578,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 225706,
       "name": "Lights - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack",
       "url": "https://open.spotify.com/track/0hqh8M4ttzlNsQYHlIeEhr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,286 likes - 135 songs - 7 hr 44 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,285 likes - 137 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,5 +143,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 133 | [The Memory of You](https://open.spotify.com/track/0jtlImtIZzrws95iJ78n2s) | [Deidre Mc Gerty](https://open.spotify.com/artist/2ypOj0yFXd4wEeKh70baH4) | [The Memory of You](https://open.spotify.com/album/1XmDt86DiSE9iD1DygOyvd) | 3:21 |
 | 134 | [Pistacchio croissant](https://open.spotify.com/track/6SnCcZfuAw1WtngzKfKD7a) | [R&A acoustic duet](https://open.spotify.com/artist/4gMDSNMILrN8JrWs1WC0mG) | [Pistacchio croissant](https://open.spotify.com/album/6lw0GzFHDedrMEbKtmxlKo) | 3:43 |
 | 135 | [Inside Yourself](https://open.spotify.com/track/4tr6UJmmZs3UW7KKdGGqdp) | [Sofia Ullman](https://open.spotify.com/artist/5FrkFx3cQEZZISOxW3rZAP), [Torbjörn Carlsson](https://open.spotify.com/artist/26L1gn5sPDqoSsNVemtNWK) | [50 Miles](https://open.spotify.com/album/2eqYXe9eQdyE3DiEnxHcES) | 4:38 |
+| 136 | [321 \(Self\-Destruct\)](https://open.spotify.com/track/5UkH8DqReMbDEb5VrnhQ9U) | [Jessie Alexandra](https://open.spotify.com/artist/6Qx6xEgIkrAc6GMu9uJ9b7) | [321 \(Self\-Destruct\)](https://open.spotify.com/album/3s7n1PPX8T37zbJzk0xrVd) | 3:16 |
+| 137 | [Catch Me On The Breeze](https://open.spotify.com/track/7sYdKo9tx906zjpdU38xD2) | [Every Other Thursday](https://open.spotify.com/artist/0J6GbnWDzJ80Fye4te92qR) | [In Between The Covers](https://open.spotify.com/album/4jzadU8rESME36eS6U7bx3) | 4:00 |
 
-Snapshot ID: `AAARXBMQyc4PTC0YH8J86bftFW6cJA9R`
+Snapshot ID: `AAARXqoit3r64aan+z3xCu33OmuCytYF`

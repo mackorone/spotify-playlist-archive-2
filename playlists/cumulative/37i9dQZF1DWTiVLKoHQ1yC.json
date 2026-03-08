@@ -2322,7 +2322,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 296228,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/38PbxSWZAQWgN61kuWV0RB"
@@ -6248,6 +6248,28 @@
       "duration_ms": 422288,
       "name": "Suitcase",
       "url": "https://open.spotify.com/track/6Y2u5I0oHgnF71oxPsrtqO"
+    },
+    {
+      "album": {
+        "name": "Sunday Sunrise",
+        "url": "https://open.spotify.com/album/3BU5kYeGA0c5DvgwP3mryt"
+      },
+      "artists": [
+        {
+          "name": "Martim Rola",
+          "url": "https://open.spotify.com/artist/5HIY98z9x6Qmh7fjlSRvxb"
+        },
+        {
+          "name": "David Mackay",
+          "url": "https://open.spotify.com/artist/2eiBRWD2o9Q99ehtKoL2qt"
+        }
+      ],
+      "date_added": "2026-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197618,
+      "name": "Sunday Sunrise",
+      "url": "https://open.spotify.com/track/3yn9JKlURgymXnZzl7E9ht"
     },
     {
       "album": {

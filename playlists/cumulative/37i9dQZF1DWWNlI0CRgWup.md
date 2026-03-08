@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Steve Ibrahim
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Wamen
 
-278 songs - 14 hr 7 min
+279 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [La Macarena](https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:07 | 2022-03-24 | 2022-04-15 |
 | [La symphonie des éclairs](https://open.spotify.com/track/1E9HERI5XdI9ZZIgCw51QS) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH) | 3:18 | 2023-10-13 |  |
 | [La symphonie des éclairs](https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:18 | 2023-10-13 | 2024-04-19 |
+| [La vie d'adulte](https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [La vie d'adulte](https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG) | 2:51 | 2026-03-07 |  |
 | [La vie en rose](https://open.spotify.com/track/7i2G8c2N7iJ8kDoZYsGXw0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [La vie en rose](https://open.spotify.com/album/5PNp46dxzHWeLqo5BoCGU9) | 3:24 | 2025-06-19 |  |
 | [LA VOISINE](https://open.spotify.com/track/14yxgrxJZ2xiGTAy9EYAPU) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab) | [LA VOISINE](https://open.spotify.com/album/4E0DtIpp6WIOXvoeCNjUtC) | 2:46 | 2025-11-12 |  |
 | [Last Time](https://open.spotify.com/track/2Ibz7YggOBpCHDEamETUFq) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Last Time](https://open.spotify.com/album/6k0C4P2h1qRr3HORw3ziNg) | 2:57 | 2022-02-03 | 2022-05-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Baby Keem
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,620 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,864 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 30 | [Everything Allocated](https://open.spotify.com/track/6wUsnG6BpMPjuuQ7KQgQjD) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Everything Allocated](https://open.spotify.com/album/0d8VO6wtDm5NoPjR8N4YUi) | 2:53 |
 | 31 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 |
 | 32 | [Starlight](https://open.spotify.com/track/0MyLQnZpkAVz73R8nCZyMn) | [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Starlight](https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI) | 3:39 |
-| 33 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
-| 34 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 |
+| 33 | [If You Ain’t In Love By Now](https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF) | [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [If You Ain’t In Love By Now](https://open.spotify.com/album/6CaciMY4uqOM1Dz202symB) | 3:02 |
+| 34 | [Broken Record](https://open.spotify.com/track/187PhQNVowHs4jJj4Ebzzu) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Broken Record](https://open.spotify.com/album/4GF7FP9ViwD2yTyDGcgY7S) | 2:25 |
 | 35 | [Best of Our Possible Lives](https://open.spotify.com/track/1KVdGIfXjx0AfFqyVIMXAX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Best of Our Possible Lives](https://open.spotify.com/album/7sMzhU19W3Kmjj8SAm3lVC) | 3:08 |
 | 36 | [Bullet](https://open.spotify.com/track/32WSeX1RjPKtl0Z70ijA3o) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [Bullet](https://open.spotify.com/album/6SCV1DAF0OhDKfJtaLxkEU) | 2:47 |
 | 37 | [Beautiful Thing](https://open.spotify.com/track/02lEmG1nu8rpOSecUVnbSg) | [John The Blind](https://open.spotify.com/artist/12U3blX0ilxf0tnejqPDYD) | [Indicator](https://open.spotify.com/album/6ujiOVHXvy4ki58z4SCPoE) | 3:36 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 43 | [Round Me](https://open.spotify.com/track/67BtrWFeJfef2l3VabMY0T) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Round Me](https://open.spotify.com/album/0bGWkCSiH2vkCFvFudcuiu) | 2:38 |
 | 44 | [Una Vez Y Ya](https://open.spotify.com/track/6joFkH4jcJwW4QefTVphZD) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Una Vez Y Ya](https://open.spotify.com/album/3H0L8xL0Ha6FhfycLHz5oR) | 2:34 |
 | 45 | [Menina](https://open.spotify.com/track/385rwIlMfOkq2xOEKHarqh) | [Nezzah](https://open.spotify.com/artist/0i0nfbZjEBMFdTyzV4gZz6), [ZUCO OMG](https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7) | [Menina](https://open.spotify.com/album/4MhqyWnIJOp0WeLSBMl6CO) | 3:02 |
-| 46 | [hollyweird](https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [hollyweird](https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf) | 5:20 |
-| 47 | [Blame it on You](https://open.spotify.com/track/6IDSEVZ64PvF2kgVSoFe3c) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Speed Kills](https://open.spotify.com/album/3EBYpe6uTx0dx36KDFicjf) | 3:05 |
+| 46 | [Blame it on You](https://open.spotify.com/track/6IDSEVZ64PvF2kgVSoFe3c) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Speed Kills](https://open.spotify.com/album/3EBYpe6uTx0dx36KDFicjf) | 3:05 |
+| 47 | [hollyweird](https://open.spotify.com/track/6az8ZXMs0BOuB4QWei8l2y) | [aja monet](https://open.spotify.com/artist/6dclGxWbiv1ScMQwT5INQF) | [hollyweird](https://open.spotify.com/album/4mUuPAC82nc82odVzHKTYf) | 5:20 |
 | 48 | [Software Developer](https://open.spotify.com/track/3CnLMXhLxdbFMxldjAn7XS) | [Blessing Jolie](https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth) | [Software Developer](https://open.spotify.com/album/0PAgb5E8gJEUNTwHaKHSCS) | 3:47 |
 
 Snapshot ID: `AAAAAAJUV340U2cUodhjZwEbUT6FV38W`

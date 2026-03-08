@@ -1,6 +1,6 @@
 {
   "description": "O batid\u00e3o dos funks mais bombados pra agitar a pista do seu baile!",
-  "num_followers": 944229,
+  "num_followers": 944243,
   "original_name": "Segue o Baile",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
+      },
+      "artists": [
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        }
+      ],
+      "duration_ms": 251216,
+      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
+      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Privil\u00e9gio",
         "url": "https://open.spotify.com/album/46UPYnlqTunDKOjpogfIyb"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 151384,
       "name": "Privil\u00e9gio",
       "url": "https://open.spotify.com/track/2ASs0n7ukfyxAxDtdir4vF"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-        "url": "https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N"
-      },
-      "artists": [
-        {
-          "name": "MC Bin Laden",
-          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
-        }
-      ],
-      "duration_ms": 251216,
-      "name": "T\u00e1 Tranquilo, T\u00e1 Favor\u00e1vel",
-      "url": "https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1543,6 +1543,46 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
+        "name": "MTG \u00c9 Sempre Assim",
+        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
+      },
+      "artists": [
+        {
+          "name": "DJ ARTHUZIIN",
+          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
+        },
+        {
+          "name": "Dj Lv Mdp",
+          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
+        },
+        {
+          "name": "MC Gui Andrade",
+          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
+        },
+        {
+          "name": "Mc Faelzin",
+          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
+        },
+        {
+          "name": "MC Theuzyn",
+          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        },
+        {
+          "name": "Dj Vitin do Pc",
+          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
+        }
+      ],
+      "duration_ms": 162461,
+      "name": "MTG \u00c9 Sempre Assim",
+      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
         "name": "Coisa Boa",
         "url": "https://open.spotify.com/album/2WWKXqWkq4ad0kn0PmeyWJ"
       },
@@ -1599,46 +1639,6 @@
       "duration_ms": 152783,
       "name": "Surtada - Remix Brega Funk",
       "url": "https://open.spotify.com/track/5F8ffc8KWKNawllr5WsW0r"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "MTG \u00c9 Sempre Assim",
-        "url": "https://open.spotify.com/album/6qQ1NvVifltui3P4jUJqmp"
-      },
-      "artists": [
-        {
-          "name": "DJ ARTHUZIIN",
-          "url": "https://open.spotify.com/artist/2Xwhv9ka5HeBx9c1Sq3o6C"
-        },
-        {
-          "name": "Dj Lv Mdp",
-          "url": "https://open.spotify.com/artist/01CFmzv28eTtJAjhrvOsiW"
-        },
-        {
-          "name": "MC Gui Andrade",
-          "url": "https://open.spotify.com/artist/28XZ2YzULz7EN54ZcurSUI"
-        },
-        {
-          "name": "Mc Faelzin",
-          "url": "https://open.spotify.com/artist/2R2g5gRifq9X63vvqWzik6"
-        },
-        {
-          "name": "MC Theuzyn",
-          "url": "https://open.spotify.com/artist/1boMFBiRXiba4RCcPs5DMm"
-        },
-        {
-          "name": "DJ PH DA SERRA",
-          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
-        },
-        {
-          "name": "Dj Vitin do Pc",
-          "url": "https://open.spotify.com/artist/5Y8NCcdoogj5Dw75t30c1K"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "MTG \u00c9 Sempre Assim",
-      "url": "https://open.spotify.com/track/7frGdTrAxXpYbvsTsaySxJ"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1751,22 +1751,22 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "BALAN\u00c7A A GLOCK",
-        "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
+        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
+        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
       },
       "artists": [
         {
-          "name": "DJ LG",
-          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
+          "name": "MC Bruna Alves",
+          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
         },
         {
-          "name": "Mc Jajau",
-          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+          "name": "Dj Digo Beat",
+          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
         }
       ],
-      "duration_ms": 156076,
-      "name": "BALAN\u00c7A A GLOCK",
-      "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
+      "duration_ms": 240666,
+      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
+      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1787,22 +1787,42 @@
     {
       "added_at": "2023-06-26 14:06:50",
       "album": {
-        "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) [Remix Digo Beat]",
-        "url": "https://open.spotify.com/album/0N84oW5Cs6e0tBAYMqmZGL"
+        "name": "Espirra o Lan\u00e7a",
+        "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
       },
       "artists": [
         {
-          "name": "MC Bruna Alves",
-          "url": "https://open.spotify.com/artist/2Y3kRJYYun9lDcRMM7ulQg"
+          "name": "Dj Serpinha",
+          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
         },
         {
-          "name": "Dj Digo Beat",
-          "url": "https://open.spotify.com/artist/2yeneyYRzEtwarcFfYdrEo"
+          "name": "MC 2jhow",
+          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Me Desculpa Pai, Me Desculpa M\u00e3e (feat. Dj Digo Beat) - Remix Digo Beat",
-      "url": "https://open.spotify.com/track/1ipiDzNe3oxmXbURsgyczF"
+      "duration_ms": 190055,
+      "name": "Espirra o Lan\u00e7a",
+      "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
+    },
+    {
+      "added_at": "2023-06-26 14:06:50",
+      "album": {
+        "name": "BALAN\u00c7A A GLOCK",
+        "url": "https://open.spotify.com/album/10XgqbTG82Ks7cK6i5m601"
+      },
+      "artists": [
+        {
+          "name": "DJ LG",
+          "url": "https://open.spotify.com/artist/3a185Ryw0UxPiGvB3mS2EJ"
+        },
+        {
+          "name": "Mc Jajau",
+          "url": "https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm"
+        }
+      ],
+      "duration_ms": 156076,
+      "name": "BALAN\u00c7A A GLOCK",
+      "url": "https://open.spotify.com/track/3NaZrn3dMTU2uzjvVwC41z"
     },
     {
       "added_at": "2023-06-26 14:06:50",
@@ -1839,26 +1859,6 @@
       "duration_ms": 184845,
       "name": "MANO DO AK",
       "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
-    },
-    {
-      "added_at": "2023-06-26 14:06:50",
-      "album": {
-        "name": "Espirra o Lan\u00e7a",
-        "url": "https://open.spotify.com/album/0t1QN1vx5rOo08gQ8BelLN"
-      },
-      "artists": [
-        {
-          "name": "Dj Serpinha",
-          "url": "https://open.spotify.com/artist/17CbKzT0I4256iVuPvrZXr"
-        },
-        {
-          "name": "MC 2jhow",
-          "url": "https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ"
-        }
-      ],
-      "duration_ms": 190055,
-      "name": "Espirra o Lan\u00e7a",
-      "url": "https://open.spotify.com/track/0vYDCcg9nEpMvuiCtgjv5G"
     },
     {
       "added_at": "2023-06-26 14:06:50",

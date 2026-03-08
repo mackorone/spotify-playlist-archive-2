@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-242 songs - 14 hr 55 min
+244 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-09-21 |  |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-02-04 | 2026-02-25 |
 | [Coming Home \(UNITED\)](https://open.spotify.com/track/0P1maWD1FUQR8TojElnfpW) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [UNITED](https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls) | 3:44 | 2025-12-01 | 2025-12-28 |
+| [Concrete](https://open.spotify.com/track/2gNXxEN4sBEmKyMYhAW5Fj) | [Blue Remains](https://open.spotify.com/artist/3bso49Yea3qCrqvtiUolUv) | [Concrete](https://open.spotify.com/album/3cDTeTgcq7zXxPqTWHHitB) | 4:19 | 2026-03-07 |  |
 | [Consumer Unit](https://open.spotify.com/track/2O7KnLBqPako9l0JfkwGEp) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Consumer Unit](https://open.spotify.com/album/0bBXbmdNWYauccx4abtnGU) | 3:05 | 2026-02-26 |  |
 | [Coping](https://open.spotify.com/track/0OzYP6QaMX7DIQaBkaIHv6) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh), [Yung Father](https://open.spotify.com/artist/1u060weQXyTEVdGPZEfIM7) | [Coping](https://open.spotify.com/album/5oWwyfSLZVbtxJ6lGquURw) | 3:50 | 2025-11-07 | 2025-12-06 |
 | [Crashout Bandicoot](https://open.spotify.com/track/4tr2Y43N2nmWDY14JzkRoi) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [Crashout Bandicoot](https://open.spotify.com/album/5pEGwEj7GOB2qg2tOZW1Ut) | 2:57 | 2025-11-26 | 2025-12-28 |
@@ -226,6 +227,7 @@
 | [Too many shots](https://open.spotify.com/track/1LgaBhXA2yXHXm163tBUJB) | [Prodii](https://open.spotify.com/artist/2P606xCQx03HHlD28pXMs5) | [Too many shots](https://open.spotify.com/album/4ack6tut3wHYNFCYa1mIS3) | 2:49 | 2026-01-15 | 2026-02-25 |
 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 | 2026-01-21 |
 | [Trampeltier](https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g) | [Neidmaer](https://open.spotify.com/artist/0hCDG82eSZNEb32nKPyeKR) | [Trampeltier](https://open.spotify.com/album/3ahMXPDYjOxgf8JmfbanPy) | 4:28 | 2025-09-25 | 2026-01-05 |
+| [Unbreakable Love](https://open.spotify.com/track/6urx5MnO6omSLaFALpvU2Z) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [Unbreakable Love](https://open.spotify.com/album/3cHG42Tti5QdUxLWPAlLTs) | 3:22 | 2026-03-07 |  |
 | [Universes](https://open.spotify.com/track/3z2uLmFrsRwnlX3CArPOuE) | [Joel Hunt](https://open.spotify.com/artist/57j07A2nkEk1CDE4BJVuy8) | [Space & Time](https://open.spotify.com/album/0QHaA065L5kdg9UWcfqv8D) | 4:55 | 2026-01-19 | 2026-02-19 |
 | [Unmovable Fires](https://open.spotify.com/track/5UIdkmar4ZlpDQKeniwRHt) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Unmovable Fires](https://open.spotify.com/album/0divLjbOp4vAR6qpIelxuv) | 4:17 | 2026-01-11 | 2026-02-02 |
 | [Virginia](https://open.spotify.com/track/2Gp5Y4AoDm0sQotveaD4T3) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 4:25 | 2025-11-21 | 2025-12-12 |

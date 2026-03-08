@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 71650,
+  "num_followers": 71660,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,22 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Cola Comigo",
-        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
+        "name": "Slap Sessions: Melly (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
         }
       ],
-      "duration_ms": 208617,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
+      "duration_ms": 166800,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -315,18 +319,18 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+        "name": "Cola Comigo",
+        "url": "https://open.spotify.com/album/5eucL3nRasXK7SCOnOZjhw"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+      "duration_ms": 208617,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/1tByapKE4iJ52uQBc1V183"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -347,6 +351,22 @@
       "duration_ms": 225230,
       "name": "Gaveta/Onironauta",
       "url": "https://open.spotify.com/track/0hP16H5OZMQhBsNn4WBA5P"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -391,26 +411,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Slap Sessions: Melly (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4IOY6NKMG3itD8WIW8rpgn"
-      },
-      "artists": [
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        },
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 166800,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/3Ez01JZkWXupNqWLBwhGme"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "Mentiras",
         "url": "https://open.spotify.com/album/6TlsCm8yHABXEM8NcYghVF"
       },
@@ -447,26 +447,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Desalinho",
-        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "Desalinho",
-      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Desalinho",
+        "url": "https://open.spotify.com/album/06bc6mkcNAZxT1XxzHjrWR"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "Desalinho",
+      "url": "https://open.spotify.com/track/63gdjaFptxqaqCIwSI3xV9"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "Rel\u00edquia",
-        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
-      },
-      "artists": [
-        {
-          "name": "K\u00e9sia",
-          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
-        }
-      ],
-      "duration_ms": 209409,
-      "name": "Div\u00e3",
-      "url": "https://open.spotify.com/track/0I9prX3TerZiLc7a539eJG"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "Na Mi\u00fada",
         "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 164131,
       "name": "Romance Fora de Hora",
       "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "Rel\u00edquia",
+        "url": "https://open.spotify.com/album/1Z6KdoF4ss3lCjKsegTonB"
+      },
+      "artists": [
+        {
+          "name": "K\u00e9sia",
+          "url": "https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2"
+        }
+      ],
+      "duration_ms": 209409,
+      "name": "Div\u00e3",
+      "url": "https://open.spotify.com/track/0I9prX3TerZiLc7a539eJG"
     },
     {
       "added_at": "2026-03-06 13:13:22",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-03-06 13:13:22",
       "album": {
-        "name": "(Des)conectar",
-        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
-      },
-      "artists": [
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 200217,
-      "name": "(Des)conectar",
-      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
-    },
-    {
-      "added_at": "2026-03-06 13:13:22",
-      "album": {
         "name": "V\u00edcios q eu gosto",
         "url": "https://open.spotify.com/album/5VabHZWJ63oMysUQC7ULsN"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 152571,
       "name": "V\u00edcios q eu gosto",
       "url": "https://open.spotify.com/track/7E2VYyqSttr2ixmQuVKkmJ"
+    },
+    {
+      "added_at": "2026-03-06 13:13:22",
+      "album": {
+        "name": "(Des)conectar",
+        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
+      },
+      "artists": [
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 200217,
+      "name": "(Des)conectar",
+      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
     },
     {
       "added_at": "2026-03-06 13:13:22",

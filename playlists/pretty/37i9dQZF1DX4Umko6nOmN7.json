@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 613684,
+  "num_followers": 613679,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
+        "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        }
+      ],
+      "duration_ms": 191599,
+      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
+      "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "Rattlesnake (feat. Zach Bryan)",
         "url": "https://open.spotify.com/album/0r6gpU19hrB3SgR91N9vH0"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 293836,
       "name": "Rattlesnake (feat. Zach Bryan)",
       "url": "https://open.spotify.com/track/5yzAaKGdD6HwTxeXcdyNxY"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
-        "url": "https://open.spotify.com/album/6zEEpctC1joN7KkqsWIm1j"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        }
-      ],
-      "duration_ms": 191599,
-      "name": "Det kommer aldrig va \u00f6ver f\u00f6r mig - Spotify Singles",
-      "url": "https://open.spotify.com/track/6It5iAtU0foJMMNaUv1jie"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173407,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Feeling Good (triple j Like A Version)",
         "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
       },
@@ -627,22 +611,6 @@
       "duration_ms": 239299,
       "name": "Feeling Good - triple j Like A Version",
       "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "The Last Bit Of Us",
-        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "The Last Bit Of Us",
-      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
     },
     {
       "added_at": "2026-03-02 08:14:35",
@@ -663,6 +631,38 @@
       "duration_ms": 165760,
       "name": "Barfotabarn",
       "url": "https://open.spotify.com/track/318Y9u8zsQfV0G9ToH4JUB"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "The Last Bit Of Us",
+        "url": "https://open.spotify.com/album/0VSEo3ZMGfadTa9K90KMI3"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "The Last Bit Of Us",
+      "url": "https://open.spotify.com/track/3cgHwqbHcu1DKFADvkgPJ7"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 173407,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -699,18 +699,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
         }
       ],
-      "duration_ms": 214922,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
+      "duration_ms": 132096,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
       },
       "artists": [
         {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
+      "duration_ms": 214922,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Here It Is",
-        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 193389,
-      "name": "Here It Is",
-      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1043,6 +1027,38 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
+        "name": "Mercedes",
+        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "It's a Beautiful Dream",
+      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Here It Is",
+        "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 193389,
+      "name": "Here It Is",
+      "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
         "name": "And The Story Goes",
         "url": "https://open.spotify.com/album/24dwnbZy3cgTOi9pYavlv9"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 275326,
       "name": "H\u00e4nderna Mot Himlen - Acoustic",
       "url": "https://open.spotify.com/track/3dBmqkxFJ9qECnyky9YDp2"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
-        "name": "Mercedes",
-        "url": "https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS"
-      },
-      "artists": [
-        {
-          "name": "Sarah Klang",
-          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "It's a Beautiful Dream",
-      "url": "https://open.spotify.com/track/2GNv0P8RpZeqpe2rr8AUzh"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Row Your Boat",
-        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
-      },
-      "artists": [
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 175030,
-      "name": "Row Your Boat",
-      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Your Bones",
         "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 159400,
       "name": "Your Bones",
       "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Row Your Boat",
+        "url": "https://open.spotify.com/album/4LSD9CPFBbfpqu3Pc99RA8"
+      },
+      "artists": [
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 175030,
+      "name": "Row Your Boat",
+      "url": "https://open.spotify.com/track/3WXGdXrITAcaMUQiZuu04n"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
-      },
-      "artists": [
-        {
-          "name": "Linda Elys",
-          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
-        }
-      ],
-      "duration_ms": 179561,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Superlativ 97",
         "url": "https://open.spotify.com/album/3bgfgOYm533nhDX9Dbp1Bu"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 186586,
       "name": "Dina l\u00e4ppar",
       "url": "https://open.spotify.com/track/41zrGMs7h8m1RpVwl380en"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O"
+      },
+      "artists": [
+        {
+          "name": "Linda Elys",
+          "url": "https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf"
+        }
+      ],
+      "duration_ms": 179561,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-01-09 08:25:05",
       "album": {
-        "name": "Living Comes With Dying",
-        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
-      },
-      "artists": [
-        {
-          "name": "sixten",
-          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
-        }
-      ],
-      "duration_ms": 186920,
-      "name": "Living Comes With Dying",
-      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
-    },
-    {
-      "added_at": "2026-01-09 08:25:05",
-      "album": {
         "name": "Back To My Roots",
         "url": "https://open.spotify.com/album/0PBv8cJSbUsDXQiPX11Cyz"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 202453,
       "name": "Back To My Roots - Acoustic Version",
       "url": "https://open.spotify.com/track/2vWJvQG4IXOuc5lMNfOg7Z"
+    },
+    {
+      "added_at": "2026-01-09 08:25:05",
+      "album": {
+        "name": "Living Comes With Dying",
+        "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
+      },
+      "artists": [
+        {
+          "name": "sixten",
+          "url": "https://open.spotify.com/artist/3LLMpSdGz5j8j7qxgbiRCF"
+        }
+      ],
+      "duration_ms": 186920,
+      "name": "Living Comes With Dying",
+      "url": "https://open.spotify.com/track/02ljwdULTHB1LFVEjgNLJk"
     },
     {
       "added_at": "2026-01-09 08:25:05",
@@ -1677,24 +1677,20 @@
       "url": "https://open.spotify.com/track/12CcA3RDkKo5U0lbNsCbSX"
     },
     {
-      "added_at": "2026-01-09 08:25:05",
+      "added_at": "2026-03-02 08:14:35",
       "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+        "name": "Tryna make it in LA (Deluxe)",
+        "url": "https://open.spotify.com/album/6ELnL9vR5ufPGdqZIy67Zh"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "Kerstin Ljungstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe"
         }
       ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+      "duration_ms": 217266,
+      "name": "Ett \u00e5r - Bonus Track",
+      "url": "https://open.spotify.com/track/4OJOZJLUnGun7f2qeIc7h7"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

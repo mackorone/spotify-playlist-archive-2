@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-511 songs - 1 day 6 hr 2 min
+512 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Europa](https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv) | [David Ritschard](https://open.spotify.com/artist/2kVWsK53009cpZqfuA3TMf) | [Innan tystnaden tar vid](https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI) | 6:34 | 2024-08-29 | 2025-01-15 |
 | [EXISTENS](https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EXISTENS](https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm) | 2:52 | 2025-08-07 |  |
 | [F\-Bomb](https://open.spotify.com/track/0VkSUNZoG6kE0Rtnz4Hsf4) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [F\-Bomb](https://open.spotify.com/album/50qDq5SuKpZCiuYQy3eKE3) | 3:47 | 2025-08-14 |  |
+| [Face The Unknown](https://open.spotify.com/track/06JfWUM1gcTOCAIHFcOTbw) | [Kevin Walker](https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT) | [Face The Unknown](https://open.spotify.com/album/1KZJK8jAvN1V6NNlCiP3iz) | 3:30 | 2026-03-05 |  |
 | [Fading Like A Rose \(Original +2 bpm\)](https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [ROX RMX Vol\. 1 \(Remixes From The Roxette Vaults\)](https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S) | 3:59 | 2024-09-06 | 2024-12-24 |
 | [Fait Accompli](https://open.spotify.com/track/1UOcJZoRbbYwC874JFZo0f) | [Mariette](https://open.spotify.com/artist/76nW12AUcUVEiC8fwFoAns) | [Fait Accompli](https://open.spotify.com/album/4T8T9Kx1tC96ltSpDzeyYt) | 2:56 | 2025-05-29 | 2025-06-13 |
 | [Faithless](https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Faithless](https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj) | 3:51 | 2025-05-01 | 2026-02-05 |
@@ -328,7 +329,7 @@
 | [När änglar dör](https://open.spotify.com/track/4xHRjdU7PG09WUMVoKE0p0) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [När änglar dör](https://open.spotify.com/album/695f9njO5pVIfg3m9pVrqN) | 3:11 | 2026-02-12 |  |
 | [Nära dig](https://open.spotify.com/track/7iqKOoVK1vSUMbQ6WFdTDK) | [Anna Ternheim](https://open.spotify.com/artist/6xSTQT32ZxLQPe37QIC308) | [Nära dig](https://open.spotify.com/album/1rCpE2GysqULXRbD2tdgYs) | 2:42 | 2024-08-22 | 2025-02-10 |
 | [Någonting som aldrig hänt](https://open.spotify.com/track/2iMnR4e7P0IdHepdkp402R) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Någonting som aldrig hänt](https://open.spotify.com/album/3rYdUbfxhvKM4jMBfc8tgq) | 3:01 | 2025-08-14 |  |
-| [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 |  |
+| [Något ska dö](https://open.spotify.com/track/1ieslv0IfVoD8Yzm5vs6W0) | [Andreas Weise](https://open.spotify.com/artist/0G74PWccc2UbEEHNKVVaKB) | [Något ska dö \(del 1\)](https://open.spotify.com/album/5ZSAZ2Oqc1sLa06LYensG0) | 3:28 | 2025-09-25 | 2026-03-08 |
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 |  |
 | [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 | 2025-08-08 |

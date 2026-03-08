@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 
 > 
 
-[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 599 songs - 1 day 13 hr 52 min
+[realARreal](https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e) - 0 likes - 604 songs - 1 day 14 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 6 | [Taken for a Fool](https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:23 |
 | 7 | [Barely Legal](https://open.spotify.com/track/21Ay8Y9Pr91nSauPGtK6MW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:54 |
 | 8 | [Mercy Mercy Me \(The Ecology\) \- You Only Live Once B\-Side](https://open.spotify.com/track/49jMdoagrgo0PUc6DkVaZV) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [You Only Live Once/Mercy Mercy Me](https://open.spotify.com/album/7jbQIpfQZTVBn8J7FzMyaF) | 2:37 |
-| 9 | [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 |
+| 9 | [Bakamitai \- Taxi Driver Edition](https://open.spotify.com/track/4xXu9UO2qdBotUOfqru2UC) | [桐生一馬\(黒田崇矢\)](https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp), [SEGA GAME MUSIC](https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk), [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6) | [Kazuma Kiryu Karaoke hit song collection\(Ryu ga gotoku7 hikari to yami no yukue\)](https://open.spotify.com/album/1F4S1ywUKiPmgbg66qw1Xj) | 4:51 |
 | 10 | [Tourist](https://open.spotify.com/track/17XcDzWQ68mFZ4hzBeR1NY) | [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB) | [Phrazes For The Young](https://open.spotify.com/album/6IN7WBkcwRA1o87hVFaCa3) | 5:02 |
 | 11 | [Sugar and Vice](https://open.spotify.com/track/7eQrKPu8HTs6YU6qKCrSIa) | [machinegum](https://open.spotify.com/artist/5QGL1jcaTUSU4FWSY2Lzi9) | [Conduit](https://open.spotify.com/album/5jkGq5lwa40asXsTXqnCTS) | 3:18 |
 | 12 | [Ion Square](https://open.spotify.com/track/7uoWrCEmC2lI4lxe1M4BBt) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Intimacy](https://open.spotify.com/album/0ZdR2zjN6X6Wvffw8l87yl) | 6:32 |
@@ -598,14 +598,19 @@ pretty - [cumulative](/playlists/cumulative/5JjZ15hnHRkAds4ab4BXiz.md) - [plain]
 | 588 | [Selfish Son](https://open.spotify.com/track/32qYJIgErnGqHszAVaGxFe) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City](https://open.spotify.com/album/5qGqM14bpZCa1qQ7jt5W7R) | 4:58 |
 | 589 | [Cain Said to Abel](https://open.spotify.com/track/5c1W1k7JOUVyZ1DTjs0oYY) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend in the City B\-Sides](https://open.spotify.com/album/7yKRvpdAyvVndMvqlYP0BD) | 3:23 |
 | 590 | [No, Thanks, Please](https://open.spotify.com/track/7hQmm1cvYYRE734UU494iM) | [benches](https://open.spotify.com/artist/62U36LEen0wpm8L5q68iVu) | [Wishful Thinking \(At Its Best\)](https://open.spotify.com/album/3s8ye09tTmZjV0qbT9bloP) | 2:41 |
-| 591 | [Daddy Dookie Brown](https://open.spotify.com/track/42TXTzNiUHivHWGeBSlBGU) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [C'est la Vie](https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A) | 3:49 |
-| 592 | [Telomere](https://open.spotify.com/track/12iGqMLLcwr5Ou1hg0r278) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 3:53 |
-| 593 | [Between Love & Hate](https://open.spotify.com/track/5OmumaYiHYXUsYZPGLFTYJ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:16 |
-| 594 | [Happy Hour](https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The Last King Of Pop](https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS) | 2:21 |
-| 595 | [On a Mission](https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:06 |
-| 596 | [Big Time](https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg) | [Mustard Service](https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns) | [Big Time](https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4) | 3:48 |
-| 597 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
-| 598 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 599 | [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 |
+| 591 | [Telomere](https://open.spotify.com/track/12iGqMLLcwr5Ou1hg0r278) | [Mystery Jets](https://open.spotify.com/artist/09K1H1DgyIXHsMx2j7KTFX) | [Curve Of The Earth](https://open.spotify.com/album/5gdWHfwu68jqPbxXxMDyL6) | 3:53 |
+| 592 | [Between Love & Hate](https://open.spotify.com/track/5OmumaYiHYXUsYZPGLFTYJ) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:16 |
+| 593 | [Happy Hour](https://open.spotify.com/track/051GBUYL8OPi6QZOu1hTDH) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [The Last King Of Pop](https://open.spotify.com/album/6KAJNoi7chqjEHaIe1Q8cS) | 2:21 |
+| 594 | [On a Mission](https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf) | [The Rakes](https://open.spotify.com/artist/7mDQwcnDUGuSoggxbUtVc1) | [Ten New Messages](https://open.spotify.com/album/1lcIQOlLj8gnDEr3RMW0Sz) | 3:06 |
+| 595 | [Island In The Sun](https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 3:20 |
+| 596 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
+| 597 | [Skrting On The Surface](https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 5:31 |
+| 598 | [Two Receivers](https://open.spotify.com/track/2pqLwhhPPSf0z24LQwGawG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 4:18 |
+| 599 | [Atlantis To Interzone](https://open.spotify.com/track/2ZULEJnMCy8S54UwCecbJr) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:16 |
+| 600 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
+| 601 | [Totem On The Timeline](https://open.spotify.com/track/4xcqzr7HNHzlx9QnsZxYMP) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:41 |
+| 602 | [As Above So Below](https://open.spotify.com/track/280cMik5EgD9roeInq0sLO) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:55 |
+| 603 | [Isle Of Her](https://open.spotify.com/track/1XGbcUsj63wtL7LJ18lTAL) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 3:54 |
+| 604 | [Gravity's Rainbow](https://open.spotify.com/track/3TRM61i04EmRRqx945pnB0) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:36 |
 
-Snapshot ID: `AAAhnfYgTQ0VB08N5LT5vPZpmXJO5yK+`
+Snapshot ID: `AAAhppqCSDIWmz45MtOsLZxAAGSDUPi+`

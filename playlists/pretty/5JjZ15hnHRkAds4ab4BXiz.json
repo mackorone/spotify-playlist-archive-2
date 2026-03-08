@@ -6,7 +6,7 @@
     "name": "realARreal",
     "url": "https://open.spotify.com/user/31xvwyg64bdozltzwa4srt72hk6e"
   },
-  "snapshot_id": "AAAhnfYgTQ0VB08N5LT5vPZpmXJO5yK+",
+  "snapshot_id": "AAAhppqCSDIWmz45MtOsLZxAAGSDUPi+",
   "tracks": [
     {
       "added_at": "2024-04-09 00:56:06",
@@ -146,6 +146,14 @@
         {
           "name": "\u6850\u751f\u4e00\u99ac(\u9ed2\u7530\u5d07\u77e2)",
           "url": "https://open.spotify.com/artist/7C0PO4A4azl0xFMrE1EVDp"
+        },
+        {
+          "name": "SEGA GAME MUSIC",
+          "url": "https://open.spotify.com/artist/3zhdOZ9uQNelKFYQtOIcBk"
+        },
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
         }
       ],
       "duration_ms": 291266,
@@ -9549,22 +9557,6 @@
       "url": "https://open.spotify.com/track/7hQmm1cvYYRE734UU494iM"
     },
     {
-      "added_at": "2024-12-30 19:20:27",
-      "album": {
-        "name": "C'est la Vie",
-        "url": "https://open.spotify.com/album/6Dms2f0cxv9GB5qh2q607A"
-      },
-      "artists": [
-        {
-          "name": "Mustard Service",
-          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-        }
-      ],
-      "duration_ms": 229712,
-      "name": "Daddy Dookie Brown",
-      "url": "https://open.spotify.com/track/42TXTzNiUHivHWGeBSlBGU"
-    },
-    {
       "added_at": "2025-12-14 01:47:26",
       "album": {
         "name": "Curve Of The Earth",
@@ -9629,22 +9621,6 @@
       "url": "https://open.spotify.com/track/5NUD9Te4zpqIj91B6dCiNf"
     },
     {
-      "added_at": "2025-03-21 21:46:12",
-      "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/6fGZ262oL8OhT96uhuoZc4"
-      },
-      "artists": [
-        {
-          "name": "Mustard Service",
-          "url": "https://open.spotify.com/artist/7kAZYW5e5hQHYGQ0XHYhns"
-        }
-      ],
-      "duration_ms": 228957,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/27Bn2trsGicmJlZe3qFMHg"
-    },
-    {
       "added_at": "2024-01-17 04:18:09",
       "album": {
         "name": "Weezer",
@@ -9691,6 +9667,118 @@
       "duration_ms": 331914,
       "name": "Skrting On The Surface",
       "url": "https://open.spotify.com/track/0AmkMHfI5zFNuptoglfmOp"
+    },
+    {
+      "added_at": "2026-03-07 22:36:52",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 258133,
+      "name": "Two Receivers",
+      "url": "https://open.spotify.com/track/2pqLwhhPPSf0z24LQwGawG"
+    },
+    {
+      "added_at": "2026-03-07 22:38:53",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Atlantis To Interzone",
+      "url": "https://open.spotify.com/track/2ZULEJnMCy8S54UwCecbJr"
+    },
+    {
+      "added_at": "2026-03-07 22:38:57",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Golden Skans",
+      "url": "https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG"
+    },
+    {
+      "added_at": "2026-03-07 22:39:03",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 161026,
+      "name": "Totem On The Timeline",
+      "url": "https://open.spotify.com/track/4xcqzr7HNHzlx9QnsZxYMP"
+    },
+    {
+      "added_at": "2026-03-07 22:51:07",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 235333,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/280cMik5EgD9roeInq0sLO"
+    },
+    {
+      "added_at": "2026-03-07 22:51:12",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Isle Of Her",
+      "url": "https://open.spotify.com/track/1XGbcUsj63wtL7LJ18lTAL"
+    },
+    {
+      "added_at": "2026-03-07 22:51:17",
+      "album": {
+        "name": "Myths Of The Near Future",
+        "url": "https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg"
+      },
+      "artists": [
+        {
+          "name": "Klaxons",
+          "url": "https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI"
+        }
+      ],
+      "duration_ms": 156986,
+      "name": "Gravity's Rainbow",
+      "url": "https://open.spotify.com/track/3TRM61i04EmRRqx945pnB0"
     }
   ],
   "unique_name": "Ballads",

@@ -1,12 +1,12 @@
 {
   "description": "This is My Chemical Romance. The essential tracks, all in one playlist.",
-  "num_followers": 630522,
+  "num_followers": 630621,
   "original_name": "This Is My Chemical Romance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAAUIQ/mzEgoX7D9DE/N4uPB",
+  "snapshot_id": "aaoZAAAAAAALT4b3YKSb7qX7bymNWLy5",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Surrender the Night",
-      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
+      "duration_ms": 257120,
+      "name": "Burn Bright",
+      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 257120,
-      "name": "Burn Bright",
-      "url": "https://open.spotify.com/track/5HLVrG3xcuAQVwB65hI1GU"
+      "duration_ms": 207666,
+      "name": "Surrender the Night",
+      "url": "https://open.spotify.com/track/6NDaxwtVhUHg49bTc99l2S"
     },
     {
       "added_at": null,

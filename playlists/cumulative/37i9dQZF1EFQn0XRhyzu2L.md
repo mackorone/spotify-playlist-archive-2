@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-656 songs - 1 day 12 hr 9 min
+657 songs - 1 day 12 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -568,7 +568,8 @@
 | [Talking To Aliens](https://open.spotify.com/track/3xT8kzysow9kjyoFzh1nVN) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:25 | 2024-02-27 |  |
 | [Telephone Box](https://open.spotify.com/track/0OIwzJZBD0aZkbYHrhwDBs) | [Katie Waissel](https://open.spotify.com/artist/4mfrDjcp5zjsb9AjTG1mTt) | [B.C, Pt\. 1](https://open.spotify.com/album/0QkUX2wuX1nnKHBF1KnxfC) | 3:10 | 2025-01-09 | 2025-04-12 |
 | [Tell Her](https://open.spotify.com/track/5FPq36CbubnbA3QY45D1R4) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [More Love \- Songs from Little Voice Season One](https://open.spotify.com/album/52fzvqGSm991mT6pBgAS6g) | 4:58 | 2024-02-27 |  |
-| [Tension](https://open.spotify.com/track/3kKNJN3ZSb2dVM5obAMlDj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:23 | 2024-02-27 |  |
+| [Tension](https://open.spotify.com/track/1lnmoTU9AuF9CqJa8nDdo7) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:23 | 2026-03-07 |  |
+| [Tension](https://open.spotify.com/track/3kKNJN3ZSb2dVM5obAMlDj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:23 | 2024-02-27 | 2026-03-08 |
 | [Texas Man](https://open.spotify.com/track/6fDAGY50m6cnVBY8aUTi9d) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:44 | 2024-02-27 | 2026-01-30 |
 | [Thank You](https://open.spotify.com/track/1lgIfLiB4abFQR90h7gRcC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 3:08 | 2024-02-27 |  |
 | [THAT BITCH](https://open.spotify.com/track/77o1HdXHm1hLd7Ebe9ygd0) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [THAT BITCH](https://open.spotify.com/album/0kP7zWftghSBU2HVkjzcnP) | 3:21 | 2024-02-27 | 2026-01-30 |

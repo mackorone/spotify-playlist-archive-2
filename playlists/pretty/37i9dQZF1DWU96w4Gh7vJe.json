@@ -1,6 +1,6 @@
 {
   "description": "Sit back and relax to our favorite local OPM and R&B sounds.",
-  "num_followers": 578025,
+  "num_followers": 578002,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Ex",
-        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 279259,
-      "name": "Ex",
-      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
-    },
-    {
-      "added_at": "2026-02-26 07:29:44",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/1ybbXhOGoaqW8qn3QqCcSz"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "SWABE",
-        "url": "https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L"
+        "name": "Ex",
+        "url": "https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA"
       },
       "artists": [
         {
-          "name": "Earl Agustin",
-          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
         }
       ],
-      "duration_ms": 277145,
-      "name": "A Little Bit",
-      "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
+      "duration_ms": 279259,
+      "name": "Ex",
+      "url": "https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo"
     },
     {
       "added_at": "2026-02-26 07:29:44",
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
+        "name": "SWABE",
+        "url": "https://open.spotify.com/album/3wTW9AjJkex9PbIEQbmF5L"
+      },
+      "artists": [
+        {
+          "name": "Earl Agustin",
+          "url": "https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm"
+        }
+      ],
+      "duration_ms": 277145,
+      "name": "A Little Bit",
+      "url": "https://open.spotify.com/track/4Mk2hfT0oXkuwX8bd5jln0"
+    },
+    {
+      "added_at": "2026-02-26 07:29:44",
+      "album": {
         "name": "Pag-Ibig (Meron Ba?)",
         "url": "https://open.spotify.com/album/5INHCPcl1iCJl01rOt8vGI"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-02-26 07:29:44",
       "album": {
-        "name": "Tumaya",
-        "url": "https://open.spotify.com/album/3AY8kdUZXjy0AX7GA4GwwH"
+        "name": "Cafe Bossa",
+        "url": "https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw"
       },
       "artists": [
         {
-          "name": "Bert Symoun",
-          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+          "name": "Sitti",
+          "url": "https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA"
         }
       ],
-      "duration_ms": 207661,
-      "name": "Tumaya",
-      "url": "https://open.spotify.com/track/5bXkfZuaIcNe64TsZKBQ7y"
+      "duration_ms": 186240,
+      "name": "Para Sa Akin",
+      "url": "https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR"
     }
   ],
   "unique_name": "Relax Tayo",

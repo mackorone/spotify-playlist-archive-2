@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 242600,
       "name": "905",
       "url": "https://open.spotify.com/track/1OUhfm8VXT7jvDPjH7P6Sx"
@@ -164,6 +164,24 @@
       "duration_ms": 200800,
       "name": "All This Music Must Fade",
       "url": "https://open.spotify.com/track/6Oi0qvf8bhPMdlmbfxBpYy"
+    },
+    {
+      "album": {
+        "name": "Tommy",
+        "url": "https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304208,
+      "name": "Amazing Journey",
+      "url": "https://open.spotify.com/track/79I2QsiBddxxjhWNU7EYNH"
     },
     {
       "album": {
@@ -1576,10 +1594,28 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 180943,
       "name": "Pinball Wizard",
       "url": "https://open.spotify.com/track/6LbbHFEajG9e4m0G3L47c4"
+    },
+    {
+      "album": {
+        "name": "Pinball Wizard (with Orchestra)",
+        "url": "https://open.spotify.com/album/3keAbaiDKuAuQKHWBRvZlt"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205298,
+      "name": "Pinball Wizard - with Orchestra",
+      "url": "https://open.spotify.com/track/6kn8q1Gzc1G2EBdpW9CnEE"
     },
     {
       "album": {

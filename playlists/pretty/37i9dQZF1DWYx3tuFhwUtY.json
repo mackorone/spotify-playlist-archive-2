@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 131749,
+  "num_followers": 131744,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Ma\u00e7ka Yollar\u0131",
-      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Paraphernalia",
         "url": "https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 263453,
       "name": "Paraphernalia",
       "url": "https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Ma\u00e7ka Yollar\u0131",
+      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+        "name": "TURNSTILE LOVE CONNECTION",
+        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
       },
       "artists": [
         {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "TURNSTILE LOVE CONNECTION",
-        "url": "https://open.spotify.com/album/4Dx7TI0kECk72u90341I25"
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/5rxUvOLdilsj2hxBeWSYsB"
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",

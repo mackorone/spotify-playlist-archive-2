@@ -1,6 +1,6 @@
 {
   "description": "sad songs 4 sad days.",
-  "num_followers": 1691085,
+  "num_followers": 1690890,
   "original_name": "canciones tristes que me recuerdan a ti",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-02-03 21:52:42",
       "album": {
-        "name": "Viernes 13 V (Me repito a diario)",
-        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 220235,
-      "name": "Viernes 13 V - Me repito a diario",
-      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
-    },
-    {
-      "added_at": "2026-02-03 21:52:42",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 107320,
       "name": "50/50",
       "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
+    },
+    {
+      "added_at": "2026-02-03 21:52:42",
+      "album": {
+        "name": "Viernes 13 V (Me repito a diario)",
+        "url": "https://open.spotify.com/album/3D6zUPk0w4Q1W8rdpMA4D6"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 220235,
+      "name": "Viernes 13 V - Me repito a diario",
+      "url": "https://open.spotify.com/track/1qD7smrCuA14ujnTCdkgBJ"
     },
     {
       "added_at": "2026-02-03 21:52:42",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-02-03 21:52:42",
       "album": {
-        "name": "mi momento",
-        "url": "https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo"
-      },
-      "artists": [
-        {
-          "name": "c\u00e9ro",
-          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
-        }
-      ],
-      "duration_ms": 130212,
-      "name": "mi momento",
-      "url": "https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o"
-    },
-    {
-      "added_at": "2026-02-03 21:52:42",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 202282,
       "name": "m\u00e1s y menos",
       "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+    },
+    {
+      "added_at": "2026-02-03 21:52:42",
+      "album": {
+        "name": "mi momento",
+        "url": "https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "duration_ms": 130212,
+      "name": "mi momento",
+      "url": "https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o"
     },
     {
       "added_at": "2026-02-03 21:52:42",

@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover:  Ayra Starr
 
-911 songs - 1 day 20 hr 23 min
+912 songs - 1 day 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 | 2023-07-14 | 2025-04-08 |
 | [Angel](https://open.spotify.com/track/48nJHYsJXzgukHvc7Hy7Sj) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Angel](https://open.spotify.com/album/5A7tIwdkNl4LsFjtYSPYcX) | 3:17 | 2022-01-21 | 2022-02-10 |
 | [Angelina](https://open.spotify.com/track/4HclkElcH5XYdWZNxeuIvn) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Angelina](https://open.spotify.com/album/792yssMtxw2ho4UZl23L4X) | 3:03 | 2025-04-11 |  |
+| [Anini \(Thief\)](https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Anini \(Thief\)](https://open.spotify.com/album/0bbfArdfhJsr0oL9qcMj82) | 3:09 | 2026-03-06 |  |
 | [Another Day](https://open.spotify.com/track/7cNbtgxY30NhUlygagOonu) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Synergy](https://open.spotify.com/album/0Gnu0tAKZ8BciRDgFP7pr0) | 2:33 | 2025-01-31 | 2025-02-14 |
 | [Another Me](https://open.spotify.com/track/69IVi92WUl9tN6Xw8UfGkR) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:12 | 2022-06-09 | 2022-07-01 |
 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 | 2021-10-14 | 2023-07-14 |
@@ -75,7 +76,7 @@
 | [Attention](https://open.spotify.com/track/1VxjsBmtDT2Vmhr6YpW9G2) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [In The Rough](https://open.spotify.com/album/7kUONXoXGQCZg93xSJph4x) | 2:45 | 2023-02-20 | 2023-09-15 |
 | [Authentic](https://open.spotify.com/track/29Z3FVYbkAkrP5fIPHQGfR) | [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Authentic](https://open.spotify.com/album/2VWuSbbTf2jV4TFaT8C8OX) | 2:10 | 2023-06-22 | 2023-09-29 |
 | [Away](https://open.spotify.com/track/47eAURQmsBK5e5cliaObFm) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/3drpxIB5lrsy5SOmVCoPwc) | 2:49 | 2021-10-14 | 2023-06-01 |
-| [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-20 |  |
+| [AWAY](https://open.spotify.com/track/20V2rAm15tqEvhhaqGLAM5) | [Mckay](https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71) | [AWAY](https://open.spotify.com/album/6JqjSZRSbjgILMHs4PbMLc) | 2:31 | 2026-02-20 | 2026-03-08 |
 | [AWAY](https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [AWAY](https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy) | 2:44 | 2021-10-14 | 2023-09-15 |
 | [Away](https://open.spotify.com/track/2USojCYNliZskHMDUV1bcC) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Pitch6lack](https://open.spotify.com/artist/2HJA55YaDvYLmD0fpdB2EP) | [The Men, The Boys and Your Guy](https://open.spotify.com/album/0CRWu3Xloj4XhAkXi3y6Sg) | 2:36 | 2025-09-26 | 2025-10-03 |
 | [B&B \(Booze & Bumbum\)](https://open.spotify.com/track/3eVFi4PkdBI2BGvSH1ASb8) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [B&B \(Booze & Bumbum\)](https://open.spotify.com/album/4cteGlPFGKp2JfAXxbulcl) | 3:01 | 2022-11-25 | 2022-12-19 |

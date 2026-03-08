@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-734 songs - 2 day 14 hr 17 min
+735 songs - 2 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Baba Modupe](https://open.spotify.com/track/5eHL0zrUKt5X0t2EBUVVi4) | [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Baba Modupe](https://open.spotify.com/album/3CN7WpsAVuE4CLmBRr90lj) | 3:05 | 2026-01-16 |  |
 | [Babylonia](https://open.spotify.com/track/6ctXUT5djvU3OE9AVxuab6) | [RACHL](https://open.spotify.com/artist/7GHCpCmmUgy7LRtIeo2uw3), [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Babylonia](https://open.spotify.com/album/6iHbMxKu2Doj3D1pOVFZdR) | 3:13 | 2025-05-16 | 2025-06-27 |
 | [Balogun \( the Army Commander \)](https://open.spotify.com/track/5vkJqTq7fFd2fchzQL4LuB) | [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Balogun \( the Army Commander \)](https://open.spotify.com/album/1N6f63MFhAL4jDdeSWivFw) | 9:55 | 2025-10-10 |  |
+| [Baruch Hashem Adonai \- Live](https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [THEOPHILUS SUNDAY](https://open.spotify.com/artist/4cPMN7Bzz4cSb3KilevhaB) | [Baruch Hashem Adonai \(Live\)](https://open.spotify.com/album/2VS8HyIhoys9tLoUG7Ati5) | 19:03 | 2026-03-06 |  |
 | [BBTNTL](https://open.spotify.com/track/2oJktKr5udS1gtY8egIBPx) | [Xammie](https://open.spotify.com/artist/6Zc3JsghzKESNYD9CfAvqG) | [BBTNTL](https://open.spotify.com/album/1zdAcSx1879EaMTUB6j317) | 2:49 | 2024-02-16 | 2024-04-27 |
 | [Beautiful Exchange](https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf) | [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [Beautiful Exchange](https://open.spotify.com/album/0owYEPLNrgzycM4sSeNBx2) | 4:22 | 2026-02-27 |  |
 | [Beautiful Thing](https://open.spotify.com/track/2cknVxUrW4KU6nvlqWcHaK) | [Wole Awolola](https://open.spotify.com/artist/12d2r8OZUkD46KXYvB1uez) | [Beautiful Thing](https://open.spotify.com/album/4PbdAXf6e5aecwIqEt21G1) | 5:20 | 2025-02-21 | 2025-03-07 |
@@ -160,7 +161,7 @@
 | [Dumije](https://open.spotify.com/track/0jYCGKF8WaWIAVgNDEC3Na) | [Joseph Briggs](https://open.spotify.com/artist/4hmU9sdAYXsmDp6EzmXyEP) | [Dumije](https://open.spotify.com/album/1qIrvb21SxtTlmpjYKmlvq) | 2:24 | 2026-02-27 |  |
 | [DUTSEN CETO](https://open.spotify.com/track/5xvWfzNAIzD1StFS1fSJOX) | [Amasah](https://open.spotify.com/artist/5DU8wR9tw3qrWX1GJuCju1), [Solomon Lange](https://open.spotify.com/artist/6uDsL3665JpJrYZUBih0HN) | [DUTSEN CETO](https://open.spotify.com/album/31EoDaDEuTHpKBxzZOgejd) | 4:29 | 2025-05-09 | 2025-06-13 |
 | [E Chowque](https://open.spotify.com/track/48ecJGfnBKDLF8oUd2h1mJ) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Logik Tha Pro](https://open.spotify.com/artist/6grOJlyvUhDYrgBKZMAa45) | [E Chowque](https://open.spotify.com/album/0LazgqYvydovjWD0caIImX) | 2:24 | 2025-07-04 | 2025-07-29 |
-| [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 | 2026-01-02 |  |
+| [E No Hard \- Live](https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ) | [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [E No Hard \(Live\)](https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx) | 8:34 | 2026-01-02 | 2026-03-08 |
 | [Eagles](https://open.spotify.com/track/0vANfTcrIRMIb0Zgt8cidA) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Eagles](https://open.spotify.com/album/2huKs1pju9CSInbq9WFAiW) | 2:26 | 2024-03-15 | 2024-04-19 |
 | [Ebenezer](https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Ebenezer](https://open.spotify.com/album/37iJDRDQcjPE0SMGKtNp5y) | 5:16 | 2025-08-08 |  |
 | [Ebenezer \(My Helper\)](https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Prayer](https://open.spotify.com/album/6olSiqJYx7DRvMyO8brUbO) | 5:46 | 2025-09-26 |  |
@@ -740,7 +741,7 @@
 | [You Never Leave](https://open.spotify.com/track/04ohrXlXa64ePcux7TyNM0) | [Laolu Adewumi](https://open.spotify.com/artist/4bLvRbw3aelMQlVPBnxFG7), [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [You Never Leave](https://open.spotify.com/album/4OZv2AKjptecJZI9G7tVzH) | 2:43 | 2025-05-30 | 2025-06-20 |
 | [Your love](https://open.spotify.com/track/6sQq98ykctwIpq79syEt5x) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Your Love](https://open.spotify.com/album/01Ji6zmR4gSEX5gbjZWvdh) | 3:53 | 2025-03-14 | 2025-06-27 |
 | [Your Way](https://open.spotify.com/track/2FuBk9kWI54pQIZuImlJo3) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [According To Brother Nwachukwu](https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY) | 2:45 | 2025-03-07 | 2025-05-09 |
-| [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December, 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 |  |
+| [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/track/1xGzQH5GXLuT35QiKdfGav) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Zion \(Live at Heartfelt Arena, December 2025\) \(feat\. Oncemore Six\)](https://open.spotify.com/album/30L6uy81pdUPvY1MT4GJic) | 8:58 | 2026-02-06 |  |
 | [ÒGO](https://open.spotify.com/track/3bYQ5UKUC5wcSR3aEyAd9P) | [Sola Allyson](https://open.spotify.com/artist/3NRO4pLQaU0eXYX5SwYtAY) | [ÒGO](https://open.spotify.com/album/0Kz4rKvHzi6bWBZskRCmKW) | 6:24 | 2025-05-09 | 2025-06-06 |
 
 \*This playlist was first scraped on 2023-10-19. Prior content cannot be recovered.

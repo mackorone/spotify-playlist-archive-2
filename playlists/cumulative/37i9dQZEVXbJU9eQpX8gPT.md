@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,931 songs - 4 day 9 hr 7 min
+1,932 songs - 4 day 9 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1116,7 +1116,7 @@
 | [MCHRDOUL](https://open.spotify.com/track/4PRj087uqj9SpKUSjQEcXn) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5), [Soukaina fahsi](https://open.spotify.com/artist/0UCqlloLt5fQJA3I8KKMme) | [MCHRDOUL](https://open.spotify.com/album/1id4zKfODioF2bmqYEP4mh) | 3:04 | 2021-12-11 | 2022-01-28 |
 | [MCHRDOUL](https://open.spotify.com/track/2DGvHWVrCNUtpjTKO4OCM6) | [Taoufik Ighzer](https://open.spotify.com/artist/4ci66nizDoA40yxKYGai5S) | [MCHRDOUL](https://open.spotify.com/album/4EkPLXQ8Uu9l42aoDjApBF) | 3:04 | 2021-11-27 | 2021-12-11 |
 | [Mchta w Gdem](https://open.spotify.com/track/585Ki2LdPG0kIDO39gkTLu) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [112](https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF) | 3:06 | 2024-11-15 | 2024-12-27 |
-| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-09-28 |  |
+| [Medical](https://open.spotify.com/track/0jA7YjPRVkCI3pHQXwiecN) | [salvh](https://open.spotify.com/artist/1bkYfYxCEkteuFFijyrRbT), [Kira7](https://open.spotify.com/artist/4Dx76KCxqLn2RB7fwtgW17) | [Medical](https://open.spotify.com/album/7718Pguh1bHXGkzMLDwIBA) | 3:44 | 2025-09-28 | 2026-03-08 |
 | [meet the grahams](https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [meet the grahams](https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0) | 6:32 | 2024-05-07 | 2024-05-12 |
 | [Megalomania](https://open.spotify.com/track/0XMV5uwx5WjZkqxrk87vJ3) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [Megalomania](https://open.spotify.com/album/4frrtbVbvsdzV7k5HsifNe) | 5:26 | 2021-03-27\* | 2021-06-11 |
 | [Melina](https://open.spotify.com/track/59HzCbmWvBNQrJ51eoeb0j) | [STOOR](https://open.spotify.com/artist/2wVLdXpXN7s8NvThzK2CFN), [lferda](https://open.spotify.com/artist/3V3d0V2Gj2UnVBhDxi9Rjg) | [Melina](https://open.spotify.com/album/69Zhxbvtd7WFxNRoor9MD9) | 3:21 | 2025-02-26 | 2026-03-05 |
@@ -1445,6 +1445,7 @@
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2024-01-27 |
 | [RALLY DAKAR](https://open.spotify.com/track/6RFjHcQlq5ielUHwYec9xS) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:25 | 2024-02-10 | 2024-03-10 |
 | [Ramadan \- English Version](https://open.spotify.com/track/3AztiK5cDOBwEgumRMTFic) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Singles & Duets](https://open.spotify.com/album/4U7712IFFZo2fqWFozK2rv) | 4:08 | 2025-03-03 | 2025-03-05 |
+| [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 | 2026-03-07 |  |
 | [RAPPEL](https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:37 | 2022-07-02 | 2022-07-05 |
 | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-05 | 2025-07-15 |
 | [RATA](https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7) | 3:30 | 2024-12-30 | 2025-01-27 |

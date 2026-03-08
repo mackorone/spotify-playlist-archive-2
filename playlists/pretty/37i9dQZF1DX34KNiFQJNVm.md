@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Raphaela Santos com LUDMILLA, Israel & Rodolffo, Harry Styles, MC Cabelinho com Tz da Coronel, Gilsons e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,264,088 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,264,067 likes - 69 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 4 | [Hoje Não \- Ao Vivo](https://open.spotify.com/track/7rrzNI9TrcK7HLc5mBHUJn) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Impulso, Vol 2 \(Ao Vivo\)](https://open.spotify.com/album/40Xc6SkClmEJasKW4hfXIp) | 2:35 |
 | 5 | [Não Namora \- Ao Vivo](https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx) | [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Não Namora \(Ao Vivo\)](https://open.spotify.com/album/5kruHqqKGLGBQzYE8zXKBA) | 2:15 |
 | 6 | [Presentinho](https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Gigant](https://open.spotify.com/artist/078qvuSjdEnKuq3i3FRo6O), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Presentinho](https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb) | 5:42 |
-| 7 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
+| 7 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
 | 8 | [Foi Virando Adeus \- Ao Vivo](https://open.spotify.com/track/7pCoeLuy1L6gbFg5GxpKwV) | [Kart Love](https://open.spotify.com/artist/7FHGKU22zhtwuitt18w8jN), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Foi Virando Adeus \(Ao Vivo\)](https://open.spotify.com/album/79FXFkvXmJmAn8kZVCp55G) | 3:09 |
 | 9 | [Igrejinha Azul](https://open.spotify.com/track/20DDncU0wF24lpqrFw8BZR) | [US Agroboy](https://open.spotify.com/artist/7gXnv2nAoF9X0XJQ3AMp7d), [Na Base do Agro](https://open.spotify.com/artist/6dBSnoW8EMfIdFC0K8ll9R) | [Lo\-Fi Sertanejo Bruto](https://open.spotify.com/album/62O23XcjRzu7sWWGQdesXM) | 2:14 |
 | 10 | [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 |

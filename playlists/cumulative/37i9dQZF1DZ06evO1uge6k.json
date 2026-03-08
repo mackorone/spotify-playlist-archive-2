@@ -1996,10 +1996,28 @@
       ],
       "date_added": "2026-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 179333,
       "name": "Sharp Dressed Man",
       "url": "https://open.spotify.com/track/15mLZ2fY0LoJyjWs1wrtgs"
+    },
+    {
+      "album": {
+        "name": "The Very Baddest of ZZ Top",
+        "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179333,
+      "name": "Sharp Dressed Man",
+      "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
     },
     {
       "album": {

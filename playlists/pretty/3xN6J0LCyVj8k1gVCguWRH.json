@@ -1,12 +1,12 @@
 {
   "description": "Summer has a way of slowing us down and bringing us together. This playlist is a mix of new favorites and familiar sounds \u2014 songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.",
-  "num_followers": 132042,
+  "num_followers": 132037,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA4fxPtEr70Nd4SW3T9RApSO2chRC0V",
+  "snapshot_id": "AAA4hGtpDE8lsBDN4rvf3lwJIIlbOX5N",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -395,6 +395,26 @@
       "duration_ms": 172959,
       "name": "Last Round",
       "url": "https://open.spotify.com/track/6shAWZ1Syi2Q7BSAYY77FU"
+    },
+    {
+      "added_at": "2026-03-07 16:24:03",
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/1YGKCRId9miMhNJdeuZfYi"
+      },
+      "artists": [
+        {
+          "name": "Sarife",
+          "url": "https://open.spotify.com/artist/7dxviwWacvevEgy3sLjg4f"
+        },
+        {
+          "name": "Jo\u00e9l Dav\u00edd",
+          "url": "https://open.spotify.com/artist/2VIhuQHWV8VY8rJQZCuVJ5"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0UREytiAyD0YqW8lzKIvbp"
     },
     {
       "added_at": "2026-02-20 14:19:43",
@@ -3247,38 +3267,6 @@
       "duration_ms": 145663,
       "name": "Shoda",
       "url": "https://open.spotify.com/track/6nDHxfwEO0qVg5srYdsjuY"
-    },
-    {
-      "added_at": "2026-02-24 23:18:14",
-      "album": {
-        "name": "BLACKSHEEP",
-        "url": "https://open.spotify.com/album/4UlMSDBe7dOX1uC1FKibG6"
-      },
-      "artists": [
-        {
-          "name": "RICHARD MOROSE",
-          "url": "https://open.spotify.com/artist/1mBA3qB0gWttEDgV2u8FKK"
-        }
-      ],
-      "duration_ms": 138295,
-      "name": "BLACKSHEEP",
-      "url": "https://open.spotify.com/track/5USJ6dYt7G0LJLb6IEnoSw"
-    },
-    {
-      "added_at": "2026-02-24 23:18:55",
-      "album": {
-        "name": "Talk To Johnny",
-        "url": "https://open.spotify.com/album/2tDKMJJsVZ0dhZh2AcFnFZ"
-      },
-      "artists": [
-        {
-          "name": "Noah James",
-          "url": "https://open.spotify.com/artist/3AEyWNe4qhvSdT3ggMPdHq"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Talk To Johnny",
-      "url": "https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

@@ -1,6 +1,6 @@
 {
   "description": "Stank face activated. Cover: Andrea Botez",
-  "num_followers": 269481,
+  "num_followers": 269506,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "I Don't Trust A Soul",
+        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 146059,
+      "name": "I Don't Trust A Soul",
+      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/4xQKZ1vTOvkaPJWaA0AFEg"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "I Don't Trust A Soul",
-        "url": "https://open.spotify.com/album/1K34ZHVTpDsWUvvHjwfBQP"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 146059,
-      "name": "I Don't Trust A Soul",
-      "url": "https://open.spotify.com/track/6XIh9BtczdxO7HRQwrIPti"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1027,26 +1027,38 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "TYPE SH*T",
-        "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
+        "name": "stranger",
+        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
         }
       ],
-      "duration_ms": 212870,
-      "name": "TYPE SH*T",
-      "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
+      "duration_ms": 148943,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "NO CAP",
+        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 233734,
+      "name": "NO CAP",
+      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1075,38 +1087,26 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "NO CAP",
-        "url": "https://open.spotify.com/album/66zqMmj1KlxxgUhWJJyLqe"
+        "name": "TYPE SH*T",
+        "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 233734,
-      "name": "NO CAP",
-      "url": "https://open.spotify.com/track/6zaeVCwnf3A9S8R7QfDHQW"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "stranger",
-        "url": "https://open.spotify.com/album/6GjQcXNt5XqbnpaWOF9I5S"
-      },
-      "artists": [
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
         }
       ],
-      "duration_ms": 148943,
-      "name": "stranger",
-      "url": "https://open.spotify.com/track/4tBlbT0gn97P6wJ9ZhZruK"
+      "duration_ms": 212870,
+      "name": "TYPE SH*T",
+      "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "4 Ya Mind",
+        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        },
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 205546,
+      "name": "4 Ya Mind",
+      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Campe\u00f3n",
         "url": "https://open.spotify.com/album/5O3GNoKOWUnyvUQoGSceKy"
       },
@@ -1207,6 +1227,22 @@
       "duration_ms": 173777,
       "name": "Campe\u00f3n",
       "url": "https://open.spotify.com/track/5TpWybXTsLTUAj4WcUYkP0"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "FUCK THE SPEAKERZ UP",
+        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FUCK THE SPEAKERZ UP",
+      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1231,42 +1267,6 @@
       "duration_ms": 169098,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4P5CWKmgT5kYZ3GRSm7Cb4"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "FUCK THE SPEAKERZ UP",
-        "url": "https://open.spotify.com/album/7a7eYrzNW0rYcWKTc7AW4j"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FUCK THE SPEAKERZ UP",
-      "url": "https://open.spotify.com/track/26ax7KOixD6ahLq4mz8TuV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "4 Ya Mind",
-        "url": "https://open.spotify.com/album/0xmHvWsIECBDM5ltH51C2f"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        },
-        {
-          "name": "Discip",
-          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
-        }
-      ],
-      "duration_ms": 205546,
-      "name": "4 Ya Mind",
-      "url": "https://open.spotify.com/track/6cJwVvwYpMg8PlQpJY5RwS"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "Bang That",
+        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
+      },
+      "artists": [
+        {
+          "name": "Dansyn",
+          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
+        }
+      ],
+      "duration_ms": 170898,
+      "name": "Bang That",
+      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Bandit (Club Mix)",
         "url": "https://open.spotify.com/album/1edPdWHVtyAiaihO0UvDWS"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 168000,
       "name": "Bandit - Club Mix",
       "url": "https://open.spotify.com/track/6ovzIhWfOcUwYRlobZvJ06"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "Bang That",
-        "url": "https://open.spotify.com/album/73s8sslEkwHlhjshOg3RbI"
-      },
-      "artists": [
-        {
-          "name": "Dansyn",
-          "url": "https://open.spotify.com/artist/1VnFvf8K01AoqryDdQzitv"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Bang That",
-      "url": "https://open.spotify.com/track/1ZLOK7hel7evmw4zrDC3Gs"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
+      },
+      "artists": [
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "duration_ms": 179876,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Want It",
         "url": "https://open.spotify.com/album/699M6LAUSZzByTkzsrUVqJ"
       },
@@ -2031,6 +2047,26 @@
       "duration_ms": 224727,
       "name": "Want It",
       "url": "https://open.spotify.com/track/2LM4iwg5H429UfCe7Gu6HA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
+        "name": "Dominator",
+        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
+      },
+      "artists": [
+        {
+          "name": "RL Grime",
+          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+        },
+        {
+          "name": "Deadcrow",
+          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
+        }
+      ],
+      "duration_ms": 173616,
+      "name": "Dominator",
+      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2067,42 +2103,6 @@
       "duration_ms": 176250,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/52LWiiRlohdA6DQ0PvIwgX"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "Dominator",
-        "url": "https://open.spotify.com/album/1eiskSKjqbbok3hyM9j5hT"
-      },
-      "artists": [
-        {
-          "name": "RL Grime",
-          "url": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
-        },
-        {
-          "name": "Deadcrow",
-          "url": "https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE"
-        }
-      ],
-      "duration_ms": 173616,
-      "name": "Dominator",
-      "url": "https://open.spotify.com/track/6C9beIn45G34tT8pQ61ed7"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/7IHP1dS0qdQ5U65GtvLA8K"
-      },
-      "artists": [
-        {
-          "name": "ALRT",
-          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
-        }
-      ],
-      "duration_ms": 179876,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2247,6 +2247,22 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
+        "name": "Ready Fi Dem",
+        "url": "https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL"
+      },
+      "artists": [
+        {
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        }
+      ],
+      "duration_ms": 156444,
+      "name": "Ready Fi Dem",
+      "url": "https://open.spotify.com/track/6QPJimu9kcsFB135uTtQxY"
+    },
+    {
+      "added_at": "2026-03-06 05:00:20",
+      "album": {
         "name": "Cream On Peaches",
         "url": "https://open.spotify.com/album/5ykRgIC5UpO42Tzz2sFr4a"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 173492,
       "name": "Cream On Peaches",
       "url": "https://open.spotify.com/track/49TUY6lNEfaZaTgrzSfXfO"
-    },
-    {
-      "added_at": "2026-03-06 05:00:20",
-      "album": {
-        "name": "Ready Fi Dem",
-        "url": "https://open.spotify.com/album/0Bc88Ams6CRC4864sN6JLL"
-      },
-      "artists": [
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Ready Fi Dem",
-      "url": "https://open.spotify.com/track/6QPJimu9kcsFB135uTtQxY"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2415,22 +2415,18 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "harry osborn",
-        "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
+        "name": "Free Ya",
+        "url": "https://open.spotify.com/album/0Q8ViWDUJgyEPbYiIbQq7S"
       },
       "artists": [
         {
-          "name": "jamvvis",
-          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
-        },
-        {
-          "name": "Shanic",
-          "url": "https://open.spotify.com/artist/4iwYvUGOkgKYbCF0rcmJay"
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
         }
       ],
-      "duration_ms": 191724,
-      "name": "bad hackers",
-      "url": "https://open.spotify.com/track/3g7aCFjSLwEIDwPrCd1vMs"
+      "duration_ms": 187669,
+      "name": "Free Ya",
+      "url": "https://open.spotify.com/track/4wrFwrWLiTB51uBTTAEmXY"
     },
     {
       "added_at": "2026-03-06 05:00:20",
@@ -2451,18 +2447,22 @@
     {
       "added_at": "2026-03-06 05:00:20",
       "album": {
-        "name": "Free Ya",
-        "url": "https://open.spotify.com/album/0Q8ViWDUJgyEPbYiIbQq7S"
+        "name": "harry osborn",
+        "url": "https://open.spotify.com/album/3ZLwhiFAxTMFWq6ExlrpJU"
       },
       "artists": [
         {
-          "name": "AK RENNY",
-          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+          "name": "jamvvis",
+          "url": "https://open.spotify.com/artist/52FnK9izQFuAZi3qURGbqF"
+        },
+        {
+          "name": "Shanic",
+          "url": "https://open.spotify.com/artist/4iwYvUGOkgKYbCF0rcmJay"
         }
       ],
-      "duration_ms": 187669,
-      "name": "Free Ya",
-      "url": "https://open.spotify.com/track/4wrFwrWLiTB51uBTTAEmXY"
+      "duration_ms": 191724,
+      "name": "bad hackers",
+      "url": "https://open.spotify.com/track/3g7aCFjSLwEIDwPrCd1vMs"
     },
     {
       "added_at": "2026-03-06 05:00:20",

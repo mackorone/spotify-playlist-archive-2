@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,598 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,588 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 36 | [Do They Know It's Christmas](https://open.spotify.com/track/3BQXFIUb8nJmY9xGqz4iId) | [Little Smokey](https://open.spotify.com/artist/5dsmlVS4HsQ44fEGCmARw4) | [Cozy Little Christmas](https://open.spotify.com/album/4ZRFYQV3j28iB41F6IHVmp) | 2:23 |
 | 37 | [Christmas Eve](https://open.spotify.com/track/5oSd5Ri6AYoeh52kcOsE7I) | [Hype Right](https://open.spotify.com/artist/5WyDwnrZMIyg4iDWrZuva4) | [It's Christmas Lofi Beats](https://open.spotify.com/album/0NKh4PhgA3OFX078fBGGmX) | 2:36 |
 | 38 | [winter wonderland](https://open.spotify.com/track/3Xo8cKrayKwxlJ1F1hRvOQ) | [le gronk](https://open.spotify.com/artist/1HHbmSXj8pZ2oTGOXa3I0y) | [winter wonderland](https://open.spotify.com/album/63nmxHaeTmjlL2zNYBThJd) | 1:56 |
-| 39 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
-| 40 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
+| 39 | [Sleepy Christmas](https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB) | [Utah Noir](https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR) | [Lofi Christmas](https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT) | 2:29 |
+| 40 | [Joyeux Noël Mes Amis](https://open.spotify.com/track/496qR8QAdvGMokE5g06cu6) | [Astairé](https://open.spotify.com/artist/2DWDXgHWqbRV6oQKFTlcvc) | [Joyeux Noël Mes Amis](https://open.spotify.com/album/0pUlrSrq6gcPR6tCZGApMN) | 2:38 |
 | 41 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 |
 | 42 | [Ice Skating](https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:06 |
 | 43 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 80 | [Driving Home For Christmas](https://open.spotify.com/track/2P1YLhhyZ4GJaQn7kKDPk1) | [haywrd](https://open.spotify.com/artist/4jiNvORz8mylbBeFZqVGVT) | [Driving Home For Christmas](https://open.spotify.com/album/4gILcAQcb1HG8UNBizfq10) | 3:02 |
 | 81 | [Cookies for Santa](https://open.spotify.com/track/4VtNNYImMN4qF4WR9mdLNC) | [tonierki](https://open.spotify.com/artist/3Qx6Bz5YA5r33ZYefoU0bY) | [Cookies for Santa](https://open.spotify.com/album/36WDS6B36bGKInhdD6z6d2) | 2:01 |
 | 82 | [Christmas Spirit](https://open.spotify.com/track/3CWzCf39VToje9o25vkgHa) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Christmas Spirit](https://open.spotify.com/album/3cdeD771YYv0uguNzMCVxz) | 2:35 |
-| 83 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
-| 84 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
+| 83 | [Frosty the Snowman](https://open.spotify.com/track/1X9UR1fhvcAFDIpZPlJqxH) | [Ginobu](https://open.spotify.com/artist/6f47lU5rm4LSTUVvpl9Fc6) | [Frosty the Snowman](https://open.spotify.com/album/0JrWSrhT5EgEQUWD5jxOXj) | 2:47 |
+| 84 | [Winter Wonderland](https://open.spotify.com/track/2m0mke4rDttth2TLDNsa24) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Winter Wonderland](https://open.spotify.com/album/3XTrkZArR9Qmg8RWTlAcOe) | 2:25 |
 | 85 | [O holy night](https://open.spotify.com/track/1Iub3TbupI5hH7fduTVjVO) | [muni.](https://open.spotify.com/artist/0rCtkH6uwwmKN8XotEwo5u) | [O holy night](https://open.spotify.com/album/0hu4PmlNHihz3OENWgTLM5) | 2:27 |
 | 86 | [Feliz Navidad](https://open.spotify.com/track/3AKZXmdLhHTdCj6SoHfqB1) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [Feliz Navidad](https://open.spotify.com/album/2Ph3ugY0LJ4sxNxGdRj6Wv) | 2:45 |
 | 87 | [christmas in prague](https://open.spotify.com/track/5cLlTS6OxiD2NoobLw4ycI) | [mutedvibes](https://open.spotify.com/artist/0omMgzzP2N76C6AOyXup1K) | [christmas in prague](https://open.spotify.com/album/4ZczbP017oKAexAR4jMQaS) | 2:30 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 91 | [Blanca Navidad](https://open.spotify.com/track/559cbvnNsfuT55dLmPDFSF) | [Moon Portal](https://open.spotify.com/artist/5LfDgl8lMSLTkDdPxR2Eeo) | [Blanca Navidad](https://open.spotify.com/album/00v4fmoJekO4cfz7PxfOgu) | 2:56 |
 | 92 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
 | 93 | [Let it Snow](https://open.spotify.com/track/7H9dIO8amBy9ZipeovDK5C) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [Let it Snow](https://open.spotify.com/album/57NjLRggkOYTDTz7HGW3I9) | 2:14 |
-| 94 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |
-| 95 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
+| 94 | [Jazz Christmas](https://open.spotify.com/track/2uQqLMwJdzjUm6bfrQSt56) | [Grakch](https://open.spotify.com/artist/0WF4RZFPpsA3ALDjF8qFFw) | [Jazz Christmas](https://open.spotify.com/album/35w5gduX4ljSm2fbKA2g7B) | 1:53 |
+| 95 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |
 | 96 | [Portal De Belen](https://open.spotify.com/track/2BeiJVc1bT0Tox1CXDRLn3) | [Antiguos Hop](https://open.spotify.com/artist/6FmavXbmV5c0c7cg1vgjjZ) | [Portal De Belen](https://open.spotify.com/album/7ojC4Ip648NdAe046Exggh) | 2:41 |
 | 97 | [JOY](https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C) | [Max Mix](https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka) | [JOY](https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg) | 3:09 |
 | 98 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/1f11nQsAdOzegXAK2fX1cq) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |

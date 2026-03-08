@@ -4,19 +4,21 @@
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-32 songs - 1 hr 55 min
+34 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adventures Close to Home](https://open.spotify.com/track/1KAbkJk4wblIcS4zTNJox0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 1:53 | 2026-03-07 |  |
+| [And Then It's OK](https://open.spotify.com/track/35aBZUn6gHTfa2NFaYf2Nd) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 3:10 | 2026-03-08 |  |
 | [Baby Song](https://open.spotify.com/track/1nO1t1Bxxp26eyU5yhSUgu) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:00 | 2026-03-07 |  |
 | [Balloon](https://open.spotify.com/track/2IHAoSawKMALzFRU6yRH8o) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 4:34 | 2026-03-07 |  |
 | [Balloonacy](https://open.spotify.com/track/1ouNCaEmKfphN0PVubmLIq) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 4:19 | 2026-03-07 |  |
+| [Black and White](https://open.spotify.com/track/77EIe4Q2YYU3JPhIMBcCDl) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 2:29 | 2026-03-08 |  |
 | [Dance of Hopping Mad](https://open.spotify.com/track/2NJJ2XkVaWVFoVJLRVye32) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 5:29 | 2026-03-07 |  |
 | [Dancing in My Head](https://open.spotify.com/track/0hBv9EMmGNoFIpD2orvxI7) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 5:30 | 2026-03-07 |  |
 | [Don't Be Mean](https://open.spotify.com/track/7FSyTooCR7KrWXemEoTJWW) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 4:04 | 2026-03-07 |  |
 | [Fairytale in the Supermarket](https://open.spotify.com/track/5oXm58OdnsRPy2wyz3ES5u) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:00 | 2026-03-07 |  |
-| [Family Treet](https://open.spotify.com/track/5qhrTs1kFkJSBK9c6EJaoQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 4:13 | 2026-03-07 |  |
+| [Family Treet](https://open.spotify.com/track/5qhrTs1kFkJSBK9c6EJaoQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 4:13 | 2026-03-07 | 2026-03-08 |
 | [Forgotten Words](https://open.spotify.com/track/4xkv53vFS5SInaHXW9E81H) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:36 | 2026-03-07 |  |
 | [Honey Mad Woman](https://open.spotify.com/track/5JSqmqWnQ0ZYpj6L6rWHm5) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:05 | 2026-03-07 |  |
 | [Lola](https://open.spotify.com/track/17GMg1ZyQJtm3HkXQFZ31f) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 4:03 | 2026-03-07 |  |
@@ -36,7 +38,7 @@
 | [Running Away](https://open.spotify.com/track/5HNwgMrDzIxKepdVz34TwY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Moving](https://open.spotify.com/album/1ZD5kza99C1CtH5neRwnmS) | 2:49 | 2026-03-07 |  |
 | [Shouting Out Loud](https://open.spotify.com/track/1eVXXExM6RDIC4PjLEBpa8) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Odyshape](https://open.spotify.com/album/1inTVdcCSIjJS9blv9zogk) | 4:59 | 2026-03-07 |  |
 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 | 2026-03-07 |  |
-| [The Void](https://open.spotify.com/track/007mKIn7XPKaX4XtBDSOSP) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:51 | 2026-03-07 |  |
+| [The Void](https://open.spotify.com/track/007mKIn7XPKaX4XtBDSOSP) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:51 | 2026-03-07 | 2026-03-08 |
 | [Truth is Hard](https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 2:57 | 2026-03-07 |  |
 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 | 2026-03-07 |  |
 | [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 112665,
+  "num_followers": 112672,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAACQ/r+BXJZ95IZadL6voyig",
+  "snapshot_id": "aaoZAAAAAAAuJfGglQDZTFiT1QlfLKOw",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 410773,
-      "name": "Darker Still",
-      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
+      "duration_ms": 211996,
+      "name": "Soul Bleach",
+      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211996,
-      "name": "Soul Bleach",
-      "url": "https://open.spotify.com/track/3kRGiGpjCFS7CtEBSfHNH0"
+      "duration_ms": 410773,
+      "name": "Darker Still",
+      "url": "https://open.spotify.com/track/37O5phPvMfJZBIscgXlw4a"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
+        "name": "Atlas",
+        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 317907,
-      "name": "Romance Is Dead",
-      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
+      "duration_ms": 245400,
+      "name": "Dark Days",
+      "url": "https://open.spotify.com/track/18Hju2cdvKh07eBmE4Sug5"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atlas",
-        "url": "https://open.spotify.com/album/0bdtf7LHukCZbCyKMYdHXP"
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Dark Days",
-      "url": "https://open.spotify.com/track/18Hju2cdvKh07eBmE4Sug5"
+      "duration_ms": 317907,
+      "name": "Romance Is Dead",
+      "url": "https://open.spotify.com/track/6Q9XnZPl7qbvvYV3UBz6bP"
     },
     {
       "added_at": null,

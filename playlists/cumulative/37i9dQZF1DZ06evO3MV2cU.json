@@ -1379,6 +1379,36 @@
     },
     {
       "album": {
+        "name": "My Father's World",
+        "url": "https://open.spotify.com/album/01Lsj0ET0hlZT93JdIr4Tm"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        },
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        },
+        {
+          "name": "George Mhondera",
+          "url": "https://open.spotify.com/artist/3HAbkCVLTi0WzyGezD5ebc"
+        },
+        {
+          "name": "Casey Moore",
+          "url": "https://open.spotify.com/artist/7KQhLvu2JVY9WcdU66JwxD"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398773,
+      "name": "My Father's World - Live",
+      "url": "https://open.spotify.com/track/3eJHRvWYuyfdSL06A3dA58"
+    },
+    {
+      "album": {
         "name": "No Greater Love (As Featured in the Film \"The Last Supper\")",
         "url": "https://open.spotify.com/album/2x1WPk4KeLGQa4AKpL6rUJ"
       },
@@ -1970,7 +2000,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 306013,
       "name": "Yes And Amen",
       "url": "https://open.spotify.com/track/6xYHIXSrucTcC9AXoTBEoB"

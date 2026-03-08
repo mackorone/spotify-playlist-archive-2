@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: GENA",
-  "num_followers": 1015035,
+  "num_followers": 1015009,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1453,38 +1453,6 @@
       "url": "https://open.spotify.com/track/5YdRkQBGqufdSK1pRLZ5Tm"
     },
     {
-      "added_at": "2025-01-24 09:08:15",
-      "album": {
-        "name": "Jeans (fall on my knees)",
-        "url": "https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 178479,
-      "name": "Jeans (fall on my knees)",
-      "url": "https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g"
-    },
-    {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "Just Can't Wait",
-        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 382508,
-      "name": "Just Can't Wait",
-      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
-    },
-    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Beautiful Pain",
@@ -1503,6 +1471,38 @@
       "duration_ms": 311038,
       "name": "Bedroom Bully",
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
+    },
+    {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "Just Can't Wait",
+        "url": "https://open.spotify.com/album/5PCF0cVC5RFFW8pgn1HZah"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 382508,
+      "name": "Just Can't Wait",
+      "url": "https://open.spotify.com/track/3aWWdmdsBva7kiOnacL4tf"
+    },
+    {
+      "added_at": "2025-01-24 09:08:15",
+      "album": {
+        "name": "Jeans (fall on my knees)",
+        "url": "https://open.spotify.com/album/56wlH7RJiq4cy2HiVVz16g"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 178479,
+      "name": "Jeans (fall on my knees)",
+      "url": "https://open.spotify.com/track/4HQRpId1zdfYT9GaZyd58g"
     },
     {
       "added_at": "2025-03-07 06:27:51",

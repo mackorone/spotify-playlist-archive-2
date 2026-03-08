@@ -4,7 +4,7 @@
 
 > This is Little Walter\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 32 min
+92 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Blue Midnight \- Alternate Take](https://open.spotify.com/track/6qpWYefGy5ziiGVKxvoNQu) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:02 | 2024-09-26 | 2025-04-13 |
 | [Blues With A Feeling](https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:07 | 2022-08-07 |  |
 | [Bo Diddley](https://open.spotify.com/track/3rg2bVskW2yFWkQoPVYMsa) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:31 | 2022-08-06 | 2022-08-22 |
-| [Boom, Boom Out Goes The Light](https://open.spotify.com/track/2h3bo2yMQ3EgZWCez9Fm4x) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 | 2022-08-11 | 2022-12-02 |
+| [Boom, Boom Out Goes The Light](https://open.spotify.com/track/2h3bo2yMQ3EgZWCez9Fm4x) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:51 | 2022-08-11 |  |
 | [Break It Up](https://open.spotify.com/track/7kuY0UAhw01QeAVqktlQPF) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:27 | 2022-08-23 | 2024-07-10 |
 | [Can't Hold Out Much Longer \- Alternate Take](https://open.spotify.com/track/65bVvI81AMpqEzdLZj3ovs) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:01 | 2022-08-05 | 2022-10-06 |
 | [Come Back Baby](https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 3:05 | 2022-08-06 |  |
@@ -77,7 +77,8 @@
 | [Rock Bottom](https://open.spotify.com/track/5W6QOzg8jRB7L4518phKBP) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:31 | 2023-12-14 | 2024-07-21 |
 | [Rocker](https://open.spotify.com/track/7C8g8w2ZQIGXzxqB2urzX1) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Confessin' The Blues](https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL) | 3:05 | 2022-08-05 |  |
 | [Roller Coaster](https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:53 | 2022-08-07 |  |
-| [Sad Hours](https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:12 | 2022-08-06 |  |
+| [Sad Hours](https://open.spotify.com/track/70fflEHvue5Zp5pzTkk3tw) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Best Of Little Walter](https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx) | 3:11 | 2026-03-08 |  |
+| [Sad Hours](https://open.spotify.com/track/2H1TMxIvORol1QFBwOQh1E) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 3:12 | 2022-08-06 | 2026-03-08 |
 | [Shake Dancer](https://open.spotify.com/track/6Lsl9B1z3Sq02pK3usoOmq) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Blues With A Feelin'](https://open.spotify.com/album/0cdK9KbYmjGnFYcAElHkdg) | 2:45 | 2022-08-06 | 2024-07-21 |
 | [Take Me Back \- Single Version](https://open.spotify.com/track/6QHnR9PT8OUTWovDrcPMLA) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 3:04 | 2022-10-10 | 2024-05-26 |
 | [Teenage Beat](https://open.spotify.com/track/5gKVjyfO3xGZcozwf7KH1g) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Complete Chess Masters \(1950 \- 1967\)](https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr) | 3:00 | 2025-11-17 |  |

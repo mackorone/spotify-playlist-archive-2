@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: The Brudi Brothers",
-  "num_followers": 445317,
+  "num_followers": 445292,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185421,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Pink Strat",
         "url": "https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 155240,
       "name": "Whole Wide World",
       "url": "https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185421,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/154t1fkfSU7zyJojSN6gvR"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Harvest",
-      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Vignettes",
         "url": "https://open.spotify.com/album/3QzGPQofSaqMNWqk7BqmAJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 255675,
       "name": "If It Makes You Happy",
       "url": "https://open.spotify.com/track/4GQ9PStMvCHmF13SLz1zki"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/44w53chsw9RSUKkKeN3aw7"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/7GSqPshxQCT92AV7ROD9VE"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 213726,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/3yNz1rdmZNGufkecBusKgs"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 213726,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/1GihL7MaWGtvJN5uuWzybj"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "I Will Follow You Into The Dark",
+        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 224692,
+      "name": "I Will Follow You Into The Dark",
+      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "I Will Follow You Into The Dark",
-        "url": "https://open.spotify.com/album/3oa1lLhRWZ390b2CeoXndA"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224692,
-      "name": "I Will Follow You Into The Dark",
-      "url": "https://open.spotify.com/track/3Jmc6qadrwk3pg30iQPs5j"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 267602,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "These Days (with James Bay)",
         "url": "https://open.spotify.com/album/5hMk0B7plmqHwVsWgSRyMQ"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4E6AdW52gcw1Lj7P77b3pY"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
       },
       "artists": [
         {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
         }
       ],
-      "duration_ms": 267602,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/1InkpT1DTMlYcCEV2HU0L1"
+      "duration_ms": 201851,
+      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1311,22 +1327,6 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 201851,
-      "name": "One More Cup of Coffee - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "True Love Will Find You In The End",
-        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
-      },
-      "artists": [
-        {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "True Love Will Find You In The End",
-      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Little Hands",
         "url": "https://open.spotify.com/album/3keUEamiz3xcpc9CrmDWAv"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "True Love Will Find You In The End",
+        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "True Love Will Find You In The End",
+      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
         "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
       },
@@ -1691,22 +1707,6 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
-      },
-      "artists": [
-        {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
-        }
-      ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "everything i wanted",
-        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "everything i wanted",
-      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/1nETVDmxFwKb4EFiiDD4jV"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 282715,
       "name": "In Your Eyes",
       "url": "https://open.spotify.com/track/2Zc0lXc8psW1wzLWVVCQdN"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "everything i wanted",
+        "url": "https://open.spotify.com/album/6RrC9O5QDOnKRYoH6ANYZB"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "everything i wanted",
+      "url": "https://open.spotify.com/track/0Uc5kxNJyLYWldaSbZD8EX"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Turn! Turn! Turn!",
-        "url": "https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC"
-      },
-      "artists": [
-        {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
-        }
-      ],
-      "duration_ms": 177025,
-      "name": "Turn! Turn! Turn!",
-      "url": "https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "Love Will Tear Us Apart",
         "url": "https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 168968,
       "name": "Love Will Tear Us Apart",
       "url": "https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Turn! Turn! Turn!",
+        "url": "https://open.spotify.com/album/1txZgoOwuTev3fr2tyISmC"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 177025,
+      "name": "Turn! Turn! Turn!",
+      "url": "https://open.spotify.com/track/4o0FifCtMZSnY8nwkbS5yp"
     },
     {
       "added_at": "2026-01-23 15:42:24",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2026-01-23 15:42:24",
       "album": {
-        "name": "Minnesota Beatle Project, Vol. 5",
-        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 145546,
-      "name": "This Boy",
-      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
-    },
-    {
-      "added_at": "2026-01-23 15:42:24",
-      "album": {
         "name": "God Only Knows",
         "url": "https://open.spotify.com/album/0OtdpjoYF1GkrDHI0tasR0"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 194251,
       "name": "God Only Knows",
       "url": "https://open.spotify.com/track/2p5BCQgKl8w7SWRUY3H1w8"
+    },
+    {
+      "added_at": "2026-01-23 15:42:24",
+      "album": {
+        "name": "Minnesota Beatle Project, Vol. 5",
+        "url": "https://open.spotify.com/album/2nMvFsZ2L6Svr8tOMg4XiC"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 145546,
+      "name": "This Boy",
+      "url": "https://open.spotify.com/track/5qeCOqTsPfj0TzLt9JMelA"
     },
     {
       "added_at": "2026-01-23 15:42:24",

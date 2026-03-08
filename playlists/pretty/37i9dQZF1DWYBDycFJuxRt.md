@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: 嵐 \*👉 <a href="https://spice.eplus.jp/articles/344477">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,553 likes - 82 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,550 likes - 82 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 77 | [PIGMONZ](https://open.spotify.com/track/3r81bTGZrIKKs0n3jDp0vY) | [PIGMONZ](https://open.spotify.com/artist/4CYC30F3AjPCohTfa4m2xL) | [PIGMONZ](https://open.spotify.com/album/5QcUKw8P8RNZyI5EFLCdkn) | 2:51 |
 | 78 | [鱗粉](https://open.spotify.com/track/3G8nPLkZY7OGxpj2NfDXml) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [DECADANCE](https://open.spotify.com/album/6todx7F969bnQ4hcovVOux) | 2:52 |
 | 79 | [Circus](https://open.spotify.com/track/1Tpok3AxspUX0SQSfXlTJJ) | [kiyu](https://open.spotify.com/artist/3aEOW8dsrbkcL3iA3w1tXu) | [Circus](https://open.spotify.com/album/0uuaQ0gvfH6upldgDhkbvF) | 2:22 |
-| 80 | [Negative Punch](https://open.spotify.com/track/2vc6NlJwwC1ad5ZntSiPiI) | [killwiz](https://open.spotify.com/artist/6dwyEY124EiyhBFNA9Y12W), [Ru\-a](https://open.spotify.com/artist/4JUJ6KAFVeIgizFAuEvySu), [Bukkoro Momoka](https://open.spotify.com/artist/0V5f1JZwTCjQ4cPW3lhhKA) | [Negative Punch](https://open.spotify.com/album/3r6QCkLiqv68bnx7stKG1Z) | 3:42 |
+| 80 | [Negative Punch](https://open.spotify.com/track/2vc6NlJwwC1ad5ZntSiPiI) | [killwiz](https://open.spotify.com/artist/6dwyEY124EiyhBFNA9Y12W), [Яu\-a](https://open.spotify.com/artist/79dFfRIECY1rmHs24fHbnb), [Bukkoro Momoka](https://open.spotify.com/artist/0V5f1JZwTCjQ4cPW3lhhKA) | [Negative Punch](https://open.spotify.com/album/3r6QCkLiqv68bnx7stKG1Z) | 3:42 |
 | 81 | [MAKUAKE](https://open.spotify.com/track/085sKxEMCiJAhVrFmOT9Zs) | [Shamis](https://open.spotify.com/artist/41Zk2jNnZkxEMZKtxUqHUu) | [MAKUAKE](https://open.spotify.com/album/2K404xen9t1CfbMR1v4QK0) | 3:04 |
 | 82 | [Ain't No Love](https://open.spotify.com/track/6UgaFYmyZht8TrdeLiBF8r) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2), [Nosh](https://open.spotify.com/artist/6fjyAMQcYpVJje2zWlYH5q) | [Ain't No Love](https://open.spotify.com/album/4gR3BjHuWgpFqpM7nVfF8M) | 2:27 |
 

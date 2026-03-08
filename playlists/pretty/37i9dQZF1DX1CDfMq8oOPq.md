@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > malandra, desenrolada, trem bala // Btrem
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,738 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,778 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 27 | [Umami](https://open.spotify.com/track/0uSI4ZBnEMBdAKDulLPX1b) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 4:47 |
 | 28 | [Tô de Nave](https://open.spotify.com/track/5qRmRNCQNFe7bVlUXnUy3Z) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Vinex](https://open.spotify.com/artist/3QiKNSMhR18TwE4JRv8yQK) | [Tô de Nave](https://open.spotify.com/album/2DDiIuwuXd6mzgJWNxbhDw) | 3:42 |
 | 29 | [Doces ou Travessuras](https://open.spotify.com/track/1s1uDmjddwBemvF3GBOKqk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [DetonaCry](https://open.spotify.com/artist/2GVjz1qVtO74QpJDl6IcNt), [A22I2](https://open.spotify.com/artist/1PnxRUT3M9ZHlbFCQIYNjz) | [Doces ou Travessuras](https://open.spotify.com/album/3tZk9aPMxV03xmoaUYLHYE) | 2:34 |
-| 30 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
-| 31 | [Old School](https://open.spotify.com/track/1PmAw0Pn1C6AT8Hj1yf5zM) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Old School](https://open.spotify.com/album/2CescztjFhK9oryTgmcMFE) | 3:00 |
+| 30 | [Old School](https://open.spotify.com/track/1PmAw0Pn1C6AT8Hj1yf5zM) | [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [GvsnoBeat](https://open.spotify.com/artist/3XGaWnMifn6JKRERkyUgTk) | [Old School](https://open.spotify.com/album/2CescztjFhK9oryTgmcMFE) | 3:00 |
+| 31 | [Supercine](https://open.spotify.com/track/2TUs2bn1wBFvNwsUV8nV0F) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P), [Dé Barros](https://open.spotify.com/artist/1IP5A0i2yKTTZjJ9DTlb4x) | [Supercine](https://open.spotify.com/album/69FxwAS8S6e4SjzL4Ngiqj) | 2:38 |
 | 32 | [BOSS BITCH](https://open.spotify.com/track/4n8f8PthdHxN1EOKFSrlpS) | [Emilly Guedes](https://open.spotify.com/artist/08UYtcjRd8osOzRZTwtmmr), [LAY](https://open.spotify.com/artist/2OJMqf5cRB8DJwnmyw4UQb) | [BOSS BITCH](https://open.spotify.com/album/1rVEEGfUIxIkIH5ZlOBIGc) | 3:02 |
 | 33 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
 | 34 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |

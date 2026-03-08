@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Grupo Triunfadores, Posadas\ud83d\udcf8",
-  "num_followers": 366883,
+  "num_followers": 366892,
   "original_name": "Mariachi 2026",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
+        "name": "Vives En M\u00ed",
+        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
+        }
+      ],
+      "duration_ms": 210471,
+      "name": "Vives En M\u00ed",
+      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
         "name": "Amarte A La Medida",
         "url": "https://open.spotify.com/album/2pzae7PbWoSasY5bgvMwQ4"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Vives En M\u00ed",
-        "url": "https://open.spotify.com/album/1vQADX1pnQEI17CjpAe5UQ"
-      },
-      "artists": [
-        {
-          "name": "Alex Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC"
-        }
-      ],
-      "duration_ms": 210471,
-      "name": "Vives En M\u00ed",
-      "url": "https://open.spotify.com/track/5wWtNPiu1pd9jzdJ7MJqMm"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Lo Que Se Dice Amor",
         "url": "https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI"
       },
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Una Limosna",
-        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Una Limosna",
-      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Nadie Se Va Como Lleg\u00f3",
         "url": "https://open.spotify.com/album/3ODLqXINKLL2qIRUe2AH35"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 189628,
       "name": "A Dos De Borrarte",
       "url": "https://open.spotify.com/track/3jYascbB2wNuSgKmQfLyxI"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Una Limosna",
+        "url": "https://open.spotify.com/album/6EYfW56o1eEgwuhPSthvnN"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Una Limosna",
+      "url": "https://open.spotify.com/track/15z7cJ1vKveZ6drvbM5DeJ"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -579,6 +579,22 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
+        "name": "No soy para ti",
+        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
+      },
+      "artists": [
+        {
+          "name": "Ivanna",
+          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
+        }
+      ],
+      "duration_ms": 124785,
+      "name": "No soy para ti",
+      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
         "name": "Emilia",
         "url": "https://open.spotify.com/album/55kC2mytSmuqEkW4YkbhOz"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 221848,
       "name": "Emilia",
       "url": "https://open.spotify.com/track/5AVezBQITmD27pmvzKULgm"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
-        "name": "No soy para ti",
-        "url": "https://open.spotify.com/album/1IrCd6P6dHbnSJdFa3ndoT"
-      },
-      "artists": [
-        {
-          "name": "Ivanna",
-          "url": "https://open.spotify.com/artist/0KR7rS2uTkP6Ct1a7YCnx4"
-        }
-      ],
-      "duration_ms": 124785,
-      "name": "No soy para ti",
-      "url": "https://open.spotify.com/track/5ZDdNrpUuCZfbSbkHYpmWi"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -663,18 +663,18 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
+        "name": "Me Gustas Mucho",
+        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
       },
       "artists": [
         {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 773154,
-      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
-      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
+      "duration_ms": 177060,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Me Gustas Mucho",
-        "url": "https://open.spotify.com/album/24Ge3AMJsD5cp00yuCjdI5"
+        "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+        "url": "https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW"
       },
       "artists": [
         {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 177060,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4tZFURLYKJum3XY0WwbwEW"
+      "duration_ms": 773154,
+      "name": "Popurr\u00ed Vicente Fern\u00e1ndez: L\u00e1stima que seas ajena / Por tu maldito amor / La ley del monte / De qu\u00e9 manera te olvido / Volver, volver",
+      "url": "https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Pagar\u00e9 Condena",
-        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
-      },
-      "artists": [
-        {
-          "name": "Juan Pablo Tostado",
-          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
-        }
-      ],
-      "duration_ms": 164960,
-      "name": "Pagar\u00e9 Condena",
-      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Costumbres",
         "url": "https://open.spotify.com/album/3bIJ5PRH3frAvwjgRKVCTT"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 259144,
       "name": "Costumbres",
       "url": "https://open.spotify.com/track/625ReH2UV67Qc466BptoAI"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Pagar\u00e9 Condena",
+        "url": "https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS"
+      },
+      "artists": [
+        {
+          "name": "Juan Pablo Tostado",
+          "url": "https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp"
+        }
+      ],
+      "duration_ms": 164960,
+      "name": "Pagar\u00e9 Condena",
+      "url": "https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW"
     },
     {
       "added_at": "2026-03-06 06:00:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-03-06 06:00:10",
       "album": {
-        "name": "Bailando De A Cart\u00f3n",
-        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
-      },
-      "artists": [
-        {
-          "name": "Pedro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
-        }
-      ],
-      "duration_ms": 204850,
-      "name": "Bailando De A Cart\u00f3n",
-      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
-    },
-    {
-      "added_at": "2026-03-06 06:00:10",
-      "album": {
         "name": "Se Me Hizo Tarde",
         "url": "https://open.spotify.com/album/4TNC1cYv2cql3D8SCubOcl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 223250,
       "name": "Se Me Hizo Tarde",
       "url": "https://open.spotify.com/track/0fEFBzcDGKh8YoYuS67TzG"
+    },
+    {
+      "added_at": "2026-03-06 06:00:10",
+      "album": {
+        "name": "Bailando De A Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4CmgokP16E68nxuciNhUbi"
+      },
+      "artists": [
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "duration_ms": 204850,
+      "name": "Bailando De A Cart\u00f3n",
+      "url": "https://open.spotify.com/track/3MxMDt7U7YlJeco6rROJ7k"
     },
     {
       "added_at": "2026-03-06 06:00:10",

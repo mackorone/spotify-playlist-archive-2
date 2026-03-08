@@ -4,7 +4,7 @@
 
 > This is The Cure\. The essential tracks, all in one playlist.
 
-106 songs - 8 hr 9 min
+107 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 | 2022-11-04 |  |
 | [Do The Hansa \- 86 Mix / 2026 Remaster](https://open.spotify.com/track/3jTgYv61FVyyR6gGOmJxFK) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Boys Don’t Cry \(86 Mix\)](https://open.spotify.com/album/5gVuFLvXh1tP2YR0hjs9w8) | 2:39 | 2026-02-11 | 2026-02-13 |
 | [Doing The Unstuck](https://open.spotify.com/track/5QhM82aoKuEdqbMHcI617o) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:21 | 2024-04-15 |  |
-| [Doubt \- RS Home Instrumental Demo 8/80](https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 1:07 | 2026-02-22 |  |
+| [Doubt \- RS Home Instrumental Demo 8/80](https://open.spotify.com/track/5mOggHnHC7VEE9Eigrlv40) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 1:07 | 2026-02-22 | 2026-03-08 |
 | [Drone:Nodrone](https://open.spotify.com/track/2rFip3zL6mqFv3XcALMqhd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 4:45 | 2024-11-03 | 2025-08-15 |
 | [Drone:Nodrone \- Daniel Avery Remix](https://open.spotify.com/track/53VwOqwtHFyfdVVnV4qxi5) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone:Nodrone \(Daniel Avery Remix\)](https://open.spotify.com/album/5v2r3zCZWFQSP9w6IHwcMc) | 5:20 | 2025-06-01 | 2025-08-03 |
 | [End \- Live In Paris / 1992](https://open.spotify.com/track/7jG9gCKyeEEBB2HPJTv04D) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary\)](https://open.spotify.com/album/6I1Z88CCXoEJBtEDz3XrA5) | 8:40 | 2022-11-04 | 2022-12-30 |
@@ -90,6 +90,7 @@
 | [Primary](https://open.spotify.com/track/4fnx6Wman02ryvAOqKm6iI) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith](https://open.spotify.com/album/1Vmdh3ybBnkJN6uBgD0xlo) | 3:39 | 2022-11-04 |  |
 | [Push](https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:31 | 2022-11-04 |  |
 | [Push \- 2006 Remaster](https://open.spotify.com/track/3oP4cJTo55Wc07vqoix8Z9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 4:31 | 2023-06-21 | 2023-06-28 |
+| [Secrets](https://open.spotify.com/track/59r1yue8AEBRWFJZ8kLwnj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:19 | 2026-03-08 |  |
 | [Shake Dog Shake \- Live At Zenith, Paris](https://open.spotify.com/track/08Ky8qaJYZanGFxRRrqlLW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Shake Dog Shake](https://open.spotify.com/album/4XnEtST40geeFcAnToByfc) | 5:05 | 2024-02-11 | 2024-04-15 |
 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 | 2022-12-29 |  |
 | [The Big Hand \- 1990 Demo](https://open.spotify.com/track/2Uj46H1Rj1zVKJY1U8gZZE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish \(30th Anniversary Edition\)](https://open.spotify.com/album/2Zj1cFOmfPfykuXLVGXhhe) | 4:40 | 2022-12-27 | 2023-02-11 |

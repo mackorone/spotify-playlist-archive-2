@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/4oCdiaZmiKLPpKUHlFjovZ.md) - [plain]
 
 > Turn this playlist all the way up! Featuring, JaYy Wick, Money Man, Blxst &amp; Mozzy.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,011 likes - 111 songs - 5 hr 10 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 34,007 likes - 111 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ALL FLATS](https://open.spotify.com/track/5QhE6GG1i6tnLaPSv203Dx) | [JaYy Wick](https://open.spotify.com/artist/1Ks9gnyut4jMphTwjlfz4u) | [ALL FLATS](https://open.spotify.com/album/4626XL0cxOYcNjJvuDMENo) | 1:56 |
 | 2 | [LET 'EM KNOW](https://open.spotify.com/track/6AXf9n3qazR1bE1dngnqxi) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [LET 'EM KNOW](https://open.spotify.com/album/7MmMz1SDFpAustlXwduMFa) | 2:59 |
-| 3 | [1 Umbrella \(feat\. ALLBLACK & 22nd Jim\)](https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:04 |
+| 3 | [1 Umbrella \(feat\. Lil Yee & ZayBang\)](https://open.spotify.com/track/5lU1b02ar5sLIwFt8Eocmx) | [1 Umbrella](https://open.spotify.com/artist/2KgAvy3nNfdR0tWMBZpOrl), [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef), [Lil Yee](https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i), [ZayBang](https://open.spotify.com/artist/4knZcINThe7rbCYx0FVewG) | [1 Umbrella](https://open.spotify.com/album/6D1sKLmOx3I9fJDteJaety) | 3:04 |
 | 4 | [Çike Çike](https://open.spotify.com/track/5sSX7WUAGL1TUSWnGgnTA8) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Çike Çike](https://open.spotify.com/album/0cbMbvL8IPDDG4hHlOsXgk) | 2:19 |
 | 5 | [Jogodo](https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Jogodo](https://open.spotify.com/album/5X7g2w1hllfIhYhbyMSLpx) | 3:08 |
 | 6 | [Geek Time](https://open.spotify.com/track/3wmiP90sLXkiT6eRrOIOZS) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [1900Rugrat](https://open.spotify.com/artist/6HHAJjAD9nZ2GftcwEf8r5) | [Out On Bond Again](https://open.spotify.com/album/1o5ENTNPcko1wx4h1kZTlP) | 2:05 |

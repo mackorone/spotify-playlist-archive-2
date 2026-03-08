@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 209536,
+  "num_followers": 209542,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Love&Adoration",
-        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Love&Adoration",
-      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Es Perfecto (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3aAn8lZpaWJPsInlKzvEim"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 225731,
       "name": "Es Perfecto - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2oveOhl8cgqplLmUZeUC2q"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Love&Adoration",
+        "url": "https://open.spotify.com/album/2QTtPQmtd0zJ46vKPaT9UQ"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Love&Adoration",
+      "url": "https://open.spotify.com/track/1QujH597HNGHN6MWIbilTV"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Brave",
-        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
-      },
-      "artists": [
-        {
-          "name": "M\u014cRIAH",
-          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "I'll Wait For You",
-      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Love Is A Fight",
         "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 213716,
       "name": "Love Is A Fight",
       "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/57VocguMCPpTbtRBPb7h0f"
+      },
+      "artists": [
+        {
+          "name": "M\u014cRIAH",
+          "url": "https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv"
+        }
+      ],
+      "duration_ms": 226053,
+      "name": "I'll Wait For You",
+      "url": "https://open.spotify.com/track/5vNQTqS0JToEWzlizaGzpy"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -839,26 +839,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/0pzsGcbv4f3QVvxsPr06YB"
-      },
-      "artists": [
-        {
-          "name": "Ian Austin",
-          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
-        },
-        {
-          "name": "Heather Suzanne",
-          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
-        }
-      ],
-      "duration_ms": 175761,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/0jeTS9DnVzyHLK8H66yLPD"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Can't Help Falling In Love",
         "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 171150,
       "name": "Can't Help Falling In Love - LIGHT",
       "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/0pzsGcbv4f3QVvxsPr06YB"
+      },
+      "artists": [
+        {
+          "name": "Ian Austin",
+          "url": "https://open.spotify.com/artist/1WP9r8KcRsPprUUHgH0lEd"
+        },
+        {
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+        }
+      ],
+      "duration_ms": 175761,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/0jeTS9DnVzyHLK8H66yLPD"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd"
-      },
-      "artists": [
-        {
-          "name": "Spencer Kane",
-          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 200538,
       "name": "Can't Quit You",
       "url": "https://open.spotify.com/track/1rDFKjc3N1o8REMY9jVBPh"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/7bfETEY3zXmR2c6e6rnaYd"
+      },
+      "artists": [
+        {
+          "name": "Spencer Kane",
+          "url": "https://open.spotify.com/artist/6wRBVb1TqANRmxpqP7FKtb"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/3GWHYf0nPbs962TqBdRyKC"
     },
     {
       "added_at": "2026-02-13 12:46:19",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-02-13 12:46:19",
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2026-02-13 12:46:19",
+      "album": {
         "name": "Loving Me Like Jesus",
         "url": "https://open.spotify.com/album/6gvTi3AZ3njMAchWY4Rsfz"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 192000,
       "name": "Loving Me Like Jesus",
       "url": "https://open.spotify.com/track/6qJKkWCwkIqu9qAyTIjp99"
-    },
-    {
-      "added_at": "2026-02-13 12:46:19",
-      "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
     },
     {
       "added_at": "2026-02-13 12:46:19",

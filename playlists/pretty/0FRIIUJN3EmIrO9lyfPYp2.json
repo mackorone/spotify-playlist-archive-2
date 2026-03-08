@@ -6,8 +6,272 @@
     "name": "dreamscape",
     "url": "https://open.spotify.com/user/9rn7brfa1vc5yomz3r115w8kf"
   },
-  "snapshot_id": "AAACbrMdX5u2TUzut30N9xj6zUxfJJvS",
+  "snapshot_id": "AAACcHM4Iid4IBTlKL9weNw3SwAluQP0",
   "tracks": [
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "WEIRDCORE OST",
+        "url": "https://open.spotify.com/album/64UxS81NPl1lToH2bP9Lr0"
+      },
+      "artists": [
+        {
+          "name": "Crossing Bridges",
+          "url": "https://open.spotify.com/artist/4e5LAbEebwD5TXeSqRV29t"
+        }
+      ],
+      "duration_ms": 84746,
+      "name": "they're hiding in plain sight. can't you see?",
+      "url": "https://open.spotify.com/track/6WfgSew20UpILvUSJnaDfJ"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "good night",
+        "url": "https://open.spotify.com/album/514t8suW5gidZ21r834hXU"
+      },
+      "artists": [
+        {
+          "name": "Dean Korso",
+          "url": "https://open.spotify.com/artist/0X7zZBoY6ObInbi8IUVfpx"
+        }
+      ],
+      "duration_ms": 155191,
+      "name": "good night",
+      "url": "https://open.spotify.com/track/6tH4NeLqeXhf6qhUTCJDTQ"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "pulse horizon",
+        "url": "https://open.spotify.com/album/1RVMqlYrnKs3yoi0tEjDMG"
+      },
+      "artists": [
+        {
+          "name": "METAHESH",
+          "url": "https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP"
+        }
+      ],
+      "duration_ms": 118400,
+      "name": "pulse horizon",
+      "url": "https://open.spotify.com/track/1JBSbFHYUMFjALKPyMetmp"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "WEIRDCORE OST",
+        "url": "https://open.spotify.com/album/64UxS81NPl1lToH2bP9Lr0"
+      },
+      "artists": [
+        {
+          "name": "Crossing Bridges",
+          "url": "https://open.spotify.com/artist/4e5LAbEebwD5TXeSqRV29t"
+        }
+      ],
+      "duration_ms": 64346,
+      "name": "jump in, the atmosphere is fine",
+      "url": "https://open.spotify.com/track/5Tmn7wPPtah2Uct7ogHGtB"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "these nights",
+        "url": "https://open.spotify.com/album/6VnGADIf69gLSa4BM7gOTw"
+      },
+      "artists": [
+        {
+          "name": "nowt",
+          "url": "https://open.spotify.com/artist/3rJ3JaEwzwefdZMinCtdPI"
+        }
+      ],
+      "duration_ms": 130920,
+      "name": "these nights",
+      "url": "https://open.spotify.com/track/1VSZJb6wCf6DkbWLZ908eL"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "wonder",
+        "url": "https://open.spotify.com/album/6fjD8hO8xiYAZnKT9bH95F"
+      },
+      "artists": [
+        {
+          "name": "insensible",
+          "url": "https://open.spotify.com/artist/1LBYQTeBctR6bK847DqAVU"
+        }
+      ],
+      "duration_ms": 142980,
+      "name": "wonder",
+      "url": "https://open.spotify.com/track/6LfiBR6SoR2Vgs1Yxpm8HJ"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "WEIRDCORE OST",
+        "url": "https://open.spotify.com/album/64UxS81NPl1lToH2bP9Lr0"
+      },
+      "artists": [
+        {
+          "name": "Crossing Bridges",
+          "url": "https://open.spotify.com/artist/4e5LAbEebwD5TXeSqRV29t"
+        }
+      ],
+      "duration_ms": 73866,
+      "name": "wish you were here",
+      "url": "https://open.spotify.com/track/6pH7IaMmlBRKCE7nLhUUHt"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "restart",
+        "url": "https://open.spotify.com/album/0p3KSD45kDsAdHArU1uoED"
+      },
+      "artists": [
+        {
+          "name": "maxim",
+          "url": "https://open.spotify.com/artist/1XqIdnjDG7vIalORsa1kPn"
+        }
+      ],
+      "duration_ms": 112341,
+      "name": "restart",
+      "url": "https://open.spotify.com/track/7tVPaR4oKlY5WOBYYrgCko"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "mental purgatory",
+        "url": "https://open.spotify.com/album/2PRvDL4Tnh69IFhgKt2TvM"
+      },
+      "artists": [
+        {
+          "name": "Etsu",
+          "url": "https://open.spotify.com/artist/1KevMNL4UNuuESpeV7iVrk"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "mental purgatory",
+      "url": "https://open.spotify.com/track/356aIfoL9JxcP491y1rVUC"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "emotion engine",
+        "url": "https://open.spotify.com/album/5EdBL6zwc5y6oxS06nc7On"
+      },
+      "artists": [
+        {
+          "name": "hir\u00e6th",
+          "url": "https://open.spotify.com/artist/3eeveX1dMtylueBGenVFDf"
+        }
+      ],
+      "duration_ms": 122579,
+      "name": "emotion engine",
+      "url": "https://open.spotify.com/track/5VliaB7KfngfTC6ZpleHll"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "WEIRDCORE OST",
+        "url": "https://open.spotify.com/album/64UxS81NPl1lToH2bP9Lr0"
+      },
+      "artists": [
+        {
+          "name": "Crossing Bridges",
+          "url": "https://open.spotify.com/artist/4e5LAbEebwD5TXeSqRV29t"
+        }
+      ],
+      "duration_ms": 94186,
+      "name": "time",
+      "url": "https://open.spotify.com/track/70QFKbwu3KMrW6CgZPveW4"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4iFiGRC8Cy2SEBkSmEdBgp"
+      },
+      "artists": [
+        {
+          "name": "Kaiv",
+          "url": "https://open.spotify.com/artist/2CjA0kHoULDHJz1ffRo6Ac"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/66YTq3h46VjWYDxQ4X4lH1"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "vybor...",
+        "url": "https://open.spotify.com/album/4H5KavUesccONARdEjislu"
+      },
+      "artists": [
+        {
+          "name": "Ybyrayy",
+          "url": "https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs"
+        }
+      ],
+      "duration_ms": 55285,
+      "name": "vybor...",
+      "url": "https://open.spotify.com/track/4PamLAmkAWOM0GvIiGpGEd"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "Silent Descent",
+        "url": "https://open.spotify.com/album/0yBUhJE0BPzIzcEFDgk5Lp"
+      },
+      "artists": [
+        {
+          "name": "Imxone",
+          "url": "https://open.spotify.com/artist/5dQkXg88bY6gNMyNo3gtDP"
+        },
+        {
+          "name": "arancina",
+          "url": "https://open.spotify.com/artist/5YdVyeU1XSouFk8VBSfLAO"
+        }
+      ],
+      "duration_ms": 114668,
+      "name": "Silent Descent",
+      "url": "https://open.spotify.com/track/0Br2vJRxDzHRTCMYniVC5g"
+    },
+    {
+      "added_at": "2026-03-07 21:25:35",
+      "album": {
+        "name": "WEIRDCORE OST",
+        "url": "https://open.spotify.com/album/64UxS81NPl1lToH2bP9Lr0"
+      },
+      "artists": [
+        {
+          "name": "Crossing Bridges",
+          "url": "https://open.spotify.com/artist/4e5LAbEebwD5TXeSqRV29t"
+        }
+      ],
+      "duration_ms": 95231,
+      "name": "feels nice, even if it is all a lie",
+      "url": "https://open.spotify.com/track/68WMxk9csFqYDjTWvOxxNR"
+    },
+    {
+      "added_at": "2026-01-02 14:36:52",
+      "album": {
+        "name": "luminous hearts",
+        "url": "https://open.spotify.com/album/79zV7Bt9Y7mIyAuyHZfugA"
+      },
+      "artists": [
+        {
+          "name": "kishiimu",
+          "url": "https://open.spotify.com/artist/04Dtip36I6tkIThkhCcKya"
+        },
+        {
+          "name": "Fujiwara",
+          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
+        }
+      ],
+      "duration_ms": 136488,
+      "name": "luminous hearts",
+      "url": "https://open.spotify.com/track/4TupazCy5zszWG5iTE1T8A"
+    },
     {
       "added_at": "2026-02-27 20:46:45",
       "album": {
@@ -8195,26 +8459,6 @@
       "duration_ms": 123000,
       "name": "derelict",
       "url": "https://open.spotify.com/track/6zvNPN87aBl5q0DuwvomR1"
-    },
-    {
-      "added_at": "2026-01-02 14:36:52",
-      "album": {
-        "name": "luminous hearts",
-        "url": "https://open.spotify.com/album/79zV7Bt9Y7mIyAuyHZfugA"
-      },
-      "artists": [
-        {
-          "name": "kishiimu",
-          "url": "https://open.spotify.com/artist/04Dtip36I6tkIThkhCcKya"
-        },
-        {
-          "name": "Fujiwara",
-          "url": "https://open.spotify.com/artist/2Cr0utmWeACahVtcJwnwVX"
-        }
-      ],
-      "duration_ms": 136488,
-      "name": "luminous hearts",
-      "url": "https://open.spotify.com/track/4TupazCy5zszWG5iTE1T8A"
     },
     {
       "added_at": "2026-01-02 14:36:52",

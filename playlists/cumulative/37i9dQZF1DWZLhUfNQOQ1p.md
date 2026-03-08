@@ -4,7 +4,7 @@
 
 > Musica da ascoltare con un drink in mano 🥃
 
-453 songs - 1 day 6 hr 21 min
+455 songs - 1 day 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 | 2023-05-30 | 2024-04-19 |
 | [Half\-time Dreams](https://open.spotify.com/track/7LKPoZj6pjbpykI0ZKYPxR) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [INIT](https://open.spotify.com/artist/3k6lezqoh9ESd5A4Ebdo5Q) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 4:25 | 2023-07-13 | 2026-01-16 |
 | [Happiness \- Eternal Moment Mix](https://open.spotify.com/track/23eieUqlZtoCmziKZAKUXF) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Happiness \(Eternal Moment Mix\)](https://open.spotify.com/album/15Ur2tyY5TVmSRyXSRw4GA) | 3:11 | 2021-08-05 | 2022-07-29 |
-| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-05-30 |  |
+| [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 | 2023-05-30 | 2026-03-08 |
 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 | 2021-08-05 | 2023-05-31 |
 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 | 2021-08-05 | 2023-05-31 |
 | [Horizon](https://open.spotify.com/track/2N8p2yGBNM0SLlSaCDxhk0) | [Gary Luton](https://open.spotify.com/artist/5jSovYGyrvQl5vb5PmOdo4) | [Horizon](https://open.spotify.com/album/2MxDGKoBMLeiwyLMGxGmlK) | 3:34 | 2021-08-05 | 2023-05-31 |
@@ -248,6 +248,7 @@
 | [Love You Tonight](https://open.spotify.com/track/5BbMKYskxFCCp7kacFBdRw) | [Martin Zandt](https://open.spotify.com/artist/3HVIhaXyOOKizvzcO9C1Mk) | [Love You Tonight](https://open.spotify.com/album/4oFF7Oh66kN9JT0DyjUW46) | 3:06 | 2021-08-05 | 2022-07-29 |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2024-05-19 | 2024-06-03 |
 | [Mad About You](https://open.spotify.com/track/5drK2kTE2mrUdV33iHWyrx) | [Hooverphonic](https://open.spotify.com/artist/5EP020iZcwBqHRnJftibXX) | [The Magnificent Tree](https://open.spotify.com/album/10QqxagLfdvXvVL9CpdHeE) | 3:43 | 2024-05-19 | 2024-06-03 |
+| [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 | 2026-03-05 |  |
 | [Maitri](https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Maitri](https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX) | 2:57 | 2025-02-27 |  |
 | [Make It Work](https://open.spotify.com/track/20bIVbHo1YmaG11l3Y3NnP) | [Blewbird](https://open.spotify.com/artist/3aKYNxHBFiIcw0yrv06R6W), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Make It Work](https://open.spotify.com/album/6Ga7bHYIzazaFPfdbluAO9) | 2:49 | 2021-08-05 | 2023-05-15 |
 | [Make You Feel Like](https://open.spotify.com/track/1AmM6S2tTt7j1IEmye5eWL) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Make You Feel Like](https://open.spotify.com/album/4YWN7kOFGK0z8XWluklKtU) | 3:07 | 2021-08-05 | 2023-05-31 |
@@ -259,6 +260,7 @@
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 | 2023-05-30 | 2023-09-28 |
 | [Maria Maria](https://open.spotify.com/track/5MGzRBSlXuNhN19ze9o5GY) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw), [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc) | [Maria Maria](https://open.spotify.com/album/6aXN4WOPqN8TgTkIxVkQdf) | 4:22 | 2024-12-05 |  |
 | [Meant To Be](https://open.spotify.com/track/4YRw7jcTBGAUHWktyn0msf) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Meant To Be](https://open.spotify.com/album/1Wn3OmksyMkgzvzE7dEIhc) | 3:44 | 2023-05-30 | 2023-06-14 |
+| [Medicine](https://open.spotify.com/track/0ITEeroRO4pP8KIvQtpv28) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Medicine](https://open.spotify.com/album/5qXvRI1hccJKz8cKDNu1SO) | 2:34 | 2026-03-05 |  |
 | [Midnight](https://open.spotify.com/track/4cUJTkMh4JVO5hpZqW6Ywx) | [Koero](https://open.spotify.com/artist/6VZEf3IWsYZBUsDJOkU7Qe) | [Midnight](https://open.spotify.com/album/11AjG2WoyYYrH76ZQoRgkx) | 4:08 | 2021-08-05 | 2022-07-29 |
 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 | 2021-08-05 | 2023-01-08 |
 | [Milo's Breeze](https://open.spotify.com/track/2Iad2uYF42TsNJyPHRDAOJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Milo's Journey](https://open.spotify.com/album/2HCniE0c6Gggdy1eW4DNdw) | 4:22 | 2021-08-05 | 2022-06-23 |
@@ -297,7 +299,7 @@
 | [One Thousand Waves](https://open.spotify.com/track/1mYROkVrR8J8Zg87GhcGIs) | [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [One Thousand Waves](https://open.spotify.com/album/1uyFMVG3dOwjx9nVBMJlqC) | 3:46 | 2024-07-18 | 2025-07-25 |
 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 | 2025-08-06 | 2026-01-23 |
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2023-05-14 | 2024-04-19 |
-| [Ordinary Pleasure](https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ) | 3:03 | 2024-04-05 |  |
+| [Ordinary Pleasure](https://open.spotify.com/track/6SlYQ2fAKWSfHEHNhH2kgM) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/0QIT60nFvB6oxdntBO8dmQ) | 3:03 | 2024-04-05 | 2026-03-08 |
 | [Ostia](https://open.spotify.com/track/0qEH6uPXtjLZ9Ut132gHJ3) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [Ostia](https://open.spotify.com/album/08uHg0ZtyHm2o49InQY9Nn) | 5:02 | 2024-04-05 | 2024-05-06 |
 | [Out of Time \- Instrumental](https://open.spotify.com/track/6oYRgLK4B38yYy9TeTpMjn) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Out Of Time \(Remix Bundle\)](https://open.spotify.com/album/6LuY3APmuxui8BM2oibkrZ) | 3:34 | 2023-05-30 | 2023-07-09 |
 | [Over](https://open.spotify.com/track/4eAKdH0VBbjF4VvU5f4zLp) | [Aérotique](https://open.spotify.com/artist/6qOzyug9zoGuMHTmErJ6zo), [Tara Mobee](https://open.spotify.com/artist/6HThDFOUqUBmjE07Bhqe5K) | [Over](https://open.spotify.com/album/4SAxlTMGIoqcoZxlzOG112) | 3:38 | 2021-08-05 | 2022-07-26 |

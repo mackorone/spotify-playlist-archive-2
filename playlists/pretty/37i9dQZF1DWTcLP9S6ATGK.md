@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Armada
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,473 likes - 117 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,480 likes - 117 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 62 | [Salam Terakhir](https://open.spotify.com/track/61O1NkE2RtwRrwSp2QWtIS) | [Putri Jasmin](https://open.spotify.com/artist/6Pl3FO3ZfzNMhQtHWnXe1O) | [Salam Terakhir](https://open.spotify.com/album/2DO2DLkB5XdajIaJA5dCRb) | 3:34 |
 | 63 | [Jingga](https://open.spotify.com/track/33Kralks3jBv8La0TCovzG) | [Canti](https://open.spotify.com/artist/58T2knDTjuxgJkxHH0mllQ) | [Jingga](https://open.spotify.com/album/237IrTNJpJOcVjAPcCIcFo) | 3:05 |
 | 64 | [Terulang Lagi](https://open.spotify.com/track/1r7k2d2E4TqKJ63EtQcFqQ) | [Kris Tomahu](https://open.spotify.com/artist/0tsyEljhXykxOCSFO1T56v) | [Terulang Lagi](https://open.spotify.com/album/50nb5ZAJt2YSHCGGY63vjr) | 3:57 |
-| 65 | [Buang Mantan](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Tenny TAP](https://open.spotify.com/artist/2mjuC8gdXeRJkfWqHkZ62P) | [Buang Mantan](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:07 |
+| 65 | [Sajak Rindu](https://open.spotify.com/track/4NivuhjN2tXk6UstgauLpS) | [Peter Holly](https://open.spotify.com/artist/6jjRl6DiuWp03YdfGGI4fb) | [Sajak Rindu](https://open.spotify.com/album/4IOXsITT4m02DPVGrMREGd) | 4:31 |
 | 66 | [Sesi Potret](https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G) | [eńau](https://open.spotify.com/artist/0agUNq8PH1QSgm88EuhM1u), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Sesi Potret](https://open.spotify.com/album/25hlG9lEbc2ARvZXY4ZDhv) | 4:03 |
 | 67 | [Ya Sudahlah](https://open.spotify.com/track/2mKzrX1HgyZpp1hkg912hA) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Ya Sudahlah](https://open.spotify.com/album/13YkBL0dwHpBgGAWNFI1mA) | 4:03 |
 | 68 | [Kekasih](https://open.spotify.com/track/73WFq1OI6LxCojIFwGCoua) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Kekasih](https://open.spotify.com/album/7wQBNZsbYMV5oc6MHgSVd6) | 4:20 |

@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2697,
+  "num_followers": 2698,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARfg+5zYd1N3n6M4dLI8CE83N0sSC/",
+  "snapshot_id": "AAARf5v1X6k7FXn3+hXyN/BGQ/jwB9Rb",
   "tracks": [
+    {
+      "added_at": "2026-03-07 08:46:29",
+      "album": {
+        "name": "No Fight",
+        "url": "https://open.spotify.com/album/5m0Z8mzS38YlVlFkHebDjo"
+      },
+      "artists": [
+        {
+          "name": "Mateo Cabero",
+          "url": "https://open.spotify.com/artist/5Ri5LQBXRhuHVGFVUciSai"
+        }
+      ],
+      "duration_ms": 232009,
+      "name": "No Fight",
+      "url": "https://open.spotify.com/track/7sgSVpOZSWu3gfJbRJCRgk"
+    },
     {
       "added_at": "2026-03-06 10:48:52",
       "album": {

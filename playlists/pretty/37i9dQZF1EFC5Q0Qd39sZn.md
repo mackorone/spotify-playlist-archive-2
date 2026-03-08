@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,964 likes - 580 songs - 1 day 16 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,973 likes - 580 songs - 1 day 16 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -222,8 +222,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 212 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 |
 | 213 | [I'll Still Love You More](https://open.spotify.com/track/2BQ3U6cCECj2ULc7vUUVcO) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Where Your Road Leads](https://open.spotify.com/album/6l9KppfaP2OOV7SFDwmKNz) | 4:24 |
 | 214 | [Real Emotion](https://open.spotify.com/track/5bFt9A14TrFu1FQqQskzSl) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 4:25 |
-| 215 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
-| 216 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
+| 215 | [I Don't Want to Be Your Friend](https://open.spotify.com/track/6XIgcKoXQbJEr6E8EikAyC) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [A Night To Remember](https://open.spotify.com/album/3wegC2LXYCQknfUuOYBwmz) | 4:21 |
+| 216 | [Walk Away](https://open.spotify.com/track/6U0N0iII20TyI3KJbCdwbp) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The Hunger](https://open.spotify.com/album/6MQWMbtrLuuwjzfFLSJbhu) | 4:11 |
 | 217 | [Too Gone, Too Long](https://open.spotify.com/track/2IOjsucrORGHHlqIlF3OAF) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:42 |
 | 218 | [Breaking Apart](https://open.spotify.com/track/2ULBctUchzxFohl7MIcpiT) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx), [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Mr\. Lucky](https://open.spotify.com/album/1TNJ50y0CNOrsMTzEsYzyc) | 3:39 |
 | 219 | [I'm Not Made of Steel](https://open.spotify.com/track/319QNS9ILIXDlEfnYwSFtn) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:11 |
@@ -275,8 +275,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 265 | [Through the Storm \(with Elton John\)](https://open.spotify.com/track/2xTzFWaVvNzmz1JXbhOt64) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Through the Storm](https://open.spotify.com/album/0K8kAGeIofQOUkWiMOYr8P) | 4:21 |
 | 266 | [Big Big Love](https://open.spotify.com/track/5qn8AKjdjvSTWxsQ1Irk8l) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Big Big Love](https://open.spotify.com/album/1KXFA21w4IxGGVJltnH119) | 3:46 |
 | 267 | [I Bring You To My Senses](https://open.spotify.com/track/0hNwpx4xQSsA4F7By1ZvlQ) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [We Are Love \(Deluxe\)](https://open.spotify.com/album/5CzzuE9XUREa6PyHGgucmC) | 4:04 |
-| 268 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
-| 269 | [Your Baby Never Looked Good In Blue \- 7" Version](https://open.spotify.com/track/5fQzLMW97XnJhzvjpCT905) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [What You Don't Know \(Expanded Edition\)](https://open.spotify.com/album/4i9i6CnfbXVOY7rb33K35I) | 3:53 |
+| 268 | [Your Baby Never Looked Good In Blue \- 7" Version](https://open.spotify.com/track/5fQzLMW97XnJhzvjpCT905) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [What You Don't Know \(Expanded Edition\)](https://open.spotify.com/album/4i9i6CnfbXVOY7rb33K35I) | 3:53 |
+| 269 | [Love Is The Power](https://open.spotify.com/track/7LtxFSHMxHYZGDea3fVZaD) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [This Is The Time \- The Christmas Album](https://open.spotify.com/album/0yoeDitbqfgUDBDZ5J93V8) | 5:34 |
 | 270 | [Borrowed Angels](https://open.spotify.com/track/4uaQpLvejMjjW5ve8JbAXl) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 4:03 |
 | 271 | [I'll Get There \(The Other Side\)](https://open.spotify.com/track/3Kpj2yYjpc86WrkifbiuDz) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [I’ll Get There \(The Other Side\)](https://open.spotify.com/album/5qQ0VD5av5UFSZrfIcgXbA) | 3:28 |
 | 272 | [You Won't Have Me](https://open.spotify.com/track/4rEfopWAHBTR2zB4QmGMy0) | [Nicotine Dolls](https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM) | [An Attempt at Romantic](https://open.spotify.com/album/4jiNh3jO32yjdfiReQR1Uw) | 3:23 |
@@ -534,8 +534,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 524 | [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 |
 | 525 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
 | 526 | [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 |
-| 527 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
-| 528 | [Let Me Make It Up To You Tonight](https://open.spotify.com/track/2SkNS9HIlmYCHaK2jkEzMm) | [Heather Bishop](https://open.spotify.com/artist/4013DHtdn44rEoLAKvfmy9) | [Daydream Me Home](https://open.spotify.com/album/5aRKJuZATDSW9GVxUlqqIU) | 4:35 |
+| 527 | [Let Me Make It Up To You Tonight](https://open.spotify.com/track/2SkNS9HIlmYCHaK2jkEzMm) | [Heather Bishop](https://open.spotify.com/artist/4013DHtdn44rEoLAKvfmy9) | [Daydream Me Home](https://open.spotify.com/album/5aRKJuZATDSW9GVxUlqqIU) | 4:35 |
+| 528 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
 | 529 | [A Hundred Oceans](https://open.spotify.com/track/3xitSIBFxesl3u1dXxWRkw) | [Innosense](https://open.spotify.com/artist/2OaYYIqUbv6g6Q81vptEmW) | [So Together](https://open.spotify.com/album/4jbmIiX2zGMDOqYpVNsS5J) | 4:08 |
 | 530 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 |
 | 531 | [I'm By Your Side](https://open.spotify.com/track/0gZPEf6zaswcXJP7uqC1BE) | [Samantha Cole](https://open.spotify.com/artist/4VnMJXQpix0onjop2VNFvX) | [Samantha Cole](https://open.spotify.com/album/1nLWlryXPg4E3Yqr89yW5V) | 4:57 |
@@ -589,4 +589,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 580 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcLcAAAAAADbQ1Y1P4wilAhmkGSFhjcI`
+Snapshot ID: `AcLhoAAAAABTRIaWsnj4fmIgAXMYJuxf`

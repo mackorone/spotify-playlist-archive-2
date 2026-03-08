@@ -1,12 +1,12 @@
 {
   "description": "This is Limp Bizkit. The essential tracks, all in one playlist.",
-  "num_followers": 479757,
+  "num_followers": 479843,
   "original_name": "This Is Limp Bizkit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAA/hx4GhnRJSBZ52SqQ+zNe",
+  "snapshot_id": "aaoZAAAAAACbnrI8yvx6AuGPz5hg36xn",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 236733,
-      "name": "Build A Bridge",
-      "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D"
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+      "duration_ms": 236733,
+      "name": "Build A Bridge",
+      "url": "https://open.spotify.com/track/4qWOEeCDVLZPXGzgxE8F7D"
     },
     {
       "added_at": null,

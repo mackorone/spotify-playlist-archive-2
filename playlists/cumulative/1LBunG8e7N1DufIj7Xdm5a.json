@@ -6979,6 +6979,24 @@
     },
     {
       "album": {
+        "name": "boyfriend...(ew)",
+        "url": "https://open.spotify.com/album/2BFMWu941leigGSnriv5HB"
+      },
+      "artists": [
+        {
+          "name": "SXY",
+          "url": "https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141674,
+      "name": "boyfriend...(ew)",
+      "url": "https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq"
+    },
+    {
+      "album": {
         "name": "Brand New Day",
         "url": "https://open.spotify.com/album/3Qlg3UE7TDHXhzGAqyBtsT"
       },

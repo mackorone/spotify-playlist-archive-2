@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319400,
+  "num_followers": 319403,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -811,46 +811,6 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Vira E Mexe",
-        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        }
-      ],
-      "duration_ms": 190122,
-      "name": "Vira E Mexe",
-      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Bluesman",
-        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
-      },
-      "artists": [
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        }
-      ],
-      "duration_ms": 237898,
-      "name": "Flamingos",
-      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
         "name": "Irreal",
         "url": "https://open.spotify.com/album/7wnQ2bHyKp92zJuGNepuGE"
       },
@@ -875,6 +835,46 @@
       "duration_ms": 190758,
       "name": "Irreal",
       "url": "https://open.spotify.com/track/0VotVMtQ7gMA7cMlGBfEcc"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Bluesman",
+        "url": "https://open.spotify.com/album/0QMVSKhzT4u2DEd8qdlz4I"
+      },
+      "artists": [
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        }
+      ],
+      "duration_ms": 237898,
+      "name": "Flamingos",
+      "url": "https://open.spotify.com/track/7wcDSsREsX9wn8P1iEdBgj"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
+        "name": "Vira E Mexe",
+        "url": "https://open.spotify.com/album/2zjkvBJv9T5szVE5s5ztmh"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 190122,
+      "name": "Vira E Mexe",
+      "url": "https://open.spotify.com/track/00Y5ViiXK4yhnYTh0rCCBT"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1067,6 +1067,26 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Faz A Posi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        }
+      ],
+      "duration_ms": 179877,
+      "name": "Faz A Posi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Afrodite",
         "url": "https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 201264,
       "name": "Afrodite",
       "url": "https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Faz A Posi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/32zF9qSlirBVY5xVFrkFiG"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        }
-      ],
-      "duration_ms": 179877,
-      "name": "Faz A Posi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/7qrJE9fDTN9atii8gnhLxg"
     },
     {
       "added_at": "2025-10-31 16:26:13",
@@ -1199,22 +1199,18 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
-        "name": "Aladdin",
-        "url": "https://open.spotify.com/album/2OX5dCrbWu0Yorv9vO2jZk"
+        "name": "Toque Na Pele",
+        "url": "https://open.spotify.com/album/2Jxq9gOEEVxCHjDQKwmz0H"
       },
       "artists": [
         {
-          "name": "Delacruz",
-          "url": "https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
         }
       ],
-      "duration_ms": 154374,
-      "name": "Aladdin",
-      "url": "https://open.spotify.com/track/0Bb8wTRAiaiZYuYYELvVJA"
+      "duration_ms": 161927,
+      "name": "Toque Na Pele",
+      "url": "https://open.spotify.com/track/2mGcVoOXeVHwwACz9GulPB"
     }
   ],
   "unique_name": "Rala e Rola",

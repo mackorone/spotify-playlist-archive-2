@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-188 songs - 9 hr 0 min
+189 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Lightning in the Rainstorm](https://open.spotify.com/track/4CmkMB6iijzP1caVtiKHJs) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Ocean Of Thunder Sound](https://open.spotify.com/album/2C6XUBZdsSfFoaX54IwymA) | 3:19 | 2023-09-20 | 2025-06-24 |
 | [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 | 2025-12-15 |
 | [Lightning in the Thunderstorm](https://open.spotify.com/track/1iyLHA2sSdFi8jw0nrwLG4) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Lightning in the Afternoon](https://open.spotify.com/album/0Mu1JfxyBPhMs5o4c1wTKa) | 2:33 | 2023-09-20 | 2025-03-15 |
-| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 |  |
+| [Lit up Sky](https://open.spotify.com/track/7gqGg9Fax0OdHyOcpatuL3) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Lit up Sky](https://open.spotify.com/album/2vj6kHYyG1WYZl5Mk4N7aS) | 3:28 | 2022-10-28 | 2026-03-08 |
 | [Low Rumble of Rain and Thunder](https://open.spotify.com/track/1xxD524mnciVxvx1xQK3bJ) | [Leonard Poole](https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO) | [Hard Patio Rain with Thunder](https://open.spotify.com/album/6InpReae8r9WVfr0Z1I4wY) | 2:35 | 2023-01-13 |  |
 | [Luscious Rain](https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0) | [Harmonious Nature](https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ) | [Luscious Rain](https://open.spotify.com/album/4HGhxEOSzvVuaXAb39qhkX) | 2:12 | 2022-10-28 |  |
 | [Mahogany Comforter](https://open.spotify.com/track/3QlwOfVa9N3lhrNnYTX4LW) | [Star Chip](https://open.spotify.com/artist/0SNUW83ddh5jMBM6ghqbQg) | [Mahogany Comforter](https://open.spotify.com/album/2FuiOOk4Dqq2XnapEO5nE7) | 3:12 | 2025-09-23 |  |
@@ -136,6 +136,7 @@
 | [Sturm und Donner](https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd) | [BioSounds](https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO) | [Wilder Regen](https://open.spotify.com/album/0cNgvFON65mdd39nfornb9) | 2:56 | 2022-11-15 |  |
 | [Subtle Thunderstorm](https://open.spotify.com/track/4V8j4m6ZoVd2pBGzVmBA3C) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:30 | 2022-10-28 |  |
 | [Summer Thunderstorm](https://open.spotify.com/track/6c2vveoFDpdo2VqxcclXkk) | [The Nightgate](https://open.spotify.com/artist/5Q3USAuNC7NpbhO9JqN2uK) | [Summer Thunderstorm](https://open.spotify.com/album/3cqdn3oQaHziJGZunQv8VL) | 3:27 | 2023-09-20 | 2025-12-12 |
+| [Surrounded by The Rainforest](https://open.spotify.com/track/7ntPneeSmOD3LUJrLSkUoL) | [Verdelume](https://open.spotify.com/artist/0It2fK2YoJFGMcYV01vHG8) | [Surrounded by The Rainforest](https://open.spotify.com/album/0QpiCeOB1L1EcBh7cGUGxs) | 2:44 | 2025-12-19 |  |
 | [The Beauty in the Sky](https://open.spotify.com/track/1dyIwNBnnZTB4PrWB07eE6) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Soothing Rain & Thunder](https://open.spotify.com/album/4MokIJuPIONaS9P5SLwjsX) | 3:39 | 2023-09-20 | 2026-03-03 |
 | [The Light Beyond](https://open.spotify.com/track/0ZqPKp59r2vRU28YB28k1X) | [Paracloud](https://open.spotify.com/artist/7IVFkv5KIYGpqzewofOqP2) | [The Light Beyond](https://open.spotify.com/album/6gmJaxaU3qjSo7NyhE6aO9) | 2:46 | 2023-09-20 | 2023-12-21 |
 | [The Mighty Storm](https://open.spotify.com/track/5aBkKR82MfLvIBmJYL5vsz) | [Thunderwards](https://open.spotify.com/artist/5xTEuFn2jsIs8REcyyQpoq) | [The Mighty Storm](https://open.spotify.com/album/2iCrGUGNFBbyHD8IGz4xId) | 2:06 | 2023-09-20 |  |

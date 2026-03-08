@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui sent le sapin pis la joie!",
-  "num_followers": 63789,
+  "num_followers": 63784,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
-        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
-      },
-      "artists": [
-        {
-          "name": "Marie Mich\u00e8le Desrosiers",
-          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Mon Beau Sapin",
-      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Chansons hivernales",
         "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 221293,
       "name": "Maman, Papa",
       "url": "https://open.spotify.com/track/5SfR5iR5KLfWIyRxDa99ns"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Marie-Mich\u00e8le Desrosiers Chante Les Classiques De No\u00ebl",
+        "url": "https://open.spotify.com/album/1odCUBL4jmgCOxkK0axxNV"
+      },
+      "artists": [
+        {
+          "name": "Marie Mich\u00e8le Desrosiers",
+          "url": "https://open.spotify.com/artist/6O5owguKnGHHhGE8nLBvTS"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Mon Beau Sapin",
+      "url": "https://open.spotify.com/track/11hdqrF9lIy8OaoRxGVuYf"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
+        "name": "Minuit",
+        "url": "https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI"
+      },
+      "artists": [
+        {
+          "name": "Eli Rose",
+          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
+        }
+      ],
+      "duration_ms": 171960,
+      "name": "Minuit",
+      "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
         "name": "No\u00ebl tout blanc (feat. Marc-Andr\u00e9 Fortin, Alexandre Lapointe, Natalie Byrns, Les Enfants de D\u00e9cembre) [D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime]",
         "url": "https://open.spotify.com/album/1ZEK98TTUoRKnmMFYpF6wQ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 189474,
       "name": "No\u00ebl tout blanc - D\u00e9cembre : le No\u00ebl de Qu\u00e9bec Issime",
       "url": "https://open.spotify.com/track/4jnuZMjF2nvBWTdA3MtTbX"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
-        "name": "Minuit",
-        "url": "https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI"
-      },
-      "artists": [
-        {
-          "name": "Eli Rose",
-          "url": "https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h"
-        }
-      ],
-      "duration_ms": 171960,
-      "name": "Minuit",
-      "url": "https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Les Plus Beaux Noels Du Monde",
-        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
-      },
-      "artists": [
-        {
-          "name": "Nana Mouskouri",
-          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "Petit gar\u00e7on",
-      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Mam pis Pap",
         "url": "https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 197105,
       "name": "Mam pis Pap",
       "url": "https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Les Plus Beaux Noels Du Monde",
+        "url": "https://open.spotify.com/album/0ok068mhWBRbDI0ckAcDAW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mouskouri",
+          "url": "https://open.spotify.com/artist/6p7iFdv6Wn9iaS7AwVLvod"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/4mzJTzRomZtFDBGRbvYR1t"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -839,22 +839,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "Ma liste de No\u00ebl",
-        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9lissa B\u00e9dard",
-          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
-        }
-      ],
-      "duration_ms": 144826,
-      "name": "P\u00e8re No\u00ebl arrive ce soir",
-      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Six heures d'avion nous s\u00e9parent",
         "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 167248,
       "name": "2 janvier",
       "url": "https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "Ma liste de No\u00ebl",
+        "url": "https://open.spotify.com/album/6JPuGeaY5nZQ6bCvwtg7hT"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lissa B\u00e9dard",
+          "url": "https://open.spotify.com/artist/3fmI1VNKHDRTVOJdd70ghk"
+        }
+      ],
+      "duration_ms": 144826,
+      "name": "P\u00e8re No\u00ebl arrive ce soir",
+      "url": "https://open.spotify.com/track/2hv3iAKUZwNobiXKUmaqTz"
     },
     {
       "added_at": "2025-12-12 05:01:29",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-12-12 05:01:29",
       "album": {
-        "name": "No\u00ebl, c\u2019est l\u2019amour",
-        "url": "https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte"
-      },
-      "artists": [
-        {
-          "name": "Jill Barber",
-          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
-        }
-      ],
-      "duration_ms": 215333,
-      "name": "No\u00ebl, c\u2019est l\u2019amour",
-      "url": "https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd"
-    },
-    {
-      "added_at": "2025-12-12 05:01:29",
-      "album": {
         "name": "Aujourd'hui, il est n\u00e9",
         "url": "https://open.spotify.com/album/4BwOqtlX1aBORu1uY59jDs"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 235923,
       "name": "Aujourd'hui, il est n\u00e9",
       "url": "https://open.spotify.com/track/030iFCDPVdwZbpVCxlXMJi"
+    },
+    {
+      "added_at": "2025-12-12 05:01:29",
+      "album": {
+        "name": "No\u00ebl, c\u2019est l\u2019amour",
+        "url": "https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte"
+      },
+      "artists": [
+        {
+          "name": "Jill Barber",
+          "url": "https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "No\u00ebl, c\u2019est l\u2019amour",
+      "url": "https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd"
     },
     {
       "added_at": "2025-12-12 05:01:29",

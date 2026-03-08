@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a e conhe\u00e7a as revela\u00e7\u00f5es da m\u00fasica gospel. Foto: Larissa Santos",
-  "num_followers": 132900,
+  "num_followers": 132905,
   "original_name": "Revela\u00e7\u00e3o Gospel",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,18 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Sou o Teu Altar",
-        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
+        "name": "Quem \u00e9 Esse?",
+        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
       },
       "artists": [
         {
-          "name": "Bekah Costa",
-          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
-        },
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Naara e Sarah",
+          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Sou o Teu Altar",
-      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
+      "duration_ms": 319577,
+      "name": "Quem \u00e9 Esse?",
+      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -515,18 +511,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Quem \u00e9 Esse?",
-        "url": "https://open.spotify.com/album/2Hue0DRCh1m0YkA9Hc6qpL"
+        "name": "Sou o Teu Altar",
+        "url": "https://open.spotify.com/album/2y4aQE5LYe1FSgKGVnbH9g"
       },
       "artists": [
         {
-          "name": "Naara e Sarah",
-          "url": "https://open.spotify.com/artist/0LPEcQYu6T8yx0W0pswNf9"
+          "name": "Bekah Costa",
+          "url": "https://open.spotify.com/artist/43GhsjEls2W0kceLxCK9cb"
+        },
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         }
       ],
-      "duration_ms": 319577,
-      "name": "Quem \u00e9 Esse?",
-      "url": "https://open.spotify.com/track/5aGSIDAIjpskRm4pPMRUDT"
+      "duration_ms": 275853,
+      "name": "Sou o Teu Altar",
+      "url": "https://open.spotify.com/track/3ifjRXZwN56gmTROvagUpx"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -775,38 +775,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
-      },
-      "artists": [
-        {
-          "name": "Tamara Pyller",
-          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
-        }
-      ],
-      "duration_ms": 251936,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
-        "name": "Peda\u00e7os",
-        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
-      },
-      "artists": [
-        {
-          "name": "Matheus Ferreira",
-          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
-        }
-      ],
-      "duration_ms": 259500,
-      "name": "Peda\u00e7os",
-      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "Descansa em Mim",
         "url": "https://open.spotify.com/album/3pVZs73gK7tDaS6rQwZjYc"
       },
@@ -827,6 +795,22 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
+        "name": "Peda\u00e7os",
+        "url": "https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg"
+      },
+      "artists": [
+        {
+          "name": "Matheus Ferreira",
+          "url": "https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh"
+        }
+      ],
+      "duration_ms": 259500,
+      "name": "Peda\u00e7os",
+      "url": "https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 291253,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14"
+      },
+      "artists": [
+        {
+          "name": "Tamara Pyller",
+          "url": "https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO"
+        }
+      ],
+      "duration_ms": 251936,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3"
     },
     {
       "added_at": "2026-03-02 15:12:51",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-02 15:12:51",
       "album": {
-        "name": "Vida Boa",
-        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
-      },
-      "artists": [
-        {
-          "name": "Marllon Ribeiro",
-          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
-        }
-      ],
-      "duration_ms": 283947,
-      "name": "Vida Boa",
-      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
-    },
-    {
-      "added_at": "2026-03-02 15:12:51",
-      "album": {
         "name": "N\u00e3o Serei o Mesmo",
         "url": "https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 397096,
       "name": "N\u00e3o Serei o Mesmo - Ao Vivo",
       "url": "https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6"
+    },
+    {
+      "added_at": "2026-03-02 15:12:51",
+      "album": {
+        "name": "Vida Boa",
+        "url": "https://open.spotify.com/album/5jNET3UCFFAuwFmDoi4U3F"
+      },
+      "artists": [
+        {
+          "name": "Marllon Ribeiro",
+          "url": "https://open.spotify.com/artist/6CdzLasuO9Gbn0mHJSPD5l"
+        }
+      ],
+      "duration_ms": 283947,
+      "name": "Vida Boa",
+      "url": "https://open.spotify.com/track/4WXSnFFUQkUxomeeh8J3Sa"
     },
     {
       "added_at": "2026-03-02 15:12:51",

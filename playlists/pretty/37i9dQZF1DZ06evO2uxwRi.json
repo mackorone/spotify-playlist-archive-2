@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 43481,
+  "num_followers": 43480,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABUQH1j6+8Jj+sLpSHtznwV",
+  "snapshot_id": "aaoZAAAAAAAu+XSE9xtbWp2QioIwiMii",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catalyst",
-        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Truth Of My Youth",
-      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+      "duration_ms": 208066,
+      "name": "Dressed To Kill",
+      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+        "name": "Catalyst",
+        "url": "https://open.spotify.com/album/07FMLDgJBRbgdWHHBmlTQy"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 208066,
-      "name": "Dressed To Kill",
-      "url": "https://open.spotify.com/track/75JUFOP8s5yiOYcHmJjccP"
+      "duration_ms": 182066,
+      "name": "Truth Of My Youth",
+      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 253231,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/4muBJIUmx46Ua1GGxFEroZ"
+      "duration_ms": 196027,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4Q4jKJIvLEWZsFcTg9eKKH"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 207800,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
+      "duration_ms": 189866,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 189866,
-      "name": "Forget My Name",
-      "url": "https://open.spotify.com/track/12sw03e7UF7H8gn5Eqt58N"
+      "duration_ms": 207800,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/4ZBmAdGxiCJ1V3r9kn9fKS"
     },
     {
       "added_at": null,

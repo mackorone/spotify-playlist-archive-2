@@ -1,6 +1,6 @@
 {
   "description": "The best in every corner of modern punk rock. Cover: Upchuck",
-  "num_followers": 472104,
+  "num_followers": 472120,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Pain to Power",
-        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
-      },
-      "artists": [
-        {
-          "name": "Maruja",
-          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bloodsport",
-      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "Hablame Bonito",
         "url": "https://open.spotify.com/album/0Xshxl3jl5UWJCCHm4R29y"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 175793,
       "name": "Hablame Bonito",
       "url": "https://open.spotify.com/track/4iu0dsOOKLsjyjMiT0WyLP"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Pain to Power",
+        "url": "https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj"
+      },
+      "artists": [
+        {
+          "name": "Maruja",
+          "url": "https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bloodsport",
+      "url": "https://open.spotify.com/track/66wM8T14qRselu34qFBhC2"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "TREK",
-        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
-      },
-      "artists": [
-        {
-          "name": "Shady Nasty",
-          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "SCREWDRIVA",
-      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "The Outlaw Star",
         "url": "https://open.spotify.com/album/2ypUjJxlG4VJfNpI482ne8"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 155393,
       "name": "The Outlaw Star",
       "url": "https://open.spotify.com/track/56xmpRMOJ2x2QgOE5tGo6u"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "TREK",
+        "url": "https://open.spotify.com/album/6VtFpPd45wcQZwhmWiKiEZ"
+      },
+      "artists": [
+        {
+          "name": "Shady Nasty",
+          "url": "https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "SCREWDRIVA",
+      "url": "https://open.spotify.com/track/0zxrrou9Dq47FyRZhPNR51"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
-      },
-      "artists": [
-        {
-          "name": "Girl Tones",
-          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
-        }
-      ],
-      "duration_ms": 148663,
-      "name": "Burnout",
-      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "SLEEP WHEN I'M DEAD",
         "url": "https://open.spotify.com/album/3mjfzxnjJZdqNHV72bwiA9"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Pub Watch",
-        "url": "https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L"
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/1NCPSVQDyMouZDyGyKqzTd"
       },
       "artists": [
         {
-          "name": "CARSICK",
-          "url": "https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH"
+          "name": "Girl Tones",
+          "url": "https://open.spotify.com/artist/1Tq0nryXkwLARcHDMIZbY6"
         }
       ],
-      "duration_ms": 200314,
-      "name": "Pub Watch",
-      "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
+      "duration_ms": 148663,
+      "name": "Burnout",
+      "url": "https://open.spotify.com/track/0GcX7hGiXATzis6ViSderK"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Pub Watch",
+        "url": "https://open.spotify.com/album/227FBuf1tCv5C92D3J2E3L"
+      },
+      "artists": [
+        {
+          "name": "CARSICK",
+          "url": "https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH"
+        }
+      ],
+      "duration_ms": 200314,
+      "name": "Pub Watch",
+      "url": "https://open.spotify.com/track/0t4aamr11YYxKon8iEyGbj"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Erasure",
         "url": "https://open.spotify.com/album/2CO8m2xkLXB7AeFZZginud"
       },
@@ -1247,6 +1247,38 @@
       "duration_ms": 189159,
       "name": "Erasure",
       "url": "https://open.spotify.com/track/4h3HGVqnpR2wvFo8QTM2YR"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Big-Box Store Heart",
+        "url": "https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM"
+      },
+      "artists": [
+        {
+          "name": "Prince Daddy & the Hyena",
+          "url": "https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49"
+        }
+      ],
+      "duration_ms": 215948,
+      "name": "Big-Box Store Heart",
+      "url": "https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/6Qi5ej0C9M1ru0bhuwkS5m"
+      },
+      "artists": [
+        {
+          "name": "Teen Mortgage",
+          "url": "https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP"
+        }
+      ],
+      "duration_ms": 194657,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/061YzXs5MzqCO0LnNyelrn"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1315,18 +1347,38 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "An Artist Is An Artist",
-        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
+        "name": "New Self",
+        "url": "https://open.spotify.com/album/0owImlgT3FJ7jG1LqYGS1V"
       },
       "artists": [
         {
-          "name": "Skunk Anansie",
-          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+          "name": "THE BOBBY LEES",
+          "url": "https://open.spotify.com/artist/5rk0vdxhhpLJ0mgyvx0BZI"
         }
       ],
-      "duration_ms": 191448,
-      "name": "An Artist Is An Artist",
-      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
+      "duration_ms": 157946,
+      "name": "New Self",
+      "url": "https://open.spotify.com/track/7gKG7EJIW0fSUAHmOr4b3q"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Delicate",
+        "url": "https://open.spotify.com/album/2Tlbb5F2tt4IatJzeEm6DS"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        },
+        {
+          "name": "Jake Clemons",
+          "url": "https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ"
+        }
+      ],
+      "duration_ms": 286272,
+      "name": "Delicate",
+      "url": "https://open.spotify.com/track/2vbSolhCUDzOJ8nNaK2UKa"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1351,6 +1403,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "An Artist Is An Artist",
+        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "duration_ms": 191448,
+      "name": "An Artist Is An Artist",
+      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Swing Life Away",
         "url": "https://open.spotify.com/album/4i8WGpA8DFqNsI6rhhIBOY"
       },
@@ -1363,38 +1431,6 @@
       "duration_ms": 227987,
       "name": "Swing Life Away",
       "url": "https://open.spotify.com/track/0i8S7t9Lf6x08wNFZLMziN"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Future Spring",
-        "url": "https://open.spotify.com/album/2z8jMCHWLiETTJAsHRIMId"
-      },
-      "artists": [
-        {
-          "name": "Gladie",
-          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
-        }
-      ],
-      "duration_ms": 165312,
-      "name": "Future Spring",
-      "url": "https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Sabotage",
-        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
-      },
-      "artists": [
-        {
-          "name": "Show Me the Body",
-          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
-        }
-      ],
-      "duration_ms": 170362,
-      "name": "Sabotage",
-      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1415,6 +1451,22 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
+        "name": "Sabotage",
+        "url": "https://open.spotify.com/album/7nPd8RFHLiqjftozCODIRp"
+      },
+      "artists": [
+        {
+          "name": "Show Me the Body",
+          "url": "https://open.spotify.com/artist/5jh7sgXW2njALiIh0aPXjB"
+        }
+      ],
+      "duration_ms": 170362,
+      "name": "Sabotage",
+      "url": "https://open.spotify.com/track/0d0dCSbntM8IIXnaHFJzC8"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
         "name": "Tomorrow We Escape",
         "url": "https://open.spotify.com/album/1cSUzXXFmtNIFrCECjFe4R"
       },
@@ -1427,6 +1479,22 @@
       "duration_ms": 131079,
       "name": "Target Practice",
       "url": "https://open.spotify.com/track/1N3LYk2u9cSGnH1x5ODoqD"
+    },
+    {
+      "added_at": "2026-03-06 20:00:00",
+      "album": {
+        "name": "Future Spring",
+        "url": "https://open.spotify.com/album/2z8jMCHWLiETTJAsHRIMId"
+      },
+      "artists": [
+        {
+          "name": "Gladie",
+          "url": "https://open.spotify.com/artist/7CmAu41S1eT28xXF2ocPE6"
+        }
+      ],
+      "duration_ms": 165312,
+      "name": "Future Spring",
+      "url": "https://open.spotify.com/track/1gtphJS6qQn3VlxGYPCD33"
     },
     {
       "added_at": "2026-03-06 20:00:00",
@@ -1547,22 +1615,6 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o"
-      },
-      "artists": [
-        {
-          "name": "Alex Melton",
-          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
-        }
-      ],
-      "duration_ms": 155254,
-      "name": "Look Up",
-      "url": "https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
         "name": "I really am feeling better",
         "url": "https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C"
       },
@@ -1579,70 +1631,18 @@
     {
       "added_at": "2026-03-06 20:00:00",
       "album": {
-        "name": "CRIMINAL",
-        "url": "https://open.spotify.com/album/6tYOhX9KBCYw780fKofaW5"
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
-        },
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+          "name": "Alex Melton",
+          "url": "https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA"
         }
       ],
-      "duration_ms": 227258,
-      "name": "CRIMINAL",
-      "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Dirty Mirror Selfie / Where Blue Light Blooms",
-        "url": "https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 217765,
-      "name": "Dirty Mirror Selfie",
-      "url": "https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "THE FIRST TEST",
-        "url": "https://open.spotify.com/album/0AMkClFCC05JsSfKwm34GU"
-      },
-      "artists": [
-        {
-          "name": "Speed",
-          "url": "https://open.spotify.com/artist/4wf6GGNBqaU79839E6yjfn"
-        }
-      ],
-      "duration_ms": 134224,
-      "name": "THE FIRST TEST",
-      "url": "https://open.spotify.com/track/2w4syBfKFwzRioQVnbddrs"
-    },
-    {
-      "added_at": "2026-03-06 20:00:00",
-      "album": {
-        "name": "Violet",
-        "url": "https://open.spotify.com/album/2akaIK1XrP5jJ15AsSrjWz"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/43wNqEJvEkdWVgNQmOnLiB"
+      "duration_ms": 155254,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN"
     }
   ],
   "unique_name": "Today's Punk",

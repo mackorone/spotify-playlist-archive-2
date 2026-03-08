@@ -11152,7 +11152,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 138295,
       "name": "BLACKSHEEP",
       "url": "https://open.spotify.com/track/5USJ6dYt7G0LJLb6IEnoSw"
@@ -18726,6 +18726,28 @@
       "duration_ms": 297065,
       "name": "Come Back to Me!",
       "url": "https://open.spotify.com/track/6NHzPMLqocep68G9ve5HLo"
+    },
+    {
+      "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/1YGKCRId9miMhNJdeuZfYi"
+      },
+      "artists": [
+        {
+          "name": "Sarife",
+          "url": "https://open.spotify.com/artist/7dxviwWacvevEgy3sLjg4f"
+        },
+        {
+          "name": "Jo\u00e9l Dav\u00edd",
+          "url": "https://open.spotify.com/artist/2VIhuQHWV8VY8rJQZCuVJ5"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/0UREytiAyD0YqW8lzKIvbp"
     },
     {
       "album": {
@@ -92284,7 +92306,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 163125,
       "name": "Talk To Johnny",
       "url": "https://open.spotify.com/track/6obIwCzFzUYOS3ka1zI0wv"

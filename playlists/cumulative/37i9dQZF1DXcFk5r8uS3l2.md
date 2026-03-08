@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Tedeschi Trucks Band
 
-472 songs - 1 day 5 hr 39 min
+473 songs - 1 day 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@
 | [The Mend](https://open.spotify.com/track/3lsi95o89SYcpyuqGw0qeg) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Dirty Shine \(Dirty Deluxe\)](https://open.spotify.com/album/4GTwClQjdN0otMH75u6MYr) | 3:37 | 2023-11-17 | 2024-10-05 |
 | [The Mule](https://open.spotify.com/track/0lDB3aqhJRIGQw7iwrqcUl) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Larry Campbell](https://open.spotify.com/artist/3H4hGe57907k53oCONU1ZR) | [The Mule](https://open.spotify.com/album/6PiulVln1g9IQC3Kmz4u3m) | 3:00 | 2025-08-15 |  |
 | [The Preacher Man](https://open.spotify.com/track/0vOTVTfIG7e0FihbmfB72d) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [Old Habits](https://open.spotify.com/album/4YXrI2ePBrOXvATQ8qLd8y) | 2:48 | 2022-09-23 | 2022-10-22 |
-| [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7) | [Justin Golden](https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl) | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9) | 2:23 | 2024-05-09 |  |
+| [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/track/5sxEhQimCSJ6ntaNTCk1y7) | [Justin Golden](https://open.spotify.com/artist/0UJMXL1jlszq1XqzM9MOAl) | [The Rain Done Fell on Me, Pt\. 1](https://open.spotify.com/album/290GEbcFq3xbG49BNYy0N9) | 2:23 | 2024-05-09 | 2026-03-08 |
 | [The Reckoning](https://open.spotify.com/track/0JoT21QZNDV1f52oKAiyCA) | [The Deadbeat Cousins](https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40) | [The Reckoning](https://open.spotify.com/album/4SpmzZschXxbCnNAFTTESm) | 3:38 | 2022-06-17 | 2022-06-25 |
 | [The Tools](https://open.spotify.com/track/28l58QQjZkeghQ60oJciFZ) | [Katie Buchanan](https://open.spotify.com/artist/45JkiNZMtPXDGoKXzxoPE1) | [Are You Mad Yet?](https://open.spotify.com/album/5hqt9vPCSmnDdcJMX1VG0h) | 2:27 | 2022-03-18 | 2022-03-30 |
 | [These Hands](https://open.spotify.com/track/2LN7oMYv9m9xzDrCy4AMqu) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [The Sound Experiment 2 \- EP](https://open.spotify.com/album/2RVHro1akoqXxD5ZHB7mgO) | 3:21 | 2021-12-17 | 2023-03-11 |
@@ -457,6 +457,7 @@
 | [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 | 2026-02-13 |  |
 | [What Are You Listening To?](https://open.spotify.com/track/2mbaqK3h3Il91gTq4gMUQm) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Joy Comes Back](https://open.spotify.com/album/0KVRKuJ3L6dpheQaBJZJrt) | 4:17 | 2021-12-17 | 2022-07-17 |
 | [What Did I Do](https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Southern Avenue](https://open.spotify.com/album/2bP8zitRYEmT1mISjibQfL) | 3:52 | 2021-12-17 | 2022-12-17 |
+| [What Good Is My Love?](https://open.spotify.com/track/4OyR0bZxleusBdQMQ83Afh) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Orianthi](https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs) | [What Good Is My Love?](https://open.spotify.com/album/1Jno4Yu87PMgGpMQ1uSkvc) | 3:33 | 2026-03-06 |  |
 | [What I Wouldn't Do](https://open.spotify.com/track/0pVvXJtzmqExa15afINt9C) | [Shantaia](https://open.spotify.com/artist/6VHwN4Sn4aQgHiEj7sUo1T) | [What I Wouldn't Do](https://open.spotify.com/album/1AmOfiZW1WaiU5l2hBaR5A) | 3:09 | 2024-06-07 |  |
 | [What's Real](https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3) | [Drew Foust](https://open.spotify.com/artist/7enMAKmPy57r3E6He9IgWE) | [What's Real](https://open.spotify.com/album/7DlzIrpKO1uO54svO23khF) | 4:08 | 2022-08-05 | 2022-08-27 |
 | [When It Gets Dark](https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [When It Gets Dark](https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja) | 2:28 | 2024-10-18 | 2025-01-25 |

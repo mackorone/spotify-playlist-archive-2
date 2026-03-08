@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15934,
+  "num_followers": 15936,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAADvZsw7jfaHT7vAcdYLA/D2",
+  "snapshot_id": "aaoZAAAAAAAqiNUNqSU5k95yzdISi++s",
   "tracks": [
     {
       "added_at": null,
@@ -56,7 +56,7 @@
       "added_at": null,
       "album": {
         "name": "USB",
-        "url": "https://open.spotify.com/album/3Jvz71ZoKZaTQbbQyXfHwT"
+        "url": "https://open.spotify.com/album/17Y0WRHJehin8BUG2n9jkM"
       },
       "artists": [
         {
@@ -70,7 +70,7 @@
       ],
       "duration_ms": 171764,
       "name": "..FEISTY",
-      "url": "https://open.spotify.com/track/6jhoA7WipfL1Vx9K26TQRT"
+      "url": "https://open.spotify.com/track/7wfz2GOmuDxKztNfTfXQvu"
     },
     {
       "added_at": null,
@@ -319,6 +319,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "USB002 REMIXES",
+        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "..FEISTY - Oppidan remix",
+      "url": "https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Italiano",
         "url": "https://open.spotify.com/album/6mcfFvRK1uZEoCa6P1xuxl"
       },
@@ -359,26 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seductive",
-        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
-      },
-      "artists": [
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 178546,
-      "name": "Mami (feat. BIA)",
-      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Buy What U Want",
         "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
       },
@@ -395,6 +399,26 @@
       "duration_ms": 227669,
       "name": "Buy What U Want",
       "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seductive",
+        "url": "https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5"
+      },
+      "artists": [
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 178546,
+      "name": "Mami (feat. BIA)",
+      "url": "https://open.spotify.com/track/0fu8IDTHrJgnUMgJmhrWRa"
     },
     {
       "added_at": null,
@@ -491,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 141760,
-      "name": "HARD WAY (feat. Becky G)",
-      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/4EgafMzPEdYTKsNuCiCfFg"
       },
@@ -539,6 +543,26 @@
       "duration_ms": 208885,
       "name": "Perfect (with Sia)",
       "url": "https://open.spotify.com/track/7gh6635LXixA4Cw9baMWKp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 141760,
+      "name": "HARD WAY (feat. Becky G)",
+      "url": "https://open.spotify.com/track/6nmFmZXID8zfYp21aI72KE"
     },
     {
       "added_at": null,
@@ -1071,34 +1095,6 @@
       "duration_ms": 137003,
       "name": "back it up",
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-        "url": "https://open.spotify.com/album/4ivFpkn1STHMCITMSO7vUt"
-      },
-      "artists": [
-        {
-          "name": "Lil Blessin",
-          "url": "https://open.spotify.com/artist/5SwdIfc2sLJoPZhVkrilYH"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Likka Sto 2 (feat. Travis Scott, G Herbo & BIA)",
-      "url": "https://open.spotify.com/track/3NbQIxqkq36cy5a8Ub9vZ0"
     }
   ],
   "unique_name": "This Is BIA",

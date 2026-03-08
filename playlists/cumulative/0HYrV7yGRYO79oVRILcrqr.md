@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-346 songs - 21 hr 29 min
+349 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Goes like this](https://open.spotify.com/track/75u3OSWmlthee7G1k149hA) | [FH Baloo](https://open.spotify.com/artist/7rkZjZIX74Z5uG5ayplthd) | [Goes like this](https://open.spotify.com/album/2fRbbTLonnCV19IAYyjqmX) | 5:14 | 2025-09-02 |  |
 | [Good ain't easy](https://open.spotify.com/track/7ic4oLf0a1zRr4dRPdLltR) | [Billy Witch](https://open.spotify.com/artist/2ZWJj4PwlFSk50k0Oca1Bw) | [Good ain't easy](https://open.spotify.com/album/0anYwqjjH7DryavMxjKjv0) | 3:19 | 2025-11-10 | 2025-12-17 |
 | [Good Bye Baby](https://open.spotify.com/track/7wKQ4aUYEPXIq0FuWTIiS3) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Good Bye Baby](https://open.spotify.com/album/2C0ez6GxS1biRCR0AwH7fB) | 4:34 | 2025-11-12 | 2025-12-17 |
+| [Good Riddance](https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Good Riddance](https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3) | 3:51 | 2026-03-07 |  |
 | [got a little spacey](https://open.spotify.com/track/64t4vsXlRGBbEoxN9gT12C) | [rivers western](https://open.spotify.com/artist/31yh8AHiPkbkybRerMmuv9) | [got a little spacey](https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f) | 2:43 | 2025-10-18 | 2025-11-28 |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 |  |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 |  |
@@ -160,6 +161,7 @@
 | [Just Before Sunrise](https://open.spotify.com/track/3S3EBrid1z5Dsgj0NjHj77) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 2:38 | 2025-09-21 | 2025-11-28 |
 | [Just Give Me A Call](https://open.spotify.com/track/2aWedzFK5OhL3crTShtzg6) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Just Give Me A Call](https://open.spotify.com/album/2XOfRnvKfMxNV9lHiA1XCy) | 5:20 | 2025-09-28 | 2025-12-17 |
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-31 | 2025-12-17 |
+| [Kick'Em In The Head](https://open.spotify.com/track/0EsXtODFrB6AgEC5ZS9qvZ) | [Rat Silo](https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7) | [Kick'Em In The Head](https://open.spotify.com/album/7nk2GdYm79ADyoqJDruRT5) | 3:57 | 2026-03-07 |  |
 | [Kings & Queens](https://open.spotify.com/track/3F5WjDztBiHJFCyiomxW1m) | [EsKIL](https://open.spotify.com/artist/2Gcp9We5VZX6XunRvAnXr0), [Starlunge](https://open.spotify.com/artist/3KhGmNhB6fadHcYqPcT2to) | [Kings & Queens](https://open.spotify.com/album/1Km78h7TfdKLZO6FLHAzjQ) | 2:59 | 2026-02-24 |  |
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
@@ -341,6 +343,7 @@
 | [Where Is My Home](https://open.spotify.com/track/7BOq5JrhLVdKlBoqzLJRij) | [Shao Hao](https://open.spotify.com/artist/2XTN7HUsm5XQJg6i3DGQHn) | [Where Is My Home](https://open.spotify.com/album/53o3hU2tzVnuhEzxi0smMY) | 2:54 | 2026-01-11 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-12-08 |  |
 | [White Tiger Chronicles 2024](https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu) | [MR Smith Group \(MSG\)](https://open.spotify.com/artist/6l9p3JaA6pQ8siip0fOxNM) | [White Tiger Chronicles 2024](https://open.spotify.com/album/5RSm9WADXmIjIztIGvzNEg) | 4:42 | 2026-02-05 |  |
+| [Widespread Coma](https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Widespread Coma](https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d) | 3:40 | 2026-03-07 |  |
 | [Without Ligth](https://open.spotify.com/track/4iFvBYv9dvov9VP5iYPZbI) | [Bry](https://open.spotify.com/artist/2ySJgdSMRpOkxkmseui1Kt) | [Butterflies](https://open.spotify.com/album/5jxuctCE4OHBlAKEFzBp9Y) | 3:05 | 2025-10-05 | 2025-11-28 |
 | [Wolves Of E\-Street](https://open.spotify.com/track/2rQ28XXzoIxh0Q5MvPCuiS) | [The Delta Shake](https://open.spotify.com/artist/7umkJ0FWhHXtPTRzxFVVti) | [Shit Creek Blues](https://open.spotify.com/album/0vPt56J8cBKF1csxRFRRmG) | 3:28 | 2025-12-16 |  |
 | [Ya sev Ya öldür](https://open.spotify.com/track/6OXW8XDKT53BLfcARq7U7F) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Ya sev Ya öldür](https://open.spotify.com/album/2eSYlzWMaj9KoZfDc2eqOx) | 3:00 | 2025-11-23 | 2025-12-17 |

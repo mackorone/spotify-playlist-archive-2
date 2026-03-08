@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31057,
+  "num_followers": 31064,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABxLjrqqY2R0qgqhDzElEV9",
+  "snapshot_id": "aaoZAAAAAAAlbkawNUzW1UnpWtE8QdEC",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Killing Floor",
+      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
       "added_at": null,
@@ -51,22 +67,6 @@
       "duration_ms": 230853,
       "name": "Sitting On Top Of The World",
       "url": "https://open.spotify.com/track/0cqZD5rEjMOnsYdxt6y9Pl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "Killing Floor",
-      "url": "https://open.spotify.com/track/1a8vVeidOsauNu6rQmHBRS"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Poor Boy",
+      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 210826,
       "name": "I Ain't Superstitious",
       "url": "https://open.spotify.com/track/14RtX37onWzSyGDxrVEjnH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Poor Boy",
-      "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
     },
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 223946,
       "name": "Rockin' Daddy",
       "url": "https://open.spotify.com/track/0aRpkN7kqJKjkzxv6ukKLI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Three Hundred Pounds Of Joy",
+      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 167426,
       "name": "Highway 49",
       "url": "https://open.spotify.com/track/12notHo8LwKc09rKORGtAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Three Hundred Pounds Of Joy",
-      "url": "https://open.spotify.com/track/5UDsgV8tHUP3wnh12MYbpZ"
     },
     {
       "added_at": null,
@@ -359,6 +359,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Tail Dragger",
+      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Charlie Watts",
+          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
+        },
+        {
+          "name": "Bill Wyman",
+          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
+        }
+      ],
+      "duration_ms": 175413,
+      "name": "Worried About My Baby",
+      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
       },
@@ -375,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
       },
       "artists": [
         {
@@ -384,9 +428,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 179400,
-      "name": "Tail Dragger",
-      "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
+      "duration_ms": 149400,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
     },
     {
       "added_at": null,
@@ -411,22 +455,6 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/22o1qy3iZ7CyXUdK6BIf2n"
     },
     {
       "added_at": null,
@@ -495,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 159373,
+      "name": "Going Back Home",
+      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
@@ -511,34 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The London Howlin\u2019 Wolf Sessions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0Ja5leAzA5UZPhQC07U10l"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Charlie Watts",
-          "url": "https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k"
-        },
-        {
-          "name": "Bill Wyman",
-          "url": "https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC"
-        }
-      ],
-      "duration_ms": 175413,
-      "name": "Worried About My Baby",
-      "url": "https://open.spotify.com/track/35s3je4P8U5HkmwnYGCr22"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 174226,
       "name": "You Gonna Wreck My Life",
       "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 159373,
-      "name": "Going Back Home",
-      "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
       "duration_ms": 191194,
       "name": "Color And Kind",
       "url": "https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Legends Howlin' Wolf: The Giant Voice of Blues",
+        "url": "https://open.spotify.com/album/10PSqAaeMiAWmeYtheIs4Z"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 175379,
+      "name": "I'm Leaving You",
+      "url": "https://open.spotify.com/track/6uNfp2UaHJFucfdxmZaQvx"
     },
     {
       "added_at": null,

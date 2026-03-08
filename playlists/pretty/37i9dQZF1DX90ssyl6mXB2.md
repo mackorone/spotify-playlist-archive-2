@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off\. cover: Devin Donnell
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,995 likes - 172 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,987 likes - 172 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

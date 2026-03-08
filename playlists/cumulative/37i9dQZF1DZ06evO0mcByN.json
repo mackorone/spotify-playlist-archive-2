@@ -401,6 +401,32 @@
     },
     {
       "album": {
+        "name": "Ele Continua Sendo Bom (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73CHRIILjit70Dl9k1OIAq"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        },
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454867,
+      "name": "Ele Continua Sendo Bom - Ao Vivo",
+      "url": "https://open.spotify.com/track/747qPyNXVeRyg3wsUhJau4"
+    },
+    {
+      "album": {
         "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
         "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },

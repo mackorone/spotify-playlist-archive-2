@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170816,
+  "num_followers": 170826,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Blue Heron Suite",
         "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 268080,
       "name": "Blue Heron",
       "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Wildflowers in the Graveyard",
-        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
-      },
-      "artists": [
-        {
-          "name": "Amber Rubarth",
-          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
-        }
-      ],
-      "duration_ms": 180977,
-      "name": "Wildflowers in the Graveyard",
-      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Vincent Neil Emerson",
         "url": "https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 293240,
       "name": "Learnin' to Drown",
       "url": "https://open.spotify.com/track/0jdXNwaLrxoY8n4LHLeBKX"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Wildflowers in the Graveyard",
+        "url": "https://open.spotify.com/album/4e7AgMaSwpEFUgBOw2aBPS"
+      },
+      "artists": [
+        {
+          "name": "Amber Rubarth",
+          "url": "https://open.spotify.com/artist/3hCsjNTxbes8L05Vy8Dkva"
+        }
+      ],
+      "duration_ms": 180977,
+      "name": "Wildflowers in the Graveyard",
+      "url": "https://open.spotify.com/track/0ucT092kKnv71aS4tO8LEK"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -839,18 +839,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Riddy Arman",
-        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
       },
       "artists": [
         {
-          "name": "Riddy Arman",
-          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
         }
       ],
-      "duration_ms": 194306,
-      "name": "Too Late to Write a Love Song",
-      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -871,18 +871,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+        "name": "Riddy Arman",
+        "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "Riddy Arman",
+          "url": "https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42"
         }
       ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+      "duration_ms": 194306,
+      "name": "Too Late to Write a Love Song",
+      "url": "https://open.spotify.com/track/0waQPHO2e0G3NK8QtOBM1b"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Miracle of Love",
-        "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
-      },
-      "artists": [
-        {
-          "name": "Jamie Lawson",
-          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
-        }
-      ],
-      "duration_ms": 268839,
-      "name": "Miracle of Love",
-      "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Between the Dirt and the Stars",
         "url": "https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 463133,
       "name": "Between the Dirt and the Stars",
       "url": "https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Miracle of Love",
+        "url": "https://open.spotify.com/album/5TdiHAoc87RInbeJFwACQx"
+      },
+      "artists": [
+        {
+          "name": "Jamie Lawson",
+          "url": "https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND"
+        }
+      ],
+      "duration_ms": 268839,
+      "name": "Miracle of Love",
+      "url": "https://open.spotify.com/track/7oBGripcuBszD5sL8zYyUp"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6"
-      },
-      "artists": [
-        {
-          "name": "Eliza Gilkyson",
-          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
-        }
-      ],
-      "duration_ms": 229810,
-      "name": "My Heart Aches",
-      "url": "https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Songs Of",
         "url": "https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 235506,
       "name": "Unmistakable Love",
       "url": "https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6"
+      },
+      "artists": [
+        {
+          "name": "Eliza Gilkyson",
+          "url": "https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG"
+        }
+      ],
+      "duration_ms": 229810,
+      "name": "My Heart Aches",
+      "url": "https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Music from The American Epic Sessions (Deluxe)",
-        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
-      },
-      "artists": [
-        {
-          "name": "Jerron Paxton",
-          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "Candy Man",
-      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 231263,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Music from The American Epic Sessions (Deluxe)",
+        "url": "https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP"
+      },
+      "artists": [
+        {
+          "name": "Jerron Paxton",
+          "url": "https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "Candy Man",
+      "url": "https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh"
     },
     {
       "added_at": "2025-09-02 20:08:27",

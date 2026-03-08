@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 
 > Smooth beats for sleepless nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,424 likes - 100 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,478 likes - 100 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdipfKDeMPTE.md) - [plain]
 | 99 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 |
 | 100 | [messy](https://open.spotify.com/track/5nvL2YxmnbQyuu7aGrI68K) | [luvuto](https://open.spotify.com/artist/3a7ffdUFmZl09XoSWY58F1) | [messy](https://open.spotify.com/album/3630vAsANBxtui6vKFSigL) | 1:36 |
 
-Snapshot ID: `AAAAAN29GFpbo4hvs+5L6LPDxSZLCKCX`
+Snapshot ID: `AAAAAL9dmVknJxdIUbK9BoglzyCXmqEk`

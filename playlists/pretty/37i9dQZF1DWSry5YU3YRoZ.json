@@ -1,6 +1,6 @@
 {
   "description": "\ucc28\ubd84\ud558\uace0 \uac10\uc131\uc801\uc778 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3b8\uc548\ud55c \ubc24 \ub418\uc138\uc694 :) (Listen to K-Pop sleeping songs)",
-  "num_followers": 11548,
+  "num_followers": 11552,
   "original_name": "zZZ \uc798\uc790\uc694",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-02-23 05:59:53",
       "album": {
-        "name": "The Little",
-        "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
-      },
-      "artists": [
-        {
-          "name": "Yeon seo",
-          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "The Little",
-      "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
-    },
-    {
-      "added_at": "2026-02-23 05:59:53",
-      "album": {
         "name": "Shore",
         "url": "https://open.spotify.com/album/6s8W1vDLKT7deGBvI42eW4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 200609,
       "name": "Shore",
       "url": "https://open.spotify.com/track/0Ld42IxP9PdoWTvGdplbTu"
+    },
+    {
+      "added_at": "2026-02-23 05:59:53",
+      "album": {
+        "name": "The Little",
+        "url": "https://open.spotify.com/album/2Eg215da9ZVMDyMXIBAjaM"
+      },
+      "artists": [
+        {
+          "name": "Yeon seo",
+          "url": "https://open.spotify.com/artist/0qSvXeaski5Xii16GeehVl"
+        }
+      ],
+      "duration_ms": 184653,
+      "name": "The Little",
+      "url": "https://open.spotify.com/track/464Ymo9CA1fD7lzgUnoijt"
     },
     {
       "added_at": "2026-02-23 05:59:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-23 05:59:53",
       "album": {
-        "name": "unveil",
-        "url": "https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly"
-      },
-      "artists": [
-        {
-          "name": "Darin",
-          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
-        }
-      ],
-      "duration_ms": 234634,
-      "name": "unveil",
-      "url": "https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT"
-    },
-    {
-      "added_at": "2026-02-23 05:59:53",
-      "album": {
         "name": "bright #7",
         "url": "https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 224693,
       "name": "Zero gravity",
       "url": "https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5"
+    },
+    {
+      "added_at": "2026-02-23 05:59:53",
+      "album": {
+        "name": "unveil",
+        "url": "https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "duration_ms": 234634,
+      "name": "unveil",
+      "url": "https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT"
     },
     {
       "added_at": "2026-02-23 05:59:53",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-02-23 05:59:53",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv"
+        "name": "Dream(\uafc8)",
+        "url": "https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF"
       },
       "artists": [
         {
-          "name": "soon",
-          "url": "https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW"
+          "name": "naso(\ub098\uc18c)",
+          "url": "https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj"
         }
       ],
-      "duration_ms": 191945,
-      "name": "of the waves",
-      "url": "https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq"
+      "duration_ms": 153460,
+      "name": "\uafc8(Dream)",
+      "url": "https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

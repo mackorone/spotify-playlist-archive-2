@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Harry Styles, Naaz, MEROL, Willem, OYSTER en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,275 likes - 102 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,271 likes - 102 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 68 | [Sunday Morning](https://open.spotify.com/track/5hdnDc3NnVwyIoi7nNlvIR) | [Steven Charlot](https://open.spotify.com/artist/6i7OOTSy7DyayuRf6vDcqV) | [Sunday Morning](https://open.spotify.com/album/50XfOUT4LjKOikHOOOns2k) | 3:01 |
 | 69 | [Cowboy](https://open.spotify.com/track/7hnrgxMQqNPALrdUyt5FQK) | [De Zweefclub](https://open.spotify.com/artist/67bciYwiIDwTuPynYTV44x) | [Cowboy](https://open.spotify.com/album/4rID2w9JciEcgYWfRGcYjm) | 2:30 |
 | 70 | [Dancing life loud](https://open.spotify.com/track/5vHVaxQ8LtC2SWJBbqIeOP) | [liou](https://open.spotify.com/artist/0JokWHgwhvceKMvsNestzx) | [Dancing life loud](https://open.spotify.com/album/0VNpElyGlBIWAqPH6RDEKz) | 1:57 |
-| 71 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 71 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 72 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 |
 | 73 | [Madan](https://open.spotify.com/track/09FK2Wj7NUg7WtSwM7Qbpi) | [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Thanda Choir](https://open.spotify.com/artist/0A2XryBGpXQ6fYWTRTzl9a) | [Madan](https://open.spotify.com/album/3AokLsMzl3QqAJNsnFqhiq) | 2:25 |
 | 74 | [Deep](https://open.spotify.com/track/3UfsbFtqWOt1rwdVzp79PB) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Celebrate](https://open.spotify.com/album/1OnIPTisIeojj8F0cSsKtb) | 3:14 |

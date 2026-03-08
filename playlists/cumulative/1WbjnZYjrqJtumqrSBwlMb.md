@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,277 songs - 3 day 6 hr 18 min
+1,278 songs - 3 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1068,6 +1068,7 @@
 | [That's Where You're Wrong](https://open.spotify.com/track/2fgQ8COnxtEvaTcNbEtsUf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 4:16 | 2020-09-07 |  |
 | [THAT'S WHY](https://open.spotify.com/track/35CL23NpSaz8lM9CVvg8Oq) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u) | 4:29 | 2025-07-25 |  |
 | [The 1975](https://open.spotify.com/track/7omxuGYsym1n2RlVf86OF9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:10 | 2023-01-10 |  |
+| [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2026-03-07 |  |
 | [The Afternoon's Hat](https://open.spotify.com/track/03LfyhvgGn2IHBFKRK4atG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [My Propeller](https://open.spotify.com/album/22fXxkb8RzPUam6OkkasGD) | 4:11 | 2021-04-26 |  |
 | [The Age Of The Understatement](https://open.spotify.com/track/5WXMS6w7Gvb02b6bx4eBSF) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 3:09 | 2020-09-22 |  |
 | [The Alchemist.](https://open.spotify.com/track/3Hjvju1zzBXkkpUHvHk8Js) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 2:56 | 2023-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Harry Styles, Ayra Starr et Jennifer Lopez x David Guetta au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 400,265 likes - 88 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 400,262 likes - 88 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 60 | [Talk To You](https://open.spotify.com/track/0kl6Ozan3fuUdCl6TlB15v) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Talk To You](https://open.spotify.com/album/374Z5kI6lNCztQV7HItzUJ) | 3:11 |
 | 61 | [Take Off Late](https://open.spotify.com/track/03fygREX2cwp5eK4BSnd90) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Mārara](https://open.spotify.com/album/1T3PfI7AsCc3hHXfsZTGC1) | 3:23 |
 | 62 | [La vie d'adulte](https://open.spotify.com/track/04yfXxzN52u4lZyVfJK9Sh) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [La vie d'adulte](https://open.spotify.com/album/4EakoUqcLXYKZm1peyxirG) | 2:51 |
-| 63 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 63 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 64 | [Just Friends](https://open.spotify.com/track/16vvU2dfM73xN57mFlQ9FF) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Suni MF](https://open.spotify.com/artist/4qAsPlSJTwa5QkKqTU6BWE), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Just Friends](https://open.spotify.com/album/0i0Lcddj3CLhd6LChNGWkH) | 3:35 |
 | 65 | [Sarafina](https://open.spotify.com/track/5bLPZWIkRQu0ZHa9WTHPgN) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Sarafina](https://open.spotify.com/album/413IuuPqSTVNy4wW7nlaEp) | 2:20 |
 | 66 | [Over](https://open.spotify.com/track/7aHOJIevXGXbN0w2ZdTaq9) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [1997 \(Deluxe Edition\)](https://open.spotify.com/album/2CWMH5EcTKQ4PJDwH0WzT1) | 3:11 |

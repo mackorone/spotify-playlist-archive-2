@@ -2694,10 +2694,28 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 232614,
       "name": "Just Like You",
       "url": "https://open.spotify.com/track/5KGYuXAJb2DK5YHL66eErj"
+    },
+    {
+      "album": {
+        "name": "Double Dutchess",
+        "url": "https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232614,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/5ff9NJ1oh2PncBD8R00jJ6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/057DaLBG8lJwWEgLEqBmHn">Tayla Parx</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-300 songs - 15 hr 54 min
+301 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,8 @@
 | [Jeffrey](https://open.spotify.com/track/264ukRrqfqyc8aumMKCyUY) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Tayla Made](https://open.spotify.com/album/0HkZEcTziK4QVSl2zhIZtH) | 2:39 | 2024-06-14 |  |
 | [Jukebox](https://open.spotify.com/track/3zimkebUVqYj73UzmV2Mvr) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Double Vision](https://open.spotify.com/album/1kHqXFjOrWyrpM8PKmGZSI) | 2:28 | 2024-06-14 |  |
 | [Just In Case](https://open.spotify.com/track/68UUqIbFxibjb3Zuz8djvM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/3IHDaf8CClvaSdgrewRPjl) | 3:09 | 2025-06-27 |  |
-| [Just Like You](https://open.spotify.com/track/5KGYuXAJb2DK5YHL66eErj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:52 | 2024-06-14 |  |
+| [Just Like You](https://open.spotify.com/track/5KGYuXAJb2DK5YHL66eErj) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/28aJgCWHQnLMOn6OHSGnG5) | 3:52 | 2024-06-14 | 2026-03-08 |
+| [Just Like You](https://open.spotify.com/track/5ff9NJ1oh2PncBD8R00jJ6) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G) | [Double Dutchess](https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e) | 3:52 | 2026-03-07 |  |
 | [Just Sayin/I Tried](https://open.spotify.com/track/2F4JaV4P4zajoAiUkHD36b) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 6:54 | 2024-06-14 |  |
 | [Justified \(feat\. Tank and The Bangas\)](https://open.spotify.com/track/7q1wxV2QkDLBzFF0ULN0fh) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [Coping Mechanisms](https://open.spotify.com/album/34DsY6z1WKrdPelGDmx8Uo) | 3:24 | 2024-06-14 |  |
 | [Lakshmi](https://open.spotify.com/track/5CqKqUCdNFokseAt9KhvDg) | [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Lakshmi](https://open.spotify.com/album/4XlgYZiY45DumQpau4dSh8) | 7:50 | 2024-06-14 | 2025-06-28 |

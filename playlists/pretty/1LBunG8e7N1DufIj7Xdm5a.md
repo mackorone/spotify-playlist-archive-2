@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,171 songs - 9 day 5 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 278 likes - 4,172 songs - 9 day 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4179,5 +4179,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4169 | [L'ASCENSORE](https://open.spotify.com/track/3JqvnuxORZD829YsW8yJfj) | [SULABU](https://open.spotify.com/artist/5OFSadrsMqs6HOOMJg63iJ) | [L'ASCENSORE](https://open.spotify.com/album/3rehCSq3MyMceGKkaL0CvD) | 3:43 |
 | 4170 | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/track/5kqcCwru3Oz2lg7WdWQhhy) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [ALTROVE \(MA NON QUI\)](https://open.spotify.com/album/2YgS8QXiJs9yxOVDHTwZO7) | 2:36 |
 | 4171 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 |
+| 4172 | [boyfriend...\(ew\)](https://open.spotify.com/track/6jayrcLdGIg47o8Wzkp3Vq) | [SXY](https://open.spotify.com/artist/7EENHjR09hCFj4wDM8NZCK) | [boyfriend...\(ew\)](https://open.spotify.com/album/2BFMWu941leigGSnriv5HB) | 2:21 |
 
-Snapshot ID: `AAAHqNDuYjumo9G9tHRfDKYP9vlhlIrZ`
+Snapshot ID: `AAAHqQ7A1f2D/m3vppUUgeyHtV8nZ6EL`

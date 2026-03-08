@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Lan\u00e7a Na M\u00e3o",
+        "url": "https://open.spotify.com/album/6O2ezAPEB7MCGZhwAkhz7b"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "GP DA ZL",
+          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124665,
+      "name": "Lan\u00e7a Na M\u00e3o",
+      "url": "https://open.spotify.com/track/7GD72BnEgPf6mmz04J8Iib"
+    },
+    {
+      "album": {
         "name": "PO2054AZ (Vol.II)",
         "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
       },
@@ -3938,7 +3960,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 166153,
       "name": "T\u00e1 Jogando Demais",
       "url": "https://open.spotify.com/track/62ehb7GLAwFpHCtzP96k4f"

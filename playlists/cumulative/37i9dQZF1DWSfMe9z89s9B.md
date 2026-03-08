@@ -4,7 +4,7 @@
 
 > The new school \- Alternative R&B\. Cover: Arima Ederra
 
-1,551 songs - 3 day 9 hr 49 min
+1,552 songs - 3 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1029,6 +1029,7 @@
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2022-04-25 | 2023-02-04 |
 | [Pleasures](https://open.spotify.com/track/1m55Dw8Yu6bWC99f8VgfJJ) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [Ethos](https://open.spotify.com/album/38YVMRxBcr6ZfKMoETiRSK) | 2:40 | 2022-04-01 | 2022-04-08 |
 | [Pluto](https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Pluto](https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen) | 3:33 | 2024-05-10 | 2024-09-29 |
+| [Pluto Baby](https://open.spotify.com/track/2fnncxuCtOF4I2ym9lmvuK) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa) | [Pluto Baby](https://open.spotify.com/album/7GQik0RFjzplwNocvo42A9) | 2:57 | 2026-03-06 |  |
 | [POOKIE'S REQUIEM](https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [POOKIE'S REQUIEM](https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC) | 1:48 | 2024-12-13 | 2025-03-11 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2022-04-01 | 2022-04-10 |
 | [Porn \(Ode to Sade\)](https://open.spotify.com/track/1uuLv1p8Ztl8Ysljymkdrh) | [Shayhan](https://open.spotify.com/artist/5bqTDHeDDzXWCdN4bKtVbz) | [Porn \(Ode to Sade\)](https://open.spotify.com/album/0rfO5ietaGusTfs3GMxBMi) | 3:53 | 2021-08-10 | 2022-07-29 |
@@ -1443,7 +1444,7 @@
 | [Vertigo](https://open.spotify.com/track/77sgvaDh1C0vp5BxjUFZ8e) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [COMETA](https://open.spotify.com/album/0RD14xtAc5iZMN8QHKw2Vn) | 3:38 | 2022-09-16 | 2023-08-12 |
 | [Vest & Boxers](https://open.spotify.com/track/6f2877TmbjnqZEqeQEGi3o) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Vest & Boxers](https://open.spotify.com/album/1Grk1vw2BVPcwvci9xcHy1) | 2:57 | 2022-04-01 | 2022-04-16 |
 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 | 2024-06-07 |  |
-| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 |  |
+| [Vintage](https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Vintage](https://open.spotify.com/album/1jSLdeIc8Fnb4dOrzpStWg) | 3:42 | 2024-06-07 | 2026-03-08 |
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-10-07 |
 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 | 2023-06-23 | 2024-06-29 |
 | [W1LL U L13?](https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [W1LL U L13?](https://open.spotify.com/album/5CDW68TiZrBhLgssTN9QAS) | 2:19 | 2024-12-13 |  |

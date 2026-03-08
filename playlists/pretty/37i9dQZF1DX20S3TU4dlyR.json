@@ -1,6 +1,6 @@
 {
   "description": "Este es el Reggae, al sur del continente americano. Foto: Dread Mar I.",
-  "num_followers": 73546,
+  "num_followers": 73570,
   "original_name": "Reggae al Sur",
   "owner": {
     "name": "Spotify",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "The Lady in Red",
-        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 225703,
-      "name": "The Lady in Red",
-      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Carpe Diem",
         "url": "https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 259283,
       "name": "Quemando Tu Pecho",
       "url": "https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "The Lady in Red",
+        "url": "https://open.spotify.com/album/5hY2bdC4Tg8l3x2jjjYANd"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 225703,
+      "name": "The Lady in Red",
+      "url": "https://open.spotify.com/track/2K8NBYKFbKa9UhAGHnN6GX"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Aguas Frescas De Jamaica",
-        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Tan Distante",
-      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La Bondad De Dios",
         "url": "https://open.spotify.com/album/5h1nuRMHAlLG0t9Zzmy4pd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236471,
       "name": "La Bondad De Dios",
       "url": "https://open.spotify.com/track/1ipdH4iZ4ERII5dTsmwIqR"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Aguas Frescas De Jamaica",
+        "url": "https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 278626,
+      "name": "Tan Distante",
+      "url": "https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "S\u00ed Ser\u00e1s",
-        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
-      },
-      "artists": [
-        {
-          "name": "Rondamon",
-          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Puede Parecer",
-      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/3UNLDMe86tqLPxyXz4dZHi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 190660,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/4HtwQqBnhftAYqeiww9Rme"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "S\u00ed Ser\u00e1s",
+        "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
+      },
+      "artists": [
+        {
+          "name": "Rondamon",
+          "url": "https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Puede Parecer",
+      "url": "https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Fiesta de Zombis",
+        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
+      },
+      "artists": [
+        {
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Fiesta de zombis",
+      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Fiesta de Zombis",
-        "url": "https://open.spotify.com/album/4KwoJGzMTFm6UqiODYriCp"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 254328,
-      "name": "Fiesta de zombis",
-      "url": "https://open.spotify.com/track/3KUJQbTrxzTcDCOrZREJpc"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Turbulencia o Paz",
-        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 203889,
-      "name": "Turbulencia o Paz",
-      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La Naturaleza",
         "url": "https://open.spotify.com/album/0aaqBC6otXqWPh7cZS8lIE"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 254058,
       "name": "La Naturaleza",
       "url": "https://open.spotify.com/track/4tDRsEVf39hky9RJVY6dOY"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Turbulencia o Paz",
+        "url": "https://open.spotify.com/album/49lFuZH1GlMP7jutMQ0hfi"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "duration_ms": 203889,
+      "name": "Turbulencia o Paz",
+      "url": "https://open.spotify.com/track/7ezZxJC2I9tMPY791GcRKZ"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Origen Natural",
+        "url": "https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC"
+      },
+      "artists": [
+        {
+          "name": "MAMA GAIA",
+          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
+        }
+      ],
+      "duration_ms": 197692,
+      "name": "Origen Natural",
+      "url": "https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "Loco Por Volverla a Ver",
         "url": "https://open.spotify.com/album/7cZTYqv7PwsdLbUepC3GEd"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 272189,
       "name": "Loco Por Volverla a Ver",
       "url": "https://open.spotify.com/track/5286CIWA8QpRrpCr9x7BbQ"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Origen Natural",
-        "url": "https://open.spotify.com/album/1SNVNkeVZNmyxK1komzCxC"
-      },
-      "artists": [
-        {
-          "name": "MAMA GAIA",
-          "url": "https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx"
-        }
-      ],
-      "duration_ms": 197692,
-      "name": "Origen Natural",
-      "url": "https://open.spotify.com/track/3VTg7UaLie6HofBvSnOHzQ"
     },
     {
       "added_at": "2026-01-23 03:00:06",

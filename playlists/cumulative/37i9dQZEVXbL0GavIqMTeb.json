@@ -4897,6 +4897,28 @@
     },
     {
       "album": {
+        "name": "JEREMIAS",
+        "url": "https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154516,
+      "name": "CHALET",
+      "url": "https://open.spotify.com/track/6D04cLJF71OwuyqxDusWwP"
+    },
+    {
+      "album": {
         "name": "Chamaka",
         "url": "https://open.spotify.com/album/7bAsYsieoIpj4mvjMtGDAq"
       },
@@ -7704,7 +7726,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 238010,
       "name": "Destello...",
       "url": "https://open.spotify.com/track/1iTBWVDuQaQ7yMybZri66d"
@@ -9446,7 +9468,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/5qE8PzKYJhbl0gnLwJSASu"
@@ -9490,7 +9512,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -11660,7 +11682,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 222315,
       "name": "Fuera Del Planeta",
       "url": "https://open.spotify.com/track/7MQ04bZzJGKiBRioclEiIo"
@@ -11946,6 +11968,28 @@
       "duration_ms": 230513,
       "name": "Gata Only (Remix)",
       "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
+    },
+    {
+      "album": {
+        "name": "JEREMIAS",
+        "url": "https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "GATA SENSUAL",
+      "url": "https://open.spotify.com/track/5NjTcWpLUloHUiXUn64E0v"
     },
     {
       "album": {
@@ -12856,6 +12900,32 @@
       "duration_ms": 154493,
       "name": "HOT",
       "url": "https://open.spotify.com/track/5Pg4qYTcvCUBBq3jBhKq0t"
+    },
+    {
+      "album": {
+        "name": "JEREMIAS",
+        "url": "https://open.spotify.com/album/3DShOnGU64m1mESFNJoOA0"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Tobal Mj",
+          "url": "https://open.spotify.com/artist/2BJWqrBKEqtZUKWtzmpPDj"
+        },
+        {
+          "name": "Lyon la f",
+          "url": "https://open.spotify.com/artist/55gv2ZtVnRE0Hd8LwvXTye"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/72Cp6EZ55iI9ZyO7WEBZtr"
     },
     {
       "album": {
@@ -15736,7 +15806,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 212241,
       "name": "Like Crazy",
       "url": "https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR"

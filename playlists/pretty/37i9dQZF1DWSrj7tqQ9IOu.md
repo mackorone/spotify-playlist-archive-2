@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois dernier sélectionnés par les éditos de Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,601 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,588 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 22 | [un thé?](https://open.spotify.com/track/0vfazLBkcqqyQHJEcdrQDP) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [un thé?](https://open.spotify.com/album/5Ui4e36gPTGfjiER2wVsAI) | 2:32 |
 | 23 | [Miss You](https://open.spotify.com/track/6JSb9ZQroda8Lgd4rF8o60) | [Ms Ray](https://open.spotify.com/artist/1OwAcRe2gUEpDZhLAkiLRp), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Miss You](https://open.spotify.com/album/1SdzUAaeUy54xHAgWo2Gcg) | 3:44 |
 | 24 | [Happy](https://open.spotify.com/track/0aUvAHeO4GkWyAKYSz7JSx) | [Rhys Frank](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Happy](https://open.spotify.com/album/0B0floiGVspQNvqJAoODdD) | 3:42 |
-| 25 | [Silverlake Baby](https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Would You Go Down On A Girl? \(Deluxe\)](https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus) | 3:41 |
-| 26 | [La bête](https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ) | [Asinine](https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C) | [Doom](https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6) | 2:42 |
+| 25 | [La bête](https://open.spotify.com/track/1lV9VhiDMc6fDNhz5npGYQ) | [Asinine](https://open.spotify.com/artist/2w10N3hV0WUy9gwONm435C) | [Doom](https://open.spotify.com/album/4aJxye23XBkIPfXwBYx1n6) | 2:42 |
+| 26 | [Silverlake Baby](https://open.spotify.com/track/3Qrgf4pbGVzyc0UlcNA6Nh) | [Déyyess](https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK) | [Would You Go Down On A Girl? \(Deluxe\)](https://open.spotify.com/album/1j6EVqbhCEXZTsboxpaIus) | 3:41 |
 | 27 | [JBL](https://open.spotify.com/track/2IQRGtv0VD59aDGppsvrjJ) | [Keroué](https://open.spotify.com/artist/5BmYHHk3xzJxkmrHVkq4y8) | [JBL](https://open.spotify.com/album/7xe17TX8MAfxRHGhGJPUKc) | 3:11 |
 | 28 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 |
 | 29 | [Ongles cassés](https://open.spotify.com/track/4FLNvVjwgpNiuiHOaKaPE3) | [Cielbleu](https://open.spotify.com/artist/6kQS6z1b7oIsR1RLxc9jNc) | [Ongles cassés](https://open.spotify.com/album/1tSyawRXmLPVwx0XvA3tT3) | 3:29 |

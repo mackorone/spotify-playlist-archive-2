@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-877 songs - 2 day 14 hr 7 min
+878 songs - 2 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,7 @@
 | [Charango Dub](https://open.spotify.com/track/4Z4WBdtkbCiLhcc28e23Jx) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Charango Dub](https://open.spotify.com/album/1L7MABgdSg4VF8VjYoySmU) | 4:44 | 2022-11-25 | 2025-10-12 |
 | [Chasin](https://open.spotify.com/track/7c0hcOEQSi62Jdd98q59aI) | [Olumo Soundz](https://open.spotify.com/artist/1poZ5uHaXqaGiPV70IWi0l) | [U.N\. \(United Nonsense\)](https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF) | 7:58 | 2021-12-10 | 2022-07-27 |
 | [Chasing Shadows](https://open.spotify.com/track/7ubvJ2uA8J03MzGyeRtIpB) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Chasing Shadows](https://open.spotify.com/album/5LL2gV74c4Sm1ti5Ue1TIg) | 4:34 | 2025-11-03 |  |
-| [Chica de Favela \- Radio Edit](https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc) | [Beyond Music](https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp), [Siddhartha El Primero](https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE), [Shocktraderz](https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS) | [Chica de Favela](https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd) | 2:57 | 2025-10-17 |  |
+| [Chica de Favela \- Radio Edit](https://open.spotify.com/track/5pMgsIqgIgLls8nmcjjccc) | [Beyond Music](https://open.spotify.com/artist/26fbBUEUVuhF3uVvVthwbM), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Pesa Bazz](https://open.spotify.com/artist/7sfM6kdJfYgKZg9L8TTdpp), [Siddhartha El Primero](https://open.spotify.com/artist/2kvYTHudD5C2BosxPW6ptE), [Shocktraderz](https://open.spotify.com/artist/0gdk4Jex9a19Jz5i018nJS) | [Chica de Favela](https://open.spotify.com/album/4xIvmV1xVVHE7nx61RGhfd) | 2:57 | 2025-10-17 | 2026-03-08 |
 | [Chichala](https://open.spotify.com/track/6wXvGcNWgRsZDyIFC2zTuW) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Chichala](https://open.spotify.com/album/2d9E1iUmrOTVa8S5iQeIrG) | 2:53 | 2022-11-18 | 2025-05-03 |
 | [Chucusteady](https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6), [Mad Professor](https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7) | [Frente Cumbiero Meets Mad Professor](https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV) | 4:23 | 2021-10-06 | 2025-08-08 |
 | [Circular Movimento](https://open.spotify.com/track/0JQM8wWBFFjgy2iLCA0llY) | [Marsa](https://open.spotify.com/artist/4E5ZAqaEK4WnZJ9gZmXO50) | [Circular Movimento](https://open.spotify.com/album/52EVAjzv30WIEr9J3utCas) | 4:27 | 2021-12-10 | 2022-04-17 |
@@ -713,6 +713,7 @@
 | [Spiritual Ideation](https://open.spotify.com/track/6rsGTJ70GhGINYsscc8nJy) | [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Spiritual Ideation](https://open.spotify.com/album/3LE82F0VE2gOX0IBweuq7H) | 3:57 | 2021-10-06 | 2022-04-29 |
 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-17 | 2022-12-31 |
 | [Stella Marina](https://open.spotify.com/track/3ooN2Dz3PvuVHuy1fURigy) | [Charif Megarbane](https://open.spotify.com/artist/3251WMUEVLhM2xvYlpkyG4) | [Pesce Rosso / Stella Marina \(Habibi Funk Limited 002\)](https://open.spotify.com/album/5X0uXObzBzYbz5Wt7xZZn2) | 2:49 | 2024-06-21 | 2025-06-27 |
+| [Step Lightly](https://open.spotify.com/track/2vRvwjEa5SFu7BXhdfuFik) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js) | [Of The Earth](https://open.spotify.com/album/1WLCmU6lTy0OqC1ALX4wfJ) | 4:24 | 2026-03-06 |  |
 | [Stereo Rodeo](https://open.spotify.com/track/7bp0bfnfHzV8rLZCQH3nfB) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [Stereo Rodeo](https://open.spotify.com/album/2Goj3hsNylDlFk2ilAV8J1) | 3:44 | 2025-09-26 |  |
 | [Strange Heat](https://open.spotify.com/track/2lO10mx8zbxhneyaVtzP52) | [Wanubalé](https://open.spotify.com/artist/2Hvw8u0ssZnBDtqANHbnI2) | [Strange Heat](https://open.spotify.com/album/4uHsKnz3QbwjMU7HHXdyW0) | 5:18 | 2021-10-06 | 2022-04-21 |
 | [Strange Salsa](https://open.spotify.com/track/0m2wxPnFcPOjKnoj5AmQJR) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:19 | 2023-03-28 | 2023-05-13 |

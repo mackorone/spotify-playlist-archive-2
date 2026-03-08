@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19306,
+  "num_followers": 19304,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,22 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "Instant Rewards",
+        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
+      },
+      "artists": [
+        {
+          "name": "Tides From Nebula",
+          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "Fearflood",
+      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "Instant Rewards",
-        "url": "https://open.spotify.com/album/54n8MiXmukz3tjTs9294Bm"
-      },
-      "artists": [
-        {
-          "name": "Tides From Nebula",
-          "url": "https://open.spotify.com/artist/1CzKORB9IN0EjPEyeKBIkf"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "Fearflood",
-      "url": "https://open.spotify.com/track/4zhY8NiaTOr5FLN362ZcUJ"
     },
     {
       "added_at": "2025-04-06 08:27:45",
@@ -1263,34 +1263,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "Tradycyja",
-        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
-      },
-      "artists": [
-        {
-          "name": "Marcin Wyrostek",
-          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
-        },
-        {
-          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
-          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
-        },
-        {
-          "name": "Urszula Dudziak",
-          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
-        },
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 278672,
-      "name": "G\u00f3rniczy stan",
-      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "I Love Music",
         "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 443446,
       "name": "Tatras",
       "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "Tradycyja",
+        "url": "https://open.spotify.com/album/7kTZLPBwRRLPEn9B7MfxCV"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wyrostek",
+          "url": "https://open.spotify.com/artist/1kf0CUM0tP2zr1hpJdugrL"
+        },
+        {
+          "name": "Orkiestra Symfoniczna Filharmonii \u015al\u0105skiej",
+          "url": "https://open.spotify.com/artist/6T83dEJPnSvG3zVKI1jD1d"
+        },
+        {
+          "name": "Urszula Dudziak",
+          "url": "https://open.spotify.com/artist/7eSejfUR2a7h5u9IKfYwRk"
+        },
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 278672,
+      "name": "G\u00f3rniczy stan",
+      "url": "https://open.spotify.com/track/7sNL47pZFwRVPYjctb2K58"
     },
     {
       "added_at": "2025-04-06 08:27:45",

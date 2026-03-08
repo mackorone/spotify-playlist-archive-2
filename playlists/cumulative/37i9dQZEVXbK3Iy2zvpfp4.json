@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 142417,
       "name": "22",
       "url": "https://open.spotify.com/track/0R3eeOQZuJG9661NAlMIrT"
@@ -15509,6 +15509,24 @@
     },
     {
       "album": {
+        "name": "Daj Mi Noc",
+        "url": "https://open.spotify.com/album/3QjPopuPy6oOcK9ijGPqLf"
+      },
+      "artists": [
+        {
+          "name": "MRD",
+          "url": "https://open.spotify.com/artist/1mDF3XPBpyv3pBiqLbhhVX"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199541,
+      "name": "Daj Mi Noc",
+      "url": "https://open.spotify.com/track/7hB7dDQBCP4Ot49LYSUijG"
+    },
+    {
+      "album": {
         "name": "Daj mi noc (koncertowa)",
         "url": "https://open.spotify.com/album/2KVOScAlJiZ0cHFqG917Pl"
       },
@@ -15520,7 +15538,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 199541,
       "name": "Daj mi noc - koncertowa",
       "url": "https://open.spotify.com/track/1VyFG1CYeKm0CrTsEx50AI"
@@ -23163,6 +23181,24 @@
     },
     {
       "album": {
+        "name": "Fire In My Heart",
+        "url": "https://open.spotify.com/album/5pSP8ytxoxjdKRuId7ooHk"
+      },
+      "artists": [
+        {
+          "name": "Escape from New York",
+          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313638,
+      "name": "Fire In My Heart",
+      "url": "https://open.spotify.com/track/2Zi3BefpBaeH7tMznvmsni"
+    },
+    {
+      "album": {
         "name": "Fire in My Heart",
         "url": "https://open.spotify.com/album/2NOWqz17MC7S7NmvA2CWy8"
       },
@@ -26404,6 +26440,10 @@
         {
           "name": "Weezer",
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        },
+        {
+          "name": "Best Coast",
+          "url": "https://open.spotify.com/artist/5YkBrE0wF8cAlq3GCOw5Eu"
         }
       ],
       "date_added": "2026-03-03",
@@ -40888,7 +40928,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 129602,
       "name": "Loyal Chick",
       "url": "https://open.spotify.com/track/13TgaYopaH03sqaFAhB2fN"
@@ -43048,7 +43088,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 172323,
       "name": "Me and my",
       "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
@@ -60560,7 +60600,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 191541,
       "name": "Ruksak",
       "url": "https://open.spotify.com/track/7zWzlqZx6EUd95t3MhlTaY"
@@ -65966,7 +66006,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 237586,
       "name": "Sousou",
       "url": "https://open.spotify.com/track/4zfih9sHVVJMb0f7LRoAz8"
@@ -70224,6 +70264,24 @@
     {
       "album": {
         "name": "That's The Way It Is",
+        "url": "https://open.spotify.com/album/76UXGwUst31tICFVctrWtw"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
+    },
+    {
+      "album": {
+        "name": "That's The Way It Is",
         "url": "https://open.spotify.com/album/6AXR5LiuVES9yZgS20xQ8o"
       },
       "artists": [
@@ -70234,7 +70292,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 174960,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/7mNZJFF0B4r3cB8c2GPwz8"
@@ -74026,7 +74084,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 161440,
       "name": "Ukradnut\u00fd svet",
       "url": "https://open.spotify.com/track/4iH4T4m6tWLDyPjQskaUzY"
@@ -74092,6 +74150,28 @@
       "duration_ms": 273933,
       "name": "Umenie \u017ei\u0165",
       "url": "https://open.spotify.com/track/6F4eg4xszJnZamIN1sQfzf"
+    },
+    {
+      "album": {
+        "name": "Inkebrantable (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/61AAhksxYxU0hukOwmMNTR"
+      },
+      "artists": [
+        {
+          "name": "SFDK",
+          "url": "https://open.spotify.com/artist/56n1NeXsTOOxjX3Z4lVMTJ"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Un Cachito de Luz - Versi\u00f3n Deluxe",
+      "url": "https://open.spotify.com/track/0UJvn3UQWBSOh4Aj171Zoa"
     },
     {
       "album": {

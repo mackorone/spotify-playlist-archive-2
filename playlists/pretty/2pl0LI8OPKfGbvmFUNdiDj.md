@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 613 likes - 34 songs - 1 hr 53 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 614 likes - 37 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,5 +42,8 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 32 | [Gonzo](https://open.spotify.com/track/0hkHE5hYqBQcaeKxyKr259) | [Keepin' It Cloudy](https://open.spotify.com/artist/7wbDcKP4xhqq4NO3UpjhXk), [King Hansom](https://open.spotify.com/artist/19nbXBEBmc6z0hUdb9AB7f) | [Gonzo](https://open.spotify.com/album/1kL6WL20wKjBZo7bSgb36c) | 2:55 |
 | 33 | [Back 2 Back](https://open.spotify.com/track/7K02ichOW2ETR9CpgGe66n) | [Flav Gabry](https://open.spotify.com/artist/6HnknQDdmkAh8IIr2Z6rh5), [Slim Spitta](https://open.spotify.com/artist/5nfwr1v0kuonRC9Vnb573t) | [Back 2 Back](https://open.spotify.com/album/57YaD8D6CT5lTgC1Im14S2) | 4:24 |
 | 34 | [Aeon's End](https://open.spotify.com/track/0bb27f1MO2rIB9bemoFgrY) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Aeon's End](https://open.spotify.com/album/3coizvmbxb4VaoGcUusbg3) | 4:56 |
+| 35 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
+| 36 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 |
+| 37 | [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 |
 
-Snapshot ID: `AAADKltFw8AIj/uzXKsuysC9HrMjxTba`
+Snapshot ID: `AAADLf7wbUSNouCkOfOMbW5xCAI4AGQQ`

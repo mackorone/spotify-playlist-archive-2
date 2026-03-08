@@ -4,7 +4,7 @@
 
 > De magie van R&B \| Nieuwe releases \| Cover: Naomi Sharon
 
-718 songs - 1 day 12 hr 59 min
+719 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Make Me Forget](https://open.spotify.com/track/7pY0MF6y9pNpzxv7uTCJzD) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Make Me Forget](https://open.spotify.com/album/59CeMWslDVrFULYoxotqRl) | 3:58 | 2024-05-30 | 2025-03-08 |
 | [Make Me Wanna](https://open.spotify.com/track/5PvgFjmrALevsoP09K9HNW) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [The Juice: Vol\. III](https://open.spotify.com/album/3n0tNdtuPGksNxuAncvMnM) | 2:54 | 2023-04-23 | 2023-05-24 |
 | [Make Me Wanna](https://open.spotify.com/track/7KDTidXitqxwRz6UhfWXsB) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [Make Me Wanna](https://open.spotify.com/album/12M4YKGroXOTB1VWY8jhtj) | 2:54 | 2023-01-12 | 2023-05-07 |
-| [Make U Mine](https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [96 REBIRTH](https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1) | 2:33 | 2025-11-20 |  |
+| [Make U Mine](https://open.spotify.com/track/7d1uB2go55mTVLrnsGBU6f) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [96 REBIRTH](https://open.spotify.com/album/58FA2p757MlFsY4eqfnjN1) | 2:33 | 2025-11-20 | 2026-03-08 |
 | [Make You Remember Me](https://open.spotify.com/track/6GF1YpC8PqlaPyWnUyue8s) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [Make You Remember Me](https://open.spotify.com/album/1QCxlawfmRW3OFYNphiPuz) | 2:25 | 2024-03-01 | 2025-02-06 |
 | [Mamma Mia](https://open.spotify.com/track/69pG13xv6uyE1LynmL2vnk) | [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7), [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc) | [Mamma Mia](https://open.spotify.com/album/0hVbBxMS0ZDoxbVd0B8LJa) | 1:29 | 2024-02-23 | 2024-08-02 |
 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 | 2025-11-28 |  |
@@ -424,7 +424,7 @@
 | [Naked](https://open.spotify.com/track/5cyohpUtQViRIwZoodcl2O) | [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Between Spaces](https://open.spotify.com/album/5xKvJOrOl8uXL3IOmVhqZm) | 2:03 | 2024-07-12 | 2025-03-08 |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2025-02-05 | 2025-03-13 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-03-01 | 2023-03-23 |
-| [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 | 2026-03-05 |  |
+| [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 | 2026-03-05 |  |
 | [Need U To Need Me](https://open.spotify.com/track/7naZGbc2BHQC4m3pM5IbJ1) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Need U To Need Me](https://open.spotify.com/album/2AUG4FkivRXmWKyH9pf7yE) | 2:47 | 2025-03-07 | 2026-02-27 |
 | [Need You Now](https://open.spotify.com/track/3KHIZHZ3wAfpPVYdQF7oAs) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [Need You Now](https://open.spotify.com/album/1nIGSOY1ko8wYh10bJuhan) | 1:49 | 2025-06-27 |  |
 | [Never Need You](https://open.spotify.com/track/2cOIXOqu6Sj7TPjeYLcrF2) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Never Need You](https://open.spotify.com/album/0I8t7ydYrZp0QOZHQKYjel) | 2:23 | 2023-11-09 | 2023-11-21 |
@@ -440,6 +440,7 @@
 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 | 2025-02-05 | 2026-02-27 |
 | [No Secrets](https://open.spotify.com/track/0yR6C6fVO9EecfDKL7e9mY) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [No Secrets](https://open.spotify.com/album/1dJdsWWuEbTDh43PpZfcbT) | 3:09 | 2025-07-03 |  |
 | [Nobody believes me](https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv) | [Jueles Chloe](https://open.spotify.com/artist/65z7Vd7yVFOijgxcvV2BhY) | [Nobody believes me](https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth) | 2:38 | 2024-05-16 | 2025-02-11 |
+| [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 | 2026-03-05 |  |
 | [Not Enough](https://open.spotify.com/track/6J3cHBb0hLCsoDnTRU8m7h) | [Yael Daila](https://open.spotify.com/artist/4qKEr51BeenT8ZAcwnUsWT) | [Not Enough](https://open.spotify.com/album/4SuVgQ3GNezJ3tHpbKg0JC) | 2:07 | 2025-04-11 | 2026-03-07 |
 | [Not Fair](https://open.spotify.com/track/5mCQKLDgoMndWXm6DOdrve) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX), [Mellina Tey](https://open.spotify.com/artist/3dmTSthHSYiq7NndeKYGdx) | [Not Fair](https://open.spotify.com/album/5TgCn2rZ8FIHsmqhzrmQDi) | 3:25 | 2025-08-07 |  |
 | [NOT FAIR](https://open.spotify.com/track/277K8GOv27Pq3qS4IKSRoW) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 3:16 | 2025-06-02 |  |

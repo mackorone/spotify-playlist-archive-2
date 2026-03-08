@@ -1,6 +1,6 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: John West & Lange Frans",
-  "num_followers": 155169,
+  "num_followers": 155203,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
@@ -72,6 +72,10 @@
           "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
         },
         {
+          "name": "Brace",
+          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
+        },
+        {
           "name": "Billy Dans",
           "url": "https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW"
         },
@@ -82,10 +86,6 @@
         {
           "name": "Poke",
           "url": "https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1"
-        },
-        {
-          "name": "Brace",
-          "url": "https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG"
         }
       ],
       "duration_ms": 173553,

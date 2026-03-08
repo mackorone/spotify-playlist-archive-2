@@ -2203,6 +2203,24 @@
     },
     {
       "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3"
+      },
+      "artists": [
+        {
+          "name": "Daysick",
+          "url": "https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA"
+    },
+    {
+      "album": {
         "name": "got a little spacey",
         "url": "https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f"
       },
@@ -2810,6 +2828,24 @@
       "duration_ms": 238360,
       "name": "Keep Doin' What You're Doin'",
       "url": "https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu"
+    },
+    {
+      "album": {
+        "name": "Kick'Em In The Head",
+        "url": "https://open.spotify.com/album/7nk2GdYm79ADyoqJDruRT5"
+      },
+      "artists": [
+        {
+          "name": "Rat Silo",
+          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237705,
+      "name": "Kick'Em In The Head",
+      "url": "https://open.spotify.com/track/0EsXtODFrB6AgEC5ZS9qvZ"
     },
     {
       "album": {
@@ -6144,6 +6180,24 @@
       "duration_ms": 282739,
       "name": "White Tiger Chronicles 2024",
       "url": "https://open.spotify.com/track/504hlNAOuRyHUNvCwS3npu"
+    },
+    {
+      "album": {
+        "name": "Widespread Coma",
+        "url": "https://open.spotify.com/album/4m3ONm2GFVHif9n78nNh5d"
+      },
+      "artists": [
+        {
+          "name": "Richie Cross",
+          "url": "https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220740,
+      "name": "Widespread Coma",
+      "url": "https://open.spotify.com/track/2NDtE7qiWJirYfhZ3gydOC"
     },
     {
       "album": {

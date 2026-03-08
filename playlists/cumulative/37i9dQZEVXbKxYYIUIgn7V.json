@@ -5588,10 +5588,28 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 240773,
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/41IZazdHzQOB9ZlvReDzgR"
+    },
+    {
+      "album": {
+        "name": "The Chris Rainbow Anthology - 1974-1981",
+        "url": "https://open.spotify.com/album/7rCpFovU7itXZjSXnbvWeg"
+      },
+      "artists": [
+        {
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/6t6BoVwsDCpLOogU2rRP19"
     },
     {
       "album": {
@@ -6316,6 +6334,32 @@
       "duration_ms": 238320,
       "name": "Better",
       "url": "https://open.spotify.com/track/6oUgmZK0McW4706SLJlfDh"
+    },
+    {
+      "album": {
+        "name": "Better without you",
+        "url": "https://open.spotify.com/album/1Vnzphm6T9MJ13S5uBAcf8"
+      },
+      "artists": [
+        {
+          "name": "Chris Honor",
+          "url": "https://open.spotify.com/artist/3Iu6vbJILuf8X9rUYSeEiH"
+        },
+        {
+          "name": "ChammyVal",
+          "url": "https://open.spotify.com/artist/6ZByMPfaQH3PiCtoO628jQ"
+        },
+        {
+          "name": "K0RE",
+          "url": "https://open.spotify.com/artist/0UFJlPmbDV8d6tFIcqq148"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Better without you",
+      "url": "https://open.spotify.com/track/10AY1BJcHxOmy3X5zb37Bb"
     },
     {
       "album": {
@@ -16877,6 +16921,24 @@
     },
     {
       "album": {
+        "name": "Ferto",
+        "url": "https://open.spotify.com/album/0jlUsyUVvSUASgQzPa61WV"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Ferto",
+      "url": "https://open.spotify.com/track/0LStLUCQgbv6WIEO2fFAO5"
+    },
+    {
+      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0ULd6WFTpdtoBl7eBgH2oo"
       },
@@ -26672,7 +26734,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 179904,
       "name": "JULIA",
       "url": "https://open.spotify.com/track/5qmbdSOs0g9QGYObVGbmFo"
@@ -33812,7 +33874,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 198750,
       "name": "Midnight On My Mind",
       "url": "https://open.spotify.com/track/53l9ZVeYt4rUkCTqCl52fq"
@@ -34226,7 +34288,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 152359,
       "name": "mitternacht",
       "url": "https://open.spotify.com/track/2WHxny6MgCVJTMMGt6R7kl"
@@ -38702,7 +38764,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 179998,
       "name": "Painted Reality",
       "url": "https://open.spotify.com/track/33VybAJmAJS8e53QIQAYE1"
@@ -40960,6 +41022,24 @@
       "duration_ms": 224022,
       "name": "Q U E V A S H A C E R H O Y ?",
       "url": "https://open.spotify.com/track/0Sr7ssScx54yxdM2ols7nW"
+    },
+    {
+      "album": {
+        "name": "Qseng",
+        "url": "https://open.spotify.com/album/7dtcBOvgD6qDBD3x7mWPCJ"
+      },
+      "artists": [
+        {
+          "name": "2focuses",
+          "url": "https://open.spotify.com/artist/4kYZvZnmAhyKFAQqSVWrsh"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96989,
+      "name": "Qseng",
+      "url": "https://open.spotify.com/track/7IB0m2C9jsidV2EJpGql63"
     },
     {
       "album": {
@@ -44456,7 +44536,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-01",
+      "date_removed": null,
       "duration_ms": 136292,
       "name": "Shake",
       "url": "https://open.spotify.com/track/5dMnARA9qb0aXnOQHwf1C6"
@@ -49310,6 +49390,24 @@
     {
       "album": {
         "name": "That's The Way It Is",
+        "url": "https://open.spotify.com/album/76UXGwUst31tICFVctrWtw"
+      },
+      "artists": [
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "That's The Way It Is",
+      "url": "https://open.spotify.com/track/1SI0CweVotDCHDJ89eRVrQ"
+    },
+    {
+      "album": {
+        "name": "That's The Way It Is",
         "url": "https://open.spotify.com/album/6AXR5LiuVES9yZgS20xQ8o"
       },
       "artists": [
@@ -49320,7 +49418,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 174960,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/7mNZJFF0B4r3cB8c2GPwz8"
@@ -54160,7 +54258,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 163233,
       "name": "We Are Not Just One Thing",
       "url": "https://open.spotify.com/track/2BoyH5W16jM3WTa3oYzNYZ"
@@ -54722,7 +54820,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 180328,
       "name": "wenn ich rauche",
       "url": "https://open.spotify.com/track/7pp9fY5mZ0xHO09X4IQziF"
@@ -55300,6 +55398,24 @@
       "duration_ms": 153815,
       "name": "Where Have You Been x No Pole",
       "url": "https://open.spotify.com/track/0J9TOkdVSaA8guqoyonzaG"
+    },
+    {
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/1oQ6m9TsTaaiBsBqSlUOl2"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/0uNETuut0gtfipHyJqPzeg"
     },
     {
       "album": {
@@ -58416,7 +58532,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 171279,
       "name": "\u0627\u0643\u062a\u0631 ( \u0644\u064a\u0644\u0629 \u0627\u0635\u0627\u0644\u0629 \u0645\u0646 \u0645\u0648\u0633\u0645 \u0627\u0644\u0631\u064a\u0627\u0636 2026 )",
       "url": "https://open.spotify.com/track/3YnfmwR7ll7Fg653u9UWJ4"

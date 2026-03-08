@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 580707,
+  "num_followers": 580781,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAABkqWRM5KlqzKx9LZ9WSWyB",
+  "snapshot_id": "aaoZAAAAAAB6n6xI4uKegEGP3wpMdpqg",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 257961,
-      "name": "Cassandra",
-      "url": "https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev"
+      "duration_ms": 213102,
+      "name": "Choreomania",
+      "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
     },
     {
       "added_at": null,
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 213102,
-      "name": "Choreomania",
-      "url": "https://open.spotify.com/track/7xdHw4C522RbsxHL9KD9L6"
+      "duration_ms": 257961,
+      "name": "Cassandra",
+      "url": "https://open.spotify.com/track/0z2BVrzRVNvmnFF37mDhev"
     },
     {
       "added_at": null,

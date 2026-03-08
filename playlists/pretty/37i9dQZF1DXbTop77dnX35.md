@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Skyla Tyla, Haeven, Njerae, Juno and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,483 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,570 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 22 | [MANDEM](https://open.spotify.com/track/6dn6lkOk2V3Ya0U7uPImIJ) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [DeCarlo](https://open.spotify.com/artist/0HjQbsxkkqV6Et2YoFHd48) | [MANDEM](https://open.spotify.com/album/2B30KZ1kTMgEbzasHcDqME) | 2:34 |
 | 23 | [Bend](https://open.spotify.com/track/6FDxeFYzxynwcb8vzYkXlj) | [Reefer Tym](https://open.spotify.com/artist/3HmAVmxYJSA0yC4fMhYE27) | [Bend](https://open.spotify.com/album/78DAIq9EghS4HC15ztnHgn) | 2:52 |
 | 24 | [Prayer Request II](https://open.spotify.com/track/5hwr611SqLRgG68fc7sxUt) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [jahmiel](https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Prayer Request II](https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ) | 3:11 |
-| 25 | [Need it Bad \- feat\. Brent Faiyaz](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
+| 25 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 26 | [Fantasy](https://open.spotify.com/track/3qdmxsj3ObTBWpk8NOhShz) | [Anny Guitar](https://open.spotify.com/artist/7r1qv4DvLerfO6ybN3hmQ5), [Tmaro](https://open.spotify.com/artist/7zAbW4OBsFLeYw6Ni2Zsgd) | [Fantasy](https://open.spotify.com/album/276MTGJLFLKyJ9qO7osSYw) | 2:52 |
 | 27 | [Sha Guide](https://open.spotify.com/track/5nCGCHeRsqv5FFI55x4rjD) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Sha Guide](https://open.spotify.com/album/4yhiv0WHpZlGyN0t0ntcRO) | 2:25 |
 | 28 | [WILL I EVER](https://open.spotify.com/track/2fh75xuCx1AB2F78hHbDyG) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [WILL I EVER](https://open.spotify.com/album/1iTJYkPyu9AhoJG1LIjDNi) | 2:54 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Alina Eremia, Andrei Banuta
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,337 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,347 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 16 | [Amprente](https://open.spotify.com/track/1gEe4Pmu2kXMAhUq8fYR0o) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [Amprente](https://open.spotify.com/album/5DlUqFAvJ34SfKhGEQIusv) | 3:03 |
 | 17 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 18 | [7 zile](https://open.spotify.com/track/74lOqQaeKR7OGLZ6xJZ711) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [7 zile](https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE) | 2:38 |
-| 19 | [Nu te mai sun](https://open.spotify.com/track/7KNzlejrzayOsTzGuSy8l0) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF), [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Nu te mai sun](https://open.spotify.com/album/0HRx3orLtS2xWxGIRp1oB6) | 2:28 |
+| 19 | [Nu te mai sun](https://open.spotify.com/track/7KNzlejrzayOsTzGuSy8l0) | [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF), [ADI Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Nu te mai sun](https://open.spotify.com/album/0HRx3orLtS2xWxGIRp1oB6) | 2:28 |
 | 20 | [Dansăm](https://open.spotify.com/track/7r93tDwB4wgchV9mnTtzJD) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Dansăm](https://open.spotify.com/album/1s6IGUxkGvDT58Fqot4lwX) | 3:16 |
 | 21 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 |
 | 22 | [Hau](https://open.spotify.com/track/0w6AqOWSM7yhaILAb32mPX) | [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Hau](https://open.spotify.com/album/2THUfeaFPYPTO6Nik38OEj) | 2:25 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 37 | [CROCO](https://open.spotify.com/track/0XOPtbmm2xAAocenNTPzZR) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn) | [CROCO](https://open.spotify.com/album/5ZtZOLqn1enQcfHNJMJ9QH) | 2:10 |
 | 38 | [Dulce păcat](https://open.spotify.com/track/1CStPUONkVJWt7htpf9RD7) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Dulce păcat](https://open.spotify.com/album/5qkjJZNfW75tYKa8ihMxcr) | 2:19 |
 | 39 | [Non\-Stop](https://open.spotify.com/track/7yiVxTY7MFwLtmyTclFwEi) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Non\-Stop](https://open.spotify.com/album/3tuflZ0y4mCCa2Y05r0gQF) | 2:54 |
-| 40 | [Ce ochi albaștri ai](https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe) | [Adi Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Ce ochi albaștri ai](https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh) | 2:40 |
+| 40 | [Ce ochi albaștri ai](https://open.spotify.com/track/56bT2meuhKNbUt5vmDWTEe) | [ADI Istrate](https://open.spotify.com/artist/6xFS0ejCf4Zjy7tD08PJ9m) | [Ce ochi albaștri ai](https://open.spotify.com/album/4mkTr85TLPf2UVLEgNmprh) | 2:40 |
 | 41 | [Două Vorbe\-n Plus](https://open.spotify.com/track/0ZuLb1svYPvwbDDcJLEfYn) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Două Vorbe\-n Plus](https://open.spotify.com/album/19goz9GeX9oAW8IvsMDJZs) | 3:30 |
 | 42 | [Ține\-mă minte](https://open.spotify.com/track/7H0Wnvl098xdUJVoSTTS20) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Ține\-mă minte](https://open.spotify.com/album/4bXrui7ml80zEK2LJ9oZrT) | 3:30 |
 | 43 | [INTR\-O ZI](https://open.spotify.com/track/1uWDmBW5ql1RYq5OB0An5N) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [13:13](https://open.spotify.com/album/2BgUNZe80Vz5T9pTYmIFjK) | 3:00 |

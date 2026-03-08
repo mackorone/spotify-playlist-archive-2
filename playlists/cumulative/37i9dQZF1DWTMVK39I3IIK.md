@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Yör
 
-398 songs - 20 hr 21 min
+399 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Jeg håber \(feat\. Mekdes\)](https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG) | 2:48 | 2025-10-02 |  |
 | [Jeg håber du er træt](https://open.spotify.com/track/4M7fc1XGQ52TYBOuQyVsyR) | [Angående Mig](https://open.spotify.com/artist/7bPVeep0ZjTQUyWx9m1xup) | [Jeg håber du er træt](https://open.spotify.com/album/7F1Oob5IkKadRfsSVESxXG) | 2:51 | 2025-04-17 | 2025-04-25 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |
-| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 |  |
+| [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 | 2025-09-04 | 2026-03-08 |
 | [Jeg ved det godt](https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [En sød lille én](https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A) | 2:51 | 2024-06-27 | 2024-09-07 |
 | [JEG VIL HØRE ALTING](https://open.spotify.com/track/38e4vqyumqZVXUB2jU1lkR) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM) | [JEG VIL HØRE ALTING / GLEMMER ALDRIG](https://open.spotify.com/album/0FOQGq5MzCH6HJpJO56kdA) | 4:18 | 2025-08-14 | 2025-08-22 |
 | [jukeboxx](https://open.spotify.com/track/5WmldVhCY250SK8gn9EwUg) | [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [jukeboxx](https://open.spotify.com/album/0gTPDdSTfpxGjQkoj0YxD7) | 2:36 | 2025-05-22 | 2025-05-30 |
@@ -371,6 +371,7 @@
 | [Undskyld](https://open.spotify.com/track/6Wau9vZtw62qiHfBOFnsfy) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Undskyld](https://open.spotify.com/album/2TURzDtJyIqpYaU7NFhmkb) | 2:34 | 2025-06-12 |  |
 | [Undskyld](https://open.spotify.com/track/1ug3sLJmoOfkAePLrwLaTE) | [Pauline](https://open.spotify.com/artist/1FdCucmAi2Z2N4hOThl4Zl) | [Undskyld](https://open.spotify.com/album/4NXmhhae3kO8EJBrTVmmoQ) | 2:34 | 2024-10-18 | 2024-11-29 |
 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 | 2024-06-27 | 2025-01-24 |
+| [ung og elske](https://open.spotify.com/track/6NuovMqu8Tv9ojQBAlwsUy) | [KARLA](https://open.spotify.com/artist/1CEg4ddOkDrZnyNlIdhjNC) | [ung og elske](https://open.spotify.com/album/0fAuHlYjFcvs2Yd52DlnDH) | 2:32 | 2026-03-05 |  |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-09-11 | 2025-09-13 |
 | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/track/5uUkQmXHGBp4Epl9pwv8fp) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Urørlig \(feat\. Karoline Mousing\)](https://open.spotify.com/album/6qDSXjURvSBcvVzWpIg2SX) | 2:32 | 2025-05-15 |  |
 | [USKARPT](https://open.spotify.com/track/4VyU3KBCCJUjGCqCdzTHeb) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4), [BJØRN](https://open.spotify.com/artist/6JgNOXKB2X1JjGYReJIa9D) | [USKARPT](https://open.spotify.com/album/49TmWBCTdfEHCohhKdqFNy) | 2:53 | 2025-11-06 | 2025-12-01 |

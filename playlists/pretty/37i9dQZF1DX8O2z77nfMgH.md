@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Shakira & Beéle
 
-[Spotify](https://open.spotify.com/user/spotify) - 851,494 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,410 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 21 | [solo \- KETTAMA remix](https://open.spotify.com/track/76dbSb7NAlj8TV4jQ7Oeud) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [USB](https://open.spotify.com/album/35RAdgZ15y062MlUZ5feIX) | 4:20 |
 | 22 | [Wacha Trucha](https://open.spotify.com/track/5eRIQwGFRD7NfdIanG6GNB) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Wacha Trucha](https://open.spotify.com/album/1vs4m5Ys0TJHTmsH69Qsjl) | 2:29 |
 | 23 | [La Luna](https://open.spotify.com/track/4ghmGOKUYsKN7xXU82dlNR) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [La Luna](https://open.spotify.com/album/2X71mWeKjXTrLOFbwfz6oO) | 2:37 |
-| 24 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
+| 24 | [LOBO MAU](https://open.spotify.com/track/48qCY1yfJUYHEPmvqcvh2y) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT) | [PALÁCIO DE LONA](https://open.spotify.com/album/3llWRll8RMoQv5Z7HFMmn3) | 4:26 |
 | 25 | [Mary Es Mi Amor](https://open.spotify.com/track/1yGk4QwKxCHS5iXssJnvKE) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Mary Es Mi Amor](https://open.spotify.com/album/6obM8NwXf7JiCO4F7nRy3n) | 3:19 |
 | 26 | [barquito \- bonus track](https://open.spotify.com/track/2W7HbOnu7ivBFXGrcdcwDB) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [barquito \(bonus track\)](https://open.spotify.com/album/6vyb0NaK9u3StlgRlYxFuZ) | 3:24 |
 | 27 | [Las Medusas No Tienen Corazón](https://open.spotify.com/track/78H8pvGPyBvoNeZ51ZWD2J) | [La La Love You](https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Las Medusas No Tienen Corazón](https://open.spotify.com/album/2YfB4ctfboi2CPwvim1Uba) | 3:28 |

@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62504,
+  "num_followers": 62508,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
+      },
+      "artists": [
+        {
+          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "\u300c\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30d0\u30e9\u30a8\u30c6\u30a3\u30bd\u30f3\u30b0\u30b7\u30ea\u30fc\u30ba \u7a76\u6975\u306e9\u66f2",
         "url": "https://open.spotify.com/album/694p5vvxMd6Fpf2BwdHKCD"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 449210,
       "name": "\u4eca\u65e5\u3082\u63a8\u3057\u304c\u63a8\u3057\u3067\u5c0a\u3044",
       "url": "https://open.spotify.com/track/5S8D0cPG9I8hbJtZo2kyoD"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
-      },
-      "artists": [
-        {
-          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-01-13 16:06:44",

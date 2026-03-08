@@ -1,12 +1,12 @@
 {
   "description": "This is Siouxsie and the Banshees. The essential tracks, all in one playlist.",
-  "num_followers": 50216,
+  "num_followers": 50220,
   "original_name": "This Is Siouxsie and the Banshees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAADtyoYCaj8AQcWb+RbbHbQ8",
+  "snapshot_id": "aaoZAAAAAABqBFxWBObZGdlsIXWBYiH0",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 305973,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 257933,
       "name": "Slowdive",
       "url": "https://open.spotify.com/track/366IIm0j1QVDL5OG5I0Rz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 305973,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/65re6qznNOVAK65YZWayAQ"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 245146,
-      "name": "The Killing Jar",
-      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 219906,
       "name": "She's A Carnival",
       "url": "https://open.spotify.com/track/4LZsBU2b1qVAJGpX7kXkkL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 245146,
+      "name": "The Killing Jar",
+      "url": "https://open.spotify.com/track/1j0UWLVjMbBEQdqfI1CSQf"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peepshow (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 229146,
-      "name": "Ornaments Of Gold",
-      "url": "https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Kiss In The Dreamhouse",
         "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 255800,
       "name": "Painted Bird",
       "url": "https://open.spotify.com/track/7HilLn7wds2U0jUJGBBVXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peepshow (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 229146,
+      "name": "Ornaments Of Gold",
+      "url": "https://open.spotify.com/track/7tomZBMWdeFHTIitQ5Eyar"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Kiss In The Dreamhouse",
-        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 270200,
-      "name": "Fireworks - 12\" Version",
-      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peepshow (Remastered And Expanded)",
         "url": "https://open.spotify.com/album/4g4aSVUuOJCoW2vKhTavXp"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 244360,
       "name": "Swimming Horses",
       "url": "https://open.spotify.com/track/7IbyGtg6Ujai5JXAK2Arlj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Kiss In The Dreamhouse",
+        "url": "https://open.spotify.com/album/5J3l9yLV2sMfZPEGcUmdz1"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 270200,
+      "name": "Fireworks - 12\" Version",
+      "url": "https://open.spotify.com/track/7MyA3s6o5MnoneWELTjW9J"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kaleidoscope (Remastered & Expanded)",
-        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 197960,
-      "name": "Trophy",
-      "url": "https://open.spotify.com/track/7BBpYnTNSneK4X6ID1w2mD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Join Hands",
         "url": "https://open.spotify.com/album/4FnKGH6piIJse7MUiYtQfj"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 277173,
       "name": "Placebo Effect",
       "url": "https://open.spotify.com/track/3KRbrv6dHumhyyYTu97OqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kaleidoscope (Remastered & Expanded)",
+        "url": "https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 197960,
+      "name": "Trophy",
+      "url": "https://open.spotify.com/track/7BBpYnTNSneK4X6ID1w2mD"
     }
   ],
   "unique_name": "This Is Siouxsie and the Banshees",

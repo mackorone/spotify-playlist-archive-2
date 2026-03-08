@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Ellie Rowsell of Wolf Alice",
-  "num_followers": 780368,
+  "num_followers": 780416,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Will You Love Me When I\u2019m Dead",
         "url": "https://open.spotify.com/album/2zs0gJMS21tocKOXpWvPxU"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 193798,
       "name": "Will You Love Me When I\u2019m Dead",
       "url": "https://open.spotify.com/track/4z4JQxp5ddY3Z8ETnaPPAK"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/0nys6GusuHnjSYLW0PYYb7"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
-        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
-      },
-      "artists": [
-        {
-          "name": "Garbage",
-          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
-        }
-      ],
-      "duration_ms": 236533,
-      "name": "Only Happy When It Rains",
-      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Something To Consume",
         "url": "https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 160163,
       "name": "Throw Yourself to the Sword",
       "url": "https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Garbage (20th Anniversary Deluxe Edition/Remastered)",
+        "url": "https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7"
+      },
+      "artists": [
+        {
+          "name": "Garbage",
+          "url": "https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q"
+        }
+      ],
+      "duration_ms": 236533,
+      "name": "Only Happy When It Rains",
+      "url": "https://open.spotify.com/track/1IsGA5ceSC4a5nxgAEYnQd"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "One of the Greats",
-        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 392098,
-      "name": "One of the Greats",
-      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "THUM",
         "url": "https://open.spotify.com/album/0fz4N5DS1SJ6jbNABL9UMr"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 131644,
       "name": "THUM",
       "url": "https://open.spotify.com/track/3yuaDt5vOxrQD06LrAQPj9"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "One of the Greats",
+        "url": "https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 392098,
+      "name": "One of the Greats",
+      "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Welcome to My Blue Sky",
-        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 217249,
-      "name": "I Want You (Fever)",
-      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "mettle",
         "url": "https://open.spotify.com/album/0QZNEGmnZrFhePN6CH6muw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 176853,
       "name": "mettle",
       "url": "https://open.spotify.com/track/09kKoIXQgBJMY3nGQN4IMB"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Welcome to My Blue Sky",
+        "url": "https://open.spotify.com/album/6BMB400fh0wby5BM8VOTEY"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 217249,
+      "name": "I Want You (Fever)",
+      "url": "https://open.spotify.com/track/4Ze7DFjyVa0smRqY2Fxcnz"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "When A Flower Doesn't Grow",
-        "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 170238,
-      "name": "Not Sorry",
-      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Mantis / Sugar Plum",
         "url": "https://open.spotify.com/album/1krTI5LpA4bUKMdBvDzIyx"
       },
@@ -1343,18 +1327,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "When A Flower Doesn't Grow",
+        "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 303593,
-      "name": "Broken Horses",
-      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
+      "duration_ms": 170238,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1371,6 +1355,22 @@
       "duration_ms": 199819,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 303593,
+      "name": "Broken Horses",
+      "url": "https://open.spotify.com/track/0vAGNjNpJhjZTxvtcGeAib"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "R is for Rocket",
-        "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
-      },
-      "artists": [
-        {
-          "name": "Rocket",
-          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
-        }
-      ],
-      "duration_ms": 227354,
-      "name": "One Million",
-      "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Are We All Angels",
         "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 181027,
       "name": "Not Hell, Not Heaven",
       "url": "https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "R is for Rocket",
+        "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
+      },
+      "artists": [
+        {
+          "name": "Rocket",
+          "url": "https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO"
+        }
+      ],
+      "duration_ms": 227354,
+      "name": "One Million",
+      "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Tiny Screens",
-        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
+        "name": "My Apologies To The Chef",
+        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
       },
       "artists": [
         {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+          "name": "Winona Fighter",
+          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
         }
       ],
-      "duration_ms": 178015,
-      "name": "Tiny Screens",
-      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+      "duration_ms": 174778,
+      "name": "You Look Like A Drunk Phoebe Bridgers",
+      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
     }
   ],
   "unique_name": "Women of Rock",

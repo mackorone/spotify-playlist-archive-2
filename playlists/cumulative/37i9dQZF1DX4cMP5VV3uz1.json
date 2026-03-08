@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 254482,
       "name": "Give Up The Ghost",
       "url": "https://open.spotify.com/track/1XA8bp2fTfWIucd3SOvWGt"
@@ -5288,6 +5288,32 @@
       "duration_ms": 198620,
       "name": "Higher",
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
+    },
+    {
+      "album": {
+        "name": "Higher than Heaven",
+        "url": "https://open.spotify.com/album/3miVC4lTPE9M1nwZY9NVlT"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        },
+        {
+          "name": "CMD/CTRL",
+          "url": "https://open.spotify.com/artist/717wokHGfBLVAO7ZItnhox"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Higher than Heaven",
+      "url": "https://open.spotify.com/track/6CJuuNkd3c1Mzat7Xhhmn8"
     },
     {
       "album": {
@@ -8183,7 +8209,7 @@
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 195433,
+      "duration_ms": 181718,
       "name": "Onslaught",
       "url": "https://open.spotify.com/track/4Jjs0JrFCi469THGEOECZG"
     },
@@ -10180,7 +10206,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 244114,
       "name": "Satan's Alley",
       "url": "https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h"
@@ -10674,6 +10700,32 @@
       "duration_ms": 257200,
       "name": "Sliding",
       "url": "https://open.spotify.com/track/5iAp1pQB3dqB3rWfs38Yb6"
+    },
+    {
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/37Y7Wz2FNqrAKrIi9qcLDC"
+      },
+      "artists": [
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        },
+        {
+          "name": "Pirapus",
+          "url": "https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210344,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/0AzytvRcpoml1cd11WiBbp"
     },
     {
       "album": {

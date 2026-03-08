@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Carlos Sadness en portada.",
+  "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Diamante El\u00e9ctrico en portada.",
   "name": "Lo Mejor del Indie Latino  ",
   "tracks": [
     {
@@ -4964,7 +4964,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 273573,
       "name": "Sexo Con Amor",
       "url": "https://open.spotify.com/track/37pK35IDidhQIDR6WORZS1"
@@ -5822,6 +5822,24 @@
       "duration_ms": 199901,
       "name": "VOID",
       "url": "https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW"
+    },
+    {
+      "album": {
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/6CCshZPonPq3626zN28AT4"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "date_added": "2024-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221394,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/01tX4yeCFgfcuR4YyLiV5F"
     },
     {
       "album": {

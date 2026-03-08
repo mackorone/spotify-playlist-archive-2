@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring bradeazy",
-  "num_followers": 1313387,
+  "num_followers": 1313382,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Faded (Blacklizt Version)(HNTR Remix)",
+        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "HNTR",
+          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
+        }
+      ],
+      "duration_ms": 193005,
+      "name": "Faded (Blacklizt Version) - HNTR Remix",
+      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Faded (Blacklizt Version)(HNTR Remix)",
-        "url": "https://open.spotify.com/album/69JzonS2xBTsz9UMYpD3dC"
-      },
-      "artists": [
-        {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
-          "name": "HNTR",
-          "url": "https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU"
-        }
-      ],
-      "duration_ms": 193005,
-      "name": "Faded (Blacklizt Version) - HNTR Remix",
-      "url": "https://open.spotify.com/track/3NWERP0Tt6CTnBp86jFRxB"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "BPM",
-        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
-      },
-      "artists": [
-        {
-          "name": "Twin Diplomacy",
-          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
-        }
-      ],
-      "duration_ms": 146610,
-      "name": "BPM",
-      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "You Love It",
         "url": "https://open.spotify.com/album/4i0ATZ8vK7NOfeX7WXYJlg"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 164653,
       "name": "You Love It",
       "url": "https://open.spotify.com/track/77VuGG7OFBluUr4rbsXNWa"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "BPM",
+        "url": "https://open.spotify.com/album/1WWzrNvHq62Myz4NtbvX3M"
+      },
+      "artists": [
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        }
+      ],
+      "duration_ms": 146610,
+      "name": "BPM",
+      "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1365,6 +1365,30 @@
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "SPEND IT",
+        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "LEIJON",
+          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
+        },
+        {
+          "name": "nobodyknowsjones",
+          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "SPEND IT",
+      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
+    },
+    {
       "added_at": "2026-01-30 05:00:51",
       "album": {
         "name": "Get Wild",
@@ -1399,30 +1423,6 @@
       "duration_ms": 165146,
       "name": "At The Disco",
       "url": "https://open.spotify.com/track/2PLAhK85fxXzy64KoIKQqg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "SPEND IT",
-        "url": "https://open.spotify.com/album/0uHLxzEX8YCHNfuuyW3s88"
-      },
-      "artists": [
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "LEIJON",
-          "url": "https://open.spotify.com/artist/5I0DEhBfWK76pttt1P8tCs"
-        },
-        {
-          "name": "nobodyknowsjones",
-          "url": "https://open.spotify.com/artist/4CymeX9LBix0SigmOw4xkE"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "SPEND IT",
-      "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Count On You",
         "url": "https://open.spotify.com/album/0Dgjg1kL5gX4bfvQrzujvH"
       },
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Circus",
-        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
       },
       "artists": [
         {
-          "name": "LUKE ALEXANDER",
-          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
-      "duration_ms": 129461,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1611,6 +1595,22 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/4Ig0xFqy8hAXWE9nRMBr8H"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 129461,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1797,6 +1797,26 @@
       "url": "https://open.spotify.com/track/7IoMy7XoHP5w2TR9xUi8Ts"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "T.A.S.T.E.",
+        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
+      },
+      "artists": [
+        {
+          "name": "nikko",
+          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+        },
+        {
+          "name": "DEV",
+          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "T.A.S.T.E.",
+      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "BOTA (feat. MC Lan)",
@@ -1835,26 +1855,6 @@
       "duration_ms": 140567,
       "name": "REAL FRIENDS",
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
-    },
-    {
-      "added_at": "2026-02-27 05:00:47",
-      "album": {
-        "name": "T.A.S.T.E.",
-        "url": "https://open.spotify.com/album/1SaizbBT3fIldGeMq2FaYj"
-      },
-      "artists": [
-        {
-          "name": "nikko",
-          "url": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
-        },
-        {
-          "name": "DEV",
-          "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "T.A.S.T.E.",
-      "url": "https://open.spotify.com/track/1mIphNjyFAp2SecLo9GsEG"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2041,6 +2041,22 @@
       "url": "https://open.spotify.com/track/7ylQkGefddsF4zTriGgv2A"
     },
     {
+      "added_at": "2026-02-27 05:00:47",
+      "album": {
+        "name": "Hyper",
+        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 213107,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Holy",
@@ -2109,20 +2125,20 @@
       "url": "https://open.spotify.com/track/4XzOmCCiAeu0XaH8XVrU1l"
     },
     {
-      "added_at": "2026-02-27 05:00:47",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Hyper",
-        "url": "https://open.spotify.com/album/52fURmrWyVSulmBbmdmwEO"
+        "name": "Baggy Black Jeans",
+        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
       },
       "artists": [
         {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         }
       ],
-      "duration_ms": 213107,
-      "name": "Hyper",
-      "url": "https://open.spotify.com/track/2uU2Yz2R2ygmhy29cUeYD9"
+      "duration_ms": 192692,
+      "name": "Baggy Black Jeans",
+      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2141,22 +2157,6 @@
       "url": "https://open.spotify.com/track/0JoaUkfqUIonNgxBq8wvwD"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Baggy Black Jeans",
-        "url": "https://open.spotify.com/album/3VMp1zL4dGWjXz8ezLbTfv"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        }
-      ],
-      "duration_ms": 192692,
-      "name": "Baggy Black Jeans",
-      "url": "https://open.spotify.com/track/5napq9DmxX4W8Z6y9yI3Us"
-    },
-    {
       "added_at": "2026-02-20 05:00:45",
       "album": {
         "name": "Don't Give Up",
@@ -2173,20 +2173,20 @@
       "url": "https://open.spotify.com/track/7lssCwBFqAp5sszHnsfLDr"
     },
     {
-      "added_at": "2026-02-06 05:00:42",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Drippin'",
-        "url": "https://open.spotify.com/album/0rfBV5VlPO6rYmCOBXFPoO"
+        "name": "F*CK THAT",
+        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
       },
       "artists": [
         {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
         }
       ],
-      "duration_ms": 159282,
-      "name": "Drippin'",
-      "url": "https://open.spotify.com/track/7dJIEPa845JdGytjG2cBGo"
+      "duration_ms": 191818,
+      "name": "F*CK THAT",
+      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2209,20 +2209,20 @@
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
     },
     {
-      "added_at": "2026-01-09 16:39:37",
+      "added_at": "2026-02-06 05:00:42",
       "album": {
-        "name": "F*CK THAT",
-        "url": "https://open.spotify.com/album/5myUJEhXSJHBKL4SfZPdX9"
+        "name": "Drippin'",
+        "url": "https://open.spotify.com/album/0rfBV5VlPO6rYmCOBXFPoO"
       },
       "artists": [
         {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
         }
       ],
-      "duration_ms": 191818,
-      "name": "F*CK THAT",
-      "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
+      "duration_ms": 159282,
+      "name": "Drippin'",
+      "url": "https://open.spotify.com/track/7dJIEPa845JdGytjG2cBGo"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2341,6 +2341,22 @@
       "url": "https://open.spotify.com/track/6OLoMpjjN41h5PE7SiRmC7"
     },
     {
+      "added_at": "2026-01-30 05:00:51",
+      "album": {
+        "name": "Funk Phenomenon",
+        "url": "https://open.spotify.com/album/1UI1NXZLrR4i56jpg7bZ3a"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Funk Phenomenon",
+      "url": "https://open.spotify.com/track/0OlT85K7fAZ2Sx6yE0jXEM"
+    },
+    {
       "added_at": "2026-01-23 05:00:24",
       "album": {
         "name": "Body Language",
@@ -2357,20 +2373,24 @@
       "url": "https://open.spotify.com/track/5lwUOsxWxdPcgFBFe4ksCB"
     },
     {
-      "added_at": "2026-01-30 05:00:51",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Funk Phenomenon",
-        "url": "https://open.spotify.com/album/1UI1NXZLrR4i56jpg7bZ3a"
+        "name": "No Excuse",
+        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
       },
       "artists": [
         {
-          "name": "CASHEW",
-          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        },
+        {
+          "name": "Gamuel Sori",
+          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
         }
       ],
-      "duration_ms": 184687,
-      "name": "Funk Phenomenon",
-      "url": "https://open.spotify.com/track/0OlT85K7fAZ2Sx6yE0jXEM"
+      "duration_ms": 134119,
+      "name": "No Excuse",
+      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2395,26 +2415,6 @@
       "duration_ms": 178181,
       "name": "Dale Earnhardt",
       "url": "https://open.spotify.com/track/1zg7wzuyq12v7beYiMjZNX"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "No Excuse",
-        "url": "https://open.spotify.com/album/0ba2fTgEHRr79W7kHiW5sI"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        },
-        {
-          "name": "Gamuel Sori",
-          "url": "https://open.spotify.com/artist/4lNfGpoJrHMGdxV4KoRsoi"
-        }
-      ],
-      "duration_ms": 134119,
-      "name": "No Excuse",
-      "url": "https://open.spotify.com/track/2qNQiJ5j7yhWWqDBDV3uEC"
     }
   ],
   "unique_name": "Nasty Bits",

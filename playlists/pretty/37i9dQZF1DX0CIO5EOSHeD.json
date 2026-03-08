@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. ",
-  "num_followers": 1613,
+  "num_followers": 1669,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Peach Tinted",
-        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
-      },
-      "artists": [
-        {
-          "name": "peach tinted",
-          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
-        }
-      ],
-      "duration_ms": 191641,
-      "name": "Not Alone",
-      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "into me",
         "url": "https://open.spotify.com/album/0IoYTbRX2fybz0yqHM2TNT"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 172394,
       "name": "into me",
       "url": "https://open.spotify.com/track/7qmqKMqHTxBGvcjTN1wOaj"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Peach Tinted",
+        "url": "https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau"
+      },
+      "artists": [
+        {
+          "name": "peach tinted",
+          "url": "https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y"
+        }
+      ],
+      "duration_ms": 191641,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "gums",
-        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
-      },
-      "artists": [
-        {
-          "name": "Blue Mena",
-          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
-        }
-      ],
-      "duration_ms": 218263,
-      "name": "Gums",
-      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "midnight sun",
         "url": "https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "gums",
+        "url": "https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa"
+      },
+      "artists": [
+        {
+          "name": "Blue Mena",
+          "url": "https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa"
+        }
+      ],
+      "duration_ms": 218263,
+      "name": "Gums",
+      "url": "https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu"
     },
     {
       "added_at": "2025-05-01 22:27:23",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Reason",
-        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 220377,
-      "name": "Reason",
-      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
-    },
-    {
-      "added_at": "2025-05-01 22:27:23",
-      "album": {
         "name": "Bet You Know",
         "url": "https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd"
       },
@@ -1635,18 +1619,34 @@
     {
       "added_at": "2025-05-01 22:27:23",
       "album": {
-        "name": "Pastlife (Deluxe)",
-        "url": "https://open.spotify.com/album/0vSwt0ateYFyLzdZDqAZyc"
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs"
       },
       "artists": [
         {
-          "name": "Day Wave",
-          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
         }
       ],
-      "duration_ms": 182203,
-      "name": "Cold Like Me",
-      "url": "https://open.spotify.com/track/4VWHyL5l00Ue2W45C17xQv"
+      "duration_ms": 220377,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+    },
+    {
+      "added_at": "2025-05-01 22:27:23",
+      "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
     }
   ],
   "unique_name": "Lofi Indie",

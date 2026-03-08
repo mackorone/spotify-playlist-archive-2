@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Renan Oliveira
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,665 likes - 75 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,731 likes - 75 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 74 | [Me Espera / O Amor Não Tem Culpa / Disfarça \- Ao Vivo](https://open.spotify.com/track/3wsqXaYsveePnuk2laiU5a) | [Grupo Doze por Oito](https://open.spotify.com/artist/4OV4NRRx75QfGAA2AUvG0q) | [Me Espera / O Amor Não Tem Culpa / Disfarça \(Ao Vivo\)](https://open.spotify.com/album/157ZNEEAGD07OE634ICRQY) | 3:59 |
 | 75 | [Instinto / Dá seu Jeito / Vou Desligar \- Ao Vivo feat\. Gamadinho](https://open.spotify.com/track/6TrG01VFPHwLS1i43GGhEY) | [BG](https://open.spotify.com/artist/1z87T3GgfHTjKxQ6QYAtU9), [Yan](https://open.spotify.com/artist/7nVA7u9N6fIcxxTXJDl4hq), [Pagode do Adame](https://open.spotify.com/artist/4GrG809bkgPIchC0oGU1Z0), [Gamadinho](https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt) | [Instinto / Dá seu Jeito / Vou Desligar \(Ao Vivo feat\. Gamadinho\)](https://open.spotify.com/album/4nEiSWh52QNqP38bP8cugq) | 5:30 |
 
-Snapshot ID: `AAAAAFN7tCkjbMArUKrJCVBBcTdhWiPc`
+Snapshot ID: `AAAAAB4dqlM35D6BMjSLFQRLnrQlzVsg`

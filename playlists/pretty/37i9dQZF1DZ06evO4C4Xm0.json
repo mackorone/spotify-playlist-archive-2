@@ -1,12 +1,12 @@
 {
   "description": "This is Brian Eno. The essential tracks, all in one playlist.",
-  "num_followers": 47523,
+  "num_followers": 47530,
   "original_name": "This Is Brian Eno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAA6gWap8+faUjNWLOCSxFSA",
+  "snapshot_id": "aaoZAAAAAAD2r5e8Vz2KHBYYncuyokvL",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suddenly/Big Empty Country (Edit)",
-        "url": "https://open.spotify.com/album/3SxbPAT5CXenRCX5HIUBA5"
+        "name": "Ambient 4: On Land (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
       },
       "artists": [
         {
           "name": "Brian Eno",
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Beatie Wolfe",
-          "url": "https://open.spotify.com/artist/1idkfyhVRSuzopKxvrOzKI"
         }
       ],
-      "duration_ms": 254122,
-      "name": "Big Empty Country - Edit",
-      "url": "https://open.spotify.com/track/4ZTSyUESmod019aAXjf5zU"
+      "duration_ms": 326866,
+      "name": "Unfamiliar Wind (Leeks Hills) - Remastered 2004",
+      "url": "https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A"
     }
   ],
   "unique_name": "This Is Brian Eno",

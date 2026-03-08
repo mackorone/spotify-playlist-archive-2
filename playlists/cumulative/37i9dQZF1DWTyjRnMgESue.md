@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Tyler Ballgame
 
-795 songs - 1 day 22 hr 37 min
+797 songs - 1 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Obstruction](https://open.spotify.com/track/6uHzaxcCXhpAdYrAgZMmtJ) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Obstruction](https://open.spotify.com/album/40x4bMBFOkIa7e7osQKZor) | 2:36 | 2024-01-12 | 2024-02-03 |
 | [Occasionally](https://open.spotify.com/track/57mmAR0pu8jIR752KpeqTx) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:14 | 2021-11-19 | 2023-01-03 |
 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 | 2021-11-19 | 2024-05-18 |
+| [Old Holy Feeling](https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Old Holy Feeling](https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj) | 5:06 | 2026-03-06 |  |
 | [Olive Branch](https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Olive Branch](https://open.spotify.com/album/1tZ836sL4IkDcXIhvXYs8r) | 3:19 | 2022-03-25 | 2022-07-26 |
 | [Oliver](https://open.spotify.com/track/4SetYrqq8Uac7KrXik9Jow) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Oliver](https://open.spotify.com/album/2CN0hgmf8YvQK5lDej3NOq) | 3:11 | 2025-02-07 | 2025-07-12 |
 | [Once A Bunch](https://open.spotify.com/track/7wWjWDPpoewHcwzr9ZKfvz) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Once A Bunch](https://open.spotify.com/album/1TckrkAuaA4tkLqgOVzvdC) | 4:59 | 2024-08-23 | 2025-02-08 |
@@ -662,7 +663,7 @@
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-07-25 |
 | [Texas Girl](https://open.spotify.com/track/33ADzejAdZCu13hAcnzkIC) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Texas Girl](https://open.spotify.com/album/1CCH7mhb1jy84jMV6Y4xMp) | 2:52 | 2022-03-25 | 2022-12-13 |
 | [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/track/2sgmsBadS8QbCeiYJwT21b) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Thank You For Nothing \- A COLORS SHOW](https://open.spotify.com/album/7EWPJuHOVzNYqM8Z0N1Ro8) | 3:22 | 2022-07-15 | 2022-09-15 |
-| [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 |  |
+| [That's Gonna Leave a Mark](https://open.spotify.com/track/6TaHuUqCzU3FaWY9Q3ZXko) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [That's Gonna Leave a Mark](https://open.spotify.com/album/4Hv1L5UC4P7x2MMT4utLxn) | 3:37 | 2025-06-06 | 2026-03-08 |
 | [That's How God Made Me](https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [That's How God Made Me \(Anything’s Possible Soundtrack\)](https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3) | 3:14 | 2022-06-17 | 2022-07-09 |
 | [The Act](https://open.spotify.com/track/5iWQKj4s6KRM5kZLzyGYqd) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM) | [The Act](https://open.spotify.com/album/2sSkbvNhFmuFQl1vmna9pG) | 3:38 | 2022-03-25 | 2022-07-14 |
 | [The Alchemist](https://open.spotify.com/track/5fQO9U2ygxgK7x6XpToKsS) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Alchemist](https://open.spotify.com/album/1W8QZB9LoDkREFfO6dRSnC) | 3:32 | 2024-12-06 | 2025-02-08 |
@@ -738,6 +739,7 @@
 | [Wait Up \(feat\. I'm With Her\)](https://open.spotify.com/track/4bKT1G7Q6kInM0idAtnP3p) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Hen's Teeth](https://open.spotify.com/album/4v7qrSwfjkEKu4hd1OwwvN) | 3:45 | 2026-03-06 |  |
 | [Waiting Ain't Easy](https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Waiting Ain't Easy](https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b) | 3:08 | 2025-01-10 | 2025-05-17 |
 | [Walking Through The Water](https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Walking Through The Water](https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB) | 5:01 | 2026-03-06 |  |
+| [Walls](https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Walls](https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY) | 3:12 | 2026-03-06 |  |
 | [Walls](https://open.spotify.com/track/2q3mVaM2J2HOd6gXiGR8RT) | [Tristan Bushman](https://open.spotify.com/artist/6nonbnzKA6j3TXU8MMwxvI), [Maisy Stella](https://open.spotify.com/artist/2YNMriUgByyX15x93cwh4e) | [Walls](https://open.spotify.com/album/36kyjrbbI2BxsWnjgk2QkI) | 3:57 | 2021-11-19 | 2022-07-28 |
 | [Want Me](https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Want Me](https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ) | 3:33 | 2025-03-14 |  |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-11-19 | 2022-02-22 |
@@ -780,7 +782,7 @@
 | [Wimbledon White \(acoustic version\)](https://open.spotify.com/track/2FLIo8079qkTcLUB9zJgWM) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Second Dinner \(and also these\)](https://open.spotify.com/album/35nmhNuipT88mRnxMtLoXZ) | 4:22 | 2025-02-07 | 2025-05-17 |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-05-17 | 2024-11-16 |
 | [Wishful Thinking](https://open.spotify.com/track/4ByTQKBKzXc3ohxBWaxfJK) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Wishful Thinking](https://open.spotify.com/album/3GQ06u8aLZRNKP0UV7BUgB) | 3:38 | 2025-06-06 | 2026-03-07 |
-| [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 |  |
+| [Witching Hour](https://open.spotify.com/track/778RTEmiCGTLObINbj4AyA) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/5IMdA7l9lpOYGZxV06c53i) | 2:53 | 2025-06-06 | 2026-03-08 |
 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-05-20 | 2023-03-30 |
 | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/track/27beSL5WLfpRYnZBBZ60Dd) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/2UgarHdPcJxcTeSyNvvDWy) | 3:33 | 2021-11-19 | 2022-07-21 |
 | [Witness \- feat\. Rajiv Dhall](https://open.spotify.com/track/3zC3W1qHKdfPIjRbjnn56W) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Rajiv Dhall](https://open.spotify.com/artist/5vZ5k7ySgoaLpLdZB98nfo) | [Witness \(feat\. Rajiv Dhall\)](https://open.spotify.com/album/1JE0utQ8jkvsB77SJ3gXbt) | 3:33 | 2022-07-15 | 2024-02-27 |

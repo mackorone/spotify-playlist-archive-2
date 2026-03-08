@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 527455,
+  "num_followers": 527533,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Recoge y Vete",
+        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Esto Est\u00e1",
+      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Yo Vengo de Cuba",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Recoge y Vete",
-        "url": "https://open.spotify.com/album/5mLkOShl9aG9Ikyj38AQVU"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Esto Est\u00e1",
-      "url": "https://open.spotify.com/track/6aOj5462zikA3VwXxv2fQb"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
+        "name": "Que Tiene Que Te Mueve",
+        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
+      },
+      "artists": [
+        {
+          "name": "Maykel Blanco Y Su Salsa Mayor",
+          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
+        }
+      ],
+      "duration_ms": 332706,
+      "name": "Que Tiene Que Te Mueve",
+      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
         "name": "Me Dicen Cuba / Rosa la Peligrosa",
         "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 298374,
       "name": "Me Dicen Cuba",
       "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
-        "name": "Que Tiene Que Te Mueve",
-        "url": "https://open.spotify.com/album/2Pyrt9J4FuEFe8Ks2rSq6P"
-      },
-      "artists": [
-        {
-          "name": "Maykel Blanco Y Su Salsa Mayor",
-          "url": "https://open.spotify.com/artist/20dWMesxpdRWQifq11soyp"
-        }
-      ],
-      "duration_ms": 332706,
-      "name": "Que Tiene Que Te Mueve",
-      "url": "https://open.spotify.com/track/5DYdF6YsSaXFdnrLe4XSUS"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Prohibido",
-        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        }
-      ],
-      "duration_ms": 265639,
-      "name": "Prohibido",
-      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
-    },
-    {
-      "added_at": "2025-03-07 06:00:25",
-      "album": {
         "name": "Pupy y Los que Son Son Best Of",
         "url": "https://open.spotify.com/album/0l0CJFqNupdBgwV8m9xLwi"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 341394,
       "name": "La borrachera",
       "url": "https://open.spotify.com/track/6j9DqgqLwLFSEmK4gWs7NY"
+    },
+    {
+      "added_at": "2025-03-07 06:00:25",
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/2Uq6ubk7GvBestQXFmCPgM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        }
+      ],
+      "duration_ms": 265639,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/6M645F7LHVaWGSrEbbt0wK"
     },
     {
       "added_at": "2025-03-07 06:00:25",
@@ -823,22 +823,18 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "La Fantas\u00eda - Homenaje a Juan Formell",
-        "url": "https://open.spotify.com/album/1dkaWick14ebmlps2pGNmx"
+        "name": "Grandes \u00e9xitos",
+        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
       },
       "artists": [
         {
-          "name": "Formell",
-          "url": "https://open.spotify.com/artist/0ENlBC7kpeEJt2WZbcZvP5"
-        },
-        {
-          "name": "Los Van Van",
-          "url": "https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds"
+          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
+          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Soy la Mujer Que Quiero Ser",
-      "url": "https://open.spotify.com/track/2jufa5OBjDgsJC9LekL7tJ"
+      "duration_ms": 310079,
+      "name": "Arriba de la bola",
+      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
     }
   ],
   "unique_name": "Salsa Cubana",

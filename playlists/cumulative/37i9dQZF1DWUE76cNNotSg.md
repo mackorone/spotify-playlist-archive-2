@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-653 songs - 1 day 16 hr 5 min
+654 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Can’t Let You Go](https://open.spotify.com/track/3Mi8teeczekyPhn5lgW8li) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Little Jet](https://open.spotify.com/artist/1nviDnP5OhbWuV6jngLYoa) | [Can’t Let You Go](https://open.spotify.com/album/2imS9LbJ227zp5w9I8hgf8) | 2:53 | 2023-03-17 | 2024-09-07 |
 | [Care](https://open.spotify.com/track/7eT788aFqbLJNZbYf3QaJl) | [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC) | [Care](https://open.spotify.com/album/5t2u7P3NX97GCFwwIc2fZK) | 5:27 | 2020-12-22 | 2022-04-15 |
 | [Care For You](https://open.spotify.com/track/2MJnBcjAG2buyUZ7zQLGMO) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf) | [Care For You](https://open.spotify.com/album/4PjDf7b4OxTxWuiY0nO8Xu) | 3:38 | 2025-01-10 | 2025-05-05 |
+| [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 | 2026-03-07 |  |
 | [Caroline \(Hold Tight\)](https://open.spotify.com/track/2ZpNjVWAGnNA0ciUsLWYIG) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Come in, We're Open !](https://open.spotify.com/album/4b7xh2LjlAY3JQFuLcZMUH) | 3:51 | 2024-06-14 | 2024-12-11 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2022-05-13 |  |
 | [CATCH THESE HANDS](https://open.spotify.com/track/0toTWyZVmhDp9R9HRvdP1A) | [Hadji Gaviota](https://open.spotify.com/artist/4eX6XMjx0GK6eCr59261Q7) | [CATCH THESE HANDS](https://open.spotify.com/album/01Io89VfOvDeMoeYwbCB1G) | 3:10 | 2020-12-22 | 2022-07-18 |
@@ -591,7 +592,7 @@
 | [Together Forever](https://open.spotify.com/track/4NvAaATU1bX5ITqGBIxB5b) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Together Forever](https://open.spotify.com/album/4DR3YxUK7YUuPuLBfYrQX7) | 4:37 | 2024-01-12 | 2024-04-28 |
 | [Too Late](https://open.spotify.com/track/2WZtkWWGWjGMxQubujRiqZ) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/0gkOhkjdFwKUtz9YXbp22L) | 4:12 | 2020-12-22 | 2022-07-29 |
 | [Too Late](https://open.spotify.com/track/2syYxXSHwiJueleWSDGY0Z) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Purple Noon](https://open.spotify.com/album/5YzzV7NMiiVGKMve73OBYc) | 4:12 | 2020-12-22 | 2024-04-19 |
-| [Too Young To Know Better](https://open.spotify.com/track/6eCMQk74tZWSqE7ptPfApk) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Too Young To Know Better](https://open.spotify.com/album/4Qp2LgbXKN2iRV2FlxI2oB) | 2:46 | 2026-02-13 |  |
+| [Too Young To Know Better](https://open.spotify.com/track/6eCMQk74tZWSqE7ptPfApk) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Too Young To Know Better](https://open.spotify.com/album/4Qp2LgbXKN2iRV2FlxI2oB) | 2:46 | 2026-02-13 | 2026-03-08 |
 | [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-03 |  |
 | [Translight](https://open.spotify.com/track/4LeXaYxiCTANYSq9lteTF1) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Be Mine Tonight](https://open.spotify.com/album/1krjGe6g8PREor3oqeJTKh) | 3:57 | 2020-12-22 | 2022-04-21 |
 | [Truth](https://open.spotify.com/track/0C7sbRykiD9VGrz1rXmv0T) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [All Becomes Okay](https://open.spotify.com/album/6EHU4sgkn65wpT5dZU6Tkh) | 3:48 | 2020-12-22 | 2024-03-17 |

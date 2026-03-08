@@ -1,6 +1,6 @@
 {
   "description": "For those who like a little bit of coffee with their Jesus.",
-  "num_followers": 394609,
+  "num_followers": 394651,
   "original_name": "Christian Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,18 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "interlude ellipsis",
-        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
+        "name": "Cold Of The Night",
+        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
       },
       "artists": [
         {
-          "name": "Matt Crocker",
-          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
+          "name": "Ivan Castro",
+          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
         }
       ],
-      "duration_ms": 182168,
-      "name": "walk into the light",
-      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
+      "duration_ms": 223858,
+      "name": "Cold Of The Night",
+      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -555,18 +555,18 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Cold Of The Night",
-        "url": "https://open.spotify.com/album/118XTpb5m0rG05GIh2tXhV"
+        "name": "interlude ellipsis",
+        "url": "https://open.spotify.com/album/2zJPJQt07jXEneZWIEJfNl"
       },
       "artists": [
         {
-          "name": "Ivan Castro",
-          "url": "https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14"
+          "name": "Matt Crocker",
+          "url": "https://open.spotify.com/artist/6vGCQS2VmikoQOsXgFN3Ec"
         }
       ],
-      "duration_ms": 223858,
-      "name": "Cold Of The Night",
-      "url": "https://open.spotify.com/track/1hVu0KC031qLlIn8UPsDe7"
+      "duration_ms": 182168,
+      "name": "walk into the light",
+      "url": "https://open.spotify.com/track/5M92wDH3MFb1MgVSLS2GOy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -607,6 +607,26 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Trust In God / Blessed Assurance",
+        "url": "https://open.spotify.com/album/76Lrnk0xOjrXIr8ZlmVNrE"
+      },
+      "artists": [
+        {
+          "name": "Genavieve Linkowski",
+          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
+        },
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 231182,
+      "name": "Trust In God / Blessed Assurance",
+      "url": "https://open.spotify.com/track/3V4YXdFvGT2ycg1JIcLwFR"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "The King Is Coming (Reimagined)",
         "url": "https://open.spotify.com/album/5ICnnanXjdEOP2tHzAlqkH"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 253632,
       "name": "Who You'll Always Be - Reimagined",
       "url": "https://open.spotify.com/track/37QFWIEWsLUyzPDRuUiYhX"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Trust In God / Blessed Assurance",
-        "url": "https://open.spotify.com/album/76Lrnk0xOjrXIr8ZlmVNrE"
-      },
-      "artists": [
-        {
-          "name": "Genavieve Linkowski",
-          "url": "https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF"
-        },
-        {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "Trust In God / Blessed Assurance",
-      "url": "https://open.spotify.com/track/3V4YXdFvGT2ycg1JIcLwFR"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "You Hold It All",
-        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
-      },
-      "artists": [
-        {
-          "name": "Land of Color",
-          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
-        }
-      ],
-      "duration_ms": 213880,
-      "name": "Skin And Bone",
-      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Northstar",
         "url": "https://open.spotify.com/album/33AEQGTj1GoEb5KeCFWb8L"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 191411,
       "name": "We Rise And Fall",
       "url": "https://open.spotify.com/track/7wgOJAyT89i2WOcT4a7Z67"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "You Hold It All",
+        "url": "https://open.spotify.com/album/59Fwf6YU9AdpzQmnAbRIEJ"
+      },
+      "artists": [
+        {
+          "name": "Land of Color",
+          "url": "https://open.spotify.com/artist/42YoF8fzPiMbU5dlf59YuQ"
+        }
+      ],
+      "duration_ms": 213880,
+      "name": "Skin And Bone",
+      "url": "https://open.spotify.com/track/49jNWNrotJdUObt2fRpiI1"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
-      },
-      "artists": [
-        {
-          "name": "DeAngelo",
-          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
-        }
-      ],
-      "duration_ms": 187994,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "I Remind Myself (Live)",
         "url": "https://open.spotify.com/album/3YQj4UXmkPQ6d46bfXa0ob"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 245989,
       "name": "I Remind Myself - Live",
       "url": "https://open.spotify.com/track/1u0bArttdfyhYH29gR23Zu"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/6BWnjFtlkr5qPpFxQiQcXw"
+      },
+      "artists": [
+        {
+          "name": "DeAngelo",
+          "url": "https://open.spotify.com/artist/0t6NssHMnbIjRJ0r4vlkzE"
+        }
+      ],
+      "duration_ms": 187994,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/2D4g5r9CzCmHuDPKfgqmcr"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "ON TIME",
-        "url": "https://open.spotify.com/album/5vec9f0c8wCBp1BOIZgQss"
-      },
-      "artists": [
-        {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
-        }
-      ],
-      "duration_ms": 92640,
-      "name": "ON TIME",
-      "url": "https://open.spotify.com/track/4L0NcvT5I8euv3yn97y0GK"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Found in You",
         "url": "https://open.spotify.com/album/4jmDf4lrzi1fHKIbWIplxe"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "ON TIME",
+        "url": "https://open.spotify.com/album/5vec9f0c8wCBp1BOIZgQss"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 92640,
+      "name": "ON TIME",
+      "url": "https://open.spotify.com/track/4L0NcvT5I8euv3yn97y0GK"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "MATIN: Rest",
         "url": "https://open.spotify.com/album/12cExcrLvFwR8xc7TjyIwG"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 329812,
       "name": "Leaning on the Everlasting Arms",
       "url": "https://open.spotify.com/track/0Zs4yEcEo9AIiGZcCiZM7n"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "That's who I praise (from the studio)",
+        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 193926,
+      "name": "That's who I praise - from the studio",
+      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1043,22 +1059,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "That's who I praise (from the studio)",
-        "url": "https://open.spotify.com/album/7AOXR6g6lYcHAgg5Ecu14F"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 193926,
-      "name": "That's who I praise - from the studio",
-      "url": "https://open.spotify.com/track/24TAbFtyaWvFunN2nUUTdy"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Happily Hidden",
         "url": "https://open.spotify.com/album/5fCirlLG6ch2MFWyOA5B9b"
       },
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "EVERY DAY",
-        "url": "https://open.spotify.com/album/1pYohVyJ0mDkI4O6ZO8qh9"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 224100,
-      "name": "EVERY DAY",
-      "url": "https://open.spotify.com/track/6RUJTGKm7wEnkydR7EKcsW"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Brittle",
         "url": "https://open.spotify.com/album/3YmTVAkCqL5498MHbOlB9J"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 212103,
       "name": "Brittle",
       "url": "https://open.spotify.com/track/1TfhnviXtcjpfXi6nINyDg"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "EVERY DAY",
+        "url": "https://open.spotify.com/album/1pYohVyJ0mDkI4O6ZO8qh9"
+      },
+      "artists": [
+        {
+          "name": "Mark Barlow",
+          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
+        }
+      ],
+      "duration_ms": 224100,
+      "name": "EVERY DAY",
+      "url": "https://open.spotify.com/track/6RUJTGKm7wEnkydR7EKcsW"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Stay Close",
-        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
-      },
-      "artists": [
-        {
-          "name": "Austin Sebek",
-          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
-        }
-      ],
-      "duration_ms": 194716,
-      "name": "Stay Close",
-      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Everyday Things",
         "url": "https://open.spotify.com/album/2hVIe10mQNzdmk3MF5Nu0s"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 189642,
       "name": "Everyday Things",
       "url": "https://open.spotify.com/track/4hesfRaW8qOa6GGO5iR4mo"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Stay Close",
+        "url": "https://open.spotify.com/album/7oYNsctXYKRxdbcvrvXXmN"
+      },
+      "artists": [
+        {
+          "name": "Austin Sebek",
+          "url": "https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8"
+        }
+      ],
+      "duration_ms": 194716,
+      "name": "Stay Close",
+      "url": "https://open.spotify.com/track/3OAL4fkGJ2sImt2Lhy4D7V"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Sweet By and By Goodbye",
-        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
-      },
-      "artists": [
-        {
-          "name": "Hunter Plake",
-          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
-        }
-      ],
-      "duration_ms": 219955,
-      "name": "Sweet By and By Goodbye",
-      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Brother",
         "url": "https://open.spotify.com/album/7KjkVkrQ2FpCySvsn4RiyU"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 238153,
       "name": "Brother",
       "url": "https://open.spotify.com/track/0MXrQzGM4sD9de2FTRIi8x"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Sweet By and By Goodbye",
+        "url": "https://open.spotify.com/album/06pncKDqZNMavL2ioZnUvD"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "duration_ms": 219955,
+      "name": "Sweet By and By Goodbye",
+      "url": "https://open.spotify.com/track/0irrlnGXcPM3waVKaX1jI1"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Just Hold On",
-        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Just Hold On",
-      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "HONEY FROM THE ROCK",
         "url": "https://open.spotify.com/album/1PfgghMzB0dGoB1IKpfCZN"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 180843,
       "name": "STEADY",
       "url": "https://open.spotify.com/track/6pBnwzuBSzIN9AaOaop5aa"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Just Hold On",
+        "url": "https://open.spotify.com/album/4pKnhYEaa0Io4Vlx70ka2u"
+      },
+      "artists": [
+        {
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Just Hold On",
+      "url": "https://open.spotify.com/track/1OZ4Zz6ji3pZAAsnEEh2t5"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Who's My Neighbor? (Acoustic)",
-        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Who's My Neighbor? - Acoustic",
-      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Don't Give Up",
         "url": "https://open.spotify.com/album/1ovkI3emaN9GE40ssMY00u"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 317000,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/6GIrD3RbCAKD7nMTsdAxjx"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Who's My Neighbor? (Acoustic)",
+        "url": "https://open.spotify.com/album/3rzL4wfCxlx6euw6FdMAVr"
+      },
+      "artists": [
+        {
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Who's My Neighbor? - Acoustic",
+      "url": "https://open.spotify.com/track/4KpZmIIH9Wom3OzMkgJMvg"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Jesus the Vine",
-        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
-      },
-      "artists": [
-        {
-          "name": "Michael Gabriel Monroe",
-          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
-        }
-      ],
-      "duration_ms": 270740,
-      "name": "Jesus the Vine",
-      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Shepherd",
         "url": "https://open.spotify.com/album/5P3mOe2SPlO7FZGtV7WvAD"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 135272,
       "name": "Shepherd",
       "url": "https://open.spotify.com/track/6uqJDM00DgCXTSWuvzZuxb"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Jesus the Vine",
+        "url": "https://open.spotify.com/album/2Hq4Kz9rt7p1UGSPU4lvwR"
+      },
+      "artists": [
+        {
+          "name": "Michael Gabriel Monroe",
+          "url": "https://open.spotify.com/artist/63ox6qPSxB4PsktUu1Qu75"
+        }
+      ],
+      "duration_ms": 270740,
+      "name": "Jesus the Vine",
+      "url": "https://open.spotify.com/track/43iJlRfGPVZrFEahCuw0GR"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2343,6 +2343,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "Holy Jesus (Stripped)",
+        "url": "https://open.spotify.com/album/0qQhaQAjrwSscot9oV3Ulr"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "duration_ms": 289666,
+      "name": "Holy Jesus (Stripped)",
+      "url": "https://open.spotify.com/track/7g1Nb8huP88eIoOdMDPGng"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/0ghQs4vR2dJgflZckBUWV0"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 133928,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "Holy Jesus (Stripped)",
-        "url": "https://open.spotify.com/album/0qQhaQAjrwSscot9oV3Ulr"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 289666,
-      "name": "Holy Jesus (Stripped)",
-      "url": "https://open.spotify.com/track/7g1Nb8huP88eIoOdMDPGng"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/1i129rFS9kUJpkgwW1YW1D"
+      },
+      "artists": [
+        {
+          "name": "Solomon Plate",
+          "url": "https://open.spotify.com/artist/6EhUU2bfcSeER52YXczuiN"
+        }
+      ],
+      "duration_ms": 127105,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/0ylLF0TJgAQun5TCG10CeT"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "The Friend & True King",
         "url": "https://open.spotify.com/album/0hqrxcUdCzjZH6vu9iOd3a"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 122000,
       "name": "Glory of God",
       "url": "https://open.spotify.com/track/2k8LYHKEL005WIyXsH1UUY"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "More Than Anything",
-        "url": "https://open.spotify.com/album/1i129rFS9kUJpkgwW1YW1D"
-      },
-      "artists": [
-        {
-          "name": "Solomon Plate",
-          "url": "https://open.spotify.com/artist/6EhUU2bfcSeER52YXczuiN"
-        }
-      ],
-      "duration_ms": 127105,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/0ylLF0TJgAQun5TCG10CeT"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
-        "name": "Conquering Eden",
-        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
-      },
-      "artists": [
-        {
-          "name": "Cam Sakkara",
-          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
-        }
-      ],
-      "duration_ms": 240337,
-      "name": "One Too Many Reasons",
-      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/60qgfh1WwC1jeSouwcB5hm"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 136313,
       "name": "Psalm 23",
       "url": "https://open.spotify.com/track/1jJuUwizgDSjtP533LBUPv"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
+        "name": "Conquering Eden",
+        "url": "https://open.spotify.com/album/62kUV3z9wZSYdVb0cCyDxp"
+      },
+      "artists": [
+        {
+          "name": "Cam Sakkara",
+          "url": "https://open.spotify.com/artist/5Hc2dYOq4gQe6ktIvIvhy8"
+        }
+      ],
+      "duration_ms": 240337,
+      "name": "One Too Many Reasons",
+      "url": "https://open.spotify.com/track/7oiLIRikWpTKBpwOLAJyJf"
     },
     {
       "added_at": "2025-12-12 22:29:55",
@@ -2583,6 +2583,22 @@
     {
       "added_at": "2025-12-12 22:29:55",
       "album": {
+        "name": "praise.",
+        "url": "https://open.spotify.com/album/3sC0EZSbRg471hCnaovtAM"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 186162,
+      "name": "praise.",
+      "url": "https://open.spotify.com/track/0nvwZuNM4XzVjenFFAvLDE"
+    },
+    {
+      "added_at": "2025-12-12 22:29:55",
+      "album": {
         "name": "Again And Again",
         "url": "https://open.spotify.com/album/2ST7md3MaJAveTnZ2LkcRn"
       },
@@ -2599,22 +2615,6 @@
       "duration_ms": 189106,
       "name": "Again And Again",
       "url": "https://open.spotify.com/track/0kSvYnLZASPahsaZBlPLlA"
-    },
-    {
-      "added_at": "2025-12-12 22:29:55",
-      "album": {
-        "name": "praise.",
-        "url": "https://open.spotify.com/album/3sC0EZSbRg471hCnaovtAM"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 186162,
-      "name": "praise.",
-      "url": "https://open.spotify.com/track/0nvwZuNM4XzVjenFFAvLDE"
     },
     {
       "added_at": "2025-12-12 22:29:55",

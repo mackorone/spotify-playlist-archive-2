@@ -2340,10 +2340,28 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 212000,
       "name": "Like I Loved You",
       "url": "https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK"
+    },
+    {
+      "album": {
+        "name": "How Were We To Know",
+        "url": "https://open.spotify.com/album/4OiI1TaZbM2NBOCWEeGM4c"
+      },
+      "artists": [
+        {
+          "name": "Emeli Sand\u00e9",
+          "url": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Like I Loved You",
+      "url": "https://open.spotify.com/track/5muegCnW652zCwuklts55e"
     },
     {
       "album": {

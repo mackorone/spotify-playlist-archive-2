@@ -1,6 +1,6 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 190427,
+  "num_followers": 190498,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
-        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
-        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn \"El Gallo\"",
-          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
-        },
-        {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "De Esta Sierra a la Otra Sierra",
-      "url": "https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce"
-    },
-    {
-      "added_at": "2025-01-15 01:34:00",
-      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 133722,
       "name": "El Frijolito",
       "url": "https://open.spotify.com/track/2DinJPTgjKjiBG8zEmUAq8"
+    },
+    {
+      "added_at": "2025-01-15 01:34:00",
+      "album": {
+        "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn \"El Gallo\"",
+          "url": "https://open.spotify.com/artist/0MJYPa8lsdyJ1Rhf3JTVn3"
+        },
+        {
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "De Esta Sierra a la Otra Sierra",
+      "url": "https://open.spotify.com/track/6Hsuzg08RM8Bz9ypVyJBce"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
+        "name": "La Sombra Del Arbol",
+        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
+      },
+      "artists": [
+        {
+          "name": "Ramon Massiaca Y Los Dos Plebes",
+          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Que Te Casas",
+      "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
+    },
+    {
+      "added_at": "2025-01-15 01:34:00",
+      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 289802,
       "name": "El Venadito",
       "url": "https://open.spotify.com/track/5ZTb56u69iePiT3tzknR6k"
-    },
-    {
-      "added_at": "2025-01-15 01:34:00",
-      "album": {
-        "name": "La Sombra Del Arbol",
-        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
-      },
-      "artists": [
-        {
-          "name": "Ramon Massiaca Y Los Dos Plebes",
-          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Que Te Casas",
-      "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
     },
     {
       "added_at": "2025-01-15 01:34:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2025-01-15 01:34:00",
       "album": {
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
+    },
+    {
+      "added_at": "2025-01-15 01:34:00",
+      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 146906,
       "name": "Esta Cobardia",
       "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
-    },
-    {
-      "added_at": "2025-01-15 01:34:00",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
     },
     {
       "added_at": "2025-01-15 01:34:00",

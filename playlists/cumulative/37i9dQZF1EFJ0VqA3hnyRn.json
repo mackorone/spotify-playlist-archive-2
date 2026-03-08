@@ -184,10 +184,28 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 245207,
       "name": "A Little Work",
       "url": "https://open.spotify.com/track/2KaYcKk75izTyS2AGFOhyg"
+    },
+    {
+      "album": {
+        "name": "Double Dutchess",
+        "url": "https://open.spotify.com/album/7Ff7he6c7fzyMhAakcoD2e"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245207,
+      "name": "A Little Work",
+      "url": "https://open.spotify.com/track/4NKYSQJoh7rRSJwiXgXQKp"
     },
     {
       "album": {
@@ -902,7 +920,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 172540,
       "name": "Big Energy",
       "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"

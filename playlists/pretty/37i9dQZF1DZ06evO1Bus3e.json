@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAAA0a7qsqsvsBripW72Q0r0M",
+  "snapshot_id": "aaoZAAAAAACjjtnmhxSybLATQaDjw8J1",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-        "url": "https://open.spotify.com/album/4yMNMGfURraXhNmz2Er9Gh"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 179745,
-      "name": "Plat\u00edcame De Ti [Con Banda Y Bajoloche]",
-      "url": "https://open.spotify.com/track/0Fxl65lUxXWPGGbnvFa4Nr"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 214417,
       "name": "LoLo Felix",
       "url": "https://open.spotify.com/track/3viIYXDq9a1vH0mObQy0rU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 175872,
+      "name": "Platicame De Ti",
+      "url": "https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4"
     },
     {
       "added_at": null,
@@ -63,22 +63,6 @@
       "duration_ms": 172316,
       "name": "Vida Peligrosa (feat. Arsenal Efectivo & Omar Ruiz)",
       "url": "https://open.spotify.com/track/7k7r1GvHZQ06n7fFFLrxCn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 132800,
-      "name": "38 y Super",
-      "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
     },
     {
       "added_at": null,
@@ -115,6 +99,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 132800,
+      "name": "38 y Super",
+      "url": "https://open.spotify.com/track/2ccEuah5UamtifhUsHoBCR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALGO LEVE EN VIVO",
         "url": "https://open.spotify.com/album/36CJxvpWNOXJR6gOaRXqYh"
       },
@@ -131,22 +131,6 @@
       "duration_ms": 197929,
       "name": "Vida Peligrosa (En Vivo)",
       "url": "https://open.spotify.com/track/0yIcL5dw8vNA54bJNPvaiT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 166256,
-      "name": "Soy De Ambiente",
-      "url": "https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ"
     },
     {
       "added_at": null,
@@ -183,6 +167,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 166256,
+      "name": "Soy De Ambiente",
+      "url": "https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Lumbre",
         "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 229004,
       "name": "Los Recuerdos (feat. Arsenal Efectivo)",
       "url": "https://open.spotify.com/track/7kunViZSovu0ZkOcgg9LS8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 176181,
-      "name": "Recio Andamos",
-      "url": "https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8"
     },
     {
       "added_at": null,
@@ -255,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 176181,
+      "name": "Recio Andamos",
+      "url": "https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida Peligrosa",
         "url": "https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di"
       },
@@ -267,22 +267,6 @@
       "duration_ms": 153333,
       "name": "Tali 50",
       "url": "https://open.spotify.com/track/0HtRsArxMXf8KBXbcgaNIt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 209962,
-      "name": "Calorsitos Del Desierto",
-      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
     },
     {
       "added_at": null,
@@ -319,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 209962,
+      "name": "Calorsitos Del Desierto",
+      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida Peligrosa",
         "url": "https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 177219,
       "name": "Soy Ayon",
       "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 164064,
-      "name": "El Vivo Retrato (Ivan Archivaldo)",
-      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
     },
     {
       "added_at": null,
@@ -383,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gente Chaka",
-        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "Emiliano Aguilar",
-          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "Gente Chaka",
-      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En La Fuga",
         "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
       },
@@ -416,25 +376,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 224128,
-      "name": "Elegante Y A Mi Modo",
-      "url": "https://open.spotify.com/track/0j6oGKzOeO0oADcHivpq78"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 212749,
-      "name": "L.A. Dank",
-      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
+      "duration_ms": 164064,
+      "name": "El Vivo Retrato (Ivan Archivaldo)",
+      "url": "https://open.spotify.com/track/3gwyEB1bV3xdtl4gbfxAXt"
     },
     {
       "added_at": null,
@@ -455,6 +399,46 @@
       "duration_ms": 186455,
       "name": "Crimen Organizado",
       "url": "https://open.spotify.com/track/7rQc9Enutk9xbjP7WRUgUi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 212749,
+      "name": "L.A. Dank",
+      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gente Chaka",
+        "url": "https://open.spotify.com/album/2hJu97YCvQwIfJgx2nWtjB"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Emiliano Aguilar",
+          "url": "https://open.spotify.com/artist/1HyP6vYO8haajmj4NFBXBk"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Gente Chaka",
+      "url": "https://open.spotify.com/track/28qTpHSCXu4ATe4Lwjvhmf"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16175,
+  "num_followers": 16181,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAACGWljX3YmUXUOp9iiLwefh",
+  "snapshot_id": "aaoZAAAAAAAJVDYpqWDcKn5th39syAsN",
   "tracks": [
     {
       "added_at": null,
@@ -787,26 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rose Petals",
-        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 214767,
-      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
-      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Give Up",
         "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 230563,
       "name": "Mama Roots",
       "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rose Petals",
+        "url": "https://open.spotify.com/album/0c5o3uiLOPdmDTjcDOPnnu"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 214767,
+      "name": "No Pressure (feat. Snoop Dogg) - Bonus Track",
+      "url": "https://open.spotify.com/track/5PAsypzNOpxEOuhgxjqWaI"
     },
     {
       "added_at": null,

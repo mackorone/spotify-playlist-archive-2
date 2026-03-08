@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 265038,
+  "num_followers": 265034,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aajHgAAAAADQknJcsL2bUwnibe3cYjAL",
+  "snapshot_id": "aaoZAAAAAADLFcBWfixQqMZxdXHr06Vq",
   "tracks": [
     {
       "added_at": null,
@@ -947,6 +947,30 @@
       "duration_ms": 161749,
       "name": "N\u00e3o Sirvo - Ao Vivo",
       "url": "https://open.spotify.com/track/6Er9jEdVvBzg7VQpcMtJYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tocando Madera",
+        "url": "https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Tocando Madera",
+      "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
     }
   ],
   "unique_name": "This Is Lu\u00edsa Sonza",

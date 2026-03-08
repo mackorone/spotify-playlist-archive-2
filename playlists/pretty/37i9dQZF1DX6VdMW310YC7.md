@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,921,247 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921,145 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 33 | [Here Again](https://open.spotify.com/track/5ds1pxspUBAlYro772BO4x) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Kazmyn](https://open.spotify.com/artist/33MvRya7Aowzk32Yl2Rlhu) | [Here Again / Wild Again](https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd) | 3:47 |
 | 34 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 |
 | 35 | [Places](https://open.spotify.com/track/2YiczArWQL4ScWgYrX7AXw) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX) | [Places](https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM) | 3:31 |
-| 36 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
-| 37 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |
+| 36 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 |
+| 37 | [Rust](https://open.spotify.com/track/1c0gopa3ANBpKL59SKU3EZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Rust](https://open.spotify.com/album/1C9LseEpWWuh9PhCkVT74D) | 4:35 |
 | 38 | [Hold On](https://open.spotify.com/track/61UHYLpt5koa0wHhw3n6Uz) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [KYGO](https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q) | 4:18 |
 | 39 | [Melancholia](https://open.spotify.com/track/6zhY7CX2x0fMlpEYWVwHwa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Melancholia](https://open.spotify.com/album/552EhYcIuLGbNHy8hc77Gb) | 3:29 |
 | 40 | [Of Joy](https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM) | [Of Joy](https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7) | 3:19 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 66 | [Fall Apart](https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY), [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Fall Apart](https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2) | 3:08 |
 | 67 | [My Reflection](https://open.spotify.com/track/2wUOPi5t2EsSXguK0Gnkht) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [My Reflection](https://open.spotify.com/album/0kEg5Bj2cn0QZ89gEkBpaT) | 4:17 |
 | 68 | [Go On](https://open.spotify.com/track/2Z42ydA0ORCroYInk2PLTi) | [Massane](https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Go On](https://open.spotify.com/album/3pkakTNCfg5k54UgUCDZG4) | 3:24 |
-| 69 | [All Is Right](https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd) | [All Is Right](https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4) | 3:30 |
-| 70 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 |
+| 69 | [Control](https://open.spotify.com/track/6K1MxJMyM2ImqQvYTdrnDL) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Control](https://open.spotify.com/album/4OoOJSaVeJi7BlIdiY2Wx3) | 4:18 |
+| 70 | [All Is Right](https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU) | [Thysma](https://open.spotify.com/artist/38rkVgCX1c5TUzFNRwfexd) | [All Is Right](https://open.spotify.com/album/6HdiXCbG1eU2Y6SDyXsRE4) | 3:30 |
 | 71 | [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 |
 | 72 | [Heart Made Of Glass](https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Dreamscapes](https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo) | 3:50 |
 | 73 | [Hours](https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Hours](https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN) | 4:08 |

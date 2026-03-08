@@ -3255,6 +3255,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "American Girls",
+      "url": "https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49"
+    },
+    {
+      "album": {
         "name": "Americano",
         "url": "https://open.spotify.com/album/5t0YOz2ro4uCbbQsRZjh9n"
       },
@@ -3959,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Are You Listening Yet?",
+      "url": "https://open.spotify.com/track/7s7v5EoNLD6TwDu4Nw51Oy"
+    },
+    {
+      "album": {
         "name": "P\u00d3\u0141NOC / PO\u0141UDNIE",
         "url": "https://open.spotify.com/album/4qVRuXfOjrafPOOUSnGmL1"
       },
@@ -3982,6 +4018,52 @@
       "duration_ms": 43209,
       "name": "ARIA ROZSTROJU",
       "url": "https://open.spotify.com/track/3dHLhpwfYkbDUwMpde7sV7"
+    },
+    {
+      "album": {
+        "name": "ARIGATO",
+        "url": "https://open.spotify.com/album/7p4YEd89GAxMmQWA2y599y"
+      },
+      "artists": [
+        {
+          "name": "Ekipa",
+          "url": "https://open.spotify.com/artist/4rneSQYWhgIT9pMX2NwpeM"
+        },
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        },
+        {
+          "name": "Mortal",
+          "url": "https://open.spotify.com/artist/4tZpdFSfE7mkuwlWM2Y5f3"
+        },
+        {
+          "name": "\u015awie\u017cy",
+          "url": "https://open.spotify.com/artist/1EIiX3fde2dGnFkYH3527s"
+        },
+        {
+          "name": "Julita R\u00f3\u017calska",
+          "url": "https://open.spotify.com/artist/7GIdcqQ36KQ8I3mkxr1PhM"
+        },
+        {
+          "name": "Fusialka",
+          "url": "https://open.spotify.com/artist/3v1IRbZ6ie7qw3flUny9RV"
+        },
+        {
+          "name": "Ola Bryja",
+          "url": "https://open.spotify.com/artist/12w7XnRqZ4sOdeIcKHJwhy"
+        },
+        {
+          "name": "Mercury",
+          "url": "https://open.spotify.com/artist/65KzmKTmARM8EBVoxki2gn"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "ARIGATO",
+      "url": "https://open.spotify.com/track/1U0dfwnwTeQ10Dn82LwVaz"
     },
     {
       "album": {
@@ -8448,7 +8530,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 213000,
       "name": "B\u0118D\u0118 PREZYDENTEM :)",
       "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
@@ -10881,6 +10963,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ"
+    },
+    {
+      "album": {
         "name": "JACKBOYS 2",
         "url": "https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B"
       },
@@ -12360,7 +12460,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 193000,
       "name": "Decyzje",
       "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
@@ -13620,7 +13720,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 195704,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
@@ -24334,7 +24434,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -27366,7 +27466,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 178758,
       "name": "Lato",
       "url": "https://open.spotify.com/track/0oF40HEGBYbYQufEtB81BM"
@@ -28578,7 +28678,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -38038,7 +38138,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -38754,7 +38854,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 115862,
       "name": "Pach Pach",
       "url": "https://open.spotify.com/track/2lP3giXo6YaN6z1kcwMYnu"
@@ -41799,6 +41899,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Pop",
+      "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -44088,6 +44206,24 @@
       "duration_ms": 153232,
       "name": "Razem W Te \u015awi\u0119ta",
       "url": "https://open.spotify.com/track/6jLt0g3Noxni9Fk8ZswKpS"
+    },
+    {
+      "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Ready, Steady, Go!",
+      "url": "https://open.spotify.com/track/0i4qKfuKJ3juUsEwnJAxk3"
     },
     {
       "album": {
@@ -50363,6 +50499,24 @@
     },
     {
       "album": {
+        "name": "Kiss All The Time. Disco, Occasionally.",
+        "url": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2026-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221653,
+      "name": "Taste Back",
+      "url": "https://open.spotify.com/track/3xClevycpBON8bkyxFbAna"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -52520,7 +52674,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-08",
       "duration_ms": 170066,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/5FnD4h9hEb6ii4zPBLGaGb"

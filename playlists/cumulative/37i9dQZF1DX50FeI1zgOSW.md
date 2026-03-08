@@ -2,7 +2,7 @@
 
 ### [RADAR Tamil](https://open.spotify.com/playlist/37i9dQZF1DX50FeI1zgOSW)
 
-> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : 808Krshna
+> Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sarah Black
 
 734 songs - 1 day 17 hr 44 min
 
