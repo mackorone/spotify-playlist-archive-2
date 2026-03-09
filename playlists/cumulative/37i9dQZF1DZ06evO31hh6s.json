@@ -880,7 +880,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 224208,
       "name": "Dyin' 4 Rap",
       "url": "https://open.spotify.com/track/2ToAFQideOZHpmzqHO1QbY"
@@ -1358,7 +1358,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 211722,
       "name": "God Got My Back (feat. Aktual, AKK)",
       "url": "https://open.spotify.com/track/0jQ7g5xOZyHJ13DNw9kcIN"
@@ -1398,7 +1398,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 208421,
       "name": "God's Time(Save Me)",
       "url": "https://open.spotify.com/track/69J3wrETOi2YZA7JMF3rCb"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 316442,
       "name": "Good Kids, Bad Choices",
       "url": "https://open.spotify.com/track/57FCErGdbFrummRyEqCgMh"
@@ -2104,6 +2104,32 @@
     {
       "album": {
         "name": "Lessons",
+        "url": "https://open.spotify.com/album/4Ui7Vljema5ZE6tlXTpov2"
+      },
+      "artists": [
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Tha Chill",
+          "url": "https://open.spotify.com/artist/7vPLHiyrVGx5OmaSPqJNGw"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254453,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6q8ZzjZdImXcPLeh3xnY8A"
+    },
+    {
+      "album": {
+        "name": "Lessons",
         "url": "https://open.spotify.com/album/5h0fW7otGpsdIGrqQjIwNw"
       },
       "artists": [
@@ -2122,7 +2148,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 254453,
       "name": "Magic (feat. Young Noble & Tha Chill)",
       "url": "https://open.spotify.com/track/4UjPpiWFE2Pm0Hg54j4sk0"
@@ -3110,7 +3136,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 197068,
       "name": "Shepherds and Sheep",
       "url": "https://open.spotify.com/track/0EkhwmX7Jy3drjK24gbRkH"
@@ -3220,7 +3246,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-19",
+      "date_removed": null,
       "duration_ms": 227925,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/5kFV2qrbtsBjIsNNeT2LQk"
@@ -3381,6 +3407,28 @@
     },
     {
       "album": {
+        "name": "THE FORMULA",
+        "url": "https://open.spotify.com/album/3VkQolYm4OsLgzQ83sEsMJ"
+      },
+      "artists": [
+        {
+          "name": "Sarafa",
+          "url": "https://open.spotify.com/artist/7muP2E25Zcv2Q7ZMpc89FB"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182130,
+      "name": "THE FACE",
+      "url": "https://open.spotify.com/track/6GVgOJeqTemuXcHvvOHxI3"
+    },
+    {
+      "album": {
         "name": "Thug Brothers 3",
         "url": "https://open.spotify.com/album/7AR4zvTtBpjKY1Xo32q59i"
       },
@@ -3528,7 +3576,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 257929,
       "name": "The Year Of The Underdogz (feat. Crooked I)",
       "url": "https://open.spotify.com/track/0l3Y3zpdnUFlGPRE7ZefLJ"

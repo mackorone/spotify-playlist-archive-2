@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: CHO",
-  "num_followers": 140744,
+  "num_followers": 140748,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Butta My Bread",
-        "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
-      },
-      "artists": [
-        {
-          "name": "JZyNo",
-          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "Butta My Bread",
-      "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Nu Meteen (Slide)",
         "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 153621,
       "name": "Nu Meteen (Slide)",
       "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Butta My Bread",
+        "url": "https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk"
+      },
+      "artists": [
+        {
+          "name": "JZyNo",
+          "url": "https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "Butta My Bread",
+      "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "February Stories",
         "url": "https://open.spotify.com/album/3hkRbcvcmfrj1fWrBe2oY3"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 143346,
       "name": "February Stories",
       "url": "https://open.spotify.com/track/5RpEwmsV97REIDvj3rVPJ9"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Wonderland",
-        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 176892,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Wonderland",
+        "url": "https://open.spotify.com/album/1kXKhpGQNwFrHZmmzF6xJ4"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 176892,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/7LtHyF0iUvR1g39UP6kI11"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Plenty Bars - EP",
-        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        }
-      ],
-      "duration_ms": 141552,
-      "name": "Bushokje",
-      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 174433,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Plenty Bars - EP",
+        "url": "https://open.spotify.com/album/71AOYMYwbLHEzH2UCDzQjk"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "duration_ms": 141552,
+      "name": "Bushokje",
+      "url": "https://open.spotify.com/track/5qeKjCFlvCwPlUK3zeBZfD"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 207865,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "I Need Your Love",
         "url": "https://open.spotify.com/album/2OKk9baUzD5hvaQ9JxlEZ0"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 163760,
       "name": "I Need Your Love",
       "url": "https://open.spotify.com/track/2fnhMzGEEPKvFtExQ3FMMo"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/2HX58CDc9At5raER932yCf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 207865,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/7Lgy23A9cl92VD0fNC0LiG"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
+        "name": "Tyar\u2019 En Waka",
+        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 161252,
+      "name": "Tyar\u2019 En Waka",
+      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
         "name": "Stiekem \u201824",
         "url": "https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 188956,
       "name": "Stiekem \u201824",
       "url": "https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
-        "name": "Tyar\u2019 En Waka",
-        "url": "https://open.spotify.com/album/2ZiSIItlmQdWLNNoThRETb"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 161252,
-      "name": "Tyar\u2019 En Waka",
-      "url": "https://open.spotify.com/track/5O84kW2rMQKgI8BlQpP9Z1"
     },
     {
       "added_at": "2026-02-19 23:00:43",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-02-19 23:00:43",
       "album": {
-        "name": "In De Nacht",
-        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
-      },
-      "artists": [
-        {
-          "name": "Shah",
-          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
-        }
-      ],
-      "duration_ms": 150840,
-      "name": "In De Nacht",
-      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
-    },
-    {
-      "added_at": "2026-02-19 23:00:43",
-      "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 198750,
       "name": "Noncha",
       "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
+    },
+    {
+      "added_at": "2026-02-19 23:00:43",
+      "album": {
+        "name": "In De Nacht",
+        "url": "https://open.spotify.com/album/7B52kWwf8iXkjpA11lMDp0"
+      },
+      "artists": [
+        {
+          "name": "Shah",
+          "url": "https://open.spotify.com/artist/7lPPiwLIuHV5fPlN6jLi13"
+        }
+      ],
+      "duration_ms": 150840,
+      "name": "In De Nacht",
+      "url": "https://open.spotify.com/track/2yiXHStn90Xf7i9DcFv4Wy"
     },
     {
       "added_at": "2026-02-19 23:00:43",

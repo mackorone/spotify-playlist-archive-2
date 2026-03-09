@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,756 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,757 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 26 | [Baby I Miss You](https://open.spotify.com/track/1HkAiVdzgttlbrxvgFIlwh) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:21 |
 | 27 | [Enemies](https://open.spotify.com/track/1woeGIFerXsEQFsrAIML2v) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 1:58 |
 | 28 | [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You \(Expanded Version\)](https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM) | 2:03 |
-| 29 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 |
+| 29 | [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 |
 | 30 | [Round & Round](https://open.spotify.com/track/2SbXVopNbJtU088mzkfBIS) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:11 |
-| 31 | [My New Love](https://open.spotify.com/track/0GvFz5xC9ksgz44l7RrCK3) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Sound Of Sexy Soul](https://open.spotify.com/album/6KBNPaBdwwrSQPyz1RxRSF) | 2:48 |
+| 31 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 |
 | 32 | [You've Got Yours And I'll Get Mine \- Digitally Remastered 1997](https://open.spotify.com/track/6MZfXzTL12sm7dqFn1m1jl) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Very Best Of](https://open.spotify.com/album/1wpMIDLFtpz8xrm37qY5MG) | 3:16 |
 | 33 | [For the Love I Gave to You](https://open.spotify.com/track/5jCZ4OQB2RtFeMnJIfRuSM) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 5:00 |
 | 34 | [Too Late](https://open.spotify.com/track/3W3IOmKU0sWOpBpWSiCkyH) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 2:36 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO47XPI3.md) - [plain]
 | 42 | [Can't Go On Living](https://open.spotify.com/track/3dz7dPHwf6OYD4pMWYbV40) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 3:10 |
 | 43 | [Can't Get Over Losing You](https://open.spotify.com/track/7ejLrBSdqORsHcMDCd26RO) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Essential Delfonics](https://open.spotify.com/album/0yBRZK5b6TmZGJ7sCm23jQ) | 2:30 |
 | 44 | [Sunday \- Live](https://open.spotify.com/track/2MwXRhpyzJF4arnAI6bgLa) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 2:06 |
-| 45 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
+| 45 | [Love Won't Let Me Wait](https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 3:30 |
 | 46 | [The Same Things That Make You Laugh](https://open.spotify.com/track/4M9NPX9foQIqwOE2waGE9C) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Philly Groove Rarities](https://open.spotify.com/album/0MIUv5Km6ohmE66bKakj9G) | 4:29 |
-| 47 | [Love Won't Let Me Wait](https://open.spotify.com/track/08QbSiadEE18j1YWajwA1q) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Best of The Delfonics](https://open.spotify.com/album/6dGq7ylBWxGhVU1TDy2SH2) | 3:30 |
+| 47 | [Strangers Again](https://open.spotify.com/track/2VSjAymZDhKlrnNafNRXMW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Delfonics Today All Platinium](https://open.spotify.com/album/6b9zCpI3Pu2Gvd2tOSj99U) | 3:39 |
 | 48 | [Seventeen \(And In Love\)](https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:21 |
 | 49 | [Lost Without You](https://open.spotify.com/track/2CBq0T7YKG6kQXHDxve0Q1) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 3:02 |
 | 50 | [My Girl \- Live](https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 3:22 |
 
-Snapshot ID: `aaoZAAAAAAAunIqnBFAM94xsKZCMp6nq`
+Snapshot ID: `aatqgAAAAABRfyZFZle4vWBvIkmVUJkW`

@@ -1,6 +1,6 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 256233,
+  "num_followers": 256406,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
@@ -113,7 +113,7 @@
       "artists": [
         {
           "name": "Chaitanya Pandit",
-          "url": "https://open.spotify.com/artist/3rMeclvs435Ef9n6WHmaM1"
+          "url": "https://open.spotify.com/artist/4HjK24Eovhdd4urLXimFhe"
         },
         {
           "name": "2Sharc",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Fame Us (From \"Tu Yaa Main\")",
-        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
-      },
-      "artists": [
-        {
-          "name": "7Bantai'Z",
-          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
-        },
-        {
-          "name": "Rai Harrie",
-          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
-        }
-      ],
-      "duration_ms": 190566,
-      "name": "Fame Us - From \"Tu Yaa Main\"",
-      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 262866,
       "name": "Kukkad",
       "url": "https://open.spotify.com/track/7DbE178OOsJfJKyiNObOsw"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Fame Us (From \"Tu Yaa Main\")",
+        "url": "https://open.spotify.com/album/6VIwccXQYAnsONDBeK9ZB9"
+      },
+      "artists": [
+        {
+          "name": "7Bantai'Z",
+          "url": "https://open.spotify.com/artist/0Mz9BTzWvM56Ap38mJ5zpK"
+        },
+        {
+          "name": "Rai Harrie",
+          "url": "https://open.spotify.com/artist/3kJtYGxFzTH8a7q4dttHSX"
+        }
+      ],
+      "duration_ms": 190566,
+      "name": "Fame Us - From \"Tu Yaa Main\"",
+      "url": "https://open.spotify.com/track/0YmIn035iwUAeNVrWsz9hl"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -651,34 +651,6 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-        "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Garry Sandhu",
-          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Intense",
-          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
-        }
-      ],
-      "duration_ms": 188606,
-      "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
-      "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -703,6 +675,34 @@
       "duration_ms": 191089,
       "name": "O Saki Saki (From \"Batla House\")",
       "url": "https://open.spotify.com/track/4cFwhwH5ydnHgB0Tv3lZsm"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
+        "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Intense",
+          "url": "https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN"
+        }
+      ],
+      "duration_ms": 188606,
+      "name": "Illegal Weapon 2.0 (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -831,6 +831,30 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
+        "name": "Sonu Ke Titu Ki Sweety",
+        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Jasmin Walia",
+          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 238530,
+      "name": "Bom Diggy Diggy",
+      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
+    },
+    {
+      "added_at": "2026-02-10 03:48:50",
+      "album": {
         "name": "Aankh Marey (From \"Simmba\")",
         "url": "https://open.spotify.com/album/4Tm5PfvhoU8ZAkmHYvEzIN"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 212741,
       "name": "Aankh Marey (From \"Simmba\")",
       "url": "https://open.spotify.com/track/63MvWd6T6yoS7h4AJ4Hjrm"
-    },
-    {
-      "added_at": "2026-02-10 03:48:50",
-      "album": {
-        "name": "Sonu Ke Titu Ki Sweety",
-        "url": "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
-      },
-      "artists": [
-        {
-          "name": "Zack Knight",
-          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
-        },
-        {
-          "name": "Jasmin Walia",
-          "url": "https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 238530,
-      "name": "Bom Diggy Diggy",
-      "url": "https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1067,26 +1067,26 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Jab Koi Baat - Recreated",
-        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
+        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
       },
       "artists": [
         {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
         },
         {
-          "name": "Shirley Setia",
-          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
+          "name": "Benny Dayal",
+          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
         }
       ],
-      "duration_ms": 192228,
-      "name": "Jab Koi Baat - Recreated",
-      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
+      "duration_ms": 215075,
+      "name": "Let's Nacho",
+      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1111,26 +1111,26 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Kapoor & Sons (Since 1921) (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1teNu8WgSFQyNncvswvbAL"
+        "name": "Jab Koi Baat - Recreated",
+        "url": "https://open.spotify.com/album/1nIe4xtu5pwjRLgegOYdMm"
       },
       "artists": [
         {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
         },
         {
-          "name": "Benny Dayal",
-          "url": "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+          "name": "Shirley Setia",
+          "url": "https://open.spotify.com/artist/26ks59eSno7UlPCdljHQoI"
         },
         {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+          "name": "Dj Chetas",
+          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
         }
       ],
-      "duration_ms": 215075,
-      "name": "Let's Nacho",
-      "url": "https://open.spotify.com/track/4mQpBIJKBpd8lcrtZ73SP8"
+      "duration_ms": 192228,
+      "name": "Jab Koi Baat - Recreated",
+      "url": "https://open.spotify.com/track/43GfQ1SC17rBWiHkOtdwK8"
     },
     {
       "added_at": "2026-02-10 03:48:50",
@@ -1299,26 +1299,26 @@
     {
       "added_at": "2026-02-10 03:48:50",
       "album": {
-        "name": "Mitron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0jhDiAfzNalPhA0YmgI4df"
+        "name": "Muqabla (From \"Street Dancer 3D\")",
+        "url": "https://open.spotify.com/album/3cK9AtRTNgQNfb2WzyhyYW"
       },
       "artists": [
         {
-          "name": "Lijo George",
-          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
         },
         {
-          "name": "Dj Chetas",
-          "url": "https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN"
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
         },
         {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Kamariya",
-      "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
+      "duration_ms": 176125,
+      "name": "Muqabla (From \"Street Dancer 3D\")",
+      "url": "https://open.spotify.com/track/28veUNu4veN0LOBVa0nFw8"
     }
   ],
   "unique_name": "Bollywood Workout",

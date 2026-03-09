@@ -1,6 +1,6 @@
 {
   "description": "\u30b9\u30c8\u30ed\u30dc\u30e9\u30a4\u30c8\u306e\u3088\u3046\u306b\u5149\u308a\u8f1d\u304f\u697d\u66f2\u3067\u3001\u4eca\u65e5\u3068\u3044\u3046\u65e5\u3092\u30b9\u30bf\u30fc\u30c8\u3057\u3088\u3046\u3002 Cover art painted by <a href=\"spotify:artist:2IUl3m1H1EQ7QfNbNWvgru\">Vaundy</a>",
-  "num_followers": 31218,
+  "num_followers": 31220,
   "original_name": "\u30b9\u30c8\u30ed\u30dc",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-03-04 03:39:00",
       "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 152319,
+      "name": "ALL IN",
+      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
+    },
+    {
+      "added_at": "2026-03-04 03:39:00",
+      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/68VH68e8EI3jXMF151Trf3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 172191,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6rjpIfWNWwzg7hd1KxDK5f"
-    },
-    {
-      "added_at": "2026-03-04 03:39:00",
-      "album": {
-        "name": "BAD LOVE",
-        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 185437,
-      "name": "BAD LOVE",
-      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
     },
     {
       "added_at": "2026-03-04 03:39:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-03-04 03:39:00",
       "album": {
+        "name": "BAD LOVE",
+        "url": "https://open.spotify.com/album/6RQjez6K5zXMCxw70oDGwB"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "BAD LOVE",
+      "url": "https://open.spotify.com/track/6x6MPCHCBGyPDPXkoelyVN"
+    },
+    {
+      "added_at": "2026-03-04 03:39:00",
+      "album": {
         "name": "BOW AND ARROW",
         "url": "https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
-    },
-    {
-      "added_at": "2026-03-04 03:39:00",
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/09EpfyvBdk8EL5TQNZiZYg"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 152319,
-      "name": "ALL IN",
-      "url": "https://open.spotify.com/track/6lOUOvcscCHUofusbjbYV2"
     },
     {
       "added_at": "2026-03-04 03:39:00",

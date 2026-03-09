@@ -3389,6 +3389,28 @@
     },
     {
       "album": {
+        "name": "God of War Sons of Sparta (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/22v0Og1GbSi1Xis7y0RzY4"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199274,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/53MQ5zpcMvdr5kkt2a6a6n"
+    },
+    {
+      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7pIKtRqXa8zcVPQn4Qchhq"
       },

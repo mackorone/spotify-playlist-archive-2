@@ -2,7 +2,7 @@
 
 ### [Christmas Spirit](https://open.spotify.com/playlist/37i9dQZF1DWViXqZVTGO3Z)
 
-> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Katy Nichole
+> Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
 517 songs - 1 day 9 hr 29 min
 
@@ -442,7 +442,7 @@
 | [The Best Is Yet To Come \- A Song For The New Year](https://open.spotify.com/track/700BSt1v8IerFK91QUaSF4) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Best Is Yet To Come \(A Song For The New Year\)](https://open.spotify.com/album/4cvTdhtYabOff37JVeUF40) | 3:55 | 2021-12-11 | 2024-08-01 |
 | [The Call of Christmas](https://open.spotify.com/track/4CVVBVuneLPTuYD7U5xebZ) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [The Call of Christmas](https://open.spotify.com/album/3JvX21JATxnDyDB4oLv5LU) | 3:49 | 2021-12-11 |  |
 | [The Christmas Shoes](https://open.spotify.com/track/6F2fBbJN8jsxbARj9xvbKe) | [Newsong](https://open.spotify.com/artist/1Ng8jGC4dL0gkkuh77pbpX) | [Sheltering Tree](https://open.spotify.com/album/5nJ6FO2Ik7Ajpg4ZnjiiGg) | 4:51 | 2021-12-11 | 2023-12-16 |
-| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-11 |  |
+| [The Christmas Song](https://open.spotify.com/track/30o5BzVWQclEjTg9S1OaBy) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Christmas Song](https://open.spotify.com/album/2bKOdumK0afBpWoW0W70tj) | 4:06 | 2021-12-11 | 2026-03-09 |
 | [The Christmas Song](https://open.spotify.com/track/7eKlFgqlJdnr1aa67lgl27) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | ['Tis The Season](https://open.spotify.com/album/6K4POkZ7OKtFmz73wW7EyP) | 3:17 | 2024-10-27 | 2025-11-23 |
 | [The Elf Song](https://open.spotify.com/track/4zDelYDM5che1s73Xf0Ody) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Cookies: A Merry Crowder Christmas](https://open.spotify.com/album/1vv6ogQJNhQmga5HKRp5kt) | 2:47 | 2022-11-26 | 2023-12-16 |
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |
@@ -475,7 +475,7 @@
 | [There is a Promise](https://open.spotify.com/track/3J4HIR5gyLFxDLcKfKm7GS) | [David & Maaike](https://open.spotify.com/artist/7KYgxNTHfEPoXzsOKhvQXg) | [There is a Promise](https://open.spotify.com/album/04syM40Ri1WsG8L7OGebGY) | 4:11 | 2021-12-24 | 2022-07-29 |
 | [This Christmas](https://open.spotify.com/track/4CBjktJLsRt8ZO8LSEq0lu) | [Apollo LTD](https://open.spotify.com/artist/3EEWajIld20vCAPfRkXh1S) | [This Christmas](https://open.spotify.com/album/0NHNtCqSBy6yjiZ7jpDDBf) | 2:52 | 2022-11-26 | 2026-03-03 |
 | [This Christmas](https://open.spotify.com/track/1KfsVSKcKTh6hRjBSPL73J) | [Chris August](https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8) | [This Christmas](https://open.spotify.com/album/6ZdukzPlGxWGBcBTXGOcFu) | 2:51 | 2021-12-24 | 2022-07-29 |
-| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 | 2026-03-04 |
+| [This Christmas](https://open.spotify.com/track/3NQcGDkm0I1XFeFSlCWMqt) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [This Christmas](https://open.spotify.com/album/7e7hga6IjsDcKAOpR2hn27) | 3:04 | 2022-11-26 |  |
 | [This Is Christmas](https://open.spotify.com/track/5ZydBDUkvBKXwUmvV3v4mi) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [This Is Christmas](https://open.spotify.com/album/5OhpJQEOrb8Wl0hkv2Wrs7) | 3:30 | 2022-12-11 | 2024-04-02 |
 | [This is Christmas](https://open.spotify.com/track/0aolzp37lPqFhB1LBjRmwF) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [This is Christmas](https://open.spotify.com/album/6wwjwUB8juXsKsFhImkg7d) | 3:20 | 2021-12-24 | 2022-12-22 |
 | [This is Emmanuel](https://open.spotify.com/track/2MXlteGF7jW7DJxfgYV5Kh) | [KingsPorch](https://open.spotify.com/artist/1YBs9eFwD54sWgek5EVYTF) | [This is Emmanuel](https://open.spotify.com/album/1viVm1O59eLrGnwDD5dzRA) | 3:55 | 2022-12-11 | 2024-08-01 |

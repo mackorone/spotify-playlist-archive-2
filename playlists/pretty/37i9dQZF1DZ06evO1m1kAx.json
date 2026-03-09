@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 8109,
+  "num_followers": 8111,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABCjsFHTGRwNAWfHBvjtw6S",
+  "snapshot_id": "aatqgAAAAABo21UcaJJitVVQwfEIn+CE",
   "tracks": [
     {
       "added_at": null,
@@ -575,6 +575,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaga Shuffle",
+        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "Gaga Shuffle",
+      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oya Come Make We Go",
+        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "duration_ms": 259773,
+      "name": "Oya Come Make We Go",
+      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KUKU GOOGLE AM",
         "url": "https://open.spotify.com/album/6XLYPGlLqeNDHp79xoqOvX"
       },
@@ -611,28 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oya Come Make We Go",
-        "url": "https://open.spotify.com/album/56knvwpmyWDP0TKmsWubT1"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Sauti Sol",
-          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
-        }
-      ],
-      "duration_ms": 259773,
-      "name": "Oya Come Make We Go",
-      "url": "https://open.spotify.com/track/0jYQc5rfIJNgbwyDwQHS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gaga Shuffle",
-        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
+        "name": "AWAY & BEYOND",
+        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
       "artists": [
         {
@@ -640,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
         }
       ],
-      "duration_ms": 221584,
-      "name": "Gaga Shuffle",
-      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
+      "duration_ms": 258506,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS"
     },
     {
       "added_at": null,
@@ -667,22 +683,6 @@
       "duration_ms": 184500,
       "name": "Ashewo",
       "url": "https://open.spotify.com/track/6phfOLRF89L8DlEofGXVHN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AWAY & BEYOND",
-        "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 258506,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/1Jumeazvmns8NKaqs2aCfS"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Officially Blind",
+        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Officially Blind",
+      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7pqUKMWH6P7AJPIjUiphTS"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 212498,
       "name": "Abeg Abeg (feat. 2Baba & Timaya)",
       "url": "https://open.spotify.com/track/0T4qEpN66j63wGvh3jIryW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Officially Blind",
-        "url": "https://open.spotify.com/album/4VbAu57Fzi3DRW6opWs0C9"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Officially Blind",
-      "url": "https://open.spotify.com/track/1sEG4j3BPpYyT4hFBQ2M4N"
     }
   ],
   "unique_name": "This Is 2Baba",

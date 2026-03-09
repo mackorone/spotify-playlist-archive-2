@@ -1,6 +1,6 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 474637,
+  "num_followers": 474704,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
-      },
-      "artists": [
-        {
-          "name": "Ron Adelaar",
-          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
-        }
-      ],
-      "duration_ms": 128724,
-      "name": "Evening Star",
-      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Kalmte",
         "url": "https://open.spotify.com/album/4togAOBBwtO2gJ7zULCDYi"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 134000,
       "name": "Onward",
       "url": "https://open.spotify.com/track/6zo1cdRzbCvGZmJVJEk8TS"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/096g5y9CPefSvUd9EhzL65"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "duration_ms": 128724,
+      "name": "Evening Star",
+      "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -695,22 +695,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Light of wintertime",
-        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
-      },
-      "artists": [
-        {
-          "name": "Josephe Burke",
-          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
-        }
-      ],
-      "duration_ms": 131295,
-      "name": "Light of wintertime",
-      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "fields of forever (sleep rework)",
         "url": "https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 221702,
       "name": "fields of forever - sleep rework",
       "url": "https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Light of wintertime",
+        "url": "https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD"
+      },
+      "artists": [
+        {
+          "name": "Josephe Burke",
+          "url": "https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi"
+        }
+      ],
+      "duration_ms": 131295,
+      "name": "Light of wintertime",
+      "url": "https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Nokt\u00farna Variations",
-        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Nokt\u00farna - Upright Piano",
-      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Felt Improv No. 4",
         "url": "https://open.spotify.com/album/1nKAO1c4f6iVYEarQHaHg4"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 125500,
       "name": "Felt Improv No. 4",
       "url": "https://open.spotify.com/track/4U9X7vhbPaRiYihnQOSyj5"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Nokt\u00farna Variations",
+        "url": "https://open.spotify.com/album/26z4j76XfqW15DPpGXEx3D"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Nokt\u00farna - Upright Piano",
+      "url": "https://open.spotify.com/track/0uSyj4g5Qh5zCcbyMJufbY"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Dreamt, far hope...",
-        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 139515,
-      "name": "Dreamt, far hope...",
-      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Wish Your Way",
         "url": "https://open.spotify.com/album/7IVtgJuuzuYcxmV8DlAqnE"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 162624,
       "name": "Wish Your Way",
       "url": "https://open.spotify.com/track/3W6Tx6pKOD4O97uTIYwoEZ"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Dreamt, far hope...",
+        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 139515,
+      "name": "Dreamt, far hope...",
+      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Prehension",
-        "url": "https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 225866,
-      "name": "The Gift",
-      "url": "https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Ocean Heart",
         "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
+        "name": "Prehension",
+        "url": "https://open.spotify.com/album/5hh0izzUUhsDp54kcijlKK"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 225866,
+      "name": "The Gift",
+      "url": "https://open.spotify.com/track/0PCduL4v5QEEKqeRUv7TEC"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
         "name": "Distance",
         "url": "https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN"
       },
@@ -1427,22 +1427,6 @@
       "duration_ms": 155704,
       "name": "Distance",
       "url": "https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
         "name": "Tone of Love",
         "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
       },
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Luce",
-        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
-      },
-      "artists": [
-        {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
-        }
-      ],
-      "duration_ms": 130403,
-      "name": "Luce",
-      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Deux",
         "url": "https://open.spotify.com/album/7b3eeTtobX08kn1qW1ljWb"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 183602,
       "name": "Deux",
       "url": "https://open.spotify.com/track/3HZF4X9kNjSDLppU9aw01r"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Luce",
+        "url": "https://open.spotify.com/album/00EHlFdUT07StJKAk4al8H"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "duration_ms": 130403,
+      "name": "Luce",
+      "url": "https://open.spotify.com/track/3eGygw8GYEYWknt1JeZAQ1"
     },
     {
       "added_at": "2026-03-03 01:08:47",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2026-03-03 01:08:47",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
-      },
-      "artists": [
-        {
-          "name": "Elijah Reeves",
-          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
-        }
-      ],
-      "duration_ms": 185750,
-      "name": "Somewhere",
-      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
-    },
-    {
-      "added_at": "2026-03-03 01:08:47",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
+    },
+    {
+      "added_at": "2026-03-03 01:08:47",
+      "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7"
+      },
+      "artists": [
+        {
+          "name": "Elijah Reeves",
+          "url": "https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8"
+        }
+      ],
+      "duration_ms": 185750,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM"
     },
     {
       "added_at": "2026-03-03 01:08:47",

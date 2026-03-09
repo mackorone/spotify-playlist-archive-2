@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם קלינשטיין
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,492 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,493 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 49 | [טקילה עליי](https://open.spotify.com/track/6vc9c28DE6fuxMoYNPHijy) | [Nadav Guedj](https://open.spotify.com/artist/0QmOR0TqxMPtZxtaIJ5klY) | [בלי יד על הדופק](https://open.spotify.com/album/5tgSy12G4VBfOXMMGjXzKL) | 3:00 |
 | 50 | [קיפוד](https://open.spotify.com/track/6kNH0S4DfMYr1tSMKFykot) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [קיפוד](https://open.spotify.com/album/3K0w6yabjjNXG3t45Do6oj) | 4:18 |
 
-Snapshot ID: `AAAAAO1ElUAHvWDV0X/kIMttTWqpLvvM`
+Snapshot ID: `AAAAAEHTVdJaIwyI2X1CLFWb3lVzbspT`

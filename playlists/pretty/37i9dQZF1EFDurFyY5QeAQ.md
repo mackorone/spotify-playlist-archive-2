@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1FxDVhXcHEAtLrLA0KD9CC">Bebe Rexha</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,183 likes - 90 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,183 likes - 91 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,11 +92,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDurFyY5QeAQ.md) - [plain]
 | 82 | [Visions \(Don't Go\)](https://open.spotify.com/track/3StXroLgGesFDHUljDzNlJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:18 |
 | 83 | [I Am](https://open.spotify.com/track/4fK2nGMQLFs66Lb9XXArYh) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 2:55 |
 | 84 | [Mama](https://open.spotify.com/track/016mggZAtUrDvsrEV6rMYj) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:08 |
-| 85 | [Blue Moon](https://open.spotify.com/track/7o7XJW9mWokwMIBEMDzTSt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:13 |
-| 86 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
-| 87 | [Sink Or Swim](https://open.spotify.com/track/4ZVLVZGtZJcVu6hQS1ScDG) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Introducing Pierce Fulton](https://open.spotify.com/album/0Zn2S6aEyHJoFhwSFBxyV6) | 5:56 |
-| 88 | [One More Night](https://open.spotify.com/track/6DEaWJ1GGVcOPg1nYLkyoG) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Jersey](https://open.spotify.com/album/04Gl2rT689sltrYqspcG2w) | 3:24 |
-| 89 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
-| 90 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
+| 85 | [New Religion](https://open.spotify.com/track/2Lb9ww5vZAnveWnrFQfAKR) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/20tsEm7Eiww4EqHRYzWdyH) | 2:54 |
+| 86 | [Blue Moon](https://open.spotify.com/track/7o7XJW9mWokwMIBEMDzTSt) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:13 |
+| 87 | [Born Again](https://open.spotify.com/track/0i3beYS6XqrlgwytD3sOf6) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:00 |
+| 88 | [Sink Or Swim](https://open.spotify.com/track/4ZVLVZGtZJcVu6hQS1ScDG) | [Pierce Fulton](https://open.spotify.com/artist/5p0zkKpBuRguKebwRe0RI2), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Introducing Pierce Fulton](https://open.spotify.com/album/0Zn2S6aEyHJoFhwSFBxyV6) | 5:56 |
+| 89 | [One More Night](https://open.spotify.com/track/6DEaWJ1GGVcOPg1nYLkyoG) | [Bella Thorne](https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX) | [Jersey](https://open.spotify.com/album/04Gl2rT689sltrYqspcG2w) | 3:24 |
+| 90 | [Party, Fun, Love & Radio \(feat\. J\. Trill\)](https://open.spotify.com/track/02bcP3PjAT5y0o2eCxAJbv) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [J Trill](https://open.spotify.com/artist/6KA6yMLQymzZyrPReCy1A5) | [Party, Fun, Love & Radio](https://open.spotify.com/album/0F6q9ypqrKlsiaRviyoZwG) | 3:25 |
+| 91 | [Miracle](https://open.spotify.com/track/2H5r66uEoNiIS5W9CQ9DB2) | [Greg Scott](https://open.spotify.com/artist/5bBHo5g4F9R3WQoMcw3r80) | [Miracle](https://open.spotify.com/album/0nK7nk8wSXVEkwkbGMsf94) | 2:32 |
 
-Snapshot ID: `AcLhtAAAAADkONZuPWrGXczVP6h+PwZU`
+Snapshot ID: `AcLnGAAAAADMwy0g7cpGM2JWAygGtiRd`

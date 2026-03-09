@@ -4,7 +4,7 @@
 
 > This is Finch\. The essential tracks, all in one playlist.
 
-45 songs - 2 hr 56 min
+47 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Back To Oblivion](https://open.spotify.com/track/6lmViGkDC9BbmBb5l856fl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:23 | 2023-11-10 | 2025-01-05 |
 | [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 | 2024-03-15 | 2024-05-02 |
 | [Bitemarks And Bloodstains](https://open.spotify.com/track/4vojoAgXcYu8NZQpYfaOYD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:39 | 2022-10-25 |  |
-| [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 | 2022-10-25 |  |
+| [Brother Bleed Brother](https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:41 | 2022-10-25 | 2026-03-09 |
 | [Chinese Organ Thieves](https://open.spotify.com/track/49jEjCzhpgpIIar7HnIRpg) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 7:28 | 2022-10-25 | 2023-10-11 |
 | [Daylight](https://open.spotify.com/track/7pJx8OGZ8fBbchaVLxveE2) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 4:16 | 2022-10-25 | 2023-10-11 |
 | [Famine Or Disease](https://open.spotify.com/track/6Un0N91DjUVLmRNNazLQ6g) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Finch](https://open.spotify.com/album/0CHozljM0uzv3H1EqrTBbl) | 3:56 | 2022-10-25 | 2023-10-11 |
@@ -27,6 +27,7 @@
 | [Further From The Few](https://open.spotify.com/track/42ExrVF79VooKmYc1INiGo) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:31 | 2022-10-25 |  |
 | [Grey Matter](https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:39 | 2022-10-25 | 2025-11-09 |
 | [Inferium](https://open.spotify.com/track/1uwRwAtBO9rDjteGz7c2D6) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 5:28 | 2025-01-12 | 2025-01-18 |
+| [Inferium](https://open.spotify.com/track/3VEfpFBPKMnsbhrgHXw1Bl) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 5:28 | 2026-03-09 |  |
 | [Ink](https://open.spotify.com/track/2SJoURQgsD1BtdEjlAVeNE) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:35 | 2022-10-25 |  |
 | [Insomniatic Meat](https://open.spotify.com/track/61mGDyF9irzSjSDUwIh5CM) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 4:24 | 2022-10-25 |  |
 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 | 2022-10-25 |  |
@@ -40,11 +41,12 @@
 | [Nothing In The Sun](https://open.spotify.com/track/45SlvOkZXPoJBimxJIaHX8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Brown Acid \- The Fifth Trip](https://open.spotify.com/album/6IvPFgrPyhVO6b14WYsJ3K) | 4:10 | 2022-10-25 |  |
 | [Paradoxical Moods \- live 1975](https://open.spotify.com/track/6mgB7miIa3f7Ftat2Tb73b) | [Finch](https://open.spotify.com/artist/5FkqKnWT3Uf7lhShflsViO) | [Galleons of Passion 2 \(expanded & remastered\)](https://open.spotify.com/album/5LLhZh5gz8fPq1cBhm98Eu) | 11:02 | 2022-12-05 | 2022-12-08 |
 | [Perfection Through Silence](https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:09 | 2022-10-25 |  |
-| [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 | 2022-11-09 |  |
+| [Picasso Trigger](https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 3:38 | 2022-11-09 | 2026-03-09 |
 | [Picasso Trigger](https://open.spotify.com/track/6hbJCRM1jQDDCVcg6uMoLU) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 3:38 | 2023-11-10 | 2023-12-27 |
 | [Play Dead](https://open.spotify.com/track/3ojxuJsIWtGciC7LFB4hds) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl) | 5:21 | 2022-10-25 |  |
 | [Post Script](https://open.spotify.com/track/0XxaJChXTfqNkIOqlYmNOw) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 2:49 | 2022-10-25 |  |
 | [Pre World \- Main Floor House Mix](https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6) | [Ralphie](https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz), [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Love My Vol.9](https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh) | 5:45 | 2023-12-13 |  |
+| [Revelation Song](https://open.spotify.com/track/7E5QeI7XaPzFY2bZyEaXbq) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Say Hello To Sunshine](https://open.spotify.com/album/2sTszHEtxhh9GkHtl3SU9N) | 3:22 | 2026-03-09 |  |
 | [Spanish Fly \(Bonus Track\)](https://open.spotify.com/track/45OlksQZ1y4JmFmnIIZJI9) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Drive Thru Records Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/2ay5rabzbG767VisgmqY1w) | 2:37 | 2022-10-25 |  |
 | [Stay With Me](https://open.spotify.com/track/0W0hRhNEajLKOPlxFDq8Q8) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:02 | 2022-10-25 |  |
 | [Tarot](https://open.spotify.com/track/14n3liDTvTEjYC5JMZyIO3) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Back To Oblivion](https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X) | 4:56 | 2024-10-21 | 2025-05-07 |

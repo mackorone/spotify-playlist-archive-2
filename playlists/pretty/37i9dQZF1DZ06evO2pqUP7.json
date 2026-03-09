@@ -1,12 +1,12 @@
 {
   "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 69940,
+  "num_followers": 69939,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAA/8Jvx6ixdkQJqk2yCm8Oo",
+  "snapshot_id": "aatqgAAAAACOkZSlD1rMjD44UA5JIJMk",
   "tracks": [
     {
       "added_at": null,
@@ -179,26 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victoria",
-        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Victoria",
-      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Ni\u00f1o",
         "url": "https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 208000,
       "name": "TODO O NADA",
       "url": "https://open.spotify.com/track/59rjsHYxdxeUG6gd43Emzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Victoria",
+        "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9"
     },
     {
       "added_at": null,
@@ -459,6 +459,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz",
+        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 315862,
+      "name": "Mi Error - Remix",
+      "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMW (REMIX)",
         "url": "https://open.spotify.com/album/1SKNhaSlDjP48DV9n7zmnW"
       },
@@ -491,34 +519,6 @@
       "duration_ms": 384000,
       "name": "OMW - Remix",
       "url": "https://open.spotify.com/track/1idR5YBsDGrAGrv4AXqgpz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz",
-        "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 315862,
-      "name": "Mi Error - Remix",
-      "url": "https://open.spotify.com/track/5IjOqh4XLyjHINuOGolmAt"
     },
     {
       "added_at": null,
@@ -695,6 +695,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prendemos",
         "url": "https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 217733,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
     },
     {
       "added_at": null,
@@ -1147,26 +1147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quien Contra Mi 2",
-        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Subconsciente",
-      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fantasia Sexual",
         "url": "https://open.spotify.com/album/1lf70hdVQoWSntSmDE738c"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 253469,
       "name": "Fantasia Sexual",
       "url": "https://open.spotify.com/track/2Gbdc2PNfE5tXu9ujCxEiQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Subconsciente",
+      "url": "https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-8,492 songs - 21 day 15 hr 0 min
+8,494 songs - 21 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Against All Odds \(Take a Look at Me Now\) \- 2016 Remaster](https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [The Singles \(Expanded\)](https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah) | 3:26 | 2025-01-15 |  |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2025-12-30 |  |
 | [Ah\-Choo](https://open.spotify.com/track/4Kl017IgdJxdlvgnvrpYlE) | [Lovelyz](https://open.spotify.com/artist/3g34PW5oNmDBxMVUTzx2XK) | [Lovelyz8](https://open.spotify.com/album/4WkapgTIqmLu5HUF75X6Y8) | 3:38 | 2025-07-22 |  |
+| [Ai Đưa Em Về](https://open.spotify.com/track/7LTdc7R99Q9sHlD3I0e10t) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/6LgVrcjpVQJv9nPJ7vGBw9) | 3:53 | 2026-03-08 |  |
 | [Aikotoba](https://open.spotify.com/track/20zpPd27kDBFeMX74Y1sHm) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [Aikotoba](https://open.spotify.com/album/1gTZHQ1tkqQvTb8SigXpa7) | 3:22 | 2025-12-07 |  |
 | [Aim For The Moon \(feat\. Quavo\)](https://open.spotify.com/track/6O7fPYTsb2mY0PiFt2ymDB) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Shoot For The Stars Aim For The Moon](https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc) | 2:55 | 2025-01-15 |  |
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2025-01-04 |  |
@@ -2580,6 +2581,7 @@
 | [Hack](https://open.spotify.com/track/3H1AbAXrJmEsZZViuvlItE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 3:55 | 2024-12-05 |  |
 | [Had Enough \(feat\. Quavo & Offset\)](https://open.spotify.com/track/6SPgp2qK3fb4wPX1SldrNf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Heaven Or Hell](https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B) | 2:37 | 2025-01-03 |  |
 | [HAD ENOUGH \(feat\. Quavo & Offset\)](https://open.spotify.com/track/7LGWmZaoS7jZJ5tEi9EcDi) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 2:37 | 2025-01-03 |  |
+| [Hadal Ahbek](https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk) | 3:29 | 2026-03-08 |  |
 | [Haikei Shounenyo](https://open.spotify.com/track/1zuJhvTWKLWmfJk6vIPPVT) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [Haikei Shounenyo](https://open.spotify.com/album/4oha0F6Ng0LUQL7zm6nkCE) | 3:08 | 2025-03-31 |  |
 | [Haikei Shounenyo \- 2020.11.23 Live at Osaka\-Jo Hall](https://open.spotify.com/track/22j8HQKqUvGtsw3tNEFHZ5) | [Hump Back](https://open.spotify.com/artist/0zgpYPDY3hFaK1DqbWgCjI) | [“Haikei Shounen Shoujo tachiyo”Osaka\-Jo Hall One\-man Live](https://open.spotify.com/album/1n6ZMBkYjIWkii6wmVnFFa) | 5:28 | 2025-01-03 | 2025-04-15 |
 | [Hail Mary](https://open.spotify.com/track/6sCtddSFg3foJn4K2pIhfQ) | [Makaveli](https://open.spotify.com/artist/4pmNqFu71wEmFXSsYAiWK8) | [The Don Killuminati: The 7 Day Theory](https://open.spotify.com/album/2gWrUaBkh1uQARjbjvUGNp) | 5:09 | 2025-01-04 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAA+kXe8aFNAyLnKZowuipxu",
+  "snapshot_id": "aatqgAAAAADvhxCF3Lgtr7oLWcbjelSD",
   "tracks": [
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+        "name": "Voor Jou",
+        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
+      "duration_ms": 203933,
+      "name": "Ik Weet 'T Zeker",
+      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voor Jou",
-        "url": "https://open.spotify.com/album/0CGICmUeaDosEWgHfNu2IZ"
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 203933,
-      "name": "Ik Weet 'T Zeker",
-      "url": "https://open.spotify.com/track/3HMqLTb4D0l3D7vgMPofZX"
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,

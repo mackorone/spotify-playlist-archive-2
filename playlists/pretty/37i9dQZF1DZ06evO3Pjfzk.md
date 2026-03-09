@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,760 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,799 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 31 | [Two Story House](https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj) | 3:19 |
 | 32 | [Waste of Good Whiskey](https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:55 |
 | 33 | [Wild Woman \- Lainey Wilson Version](https://open.spotify.com/track/1Dl7benysRqzPFFynBmYCt) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Wild Woman \(Lainey Wilson Version\)](https://open.spotify.com/album/4AXJv2lxOUj6eOyMRxJ2gA) | 3:32 |
-| 34 | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0) | 3:46 |
-| 35 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 2:59 |
+| 34 | [Thicc As Thieves \(feat\. Lainey Wilson\)](https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Unlocked](https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC) | 2:59 |
+| 35 | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Trailblazer \(with Miranda Lambert and Lainey Wilson\)](https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0) | 3:46 |
 | 36 | [Breakin' Your Heart](https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Lainey Wilson \- EP](https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga) | 2:57 |
 | 37 | [Straight Up Sideways](https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 2:56 |
 | 38 | [King Ranch, King George, King James](https://open.spotify.com/track/0rKZpg1YUavHMFf9iRpwCq) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind \(Deluxe\)](https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 49 | [Rolling Stone](https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:59 |
 | 50 | [I Wrote You A Song \(with Lainey Wilson\)](https://open.spotify.com/track/7uBP4SqctNyKhUdFAFDNO6) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Forever \(Legendary Edition\)](https://open.spotify.com/album/59U2BkI8hyEtE7Z3ViuRse) | 3:25 |
 
-Snapshot ID: `aaoZAAAAAADB912KplcIiclUpq3WPTwU`
+Snapshot ID: `aatqgAAAAABHgJ5Bz5xZyNHLjoiqpVpW`

@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Worth Your Wild EP",
+        "url": "https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196919,
+      "name": "Spring Break",
+      "url": "https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O"
+    },
+    {
+      "album": {
         "name": "Double Wide Diva",
         "url": "https://open.spotify.com/album/4n5NG3MFeRomRqPpEeCEMC"
       },

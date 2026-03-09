@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1328363,
+  "num_followers": 1328292,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Anyone In Love",
-        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
       },
       "artists": [
         {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 186990,
-      "name": "Anyone In Love",
-      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
+      "duration_ms": 200626,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -535,18 +535,18 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/15BiKQLRmY8xQIk4arEEsq"
+        "name": "Anyone In Love",
+        "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
         }
       ],
-      "duration_ms": 200626,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/5J6TfufAsesi9BPnvlgBl8"
+      "duration_ms": 186990,
+      "name": "Anyone In Love",
+      "url": "https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "SAYA",
         "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 209100,
       "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
       "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Caterpillar",
-        "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 217724,
-      "name": "Caterpillar",
-      "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Don't Cry, Put Your Head On My Shoulder",
         "url": "https://open.spotify.com/album/74xb3RB0NFdpxogUMihIlb"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 231680,
       "name": "Don't Cry, Put Your Head On My Shoulder",
       "url": "https://open.spotify.com/track/7pIkx5eSiIqA4WPRK526Wf"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Caterpillar",
+        "url": "https://open.spotify.com/album/1zcnxqIC7IomgcLiKFfpS6"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 217724,
+      "name": "Caterpillar",
+      "url": "https://open.spotify.com/track/3pEHYqoL41WqjJDGCwRoQN"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "I Can See The Future",
-        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "The Great Impersonator",
         "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 216006,
       "name": "Panic Attack",
       "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "I Can See The Future",
+        "url": "https://open.spotify.com/album/2r03tuODAS7RHQdN6VrmVy"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/4lHCfrmfJxOCcrPz4s5eLD"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
+      },
+      "artists": [
+        {
+          "name": "Vicky Sometani",
+          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
+        }
+      ],
+      "duration_ms": 205768,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
         "name": "Olive Tree",
         "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 139493,
       "name": "Let's Try Love",
       "url": "https://open.spotify.com/track/5jRrOieyEnmCCmN6YOa9Qy"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/5qbZtAhc1eF1mdImrJlKIs"
-      },
-      "artists": [
-        {
-          "name": "Vicky Sometani",
-          "url": "https://open.spotify.com/artist/29uVFPS7wo6RBGzewIc6pt"
-        }
-      ],
-      "duration_ms": 205768,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Teenage Love",
-        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
-      },
-      "artists": [
-        {
-          "name": "Katie Gregson-MacLeod",
-          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
-        }
-      ],
-      "duration_ms": 261586,
-      "name": "Teenage Love",
-      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Lungs",
         "url": "https://open.spotify.com/album/2kI0bFy7s7H5bvLpPZTxzJ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 237632,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/0UiS217Jk2oDxfDnOIrOwb"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Teenage Love",
+        "url": "https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl"
+      },
+      "artists": [
+        {
+          "name": "Katie Gregson-MacLeod",
+          "url": "https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF"
+        }
+      ],
+      "duration_ms": 261586,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Patterns in Repeat",
-        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 200648,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "The Last Showgirl (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0NoC6ko2oJ7BnbTRBnNg7G"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 304812,
       "name": "To Be Loved",
       "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Patterns in Repeat",
+        "url": "https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 200648,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d"
     },
     {
       "added_at": "2026-02-20 00:00:16",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-02-20 00:00:16",
       "album": {
-        "name": "Peaceful Place",
-        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Peaceful Place",
-      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
-    },
-    {
-      "added_at": "2026-02-20 00:00:16",
-      "album": {
         "name": "Don't Fall Asleep",
         "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 269280,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+    },
+    {
+      "added_at": "2026-02-20 00:00:16",
+      "album": {
+        "name": "Peaceful Place",
+        "url": "https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Peaceful Place",
+      "url": "https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N"
     },
     {
       "added_at": "2026-02-20 00:00:16",

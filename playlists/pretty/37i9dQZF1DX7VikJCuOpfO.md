@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Grupo Triunfadores, Posadas📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,892 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,904 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 14 | [Me Retiré](https://open.spotify.com/track/2VtmkxL1Fif90UxVdFIxI7) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Me Retiré](https://open.spotify.com/album/1CkOACOSImxTfVch4xj1mx) | 2:04 |
 | 15 | [Nadie Se Va Como Llegó](https://open.spotify.com/track/3P2dOkNphBVfbuQ3kXU4nf) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nadie Se Va Como Llegó](https://open.spotify.com/album/0ZN91M5K6PqOe2IyUqluYR) | 2:33 |
 | 16 | [Casí 16](https://open.spotify.com/track/1HnlNGgq9Y0tRJdh1jqz8i) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Casí 16](https://open.spotify.com/album/1RTYkT9Z40oP1lASdKEGhB) | 3:12 |
-| 17 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
+| 17 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |
 | 18 | [Así Fue \- En Vivo](https://open.spotify.com/track/7JC5J5064iDd0hYvpGdk2Q) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Así Fue \(En Vivo\)](https://open.spotify.com/album/7bGVdRgPAXeMCnfyTAQKE8) | 5:36 |
-| 19 | [No Me Sé Rajar](https://open.spotify.com/track/3iSGqILpD93gkvy3J3SAGL) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [No Me Sé Rajar](https://open.spotify.com/album/4dkDbcc16kqNJWCpbSGxVt) | 2:25 |
+| 19 | [Dónde y Cuándo](https://open.spotify.com/track/4d31MVRPbQOgBs1BT9s9ea) | [Dayanara](https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q) | [Dónde y Cuándo](https://open.spotify.com/album/3ZwteVEY5IEjLNwDSKyKzN) | 2:43 |
 | 20 | [Malagradecido](https://open.spotify.com/track/09GKeaFkvYFasYLWC0S0Fm) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Malagradecido](https://open.spotify.com/album/5krkvlcYYbvYnuiUVwDFa9) | 2:54 |
 | 21 | [Ley De La Atracción](https://open.spotify.com/track/7EK5XYbnRtUIytfF8mtRaR) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [Ley De La Atracción](https://open.spotify.com/album/7J4uEvrBfiJWH0R5P4vW7S) | 2:43 |
 | 22 | [Bien, ¿y tú?](https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP) | [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Bien, ¿y tú?](https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg) | 3:00 |

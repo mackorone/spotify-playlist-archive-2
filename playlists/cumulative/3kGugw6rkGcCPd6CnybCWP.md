@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-213 songs - 12 hr 20 min
+216 songs - 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Fire](https://open.spotify.com/track/6AYMMXHitROsSNE6KxQz9I) | [Holly Wild](https://open.spotify.com/artist/1gwRWwDueKmMcxHLX5ttmC) | [Fire](https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q) | 3:24 | 2025-10-24 | 2025-12-02 |
 | [Forever Blue](https://open.spotify.com/track/0HCpOV0BPeDiwzWMRdPc2F) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Forever Blue](https://open.spotify.com/album/1jPuINX9YzECKkhVibkw0V) | 4:16 | 2025-11-14 | 2026-01-17 |
 | [Friday Night](https://open.spotify.com/track/1iLAJCSGufM6kFwQmEsAsy) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Friday Night](https://open.spotify.com/album/4xy9aR4N9jINMWqrGDoxty) | 3:55 | 2025-11-03 | 2025-12-02 |
+| [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-03-08 |  |
 | [Ghosts](https://open.spotify.com/track/4ma25GBIHco2FLwqkgd4Et) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:53 | 2026-03-04 |  |
 | [ghosts](https://open.spotify.com/track/27ynxg5Ze6q2zWFl1fJPfh) | [Lorelai Paige](https://open.spotify.com/artist/3HVWZoxdlflhNpe04Np1tD), [Darcy Saint](https://open.spotify.com/artist/5mUgRZ7Xvd0tgIL7miDJl6) | [ghosts](https://open.spotify.com/album/4tW9xXJfd8clfBULDOWUvR) | 3:57 | 2025-10-24 | 2025-12-02 |
 | [Give In](https://open.spotify.com/track/3rBgOuFBRFI2QbzEO7eyd9) | [Nathaniel Bawden](https://open.spotify.com/artist/2Bqs2btB0esnZVHqHYU2aA) | [Give In](https://open.spotify.com/album/4QVrhSGiHr8ThE1OT171Lq) | 3:32 | 2026-01-20 |  |
@@ -142,6 +143,7 @@
 | [Nothing We Can Do](https://open.spotify.com/track/2GcRdml2oURe3PpLEZmpfn) | [Laurie McMahon](https://open.spotify.com/artist/3Xr0YttuvFgDb6vgjONFT7) | [Nothing We Can Do](https://open.spotify.com/album/0nfkbEiPiQrwF9dIVEjGUV) | 3:36 | 2025-11-21 | 2026-01-17 |
 | [nowhere](https://open.spotify.com/track/52acR4SFKkSmmZX0vIJsUG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [nowhere](https://open.spotify.com/album/00jJdhjPWVtce0Uiygt6AB) | 2:02 | 2025-10-24 | 2025-12-02 |
 | [Oh, Juliette!](https://open.spotify.com/track/5Uz0ggdrjLMTK91wVFMgpo) | [Apostles](https://open.spotify.com/artist/3RcRQvnGYuY8dyIROokwNi) | [Here to Stay](https://open.spotify.com/album/6QdDsrjkS70Lkub6FYUXvf) | 2:41 | 2025-10-30 | 2026-01-17 |
+| [Ophelia](https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ophelia](https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR) | 3:35 | 2026-03-08 |  |
 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-02-01 |  |
 | [Phone Addiction](https://open.spotify.com/track/20lqNTuwAQPf2IQMBi4KYa) | [The Nouveau](https://open.spotify.com/artist/1ltzwAbvKdW4KhvTHmEvf4) | [Phone Addiction](https://open.spotify.com/album/7AMN0yf800pU8eMbC7NMmf) | 2:30 | 2025-11-13 | 2026-01-17 |
 | [Pilgrim](https://open.spotify.com/track/4Libgzg3p5CFzsVYlel1yQ) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:01 | 2026-01-06 |  |
@@ -150,6 +152,7 @@
 | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/track/7AzxTnwsUBw23TfOKpGk71) | [Dirty Blonde](https://open.spotify.com/artist/2DgztFhlbYMAJ5JNxTjuhc) | [Rage \(Makes Me Feel Pretty\)](https://open.spotify.com/album/3oEjpwbZUee3pVdJ6CG7yh) | 3:35 | 2025-11-02 | 2026-01-15 |
 | [raise your glass](https://open.spotify.com/track/0W6VRjdA6e2eo5kvxAuNt1) | [Elliot Tellman](https://open.spotify.com/artist/1MoUSFvNvwlHzmHfImqjmL) | [raise your glass](https://open.spotify.com/album/7hg3gKYeOCxem72R3ClkKk) | 3:00 | 2026-01-03 | 2026-02-07 |
 | [Rooted on the Road](https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip) | [CLANDESTINA](https://open.spotify.com/artist/0fCGnCJsfojMmsEi3v27TX) | [Rooted on the Road](https://open.spotify.com/album/1S1DoC1rXsONURycia5on5) | 2:56 | 2025-12-12 |  |
+| [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 | 2026-03-08 |  |
 | [Satellite](https://open.spotify.com/track/0DubPnJ1rX0O1dIBiAihPZ) | [Cold Equations](https://open.spotify.com/artist/2axEJPob8hT3XbjX72Npii) | [Satellite](https://open.spotify.com/album/6yjxqvOUnOQRiIpi4MtEHN) | 4:11 | 2025-10-27 | 2025-12-02 |
 | [SATISFIED](https://open.spotify.com/track/4tgRMPgQF7cjJ0t2oeqAEg) | [Mike Manos](https://open.spotify.com/artist/6pdy7rMEZXFowM5Z2gu6yA) | [SATISFIED](https://open.spotify.com/album/4wl2aolRxxD08ItnHxsovn) | 2:59 | 2025-10-30 | 2025-12-12 |
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,027,322 likes - 200 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027,719 likes - 200 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Coffee Shop](https://open.spotify.com/track/43IS06oECXtadEuFCuqDiX) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Coffee Shop](https://open.spotify.com/album/7iK96zBOzUB8ROy0qcMSvy) | 2:15 |
 | 200 | [shanghai tower](https://open.spotify.com/track/0BBtNOB7ofrOJ9PLM74EQn) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [shanghai tower](https://open.spotify.com/album/4ds0B84aCLuJkq15R8iT3O) | 2:17 |
 
-Snapshot ID: `AAAAAAoceuVn/CDrugYJ3X2q3rJVY0ml`
+Snapshot ID: `AAAAABoPO+DkcxOGo2vhuZXdrbpshRLd`

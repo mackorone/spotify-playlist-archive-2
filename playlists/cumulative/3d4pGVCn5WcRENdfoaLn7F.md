@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-244 songs - 15 hr 2 min
+245 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [The Reaper](https://open.spotify.com/track/1TqJToCbf4wGMZntm8Siqc) | [Terry Gilbey](https://open.spotify.com/artist/7DUWtV3cMZU3zGHtRIAvB4) | [The Reading](https://open.spotify.com/album/1yfhCqyQjYko9wZcvB6PzO) | 3:51 | 2026-01-31 | 2026-02-19 |
 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-13 | 2026-01-05 |
 | [The Third Pill](https://open.spotify.com/track/6IDfASgA4RKwMSx6vrA5Fz) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [The Third Pill](https://open.spotify.com/album/03dUhJsfcFP0k03noYf42i) | 3:50 | 2025-11-11 | 2025-12-06 |
+| [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 | 2026-03-08 |  |
 | [Thief in the Night](https://open.spotify.com/track/5kNpVgzAsiNlzTbjJeAD7n) | [Airdale](https://open.spotify.com/artist/0Ce0wrt8dMmQKvHRsCeOYf), [MAGESTICALIZM](https://open.spotify.com/artist/3fNZeTlZA1jeADwTEd9ORS) | [IRIS](https://open.spotify.com/album/4lx3bZivBk1NjJHwYqZ8aO) | 5:14 | 2026-01-31 | 2026-02-19 |
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-24 | 2026-01-21 |
 | [Tic toc](https://open.spotify.com/track/5BTY9TRm4ypYqXVU0kvmTF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Tic toc](https://open.spotify.com/album/0zubQYsAaKEyw6Ju6IRHko) | 2:34 | 2026-02-09 | 2026-03-05 |

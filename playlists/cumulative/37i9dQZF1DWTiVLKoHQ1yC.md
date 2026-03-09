@@ -4,7 +4,7 @@
 
 > Come alive with this progressive & melodic house selection.
 
-362 songs - 1 day 0 hr 24 min
+363 songs - 1 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Felt \(feat\. Henry Green\)](https://open.spotify.com/track/6aZdYHEp6dkDOczK60y41d) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [A Life](https://open.spotify.com/album/4NFeATnC0BhLtvXInTdO9R) | 3:19 | 2024-05-10 | 2025-06-27 |
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2025-06-26 |  |
 | [Fired Up](https://open.spotify.com/track/2kSl1V6RTeo1cPTCoHGUp9) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq) | [Fired Up EP](https://open.spotify.com/album/34SA5C8Glp1JcvvVZbUHne) | 3:41 | 2025-05-16 | 2025-07-18 |
-| [Five](https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Five EP](https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD) | 3:17 | 2025-03-21 |  |
+| [Five](https://open.spotify.com/track/1AyWOwYZStmF5jtgNThUWd) | [Jon Gurd](https://open.spotify.com/artist/2Nd5J1iedlzuNp32YYNuAl), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Five EP](https://open.spotify.com/album/1d1C5lZ34OxnzawtsFMnCD) | 3:17 | 2025-03-21 | 2026-03-09 |
 | [Flames](https://open.spotify.com/track/1vXP30hzwXVis2zTQI10MY) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Flames](https://open.spotify.com/album/7AODiIsKeDZNsymwEO7Wxe) | 3:00 | 2025-06-26 | 2025-07-29 |
 | [Floral Decor](https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Floral Decor](https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX) | 4:08 | 2022-01-14 | 2024-02-24 |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2024-09-26 | 2026-02-27 |
@@ -181,6 +181,7 @@
 | [Letting Go](https://open.spotify.com/track/4cliBLsKJiv3tno21brdKJ) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Bigger Than All Of Us](https://open.spotify.com/album/1yXsFzEZ5amp2ocSjGQhkm) | 3:19 | 2025-07-17 | 2026-02-10 |
 | [Lifetime](https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL) | [J Ribbon](https://open.spotify.com/artist/0d3EDVe5qgeW2UnrPgPhsk) | [Lifetime](https://open.spotify.com/album/3YYhyx9KGWk1wPwU01tbdW) | 3:05 | 2025-08-28 |  |
 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 | 2025-10-02 |  |
+| [Like I Do](https://open.spotify.com/track/2C3hYcZLLDBD3FykbvgZ6o) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Like I Do](https://open.spotify.com/album/6RuRTsKl4067TT0a1cBrEA) | 2:38 | 2026-02-27 |  |
 | [Like You](https://open.spotify.com/track/5cTXoEwwSBUchuNGeURbZT) | [Hydawai](https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Ekko](https://open.spotify.com/artist/4QKGlPUIuL7IzE4vsVwIu6) | [Like You](https://open.spotify.com/album/1K6suHCZSSwuZucm6H8ypP) | 2:39 | 2025-01-10 | 2025-07-05 |
 | [List](https://open.spotify.com/track/30HKHaDLgbOz9qv6TgpIId) | [il:lo](https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F) | [List \(Hosini Remix\)](https://open.spotify.com/album/2vuenVOn3qtC4ff2I57eI4) | 4:23 | 2022-01-14 | 2022-11-26 |
 | [LMK](https://open.spotify.com/track/4aHqjlibpXrHQ1nlvGJQrA) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [LMK](https://open.spotify.com/album/0z3SNQSfMGSWS0aKlcuea6) | 3:53 | 2024-03-15 | 2025-02-14 |

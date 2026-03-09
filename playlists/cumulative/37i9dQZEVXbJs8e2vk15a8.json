@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 176200,
       "name": "Ama De Mi Sol",
       "url": "https://open.spotify.com/track/4GKm1QaEr1tqJwUM0EsUl3"
@@ -25018,7 +25018,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 132937,
       "name": "Facts",
       "url": "https://open.spotify.com/track/76WgHLa6IB9xfasUSWz1g0"
@@ -48627,6 +48627,28 @@
     },
     {
       "album": {
+        "name": "No Es Mi Culpa (Remix)",
+        "url": "https://open.spotify.com/album/3eowIuilVRdGXGscRUvxNJ"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Anderson Raura",
+          "url": "https://open.spotify.com/artist/2UFwqLoVXvOoTCxdlVbucA"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146302,
+      "name": "No Es Mi Culpa (Remix)",
+      "url": "https://open.spotify.com/track/60iSYaCH7YByeOonVbu77s"
+    },
+    {
+      "album": {
         "name": "no es q no te quiera",
         "url": "https://open.spotify.com/album/0XLGCrKjffEeavrYgGYm7Q"
       },
@@ -63790,7 +63812,7 @@
       ],
       "date_added": "2025-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-24",
+      "date_removed": null,
       "duration_ms": 194160,
       "name": "Siesta Freestyle",
       "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
@@ -64998,7 +65020,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 167173,
       "name": "Solifican12",
       "url": "https://open.spotify.com/track/4fDmgQfKMY7GcAwp2nNoQ0"
@@ -78608,7 +78630,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 158074,
       "name": "Ya Borracho",
       "url": "https://open.spotify.com/track/4NyUIohBa3CEMGcXURYSOh"

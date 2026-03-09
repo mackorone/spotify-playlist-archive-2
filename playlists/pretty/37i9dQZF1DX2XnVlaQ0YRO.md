@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,588 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,575 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 63 | [It's Still Christmas](https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Xmas In My Heart](https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6) | 2:12 |
 | 64 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 65 | [Mistle Bro](https://open.spotify.com/track/6PRLxBcEboXH7xB17n7xFo) | [Frook](https://open.spotify.com/artist/2H7d3jFAzn7cP11A1c37en) | [Mistle Bro](https://open.spotify.com/album/5OuHMmDorkpBls82Pyo8rC) | 2:21 |
-| 66 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
+| 66 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
 | 67 | [North Pole Dancing](https://open.spotify.com/track/5zvuuFZp9mjoFTBo55S2DH) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:14 |
-| 68 | [carol of the bells](https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt) | [Cereal Party](https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX) | [carol of the bells](https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG) | 2:26 |
+| 68 | [Christmas in Las Vegas](https://open.spotify.com/track/3COK2yvZQs6heeZPCh2X8z) | [DJ DENZ The Rooster](https://open.spotify.com/artist/05OAH9fFWOKINDaeJ9N3Pd) | [Upside Down Snowglobe](https://open.spotify.com/album/1TapBSZTgm4QyUodL6nibw) | 3:05 |
 | 69 | [Happy Christmas \(War is Over\)](https://open.spotify.com/track/2M35q1wTRD4r8flr66VdFR) | [Sleepr Cell](https://open.spotify.com/artist/7eci6ktzmN5wocxdk17C2m) | [Happy Christmas](https://open.spotify.com/album/5F1vyxWSEVBWLW8q8ClShQ) | 2:02 |
 | 70 | [Winter rose](https://open.spotify.com/track/75MWhJXGOCBJxvRkVmr0TE) | [cmd f](https://open.spotify.com/artist/6Ykg4VJZl1anZljuqAJU25) | [Winter rose](https://open.spotify.com/album/5uTTPayRXndNXAwrKDSSHS) | 2:27 |
 | 71 | [Frosty](https://open.spotify.com/track/54heHiUmAXJRAH9U1q5hwU) | [Collinsworthy](https://open.spotify.com/artist/1jkH0Xi5BqfUwlIaEu3VNr) | [Frosty](https://open.spotify.com/album/1b5kxIY5L8shg8qrKKPwnU) | 2:15 |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: 김나영 \(Kim Na Young\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,695 songs - 4 day 14 hr 10 min
+1,696 songs - 4 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Dreamer](https://open.spotify.com/track/0TSHgdcpZdMFicNd3gsbTS) | [Lim sang hyun](https://open.spotify.com/artist/1Sp4nuyvQoJh0aLV3RXaf0) | [Dreamer](https://open.spotify.com/album/07A0rd1XgK6o9pCDpMbXNa) | 3:35 | 2023-04-08 | 2023-08-25 |
 | [Dreamin'](https://open.spotify.com/track/4F9IH5h9NkhJ9H4e1zWw10) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Let Me Be Your Knight \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1t4uYvNMGHu5wIGlXrY0O8) | 3:19 | 2022-03-24 | 2022-04-20 |
 | [Dreaming](https://open.spotify.com/track/0KAe8Hh67OXolVlcsZDCIy) | [ANYUJIN](https://open.spotify.com/artist/3schR1HLbYu3RqqPDiDFrE) | [Dreaming : WEBTOON 'The Great X ANYUJIN \(IVE\)](https://open.spotify.com/album/58QAs8YSamH7yhU1VrHn3L) | 3:23 | 2024-11-12 | 2025-05-13 |
+| [Drunk](https://open.spotify.com/track/3Po64wKEUdFpgTgbEWJf8J) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Drunk](https://open.spotify.com/album/1dbEQb967vGcEpUWVw60Fb) | 3:18 | 2026-03-09 |  |
 | [DrunKen Confession](https://open.spotify.com/track/0hqngwyh8WnPuYlLYHRQqp) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [DrunKen Confession](https://open.spotify.com/album/0IwBuSyXreDfgarE0TaAix) | 3:47 | 2022-01-17 | 2025-01-02 |
 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 | 2022-07-07 | 2022-08-19 |
 | [dryflower](https://open.spotify.com/track/7i4uzUhWACcz0t7JdUOkwk) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [dryflower](https://open.spotify.com/album/4Lg7rEzONhZBizCBLYJEPI) | 3:24 | 2022-01-03 | 2022-01-21 |
@@ -1458,7 +1459,7 @@
 | [Wait Me There](https://open.spotify.com/track/5aLq4wQj4KVEV0ONrTBI3y) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Wait Me There](https://open.spotify.com/album/5hB70srgiVgRWldQLXgTkO) | 3:42 | 2024-04-19 | 2024-09-14 |
 | [Waiting \(20th Anniversary Edition\)](https://open.spotify.com/track/33uA9i4mmbHbaFZ3i8GgxS) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 20th Anniversary Digital Single 'Waiting'](https://open.spotify.com/album/3znNdjJYbYwU54zlvXbs0n) | 4:46 | 2024-01-08 | 2025-01-02 |
 | [Waiting all day](https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Waiting all day](https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ) | 4:40 | 2023-10-11 | 2024-02-16 |
-| [Waiting for Me](https://open.spotify.com/track/6l7vMOM0SBvAp6X3BWk3lw) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Waiting for Me](https://open.spotify.com/album/69lxrmwYTHLnyyVhj1qxQh) | 4:04 | 2025-11-19 |  |
+| [Waiting for Me](https://open.spotify.com/track/6l7vMOM0SBvAp6X3BWk3lw) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [Waiting for Me](https://open.spotify.com/album/69lxrmwYTHLnyyVhj1qxQh) | 4:04 | 2025-11-19 | 2026-03-09 |
 | [Waiting for Spring](https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [bimil:ier vol.2 "Waiting for Spring"](https://open.spotify.com/album/160i9qiaCyfd8l5YzjYMIY) | 3:21 | 2022-01-14 | 2022-06-11 |
 | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/track/2upF0nACk3Afl8njq0zunH) | [Klozer](https://open.spotify.com/artist/0MLjzVggVZ5yYyA3NUFOGC), [대니 구\(Danny Koo\)](https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn) | [Waiting For You \(feat\. Danny Koo\)](https://open.spotify.com/album/2UE0mGldffDWffKQLNIDuQ) | 3:41 | 2025-12-18 |  |
 | [Waiting Fou You](https://open.spotify.com/track/1TWjbxRYeG0BF6TL8rVpAT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Waiting Fou You \(CURTAIN CALL OST Part.1\)](https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf) | 4:06 | 2022-11-01 | 2022-12-28 |

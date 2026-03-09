@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 633610,
+  "num_followers": 633717,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Serenatas",
-        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
-      },
-      "artists": [
-        {
-          "name": "Trio Hermanos Michel",
-          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Luna de octubre",
-      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Las Estrellas De La Matancera",
         "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 174213,
       "name": "Total",
       "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Serenatas",
+        "url": "https://open.spotify.com/album/1oicodhgjKkt5YJ9KfLckQ"
+      },
+      "artists": [
+        {
+          "name": "Trio Hermanos Michel",
+          "url": "https://open.spotify.com/artist/2OvDgDWAtLDP0fTrhin5PK"
+        }
+      ],
+      "duration_ms": 160853,
+      "name": "Luna de octubre",
+      "url": "https://open.spotify.com/track/4xlOFHiMUTWNYqUopID8fN"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Los Santos",
-        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
-      },
-      "artists": [
-        {
-          "name": "Los Santos",
-          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
-        }
-      ],
-      "duration_ms": 176889,
-      "name": "Jacarand\u00e1",
-      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Coleccion Original",
         "url": "https://open.spotify.com/album/28wthJnyrnWWG8UkwJ2LiK"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 186346,
       "name": "Flor de Azalea",
       "url": "https://open.spotify.com/track/7EccAiD4tFrEx5gEmKGS55"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Los Santos",
+        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
+      },
+      "artists": [
+        {
+          "name": "Los Santos",
+          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
+        }
+      ],
+      "duration_ms": 176889,
+      "name": "Jacarand\u00e1",
+      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 189506,
       "name": "Entre Tu Amor Y Mi Amor",
       "url": "https://open.spotify.com/track/6eFG41qcmCGHVXRGVkUfIU"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Guitarras Latinas",
         "url": "https://open.spotify.com/album/6z1QMvoOBwozy4CvEqNPsD"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 194931,
       "name": "Como Una Flor Bolero",
       "url": "https://open.spotify.com/track/7FneHnZxsT68NABvVsKVqE"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "The Platinum Collection",
-        "url": "https://open.spotify.com/album/2zx3c4VaPQvfGxS7CED9C7"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        }
-      ],
-      "duration_ms": 167857,
-      "name": "Tomando T\u00e9",
-      "url": "https://open.spotify.com/track/4f3hA3waUBOoC4gXmxRgfO"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros Tr\u00edos, Vol. 1",
         "url": "https://open.spotify.com/album/7d1fCzlEthMIZlopfW6HcA"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Noche Negra",
-        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+        "name": "The Platinum Collection",
+        "url": "https://open.spotify.com/album/2zx3c4VaPQvfGxS7CED9C7"
       },
       "artists": [
         {
-          "name": "Las Tres Abejas",
-          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
         }
       ],
-      "duration_ms": 119739,
-      "name": "Noche Negra",
-      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
+      "duration_ms": 167857,
+      "name": "Tomando T\u00e9",
+      "url": "https://open.spotify.com/track/4f3hA3waUBOoC4gXmxRgfO"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1411,6 +1395,22 @@
       "duration_ms": 151250,
       "name": "Toda Esta Gente",
       "url": "https://open.spotify.com/track/2VdZRaMy0ZmuLfbJhcOWvb"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Noche Negra",
+        "url": "https://open.spotify.com/album/5FuPvDHLQTr3eaxl2r9PCE"
+      },
+      "artists": [
+        {
+          "name": "Las Tres Abejas",
+          "url": "https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi"
+        }
+      ],
+      "duration_ms": 119739,
+      "name": "Noche Negra",
+      "url": "https://open.spotify.com/track/0jm4wpiCZy3wXupv0IAXrN"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
-        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Martinez Gil",
-          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
-        }
-      ],
-      "duration_ms": 153666,
-      "name": "Est\u00fapido Cupido",
-      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Voy A Apagar La Luz",
         "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 143848,
       "name": "Voy A Apagar La Luz",
       "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "15 \u00c9xitos de los Hermanos Mart\u00ednez Gil",
+        "url": "https://open.spotify.com/album/2AGN6O1CWUqpbYaxKSDjHf"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Martinez Gil",
+          "url": "https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv"
+        }
+      ],
+      "duration_ms": 153666,
+      "name": "Est\u00fapido Cupido",
+      "url": "https://open.spotify.com/track/1KKhaB1D7IvsEq4VZoLauf"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Tan Enamorados",
-        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
-      },
-      "artists": [
-        {
-          "name": "Silvertre Pinedo",
-          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
-        }
-      ],
-      "duration_ms": 141428,
-      "name": "Tan Enamorados",
-      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Trios",
         "url": "https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 175000,
       "name": "Cuando Me Lo Pidas",
       "url": "https://open.spotify.com/track/1A7mAX9YwOxJKDfI2wxvR9"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Tan Enamorados",
+        "url": "https://open.spotify.com/album/4nnbOBta2wH0GqJxIYM9DV"
+      },
+      "artists": [
+        {
+          "name": "Silvertre Pinedo",
+          "url": "https://open.spotify.com/artist/6EjYYwIoRhEvogWhhnGGhw"
+        }
+      ],
+      "duration_ms": 141428,
+      "name": "Tan Enamorados",
+      "url": "https://open.spotify.com/track/7fXsaFyBQpJA9oDt2rMAhs"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
-      },
-      "artists": [
-        {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
-        }
-      ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Llorando Estoy Por Ti",
         "url": "https://open.spotify.com/album/5uQXjOkNlz31i1Uz5h7QH1"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 164500,
       "name": "Llorando Estoy Por Ti",
       "url": "https://open.spotify.com/track/2yfiaN5lzgrkosB5QXxBvm"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+      },
+      "artists": [
+        {
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+        }
+      ],
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Antolog\u00eda ...Boleros*",
+        "url": "https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP"
+      },
+      "artists": [
+        {
+          "name": "Martha Triana",
+          "url": "https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "No vuelvo contigo",
+      "url": "https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/47tiylr6L7gVgdhtMJQDGT"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 202307,
       "name": "Manzanillo - Remastered",
       "url": "https://open.spotify.com/track/0GQxBVqTTgrvSyzRhA25nT"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
-        "name": "Antolog\u00eda ...Boleros*",
-        "url": "https://open.spotify.com/album/4hrLWzDuaYiKlQeExrmjVP"
-      },
-      "artists": [
-        {
-          "name": "Martha Triana",
-          "url": "https://open.spotify.com/artist/2yrWpGwML5NXC2b69g64xK"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "No vuelvo contigo",
-      "url": "https://open.spotify.com/track/3mvTuk8kQW3sAP3kSXJov0"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2295,6 +2295,26 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
+        "name": "Reminiscencias",
+        "url": "https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Caribe Soy",
+      "url": "https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
         "name": "Personalidad - Los Grandes Trios",
         "url": "https://open.spotify.com/album/4QLJLbSp9Km75yfKVCO3aB"
       },
@@ -2327,22 +2347,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Lamento Borincano",
-        "url": "https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 287020,
-      "name": "Lamento Borincano",
-      "url": "https://open.spotify.com/track/0qGZt9ERdHTEMIWc9J2WyB"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/3qhE0VtmHnMUwqc9Xd4swG"
       },
@@ -2359,22 +2363,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Reminiscencias",
-        "url": "https://open.spotify.com/album/0d78QRCyoDBEM71ShrEYsG"
+        "name": "Lamento Borincano",
+        "url": "https://open.spotify.com/album/20vzQzOfUlOeKWuGquhhSv"
       },
       "artists": [
         {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 166706,
-      "name": "Caribe Soy",
-      "url": "https://open.spotify.com/track/5Z2Dgl4nqoeobRrPF1IiE3"
+      "duration_ms": 287020,
+      "name": "Lamento Borincano",
+      "url": "https://open.spotify.com/track/0qGZt9ERdHTEMIWc9J2WyB"
     },
     {
       "added_at": "2024-07-11 00:56:29",

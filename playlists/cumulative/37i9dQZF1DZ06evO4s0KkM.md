@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-156 songs - 8 hr 29 min
+157 songs - 8 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [The Auld Triangle](https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:41 | 2022-09-16 |  |
 | [The Big Man](https://open.spotify.com/track/5SZUmkADxNYj3E8Gj9WoZC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People](https://open.spotify.com/album/2M3u2dW8uCvgzAIAqjPop5) | 2:53 | 2025-07-06 | 2025-11-22 |
 | [The Big Man](https://open.spotify.com/track/5hIsGzPEQzRHFvqdwtSAaS) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [For The People \(Expanded Edition\)](https://open.spotify.com/album/7dGBAOMg6ktyYuA9wlX8lM) | 2:53 | 2025-11-22 |  |
-| [The Boys Are Back](https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:19 | 2022-09-16 |  |
+| [The Boys Are Back](https://open.spotify.com/track/1tgjzmJnlRS6OGm4eBnvZ9) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/26FegJRCntpliel4dauJIG) | 3:19 | 2026-03-09 |  |
+| [The Boys Are Back](https://open.spotify.com/track/5ucsDWLvtuXORPi2QcZO39) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Signed and Sealed In Blood](https://open.spotify.com/album/1wI9Oqt2gbv0wM24NssHcc) | 3:19 | 2022-09-16 | 2026-03-09 |
 | [The Boys Are Back](https://open.spotify.com/track/721vbd9Kof1A670dKDZyZh) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [SIGNED and SEALED in BLOOD](https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ) | 3:19 | 2023-01-22 | 2025-11-10 |
 | [The Dirty Glass](https://open.spotify.com/track/2jggiA0przPmYj0Z96W7Q0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Blackout](https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza) | 3:37 | 2022-09-16 |  |
 | [The Dirty Glass](https://open.spotify.com/track/0GlC0IeWvqlGLVJBuSnDP0) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [A Toast to St\. Patrick! \- Irish Drinking Songs](https://open.spotify.com/album/3b2jUk4GM9CcOXEnQ7kIXh) | 3:53 | 2022-09-16 | 2023-02-01 |

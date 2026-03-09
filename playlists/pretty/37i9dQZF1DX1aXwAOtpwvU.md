@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aXwAOtpwvU.md) - [plain]
 
 > Odkryj nowych ulubionych artystów\. MEET THE FUTURE\. Cover:  <a href="spotify:artist:3KL9m4NwBRDjBEcybcgfyh">wane</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,102 likes - 95 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,101 likes - 95 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

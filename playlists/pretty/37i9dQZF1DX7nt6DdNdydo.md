@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,842 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,853 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 33 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |
 | 34 | [Soft](https://open.spotify.com/track/2UAoyTSnK6A8V5dX7zRtXL) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection..\. Plus](https://open.spotify.com/album/3ftQo0FtXIbPTcaB7q25cl) | 2:33 |
 | 35 | [Caldonia](https://open.spotify.com/track/3BRWIwvtwSeKzcwUfNF1i9) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 2:43 |
-| 36 | [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 |
-| 37 | [Say Hey \(The Willie Mays Song\)](https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN) | [The Treniers](https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 3:11 |
+| 36 | [Say Hey \(The Willie Mays Song\)](https://open.spotify.com/track/0IOxVTksrKA1qX73krTKeN) | [The Treniers](https://open.spotify.com/artist/1drcMrZqfYsecBlwciiLDZ) | [Baseball A Film By Ken Burns \- Original Soundtrack Recording](https://open.spotify.com/album/4oH4jZYMSUrGRjgG41Zdua) | 3:11 |
+| 37 | [Jump, Jive, An' Wail \- Remastered 1996](https://open.spotify.com/track/1avf1M4btPbNGiIUXeNSvt) | [Louis Prima & Keely Smith](https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv), [Sam Butera & The Witnesses](https://open.spotify.com/artist/70njzKgLbLbWkCPhKEu2oV) | [Jump, Jive An' Wail: The Essential](https://open.spotify.com/album/2FIAcPHPr2NHqszrKQXj8w) | 3:29 |
 | 38 | [Bloodshot Eyes](https://open.spotify.com/track/3T4py44BDlu7wO3pqrxWl9) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Greatest Hits](https://open.spotify.com/album/0Dwycst55CZdI6R6kXhN8c) | 2:42 |
 | 39 | [King Kong](https://open.spotify.com/track/2eVCMrIn3sIPX7TRHuBsdy) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Real R'n'B and Soul \(Lost and Found 2\)](https://open.spotify.com/album/6bThGExgy1Y415PO9esT13) | 1:59 |
 | 40 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/0LHfPA0hWcu40eP3O3pb8N) | [Louis Jordan](https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2) | [Jack, You're Dead: The Essential Blue Archive](https://open.spotify.com/album/2s0dl1Uf59BlayS3m47FDy) | 5:24 |

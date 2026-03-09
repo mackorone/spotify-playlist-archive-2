@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Ecz8iMyWXmkltPEABUHyO">Sophia Brenan</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-87 songs - 4 hr 11 min
+89 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [GOOD LUCK \(feat\. Goldfinger\)](https://open.spotify.com/track/7r7bRPU1Q2SKyI4r4b5GFS) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7), [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [THERE GOES THE NEIGHBORHOOD](https://open.spotify.com/album/6onXyi6tZfYoBOWKbKpThm) | 2:00 | 2025-11-26 |  |
 | [Hitch Hiking](https://open.spotify.com/track/5nkg0pxD5dN91JBzlvI90W) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Only Started Growing](https://open.spotify.com/album/7HcrXJXrfaPrXzPnZggZoC) | 2:50 | 2025-04-27 |  |
 | [Home By Midnight](https://open.spotify.com/track/0CWrpLNlUmSNcUkHnT4EjS) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6), [Atlantic Holiday](https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N) | [Home By Midnight](https://open.spotify.com/album/4jcTD2VLLtXgchJdLuxxv3) | 2:37 | 2024-01-29 |  |
+| [Hot Pink Baby](https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX) | [Hot Pink Baby](https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP) | 2:43 | 2026-03-08 |  |
 | [I Could Get Used To This](https://open.spotify.com/track/4m9uyukaB0AEC5BKZb5Svw) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [I Could Get Used To This](https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd) | 3:41 | 2026-01-29 |  |
 | [i wanna rip ur clothes off!!!!](https://open.spotify.com/track/0cB5RfqscOk1fdht6L7XoK) | [Annika Wells](https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ) | [EAT DIRT](https://open.spotify.com/album/3CBEtKYSJUWmTEydfywjOy) | 2:35 | 2024-01-29 |  |
 | [I Wish I Could Hate You](https://open.spotify.com/track/1JPfkgHaqocgWZzKrDZtK9) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 3:09 | 2024-01-29 |  |
@@ -71,7 +72,8 @@
 | [Miracle](https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:43 | 2024-04-04 |  |
 | [MOONBEANS](https://open.spotify.com/track/5jYyPEInr8odNShiFsX5KB) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [MOONBEANS](https://open.spotify.com/album/0h6UhIx9DfUBqIxnx0H3qq) | 3:05 | 2025-05-03 |  |
 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 | 2024-01-29 | 2025-10-23 |
-| [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 | 2024-09-01 |  |
+| [morning light](https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [morning light](https://open.spotify.com/album/4IjrwtBPzLPmTVmMcpZetX) | 3:39 | 2024-09-01 | 2026-03-09 |
+| [morning light](https://open.spotify.com/track/5WWvty8DHVRYcfPSTl7u6a) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [SYNCHRONICITY](https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX) | 3:39 | 2026-03-08 |  |
 | [Mutual](https://open.spotify.com/track/08Nx4AFHToRhGfgPrzMlc8) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Boy From Barcelona, Baby](https://open.spotify.com/album/0TqqeYC86OzqZBPGNuVFlR) | 2:36 | 2025-12-03 |  |
 | [Not Forever](https://open.spotify.com/track/79vrFGr0QHTgV4hvLELx0X) | [Iilysh Retallick](https://open.spotify.com/artist/6iCyXopvbv85uT2ltUaGOW) | [Not Forever](https://open.spotify.com/album/19Dq8eAOPsLFMcxCaZLO04) | 3:14 | 2025-10-12 |  |
 | [One Eye Open](https://open.spotify.com/track/1SWrMW3VEXSVWOsXFl22U2) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [One Eye Open](https://open.spotify.com/album/7BLnL74dM0zUE91Fqfd5ck) | 3:32 | 2024-10-27 |  |

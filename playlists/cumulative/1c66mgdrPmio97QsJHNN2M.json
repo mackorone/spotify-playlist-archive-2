@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/5rBh1tA0ZhWg6UZ22hWPHf"
+      },
+      "artists": [
+        {
+          "name": "Lusha",
+          "url": "https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197562,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/0O24YZs4wvgoHMcgyLdePp"
+    },
+    {
+      "album": {
         "name": "Ambient Darkness - Vol. 2 - The Light",
         "url": "https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO"
       },
@@ -10834,6 +10852,24 @@
       "duration_ms": 158554,
       "name": "It's You",
       "url": "https://open.spotify.com/track/4OSreDxciehHjXiDIecQav"
+    },
+    {
+      "album": {
+        "name": "Its My Life",
+        "url": "https://open.spotify.com/album/1KHjNcVhv3NQVdc7BNy7V6"
+      },
+      "artists": [
+        {
+          "name": "Roger K",
+          "url": "https://open.spotify.com/artist/41hkPBRM1scZzY6JEcoLxT"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162651,
+      "name": "Its My Life",
+      "url": "https://open.spotify.com/track/4nseBsDHaR6U5E9oMpsdNg"
     },
     {
       "album": {
@@ -19721,6 +19757,24 @@
     },
     {
       "album": {
+        "name": "Striking Hazel Eyes",
+        "url": "https://open.spotify.com/album/2IFaW07ZMj7FKmXvKSEozD"
+      },
+      "artists": [
+        {
+          "name": "Arjon",
+          "url": "https://open.spotify.com/artist/0bkwRTxeu69ePVlT1Y2WRq"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177261,
+      "name": "Striking Hazel Eyes",
+      "url": "https://open.spotify.com/track/0D3ES6p0W4EUq8sOoYVRVV"
+    },
+    {
+      "album": {
         "name": "Stroll in the Sun",
         "url": "https://open.spotify.com/album/75ZjghigBhGdyAeKB8AKam"
       },
@@ -22560,6 +22614,24 @@
       "duration_ms": 206829,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/2xkE8nmoQJObtgxOmsKf9G"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/1KOAcEgLl3gn4pJWdnqCH2"
+      },
+      "artists": [
+        {
+          "name": "Madi Mitro",
+          "url": "https://open.spotify.com/artist/3kDskLS0uoKLehuow5CuI5"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/0abVlRj49zVcv7mvL9rV5v"
     },
     {
       "album": {

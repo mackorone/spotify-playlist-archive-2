@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,255 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,389 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 91 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 |
 | 92 | [BaBaBa \(Hangover\)](https://open.spotify.com/track/14lJLTWfq5vkoe2CZksFvC) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i), [Buraka Som Sistema](https://open.spotify.com/artist/6zUiRChNyL3HEezOd1Wjam) | [BaBaBa \(Hangover\)](https://open.spotify.com/album/3Xq4k9A16wDzWLrwLM6rTo) | 2:52 |
 | 93 | [Cumbiambera](https://open.spotify.com/track/5vRg7h3qUSt9H8ziOuXN10) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [Los Gaiteros de Ovejas](https://open.spotify.com/artist/3VUqC0Q4XHN2PBuFQeredd) | [Cumbiambera](https://open.spotify.com/album/15XBN6lvQ5oI6uYwOBxH26) | 3:26 |
-| 94 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 |
-| 95 | [MIA in Miami](https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [MIA in Miami](https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj) | 2:47 |
-| 96 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 94 | [Playa Y Arena](https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF) | [CAVALLI](https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4), [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE) | [Playa Y Arena](https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez) | 2:59 |
+| 95 | [Piquete Cabron](https://open.spotify.com/track/1mmgm9xT14LpjzLPtujjMJ) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [Bray](https://open.spotify.com/artist/2D3KD8asLccXu0Fp3TQuHn) | [Piquete Cabron](https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq) | 2:42 |
+| 96 | [MIA in Miami](https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL) | [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [MIA in Miami](https://open.spotify.com/album/17pv0JSvdJkKt1CYttl0zj) | 2:47 |
 | 97 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
 | 98 | [Marrakesh](https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Marrakesh](https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y) | 2:22 |
-| 99 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
-| 100 | [Coco Loco](https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Tekkman](https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm) | [Coco Loco](https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis) | 2:36 |
+| 99 | [Chimba](https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB) | [Mark Di Meo](https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE), [Pensión](https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM), [BIG KAPOH](https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8) | [Chimba](https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp) | 3:27 |
+| 100 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 
 Snapshot ID: `AAAAALqQiOLf2duaPuZlTDwg5Lo8mMNN`

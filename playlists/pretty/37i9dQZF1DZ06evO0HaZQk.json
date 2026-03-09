@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 523681,
+  "num_followers": 523719,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADlE6yp/H69tgiDl9xcl4sY",
+  "snapshot_id": "aatqgAAAAACtT0t6ZZpB+0B3TnGzDgYo",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Antes de Huir",
-      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
         "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 259586,
       "name": "Alma M\u00eda (feat. Los Macorinos)",
       "url": "https://open.spotify.com/track/7qVnzohY8VAKFkiJIgStbk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 232333,
+      "name": "Antes de Huir",
+      "url": "https://open.spotify.com/track/4j6ym6CZ3v9lpWaVzcudUq"
     },
     {
       "added_at": null,
@@ -679,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ciudadana del Mundo Volumen 1",
-        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Timidez (feat. Natalia Lafourcade)",
         "url": "https://open.spotify.com/album/2XaspQ17g3BU4Xkl2fDjV3"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 214186,
       "name": "Timidez (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/3Riytw4egMe357gWrANdAr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ciudadana del Mundo Volumen 1",
+        "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/5OYC9esJZ3b7iBYjAUI8mX"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 108760,
+  "num_followers": 108799,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADB912KplcIiclUpq3WPTwU",
+  "snapshot_id": "aatqgAAAAABHgJ5Bz5xZyNHLjoiqpVpW",
   "tracks": [
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unlocked",
+        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 179811,
+      "name": "Thicc As Thieves (feat. Lainey Wilson)",
+      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
         "url": "https://open.spotify.com/album/3tVU6zzQUBSHzQ80txYWH0"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 226753,
       "name": "Trailblazer (with Miranda Lambert and Lainey Wilson)",
       "url": "https://open.spotify.com/track/5CJwFd0iqn3s48pFBoNCma"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unlocked",
-        "url": "https://open.spotify.com/album/0c5RIpAByS7P5vjaxC9QaC"
-      },
-      "artists": [
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 179811,
-      "name": "Thicc As Thieves (feat. Lainey Wilson)",
-      "url": "https://open.spotify.com/track/75UueUZoKTAcpXlc3EOlYF"
     },
     {
       "added_at": null,

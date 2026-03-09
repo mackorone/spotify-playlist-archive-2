@@ -3415,6 +3415,28 @@
     },
     {
       "album": {
+        "name": "minamo",
+        "url": "https://open.spotify.com/album/1sqSrCznw1rJf0ihSTnBEM"
+      },
+      "artists": [
+        {
+          "name": "Martin Martyn",
+          "url": "https://open.spotify.com/artist/1dGypQSYhsXCxvdzzQ3kbv"
+        },
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129250,
+      "name": "minamo",
+      "url": "https://open.spotify.com/track/0WXKnbsnOKzLUubz0zYcrT"
+    },
+    {
+      "album": {
         "name": "MIRAGE",
         "url": "https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI"
       },
@@ -6184,7 +6206,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 286946,
       "name": "Walking in the Sea",
       "url": "https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz"

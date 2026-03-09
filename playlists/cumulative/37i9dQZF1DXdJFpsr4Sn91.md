@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,119 songs - 2 day 7 hr 50 min
+1,120 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 | 2025-01-09 | 2025-04-11 |
 | [HKI city girl](https://open.spotify.com/track/3m6oB4GoIC0q2nq7etIz3R) | [ARTEM](https://open.spotify.com/artist/0qSXK9LxTX9HE3jCXSmbvL) | [HKI city girl](https://open.spotify.com/album/0J38JCq37bRhqgXtaJcuVs) | 2:41 | 2024-07-02 | 2024-07-23 |
 | [Hold On Me](https://open.spotify.com/track/4aPX3IT9cskOWmeZvOYc5s) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Hold On Me](https://open.spotify.com/album/4gnk9fBYQyrqdoTEqvlhzO) | 2:51 | 2024-11-14 | 2025-03-04 |
-| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-09 |  |
+| [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 | 2025-10-09 | 2026-03-09 |
 | [Honesty](https://open.spotify.com/track/1ab5fflidfhTti4z11mtZF) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 2:16 | 2024-09-19 | 2024-10-04 |
 | [Hopeareunus](https://open.spotify.com/track/3hAsDXGDuNmfFCq6wLW7lu) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A) | [Hopeareunus](https://open.spotify.com/album/2H6aL1K5b39h0Znc1IGTA0) | 2:46 | 2025-06-19 | 2025-07-04 |
 | [HORSE MOM](https://open.spotify.com/track/3OnGfPJyPy1vlK3BTE7cun) | [Erika Sirola](https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N) | [HORSE MOM](https://open.spotify.com/album/53NveX5n9BNu6cTXSsuYcf) | 3:10 | 2024-07-26 | 2024-08-16 |
@@ -492,6 +492,7 @@
 | [Lampaita](https://open.spotify.com/track/3wRxUXh6dJLurn1RgLIeUD) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Lampaita](https://open.spotify.com/album/2Fi7vJlbTVcXTovePKPlJb) | 2:29 | 2025-02-20 | 2025-03-21 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2024-12-06 |
 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 | 2025-01-09 | 2025-01-31 |
+| [Latu on auki](https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS) | [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Latu on auki](https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE) | 3:00 | 2026-03-05 |  |
 | [LE LE LE](https://open.spotify.com/track/0M7WQozVFnh1MncFRPcZdo) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi) | [LE LE LE](https://open.spotify.com/album/4pw34ehZjeYt0fzHSLWtfV) | 3:19 | 2024-09-26 | 2024-11-08 |
 | [Leave Me Alone](https://open.spotify.com/track/1T38okUZknebljidMNSvfJ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Leave Me Alone](https://open.spotify.com/album/3BKy2tD6GZCsfYkmgWkdbq) | 2:21 | 2025-05-22 | 2025-06-06 |
 | [Leffastara](https://open.spotify.com/track/7ceplN1E5dAupsN6Muxlfr) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Leffastara](https://open.spotify.com/album/1MXiWQsS8FPDdVx4ih7DUk) | 2:38 | 2025-05-29 | 2025-07-04 |

@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases.
 
-998 songs - 2 day 2 hr 26 min
+999 songs - 2 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -730,6 +730,7 @@
 | [RUN!](https://open.spotify.com/track/1WPG2atgnwQ5Qc8kg46kt0) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [RUN!](https://open.spotify.com/album/3CFWT9JuW7zjJge4IvKNTF) | 2:30 | 2026-02-27 |  |
 | [Runaway](https://open.spotify.com/track/0Zlc5VFGOfbUHzJVnQU4mH) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Alexis Roberts](https://open.spotify.com/artist/2GtBFxIWM3H6wRI2uzZvyt) | [Runaway](https://open.spotify.com/album/6sWDLGdxvob1WC3ZBZSIqo) | 3:07 | 2025-11-07 | 2026-02-07 |
 | [Runaway Train x Cheap Champagne \(Future Tropical Remix\)](https://open.spotify.com/track/3U9ROeiWVbvkATRTwkh7Ik) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Runaway Train x Cheap Champagne \(Future Tropical Remix\)](https://open.spotify.com/album/1n28VGdAinQWl7X2naGXz0) | 3:48 | 2025-12-18 | 2026-02-07 |
+| [Rushin'](https://open.spotify.com/track/2AvLE4tKf2GF5JSbQiUZY7) | [Malóne Morez](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Rushin'](https://open.spotify.com/album/2W4GySd634Iw00St35XHZx) | 2:44 | 2026-03-08 |  |
 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 | 2025-10-10 | 2026-02-07 |
 | [Sa Re Ga Ma Pa](https://open.spotify.com/track/2lKVoNfesspkeWJzCZqxNo) | [Maurya Sevak](https://open.spotify.com/artist/0xdqRvO8mc7jwRjfo4gqCs) | [Sa Re Ga Ma Pa](https://open.spotify.com/album/1sQBhNKOstrRDX9qFjR0Os) | 2:43 | 2025-09-04 | 2026-02-14 |
 | [Sacrifice \(I Found Love\)](https://open.spotify.com/track/513CXiKkxK09kMD2E8dZSP) | [ManyFew](https://open.spotify.com/artist/7oZdp9UWjuC68LeJSYeKZL) | [Sacrifice \(I Found Love\)](https://open.spotify.com/album/509dIieA8aRSlMZvuKaYC1) | 2:17 | 2024-08-23 | 2024-08-31 |

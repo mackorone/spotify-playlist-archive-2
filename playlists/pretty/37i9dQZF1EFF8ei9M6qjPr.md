@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 132 | [Ways To Go](https://open.spotify.com/track/362mICSCjlQZztf36d0aMN) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [Ways To Go](https://open.spotify.com/album/6a7ShVrxXLT6tXUGLaltAT) | 2:35 |
 | 133 | [Ghost Of Us](https://open.spotify.com/track/4Nxk4StgFRbgPXztvbYw2u) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:15 |
 | 134 | [different](https://open.spotify.com/track/3EVVGtFinvatJdxTDMuWN7) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [in case you miss me](https://open.spotify.com/album/4f4zlRTu5sG8VM6xdIMw1m) | 2:46 |
-| 135 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
-| 136 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
+| 135 | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/track/2wOAiTzjD2krew1lyLWE1b) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Invisible \(feat\. ROSIE\)](https://open.spotify.com/album/6Be6MPVTY87kq1jxqbuCUH) | 3:17 |
+| 136 | [Hear It In Your Voice](https://open.spotify.com/track/4wfrovc9l7XAwNRHni11y9) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Everyone But Me](https://open.spotify.com/album/3ROBpz7qSXXgERjSzg1hgo) | 2:42 |
 | 137 | [indigo](https://open.spotify.com/track/6Uj38GEXvpKQFjkU0bv1Im) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [age tape 10](https://open.spotify.com/album/25orBHW7uijdOQi29a8wag) | 2:42 |
 | 138 | [Castle Walls](https://open.spotify.com/track/65uAnHQuEx07zf4gCG7bke) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Castle Walls](https://open.spotify.com/album/6fAuCPNq6dlI7CYfExniA9) | 2:33 |
 | 139 | [Die For Me](https://open.spotify.com/track/1Ccf57DxueCpaJ85Rx7LDV) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:57 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFF8ei9M6qjPr.md) - [plain]
 | 170 | [Go!](https://open.spotify.com/track/5RHXCRZwXTIt5uYdKmu9jk) | [Rence](https://open.spotify.com/artist/3VJTtTgub426X1NuzcyAOb) | [SINK OR SWIM](https://open.spotify.com/album/4Bdc1txexdBh1j5h17BVIs) | 2:08 |
 | 171 | [Forever](https://open.spotify.com/track/35SKywJkP3BZU7RDwk370f) | [Jesse James](https://open.spotify.com/artist/5rMVs3hmvA4qnSOHtcVvPK) | [Operator Please Put Me Through](https://open.spotify.com/album/6DFGZ7kWpS3t5cevNxtYn9) | 4:46 |
 
-Snapshot ID: `AcLhjAAAAAAE1gXuYackq9Ljmwf47sWe`
+Snapshot ID: `AcLnLAAAAADh9A34UlSaC12rV11Q368U`

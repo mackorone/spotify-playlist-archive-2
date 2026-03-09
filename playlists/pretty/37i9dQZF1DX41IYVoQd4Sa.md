@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : הילה רוח
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,373 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,385 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 29 | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [GODMOTHER \(feat\. Eden Ben Zaken\)](https://open.spotify.com/album/2epktylpW82pRgLMu0FSHo) | 3:11 |
 | 30 | [אולי יכולתי יותר](https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy) | [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [אולי יכולתי יותר](https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh) | 4:01 |
 | 31 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 |
-| 32 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 |
-| 33 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 32 | [African Coast](https://open.spotify.com/track/4AI3JPhTdvyOyiptRTxIqh) | [Balkan Beat Box](https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY), [Trinidad James](https://open.spotify.com/artist/6YOLiKjOuABTlyQRiDCMV7) | [African Coast](https://open.spotify.com/album/0YTazTE52ZIaUKT4wCd8na) | 3:02 |
+| 33 | [La fille pas cool](https://open.spotify.com/track/1NXGO1khpTD7rl4NCUde41) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [La fille pas cool](https://open.spotify.com/album/6wCELjVWWrKuo0HjjWBFjs) | 4:04 |
 | 34 | [בוקר טוב יא בני זונות](https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Shredhead](https://open.spotify.com/artist/2xooJtcCsHoPmD1nnQUMJm) | [כאב ודמעות 2](https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA) | 3:37 |
 | 35 | [Haunted](https://open.spotify.com/track/5cPMjdmwBWdbNpviqSj944) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [Haunted](https://open.spotify.com/album/59TgUlQXE5FqObb58LJsWL) | 3:58 |
 | 36 | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/track/7oe7CBzN5sBm0fel0Vssco) | [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [אולי צריך לתת לזה עוד זמן](https://open.spotify.com/album/1QyKspHvGqtsKzbC06NYni) | 3:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 42 | [זאת השנה שלי](https://open.spotify.com/track/6CFI2Rlg4WIjuDOhd26Tcn) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [זאת השנה שלי](https://open.spotify.com/album/0dYeKuFyewaXeFVJRiQYjf) | 3:54 |
 | 43 | [היי אני רוצה להגיד לך \- מתוך פסקול האחיות המוצלחות שלי](https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [האחות הרביעית \- פסקול האחיות המוצלחות שלי](https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz) | 3:00 |
 | 44 | [דינה](https://open.spotify.com/track/5XmwcmebBMGaPrI7UPedDj) | [Anat Moshkovski](https://open.spotify.com/artist/1b8wOY9TQjOLjxAsXvwi49) | [89 שניות](https://open.spotify.com/album/3vzweL9BFuBqgriv3fq3fL) | 2:49 |
-| 45 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
-| 46 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 45 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
+| 46 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
 | 47 | [מילים אהבה ויין](https://open.spotify.com/track/374aREzUFyZJRE3Arr0Iix) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [מילים אהבה ויין](https://open.spotify.com/album/5AKPGUxw9RTTMuuYXYkTVQ) | 6:48 |
 | 48 | [המוזיקה הישראלית](https://open.spotify.com/track/3DfOUS0VV7MISyhd5hqphu) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd) | [המוזיקה הישראלית](https://open.spotify.com/album/2DvGi2JC1NZt9nwi128lnb) | 4:31 |
 | 49 | [Midnight Blue](https://open.spotify.com/track/60qwBKu1GnzJmfbISwAl3T) | [Omer Netzer](https://open.spotify.com/artist/6yCGdZHId0vWEO5NxS4g8d) | [Midnight Blue](https://open.spotify.com/album/6d9kdw3DKd8821NezRmK6Q) | 3:49 |

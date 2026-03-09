@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 152012,
+  "num_followers": 152024,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAn7hWU/9CWjdcDscINxJBw",
+  "snapshot_id": "aatqgAAAAAD66cAzYSBbvU448IvjUWLJ",
   "tracks": [
     {
       "added_at": null,
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 238426,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
+      "duration_ms": 334160,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 334160,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/28I4YkpPX5MdkgMy9tYm4C"
+      "duration_ms": 238426,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/5zW8p9nOndsKZnhes6PJtM"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-50 songs - 2 hr 35 min
+51 songs - 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Blue](https://open.spotify.com/track/5g4KThJ9rjQexAG2NtomKE) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 3:24 | 2024-06-13 |  |
 | [body](https://open.spotify.com/track/6Vei3kKN9pPMpBZ9kgF1w8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [body](https://open.spotify.com/album/1Ys8zFS9GLkPWlTnVX0n7b) | 3:51 | 2024-06-13 |  |
 | [Can't Wait To Be Pretty \- Demo](https://open.spotify.com/track/6KOuMCwNRzp7Z5uwl0DI2w) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Can't Wait To Be Pretty \- Demo](https://open.spotify.com/album/707u2HFuO8Nf6tSwDvRo6y) | 2:37 | 2024-06-13 |  |
+| [Cigarette](https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB) | [Ian Harrison](https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG) | [Cigarette](https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq) | 2:38 | 2026-03-08 |  |
 | [Closure](https://open.spotify.com/track/3AZflkRCUsOQuB18C0Ws0y) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/6lDn8FPgegASII2XD9objP) | 2:30 | 2026-01-01 |  |
 | [Closure](https://open.spotify.com/track/7Efgr2kEQ7SCYo3BkLjdP9) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/3M3DY5rEccxaGJVT4FLlYc) | 2:30 | 2024-07-05 | 2026-01-02 |
 | [comme des garçons \(like the boys\)](https://open.spotify.com/track/2HDCf9KhsUSFbxIqj22rOq) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [isaac's insects](https://open.spotify.com/album/2HbOTgPrZbFDx84oPQ0RlO) | 3:10 | 2024-06-13 |  |

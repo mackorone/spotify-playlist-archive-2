@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "Do It the Hard Way",
+      "url": "https://open.spotify.com/track/5dFBJ1rqakFBp7QkjYC4VZ"
+    },
+    {
+      "album": {
         "name": "Baker's Holiday",
         "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
       },

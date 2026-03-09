@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 114807,
+  "num_followers": 114810,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
+        "name": "Cantando o Amor Vol. 2",
+        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+        }
+      ],
+      "duration_ms": 232710,
+      "name": "Isso \u00e9 Amor",
+      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
         "name": "O Jeito Que Voc\u00ea Me Olha",
         "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
       },
@@ -420,26 +440,6 @@
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Rebeca Nemer",
-          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
-        }
-      ],
-      "duration_ms": 232710,
-      "name": "Isso \u00e9 Amor",
-      "url": "https://open.spotify.com/track/4zmStTJkuik7l8IJA0BeaM"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
-        "name": "Cantando o Amor Vol. 2",
-        "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
-      },
-      "artists": [
-        {
           "name": "Paloma Possi",
           "url": "https://open.spotify.com/artist/322iN0WHlqAkxvgRrYpikS"
         },
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Disse Sim",
-        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Disse Sim",
-      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Cantando o Amor Vol. 2",
         "url": "https://open.spotify.com/album/2T1fi32Ku2MXPzS0NQlCOU"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 303020,
       "name": "A Perfei\u00e7\u00e3o de Deus",
       "url": "https://open.spotify.com/track/4Y2OYqXrNvozhJn8QY7UAO"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Disse Sim",
+        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Disse Sim",
+      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Presente de Deus",
-        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
-      },
-      "artists": [
-        {
-          "name": "Oficina do Som",
-          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
-        },
-        {
-          "name": "Renato Vianna",
-          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Presente de Deus",
-      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Presente de Deus",
+        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+      },
+      "artists": [
+        {
+          "name": "Oficina do Som",
+          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "25 de fevereiro",
-        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
-      },
-      "artists": [
-        {
-          "name": "Matheus Balo",
-          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
-        }
-      ],
-      "duration_ms": 185448,
-      "name": "eu te convido",
-      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Te Amaria Outra Vez / Amar Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/0UxVlLy7ryHUWDSBoMaRPe"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 249763,
       "name": "Te Amaria Outra Vez / Amar Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/5G4HETtoTa5bkDcZRruHFr"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "25 de fevereiro",
+        "url": "https://open.spotify.com/album/1tTDdrlrbDSQxHMid7P0rv"
+      },
+      "artists": [
+        {
+          "name": "Matheus Balo",
+          "url": "https://open.spotify.com/artist/5WCiqIo8qQE8cSF4UyOP2T"
+        }
+      ],
+      "duration_ms": 185448,
+      "name": "eu te convido",
+      "url": "https://open.spotify.com/track/69ZlqCsbVqqNKBKphkN4c0"
     },
     {
       "added_at": "2024-07-11 15:58:05",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Mulher Realizada",
-        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
-      },
-      "artists": [
-        {
-          "name": "Elaine Martins",
-          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
-        }
-      ],
-      "duration_ms": 257648,
-      "name": "Mulher Realizada",
-      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Chave do Amor",
         "url": "https://open.spotify.com/album/6gT3f9ABhudAeet0qTQmFp"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 190377,
       "name": "Chave do Amor",
       "url": "https://open.spotify.com/track/3GEOh17iDZzP9ieATkdtlL"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Mulher Realizada",
+        "url": "https://open.spotify.com/album/18bVJJdeAVcHazavEgaX74"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        }
+      ],
+      "duration_ms": 257648,
+      "name": "Mulher Realizada",
+      "url": "https://open.spotify.com/track/07sWgafvUjgP9mKL9vSNlr"
     },
     {
       "added_at": "2024-07-11 15:58:05",

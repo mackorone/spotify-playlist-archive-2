@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 172682,
       "name": "Aguas",
       "url": "https://open.spotify.com/track/2KgzC2HaBfy67hMkSUDOys"
@@ -1392,6 +1392,28 @@
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/7xsew7zvk3Y5XctO2W6MnO"
+    },
+    {
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/3MvcDpkQUcYIQJx35P1l12"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206340,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/7ojNFDRPCH9gIpDtdCjl9W"
     },
     {
       "album": {
@@ -9392,7 +9414,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 240654,
       "name": "Extssy Model",
       "url": "https://open.spotify.com/track/24teIhDYO2RocTA2v5dY0r"
@@ -12278,7 +12300,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -15194,7 +15216,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 179977,
       "name": "marianita",
       "url": "https://open.spotify.com/track/4Tx0nnFH7oVo3fvVyVeTYv"
@@ -23876,7 +23898,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 211114,
       "name": "Te Amo y Me Amas",
       "url": "https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo"

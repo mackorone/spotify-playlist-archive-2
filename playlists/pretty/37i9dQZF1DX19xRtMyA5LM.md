@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: OYSTER \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,451 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,433 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

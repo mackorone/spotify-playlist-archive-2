@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Samuel Welten genomineerd voor Edison Pop 2026: Nieuwkomer en Hollands 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,144 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,190 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 26 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 |
 | 27 | [Drink Rode Wijn](https://open.spotify.com/track/4dfcAShEiezY5K2IP33iOn) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn](https://open.spotify.com/album/2eUCtZLQrk8l2Js1bBQm3R) | 3:30 |
 | 28 | [En Ik Droom](https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [En Ik Droom](https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe) | 2:37 |
-| 29 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
-| 30 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
+| 29 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
+| 30 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
 | 31 | [Met Of Zonder Jou](https://open.spotify.com/track/69RI9EeFuWmMtRWAuREUy1) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/7rq2FgyZZPsuSGvuptcwaq) | 3:02 |
 | 32 | [Bon Gepakt](https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Rene Froger](https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb) | [Bon Gepakt](https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY) | 2:53 |
 | 33 | [Ik Heb De Hele Nacht Liggen Dromen](https://open.spotify.com/track/424Blek9ClYC97FV3muHqV) | [Wolter Kroes](https://open.spotify.com/artist/3aERYLqcdKbyI7pjmOgIpU) | [Niemand Anders](https://open.spotify.com/album/5nqY3O7eAIz1RpKmFr1zRB) | 4:08 |

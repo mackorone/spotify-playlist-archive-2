@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,734,890 likes - 230 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,735,724 likes - 230 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

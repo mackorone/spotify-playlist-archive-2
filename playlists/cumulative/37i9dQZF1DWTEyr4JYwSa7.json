@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 154135,
       "name": "Disco No\u00ebl",
       "url": "https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ"
@@ -6008,6 +6008,24 @@
       "duration_ms": 231294,
       "name": "Sainte nuit",
       "url": "https://open.spotify.com/track/4Yg8sGXGNNTluvZqGwbxDo"
+    },
+    {
+      "album": {
+        "name": "Sainte Nuit",
+        "url": "https://open.spotify.com/album/2vTgx0uKwHO6ZRKwcq4nle"
+      },
+      "artists": [
+        {
+          "name": "Victoire Musique",
+          "url": "https://open.spotify.com/artist/32sbuppF72lJLfmjCkOtbl"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325908,
+      "name": "Sainte Nuit",
+      "url": "https://open.spotify.com/track/4gAgVk0X8m3t5NDJc3GYCB"
     },
     {
       "album": {

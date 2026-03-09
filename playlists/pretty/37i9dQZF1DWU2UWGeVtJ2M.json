@@ -1,6 +1,6 @@
 {
   "description": "\u534a\u6e05\u9192\u7684\u6642\u523b\u6700\u8ff7\u4eba\uff0c\u8b93\u6700\u8ff7\u4eba\u7684\u97f3\u6a02\u548c\u4f60\u4e00\u8d77\u96a8\u8208...",
-  "num_followers": 168211,
+  "num_followers": 168220,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 141220,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "I Need Space",
         "url": "https://open.spotify.com/album/2lHcXT4x2UOOQCjHVBftcs"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 203500,
       "name": "Tender love",
       "url": "https://open.spotify.com/track/60GK9ifHXOrJXJq46lwILc"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/1AmFnQikFakztHXt8ZHj4I"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "duration_ms": 141220,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/37xM5UFUHSVBISEJWTYwvn"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -699,6 +699,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 184253,
+      "name": "I Don\u2019t Wanna",
+      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "I Wouldn't Know Any Better Than You",
         "url": "https://open.spotify.com/album/1D9mUrKwbTyaurp4Y72NEj"
       },
@@ -715,18 +731,18 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Baggy$$",
-        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+        "name": "Dva (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2njhI39km75PtiP4JNIOza"
       },
       "artists": [
         {
-          "name": "Fcukers",
-          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
         }
       ],
-      "duration_ms": 184253,
-      "name": "I Don\u2019t Wanna",
-      "url": "https://open.spotify.com/track/7qkScg9F6NUKFxfX16qtWb"
+      "duration_ms": 236000,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -747,22 +763,6 @@
       "duration_ms": 169273,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/1pDiRrLro0tlhsPSexB3Zv"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Dva (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2njhI39km75PtiP4JNIOza"
-      },
-      "artists": [
-        {
-          "name": "Emika",
-          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/1phpaLmVPxHYbcYOntvWd7"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -983,6 +983,26 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Walk Long",
+        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
+      },
+      "artists": [
+        {
+          "name": "Psylo",
+          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
+        },
+        {
+          "name": "KINIDA",
+          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
+        }
+      ],
+      "duration_ms": 248877,
+      "name": "Walk Long",
+      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Quixotic",
         "url": "https://open.spotify.com/album/5W3A1cKeYDWKwumAcTqQMf"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 221974,
       "name": "Feels (feat. Khalid)",
       "url": "https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Walk Long",
-        "url": "https://open.spotify.com/album/0zR3grZpgad6nqfPauPdnJ"
-      },
-      "artists": [
-        {
-          "name": "Psylo",
-          "url": "https://open.spotify.com/artist/4EvMhwDutimwUZSG7t38XI"
-        },
-        {
-          "name": "KINIDA",
-          "url": "https://open.spotify.com/artist/5rxk8Y4xZoD152zShQiwhB"
-        }
-      ],
-      "duration_ms": 248877,
-      "name": "Walk Long",
-      "url": "https://open.spotify.com/track/1ibtSIWTF1Ti00WMocGGir"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Wave002",
-        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 167766,
-      "name": "Free Form",
-      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Something to Feel",
         "url": "https://open.spotify.com/album/02dq5KH5htRQNedTyplLu8"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Wave002",
+        "url": "https://open.spotify.com/album/1YdM5ZC57DMiQLAvsIWwAU"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 167766,
+      "name": "Free Form",
+      "url": "https://open.spotify.com/track/04qxabD9hKT45HsrOQqdVg"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
+      },
+      "artists": [
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 253927,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
         "name": "Squaring The Circle",
         "url": "https://open.spotify.com/album/0npeEzm8BfqZ1YwnzlvfA7"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 321176,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/59AsW4buRUplzfnJYSvopN"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5zk4TC5hFLU8psFiQl8A5S"
-      },
-      "artists": [
-        {
-          "name": "GANGGA",
-          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
-        }
-      ],
-      "duration_ms": 253927,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/7otwxbmB0dVdjdOAhOmUG6"
     },
     {
       "added_at": "2026-02-09 02:11:35",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
-        }
-      ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
-    },
-    {
-      "added_at": "2026-02-09 02:11:35",
-      "album": {
         "name": "Baby Cakes",
         "url": "https://open.spotify.com/album/6UBbIBpb2LB4Vm9iacIzmu"
       },
@@ -1731,22 +1715,38 @@
     {
       "added_at": "2026-02-09 02:11:35",
       "album": {
-        "name": "Emo Regulation",
-        "url": "https://open.spotify.com/album/1pir4aOKWF8N3AosfKsRgk"
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
       },
       "artists": [
         {
-          "name": "RIP Swirl",
-          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
-        },
-        {
-          "name": "Ydegirl",
-          "url": "https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 165500,
-      "name": "Spirals On My Tongue",
-      "url": "https://open.spotify.com/track/0I1oME61NvoZCIQxct99mP"
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+    },
+    {
+      "added_at": "2026-02-09 02:11:35",
+      "album": {
+        "name": "Easy (feat. 6LACK)",
+        "url": "https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb"
+      },
+      "artists": [
+        {
+          "name": "Next Town Down",
+          "url": "https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 204454,
+      "name": "Easy (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

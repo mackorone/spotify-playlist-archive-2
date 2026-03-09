@@ -1,6 +1,6 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 101050,
+  "num_followers": 101067,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "moonlight",
-        "url": "https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A"
-      },
-      "artists": [
-        {
-          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
-          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u4e00\u5929",
         "url": "https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM"
       },
@@ -391,18 +375,18 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "story that never ends",
-        "url": "https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq"
+        "name": "moonlight",
+        "url": "https://open.spotify.com/album/5lKpuRqLRvNHpsZzIkSg7A"
       },
       "artists": [
         {
-          "name": "CONSTANCE",
-          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+          "name": "\u90b1\u92d2\u6fa4 Feng Ze",
+          "url": "https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy"
         }
       ],
-      "duration_ms": 208023,
-      "name": "story that never ends",
-      "url": "https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd"
+      "duration_ms": 162580,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/62A4bCkSIY5Geqo2N0uzTM"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -419,6 +403,22 @@
       "duration_ms": 182150,
       "name": "\u5982\u679c\u6708\u4eae\u6703\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/6i6Lrq6Lkfsjw4WCLOr6zp"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "story that never ends",
+        "url": "https://open.spotify.com/album/4aiPkG3hycKgbDJrT3rwkq"
+      },
+      "artists": [
+        {
+          "name": "CONSTANCE",
+          "url": "https://open.spotify.com/artist/3d1QXYgWNVRHT5V5j5NozP"
+        }
+      ],
+      "duration_ms": 208023,
+      "name": "story that never ends",
+      "url": "https://open.spotify.com/track/1U92diBuPuPhWpQ3KbPPGd"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
-        "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
-        "url": "https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC"
-      },
-      "artists": [
-        {
-          "name": "\u7406\u60f3\u6df7\u86cb",
-          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
-      "url": "https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
         "name": "\u559c\u6b61\u4f60\u6bd4\u8aaa\u559c\u6b61\u4f60\u66f4\u5bb9\u6613",
         "url": "https://open.spotify.com/album/6q3p7QtWtE260uTuw1UJqc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 253809,
       "name": "\u559c\u6b61\u4f60\u6bd4\u8aaa\u559c\u6b61\u4f60\u66f4\u5bb9\u6613",
       "url": "https://open.spotify.com/track/5tSgmaLq4GjHuyAcs0TCsu"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
+        "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
+        "url": "https://open.spotify.com/album/2AsrBsR18di75bRFTWArvC"
+      },
+      "artists": [
+        {
+          "name": "\u7406\u60f3\u6df7\u86cb",
+          "url": "https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "\u795d\u4f60\u751f\u65e5\u5feb\u6a02",
+      "url": "https://open.spotify.com/track/0swDTbKkAtlG3FanC6jUct"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 (\u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y"
+      },
+      "artists": [
+        {
+          "name": "ANGIE\u5b89\u5409",
+          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "\u501f\u4f60\u7684\u80a9\u8180\u8eba\u4e00\u4e0b",
         "url": "https://open.spotify.com/album/4VvEvvuu0FCPWwyljSkIne"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 188290,
       "name": "\u501f\u4f60\u7684\u80a9\u8180\u8eba\u4e00\u4e0b",
       "url": "https://open.spotify.com/track/3kco33fBIV5l0OLAOzfUXT"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
-        "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 (\u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y"
-      },
-      "artists": [
-        {
-          "name": "ANGIE\u5b89\u5409",
-          "url": "https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "\u7b49\u8457\u4f60\uff0c\u5922\u8457\u4f60 - \u5f71\u96c6\u300a\u7f8e\u98df\u7121\u9593\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE"
     },
     {
       "added_at": "2026-01-29 16:00:38",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-01-29 16:00:38",
       "album": {
+        "name": "\u5de6\u8fb9",
+        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u5305",
+          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "\u5de6\u8fb9",
+      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
+    },
+    {
+      "added_at": "2026-01-29 16:00:38",
+      "album": {
         "name": "\u66fc\u714e\u7cd5",
         "url": "https://open.spotify.com/album/7HJXf0UTyN6rqV9yJLLyVw"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 199001,
       "name": "\u66fc\u714e\u7cd5",
       "url": "https://open.spotify.com/track/5sllnFvJeEIi6Nahng3FBX"
-    },
-    {
-      "added_at": "2026-01-29 16:00:38",
-      "album": {
-        "name": "\u5de6\u8fb9",
-        "url": "https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx"
-      },
-      "artists": [
-        {
-          "name": "\u5c0f\u5305",
-          "url": "https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "\u5de6\u8fb9",
-      "url": "https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW"
     },
     {
       "added_at": "2026-01-29 16:00:38",

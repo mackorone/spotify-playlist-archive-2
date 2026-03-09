@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: eleventwelfth
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,521 likes - 130 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,549 likes - 130 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 26 | [Electronic Girl](https://open.spotify.com/track/3jLdAQ7guhHOppAj02RJmW) | [Chinese Football](https://open.spotify.com/artist/65qWysYTXcTL8nqZzg84Hk) | [Here comes a new challenger!](https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7) | 5:10 |
 | 27 | [Teleblister](https://open.spotify.com/track/0JQgWfYZJRgi6Xge4Qv7Cb) | [Clever Girl](https://open.spotify.com/artist/7663vNncj70kCkfsi5eMNf) | [No Drum and Bass in the Jazz Room](https://open.spotify.com/album/5fVQB6vI2BiezkTxU0BJIr) | 5:28 |
 | 28 | [If I Sit Still, Maybe I'll Get Out of Here](https://open.spotify.com/track/4pA7Q39tKh9k7NPjNGkMh2) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [This Town Needs Guns](https://open.spotify.com/album/4HIu9GFo8liRyJnUu6ex6U) | 6:02 |
-| 29 | [Harvester](https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4) | [Monobody](https://open.spotify.com/artist/4jaeGVfIwCDJh18eP1rciA) | [Comma](https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd) | 3:53 |
+| 29 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
 | 30 | [Parametric](https://open.spotify.com/track/4Z9Re6GbbmInDsT8s1pIp7) | [Shaw](https://open.spotify.com/artist/7aZ3TdPafhahG42XQSyaIl) | [Book of Patterns](https://open.spotify.com/album/2zb8LN5IwRouu6etkH75sJ) | 4:48 |
-| 31 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
+| 31 | [Harvester](https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4) | [Monobody](https://open.spotify.com/artist/4jaeGVfIwCDJh18eP1rciA) | [Comma](https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd) | 3:53 |
 | 32 | [Ten\-Day Interval](https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [TNT](https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg) | 4:44 |
 | 33 | [Marsh Partition](https://open.spotify.com/track/3NrmXanmUQKkbJEUQlgQUv) | [Floral](https://open.spotify.com/artist/1FVOt1XlpnaCueBolWF92k) | [The Second Floral \- EP](https://open.spotify.com/album/56WclCoxH3fyAe1Z8QmbKu) | 3:24 |
 | 34 | [Delaylay](https://open.spotify.com/track/1p274dHeFsOiiK4b2t7mKt) | [Stage Kids](https://open.spotify.com/artist/6PA6cOkr31WIibRMDZXZkU) | [Intra Mental](https://open.spotify.com/album/0Lx7i91oEDoGwzy4Bp07al) | 3:45 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 54 | [Tony Hawk of Ghana](https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [I Hate My Village](https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9) | 2:53 |
 | 55 | [If It Hadn't Ended Then, It Would've Ended Now \- 2023](https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x) | [The Year End](https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR) | [If It Hadn't Ended Then, It Would've Ended Now \(2023\)](https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3) | 4:26 |
 | 56 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
-| 57 | [Backaches & Cardigans](https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [We've Been Talking](https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO) | 4:14 |
-| 58 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 |
+| 57 | [Saint Loser](https://open.spotify.com/track/4E1L60kHbxTpsHx0AKocTF) | [Forests](https://open.spotify.com/artist/2ew0XBmcP0n50UWzVVQygC) | [Get In Losers, We’re Going to Eternal Damnation](https://open.spotify.com/album/4c2Nq7XkRFNISEOZ9uYrbc) | 3:03 |
+| 58 | [Backaches & Cardigans](https://open.spotify.com/track/6PN7F72jxtLpO4xyyD245l) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [We've Been Talking](https://open.spotify.com/album/05FuPZpstZ3mjQtejnSSyO) | 4:14 |
 | 59 | [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 |
 | 60 | [Papaya](https://open.spotify.com/track/3Mh2EkQ3vPleWVTXLo1phm) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Yum !!](https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx) | 3:08 |
 | 61 | [Aped](https://open.spotify.com/track/3wtC8F2j4hUMHFlMSS1RzR) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [Patagonian Rats](https://open.spotify.com/album/1iJJ7eJ6xsEvmdCSHb8wp2) | 4:06 |
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 90 | [Friends Suck](https://open.spotify.com/track/42pO1zZememxps3eSEXfnp) | [Land Wars](https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O) | [Land Wars](https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb) | 3:54 |
 | 91 | [You can go again](https://open.spotify.com/track/2zPPDLU1JXimTWoBkt8izs) | [Collections Of Colonies Of Bees](https://open.spotify.com/artist/4mGXknIZtImmEXjSQfGGQp) | [Celebrities](https://open.spotify.com/album/5zhLoUfVcnW5Vl7iiZ5FDt) | 4:07 |
 | 92 | [Andes](https://open.spotify.com/track/0RqMmK2Cf5TuSekASvzxwL) | [Montaña](https://open.spotify.com/artist/5oZKQvQiZPui8fMeeo5a2S) | [Coordenadas](https://open.spotify.com/album/6SxAPJhbN9xsgcPtEPg9C0) | 3:29 |
-| 93 | [100% Tree](https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [Old Material, Larger](https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p) | 4:18 |
-| 94 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
+| 93 | [Habanero](https://open.spotify.com/track/7AJzgN9RR0OJBQF8gnBaa7) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 4:05 |
+| 94 | [100% Tree](https://open.spotify.com/track/194os0dWNuK2aZIgkJYMKE) | [Dianogah](https://open.spotify.com/artist/1VgnczxN9UlQeFTrh1S8MB) | [Old Material, Larger](https://open.spotify.com/album/43WwZF6LGnqP9Pzl2Z7e8p) | 4:18 |
 | 95 | [003: Haiyah!](https://open.spotify.com/track/0c0bDlQjSzaEZEOb3TJdm3) | [DJ Perro](https://open.spotify.com/artist/4JBHP6FfjpOBZsb0aY6zxE) | [003: Haiyah!](https://open.spotify.com/album/1FKjY7xOj7quTktAnX2hUE) | 3:54 |
 | 96 | [Caballos \(Horses\)](https://open.spotify.com/track/7dzTIo5FpMtZ7vjBOSAi0l) | [The Polar Dream](https://open.spotify.com/artist/1fH2nvEznZkYOyj0BjOhNp) | [Kiev](https://open.spotify.com/album/0ZXDdJxHjyC4XmF0inrFkt) | 5:03 |
-| 97 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
-| 98 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
+| 97 | [Queso](https://open.spotify.com/track/7v0tdOisj4IEYUjM8KBCBz) | [Hungría](https://open.spotify.com/artist/0OrifgXKiu7rDYQbFW0Dpx) | [Magyarország vagy halál](https://open.spotify.com/album/5HdscyNkq8Wqeb4ksu775M) | 5:37 |
+| 98 | [Hornet Vision](https://open.spotify.com/track/29LbdC7GpOUg6HRAmeLHXD) | [nevraska](https://open.spotify.com/artist/23rwjhNvoYuVJsoZsEo2ET) | [I left work on my way home december 1st 1955](https://open.spotify.com/album/4CCzSdwUOL7EsmrbPIAICV) | 3:48 |
 | 99 | [Aquabus](https://open.spotify.com/track/60uDsxlJ04g5FkmS9FH0Od) | [Shaolin](https://open.spotify.com/artist/4OwxoHYcS57KWPFNNB6K1E) | [Psych!](https://open.spotify.com/album/1JwjyF2PVZTrw3uHaGoosD) | 4:36 |
 | 100 | [14.12](https://open.spotify.com/track/344wbdXGPVYz3ADRrFUdW0) | [Pirámides](https://open.spotify.com/artist/5rADjgosAgoE3fWHogrbvu) | [Caíste al Suelo](https://open.spotify.com/album/5Eb2EeJRJXydzt7afPGowl) | 3:23 |
 | 101 | [At the corner of Squanch and Squanch](https://open.spotify.com/track/12oLllpYyJOKWVIpURA3BR) | [biscuit head](https://open.spotify.com/artist/2kw2Y8E5KllNL4PY2MeoMX) | [Chunky Moisture](https://open.spotify.com/album/1uy5vcfYaUcwgs0wubTiuv) | 3:31 |

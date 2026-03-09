@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 334260,
+  "num_followers": 334358,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAQbOn/6s4sk4iRPJSTPw+O",
+  "snapshot_id": "aatqgAAAAAB04rHyMMUZ4BmZcKckfNy1",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
       },
       "artists": [
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         },
         {
-          "name": "Bailee Ann",
-          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 215477,
-      "name": "Tears Could Talk",
-      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+      "duration_ms": 196053,
+      "name": "Whiskey Bent (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
     },
     {
       "added_at": null,
@@ -843,22 +843,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY"
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Bailee Ann",
+          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
         }
       ],
-      "duration_ms": 196053,
-      "name": "Whiskey Bent (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/6bR32eVsUfzgZFAraoMITH"
+      "duration_ms": 215477,
+      "name": "Tears Could Talk",
+      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
     },
     {
       "added_at": null,

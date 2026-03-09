@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,506 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,509 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Opalite](https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:55 |
 | 50 | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/track/3VIEbpdr64a1mNSa8MqBAm) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [ALL IN \(Lieblingslieder\)](https://open.spotify.com/album/3l4OJNnPVJGK8Dg9dvkRFZ) | 2:43 |
 
-Snapshot ID: `MT+LQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

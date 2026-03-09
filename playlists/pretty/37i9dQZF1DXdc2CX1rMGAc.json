@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 262171,
+  "num_followers": 262241,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
+        "name": "BORONDO",
+        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 158036,
+      "name": "no tiene sentido",
+      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
         "name": "DINAST\u00cdA",
         "url": "https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 185326,
       "name": "dopamina",
       "url": "https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
-        "name": "BORONDO",
-        "url": "https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 158036,
-      "name": "no tiene sentido",
-      "url": "https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -859,6 +859,26 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
+        "name": "I'M PART",
+        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
+      },
+      "artists": [
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Dysbit",
+          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "Shiny",
+      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
         "name": "TODO KE VER",
         "url": "https://open.spotify.com/album/6jouPgsFxZaEKu0pRB9nzC"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 158350,
       "name": "TODO KE VER",
       "url": "https://open.spotify.com/track/47aX1tXPTBpAG8Y2iAYmiy"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
-        "name": "I'M PART",
-        "url": "https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69"
-      },
-      "artists": [
-        {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
-        },
-        {
-          "name": "Dysbit",
-          "url": "https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "Shiny",
-      "url": "https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "No Hay Loco Que No Corone",
-        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "Cuando No Era Cantante",
-      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Babylon Club",
         "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "No Hay Loco Que No Corone",
+        "url": "https://open.spotify.com/album/4HRbWvdFSp49raypicZyXS"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "Cuando No Era Cantante",
+      "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "intro",
-        "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 179858,
-      "name": "intro",
-      "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
@@ -1735,22 +1715,22 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Comernos",
-        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+        "name": "intro",
+        "url": "https://open.spotify.com/album/6dGXItPd4MxGYeeib02KFx"
       },
       "artists": [
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 221373,
-      "name": "Comernos",
-      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
+      "duration_ms": 179858,
+      "name": "intro",
+      "url": "https://open.spotify.com/track/48Z9ixFIkuzJMATvfFJHIz"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -1803,6 +1783,26 @@
       "duration_ms": 222626,
       "name": "DROGA",
       "url": "https://open.spotify.com/track/1cmfXbOvNJt7iDrnJy5BRE"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "Comernos",
+        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Comernos",
+      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2155,26 +2155,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "COSITA LINDA",
-        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        }
-      ],
-      "duration_ms": 139483,
-      "name": "COSITA LINDA",
-      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Qu\u00e9 Pasar\u00eda...",
         "url": "https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn"
       },
@@ -2195,6 +2175,26 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
+        "name": "COSITA LINDA",
+        "url": "https://open.spotify.com/album/6dyQjzZ1vQWxU28edG6AOA"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 139483,
+      "name": "COSITA LINDA",
+      "url": "https://open.spotify.com/track/1fDjHyaZnNCPo9QsuFdQVO"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
         "name": "WASSUP",
         "url": "https://open.spotify.com/album/0vKAvn3uWijgBplDXSLSkM"
       },
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 261071,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "Da Me",
         "url": "https://open.spotify.com/album/3G6VBoOpF7VtA6JwJxYdnv"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2287,30 +2287,6 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
-        "name": "QUIMERA",
-        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        },
-        {
-          "name": "XROSS",
-          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
-        }
-      ],
-      "duration_ms": 180881,
-      "name": "HASTA QUE ME ENAMORO",
-      "url": "https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
         "name": "I Said I Love You First",
         "url": "https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR"
       },
@@ -2331,6 +2307,30 @@
       "duration_ms": 201920,
       "name": "Ojos Tristes (with The Mar\u00edas)",
       "url": "https://open.spotify.com/track/1DFmBjoeQN9DpOVTEewyx0"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
+        "name": "QUIMERA",
+        "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        },
+        {
+          "name": "XROSS",
+          "url": "https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7"
+        }
+      ],
+      "duration_ms": 180881,
+      "name": "HASTA QUE ME ENAMORO",
+      "url": "https://open.spotify.com/track/7rfYGYxsZzQAhlJy5B0IcW"
     },
     {
       "added_at": "2026-01-29 17:59:47",
@@ -2739,6 +2739,30 @@
     {
       "added_at": "2026-01-29 17:59:47",
       "album": {
+        "name": "Still Luvin",
+        "url": "https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit"
+      },
+      "artists": [
+        {
+          "name": "Delaossa",
+          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Bigla The Kid",
+          "url": "https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j"
+        }
+      ],
+      "duration_ms": 246974,
+      "name": "Still Luvin",
+      "url": "https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj"
+    },
+    {
+      "added_at": "2026-01-29 17:59:47",
+      "album": {
         "name": "Ruina",
         "url": "https://open.spotify.com/album/0pdvMmMdvKRIkms1KjpX0W"
       },
@@ -2763,30 +2787,6 @@
       "duration_ms": 234947,
       "name": "Ruina",
       "url": "https://open.spotify.com/track/1k9ehVSjlGY0GZFhrHavnH"
-    },
-    {
-      "added_at": "2026-01-29 17:59:47",
-      "album": {
-        "name": "Still Luvin",
-        "url": "https://open.spotify.com/album/4IxPNOw15YdDYoe5yBUZit"
-      },
-      "artists": [
-        {
-          "name": "Delaossa",
-          "url": "https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        },
-        {
-          "name": "Bigla The Kid",
-          "url": "https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j"
-        }
-      ],
-      "duration_ms": 246974,
-      "name": "Still Luvin",
-      "url": "https://open.spotify.com/track/0SDmW4WnnMouTsPEv3kftj"
     },
     {
       "added_at": "2026-01-29 17:59:47",

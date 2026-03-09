@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JzVNcx3f5j.md) - [plain]
 
 > Music from "Gintama" Series ! ©空知英秋／集英社・テレビ東京・電通・BNP・アニプレックス
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,359 likes - 81 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,403 likes - 81 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

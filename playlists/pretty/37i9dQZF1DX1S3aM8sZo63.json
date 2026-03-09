@@ -1,6 +1,6 @@
 {
   "description": "As\u00ed como lo pediste, ponte cursi con las canciones m\u00e1s rom\u00e1nticas. Banda Renovaci\u00f3n en portada \ud83d\udcf8",
-  "num_followers": 1070345,
+  "num_followers": 1070422,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 167897,
       "name": "Le Hace Falta Un Beso",
       "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 220586,
       "name": "Due\u00f1o de Ti",
       "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Lo Mejor De Mi Vida",
-        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 156680,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "Lo Mejor De Mi Vida",
+        "url": "https://open.spotify.com/album/186e8uXfR8a0ysIMIsbIZe"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/2LaMe6cSGfsbu7KUA8UBoJ"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "La Mejor De Todas",
-        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "La Mejor De Todas",
-      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
         "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 240624,
       "name": "La Historia (En Vivo)",
       "url": "https://open.spotify.com/track/0SnYsuBjmOlqdPQQQGcx7Z"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "La Mejor De Todas",
+        "url": "https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "La Mejor De Todas",
+      "url": "https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
         "name": "Vali\u00f3 La Pena Equivocarme",
         "url": "https://open.spotify.com/album/1zJpRuqckbWc29EXSboCuc"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 221905,
       "name": "Vali\u00f3 La Pena Equivocarme",
       "url": "https://open.spotify.com/track/5fadmmChFKcR3G0mChCwP1"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "En Vivo desde El Foro Lizos Music",
-        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 152186,
-      "name": "Es Que Me Gustas - En Vivo",
-      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 232178,
       "name": "Mientes Tan Bien",
       "url": "https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "En Vivo desde El Foro Lizos Music",
+        "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 152186,
+      "name": "Es Que Me Gustas - En Vivo",
+      "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como T\u00fa",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Piedras a la Luna",
         "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 170000,
       "name": "Enam\u00f3rate de M\u00ed",
       "url": "https://open.spotify.com/track/5EwWE1dReiNPEJ9xpUL0ZS"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 212071,
       "name": "Sue\u00f1o G\u00fcajiro",
       "url": "https://open.spotify.com/track/7uJU4AyXDqUEG4d1eHI92G"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "Me Gusta Estar Contigo",
-        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 138466,
-      "name": "Me Gusta Estar Contigo",
-      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "Lo S\u00e9",
         "url": "https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
     },
     {
       "added_at": "2026-02-27 06:00:29",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-02-27 06:00:29",
       "album": {
-        "name": "La Que Me Bateaba",
-        "url": "https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 124143,
-      "name": "La Que Me Bateaba",
-      "url": "https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR"
-    },
-    {
-      "added_at": "2026-02-27 06:00:29",
-      "album": {
         "name": "B\u00e9same Diferente",
         "url": "https://open.spotify.com/album/2pL8DZXeH1W8TblZQtgiNS"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 152436,
       "name": "B\u00e9same Diferente",
       "url": "https://open.spotify.com/track/2mDtsObUPQJ3BhhLqW6wxh"
+    },
+    {
+      "added_at": "2026-02-27 06:00:29",
+      "album": {
+        "name": "La Que Me Bateaba",
+        "url": "https://open.spotify.com/album/64nt5dhPAUPQUqwNBXaRTn"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 124143,
+      "name": "La Que Me Bateaba",
+      "url": "https://open.spotify.com/track/3MMBQrXTIo8wsJt8PkEcaR"
     },
     {
       "added_at": "2026-02-27 06:00:29",

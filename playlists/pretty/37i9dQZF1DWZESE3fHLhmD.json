@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd8b Musik, die sich anf\u00fchlt, wie alles kann, nichts muss \ud83e\udd8b",
-  "num_followers": 1316036,
+  "num_followers": 1315966,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "Pazifik",
-        "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
-      },
-      "artists": [
-        {
-          "name": "Provinz",
-          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
-        }
-      ],
-      "duration_ms": 201325,
-      "name": "Walzer",
-      "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "Pazifik",
+        "url": "https://open.spotify.com/album/0tWTZtKm5jkICfL067l5R2"
+      },
+      "artists": [
+        {
+          "name": "Provinz",
+          "url": "https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx"
+        }
+      ],
+      "duration_ms": 201325,
+      "name": "Walzer",
+      "url": "https://open.spotify.com/track/605G7F1FEjm60IdXmLhlNN"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
+        "name": "SOMEWHERE IN BETWEEN",
+        "url": "https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT"
+      },
+      "artists": [
+        {
+          "name": "Matt Hansen",
+          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
+        }
+      ],
+      "duration_ms": 207290,
+      "name": "SOMEWHERE IN BETWEEN",
+      "url": "https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
         "name": "FEAR",
         "url": "https://open.spotify.com/album/6KLrnVqUhPpX4IzgHgsJTg"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 191519,
       "name": "SORRY",
       "url": "https://open.spotify.com/track/34ksxaX1hF5d6v73jETP70"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
-        "name": "SOMEWHERE IN BETWEEN",
-        "url": "https://open.spotify.com/album/5u0yJJQw4gu8pmkDKVAPiT"
-      },
-      "artists": [
-        {
-          "name": "Matt Hansen",
-          "url": "https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ"
-        }
-      ],
-      "duration_ms": 207290,
-      "name": "SOMEWHERE IN BETWEEN",
-      "url": "https://open.spotify.com/track/5OHXhjlFn1j4MUFYaSg6Zc"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 138032,
-      "name": "Unsicher",
-      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "listen carefully",
         "url": "https://open.spotify.com/album/028bvc0vaXtIHnDh84iurD"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 311480,
-      "name": "People Watching",
-      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
+      "duration_ms": 138032,
+      "name": "Unsicher",
+      "url": "https://open.spotify.com/track/77q6HZcDoydfvCAJt7Ufgv"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -1343,6 +1327,22 @@
       "duration_ms": 140348,
       "name": "Graceland",
       "url": "https://open.spotify.com/track/0UrAgB7p2pNB7lzdWEWw8V"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 311480,
+      "name": "People Watching",
+      "url": "https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI"
     },
     {
       "added_at": "2026-03-05 23:00:39",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-03-05 23:00:39",
       "album": {
-        "name": "lieblingslied",
-        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
-      },
-      "artists": [
-        {
-          "name": "Mika No\u00e9",
-          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "lieblingslied",
-      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
-    },
-    {
-      "added_at": "2026-03-05 23:00:39",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 173369,
       "name": "Living In A Haze",
       "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
+    },
+    {
+      "added_at": "2026-03-05 23:00:39",
+      "album": {
+        "name": "lieblingslied",
+        "url": "https://open.spotify.com/album/6V2hiM28I7nIxse5Fvz5Qp"
+      },
+      "artists": [
+        {
+          "name": "Mika No\u00e9",
+          "url": "https://open.spotify.com/artist/19uFRUcB0YIBJHTdHiqlo9"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "lieblingslied",
+      "url": "https://open.spotify.com/track/0MCgv85fHMQd1bnJObN13K"
     },
     {
       "added_at": "2026-03-05 23:00:39",

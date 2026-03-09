@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,555 likes - 125 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,655 likes - 125 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
+| 1 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
 | 2 | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY) | [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Disco Neil](https://open.spotify.com/artist/1HSo2p6kMvBVyt5BZay3r0), [Bashment](https://open.spotify.com/artist/6q6II3boTwoBG0jP88smLb) | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ) | 2:44 |
 | 3 | [Panic](https://open.spotify.com/track/3n9KcMNRaUluDxwKzZAVA8) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Panic](https://open.spotify.com/album/7zMSm96aaWBxtUGNbl6RkZ) | 2:06 |
 | 4 | [Ready for the Ride](https://open.spotify.com/track/1mBlAPx3o1upduoTYXwgcZ) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Ready for the Ride](https://open.spotify.com/album/0rSKLa2MWT7QVQLdczMGuk) | 3:27 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 21 | [Encore](https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Encore](https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l) | 4:17 |
 | 22 | [Badman Business](https://open.spotify.com/track/0nZGlYoLOXsN4WLtS2TwYD) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [Paradise](https://open.spotify.com/album/55iTWkt6gIsiJ2KlMQYzPf) | 2:31 |
 | 23 | [Muhammad Ali \(Can't Relate\) \(Remix\)](https://open.spotify.com/track/7aaFH6C5BKupGMB9TMOw5b) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Ayetian](https://open.spotify.com/artist/5FrdcC0audM19v7r1GQx4P) | [Muhammad Ali \(Can't Relate\) \(Remix\)](https://open.spotify.com/album/6KifmamRzJn1Y5OBKjTI53) | 2:39 |
-| 24 | [B.B.B\. \(Snapchat\)](https://open.spotify.com/track/2H6uszniwJ1kaVnHH6N05a) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [B.B.B\. \(Snapchat\)](https://open.spotify.com/album/7dXzUBKhbW6Ieg14Xen7vk) | 2:25 |
+| 24 | [B.B.B\. \(Snapchat\)](https://open.spotify.com/track/2H6uszniwJ1kaVnHH6N05a) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [B.B.B\. \(Snapchat\)](https://open.spotify.com/album/7dXzUBKhbW6Ieg14Xen7vk) | 2:25 |
 | 25 | [Cyah Behave](https://open.spotify.com/track/5XrReM1qnTTG04tLjfKg7c) | [Voice](https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds) | [Cyah Behave](https://open.spotify.com/album/23u2ssQcJy2eaZ4fRhax9G) | 2:41 |
 | 26 | [Dance Pon Me](https://open.spotify.com/track/5QAkndPQOLg72jJIsHEY8n) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance Pon Me](https://open.spotify.com/album/6FYMnjlhhyoThcscYjPHqF) | 2:26 |
 | 27 | [Dansa](https://open.spotify.com/track/1aj6iGeV2PuafkCbJ3Flx6) | [Klassik Frescobar](https://open.spotify.com/artist/2kEIOdyvN8XjC6UqysNWJ4) | [Sal Gason](https://open.spotify.com/album/6NtkXedp4V9H3ZZCByVli0) | 2:18 |

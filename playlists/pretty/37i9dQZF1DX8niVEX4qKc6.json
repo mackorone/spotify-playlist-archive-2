@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 193064,
+  "num_followers": 193076,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Ninja Mental - Unplugged MTV",
         "url": "https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 230600,
       "name": "Jaguar House",
       "url": "https://open.spotify.com/track/1ymX19hR5uehyYdyeQuoWC"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Las Plantas Crecen",
-        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 115029,
-      "name": "Las Plantas Crecen",
-      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Primavera",
         "url": "https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 242784,
       "name": "Acuarela",
       "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Las Plantas Crecen",
+        "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 115029,
+      "name": "Las Plantas Crecen",
+      "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Mil Mensajes",
-        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
-      },
-      "artists": [
-        {
-          "name": "Salvapantallas",
-          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Mil Mensajes",
-      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Mil Mensajes",
+        "url": "https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo"
+      },
+      "artists": [
+        {
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Mil Mensajes",
+      "url": "https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Es Broma, En Serio",
-        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
-      },
-      "artists": [
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Es Broma, En Serio",
-      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "enero (versi\u00f3n ac\u00fastica)",
         "url": "https://open.spotify.com/album/5INUocHzw5QksKPVfVrLeg"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 206143,
       "name": "enero - versi\u00f3n ac\u00fastica",
       "url": "https://open.spotify.com/track/0giE6nExgeUPqt66IT1Vkr"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Es Broma, En Serio",
+        "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
+      },
+      "artists": [
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Es Broma, En Serio",
+      "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
         "name": "De Mi Flor",
         "url": "https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 221651,
       "name": "Campanas en la Noche - Versi\u00f3n Juan Jos\u00e9 Vasconcellos",
       "url": "https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 245373,
-      "name": "Love Song - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "Loli Molina Live on Pardelion Music",
         "url": "https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ"
       },
@@ -1627,6 +1611,38 @@
       "duration_ms": 304847,
       "name": "Mandol\u00edn - Live",
       "url": "https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 245373,
+      "name": "Love Song - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH"
+    },
+    {
+      "added_at": "2026-01-23 03:00:06",
+      "album": {
+        "name": "AC\u00daSTICO Vol.1",
+        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
+      },
+      "artists": [
+        {
+          "name": "C\u00edgaro",
+          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Amor Roto - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1651,18 +1667,18 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "AC\u00daSTICO Vol.1",
-        "url": "https://open.spotify.com/album/7cL5TVSAcTVRPxZNfbpHfx"
+        "name": "\u00danico y Nuestro",
+        "url": "https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH"
       },
       "artists": [
         {
-          "name": "C\u00edgaro",
-          "url": "https://open.spotify.com/artist/28RE5qsOIpNXoRnFpz4evi"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 168500,
-      "name": "Amor Roto - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4i0DjnEGMEhpZlFYL4xHz0"
+      "duration_ms": 184767,
+      "name": "Nada Nadie 2",
+      "url": "https://open.spotify.com/track/2DSLKFcXqCm8peMsWsiSCn"
     },
     {
       "added_at": "2026-01-23 03:00:06",
@@ -1683,22 +1699,6 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "\u00danico y Nuestro",
-        "url": "https://open.spotify.com/album/1pWO58Hg05C5nhlgKEcxdH"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 184767,
-      "name": "Nada Nadie 2",
-      "url": "https://open.spotify.com/track/2DSLKFcXqCm8peMsWsiSCn"
-    },
-    {
-      "added_at": "2026-01-23 03:00:06",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1715,18 +1715,22 @@
     {
       "added_at": "2026-01-23 03:00:06",
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
+        "name": "V\u00edctimas del Cielo (En Casa)",
+        "url": "https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT"
       },
       "artists": [
         {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        },
+        {
+          "name": "Sonia Alvarez",
+          "url": "https://open.spotify.com/artist/4qeHReaMMuXAfrv9rFAPsj"
         }
       ],
-      "duration_ms": 369000,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
+      "duration_ms": 243605,
+      "name": "V\u00edctimas del Cielo",
+      "url": "https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

@@ -3296,7 +3296,7 @@
       ],
       "date_added": "2026-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 142000,
       "name": "Changes",
       "url": "https://open.spotify.com/track/3Q5QSCwVnUpMDGUVdePidP"
@@ -4030,7 +4030,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 165000,
       "name": "connection",
       "url": "https://open.spotify.com/track/47NgFpkO3RiYsPZgJOl79H"
@@ -4096,6 +4096,32 @@
       "duration_ms": 182000,
       "name": "Control",
       "url": "https://open.spotify.com/track/4b5o6rcs5wg7EV5FsIewMW"
+    },
+    {
+      "album": {
+        "name": "Cool For The Summer",
+        "url": "https://open.spotify.com/album/3kvhPJ8U8qJZM703bp10a6"
+      },
+      "artists": [
+        {
+          "name": "John Von Dusk",
+          "url": "https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz"
+        },
+        {
+          "name": "Santi",
+          "url": "https://open.spotify.com/artist/5hdmCzKYktqtLIUy9auFP7"
+        },
+        {
+          "name": "one more cig",
+          "url": "https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131379,
+      "name": "Cool For The Summer",
+      "url": "https://open.spotify.com/track/48SiM4js3OZIdbKojHWVjq"
     },
     {
       "album": {
@@ -4700,6 +4726,28 @@
       "duration_ms": 148000,
       "name": "Dancing With The Night",
       "url": "https://open.spotify.com/track/7AiId59Lk8vU32IBHds7lv"
+    },
+    {
+      "album": {
+        "name": "Dandelions",
+        "url": "https://open.spotify.com/album/5El47dKjmL9UcgETHqJ2GP"
+      },
+      "artists": [
+        {
+          "name": "Nexeri",
+          "url": "https://open.spotify.com/artist/2ekaInISzbZNipWYe5y7IU"
+        },
+        {
+          "name": "J.A.E",
+          "url": "https://open.spotify.com/artist/6Ly2uwod1jDkU2I8otUnWa"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/0BvMKuMLtX6TA5j8czr6pt"
     },
     {
       "album": {
@@ -6068,6 +6116,32 @@
       "duration_ms": 147500,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/4OZ038aS2ocNwMwbZW8sdh"
+    },
+    {
+      "album": {
+        "name": "Evelyn",
+        "url": "https://open.spotify.com/album/65zzOEnTln9kODqWowJJaP"
+      },
+      "artists": [
+        {
+          "name": "Embl\u00e8",
+          "url": "https://open.spotify.com/artist/7BmOUNMC8ZJhZEBmdFiqMC"
+        },
+        {
+          "name": "lifevest",
+          "url": "https://open.spotify.com/artist/76SqwU2jHw1PFG4zpG73OU"
+        },
+        {
+          "name": "Kin Alura",
+          "url": "https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138183,
+      "name": "Evelyn",
+      "url": "https://open.spotify.com/track/1AHNzypksz8R6dNHafWEJ3"
     },
     {
       "album": {
@@ -11193,6 +11267,28 @@
     },
     {
       "album": {
+        "name": "Illuminate My Soul",
+        "url": "https://open.spotify.com/album/6jdLwN0XDfGgElEDSJVkQL"
+      },
+      "artists": [
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        },
+        {
+          "name": "RAMOS",
+          "url": "https://open.spotify.com/artist/6krF4O0NO2CJ95OcXA9CCu"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164624,
+      "name": "Illuminate My Soul",
+      "url": "https://open.spotify.com/track/1FCjEHEP0plsozmmJCuhsm"
+    },
+    {
+      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/4u2e6y0k8Wi0fI7MWkzO1E"
       },
@@ -11402,7 +11498,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 142000,
       "name": "In September",
       "url": "https://open.spotify.com/track/3IRSc1HgmJv0mwe2P1gY7u"
@@ -11885,6 +11981,24 @@
     },
     {
       "album": {
+        "name": "Jackie Brown",
+        "url": "https://open.spotify.com/album/7myL8boqVr3bty2AxBAyKR"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183214,
+      "name": "Jackie Brown",
+      "url": "https://open.spotify.com/track/4DKgm4jkaJkNwytKJV9PEm"
+    },
+    {
+      "album": {
         "name": "JANE",
         "url": "https://open.spotify.com/album/6siGLeQUQR7J2i9y3yLSZB"
       },
@@ -11903,6 +12017,32 @@
     },
     {
       "album": {
+        "name": "Jennifer",
+        "url": "https://open.spotify.com/album/3KBOa3yVOO3Axu8tBUucwI"
+      },
+      "artists": [
+        {
+          "name": "JP Ventura",
+          "url": "https://open.spotify.com/artist/6WoS5K3siyzyV2GzhFvaXv"
+        },
+        {
+          "name": "Dom Fricot",
+          "url": "https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr"
+        },
+        {
+          "name": "Zac Tenenbaum",
+          "url": "https://open.spotify.com/artist/4HM930lrcxfj68pX2Xiu4I"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146091,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/4YoqdmC5iwIU75n7CCewyC"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/6RyWbtser6LYefUpnemhIO"
       },
@@ -11918,6 +12058,32 @@
       "duration_ms": 153904,
       "name": "Jump",
       "url": "https://open.spotify.com/track/1JKo6V7VgO6MM2uj7iVkHh"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/0Cpa5WrunsM5j9oXK4fBOj"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        },
+        {
+          "name": "Alterlite",
+          "url": "https://open.spotify.com/artist/6KUD2PHNsroeJ5YH3YSISu"
+        },
+        {
+          "name": "Dust Walker",
+          "url": "https://open.spotify.com/artist/3Dj1zDJzdeLQSVyrT0VZiy"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6UxXa5elJWaGTjI1HbU2Y7"
     },
     {
       "album": {
@@ -13434,7 +13600,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 156375,
       "name": "Lights Go Out",
       "url": "https://open.spotify.com/track/6hOmtEj8SCMrpKEU4SHqJD"
@@ -13724,6 +13890,32 @@
       "duration_ms": 152195,
       "name": "Living At The Sea",
       "url": "https://open.spotify.com/track/5LI1FAgKgyU8vmziFY9XhX"
+    },
+    {
+      "album": {
+        "name": "Living The Dream (\u00c6j Remix)",
+        "url": "https://open.spotify.com/album/3hvpvpsrybNEdKEm845PHs"
+      },
+      "artists": [
+        {
+          "name": "Saco",
+          "url": "https://open.spotify.com/artist/1LnBqMojv6Dv6DoPWTDSZ7"
+        },
+        {
+          "name": "Zaza",
+          "url": "https://open.spotify.com/artist/7y9DU2Qlt1U5s1bcOtLXCp"
+        },
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Living The Dream (\u00c6j Remix)",
+      "url": "https://open.spotify.com/track/6A1Z14aXp0Z6CGhHpCMDvI"
     },
     {
       "album": {
@@ -14230,7 +14422,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 154434,
       "name": "Lost in the Sea",
       "url": "https://open.spotify.com/track/1NpUDIBDiooQNpnRyRoLyl"
@@ -14318,6 +14510,28 @@
       "duration_ms": 166028,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/6Cf07jcnseglB4x9BXIKDr"
+    },
+    {
+      "album": {
+        "name": "Lovable",
+        "url": "https://open.spotify.com/album/4Z50Ad5EHv292vqJteSlqu"
+      },
+      "artists": [
+        {
+          "name": "The kid in blue",
+          "url": "https://open.spotify.com/artist/0RMiVWe4b7wnzAFwgFBUfD"
+        },
+        {
+          "name": "one more cig",
+          "url": "https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Lovable",
+      "url": "https://open.spotify.com/track/2sS7syzGdNnkhWTtWEGOdh"
     },
     {
       "album": {
@@ -15504,7 +15718,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 155789,
       "name": "Miles On It",
       "url": "https://open.spotify.com/track/1P2mkOn8ER9Kw6dJIudBjj"
@@ -16080,7 +16294,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 126000,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/44Rug9q92adwEYmHV2lY4d"
@@ -19333,6 +19547,36 @@
     },
     {
       "album": {
+        "name": "Ride Away",
+        "url": "https://open.spotify.com/album/3HWEN0QkWyZT4oyiqsJUVx"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ciccarini",
+          "url": "https://open.spotify.com/artist/3zw2PGpf4w7YefHvDAdcyS"
+        },
+        {
+          "name": "Poul",
+          "url": "https://open.spotify.com/artist/3c4NvPspCtP5coqUMzZtHj"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
+        },
+        {
+          "name": "one more cig",
+          "url": "https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128334,
+      "name": "Ride Away",
+      "url": "https://open.spotify.com/track/2afOvmjmmiXSq46NiRRShq"
+    },
+    {
+      "album": {
         "name": "Right For You",
         "url": "https://open.spotify.com/album/1yaaYXn2E44MKqNfIj5Xsn"
       },
@@ -21122,6 +21366,36 @@
       "duration_ms": 145263,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/15ZDTpAS05k06YNQGC3eal"
+    },
+    {
+      "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/2HNWdNSESoeYxaQrC0twBB"
+      },
+      "artists": [
+        {
+          "name": "Yann Muller",
+          "url": "https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti"
+        },
+        {
+          "name": "NOAM",
+          "url": "https://open.spotify.com/artist/3SCz4vk2MoqDn9KvOYMU0r"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "Tide Lane",
+          "url": "https://open.spotify.com/artist/03PrckumwVFNJxiBc2xe7Y"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170578,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6YtSIhdng69oDhU1s9o5f8"
     },
     {
       "album": {
@@ -22932,7 +23206,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 132857,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/0UDh0s3BnBjomSmOdgeOkr"
@@ -23305,6 +23579,32 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/74H8L38EGLHwZ9T0jZefLI"
+      },
+      "artists": [
+        {
+          "name": "LVNDS",
+          "url": "https://open.spotify.com/artist/5SaQ29VtpoxNKFZZt4D3DT"
+        },
+        {
+          "name": "Skylet",
+          "url": "https://open.spotify.com/artist/5uhspOrIjx5ZHNBsWBiWZT"
+        },
+        {
+          "name": "Dust Walker",
+          "url": "https://open.spotify.com/artist/3Dj1zDJzdeLQSVyrT0VZiy"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160799,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/67Nwm3LhBAZzAxzeKobQ8y"
+    },
+    {
+      "album": {
         "name": "Tell Me You Love Me",
         "url": "https://open.spotify.com/album/4Kt5Ph2XYQTBjqP9988Vqo"
       },
@@ -23372,7 +23672,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 155555,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/4npEZVTX8J0iDrxS9eMuQK"
@@ -23468,7 +23768,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 124500,
       "name": "That Lover",
       "url": "https://open.spotify.com/track/1zNONishuDJ70MCq5T9u3H"
@@ -24992,7 +25292,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 173571,
       "name": "Wait for You",
       "url": "https://open.spotify.com/track/5r0DjWJ4Iahk4lTO6gaGeM"
@@ -26836,6 +27136,36 @@
     {
       "album": {
         "name": "You & I",
+        "url": "https://open.spotify.com/album/4WlbWAk2ieQ876DB1EKKTV"
+      },
+      "artists": [
+        {
+          "name": "rivve",
+          "url": "https://open.spotify.com/artist/4mH4QjsUfCleAq6wz2QOJV"
+        },
+        {
+          "name": "Acko",
+          "url": "https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi"
+        },
+        {
+          "name": "Moody Violet",
+          "url": "https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A"
+        },
+        {
+          "name": "Kin Alura",
+          "url": "https://open.spotify.com/artist/5UbieAXGfZvPmsbbvdb3Xc"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147223,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/48bY6SDYzxa7mSv78qfnH2"
+    },
+    {
+      "album": {
+        "name": "You & I",
         "url": "https://open.spotify.com/album/5ZoBlka9hPOKHklCsv4RkU"
       },
       "artists": [
@@ -26946,6 +27276,28 @@
       "duration_ms": 154263,
       "name": "You Got It All",
       "url": "https://open.spotify.com/track/63BhuFsckAdpiIm85muG5i"
+    },
+    {
+      "album": {
+        "name": "You Let The Sun Come Up",
+        "url": "https://open.spotify.com/album/0lxEbwOLnxtIT7IfPHrUnw"
+      },
+      "artists": [
+        {
+          "name": "Fo\u00ednix",
+          "url": "https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO"
+        },
+        {
+          "name": "Twan Ray",
+          "url": "https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145365,
+      "name": "You Let The Sun Come Up",
+      "url": "https://open.spotify.com/track/3M1kRFOVLMisIII50COtzj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Giorgos Mazonakis
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,785 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,784 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,25 +38,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 28 | [Katamata](https://open.spotify.com/track/4gizfKGSprKyQgYgwX6BYS) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Katamata](https://open.spotify.com/album/42t8tYGPuZorC82akH5eFS) | 4:40 |
 | 29 | [Akouste Ti Mou Leei](https://open.spotify.com/track/1uYkAsnl1F2SN3LazLsBl3) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Akouste Ti Mou Leei](https://open.spotify.com/album/2h14uHfQY7UfpgmMAmyQK9) | 3:17 |
 | 30 | [Pare Repo](https://open.spotify.com/track/5rfWp7g7v94ThG0ydHJlIq) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Pare Repo](https://open.spotify.com/album/6s2Yfh1CRyRPH8M7r3ER0o) | 3:18 |
-| 31 | [San To Louloudi](https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [San To Louloudi](https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2) | 3:13 |
+| 31 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 |
 | 32 | [Nero \- Live Edition](https://open.spotify.com/track/7AH52Zb9T2FqoluMNPx1ds) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Nero \(Live Edition\)](https://open.spotify.com/album/3c1xLILpDuCXETrptwXeYR) | 3:18 |
 | 33 | [Me 'Geia Sou](https://open.spotify.com/track/7A2hkIrbMR3643optl8Utm) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Giannis Fakinos](https://open.spotify.com/artist/4smYONeVZoYufgUmCr6FkG) | [Me 'Geia Sou](https://open.spotify.com/album/7uzlu2dTEzbZsbcFVJh96l) | 3:42 |
 | 34 | [Kataramena Feggaria \- Live](https://open.spotify.com/track/4SpgcAcF735Sr3AjQIVQjc) | [Nikos Apergis](https://open.spotify.com/artist/01AuIzn7oUxs1H3oqWpy8d) | [Kataramena Feggaria \(Live\)](https://open.spotify.com/album/7elp4RTpAQ2IcZbW85hIKH) | 3:00 |
 | 35 | [Simera \- Unplugged](https://open.spotify.com/track/44ySraRfYeDLrBsd8oorQb) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Unplugged 2025](https://open.spotify.com/album/0blWTzwTQgXM8LxSBWqClE) | 3:37 |
-| 36 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 |
+| 36 | [San To Louloudi](https://open.spotify.com/track/0JEqBTl49nSulh9InK43AS) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [San To Louloudi](https://open.spotify.com/album/0VpYXMMuOPkwBVXTSaxwS2) | 3:13 |
 | 37 | [Mavra Matia](https://open.spotify.com/track/3KpyeBandv07ri3WUu111o) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Mavra Matia](https://open.spotify.com/album/7wy2B3Gu5AchOwez9JhS4z) | 3:01 |
 | 38 | [Kapnogona](https://open.spotify.com/track/5wd1QhMpVIwDB2wKRCkPti) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Kapnogona](https://open.spotify.com/album/2RM0S3esLb4znrNTyq70VF) | 3:04 |
 | 39 | [Leei](https://open.spotify.com/track/64w6qsa2L9oF0W0XMdoNvH) | [Giorgos Kakosaios](https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ) | [Leei](https://open.spotify.com/album/6yvZOUr4MAXdIoxxxBQ43Y) | 3:32 |
 | 40 | [Isitirio Ena](https://open.spotify.com/track/4bW9y6hUjoOUdJtK2NMu40) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Isitirio Ena](https://open.spotify.com/album/5qHTNSiJ4eXP4HrPqVgn11) | 3:43 |
 | 41 | [Pou Ti Vrike?](https://open.spotify.com/track/58NBDso0aGKOH1HGMqeR6c) | [Angela Dimitriou](https://open.spotify.com/artist/7xySz9OyEWxKC6RyDlo256), [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pou Ti Vrike?](https://open.spotify.com/album/5CMbdkrcS8H2QWwjr3GYvI) | 3:08 |
 | 42 | [Perifanos Aetos](https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Perifanos Aetos](https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1) | 3:48 |
-| 43 | [Ayto Einai Sosto](https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Ayto Einai Sosto](https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt) | 2:14 |
-| 44 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 |
-| 45 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
+| 43 | [Eroteftika Esena](https://open.spotify.com/track/4rX2CGUDJzZ2tHcYvkO2B3) | [Nikos Vertis](https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa) | [Eroteftika Esena](https://open.spotify.com/album/2UMvJZgFcdk0kw9EGXL99d) | 4:09 |
+| 44 | [Perno Tin Efthini](https://open.spotify.com/track/4rOOWZUDSd7s5hAVrWPgEP) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Perno Tin Efthini](https://open.spotify.com/album/6AL96TadQffNkXkCW3BvMH) | 3:35 |
+| 45 | [Ayto Einai Sosto](https://open.spotify.com/track/4lO12DpKlLDEBVXN72V4JW) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Ayto Einai Sosto](https://open.spotify.com/album/0XAZocytax7vVgipxFzTvt) | 2:14 |
 | 46 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
 | 47 | [Kourastika Na S' Agapo](https://open.spotify.com/track/5NFNMiVepy76S4tE6RDFWP) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [Kourastika Na S' Agapo](https://open.spotify.com/album/1RXyaZyEctohzAyFlhlKDP) | 4:13 |
 | 48 | [Ta Xo Vrei Me Ton Eauto Mou](https://open.spotify.com/track/47PMZ8RvIbO9g483uTTHlv) | [Ilias Vrettos](https://open.spotify.com/artist/0bBYQsnSex82PNb1HkJZt1), [George Theofanous](https://open.spotify.com/artist/1rNn8vt3hmIxbDuqMVzXpA) | [Ta Xo Vrei Me Ton Eauto Mou](https://open.spotify.com/album/39ubI5bqHBp7S7tm6x5ntt) | 4:30 |
-| 49 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
-| 50 | [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 |
+| 49 | [Krata](https://open.spotify.com/track/3U38PoaEgmk9gO4maQ3RO7) | [Stan](https://open.spotify.com/artist/07u8NOOlwGmNmQjU9whua2) | [Krata](https://open.spotify.com/album/4TndkB6ZzsDqPfxJa0lOU2) | 2:55 |
+| 50 | [Tha Me Kitas Sta Matia](https://open.spotify.com/track/4KS1Cq8pg0EawS2dPYGaWZ) | [Nikiforos Vithoulkas](https://open.spotify.com/artist/3uNZcGFziYYu8twdT7pCs9) | [Tha Me Kitas Sta Matia](https://open.spotify.com/album/6FGxQlqvjBCBlvHTVAyEEf) | 3:47 |
 
 Snapshot ID: `AAAAAAM8BmsaVMoIFwsTkx/JVGZGzRtZ`

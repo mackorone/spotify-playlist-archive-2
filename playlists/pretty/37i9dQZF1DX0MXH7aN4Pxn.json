@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 731435,
+  "num_followers": 731407,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "HEAT",
         "url": "https://open.spotify.com/album/5xBJBxfQFowtJ5yq7MnXMG"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 217529,
       "name": "HEAT",
       "url": "https://open.spotify.com/track/3Du9k9oZz7DJCMZviju2lD"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
+        "name": "Slow Burner",
+        "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
+      },
+      "artists": [
+        {
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 212647,
+      "name": "Slow Burner",
+      "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
         "name": "Sippin",
         "url": "https://open.spotify.com/album/78Dma8F2gORqPspfYEunqu"
       },
@@ -1243,22 +1263,30 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "Slow Burner",
-        "url": "https://open.spotify.com/album/6j4ffFjnsHqYexblnGJwdB"
+        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
       },
       "artists": [
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         },
         {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         }
       ],
-      "duration_ms": 212647,
-      "name": "Slow Burner",
-      "url": "https://open.spotify.com/track/1Siu5Bnrt90vtjUddXeTUg"
+      "duration_ms": 227283,
+      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
+      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1295,34 +1323,6 @@
       "duration_ms": 162741,
       "name": "Angel of Mine",
       "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
-        "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-        "url": "https://open.spotify.com/album/0WWjvPdLmnwYrTi03XJ9ib"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 227283,
-      "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
-      "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "SMOKE THE PAIN AWAY",
-        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        }
-      ],
-      "duration_ms": 162772,
-      "name": "SMOKE THE PAIN AWAY",
-      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Piece of Me",
         "url": "https://open.spotify.com/album/64wvW9YtNDyMBWgNjVl3v8"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 188706,
       "name": "Piece of Me",
       "url": "https://open.spotify.com/track/1ZQnV7ePl8yXoLjPfhWE5L"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "SMOKE THE PAIN AWAY",
+        "url": "https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "duration_ms": 162772,
+      "name": "SMOKE THE PAIN AWAY",
+      "url": "https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r"
     },
     {
       "added_at": "2026-01-23 00:00:40",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2026-01-23 00:00:40",
       "album": {
-        "name": "LEVELS",
-        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
-      },
-      "artists": [
-        {
-          "name": "FUZION",
-          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
-        }
-      ],
-      "duration_ms": 198455,
-      "name": "LEVELS",
-      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
-    },
-    {
-      "added_at": "2026-01-23 00:00:40",
-      "album": {
         "name": "Dancing is Healing",
         "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 177321,
       "name": "Dancing is Healing (with Charlotte Plank)",
       "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
+    },
+    {
+      "added_at": "2026-01-23 00:00:40",
+      "album": {
+        "name": "LEVELS",
+        "url": "https://open.spotify.com/album/6NY5wQbp6jqj4zODypYID9"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        }
+      ],
+      "duration_ms": 198455,
+      "name": "LEVELS",
+      "url": "https://open.spotify.com/track/55DwjFdPowTjzvukCzJEho"
     },
     {
       "added_at": "2026-01-23 00:00:40",

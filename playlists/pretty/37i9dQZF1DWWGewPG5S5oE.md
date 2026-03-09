@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: H ZETTRIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,996 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,003 likes - 50 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 44 | [KIMOCHIS](https://open.spotify.com/track/7If0EeEylHBw1hnSfwDFTy) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 3:41 |
 | 45 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 |
 | 46 | [Eclypso](https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc) | [Ryo Fukui](https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh) | [Ryo Fukui Trio at the Slowboat 2004](https://open.spotify.com/album/3Y93b7juDmc0Amg3UKOwXw) | 12:55 |
-| 47 | [Unstoppable journey](https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [Wind Loop Case](https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh) | [Unstoppable journey](https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN) | 4:01 |
-| 48 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Shimpei Ogawa](https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
+| 47 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [Shimpei Ogawa](https://open.spotify.com/artist/7aR7TrCNI1EFSZy758Bp7W), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
+| 48 | [Unstoppable journey](https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [Wind Loop Case](https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh) | [Unstoppable journey](https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN) | 4:01 |
 | 49 | [Volkslied \- feat.井上銘](https://open.spotify.com/track/0V9Wmky0m7eiYhG96lYBiV) | [小室響](https://open.spotify.com/artist/2knziYJNT3pAgE21mHc4a0), [井上銘](https://open.spotify.com/artist/1cw4DRIdgFVPpNEdx0xORg) | [Singularity](https://open.spotify.com/album/6SVmvtKJyT4BTZsgfO6IeS) | 11:30 |
-| 50 | [Soul Funkafied feat\. Yoshiaki Muto](https://open.spotify.com/track/2rFbfBplp0vd2hIFQWVrjY) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [34/45](https://open.spotify.com/album/06lupQqsX3gZuaiECZAMge) | 4:03 |
+| 50 | [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 |
 
 Snapshot ID: `AAAAANmRafxgZOnw8+x/UscPu9FPYl1u`

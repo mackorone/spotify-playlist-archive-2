@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 
 > This is Story Of The Year\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,863 likes - 46 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,868 likes - 46 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 17 | [2005](https://open.spotify.com/track/3NaU2caYQRDURRWaQMQgVf) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:51 |
 | 18 | [In the Shadows](https://open.spotify.com/track/0mwgzibUcY7DE1Q09P2eL1) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:33 |
 | 19 | [Fall Away](https://open.spotify.com/track/4t8poNuHA0PRaQs1mTjBOO) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:56 |
-| 20 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 |
-| 21 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 |
+| 20 | [Miracle](https://open.spotify.com/track/0vYWk3uQezVYj9AU0yn8Mn) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Wolves](https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi) | 3:51 |
+| 21 | [Just Close Your Eyes \(Christian\)](https://open.spotify.com/track/76RksvwSv7RUYM16AAtbFu) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [WWE: The Music \- A New Day, Vol\. 10](https://open.spotify.com/album/2iKsNhYnCpBn0OXtEp1DzT) | 4:31 |
 | 22 | [Sorry About Me](https://open.spotify.com/track/0UdlrnL1aAlhEHGL2xexmW) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 3:29 |
 | 23 | [Good for Me / Feel so Bad](https://open.spotify.com/track/36rJku5SUIgqYAqE0gum1N) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [A.R.S.O.N.](https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d) | 2:55 |
 | 24 | [Fell So Hard, Felt So Right \- feat\. Story Of The Year](https://open.spotify.com/track/5580dJLUADgZBviPFLPGD4) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [GALLOWS](https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4) | 3:02 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0nABhe.md) - [plain]
 | 45 | [Ten Years Down](https://open.spotify.com/track/3P43WpBHNxj5wMqSNWCp75) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Constant \(Deluxe Edition\)](https://open.spotify.com/album/5w2zfZyYBVlN3gE7ld5Zkg) | 3:53 |
 | 46 | [The Black Swan](https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:44 |
 
-Snapshot ID: `aaoZAAAAAAD968vboOl5P2zd5g/t3VDx`
+Snapshot ID: `aatqgAAAAAAdWrcGuRU81PEVOoSf9VXE`

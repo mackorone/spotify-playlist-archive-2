@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,967 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,971 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 6 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \(Acústico\)](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 |
 | 7 | [O Céu Se Abre](https://open.spotify.com/track/1rr7OQMrPZjktRVfUOYnxd) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Céu Se Abre](https://open.spotify.com/album/1F6n140GLrPVRY40AJzecK) | 4:30 |
 | 8 | [Jonas \(Ao Vivo\)](https://open.spotify.com/track/1LkLPTFvrtA3CtXwIiO5wZ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Jonas \(Ao Vivo\)](https://open.spotify.com/album/6lS40buhr2wF6wIs1tAs5A) | 4:53 |
-| 9 | [Betel \- Ao Vivo](https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0) | 5:03 |
-| 10 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 |
+| 9 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 |
+| 10 | [Betel \- Ao Vivo](https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0) | 5:03 |
 | 11 | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/track/0GVWI4nhY1XyOkL8otfLQo) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Leão e o Cordeiro \(Ao Vivo\)](https://open.spotify.com/album/5CEHU4uCKjNwzGnRMGkBRZ) | 6:42 |
 | 12 | [Você Não Imagina](https://open.spotify.com/track/5cS3LwObFvrv6Vfwge0D6R) | [Delino Marçal](https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Você Não Imagina](https://open.spotify.com/album/2HX90xNEZoRQ2qSLtRr6Hu) | 5:18 |
 | 13 | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/track/6lsbNMrSwY9bafs8aKGzbt) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Deus Preparou Tudo \(Ao Vivo\)](https://open.spotify.com/album/66xy1byfUOXw74XkABTNqn) | 4:40 |
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 21 | [Jesus não se esqueceu de você](https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 3:49 |
 | 22 | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/track/7EgXcH7sYVoWdaqkVF9FFr) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Creio \(Ao Vivo\)](https://open.spotify.com/album/3sl8u53yQIpRQ5mj26brdI) | 5:21 |
 | 23 | [Tira\-me do Vale](https://open.spotify.com/track/3TtolRnx8AHhlb42ZDKPBX) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:08 |
-| 24 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
-| 25 | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH) | 6:21 |
+| 24 | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/track/2aduecse2bIIWbGr1mKlAO) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Posso Clamar + Não Pare \(Ao Vivo\)](https://open.spotify.com/album/1FOnoSgx0KWPzCFzniMiLH) | 6:21 |
+| 25 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 |
 | 26 | [Quem Me Tocou \(Ao Vivo\)](https://open.spotify.com/track/6vonokUeMLYePK8oznQMCD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Quem Me Tocou \(Ao Vivo\)](https://open.spotify.com/album/3NISHwhL3IJcTfETLbsvK2) | 4:53 |
 | 27 | [Jesus Não Esqueceu de Você](https://open.spotify.com/track/6IuN3ae4pAmPXJNsr6p1rj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:40 |
 | 28 | [Vai Ter Vida Aí](https://open.spotify.com/track/4mQ6f7PV6XaCDRzMtZFoZq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Vai Ter Vida Aí](https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX) | 4:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 49 | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/track/5R8dqjenu5rH1YPvUrapxk) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Novidade de Deus \(Ao Vivo\)](https://open.spotify.com/album/095KuEcSJ8p1hie8rfdEhW) | 3:59 |
 | 50 | [Prossiga \(feat\. Midian Lima\)](https://open.spotify.com/track/0Q4kMlGILF6jZvfEDFnZBz) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Em Meu Coração](https://open.spotify.com/album/62yuV0UZe17S9roAFW5GFa) | 4:32 |
 
-Snapshot ID: `aaoZAAAAAACogeHcsjXzTGo6W32SwbNe`
+Snapshot ID: `aatqgAAAAACqLac98BDUQW1uwNUIHpoi`

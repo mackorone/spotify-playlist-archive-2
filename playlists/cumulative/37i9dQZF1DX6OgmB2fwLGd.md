@@ -2,9 +2,9 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> born on the internet\. ft\. the sound chalk makes
+> born on the internet\. ft\. Nettspend
 
-1,243 songs - 2 day 2 hr 24 min
+1,244 songs - 2 day 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -711,7 +711,7 @@
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-07-30 | 2024-08-04 |
 | [Man Of The Year](https://open.spotify.com/track/3QEJ2bZW0SQtjWGdIOHHxt) | [Plaqueboymax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb), [5STAR](https://open.spotify.com/artist/0DVETtFrZ1gvd4OfNNH99F) | [Man Of The Year](https://open.spotify.com/album/1tAjSpqbX77bOVVkF7pRIT) | 1:41 | 2025-02-28 | 2026-02-08 |
 | [Manmade Manmaid](https://open.spotify.com/track/3kskGPo6CJ1hFke3Mca6Ie) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Manmade Manmaid](https://open.spotify.com/album/6A5L4Z1m64rt3qMj5FAvYA) | 2:40 | 2026-02-20 |  |
-| [MANNEQUIN](https://open.spotify.com/track/4BOZwlrJLGTPmePx9mM9pu) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:03 | 2026-02-07 |  |
+| [MANNEQUIN](https://open.spotify.com/track/4BOZwlrJLGTPmePx9mM9pu) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd) | [REST IN BASS](https://open.spotify.com/album/67A39lP2d2oyDkRukYYm4F) | 2:03 | 2026-02-07 | 2026-03-09 |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2024-07-31 | 2026-01-31 |
 | [marry me](https://open.spotify.com/track/38Kt8Elz6jRogLkl0OWQ0I) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [marry me](https://open.spotify.com/album/3YQB61zHmPUUNFVHEtqKP1) | 2:37 | 2023-09-01 | 2024-01-13 |
 | [masquerade \- BabySantana Remix](https://open.spotify.com/track/6U7aXej66xOtncZRzfKnFS) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [masquerade \(BabySantana Remix\)](https://open.spotify.com/album/4paXOAztOfbIz9Fwe1khee) | 2:12 | 2022-07-01 | 2023-01-20 |
@@ -852,6 +852,7 @@
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-09-17 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-04-24 | 2024-10-05 |
+| [paris hilton](https://open.spotify.com/track/2mh2dmPfKLBuh50eyy5jry) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:03 | 2026-03-09 |  |
 | [Party At My Place](https://open.spotify.com/track/6CtUVW0IkBCejttSw9Bgdi) | [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [Xavier](https://open.spotify.com/album/6f0DTjwsEkghJ0fgQmPTbh) | 2:21 | 2026-02-10 |  |
 | [Party Girlz](https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Party Girlz](https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp) | 2:13 | 2023-01-20 | 2023-02-15 |
 | [Passout](https://open.spotify.com/track/2JR2IGVjlBnsehn98JMyDI) | [sixzino](https://open.spotify.com/artist/06GZtauzFoknI20BCjZFEx) | [Passout](https://open.spotify.com/album/3iEDH6Yqh0AICsxpahL8CS) | 1:30 | 2026-02-27 |  |

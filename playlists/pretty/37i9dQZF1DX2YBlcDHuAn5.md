@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,886 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,888 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 34 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 35 | [Stone Cold Sober](https://open.spotify.com/track/17E2m2bMA0Su7F2OioKA8H) | [Boaz](https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd) | [Stone Cold Sober](https://open.spotify.com/album/5aCaC8P8Oq7Oyszu1NWiK5) | 2:47 |
 | 36 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
-| 37 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
-| 38 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
+| 37 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
+| 38 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
 | 39 | [She Needs Lovin' Too](https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z) | [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ) | [Time Jumper](https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25) | 3:06 |
 | 40 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 41 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |

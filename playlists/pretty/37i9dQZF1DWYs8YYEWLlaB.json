@@ -1,12 +1,12 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: manifest",
-  "num_followers": 574961,
+  "num_followers": 575013,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJBTKFVKJAIz/APXfBPVhtZcjo6B",
+  "snapshot_id": "AAAAANIpsmB0JvUcMO+GLrQY1HrCHcuk",
   "tracks": [
     {
       "added_at": "2026-02-27 10:17:19",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
+        "name": "CURCUNA",
+        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "duration_ms": 116727,
+      "name": "Halef Selef",
+      "url": "https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
         "name": "Bir \u00c7ift G\u00f6z",
         "url": "https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 207678,
       "name": "Bir \u00c7ift G\u00f6z",
       "url": "https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
-        "name": "CURCUNA",
-        "url": "https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD"
-      },
-      "artists": [
-        {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
-        }
-      ],
-      "duration_ms": 116727,
-      "name": "Halef Selef",
-      "url": "https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7"
     },
     {
       "added_at": "2026-02-27 10:17:19",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-02-27 10:17:19",
       "album": {
-        "name": "MI AMOR",
-        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
-      },
-      "artists": [
-        {
-          "name": "Era7capone",
-          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
-        }
-      ],
-      "duration_ms": 118064,
-      "name": "HALLETT\u0130M",
-      "url": "https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN"
-    },
-    {
-      "added_at": "2026-02-27 10:17:19",
-      "album": {
         "name": "\u00d6ns\u00f6z",
         "url": "https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 277146,
       "name": "Bir Taraf Se\u00e7",
       "url": "https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb"
+    },
+    {
+      "added_at": "2026-02-27 10:17:19",
+      "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        }
+      ],
+      "duration_ms": 118064,
+      "name": "HALLETT\u0130M",
+      "url": "https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN"
     },
     {
       "added_at": "2026-02-27 10:17:19",

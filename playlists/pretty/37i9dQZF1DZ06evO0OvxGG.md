@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 
 > This is Slipmami\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,936 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,940 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 36 | [Velotrol](https://open.spotify.com/track/6ufP9EO1fy6LOlwfKLvD43) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB) | [Até aqui, Slip nos ajudou](https://open.spotify.com/album/1lr9pXQK8ehO7mynb1XAhS) | 1:30 |
 | 37 | [Vem Cá](https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Raikage](https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:42 |
 | 38 | [Moranguinho](https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Moranguinho](https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK) | 1:54 |
-| 39 | [Cosmo e Wanda](https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Cosmo e Wanda](https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5) | 2:12 |
-| 40 | [Outro Som de Sacanagem](https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Outro Som de Sacanagem](https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh) | 1:55 |
+| 39 | [Outro Som de Sacanagem](https://open.spotify.com/track/4PylJL83J3Pl6m4NN2tmhm) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Vhulto](https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Outro Som de Sacanagem](https://open.spotify.com/album/3V0bygxwuP7I5rdeSZ20rh) | 1:55 |
+| 40 | [Cosmo e Wanda](https://open.spotify.com/track/2AZFs8hGLEC00btCoKQGFb) | [Btrem](https://open.spotify.com/artist/5XJ6pt7QwPKJ5X9kFvEagw), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [Cosmo e Wanda](https://open.spotify.com/album/4e7KAQn2VK5U9452GKBay5) | 2:12 |
 | 41 | [Preso na Minha BCT](https://open.spotify.com/track/0LeAkijREFI8nnHK2xIQ5H) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [HG RealTrem](https://open.spotify.com/artist/5GtA2XrucPK4gSSD9G1sKs), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem \(Deluxe\)](https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv) | 2:48 |
 | 42 | [cria de caxias](https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Cria de Caxias](https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4) | 2:07 |
 | 43 | [Pra Você Ficar a Vontade](https://open.spotify.com/track/5IKneLrLRU4e7ew7wuVegn) | [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Pra Você Ficar a Vontade](https://open.spotify.com/album/1KkbKj4wDO6f6ZNSpE6j0c) | 3:27 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OvxGG.md) - [plain]
 | 47 | [Trem Bala](https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Trem Bala](https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e) | 2:16 |
 | 48 | [BÔNUS TRACK](https://open.spotify.com/track/2A33hs2ntyZ52cXMn34ljk) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [b o u t](https://open.spotify.com/artist/3djiMLvUhyywlWQgpYDR41), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT) | [BÔNUS TRACK](https://open.spotify.com/album/3KMHDHQCUSXewfIPRUfo25) | 3:48 |
 
-Snapshot ID: `aaoZAAAAAAB1c7NE7IRvkHxoG7YNJhdA`
+Snapshot ID: `aatqgAAAAADB7kXfsC1CzgzQ1deGtQnZ`

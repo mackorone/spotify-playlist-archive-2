@@ -4,7 +4,7 @@
 
 > This is Craig David\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 37 min
+62 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [All the Way](https://open.spotify.com/track/5ln1Tttut50qIL1KJkl3YC) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 3:55 | 2025-08-02 |  |
 | [Come Alive \- Bonus Track](https://open.spotify.com/track/606YPVeUuvXnxJ19SVI0rg) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Greatest Showman: Reimagined](https://open.spotify.com/album/4dPosP4Io4sDCmeiCxVHW0) | 3:47 | 2025-08-02 |  |
 | [Commitment](https://open.spotify.com/track/0UP1t8bOHiRzdeet1WYXLo) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Commitment](https://open.spotify.com/album/3LOsYrNgEAAKIkM29f5LBd) | 3:11 | 2025-08-02 |  |
-| [Commitment Pt\. 2](https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Commitment Pt\. 2](https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML) | 3:20 | 2025-08-02 |  |
+| [Commitment Pt\. 2](https://open.spotify.com/track/0bNdQX1YTnyXaZE03ndUJ1) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Commitment Pt\. 2](https://open.spotify.com/album/2C5iXNp4MhtCRaWEDmETML) | 3:20 | 2025-08-02 | 2026-03-09 |
 | [Couldn't Be Mine](https://open.spotify.com/track/4BUYYtxQYG8eoHPieyc9Tx) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Following My Intuition \(Expanded Edition\)](https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN) | 3:01 | 2025-08-02 | 2025-08-10 |
 | [DNA](https://open.spotify.com/track/0DfQV2Ri0l83o7Nbzm45vQ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [DNA](https://open.spotify.com/album/5NRiyd9eDLOnS6PuhlV5iO) | 2:57 | 2025-08-02 |  |
 | [Dominoes](https://open.spotify.com/track/5VXdYLJ62WPtRfb597kRP1) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:04 | 2025-08-11 | 2026-01-15 |
@@ -42,6 +42,7 @@
 | [Let's Stay Together](https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Signed Sealed Delivered](https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM) | 3:36 | 2025-08-02 |  |
 | [Mr Right](https://open.spotify.com/track/4qRV3QCxMBMHiObL85agcm) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Commitment](https://open.spotify.com/album/16HdYzqJybsKkJSeEV0Woi) | 3:47 | 2025-08-12 | 2025-11-17 |
 | [My Heart's Been Waiting for You \- feat\. Duvall](https://open.spotify.com/track/1zh91AMU0KmMqEqMVJ31vs) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:24 | 2025-08-02 |  |
+| [My Love Don't Stop](https://open.spotify.com/track/5Ua103T55HLiVMsIO9eNB2) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [The Story Goes...](https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG) | 4:09 | 2026-03-09 |  |
 | [No Drama \(feat\. Craig David\)](https://open.spotify.com/track/6IIOcnq93QAaKeRX1cs16v) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [No Drama \(feat\. Craig David\)](https://open.spotify.com/album/4V6TDhOqvAQwyLOx3Xun8f) | 2:33 | 2025-08-02 |  |
 | [Nothing Like This](https://open.spotify.com/track/4PFQ4EQBtJUp2jQjpmYkVA) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [Nothing Like This](https://open.spotify.com/album/4gjgWkaWRxPJc4TSflYAOr) | 3:03 | 2025-08-02 |  |
 | [Obvious \- feat\. Muni Long](https://open.spotify.com/track/5hIYTHpbKZp5Rq1amDLL9i) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 3:39 | 2025-08-02 |  |

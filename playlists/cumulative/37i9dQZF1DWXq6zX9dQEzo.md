@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-895 songs - 1 day 18 hr 35 min
+896 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -753,7 +753,7 @@
 | [Take Your Time](https://open.spotify.com/track/7EvHpaw8rCjbSpUp4qfu3F) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Take Your Time](https://open.spotify.com/album/0fyB1lP54sr5PHXzFwWVqt) | 3:19 | 2022-10-01 | 2023-08-12 |
 | [TALK SPICY](https://open.spotify.com/track/2nuQeMvwn2uiiCm3w5vCzB) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [TALK SPICY](https://open.spotify.com/album/3EJphzwiHE5sC4GFSLHntd) | 1:52 | 2025-05-09 |  |
 | [Tap In](https://open.spotify.com/track/1m6DoxPK75pRVThUXNaUr6) | [Alex Jean](https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi), [IG Chat](https://open.spotify.com/artist/1YmlzdqvEpaNO4wQ0zFVYw) | [Tap In](https://open.spotify.com/album/6W1hT7lFHBzi2GxGQ6nBBV) | 2:33 | 2023-08-11 | 2024-06-08 |
-| [TAPPED](https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [TAPPED](https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU) | 2:51 | 2025-03-07 |  |
+| [TAPPED](https://open.spotify.com/track/0tj5Q3TeKqT82NykN7BThU) | [KRL](https://open.spotify.com/artist/6uGM4D4a4e8RG0qdplrSQS) | [TAPPED](https://open.spotify.com/album/3AWnOc58LjirvzfjLsCUUU) | 2:51 | 2025-03-07 | 2026-03-09 |
 | [Technique](https://open.spotify.com/track/0v0Z4a89ervhNOK9IiofkT) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Technique](https://open.spotify.com/album/1b4ugxBznYn1NLwBaaH2Di) | 3:15 | 2024-06-07 | 2024-10-05 |
 | [TEGUCCI](https://open.spotify.com/track/7tDqPQ6cdfwtNzeThl1LCQ) | [Don Ryvcko](https://open.spotify.com/artist/4sPaDVtUm4TRrM6TATYC8D) | [TEGUCCI](https://open.spotify.com/album/2ethrZPr6dQal5tUnemnSB) | 1:47 | 2022-02-04 | 2022-09-16 |
 | [Tell Me Why](https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [Tell Me Why](https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx) | 3:39 | 2024-03-20 | 2024-07-06 |
@@ -823,6 +823,7 @@
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/72PsXICuJgpSYYvjhJARa7) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Affirmations](https://open.spotify.com/album/7nsuo2vcsPXDQdCQBY6SYv) | 3:59 | 2023-11-02 | 2024-03-21 |
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-11-02 | 2023-11-07 |
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-09-03 | 2022-12-17 |
+| [VI\. BRING A LIGHT](https://open.spotify.com/track/0QnjrPQAAvpJJos8z5tY4K) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [1995](https://open.spotify.com/artist/5JbYUdjaOALZLyhYRI79K2) | [VI\. BRING A LIGHT](https://open.spotify.com/album/20coa8vidXHH3ydOTSXLAc) | 2:19 | 2026-02-20 |  |
 | [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-20 | 2024-08-03 |
 | [VICTORY](https://open.spotify.com/track/68sXnlnYdTjzTYuJrKgBTG) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Guerrero De Cristo](https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij) | [VICTORY](https://open.spotify.com/album/6Gjf98zIS6GdZr62zDxkzh) | 3:05 | 2024-03-20 | 2024-10-05 |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-11-02 | 2024-02-03 |

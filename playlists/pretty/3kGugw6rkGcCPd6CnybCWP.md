@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 104 songs - 6 hr 2 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 107 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,8 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 102 | [Valley](https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j), [Eisbaer](https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 6:01 |
 | 103 | [Altrove](https://open.spotify.com/track/1Eu21yhj8lLYfAUkfIG60A) | [The Recoveries](https://open.spotify.com/artist/3uJiEcmU0LNBt37DUZJhdn) | [Altrove](https://open.spotify.com/album/0CJWJRcXmh5ZaKmccgdgHc) | 3:24 |
 | 104 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 |
+| 105 | [SALEM](https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j) | [Wikka](https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq) | [SALEM](https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt) | 4:54 |
+| 106 | [Ophelia](https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ophelia](https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR) | 3:35 |
+| 107 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
 
-Snapshot ID: `AAANiY/kjX5M4ThGFUEajErWZQpIn83h`
+Snapshot ID: `AAANjIpslR+5OXDzZkkXQyc331TleHy2`

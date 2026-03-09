@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 
 > This is Buddy Guy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,422 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,437 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 14 | [Travelin'](https://open.spotify.com/track/0DFc5GuX8VG95HBbzebVby) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Sinners Movie](https://open.spotify.com/artist/0SBtkuQnoKrDFqsMNrFzhU) | [Sinners \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn) | 1:09 |
 | 15 | [A Man And The Blues](https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 6:23 |
 | 16 | [Cognac \(feat\. Jeff Beck & Keith Richards\)](https://open.spotify.com/track/3BkMv30DKcUEOsRbDSAyIq) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl), [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 5:22 |
-| 17 | [What You Gonna Do About Me \(feat\. Beth Hart\)](https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:39 |
-| 18 | [Rock Me Baby](https://open.spotify.com/track/3DMND9loKpbSj2t8DJTYao) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 5:32 |
+| 17 | [Rock Me Baby](https://open.spotify.com/track/3DMND9loKpbSj2t8DJTYao) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 5:32 |
+| 18 | [What You Gonna Do About Me \(feat\. Beth Hart\)](https://open.spotify.com/track/3aa9lEOjZOn2Om2vdMCR1E) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Rhythm & Blues](https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM) | 4:39 |
 | 19 | [One Room Country Shack](https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 20 | [The Blues Is Alive And Well](https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [The Blues Is Alive And Well](https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk) | 5:13 |
-| 21 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
-| 22 | [I'm Ready](https://open.spotify.com/track/5OlzDwX94z4dNX9bhkg065) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 3:29 |
+| 21 | [I'm Ready](https://open.spotify.com/track/5OlzDwX94z4dNX9bhkg065) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Somebody Tried To Sell Me A Bridge](https://open.spotify.com/album/3oKljjJDJyZl4trREah2pp) | 3:29 |
+| 22 | [Messin' with the Kid](https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Buddy Guy & Junior Wells Play The Blues](https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu) | 2:15 |
 | 23 | [Sweet Little Angel](https://open.spotify.com/track/63MynbvINbRgvE2HupTJgF) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 5:39 |
 | 24 | [Fresh Out](https://open.spotify.com/track/6L5nqMCbzcg9Xq8ZE6PC91) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Fresh Out](https://open.spotify.com/album/0ssT151vDQvOAL1dcf4zZY) | 3:48 |
 | 25 | [Been There Done That](https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Ain't Done With The Blues](https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1i8qVD.md) - [plain]
 | 49 | [Wear You Out \(feat\. Billy Gibbons\)](https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Born To Play Guitar](https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W) | 3:30 |
 | 50 | [I've Got Dreams To Remember](https://open.spotify.com/track/3rxqTIzSZGHpjG0NBleFjH) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Bring 'Em In](https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6) | 4:56 |
 
-Snapshot ID: `aaoZAAAAAABvq8H6D+BujFDEbXgPHGT8`
+Snapshot ID: `aatqgAAAAAC25HU7tf+/hFUYw/CBrvh+`

@@ -1,12 +1,12 @@
 {
   "description": "This is Shakira. The essential tracks, all in one playlist.",
-  "num_followers": 1775185,
+  "num_followers": 1775385,
   "original_name": "This Is Shakira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAB1/lM2Q+KY07kdTAdXpFk5",
+  "snapshot_id": "aatqgAAAAACeqi5RUWfJZXWMIyK0JrIW",
   "tracks": [
     {
       "added_at": null,
@@ -247,22 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zootopia (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "Try Everything",
-      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zootopia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Try Everything",
+      "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
     },
     {
       "added_at": null,
@@ -551,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pies Descalzos",
+        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Donde Estas Corazon",
+      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
         "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 250000,
       "name": "Y, \u00bfSi Fuera Ella? - + Es +",
       "url": "https://open.spotify.com/track/114xlNyBqwTIkOdrU8LajN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pies Descalzos",
-        "url": "https://open.spotify.com/album/3HLngzP9wVd8p3SMDQgyd9"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Donde Estas Corazon",
-      "url": "https://open.spotify.com/track/6IGvaQ4aFBjy66TdUurIiA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674 likes - 166 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 673 likes - 166 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 120 | [Paper Planes](https://open.spotify.com/track/3hSva4mXv3c2Cf63onTgiK) | [Pixie Lott](https://open.spotify.com/artist/3EBRANWwnViQuBrImN61Z1) | [Young Foolish Happy \(Deluxe Edition\)](https://open.spotify.com/album/1suhybVPY2Yfm71xoDgW6X) | 3:41 |
 | 121 | [Over You](https://open.spotify.com/track/4GWO6Pla2VYQ0AbY6aSVZB) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:21 |
 | 122 | [You're The Reason](https://open.spotify.com/track/0P4el0JBYiO4LQKuqZmzL9) | [Sonique](https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI) | [Born To Be Free](https://open.spotify.com/album/4CzXGZ95nDYwUolrYUfres) | 3:45 |
-| 123 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
-| 124 | [Side by Side](https://open.spotify.com/track/44dEFYNfgcTVpc5llmTRav) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:16 |
+| 123 | [Side by Side](https://open.spotify.com/track/44dEFYNfgcTVpc5llmTRav) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 4:16 |
+| 124 | [Only You](https://open.spotify.com/track/0SElZqWjPYLsOub9h4VpGK) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes \(Deluxe Edition\)](https://open.spotify.com/album/5UO8gsaqNUoFrKBBQBEoVn) | 4:11 |
 | 125 | [Play To Win](https://open.spotify.com/track/37wacPZlYHUsrXnydnovyo) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Play To Win](https://open.spotify.com/album/5i96fHRA1mi4ghwMgOliqv) | 4:20 |
 | 126 | [From Now On](https://open.spotify.com/track/7K7GpxGtqKYvywwDirV1iq) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [From Now On](https://open.spotify.com/album/1ZH8hj897xqqzJRmfDc1Ry) | 3:40 |
 | 127 | [You Make Me Feel](https://open.spotify.com/track/6f5FALKEMFyzlHtFg3cMaE) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Body Language](https://open.spotify.com/album/49Wlbfa4PgIdDpiQUqcl4d) | 4:18 |
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAu0bePhLMSX.md) - [plain]
 | 165 | [Rettungsschwimmer](https://open.spotify.com/track/20n7znKJtjth2aRVoTD3OS) | [Kinderfete](https://open.spotify.com/artist/3T6CmDs4rszGZqlL7PClxC) | [Kinderfetenhits \(Die Kinder Fetenhits\)](https://open.spotify.com/album/2DZgdqZL5j6x3JpTbV07E5) | 2:45 |
 | 166 | [Never Give Up](https://open.spotify.com/track/1nlGXptwifSiUIrInybCae) | [Jason L\. Smith](https://open.spotify.com/artist/73ynyjKxPklTyMqh11aMog) | [British Dance Invasion, Vol\. 1](https://open.spotify.com/album/23emBcbDlbBqg2sSzXpmNN) | 4:16 |
 
-Snapshot ID: `AcLhoAAAAADoZAPJ9tofLCY78ofy57la`
+Snapshot ID: `AcLnQAAAAAClTztj//EpfiM+gWlYt1Ut`

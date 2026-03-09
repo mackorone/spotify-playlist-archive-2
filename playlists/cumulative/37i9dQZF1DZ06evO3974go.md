@@ -4,7 +4,7 @@
 
 > This is Rich Homie Quan\. The essential tracks, all in one playlist.
 
-78 songs - 4 hr 35 min
+79 songs - 4 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 | 2024-09-07 |  |
 | [Risk Takers](https://open.spotify.com/track/2MamyTCQ8NxwdXDuAuleWJ) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula](https://open.spotify.com/album/5qUom4uwQJLIbmRUEgv0pa) | 2:21 | 2024-09-07 |  |
 | [Send It \- feat\. Rich Homie Quan](https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Send It \(feat\. Rich Homie Quan\)](https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L) | 3:01 | 2024-09-07 |  |
-| [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 | 2024-09-21 |  |
+| [She wit the Shit \(feat\. Rich Homie Quan\)](https://open.spotify.com/track/74VrXbBnhFTVY6lXVT64YZ) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 3:37 | 2026-03-09 |  |
+| [Song Cry](https://open.spotify.com/track/0OAKpmhof8rDnV9j91XxUl) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Song Cry](https://open.spotify.com/album/7ykcCIJqdcbmAS6GZ6xypx) | 2:49 | 2024-09-21 | 2026-03-09 |
 | [Spin](https://open.spotify.com/track/0NfuWZ3s2vWWyiNgNX9F5G) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Family & Mula \- Reloaded](https://open.spotify.com/album/3d6AohullgUBSkExjKWHf0) | 3:31 | 2024-09-08 | 2024-10-11 |
 | [Still Sinning](https://open.spotify.com/track/3Z4rJ9p17DwHieAEYE2b2F) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Still Sinning](https://open.spotify.com/album/28BLEt8xrnPe59JC2YQspa) | 2:56 | 2024-09-07 | 2025-09-26 |
 | [Stressed](https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Coma](https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd) | 3:30 | 2024-09-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 > This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,222,920 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,223,045 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 19 | [Have a Drink on Me](https://open.spotify.com/track/4dDurgTN3eGyU0ghzFJ0T1) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:59 |
 | 20 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 |
 | 21 | [Rock or Bust](https://open.spotify.com/track/2vyae4DvSU2gs8OMOGwXF2) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:03 |
-| 22 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 |
-| 23 | [Jailbreak](https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | ['74 Jailbreak](https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y) | 4:41 |
+| 22 | [Jailbreak](https://open.spotify.com/track/5UKeFkVeUfvP6S43I8s9mt) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | ['74 Jailbreak](https://open.spotify.com/album/7kkopGL8qBX9KNQu88tH2y) | 4:41 |
+| 23 | [Demon Fire](https://open.spotify.com/track/6jtUOVRO4p09Z7E35ERRL7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:30 |
 | 24 | [Shot Down in Flames](https://open.spotify.com/track/6pivm7pNF4GyBkHNGseHCS) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:22 |
 | 25 | [Rock and Roll Ain't Noise Pollution](https://open.spotify.com/track/6J17MkMmuzBiIOjRH6MOBZ) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 4:15 |
 | 26 | [Sin City](https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 49 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 50 | [The Razors Edge](https://open.spotify.com/track/4ObCns6nM6tShx5a5tHiGC) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:22 |
 
-Snapshot ID: `aaoZAAAAAACVWElhjpWJTo9AyCVVEiqF`
+Snapshot ID: `aatqgAAAAAC1M+WuHLTqR5rt3uLFHiFA`

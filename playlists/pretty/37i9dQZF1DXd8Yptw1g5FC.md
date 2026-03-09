@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Sertab Erener, Ceylan Ertem, Karsu, Selin, Sena Gül, Safiye, Öykü Dörter, Eftalya Yağcı, Chromas ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,090 likes - 134 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,089 likes - 134 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

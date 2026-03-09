@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 633949,
+  "num_followers": 633951,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADlgCPGS/4eZ230JohO7UUX",
+  "snapshot_id": "aatqgAAAAADqjhi0HPPBbSvFQylRG2k5",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF BIGBANG 2006-2014",
-        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "Baby Baby - Japanese Version",
-      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "Baby Baby - Japanese Version",
+      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Special Edition 'Still Alive'",
         "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
       },
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Ego",
-      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
-      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
+      "duration_ms": 205200,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
+        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 198880,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 244040,
       "name": "SUPER STAR - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2GrmNtTCulwxR9lk8NQBAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
-        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 198880,
-      "name": "Number 1",
-      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
     },
     {
       "added_at": null,

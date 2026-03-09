@@ -28074,7 +28074,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 240000,
       "name": "\u521d\u604b",
       "url": "https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W"
@@ -31448,6 +31448,24 @@
       "duration_ms": 245293,
       "name": "\u6625\u306f\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr"
+    },
+    {
+      "album": {
+        "name": "\u6625\u8272\u30d9\u30a4\u30d3\u30fc\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/2OAAFRsMA5IkOD5wGSxtCt"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "date_added": "2026-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247173,
+      "name": "\u6625\u8272\u30d9\u30a4\u30d3\u30fc\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5Hbb4cnIX5APVIn7Z14TqG"
     },
     {
       "album": {

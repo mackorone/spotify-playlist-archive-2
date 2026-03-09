@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,339 songs - 21 day 5 hr 52 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,341 songs - 21 day 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8347,5 +8347,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8337 | [Let Me Be With You](https://open.spotify.com/track/6htNcBR4RpiW5b6ohUk8Mx) | [ROUND TABLE featuring Nino](https://open.spotify.com/artist/3KkRgA5LEmBTfjkODZvLzG) | [APRIL](https://open.spotify.com/album/7t72sVU5CudoVwTVe91tt5) | 4:29 |
 | 8338 | [I Wish](https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 4:12 |
 | 8339 | [Midnight Rendezvous](https://open.spotify.com/track/6R2r9XlzYeHXgwKnQLAMWi) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 3:57 |
+| 8340 | [Ai Đưa Em Về](https://open.spotify.com/track/7LTdc7R99Q9sHlD3I0e10t) | [TIA](https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt), [Lê Thiện Hiếu](https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab) | [Ai Đưa Em Về](https://open.spotify.com/album/6LgVrcjpVQJv9nPJ7vGBw9) | 3:53 |
+| 8341 | [Hadal Ahbek](https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Hadal Ahbek](https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk) | 3:29 |
 
-Snapshot ID: `AAALJqENC2VgTke/5RI1R21bC/YEVodc`
+Snapshot ID: `AAALKB40RAGen7pqARXOqPuzp8XOgLYS`

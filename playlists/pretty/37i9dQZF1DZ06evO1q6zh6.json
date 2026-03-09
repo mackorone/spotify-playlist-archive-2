@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 182927,
+  "num_followers": 182944,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADCKkbksQc5lU5f1wqf45Og",
+  "snapshot_id": "aatqgAAAAACknIUf4Y9MjxGfrR3YBZCm",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Desert Plains",
-      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -367,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Machine",
-        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -376,25 +360,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 289040,
-      "name": "Between the Hammer & the Anvil",
-      "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
     },
     {
       "added_at": null,
@@ -415,6 +383,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 289040,
+      "name": "Between the Hammer & the Anvil",
+      "url": "https://open.spotify.com/track/3DfE7Ysl7H40yDbGFSuzPU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Machine",
+        "url": "https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/29KPwkhfGpRkrL57TmFbDE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Defenders Of The Faith",
         "url": "https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl"
       },
@@ -431,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Living After Midnight",
-        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 260160,
-      "name": "The Hellion / Electric Eye",
-      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
+      "duration_ms": 209453,
+      "name": "Lightning Strike",
+      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
     },
     {
       "added_at": null,
@@ -463,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Living After Midnight",
+        "url": "https://open.spotify.com/album/4eoB0NlHD1fentI8ZbXBv5"
       },
       "artists": [
         {
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 209453,
-      "name": "Lightning Strike",
-      "url": "https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d"
+      "duration_ms": 260160,
+      "name": "The Hellion / Electric Eye",
+      "url": "https://open.spotify.com/track/4LPCfppIoBx8tpW9LrLtWj"
     },
     {
       "added_at": null,

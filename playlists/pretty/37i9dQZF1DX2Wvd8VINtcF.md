@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨waterbaby✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,764 likes - 180 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,766 likes - 180 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15936,
+  "num_followers": 15938,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAqiNUNqSU5k95yzdISi++s",
+  "snapshot_id": "aatqgAAAAACztpIkMWk5MNERN2BzZw5F",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "USB002 REMIXES",
+        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
+      },
+      "artists": [
+        {
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
+        },
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "..FEISTY - Oppidan remix",
+      "url": "https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Su\u00e9ltate (From Sing 2)",
         "url": "https://open.spotify.com/album/1XVamMw0XzgCe7SStQTlai"
       },
@@ -315,30 +339,6 @@
       "duration_ms": 250722,
       "name": "LONDON (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "USB002 REMIXES",
-        "url": "https://open.spotify.com/album/5qAnms6h7rHldnpQFKIgS9"
-      },
-      "artists": [
-        {
-          "name": "Oppidan",
-          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
-        },
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "..FEISTY - Oppidan remix",
-      "url": "https://open.spotify.com/track/5beNaMT2Ffq0UQim5b7cuA"
     },
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LIGHTS OUT",
+        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 198352,
+      "name": "LIGHTS OUT",
+      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 155666,
       "name": "Labels. (ft. Moneybagg Yo, BIA)",
       "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIGHTS OUT",
-        "url": "https://open.spotify.com/album/7EvhlLz5NF0LGUn6s0ceZv"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "LIGHTS OUT",
-      "url": "https://open.spotify.com/track/4WWTcYV2tlGm7KwfPpXgLb"
     },
     {
       "added_at": null,

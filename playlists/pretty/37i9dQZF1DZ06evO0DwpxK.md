@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,107 likes - 38 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,160 likes - 38 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 4 | [Te Lo Prometo](https://open.spotify.com/track/609ItcFreOqmwRjmBbocds) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:09 |
 | 5 | [Dieznoches](https://open.spotify.com/track/3Z69GuyA1GwA14ccCXTV25) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:24 |
 | 6 | [HARRY STAMPER](https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:12 |
-| 7 | [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 |
-| 8 | [Confieso](https://open.spotify.com/track/2k4MjD7I4ddpwwZKxHrONk) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 2:58 |
+| 7 | [Confieso](https://open.spotify.com/track/2k4MjD7I4ddpwwZKxHrONk) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 2:58 |
+| 8 | [Morfina](https://open.spotify.com/track/7lYKq59aOgRnRlrjuTIvJv) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Morfina](https://open.spotify.com/album/3XA0Zax9bAGsnvMcElA16n) | 5:50 |
 | 9 | [novatos](https://open.spotify.com/track/0XwJGj1tXy2IvacjPZ3dDe) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 2:28 |
 | 10 | [50mm](https://open.spotify.com/track/3x41wi60bGPm3Zf8VWbuMF) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:03 |
 | 11 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 37 | [Amor a Primera](https://open.spotify.com/track/43X3Wbw98bSESjtMKT2Nj7) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 3:06 |
 | 38 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
 
-Snapshot ID: `aaoZAAAAAABygURQs88EKxrpC0OxBXnn`
+Snapshot ID: `aatqgAAAAACZ34KVSeEl1hMhZxw7IqTn`

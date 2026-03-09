@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,932 songs - 4 day 9 hr 11 min
+1,933 songs - 4 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [AFRAID OF LOVIN' U](https://open.spotify.com/track/0Y3tOqjb0k4vAXUZQpWkdv) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 3:35 | 2025-07-19 | 2025-07-21 |
 | [AFRAID OF LOVIN' U](https://open.spotify.com/track/2c5RGkOOsZjdB1PNQhfncD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [Tchubi](https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1) | [AFRAID OF LOVIN' U](https://open.spotify.com/album/61xDpzDzueg1ZkW3JyDesP) | 3:35 | 2025-07-20 | 2025-07-27 |
 | [Africain](https://open.spotify.com/track/2SUjVxW58Oof4jbBt8oe5c) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/0iRz9kDeFzcbXinRnk0jMh) | 3:44 | 2021-04-06 | 2021-06-16 |
-| [Africain](https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/4xZDUgshDoJP0Zprw4HuSW) | 3:44 | 2025-08-19 |  |
+| [Africain](https://open.spotify.com/track/4EGCiUo1uzML86FDbAzWYg) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Africain](https://open.spotify.com/album/4xZDUgshDoJP0Zprw4HuSW) | 3:44 | 2025-08-19 | 2026-03-09 |
 | [Africallez](https://open.spotify.com/track/7v2Mu2TdsP81OShuP8LEzw) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Jaylann](https://open.spotify.com/artist/27vSXvM0Ht2xGwRUUwpBAg), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Africallez](https://open.spotify.com/album/4MIChWzHUeszfV5CQV4Bwp) | 2:58 | 2026-01-19 | 2026-01-21 |
 | [Again \- Prototype2020](https://open.spotify.com/track/3AC9GHZudMPxEFbhks2qqP) | [Madd](https://open.spotify.com/artist/7DBIKXxSh2BMPqSN7UB4rS), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Again \(Prototype2020\)](https://open.spotify.com/album/3kMyU0f3ZcOnO4SuwG9mUz) | 2:45 | 2025-04-13 | 2025-04-17 |
 | [Aghach](https://open.spotify.com/track/6up1lIMVpkXlNZ4Es3rGhg) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:39 | 2022-05-29 | 2022-05-31 |
@@ -200,6 +200,7 @@
 | [Baby girl](https://open.spotify.com/track/5P0I7M4h0yzMaEfvrNz5Gy) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [WAKE UP, VALERIE](https://open.spotify.com/album/1FDf2AelZwZtuTq3QaLA8i) | 3:01 | 2025-12-16 | 2025-12-18 |
 | [BABY LOVA](https://open.spotify.com/track/2KKy15xRxoZXC3t7iGhlDe) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:18 | 2025-10-23 | 2025-11-04 |
 | [Baby You \- Outro](https://open.spotify.com/track/1QlFkFlQTEbFhRZfdphFgl) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Polygamie](https://open.spotify.com/album/29naWP00flAdzNNi60yohv) | 3:44 | 2022-01-29 | 2022-01-31 |
+| [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 | 2026-03-08 |  |
 | [Babylone](https://open.spotify.com/track/4G0nwnhNay1k7zJJZ0bHSs) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:34 | 2021-05-08 | 2021-06-13 |
 | [BACKD00R \(feat\. Kendrick Lamar & Jhené Aiko\)](https://open.spotify.com/track/0rNgWFQJtfttOYIHfDOHCg) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:10 | 2025-03-15 | 2025-03-18 |
 | [BackOutsideBoyz](https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:32 | 2022-11-05 | 2022-11-08 |
@@ -533,7 +534,7 @@
 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 | 2025-07-14 | 2025-07-16 |
 | [Dybala](https://open.spotify.com/track/3uGhsZ7zkD3SqOXNddVPmm) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 3:17 | 2024-06-25 | 2024-06-27 |
 | [Dynamite](https://open.spotify.com/track/4saklk6nie3yiGePpBwUoc) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/2qehskW9lYGWfYb0xPZkrS) | 3:19 | 2021-04-03 | 2021-11-23 |
-| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 |  |
+| [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 | 2022-04-02 | 2026-03-09 |
 | [Désert](https://open.spotify.com/track/1aiXeh3DcFxD0tu8TdjH8j) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [CAPITALE DU CRIME RADIO](https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k) | 3:06 | 2024-11-23 | 2024-12-28 |
 | [Désert](https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [CAPITALE DU CRIME RADIO](https://open.spotify.com/album/3GMtKNuvvpiZ6AWsvEGIxe) | 3:06 | 2024-12-27 | 2026-02-05 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
@@ -1397,7 +1398,7 @@
 | [Poney](https://open.spotify.com/track/66ku4Gq4k5xUqdVL4Oam2r) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:50 | 2025-04-13 | 2025-06-12 |
 | [POP OUT](https://open.spotify.com/track/3j3SfV4hAcR4XjCvW393Gr) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 2:41 | 2025-03-15 | 2025-03-18 |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-01 | 2024-02-11 |
-| [POPO](https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:11 | 2024-02-10 | 2026-03-04 |
+| [POPO](https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 3:11 | 2024-02-10 |  |
 | [Popular \(with Playboi Carti & Madonna\)](https://open.spotify.com/track/5xP9lQYA8YQmQh6BOxcAnR) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Popular \[From The Idol Vol\. 1 \(Music from the HBO Original Series\)\]](https://open.spotify.com/album/2i0fbrz2Fb19AVpq7vWrfm) | 3:35 | 2023-06-03 | 2023-06-05 |
 | [Porfavor](https://open.spotify.com/track/15cDIk2T5mwrn9m665Xap2) | [CHAOS333](https://open.spotify.com/artist/1vzG3duFDLlVVwWvH8pTrD) | [Porfavor](https://open.spotify.com/album/36eW5E8tOgwEXVSATUCHME) | 2:45 | 2021-07-26 | 2021-07-28 |
 | [POUFA](https://open.spotify.com/track/7MuRSU9xnerubuGi5N3z0B) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF) | [POUFA](https://open.spotify.com/album/3w9oMrzeFfETRFpKyHlmhf) | 2:31 | 2023-06-18 | 2023-07-03 |

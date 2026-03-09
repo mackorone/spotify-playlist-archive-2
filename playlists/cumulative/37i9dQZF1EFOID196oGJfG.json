@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/1I1CYjHRBFu1utJpfj4Osq"
+      },
+      "artists": [
+        {
+          "name": "Ian Harrison",
+          "url": "https://open.spotify.com/artist/5KNwR0B4tskwLbpfPtt1LG"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158991,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/7GZLygk4Du3yIEKEghYrZB"
+    },
+    {
+      "album": {
         "name": "Closure",
         "url": "https://open.spotify.com/album/6lDn8FPgegASII2XD9objP"
       },

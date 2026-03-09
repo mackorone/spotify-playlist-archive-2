@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,115 likes - 40 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,120 likes - 40 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,14 +32,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 22 | [الغربة](https://open.spotify.com/track/7HLtsXWAIbj4bvSzCh22Z2) | [جميلة سعد](https://open.spotify.com/artist/31zyGXZDfPNOIQks6nG7Ac) | [الغربة](https://open.spotify.com/album/1VsOrYmrP0gy0Qh9KZJNze) | 3:47 |
 | 23 | [احبة ربى صنعاء](https://open.spotify.com/track/4hdY4pbFcEMFA0mafgakFW) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [احبة ربى صنعاء](https://open.spotify.com/album/5nuV7bTYDBlgTukJg2aVqf) | 12:15 |
 | 24 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
-| 25 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
+| 25 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
 | 26 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
-| 27 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
+| 27 | [غني غني](https://open.spotify.com/track/5470jMcakM58nZJGutrw81) | [Ammar Alazaki](https://open.spotify.com/artist/6TLBFfFm6S2e9lAL8eDkkR) | [كلام أبيض](https://open.spotify.com/album/5BRl9OXmQmSj2R4FZE8qIE) | 4:25 |
 | 28 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
 | 29 | [بديت تخون](https://open.spotify.com/track/0MObXyHSdlisHTUUIRoGPs) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [بديت تخون](https://open.spotify.com/album/4KVWYxFQ7eBaEuwdhpo09K) | 3:05 |
-| 30 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
+| 30 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
 | 31 | [Gorbak Saeed](https://open.spotify.com/track/5Dp8du6nKtWbTQMqzYpL42) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Gorbak Saeed](https://open.spotify.com/album/0RRpkYDzURir0OaObR0nvl) | 6:59 |
-| 32 | [يابنات ارقصين](https://open.spotify.com/track/4C7VConVsTBdMdfTgiwcZf) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [زفه 1998](https://open.spotify.com/album/6jwfmfbRJctCKQPcsE4iJe) | 6:03 |
+| 32 | [يا متيم](https://open.spotify.com/track/7w7GSGMmMGFJa7jIXOkTXz) | [مروة سالم](https://open.spotify.com/artist/5T8HcA0hsPwLvdejz6NKJj) | [يا متيم \- Single](https://open.spotify.com/album/7dwA6hXAiRBvPG11tyAdwM) | 4:34 |
 | 33 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 |
 | 34 | [لمن اشكيه](https://open.spotify.com/track/2DUFxOPqKheStCqAMZOM25) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [لمن اشكيه \- Single](https://open.spotify.com/album/78f9KtgEFjvevF1eyMQKOO) | 4:50 |
 | 35 | [يا هزلي](https://open.spotify.com/track/4BVdXOwGUoSkO9HmEUwueR) | [صدام الحاج](https://open.spotify.com/artist/319JmnE2iYxjJ7t9eQNTTs) | [زفة](https://open.spotify.com/album/7jg5sVfoMzGCzRRomCC0yX) | 6:26 |

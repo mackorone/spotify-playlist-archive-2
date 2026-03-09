@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 78157,
+  "num_followers": 78208,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAMhrtVP0yYEqMG+M7pnpk3",
+  "snapshot_id": "aatqgAAAAAB594Io6mc2qYJnr3Vk9NCE",
   "tracks": [
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR (Deluxe)",
+        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Rap Niggas",
+      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be Someone: Texas Population",
         "url": "https://open.spotify.com/album/14XtPxh7Dy1qbLgIw8tYNi"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 165114,
       "name": "TexUS - Intro",
       "url": "https://open.spotify.com/track/3YH1yjX1BfDp68VeiW4jfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR (Deluxe)",
-        "url": "https://open.spotify.com/album/7GRLkZUNmRNsplRsUsCPop"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 164746,
-      "name": "Rap Niggas",
-      "url": "https://open.spotify.com/track/5N07BHxtukdhyjLDrGfo9P"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling Like Dennis",
-        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 161748,
-      "name": "Feeling Like Dennis",
-      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I've Tried Everything But Therapy (Complete Edition)",
         "url": "https://open.spotify.com/album/6LF3BvWhKsiGgiG1yymOZT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 163314,
       "name": "All Gas No Brakes (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/0PdMFKW7gIrXHzFsaFtrEG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling Like Dennis",
+        "url": "https://open.spotify.com/album/2bgIZirxXFHBmji9MeX8Lt"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 161748,
+      "name": "Feeling Like Dennis",
+      "url": "https://open.spotify.com/track/4uf7osy1qeGgYkft0Bbtoa"
     },
     {
       "added_at": null,

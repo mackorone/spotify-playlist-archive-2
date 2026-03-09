@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4MkRES9UEFwJnvM571eiWt">Gloria Trevi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495 likes - 79 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496 likes - 79 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 58 | [Perfume](https://open.spotify.com/track/35jmQJNmRDUeu0eksdjJQh) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:08 |
 | 59 | [Jack el Reprobador](https://open.spotify.com/track/64TA9g90KKv6iFkqNQSWzR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Angel De La Guarda](https://open.spotify.com/album/4CdCwTNFcMTxVt7ugotlkL) | 3:09 |
 | 60 | [Puede Ser Amor](https://open.spotify.com/track/4FrlpHVNDoCJGwlwlh3SUa) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:17 |
-| 61 | [El Juico](https://open.spotify.com/track/2kc9JMPqsL9yRUgOHFzLqs) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:37 |
-| 62 | [Para Querer Como Te Quiero](https://open.spotify.com/track/0fXMkVHE6cCAwH2Ydyy9g9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:43 |
+| 61 | [Para Querer Como Te Quiero](https://open.spotify.com/track/0fXMkVHE6cCAwH2Ydyy9g9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:43 |
+| 62 | [El Juico](https://open.spotify.com/track/2kc9JMPqsL9yRUgOHFzLqs) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Mas Turbada Que Nunca](https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh) | 3:37 |
 | 63 | [Soy Lo Que Soy](https://open.spotify.com/track/0neDKfG6Ed41pLCo5sXlGR) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:19 |
 | 64 | [Sobrenatural](https://open.spotify.com/track/6K1DkPu4xY6HgU3BjSE0Z9) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:37 |
 | 65 | [Justo Como Eres](https://open.spotify.com/track/4O1vBYojzLm4m4FE3yBtxT) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:16 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 68 | [El Domador](https://open.spotify.com/track/6zGvZPYB3t8WshxZXt8khU) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Como Nace El Universo](https://open.spotify.com/album/0NRY0pYDpVoxZWF4s3E2en) | 3:12 |
 | 69 | [Sangre Caliente](https://open.spotify.com/track/4Ahb8pHikM592BOohncT42) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:12 |
 | 70 | [Punto G](https://open.spotify.com/track/5mySwJzWiPvld6hk2P9eYH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria En Vivo \(Deluxe Edition\)](https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR) | 2:52 |
-| 71 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
-| 72 | [Mientras Tú Te Ríes De Mí](https://open.spotify.com/track/0AuOIERhUuSeYulqFQuyoz) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:21 |
+| 71 | [Mientras Tú Te Ríes De Mí](https://open.spotify.com/track/0AuOIERhUuSeYulqFQuyoz) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:21 |
+| 72 | [Cambio Y Fuera](https://open.spotify.com/track/0iWPjh1wwsIc6wwmFbeHgC) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria](https://open.spotify.com/album/0CCHj2OM6S07f1enlQDtDK) | 3:31 |
 | 73 | [No Estás Sola](https://open.spotify.com/track/1PtMFaz1eJQ9HbjC32qSvu) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Vuelo](https://open.spotify.com/album/3AqXBCmOIQJebXPf3H5p86) | 3:13 |
 | 74 | [Autoerótica](https://open.spotify.com/track/09rt2KQeRT2GlHZ6MDjvvy) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Gloria En Vivo \(Deluxe Edition\)](https://open.spotify.com/album/7uwbztQaWdoOJgF6lUtSTR) | 3:36 |
 | 75 | [Tu Regalo Soy Yo](https://open.spotify.com/track/7gMNX7kVoKFlAzB5Dp2FBZ) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 2:36 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOrrk2jG75Lb.md) - [plain]
 | 78 | [Mi Navidá \(Pa Pedirte A Ti\)](https://open.spotify.com/track/5tcxo91GPmSVgMEw8r0TzB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:02 |
 | 79 | [Un Ángel De Dios \(Aleluya\)](https://open.spotify.com/track/5Q02SSgigCQRCysAyDto0J) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Tu Regalo Soy Yo](https://open.spotify.com/album/2ziDjUZdlpA0l6CGTJE5LX) | 3:36 |
 
-Snapshot ID: `AcLhvgAAAAA0B/rTPZFJAN4G7ONNXB0z`
+Snapshot ID: `AcLnIgAAAADiKSv/TL+B9Lml5zHqmfKT`

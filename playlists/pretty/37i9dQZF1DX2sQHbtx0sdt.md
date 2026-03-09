@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,866 likes - 85 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,974 likes - 85 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

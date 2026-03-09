@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2795896,
+  "num_followers": 2795956,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD/zzaFp9p4DizPR9+Wa6LN",
+  "snapshot_id": "aatqgAAAAAAp4WHM91fhctdwzJgfbUwY",
   "tracks": [
     {
       "added_at": null,
@@ -819,6 +819,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 257699,
+      "name": "LEVII'S JEANS",
+      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 204952,
+      "name": "Too Cool To Die",
+      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 201961,
+      "name": "Ain\u2019t How It Ends",
+      "url": "https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) [REMIX]",
         "url": "https://open.spotify.com/album/7kXQ0AvaykUJMxR0gRfr4d"
       },
@@ -843,58 +895,6 @@
       "duration_ms": 214254,
       "name": "Homemade Dynamite (Feat. Khalid, Post Malone & SZA) - REMIX",
       "url": "https://open.spotify.com/track/7rdUtXasA973gmrr2Xxh3E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 204952,
-      "name": "Too Cool To Die",
-      "url": "https://open.spotify.com/track/3FtQes77xlbS9QTVts7p2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 257699,
-      "name": "LEVII'S JEANS",
-      "url": "https://open.spotify.com/track/2UDARQiksl207HcSduDpov"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 201961,
-      "name": "Ain\u2019t How It Ends",
-      "url": "https://open.spotify.com/track/4ApqBh1Xnrpwx6EbhoUPgq"
     },
     {
       "added_at": null,

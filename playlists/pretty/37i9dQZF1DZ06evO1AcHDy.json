@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAA4AeKq5t/veRZfjlGJIquK",
+  "snapshot_id": "aatqgAAAAAD/loJFYK4FBjo4a76Xw2Tw",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 227037,
-      "name": "Ordinary Superstar",
-      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kiss Me (feat. Rina Sawayama)",
         "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
       },
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold The Girl (Bonus Edition)",
-        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 153466,
-      "name": "Flavour Of The Month",
-      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
     },
     {
       "added_at": null,
@@ -519,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINA",
-        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
       },
       "artists": [
         {
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205573,
-      "name": "Take Me as I Am",
-      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
       "duration_ms": 333880,
       "name": "Enter Sandman",
       "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
     },
     {
       "added_at": null,

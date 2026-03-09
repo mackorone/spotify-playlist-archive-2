@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 235299,
+  "num_followers": 235326,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAbRuCxmlTe6iUtXtVNH5NJ",
+  "snapshot_id": "aatqgAAAAACBK+t0VlU7ExQa93DrborR",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Detras Del Miedo",
-        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         },
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 163826,
-      "name": "Tumbate El Rollo",
-      "url": "https://open.spotify.com/track/1fM31qJbLZQNH1B0OADDqx"
+      "duration_ms": 180436,
+      "name": "Le Pas\u00e9 a la Plebe",
+      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
     },
     {
       "added_at": null,
@@ -779,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como en los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+        "name": "Detras Del Miedo",
+        "url": "https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
           "name": "El Komander",
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         }
       ],
-      "duration_ms": 180436,
-      "name": "Le Pas\u00e9 a la Plebe",
-      "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+      "duration_ms": 163826,
+      "name": "Tumbate El Rollo",
+      "url": "https://open.spotify.com/track/1fM31qJbLZQNH1B0OADDqx"
     },
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Corrido De Everardo (En Vivo)",
-        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "El Corrido De Everardo (En Vivo)",
-      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 229013,
       "name": "Carteles Unidos",
       "url": "https://open.spotify.com/track/5s1jaW59HgyU9RSv1z3UNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo (En Vivo)",
+      "url": "https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87"
     },
     {
       "added_at": null,

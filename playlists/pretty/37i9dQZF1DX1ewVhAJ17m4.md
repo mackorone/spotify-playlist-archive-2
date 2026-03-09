@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,282 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,301 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 63 | [Dystopia](https://open.spotify.com/track/4kHAsfbvQDYhrF3GzVkH9J) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Dystopia](https://open.spotify.com/album/61v3eLYnSNbrXbZeOT3fcu) | 3:09 |
 | 64 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 |
 | 65 | [every little thing](https://open.spotify.com/track/5YTjpBWmHCtSDu7tQ4jsf1) | [senses](https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB) | [every little thing](https://open.spotify.com/album/5ZxAdcIzXnwa2peHJh3OFU) | 3:07 |
-| 66 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
-| 67 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 |
-| 68 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
+| 66 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 |
+| 67 | [Pick Your Poison](https://open.spotify.com/track/2wJSA9ujmuRvfnBq0dlokx) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Pick Your Poison](https://open.spotify.com/album/0UUc2qq43lHwDaRIy4y4zA) | 2:39 |
+| 68 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
 | 69 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0htUcqJJfwYWFhb4W8T7M2) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [Burst & Decay \(Volume III\)](https://open.spotify.com/album/11W6aNHzzqbf5McbVF9eex) | 3:53 |
 | 70 | [she'll come around](https://open.spotify.com/track/0y5IM1HBP2gsRFzICg9xhx) | [PRETTY BLEAK](https://open.spotify.com/artist/6x0YBTahRdiFIVlZt9ilLx) | [an introduction to a theme](https://open.spotify.com/album/4Z5B9b6wLABU9qbpHIbiCB) | 3:48 |
 | 71 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |

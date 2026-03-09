@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Anna with the Silver Arrow",
+        "url": "https://open.spotify.com/album/0OqErnPXI4h32uo7xh59j8"
+      },
+      "artists": [
+        {
+          "name": "Ellie O'Neill",
+          "url": "https://open.spotify.com/artist/7FCg4FGsuJfM2o6aE83UHw"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224234,
+      "name": "Anna with the Silver Arrow",
+      "url": "https://open.spotify.com/track/3fDuCJ6BSgPkoPni8rvpei"
+    },
+    {
+      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/1dyDN4uEs4wES4R314WnLo"
       },
@@ -2229,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/7hB4iSq2vdaVMJ5esXxe6t"
+      },
+      "artists": [
+        {
+          "name": "Bella White",
+          "url": "https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275974,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/4rtDHsmEdYnQ90V0LLAOtD"
+    },
+    {
+      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -2427,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Everyone Around Me Dancing",
+        "url": "https://open.spotify.com/album/0tJnP3ZtJfH3wObknhOhjW"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185955,
+      "name": "Everyone Around Me Dancing",
+      "url": "https://open.spotify.com/track/4zAGDYOy1IXm2EX2QhJFWp"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 205384,
       "name": "Faeries",
       "url": "https://open.spotify.com/track/7vrvRfRl59esYrrL6Rg9Z8"
@@ -3240,6 +3294,24 @@
       "duration_ms": 125293,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4Y6TcrxjWUEa4GzSl8z65a"
+    },
+    {
+      "album": {
+        "name": "Parallelograms",
+        "url": "https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo"
+      },
+      "artists": [
+        {
+          "name": "Linda Perhacs",
+          "url": "https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157346,
+      "name": "Hey, Who Really Cares",
+      "url": "https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2"
     },
     {
       "album": {
@@ -4643,6 +4715,24 @@
     },
     {
       "album": {
+        "name": "Man's World",
+        "url": "https://open.spotify.com/album/7xDsxa6yIrJVBGk8XaNKrD"
+      },
+      "artists": [
+        {
+          "name": "Cat Clyde",
+          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162290,
+      "name": "Man's World",
+      "url": "https://open.spotify.com/track/1RmMogpswOSC96lpdeXIxU"
+    },
+    {
+      "album": {
         "name": "Ditch Lilies",
         "url": "https://open.spotify.com/album/2BwDEMJIAwvFw9JzsSnga4"
       },
@@ -4690,7 +4780,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 234306,
       "name": "May Your Kindness Remain",
       "url": "https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG"
@@ -5167,6 +5257,42 @@
     },
     {
       "album": {
+        "name": "Old Holy Feeling",
+        "url": "https://open.spotify.com/album/2qXHmWN4ykdP4lRWy7cOoj"
+      },
+      "artists": [
+        {
+          "name": "Josephine Illingworth",
+          "url": "https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306852,
+      "name": "Old Holy Feeling",
+      "url": "https://open.spotify.com/track/1neisUi9QEwdYf8drrM7ls"
+    },
+    {
+      "album": {
+        "name": "One Stop",
+        "url": "https://open.spotify.com/album/14XF8pdRSeyOI0MUbIpXAE"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "One Stop",
+      "url": "https://open.spotify.com/track/3VsRmRzYpLv4YpjSwbeP8J"
+    },
+    {
+      "album": {
         "name": "Beyond That",
         "url": "https://open.spotify.com/album/1o2Wviea1r6Y4YOJvJwG69"
       },
@@ -5430,7 +5556,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 273150,
       "name": "Plain Letters - Reimagined",
       "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
@@ -5452,7 +5578,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 209880,
       "name": "Playing Old Games",
       "url": "https://open.spotify.com/track/1LBAyPeZeEy6Q3UqNZoEN1"
@@ -5572,7 +5698,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 158973,
       "name": "Pretty Bird (feat. Linda Ronstadt)",
       "url": "https://open.spotify.com/track/6aViDQHPdw0UUYDGIKV8k1"
@@ -5996,7 +6122,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 230615,
       "name": "Safe",
       "url": "https://open.spotify.com/track/1X2NJ47sVg5ehgaPpukYqx"
@@ -6854,7 +6980,7 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 225484,
       "name": "The Wave",
       "url": "https://open.spotify.com/track/71Cqtvc1JltT8qRnnDd0RY"
@@ -7369,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/4FnT4jNQkFwDtHbmWz6laY"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192144,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/3XMl69GS63VxoSOO6Nxord"
+    },
+    {
+      "album": {
         "name": "Want",
         "url": "https://open.spotify.com/album/4fsOql8FCbElE7nnkR0ZXW"
       },
@@ -7848,7 +7992,7 @@
       ],
       "date_added": "2021-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 202506,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/37qKqyFLGmIM46OlQYLQpe"

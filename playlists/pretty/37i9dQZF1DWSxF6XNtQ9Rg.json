@@ -1,6 +1,6 @@
 {
-  "description": "Solo hit rap da ascoltare in loop. Cover: Fabri Fibra",
-  "num_followers": 246341,
+  "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
+  "num_followers": 246407,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -243,18 +243,26 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+        "name": "La Divina Commedia",
+        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
       },
       "artists": [
         {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+      "duration_ms": 162412,
+      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
+      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -295,26 +303,18 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "La Divina Commedia",
-        "url": "https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl"
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
           "name": "Baby Gang",
           "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 162412,
-      "name": "Paradiso Artificiale (feat. Baby Gang & Kid Yugi)",
-      "url": "https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE"
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -375,26 +375,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        },
-        {
-          "name": "Ben\u00e9",
-          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
-        }
-      ],
-      "duration_ms": 212284,
-      "name": "Lei (feat. Ben\u00e9)",
-      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "Quarto di Bue",
         "url": "https://open.spotify.com/album/7LAZxfodTzgKt3qwGqgCMf"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 144992,
       "name": "Porto il Commerciale (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/6MQYhSIrh9vwztmM6mwkzQ"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "duration_ms": 212284,
+      "name": "Lei (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "LA BELLAVITA",
-        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
-      },
-      "artists": [
-        {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        }
-      ],
-      "duration_ms": 176996,
-      "name": "FW/SS25 (Freestyle)",
-      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "I Nomi del Diavolo",
         "url": "https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 160496,
       "name": "Eva (feat. Tedua)",
       "url": "https://open.spotify.com/track/29nqe5lhK8JmNcVXum7UuA"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "LA BELLAVITA",
+        "url": "https://open.spotify.com/album/2NBjD7HfilmlALNet5aPFH"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 176996,
+      "name": "FW/SS25 (Freestyle)",
+      "url": "https://open.spotify.com/track/1mErhpOIVgy2JPLO7KlI60"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "ASTRO DELUXE",
-        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
-      },
-      "artists": [
-        {
-          "name": "Astro",
-          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
-        }
-      ],
-      "duration_ms": 159999,
-      "name": "M A Y B A C H",
-      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "20",
         "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 185146,
       "name": "Tesla (feat. Sfera Ebbasta & DrefGold)",
       "url": "https://open.spotify.com/track/093RgZ7RXHZwIrxZhZYX4Q"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "ASTRO DELUXE",
+        "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
+      },
+      "artists": [
+        {
+          "name": "Astro",
+          "url": "https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq"
+        }
+      ],
+      "duration_ms": 159999,
+      "name": "M A Y B A C H",
+      "url": "https://open.spotify.com/track/6PsvhJZhALSH3iVWXhFxvD"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -775,22 +775,18 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "NON SONO GES\u00d9",
-        "url": "https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP"
+        "name": "20",
+        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
       },
       "artists": [
         {
-          "name": "RRARI DAL TACCO",
-          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
-        },
-        {
-          "name": "Kid Yugi",
-          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
         }
       ],
-      "duration_ms": 159840,
-      "name": "BIANCA (feat. Kid Yugi)",
-      "url": "https://open.spotify.com/track/5SnMK1oThJv22NFumoKVw4"
+      "duration_ms": 221973,
+      "name": "Giovane fuoriclasse",
+      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -815,18 +811,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw"
+        "name": "NON SONO GES\u00d9",
+        "url": "https://open.spotify.com/album/7vBfg8AHLReQkqXuItmxFP"
       },
       "artists": [
         {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 221973,
-      "name": "Giovane fuoriclasse",
-      "url": "https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc"
+      "duration_ms": 159840,
+      "name": "BIANCA (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/5SnMK1oThJv22NFumoKVw4"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -871,18 +871,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Suicidol",
-        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
       },
       "artists": [
         {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         }
       ],
-      "duration_ms": 349560,
-      "name": "Pleasantville",
-      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
+      "duration_ms": 189015,
+      "name": "ANELLI E COLLANE (feat. ANNA)",
+      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -907,22 +911,18 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "ASPETTANDO LA BELLA VITA",
-        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+        "name": "Suicidol",
+        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
         }
       ],
-      "duration_ms": 189015,
-      "name": "ANELLI E COLLANE (feat. ANNA)",
-      "url": "https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b"
+      "duration_ms": 349560,
+      "name": "Pleasantville",
+      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
+        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 205188,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "SIRIO",
         "url": "https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 188564,
       "name": "PANICO (feat. Takagi & Ketra)",
       "url": "https://open.spotify.com/track/0SsUOrXUM2gZxVLYizZfQZ"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "Non Siamo Pi\u00f9 Quelli Di Mi Fist",
-        "url": "https://open.spotify.com/album/0s2xs0ue5T9aA16k3Xc5un"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 205188,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/6Iyc8ShbNrYHWsCkgvd922"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "Club Dogo",
+        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
+      },
+      "artists": [
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        },
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 226732,
+      "name": "Nato Per Questo (feat. Marracash)",
+      "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "Mafia Slime 2",
         "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 129795,
       "name": "Tip Tap",
       "url": "https://open.spotify.com/track/1u9C89v58yfZkMgFe7rBS1"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "Club Dogo",
-        "url": "https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy"
-      },
-      "artists": [
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        },
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 226732,
-      "name": "Nato Per Questo (feat. Marracash)",
-      "url": "https://open.spotify.com/track/2orGI5VXRF4uplYVuvdRyU"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "Cara Italia",
+        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 244324,
+      "name": "Cara Italia",
+      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "Cara Italia",
-        "url": "https://open.spotify.com/album/3E3S8FQudapOj9Mpxc5v3N"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 244324,
-      "name": "Cara Italia",
-      "url": "https://open.spotify.com/track/3atDsUhlUgDlQQrI0XFh7I"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "QVC8 \u2013 Singles",
-        "url": "https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 136118,
-      "name": "Toradol",
-      "url": "https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr"
       },
@@ -1831,22 +1815,34 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Mowgli",
-        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
+        "name": "QVC8 \u2013 Singles",
+        "url": "https://open.spotify.com/album/53pRU3cH2Xsk7L9j6MFFcj"
       },
       "artists": [
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        },
-        {
-          "name": "Chris Nolan",
-          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 203040,
-      "name": "Vertigini",
-      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
+      "duration_ms": 136118,
+      "name": "Toradol",
+      "url": "https://open.spotify.com/track/3Rmv3h4ovgt9xVgWOfMlLx"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "00",
+        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        }
+      ],
+      "duration_ms": 134347,
+      "name": "00",
+      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1871,18 +1867,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "00",
-        "url": "https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy"
+        "name": "Mowgli",
+        "url": "https://open.spotify.com/album/2F4YVNFy52kTEGDXdeYiZX"
       },
       "artists": [
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Chris Nolan",
+          "url": "https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh"
         }
       ],
-      "duration_ms": 134347,
-      "name": "00",
-      "url": "https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W"
+      "duration_ms": 203040,
+      "name": "Vertigini",
+      "url": "https://open.spotify.com/track/1Oou7m2VuxCDSOdqsu07TU"
     },
     {
       "added_at": "2025-11-20 13:34:18",

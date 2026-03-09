@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483758,
+  "num_followers": 483776,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "What's Next",
-        "url": "https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj"
-      },
-      "artists": [
-        {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
-        }
-      ],
-      "duration_ms": 158085,
-      "name": "What's Next",
-      "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Pennied Days",
         "url": "https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 183030,
       "name": "Ballad of the Texas King",
       "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "What's Next",
+        "url": "https://open.spotify.com/album/1lowgh5rAXOT26cMX6NXaj"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 158085,
+      "name": "What's Next",
+      "url": "https://open.spotify.com/track/204AwF6xWxX2OakSgEyICI"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Down In Heaven",
-        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
-      },
-      "artists": [
-        {
-          "name": "Twin Peaks",
-          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
-        }
-      ],
-      "duration_ms": 213426,
-      "name": "Walk To The One You Love",
-      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
         "name": "Sweet Tooth",
         "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
       },
@@ -939,18 +923,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Dear Grandpa",
-        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+        "name": "Down In Heaven",
+        "url": "https://open.spotify.com/album/5FfhKbBs5wilm53muL9kT5"
       },
       "artists": [
         {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+          "name": "Twin Peaks",
+          "url": "https://open.spotify.com/artist/1xD85sp0kecIVuMwUHShxs"
         }
       ],
-      "duration_ms": 178501,
-      "name": "Dear Grandpa",
-      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
+      "duration_ms": 213426,
+      "name": "Walk To The One You Love",
+      "url": "https://open.spotify.com/track/3EaiU22oIVojTzAjq3ZkKY"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -967,6 +951,22 @@
       "duration_ms": 215000,
       "name": "Bangkok",
       "url": "https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Dear Grandpa",
+        "url": "https://open.spotify.com/album/6Oxnod1lXbclb2DaCxUCP3"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 178501,
+      "name": "Dear Grandpa",
+      "url": "https://open.spotify.com/track/0DaamS0punYAGkjmczFPWE"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2026-01-23 05:00:19",
       "album": {
-        "name": "Middleman / Do The Sloth",
-        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+        "name": "Can You See The Sunshine? (EP)",
+        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
       },
       "artists": [
         {
-          "name": "Straight Arrows",
-          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+          "name": "Gerf",
+          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
         }
       ],
-      "duration_ms": 143947,
-      "name": "Middleman",
-      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
+      "duration_ms": 205376,
+      "name": "Couch Sex",
+      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1095,22 +1095,6 @@
       "duration_ms": 182186,
       "name": "Stargazer",
       "url": "https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1"
-    },
-    {
-      "added_at": "2026-01-23 05:00:19",
-      "album": {
-        "name": "Can You See The Sunshine? (EP)",
-        "url": "https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC"
-      },
-      "artists": [
-        {
-          "name": "Gerf",
-          "url": "https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB"
-        }
-      ],
-      "duration_ms": 205376,
-      "name": "Couch Sex",
-      "url": "https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU"
     },
     {
       "added_at": "2026-01-23 05:00:19",
@@ -1143,6 +1127,22 @@
       "duration_ms": 275962,
       "name": "Peace In Me",
       "url": "https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH"
+    },
+    {
+      "added_at": "2026-01-23 05:00:19",
+      "album": {
+        "name": "Middleman / Do The Sloth",
+        "url": "https://open.spotify.com/album/3e6CnNkVhZoVFNUASCmFRl"
+      },
+      "artists": [
+        {
+          "name": "Straight Arrows",
+          "url": "https://open.spotify.com/artist/26z3WWkBQxxvG8jRbFdL3N"
+        }
+      ],
+      "duration_ms": 143947,
+      "name": "Middleman",
+      "url": "https://open.spotify.com/track/4dqWPuDUgq2LNNUQRaf2JX"
     },
     {
       "added_at": "2026-01-23 05:00:19",

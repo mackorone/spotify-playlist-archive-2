@@ -3505,6 +3505,28 @@
     },
     {
       "album": {
+        "name": "HELP(2)",
+        "url": "https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        },
+        {
+          "name": "War Child Records",
+          "url": "https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147643,
+      "name": "Don't Fight the Young",
+      "url": "https://open.spotify.com/track/0c5rkpUD7WOQtAGX3yCDR6"
+    },
+    {
+      "album": {
         "name": "Paris / San Francisco",
         "url": "https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw"
       },
@@ -9108,7 +9130,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 159471,
       "name": "monty (\uff3e\u1d25\uff3e)",
       "url": "https://open.spotify.com/track/0EFMiBoeQrnAdvjIoTLF9L"

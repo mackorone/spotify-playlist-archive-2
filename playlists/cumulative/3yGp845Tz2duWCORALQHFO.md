@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-4,996 songs - 11 day 9 hr 9 min
+4,997 songs - 11 day 9 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-02-21 | 2025-03-01 |
 | [About Us](https://open.spotify.com/track/4pjAoBxoeupegffiy41ayk) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Roman Kyn](https://open.spotify.com/artist/6Jb59eK1JvJ0i5EJSQH9oX) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 3:40 | 2025-09-05 | 2025-09-13 |
 | [About You \- Edit](https://open.spotify.com/track/4MRwMvGU5KvvrQiOb5murq) | [Pleasurekraft](https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4), [Atroxx](https://open.spotify.com/artist/5xUFaih4LPL1He9jDdvqTw) | [About You](https://open.spotify.com/album/1Td7IyVhO6F2mTJREw44ix) | 3:42 | 2024-09-10 | 2024-09-14 |
+| [Above The Sky](https://open.spotify.com/track/1jbVB9IEqvvF8fJ2rQvwP6) | [Domestique](https://open.spotify.com/artist/6hOUe5iEVbbezCH4n6uiYR) | [Above The Sky](https://open.spotify.com/album/3FswxKuzz32i2vLUZOlYo5) | 3:46 | 2026-03-08 |  |
 | [Above the Waves](https://open.spotify.com/track/3VhSebtAz6YmQusTQJO64B) | [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Above the Waves](https://open.spotify.com/album/3hF3bqDuoz0DRF43CnvZTs) | 2:18 | 2024-11-08 | 2024-11-16 |
 | [Abracadabra](https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Abracadabra](https://open.spotify.com/album/2I6LyArz82waG94e9V5B9d) | 3:43 | 2025-02-07 | 2025-02-14 |
 | [Acercate](https://open.spotify.com/track/6A39XvwPwJg7ywLY1pypDF) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [DAN:ROS](https://open.spotify.com/artist/1gYh0cCpelAaq4i7Q6pIKa), [Polina Grace](https://open.spotify.com/artist/1NHTQwuk3e6uBGMd4V74ug) | [Acercate](https://open.spotify.com/album/1dCB2uEiu310OoXj3JNqoo) | 3:16 | 2024-11-15 | 2024-11-23 |

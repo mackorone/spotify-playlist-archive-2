@@ -1,6 +1,6 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 222817,
+  "num_followers": 222882,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "1977",
+        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
+      },
+      "artists": [
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
+        }
+      ],
+      "duration_ms": 201986,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Techymuv",
         "url": "https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
-      },
-      "artists": [
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 201986,
-      "name": "1977",
-      "url": "https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "Mis Disculpas",
-        "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        }
-      ],
-      "duration_ms": 488470,
-      "name": "Mis Disculpas",
-      "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 159007,
       "name": "Duele",
       "url": "https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "Mis Disculpas",
+        "url": "https://open.spotify.com/album/3jz6pAlfyF4gC9vjRf4RkB"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        }
+      ],
+      "duration_ms": 488470,
+      "name": "Mis Disculpas",
+      "url": "https://open.spotify.com/track/6g9pbZC0f40ZmHgq8xsAn6"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "R\u00e9plica",
-        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
-      },
-      "artists": [
-        {
-          "name": "Akapellah",
-          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
-        }
-      ],
-      "duration_ms": 305454,
-      "name": "R\u00e9plica",
-      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "Donde Duele Inspira (Versi\u00f3n Jazz)",
         "url": "https://open.spotify.com/album/3QExWqCE0QmknS05vj59QL"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 438706,
       "name": "Por Amor al Odio (Versi\u00f3n Jazz)",
       "url": "https://open.spotify.com/track/48MRnIDd36Zp5XxFgYfEHg"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "R\u00e9plica",
+        "url": "https://open.spotify.com/album/7KedZwrAd3jMUVSaABZ8we"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "duration_ms": 305454,
+      "name": "R\u00e9plica",
+      "url": "https://open.spotify.com/track/6IdntUPJ9UEPoZAKjflXCi"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Alma Coraz\u00f3n Y Vida",
+        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
+      },
+      "artists": [
+        {
+          "name": "Norick",
+          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
+        }
+      ],
+      "duration_ms": 307253,
+      "name": "Mi Mejor Inspiraci\u00f3n",
+      "url": "https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "No Tengo Nada",
         "url": "https://open.spotify.com/album/7FtIIzaOyejGnp3DIpSo90"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 217913,
       "name": "No Tengo Nada",
       "url": "https://open.spotify.com/track/2eiebMTYM93kUajQdIMZOS"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Alma Coraz\u00f3n Y Vida",
-        "url": "https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE"
-      },
-      "artists": [
-        {
-          "name": "Norick",
-          "url": "https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Mi Mejor Inspiraci\u00f3n",
-      "url": "https://open.spotify.com/track/5RlwAz1LZDNqTF8OLEXAPO"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "Lo Necesario",
+        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
+      },
+      "artists": [
+        {
+          "name": "Apache",
+          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
+        }
+      ],
+      "duration_ms": 193330,
+      "name": "Pasame la Yesca",
+      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Residente o Visitante",
         "url": "https://open.spotify.com/album/1Tng1uGqDjFgs6n4Ud25fH"
       },
@@ -1563,22 +1579,6 @@
       "duration_ms": 270493,
       "name": "Mala Suerta con el 13 (feat. La Mala Rodr\u00edguez)",
       "url": "https://open.spotify.com/track/6TB7BAFTmpkFNPpmhvqIxC"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Lo Necesario",
-        "url": "https://open.spotify.com/album/2mIPkXzjjJvU8aYLqMfReY"
-      },
-      "artists": [
-        {
-          "name": "Apache",
-          "url": "https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY"
-        }
-      ],
-      "duration_ms": 193330,
-      "name": "Pasame la Yesca",
-      "url": "https://open.spotify.com/track/36ZITjKAlyKUE6EnvXsL8W"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "1 2 3",
-        "url": "https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe"
-      },
-      "artists": [
-        {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
-        }
-      ],
-      "duration_ms": 124891,
-      "name": "1 2 3",
-      "url": "https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
         "name": "In Tha House",
         "url": "https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 299613,
       "name": "Arenita Playita (feat. Eska)",
       "url": "https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
+        "name": "1 2 3",
+        "url": "https://open.spotify.com/album/08yuDkQCjkqFdNbhQIfaIe"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "duration_ms": 124891,
+      "name": "1 2 3",
+      "url": "https://open.spotify.com/track/13t9ykBxwHHUYBcerRFFsQ"
     },
     {
       "added_at": "2024-07-12 18:46:41",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
+        "name": "R\u00e9quiem",
+        "url": "https://open.spotify.com/album/4nyQxMhfZR041xn8R16L1R"
+      },
+      "artists": [
+        {
+          "name": "Akil Ammar",
+          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "La Vida Es",
+      "url": "https://open.spotify.com/track/4YymmqRZz37xUB42rLsb1P"
+    },
+    {
+      "added_at": "2024-07-12 18:46:41",
+      "album": {
         "name": "Una Isla en los Andes",
         "url": "https://open.spotify.com/album/6arO0VYPhGnJmf2oPVX6nD"
       },
@@ -1831,34 +1847,18 @@
     {
       "added_at": "2024-07-12 18:46:41",
       "album": {
-        "name": "R\u00e9quiem",
-        "url": "https://open.spotify.com/album/4nyQxMhfZR041xn8R16L1R"
+        "name": "Versus",
+        "url": "https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g"
       },
       "artists": [
         {
-          "name": "Akil Ammar",
-          "url": "https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr"
+          "name": "Illya Kuryaki & The Valderramas",
+          "url": "https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg"
         }
       ],
-      "duration_ms": 238733,
-      "name": "La Vida Es",
-      "url": "https://open.spotify.com/track/4YymmqRZz37xUB42rLsb1P"
-    },
-    {
-      "added_at": "2024-07-12 18:46:41",
-      "album": {
-        "name": "Real",
-        "url": "https://open.spotify.com/album/5if6wXKwPFKHXfjA1TlkD5"
-      },
-      "artists": [
-        {
-          "name": "La Etnnia",
-          "url": "https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H"
-        }
-      ],
-      "duration_ms": 252666,
-      "name": "Real",
-      "url": "https://open.spotify.com/track/6vmMbjKjcFWxE4eJvneNdQ"
+      "duration_ms": 313826,
+      "name": "Expedici\u00f3n Al Klama Hama",
+      "url": "https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

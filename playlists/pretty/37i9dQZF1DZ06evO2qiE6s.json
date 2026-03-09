@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 127948,
+  "num_followers": 127959,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABswVw3hWLYMvZPD7wGgQRq",
+  "snapshot_id": "aatqgAAAAACDh89lQRVrhyA/b2EsfDjQ",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 183560,
-      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
-      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
+      "duration_ms": 141920,
+      "name": "Buona Sera - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 141920,
-      "name": "Buona Sera - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/3G3sjrRx3BwAkuqYbLDHEk"
+      "duration_ms": 183560,
+      "name": "When You're Smiling (The Whole World Smiles With You) - Digitally Remastered 97",
+      "url": "https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 171600,
-      "name": "Hit The Road To Dreamland",
-      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
+      "duration_ms": 145173,
+      "name": "Innamorata (Sweetheart) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "At The Movies",
-        "url": "https://open.spotify.com/album/1RBtf2WFlp9BxQrsbeO3I2"
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 145173,
-      "name": "Innamorata (Sweetheart) - Remastered 1998",
-      "url": "https://open.spotify.com/track/0dGbCGeiRDAbFXwGJPZP7m"
+      "duration_ms": 171600,
+      "name": "Hit The Road To Dreamland",
+      "url": "https://open.spotify.com/track/42bFdw8VS4bu57F2pNmEeh"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Goodnight Sweetheart",
-      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dean Martin TV Show",
         "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 135946,
       "name": "The One I Love (Belongs to Somebody Else)",
       "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Goodnight Sweetheart",
+      "url": "https://open.spotify.com/track/455eJSxXbR1NVNucLVXayS"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
       },
       "artists": [
         {
@@ -652,9 +652,25 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 157600,
-      "name": "Hey Brother, Pour The Wine",
-      "url": "https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg"
+      "duration_ms": 175506,
+      "name": "The Man Who Plays The Mandolino",
+      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
+        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 169226,
+      "name": "Under The Bridges Of Paris",
+      "url": "https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z"
     },
     {
       "added_at": null,
@@ -675,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
-        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
       },
       "artists": [
         {
@@ -684,9 +700,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 175506,
-      "name": "The Man Who Plays The Mandolino",
-      "url": "https://open.spotify.com/track/4pwqOUmyITGGRjYEnHfxuu"
+      "duration_ms": 157600,
+      "name": "Hey Brother, Pour The Wine",
+      "url": "https://open.spotify.com/track/3qLhJr9raF4MeprdawyZqg"
     },
     {
       "added_at": null,
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Under The Bridges Of Paris",
-      "url": "https://open.spotify.com/track/4LbhIS1d4kBg7lapZ61B4z"
+      "duration_ms": 176866,
+      "name": "The Naughty Lady Of Shady Lane",
+      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 186466,
       "name": "You Belong To Me",
       "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 5 (1954)",
-        "url": "https://open.spotify.com/album/2grxIQsDZK4gZxy0xqpSwM"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 176866,
-      "name": "The Naughty Lady Of Shady Lane",
-      "url": "https://open.spotify.com/track/4i6YRfiLsCW30cPAbwMV40"
     },
     {
       "added_at": null,

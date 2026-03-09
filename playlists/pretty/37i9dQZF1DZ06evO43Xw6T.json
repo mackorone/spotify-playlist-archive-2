@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 181426,
+  "num_followers": 181452,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACn0ks0dPKO3dcONAElVPK1",
+  "snapshot_id": "aatqgAAAAADmjz0C/YXGn3BSJASNc7qG",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cartier",
-        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 186494,
-      "name": "Cartier",
-      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ya No Se Llevan Serenatas (Deluxe)",
         "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 196632,
       "name": "CHROME HEARTS",
       "url": "https://open.spotify.com/track/1VwgoKvj7L1PkQTFeFfS6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cartier",
+        "url": "https://open.spotify.com/album/1Dc6mH1teFQDQQXlgpl8pB"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 186494,
+      "name": "Cartier",
+      "url": "https://open.spotify.com/track/5xAikCeFXqHpVUuRKxBg4V"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "Ya Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BAYAM\u00d3N",
         "url": "https://open.spotify.com/album/73kwI4UvPc6CfNi5zih7AY"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 177333,
       "name": "BAYAM\u00d3N",
       "url": "https://open.spotify.com/track/3ZGNnNlKZNMNW9abDm0i0g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Wdhlkgk5f2UTPAmN1OIeZ"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "Ya Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4TXmASLbpCtP3zIbzEXRpj"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas",
-        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 259876,
-      "name": "CADAVER DE LA NOVIA",
-      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -879,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERRA MADRE",
-        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
       "artists": [
         {
-          "name": "Armenta",
-          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
-        },
-        {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 199459,
-      "name": "PERRA MADRE",
-      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
+      "duration_ms": 259876,
+      "name": "CADAVER DE LA NOVIA",
+      "url": "https://open.spotify.com/track/2HkKMTTfFM4H7Hb7zKjDtm"
     },
     {
       "added_at": null,
@@ -915,6 +895,30 @@
       "duration_ms": 170702,
       "name": "F's",
       "url": "https://open.spotify.com/track/6qtOaQrYTqyAZdNMCmGQwr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 162617,
+      "name": "El Gabacho",
+      "url": "https://open.spotify.com/track/0dIwmk8DVs9cTTAIw5aqmM"
     },
     {
       "added_at": null,
@@ -959,26 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+        "name": "PERRA MADRE",
+        "url": "https://open.spotify.com/album/3URLl7e2bikP9QyXETlnmL"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+          "name": "Armenta",
+          "url": "https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX"
         },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 162617,
-      "name": "El Gabacho",
-      "url": "https://open.spotify.com/track/0dIwmk8DVs9cTTAIw5aqmM"
+      "duration_ms": 199459,
+      "name": "PERRA MADRE",
+      "url": "https://open.spotify.com/track/5DDmtoFZGkNl1nePtYAcco"
     },
     {
       "added_at": null,

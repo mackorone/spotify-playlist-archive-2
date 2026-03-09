@@ -4,7 +4,7 @@
 
 > รวมทุกอินเนอร์เพลงสากลที่นี่เลย\. ศิลปิน: GIRLSET
 
-672 songs - 1 day 11 hr 51 min
+673 songs - 1 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [Spot a Fake](https://open.spotify.com/track/1svpo8ORIHy4BdgicdyUjx) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Spot a Fake](https://open.spotify.com/album/2LTf2Kj2XJuOR3Vi5AMkcD) | 2:47 | 2024-09-20 | 2024-09-28 |
 | [Spring Into Summer](https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older \(and Wiser\)](https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF) | 4:22 | 2024-10-04 | 2024-10-12 |
 | [Start Over](https://open.spotify.com/track/7dnoDyysjq8Kvu8ZZGrQSx) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR! \(Fully Evolved\)](https://open.spotify.com/album/5PZaqv1kmnGYMvO8lS0Cqs) | 3:11 | 2025-11-21 | 2026-02-14 |
+| [Stateside + Zara Larsson](https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Stateside + Zara Larsson](https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM) | 3:04 | 2026-03-08 |  |
 | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/track/6KrGHvcXxhFi9O4z3NUrv9) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Stay With Me \(feat\. Hikaru Utada\)](https://open.spotify.com/album/6Y7Keo6YYwgBbB50ShM976) | 2:52 | 2024-08-23 | 2024-09-14 |
 | [Sticky \(feat\. GloRilla, Sexyy Red & Lil Wayne\)](https://open.spotify.com/track/3tFed7YsjGnIfxeLEQwx3R) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:15 | 2024-11-01 | 2024-11-09 |
 | [Still Bad](https://open.spotify.com/track/5UpdcedkGcuishA7jlnH8W) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Still Bad](https://open.spotify.com/album/3DwhFPQWTCMMTbllQrAIpL) | 3:28 | 2025-03-14 | 2025-03-29 |
@@ -536,7 +537,7 @@
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-07 | 2024-12-21 |
 | [Stuck](https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Soft](https://open.spotify.com/album/2gfh9js0PqxJnWctC4au5k) | 3:03 | 2025-10-09 | 2025-10-25 |
 | [stuck like this](https://open.spotify.com/track/2knkY4o3G9nBAYXXZE9hbP) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [come home](https://open.spotify.com/album/3HW2JHHdicMtnOC0Jtt30I) | 3:34 | 2025-05-16 | 2025-05-31 |
-| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-20 |  |
+| [Suburban Requiem](https://open.spotify.com/track/7qtFxBjONSOPOsHopgAwH3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols \(Complete\)](https://open.spotify.com/album/0cUFNGzV90YdrBfTBjxjjM) | 4:39 | 2026-02-20 | 2026-03-09 |
 | [sunday morning](https://open.spotify.com/track/0YLIjEfl8SAUnFflqly1fG) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [sunday morning](https://open.spotify.com/album/2cN1R19sC4qTGn9cnv0lSZ) | 2:20 | 2025-08-01 |  |
 | [Sunset Blvd](https://open.spotify.com/track/2kpUNuingcchFIhLrbWxIO) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Sunset Blvd](https://open.spotify.com/album/4JCaqlPDBeT9kizAc3PGwL) | 2:47 | 2025-03-14 | 2025-03-29 |
 | [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 | 2025-11-07 | 2026-01-24 |

@@ -1,6 +1,6 @@
 {
   "description": "For tiny adventures disguised as errands.",
-  "num_followers": 101418,
+  "num_followers": 101411,
   "original_name": "Tote ",
   "owner": {
     "name": "Spotify",
@@ -593,22 +593,6 @@
       "url": "https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF"
     },
     {
-      "added_at": "2025-03-28 22:32:56",
-      "album": {
-        "name": "Kansas Anymore (The Longest Goodbye)",
-        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 217263,
-      "name": "Some Protector",
-      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
-    },
-    {
       "added_at": "2025-03-21 14:13:29",
       "album": {
         "name": "Next Thing",
@@ -639,6 +623,22 @@
       "duration_ms": 155146,
       "name": "Remember When",
       "url": "https://open.spotify.com/track/5naar7XewEOAjOywIp6Jjq"
+    },
+    {
+      "added_at": "2025-03-28 22:32:56",
+      "album": {
+        "name": "Kansas Anymore (The Longest Goodbye)",
+        "url": "https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Some Protector",
+      "url": "https://open.spotify.com/track/6fjl6Ekn2hE7U9TLJ8teY0"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Void",
-      "url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
         "name": "This Is All Yours",
         "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Void",
+      "url": "https://open.spotify.com/track/2wXioTynVwrEWYRv6R6vEj"
     },
     {
       "added_at": "2025-03-21 14:13:29",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-03-21 14:13:29",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 234560,
-      "name": "Little Bit Closer",
-      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
-    },
-    {
-      "added_at": "2025-03-21 14:13:29",
-      "album": {
         "name": "Cyclones and Hey Lover",
         "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "added_at": "2025-03-21 14:13:29",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
       "added_at": "2025-03-21 14:13:29",

@@ -4,7 +4,7 @@
 
 > una lloradita y a seguirle 🥲
 
-331 songs - 18 hr 32 min
+332 songs - 18 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Cita en el Quirófano](https://open.spotify.com/track/3BI5nP8TiYoJUJj5MJ8O1N) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [Para Ti Con Desprecio](https://open.spotify.com/album/2CcCMbh4RxNk3Pu5LfUQ5K) | 4:02 | 2024-02-14 | 2024-02-27 |
 | [City Life](https://open.spotify.com/track/2lxoLBUuzGVUw5VaTruvsr) | [ROOM7](https://open.spotify.com/artist/7qPOkYUtyBbee1lWuecI3C) | [City Life](https://open.spotify.com/album/3GItByWt7ziJPizeFQr51l) | 1:53 | 2021-07-16 | 2024-02-09 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2021-07-16 | 2024-02-09 |
-| [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2024-02-08 |  |
+| [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 | 2024-02-08 | 2026-03-09 |
 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-08-29 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2024-02-08 |  |
 | [Contacto Cero](https://open.spotify.com/track/5hcI6exGWnUqwo6lajJEpY) | [Neela](https://open.spotify.com/artist/3c5q3H7Y58kioMJEZfAPgF) | [a 9000 km](https://open.spotify.com/album/1cFWEoc6MeQT3cUVet3Csa) | 3:22 | 2025-04-04 | 2025-05-03 |
@@ -237,6 +237,7 @@
 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 | 2024-07-05 | 2024-08-18 |
 | [Pronto Todo Se Da](https://open.spotify.com/track/7hPOf9JmWaR8wqHBeL9rKF) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Pronto Todo Se Da](https://open.spotify.com/album/6BVNN0c35IYcQoRCyLM1Hk) | 2:22 | 2025-03-21 | 2025-04-05 |
 | [Quarantime](https://open.spotify.com/track/3S6MEKDDhU7nCWewy236t6) | [Erlend Øye](https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs), [Sebastian Maschat & Erlend Øye](https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK) | [Quarantine at El Ganzo](https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ) | 3:09 | 2021-07-16 | 2024-02-09 |
+| [Que Lloro \(with Carla Morrison\)](https://open.spotify.com/track/1XQYjTzZTKfvP69S5yJkaH) | [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Todas Mías...](https://open.spotify.com/album/6BZPpEDHkZkyxIZarybq4V) | 4:02 | 2026-02-13 |  |
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-01-24 | 2026-02-14 |
 | [QUE VUELVAS](https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 2:49 | 2024-09-25 | 2026-01-02 |
 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2024-02-16 | 2025-07-05 |

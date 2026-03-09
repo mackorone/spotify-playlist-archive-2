@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1434925,
+  "num_followers": 1435018,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAZv4rrJWRN7+FGUGbbzTcr",
+  "snapshot_id": "aatqgAAAAACGPQxTLzLpWV5x7grkQ06r",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
-        {
-          "name": "Arcane",
-          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
-        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The Line (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
+      "duration_ms": 324466,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
     },
     {
       "added_at": null,
@@ -127,18 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
       "artists": [
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
         {
           "name": "Twenty One Pilots",
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 324466,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/23OXdR7YuUBVWh5hSnYJau"
+      "duration_ms": 192000,
+      "name": "The Line (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/1QJbDTZAO8rpGOMG4UahFM"
     },
     {
       "added_at": null,
@@ -191,8 +191,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 229120,
-      "name": "My Blood",
-      "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
+      "duration_ms": 224398,
+      "name": "Mulberry Street",
+      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
     },
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 224398,
-      "name": "Mulberry Street",
-      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
+      "duration_ms": 229120,
+      "name": "My Blood",
+      "url": "https://open.spotify.com/track/5HeKOKc4phmLn8e4I7EkzD"
     },
     {
       "added_at": null,

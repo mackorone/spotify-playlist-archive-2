@@ -1,12 +1,12 @@
 {
   "description": "This is Gautier Capu\u00e7on. The essential tracks, all in one playlist.",
-  "num_followers": 1900,
+  "num_followers": 1901,
   "original_name": "This Is Gautier Capu\u00e7on",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABvSv0te/EGhA7kg3XCy1D8",
+  "snapshot_id": "aatqgAAAAADMkc1QBlehddBvBNQ8Dsnp",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dessner: Towards the Forest",
+        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
+      },
+      "artists": [
+        {
+          "name": "Bryce Dessner",
+          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        }
+      ],
+      "duration_ms": 239653,
+      "name": "Towards the Forest",
+      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faur\u00e9: Complete Chamber Music for Strings",
         "url": "https://open.spotify.com/album/0J7ufiXuDy70tuH63bTV6y"
       },
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dessner: Towards the Forest",
-        "url": "https://open.spotify.com/album/2WVdb7EBlDpUeMeekDg8uP"
-      },
-      "artists": [
-        {
-          "name": "Bryce Dessner",
-          "url": "https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 239653,
-      "name": "Towards the Forest",
-      "url": "https://open.spotify.com/track/5xAbBSXPD1RRzCXmpFxNm0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dunckel: Wake",
         "url": "https://open.spotify.com/album/2zeTlmZZd3oGnJTDq2FgsZ"
       },
@@ -515,6 +515,34 @@
       "duration_ms": 252866,
       "name": "Wake",
       "url": "https://open.spotify.com/track/1dQURFJy6aduSwPhK5wMbg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Franz Leh\u00e1r",
+          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Orchestre de chambre de Paris",
+          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
+        },
+        {
+          "name": "Lionel Bringuier",
+          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Heure exquise (From La Veuve joyeuse)",
+      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
     },
     {
       "added_at": null,
@@ -551,30 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+        "name": "Einaudi: Air",
+        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
       },
       "artists": [
         {
-          "name": "Franz Leh\u00e1r",
-          "url": "https://open.spotify.com/artist/3O3SOoPYtUSjajTdIag0nT"
-        },
-        {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Orchestre de chambre de Paris",
-          "url": "https://open.spotify.com/artist/1ziXHb2jDpxIxQqIckAZ0I"
-        },
-        {
-          "name": "Lionel Bringuier",
-          "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 152600,
-      "name": "Heure exquise (From La Veuve joyeuse)",
-      "url": "https://open.spotify.com/track/1IFmCwbuHbyIHGJ4VYlux9"
+      "duration_ms": 249346,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
     },
     {
       "added_at": null,
@@ -607,18 +623,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Einaudi: Air",
-        "url": "https://open.spotify.com/album/4LVYd1Q5TTEDf7th9MMi1Z"
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
       },
       "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
         {
           "name": "Gautier Capu\u00e7on",
           "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
         }
       ],
-      "duration_ms": 249346,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/2yllYHj6bUXrivkzVPMItX"
+      "duration_ms": 172586,
+      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
+      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -647,26 +667,6 @@
       "duration_ms": 344426,
       "name": "Dvo\u0159\u00e1k: Rusalka, Op. 114, B. 203, Act 1: Song to the Moon (Instrumental Version)",
       "url": "https://open.spotify.com/track/4wjvxvqEkdTr6smrVh8WKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Souvenirs",
-        "url": "https://open.spotify.com/album/3dVenVnBtNXJUB8P59BVw2"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        }
-      ],
-      "duration_ms": 172586,
-      "name": "Bach, JS: Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
-      "url": "https://open.spotify.com/track/0w6LWDuhdyzzIgNJDjrtrh"
     },
     {
       "added_at": null,
@@ -791,6 +791,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "duration_ms": 817826,
+      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Winter Adagios",
         "url": "https://open.spotify.com/album/3Phjf597zfyPvLrIvEsaeF"
       },
@@ -815,30 +839,6 @@
       "duration_ms": 273826,
       "name": "Haydn: Cello Concerto No. 2 in D Major, Hob. VIIb:2: II. Adagio",
       "url": "https://open.spotify.com/track/2VdWdLLIWmC3ttOIYDO9pD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brahms: Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-        "url": "https://open.spotify.com/album/4IVBrRGAYqDiw27U1HY9jb"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "Yuja Wang",
-          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
-        }
-      ],
-      "duration_ms": 817826,
-      "name": "Cello Sonata No. 1 in E Minor, Op. 38: I. Allegro non troppo",
-      "url": "https://open.spotify.com/track/0EhiqZX4FNq822uW0jjCrm"
     },
     {
       "added_at": null,
@@ -1219,6 +1219,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Destination Paris",
+        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
+      },
+      "artists": [
+        {
+          "name": "Philippe Sarde",
+          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Ducros",
+          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
+      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sensations",
         "url": "https://open.spotify.com/album/0nVAQLpoiKnF4zAVoNeEVq"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 172173,
       "name": "Nessun dorma (From \"Turandot\")",
       "url": "https://open.spotify.com/track/5ylSlIKVbQQDnkEuLwgqmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Destination Paris",
-        "url": "https://open.spotify.com/album/4sOeIH20iRs4s1XYoRHwUq"
-      },
-      "artists": [
-        {
-          "name": "Philippe Sarde",
-          "url": "https://open.spotify.com/artist/4bYBV1q22KJiyT0z1pxFLK"
-        },
-        {
-          "name": "Gautier Capu\u00e7on",
-          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
-        },
-        {
-          "name": "J\u00e9r\u00f4me Ducros",
-          "url": "https://open.spotify.com/artist/258QCkgYcl05RPjEGKWMnS"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "La chanson d\u2019H\u00e9l\u00e8ne",
-      "url": "https://open.spotify.com/track/1QUHxreR506sMhPpeoI13E"
     },
     {
       "added_at": null,

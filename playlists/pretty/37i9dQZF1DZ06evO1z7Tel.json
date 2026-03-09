@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 38771,
+  "num_followers": 38772,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADKlsYXsfd17xsNR6alN3pB",
+  "snapshot_id": "aatqgAAAAAC0te7wJgO08Riqdnh0ErqB",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 181213,
-      "name": "Santos Cant\u00fa",
-      "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
+      "duration_ms": 189613,
+      "name": "El Quemador",
+      "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 189613,
-      "name": "El Quemador",
-      "url": "https://open.spotify.com/track/2O2iXnudGx7AjWnwxotGIS"
+      "duration_ms": 181213,
+      "name": "Santos Cant\u00fa",
+      "url": "https://open.spotify.com/track/44y0RPcKAsJ9lTs5EJgMbA"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "15 \u00c9xitos De (Vol. 2)",
-        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 160040,
-      "name": "Dados Cargados",
-      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+        "name": "15 \u00c9xitos De (Vol. 2)",
+        "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
+      "duration_ms": 160040,
+      "name": "Dados Cargados",
+      "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vienen Los Recuerdos",
-        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 193600,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160813,
       "name": "Los Dos Contrabandos",
       "url": "https://open.spotify.com/track/5l4K1ifEJoN9zBYhlw1HkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vienen Los Recuerdos",
+        "url": "https://open.spotify.com/album/1AC2IoLYrvdUA9qZflPZu1"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 193600,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/3z7ksVvoZRPhQUJcSBrbd9"
     },
     {
       "added_at": null,

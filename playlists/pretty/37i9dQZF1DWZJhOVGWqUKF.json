@@ -1,12 +1,12 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: The Warning",
-  "num_followers": 339881,
+  "num_followers": 339872,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO/9kKeuXz7371GxxVN/lSG3CDNH",
+  "snapshot_id": "AAAAAJzl/SPYEDe/F+ZNd9k8f8CqvHIv",
   "tracks": [
     {
       "added_at": "2026-03-05 23:00:41",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/1WP6aYgLJBke188sm4T3Up"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 176066,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/29zuhsQWT2Ik7sPC2K1gPM"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
         "name": "WE ARE EMPIRE",
         "url": "https://open.spotify.com/album/4GtAnZ58WCp80acUpwM50P"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Wake Up Calling",
-        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 229977,
-      "name": "Wake Up Calling",
-      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
       },
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+        "name": "Wake Up Calling",
+        "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
       },
       "artists": [
         {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
         }
       ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
+      "duration_ms": 229977,
+      "name": "Wake Up Calling",
+      "url": "https://open.spotify.com/track/1rkpbebpB9LyLbR0lvOjtW"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Revery",
-        "url": "https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 192911,
-      "name": "Revery",
-      "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Over My Head",
         "url": "https://open.spotify.com/album/3Qxms75iFFEBACANdN1nns"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Revery",
+        "url": "https://open.spotify.com/album/5yNd7mpvNnQWDHUr9WvKPE"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 192911,
+      "name": "Revery",
+      "url": "https://open.spotify.com/track/0Vn099e0jlAgV0TE5sOre1"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Bedroom Posters (feat. Good Charlotte)",
-        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 218635,
-      "name": "Bedroom Posters (feat. Good Charlotte)",
-      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "The Great Satan",
         "url": "https://open.spotify.com/album/1UE3oGyftp6WFWQXOPdz8I"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 230866,
       "name": "Born To Kill",
       "url": "https://open.spotify.com/track/2dar1QSaBJKGCPXJQsef0J"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Bedroom Posters (feat. Good Charlotte)",
+        "url": "https://open.spotify.com/album/2DQT3oVHtQJleYR3yXA4cY"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 218635,
+      "name": "Bedroom Posters (feat. Good Charlotte)",
+      "url": "https://open.spotify.com/track/1L2Z2Xpta5CZ59kIazq9Xp"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 187249,
-      "name": "You Broke Me Too (feat. Avril Lavigne)",
-      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Alienation",
         "url": "https://open.spotify.com/album/3qNCqYQyWvvgTapGWLTQsk"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 191531,
       "name": "Pray",
       "url": "https://open.spotify.com/track/1MuHPZ9gnIM0SIpON7bflB"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 187249,
+      "name": "You Broke Me Too (feat. Avril Lavigne)",
+      "url": "https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "God's Eye",
-        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
-      },
-      "artists": [
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
-        }
-      ],
-      "duration_ms": 130994,
-      "name": "God\u2019s Eye",
-      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Kill Me Fast",
         "url": "https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 197466,
       "name": "Kill Me Fast",
       "url": "https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "God's Eye",
+        "url": "https://open.spotify.com/album/5iPaMXX4jgANF9uiEERtxi"
+      },
+      "artists": [
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+        }
+      ],
+      "duration_ms": 130994,
+      "name": "God\u2019s Eye",
+      "url": "https://open.spotify.com/track/3G600027WLRbsunHeYJ5G2"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Futique",
-        "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
-      },
-      "artists": [
-        {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
-        }
-      ],
-      "duration_ms": 218159,
-      "name": "A Little Love",
-      "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "A.R.S.O.N.",
         "url": "https://open.spotify.com/album/1Y4mInJWLEVgF3ly7Cop9d"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 186906,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/3iTgpxcDmPDMw0n9IJYG3S"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Futique",
+        "url": "https://open.spotify.com/album/3Y3nA5ZjMH8PMqV5v9YifF"
+      },
+      "artists": [
+        {
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+        }
+      ],
+      "duration_ms": 218159,
+      "name": "A Little Love",
+      "url": "https://open.spotify.com/track/31MkFKvAwHESUpmJz4haPw"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
+        "name": "Hole In The Ground",
+        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 224532,
+      "name": "Hole In The Ground",
+      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
         "name": "I Will Not Break",
         "url": "https://open.spotify.com/album/3tstswhmigzOMuCWC4rpwr"
       },
@@ -1503,26 +1519,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
-        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        },
-        {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
-      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Unravel",
         "url": "https://open.spotify.com/album/0selBZxUKunwDGF6MOmVvn"
       },
@@ -1539,18 +1535,22 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Hole In The Ground",
-        "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
+        "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
+        "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
       "artists": [
         {
-          "name": "Inhaler",
-          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        },
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
         }
       ],
-      "duration_ms": 224532,
-      "name": "Hole In The Ground",
-      "url": "https://open.spotify.com/track/4mRKcykc3JeCSpZjW4zr7a"
+      "duration_ms": 221000,
+      "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
+      "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
     },
     {
       "added_at": "2026-03-05 23:00:41",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-03-05 23:00:41",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 216646,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
-    },
-    {
-      "added_at": "2026-03-05 23:00:41",
-      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
+    },
+    {
+      "added_at": "2026-03-05 23:00:41",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/6JW8DvN9gf8LJNizwK8dEc"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 216646,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/45GE1ZGp8Cm01hYx5DhQnQ"
     },
     {
       "added_at": "2026-03-05 23:00:41",

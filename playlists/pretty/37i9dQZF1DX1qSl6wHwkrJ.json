@@ -1,6 +1,6 @@
 {
   "description": "Christmas classics from your favourite Blues artists. ",
-  "num_followers": 25492,
+  "num_followers": 25490,
   "original_name": "Christmas Blues",
   "owner": {
     "name": "Spotify",
@@ -388,22 +388,6 @@
       },
       "artists": [
         {
-          "name": "Smoking Time Jazz Club",
-          "url": "https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Christmas Morning Blues",
-      "url": "https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
-        "name": "Best of Street New Orleans Xmas",
-        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
-      },
-      "artists": [
-        {
           "name": "Yes Maam",
           "url": "https://open.spotify.com/artist/4PiCEcoo8d1Yf2Sjw3bDIl"
         },
@@ -431,6 +415,22 @@
       "duration_ms": 225773,
       "name": "Santa",
       "url": "https://open.spotify.com/track/7h02TeaN25KwPrhkyaIbbg"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Best of Street New Orleans Xmas",
+        "url": "https://open.spotify.com/album/1g6uLfdUqAEJWcV07oA1rr"
+      },
+      "artists": [
+        {
+          "name": "Smoking Time Jazz Club",
+          "url": "https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Christmas Morning Blues",
+      "url": "https://open.spotify.com/track/6tgXLNwKtiBR4crl1krjXg"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "An Austin Rhythm And Blues Christmas",
-        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
-      },
-      "artists": [
-        {
-          "name": "Angela Strehli",
-          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Boogie Woogie Santa Claus",
-      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Jingle Bell Rock",
         "url": "https://open.spotify.com/album/1oYilFltGYALhRtVGA27f2"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212626,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/3lA2ME7RhEvitf92tcuqXM"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "An Austin Rhythm And Blues Christmas",
+        "url": "https://open.spotify.com/album/5cKkDOdBUqs3PuxZRYdaPx"
+      },
+      "artists": [
+        {
+          "name": "Angela Strehli",
+          "url": "https://open.spotify.com/artist/3lrwdIWcHi2VyhaiiqNw35"
+        }
+      ],
+      "duration_ms": 146493,
+      "name": "Boogie Woogie Santa Claus",
+      "url": "https://open.spotify.com/track/27tBqDP2bmQyFGqz0KBbFO"
     },
     {
       "added_at": "2023-11-22 12:51:56",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-22 12:51:56",
       "album": {
-        "name": "Christmas Blues: Savoy Jazz Christmas Album",
-        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Brothers",
-          "url": "https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "Mr. Santa's Boogie",
-      "url": "https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ"
-    },
-    {
-      "added_at": "2023-11-22 12:51:56",
-      "album": {
         "name": "Merry Blue Christmas",
         "url": "https://open.spotify.com/album/5GGS6h1rfAOCMaLkGegZhs"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 154919,
       "name": "Christmas Date Blues",
       "url": "https://open.spotify.com/track/17mU6BYWxyzk9Y7nquICGZ"
+    },
+    {
+      "added_at": "2023-11-22 12:51:56",
+      "album": {
+        "name": "Christmas Blues: Savoy Jazz Christmas Album",
+        "url": "https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI"
+      },
+      "artists": [
+        {
+          "name": "The Marshall Brothers",
+          "url": "https://open.spotify.com/artist/0Ard7WDdg0QuhlBHL9ueI8"
+        }
+      ],
+      "duration_ms": 156573,
+      "name": "Mr. Santa's Boogie",
+      "url": "https://open.spotify.com/track/7vKQknqsE3GGB3YER5HGKQ"
     },
     {
       "added_at": "2023-11-22 12:51:56",

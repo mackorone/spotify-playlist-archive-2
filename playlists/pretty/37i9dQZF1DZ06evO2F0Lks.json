@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151877,
+  "num_followers": 151875,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAlMOkGffy06lRcgBvoN//7",
+  "snapshot_id": "aatqgAAAAADkjOWoErIWRf7eh9H9dwW3",
   "tracks": [
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits: Decade #1",
-        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
+        "name": "Denim & Rhinestones (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Little Toy Guns",
-      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
+      "duration_ms": 243453,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Denim & Rhinestones (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
+        "name": "Greatest Hits: Decade #1",
+        "url": "https://open.spotify.com/album/3TqvvuCMcTpSjFvAToQT8A"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 243453,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN"
+      "duration_ms": 210760,
+      "name": "Little Toy Guns",
+      "url": "https://open.spotify.com/track/4lnnde7PnrXR3pUzQKBe6X"
     },
     {
       "added_at": null,
@@ -552,9 +552,41 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 226493,
-      "name": "So Small",
-      "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
+      "duration_ms": 287306,
+      "name": "Just a Dream",
+      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Denim & Rhinestones (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "Out Of That Truck",
+      "url": "https://open.spotify.com/track/0NJnqzKuU2zjmd64IXcYqY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Nothing But The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
     },
     {
       "added_at": null,
@@ -579,38 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Savior",
-        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 210840,
-      "name": "Nothing But The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/1TMD9dsPs6s16QyPa1VqS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Denim & Rhinestones (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "Out Of That Truck",
-      "url": "https://open.spotify.com/track/0NJnqzKuU2zjmd64IXcYqY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carnival Ride",
         "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 287306,
-      "name": "Just a Dream",
-      "url": "https://open.spotify.com/track/7g8OpS827dAYU067lZaR0L"
+      "duration_ms": 226493,
+      "name": "So Small",
+      "url": "https://open.spotify.com/track/6xfL1KzGxg48ACVlQE9qXr"
     },
     {
       "added_at": null,
@@ -855,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play On",
-        "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "Carrie Underwood",
           "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
         }
       ],
-      "duration_ms": 196694,
-      "name": "Look at Me",
-      "url": "https://open.spotify.com/track/30vfmE5gZLW1VtghknFwTn"
+      "duration_ms": 228853,
+      "name": "It Had to Be You",
+      "url": "https://open.spotify.com/track/328dqlTGkTgH5GPrsQusql"
     }
   ],
   "unique_name": "This Is Carrie Underwood",

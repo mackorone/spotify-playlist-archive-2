@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 341,670 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 341,632 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 25 | [Komu miałabym powiedzieć?](https://open.spotify.com/track/6v3aVSYMUOKOoh7Ut70gJ9) | [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m) | [Komu miałabym powiedzieć?](https://open.spotify.com/album/7qplgpgnhZdVhVhIpEaGaI) | 2:32 |
 | 26 | [Odpowiedni moment](https://open.spotify.com/track/4WnJ8tdQhBWGDEHKm6y40h) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Odpowiedni moment](https://open.spotify.com/album/7lgIBV8MkGZg6u6twshy0e) | 3:14 |
 | 27 | [W to mi graj](https://open.spotify.com/track/3s2tBiOaWfZnd97WEoL7ID) | [Ania Karwan](https://open.spotify.com/artist/6EtPFq0WhAq7kzcryE23b4) | [W to mi graj](https://open.spotify.com/album/24fRidH4T3GIwjfFiS6VEc) | 3:09 |
-| 28 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 |
-| 29 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
+| 28 | [Feelin' Myself](https://open.spotify.com/track/3iRCAL0zJl2wvecnmYLcEQ) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Feelin' Myself](https://open.spotify.com/album/5jfSZhsGLXhj8QTy2mMs56) | 2:45 |
+| 29 | [Anna Karenina](https://open.spotify.com/track/1uEap95VIj54OPYOSUdMfg) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Anna Karenina](https://open.spotify.com/album/0aHCM40UbaaFG76IEjU5JO) | 5:15 |
 | 30 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
 | 31 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 | 32 | [You got time and I got money](https://open.spotify.com/track/4YDl2Oxc1mVRnZsZAbNzI0) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [You got time and I got money](https://open.spotify.com/album/1GpEABGAAl6jY2Io86FQvn) | 4:31 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 60 | [When You Tie Your Hair Up](https://open.spotify.com/track/3qZeprTEN2hAWi19KZbcMg) | [Dove Ellis](https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9) | [Blizzard](https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i) | 4:28 |
 | 61 | [Wczorajszy tlen](https://open.spotify.com/track/6hDAg8JGPWcdryzQJm1CuO) | [Przebiśniegi](https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx) | [Wczorajszy tlen](https://open.spotify.com/album/3q0HA6dlmep1lommlVGyql) | 3:00 |
 | 62 | [I'm Just A Human](https://open.spotify.com/track/35qsyv0ZY5ycTB7078RUQF) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [I'm Just A Human](https://open.spotify.com/album/0dPhjzf74VV7Q8VsshoEXN) | 2:54 |
-| 63 | [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 |
-| 64 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 |
+| 63 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 |
+| 64 | [Wolę Cię kochać, niż mieć](https://open.spotify.com/track/2KMoi0vQU6xVUZ05atEOSe) | [Marta Bijan](https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt) | [Wolę Cię kochać, niż mieć](https://open.spotify.com/album/751UQhysLprUGTXrhTrHvP) | 2:57 |
 | 65 | [Waniliowy](https://open.spotify.com/track/36KwEZctWZKMK6DB1YdM6b) | [Wojciech Baranowski](https://open.spotify.com/artist/0VpXPTuw4wRvor9ZZq1hbB) | [Waniliowy](https://open.spotify.com/album/1L2AKJfjbV6ZY3qXHajqtz) | 2:10 |
 | 66 | [To nie mój dzień](https://open.spotify.com/track/3Z5WyUk3XKmKGcy7ZC6tIg) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [To nie mój dzień](https://open.spotify.com/album/2REeCbG3cLIqnGRTQ7TgUa) | 3:43 |
 | 67 | [Spójrz](https://open.spotify.com/track/5jdLq3kQMWC2W4Skf5y45e) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [Spójrz](https://open.spotify.com/album/1UZqtwjBs43IY8xCRDGYFo) | 3:09 |
-| 68 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
-| 69 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
-| 70 | [Selfridges](https://open.spotify.com/track/2lL17X7tPp6rhdlJ5lg5hd) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [Selfridges](https://open.spotify.com/album/7qCeRMzv4oGpUeMgV6ko4f) | 2:35 |
+| 68 | [pociąg bez ostatniej stacji](https://open.spotify.com/track/5fSucf8xEDuZxMBMppdeUb) | [majtis](https://open.spotify.com/artist/0x85f5ZhAe1Oj4CTnWEPtv), [4Money](https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1) | [pociąg bez ostatniej stacji](https://open.spotify.com/album/4AAlpeTlY3hzbcQVmGms73) | 2:24 |
+| 69 | [Sunday My Heart Hurts](https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Girl In A Bottle](https://open.spotify.com/album/415W2je9J0gsgUKKGBBRHG) | 2:56 |
+| 70 | [Beznamiętnie](https://open.spotify.com/track/5QJfW0S7fUJQUcKOZGtrth) | [Natalia Muianga](https://open.spotify.com/artist/5ixTh4FeSw3QQb3anXHEV4) | [Beznamiętnie](https://open.spotify.com/album/2jPRaXK8k8v9QqCoGuO42l) | 2:44 |
 
 Snapshot ID: `AAAAAC27bWKt039NWIOeMAlTGUuh2PVU`

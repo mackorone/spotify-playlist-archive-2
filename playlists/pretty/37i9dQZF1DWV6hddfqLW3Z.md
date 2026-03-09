@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,790 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,788 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 33 | [Sua Onda](https://open.spotify.com/track/0aRDSJHPIyPBGfOqxkLyTE) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Sua Onda](https://open.spotify.com/album/2aQRL0B3OTraPeCftGgK4I) | 3:36 |
 | 34 | [De Tanto Amor](https://open.spotify.com/track/1Se9OjFwgSh05eRyOmDjLl) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Não Sou Nenhum Roberto, Mas às Vezes Chego Perto](https://open.spotify.com/album/2pOKaRgRQWuCbYFX2UeYDh) | 3:31 |
 | 35 | [Lugar Ao Sol \- Ao Vivo \| Acústico](https://open.spotify.com/track/4G7J6r92RH3aRlTEJQER8A) | [Raimundos](https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ) | [Acústico \- Ao Vivo](https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia) | 3:39 |
-| 36 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
-| 37 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 |
+| 36 | [Talismã](https://open.spotify.com/track/1ma3TGM5l7OTrK76of5HdV) | [Stefano](https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT) | [Talismã](https://open.spotify.com/album/6qt7sYV2KT9rdG3ftZhWBz) | 3:49 |
+| 37 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
 | 38 | [Reconvexo \- Ao Vivo](https://open.spotify.com/track/1yiQ58cQrQH2xLF2AuvFq2) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 3:20 |
 | 39 | [Vem conversar](https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Flora \- EP](https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3) | 2:38 |
 | 40 | [Meu Esquema](https://open.spotify.com/track/5hO3HgwIygwqjkGsw6wdP3) | [Mundo Livre S/A](https://open.spotify.com/artist/7dLXGClVfy10Ug57dZE0iC) | [Por Pouco \(Bit Box\)](https://open.spotify.com/album/0h4xTADMMdMSOQraeakiEC) | 4:19 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 49 | [Voltar à Bahia](https://open.spotify.com/track/4pGs8iERniTESwC4pl6bXr) | [Gilsons](https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t) | [Pra Gente Acordar](https://open.spotify.com/album/2IoDCH4Y4KTTTm399IUwzI) | 2:36 |
 | 50 | [A Janela, Carolina](https://open.spotify.com/track/08ccPaMAsu7IYnbFDJxUoH) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 2:38 |
 | 51 | [Lenha](https://open.spotify.com/track/03eJrJinZp8ofxM3nQQs9F) | [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Top Hits](https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8) | 4:09 |
-| 52 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
-| 53 | [Vênus ou Urano](https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8) | [Tom Ribeira](https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY) | [Vênus ou Urano](https://open.spotify.com/album/0ssQblTZnokL6My66du4bc) | 3:21 |
+| 52 | [Vênus ou Urano](https://open.spotify.com/track/2HAc5gtooAY2DszxIEQMC8) | [Tom Ribeira](https://open.spotify.com/artist/6hrEl5AsyYkcWBLZKChNHY) | [Vênus ou Urano](https://open.spotify.com/album/0ssQblTZnokL6My66du4bc) | 3:21 |
+| 53 | [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 |
 | 54 | [O Vento](https://open.spotify.com/track/3lBQcsRgxcflvTJl6Wu84T) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [O Vento](https://open.spotify.com/album/2GuQWKQDral2TTSywYtOw3) | 4:56 |
 | 55 | [I Don't Want To Talk About It](https://open.spotify.com/track/79hHaRraMY1E8t8U2TS7jK) | [Fernanda Takai](https://open.spotify.com/artist/62Yab84ZgQW4k4nOUPqIxE) | [Na Medida do Impossível Ao Vivo No Inhotim \(álbum Comentado\)](https://open.spotify.com/album/6duND4qwkaiUAyVFsoJUfB) | 3:27 |
 | 56 | [A Morte de um Deus de Sal](https://open.spotify.com/track/3tHHQAgaaiV9XvogI00MBy) | [BeBossa](https://open.spotify.com/artist/2DTavIw1X532MxFRMCOgH2), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Matias Correa](https://open.spotify.com/artist/6Sa9JYx0h5j4i8PhAcd5mX), [Marcelo Saboya](https://open.spotify.com/artist/3wZh426oV0fV3qDr2QpfWR), [Zeca Rodrigues](https://open.spotify.com/artist/6q39rdJq2YtJzdgsgG1qfW), [Tom Andrade](https://open.spotify.com/artist/0r1BywD2QhdoQLtr06zPtq) | [A Morte de um Deus de Sal](https://open.spotify.com/album/019T33OgzsIGyamxapvv6V) | 3:23 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 65 | [Mentiras \- Ao Vivo](https://open.spotify.com/track/7ukIahQfkESY8Wtq6Dy5CQ) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Mentiras \(Ao Vivo\)](https://open.spotify.com/album/7EIvnWGjG2cwm4amIuIpGf) | 2:58 |
 | 66 | [Infinito em nós](https://open.spotify.com/track/6k6PhENdLggOmmaXkmucTT) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 4:10 |
 | 67 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
-| 68 | [Nosso Caso](https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Nosso Caso](https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u) | 3:31 |
-| 69 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 68 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 69 | [Nosso Caso](https://open.spotify.com/track/0EAKZbRpwDUVdr8wxUtazd) | [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt), [Tom Veloso](https://open.spotify.com/artist/2RlqD2JzVpxnnPxuBfV6wu) | [Nosso Caso](https://open.spotify.com/album/0AXxBy1IF6U6myBm3EyZ3u) | 3:31 |
 | 70 | [Vumbora Amar](https://open.spotify.com/track/56qoy2jHvVhU9BVQn218dQ) | [Alexandre Leão](https://open.spotify.com/artist/5CmKyE7NjtR9qBq8HilUd8) | [Axé Babá](https://open.spotify.com/album/5c7O2fNHtkRRFKLB6nrTgN) | 3:31 |
 
 Snapshot ID: `AAAAANc+Comssvv8VvapGFPOjo19kSjA`

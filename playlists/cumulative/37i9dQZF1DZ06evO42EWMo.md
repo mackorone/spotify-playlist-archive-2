@@ -4,7 +4,7 @@
 
 > This is Amy Winehouse\. The essential tracks, all in one playlist.
 
-44 songs - 2 hr 41 min
+45 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Our Day Will Come](https://open.spotify.com/track/4NDpn6yfD5aqafYWFEaJDz) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Lioness: Hidden Treasures](https://open.spotify.com/album/4xdRjOhY9NHmMpI7U3e2c3) | 2:49 | 2025-10-28 |  |
 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 | 2025-10-28 |  |
 | [Rehab \- Live On Jools Holland](https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:41 | 2025-10-28 |  |
+| [Some Unholy War](https://open.spotify.com/track/0RatRR1mlxEVR6WATH4jV3) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:21 | 2026-03-09 |  |
 | [Someone To Watch Over Me \- Demo](https://open.spotify.com/track/1NwqbR2nzLJ17TSoW1iiQW) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank \(Deluxe Edition\)](https://open.spotify.com/album/2rWBGF3pKx8Jla9VYMQ8Xc) | 4:28 | 2025-10-28 |  |
 | [Stronger Than Me](https://open.spotify.com/track/5LC7nItIEFp4nzdFdEGbf9) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 3:34 | 2025-10-28 |  |
 | [Take The Box](https://open.spotify.com/track/1cYZfOVeTOSWNZe9liBa6h) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/3kGbxqlVl3LqjifxlubtcT) | 3:20 | 2025-10-28 |  |

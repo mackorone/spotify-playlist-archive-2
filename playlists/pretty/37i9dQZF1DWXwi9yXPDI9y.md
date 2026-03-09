@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Grab a drink and relax to the Jazz played in the background at the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,317 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,368 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 30 | [Cry Me A River](https://open.spotify.com/track/1ZAJSDOejLqTsKZ5LSvCOv) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Dexter Blows Hot & Cool](https://open.spotify.com/album/007UOKwZqyvqWhjcIHlYqI) | 3:42 |
 | 31 | [Autumn In New York](https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet In Paris: Everything Happens To Me \- The Complete Barclay Recording Vol\. 2](https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD) | 7:04 |
 | 32 | [It Ain't Necessarily So](https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:48 |
-| 33 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 |
-| 34 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
+| 33 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
+| 34 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 |
 | 35 | [Do It Again](https://open.spotify.com/track/0NaArK8e9ovK75lLRU0OWM) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 2:57 |
 | 36 | [When Your Lover Has Gone](https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baker's Holiday](https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR) | 2:54 |
 | 37 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 47 | [Excerpts From The Blues](https://open.spotify.com/track/4jY2c0mzMwB9PZbGEeCZZn) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 3:04 |
 | 48 | [My Conception](https://open.spotify.com/track/0xc3Zk647proIQWvRaXlsh) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 4:44 |
 | 49 | [You Turned The Tables On Me](https://open.spotify.com/track/1uO3R3HU9kC5xXjtun60pH) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Oscar Peterson Quartet](https://open.spotify.com/artist/4NQPiiaJak2p93c2hl5rNQ) | [Anita Sings The Most](https://open.spotify.com/album/3kInD4ls57TJY4ATGDIqAS) | 3:43 |
-| 50 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
-| 51 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
+| 50 | [Dear Lord](https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Dear Old Stockholm](https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k) | 5:30 |
+| 51 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
 | 52 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
 | 53 | [When Day Is Done](https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 4:25 |
 | 54 | [It Had To Be You](https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC) | [Dinah Shore](https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Great Ladies Of Song / Spotlight On Dinah Shore](https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy) | 3:24 |

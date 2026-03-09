@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-172 songs - 10 hr 38 min
+174 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Flowers](https://open.spotify.com/track/08gNkGaNGqRWMwXKxJ3TzZ) | [Slippery Trashmouf](https://open.spotify.com/artist/3IefXq8WnaX7xGfzjgopjv), [ProphetSixFour](https://open.spotify.com/artist/5YhmsnYfLroEjLEP6Zhhp0) | [Brain Buffet](https://open.spotify.com/album/3IJUcpKaTQcHT8irGVcb1Q) | 2:37 | 2025-12-28 | 2026-02-03 |
 | [For Jim, I Loved You](https://open.spotify.com/track/0rGjYJnpPjCKkDrIMqriq9) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [For Jim, I Loved You](https://open.spotify.com/album/2IsN3SH50zAM8v810FWpQq) | 3:48 | 2025-12-18 | 2025-12-29 |
 | [Forever and a Day](https://open.spotify.com/track/1f3ENIIFLd67DajPERsgTH) | [Sonnet](https://open.spotify.com/artist/3ls4dfFZj167KBeapbQ6lv) | [Forever and a Day](https://open.spotify.com/album/4ePq5YLi7cb9dVw8RNijFL) | 3:07 | 2025-11-16 | 2025-11-24 |
+| [Found My Reason Why](https://open.spotify.com/track/6HggbroGS2csvv000ntCLY) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Found My Reason Why](https://open.spotify.com/album/01iKKKRuQXXe0Lid1irXHb) | 4:38 | 2026-03-08 |  |
 | [Frontier Radio](https://open.spotify.com/track/5tgDzjAKCuIh1XleRAgFeF) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/3J6Ho4gRU9xi0Hz3Zuy76D) | 1:47 | 2026-01-16 | 2026-02-01 |
 | [Fruit Flies](https://open.spotify.com/track/6rY8QNp26wvxJIZcOLpLLp) | [Semachos](https://open.spotify.com/artist/1CG5ZIyrRrIWEBMMu6cvLH) | [Fruit Flies](https://open.spotify.com/album/28WvifoppUEl3lL0iRmxfT) | 2:42 | 2025-12-13 | 2025-12-26 |
 | [Gas Station Coffee](https://open.spotify.com/track/7K0PLrZbF2FNsI4MHWSyaH) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Myshkin](https://open.spotify.com/artist/6m0XoeEadMkDHRFSwjPMAM) | [Econoline](https://open.spotify.com/album/2qxqx6hKvsq8bORLJY2fwf) | 1:45 | 2025-12-14 | 2026-02-02 |
@@ -120,6 +121,7 @@
 | [My Friend Slim](https://open.spotify.com/track/2APYbWnkaxWs9psqqGeU6H) | [Mike West](https://open.spotify.com/artist/4tTpvmcly5XOlMrMkx9RpF), [Nick Broster](https://open.spotify.com/artist/2aAF7VGdZ3LFMGhEvKPXsp) | [Broster & West](https://open.spotify.com/album/4RznIm7ujwdFFt24irOUXJ) | 3:35 | 2026-02-01 | 2026-02-09 |
 | [Name for Yourself](https://open.spotify.com/track/6PzzFcYrjU2vhPQIM3fH3Z) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Name for Yourself](https://open.spotify.com/album/2Cj2ojLwZsv3bhfvGe9WIM) | 3:18 | 2025-11-16 | 2025-12-01 |
 | [No Sound](https://open.spotify.com/track/3PPFlKH9JsyHz9mHQkDNX7) | [Mercy Girl](https://open.spotify.com/artist/1lwbviKaSPeuUgIqAgNpdn) | [Closer](https://open.spotify.com/album/4s60dNq1K5VraiT14LT9Xf) | 2:57 | 2025-12-07 | 2025-12-19 |
+| [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 | 2026-03-08 |  |
 | [November](https://open.spotify.com/track/6saWWilud85AtEAxOhEYKj) | [The Marches](https://open.spotify.com/artist/33CBupe8XtMytDavmFsAYK) | [November](https://open.spotify.com/album/0WSEMdQ7LyZFXiDP38dmKL) | 3:42 | 2025-11-23 | 2026-02-02 |
 | [Out Alive](https://open.spotify.com/track/2pJpwBSvXFSyNjkNo2p6b0) | [Mike McKenzie](https://open.spotify.com/artist/1ovhdzbqCmorFrI1dq0TAd) | [I'd Wait Again](https://open.spotify.com/album/0pdBVIn45RJ8A9FXqAJpTx) | 3:42 | 2025-11-23 | 2025-12-08 |
 | [Overdrinking](https://open.spotify.com/track/1vrQYRiTRkmNaNZwLL7ycy) | [The Falls Band](https://open.spotify.com/artist/2fVYWVFLpWFpLnuhCUhyuu) | [VIVA LA FALLS](https://open.spotify.com/album/34BB2RMplDpzoqIlUAE3UZ) | 3:44 | 2026-02-27 |  |

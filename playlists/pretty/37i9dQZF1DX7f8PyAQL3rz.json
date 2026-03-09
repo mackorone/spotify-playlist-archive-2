@@ -1,6 +1,6 @@
 {
   "description": "PTQFA ta na rua, chegou o momento das ex",
-  "num_followers": 1454067,
+  "num_followers": 1453975,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -539,30 +539,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "COLAPSO GLOBAL",
-        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199685,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "THE BOX MEDLEY FUNK 10",
         "url": "https://open.spotify.com/album/5jRLCp92otv3OFzkWS0t0e"
       },
@@ -607,6 +583,30 @@
       "duration_ms": 432000,
       "name": "THE BOX MEDLEY FUNK 10 (feat. MC GP & Mc Neg\u00e3o Original)",
       "url": "https://open.spotify.com/track/1QB4ECV5w5xLZtbq6qGIwB"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "COLAPSO GLOBAL",
+        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199685,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -923,30 +923,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "Vagabundo",
-        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
-      },
-      "artists": [
-        {
-          "name": "DJ JHOW BEATS",
-          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "DJ J2",
-          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
-        }
-      ],
-      "duration_ms": 159634,
-      "name": "Solo Paulista",
-      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -975,6 +951,30 @@
       "duration_ms": 342857,
       "name": "Presentinho",
       "url": "https://open.spotify.com/track/5p4kRwizPeq39JpvOL8kYC"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "Vagabundo",
+        "url": "https://open.spotify.com/album/3NeFKJipmZQHAYGhvm6Ogr"
+      },
+      "artists": [
+        {
+          "name": "DJ JHOW BEATS",
+          "url": "https://open.spotify.com/artist/4CpxOMOqIfPQmEet9UnWhe"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "DJ J2",
+          "url": "https://open.spotify.com/artist/64ZV1p2uqJZi2StfpemVFD"
+        }
+      ],
+      "duration_ms": 159634,
+      "name": "Solo Paulista",
+      "url": "https://open.spotify.com/track/6LeKnFXj99E6pdlq7rz0x7"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
+        "name": "Que toda dor vire dinheiro",
+        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
+      },
+      "artists": [
+        {
+          "name": "SNIF",
+          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Que toda dor vire dinheiro",
+      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
         "name": "Ela Quer Conhecer Meu Mundo",
         "url": "https://open.spotify.com/album/3Wtq8VX6DvFNbD4c17HRDK"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 152275,
       "name": "Ela Quer Conhecer Meu Mundo",
       "url": "https://open.spotify.com/track/5SF5fmdY3FKDOhNiZN4l2L"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
-        "name": "Que toda dor vire dinheiro",
-        "url": "https://open.spotify.com/album/6ebVCYkVqBKawOWNp7JvSF"
-      },
-      "artists": [
-        {
-          "name": "SNIF",
-          "url": "https://open.spotify.com/artist/63ZrK9TMmqROQh6geNQXsw"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Que toda dor vire dinheiro",
-      "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
     },
     {
       "added_at": "2026-03-06 13:37:33",
@@ -1595,26 +1595,6 @@
     {
       "added_at": "2026-03-06 13:37:33",
       "album": {
-        "name": "Congelado",
-        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Dj Herculano",
-          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
-        }
-      ],
-      "duration_ms": 257142,
-      "name": "Congelado",
-      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
-    },
-    {
-      "added_at": "2026-03-06 13:37:33",
-      "album": {
         "name": "Press\u00e1gio (Studio Rec #9)",
         "url": "https://open.spotify.com/album/7kRLRiRjCpzKYlO8Ku7Oxf"
       },
@@ -1631,6 +1611,26 @@
       "duration_ms": 152812,
       "name": "Press\u00e1gio (Studio Rec #9)",
       "url": "https://open.spotify.com/track/0mqn4Z7wLkveA0DlQuARLq"
+    },
+    {
+      "added_at": "2026-03-06 13:37:33",
+      "album": {
+        "name": "Congelado",
+        "url": "https://open.spotify.com/album/5miBfk7sbs8B8I8keKO719"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Dj Herculano",
+          "url": "https://open.spotify.com/artist/3MKTBehlfl8npR15s9GaGv"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Congelado",
+      "url": "https://open.spotify.com/track/6isKHPmLTVivlrS7ywADqr"
     }
   ],
   "unique_name": "creme",

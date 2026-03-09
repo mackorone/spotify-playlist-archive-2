@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 533886,
+  "num_followers": 533874,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
-      },
-      "artists": [
-        {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
-        }
-      ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Yves Montand",
         "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 176200,
       "name": "Sous le ciel de Paris",
       "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Comment te dire adieu ?",
-        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 146333,
-      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
-      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/4XvvwnuEOPWWOexWJDbeYf"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 170840,
       "name": "Aline",
       "url": "https://open.spotify.com/track/17ODC17zbOv6MVBDiANvue"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Comment te dire adieu ?",
+        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
+      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
-        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "J'ai deux amours",
-      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les mots bleus",
         "url": "https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
+        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "J'ai deux amours",
+      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
     },
     {
       "added_at": "2024-07-25 13:22:22",

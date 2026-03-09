@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 614 likes - 37 songs - 2 hr 1 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 616 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,9 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 35 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 |
 | 36 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 |
 | 37 | [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 |
+| 38 | [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 |
+| 39 | [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 |
+| 40 | [The Time Will Come](https://open.spotify.com/track/1wbFCBdi3TuXBXWwfrvRWw) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [The Time Will Come](https://open.spotify.com/album/6bqVdhTjNJHkQJWOui8IQC) | 3:09 |
+| 41 | [Bellissimo](https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Bellissimo](https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ) | 2:40 |
 
-Snapshot ID: `AAADLf7wbUSNouCkOfOMbW5xCAI4AGQQ`
+Snapshot ID: `AAADMcylr+gsD9+7oMQPPBVLtliW7nMB`

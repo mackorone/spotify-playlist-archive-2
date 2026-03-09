@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 461,464 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 461,548 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Chiri Hari](https://open.spotify.com/track/1YQmUOQUxVeHebdKBX6m71) | [Samba Touré](https://open.spotify.com/artist/3XHp0LmHYLkVBPsH3B66zi) | [Gandadiko](https://open.spotify.com/album/33aNFeKXCZ15cxpN5S9nSB) | 4:00 |
 | 2 | [Laidu](https://open.spotify.com/track/05CF4ATpqROLTQVYABNZ3W) | [Rokia Traoré](https://open.spotify.com/artist/6sz0k1q2aEtG5dxEgr4YWV) | [Mouneïssa](https://open.spotify.com/album/21Tj95e18stlS6SetlwqAa) | 6:26 |
 | 3 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
-| 4 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
+| 4 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
 | 5 | [Je pense à toi](https://open.spotify.com/track/53AU0RJlfFTofiu0uZZSIf) | [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sou Ni Tile](https://open.spotify.com/album/3YkgbENywpHkRQlzT2y3aR) | 5:16 |
 | 6 | [Achinkad](https://open.spotify.com/track/3HsUImLYZkBYmCLAtvRFVl) | [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Achinkad](https://open.spotify.com/album/18mh747W9C4QbHRDhSZUjr) | 4:16 |
-| 7 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [Lamomali](https://open.spotify.com/artist/7DxGG5hXfOSgepxXa7UqRF), [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
+| 7 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
 | 8 | [Imidiwan Takyadam \- feat\. José González](https://open.spotify.com/track/2b4fBioLLqcnL4reo9XtRu) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Imidiwan Takyadam](https://open.spotify.com/album/1GRebforJ6lYt2aST9WKle) | 4:16 |
 | 9 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
 | 10 | [Mogoya](https://open.spotify.com/track/3aPOQ6TdIuAW8m1KZid1Hv) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Mogoya](https://open.spotify.com/album/43euCDOikmefRS29Y55pLX) | 3:30 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 39 | [Ansuf](https://open.spotify.com/track/12j2cxm2cUNt2EqynA7302) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Azizdeg](https://open.spotify.com/album/1oV2PusQ9T05cJb2Keubpr) | 4:50 |
 | 40 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
 | 41 | [Lagi](https://open.spotify.com/track/6T0wxfTmgWw67QM6IJQvU4) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Soutak](https://open.spotify.com/album/4X7wSphcqgl8gvqdnOQkbB) | 5:53 |
-| 42 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
-| 43 | [Raoud](https://open.spotify.com/track/6xSRAG0RwyuQGrg0VSiuR4) | [Daraa Tribes](https://open.spotify.com/artist/1hEXYUp6EfNSPICIwe4xZg) | [Alwan](https://open.spotify.com/album/32ZjBN4YiB8MBUa5AltVjh) | 4:17 |
+| 42 | [Raoud](https://open.spotify.com/track/6xSRAG0RwyuQGrg0VSiuR4) | [Daraa Tribes](https://open.spotify.com/artist/1hEXYUp6EfNSPICIwe4xZg) | [Alwan](https://open.spotify.com/album/32ZjBN4YiB8MBUa5AltVjh) | 4:17 |
+| 43 | [Yarab](https://open.spotify.com/track/4DdoInAoNy6cT6Z1AAj6vX) | [Malouma](https://open.spotify.com/artist/0TuCYPg3Na5TogmBIEl7T5) | [Nour](https://open.spotify.com/album/6KGuLkvq9MNHbK4ttF0vx3) | 5:05 |
 | 44 | [Alghalem](https://open.spotify.com/track/2CGi0kPFzrErHlYjzQpLAh) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Aratan n Azawad](https://open.spotify.com/album/0MnMc9NEsJcHjsUv2GXqb9) | 3:41 |
 | 45 | [Taryet](https://open.spotify.com/track/3mVFTZGjfus9XbxQhNai4y) | [Tarwa N\-Tiniri](https://open.spotify.com/artist/2P3kENKNn238gnbgv8gKez) | [Taryet](https://open.spotify.com/album/0hkzlHUqNYoMrdRcTFllJf) | 5:41 |
 | 46 | [Baraka](https://open.spotify.com/track/1aCV7ocnKXsLSb0oX2dmup) | [Aziza Brahim](https://open.spotify.com/artist/0ydDa6afIYote2AtmgSycS) | [Abbar el Hamada](https://open.spotify.com/album/1TVWhiqo2BlNO1rxB1exn3) | 3:51 |

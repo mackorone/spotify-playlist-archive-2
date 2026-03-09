@@ -4,7 +4,7 @@
 
 > ¡Alista la hielerona que nos vamos pa' las dunas!
 
-385 songs - 20 hr 4 min
+386 songs - 20 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Como Es Arriba Es Abajo](https://open.spotify.com/track/0Dn0h4YdPvM4v0HNdgnyeP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dan Sanchez](https://open.spotify.com/artist/29LOQe4F0ahBUdRnZkm6xw) | [Como Es Arriba Es Abajo](https://open.spotify.com/album/5AEvjmTHKQsk1uQr2MCreb) | 2:45 | 2023-08-08 | 2024-11-16 |
 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 | 2023-08-08 | 2023-11-25 |
 | [Como Quieras Quiero](https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 2:02 | 2023-08-08 | 2023-10-07 |
-| [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 | 2024-11-06 |  |
+| [Con Toda La Fe](https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Con Toda La Fe](https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx) | 2:24 | 2024-11-06 | 2026-03-09 |
 | [Con Todo Respetillo](https://open.spotify.com/track/7LPcTHeoskQiZ6tv84ZYTa) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Mis Compas Vol\. 1](https://open.spotify.com/album/5yFMiYNofsNSNFcou6VcGa) | 2:57 | 2024-11-15 | 2026-02-10 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-01-03 |  |
 | [Corum](https://open.spotify.com/track/5Nic01Mo4dZzAgyU3hy4da) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr) | [Tutankamon](https://open.spotify.com/album/4ryjxzYmf7uFr7QA87IKoz) | 2:32 | 2025-07-30 | 2025-09-12 |
@@ -361,6 +361,7 @@
 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 | 2025-07-04 | 2026-01-22 |
 | [TESLA](https://open.spotify.com/track/24ywDS7nerYsXy99wwbEDk) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26) | [TESLA](https://open.spotify.com/album/4KAl3vaHCPQDvqHtPPwpeL) | 2:16 | 2024-04-16 | 2024-09-19 |
 | [Tipo Gatsby](https://open.spotify.com/track/1PTgQ0HyfwbXRKapVPNKxI) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [DISTORSIÓN](https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT) | 3:22 | 2023-12-22 |  |
+| [Todo Es Diferente](https://open.spotify.com/track/1J3LtyCOLfYTdtMV4aNAl3) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo Es Diferente](https://open.spotify.com/album/3l84HJsuRqXtmmXXPfYnP9) | 3:20 | 2026-02-27 |  |
 | [Total Black](https://open.spotify.com/track/1uOhWfjUCOrSVaNRWAmxYh) | [Tombochio](https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r) | [Total Black](https://open.spotify.com/album/7lEMSgfXDH0rcLCKUTrG8Z) | 3:10 | 2024-09-18 | 2024-10-19 |
 | [TQM](https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [TQM](https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e) | 2:38 | 2023-08-08 |  |
 | [TRES BOTELLAS](https://open.spotify.com/track/2CshODtf7iwe3pKlPmEWF5) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 2:42 | 2023-10-06 | 2025-09-12 |

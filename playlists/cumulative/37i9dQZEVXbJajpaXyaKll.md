@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-2,159 songs - 4 day 18 hr 34 min
+2,160 songs - 4 day 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [ANXIETY \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2025-03-04 | 2025-03-26 |
 | [Apaga El Cel](https://open.spotify.com/track/6yRe5Fl3lqAh759vb23eHi) | [Filtramusic](https://open.spotify.com/artist/1qdcmBIfUbb8QjPr23Hu7R) | [Apaga El Cel](https://open.spotify.com/album/3QVVMwJ4u57XM31gfxClmG) | 1:35 | 2024-05-14 | 2024-05-18 |
 | [APAGA EL CEL](https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [APAGA EL CEL](https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF) | 3:04 | 2024-06-04 | 2024-06-13 |
+| [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 | 2026-03-08 |  |
 | [Aperture](https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Aperture](https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx) | 5:11 | 2026-02-10 | 2026-02-14 |
 | [Apple](https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 | 2024-07-22 | 2024-08-21 |
 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 | 2024-06-04 | 2024-06-13 |
@@ -181,7 +182,7 @@
 | [Baiana \- With L\-Gante](https://open.spotify.com/track/4TzjlaYjHqJjAM2fKI5kJd) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana \(With L\-Gante\)](https://open.spotify.com/album/47jVx02p4suntmhpJGmRSE) | 2:26 | 2025-10-28 | 2025-10-31 |
 | [Baila para Mi](https://open.spotify.com/track/4CHKZHS8tdGbbVbmKDbM7L) | [La Rejunta](https://open.spotify.com/artist/0N8yshYVjJL0UVHmGICvaX) | [Baila para Mi](https://open.spotify.com/album/01ckyOlu0ZL5j3Z1qDirFm) | 2:38 | 2025-09-30 | 2025-10-02 |
 | [Bailalo Rocky](https://open.spotify.com/track/2Zoj2wAVbWXi8bcfkhYfQw) | [Dj Roderick](https://open.spotify.com/artist/0xt5YPdGAXuZpcvJpuhDC0), [Dj Jose Gonzalez](https://open.spotify.com/artist/6YT2cextE84WCA3Hwlc5Eg), [Ariadne Arana](https://open.spotify.com/artist/5k5RJzP8MAKLrPgvpYTKKd) | [Bailalo Rocky](https://open.spotify.com/album/0WwFQIWHODcGDoh3xHC4Jj) | 1:46 | 2025-03-15 | 2025-04-03 |
-| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-21 |  |
+| [BAILE INoLVIDABLE](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 6:07 | 2025-01-21 | 2026-03-09 |
 | [Bajo De La Piel](https://open.spotify.com/track/3io2lDGcBuinTqSvIhQfAk) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Bajo De La Piel](https://open.spotify.com/album/76qJOX4kiSAyRHMicyHjO2) | 2:48 | 2025-09-23 | 2025-09-28 |
 | [Bajo De La Piel](https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [La Vida Era Más Corta](https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd) | 2:48 | 2025-09-27 | 2025-10-15 |
 | [Bajo El Sol](https://open.spotify.com/track/79p4NdKFVlLpGlKxKSDxYZ) | [turrobaby](https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB) | [Bajo El Sol / Lloviendo En La Ciudad](https://open.spotify.com/album/2MSmPvmViMAYXXeN6evDCL) | 2:52 | 2025-04-02 | 2025-04-09 |

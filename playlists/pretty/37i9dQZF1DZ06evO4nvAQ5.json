@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16181,
+  "num_followers": 16182,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAJVDYpqWDcKn5th39syAsN",
+  "snapshot_id": "aatqgAAAAAAt0bKr5h8W5nUQZ2d6jQa4",
   "tracks": [
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wash House Ting",
         "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 276586,
       "name": "Brighter Days",
       "url": "https://open.spotify.com/track/1Wol1mtEGmrb178XVxJdpu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CELEBRATION",
         "url": "https://open.spotify.com/album/4eBp5HfKr28qzlcpmYIdjy"
       },
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+        "name": "My Audio",
+        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
       },
       "artists": [
         {
@@ -780,53 +796,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
-        }
-      ],
-      "duration_ms": 188783,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marching Orders",
-        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 230563,
-      "name": "Mama Roots",
-      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+      "duration_ms": 235684,
+      "name": "My Audio",
+      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
     },
     {
       "added_at": null,
@@ -871,18 +843,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Audio",
-        "url": "https://open.spotify.com/album/3L9tTUH2OUjHrP8zAEwp24"
+        "name": "Marching Orders",
+        "url": "https://open.spotify.com/album/1mTwtUHI9TLq3b0hk4DrFO"
       },
       "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 235684,
-      "name": "My Audio",
-      "url": "https://open.spotify.com/track/4A3b23XdMVDPX6cdzHQOjb"
+      "duration_ms": 230563,
+      "name": "Mama Roots",
+      "url": "https://open.spotify.com/track/24FUGFUy6nMxwonEI3wtvj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/1xC4rDxccWwdxTTF3Q4uS9"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 188783,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3CPOkmC658WbCY4HnPjxta"
     },
     {
       "added_at": null,

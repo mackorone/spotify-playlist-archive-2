@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-376 songs - 20 hr 26 min
+377 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-08 | 2025-05-09 |
 | [Dear Christmas \- V.F](https://open.spotify.com/track/4J2ZoKddzvOYvsFr3gZbia) | [Ryan Kennedy](https://open.spotify.com/artist/25jAO2QiZae4aSLA9LBXHS) | [Dear Christmas \- Single](https://open.spotify.com/album/6qmKVcB8zYGCSNQmXTXvSO) | 3:25 | 2021-12-17 | 2022-07-26 |
 | [Dehors](https://open.spotify.com/track/7mhZardfXbJ6vsEBiBxngd) | [Renee Wilkin](https://open.spotify.com/artist/5f3h6jc2qEOJbMaPKFh1ho) | [Dehors](https://open.spotify.com/album/1cTWrZpdwBVM7TjK0tYGrO) | 3:25 | 2025-12-12 | 2025-12-21 |
-| [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 | 2025-12-12 |  |
+| [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 | 2025-12-12 | 2026-03-09 |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Music 100 Hits](https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0) | 3:49 | 2021-12-17 | 2022-07-26 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Rock Music](https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe) | 3:41 | 2022-11-12 | 2022-11-13 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-12-17 | 2024-04-19 |
@@ -323,6 +323,7 @@
 | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/track/6pheMGrfMwwnypqafU7d4k) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Run Rudolph Run \- Spotify Singles Holiday](https://open.spotify.com/album/1pSxnWkixgHxo9jnGK66nb) | 2:35 | 2024-12-06 | 2025-12-13 |
 | [Sainte Nuit](https://open.spotify.com/track/04iRY9jDir3zzfR8maVhW6) | [Annie Blanchard](https://open.spotify.com/artist/24qMzpzrkTCHm3dqASHnO4) | [Chansons de Noël pour la Fondation Jasmin Roy](https://open.spotify.com/album/2N6KwkKULuUM5xZFuQ4v00) | 4:35 | 2021-12-17 | 2022-07-29 |
 | [Sainte nuit](https://open.spotify.com/track/4Yg8sGXGNNTluvZqGwbxDo) | [Les Gars Du Nord](https://open.spotify.com/artist/1oP33Qef6w5SeTOfyoKoTu) | [Les Gars Du Nord](https://open.spotify.com/album/7Ke95dHUELWoPehbQvIhbz) | 3:51 | 2021-12-17 | 2022-07-28 |
+| [Sainte Nuit](https://open.spotify.com/track/4gAgVk0X8m3t5NDJc3GYCB) | [Victoire Musique](https://open.spotify.com/artist/32sbuppF72lJLfmjCkOtbl) | [Sainte Nuit](https://open.spotify.com/album/2vTgx0uKwHO6ZRKwcq4nle) | 5:25 | 2025-12-12 |  |
 | [Santa Baby](https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [The Essential Eartha Kitt](https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ) | 3:26 | 2021-12-17 | 2024-11-08 |
 | [Santa Baby](https://open.spotify.com/track/4rAwprLoQULEVb1UrGx9dW) | [La Zarra](https://open.spotify.com/artist/0NkmvuSD5Pm8zucjwIpChS) | [Santa Baby](https://open.spotify.com/album/3CreiqJnwLy65rMoLv2bPT) | 3:28 | 2021-12-17 |  |
 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/6syO6UTl8QiiWADJy3Uy2d) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Christmas](https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a) | 2:14 | 2021-12-17 | 2025-12-13 |

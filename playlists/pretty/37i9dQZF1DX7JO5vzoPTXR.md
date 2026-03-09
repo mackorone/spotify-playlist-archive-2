@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by:  <a href="spotify:artist:60LfX8q7jliswygVxBPIL4">Rita Wilson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,601 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,610 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

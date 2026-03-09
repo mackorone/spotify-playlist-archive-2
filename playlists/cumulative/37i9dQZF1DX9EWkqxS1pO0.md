@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Doğa
 
-366 songs - 18 hr 34 min
+367 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/track/0Gh6eyUsAMhChAIhih4UIQ) | [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C), [Rakin](https://open.spotify.com/artist/4kQJbtGKPd0tvsZAu7WfqO) | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/album/2AHIcjdhSQDmmO9VRruccX) | 2:45 | 2024-08-22 | 2024-12-22 |
 | [Ben Sana Gelemem](https://open.spotify.com/track/3gdY5WFt7i6BWVLie3t6hQ) | [Mela Bedel](https://open.spotify.com/artist/55WpZ8ig2SFNvQpDHPUrgY) | [Ben Sana Gelemem](https://open.spotify.com/album/6VotTGGtlSzAuy8q5JCSsV) | 3:12 | 2024-06-20 | 2025-09-26 |
 | [Benden Öte](https://open.spotify.com/track/6JfgPAQw0QReNRefKBu13n) | [Kaan Ceylan](https://open.spotify.com/artist/3c78ilDTckX5klD0x6fHlj) | [Benden Öte](https://open.spotify.com/album/6Qq7CP7qhgqwW3bvrMpHnw) | 2:50 | 2025-12-11 |  |
+| [Beni Alıp Götürmüşler](https://open.spotify.com/track/33cFNf5A2VxX8pHjeC3Xam) | [2bin7](https://open.spotify.com/artist/2M3UxH9J4IsFHtY9OUNSlk) | [Beni Alıp Götürmüşler](https://open.spotify.com/album/36pTGIULIAIzLWLFLBY1AR) | 4:01 | 2026-02-27 |  |
 | [Beni Anla](https://open.spotify.com/track/4hDNZTqjqDrtM07DaOYAei) | [Geceyi Kurtar](https://open.spotify.com/artist/1zIb6ucwFl2fiewnPQNE5f) | [Beni Anla](https://open.spotify.com/album/0168AFy8qdzlb6z5NddBxt) | 3:36 | 2024-08-15 | 2024-09-09 |
-| [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 | 2025-07-24 | 2026-03-08 |
+| [beni arama](https://open.spotify.com/track/6LM3yarovhF9jCQlw4mfhv) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [beni arama](https://open.spotify.com/album/6caVqc1z4VLFKXFpkEBvJB) | 2:08 | 2025-07-24 |  |
 | [Beni de Kendine Benzettin](https://open.spotify.com/track/2ZbYaf7AzESGpVd3yjcKeD) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Beni de Kendine Benzettin](https://open.spotify.com/album/4FrcDo79Wu0sZkhPPnOw6F) | 2:58 | 2024-08-08 | 2024-10-10 |
 | [beni sen delirttin](https://open.spotify.com/track/3QUTdtNOBOgwvuFazxpyBN) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [beni sen delirttin](https://open.spotify.com/album/70ETsLDEvUTlcYgJn2Pi4R) | 2:56 | 2024-06-20 | 2025-03-01 |
 | [Beni Seviyo](https://open.spotify.com/track/20O92DIuPCTt9yIoudyqtP) | [Alara Serena](https://open.spotify.com/artist/4ggPxt5YPNtQ1RgwKComXu) | [Beni Seviyo](https://open.spotify.com/album/131EG59oUCxBSezj1EDY11) | 2:41 | 2024-06-20 | 2024-08-09 |
@@ -313,7 +314,7 @@
 | [Yandım](https://open.spotify.com/track/1sJYCf9SzSPkC4WeyB826O) | [Masal](https://open.spotify.com/artist/0T8Qsmk6VosVBTPdx5hX7x) | [Yandım](https://open.spotify.com/album/3cIvO83E6AhaNqmClWrKhc) | 2:44 | 2025-05-15 | 2025-07-07 |
 | [YANGIN](https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [YANGIN](https://open.spotify.com/album/7CnFy0ArSpItDMwNsx2eIp) | 2:18 | 2024-06-20 | 2025-07-18 |
 | [Yangında Dans](https://open.spotify.com/track/6Q5CVbn9c6oTWk9ISOaq9u) | [Mertkan Özkan](https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh) | [Yangında Dans](https://open.spotify.com/album/1lF1JvqUKYbM01InpFZDBh) | 3:30 | 2025-07-24 | 2025-12-19 |
-| [YANILSAMA](https://open.spotify.com/track/4wTSdizMPYWi8uWGm66ypW) | [zeynep](https://open.spotify.com/artist/4R3Ybs40poIDUIiQGbEkHe) | [YANILSAMA](https://open.spotify.com/album/3RM5nHzbK75y6kkjsdCKlw) | 2:19 | 2026-01-08 |  |
+| [YANILSAMA](https://open.spotify.com/track/4wTSdizMPYWi8uWGm66ypW) | [zeynep](https://open.spotify.com/artist/4R3Ybs40poIDUIiQGbEkHe) | [YANILSAMA](https://open.spotify.com/album/3RM5nHzbK75y6kkjsdCKlw) | 2:19 | 2026-01-08 | 2026-03-09 |
 | [Yanımda Ol](https://open.spotify.com/track/5Ycw6Hh1IKdEyumGBVS5Y9) | [Alba](https://open.spotify.com/artist/3gT9Z8pVuqk2Rvl52J5W71), [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa) | [Yanımda Ol](https://open.spotify.com/album/6TSwhuFNoVRe0LyqFLG24K) | 2:38 | 2025-04-18 | 2025-05-16 |
 | [Yanına Kalacak](https://open.spotify.com/track/15SRcNq7zHuWBkpKW7g4QG) | [Giz](https://open.spotify.com/artist/4xHMxTG1wa06uHMezG7Hfs) | [Yanına Kalacak](https://open.spotify.com/album/3hsM2OqlYqzDVjtX4rX8AU) | 2:22 | 2024-06-20 | 2024-09-06 |
 | [Yaralandım](https://open.spotify.com/track/4tqwM1FL62VTO1gPZe8h8B) | [Kadir Ceyhan](https://open.spotify.com/artist/5kThLVzZzoYJMKKSO5G7Ph) | [Yaralandım](https://open.spotify.com/album/3luIitSJNd1AChtKHlYPBj) | 3:12 | 2025-06-27 | 2025-08-16 |
@@ -344,7 +345,7 @@
 | [YOK YOK](https://open.spotify.com/track/2r7bxCVdm5oH7v9l5kSoVa) | [Konu Sen Değilsin](https://open.spotify.com/artist/0sxkccugLSSE5Vm45KCtXG) | [YOK YOK](https://open.spotify.com/album/4xh27pbBHQeguT2a6GMdZ5) | 2:28 | 2025-09-25 | 2025-11-07 |
 | [Yok Yok](https://open.spotify.com/track/68jMTjLKJy7PzYReGJ3bCw) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Yok Yok](https://open.spotify.com/album/3QeBIMpH51fL7RTp4hVAS4) | 4:17 | 2025-01-16 | 2025-03-05 |
 | [Yok Çarem](https://open.spotify.com/track/24xDhoPk7y5oqeAszaz8d0) | [Melis Aydın](https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6) | [Yok Çarem](https://open.spotify.com/album/2KYzsYYCXhf5rOwAWlvFxc) | 3:21 | 2024-06-20 | 2024-08-06 |
-| [Yokluğunun Derdi](https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yokluğunun Derdi](https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1) | 3:34 | 2024-11-14 |  |
+| [Yokluğunun Derdi](https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yokluğunun Derdi](https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1) | 3:34 | 2024-11-14 | 2026-03-09 |
 | [Yoksa](https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Yoksa](https://open.spotify.com/album/7KKvr4LKTp2jRSKcxdSjX6) | 3:22 | 2024-10-03 | 2024-12-05 |
 | [Yollar Boyunca](https://open.spotify.com/track/4jNcu2S7xwt8A8ErWtft3q) | [Mavi Huydur Bende](https://open.spotify.com/artist/6YKosyBfvwFSuNMXlG0I7G) | [İki Oda Bir Salon](https://open.spotify.com/album/7hWrtRdnlNh24VZVG1lzku) | 4:05 | 2024-11-28 | 2025-01-28 |
 | [Yummy Yummy](https://open.spotify.com/track/4uqCvHV0ffosYKpOKRd9Ah) | [Suzet](https://open.spotify.com/artist/38AyHbljCz6Er3RC2p9ekA) | [Yummy Yummy](https://open.spotify.com/album/3pI2WRpeOScbkVf6PcT6SX) | 2:27 | 2024-07-04 | 2024-07-21 |

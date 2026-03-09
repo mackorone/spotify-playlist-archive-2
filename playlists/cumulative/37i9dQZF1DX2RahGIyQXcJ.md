@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Badshah
 
-498 songs - 1 day 3 hr 21 min
+499 songs - 1 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [FUKUYAMA](https://open.spotify.com/track/7ne0g89uU1mbB4bIGva2dG) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Shashank Alamuru](https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh) | [FUKUYAMA](https://open.spotify.com/album/73cUP2Zeq51c0RQ3dt8Wxy) | 3:40 | 2025-12-05 | 2025-12-20 |
 | [G\-Shit \(feat\. Blockboi Twitch\)](https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Blockboi Twitch](https://open.spotify.com/artist/7fc9ZrMgda9ugNGz5DOTtw) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:53 | 2024-01-05 | 2025-04-19 |
 | [Gaah](https://open.spotify.com/track/3qcQOGnxrJL8ZJWpduXuao) | [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN), [Rippy Grewal](https://open.spotify.com/artist/1RaZAbVB4yopz69N1XlZvj) | [Gaah](https://open.spotify.com/album/0CrmWGpzpeuLMGdxXlRfG8) | 2:50 | 2022-07-18 | 2022-10-11 |
+| [Galiyon Ke Ghalib](https://open.spotify.com/track/3l8GKFbkD1dRhAmzw6fInB) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Galiyon Ke Ghalib](https://open.spotify.com/album/5tq2xUgRpWZMZzyiniZ7Sl) | 2:57 | 2026-03-08 |  |
 | [Game](https://open.spotify.com/track/2wZifw6baxFJlKLkmX0dOx) | [Big Sidley](https://open.spotify.com/artist/2nEDCFZLvqAIU8LkSEaEEE) | [Game](https://open.spotify.com/album/0wqckLBoyrfCkVTeLH3eRV) | 1:42 | 2025-04-18 | 2025-08-30 |
 | [Gandhi Money](https://open.spotify.com/track/3DXP7pJNl1AmAUl90CAGe0) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Kohinoor](https://open.spotify.com/album/0XDtCjokUgSrL527Ftk0xE) | 2:55 | 2021-12-03 | 2023-10-04 |
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2022-07-18 | 2024-01-06 |
@@ -447,7 +448,7 @@
 | [Takeover](https://open.spotify.com/track/5DVnSQ90r2M3gm6XbgTCLp) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Money Musik](https://open.spotify.com/artist/0Y5Wgx4aNU8Jm4T9OxI22o), [AR Paisley](https://open.spotify.com/artist/4CqzwlyoNSvoGeMk7NiMhd) | [Not by Chance](https://open.spotify.com/album/3Msv5MSxcayA4sbQpQhXzu) | 3:29 | 2021-12-03 | 2025-02-08 |
 | [Takkar](https://open.spotify.com/track/3cHiFevLL12b694Z0tlhAU) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Takkar](https://open.spotify.com/album/3Y9uD2dDjNLaKSP2K3m9FI) | 2:56 | 2025-12-05 | 2026-01-15 |
 | [Tasweer](https://open.spotify.com/track/2CMMyIYdieC1RDpxnIPeMG) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Therapy](https://open.spotify.com/album/5yRj8G5V3b8t5cIDS3VJZH) | 4:36 | 2023-11-17 | 2024-01-06 |
-| [Tateeree](https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Simran Jaglan](https://open.spotify.com/artist/54x8gJEux02W45CsSv87om), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tateeree](https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp) | 2:31 | 2026-03-06 |  |
+| [Tateeree](https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Simran Jaglan](https://open.spotify.com/artist/54x8gJEux02W45CsSv87om), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tateeree](https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp) | 2:31 | 2026-03-06 | 2026-03-09 |
 | [Tedhe Chaalak](https://open.spotify.com/track/5EXNgdixf4572ATdvnSdXL) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Ankee](https://open.spotify.com/artist/0eJO7NuzYBNE2tVGcxiRfn) | [Tedhe Chaalak](https://open.spotify.com/album/48e53D1ZHIh0EfVpCySju6) | 3:16 | 2024-02-23 | 2024-06-25 |
 | [Tension](https://open.spotify.com/track/70YFXFbrvl5J3nUfqxTFue) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Tension](https://open.spotify.com/album/4q4VhpYWO14Jtdeyg3w6wb) | 2:23 | 2025-08-29 | 2025-09-13 |
 | [Thaa](https://open.spotify.com/track/2NmBCDkjvJVvEZkH5QDOeb) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Ultra Beats](https://open.spotify.com/artist/2YzXsQoI3rqYNEVd4nac7g) | [Thaa](https://open.spotify.com/album/6u5RdRVp5HBStyPRWvHcgm) | 3:01 | 2024-01-05 | 2026-01-15 |

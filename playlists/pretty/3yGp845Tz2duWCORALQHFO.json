@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 26052,
+  "num_followers": 26054,
   "original_name": "NEW EDM 2026\u26a1 EDM HITS 2026 \u26a1 MUSICA ELECTRONICA 2026",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABlPmuF45jOBAoBEHn+nHdDWjFXCtbz",
+  "snapshot_id": "AABlP20GxFMgPAzRCK+EEKPuk8k66Iam",
   "tracks": [
     {
       "added_at": "2026-02-26 13:27:58",
@@ -1063,6 +1063,22 @@
       "duration_ms": 181935,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/2yWtbIBhuwJ6GHR5X5qP4O"
+    },
+    {
+      "added_at": "2026-03-08 21:41:51",
+      "album": {
+        "name": "Above The Sky",
+        "url": "https://open.spotify.com/album/3FswxKuzz32i2vLUZOlYo5"
+      },
+      "artists": [
+        {
+          "name": "Domestique",
+          "url": "https://open.spotify.com/artist/6hOUe5iEVbbezCH4n6uiYR"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Above The Sky",
+      "url": "https://open.spotify.com/track/1jbVB9IEqvvF8fJ2rQvwP6"
     },
     {
       "added_at": "2026-03-06 12:56:52",

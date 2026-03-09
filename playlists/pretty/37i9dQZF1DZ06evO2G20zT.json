@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 45795,
+  "num_followers": 45842,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAB77QtSq8Qgocno2yC1UMFP",
+  "snapshot_id": "aatqgAAAAACrq4e5lQcwPlb5hVV0Jc1R",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NAHAMciaga",
+        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Cana",
+      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Year I Turned 21",
         "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAHAMciaga",
-        "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Cana",
-      "url": "https://open.spotify.com/track/6iHVLqSeDVj70pcVULZzGj"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 142441,
-      "name": "UNIVERSE",
-      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
     },
     {
       "added_at": null,
@@ -428,9 +428,25 @@
           "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
+      "duration_ms": 142441,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/3wEguEqsbkMbrjzaPaKrJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Hushpuppi",
+      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
       "duration_ms": 215516,
       "name": "APALA DISCO (feat. Wizkid, Seyi Vibez & Terry Apala) - Remix",
       "url": "https://open.spotify.com/track/55nKxeuQ63YLqhtxPWMCgN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/1SsFGuWTEBgvDd50NZzGfn"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Hushpuppi",
-      "url": "https://open.spotify.com/track/4VanaQ2X3B4k3WBSFkgWca"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "NSNV",
+      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 164675,
-      "name": "NSNV",
-      "url": "https://open.spotify.com/track/7jvvjljkMmfMEpRWQ7MxE2"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 212297,
+      "name": "God Sent",
+      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WhatsApp",
         "url": "https://open.spotify.com/album/1XzyxAC4BrXyqVmGNxM7vU"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 134237,
       "name": "WhatsApp",
       "url": "https://open.spotify.com/track/2DRHfIWD9Mg70QgTxAKn4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "God Sent",
-      "url": "https://open.spotify.com/track/6CFlBksvFGvYk8yXP2JrGZ"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 151282,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goated",
         "url": "https://open.spotify.com/album/7nzHtsPsKBRqP1pr0P3Uy4"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 138997,
       "name": "Goated",
       "url": "https://open.spotify.com/track/33j3dZqaSkgIktA8geVsuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 151282,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/2T5GZC1hlOr9DahCK2WnFy"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/2AuZ237jxny5vdLm8BtadC"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 163846,
       "name": "Shazam",
       "url": "https://open.spotify.com/track/7h3lUXlCx5Wn7ac0fQriz3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 164213,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/6vnToAh7RIRYU4XMM2Wir4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NSNV",
         "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 120215,
       "name": "Catalyst",
       "url": "https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 164213,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/6vnToAh7RIRYU4XMM2Wir4"
     },
     {
       "added_at": null,

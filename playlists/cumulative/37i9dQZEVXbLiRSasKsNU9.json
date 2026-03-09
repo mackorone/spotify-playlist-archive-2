@@ -5299,6 +5299,24 @@
     },
     {
       "album": {
+        "name": "american wedding (Hotel California)",
+        "url": "https://open.spotify.com/album/2JoY9dEuuPRciigfcFm23O"
+      },
+      "artists": [
+        {
+          "name": "dopuu",
+          "url": "https://open.spotify.com/artist/4x3s0oZXSaNqkpWx4BAcTh"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "american wedding (Hotel California)",
+      "url": "https://open.spotify.com/track/4MWk55HpGESQdvthbGhMhF"
+    },
+    {
+      "album": {
         "name": "Americana Na Vaquejada",
         "url": "https://open.spotify.com/album/35vat6W0JnjkK3tXIqx1eX"
       },
@@ -52852,7 +52870,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 172323,
       "name": "Me and my",
       "url": "https://open.spotify.com/track/5MXcM263QvCTWriH3nVusc"
@@ -57832,6 +57850,24 @@
       "duration_ms": 176800,
       "name": "My Sister's Crown",
       "url": "https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n"
+    },
+    {
+      "album": {
+        "name": "My System",
+        "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "My System",
+      "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
       "album": {
@@ -63302,7 +63338,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 208461,
       "name": "Orange County (feat. Bizarrap, Kara Jackson and Anoushka Shankar)",
       "url": "https://open.spotify.com/track/4HnBNOfnPYCgRzB1dcAi3x"

@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 399903,
+  "num_followers": 399930,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Purified Fragments Vi",
+        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
+        }
+      ],
+      "duration_ms": 228196,
+      "name": "Firmoral",
+      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Laika.",
         "url": "https://open.spotify.com/album/67BUFgh99F0rfnZOKrxPSP"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 180458,
       "name": "Laika.",
       "url": "https://open.spotify.com/track/3EA4UHJwQhkGDEoESpz0px"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Purified Fragments Vi",
-        "url": "https://open.spotify.com/album/7zy8P6zIkCeX5dEBwbNTGJ"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        }
-      ],
-      "duration_ms": 228196,
-      "name": "Firmoral",
-      "url": "https://open.spotify.com/track/4o2LMdyunFhlVlDacprnUQ"
     },
     {
       "added_at": "2024-08-09 18:28:29",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-08-09 18:28:29",
       "album": {
+        "name": "Eyes Alive",
+        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
+      },
+      "artists": [
+        {
+          "name": "HVOB",
+          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
+        }
+      ],
+      "duration_ms": 365069,
+      "name": "Eyes Alive",
+      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
+    },
+    {
+      "added_at": "2024-08-09 18:28:29",
+      "album": {
         "name": "Oh, Lover (NTO Remix)",
         "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
-    },
-    {
-      "added_at": "2024-08-09 18:28:29",
-      "album": {
-        "name": "Eyes Alive",
-        "url": "https://open.spotify.com/album/6NAGlFY0sQqLG6eQxzR6X5"
-      },
-      "artists": [
-        {
-          "name": "HVOB",
-          "url": "https://open.spotify.com/artist/6RAx8RRxoHeJIqD2d0EjOa"
-        }
-      ],
-      "duration_ms": 365069,
-      "name": "Eyes Alive",
-      "url": "https://open.spotify.com/track/4MA5ZAVcGUzomiE4uJSPUb"
     },
     {
       "added_at": "2024-08-09 18:28:29",

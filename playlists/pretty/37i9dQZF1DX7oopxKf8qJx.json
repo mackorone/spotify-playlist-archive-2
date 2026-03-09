@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 134720,
+  "num_followers": 134786,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -911,18 +911,22 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "Around the World, Vol. 2",
-        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
+        "name": "The New Limelight",
+        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
       },
       "artists": [
         {
-          "name": "Frank Chacksfield Orchestra",
-          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
+          "name": "Harold Arlen",
+          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 148053,
-      "name": "Majorcan Holiday",
-      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
+      "duration_ms": 247040,
+      "name": "The Man That Got Away",
+      "url": "https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA"
     },
     {
       "added_at": "2024-07-17 14:53:29",
@@ -959,22 +963,18 @@
     {
       "added_at": "2024-07-17 14:53:29",
       "album": {
-        "name": "The New Limelight",
-        "url": "https://open.spotify.com/album/0gXy9ekZFZUZ9aatMvYgID"
+        "name": "Around the World, Vol. 2",
+        "url": "https://open.spotify.com/album/6NIUBR0tGunCCzgtGg6i8e"
       },
       "artists": [
         {
-          "name": "Harold Arlen",
-          "url": "https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Frank Chacksfield Orchestra",
+          "url": "https://open.spotify.com/artist/4p9uMiH2i6QPYGXx3WmpVi"
         }
       ],
-      "duration_ms": 247040,
-      "name": "The Man That Got Away",
-      "url": "https://open.spotify.com/track/1hDthwJhM5GqDkolDuMSoA"
+      "duration_ms": 148053,
+      "name": "Majorcan Holiday",
+      "url": "https://open.spotify.com/track/4Tf26KSoemitC17Ik00ViE"
     },
     {
       "added_at": "2024-07-17 14:53:29",

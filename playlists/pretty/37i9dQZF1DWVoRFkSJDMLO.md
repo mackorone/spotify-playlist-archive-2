@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > World music from the continent, to the islands with Ayra Starr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,001 likes - 65 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,125 likes - 65 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 24 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 25 | [Omo](https://open.spotify.com/track/2JePyTyj5nmjDe2ovgCChq) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Omo](https://open.spotify.com/album/0Q4bqBS5jE3GpU0bOmnen6) | 2:36 |
 | 26 | [Turbulence](https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [REAL, Vol\. 1](https://open.spotify.com/album/60S0Nvtm54AmG6d8lVkhMF) | 2:25 |
-| 27 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
+| 27 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
 | 28 | [Toma](https://open.spotify.com/track/1PHKYY5ii02wo9HsdiCLTD) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE), [Godwonder](https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv), [Dj Flavor](https://open.spotify.com/artist/57Vv4r3127efItFVxWrMuQ) | [Toma](https://open.spotify.com/album/1OKf6aJ3FUZbIWOHWukTbI) | 2:32 |
 | 29 | [Stinkin' Rich](https://open.spotify.com/track/0nUqiL6HY8f73tlHs5eXEE) | [NIGY BOY](https://open.spotify.com/artist/63o6Z7qrOen7eLbmYOx7gt), [Pop Style](https://open.spotify.com/artist/5pzWFizoqhuhkImntBH12H) | [Stinkin' Rich](https://open.spotify.com/album/67hanYC14PrsTKtlNPZy9l) | 2:43 |
 | 30 | [Encore](https://open.spotify.com/track/0HNiawjUbdLlOaPtbiXxYY) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Encore](https://open.spotify.com/album/04d8oF9KBLQrUgNXhMNa2l) | 4:17 |

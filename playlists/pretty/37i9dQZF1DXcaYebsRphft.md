@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 RIIZE CONCERT TOUR \[RIIZING LOUD\] Special Edition in TOKYO DOME』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,406 likes - 33 songs - 1 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,397 likes - 33 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 32 | [Another Life](https://open.spotify.com/track/39cCcB8SwwudStq1uNLyUl) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [ODYSSEY \- The 1st Album](https://open.spotify.com/album/5LGr4toULbiDoFoSTo0wCw) | 3:47 |
 | 33 | [Message from ANTON](https://open.spotify.com/track/1aUiRwSCVh0magbwgHasGJ) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Message from RIIZE](https://open.spotify.com/album/6JjlIXGq9Ky2kwpNxUG172) | 0:18 |
 
-Snapshot ID: `AAAAAKKx0Ihl5HHO7ysgKmmT8POhu+Jc`
+Snapshot ID: `AAAAAOjqv0zHoicZiyqHQno0giNjixYo`

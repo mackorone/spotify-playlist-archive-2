@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Ilusion Eterno
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,952 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,951 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 62 | [Ya Viene Nochebuena](https://open.spotify.com/track/6VxuFIWWqa9Z2TGgFFgMB7) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Ya Viene Nochebuena](https://open.spotify.com/album/7mQ9Rtxz3EdY7sghH66OR3) | 3:16 |
 | 63 | [Feliz Navidad](https://open.spotify.com/track/6Ra9tH3xV7bN7oHwYol2hi) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Navidad Con Bebeto](https://open.spotify.com/album/6HiQ6te1m4K2WqHYmB09ql) | 3:07 |
 | 64 | [Dulce Navidad](https://open.spotify.com/track/3NjkQv4ZlMxYfEgQSEnxQM) | [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [Dulce Navidad](https://open.spotify.com/album/1GZ1HpsACMcttVe1u5D6o0) | 2:47 |
-| 65 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 |
-| 66 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
+| 65 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 |
+| 66 | [Alrededor del Árbol de Navidad](https://open.spotify.com/track/12u3AcZo0voBCuVl3iG1lk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Alrededor del Árbol de Navidad](https://open.spotify.com/album/5EaoTSoWM1LVE5QmbpHz9m) | 2:04 |
 | 67 | [Cómo Poder Olvidar \- Spotify Sad Sierreño Holiday Singles](https://open.spotify.com/track/4OZCu7pKTrlkFEScQiaBPw) | [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Cómo Poder Olvidar \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/6EFtZfZJD8VVkstXVy2J2M) | 3:36 |
 | 68 | [Dame Un Beso En Noche Buena](https://open.spotify.com/track/4ppNsm9kQu6HvipzQ56T2A) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:38 |
 | 69 | [En Esta Navidad](https://open.spotify.com/track/7ofILMyGT68odr4rGQR1aP) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:01 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 78 | [En Esta Navidad](https://open.spotify.com/track/0esfRArcK1mkQapp2FYMnO) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:00 |
 | 79 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 |
 | 80 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 |
-| 81 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
-| 82 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
+| 81 | [La Güera Salomé](https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [La Güera Salomé](https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5) | 3:44 |
+| 82 | [El Burrito Sabanero](https://open.spotify.com/track/469MSmQG8v0E8p2JEX0mrY) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Iskander](https://open.spotify.com/artist/6qEHX4yRVZ5WP069VAaC2p), [SanJuan](https://open.spotify.com/artist/5COk5Ii3aTVBA7DsJLlNBq) | [El Burrito Sabanero](https://open.spotify.com/album/6d75W2OV6wICNxwSu4KCFU) | 3:51 |
 | 83 | [El Año Viejo](https://open.spotify.com/track/3oZMKFvh00SNtwzuzAh6kP) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 4:18 |
 | 84 | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/track/3h2EZK7QSmccERdtC665J7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Jingle Bells \(Vamos All The Way\)](https://open.spotify.com/album/0gR6qZcx3ByPTHIUUSBdFe) | 2:35 |
 | 85 | [Amarga Navidad](https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8) | [Amarga Navidad](https://open.spotify.com/album/3MNqibanIKz1fwJtIoSnqF) | 3:06 |

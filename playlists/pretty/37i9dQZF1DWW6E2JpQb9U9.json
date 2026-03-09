@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Mat\u00f3 a un Polic\u00eda Motorizado.",
-  "num_followers": 125227,
+  "num_followers": 125226,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
+        "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
+        "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 284756,
+      "name": "Tan Lejos",
+      "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
+    },
+    {
+      "added_at": "2026-03-06 10:20:04",
+      "album": {
         "name": "Instante Eterno (ac\u00fastico en Vivo)",
         "url": "https://open.spotify.com/album/3strzjXT1o3fjp6TmC67ev"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 227050,
       "name": "A D\u00f3nde Vas - Ac\u00fastico en Vivo",
       "url": "https://open.spotify.com/track/5En6kK2Xn4HgYQBhBgcxY0"
-    },
-    {
-      "added_at": "2026-03-06 10:20:04",
-      "album": {
-        "name": "Otras Canciones en Vivo en Latinoam\u00e9rica",
-        "url": "https://open.spotify.com/album/4UGpnKpfb814RkAWPUtSVP"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 284756,
-      "name": "Tan Lejos",
-      "url": "https://open.spotify.com/track/3XsRIqq4RnHfTRrHdZnNIm"
     },
     {
       "added_at": "2026-03-06 10:20:04",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
-        "name": "Ac\u00fastico Gran Rex, Vol. 2",
-        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
-      },
-      "artists": [
-        {
-          "name": "Guasones",
-          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
-        }
-      ],
-      "duration_ms": 278137,
-      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
-      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
-    },
-    {
-      "added_at": "2026-03-06 10:20:04",
-      "album": {
         "name": "Pepsi Music 2005",
         "url": "https://open.spotify.com/album/3tXQQLWOJSgvCHqmGGCd1N"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195866,
       "name": "El Viejo (En Vivo)",
       "url": "https://open.spotify.com/track/7dF2tY2XnIJCfAn5xEegm0"
+    },
+    {
+      "added_at": "2026-03-06 10:20:04",
+      "album": {
+        "name": "Ac\u00fastico Gran Rex, Vol. 2",
+        "url": "https://open.spotify.com/album/5FhGXJP1oaVkRnjoloyz4u"
+      },
+      "artists": [
+        {
+          "name": "Guasones",
+          "url": "https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o"
+        }
+      ],
+      "duration_ms": 278137,
+      "name": "My Love - Ac\u00fastico Gran Rex Vol. 2",
+      "url": "https://open.spotify.com/track/3YmSjzUch6kPXI8gAc16Ug"
     },
     {
       "added_at": "2026-03-06 10:20:04",
@@ -975,26 +975,6 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
-        "name": "En Vivo en el Teatro \u00d3pera",
-        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
-      },
-      "artists": [
-        {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
-        },
-        {
-          "name": "EMI",
-          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
-        }
-      ],
-      "duration_ms": 285053,
-      "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
-    },
-    {
-      "added_at": "2026-03-06 10:20:04",
-      "album": {
         "name": "MVD/05/03/05 (En Vivo)",
         "url": "https://open.spotify.com/album/3fV0us97rc1lbhjWVWQO2U"
       },
@@ -1015,6 +995,26 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
+        "name": "En Vivo en el Teatro \u00d3pera",
+        "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        },
+        {
+          "name": "EMI",
+          "url": "https://open.spotify.com/artist/6ITLgutvUhAIXVBbdr7FB1"
+        }
+      ],
+      "duration_ms": 285053,
+      "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2026-03-06 10:20:04",
+      "album": {
         "name": "Solo Aqu\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/3vzJeKwWUT44LdPCQrUki0"
       },
@@ -1027,6 +1027,22 @@
       "duration_ms": 247578,
       "name": "Solo Aqui - En Vivo",
       "url": "https://open.spotify.com/track/1pIjHr3eZygWJ2DSisk7nJ"
+    },
+    {
+      "added_at": "2026-03-06 10:20:04",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 263373,
+      "name": "Pronta Entrega - En Vivo",
+      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
     },
     {
       "added_at": "2026-03-06 10:20:04",
@@ -1051,18 +1067,18 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/7byqd7hsiFnu2cd4LQPlBm"
+        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
+        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
       },
       "artists": [
         {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
         }
       ],
-      "duration_ms": 263373,
-      "name": "Pronta Entrega - En Vivo",
-      "url": "https://open.spotify.com/track/4R924NQoTVx3BJxgghtDSm"
+      "duration_ms": 334320,
+      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
+      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2026-03-06 10:20:04",
@@ -1079,22 +1095,6 @@
       "duration_ms": 304386,
       "name": "Magia Blanca - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/1nYpwh84SyGAYDjOE5LNN0"
-    },
-    {
-      "added_at": "2026-03-06 10:20:04",
-      "album": {
-        "name": "Provincia Emergente Estadio Unico de La Plata (En Vivo)",
-        "url": "https://open.spotify.com/album/2VPSdVQuuSNyYPIgzxruqi"
-      },
-      "artists": [
-        {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        }
-      ],
-      "duration_ms": 334320,
-      "name": "Avanti Morocha (En Vivo Provincia Emergente)",
-      "url": "https://open.spotify.com/track/7KEi5XL40fRcqyq9aUcDX6"
     },
     {
       "added_at": "2026-03-06 10:20:04",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-03-06 10:20:04",
       "album": {
-        "name": "Hasta La Luna - EN VIVO LUNA PARK",
-        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
-      },
-      "artists": [
-        {
-          "name": "Cruzando El Charco",
-          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
-        }
-      ],
-      "duration_ms": 275845,
-      "name": "Adonde Est\u00e1n",
-      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
-    },
-    {
-      "added_at": "2026-03-06 10:20:04",
-      "album": {
         "name": "Espejo Roto (Ac\u00fastico Gran Rex Vol. 2)",
         "url": "https://open.spotify.com/album/4nRnE0UCMcJ8f5KauYk0np"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 269911,
       "name": "Espejo Roto - Ac\u00fastico Gran Rex Vol. 2",
       "url": "https://open.spotify.com/track/2Alvbv4IXQh0SpSVyZxBZK"
+    },
+    {
+      "added_at": "2026-03-06 10:20:04",
+      "album": {
+        "name": "Hasta La Luna - EN VIVO LUNA PARK",
+        "url": "https://open.spotify.com/album/7ABAihsvAne9Nxyo9ym2a4"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "duration_ms": 275845,
+      "name": "Adonde Est\u00e1n",
+      "url": "https://open.spotify.com/track/5gBT8weMBtGU861Tz5GFf2"
     },
     {
       "added_at": "2026-03-06 10:20:04",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: GIRLSET
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,599 likes - 89 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,597 likes - 89 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

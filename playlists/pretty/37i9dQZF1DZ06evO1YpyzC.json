@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 266067,
+  "num_followers": 266061,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADRt+IYjXS+9Q6tEUK16qJw",
+  "snapshot_id": "aatqgAAAAACiNNtBB0PIzgjINAgQjRwS",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Worship You",
+        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 205746,
+      "name": "Worship You",
+      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The High Road",
         "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 182506,
       "name": "Rescue",
       "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worship You",
-        "url": "https://open.spotify.com/album/2PMjEMiY2OBlbaLgGFSfLt"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 205746,
-      "name": "Worship You",
-      "url": "https://open.spotify.com/track/0nUGOvjXk6Vc9ecQanZXUQ"
     },
     {
       "added_at": null,

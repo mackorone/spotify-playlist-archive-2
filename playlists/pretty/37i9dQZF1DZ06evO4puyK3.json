@@ -1,12 +1,12 @@
 {
   "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 166376,
+  "num_followers": 166381,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABf3LntHSubUilbyO4eh40H",
+  "snapshot_id": "aatqgAAAAACD7sRTqa9G+0roSyDl2Xfy",
   "tracks": [
     {
       "added_at": null,
@@ -323,18 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apaga a Luz",
-        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
+        "name": "Deve ser horr\u00edvel dormir sem mim",
+        "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
       },
       "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 228210,
-      "name": "Apaga a Luz",
-      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
+      "duration_ms": 155052,
+      "name": "Deve ser horr\u00edvel dormir sem mim",
+      "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
     },
     {
       "added_at": null,
@@ -375,22 +379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deve ser horr\u00edvel dormir sem mim",
-        "url": "https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU"
+        "name": "Apaga a Luz",
+        "url": "https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6"
       },
       "artists": [
-        {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        },
         {
           "name": "Gloria Groove",
           "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
         }
       ],
-      "duration_ms": 155052,
-      "name": "Deve ser horr\u00edvel dormir sem mim",
-      "url": "https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j"
+      "duration_ms": 228210,
+      "name": "Apaga a Luz",
+      "url": "https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz"
     },
     {
       "added_at": null,

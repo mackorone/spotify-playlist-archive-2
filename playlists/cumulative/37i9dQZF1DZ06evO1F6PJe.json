@@ -361,6 +361,28 @@
     },
     {
       "album": {
+        "name": "Blue Night",
+        "url": "https://open.spotify.com/album/1VOmpfma0UivK1IYlnyQ8P"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Blue Night",
+      "url": "https://open.spotify.com/track/4wMzY3Ppuc9eHhM4TbU1Km"
+    },
+    {
+      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -4414,7 +4436,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"

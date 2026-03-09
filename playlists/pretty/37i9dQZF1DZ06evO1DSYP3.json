@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD8+AbDmS4Nd1I+CCQYCL99",
+  "snapshot_id": "aatqgAAAAACXljveLvgSr1gw7PbcXIh8",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S/O Alysa Liu",
+        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 137019,
+      "name": "S/O Alysa Liu",
+      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STUNNA",
         "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 202387,
       "name": "Too Faded",
       "url": "https://open.spotify.com/track/5D0zbCq9DqP3CgMZ6R6Msv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S/O Alysa Liu",
-        "url": "https://open.spotify.com/album/5GgsYwrzxupcHJKAiyHULH"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 137019,
-      "name": "S/O Alysa Liu",
-      "url": "https://open.spotify.com/track/7xuNVsZAibFOI8I0LtBVsw"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 181478,
+      "name": "Stunna Anthem",
+      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 169411,
       "name": "inhibitions (feat. P-Lo)",
       "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 181478,
-      "name": "Stunna Anthem",
-      "url": "https://open.spotify.com/track/32swiA5dr04YdzEpLOTiXX"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "What's That?",
+        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
+      },
+      "artists": [
+        {
+          "name": "Will Hill ",
+          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "What's That?",
+      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Love Myself",
         "url": "https://open.spotify.com/album/2vrRirUPB0aE3nvjBgHoR1"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 160384,
       "name": "I Love Myself",
       "url": "https://open.spotify.com/track/4yXpzW7H4VbXrOXVX3LCjK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What's That?",
-        "url": "https://open.spotify.com/album/1ZfxtRezVuhfuabevLbFAN"
-      },
-      "artists": [
-        {
-          "name": "Will Hill ",
-          "url": "https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "What's That?",
-      "url": "https://open.spotify.com/track/1Li6CZYv1B8PWMDz31vj3A"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRIME",
         "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 201600,
       "name": "shake ya ass (feat. P-Lo)",
       "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUNNA",
-        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 158693,
-      "name": "Lightswitch",
-      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -1003,26 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAJORLY INDEPENDENT",
-        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+        "name": "STUNNA",
+        "url": "https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM"
       },
       "artists": [
-        {
-          "name": "LaRussell",
-          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
-        },
-        {
-          "name": "MALACHI",
-          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175982,
-      "name": "DAMN",
-      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
+      "duration_ms": 158693,
+      "name": "Lightswitch",
+      "url": "https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR"
     },
     {
       "added_at": null,
@@ -1067,6 +1043,30 @@
       "duration_ms": 225906,
       "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
       "url": "https://open.spotify.com/track/0gn5dQJPpRCJWKH6LAUZz7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAJORLY INDEPENDENT",
+        "url": "https://open.spotify.com/album/6ACmRG5RiVmB0S9Pwqpi1b"
+      },
+      "artists": [
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        },
+        {
+          "name": "MALACHI",
+          "url": "https://open.spotify.com/artist/4BTzb2ExegPasbEDN424hb"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175982,
+      "name": "DAMN",
+      "url": "https://open.spotify.com/track/2NKyXxgs4EuDfbbywhsfcj"
     },
     {
       "added_at": null,

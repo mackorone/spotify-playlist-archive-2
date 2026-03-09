@@ -4,7 +4,7 @@
 
 > Pinches cumbiones bien locos para bailar.
 
-164 songs - 10 hr 10 min
+165 songs - 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Oye Mujer](https://open.spotify.com/track/37kCg5izHEMZ66xGdMVG5L) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Oye Mujer](https://open.spotify.com/album/6uppp1YRIV4bPZkJoFH8x1) | 4:19 | 2023-01-17 |  |
 | [Padre Nuestro](https://open.spotify.com/track/7nOt7uN0iXGuvLRVfvclg5) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [La Luz Del Ritmo](https://open.spotify.com/album/6hFXLM8kG3P4ArcGNDb574) | 4:32 | 2023-01-17 |  |
 | [Par\-Tusa](https://open.spotify.com/track/7iZSr3NiHlqJGAJmlfd3Ru) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Par\-Tusa](https://open.spotify.com/album/1gg1qZMNUpw9Tsp7pbJoAo) | 3:10 | 2023-01-17 | 2025-07-19 |
-| [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2023-01-17 |  |
+| [Pa’ la Selección](https://open.spotify.com/track/4J1vAbtAhMdsdpO1sKU3EO) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Pa’ la Selección](https://open.spotify.com/album/3S3QVRXr0QxDc6bg5w4DbN) | 3:06 | 2023-01-17 | 2026-03-09 |
 | [Perrito Malvado](https://open.spotify.com/track/1sZ39ZxvFo8FyMz4s7iVlf) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [Marita](https://open.spotify.com/artist/0W2GTHZvmVrIbQReJ9L0EJ) | [Perrito Malvado](https://open.spotify.com/album/2rnOLCz5J5YHo2zVM0sJdQ) | 4:40 | 2023-01-17 |  |
 | [Pibe Cantina](https://open.spotify.com/track/3d7pveUZGAg7wSSeL5nwNG) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 3:38 | 2023-01-17 | 2024-04-19 |
 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 | 2024-03-26 |  |
@@ -146,6 +146,7 @@
 | [Te sigo amando](https://open.spotify.com/track/6HkNsuQygqug6v3WpoWd9R) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Te sigo amando](https://open.spotify.com/album/41ZuRJWoC3cNVkwEcrF1Ht) | 3:27 | 2025-08-08 |  |
 | [Te Tengo Que Olvidar](https://open.spotify.com/track/1cFTuzXLHT6XS4PlT9wvZR) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Rompiendo las Reglas de la Cumbia](https://open.spotify.com/album/57D5brwOIybIORt38FflIh) | 4:26 | 2023-01-17 | 2025-04-07 |
 | [Te Vas Con El O Te Vas Conmigo](https://open.spotify.com/track/1dPss1wm3YbdRMuYinPrqq) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 4:41 | 2023-01-17 | 2024-04-12 |
+| [Tiene Espinas El Rosal](https://open.spotify.com/track/1PZ3QsCFec05Ls3PwOqKXZ) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 3:57 | 2025-11-20 |  |
 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 | 2023-01-17 | 2024-04-19 |
 | [Tirate un paso](https://open.spotify.com/track/4Bb0zvyxchESHX1gNyAfWN) | [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Tirate un paso](https://open.spotify.com/album/5zoumKpJSJKb9efipfFxPm) | 3:04 | 2023-01-17 | 2025-11-21 |
 | [Todo Lo Encuentro En Ti](https://open.spotify.com/track/0aRfQXuOvXwejexxWo4jAH) | [Super Lamas](https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Todo Lo Encuentro En Ti](https://open.spotify.com/album/3UYpA91S4egk7kp8csDqJx) | 3:26 | 2023-01-17 | 2024-03-27 |

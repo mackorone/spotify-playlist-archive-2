@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60293,
+  "num_followers": 60300,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Walk",
+        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
+      },
+      "artists": [
+        {
+          "name": "Skye Newman",
+          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
+        }
+      ],
+      "duration_ms": 176828,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Everest",
         "url": "https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 162205,
       "name": "At The Party",
       "url": "https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Walk",
-        "url": "https://open.spotify.com/album/4tW125aMDVLb8CZ9iXltpM"
-      },
-      "artists": [
-        {
-          "name": "Skye Newman",
-          "url": "https://open.spotify.com/artist/4UoEzpWZrFWvlGYOzTEn1M"
-        }
-      ],
-      "duration_ms": 176828,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7sOU63ay88RLvacLn4Gra1"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "after the sun goes down",
-        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 163173,
-      "name": "nah",
-      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
         "name": "T\u00e4hdet",
         "url": "https://open.spotify.com/album/3cHr0DdC6GKr9RhXSJcl4Q"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Best For You",
-        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
+        "name": "after the sun goes down",
+        "url": "https://open.spotify.com/album/4PPuC1eL0wWfqBijzhbOWg"
       },
       "artists": [
         {
-          "name": "Isac Elliot",
-          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Best For You",
-      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
+      "duration_ms": 163173,
+      "name": "nah",
+      "url": "https://open.spotify.com/track/0DEz9z1H0UChVJrjB9Wsjf"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -967,18 +951,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Feels Like Heaven",
-        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+        "name": "Best For You",
+        "url": "https://open.spotify.com/album/0GgW3k1BAhcRQWPZXo03yJ"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
         }
       ],
-      "duration_ms": 193000,
-      "name": "Feels Like Heaven",
-      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
+      "duration_ms": 150000,
+      "name": "Best For You",
+      "url": "https://open.spotify.com/track/4K72fcQI2FQED0976NUlX2"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -995,6 +979,22 @@
       "duration_ms": 169880,
       "name": "Cherry Cake",
       "url": "https://open.spotify.com/track/09cYHNcsOsUIDSXXWCOVQj"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
+        "name": "Feels Like Heaven",
+        "url": "https://open.spotify.com/album/5SaGyl331ck5Z5CQaIntGz"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Feels Like Heaven",
+      "url": "https://open.spotify.com/track/1jWjsj9YKDoYhTVoZnSivY"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Stand Back",
+        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+      },
+      "artists": [
+        {
+          "name": "Jukka Poika",
+          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+        }
+      ],
+      "duration_ms": 165359,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Tytt\u00f6yst\u00e4v\u00e4",
         "url": "https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 177132,
       "name": "Tytt\u00f6yst\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "Me, Myself and The Night",
-        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 251748,
-      "name": "Me, Myself and The Night",
-      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Stand Back",
-        "url": "https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe"
+        "name": "Me, Myself and The Night",
+        "url": "https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy"
       },
       "artists": [
         {
-          "name": "Jukka Poika",
-          "url": "https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 165359,
-      "name": "Stand Back",
-      "url": "https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi"
+      "duration_ms": 251748,
+      "name": "Me, Myself and The Night",
+      "url": "https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
         "name": "Don't Click Play",
         "url": "https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 148932,
       "name": "Don\u2019t Click Play",
       "url": "https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 191119,
-      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
-      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2026-03-05 22:00:13",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4hTEZj29aVNemOnkh6WEx7"
+        "name": "VIIVI (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+        "url": "https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
         }
       ],
-      "duration_ms": 233666,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/1R8roLxSplNe52UVoKYApE"
+      "duration_ms": 191119,
+      "name": "Aamun kuiskaus (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
+      "url": "https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1239,6 +1239,26 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
+    },
+    {
+      "added_at": "2026-03-05 22:00:13",
+      "album": {
+        "name": "Latu on auki",
+        "url": "https://open.spotify.com/album/2H9xAV0YmV9ntB0vOFPItE"
+      },
+      "artists": [
+        {
+          "name": "Kaija Koo",
+          "url": "https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq"
+        },
+        {
+          "name": "Isac Elliot",
+          "url": "https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Latu on auki",
+      "url": "https://open.spotify.com/track/7jHgBQE13PuxsR6Afj7TuS"
     },
     {
       "added_at": "2026-03-05 22:00:13",
@@ -1363,26 +1383,6 @@
       "duration_ms": 149750,
       "name": "OK (feat. ANI)",
       "url": "https://open.spotify.com/track/3nOafOYJ5ix2TuUDXFet2k"
-    },
-    {
-      "added_at": "2026-03-05 22:00:13",
-      "album": {
-        "name": "HOME",
-        "url": "https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D"
-      },
-      "artists": [
-        {
-          "name": "Eddie Benjamin",
-          "url": "https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 159527,
-      "name": "HOME",
-      "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
     }
   ],
   "unique_name": "Nousussa",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVWAmUGhHXx.md) - [plain]
 
 > viste we, pon atención we, simón we, sobres we, es todo we\. Régulo Molina, Oscar Maydon, Neton Vega en cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,505 likes - 22 songs - 1 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,610 likes - 22 songs - 1 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

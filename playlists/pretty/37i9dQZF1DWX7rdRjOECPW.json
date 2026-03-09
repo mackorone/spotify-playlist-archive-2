@@ -1,6 +1,6 @@
 {
   "description": "Der Sommer neigt sich dem Ende \ud83e\udd72 - und das waren die Sommerhits  2025.",
-  "num_followers": 1578990,
+  "num_followers": 1578907,
   "original_name": "Sommerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -967,6 +967,26 @@
     {
       "added_at": "2025-08-29 06:03:40",
       "album": {
+        "name": "Capri Sun",
+        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 119235,
+      "name": "Capri Sun",
+      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
+    },
+    {
+      "added_at": "2025-08-29 06:03:40",
+      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
-    },
-    {
-      "added_at": "2025-08-29 06:03:40",
-      "album": {
-        "name": "Capri Sun",
-        "url": "https://open.spotify.com/album/1RsQb2EpDcbyfEJBCK17nY"
-      },
-      "artists": [
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 119235,
-      "name": "Capri Sun",
-      "url": "https://open.spotify.com/track/2U07Gukj3QGlLh0krokPdG"
     },
     {
       "added_at": "2025-08-29 06:03:40",

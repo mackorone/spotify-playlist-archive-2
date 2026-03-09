@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 264189,
+  "num_followers": 264312,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAB+igmRiKsDm8t1laJtC25V",
+  "snapshot_id": "aatqgAAAAAAdQTBOaGnBuardxLLw9veJ",
   "tracks": [
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Over",
-        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 445349,
-      "name": "How I Met My Ex",
-      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanna Know Remix (feat. Drake)",
         "url": "https://open.spotify.com/album/4rL5hr03vh6g69Ce0rwStB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199019,
       "name": "Wanna Know Remix (feat. Drake)",
       "url": "https://open.spotify.com/track/7wNpJcBDJlIVWCX8NYBKQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 445349,
+      "name": "How I Met My Ex",
+      "url": "https://open.spotify.com/track/2nO7YG8CFXSZOpvxSFUzgJ"
     },
     {
       "added_at": null,

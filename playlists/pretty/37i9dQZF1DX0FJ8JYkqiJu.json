@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 415608,
+  "num_followers": 415623,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
+        "name": "Move & Flow",
+        "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
+      },
+      "artists": [
+        {
+          "name": "Coco & Breezy",
+          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
+        }
+      ],
+      "duration_ms": 236110,
+      "name": "Move & Flow",
+      "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
         "name": "Superrich",
         "url": "https://open.spotify.com/album/5baLyRD1usxYKmLQjGG6Qh"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 179000,
       "name": "Superrich",
       "url": "https://open.spotify.com/track/7C9Bcp8XgBqdetAyvp5Vms"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "Move & Flow",
-        "url": "https://open.spotify.com/album/2ZsVDjE6FeHur0KCQLvIUK"
-      },
-      "artists": [
-        {
-          "name": "Coco & Breezy",
-          "url": "https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG"
-        }
-      ],
-      "duration_ms": 236110,
-      "name": "Move & Flow",
-      "url": "https://open.spotify.com/track/7vfwYnc46GCiyAxozMvJFz"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Her Eyes",
-        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 215476,
-      "name": "Her Eyes",
-      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Her Eyes",
+        "url": "https://open.spotify.com/album/0E4FBX9q54cgCtPUac45by"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 215476,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3IdN6RaoBu9L0fwGwfrJ5B"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
-      },
-      "artists": [
-        {
-          "name": "Charlie Jeer",
-          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
-        }
-      ],
-      "duration_ms": 173644,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 242376,
       "name": "Waves",
       "url": "https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/13UwuUtKwqvifXpghxD823"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 173644,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4lWnh8J3XsWTtG20xWFjfF"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -839,6 +839,38 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Gotta Move",
+        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
+      },
+      "artists": [
+        {
+          "name": "Bless You",
+          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "Gotta Move",
+      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
         "name": "Weightless",
         "url": "https://open.spotify.com/album/1hRQTykXLhpCU8QGBLWVh8"
       },
@@ -875,38 +907,6 @@
       "duration_ms": 279120,
       "name": "State Of Mind",
       "url": "https://open.spotify.com/track/769a3KrWIeyqIeAsKSyq2Y"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "Gotta Move",
-        "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
-      },
-      "artists": [
-        {
-          "name": "Bless You",
-          "url": "https://open.spotify.com/artist/0YFOK5sYNqbCJEgD0xOti9"
-        }
-      ],
-      "duration_ms": 179125,
-      "name": "Gotta Move",
-      "url": "https://open.spotify.com/track/1Q2d7NGkaxhwMnWQll7HL3"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
+        "name": "The Panorama Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 360299,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
         "name": "Old Friend (feat. CLOVES)",
         "url": "https://open.spotify.com/album/303xX85f4WUvAfUzlCL1Hu"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 174398,
       "name": "Old Friend (feat. CLOVES)",
       "url": "https://open.spotify.com/track/0x6lKDXprQv59SDymKMuwi"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
-        "name": "The Panorama Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/2QBW1FxFUivoffvVoiSO8J"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 360299,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/2fY8kKGDEn3oOCntstJqDP"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "No Gravity (feat. Bava)",
-      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 167009,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 211313,
+      "name": "No Gravity (feat. Bava)",
+      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "No One",
-        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        },
-        {
-          "name": "Tim Engelhardt",
-          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
-        }
-      ],
-      "duration_ms": 244391,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Grapevine",
         "url": "https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 381463,
       "name": "Grapevine",
       "url": "https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "No One",
+        "url": "https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        {
+          "name": "Tim Engelhardt",
+          "url": "https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE"
+        }
+      ],
+      "duration_ms": 244391,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/5J72L91na30WRBYaCokV8i"
     },
     {
       "added_at": "2026-02-06 03:00:01",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-02-06 03:00:01",
       "album": {
-        "name": "One Last Dance",
-        "url": "https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H"
-      },
-      "artists": [
-        {
-          "name": "Audien",
-          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "One Last Dance",
-      "url": "https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L"
-    },
-    {
-      "added_at": "2026-02-06 03:00:01",
-      "album": {
         "name": "Raye",
         "url": "https://open.spotify.com/album/55XutLIxmTUmwwFydXTBZ4"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 290409,
       "name": "Raye",
       "url": "https://open.spotify.com/track/5tsVgtKdAfKGcVIcCHvyxe"
+    },
+    {
+      "added_at": "2026-02-06 03:00:01",
+      "album": {
+        "name": "A Different Path",
+        "url": "https://open.spotify.com/album/6yd3Jlp0EaGR1DinQ5qlAL"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Trippynova",
+          "url": "https://open.spotify.com/artist/1mbO0ARKWlNgjaMUYpPqmx"
+        }
+      ],
+      "duration_ms": 135600,
+      "name": "A Different Path",
+      "url": "https://open.spotify.com/track/3jJrIGb23RxyJMqMvrrX38"
     }
   ],
   "unique_name": "Just Chill",

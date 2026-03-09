@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 111255,
+  "num_followers": 111389,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1883,6 +1883,30 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
+        "name": "Playa Y Arena",
+        "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
+      },
+      "artists": [
+        {
+          "name": "CAVALLI",
+          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
+        },
+        {
+          "name": "Daveartt",
+          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
+        },
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "Playa Y Arena",
+      "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
         "name": "Piquete Cabron",
         "url": "https://open.spotify.com/album/3o4xW1GtO6jmOItDsJdkzq"
       },
@@ -1919,30 +1943,6 @@
       "duration_ms": 167066,
       "name": "MIA in Miami",
       "url": "https://open.spotify.com/track/6FC1NTWsL1uYAVnAHvSuqL"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Playa Y Arena",
-        "url": "https://open.spotify.com/album/7a36GV9hrpji6sHCjTn4Ez"
-      },
-      "artists": [
-        {
-          "name": "CAVALLI",
-          "url": "https://open.spotify.com/artist/3uNSAoHkmTzDxc369XtOv4"
-        },
-        {
-          "name": "Daveartt",
-          "url": "https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87"
-        },
-        {
-          "name": "Mark Di Meo",
-          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
-        }
-      ],
-      "duration_ms": 179512,
-      "name": "Playa Y Arena",
-      "url": "https://open.spotify.com/track/5TUiAVSMflM4URvewjSNjF"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -1987,6 +1987,30 @@
     {
       "added_at": "2026-03-06 05:00:10",
       "album": {
+        "name": "Chimba",
+        "url": "https://open.spotify.com/album/3sonXTV4BNCCnZu8b2DIEp"
+      },
+      "artists": [
+        {
+          "name": "Mark Di Meo",
+          "url": "https://open.spotify.com/artist/6vA6cSTccr4x9yZmWfbIzE"
+        },
+        {
+          "name": "Pensi\u00f3n",
+          "url": "https://open.spotify.com/artist/0keK1LwbYlAeAwmM00q8PM"
+        },
+        {
+          "name": "BIG KAPOH",
+          "url": "https://open.spotify.com/artist/1aCqNMQTutPOigRS3vkDH8"
+        }
+      ],
+      "duration_ms": 207804,
+      "name": "Chimba",
+      "url": "https://open.spotify.com/track/4P043YdrPKrNrF8aqRgGrB"
+    },
+    {
+      "added_at": "2026-03-06 05:00:10",
+      "album": {
         "name": "P\u00e9gate",
         "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
       },
@@ -1999,30 +2023,6 @@
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
-    },
-    {
-      "added_at": "2026-03-06 05:00:10",
-      "album": {
-        "name": "Coco Loco",
-        "url": "https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis"
-      },
-      "artists": [
-        {
-          "name": "Eran Hersh",
-          "url": "https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW"
-        },
-        {
-          "name": "Tekkman",
-          "url": "https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj"
-        },
-        {
-          "name": "Juany Bravo",
-          "url": "https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm"
-        }
-      ],
-      "duration_ms": 156768,
-      "name": "Coco Loco",
-      "url": "https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0"
     }
   ],
   "unique_name": "Latin House",

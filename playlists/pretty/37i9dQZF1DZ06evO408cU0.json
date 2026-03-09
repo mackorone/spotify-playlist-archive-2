@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 63777,
+  "num_followers": 63781,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACTBq1ZZOn6bxGVqmpnfF9O",
+  "snapshot_id": "aatqgAAAAAAGjtmnuQ3wuR0+77NJIVvd",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como No Queriendo",
-        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 237626,
-      "name": "Vas A Estar Bien",
-      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Buen Ejemplo",
         "url": "https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 148186,
       "name": "Gente Batallosa",
       "url": "https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como No Queriendo",
+        "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 237626,
+      "name": "Vas A Estar Bien",
+      "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
-      "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia De Mis Manos (En Vivo)",
         "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 232597,
       "name": "La Historia De Mis Manos (En Vivo)",
       "url": "https://open.spotify.com/track/71sLcaF7h1Y4oVuRLGIRrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "\u00bfDesde Cu\u00e1ndo No Me Quieres?",
+      "url": "https://open.spotify.com/track/1zMxs8npzBg46TbJtwFgO0"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 1",
-        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 163666,
-      "name": "El N\u00famero 1",
-      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque As\u00ed Ten\u00eda Que Ser",
         "url": "https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 208973,
       "name": "Sue\u00f1a",
       "url": "https://open.spotify.com/track/6XbAAQ8v3UojztTYdo4jLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 1",
+        "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 163666,
+      "name": "El N\u00famero 1",
+      "url": "https://open.spotify.com/track/3BaDh7fNIzR4XWZ96qhVc1"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
       "duration_ms": 181280,
       "name": "El Tarasco - En Vivo",
       "url": "https://open.spotify.com/track/59JBXKZfy7XjAz1eVpeFO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sabes Que Lo Hago",
-        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Sabes Que Lo Hago",
-      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
     },
     {
       "added_at": null,
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Segunda Temporada",
-        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
       },
       "artists": [
         {
@@ -740,25 +724,9 @@
           "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
         }
       ],
-      "duration_ms": 157906,
-      "name": "Me Perd\u00ed De Un Amor",
-      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos, Rancheras Y Caballos En Vivo",
-        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "El P\u00e1jaro Azul - En Vivo",
-      "url": "https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT"
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
     },
     {
       "added_at": null,
@@ -779,6 +747,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos, Rancheras Y Caballos En Vivo",
+        "url": "https://open.spotify.com/album/0Qy6qGMqzEoZCUu0hKtMu2"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "El P\u00e1jaro Azul - En Vivo",
+      "url": "https://open.spotify.com/track/6yv8dwewBWu7Fc4VSI1IiT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Segunda Temporada",
+        "url": "https://open.spotify.com/album/3dcxUASRwab0TUUfBAcPQt"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Me Perd\u00ed De Un Amor",
+      "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Consentidos De Don Chuy",
         "url": "https://open.spotify.com/album/0w3gxCIn1UcVJ0w4N54O6W"
       },
@@ -795,6 +795,22 @@
       "duration_ms": 224801,
       "name": "Los Consentidos De Don Chuy",
       "url": "https://open.spotify.com/track/1ZaE8MEwoQkOS84hxTYX1m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": null,
@@ -835,22 +851,6 @@
       "duration_ms": 200720,
       "name": "Fibras Sensibles",
       "url": "https://open.spotify.com/track/3ecQDBEjejR0bXp2ZoeYTo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
     },
     {
       "added_at": null,

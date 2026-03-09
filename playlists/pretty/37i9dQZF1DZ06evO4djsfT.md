@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,365 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,375 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 16 | [Be Alright \- Remix](https://open.spotify.com/track/1Uj2EIkCWdfe6XMOscRqBr) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Be Alright \(Remix\)](https://open.spotify.com/album/5CZSvhDtNjRA7kU0FFHxY7) | 3:42 |
 | 17 | [O God Forgive Us](https://open.spotify.com/track/2dBpNhfNCT1XkBRAOdam5J) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 3:25 |
 | 18 | [Hold Me Back](https://open.spotify.com/track/5C5FqRfbXF9oY4HSRYyqn3) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hold Me Back](https://open.spotify.com/album/2jGC7NrvufO6RAbDn60NTU) | 3:43 |
-| 19 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 |
-| 20 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
+| 19 | [COUNT 'EM \(REMIX\)](https://open.spotify.com/track/16YIHrgoawGdhayXsRR6Ax) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [COUNT 'EM / TEAR OFF THE ROOF \(REMIXES\)](https://open.spotify.com/album/7klfC9qvCT6gv7ffuYSUUN) | 4:05 |
+| 20 | [Who the Son Sets Free](https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:50 |
 | 21 | [CAMPAIGN](https://open.spotify.com/track/3ybMOE4jaJ9xLkoDpze1OM) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [CAMPAIGN](https://open.spotify.com/album/0fya4AYyhkXQPbxcWuudyy) | 2:49 |
 | 22 | [Prove It](https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [American Prodigal \(Deluxe Edition\)](https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ) | 2:36 |
 | 23 | [Keanu's Song](https://open.spotify.com/track/3WN17zGd3yNhnHrRx15dXh) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [KEANU](https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY) | [Keanu's Song](https://open.spotify.com/album/1k96DLD2VLtsuYtaHHZpbo) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [God Be The Glory \(Remix\)](https://open.spotify.com/track/7yZt3dNx3wRiTTqQoOvxvS) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [God Be The Glory \(Remix\)](https://open.spotify.com/album/1lmyYK0fbipBT1a4ddHxKF) | 3:48 |
 | 50 | [Wake Up](https://open.spotify.com/track/5XBGxROlpdJYueRfu9C4hO) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The End.](https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr) | 3:36 |
 
-Snapshot ID: `aaoZAAAAAABwKMkT6OucxU5Sw4YoZ/7O`
+Snapshot ID: `aatqgAAAAAAan3DMFmAE3hKT4hIi2kfY`

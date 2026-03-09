@@ -4,7 +4,7 @@
 
 > This is Chiquis\. The essential tracks, all in one playlist.
 
-99 songs - 4 hr 52 min
+100 songs - 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Entre Besos Y Copas](https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Abeja Reina](https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ) | 3:10 | 2023-03-10 |  |
 | [Entre Botellas](https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 3:26 | 2023-03-10 | 2025-03-25 |
 | [Entre Botellas](https://open.spotify.com/track/30UKdyPaiSVi6IJGO9ZCFv) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Entre Botellas](https://open.spotify.com/album/0bSkp1TVdU6PDkbm3BkJrE) | 3:26 | 2025-03-30 |  |
+| [eres MÁS](https://open.spotify.com/track/5uZfq4zuU3Z12Szm7iLjMM) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [eres MÁS](https://open.spotify.com/album/3PtZ39Y1LiftVTJdouRP0Y) | 2:27 | 2026-03-09 |  |
 | [Esa No Soy Yo](https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:49 | 2023-03-10 |  |
 | [Este Corazón](https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Este Corazón](https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn) | 3:07 | 2023-11-10 |  |
 | [Está De Moda No Querer](https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:50 | 2023-03-10 |  |
@@ -44,7 +45,7 @@
 | [FLORES](https://open.spotify.com/track/1GrRXD8ZggZvsGEIOdoafP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:39 | 2025-11-09 |  |
 | [FUERTE](https://open.spotify.com/track/50BpQ4kAChtcx8EK3HywjN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamantes](https://open.spotify.com/album/6gcSXc3n22hPhaBI94F9Ap) | 3:09 | 2024-06-09 | 2025-02-10 |
 | [FUERTE](https://open.spotify.com/track/578MEUSOSlTtp3cZNbazwb) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FUERTE](https://open.spotify.com/album/1AtISppDd4G0ly9zTCDZXX) | 3:09 | 2025-03-13 | 2025-10-14 |
-| [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 | 2025-10-26 |  |
+| [FÉNIX](https://open.spotify.com/track/6tkpFXONb3TLwIZUGeiXiB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [FÉNIX](https://open.spotify.com/album/6Ex5X0AqZ7PvEtBr4ynksB) | 3:17 | 2025-10-26 | 2026-03-09 |
 | [GOOD Morning \(Buenos Días\)](https://open.spotify.com/track/27PbXP4NvCAtfImygROHmc) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Aston Barrett Jr.](https://open.spotify.com/artist/7hS8Mjbmnac8TTsU2aSF3y) | [Flores En Mi Alma](https://open.spotify.com/album/78FipvhVCwsoUaTxu95Umd) | 2:38 | 2025-11-11 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-07 |  |
 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 | 2023-03-10 | 2024-06-18 |

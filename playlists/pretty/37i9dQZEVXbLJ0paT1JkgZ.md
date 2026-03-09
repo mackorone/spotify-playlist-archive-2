@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,470 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,475 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [Bastardo \(feat\. Ñengo Flow & Jere Klein\)](https://open.spotify.com/track/7xjFEvchFCiAmuseCBModI) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 4:24 |
 | 50 | [Mambinho Brasileño](https://open.spotify.com/track/0c27qjzqEgMLMnWTl5bCU8) | [benjitalkapone](https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4) | [Mambinho Brasileño](https://open.spotify.com/album/072mxyTA0YJiOxk61aID0u) | 3:28 |
 
-Snapshot ID: `MT+LQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

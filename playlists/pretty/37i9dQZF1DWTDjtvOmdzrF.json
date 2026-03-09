@@ -1,12 +1,12 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 562867,
+  "num_followers": 562871,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFF1S7ouR+2BzFGpiEl/MlHnrxho",
+  "snapshot_id": "AAAAAK3HDaLa15bMF3AANXAISELmOsTS",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:13",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
+        "name": "Riuh",
+        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
+      },
+      "artists": [
+        {
+          "name": "Feby Putri",
+          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
+        }
+      ],
+      "duration_ms": 311496,
+      "name": "Usik",
+      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
+    },
+    {
+      "added_at": "2026-02-27 14:15:13",
+      "album": {
         "name": "Tresno liyane",
         "url": "https://open.spotify.com/album/1HGbZYI4A31w3hBtXsQ3FE"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 290000,
       "name": "Tresno liyane",
       "url": "https://open.spotify.com/track/528jcoA4DKyxBAHlmCU8je"
-    },
-    {
-      "added_at": "2026-02-27 14:15:13",
-      "album": {
-        "name": "Riuh",
-        "url": "https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5"
-      },
-      "artists": [
-        {
-          "name": "Feby Putri",
-          "url": "https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW"
-        }
-      ],
-      "duration_ms": 311496,
-      "name": "Usik",
-      "url": "https://open.spotify.com/track/5GgRntbjr23OK9MMST02di"
     },
     {
       "added_at": "2026-02-27 14:15:13",

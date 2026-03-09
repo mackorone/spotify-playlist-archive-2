@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 237,
+  "num_followers": 238,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACA8uJy3hDZUQknAWNc8cfn",
+  "snapshot_id": "aatqgAAAAABQMCsQYB0mnj3f/pc+mldc",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "16",
-        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
       },
       "artists": [
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        },
+        {
+          "name": "Banoffee",
+          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
         }
       ],
-      "duration_ms": 144637,
-      "name": "16",
-      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+      "duration_ms": 166688,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
     },
     {
       "added_at": null,
@@ -91,6 +95,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/1VfhzQkyETgPLRYprRheAq"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 144637,
+      "name": "16",
+      "url": "https://open.spotify.com/track/4UHGno4pRrDxcsFkGU1m9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TSUNAMI",
         "url": "https://open.spotify.com/album/1J26PJZThn7pSo1ZFcdawr"
       },
@@ -107,26 +127,6 @@
       "duration_ms": 126486,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/7zMdBNMCNkwTlVgZfce3dY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2z6lFgv3Vb38cx2nNLJ5kS"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        },
-        {
-          "name": "Banoffee",
-          "url": "https://open.spotify.com/artist/0BZ0jp1b95bdcX23MZRU4A"
-        }
-      ],
-      "duration_ms": 166688,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/3UxwLJNWomEPtuE5ArwuBK"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
+      "duration_ms": 121423,
+      "name": "SUGARCOAT",
+      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 121423,
-      "name": "SUGARCOAT",
-      "url": "https://open.spotify.com/track/0OUDA18X0UoB1VJRXZiI9Z"
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,

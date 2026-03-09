@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Volume badhaao because 'Ram Ji Aake Bhala Karenge' from Bhooth Bangla is out now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 906,589 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 906,634 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

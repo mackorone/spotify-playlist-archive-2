@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVo4cdnikh7Z.md) - [plain]
 
 > New Music from Kollywood.<br/>Cover : Meesaya Murukku 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,029 likes - 77 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,218 likes - 77 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

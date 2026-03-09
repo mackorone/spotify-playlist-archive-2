@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 28571,
+  "num_followers": 28581,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -463,58 +463,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Todo cambia",
-        "url": "https://open.spotify.com/album/1GAh1A5U9gi8BZSsfb2GBx"
-      },
-      "artists": [
-        {
-          "name": "Dos M\u00e1s Uno",
-          "url": "https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh"
-        },
-        {
-          "name": "Nano Stern",
-          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Todo cambia",
-      "url": "https://open.spotify.com/track/2RbCzyjatT607S4Q8uDEkg"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 369000,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "Nace una Madre",
-        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
-      },
-      "artists": [
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
-        }
-      ],
-      "duration_ms": 144545,
-      "name": "Nace una Madre",
-      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -547,18 +495,54 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Los Ojos del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB"
       },
       "artists": [
         {
-          "name": "Elizabeth Morris",
-          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
         }
       ],
-      "duration_ms": 231038,
-      "name": "Barquito de Papel",
-      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
+      "duration_ms": 369000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Todo cambia",
+        "url": "https://open.spotify.com/album/1GAh1A5U9gi8BZSsfb2GBx"
+      },
+      "artists": [
+        {
+          "name": "Dos M\u00e1s Uno",
+          "url": "https://open.spotify.com/artist/7MhvLP9XRGrcNo167nTZWh"
+        },
+        {
+          "name": "Nano Stern",
+          "url": "https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Todo cambia",
+      "url": "https://open.spotify.com/track/2RbCzyjatT607S4Q8uDEkg"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Nace una Madre",
+        "url": "https://open.spotify.com/album/286YluPG1sKO5CIu5rLXU7"
+      },
+      "artists": [
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 144545,
+      "name": "Nace una Madre",
+      "url": "https://open.spotify.com/track/2ivyQI1riB7LCTXwHiQ2xb"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -583,6 +567,22 @@
       "duration_ms": 151564,
       "name": "Si Me Voy Antes Que Vos",
       "url": "https://open.spotify.com/track/34WS1tHEGx7W3fZDHtPmp8"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Los Ojos del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4WTFgsaQUZMEeCprqxxH4b"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Morris",
+          "url": "https://open.spotify.com/artist/3kJaCi1igGWOKYUVDdJnoi"
+        }
+      ],
+      "duration_ms": 231038,
+      "name": "Barquito de Papel",
+      "url": "https://open.spotify.com/track/69i2pr9PTrJ8rIT9sjnPlj"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Agua Viva",
-        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        }
-      ],
-      "duration_ms": 110762,
-      "name": "Iuju",
-      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Cenital",
         "url": "https://open.spotify.com/album/0QvnKhLge7VNaO29hCOAFK"
       },
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Agua Viva",
+        "url": "https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        }
+      ],
+      "duration_ms": 110762,
+      "name": "Iuju",
+      "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Qui\u00e9n da M\u00e1s?",
         "url": "https://open.spotify.com/album/40enhfnwfBrUbOxe1QXHjk"
       },
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Luz",
-        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
-      },
-      "artists": [
-        {
-          "name": "Alexia Naomi",
-          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
-        }
-      ],
-      "duration_ms": 167250,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Las Luces Que Estaban Ocultas [en vivo]",
         "url": "https://open.spotify.com/album/1hC1FBKykJyHC2oNyq1Zxo"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 324000,
       "name": "configuracionesonduladas_17.11.23_nicetoclub_bsas",
       "url": "https://open.spotify.com/track/50lK2pEB7EDDczjUfKHT5b"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/5Iah1jUzkQe7WWtCBbq927"
+      },
+      "artists": [
+        {
+          "name": "Alexia Naomi",
+          "url": "https://open.spotify.com/artist/6f9J2VhTUt61qMX87UtIqn"
+        }
+      ],
+      "duration_ms": 167250,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/5SfWbIwxCKmEYp9INyXdpC"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Traviarca",
-        "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
-      },
-      "artists": [
-        {
-          "name": "Susy Shock",
-          "url": "https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY"
-        },
-        {
-          "name": "La Bandada de Colibr\u00edes",
-          "url": "https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO"
-        }
-      ],
-      "duration_ms": 233418,
-      "name": "Tan Solo Canci\u00f3n",
-      "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Otras Bocas, Otras Lenguas",
         "url": "https://open.spotify.com/album/2PH6bx1Dd0dqbZaGfhLK1I"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 285375,
       "name": "Otras Bocas, Otras Lenguas",
       "url": "https://open.spotify.com/track/3wVFAZfXzEKbDgZYBSrDBU"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "Traviarca",
+        "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
+      },
+      "artists": [
+        {
+          "name": "Susy Shock",
+          "url": "https://open.spotify.com/artist/7cSEm0IEhlSHyPx0rXC6oY"
+        },
+        {
+          "name": "La Bandada de Colibr\u00edes",
+          "url": "https://open.spotify.com/artist/7uke62HqZX7Jn6Del1PkKO"
+        }
+      ],
+      "duration_ms": 233418,
+      "name": "Tan Solo Canci\u00f3n",
+      "url": "https://open.spotify.com/track/1nbibeTKZP76Tkokx5Enl7"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Fuera de mi lugar (a la medianoche)",
-        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
-      },
-      "artists": [
-        {
-          "name": "Marina Wil",
-          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
-        }
-      ],
-      "duration_ms": 235558,
-      "name": "Fuera de mi lugar (a la medianoche)",
-      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
         "name": "Desde Ac\u00e1",
         "url": "https://open.spotify.com/album/4kdJ2IogQLYTkqiWbM50fl"
       },
@@ -1583,6 +1563,26 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
+        "name": "Fuera de mi lugar (a la medianoche)",
+        "url": "https://open.spotify.com/album/4n6x8opHANhAIi6MulKw9o"
+      },
+      "artists": [
+        {
+          "name": "Marina Wil",
+          "url": "https://open.spotify.com/artist/6QxpTfXermR3g5udEQGTe4"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 235558,
+      "name": "Fuera de mi lugar (a la medianoche)",
+      "url": "https://open.spotify.com/track/2RIP2mkuJTH4D7zkS9zf7F"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
         "name": "Inflexion (En Vivo)",
         "url": "https://open.spotify.com/album/7uikRUekVt8PqpdM5Q6ZOB"
       },
@@ -1599,18 +1599,22 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Po\u00e9tica Bailable Vol. 1",
-        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
+        "name": "Ba\u00f1era",
+        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Sof\u00eda Viola",
+          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
         }
       ],
-      "duration_ms": 185666,
-      "name": "\u00a1Juegue!",
-      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
+      "duration_ms": 152381,
+      "name": "Ba\u00f1era",
+      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1635,22 +1639,18 @@
     {
       "added_at": "2026-01-09 03:00:10",
       "album": {
-        "name": "Ba\u00f1era",
-        "url": "https://open.spotify.com/album/7tK5mH40gwjJqbFbR6tqFX"
+        "name": "Po\u00e9tica Bailable Vol. 1",
+        "url": "https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e"
       },
       "artists": [
         {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        },
-        {
-          "name": "Sof\u00eda Viola",
-          "url": "https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT"
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
         }
       ],
-      "duration_ms": 152381,
-      "name": "Ba\u00f1era",
-      "url": "https://open.spotify.com/track/2QRFcKwr8CZTWScbAGNm2q"
+      "duration_ms": 185666,
+      "name": "\u00a1Juegue!",
+      "url": "https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1687,6 +1687,26 @@
       "duration_ms": 216645,
       "name": "Ahora",
       "url": "https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU"
+    },
+    {
+      "added_at": "2026-01-09 03:00:10",
+      "album": {
+        "name": "El Sol Est\u00e1 Mojado",
+        "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
+      },
+      "artists": [
+        {
+          "name": "In\u00e9s Errandonea",
+          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 255290,
+      "name": "El Sol Est\u00e1 Mojado",
+      "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
     },
     {
       "added_at": "2026-01-09 03:00:10",
@@ -1731,26 +1751,6 @@
       "duration_ms": 199429,
       "name": "Empez\u00e1",
       "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
-    },
-    {
-      "added_at": "2026-01-09 03:00:10",
-      "album": {
-        "name": "El Sol Est\u00e1 Mojado",
-        "url": "https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY"
-      },
-      "artists": [
-        {
-          "name": "In\u00e9s Errandonea",
-          "url": "https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 255290,
-      "name": "El Sol Est\u00e1 Mojado",
-      "url": "https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2"
     },
     {
       "added_at": "2026-01-09 03:00:10",

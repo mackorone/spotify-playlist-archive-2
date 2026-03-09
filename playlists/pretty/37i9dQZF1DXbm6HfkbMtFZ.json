@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 836534,
+  "num_followers": 836642,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        }
-      ],
-      "duration_ms": 201640,
-      "name": "Dontcha",
-      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/4Bpt4fHYxxgqR2GjrxyR6D"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        }
+      ],
+      "duration_ms": 201640,
+      "name": "Dontcha",
+      "url": "https://open.spotify.com/track/6dET51TwAJPrKV5wmA5Vhr"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "HEART OF THE MATTER",
-        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
-      },
-      "artists": [
-        {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
-        }
-      ],
-      "duration_ms": 226779,
-      "name": "HEART OF THE MATTER",
-      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Unicorn",
         "url": "https://open.spotify.com/album/4DUTwccENusGfoeYUDVWe0"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 216051,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/54Uw6SATImHdL9aKDJhgkh"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+      },
+      "artists": [
+        {
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+        }
+      ],
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "New Me, Same Us",
+        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
+      },
+      "artists": [
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 207037,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "strongboi",
         "url": "https://open.spotify.com/album/1SMqO3mYNla8IxJIEFkQ7A"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 138000,
       "name": "Cheesin\u2019 (with Cautious Clay, Remi Wolf, Still Woozy, Sophie Meiers, Claud, Melanie Faye, & HXNS)",
       "url": "https://open.spotify.com/track/6lIRYe72fn1pf7TNqfI0ul"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "New Me, Same Us",
-        "url": "https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF"
-      },
-      "artists": [
-        {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
-        }
-      ],
-      "duration_ms": 207037,
-      "name": "Where You Belong",
-      "url": "https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Sings Love",
+        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+      },
+      "artists": [
+        {
+          "name": "Sonya Spence",
+          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+        }
+      ],
+      "duration_ms": 222981,
+      "name": "Let Love Flow On",
+      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Sings Love",
-        "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
       },
       "artists": [
         {
-          "name": "Sonya Spence",
-          "url": "https://open.spotify.com/artist/4YhJrnFq2vfLrp7AwDfLEJ"
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
         }
       ],
-      "duration_ms": 222981,
-      "name": "Let Love Flow On",
-      "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+      "duration_ms": 248526,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1083,22 +1099,6 @@
       "duration_ms": 138226,
       "name": "Great Big Bundle Of Love",
       "url": "https://open.spotify.com/track/7xbsIq5auyv8sOuyOvlVAE"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/4bIKzeSEz3WAgyo7NYG0SJ"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 248526,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/4KIoUrQlMx3PFtRmPNbgAv"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
+      },
+      "artists": [
+        {
+          "name": "Moniker",
+          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
+        }
+      ],
+      "duration_ms": 145881,
+      "name": "Ocean Blue",
+      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Always on My Mind (Acoustic)",
         "url": "https://open.spotify.com/album/2IXxnl8jWACV3QC8WtyHIt"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 214820,
       "name": "Always on My Mind (Acoustic)",
       "url": "https://open.spotify.com/track/4BzkIjqAMi2MYU5ZJoV9my"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
-      },
-      "artists": [
-        {
-          "name": "Moniker",
-          "url": "https://open.spotify.com/artist/6mLzqvtfYZ0tq6JKj4VTEW"
-        }
-      ],
-      "duration_ms": 145881,
-      "name": "Ocean Blue",
-      "url": "https://open.spotify.com/track/5BzGvBwBL3y2WSGml0rkLH"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
-        "name": "Thunderhead",
-        "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
-      },
-      "artists": [
-        {
-          "name": "Kinji",
-          "url": "https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh"
-        }
-      ],
-      "duration_ms": 166333,
-      "name": "pocketwatch",
-      "url": "https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
         "name": "Open Season",
         "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 240453,
       "name": "One Evening - Remix By VV",
       "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
+        "name": "Thunderhead",
+        "url": "https://open.spotify.com/album/75vEyuCyUQKUwjL97t8xed"
+      },
+      "artists": [
+        {
+          "name": "Kinji",
+          "url": "https://open.spotify.com/artist/52BlbTWmOsQ3K4hA1tOluh"
+        }
+      ],
+      "duration_ms": 166333,
+      "name": "pocketwatch",
+      "url": "https://open.spotify.com/track/12Ph5zyBdJZ50EDGAJyzZZ"
     },
     {
       "added_at": "2026-01-28 21:43:36",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2026-01-28 21:43:36",
       "album": {
+        "name": "Turn The World On",
+        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        },
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Diving (feat. Holly Humberstone)",
+      "url": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
+    },
+    {
+      "added_at": "2026-01-28 21:43:36",
+      "album": {
         "name": "Stunning & Atrocious",
         "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
       },
@@ -1959,26 +1979,6 @@
       "duration_ms": 195276,
       "name": "Picture Frame",
       "url": "https://open.spotify.com/track/0DkZynmdHveUtwaas1Xj2m"
-    },
-    {
-      "added_at": "2026-01-28 21:43:36",
-      "album": {
-        "name": "Turn The World On",
-        "url": "https://open.spotify.com/album/0zL6Nw3i8LCzj4HRI2olI3"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        },
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Diving (feat. Holly Humberstone)",
-      "url": "https://open.spotify.com/track/1HyrqH2wLIEnWm8SGVbytB"
     },
     {
       "added_at": "2026-01-28 21:43:36",

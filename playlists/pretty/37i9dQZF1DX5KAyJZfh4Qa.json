@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Algernon Cadwallader",
-  "num_followers": 80283,
+  "num_followers": 80311,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Forward",
-        "url": "https://open.spotify.com/album/0YMs1zWAno5lULSw5rlXUp"
-      },
-      "artists": [
-        {
-          "name": "First Day Back",
-          "url": "https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx"
-        }
-      ],
-      "duration_ms": 141250,
-      "name": "Sure, Ok",
-      "url": "https://open.spotify.com/track/4QAvVugE3bnfY52wEOSs3I"
-    },
-    {
-      "added_at": "2025-09-12 16:23:44",
-      "album": {
         "name": "That's OK",
         "url": "https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2025-09-12 16:23:44",
       "album": {
-        "name": "Together In Lonesome (Acoustic EP)",
-        "url": "https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j"
+        "name": "Forward",
+        "url": "https://open.spotify.com/album/0YMs1zWAno5lULSw5rlXUp"
       },
       "artists": [
         {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+          "name": "First Day Back",
+          "url": "https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx"
         }
       ],
-      "duration_ms": 204286,
-      "name": "What Tomorrow Brings / Requiem - Acoustic",
-      "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"
+      "duration_ms": 141250,
+      "name": "Sure, Ok",
+      "url": "https://open.spotify.com/track/4QAvVugE3bnfY52wEOSs3I"
     },
     {
       "added_at": "2025-09-12 16:23:44",
@@ -1219,6 +1203,22 @@
       "duration_ms": 171000,
       "name": "When I Come East",
       "url": "https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM"
+    },
+    {
+      "added_at": "2025-09-12 16:23:44",
+      "album": {
+        "name": "Together In Lonesome (Acoustic EP)",
+        "url": "https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204286,
+      "name": "What Tomorrow Brings / Requiem - Acoustic",
+      "url": "https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0"
     },
     {
       "added_at": "2025-09-12 16:23:44",

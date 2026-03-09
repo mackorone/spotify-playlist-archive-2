@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,052 likes - 62 songs - 3 hr 25 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 26,054 likes - 63 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,9 +66,10 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 | 56 | [Sandstorm](https://open.spotify.com/track/0itxy2YISqn7ftwGnEICEH) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX) | [Sandstorm](https://open.spotify.com/album/0O9u5V4ucwHCMwF2vnvcXZ) | 2:17 |
 | 57 | [MT\. DS](https://open.spotify.com/track/6XWXTB5PurCkKtlkT5xjk8) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK) | [MT\. DS EP](https://open.spotify.com/album/2i4OGGjgQl7BBJluGyYTLE) | 5:14 |
 | 58 | [Feel Good](https://open.spotify.com/track/2yWtbIBhuwJ6GHR5X5qP4O) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Feel Good](https://open.spotify.com/album/6G5r7GZdbRkaKgC1GKxviw) | 3:01 |
-| 59 | [Make Love...](https://open.spotify.com/track/25rni91zwqjpzLVEj9QIEl) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Make Love...](https://open.spotify.com/album/4baeBh50shaE08mn5tFRzA) | 4:31 |
-| 60 | [Ocean Eyes](https://open.spotify.com/track/1VW5sF3jgOzMxeVRYJy9ac) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Ocean Eyes](https://open.spotify.com/album/6CDavIb02mcnM8wWZ2muIb) | 3:03 |
-| 61 | [Positive Energy](https://open.spotify.com/track/44p0PfEWj7s2cOtxDxGQgO) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Positive Energy](https://open.spotify.com/album/3JfZx0R2kR3LptANyy1vGv) | 3:35 |
-| 62 | [I Have Friends Everywhere](https://open.spotify.com/track/211xU5wwQ0Z5KGD5f1oQM8) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [I Have Friends Everywhere](https://open.spotify.com/album/3DxdLreVHyPlZJZ02xjWOv) | 3:48 |
+| 59 | [Above The Sky](https://open.spotify.com/track/1jbVB9IEqvvF8fJ2rQvwP6) | [Domestique](https://open.spotify.com/artist/6hOUe5iEVbbezCH4n6uiYR) | [Above The Sky](https://open.spotify.com/album/3FswxKuzz32i2vLUZOlYo5) | 3:46 |
+| 60 | [Make Love...](https://open.spotify.com/track/25rni91zwqjpzLVEj9QIEl) | [st\. art](https://open.spotify.com/artist/5EhrkiLHKyvJ3fhyLsDgKH) | [Make Love...](https://open.spotify.com/album/4baeBh50shaE08mn5tFRzA) | 4:31 |
+| 61 | [Ocean Eyes](https://open.spotify.com/track/1VW5sF3jgOzMxeVRYJy9ac) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz), [Jazara](https://open.spotify.com/artist/7didXxc5oXHa2VLDXPxNag) | [Ocean Eyes](https://open.spotify.com/album/6CDavIb02mcnM8wWZ2muIb) | 3:03 |
+| 62 | [Positive Energy](https://open.spotify.com/track/44p0PfEWj7s2cOtxDxGQgO) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Positive Energy](https://open.spotify.com/album/3JfZx0R2kR3LptANyy1vGv) | 3:35 |
+| 63 | [I Have Friends Everywhere](https://open.spotify.com/track/211xU5wwQ0Z5KGD5f1oQM8) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [I Have Friends Everywhere](https://open.spotify.com/album/3DxdLreVHyPlZJZ02xjWOv) | 3:48 |
 
-Snapshot ID: `AABlPmuF45jOBAoBEHn+nHdDWjFXCtbz`
+Snapshot ID: `AABlP20GxFMgPAzRCK+EEKPuk8k66Iam`

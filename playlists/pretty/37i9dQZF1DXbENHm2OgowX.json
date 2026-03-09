@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 322466,
+  "num_followers": 322647,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPWNsSpjUmMgjpemBKieY2F3wtLd",
+  "snapshot_id": "AAAAADAdjWGJNCuh/7F735VT1PGcaOX1",
   "tracks": [
     {
       "added_at": "2026-02-27 13:09:04",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
+        "name": "its never enough",
+        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+      },
+      "artists": [
+        {
+          "name": "les",
+          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+        }
+      ],
+      "duration_ms": 98196,
+      "name": "its never enough",
+      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+    },
+    {
+      "added_at": "2026-02-27 13:09:04",
+      "album": {
         "name": "A Place To Sleep",
         "url": "https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48"
       },
@@ -691,18 +707,22 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "its never enough",
-        "url": "https://open.spotify.com/album/5NEgDSxRetHmUbi0lfN8JE"
+        "name": "i was always there for you",
+        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
       },
       "artists": [
         {
-          "name": "les",
-          "url": "https://open.spotify.com/artist/6V8L1msbb4Hl8psDzB58bi"
+          "name": "rareeast",
+          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
+        },
+        {
+          "name": "idontno",
+          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
         }
       ],
-      "duration_ms": 98196,
-      "name": "its never enough",
-      "url": "https://open.spotify.com/track/6HxklRHp9v16B6E8dv5g2l"
+      "duration_ms": 119600,
+      "name": "i was always there for you",
+      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -811,26 +831,6 @@
       "duration_ms": 262000,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1"
-    },
-    {
-      "added_at": "2026-02-27 13:09:04",
-      "album": {
-        "name": "i was always there for you",
-        "url": "https://open.spotify.com/album/2oC1HESuo0LqRgFdG6JmNZ"
-      },
-      "artists": [
-        {
-          "name": "rareeast",
-          "url": "https://open.spotify.com/artist/1j1EqfiN0jt8Ky6HKeriMd"
-        },
-        {
-          "name": "idontno",
-          "url": "https://open.spotify.com/artist/0jT6Qw9cnSguIbWlbJRo49"
-        }
-      ],
-      "duration_ms": 119600,
-      "name": "i was always there for you",
-      "url": "https://open.spotify.com/track/6BmYmf6Ns6Wnup6vpKm7SH"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "thoughts inside my head",
-        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
-      },
-      "artists": [
-        {
-          "name": "I'm flying",
-          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
-        }
-      ],
-      "duration_ms": 134314,
-      "name": "thoughts inside my head",
-      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
-    },
-    {
-      "added_at": "2026-02-27 13:09:04",
-      "album": {
         "name": "haunted, but it's ambient",
         "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 136800,
       "name": "haunted, but it's ambient",
       "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
+    },
+    {
+      "added_at": "2026-02-27 13:09:04",
+      "album": {
+        "name": "thoughts inside my head",
+        "url": "https://open.spotify.com/album/47GjjzzGUecs6GjtbwieRA"
+      },
+      "artists": [
+        {
+          "name": "I'm flying",
+          "url": "https://open.spotify.com/artist/3usEtaz39XkcPQZuVheueS"
+        }
+      ],
+      "duration_ms": 134314,
+      "name": "thoughts inside my head",
+      "url": "https://open.spotify.com/track/164X9gk1G6s6G6NWVYQ5XY"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "Solar Nights",
-        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
-      },
-      "artists": [
-        {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
-        }
-      ],
-      "duration_ms": 163106,
-      "name": "Solar Nights",
-      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
-    },
-    {
-      "added_at": "2026-02-27 13:09:04",
-      "album": {
         "name": "cry",
         "url": "https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "Heaven in Time",
-        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
+        "name": "Solar Nights",
+        "url": "https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl"
       },
       "artists": [
         {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
         }
       ],
-      "duration_ms": 164386,
-      "name": "Heaven in Time",
-      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
+      "duration_ms": 163106,
+      "name": "Solar Nights",
+      "url": "https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1243,6 +1227,22 @@
       "duration_ms": 201423,
       "name": "Fur and Exhaust",
       "url": "https://open.spotify.com/track/6CjJAzQfMQnMsG36HDkxtS"
+    },
+    {
+      "added_at": "2026-02-27 13:09:04",
+      "album": {
+        "name": "Heaven in Time",
+        "url": "https://open.spotify.com/album/50k7TzyHX3wq9auHlbsyUw"
+      },
+      "artists": [
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "Heaven in Time",
+      "url": "https://open.spotify.com/track/6XNxEFDlgG6MVfay6uGf9d"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1279,30 +1279,6 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "For One Another",
-        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
-      },
-      "artists": [
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
-        },
-        {
-          "name": "Goldmund",
-          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
-        },
-        {
-          "name": "Harbors",
-          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
-        }
-      ],
-      "duration_ms": 230173,
-      "name": "For One Another",
-      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
-    },
-    {
-      "added_at": "2026-02-27 13:09:04",
-      "album": {
         "name": "Green Wall",
         "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
       },
@@ -1331,6 +1307,30 @@
       "duration_ms": 221213,
       "name": "Below the House",
       "url": "https://open.spotify.com/track/3pcc5i4J7FCGiDzYeq8IHd"
+    },
+    {
+      "added_at": "2026-02-27 13:09:04",
+      "album": {
+        "name": "For One Another",
+        "url": "https://open.spotify.com/album/556MxCxr9kDtL0NIQJvNKw"
+      },
+      "artists": [
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        },
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        },
+        {
+          "name": "Harbors",
+          "url": "https://open.spotify.com/artist/6lOZ3w183ZOw3cEJc7lt8R"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "For One Another",
+      "url": "https://open.spotify.com/track/76Q7prOhYcczSlOrHfNQnj"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "iel te guide (lumineuse arp v)",
-        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
+        "name": "Eidetic",
+        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
       },
       "artists": [
         {
-          "name": "Passa Tempo",
-          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
+          "name": "Beno\u00eet Pioulard",
+          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
         }
       ],
-      "duration_ms": 176000,
-      "name": "iel te guide (lumineuse arp v)",
-      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
+      "duration_ms": 70306,
+      "name": "Safn",
+      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
     },
     {
       "added_at": "2026-02-27 13:09:04",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2026-02-27 13:09:04",
       "album": {
-        "name": "Eidetic",
-        "url": "https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI"
+        "name": "iel te guide (lumineuse arp v)",
+        "url": "https://open.spotify.com/album/3iGWgsVsg598vpnPMGOGst"
       },
       "artists": [
         {
-          "name": "Beno\u00eet Pioulard",
-          "url": "https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl"
+          "name": "Passa Tempo",
+          "url": "https://open.spotify.com/artist/6Qpnrt9GMCBN54ec9eTsAu"
         }
       ],
-      "duration_ms": 70306,
-      "name": "Safn",
-      "url": "https://open.spotify.com/track/2MHKYLzZDWpj2jZDIPVWor"
+      "duration_ms": 176000,
+      "name": "iel te guide (lumineuse arp v)",
+      "url": "https://open.spotify.com/track/2Qn4xuj7oMw2DwWQGUdjsT"
     },
     {
       "added_at": "2026-02-27 13:09:04",

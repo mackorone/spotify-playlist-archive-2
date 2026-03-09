@@ -1969,6 +1969,24 @@
     },
     {
       "album": {
+        "name": "Con le ali spezzate",
+        "url": "https://open.spotify.com/album/0XtbJj0QQwLWvtFcP26Cup"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160051,
+      "name": "Con le ali spezzate",
+      "url": "https://open.spotify.com/track/4ubgpYL4IiexE4tQO2Ln0l"
+    },
+    {
+      "album": {
         "name": "Concrete Jungle",
         "url": "https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ"
       },

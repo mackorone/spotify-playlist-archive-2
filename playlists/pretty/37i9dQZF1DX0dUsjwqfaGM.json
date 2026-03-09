@@ -239,18 +239,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "AZA",
-        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
+        "name": "SOS/City",
+        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
       },
       "artists": [
         {
-          "name": "\u00c1nh S\u00e1ng AZA",
-          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
         }
       ],
-      "duration_ms": 186067,
-      "name": "Ch\u1edd Chia Tay",
-      "url": "https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV"
+      "duration_ms": 259202,
+      "name": "City",
+      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "SOS/City",
-        "url": "https://open.spotify.com/album/1rB2mWO7wLu2GY4eZsRMRw"
-      },
-      "artists": [
-        {
-          "name": "NGHI",
-          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
-        }
-      ],
-      "duration_ms": 259202,
-      "name": "City",
-      "url": "https://open.spotify.com/track/4l29bX8C0UAVsIfxPfGOKY"
-    },
-    {
-      "added_at": "2025-10-09 12:00:33",
-      "album": {
         "name": "AZA",
         "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
       },
@@ -352,9 +336,29 @@
           "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
         }
       ],
-      "duration_ms": 160733,
-      "name": "Do Em",
-      "url": "https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9"
+      "duration_ms": 186067,
+      "name": "Ch\u1edd Chia Tay",
+      "url": "https://open.spotify.com/track/6zL9Nsn2C1I8uawBaJbDvV"
+    },
+    {
+      "added_at": "2025-10-09 12:00:33",
+      "album": {
+        "name": "anh ch\u01b0a qu\u00ean \u0111\u01b0\u1ee3c em (2AM Freestyle)",
+        "url": "https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY"
+      },
+      "artists": [
+        {
+          "name": "SIXTYUPTOWN",
+          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
+        },
+        {
+          "name": "Larria.",
+          "url": "https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "anh ch\u01b0a qu\u00ean \u0111\u01b0\u1ee3c em (2AM Freestyle)",
+      "url": "https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F"
     },
     {
       "added_at": "2025-10-09 12:00:33",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-10-09 12:00:33",
       "album": {
-        "name": "anh ch\u01b0a qu\u00ean \u0111\u01b0\u1ee3c em (2AM Freestyle)",
-        "url": "https://open.spotify.com/album/6IotTHyZ9lQvylBqTEvhFY"
+        "name": "AZA",
+        "url": "https://open.spotify.com/album/0UYMVOjA0TrgUdu3eWLO22"
       },
       "artists": [
         {
-          "name": "SIXTYUPTOWN",
-          "url": "https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay"
-        },
-        {
-          "name": "Larria.",
-          "url": "https://open.spotify.com/artist/1qdb7jDQjPd8WWpayCRh5V"
+          "name": "\u00c1nh S\u00e1ng AZA",
+          "url": "https://open.spotify.com/artist/0agWx6vy0Ss4FGafO8bEYc"
         }
       ],
-      "duration_ms": 152571,
-      "name": "anh ch\u01b0a qu\u00ean \u0111\u01b0\u1ee3c em (2AM Freestyle)",
-      "url": "https://open.spotify.com/track/2wKRXynEFTZRAbCzxaLv6F"
+      "duration_ms": 160733,
+      "name": "Do Em",
+      "url": "https://open.spotify.com/track/2HB9qkxBo8wzvAjpLDT2u9"
     },
     {
       "added_at": "2025-10-09 12:00:33",

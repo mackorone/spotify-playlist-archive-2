@@ -1,6 +1,6 @@
 {
   "description": "The sound of Afrobeats echoing around the world. Cover:  Ayra Starr",
-  "num_followers": 28483,
+  "num_followers": 28574,
   "original_name": "Global Afrobeats",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,22 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "Birthday",
-        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
         },
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Steel Banglez",
-          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
         }
       ],
-      "duration_ms": 155753,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -707,22 +703,26 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+        "name": "Birthday",
+        "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
       },
       "artists": [
         {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         },
         {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
         }
       ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+      "duration_ms": 155753,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1123,6 +1123,30 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
+        "name": "CiCi (Deluxe)",
+        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "MOLIY",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "Nice n' Sweet (feat. MOLIY)",
+      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
+    },
+    {
+      "added_at": "2026-03-06 00:01:09",
+      "album": {
         "name": "STINGY",
         "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
       },
@@ -1147,30 +1171,6 @@
       "duration_ms": 220206,
       "name": "STINGY",
       "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
-    },
-    {
-      "added_at": "2026-03-06 00:01:09",
-      "album": {
-        "name": "CiCi (Deluxe)",
-        "url": "https://open.spotify.com/album/4kICF6A8HTzQ2EEH7GGsoY"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "MOLIY",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "Nice n' Sweet (feat. MOLIY)",
-      "url": "https://open.spotify.com/track/7eilm0LI79IVtAKgqPCn28"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "La Ruta",
-        "url": "https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW"
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/2WC4sj6vYIaEyQ86RDlsZC"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Cliff Khawly",
+          "url": "https://open.spotify.com/artist/4FA1BpZ1jxIdz0k20L0K0Y"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
         }
       ],
-      "duration_ms": 161181,
-      "name": "La Ruta",
-      "url": "https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct"
+      "duration_ms": 184752,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/5UfnHkXFdwdprr9o9hW3KG"
     },
     {
       "added_at": "2026-03-06 00:01:09",
@@ -1559,22 +1559,22 @@
     {
       "added_at": "2026-03-06 00:01:09",
       "album": {
-        "name": "Please Me",
-        "url": "https://open.spotify.com/album/2WC4sj6vYIaEyQ86RDlsZC"
+        "name": "La Ruta",
+        "url": "https://open.spotify.com/album/5lgRpUbqo5VRODoEiQeNCW"
       },
       "artists": [
         {
-          "name": "Cliff Khawly",
-          "url": "https://open.spotify.com/artist/4FA1BpZ1jxIdz0k20L0K0Y"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         },
         {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 184752,
-      "name": "Please Me",
-      "url": "https://open.spotify.com/track/5UfnHkXFdwdprr9o9hW3KG"
+      "duration_ms": 161181,
+      "name": "La Ruta",
+      "url": "https://open.spotify.com/track/7sDPVFMYuoq9UPLrM1I7Ct"
     },
     {
       "added_at": "2026-03-06 00:01:09",

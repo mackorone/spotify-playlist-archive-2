@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Carolina Ross en portada 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,128 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,163 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 65 | [Aún Así Te Vas](https://open.spotify.com/track/0CCHkI9je8XDMd9T4hzxEP) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Aún Así Te Vas](https://open.spotify.com/album/36lKTMRmTpeYxRrDa3M7CW) | 3:16 |
 | 66 | [Ni Pedo](https://open.spotify.com/track/3WLdR3ObZtUiFwZgr8n7pE) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [Ni Pedo](https://open.spotify.com/album/1V9Cd1r9p6u1oDGuHriLsF) | 2:22 |
 | 67 | [Doble T](https://open.spotify.com/track/0psYURhcteRbFcW9MH3Rj9) | [Viviann Baeza](https://open.spotify.com/artist/7fuBwrGHaKmyFlbSHcABvo), [Emilio](https://open.spotify.com/artist/63AURDJ3zaxKaBcrm9q74B) | [Doble T](https://open.spotify.com/album/4P6cszM5VvuNEqBRpSPfgs) | 2:39 |
-| 68 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
-| 69 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
+| 68 | [Mi Problema](https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Mi Problema](https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb) | 3:03 |
+| 69 | [El Cigarrillo](https://open.spotify.com/track/6T5ugwWsNTZr6Zn1kcB5fI) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [El Cigarrillo](https://open.spotify.com/album/3C7sNM129xD6PoC8SEQgZl) | 3:39 |
 | 70 | [Quítame Ese Hombre](https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Quítame ese Hombre](https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg) | 3:16 |
 | 71 | [Volveré A Amar](https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN) | [Valentina Elizalde](https://open.spotify.com/artist/3mrPm4M2JDsWBSrB0deiT1) | [Volveré A Amar](https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o) | 4:00 |
 | 72 | [Yo Te Extrañaré](https://open.spotify.com/track/5eaoQpGpFBQrMUjWk3lruo) | [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB), [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW) | [Yo Te Extrañaré](https://open.spotify.com/album/39CrI0ILTQ6Ia0zHaBNpda) | 4:50 |
-| 73 | [Que Te Perdone Dios](https://open.spotify.com/track/5XR8Sg8xX269DA3yhmPXqB) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Donde Todo Comenzo](https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH) | 3:21 |
-| 74 | [Diamante](https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamante](https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il) | 2:38 |
+| 73 | [Diamante](https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Diamante](https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il) | 2:38 |
+| 74 | [Que Te Perdone Dios](https://open.spotify.com/track/5XR8Sg8xX269DA3yhmPXqB) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Donde Todo Comenzo](https://open.spotify.com/album/3AvSFdVFojl9hmt7xxC7LH) | 3:21 |
 | 75 | [No que no](https://open.spotify.com/track/2rWePwaFVD8ukg8qimS3lP) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [No que no](https://open.spotify.com/album/0epUaxYXXwj70sm73aYpSF) | 3:09 |
 | 76 | [Contigo Me Clavé](https://open.spotify.com/track/5mnyuYUNBvaxdUpPO5Eevz) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Contigo Me Clavé](https://open.spotify.com/album/6uGTUztRfPH7dAD2BZO6AH) | 2:44 |
 | 77 | [Prefiero Tomar](https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Bordado a Mano](https://open.spotify.com/album/39Frs6BtTz8Wdj5I6x6vYh) | 2:42 |

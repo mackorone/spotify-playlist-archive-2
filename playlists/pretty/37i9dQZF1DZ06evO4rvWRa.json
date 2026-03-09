@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638252,
+  "num_followers": 1638233,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADABuslr5JVOwwpImrzNIL2",
+  "snapshot_id": "aatqgAAAAAA07z1iFoyxd3fVkEDFiJpZ",
   "tracks": [
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/4B53KasBEHhAav1q9Ner4y"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 185214,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1DIufDXVYrsEbQgXcnZ7Ni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adagio",
-        "url": "https://open.spotify.com/album/4B53KasBEHhAav1q9Ner4y"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 185214,
-      "name": "Adagio",
-      "url": "https://open.spotify.com/track/1DIufDXVYrsEbQgXcnZ7Ni"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 150163,
+  "num_followers": 150178,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAbxac18xbSQMjM7HNhgf+D",
+  "snapshot_id": "aatqgAAAAACQW9GM0l/iBdyOF6lb75z8",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 274480,
-      "name": "The Axe",
-      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
+      "duration_ms": 240358,
+      "name": "Sphinx",
+      "url": "https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fortitude",
-        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 240358,
-      "name": "Sphinx",
-      "url": "https://open.spotify.com/track/6PhrbFbRW3Cchrv6klsLF5"
+      "duration_ms": 274480,
+      "name": "The Axe",
+      "url": "https://open.spotify.com/track/25I6CiICRyGB0K7E9c7Ho0"
     },
     {
       "added_at": null,

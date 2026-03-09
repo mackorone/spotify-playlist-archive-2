@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2845223,
+  "num_followers": 2845396,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-02-23 20:12:11",
       "album": {
-        "name": "4X4",
-        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
-    },
-    {
-      "added_at": "2026-02-23 20:12:11",
-      "album": {
         "name": "Coke Wave 3.5: Narcos",
         "url": "https://open.spotify.com/album/2YUs8GbMrKBcpGF7ElDHJE"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 136333,
       "name": "Ever Since U Left Me (I Went Deaf)",
       "url": "https://open.spotify.com/track/5ehgf6op0j2sE4lqjiTkMY"
+    },
+    {
+      "added_at": "2026-02-23 20:12:11",
+      "album": {
+        "name": "4X4",
+        "url": "https://open.spotify.com/album/5HAxzyUfyay8NElNaehsNe"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/6s8WSX1MxNThrot8ThI6fG"
     },
     {
       "added_at": "2026-02-23 20:12:11",

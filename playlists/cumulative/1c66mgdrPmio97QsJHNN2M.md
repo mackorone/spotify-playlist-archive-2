@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-1,325 songs - 3 day 0 hr 15 min
+1,329 songs - 3 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Blaa Blaa Blaa](https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws) | [Tapany](https://open.spotify.com/artist/7MI44S2fRIrOiOovCyY3xS) | [Blaa Blaa Blaa](https://open.spotify.com/album/3fNTQi5eXA8vqk2loEg3Yq) | 2:24 | 2025-11-19 | 2025-12-20 |
 | [Black Beach](https://open.spotify.com/track/4GAfjkz3Df80JzLsCl8kKg) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Black Beach](https://open.spotify.com/album/4kM8ETgFcYp1FwRGZO9gCn) | 2:32 | 2025-11-08 | 2025-12-11 |
 | [Black Cat](https://open.spotify.com/track/6dSioFJXazwRx8v0TFKcVX) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [Black Cat](https://open.spotify.com/album/2kPGAf4iPwfIehyfdqno0R) | 2:27 | 2026-01-28 | 2026-03-02 |
+| [Blind](https://open.spotify.com/track/0O24YZs4wvgoHMcgyLdePp) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Blind](https://open.spotify.com/album/5rBh1tA0ZhWg6UZ22hWPHf) | 3:17 | 2026-03-08 |  |
 | [Blinding Lights Of The Apollo](https://open.spotify.com/track/4ixVDbCokDVvpG7YAjfNia) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Ambient Darkness \- Vol\. 2 \- The Light](https://open.spotify.com/album/7GBhGMtGrYUjjb25FQGJaO) | 4:00 | 2026-01-14 | 2026-01-24 |
 | [Blondie Blown](https://open.spotify.com/track/6jlHrFcdpy0BxoTGkjET2q) | [Tellaro](https://open.spotify.com/artist/40eY19JGg5JAtZ0FwDNOx7) | [Melodie Natalizie del Complesso Siciliano Tellaro](https://open.spotify.com/album/16YnYAaZOkBJXzfg9sGqPz) | 2:53 | 2025-12-27 | 2026-01-28 |
 | [Blood of the Oracle](https://open.spotify.com/track/22LXKKeOdxjJY3m1eutmc3) | [Fire and Tears](https://open.spotify.com/artist/0OT0MSuwhoLbE5SC3dMBC1) | [Fire and Tears](https://open.spotify.com/album/3WpkYZYtFHlfF9HACYSdnr) | 4:31 | 2025-11-17 | 2025-12-19 |
@@ -590,6 +591,7 @@
 | [it's complicated](https://open.spotify.com/track/7B7F1sumZiTNCBk6oXZCb5) | [raihan](https://open.spotify.com/artist/71FN3vBlPk9AUdORXIMlLD), [Swik](https://open.spotify.com/artist/7IgAHxP7vH6TfXJtf8Kbai), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [it's complicated](https://open.spotify.com/album/6GPcZSDGjycIzGNKDL51Vz) | 2:47 | 2025-10-24 | 2025-11-26 |
 | [It's just a shot in the dark](https://open.spotify.com/track/61rHYOTI09U6xCatO3h1Nj) | [Lyle Akins](https://open.spotify.com/artist/3BxdGcNlA27sd3RykVMybq) | [It's just a shot in the dark](https://open.spotify.com/album/1wuBM14Y8LZTlEHf6HWhAu) | 2:51 | 2026-01-21 | 2026-02-24 |
 | [It's You](https://open.spotify.com/track/4OSreDxciehHjXiDIecQav) | [McKayla Michelle](https://open.spotify.com/artist/14RIpvHLel1ghkovrPsu6h) | [It's You](https://open.spotify.com/album/6eMmuyv2I41OrR0M7E7qe8) | 2:38 | 2025-12-11 | 2026-01-15 |
+| [Its My Life](https://open.spotify.com/track/4nseBsDHaR6U5E9oMpsdNg) | [Roger K](https://open.spotify.com/artist/41hkPBRM1scZzY6JEcoLxT) | [Its My Life](https://open.spotify.com/album/1KHjNcVhv3NQVdc7BNy7V6) | 2:42 | 2026-03-08 |  |
 | [IYKYK](https://open.spotify.com/track/2MHZg1SAC5jCuTNsm9uO6Y) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [IYKYK](https://open.spotify.com/album/2kACKOnRggw9oPwu2sJcRb) | 2:56 | 2025-12-03 | 2026-01-04 |
 | [Jaded Thoughts](https://open.spotify.com/track/1FDAHL43nQAddl9Fb7S3Zl) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG) | [Jaded Thoughts](https://open.spotify.com/album/3ljpy5RsLVfYUmdnjLmebp) | 3:06 | 2026-02-24 |  |
 | [James](https://open.spotify.com/track/27auLUTUz5zzFjkuffOEAN) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [James](https://open.spotify.com/album/03LbkbBHfZ90TWp9uUXl3R) | 2:25 | 2026-02-03 | 2026-03-07 |
@@ -1070,6 +1072,7 @@
 | [Storm in my soul](https://open.spotify.com/track/1hQNPcMWG3iuolRyf9IKMG) | [Leandro Borges Pereira](https://open.spotify.com/artist/6TxfntRPqwJ2kfsFtFiAMK) | [Storm in my soul](https://open.spotify.com/album/1aXi3HKYspnC34mKsT9DxJ) | 3:52 | 2026-03-06 |  |
 | [Stormbringer](https://open.spotify.com/track/6PYA6Z6fdiQiTnzApdlpgP) | [Scale Storm](https://open.spotify.com/artist/2vFSpHPDkAlcBzW4DN8WHG) | [FIGHT!](https://open.spotify.com/album/2L12zByc2GSavAGGDyzH6Q) | 3:35 | 2025-10-30 | 2025-12-01 |
 | [Story with You](https://open.spotify.com/track/1TTS1igUK6LihSNMW0C4sv) | [Fachriasshidiqi](https://open.spotify.com/artist/3MBzLPJRlHjn38e0dQTxRA), [idontwantalkabouthat](https://open.spotify.com/artist/09E9uEiky7nQJYLd3l80rL) | [Story with You](https://open.spotify.com/album/27nyi822f2cjrvdN1S4w7E) | 3:24 | 2025-10-19 | 2025-11-23 |
+| [Striking Hazel Eyes](https://open.spotify.com/track/0D3ES6p0W4EUq8sOoYVRVV) | [Arjon](https://open.spotify.com/artist/0bkwRTxeu69ePVlT1Y2WRq) | [Striking Hazel Eyes](https://open.spotify.com/album/2IFaW07ZMj7FKmXvKSEozD) | 2:57 | 2026-03-08 |  |
 | [Stroll in the Sun](https://open.spotify.com/track/17sI3RmSvGBraRrRnbeArO) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Stroll in the Sun](https://open.spotify.com/album/75ZjghigBhGdyAeKB8AKam) | 2:59 | 2025-10-04 | 2026-01-15 |
 | [Stuck In A Moment](https://open.spotify.com/track/3WUDHQWBSf53lWfKbtCVp0) | [Pink Peaches](https://open.spotify.com/artist/6aYTftFJlm73s2Xjf4qLUF) | [Stuck In A Moment](https://open.spotify.com/album/4TIKdMM7ALHTeSNGZDKXnK) | 3:23 | 2026-01-09 | 2026-02-11 |
 | [Stuck in Amsterdamn \- Remaster](https://open.spotify.com/track/032WydYzKxM1b70cgdefgh) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Near Singleton](https://open.spotify.com/album/4Grag18jkQ6LbnsxCJ9Q4e) | 3:24 | 2026-03-01 |  |
@@ -1225,6 +1228,7 @@
 | [Victor \- birthday drop](https://open.spotify.com/track/1QtdlV9sb77sNN9siEW8OV) | [Max Wong](https://open.spotify.com/artist/6dt6t2Uu1mQDzccRNsrLSw) | [Victor \(birthday drop\)](https://open.spotify.com/album/7JwvFmghIc0UxIVxeMzbLv) | 2:45 | 2026-02-07 |  |
 | [VIENNA WHISPER \(VICE\)](https://open.spotify.com/track/09FPNtlUfHNkRdQks6uWOv) | [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [WILD TYPE](https://open.spotify.com/album/7lrzBhmvK7eKUAdNzp4uNP) | 3:07 | 2025-12-04 | 2026-01-05 |
 | [VILLAIN](https://open.spotify.com/track/2xkE8nmoQJObtgxOmsKf9G) | [A'Maria Imani](https://open.spotify.com/artist/0SvNczAhQ3pyWP6jceyPpC) | [CYNICISM](https://open.spotify.com/album/4XVnvJWIxsgLBJsfvh3cia) | 3:26 | 2025-12-28 | 2026-02-03 |
+| [VIP](https://open.spotify.com/track/0abVlRj49zVcv7mvL9rV5v) | [Madi Mitro](https://open.spotify.com/artist/3kDskLS0uoKLehuow5CuI5) | [VIP](https://open.spotify.com/album/1KOAcEgLl3gn4pJWdnqCH2) | 2:59 | 2026-03-08 |  |
 | [Visibly Sick](https://open.spotify.com/track/2yaRYz2qGF92fg2hZGWWUc) | [Yours Sincerely](https://open.spotify.com/artist/2SKyLU5sadUeecKiTS3FO4) | [Visibly Sick](https://open.spotify.com/album/5b5Fl2npFEfwxNRM6VXPQa) | 3:28 | 2026-02-20 |  |
 | [VOID IN MY SOUL](https://open.spotify.com/track/02SgYwvrfPnGtmxDStCg0y) | [AFTRL1FE](https://open.spotify.com/artist/4hoBP5Unwr3xKZhFISTkV1) | [VOID IN MY SOUL](https://open.spotify.com/album/7hmdKWkZLYJKJBtM385lml) | 2:21 | 2026-01-14 | 2026-02-15 |
 | [Waist](https://open.spotify.com/track/6gWYJb9O9SPaAgrW8kZtCt) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Waist](https://open.spotify.com/album/634TyUFhrkZ97mvTQj7iI5) | 3:12 | 2025-10-28 | 2025-11-30 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 72386,
+  "num_followers": 72391,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADvSeKSauB0sLR+AXmVgBKO",
+  "snapshot_id": "aatqgAAAAADeD6RDvnbYeVgeTwbnqxVr",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Higher Off The Ground",
-        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
       },
       "artists": [
         {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Barmuda",
+          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
         }
       ],
-      "duration_ms": 185850,
-      "name": "Higher Off The Ground",
-      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
+      "duration_ms": 267812,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
     },
     {
       "added_at": null,
@@ -403,22 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4GQU85w8eqKBl48Vod1i0A"
+        "name": "Higher Off The Ground",
+        "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Barmuda",
-          "url": "https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 267812,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/6nwq6sGohaaGlijGLEvdgg"
+      "duration_ms": 185850,
+      "name": "Higher Off The Ground",
+      "url": "https://open.spotify.com/track/2rDmxVMmUbozYlSDzktwMo"
     },
     {
       "added_at": null,
@@ -599,26 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You for the Summer (Kohen Remix)",
         "url": "https://open.spotify.com/album/6ufmXFf1GL3vWmyZVpC8yz"
       },
@@ -643,6 +623,26 @@
       "duration_ms": 158769,
       "name": "Love You for the Summer - Kohen Remix",
       "url": "https://open.spotify.com/track/7y3oxdNRRc0moNrzYPNK1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -867,34 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now I See You",
-        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LE\u00d8N",
-          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
-        },
-        {
-          "name": "Aeni",
-          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 167336,
-      "name": "Now I See You",
-      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting For Me",
         "url": "https://open.spotify.com/album/7AmzbrQgJx0ziEaObGoyR5"
       },
@@ -947,6 +919,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Now I See You",
+        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        },
+        {
+          "name": "Aeni",
+          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 167336,
+      "name": "Now I See You",
+      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay A Little Longer",
         "url": "https://open.spotify.com/album/0auaYrAblTDxnAeU1Ggdav"
       },
@@ -967,6 +967,26 @@
       "duration_ms": 211406,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/3r9RtXj216zntRikvgQdkK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -1011,26 +1031,6 @@
       "duration_ms": 158671,
       "name": "Hot Summer Nights",
       "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,

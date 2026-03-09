@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 52861,
+  "num_followers": 52867,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABQDr6WRa/cwvZTrBMAX3wh",
+  "snapshot_id": "aatqgAAAAAB+iq/Yd2QyzBVfCuyx6Joa",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Rain",
-        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Feels Like Rain (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genius Loves Company",
         "url": "https://open.spotify.com/album/3CwGxaRLRyEw6OiSbVhdRE"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 274910,
       "name": "Do I Ever Cross Your Mind",
       "url": "https://open.spotify.com/track/3GH1udndeAMY27JfXe0ecZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Rain",
+        "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Feels Like Rain (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music From The Motion Picture Michael",
-        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 264786,
-      "name": "Feels Like Home",
-      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Takin' My Time",
         "url": "https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 223133,
       "name": "You've Been in Love Too Long - 2008 Remaster",
       "url": "https://open.spotify.com/track/1jiYXUtNTeZzebDXDGgGQd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music From The Motion Picture Michael",
+        "url": "https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 264786,
+      "name": "Feels Like Home",
+      "url": "https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipstream",
-        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Not Cause I Wanted To",
-      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 347840,
       "name": "Blame it On Me",
       "url": "https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slipstream",
+        "url": "https://open.spotify.com/album/1tlNRoFelhNdpaaxkJIX9T"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Not Cause I Wanted To",
+      "url": "https://open.spotify.com/track/2eddW5VE76XGnS9iOkaGv3"
     },
     {
       "added_at": null,

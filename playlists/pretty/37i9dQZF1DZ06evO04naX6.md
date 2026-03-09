@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 
 > This is Yandel\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,639 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,674 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 36 | [Vamos Hacerlo](https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O) | [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Welcome To The Jungle](https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz) | 2:48 |
 | 37 | [Bonita \- Remix](https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Bonita \(Remix\)](https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA) | 5:22 |
 | 38 | [Mayor Que Yo \- Sinfónico En Vivo](https://open.spotify.com/track/6kqv4XNwOwt4zsFooyXVuA) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 2:18 |
-| 39 | [En Privado](https://open.spotify.com/track/0WZ1g124g4sE6rKYyD84QJ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 1:45 |
-| 40 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 |
+| 39 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 |
+| 40 | [En Privado](https://open.spotify.com/track/0WZ1g124g4sE6rKYyD84QJ) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Infinito](https://open.spotify.com/album/1O7pyLEzS5wsGwi5vkkF68) | 1:45 |
 | 41 | [MUÑECOTA](https://open.spotify.com/track/0TQAhtR3faikBDjzFyis4f) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MUÑECOTA](https://open.spotify.com/album/4anQADYMI44HzlZM98d7r2) | 2:55 |
 | 42 | [Bailame \- Sinfónico En Vivo](https://open.spotify.com/track/6ucP1DGFUijHO2MEsKAP8D) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [SINFÓNICO \(En Vivo\)](https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F) | 1:45 |
 | 43 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04naX6.md) - [plain]
 | 49 | [Sigo Enamorau'](https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:14 |
 | 50 | [Unica \- Remix](https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:36 |
 
-Snapshot ID: `aaoZAAAAAAA1WlVxYIKXnU0m3qLR4nt7`
+Snapshot ID: `aatqgAAAAAAJp/3aj95Q+k+EvnAXRiXy`

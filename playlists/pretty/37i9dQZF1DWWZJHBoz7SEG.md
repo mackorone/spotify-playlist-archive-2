@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Inicia marzo lleno de morras rifando en la música y en todos lados 📸  GRTSCH & Mon Laferte
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,149,361 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,149,346 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

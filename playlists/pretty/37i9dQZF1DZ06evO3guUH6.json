@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1079222,
+  "num_followers": 1079315,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAyEECBG337umFok96OGN09",
+  "snapshot_id": "aatqgAAAAADTPwEJVGX9jyuPieV5vu89",
   "tracks": [
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 180960,
+      "name": "Ya No Es Normal",
+      "url": "https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Siga La Fiesta",
         "url": "https://open.spotify.com/album/2bkgORd3gzIuLhrNlF1yRf"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 235253,
       "name": "Los Lujos Del R.",
       "url": "https://open.spotify.com/track/1QZrQnjIMS9yVFVYRoqnaX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 180960,
-      "name": "Ya No Es Normal",
-      "url": "https://open.spotify.com/track/1atlhbxPVJOZbTfvMw1quB"
     },
     {
       "added_at": null,
@@ -387,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Privilegio",
+        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Y Porque No",
+      "url": "https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfQui\u00e9n + Como Yo?",
         "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 159111,
       "name": "Se Vienen D\u00edas Tristes",
       "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Privilegio",
-        "url": "https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Y Porque No",
-      "url": "https://open.spotify.com/track/4tgo5UD0x1z4wG0iAryYSk"
     },
     {
       "added_at": null,

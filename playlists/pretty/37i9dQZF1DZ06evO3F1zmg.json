@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42484,
+  "num_followers": 42485,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADXwF9tenfMqOZPGKuSAK7V",
+  "snapshot_id": "aatqgAAAAABCEm3/umyvmvoaoQu5r2EK",
   "tracks": [
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Best",
-        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 121053,
-      "name": "My Best",
-      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
         "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
       },
@@ -863,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "QUAVO HUNCHO",
-        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+        "name": "My Best",
+        "url": "https://open.spotify.com/album/6Jntu9qLC1fkwjDFm9hWMK"
       },
       "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 182440,
-      "name": "GIVE IT TO EM (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+      "duration_ms": 121053,
+      "name": "My Best",
+      "url": "https://open.spotify.com/track/3qAMlVUvNZVpxA85pFPxOT"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HELLA PRESSURE",
         "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 162708,
       "name": "pressure",
       "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,
@@ -959,6 +943,22 @@
       "duration_ms": 169944,
       "name": "Addiction - feat. Lil Wayne & Saweetie",
       "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Sa k'ap f\u00e8t! Enjoy Ha\u00efti\u2019s national music, a smooth modern m\u00e9ringue sound.",
-  "num_followers": 36353,
+  "num_followers": 36361,
   "original_name": "Kompas Dir\u00e8k",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-02-26 17:17:47",
       "album": {
-        "name": "JIJE'M",
-        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
-      },
-      "artists": [
-        {
-          "name": "KAI",
-          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
-        },
-        {
-          "name": "Bedjine",
-          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
-        }
-      ],
-      "duration_ms": 316998,
-      "name": "KOUPAB",
-      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
-    },
-    {
-      "added_at": "2026-02-26 17:17:47",
-      "album": {
         "name": "Time To Shine",
         "url": "https://open.spotify.com/album/3AZDvlOXievmSkvpsODdDK"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 285346,
       "name": "Bif",
       "url": "https://open.spotify.com/track/3DzyChVBA7YeWkozAAZh2d"
+    },
+    {
+      "added_at": "2026-02-26 17:17:47",
+      "album": {
+        "name": "JIJE'M",
+        "url": "https://open.spotify.com/album/19B2Rmxg5lxjvcPPDN24Yc"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/1itlzSLzUxrgP9uQtxJFef"
+        },
+        {
+          "name": "Bedjine",
+          "url": "https://open.spotify.com/artist/1Y35rh5OR2IEcRW2UmLBEv"
+        }
+      ],
+      "duration_ms": 316998,
+      "name": "KOUPAB",
+      "url": "https://open.spotify.com/track/7fQLUCOYcafUT9ZppkUjCj"
     },
     {
       "added_at": "2026-02-26 17:17:47",

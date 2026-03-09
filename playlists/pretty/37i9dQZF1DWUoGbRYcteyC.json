@@ -1,12 +1,12 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1899930,
+  "num_followers": 1899783,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADnYkjwAKDcHXw7PGwwoCdcX1u41",
+  "snapshot_id": "AAAAAEHJG6TYgay58P1ewa7vdEXTpGBa",
   "tracks": [
     {
       "added_at": "2026-02-27 05:00:31",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-02-27 05:00:31",
       "album": {
-        "name": "LA FORMULA",
-        "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "EN TU MIRADAaaaa",
-      "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
-    },
-    {
-      "added_at": "2026-02-27 05:00:31",
-      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 167786,
       "name": "TUS GAFITAS",
       "url": "https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon"
+    },
+    {
+      "added_at": "2026-02-27 05:00:31",
+      "album": {
+        "name": "LA FORMULA",
+        "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "EN TU MIRADAaaaa",
+      "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
     },
     {
       "added_at": "2026-02-27 05:00:31",

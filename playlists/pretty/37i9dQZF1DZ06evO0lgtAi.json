@@ -1,12 +1,12 @@
 {
   "description": "This is Tainy. The essential tracks, all in one playlist.",
-  "num_followers": 34353,
+  "num_followers": 34366,
   "original_name": "This Is Tainy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACFiy+RgjLCoyN1ZoMqmpqM",
+  "snapshot_id": "aatqgAAAAACAKQHVK4KqHBVxSADySMGB",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+        "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+        "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 168965,
-      "name": "\u00bfCu\u00e1ndo Fue?",
-      "url": "https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs"
+      "duration_ms": 158027,
+      "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
+      "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
     },
     {
       "added_at": null,
@@ -535,30 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
-        "url": "https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
           "name": "Tainy",
           "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
         }
       ],
-      "duration_ms": 158027,
-      "name": "I Can\u2019t Get Enough (benny blanco, Selena Gomez, J Balvin, Tainy)",
-      "url": "https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt"
+      "duration_ms": 168965,
+      "name": "\u00bfCu\u00e1ndo Fue?",
+      "url": "https://open.spotify.com/track/4ZNKaE8fcrtDPsRK8RkQIs"
     },
     {
       "added_at": null,

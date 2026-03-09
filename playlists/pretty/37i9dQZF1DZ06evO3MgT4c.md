@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 
 > This is Migos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,842 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,865 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 28 | [Bosses Don't Speak](https://open.spotify.com/track/1C8yDcVIhBObN58cSS8oX9) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:01 |
 | 29 | [Taco Tuesday](https://open.spotify.com/track/2b1yiFEFZYuvlBnClvNJHP) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Taco Tuesday](https://open.spotify.com/album/42SNLQYdeiybSNLIxVA2yn) | 1:36 |
 | 30 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 |
-| 31 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
+| 31 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 |
 | 32 | [Too Hotty](https://open.spotify.com/track/3hWUIMNBwLNug1O8o2PPRW) | [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Eurielle](https://open.spotify.com/artist/7F1l2kTBvOPGd8sF8nBEtv) | [Quality Control: Control The Streets Volume 1](https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ) | 4:55 |
-| 33 | [Freak No More](https://open.spotify.com/track/4iv2W97CTO48UlM22dZeC8) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:27 |
+| 33 | [How We Coming](https://open.spotify.com/track/0oxfifOPoqzmWlTT2Tnu3k) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture III \(Deluxe\)](https://open.spotify.com/album/2actLFtpiiBZm1z0TUzMx2) | 3:49 |
 | 34 | [Drip \(feat\. Migos\)](https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 4:22 |
 | 35 | [What the Price](https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Culture](https://open.spotify.com/album/4JTOxuvM2jcSqAvEZtZsOO) | 4:08 |
 | 36 | [Versace \(Remix\)](https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Versace \(feat\. Drake\) \[Remix\] \- Single](https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MgT4c.md) - [plain]
 | 49 | [Moses](https://open.spotify.com/track/5FW3FOoBJHGnrRHWVMJE11) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Excuse My French \(Deluxe 2.0\)](https://open.spotify.com/album/1l3H0aPipDIi5XAbthkciZ) | 4:32 |
 | 50 | [Peek A Boo](https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Peek A Boo](https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b) | 4:07 |
 
-Snapshot ID: `aaoZAAAAAAD5X0fqmC0Yarp9JqmIPAsv`
+Snapshot ID: `aatqgAAAAAAdBWmEZXzp2WLC8HIAo1/X`

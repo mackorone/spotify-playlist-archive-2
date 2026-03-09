@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,921,145 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,921,070 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 16 | [Cruise](https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Cruise](https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U) | 2:55 |
 | 17 | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs) | [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR), [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [EVERYTHING IN ITS RIGHT PLACE](https://open.spotify.com/album/3fQHrYU8bgPG5Gci6y6sjV) | 5:02 |
 | 18 | [Wanna Be Somewhere With You](https://open.spotify.com/track/2ZYz1NTuQxoKy7BaYHzzSi) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Wanna Be Somewhere With You](https://open.spotify.com/album/58rRfLmVlk5RnUOTsH58VY) | 3:40 |
-| 19 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |
-| 20 | [Lost In The Woods](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost In The Woods](https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax) | 3:03 |
+| 19 | [Lost In The Woods](https://open.spotify.com/track/3USL3vqTBzGdm1SR8T8BZx) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Lost In The Woods](https://open.spotify.com/album/5jKMnxhWTDmF8lV6tSU0ax) | 3:03 |
+| 20 | [Into The Night](https://open.spotify.com/track/7LMsAia3rSvaNrHjgfuJzB) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Into The Night](https://open.spotify.com/album/4uncxf7qT7yP8ar3O0HPHr) | 7:03 |
 | 21 | [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 |
 | 22 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 |
 | 23 | [Feeling \(Hold On You\)](https://open.spotify.com/track/6WAx8NDZE4V1EW7nCAU7tt) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [MURPHY](https://open.spotify.com/artist/7fuOjHjKRKBlYUz1lTZ7WQ) | [Feeling \(Hold On You\)](https://open.spotify.com/album/5I47KwFb8gDioJY7BlKmDr) | 3:36 |

@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 147806,
+  "num_followers": 147830,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -655,30 +655,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Laudate Pueri, Nisi Dominus",
-        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Alfred Deller",
-          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
-        },
-        {
-          "name": "The Deller Consort",
-          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
-        }
-      ],
-      "duration_ms": 203066,
-      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
-      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 332026,
       "name": "Let the Bright Seraphim (From \"Samson, HWV 57\")",
       "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -951,30 +951,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
-      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Baroque Masterpieces",
         "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
       },
@@ -995,6 +971,30 @@
       "duration_ms": 174320,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
       "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
+      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
     },
     {
       "added_at": "2025-12-23 12:24:26",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 
 > BLUE GIANT MOMENTUMとSpotifyのコラボ・プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,271 likes - 30 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,307 likes - 30 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXas9apVLvbWp.md) - [plain]
 | 29 | [Trinity \(Father, Son, and Holy Spirit\)](https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [Gospel Music](https://open.spotify.com/album/52H41dJZIWXp6SjvXF0Gie) | 7:20 |
 | 30 | [Tempus Fugit \- Live at Mishima City YouYou Hall, Shizuoka, Japan / 2019](https://open.spotify.com/track/7wrUjaRcfqhpA0DACbdZic) | [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Trilogy 3](https://open.spotify.com/album/4KKJwJK3tgSgAhINo2XYqO) | 9:00 |
 
-Snapshot ID: `AAAAAA5oTOb2MjEa7BXnOfbjq+sluvC0`
+Snapshot ID: `AAAAAOlPlPpLj73yW5yqVyeL/wj7ENzU`

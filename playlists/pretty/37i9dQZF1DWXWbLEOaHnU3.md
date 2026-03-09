@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 595,104 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 595,174 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 66 | [Extra\-Terra](https://open.spotify.com/track/7JapyGlsbu7VHYnIHi3SpX) | [GRAViiTY](https://open.spotify.com/artist/1ycxas0HqhZQQc7zkhtUJY) | [Extra\-Terra](https://open.spotify.com/album/1wlbaEPwoSGMN3llxTjsQ4) | 3:51 |
 | 67 | [Antiwar \- NoFace Remix](https://open.spotify.com/track/7s0ouUua8cX2Kf3fV29RLn) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Krunch](https://open.spotify.com/artist/630OCzczUeeccCj9DjhQWn), [NoFace](https://open.spotify.com/artist/6PAtGHecrbY8xa7i2ct5Fs) | [Antiwar \(Noface Remix\)](https://open.spotify.com/album/1LFQvmgubwxEuWePb4Nc9r) | 8:16 |
 | 68 | [Psychosis](https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Psychosis](https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH) | 3:26 |
-| 69 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
-| 70 | [Stoned \(Zanon Remix\)](https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [Stoned \(Zanon Remix\)](https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM) | 5:34 |
+| 69 | [Stoned \(Zanon Remix\)](https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [Stoned \(Zanon Remix\)](https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM) | 5:34 |
+| 70 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
 | 71 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 72 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 |
-| 73 | [Home Alone \- Monod Remix](https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Home Alone \(Monod Remix\)](https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f) | 7:01 |
-| 74 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
-| 75 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
+| 73 | [Roshini](https://open.spotify.com/track/7yM3nhPNWiRmSWbNwgu3Se) | [Sajanka](https://open.spotify.com/artist/2VkquxQ6H8d3eGK5ClilOf), [Krodax](https://open.spotify.com/artist/46fLt8TewU7giaRJ2C6Zmp) | [Roshini](https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH) | 6:33 |
+| 74 | [Don't Give Up](https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8) | [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z), [Zahar](https://open.spotify.com/artist/0g26Yvko7W50BTiwl5vbvA) | [Don't Give Up](https://open.spotify.com/album/3mO66DErj3uSmOZZp4r13t) | 5:35 |
+| 75 | [Home Alone \- Monod Remix](https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn) | [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn), [Monod](https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO) | [Home Alone \(Monod Remix\)](https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f) | 7:01 |
 
 Snapshot ID: `AAAAAH7dCd2SebULQLFq6jRYlXz09k/M`

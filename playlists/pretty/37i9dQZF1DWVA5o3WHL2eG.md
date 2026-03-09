@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: Mary Middlefield
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,972 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,276 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 16 | [The Dragon](https://open.spotify.com/track/4A2iQZ1dpwLY5FGzQGf7tK) | [Black Sea Dahu](https://open.spotify.com/artist/5JrIBQLdYU5SkSdu0zrO70) | [Everything](https://open.spotify.com/album/1hqHsGeJ5dMwe4lPYqaDav) | 6:27 |
 | 17 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 |
 | 18 | [Fotzen an die Macht](https://open.spotify.com/track/0OAuErdEzls6lPoA6x7sJz) | [6euroneunzig](https://open.spotify.com/artist/4pEmzp8WBdyO0HsKZyW26A) | [Fotzen an die Macht](https://open.spotify.com/album/37BxJppK4gPPYJjLNyhX6m) | 2:08 |
-| 19 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
-| 20 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
+| 19 | [Problema](https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Problema](https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF) | 3:01 |
+| 20 | [effy stonem](https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4) | [liska](https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4) | [effy stonem](https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t) | 3:11 |
 | 21 | [FU In My Head \- Dirty Version](https://open.spotify.com/track/5Ps4Inshd22nlX3wbBsYiN) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [FU In My Head \(Dirty Version\)](https://open.spotify.com/album/2amIiVugmAdVVSv7NxgIXe) | 3:16 |
 | 22 | [ALPHA FEMINIST](https://open.spotify.com/track/3v652Tj4Adys47C76CVON2) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [ALPHA FEMINIST](https://open.spotify.com/album/3CIQCoTCM2U3w0HR3MZe8s) | 2:34 |
 | 23 | [Atlantis](https://open.spotify.com/track/0SHlGukB11djd2q27uBQkJ) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Heart's Desire](https://open.spotify.com/album/67FT3edp04m0M8CpPWZXuc) | 2:56 |
 | 24 | [Vertigo](https://open.spotify.com/track/06gaK8c6wvoXNgJQSRgn6j) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Vertigo](https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho) | 2:19 |
-| 25 | [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 |
-| 26 | [Grau](https://open.spotify.com/track/54uul8HLG0lp8sgOOuFW45) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Stück für Stück / Grau](https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx) | 2:32 |
-| 27 | [TWIN](https://open.spotify.com/track/6TlMfzlLPrOsSK2rpVOEPm) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [TWIN](https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh) | 1:52 |
-| 28 | [Che Che](https://open.spotify.com/track/4kpIsRCP8Ab6vY1kS3HIIm) | [Nadia Offenbach](https://open.spotify.com/artist/08MZxpcZwhNzfkgVD2TqqR) | [Che Che](https://open.spotify.com/album/4mO2zMjDDVcnbZ1FSwVKAk) | 2:11 |
+| 25 | [TWIN](https://open.spotify.com/track/6TlMfzlLPrOsSK2rpVOEPm) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [TWIN](https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh) | 1:52 |
+| 26 | [Che Che](https://open.spotify.com/track/4kpIsRCP8Ab6vY1kS3HIIm) | [Nadia Offenbach](https://open.spotify.com/artist/08MZxpcZwhNzfkgVD2TqqR) | [Che Che](https://open.spotify.com/album/4mO2zMjDDVcnbZ1FSwVKAk) | 2:11 |
+| 27 | [sad baddie anthem](https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [sad baddie anthem EP](https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw) | 2:17 |
+| 28 | [Grau](https://open.spotify.com/track/54uul8HLG0lp8sgOOuFW45) | [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [Stück für Stück / Grau](https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx) | 2:32 |
 | 29 | [massenschlägerei](https://open.spotify.com/track/58bDYyl7yNXx3QBTXNjGD7) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [massenschlägerei](https://open.spotify.com/album/3A9ZZyI7nsnBoxpW9Tawe4) | 2:44 |
 | 30 | [Regen](https://open.spotify.com/track/1zYfERhlvchJzaTIQcZzax) | [maïa](https://open.spotify.com/artist/3bcCrzlcDxhgXEsk5sqgmR) | [Regen](https://open.spotify.com/album/7qlFhEPvT4eHM3VxwMsTGg) | 3:00 |
 | 31 | [Ich bin viele](https://open.spotify.com/track/3fB6Fc5BdrJ0o9H68pJ40I) | [Magdalena Wawra](https://open.spotify.com/artist/2vwWLDuUOvqphcrjhpVzaG), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Ich bin viele](https://open.spotify.com/album/2kHAnOHVyvWnkBjBCKPBTX) | 3:13 |

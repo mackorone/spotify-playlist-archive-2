@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Yör
 
-399 songs - 20 hr 23 min
+400 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Kommet Videre](https://open.spotify.com/track/4IGButeXvqRqDjj9rM2iUa) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Kommet Videre](https://open.spotify.com/album/7hYNwd5AwQYI0MDM4Vp4hP) | 2:21 | 2025-10-16 |  |
 | [Krystalklart Kaos](https://open.spotify.com/track/6ZXVSgQpC0TzJTnsMbFSCU) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr \- Del 1](https://open.spotify.com/album/7xmM67m7uPRM6VYhSn8Uu0) | 3:35 | 2024-10-10 | 2025-05-11 |
 | [Kun For Festerne](https://open.spotify.com/track/5BcjRKsn31CzIz1K72LpZN) | [FØNS](https://open.spotify.com/artist/2f7J0tvrmhyRViGRtMnTfi) | [Kun For Festerne](https://open.spotify.com/album/1KfQdQcjuTtKTjxIGBTWmn) | 2:39 | 2025-06-26 | 2025-09-05 |
+| [KUN FOR HENDE](https://open.spotify.com/track/00det1fLbLgM0Q3ECIL3S4) | [Kris](https://open.spotify.com/artist/1rM3GL7uWxYk7qWyvGaSnw), [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [KUN FOR HENDE](https://open.spotify.com/album/7M4x51QpouLVWnVPIRhRGW) | 2:32 | 2026-03-05 |  |
 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 | 2025-06-05 |  |
 | [Kys før fald](https://open.spotify.com/track/1MoZ1Hg0oypgVIAkQP2xVz) | [Downtown July](https://open.spotify.com/artist/1ueRTQVabMV8G7GW0AkDmD) | [Kys før fald](https://open.spotify.com/album/18q0BrEYrhUIZ5qN36x2hx) | 3:14 | 2025-08-21 | 2026-02-27 |
 | [Kærligheden Vinder](https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Kærligheden Vinder](https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt) | 3:32 | 2024-06-27 | 2025-02-25 |
@@ -294,7 +295,7 @@
 | [Satellitter](https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Søn](https://open.spotify.com/album/1saOB14zUTvqhfnQAVK4sK) | 2:44 | 2026-02-05 |  |
 | [Scandalous](https://open.spotify.com/track/26MFKVVewVd2pEWlWIroNK) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Scandalous](https://open.spotify.com/album/6UritbdE08G7xkNzR34SyJ) | 2:40 | 2025-09-25 | 2026-02-20 |
 | [Scare Me](https://open.spotify.com/track/46A26fgcPCP6gVAn3Q9uDQ) | [CEVIL](https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP) | [Scare Me](https://open.spotify.com/album/13SewIUseHQmyBg6RHTIkK) | 2:30 | 2025-04-17 | 2025-04-25 |
-| [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 |  |
+| [Se Mig](https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R) | [Joyce](https://open.spotify.com/artist/20EE1CtwqBTCrJraz6uSow) | [Elsk Mig](https://open.spotify.com/album/4z0LnHvRDMkYd6K0ZytZVU) | 3:56 | 2024-06-27 | 2026-03-09 |
 | [Se Mig Før Jeg Glemmer Hvem Jeg Er](https://open.spotify.com/track/6eKpCSesviVv5WEtuU8fMJ) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Daylight](https://open.spotify.com/album/0uis2Beg2xDLISkfb732PX) | 4:01 | 2024-10-24 | 2024-11-29 |
 | [Seen In A Movie](https://open.spotify.com/track/1V3QKm4YOq3PgWUYZdUd3M) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Seen In A Movie](https://open.spotify.com/album/1b74dPCUw7n0ycIGv5dDPX) | 2:50 | 2025-08-21 | 2025-08-29 |
 | [Ser I Mig Nu](https://open.spotify.com/track/5vUPHxD3j8UHXXcZwNgm63) | [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [Ser I Mig Nu](https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY) | 2:05 | 2025-01-16 | 2025-01-24 |

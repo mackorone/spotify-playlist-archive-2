@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 43401,
+  "num_followers": 43409,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACFZGsyBtLTIjIYzZH/hH8W",
+  "snapshot_id": "aatqgAAAAAAcyNFq3N6mAnzQg0zK/bPA",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Latinos del Mundo",
-        "url": "https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG"
+        "name": "For Rodriguez",
+        "url": "https://open.spotify.com/album/1T6SJIgdXL7tMQXmE258sp"
       },
       "artists": [
+        {
+          "name": "SA for Sugar Man",
+          "url": "https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka"
+        },
+        {
+          "name": "Ross Learmonth",
+          "url": "https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd"
+        },
+        {
+          "name": "Sandra Rodriguez",
+          "url": "https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb"
+        },
+        {
+          "name": "Marc Skarda",
+          "url": "https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye"
+        },
+        {
+          "name": "Mark Beling",
+          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
+        },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         },
         {
-          "name": "E-LA",
-          "url": "https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9"
+          "name": "Graham Gillot",
+          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
         },
         {
-          "name": "Ander & Rossi",
-          "url": "https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz"
+          "name": "Kahn Morbee",
+          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
         }
       ],
-      "duration_ms": 205599,
-      "name": "La Vida Es Una",
-      "url": "https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ"
+      "duration_ms": 241836,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/5tUBiU75b0UgKLUgdzAmaa"
     },
     {
       "added_at": null,
@@ -307,46 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Rodriguez",
-        "url": "https://open.spotify.com/album/1T6SJIgdXL7tMQXmE258sp"
+        "name": "Latinos del Mundo",
+        "url": "https://open.spotify.com/album/0WMM5TdUq0VgNUZXCwlnYG"
       },
       "artists": [
-        {
-          "name": "SA for Sugar Man",
-          "url": "https://open.spotify.com/artist/1JxR1WWz0rYup7Cg7wQaka"
-        },
-        {
-          "name": "Ross Learmonth",
-          "url": "https://open.spotify.com/artist/6h1J96LWOIViAvUCsu3tGd"
-        },
-        {
-          "name": "Sandra Rodriguez",
-          "url": "https://open.spotify.com/artist/1L6xQRhnjgknuPK1P91dNb"
-        },
-        {
-          "name": "Marc Skarda",
-          "url": "https://open.spotify.com/artist/2UvchR01TvM5Y0M3nD3nye"
-        },
-        {
-          "name": "Mark Beling",
-          "url": "https://open.spotify.com/artist/6XuQauMi5r2sQiiek0lz7V"
-        },
         {
           "name": "Rodr\u00edguez",
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         },
         {
-          "name": "Graham Gillot",
-          "url": "https://open.spotify.com/artist/3ev7FyfGnOUaBc7lIJsASD"
+          "name": "E-LA",
+          "url": "https://open.spotify.com/artist/7aOghF4fGWkNo1Vh3zDHJ9"
         },
         {
-          "name": "Kahn Morbee",
-          "url": "https://open.spotify.com/artist/2iWHEO8h8v3D9lITyyB6GF"
+          "name": "Ander & Rossi",
+          "url": "https://open.spotify.com/artist/0eijjeT8lIc14E862vjaNz"
         }
       ],
-      "duration_ms": 241836,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/5tUBiU75b0UgKLUgdzAmaa"
+      "duration_ms": 205599,
+      "name": "La Vida Es Una",
+      "url": "https://open.spotify.com/track/2yHMbsv5PMpJ1ubOhz3XXQ"
     },
     {
       "added_at": null,

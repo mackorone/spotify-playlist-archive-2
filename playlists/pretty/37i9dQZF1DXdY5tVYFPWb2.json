@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 180368,
+  "num_followers": 180385,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
+        "name": "Purple Dream",
+        "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
+      },
+      "artists": [
+        {
+          "name": "Emi Aramaki",
+          "url": "https://open.spotify.com/artist/1pqWTWc4xYNC2vH0hxTwmk"
+        }
+      ],
+      "duration_ms": 256096,
+      "name": "Purple Dream",
+      "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e7e\u676f!!\uff5e\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30b3\u30e9\u30dc\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\uff5e",
         "url": "https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 202880,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4",
       "url": "https://open.spotify.com/track/1w3BXhVl88xDJOcrNh5sQH"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
-        "name": "Purple Dream",
-        "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
-      },
-      "artists": [
-        {
-          "name": "Emi Aramaki",
-          "url": "https://open.spotify.com/artist/1pqWTWc4xYNC2vH0hxTwmk"
-        }
-      ],
-      "duration_ms": 256096,
-      "name": "Purple Dream",
-      "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1099,22 +1099,26 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "\u90fd\u4f1a",
-        "url": "https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a"
+        "name": "\u5b66\u82b8\u5927\u524d",
+        "url": "https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6"
       },
       "artists": [
         {
-          "name": "Noriyuki Makihara",
-          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
+          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
+          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
         },
         {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
         }
       ],
-      "duration_ms": 283372,
-      "name": "\u90fd\u4f1a",
-      "url": "https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI"
+      "duration_ms": 216631,
+      "name": "\u5b66\u82b8\u5927\u524d",
+      "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1147,6 +1151,26 @@
       "duration_ms": 233974,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/6pfnbN59U4lnlkMGphwaiU"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "\u90fd\u4f1a",
+        "url": "https://open.spotify.com/album/2CVJQOZdKSRmMhQiEhjo7a"
+      },
+      "artists": [
+        {
+          "name": "Noriyuki Makihara",
+          "url": "https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM"
+        },
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283372,
+      "name": "\u90fd\u4f1a",
+      "url": "https://open.spotify.com/track/1eiWsSi1C4KB1L2IMEIKrI"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1203,6 +1227,22 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
+        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
+      },
+      "artists": [
+        {
+          "name": "sucola",
+          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
+      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
         "name": "Smoky Valley",
         "url": "https://open.spotify.com/album/0LWNee7bJiPx28da4QcPPc"
       },
@@ -1219,22 +1259,6 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
-        "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-        "url": "https://open.spotify.com/album/0kZ3rzCgH0skz6SR3CvG5P"
-      },
-      "artists": [
-        {
-          "name": "sucola",
-          "url": "https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "\u65e5\u672c\u30ed\u30de\u30f3\u30c1\u30c3\u30af\u8857\u9053",
-      "url": "https://open.spotify.com/track/1LIQegVNgGEUbOx08pBu1o"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1267,30 +1291,6 @@
       "duration_ms": 207707,
       "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
       "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
-        "name": "\u5b66\u82b8\u5927\u524d",
-        "url": "https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6"
-      },
-      "artists": [
-        {
-          "name": "\u3077\u306b\u3077\u306b\u96fb\u6a5f",
-          "url": "https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK"
-        },
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        },
-        {
-          "name": "Shin Sakiura",
-          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
-        }
-      ],
-      "duration_ms": 216631,
-      "name": "\u5b66\u82b8\u5927\u524d",
-      "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1415,38 +1415,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
-        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "IMAGINE",
         "url": "https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2"
       },
@@ -1467,6 +1435,22 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
         "name": "\u30e6\u30fc\u30df\u30f3\u4e07\u6b73\uff01\u301c\u677e\u4efb\u8c37\u7531\u5b9f50\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30a2\u30eb\u30d0\u30e0\u301c",
         "url": "https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 220960,
       "name": "\u4e2d\u592e\u30d5\u30ea\u30fc\u30a6\u30a7\u30a4 - 2022 mix",
       "url": "https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
+        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
     },
     {
       "added_at": "2026-03-03 15:00:38",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-03-03 15:00:38",
       "album": {
-        "name": "4:00 A.M. (2025 Re-edit Version)",
-        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
-      },
-      "artists": [
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
-        }
-      ],
-      "duration_ms": 283854,
-      "name": "4:00 A.M. (2025 Re-edit Version)",
-      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
-    },
-    {
-      "added_at": "2026-03-03 15:00:38",
-      "album": {
         "name": "\u541b\u3068drive",
         "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 259615,
       "name": "\u541b\u3068drive",
       "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
+    },
+    {
+      "added_at": "2026-03-03 15:00:38",
+      "album": {
+        "name": "4:00 A.M. (2025 Re-edit Version)",
+        "url": "https://open.spotify.com/album/6gTevYGgfm69aVbEGravTi"
+      },
+      "artists": [
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 283854,
+      "name": "4:00 A.M. (2025 Re-edit Version)",
+      "url": "https://open.spotify.com/track/1kBfSoH9iSZmF3Dv8KS43q"
     },
     {
       "added_at": "2026-03-03 15:00:38",

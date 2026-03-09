@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 206490,
+  "num_followers": 206488,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "All Through The Day",
-        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
-      },
-      "artists": [
-        {
-          "name": "Las Los",
-          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "All Through The Day",
-      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Follow The Light",
         "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 159054,
       "name": "Follow The Light",
       "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "All Through The Day",
+        "url": "https://open.spotify.com/album/4nZxZJv3TFbVq9cDqQjkhS"
+      },
+      "artists": [
+        {
+          "name": "Las Los",
+          "url": "https://open.spotify.com/artist/3WqvmoaOxt3SeGPoEew1L1"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "MERCY",
+        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Laurel Halo",
+          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
+        }
+      ],
+      "duration_ms": 420080,
+      "name": "MERCY",
+      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Evening Mood",
         "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 212626,
       "name": "It's In Our Hands",
       "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "MERCY",
-        "url": "https://open.spotify.com/album/0kRucvv6YTD7EJ0jduNmD0"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        },
-        {
-          "name": "Laurel Halo",
-          "url": "https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl"
-        }
-      ],
-      "duration_ms": 420080,
-      "name": "MERCY",
-      "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Path",
-        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 262560,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Counter Melodies",
         "url": "https://open.spotify.com/album/0NXYRwTcPyqDiwBfNnnKcs"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 293706,
       "name": "NIGHT CRAWLING",
       "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Path",
+        "url": "https://open.spotify.com/album/4M9jgmeKLEpX615dHJ72Ey"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 262560,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1215,22 +1215,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Jolene From Her Own Perspective",
-        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
       },
       "artists": [
         {
-          "name": "Okay Kaya",
-          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
-        },
-        {
-          "name": "zannie",
-          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
         }
       ],
-      "duration_ms": 207253,
-      "name": "Jolene From Her Own Perspective",
-      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
+      "duration_ms": 154910,
+      "name": "I'VE BEEN EVIL",
+      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1251,34 +1247,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
-        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
+        "name": "Jolene From Her Own Perspective",
+        "url": "https://open.spotify.com/album/3YCXgNmBuGEvNsWSYubcZj"
       },
       "artists": [
         {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 154910,
-      "name": "I'VE BEEN EVIL",
-      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        },
         {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+          "name": "zannie",
+          "url": "https://open.spotify.com/artist/5b39yaQXUinM6d6KuuLiCd"
         }
       ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+      "duration_ms": 207253,
+      "name": "Jolene From Her Own Perspective",
+      "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1299,6 +1283,22 @@
       "duration_ms": 335433,
       "name": "artclubdiscotheque",
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "An Embroidery",
-        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
-      },
-      "artists": [
-        {
-          "name": "Clarissa Connelly",
-          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
-        }
-      ],
-      "duration_ms": 249208,
-      "name": "An Embroidery",
-      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Hay Veces",
         "url": "https://open.spotify.com/album/2qZEJQ3dOSJeqGnH3EnTe7"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Mountains",
-        "url": "https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD"
+        "name": "An Embroidery",
+        "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
       },
       "artists": [
         {
-          "name": "Gaia Rollo",
-          "url": "https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv"
+          "name": "Clarissa Connelly",
+          "url": "https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S"
         }
       ],
-      "duration_ms": 267619,
-      "name": "Mountains",
-      "url": "https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq"
+      "duration_ms": 249208,
+      "name": "An Embroidery",
+      "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/7EBzr54n5Ehztv2uidEcUD"
+      },
+      "artists": [
+        {
+          "name": "Gaia Rollo",
+          "url": "https://open.spotify.com/artist/7wOLjHWA8yNGrOHHPYl4Hv"
+        }
+      ],
+      "duration_ms": 267619,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/3f5Gku3uhFB8NnUWJywfxq"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "The Apple Drop",
-        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
-      },
-      "artists": [
-        {
-          "name": "Liars",
-          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "Sekwar",
-      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1483,18 +1467,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+        "name": "The Apple Drop",
+        "url": "https://open.spotify.com/album/50WuzTucOcvfOPzldNVUXZ"
       },
       "artists": [
         {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+          "name": "Liars",
+          "url": "https://open.spotify.com/artist/2z78AlkdwE2Ghj9EB50M6z"
         }
       ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+      "duration_ms": 274626,
+      "name": "Sekwar",
+      "url": "https://open.spotify.com/track/52OBVPpbLif9YczNqUJUUd"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1511,6 +1495,22 @@
       "duration_ms": 237702,
       "name": "Dog's Life",
       "url": "https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     }
   ],
   "unique_name": "Oblique",

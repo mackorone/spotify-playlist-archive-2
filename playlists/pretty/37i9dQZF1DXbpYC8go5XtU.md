@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 
 > Ambient soundscapes backed by elements of nature, from a selection of the best ambient composers right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,792 likes - 146 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,845 likes - 146 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,4 +155,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpYC8go5XtU.md) - [plain]
 | 145 | [morning mist](https://open.spotify.com/track/0AeCOrhv8tGDj806vWlTTk) | [dvw logic](https://open.spotify.com/artist/54tlInME01xeaPj66tZkre) | [morning mist](https://open.spotify.com/album/4ntRKq6xNtm7EWfm0N9FlZ) | 3:06 |
 | 146 | [6am Beach Walk](https://open.spotify.com/track/3Dwda5nX2MzWv96FpUMODu) | [Luke Sanger](https://open.spotify.com/artist/6rCLSvQw54lPJfibDyFZcG) | [Dew Point Harmonics](https://open.spotify.com/album/429prF1T1kskwQnV9ywike) | 3:18 |
 
-Snapshot ID: `AAAAAKgQe/L1SYX1n8t3bJ26wDYVPoJY`
+Snapshot ID: `AAAAAIGU0+4GxI4SIsa0WwAYo/yDogL7`

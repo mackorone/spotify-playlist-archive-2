@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 59793,
+  "num_followers": 59796,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AAAxraCR/fVYPJIw9EmnC/MwTgh7QcT5",
+  "snapshot_id": "AAAxsLg8Q9iNFJB+htYuI4xSrOaSO2PJ",
   "tracks": [
     {
       "added_at": "2026-03-07 02:57:31",
@@ -999,6 +999,38 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
+        "name": "Liquid Heaven",
+        "url": "https://open.spotify.com/album/6dDbswJOP3MrYMJ4HSRmt7"
+      },
+      "artists": [
+        {
+          "name": "Sundozer",
+          "url": "https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW"
+        }
+      ],
+      "duration_ms": 226386,
+      "name": "Liquid Heaven",
+      "url": "https://open.spotify.com/track/4ioA1uMcBKAksm5C1te4n1"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Id",
+        "url": "https://open.spotify.com/album/1ClIc4nFNhXokGhaivTn0Z"
+      },
+      "artists": [
+        {
+          "name": "Daddy's Beemer",
+          "url": "https://open.spotify.com/artist/3XZqEvsJMEpFb9YzuW1v16"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "Id",
+      "url": "https://open.spotify.com/track/2Ym2tNrpEHjYgHHTABP6Dd"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
         "name": "Sunshine and Balance Beams",
         "url": "https://open.spotify.com/album/0mlgaAp88EcwGbKfiq7xo4"
       },
@@ -1347,22 +1379,6 @@
       "duration_ms": 150564,
       "name": "Monstres du soir",
       "url": "https://open.spotify.com/track/1GCl7vyPRPzhiGAgc3oeze"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "Maybe, Perhaps",
-        "url": "https://open.spotify.com/album/11od3WJ12VdTihC7GL8jW8"
-      },
-      "artists": [
-        {
-          "name": "Midnight Granger",
-          "url": "https://open.spotify.com/artist/4PZNsAXX4k4wxLQyCfM8fM"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/4hqSGC7d86plzLZC8vEmXN"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -3331,22 +3347,6 @@
     {
       "added_at": "2026-03-07 02:57:31",
       "album": {
-        "name": "Liquid Heaven",
-        "url": "https://open.spotify.com/album/6dDbswJOP3MrYMJ4HSRmt7"
-      },
-      "artists": [
-        {
-          "name": "Sundozer",
-          "url": "https://open.spotify.com/artist/2AOmKCq6cV9yD17FjCYgxW"
-        }
-      ],
-      "duration_ms": 226386,
-      "name": "Liquid Heaven",
-      "url": "https://open.spotify.com/track/4ioA1uMcBKAksm5C1te4n1"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
         "name": "Factory Reset",
         "url": "https://open.spotify.com/album/3nS8ZRMjrOQWHNiTsdeTen"
       },
@@ -3359,22 +3359,6 @@
       "duration_ms": 54279,
       "name": "Outside",
       "url": "https://open.spotify.com/track/05VSt0rArnDxmv44esntNW"
-    },
-    {
-      "added_at": "2026-03-07 02:57:31",
-      "album": {
-        "name": "Id",
-        "url": "https://open.spotify.com/album/1ClIc4nFNhXokGhaivTn0Z"
-      },
-      "artists": [
-        {
-          "name": "Daddy's Beemer",
-          "url": "https://open.spotify.com/artist/3XZqEvsJMEpFb9YzuW1v16"
-        }
-      ],
-      "duration_ms": 173684,
-      "name": "Id",
-      "url": "https://open.spotify.com/track/2Ym2tNrpEHjYgHHTABP6Dd"
     },
     {
       "added_at": "2026-03-07 02:57:31",
@@ -3503,6 +3487,22 @@
       "duration_ms": 185862,
       "name": "Morning Fever",
       "url": "https://open.spotify.com/track/1O02hChA48B1sJDvCaZrOj"
+    },
+    {
+      "added_at": "2026-03-07 02:57:31",
+      "album": {
+        "name": "Maybe, Perhaps",
+        "url": "https://open.spotify.com/album/11od3WJ12VdTihC7GL8jW8"
+      },
+      "artists": [
+        {
+          "name": "Midnight Granger",
+          "url": "https://open.spotify.com/artist/4PZNsAXX4k4wxLQyCfM8fM"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/4hqSGC7d86plzLZC8vEmXN"
     },
     {
       "added_at": "2026-03-07 02:57:31",

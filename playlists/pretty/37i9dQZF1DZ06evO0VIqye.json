@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 61972,
+  "num_followers": 61982,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD/3slCXTtxfBCHgcE/nidw",
+  "snapshot_id": "aatqgAAAAADZZVnqvhMtcMjAYdFtT9f+",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 159986,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/2XsBSbENuPJNqp50W3iy48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Into It",
         "url": "https://open.spotify.com/album/4Trti87I17wUxMIymbKcZG"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 216865,
       "name": "Wildside - feat. Joan Jett",
       "url": "https://open.spotify.com/track/1zaXFoTfjdNpZyMHnlWGSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3irKU7djdb8SnPPGBQr36G"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 159986,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/2XsBSbENuPJNqp50W3iy48"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
-      "url": "https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Hit List",
         "url": "https://open.spotify.com/album/2mIFpqxnoM71gHMBKlzZtM"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 141773,
       "name": "Tush",
       "url": "https://open.spotify.com/track/0uJZqWNEimvKRdh0Kf6wyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/6B90EJpSGFOJeTvAq8KWiA"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 302760,
+      "name": "Season of the Witch - From the Netflix Series The Sons of Sam: A Descent Into Darkness",
+      "url": "https://open.spotify.com/track/6beSKm10DXDnYtOYnJ8dSG"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tank Girl Soundtrack",
-        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Let's Do It - O.S.T.",
-      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Reputation (Expanded Edition)",
         "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 140066,
       "name": "Wooly Bully",
       "url": "https://open.spotify.com/track/4Hx70nlFBSkxkI8lwYRYxC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tank Girl Soundtrack",
+        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Let's Do It - O.S.T.",
+      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mindsets",
+        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "If You're Blue",
+      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 170506,
       "name": "Two Shots",
       "url": "https://open.spotify.com/track/3xmDEGMS0QDkMe4Mhm8Gxy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mindsets",
-        "url": "https://open.spotify.com/album/2VSbpFbcCz8c3yQyzezYmO"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "If You're Blue",
-      "url": "https://open.spotify.com/track/0nKC8KgjiOGGBcPDOWPPpp"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Backlash",
-      "url": "https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 234795,
       "name": "Science Fiction/Double Feature",
       "url": "https://open.spotify.com/track/4Ox0knu2d0pShadIkPIjeh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5UwhZD3iKYWPKLvuedpVsl"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Backlash",
+      "url": "https://open.spotify.com/track/5bzOdHdkOO8fjfhNfdFJJs"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The all\-timers from a rising singer\-songwriter from Japan, Fujii Kaze\. 藤井 風の代表曲をひとつのプレイリストで。
 
-67 songs - 4 hr 47 min
+68 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Michi Teyu Ku \(Overflowing\)](https://open.spotify.com/album/06qRSgIo9l4Gf7ACV6JZQq) | 5:10 | 2024-03-14 | 2024-04-19 |
 | [Mo\-Eh\-Wa](https://open.spotify.com/track/1JRNrJKTQhfvxII8kkIcAQ) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 5:01 | 2023-11-02 | 2024-04-19 |
 | [MO\-EH\-YO \(Ignite\)](https://open.spotify.com/track/2fMdT98JpheoBh6t8DBSjI) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD) | 4:37 | 2023-11-02 | 2024-04-19 |
+| [My Place](https://open.spotify.com/track/16jM50SQ1eIkjjERn6HHSj) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [2026 World Baseball Classic](https://open.spotify.com/album/0eG0kZA7uZtCrNgXZPxqlB) | 2:57 | 2026-03-09 |  |
 | [Nan\-Nan](https://open.spotify.com/track/2CbGuO0LtVvbh3umN3mDwM) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/1OojCidx0eoPKch2M0Kz31) | 5:20 | 2023-11-02 | 2024-04-19 |
 | [Okay, Goodbye](https://open.spotify.com/track/1Vw0JiY6Jk8vCypHzb3fo4) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 3:50 | 2025-09-05 |  |
 | [Prema](https://open.spotify.com/track/0IByNT868RxZwmcj1rQgno) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Prema](https://open.spotify.com/album/6ELurkxQnAif7u5Vv6Wly9) | 4:22 | 2025-09-05 |  |

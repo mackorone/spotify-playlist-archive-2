@@ -1,12 +1,12 @@
 {
   "description": "This is The Slits. The essential tracks, all in one playlist.",
-  "num_followers": 3107,
+  "num_followers": 3110,
   "original_name": "This Is The Slits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD1bywXHc5plE4dGF7Cw/gH",
+  "snapshot_id": "aatqgAAAAACZFog1oT7k068W0dPnxzOZ",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at the Gibus Club",
-        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
+        "name": "From The Basement",
+        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 55293,
-      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
-      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
+      "duration_ms": 98000,
+      "name": "From The Basement",
+      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Basement",
-        "url": "https://open.spotify.com/album/0l0EeFMVOi3oIpVEx4wtVs"
+        "name": "Live at the Gibus Club",
+        "url": "https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 98000,
-      "name": "From The Basement",
-      "url": "https://open.spotify.com/track/1K7LmNJehOhmuvV2AiRXr2"
+      "duration_ms": 55293,
+      "name": "Une Homme et Un Slit (Live at The Gibus Club, 1978)",
+      "url": "https://open.spotify.com/track/0QC6haYulTktRMrYjunZJ8"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 365293,
-      "name": "In The Beginning",
-      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
+      "duration_ms": 180786,
+      "name": "A Boring Life",
+      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz"
         }
       ],
-      "duration_ms": 180786,
-      "name": "A Boring Life",
-      "url": "https://open.spotify.com/track/20ISwjERE9iu3WodlBuifQ"
+      "duration_ms": 365293,
+      "name": "In The Beginning",
+      "url": "https://open.spotify.com/track/6psWuKnXsVNryfsHLAGvIV"
     }
   ],
   "unique_name": "This Is The Slits",

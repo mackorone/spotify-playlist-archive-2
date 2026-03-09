@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,997 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,999 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 49 | [O Meu Pai É Bom \- Ao Vivo](https://open.spotify.com/track/1EZ8LejBperuDSPr004cpU) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [O Meu Pai É Bom \(Ao Vivo\)](https://open.spotify.com/album/2fCwHzbPlz7WSywTzroQO5) | 8:52 |
 | 50 | [Tu És Rei](https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tu És Rei](https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7) | 7:01 |
 
-Snapshot ID: `aaoZAAAAAAAFvgLPSHkgiWOfoJbuOlo3`
+Snapshot ID: `aatqgAAAAACmnwrXzncIV0xUV0aTuGIn`

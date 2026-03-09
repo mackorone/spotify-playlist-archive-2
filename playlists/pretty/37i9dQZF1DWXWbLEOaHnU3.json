@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 595104,
+  "num_followers": 595174,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
+        "name": "Stoned (Zanon Remix)",
+        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
+      },
+      "artists": [
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        },
+        {
+          "name": "Zanon",
+          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
+        }
+      ],
+      "duration_ms": 334647,
+      "name": "Stoned (Zanon Remix)",
+      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
-        "name": "Stoned (Zanon Remix)",
-        "url": "https://open.spotify.com/album/5mynN4RHssWZ4ec1sQm3cM"
-      },
-      "artists": [
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        },
-        {
-          "name": "Zanon",
-          "url": "https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg"
-        }
-      ],
-      "duration_ms": 334647,
-      "name": "Stoned (Zanon Remix)",
-      "url": "https://open.spotify.com/track/3I1WerQ2Qm0dRlklDvOXaH"
     },
     {
       "added_at": "2025-08-15 04:00:20",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2025-08-15 04:00:20",
       "album": {
-        "name": "Home Alone (Monod Remix)",
-        "url": "https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f"
-      },
-      "artists": [
-        {
-          "name": "Querox",
-          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
-        },
-        {
-          "name": "Monod",
-          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
-        }
-      ],
-      "duration_ms": 421739,
-      "name": "Home Alone - Monod Remix",
-      "url": "https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn"
-    },
-    {
-      "added_at": "2025-08-15 04:00:20",
-      "album": {
         "name": "Roshini",
         "url": "https://open.spotify.com/album/5YUkqNP9SMKt3B0Jm93iMH"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 335834,
       "name": "Don't Give Up",
       "url": "https://open.spotify.com/track/2cskW9Z51Lh57KFab9Mjp8"
+    },
+    {
+      "added_at": "2025-08-15 04:00:20",
+      "album": {
+        "name": "Home Alone (Monod Remix)",
+        "url": "https://open.spotify.com/album/5Ulmb846NA4czgUxJhFW7f"
+      },
+      "artists": [
+        {
+          "name": "Querox",
+          "url": "https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn"
+        },
+        {
+          "name": "Monod",
+          "url": "https://open.spotify.com/artist/0DTLDYZ7bYC0YAF1xV5VLO"
+        }
+      ],
+      "duration_ms": 421739,
+      "name": "Home Alone - Monod Remix",
+      "url": "https://open.spotify.com/track/1buw9pvNITeKeknoXa8BAn"
     }
   ],
   "unique_name": "Psytrance Supernova",

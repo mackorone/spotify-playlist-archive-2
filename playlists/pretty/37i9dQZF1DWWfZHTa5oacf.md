@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 
 > Kickstart your sundowner party with these hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,790 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,875 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfZHTa5oacf.md) - [plain]
 | 12 | [Sooraj Dooba Hain](https://open.spotify.com/track/48pyUxg9RYuwie5M9R7qRn) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Roy](https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf) | 4:24 |
 | 13 | [Yaar Naa Miley](https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Kick](https://open.spotify.com/album/3cZzNUD8je3vJKARADXJDy) | 4:03 |
 | 14 | [Sunny Sunny](https://open.spotify.com/track/6GwjeSBaJ7C8yZXklaXXY1) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Yaariyan](https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos) | 4:03 |
-| 15 | [MumBHAI \- From "Tu Yaa Main"](https://open.spotify.com/track/5tvqbzhpjLY0kR8a4UElxM) | [Chaitanya Pandit](https://open.spotify.com/artist/3rMeclvs435Ef9n6WHmaM1), [2Sharc](https://open.spotify.com/artist/6YzMspayoNnjrc7TtGJ2PR) | [Tu Yaa Main](https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m) | 2:01 |
+| 15 | [MumBHAI \- From "Tu Yaa Main"](https://open.spotify.com/track/5tvqbzhpjLY0kR8a4UElxM) | [Chaitanya Pandit](https://open.spotify.com/artist/4HjK24Eovhdd4urLXimFhe), [2Sharc](https://open.spotify.com/artist/6YzMspayoNnjrc7TtGJ2PR) | [Tu Yaa Main](https://open.spotify.com/album/2GoehjUUwOEEYYOOfxob5m) | 2:01 |
 | 16 | [Party On My Mind](https://open.spotify.com/track/5Rn1DPzSzUktbhuNDDJocS) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp), [Shefali Alvares](https://open.spotify.com/artist/2JNtggH8euHrxePDp6m72P), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Prashant Ingole](https://open.spotify.com/artist/5DNHuR9u8DFVasxQZgREO5) | [Race 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Q5RHgCR1iKzaZzJurDKEK) | 3:42 |
 | 17 | [Dil Dooba](https://open.spotify.com/track/6cUaCs1lKfDOyFKMkBF8ch) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 3:50 |
 | 18 | [Ik Vaari Aa](https://open.spotify.com/track/7fyiYhn7STpHvT5g0lbncC) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Raabta](https://open.spotify.com/album/05U9YwErzcnF0PmyPalDo5) | 4:34 |

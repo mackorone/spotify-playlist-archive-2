@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,432 likes - 37 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,433 likes - 37 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 36 | [Love Is Watching](https://open.spotify.com/track/65xhNReVnrQevKNnC3xgbm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 4:29 |
 | 37 | [Walking in Your Eternal Love](https://open.spotify.com/track/6SIfERtNKaRiinslahFDce) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:18 |
 
-Snapshot ID: `aaoZAAAAAAB0oFwnZ4AunsRr6ayg/OkJ`
+Snapshot ID: `aatqgAAAAABjz9RJ/iiCaGdM4DkUMS1S`

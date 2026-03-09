@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,476 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,479 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hard to Forget You](https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW) | [Kim Na\-kyung](https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f) | [Hard to Forget You](https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy) | 3:13 |
-| 2 | [To you in the distance](https://open.spotify.com/track/2qmKWH1yuuV6XSi72mYnAV) | [HARO](https://open.spotify.com/artist/3Ys4lzDtTI4ycQN9YLg4km) | [To you in the distance](https://open.spotify.com/album/5LMwTjdSAzL9CKESSMtHU1) | 3:34 |
-| 3 | [In Your Spring](https://open.spotify.com/track/7EFl6oYZT6G1549keApW8s) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1qixn8PethejxusWT4vbRO) | 3:22 |
-| 4 | [After A Long Time](https://open.spotify.com/track/6x2iQYiypmUoAyapbeyVWt) | [Cha ga eul](https://open.spotify.com/artist/4mSV7GdIFUByJJVxI4HyOi) | [After A Long Time](https://open.spotify.com/album/4yAwgNjDnvbdfK3IIlAL2H) | 3:25 |
-| 5 | [Sorry for Crying](https://open.spotify.com/track/7G82cGh3BQKnuPOLPHfUDl) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [Sorry for Crying](https://open.spotify.com/album/2EZd8xV8l8F9ZEoAnE7sW2) | 3:57 |
-| 6 | [note to](https://open.spotify.com/track/393rs3KVL8HuRNy2SIesC1) | [우수현](https://open.spotify.com/artist/0JjuaT60jLgBmyqcMkTDjD) | [note to](https://open.spotify.com/album/4Qw7Z9V0xNSp3qQAMgvk0Q) | 4:26 |
+| 1 | [After you've gone](https://open.spotify.com/track/356KuJjaeDOD8MONvyAOmf) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [After you've gone](https://open.spotify.com/album/5dzMwq0NIBg9uMMf7dPbiB) | 4:15 |
+| 2 | [Drunk](https://open.spotify.com/track/3Po64wKEUdFpgTgbEWJf8J) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Drunk](https://open.spotify.com/album/1dbEQb967vGcEpUWVw60Fb) | 3:18 |
+| 3 | [Are we breaking up](https://open.spotify.com/track/32fG0W40i1V535w1DxS6nN) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Are we breaking up](https://open.spotify.com/album/3BDd91mbtDQBCaVScMQWLl) | 3:32 |
+| 4 | [In Your Spring](https://open.spotify.com/track/7EFl6oYZT6G1549keApW8s) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [In Your Radiant Season \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/1qixn8PethejxusWT4vbRO) | 3:22 |
+| 5 | [Hard to Forget You](https://open.spotify.com/track/1HWJpm34LmznIHSBEMkrJW) | [Kim Na\-kyung](https://open.spotify.com/artist/5IQpGF3xbjCj7BbtOuw15f) | [Hard to Forget You](https://open.spotify.com/album/63tKhR6iB7Iz4hVxWGZZiy) | 3:13 |
+| 6 | [To you in the distance](https://open.spotify.com/track/2qmKWH1yuuV6XSi72mYnAV) | [HARO](https://open.spotify.com/artist/3Ys4lzDtTI4ycQN9YLg4km) | [To you in the distance](https://open.spotify.com/album/5LMwTjdSAzL9CKESSMtHU1) | 3:34 |
 | 7 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
 | 8 | [Sadder Than Yesterday](https://open.spotify.com/track/4PBtSN6dNFXA9RUkx5e3W9) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Sadder Than Yesterday](https://open.spotify.com/album/13aoKP5epMSJuTQuvM6N5N) | 3:56 |
 | 9 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 39 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |
 | 40 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
 | 41 | [When the First Snow Falls](https://open.spotify.com/track/74e4D8f76A1nTPkWceb1Pj) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [When the First Snow Falls](https://open.spotify.com/album/0eYhEXajnaZa28Fn6TlkcF) | 3:42 |
-| 42 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
-| 43 | [Only for You](https://open.spotify.com/track/3vKAAh1JFuC7EakZPtT7ve) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Only for You \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/11CI2a9Aif2XJCu9TzxTx1) | 3:37 |
+| 42 | [Only for You](https://open.spotify.com/track/3vKAAh1JFuC7EakZPtT7ve) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Only for You \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/11CI2a9Aif2XJCu9TzxTx1) | 3:37 |
+| 43 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
 | 44 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
 | 45 | [In this City Without You](https://open.spotify.com/track/6kFFrGbrhXHtyEw4vlYFwc) | [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ) | [In this City Without You](https://open.spotify.com/album/7dbD93q8iuUBn9xCSzJ0Dq) | 4:59 |
 | 46 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 49 | [Nothing](https://open.spotify.com/track/3PQHBOfmPSGHyB1xLp3lhq) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Nothing](https://open.spotify.com/album/6j7DAfIynmWgv96E1DeTDC) | 4:22 |
 | 50 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
 
-Snapshot ID: `AAAAAK3lwu0pB1sRq3Hp0kvewg+ZJmoE`
+Snapshot ID: `AAAAALyojPfvv/VZ1yUL4GOZhvfZFnZE`

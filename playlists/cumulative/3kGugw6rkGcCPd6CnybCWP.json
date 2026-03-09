@@ -1245,6 +1245,24 @@
     },
     {
       "album": {
+        "name": "Feral Child",
+        "url": "https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq"
+      },
+      "artists": [
+        {
+          "name": "Bit Commander",
+          "url": "https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415758,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m"
+    },
+    {
+      "album": {
         "name": "11 Miles from Everywhere",
         "url": "https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We"
       },
@@ -2445,6 +2463,24 @@
     },
     {
       "album": {
+        "name": "Ophelia",
+        "url": "https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR"
+      },
+      "artists": [
+        {
+          "name": "Luciana Zogbi",
+          "url": "https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "Ophelia",
+      "url": "https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr"
+    },
+    {
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI"
       },
@@ -2590,6 +2626,24 @@
       "duration_ms": 176923,
       "name": "Rooted on the Road",
       "url": "https://open.spotify.com/track/2yD1l6lXuQvvaSyj2Onuip"
+    },
+    {
+      "album": {
+        "name": "SALEM",
+        "url": "https://open.spotify.com/album/2yxTaNnjFgwUVjEO3xNAUt"
+      },
+      "artists": [
+        {
+          "name": "Wikka",
+          "url": "https://open.spotify.com/artist/1PTXGpEQqVfBYjv5sGbfjq"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "SALEM",
+      "url": "https://open.spotify.com/track/1XQEKHZ7DkLbttxrSWI72j"
     },
     {
       "album": {

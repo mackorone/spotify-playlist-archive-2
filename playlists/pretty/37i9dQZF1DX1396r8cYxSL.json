@@ -1,6 +1,6 @@
 {
   "description": "2025 yaz\u0131na damga vuran \u015fark\u0131lar.",
-  "num_followers": 287380,
+  "num_followers": 287358,
   "original_name": "Yaz Hitleri 2025",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-09-05 15:48:11",
       "album": {
+        "name": "HA\u0130NS\u0130N",
+        "url": "https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx"
+      },
+      "artists": [
+        {
+          "name": "Poizi",
+          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
+        }
+      ],
+      "duration_ms": 117446,
+      "name": "HA\u0130NS\u0130N",
+      "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
+    },
+    {
+      "added_at": "2025-09-05 15:48:11",
+      "album": {
         "name": "Yasemin",
         "url": "https://open.spotify.com/album/2Qo7f5utir38YNXkNfFtNZ"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 186000,
       "name": "Yasemin",
       "url": "https://open.spotify.com/track/1hdJwEj1tD0O5NiWM9U5VW"
-    },
-    {
-      "added_at": "2025-09-05 15:48:11",
-      "album": {
-        "name": "HA\u0130NS\u0130N",
-        "url": "https://open.spotify.com/album/3fc3SX1q9MkuWynn6xvvzx"
-      },
-      "artists": [
-        {
-          "name": "Poizi",
-          "url": "https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5"
-        }
-      ],
-      "duration_ms": 117446,
-      "name": "HA\u0130NS\u0130N",
-      "url": "https://open.spotify.com/track/7BIWqwuOJMKQN2GCjXQ7Fh"
     },
     {
       "added_at": "2025-09-05 15:48:11",

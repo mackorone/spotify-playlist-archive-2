@@ -1,6 +1,6 @@
 {
   "description": "The women whose music and influence rock our world. Cover: Ellie Rowsell of Wolf Alice",
-  "num_followers": 780416,
+  "num_followers": 780456,
   "original_name": "Women of Rock",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/5jZoYp0P8ML7AxkS3tQz3j"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Dead End",
-        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 245358,
-      "name": "Dead End",
-      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 189706,
       "name": "Drain the Blood",
       "url": "https://open.spotify.com/track/3kYWrBoFBQGctF0UwgP8N1"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Dead End",
+        "url": "https://open.spotify.com/album/3wDIP40j3CcyfvmVjiN6v9"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 245358,
+      "name": "Dead End",
+      "url": "https://open.spotify.com/track/2DcJRwVK6Qlk3h6lXWQvE4"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Last Girls At The Party",
-        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 162933,
-      "name": "Last Girls At The Party",
-      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Rid Of Me",
         "url": "https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 268826,
       "name": "Rid Of Me",
       "url": "https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Last Girls At The Party",
+        "url": "https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 162933,
+      "name": "Last Girls At The Party",
+      "url": "https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "When A Flower Doesn't Grow",
-        "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
-      },
-      "artists": [
-        {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
-        }
-      ],
-      "duration_ms": 170238,
-      "name": "Not Sorry",
-      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "Ceremony",
         "url": "https://open.spotify.com/album/7gcIgsU1vw9E2GwZDMaIcp"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 199819,
       "name": "Ceremony",
       "url": "https://open.spotify.com/track/67gqSywShfhuuYwDbcJ2hG"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "When A Flower Doesn't Grow",
+        "url": "https://open.spotify.com/album/4jk5z7n2d9XJGSeVoo0rpm"
+      },
+      "artists": [
+        {
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+        }
+      ],
+      "duration_ms": 170238,
+      "name": "Not Sorry",
+      "url": "https://open.spotify.com/track/1ZtYPLZOSvoE3y3yxdHWLb"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "Are We All Angels",
-        "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
-      },
-      "artists": [
-        {
-          "name": "Scowl",
-          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
-        }
-      ],
-      "duration_ms": 181027,
-      "name": "Not Hell, Not Heaven",
-      "url": "https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL"
-    },
-    {
-      "added_at": "2026-03-02 21:45:43",
-      "album": {
         "name": "R is for Rocket",
         "url": "https://open.spotify.com/album/71B3Y4OdzrQNt6acfdKsIG"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 227354,
       "name": "One Million",
       "url": "https://open.spotify.com/track/5IIt7FDYJOn3sMDOmTcVuN"
+    },
+    {
+      "added_at": "2026-03-02 21:45:43",
+      "album": {
+        "name": "Are We All Angels",
+        "url": "https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 181027,
+      "name": "Not Hell, Not Heaven",
+      "url": "https://open.spotify.com/track/3Dv3zgW4OHauERx9RIZUXL"
     },
     {
       "added_at": "2026-03-02 21:45:43",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2026-03-02 21:45:43",
       "album": {
-        "name": "My Apologies To The Chef",
-        "url": "https://open.spotify.com/album/2VKfhxfIcAcYObO8qJEXA0"
+        "name": "Tiny Screens",
+        "url": "https://open.spotify.com/album/1ZeGBiEqsfeO25dU7kid1p"
       },
       "artists": [
         {
-          "name": "Winona Fighter",
-          "url": "https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ"
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
         }
       ],
-      "duration_ms": 174778,
-      "name": "You Look Like A Drunk Phoebe Bridgers",
-      "url": "https://open.spotify.com/track/49z8uMXflgtt6eQ3x7NRTN"
+      "duration_ms": 178015,
+      "name": "Tiny Screens",
+      "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
     }
   ],
   "unique_name": "Women of Rock",

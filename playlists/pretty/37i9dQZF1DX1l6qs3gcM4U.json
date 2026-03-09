@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Yasmine",
-  "num_followers": 242429,
+  "num_followers": 242466,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "Porta",
+        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
+      },
+      "artists": [
+        {
+          "name": "Button Rose",
+          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "Porta",
+      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "O Lamento",
         "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 240000,
       "name": "O Lamento",
       "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
-        "name": "Porta",
-        "url": "https://open.spotify.com/album/2V1L3nWQLyxPE7adD05tDC"
-      },
-      "artists": [
-        {
-          "name": "Button Rose",
-          "url": "https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "Porta",
-      "url": "https://open.spotify.com/track/6qP8HCOpt40MQ8gGJcuVRr"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Menina Mulher",
-        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
-      },
-      "artists": [
-        {
-          "name": "Liriany",
-          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
-        }
-      ],
-      "duration_ms": 201253,
-      "name": "Fa\u00e7o Como",
-      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Bia",
         "url": "https://open.spotify.com/album/0YorR7XzlIH3CftiINKp2A"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 273925,
       "name": "Bia",
       "url": "https://open.spotify.com/track/5jYvNdB6bbptDAttYl7vtx"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Menina Mulher",
+        "url": "https://open.spotify.com/album/6rq8aWZ8RXvsoKYd86nZBm"
+      },
+      "artists": [
+        {
+          "name": "Liriany",
+          "url": "https://open.spotify.com/artist/7gsMzXapXdZ5XzVPJp4rBd"
+        }
+      ],
+      "duration_ms": 201253,
+      "name": "Fa\u00e7o Como",
+      "url": "https://open.spotify.com/track/78Eqonqp6yxXuYQtnffk0W"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
-      },
-      "artists": [
-        {
-          "name": "Irina Barros",
-          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
-        },
-        {
-          "name": "Matias Dam\u00e1sio",
-          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
-      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Vida Linda",
         "url": "https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH"
       },
@@ -1223,6 +1203,26 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+        "url": "https://open.spotify.com/album/4n7bQ38B5YqWTXmJ19ABHi"
+      },
+      "artists": [
+        {
+          "name": "Irina Barros",
+          "url": "https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj"
+        },
+        {
+          "name": "Matias Dam\u00e1sio",
+          "url": "https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
+      "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "Noz Cantinh",
         "url": "https://open.spotify.com/album/71n3i7F7wQsYUPux9m4ZMW"
       },
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Simbiose",
-        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Simbiose",
-      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Hey Odja",
         "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 167180,
       "name": "Hey Odja",
       "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Simbiose",
+        "url": "https://open.spotify.com/album/52VpYQcLppnMS3V70nvlqK"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Simbiose",
+      "url": "https://open.spotify.com/track/681Mye7rtRNdAgb4zYAxDe"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "AROMA INSANO",
         "url": "https://open.spotify.com/album/4573oxJeE9rb62dTFdn8yV"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 150000,
       "name": "AROMA INSANO",
       "url": "https://open.spotify.com/track/4wqgi5TMPJrb5XiqlaNS6A"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5OQujsjg6AsgHiybmw4nhb"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 219666,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/49cUQeHqB29Pf3DahEOsD8"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
+        "name": "Mar\u00e9",
+        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
+      },
+      "artists": [
+        {
+          "name": "Mr. KIZOMBA",
+          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
+        }
+      ],
+      "duration_ms": 231061,
+      "name": "Mar\u00e9",
+      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 176102,
       "name": "Pa Qu\u00ea?",
       "url": "https://open.spotify.com/track/24D8iaNYZIlZEplxSeCZOr"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
-        "name": "Mar\u00e9",
-        "url": "https://open.spotify.com/album/1A1JlV7ALaDEOpppBNzqGo"
-      },
-      "artists": [
-        {
-          "name": "Mr. KIZOMBA",
-          "url": "https://open.spotify.com/artist/6L5p4GE1qD7ELAI9rk8iI7"
-        }
-      ],
-      "duration_ms": 231061,
-      "name": "Mar\u00e9",
-      "url": "https://open.spotify.com/track/6r8Wp6By36CQWgnpAmwvjM"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Longe Daqui",
-        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
-      },
-      "artists": [
-        {
-          "name": "Anderson M\u00e1rio",
-          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Longe Daqui",
-      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "Teu Ego",
         "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Longe Daqui",
+        "url": "https://open.spotify.com/album/2lV2eLC9oG1zx36I4CO5nS"
+      },
+      "artists": [
+        {
+          "name": "Anderson M\u00e1rio",
+          "url": "https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Longe Daqui",
+      "url": "https://open.spotify.com/track/6MexAjdg4Fc1qSudsOBGKo"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Forever My Own",
-        "url": "https://open.spotify.com/album/5aGOeueu72qTMNHohwLPyg"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        }
-      ],
-      "duration_ms": 115751,
-      "name": "Forever My Own",
-      "url": "https://open.spotify.com/track/5HpnPSzYPocliLVOQiZrhN"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "\u00c9 MEMO ESSE",
         "url": "https://open.spotify.com/album/1qoPmHhWMokEMlexO3nY0P"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 209280,
       "name": "\u00c9 MEMO ESSE",
       "url": "https://open.spotify.com/track/6y6f8Vo7ZAFaUkq4w4jjaO"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Forever My Own",
+        "url": "https://open.spotify.com/album/5aGOeueu72qTMNHohwLPyg"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        }
+      ],
+      "duration_ms": 115751,
+      "name": "Forever My Own",
+      "url": "https://open.spotify.com/track/5HpnPSzYPocliLVOQiZrhN"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Fica L\u00e1",
-        "url": "https://open.spotify.com/album/7cMQBVEaBYGIKJjBCV7asB"
-      },
-      "artists": [
-        {
-          "name": "Nice Life",
-          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
-        },
-        {
-          "name": "Tony Z",
-          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
-        }
-      ],
-      "duration_ms": 231289,
-      "name": "Fica L\u00e1",
-      "url": "https://open.spotify.com/track/3TvcKZTFnoYuIVdbvk0zpP"
-    },
-    {
-      "added_at": "2026-03-06 00:00:28",
-      "album": {
         "name": "T\u00e1 Na Moda",
         "url": "https://open.spotify.com/album/5hyonNjyw1rM4AWPkOAsDX"
       },
@@ -1827,6 +1807,22 @@
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"
+    },
+    {
+      "added_at": "2026-03-06 00:00:28",
+      "album": {
+        "name": "Namorado",
+        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
+      },
+      "artists": [
+        {
+          "name": "Atim",
+          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Namorado",
+      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
     },
     {
       "added_at": "2026-03-06 00:00:28",
@@ -1859,18 +1855,22 @@
     {
       "added_at": "2026-03-06 00:00:28",
       "album": {
-        "name": "Namorado",
-        "url": "https://open.spotify.com/album/39pBAZBtmSzLborWcGy8Pc"
+        "name": "Fica L\u00e1",
+        "url": "https://open.spotify.com/album/7cMQBVEaBYGIKJjBCV7asB"
       },
       "artists": [
         {
-          "name": "Atim",
-          "url": "https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr"
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Tony Z",
+          "url": "https://open.spotify.com/artist/1LQV4iAHmqsgD14kDSm3Pt"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Namorado",
-      "url": "https://open.spotify.com/track/7zCeVehMXKAOiZ0YYl0wEG"
+      "duration_ms": 231289,
+      "name": "Fica L\u00e1",
+      "url": "https://open.spotify.com/track/3TvcKZTFnoYuIVdbvk0zpP"
     }
   ],
   "unique_name": "Dancing Kizomba",

@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 38866,
+  "num_followers": 38869,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADsGxPZFLcGLo2/oNT58NYe",
+  "snapshot_id": "aatqgAAAAADVIgvCZLkVdOvBp+Gyqb7w",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It's Time For Love",
+        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 283720,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's Time For Love",
-        "url": "https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/07iF2abYbJg0ndDc1hFdIT"
     },
     {
       "added_at": null,

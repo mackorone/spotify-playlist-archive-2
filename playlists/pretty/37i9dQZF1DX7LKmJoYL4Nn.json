@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62508,
+  "num_followers": 62524,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
+        "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
+        "url": "https://open.spotify.com/album/2jKA1kSLnqgKrClUHEQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Special for Princess!",
+          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
+        }
+      ],
+      "duration_ms": 184700,
+      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
+      "url": "https://open.spotify.com/track/3Iw89WZFV0bsQh83TN6pJn"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
         "name": "Eden\u300c\u5186\u74b0\u306eRefraction\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/3ZDRolHjBoVnkN8v0Wiw1F"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 206997,
       "name": "\u5186\u74b0\u306eRefraction",
       "url": "https://open.spotify.com/track/48f8tr0Mi0Fkqn4pnd46Uc"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
-        "url": "https://open.spotify.com/album/2jKA1kSLnqgKrClUHEQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Special for Princess!",
-          "url": "https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3"
-        }
-      ],
-      "duration_ms": 184700,
-      "name": "\u30e1\u30e9\u30f3\u30b3\u30ea\u30fc\u3092\u99c6\u3051\u629c\u3051\u308d\u2665",
-      "url": "https://open.spotify.com/track/3Iw89WZFV0bsQh83TN6pJn"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
-        "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
-      },
-      "artists": [
-        {
-          "name": "Eden",
-          "url": "https://open.spotify.com/artist/6OvhFi6jhjbkcxcNn4U3sL"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 359773,
-      "name": "The Bible of The \u201cEden\u201d",
-      "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "null\u300c\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u2060SELECTION 10 UNIT SONG",
         "url": "https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 223542,
       "name": "\u305d\u308c\u306f\u6b8b\u50cf\u306e\u6d88\u5931\u70b9",
       "url": "https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Eden\u300cThe Bible of The \u201cEden\u201d\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra",
+        "url": "https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR"
+      },
+      "artists": [
+        {
+          "name": "Eden",
+          "url": "https://open.spotify.com/artist/6OvhFi6jhjbkcxcNn4U3sL"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 359773,
+      "name": "The Bible of The \u201cEden\u201d",
+      "url": "https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -491,26 +491,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "Trickstar \u300cCELEBRATE!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
-        "url": "https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3"
-      },
-      "artists": [
-        {
-          "name": "Trickstar",
-          "url": "https://open.spotify.com/artist/2LZHEtIelyVc5j5StCwh4m"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 246375,
-      "name": "CELEBRATE!!",
-      "url": "https://open.spotify.com/track/4uRZvH0o2HyGswFQOWDA23"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "Crazy:B\u300cUTAKATA DANCE FLOOR\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 196125,
       "name": "UTAKATA DANCE FLOOR",
       "url": "https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "Trickstar \u300cCELEBRATE!!\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
+        "url": "https://open.spotify.com/album/1O2mVKwhzQ4kVeZx4Hd8s3"
+      },
+      "artists": [
+        {
+          "name": "Trickstar",
+          "url": "https://open.spotify.com/artist/2LZHEtIelyVc5j5StCwh4m"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 246375,
+      "name": "CELEBRATE!!",
+      "url": "https://open.spotify.com/track/4uRZvH0o2HyGswFQOWDA23"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -587,26 +587,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
-        "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
-      },
-      "artists": [
-        {
-          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 188639,
-      "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
-      "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "Crazy:B\u300c\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season6",
         "url": "https://open.spotify.com/album/4UxzlvHAJyLSMA7YPevnSb"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 245847,
       "name": "\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7\u30fb\u30de\u30ea\u30a2\u30fc\u30b8\u30e5",
       "url": "https://open.spotify.com/track/0gr9gmL1e9bHsnD1JiSSRZ"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "\u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01Bright me up!!\u300f\u30a2\u30d7\u30ea\u4e3b\u984c\u6b4c\u300cBRIGHTEST STARS!!\u300d",
+        "url": "https://open.spotify.com/album/5Ctyhj2QjC7DhCikMYdrNt"
+      },
+      "artists": [
+        {
+          "name": "ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/4MCDJV5XahmKPes1Ccc7YO"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "BRIGHTEST STARS!! (ES\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba ver.)",
+      "url": "https://open.spotify.com/track/6goODWB6IHzU96zSBLZEbf"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -688,26 +688,6 @@
       },
       "artists": [
         {
-          "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 212359,
-      "name": "Across the universe",
-      "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
-        "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
-      },
-      "artists": [
-        {
           "name": "Crazy:B",
           "url": "https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo"
         },
@@ -719,6 +699,26 @@
       "duration_ms": 195932,
       "name": "Foolish Alien",
       "url": "https://open.spotify.com/track/1MmoBTdCdBAWMTCq0TkTDN"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Extra ALKALOID & Crazy:B",
+        "url": "https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 212359,
+      "name": "Across the universe",
+      "url": "https://open.spotify.com/track/4Ircdfplz7G3aybDicPOF0"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-01-13 16:06:44",
       "album": {
-        "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
-        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
-      },
-      "artists": [
-        {
-          "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 211976,
-      "name": "SunnyTrip Summer",
-      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
         "name": "fine\u300cFairy Tale Library\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
         "url": "https://open.spotify.com/album/53hOfB0pGFBGTP98otdyLP"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 210323,
       "name": "Fairy Tale Library",
       "url": "https://open.spotify.com/track/1IPJ4i89RPAkg3TyRUrtK5"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "ALKALOID\u300cSunnyTrip Summer\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season5",
+        "url": "https://open.spotify.com/album/5oqDaZ6OOiPqEpIduUbgCy"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID",
+          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 211976,
+      "name": "SunnyTrip Summer",
+      "url": "https://open.spotify.com/track/5qz6AbE4lsrBNCCTQGZJml"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -951,26 +951,6 @@
       "duration_ms": 270354,
       "name": "\u30d5\u30e9\u30b8\u30fc\u30eb - Cover",
       "url": "https://open.spotify.com/track/1vywsFdOWEVvP6JkDOuUbU"
-    },
-    {
-      "added_at": "2026-01-13 16:06:44",
-      "album": {
-        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
-        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
-      },
-      "artists": [
-        {
-          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
-          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
-        },
-        {
-          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
-          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
-        }
-      ],
-      "duration_ms": 200280,
-      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
-      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-01-13 16:06:44",
@@ -1083,6 +1063,26 @@
       "duration_ms": 200000,
       "name": "\u30d7\u30ea\u30c6\u30a3\u306e\u30b9\u30b9\u30e1\u2661",
       "url": "https://open.spotify.com/track/60mvU2t9ThXv5bSlVugniv"
+    },
+    {
+      "added_at": "2026-01-13 16:06:44",
+      "album": {
+        "name": "\u8475 \u3086\u3046\u305f\u300c\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/4omPt3jfvglBi2XbPSgXxu"
+      },
+      "artists": [
+        {
+          "name": "\u8475 \u3086\u3046\u305f(CV.\u6589\u85e4 \u58ee\u99ac)",
+          "url": "https://open.spotify.com/artist/7jEIFgq2IH8PwpLUePTrO7"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "\u30dd\u30e9\u30ea\u30b9\u306b\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/7g5mDhLT1o5cASHkOUqOQr"
     },
     {
       "added_at": "2026-01-13 16:06:44",

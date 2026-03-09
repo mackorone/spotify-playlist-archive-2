@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Deejay Telio
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,498 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,505 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 20 | [HORAS](https://open.spotify.com/track/6JKN4hhG8P9P6qbg9Z6cyW) | [Holympo](https://open.spotify.com/artist/3nwFRfquZaKGnuH3b66uj9) | [HORAS](https://open.spotify.com/album/5tmHbyzaW4UVy65PXQiHJ7) | 2:34 |
 | 21 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
 | 22 | [Auto\-Estima](https://open.spotify.com/track/05T4W8jxTpLfzlKzGOVSEy) | [Penelas Sidney](https://open.spotify.com/artist/29DNcEMcr9tzvXywJC2L6K), [Edivaldo Prince](https://open.spotify.com/artist/1gqTY48L61CaY4ZNUpc8wL) | [Auto\-Estima](https://open.spotify.com/album/6O1BO9R4mu9GwwSKq4DYBQ) | 3:29 |
-| 23 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 23 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
 | 24 | [TKT](https://open.spotify.com/track/0PvVkuO5QxckApBrHpYtr6) | [CIMAOO](https://open.spotify.com/artist/5PlVoAQgQJWPbGaKutrgO3) | [TKT](https://open.spotify.com/album/5UvviciYfyEFFvkoPHuCU8) | 2:25 |
-| 25 | [Carro \(feat\. Dillaz\)](https://open.spotify.com/track/5yS8wgwBnmjpXwGislck0n) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Finda](https://open.spotify.com/album/5BBWda4ImqHa9rZ6Qy4f19) | 3:22 |
+| 25 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
 | 26 | [Cacau](https://open.spotify.com/track/4jq69Jq3ZxYXTeXu9JhmIO) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Reservado](https://open.spotify.com/album/1fv3j4QZFpWTljyn1Ay6sM) | 2:38 |
 | 27 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
 | 28 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [Semana](https://open.spotify.com/track/7LpBGg0rRw0TqQNhPN31Zc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Amanheceu](https://open.spotify.com/album/2esz1lg35mDAU8SrNlxrGr) | 2:41 |
 | 72 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 73 | [23:40](https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [do.mar](https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq) | 3:02 |
-| 74 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
-| 75 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
+| 74 | [Mentira](https://open.spotify.com/track/2zWN9n7HcvYsydcykLgNQW) | [Gama WNTD](https://open.spotify.com/artist/0T49oz78JYl4FkVJPGlJiD) | [Mentira](https://open.spotify.com/album/6AjMO0lLuPMZGuNwlUteFM) | 3:49 |
+| 75 | [Berço de Ouro](https://open.spotify.com/track/1JU4ncwSXEjC13H0W72ucD) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Berço de Ouro](https://open.spotify.com/album/68v70mBGjLi5hN1y7xrrlv) | 2:57 |
 
 Snapshot ID: `AAAAALwMkKsM47ByydUKZKI01pToGYBF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,575,668 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,575,652 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 50 | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Coast 2 Coast ft\. Flowdan](https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu) | 2:54 |
 | 51 | [Duel of the Fates](https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN) | [Duel of the Fates](https://open.spotify.com/album/5S9MaLGpGVqKqzGcct4Fxa) | 3:22 |
 | 52 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 |
-| 53 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 |
+| 53 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 |
 | 54 | [Cyanide](https://open.spotify.com/track/37iVjhBGNBnxVSuF67TX0H) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [MINDFULL](https://open.spotify.com/album/7sS3QPN6balmYBP3JPvjMb) | 3:06 |
-| 55 | [Waves](https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Waves](https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd) | 4:54 |
-| 56 | [Save Me](https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [Save Me](https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI) | 3:16 |
+| 55 | [Save Me](https://open.spotify.com/track/4MgH7JjZQAPgIBf0lrdbie) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC) | [Save Me](https://open.spotify.com/album/0CynI5NfrzuzNT7JHnXddI) | 3:16 |
+| 56 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 |
 | 57 | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/track/1t0cVl9nW6zkUeow0RCLqA) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Quackson](https://open.spotify.com/artist/1srU7GzSGHwG1ewjSv6ztq), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [Gyrate \(ft\. Wreckno\)](https://open.spotify.com/album/2QYJoHbkmHuWUiRxxcOeEd) | 2:56 |
 | 58 | [DANGER](https://open.spotify.com/track/6xpvvq1U38Z6Pu8ykqLLul) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [FOREVER, VOLPETRON](https://open.spotify.com/album/2PaYlbAG0s9esngLwx7nFN) | 2:43 |
 | 59 | [System Shock](https://open.spotify.com/track/48xIuXP8AN7dnan1Afsoqv) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU) | [System Shock](https://open.spotify.com/album/7ADLWJaRuxts3AfNcJPXQq) | 2:16 |

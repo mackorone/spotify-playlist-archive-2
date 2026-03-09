@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 656288,
+  "num_followers": 656358,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-08-22 11:26:14",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
-    },
-    {
-      "added_at": "2025-08-22 11:26:14",
-      "album": {
         "name": "Sisters and Brothers",
         "url": "https://open.spotify.com/album/1L6XROA4tB3v2Vxe4pfhyN"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 247781,
       "name": "Sisters and Brothers",
       "url": "https://open.spotify.com/track/56SDusGcG8YbuZp3DPLfx9"
+    },
+    {
+      "added_at": "2025-08-22 11:26:14",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
     },
     {
       "added_at": "2025-08-22 11:26:14",

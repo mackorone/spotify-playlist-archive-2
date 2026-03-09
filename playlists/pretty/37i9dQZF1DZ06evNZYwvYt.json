@@ -1,12 +1,12 @@
 {
   "description": "This is De Saloon. The essential tracks, all in one playlist.",
-  "num_followers": 19840,
+  "num_followers": 19847,
   "original_name": "This Is De Saloon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAYUiiRkGXtZD3lbKlIyALe",
+  "snapshot_id": "aatqgAAAAAB/NuRaf4mvkaARUo4zGpIE",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 273142,
-      "name": "Tormentas y Tormentos",
-      "url": "https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fortaleza",
         "url": "https://open.spotify.com/album/47hkTPYhTntBtNU8H16qKe"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 290426,
       "name": "Eras Tan Para Mi",
       "url": "https://open.spotify.com/track/4GbA6cGPbMohI23YgsvEne"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 273142,
+      "name": "Tormentas y Tormentos",
+      "url": "https://open.spotify.com/track/5ueVEmBnQxHrwTFuHdv1qP"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sonido del Misterio",
-        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        }
-      ],
-      "duration_ms": 213142,
-      "name": "Sinton\u00eda",
-      "url": "https://open.spotify.com/track/0EQ3303rUQozqo5oTqeOCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Saloon",
         "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 219600,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2uGP5rzyXrSlXjF9q57a4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sonido del Misterio",
+        "url": "https://open.spotify.com/album/7mH8exw4lH8DQKkgw90HRz"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 213142,
+      "name": "Sinton\u00eda",
+      "url": "https://open.spotify.com/track/0EQ3303rUQozqo5oTqeOCn"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 287714,
-      "name": "Piedras de fuego",
-      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
+      "duration_ms": 184571,
+      "name": "Cuando la vida se vuelve real",
+      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 184571,
-      "name": "Cuando la vida se vuelve real",
-      "url": "https://open.spotify.com/track/5LuD9hHQBHnztgHWfn92sU"
+      "duration_ms": 287714,
+      "name": "Piedras de fuego",
+      "url": "https://open.spotify.com/track/3gd15ODvwx6nHJj5Sjewim"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 240500,
-      "name": "El amor es el fin",
-      "url": "https://open.spotify.com/track/4TTS7BCdfcUaLKmgtBS8vF"
+      "duration_ms": 233142,
+      "name": "Sufriendo de m\u00e1s",
+      "url": "https://open.spotify.com/track/0GJvW0BOrxlPcm7IbBzv4t"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morder",
-        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Extra\u00f1arte",
-      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
+      "duration_ms": 209200,
+      "name": "Esfumar",
+      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+        "name": "Morder",
+        "url": "https://open.spotify.com/album/2UTF8V1xUb2Wcmi2GuP9Ou"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
         }
       ],
-      "duration_ms": 209200,
-      "name": "Esfumar",
-      "url": "https://open.spotify.com/track/71OtP6pu3xWhvx7NLetwCN"
+      "duration_ms": 232653,
+      "name": "Extra\u00f1arte",
+      "url": "https://open.spotify.com/track/54A9l2wNN875pViIqfbtb8"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
       "duration_ms": 242000,
       "name": "Virtual",
       "url": "https://open.spotify.com/track/3RsdLfvSVFZn74haerjDfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Saloon",
+        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+      },
+      "artists": [
+        {
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        }
+      ],
+      "duration_ms": 238586,
+      "name": "Fui feliz",
+      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
     },
     {
       "added_at": null,
@@ -683,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Saloon",
-        "url": "https://open.spotify.com/album/5ygviCE5lGXlWu30HZJG22"
+        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
+        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
       },
       "artists": [
         {
           "name": "De Saloon",
           "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 238586,
-      "name": "Fui feliz",
-      "url": "https://open.spotify.com/track/64zw8El0ildtgzXAjGQvDH"
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     },
     {
       "added_at": null,
@@ -715,26 +735,6 @@
       "duration_ms": 161964,
       "name": "Respeta el Flow",
       "url": "https://open.spotify.com/track/3yawMrvzCoa6uR7mr88Dzi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resiste M\u00e1s Que Yo (En Vivo)",
-        "url": "https://open.spotify.com/album/2fKBLpOOof8HnAJqp16mGf"
-      },
-      "artists": [
-        {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
-        }
-      ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Y\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6kvtQTHtCnHP6xfX1gEK0J"
     },
     {
       "added_at": null,

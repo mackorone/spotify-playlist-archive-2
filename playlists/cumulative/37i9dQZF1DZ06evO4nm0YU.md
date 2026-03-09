@@ -4,7 +4,7 @@
 
 > This is Héctor Lavoe\. The essential tracks, all in one playlist.
 
-92 songs - 8 hr 29 min
+93 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,9 @@
 | [Escarcha](https://open.spotify.com/track/0mo8I0fGwUWirxqum46KeK) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 6:32 | 2022-09-08 |  |
 | [Eso Se Baila Así](https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [The Hustler](https://open.spotify.com/album/5trTLGiHIuTdRFw6DeP61C) | 5:17 | 2022-09-08 |  |
 | [Güaracha](https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [The Good, The Bad, And The Ugly](https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn) | 5:08 | 2022-09-08 |  |
-| [Hacha Y Machete](https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante De Los Cantantes](https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8) | 5:31 | 2025-10-26 |  |
+| [Hacha Y Machete](https://open.spotify.com/track/4s0NyUWYpDcVh9pLjAStiG) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [El Cantante De Los Cantantes](https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8) | 5:31 | 2025-10-26 | 2026-03-09 |
 | [Hacha Y Machete](https://open.spotify.com/track/4CJhWQrtCkppHhOtAZBjik) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende](https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N) | 5:33 | 2022-09-08 | 2025-10-26 |
+| [Hacha y Machete \- Remastered 2024](https://open.spotify.com/track/4WeKM7puIMQ67q6k73lGC3) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [De Ti Depende \(Remastered 2024\)](https://open.spotify.com/album/19fhJ4eKpPYUZrkWCTpaQb) | 5:33 | 2026-03-09 |  |
 | [Isla Del Encanto](https://open.spotify.com/track/42Wy96ME6BJo7ZS0tWfSQr) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Viva La Charanga](https://open.spotify.com/album/5mZdp6J9epdgylrUNHp89v) | 4:27 | 2023-03-11 | 2024-07-05 |
 | [Juana Peña](https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Crime Pays](https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K) | 5:38 | 2022-09-08 |  |
 | [Juanito Alimaña](https://open.spotify.com/track/02c7d670y3o6IvkBPazlFu) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Greatest Hits](https://open.spotify.com/album/4zAgB7K2I3oeUufUpSHwOZ) | 5:45 | 2022-09-08 |  |

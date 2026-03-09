@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 297751,
+  "num_followers": 297759,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD+5X2nvjbei98CWY1adV4z",
+  "snapshot_id": "aatqgAAAAADjQF1jeRlCf5dLldu/qNSl",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Change for You",
-        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 196426,
-      "name": "I'll Change for You",
-      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 183792,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
     },
     {
       "added_at": null,
@@ -171,6 +171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'll Change for You",
+        "url": "https://open.spotify.com/album/3f7akGGEFL9LjSJCG7ueaL"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "I'll Change for You",
+      "url": "https://open.spotify.com/track/1VVlFu2NkLFMRBznBITlho"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Be the Cowboy",
         "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
       },
@@ -180,25 +196,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puberty 2",
-        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 180999,
-      "name": "Once More to See You",
-      "url": "https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke"
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
     },
     {
       "added_at": null,
@@ -215,6 +215,22 @@
       "duration_ms": 187053,
       "name": "Instead of Here",
       "url": "https://open.spotify.com/track/1QD7a9ciI9Am84WGZeEtHh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 180999,
+      "name": "Once More to See You",
+      "url": "https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke"
     },
     {
       "added_at": null,
@@ -244,25 +260,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 137141,
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where's My Phone?",
-        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 189853,
-      "name": "Where's My Phone?",
-      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
+      "duration_ms": 156145,
+      "name": "A Pearl",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Where's My Phone?",
+        "url": "https://open.spotify.com/album/1oLPKLJMffq7fO3XapLx4G"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 189853,
+      "name": "Where's My Phone?",
+      "url": "https://open.spotify.com/track/4BUDJShvKNRbrgylxri5tI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lush",
         "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 132773,
       "name": "Brand New City",
       "url": "https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 156145,
-      "name": "A Pearl",
-      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "Abbey",
-      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 292031,
       "name": "Crack Baby",
       "url": "https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "Abbey",
+      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 136667,
-      "name": "Pink in the Night",
-      "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 212183,
       "name": "Your Best American Girl",
       "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 136667,
+      "name": "Pink in the Night",
+      "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 135313,
-      "name": "Remember My Name",
-      "url": "https://open.spotify.com/track/6QqUgSjdtWhqsEdz72XhCD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 109627,
       "name": "A Burning Hill",
       "url": "https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 135313,
+      "name": "Remember My Name",
+      "url": "https://open.spotify.com/track/6QqUgSjdtWhqsEdz72XhCD"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Laurel Hell",
-        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 191774,
-      "name": "Should've Been Me",
-      "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puberty 2",
         "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 145026,
       "name": "I Don't Like My Mind",
       "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 191774,
+      "name": "Should've Been Me",
+      "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 114277,
-      "name": "Strawberry Blond",
-      "url": "https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 168480,
       "name": "The Frost",
       "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 114277,
+      "name": "Strawberry Blond",
+      "url": "https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 144250,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 224333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 144250,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/6x5yiC9qgFIO0XPekWdjF1"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 185070,
-      "name": "Because Dreaming Costs Money, My Dear",
-      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 104253,
       "name": "When Memories Snow",
       "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
     },
     {
       "added_at": null,

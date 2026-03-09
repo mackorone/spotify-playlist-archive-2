@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 66096,
+  "num_followers": 66126,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADmjrEyX1/Qiif9DfXEOebr",
+  "snapshot_id": "aatqgAAAAAAQ2XMhEDInyWo6W0HaUjK6",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "What Am I Supposed To Do Now",
-      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Midtown Sessions",
         "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 194064,
       "name": "Cowboy In Me - Acoustic",
       "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "What Am I Supposed To Do Now",
+      "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bury Me In Dixie",
+        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Bury Me In Dixie",
+      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Mind If I Do",
         "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 197400,
       "name": "Reel Problems",
       "url": "https://open.spotify.com/track/6GIQCOTlVMCn1XEcO3tUiG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bury Me In Dixie",
-        "url": "https://open.spotify.com/album/2DdfSnAa1HAU0BpUh2amI8"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Bury Me In Dixie",
-      "url": "https://open.spotify.com/track/7KFbFqfBxqRtSSwkA874iv"
     },
     {
       "added_at": null,

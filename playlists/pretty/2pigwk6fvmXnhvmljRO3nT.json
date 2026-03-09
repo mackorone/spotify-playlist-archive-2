@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAALJqENC2VgTke/5RI1R21bC/YEVodc",
+  "snapshot_id": "AAALKB40RAGen7pqARXOqPuzp8XOgLYS",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -148183,6 +148183,42 @@
       "duration_ms": 237520,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/6R2r9XlzYeHXgwKnQLAMWi"
+    },
+    {
+      "added_at": "2026-03-08 03:20:49",
+      "album": {
+        "name": "Ai \u0110\u01b0a Em V\u1ec1",
+        "url": "https://open.spotify.com/album/6LgVrcjpVQJv9nPJ7vGBw9"
+      },
+      "artists": [
+        {
+          "name": "TIA",
+          "url": "https://open.spotify.com/artist/6LrBtADUmDoLlcTrg448Qt"
+        },
+        {
+          "name": "L\u00ea Thi\u1ec7n Hi\u1ebfu",
+          "url": "https://open.spotify.com/artist/2U7kaq9BBq7eG2Vyn1D3Ab"
+        }
+      ],
+      "duration_ms": 233249,
+      "name": "Ai \u0110\u01b0a Em V\u1ec1",
+      "url": "https://open.spotify.com/track/7LTdc7R99Q9sHlD3I0e10t"
+    },
+    {
+      "added_at": "2026-03-08 06:26:49",
+      "album": {
+        "name": "Hadal Ahbek",
+        "url": "https://open.spotify.com/album/4mpBiBTgBbGdgmw6nh22Tk"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        }
+      ],
+      "duration_ms": 209684,
+      "name": "Hadal Ahbek",
+      "url": "https://open.spotify.com/track/0UdZzUSOLhqIFCU7wHWkgp"
     }
   ],
   "unique_name": "Purge",

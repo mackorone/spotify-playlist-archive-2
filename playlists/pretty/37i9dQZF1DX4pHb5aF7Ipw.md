@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Sardar Khehra & More
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,145 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,150 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 40 | [RAULA](https://open.spotify.com/track/3jnpDOtitr5JIsycvs0rs8) | [Aishmode](https://open.spotify.com/artist/5dxbGkGHxzfb5PdZREkjtD), [Irfxn](https://open.spotify.com/artist/6fYLGWXWS2MY2A3ulXHRlI) | [RAULA](https://open.spotify.com/album/7e7lrsUgmOJfzd4ZD4f8tz) | 2:35 |
 | 41 | [Makaveli](https://open.spotify.com/track/42kETwBjSEnCAG5mJ4hyuq) | [Lkihere](https://open.spotify.com/artist/3tF8iwSZcTc0Eev4kOcbxr), [SNAPDEEP](https://open.spotify.com/artist/2VvjhfnD1zPy6mJNtoUKYe) | [Makaveli](https://open.spotify.com/album/29e4kJgwJAVs2Lxqiy1OYD) | 2:25 |
 | 42 | [DON'T](https://open.spotify.com/track/7i7y0CQd6RVdiT7a6WoMpa) | [Abhinsane](https://open.spotify.com/artist/2d54dleFuZwm97DuDuvCGq), [singhxcrew](https://open.spotify.com/artist/65D6JzaPIPlr7Q8poyp5xT) | [DON'T](https://open.spotify.com/album/3phmfkflMzXRhw6M4TQk6S) | 2:32 |
-| 43 | [Shut The Eff Up](https://open.spotify.com/track/7svHJ7yaXDHBhxxyfT94WI) | [Karan Sengh](https://open.spotify.com/artist/3iVjhEg2UxgQzW8WNP8yF4), [Manisten](https://open.spotify.com/artist/1KpTCTRsHlsRBP1yUC21Gm) | [Shut The Eff Up](https://open.spotify.com/album/4VLAtuFAASu1gPhobf3y5S) | 2:26 |
+| 43 | [Shut The Eff Up](https://open.spotify.com/track/7svHJ7yaXDHBhxxyfT94WI) | [Karan Sengh](https://open.spotify.com/artist/3iVjhEg2UxgQzW8WNP8yF4), [Manisten](https://open.spotify.com/artist/5mllF2QLSzr4SbCEs90H4Q) | [Shut The Eff Up](https://open.spotify.com/album/4VLAtuFAASu1gPhobf3y5S) | 2:26 |
 | 44 | [LET EM KNOW](https://open.spotify.com/track/4nkjSNHvZPzPIwVUBsUfpp) | [Raporrate](https://open.spotify.com/artist/3p1bm0rPTPMNrZX2aV81Rd), [Sharry Dhillon](https://open.spotify.com/artist/2wrD5ULczAXBSi7SNsq0T3) | [LET EM KNOW](https://open.spotify.com/album/7cxUaqvIhqxpqB6afg9jfv) | 2:37 |
 | 45 | [Dawat](https://open.spotify.com/track/3dru8srvE31CGYJcTETXY6) | [Facetoo Music](https://open.spotify.com/artist/7mplhtzs3iv8MavDBrDQ59), [Ishvaan](https://open.spotify.com/artist/6FA5gr7GbvZ8gxBinsE93E), [Kptaan](https://open.spotify.com/artist/06MWXAofHwT2tS9EyF1TpJ) | [Dawat](https://open.spotify.com/album/6QN2eksQe5meVhcSOz03QH) | 2:35 |
 | 46 | [Kinna Tera](https://open.spotify.com/track/11Ua3dEO8c0lZQG1yqngtE) | [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER), [Prakriti Pandey](https://open.spotify.com/artist/5gyrzC7jLzk6zlZVRwGwdb) | [Kinna Tera](https://open.spotify.com/album/3s52PXAUvWHXc3OG1S3qWK) | 3:13 |

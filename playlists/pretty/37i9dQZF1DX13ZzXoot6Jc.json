@@ -1,6 +1,6 @@
 {
   "description": "Luke Combs and Country hits that will have you singing every word.",
-  "num_followers": 451086,
+  "num_followers": 451070,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Think I\u2019m In Love With You",
-        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
+        "name": "Livin' My Best Life (Still)",
+        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 222800,
-      "name": "Think I'm In Love With You",
-      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
+      "duration_ms": 153906,
+      "name": "What He'll Never Have",
+      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -395,18 +395,18 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Livin' My Best Life (Still)",
-        "url": "https://open.spotify.com/album/3B38AH4XMqDiI9W2Yd6mDT"
+        "name": "Think I\u2019m In Love With You",
+        "url": "https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR"
       },
       "artists": [
         {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 153906,
-      "name": "What He'll Never Have",
-      "url": "https://open.spotify.com/track/61SRKyox0R9jCzci4JXKBS"
+      "duration_ms": 222800,
+      "name": "Think I'm In Love With You",
+      "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "TWENTY SOMETHING",
-        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        },
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 200893,
-      "name": "ghost in my guitar (feat. Chris Stapleton)",
-      "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Bell Bottom Country",
         "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 250880,
       "name": "Wildflowers and Wild Horses",
       "url": "https://open.spotify.com/track/6RWCvgNCEqXuVZYnDTPDEh"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "To Be A Man (feat. Darius Rucker)",
+        "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        },
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 219883,
+      "name": "To Be A Man (feat. Darius Rucker)",
+      "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -967,22 +967,22 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "To Be A Man (feat. Darius Rucker)",
-        "url": "https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8"
+        "name": "TWENTY SOMETHING",
+        "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
       "artists": [
         {
-          "name": "Dax",
-          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
         },
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 219883,
-      "name": "To Be A Man (feat. Darius Rucker)",
-      "url": "https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F"
+      "duration_ms": 200893,
+      "name": "ghost in my guitar (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Standing Room Only",
-        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 226090,
-      "name": "Standing Room Only",
-      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "Last Rodeo",
         "url": "https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 195488,
       "name": "Last Rodeo",
       "url": "https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Standing Room Only",
+        "url": "https://open.spotify.com/album/3Rg5omHq5NUUpRQq6Bsuuw"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 226090,
+      "name": "Standing Room Only",
+      "url": "https://open.spotify.com/track/6BOP0cv1eeXcvi1oE8bDVZ"
     },
     {
       "added_at": "2025-07-04 04:00:22",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-07-04 04:00:22",
       "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
-      },
-      "artists": [
-        {
-          "name": "Tucker Wetmore",
-          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
-    },
-    {
-      "added_at": "2025-07-04 04:00:22",
-      "album": {
         "name": "STRAIGHT LINE",
         "url": "https://open.spotify.com/album/3uacbN2CW4qOedhbLIWsIg"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 226000,
       "name": "STRAIGHT LINE",
       "url": "https://open.spotify.com/track/5eUuNoeb3ssH6T6zQiXsIj"
+    },
+    {
+      "added_at": "2025-07-04 04:00:22",
+      "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5paVgclX8qQ6hIURCWCD6f"
+      },
+      "artists": [
+        {
+          "name": "Tucker Wetmore",
+          "url": "https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/5ZMthjrGsLUB0zGUVyr2dU"
     },
     {
       "added_at": "2025-07-04 04:00:22",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,611 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,620 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 72 | [Celestial Space Reiki Healing](https://open.spotify.com/track/7tmGvgpBA2khyoS3i3ekpY) | [Zoey Quinn](https://open.spotify.com/artist/3X6bhrMbkmIbJ6CFhWgJBo) | [Celestial Space Reiki Healing \- Cure Effect, Therapeutic Zen Music, Hands of Light \(Sounds of Nature, Ocean Waves, Forest Birds, Soothing New Age Background Music\)](https://open.spotify.com/album/0zqWOg6YKuSkfKeL81oKW3) | 4:38 |
 | 73 | [Mindstiller](https://open.spotify.com/track/2IA4wO7fwVunvFQuWeksm8) | [Intentional Vibes](https://open.spotify.com/artist/5gtNVNylJUg6NfvM0LjLtr) | [Sleeper](https://open.spotify.com/album/6IoRGJxNt4XSc7DbpSnMvm) | 3:36 |
 | 74 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
-| 75 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |
+| 75 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Forest Bathing](https://open.spotify.com/artist/6aJCmoJbcNSxH68H4hlVpY) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 
 Snapshot ID: `AAAAANvWCbLN6UbwRM8GekPiisaa01Dr`

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 73931,
+  "num_followers": 73941,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAJ1CbtzAgXpDD0SFv2HV1M",
+  "snapshot_id": "aatqgAAAAADzPKZD6+gOdNk5Jc9iANJ/",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 188826,
       "name": "Here's to you (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "There But For Fortune",
-      "url": "https://open.spotify.com/track/0kQmH9SFtYjlvat2XzL5mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Bootleg Volume 6: Bob Dylan Live 1964 - Concert At Philharmonic Hall",
         "url": "https://open.spotify.com/album/2iM5ZikFu4dvZLHZRwWiLY"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 231773,
       "name": "It Ain't Me, Babe - Live at Philharmonic Hall, New York, NY - October 1964",
       "url": "https://open.spotify.com/track/1mreZCRg1gnNFLdGMqLW2b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "There But For Fortune",
+      "url": "https://open.spotify.com/track/0kQmH9SFtYjlvat2XzL5mx"
     },
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 267200,
-      "name": "Love Is Just A Four-Letter Word",
-      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+      "duration_ms": 267200,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "To Bobby",
-      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -487,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -496,9 +480,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 181093,
-      "name": "You Ain't Goin' Nowhere",
-      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
+      "duration_ms": 241226,
+      "name": "To Bobby",
+      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
     },
     {
       "added_at": null,
@@ -515,6 +499,22 @@
       "duration_ms": 181000,
       "name": "Joe Hill - Live",
       "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 181093,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/4ymMPQZeWVaDtpjPWC4gdX"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 263893,
-      "name": "Prison Trilogy (Billy Rose)",
-      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -587,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 165026,
       "name": "Never Dreamed You'd Leave In Summer",
       "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "The Wild Mountain Thyme",
-      "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
     },
     {
       "added_at": null,
@@ -655,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "The Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 220866,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias A La Vida (Here's To Life)",
         "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "North Country Blues",
-      "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -783,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
       "artists": [
         {
@@ -792,9 +776,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 175373,
-      "name": "In The Quiet Morning",
-      "url": "https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG"
+      "duration_ms": 302000,
+      "name": "North Country Blues",
+      "url": "https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m"
     },
     {
       "added_at": null,
@@ -811,6 +795,22 @@
       "duration_ms": 134133,
       "name": "Llego Con Tres Heridas",
       "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 175373,
+      "name": "In The Quiet Morning",
+      "url": "https://open.spotify.com/track/4Kol6Ecm4yCgHvbLSP3XUG"
     },
     {
       "added_at": null,

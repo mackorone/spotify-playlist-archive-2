@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/79M2N87L8igKvfAOgqndLY">Carter Lang</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-208 songs - 11 hr 23 min
+209 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [Thirst \- EP Version](https://open.spotify.com/track/66YWmARKaVgVYW7ZVPCQUM) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Midnight Moonlight EP](https://open.spotify.com/album/5NylLkiLTn2sF3U8mZ9bd7) | 2:56 | 2025-10-03 |  |
 | [Too Late](https://open.spotify.com/track/4Mteyd60tfstDuzfkGqXx1) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:44 | 2025-10-03 |  |
 | [TOO LONG](https://open.spotify.com/track/422PeUrBywndaCCxL6bDBj) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 3:04 | 2025-10-03 |  |
-| [Trampoline](https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5) | 3:17 | 2025-10-26 |  |
+| [Trampoline](https://open.spotify.com/track/13vRZOdTJs1Zu5ZrblfDsy) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/1JyR83IWoLzfzV7LdMi5jU) | 3:17 | 2026-03-08 |  |
+| [Trampoline](https://open.spotify.com/track/7p5jd7xEbVLwtuQQBKQhck) | [Very Nice Person](https://open.spotify.com/artist/3yzsPSJ1D0m1ugX9U2yL0P) | [Trampoline](https://open.spotify.com/album/6Yc22hJMoAe01X3hzGkug5) | 3:17 | 2025-10-26 | 2026-03-09 |
 | [Tramuntana](https://open.spotify.com/track/3aZTZQ3mu6GihdOry4xqpV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Spanish Leather](https://open.spotify.com/album/1inJBfnZWe33KcXl6TNaXV) | 3:55 | 2025-10-03 |  |
 | [Un Momento](https://open.spotify.com/track/6tzLIT9jFxFAORt8P24tPX) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Sofía Valdés](https://open.spotify.com/album/1p5oSPwm2FfbFGsiZk9Nk0) | 3:43 | 2025-10-03 |  |
 | [VOID](https://open.spotify.com/track/3e6ebtUCZ0tZL1J7wvM8Xi) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 4:08 | 2025-10-03 |  |

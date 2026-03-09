@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music.
 
-373 songs - 1 day 3 hr 15 min
+374 songs - 1 day 3 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [mellow](https://open.spotify.com/track/1VJ77OFm7zzfLcAaV7feNd) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ) | [mellow](https://open.spotify.com/album/67z28TWSWLl0K40wnmVmal) | 5:44 | 2022-01-07 | 2025-12-03 |
 | [melt](https://open.spotify.com/track/1OBYLRZN5dnufdxtTlmBZ1) | [morimoto naoki](https://open.spotify.com/artist/3ppc3aHU5q1PGQZu42Uu1t) | [Sui](https://open.spotify.com/album/7iX6y044SXbJ9Rg0GWxgMh) | 2:40 | 2022-01-07 | 2025-11-28 |
 | [memories of younger days \(that never existed\)](https://open.spotify.com/track/50BWDrzzg4I9KttMBUXoQN) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [memories of younger days \(that never existed\)](https://open.spotify.com/album/2uOATtxzznGZMs7NXMsa8A) | 4:00 | 2022-09-30 |  |
+| [minamo](https://open.spotify.com/track/0WXKnbsnOKzLUubz0zYcrT) | [Martin Martyn](https://open.spotify.com/artist/1dGypQSYhsXCxvdzzQ3kbv), [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [minamo](https://open.spotify.com/album/1sqSrCznw1rJf0ihSTnBEM) | 2:09 | 2026-03-09 |  |
 | [MIRAGE](https://open.spotify.com/track/0eVoDBK5Ye4KD7mAWCsvAG) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [MIRAGE](https://open.spotify.com/album/2Somw9fOnNGIQBbpWKUcPI) | 2:12 | 2026-01-31 | 2026-02-15 |
 | [Mirror\#1](https://open.spotify.com/track/0y6jbOUzzm5NuNOhsGijqb) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Reflections](https://open.spotify.com/album/22Nb42QDmyNSEsiAUBAo3c) | 6:01 | 2024-06-15 |  |
 | [Mirrors of Still Light](https://open.spotify.com/track/3SWw83rPPkoTA2Vkg7GSiH) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Mirrors of Still Light](https://open.spotify.com/album/5yFNswrkN1lATKr3USIrW2) | 3:36 | 2025-08-20 | 2025-09-03 |
@@ -342,7 +343,7 @@
 | [Vein City](https://open.spotify.com/track/7EXGCsLaZ7cpqZUd20OnQh) | [Tokyo Psychedelic Orchestra](https://open.spotify.com/artist/2PEDfFyUgIx55dhCLmjBcI) | [Vein City](https://open.spotify.com/album/4bbCNoen5ZyurPFxzvGeei) | 2:23 | 2026-01-23 | 2026-03-05 |
 | [Vertigo 1](https://open.spotify.com/track/23PPXZPM0MIkrv9MRxh9MU) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Vertigo](https://open.spotify.com/album/0ODGgBETKrOrUgakvvvTxF) | 2:58 | 2023-03-11 | 2023-08-25 |
 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 | 2022-05-06 |  |
-| [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 |  |
+| [Walking in the Sea](https://open.spotify.com/track/0rFhXk6S4OFZ5j8bm2ALAz) | [Tomo\-Nakaguchi](https://open.spotify.com/artist/5x9yhEiHELdwW5zDBA6ueZ) | [Walking in the Sea](https://open.spotify.com/album/36Mp35DUrNArzQKzwamY23) | 4:46 | 2023-03-11 | 2026-03-09 |
 | [Wanderer](https://open.spotify.com/track/7d3AfivASmxXlmF93jFegO) | [HAL ca](https://open.spotify.com/artist/4PtZB4ONshF7mdbYQgVWtm) | [Wanderer](https://open.spotify.com/album/4LjFjTFlduHdM4zXXJFb87) | 7:51 | 2024-08-08 |  |
 | [Warm Rain in June I](https://open.spotify.com/track/6Le1Cc6RGvSJjOcqNmrVL0) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Black Swallow](https://open.spotify.com/album/5Jjb86zs7y0MmchMBNvpNU) | 3:34 | 2022-01-07 |  |
 | [Wash Away](https://open.spotify.com/track/5ssOenJilur3jusYUMlxE5) | [KENJI KIHARA](https://open.spotify.com/artist/4JsGTBZYjVz58foTVKslRi) | [Wash Away](https://open.spotify.com/album/77ouSeJzcbTjz3IWh3uezq) | 3:01 | 2022-01-07 |  |

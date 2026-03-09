@@ -13875,6 +13875,28 @@
     },
     {
       "album": {
+        "name": "I know",
+        "url": "https://open.spotify.com/album/0oi3kQBV7JFSL1P5MHKDha"
+      },
+      "artists": [
+        {
+          "name": "KARYAWAAHI",
+          "url": "https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "I know",
+      "url": "https://open.spotify.com/track/1um9mOzoPD9rxWSwMyuHRh"
+    },
+    {
+      "album": {
         "name": "Deleted Text",
         "url": "https://open.spotify.com/album/6IVe1w4JtyOVxDMErHfoiX"
       },
@@ -27502,7 +27524,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 151895,
       "name": "Tateeree",
       "url": "https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm"

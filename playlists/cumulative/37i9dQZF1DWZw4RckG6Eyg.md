@@ -4,7 +4,7 @@
 
 > All the indie gems from 2025 that we can't get enough of\. Cover: she's green
 
-450 songs - 1 day 1 hr 30 min
+451 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Backwards Directions](https://open.spotify.com/track/427b6RggEs9SFyhR18Xd8X) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k), [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Backwards Directions](https://open.spotify.com/album/34uEJAXUILJFGZijIWSOhf) | 2:55 | 2023-11-29 | 2024-12-05 |
 | [Bam Bam](https://open.spotify.com/track/0xCDHXXQ2uBF6ZQ4ES4EUb) | [Goofy Geese](https://open.spotify.com/artist/4ogf206MydyTFBUNeguyIl) | [Bam Bam](https://open.spotify.com/album/6WH1oUDXYugrbS70ei7hfq) | 3:30 | 2023-11-29 | 2024-12-05 |
 | [Barley](https://open.spotify.com/track/1kccKNibPNlyCVqhdg8NYE) | [Water From Your Eyes](https://open.spotify.com/artist/6hYlNLoZJg74dVhA8FHIc0) | [Everyone's Crushed](https://open.spotify.com/album/0IzgQa9rNXzaEdj0bmHvpr) | 3:29 | 2023-11-29 | 2024-12-05 |
+| [barnyard](https://open.spotify.com/track/6hE02Os7Gn1uBYbQl4FVvi) | [lots of hands](https://open.spotify.com/artist/6sNcyjEVdNlZ0dpgr7EcT9) | [into a pretty room](https://open.spotify.com/album/2t0Npgqlh3rGvMLQeOQirC) | 4:04 | 2025-12-03 |  |
 | [Bath County](https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 3:10 | 2023-11-29 | 2024-04-19 |
 | [Be Alright](https://open.spotify.com/track/7xo4uV0Cv226hBBXMXQFqS) | [Congee](https://open.spotify.com/artist/1YBrOW1kdkPQEgmS1t6UVm) | [Be Alright](https://open.spotify.com/album/2rNcAT9JKo5g9KZ3RbOvXU) | 3:34 | 2022-11-30 | 2023-11-30 |
 | [Beck n Call](https://open.spotify.com/track/1xPQK0H7aL0J4gEOEFWH5E) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn), [ttoh](https://open.spotify.com/artist/4e23KN7Spr8EnEFpxOEvOF) | [Beck n Call](https://open.spotify.com/album/4WvAxqtOCHAeIvwZ1EaNQI) | 3:23 | 2025-12-03 |  |
@@ -109,7 +110,7 @@
 | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/track/7GOVV7GTEAvrLaUalM7Qol) | [Nakhane](https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Do You Well \(feat\. Perfume Genius\)](https://open.spotify.com/album/2sxQnzQKlbA02qhvSH3fuK) | 3:33 | 2022-11-30 | 2023-11-05 |
 | [Doesn't Really Matter](https://open.spotify.com/track/4HfN7246HT9BiXgU0d5HLl) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO), [Squirrel Flower](https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni) | [Rest Here](https://open.spotify.com/album/0ZsH4uGGcDVSGUgvKGjIJL) | 4:29 | 2025-12-03 |  |
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-12-03 |  |
-| [Dogshow](https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 3:06 | 2025-12-03 |  |
+| [Dogshow](https://open.spotify.com/track/7lC4Wl7usQ2t9ZyJo8xXYJ) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [DJ Set](https://open.spotify.com/album/29Xl0gLS3K9IMhJMLl3O1u) | 3:06 | 2025-12-03 | 2026-03-09 |
 | [Don Lemon](https://open.spotify.com/track/0gZuzrQU7pLpcZf7JYqXiJ) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Don Lemon](https://open.spotify.com/album/10llpGOIEohzO6V2awCypr) | 3:41 | 2023-11-29 | 2024-12-05 |
 | [Don't Fall Asleep](https://open.spotify.com/track/4zuLm87ZlSm7QUGjzCy49j) | [Jacob Alon](https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH) | [In Limerence](https://open.spotify.com/album/0G19nfof63Mn9Se0ermJvi) | 4:29 | 2025-12-03 |  |
 | [Don't Give Up](https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 1:52 | 2023-11-29 | 2024-12-05 |

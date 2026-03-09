@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Ariel Imani \ud83d\udc9a",
-  "num_followers": 1046634,
+  "num_followers": 1046514,
   "original_name": "EQUAL",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "puffette",
-        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
-      },
-      "artists": [
-        {
-          "name": "pami",
-          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "kiss me blue",
-      "url": "https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "Asteromata",
         "url": "https://open.spotify.com/album/7AcIPo1Qwfo9aksap4eH2y"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 175385,
       "name": "Asteromata",
       "url": "https://open.spotify.com/track/5mrxikyMGplgzRgTrkIJo6"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "puffette",
+        "url": "https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4"
+      },
+      "artists": [
+        {
+          "name": "pami",
+          "url": "https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "kiss me blue",
+      "url": "https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
-        "name": "SuperDrug",
-        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        }
-      ],
-      "duration_ms": 186106,
-      "name": "SuperDrug",
-      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
         "name": "8/80",
         "url": "https://open.spotify.com/album/6dZ7rnyWMmWkmd9t78ZkZn"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-02-18 05:00:29",
       "album": {
+        "name": "SuperDrug",
+        "url": "https://open.spotify.com/album/3y7FO9rrvqLJaO1PHaaA9d"
+      },
+      "artists": [
+        {
+          "name": "Girl Group",
+          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
+        }
+      ],
+      "duration_ms": 186106,
+      "name": "SuperDrug",
+      "url": "https://open.spotify.com/track/5Bb8e5gqXUvfoZzilDIQqO"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
         "name": "Tento Na L\u00edngua",
         "url": "https://open.spotify.com/album/0JZzrTOlEMIsUV5lGXgtOx"
       },
@@ -1183,26 +1183,6 @@
       "duration_ms": 195683,
       "name": "Tento Na L\u00edngua",
       "url": "https://open.spotify.com/track/38ujKy5Qyv2s4mEW9JmqIG"
-    },
-    {
-      "added_at": "2026-02-18 05:00:29",
-      "album": {
-        "name": "Mirza",
-        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
-      },
-      "artists": [
-        {
-          "name": "Neeti Mohan",
-          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-        },
-        {
-          "name": "Adarsh Rao",
-          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Mirza",
-      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
     },
     {
       "added_at": "2026-02-18 05:00:29",
@@ -1263,6 +1243,26 @@
       "duration_ms": 182000,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/1TEInRk8p3bB4RAerZlgam"
+    },
+    {
+      "added_at": "2026-02-18 05:00:29",
+      "album": {
+        "name": "Mirza",
+        "url": "https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD"
+      },
+      "artists": [
+        {
+          "name": "Neeti Mohan",
+          "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Adarsh Rao",
+          "url": "https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Mirza",
+      "url": "https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l"
     },
     {
       "added_at": "2026-02-18 05:00:29",

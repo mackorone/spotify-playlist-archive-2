@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 269,110 likes - 90 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 269,289 likes - 90 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 61 | [California Love \- Original Version](https://open.spotify.com/track/3djNBlI7xOggg7pnsOLaNm) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [The Best of 2Pac](https://open.spotify.com/album/4Y9ISbppFbwk0r1XCLUi0I) | 4:44 |
 | 62 | [X](https://open.spotify.com/track/5stZnlPMYz3Ba8Hbo3ajlP) | [Xzibit](https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou) | [Restless](https://open.spotify.com/album/6FbOJTOKgRkWSh8kcV9NG3) | 4:15 |
 | 63 | [I Just Wanna Love U \(Give It 2 Me\)](https://open.spotify.com/track/0s46SltT4On0Z6kglK1I5c) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Dynasty: Roc La Familia](https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E) | 3:47 |
-| 64 | [You Can Do It](https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ms\. Toi](https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl) | [At Tha Movies](https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo) | 4:19 |
-| 65 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
+| 64 | [Get Low](https://open.spotify.com/track/0jrz4ZQKCsC6h2vzqgHiEp) | [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Crunkest Hits](https://open.spotify.com/album/05jX3Kda6BmEpACV7unScz) | 5:34 |
+| 65 | [You Can Do It](https://open.spotify.com/track/1xMPwgmLHVXkIFYL0rvGiZ) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ms\. Toi](https://open.spotify.com/artist/5h6zIU8cm6UzAaHsjXmNKl) | [At Tha Movies](https://open.spotify.com/album/285aRkpYqxXPxBEGnTWZvo) | 4:19 |
 | 66 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/4JYUDRtPZuVNi7FAnbHyux) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Flava In Ya Ear Remix](https://open.spotify.com/album/7mYcq3B0faiA5IvhDCdypL) | 5:02 |
 | 67 | [Danger \(Been So Long\) \(feat\. Nivea\)](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
 | 68 | [Izzo \(H.O.V.A.\)](https://open.spotify.com/track/4h5KBcltGefua73AUPYps7) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint \(Explicit Version\)](https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl) | 4:00 |

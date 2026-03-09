@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 575298,
+  "num_followers": 575278,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "Think",
+      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 210468,
       "name": "Bailemos",
       "url": "https://open.spotify.com/track/5EnaxC9amhXY55ezw87SL8"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 139733,
-      "name": "Think",
-      "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "A fuego lento",
+      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Tattoo (Remix with Camilo)",
         "url": "https://open.spotify.com/album/3Na85E6foBKxAeoAojX427"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 222680,
       "name": "Tattoo - Remix with Camilo",
       "url": "https://open.spotify.com/track/4ZRrLHqzhGRXYj2qcB4s5S"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "A fuego lento",
-      "url": "https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "El Tiempo Que Paso Contigo",
-        "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
-      },
-      "artists": [
-        {
-          "name": "\u00cd\u00f1igo Quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        },
-        {
-          "name": "Besmaya",
-          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
-        }
-      ],
-      "duration_ms": 190205,
-      "name": "El Tiempo Que Paso Contigo",
-      "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Hoy no me siento bien",
         "url": "https://open.spotify.com/album/10x06vQjH3rh2JGETxzRZD"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 153709,
       "name": "Hoy no me siento bien",
       "url": "https://open.spotify.com/track/5xKUXB7fsIEpDYc6mBfSwT"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "El Tiempo Que Paso Contigo",
+        "url": "https://open.spotify.com/album/3HUdg4OZNjJAlgYRxrg31A"
+      },
+      "artists": [
+        {
+          "name": "\u00cd\u00f1igo Quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        },
+        {
+          "name": "Besmaya",
+          "url": "https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97"
+        }
+      ],
+      "duration_ms": 190205,
+      "name": "El Tiempo Que Paso Contigo",
+      "url": "https://open.spotify.com/track/48ikKqBYGbNApD8bEJCamc"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Santa Trinidad",
-        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 214197,
-      "name": "Que Merezca la Pena",
-      "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Supernatural",
         "url": "https://open.spotify.com/album/3SwBajIGtIPylPqzWS9V1i"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+        "name": "Santa Trinidad",
+        "url": "https://open.spotify.com/album/2YDFvGYKnaUcB5O84yvsvM"
       },
       "artists": [
         {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
         }
       ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+      "duration_ms": 214197,
+      "name": "Que Merezca la Pena",
+      "url": "https://open.spotify.com/track/57YBT0mbIqGTHbTolngDj4"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1367,6 +1351,22 @@
       "duration_ms": 202285,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/0TsqrYn4ta8Xkvez2oHx7B"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Desde Mi Azotea",
-        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
-      },
-      "artists": [
-        {
-          "name": "Navajita Platea",
-          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
-        }
-      ],
-      "duration_ms": 247906,
-      "name": "Noches de bohemia - Radio Edit",
-      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2cx8aUPxZ0GvVJkJdNXeOM"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 219373,
       "name": "D\u00e9jala Que Baile (with Alejandro Sanz & Arkano)",
       "url": "https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Desde Mi Azotea",
+        "url": "https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH"
+      },
+      "artists": [
+        {
+          "name": "Navajita Platea",
+          "url": "https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE"
+        }
+      ],
+      "duration_ms": 247906,
+      "name": "Noches de bohemia - Radio Edit",
+      "url": "https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1627,22 +1627,6 @@
       "duration_ms": 229386,
       "name": "\u00a1Que Bonito!",
       "url": "https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "La Isla Bonita",
-      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1715,6 +1699,22 @@
       "duration_ms": 229720,
       "name": "Uno X Uno",
       "url": "https://open.spotify.com/track/75K7Mczlt0zxANo8MEOaAu"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1839,26 +1839,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Prisma",
-        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
-      },
-      "artists": [
-        {
-          "name": "Beret",
-          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
-        },
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        }
-      ],
-      "duration_ms": 202129,
-      "name": "Desde cero (con Melendi)",
-      "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Your Song",
         "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
       },
@@ -1871,6 +1851,22 @@
       "duration_ms": 180757,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Dos Caras Distintas",
+        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
+      },
+      "artists": [
+        {
+          "name": "Los Secretos",
+          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+        }
+      ],
+      "duration_ms": 195226,
+      "name": "Pero a tu lado",
+      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -1967,18 +1963,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Dos Caras Distintas",
-        "url": "https://open.spotify.com/album/5J74XM1KLvoz4KgdNZczcm"
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
       "artists": [
         {
-          "name": "Los Secretos",
-          "url": "https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
+        },
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
         }
       ],
-      "duration_ms": 195226,
-      "name": "Pero a tu lado",
-      "url": "https://open.spotify.com/track/3JOXwHPhtdRU3kYKcf64Gj"
+      "duration_ms": 202129,
+      "name": "Desde cero (con Melendi)",
+      "url": "https://open.spotify.com/track/3RfmZepJErldBC4JXut6L9"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Estrella De Mar",
+        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
+      },
+      "artists": [
+        {
+          "name": "Amaral",
+          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
+        }
+      ],
+      "duration_ms": 268706,
+      "name": "Sin ti no soy nada",
+      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2095,22 +2111,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Estrella De Mar",
-        "url": "https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ"
-      },
-      "artists": [
-        {
-          "name": "Amaral",
-          "url": "https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi"
-        }
-      ],
-      "duration_ms": 268706,
-      "name": "Sin ti no soy nada",
-      "url": "https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Mi Nombre",
         "url": "https://open.spotify.com/album/7jQDWCApvDP7E956bc4qsK"
       },
@@ -2127,22 +2127,6 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
-      },
-      "artists": [
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
-        }
-      ],
-      "duration_ms": 165527,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
         "name": "Luz V",
         "url": "https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 247680,
       "name": "No me importa nada",
       "url": "https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2263,6 +2263,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Canciones",
+        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
+      },
+      "artists": [
+        {
+          "name": "Duncan Dhu",
+          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Cien gaviotas",
+      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 229406,
       "name": "No Te Preocupes por Mi",
       "url": "https://open.spotify.com/track/7hv7synVPhVu30Ex2amJQc"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Canciones",
-        "url": "https://open.spotify.com/album/42Gjhf7f1h2dKvWTKDHd90"
-      },
-      "artists": [
-        {
-          "name": "Duncan Dhu",
-          "url": "https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Cien gaviotas",
-      "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
     },
     {
       "added_at": "2025-07-18 14:13:17",
@@ -2643,6 +2643,22 @@
     {
       "added_at": "2025-07-18 14:13:17",
       "album": {
+        "name": "Via Dalma II",
+        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
+      },
+      "artists": [
+        {
+          "name": "Sergio Dalma",
+          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "Yo no te pido la luna",
+      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
+    },
+    {
+      "added_at": "2025-07-18 14:13:17",
+      "album": {
         "name": "A Contracorriente",
         "url": "https://open.spotify.com/album/4GAsbhINFlN5K9PZ6vEaCW"
       },
@@ -2659,22 +2675,6 @@
       "duration_ms": 181026,
       "name": "Puede Ser (with Amaia Montero)",
       "url": "https://open.spotify.com/track/1TtwCkFbGv89XmuUNmoINt"
-    },
-    {
-      "added_at": "2025-07-18 14:13:17",
-      "album": {
-        "name": "Via Dalma II",
-        "url": "https://open.spotify.com/album/0S5gRSeaHeH10kOQsE8RvK"
-      },
-      "artists": [
-        {
-          "name": "Sergio Dalma",
-          "url": "https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ"
-        }
-      ],
-      "duration_ms": 205840,
-      "name": "Yo no te pido la luna",
-      "url": "https://open.spotify.com/track/1hI1st8dvPmr1S55XDkavG"
     },
     {
       "added_at": "2025-07-18 14:13:17",

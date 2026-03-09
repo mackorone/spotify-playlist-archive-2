@@ -1,6 +1,6 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 70s.",
-  "num_followers": 153241,
+  "num_followers": 153262,
   "original_name": "Good Feeling 70s",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "A New World Record",
         "url": "https://open.spotify.com/album/7a35UzxXYuKQGMGImyB0Un"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Talking Book",
-        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         }
       ],
-      "duration_ms": 266133,
-      "name": "Superstition",
-      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -631,6 +615,22 @@
       "duration_ms": 242240,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 266133,
+      "name": "Superstition",
+      "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
     },
     {
       "added_at": "2022-06-08 06:26:41",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-06-08 06:26:41",
       "album": {
-        "name": "Peter Gabriel 1: Car (Remastered)",
-        "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
-      },
-      "artists": [
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 261560,
-      "name": "Solsbury Hill",
-      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
-    },
-    {
-      "added_at": "2022-06-08 06:26:41",
-      "album": {
         "name": "Love For Sale",
         "url": "https://open.spotify.com/album/4MOaqIKUdWuojXZYgOa7GM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 276080,
       "name": "Ma Baker",
       "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm"
+    },
+    {
+      "added_at": "2022-06-08 06:26:41",
+      "album": {
+        "name": "Peter Gabriel 1: Car (Remastered)",
+        "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 261560,
+      "name": "Solsbury Hill",
+      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
     },
     {
       "added_at": "2022-06-08 06:26:41",

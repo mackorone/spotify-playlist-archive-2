@@ -2,14 +2,14 @@
 
 ### [Bolero Tuyệt Phẩm](https://open.spotify.com/playlist/37i9dQZF1DWWdlSG3xntgM)
 
-> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
+> Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
 347 songs - 1 day 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ai Cho Toi Tinh Yeu](https://open.spotify.com/track/6RDtM3rN3KLVfocEBN8cXZ) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [The Best of Tuan Vu](https://open.spotify.com/album/3GvpjJOmKq6dDiBlLIRiMy) | 15:19 | 2024-03-12 | 2025-03-17 |
-| [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 | 2025-06-03 | 2026-02-14 |
+| [Ai cho tôi tình yêu](https://open.spotify.com/track/7wyYX2ceXlAnW2ke9RbDPL) | [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Chuyến tàu hoàng hôn](https://open.spotify.com/album/6GD5IlIf5PiaUJWevmI1I1) | 6:22 | 2025-06-03 |  |
 | [Ai Kho Vi Ai](https://open.spotify.com/track/5T106xgu6e1CovG6dGLpTD) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn) | [Nhac Tuyen 2](https://open.spotify.com/album/4ggb7FWdVhzXhhw9xBg51n) | 4:52 | 2023-12-14 | 2025-11-08 |
 | [Ai Khổ Vì Ai](https://open.spotify.com/track/1z3Nh5t0LAGO5hoWMV32ai) | [Lệ Quyên](https://open.spotify.com/artist/4F5jaYapI8RtTpqwaYs4IF) | [Khúc Tình Xưa 2](https://open.spotify.com/album/3oMbr83Q551zPjN2KvhuSX) | 5:25 | 2024-03-12 | 2026-01-31 |
 | [Ba tháng tạ từ](https://open.spotify.com/track/2z7DxMbDCN6hvQDc7CiTKa) | [Trường Vũ](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Đêm buồn tỉnh lẻ](https://open.spotify.com/album/27rvjSE9KjUEKj3nqI50fA) | 4:33 | 2024-01-05 | 2024-02-22 |
@@ -345,7 +345,7 @@
 | [Đôi Mắt Người Xưa](https://open.spotify.com/track/3tewtecu6SK1cCZSngNkVv) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:03 | 2022-03-11 |  |
 | [Đôi ngả chia ly](https://open.spotify.com/track/6QvOnwQ1wkSV7ZAyQnaqH2) | [Huong Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Duy Quang](https://open.spotify.com/artist/0mK6ypkGLYJ1P4J1fP4Jcf) | [Đôi ngả chia ly](https://open.spotify.com/album/0gVz8sikwaHvh9LPN3EZMf) | 5:03 | 2022-03-11 | 2022-06-26 |
 | [Đường tình đôi ngả](https://open.spotify.com/track/2jCpS5IdAXdDnUeUfhXhOu) | [Giao Linh](https://open.spotify.com/artist/4H5Eeyp0AbxXuJKbeuc1wx), [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Giao Linh \- Tuấn Vũ \- Đôi mắt người xưa](https://open.spotify.com/album/66OokQWhqEW3dQTZemuyqN) | 4:29 | 2023-08-08 | 2024-01-20 |
-| [Đường xưa lối cũ](https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 3:43 | 2025-02-06 |  |
+| [Đường xưa lối cũ](https://open.spotify.com/track/3Yv7rOzspapIKgSYQHyxPO) | [Thanh Tuyền](https://open.spotify.com/artist/6nZLN4BFDgyIVX2xAUruED) | [The Best Of Thanh Tuyền \(Người Mẹ Bán Nón\)](https://open.spotify.com/album/1l9TAIhugInsg1Mjzg3xiJ) | 3:43 | 2025-02-06 | 2026-03-09 |
 | [Đắp Mộ Cuộc Tình](https://open.spotify.com/track/1hGexH7KKW1QsN3UJK5U7H) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn), [Bằng Kiều](https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya), [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Nhịp Cầu Tri Âm](https://open.spotify.com/album/3CpUiRoMBxPSTlaklbTPXk) | 5:53 | 2022-03-11 | 2023-12-08 |
 | [Đắp Mộ Cuộc Tình](https://open.spotify.com/track/1HXh20m8PFMAhKhJFOWm4z) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Tạ Từ Trong Đêm](https://open.spotify.com/album/6IBdjS3dP91761rRBuTtCs) | 5:48 | 2022-03-11 |  |
 | [Đắp mộ cuộc tình](https://open.spotify.com/track/3T5ebvfNzgtvFzi1CuKKui) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Đắp Mộ Cuộc Tình](https://open.spotify.com/album/06gVRXKGJdHRRWHq9acZH6) | 5:35 | 2022-03-11 |  |

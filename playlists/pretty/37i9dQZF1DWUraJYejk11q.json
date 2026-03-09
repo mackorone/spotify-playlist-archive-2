@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 468240,
+  "num_followers": 468257,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -29,22 +29,6 @@
       "url": "https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6"
     },
     {
-      "added_at": "2024-04-15 18:24:33",
-      "album": {
-        "name": "Three",
-        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 368770,
-      "name": "Daydream Repeat",
-      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
-    },
-    {
       "added_at": "2024-07-09 07:05:10",
       "album": {
         "name": "I Hear You",
@@ -59,6 +43,22 @@
       "duration_ms": 221666,
       "name": "Purple Horizon",
       "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
+    },
+    {
+      "added_at": "2024-04-15 18:24:33",
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 368770,
+      "name": "Daydream Repeat",
+      "url": "https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX"
     },
     {
       "added_at": "2024-07-09 06:49:00",

@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 183099,
+  "num_followers": 183104,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
+        "name": "A Noiva (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 343626,
+      "name": "A Noiva - Ao Vivo",
+      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
         "name": "Ele Me Amou",
         "url": "https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
-        "name": "A Noiva (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
-        }
-      ],
-      "duration_ms": 343626,
-      "name": "A Noiva - Ao Vivo",
-      "url": "https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5"
     },
     {
       "added_at": "2025-05-23 03:01:26",

@@ -1,6 +1,6 @@
 {
   "description": "Give your day a warm and fruity vibe with Latin music! \ud83c\udf1e\ud83c\udf34\ud83c\udf4d\ud83c\udf49",
-  "num_followers": 701047,
+  "num_followers": 701099,
   "original_name": "Tropical Vibe",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
         "name": "Aloha",
         "url": "https://open.spotify.com/album/23T1akaF3cPN6Pp27JQ8vi"
       },
@@ -747,26 +763,6 @@
       "duration_ms": 187392,
       "name": "Aloha",
       "url": "https://open.spotify.com/track/0GARcbxLIOmzrs0lHpuvmi"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Qu\u00e9date",
-        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
-      },
-      "artists": [
-        {
-          "name": "Debi Nova",
-          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 175739,
-      "name": "Qu\u00e9date",
-      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -795,18 +791,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g"
       },
       "artists": [
         {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+          "name": "Debi Nova",
+          "url": "https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+      "duration_ms": 175739,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -895,26 +895,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Dimensi\u00f3n Caribe",
-        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Melissa Robles",
-          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
-        }
-      ],
-      "duration_ms": 236026,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Laberinto (Bosq Remix)",
         "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 224211,
       "name": "Laberinto - Bosq Remix",
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Dimensi\u00f3n Caribe",
+        "url": "https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        }
+      ],
+      "duration_ms": 236026,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/0Y1WKjtTEJakcSy1QbKspx"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -955,26 +955,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "La Matanza",
-        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
-      },
-      "artists": [
-        {
-          "name": "French Braids",
-          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 201562,
-      "name": "La Matanza",
-      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -995,22 +975,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Tiempo Compartido",
-        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
+        "name": "La Matanza",
+        "url": "https://open.spotify.com/album/2CbqEOFIp1BIRIs3NPUVU6"
       },
       "artists": [
         {
-          "name": "Vacaci\u00f3n",
-          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
         },
         {
-          "name": "Adanowsky",
-          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 186386,
-      "name": "Amor De Verano",
-      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+      "duration_ms": 201562,
+      "name": "La Matanza",
+      "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1055,22 +1035,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
-        "url": "https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2"
+        "name": "Tiempo Compartido",
+        "url": "https://open.spotify.com/album/60iutg1EYIP0B3ZtYGcj4a"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Vacaci\u00f3n",
+          "url": "https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd"
         },
         {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+          "name": "Adanowsky",
+          "url": "https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063"
         }
       ],
-      "duration_ms": 172502,
-      "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
-      "url": "https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB"
+      "duration_ms": 186386,
+      "name": "Amor De Verano",
+      "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1111,6 +1091,26 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+        "url": "https://open.spotify.com/album/4vpyXFQH3BXFyrOJsSBln2"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        },
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 172502,
+      "name": "Voy a Olvidarme de M\u00ed (feat. Bomba Est\u00e9reo)",
+      "url": "https://open.spotify.com/track/7zc23D6yOAEHhqGRMC8AbB"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "El Af\u00e1n",
-        "url": "https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Me Pierdo Contigo",
-      "url": "https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "Heavenly Sweetness Sampler #3",
         "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 184750,
       "name": "Acapulco, dos de la tard",
       "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "El Af\u00e1n",
+        "url": "https://open.spotify.com/album/3KNX1cziZujwIVFNU6YsyG"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Me Pierdo Contigo",
+      "url": "https://open.spotify.com/track/4KRIHFy34UpHs8RauCwjWg"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "La N\u00famero Uno",
         "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "Ll\u00e9vame",
-        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
-      },
-      "artists": [
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        },
-        {
-          "name": "Gabo Lugo",
-          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
-        }
-      ],
-      "duration_ms": 258523,
-      "name": "Ll\u00e9vame",
-      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
         "name": "RAMA",
         "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
@@ -1799,38 +1779,22 @@
     {
       "added_at": "2025-11-14 06:00:12",
       "album": {
-        "name": "R-A-B-I-A",
-        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+        "name": "Ll\u00e9vame",
+        "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         },
         {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+          "name": "Gabo Lugo",
+          "url": "https://open.spotify.com/artist/7N1J7Ba9vb440S6pSs2qEo"
         }
       ],
-      "duration_ms": 185210,
-      "name": "No me opongo",
-      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
-    },
-    {
-      "added_at": "2025-11-14 06:00:12",
-      "album": {
-        "name": "Muerte En Hawaii",
-        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
-      },
-      "artists": [
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Muerte En Hawaii",
-      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+      "duration_ms": 258523,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
     },
     {
       "added_at": "2025-11-14 06:00:12",
@@ -1851,6 +1815,42 @@
       "duration_ms": 181723,
       "name": "Paradiso",
       "url": "https://open.spotify.com/track/0U4lIkC8nkaQa6ucsm1u0Y"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "Muerte En Hawaii",
+        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
+      },
+      "artists": [
+        {
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
+        }
+      ],
+      "duration_ms": 186689,
+      "name": "Muerte En Hawaii",
+      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2025-11-14 06:00:12",
+      "album": {
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     }
   ],
   "unique_name": "Tropical Vibe",

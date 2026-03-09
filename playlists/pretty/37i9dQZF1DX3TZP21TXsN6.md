@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuw: Maycash, Brasco & Webb, KNALLER en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,266 likes - 78 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,257 likes - 78 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

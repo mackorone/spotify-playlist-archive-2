@@ -4,7 +4,7 @@
 
 > Lo mejor de marzo 2026\. Cover: Omar Courtz
 
-1,431 songs - 3 day 4 hr 5 min
+1,432 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [El Teke Teke](https://open.spotify.com/track/7xQfWJvPBt11zc6eOMDlmo) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 2:57 | 2022-05-24 | 2022-07-20 |
 | [el tiempo pasa rápido](https://open.spotify.com/track/3679bCH5CErBhzAfYR2Cf1) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [el tiempo pasa rápido](https://open.spotify.com/album/2AGTJDPd2mTqTsQikhlhkM) | 4:07 | 2025-07-23 | 2025-09-27 |
 | [EL TONTO](https://open.spotify.com/track/0OqoRBKlvRZarXZqE7AH7z) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL TONTO](https://open.spotify.com/album/3T21Uk1UfJGBWIInCaVC5s) | 3:08 | 2023-04-20 | 2023-06-24 |
-| [ella no es…](https://open.spotify.com/track/0R5AEnzv8JHqDt1dVP3vzH) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Lado A / Lado B II](https://open.spotify.com/album/5pSJpuXMEW8GnOcCHk30Ik) | 3:11 | 2026-01-30 |  |
+| [ella no es…](https://open.spotify.com/track/0R5AEnzv8JHqDt1dVP3vzH) | [Gyanma](https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s) | [Lado A / Lado B II](https://open.spotify.com/album/5pSJpuXMEW8GnOcCHk30Ik) | 3:11 | 2026-01-30 | 2026-03-09 |
 | [Ella y Yo](https://open.spotify.com/track/1NnfVCcWRT2rVlCS0x44cZ) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Mosaicos](https://open.spotify.com/album/5o2sEyIX07DbCg86qRWOOC) | 2:24 | 2022-10-13 | 2022-12-10 |
 | [Emeycé](https://open.spotify.com/track/6P7Baz3uteblV2zklm39BC) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Emeycé](https://open.spotify.com/album/1l8YtHOLFpLCEmfOpqQXal) | 2:56 | 2023-02-16 | 2023-04-07 |
 | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/track/5Mw46yRtdiOdjqSG0eDItr) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Emojis de Corazones \(feat\. Los Legendarios\)](https://open.spotify.com/album/6hdSXoNAfGg4cRUzM94EBR) | 5:03 | 2021-12-14 | 2022-01-21 |
@@ -1219,6 +1219,7 @@
 | [Still Luvin](https://open.spotify.com/track/1k4Iyemx6P5fba7RRcHmeb) | [Delaossa](https://open.spotify.com/artist/5Uox3n7m4W2CoM9MmHPJwQ), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Bigla The Kid](https://open.spotify.com/artist/3Gf3gwkmZyNuecCyJyVD9j) | [La Madrugá](https://open.spotify.com/album/3Au0IW8JlUTwsvT4Ym6yL7) | 4:06 | 2025-03-24 | 2025-05-07 |
 | [Su Nota](https://open.spotify.com/track/4sB1m6oc1EV1qodzcilOyQ) | [Soto Asa](https://open.spotify.com/artist/6gyhsZUy2fzzWZBRVPmOw4), [Yassir](https://open.spotify.com/artist/0gO4impF9bswjUblyD7bRF), [grauu](https://open.spotify.com/artist/6pVpIXqlFUCl0DjA5WOIvH) | [Su Nota](https://open.spotify.com/album/6s2V9fCAHHkCLjEWljpN89) | 3:14 | 2022-12-09 | 2023-02-07 |
 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 | 2022-07-12 | 2022-08-18 |
+| [Suiza](https://open.spotify.com/track/0p0edvVy5tSbrh67pn5Rju) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Suiza](https://open.spotify.com/album/4Aj3BUUr8notfsXiwUJBpA) | 2:20 | 2026-03-06 |  |
 | [Super](https://open.spotify.com/track/1rSf5hRY0WREuRfiDLETqZ) | [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Super](https://open.spotify.com/album/4tPyjMTlhXtroKXgm67zT0) | 1:43 | 2025-05-06 | 2025-09-07 |
 | [superficial](https://open.spotify.com/track/59X5LPrhqgb0UlB9zY4k6p) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [epistolares](https://open.spotify.com/album/3x6Ske6l38f2tclsOBywWv) | 2:19 | 2024-08-26 | 2024-10-04 |
 | [SUPRA 94TRO](https://open.spotify.com/track/711HDUbtqYw1FEdSk5dkpO) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SUPRA 94TRO](https://open.spotify.com/album/4Nu88yMEmPXFahuw65nZem) | 2:56 | 2022-12-19 | 2023-02-07 |

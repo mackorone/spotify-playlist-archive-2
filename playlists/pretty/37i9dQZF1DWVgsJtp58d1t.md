@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best in Black music! Cover: <a href="spotify:artist:4Gso3d4CscCijv0lmajZWs">Don Toliver</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,126,112 likes - 116 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,126,185 likes - 116 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 36 | [HOW FAR \- Remix](https://open.spotify.com/track/4X4cghVmisiTbcu59iLLZ8) | [NO11](https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne), [Ayjay bobo](https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4) | [HOW FAR \(Remix\)](https://open.spotify.com/album/00aqaC3YVmy74D0kak1GuC) | 3:20 |
 | 37 | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY) | [Silent Addy](https://open.spotify.com/artist/2myuqB0gKAo75dE2eSWgzt), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Disco Neil](https://open.spotify.com/artist/1HSo2p6kMvBVyt5BZay3r0), [Bashment](https://open.spotify.com/artist/6q6II3boTwoBG0jP88smLb) | [Ballerina \(with Rema, Skillibeng, & Disco Neil\)](https://open.spotify.com/album/7Me0lVWxSy5AGNBCgcFEAZ) | 2:44 |
 | 38 | [Still Searching](https://open.spotify.com/track/2mB1Yec2jZy5IHtG9Cy9s5) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Just a Girl in a Money Man's World](https://open.spotify.com/album/2aV7R5ObcMh2s8xHtofqUE) | 2:20 |
-| 39 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
+| 39 | [FULLA GYAL](https://open.spotify.com/track/6R6bcPTnZp4NviV5fFVvZR) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [Sortie](https://open.spotify.com/artist/5BRLvI0SghtMSZXhVhXwGv) | [FULLA GYAL](https://open.spotify.com/album/2X5Xt0T9WpSCsbcSmKu5YV) | 2:41 |
 | 40 | [Pop Shit](https://open.spotify.com/track/2YbsFrxepUS7s3IGHjLLWn) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Pop Shit](https://open.spotify.com/album/2TSJIhXkxnkfqfIuhc1729) | 1:40 |
 | 41 | [Morocco \- Remix](https://open.spotify.com/track/6K0yyDL8HIakuunhcTAttS) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Morocco \(Remix\)](https://open.spotify.com/album/2GXg4xtgD1GvFRatolULXX) | 2:38 |
 | 42 | [I Did This To Myself](https://open.spotify.com/track/055T1TvSjL24CTUfTHSZs7) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [I Did This To Myself](https://open.spotify.com/album/1zGzQpJt77BiNyquyjlPpM) | 2:30 |

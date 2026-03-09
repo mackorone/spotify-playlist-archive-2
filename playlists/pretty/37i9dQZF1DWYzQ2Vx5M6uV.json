@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: ARIA VEGA & Ryan Castro",
-  "num_followers": 142843,
+  "num_followers": 142849,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -659,22 +659,26 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Tengo Un Plan (Remix)",
-        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
+        "name": "KTM",
+        "url": "https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv"
       },
       "artists": [
         {
-          "name": "Key-Key",
-          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
+          "name": "Aissa",
+          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Lucho RK",
+          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
+        },
+        {
+          "name": "Nake",
+          "url": "https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG"
         }
       ],
-      "duration_ms": 215448,
-      "name": "Tengo Un Plan - Remix",
-      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
+      "duration_ms": 177447,
+      "name": "KTM",
+      "url": "https://open.spotify.com/track/3XXofal1zx616qGCutchgq"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -699,26 +703,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "KTM",
-        "url": "https://open.spotify.com/album/1NXAld0zegArVKl00nTSpv"
+        "name": "Tengo Un Plan (Remix)",
+        "url": "https://open.spotify.com/album/3wzg2uQTXIdUKDtLFgblXH"
       },
       "artists": [
         {
-          "name": "Aissa",
-          "url": "https://open.spotify.com/artist/6RWMnZmXs8Ob715qLr4374"
+          "name": "Key-Key",
+          "url": "https://open.spotify.com/artist/6GKbEjuVNKuuAKetDXA2Mi"
         },
         {
-          "name": "Lucho RK",
-          "url": "https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ"
-        },
-        {
-          "name": "Nake",
-          "url": "https://open.spotify.com/artist/6hJnrA58ELi64NP1TDyzQG"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 177447,
-      "name": "KTM",
-      "url": "https://open.spotify.com/track/3XXofal1zx616qGCutchgq"
+      "duration_ms": 215448,
+      "name": "Tengo Un Plan - Remix",
+      "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
+        "name": "SEND\u00c9",
+        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "yo viendo",
+      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
         "name": "1+1=1",
         "url": "https://open.spotify.com/album/1FWB8Xe1840KMmDWKsfS7b"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 163404,
       "name": "1+1=1",
       "url": "https://open.spotify.com/track/3aJCdoXJpMXaGOMttPeR6R"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
-        "name": "SEND\u00c9",
-        "url": "https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "yo viendo",
-      "url": "https://open.spotify.com/track/13YKsJInLyGiJdEZEqqnzt"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "A POCA LUZ",
         "url": "https://open.spotify.com/album/13escHm15J7Hg5BQPsqSX1"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 194181,
       "name": "A POCA LUZ",
       "url": "https://open.spotify.com/track/5QXYkpzNspqQ1PsgWRfu86"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-03-06 05:00:17",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-03-06 05:00:17",
       "album": {
-        "name": "Esa Nena",
-        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
-      },
-      "artists": [
-        {
-          "name": "Dejota2021",
-          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Esa Nena",
-      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
-    },
-    {
-      "added_at": "2026-03-06 05:00:17",
-      "album": {
         "name": "S3NSACI\u00f3N",
         "url": "https://open.spotify.com/album/6dZO2Kz4TrmHCiNfUiSyPV"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 134737,
       "name": "Tu Boquita",
       "url": "https://open.spotify.com/track/4evJGqErZtJNbL1WBiTVVG"
+    },
+    {
+      "added_at": "2026-03-06 05:00:17",
+      "album": {
+        "name": "Esa Nena",
+        "url": "https://open.spotify.com/album/48LyKkoGDfbBrlffR58PQV"
+      },
+      "artists": [
+        {
+          "name": "Dejota2021",
+          "url": "https://open.spotify.com/artist/5NpCde9H57MxIZqbmfkElY"
+        }
+      ],
+      "duration_ms": 158545,
+      "name": "Esa Nena",
+      "url": "https://open.spotify.com/track/3L9AvSMCtn6A8iL1iCj8v6"
     },
     {
       "added_at": "2026-03-06 05:00:17",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Emyrson Fiona
+> Discover the next wave of talent writing their own songs\. Cover: Emyrson Flora
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,014 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,030 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 64 | [wasted potential](https://open.spotify.com/track/2vqaeVYJ8zwjLbOMEV7He2) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [wasted potential](https://open.spotify.com/album/3wNynNrLA99yCegtnhnC3u) | 3:31 |
 | 65 | [Pindrop](https://open.spotify.com/track/7jUlxlPNnFxkkeKefbBSaI) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Pindrop](https://open.spotify.com/album/6Evr4r8MxqnoEb1ttAVskr) | 2:48 |
 
-Snapshot ID: `AAAAALaHY9Pttxp690lRGsyg4/uDPvDA`
+Snapshot ID: `AAAAAJRvV4rTQbfUXOwRLszXKi9MD6CK`

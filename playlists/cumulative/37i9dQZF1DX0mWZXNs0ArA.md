@@ -4,7 +4,7 @@
 
 > 150%
 
-327 songs - 14 hr 10 min
+328 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Messy \- Sped Up](https://open.spotify.com/track/17a9C1O1SoUAr5sVwu4YUR) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy EP](https://open.spotify.com/album/1S7fb88qH3ph787NbiX3Vq) | 4:18 | 2025-06-20 |  |
 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 | 2022-12-12 |  |
 | [midnight \- sped up](https://open.spotify.com/track/5XPXsQYoCLsWc9QSCBzSlS) | [kobzx2z](https://open.spotify.com/artist/1e1A7s86U6f7cyJAivpfY3), [Red Luna](https://open.spotify.com/artist/1NN1cElkA55L2ybgQtF9gE), [RhyRhy](https://open.spotify.com/artist/6Ernhn4e42zLJk54kfSpQF) | [midnight \(sped up\)](https://open.spotify.com/album/0TvukzKGnMbLWtoRdlEVr8) | 1:53 | 2024-09-30 | 2024-11-11 |
+| [Midnight Sun \- Sped Up](https://open.spotify.com/track/3T0DBKF5CGVmCBwqluvJee) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun \(+ more\)](https://open.spotify.com/album/2yIRG8O7NxQMFLvwxNiDk1) | 2:51 | 2026-03-06 |  |
 | [Miracles3](https://open.spotify.com/track/1B1OX76XRjNcbPTu5u6TRF) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [Miracles \(alt\)](https://open.spotify.com/album/1mqgjpA4ALFFfQIx99L6jA) | 3:30 | 2022-12-16 | 2023-01-28 |
 | [Miss You \- Sped Up Version](https://open.spotify.com/track/2KLhpSs8XAHyKLTw5tHBmH) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Miss You \(Sped Up Version\)](https://open.spotify.com/album/50Q0WzPK77LazR3QcwCvdJ) | 2:50 | 2022-10-13 | 2022-12-24 |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-06-09 |  |
@@ -211,7 +212,7 @@
 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 | 2023-05-25 |  |
 | [Mr Loverman \- sped up](https://open.spotify.com/track/0f4AETH76pGM7F8XxZUfTx) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [Sped Up Songs + Nightcore](https://open.spotify.com/artist/0nDYL7dp5xLG0IID5wQwel) | [Edits](https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl) | 2:55 | 2022-12-16 | 2023-04-14 |
 | [Murder In My Mind \- Sped Up](https://open.spotify.com/track/3T56drS7FjnZgGcOAHlXzx) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind \(Sped Up\)](https://open.spotify.com/album/3f4SEojgnEYtRMUvITNRZQ) | 1:55 | 2022-07-22 | 2024-10-01 |
-| [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 | 2024-02-02 |  |
+| [Murder On The Dancefloor \- Sped Up Version](https://open.spotify.com/track/6AUEDH2zNt9Ssn0V9InxDk) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Murder On The Dancefloor \(Edits\)](https://open.spotify.com/album/54Ch49X0yluaniJTOeMdZF) | 3:13 | 2024-02-02 | 2026-03-09 |
 | [My Bed \- Sped Up](https://open.spotify.com/track/5LzjICdYWEDS6VhkRBzpAj) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [My Bed \(Sped Up\)](https://open.spotify.com/album/55jmaAhuVFxWXnRoq4Y5MV) | 2:16 | 2023-02-03 | 2023-04-04 |
 | [Need 2 \- fast pinegrove](https://open.spotify.com/track/5v6DitH5Jdmm3L2WryVsl7) | [Pinegrove](https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB) | [Need 2](https://open.spotify.com/album/2uN1p9u0v9lA3PH4pyxygn) | 2:37 | 2023-06-16 | 2023-11-17 |
 | [Never Let Go \(Of Me\) \- Sped Up](https://open.spotify.com/track/14903RK7FPQAptnH3aSbSb) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC) | [Never Let Go \(Of Me\) \[Heist Edit\]](https://open.spotify.com/album/4p282orDkXgFgxQrCXLmlr) | 1:23 | 2023-12-08 |  |

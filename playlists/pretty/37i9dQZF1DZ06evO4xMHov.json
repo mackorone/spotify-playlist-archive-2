@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63425,
+  "num_followers": 63423,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACwiTPej2oaMvcNEegMIqkh",
+  "snapshot_id": "aatqgAAAAADkqABgeKgXsACrUSKoNcrT",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abre os Selos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 474701,
-      "name": "Abre os Selos - Ao Vivo",
-      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0pmYMCW5mtqbnpFkoACEmO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 131106,
       "name": "Mais Perto Quero Estar - Ao Vivo",
       "url": "https://open.spotify.com/track/06byebWiwp4uIMprLBt93Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abre os Selos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 474701,
+      "name": "Abre os Selos - Ao Vivo",
+      "url": "https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh"
     },
     {
       "added_at": null,
@@ -859,22 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Rei",
-        "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
       },
       "artists": [
         {
-          "name": "Rachel Novaes",
-          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Eu Cantarei",
-      "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
+      "duration_ms": 279826,
+      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
     },
     {
       "added_at": null,
@@ -895,22 +895,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre",
-        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+        "name": "Ao Rei",
+        "url": "https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "Rachel Novaes",
+          "url": "https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn"
         },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 279826,
-      "name": "Dependo de Ti (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI"
+      "duration_ms": 244720,
+      "name": "Eu Cantarei",
+      "url": "https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx"
     },
     {
       "added_at": null,
@@ -1047,22 +1047,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 331306,
-      "name": "Incompar\u00e1vel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reino de Justi\u00e7a (Ao Vivo)",
         "url": "https://open.spotify.com/album/1w3UofqYh0InFfUymfhLCi"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 438280,
       "name": "O Senhor \u00c9 Bom - Ao Vivo",
       "url": "https://open.spotify.com/track/0aNKEcvYScNukxQzjohWLE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gl\u00f3ria E Honra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TLWr1MWdEj98RHapVcnLm"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 331306,
+      "name": "Incompar\u00e1vel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pN3oRT2BJyghB5vsljMuZ"
     }
   ],
   "unique_name": "This Is N\u00edvea Soares",

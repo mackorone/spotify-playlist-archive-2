@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Mishy Kope",
-  "num_followers": 234,
+  "num_followers": 252,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -867,22 +867,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 180332,
-      "name": "Just My Luck",
-      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214956,
       "name": "Sinatanale",
       "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
     },
     {
       "added_at": "2026-03-06 14:50:02",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Akanbi",
-        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
-      },
-      "artists": [
-        {
-          "name": "Diamond Jimma",
-          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
-        }
-      ],
-      "duration_ms": 144410,
-      "name": "Old Days",
-      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
-    },
-    {
-      "added_at": "2026-03-06 14:50:02",
-      "album": {
         "name": "WATSHO",
         "url": "https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy"
       },
@@ -1351,30 +1335,34 @@
     {
       "added_at": "2026-03-06 14:50:02",
       "album": {
-        "name": "Ayaye",
-        "url": "https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP"
+        "name": "Akanbi",
+        "url": "https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3"
       },
       "artists": [
         {
-          "name": "Labdi",
-          "url": "https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ"
-        },
-        {
-          "name": "Muhamago",
-          "url": "https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1"
-        },
-        {
-          "name": "Neil Darmon",
-          "url": "https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy"
-        },
-        {
-          "name": "Marcia Buwa",
-          "url": "https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8"
+          "name": "Diamond Jimma",
+          "url": "https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf"
         }
       ],
-      "duration_ms": 203478,
-      "name": "Ayaye",
-      "url": "https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS"
+      "duration_ms": 144410,
+      "name": "Old Days",
+      "url": "https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY"
+    },
+    {
+      "added_at": "2026-03-06 14:50:02",
+      "album": {
+        "name": "take it & leave",
+        "url": "https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc"
+      },
+      "artists": [
+        {
+          "name": "Sishii",
+          "url": "https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "take it & leave",
+      "url": "https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY"
     }
   ],
   "unique_name": "Afro Indie",

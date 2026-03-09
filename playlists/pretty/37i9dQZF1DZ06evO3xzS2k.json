@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAB4qfGwEzNv+PFMY7I+L3xp",
+  "snapshot_id": "aatqgAAAAADKh631zqU5nRlHI8dUcgNa",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 283120,
-      "name": "nerve scales",
-      "url": "https://open.spotify.com/track/7hOdEU0XGWjfMQJkikZSBs"
+      "duration_ms": 250120,
+      "name": "essential tremors",
+      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
         }
       ],
-      "duration_ms": 250120,
-      "name": "essential tremors",
-      "url": "https://open.spotify.com/track/4iuQ5ExLS4Wl1JiyM2uSFc"
+      "duration_ms": 283120,
+      "name": "nerve scales",
+      "url": "https://open.spotify.com/track/7hOdEU0XGWjfMQJkikZSBs"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
       "duration_ms": 491133,
       "name": "Rose Tinted World",
       "url": "https://open.spotify.com/track/67vYna8TF0R0kQfN92x933"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Downward Years to Come",
-        "url": "https://open.spotify.com/album/5H17RnYesdSEgnCZVBeEcj"
-      },
-      "artists": [
-        {
-          "name": "Nothing",
-          "url": "https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J"
-        }
-      ],
-      "duration_ms": 284351,
-      "name": "Suns and Lovers",
-      "url": "https://open.spotify.com/track/3lS6ELc4is0o0MO0rveAAc"
     },
     {
       "added_at": null,

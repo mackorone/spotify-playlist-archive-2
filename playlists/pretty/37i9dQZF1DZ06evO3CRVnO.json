@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 324650,
+  "num_followers": 324670,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABR5R95RG2qJ9tHx7y5dsWk",
+  "snapshot_id": "aatqgAAAAADB2rMZbJfiJXCsWMwsfQH0",
   "tracks": [
     {
       "added_at": null,
@@ -835,26 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mansion Musick",
-        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
-      },
-      "artists": [
-        {
-          "name": "Chief Keef",
-          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 166855,
-      "name": "Uh Uh - feat. Playboi Carti",
-      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blick Sum (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/3kP4QpDTvR9jCHnlQdsKFV"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 192266,
       "name": "Blick Sum (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3PAvwFSVQ4K4hMo7yJLv0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mansion Musick",
+        "url": "https://open.spotify.com/album/0yhgc6S7U7pLxp0hjgPkH4"
+      },
+      "artists": [
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 166855,
+      "name": "Uh Uh - feat. Playboi Carti",
+      "url": "https://open.spotify.com/track/0C5RP61AWPA097x3vZzGKu"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
       "duration_ms": 233142,
       "name": "Fire Your Manager (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/3kdAWcII7Co6Lv9Rw1pbIo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beef",
+        "url": "https://open.spotify.com/album/54MESn0PMUBsvg5Z3uf4iR"
+      },
+      "artists": [
+        {
+          "name": "Ethereal",
+          "url": "https://open.spotify.com/artist/7e7nmtA3OQEUdVjn5rG3Tz"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 213360,
+      "name": "Beef",
+      "url": "https://open.spotify.com/track/7dGzHvGAlJYK0U3I5RGxBH"
     }
   ],
   "unique_name": "This Is Playboi Carti",

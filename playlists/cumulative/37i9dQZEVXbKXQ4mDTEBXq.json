@@ -276,7 +276,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 263633,
       "name": "3\u67089\u65e5",
       "url": "https://open.spotify.com/track/4g066xFUp3cTUuTfOCPytT"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 205333,
       "name": "Bakuretsu Aishiteru",
       "url": "https://open.spotify.com/track/73WjupQhQmQUOgCl7dXpvN"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 205306,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/2ezkOPL49H0ZrQYM6y328n"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 252722,
       "name": "Kaiju",
       "url": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
@@ -3400,7 +3400,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-06",
+      "date_removed": null,
       "duration_ms": 224804,
       "name": "Kaiju no Hanauta",
       "url": "https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0"
@@ -5867,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "ether",
+        "url": "https://open.spotify.com/album/41GwUy4tV2lbH0qol90Ger"
+      },
+      "artists": [
+        {
+          "name": "Remioromen",
+          "url": "https://open.spotify.com/artist/4Yz1LjHwgQ5DFWJrZL8bC8"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263633,
+      "name": "Sangatsu Kokonoka",
+      "url": "https://open.spotify.com/track/4JrVkHvFIe8Yevv9nu3Or9"
+    },
+    {
+      "album": {
         "name": "Sanitizer",
         "url": "https://open.spotify.com/album/1fWluh1iIw7roMuGLPBlEY"
       },
@@ -6676,7 +6694,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-07",
+      "date_removed": null,
       "duration_ms": 212400,
       "name": "Sukisugite METSU!",
       "url": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
@@ -10816,7 +10834,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 244066,
       "name": "\u541b\u306e\u604b\u4eba\u306b\u306a\u3063\u305f\u3089",
       "url": "https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h"
@@ -11090,7 +11108,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 212400,
       "name": "\u597d\u304d\u3059\u304e\u3066\u6ec5\uff01",
       "url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli"
@@ -11234,7 +11252,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 252722,
       "name": "\u602a\u7363",
       "url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC"
@@ -11432,7 +11450,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 183560,
       "name": "\u604b\u98a8",
       "url": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
@@ -12442,7 +12460,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 205333,
       "name": "\u7206\u88c2\u611b\u3057\u3066\u308b",
       "url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 
 > Conscious songs for everyday reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,618 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,617 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaq9P62qly90.md) - [plain]
 | 34 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 |
 | 35 | [Vaporize](https://open.spotify.com/track/05m1GXCzSikr5HBveHXKTf) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Spirit](https://open.spotify.com/album/0MEMCZCFDd9SxPggFpH4WD) | 3:51 |
 | 36 | [Adam & Eve \(feat\. Ben Fagan\)](https://open.spotify.com/track/4ZKAt72ICUQxUWAVYzVB0Y) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Ben Fagan](https://open.spotify.com/artist/68UAGPFWJbwW0JUscJVM3O) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 4:10 |
-| 37 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
-| 38 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
+| 37 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 |
+| 38 | [She Go](https://open.spotify.com/track/5dKY8snzCZK7k4rqfmGfoc) | [HIRIE](https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs) | [Dreamer](https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5) | 3:17 |
 | 39 | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/track/4rKNAryOSqMpb0qoum5UoN) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Put Down What You Are Carrying \(with Brett Dennen\)](https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB) | 4:28 |
 | 40 | [Uneven Days](https://open.spotify.com/track/5NQhbua3fjGBeIUDDq1ozD) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Uneven Days](https://open.spotify.com/album/5NgCiRb6LH8wEtseBuOuy9) | 4:20 |
 | 41 | [What's the Secret?](https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [Por Favor](https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN) | 2:49 |

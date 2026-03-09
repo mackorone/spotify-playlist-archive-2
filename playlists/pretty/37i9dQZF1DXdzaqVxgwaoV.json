@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica tropical, cumbia, guasca y de carrilera para recordar y disfrutar!",
-  "num_followers": 145516,
+  "num_followers": 145508,
   "original_name": "Viejoteca",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Nuestra Musica",
-        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 268106,
-      "name": "No Hay Cama Pa' Tanta Gente",
-      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Ranchero y Atrevido",
         "url": "https://open.spotify.com/album/02HmfwcdkqNuSLQ4BeZdlD"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 212616,
       "name": "La Que Se Fue Se Fue",
       "url": "https://open.spotify.com/track/5VJW5ZzcOi17zdaunhSBZt"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Nuestra Musica",
+        "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 268106,
+      "name": "No Hay Cama Pa' Tanta Gente",
+      "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -303,26 +303,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "La Voz Popular de Am\u00e9rica",
-        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
-      },
-      "artists": [
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        },
-        {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Que Sufra, Que Chupe y Que Llore",
-      "url": "https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Mas Rom\u00e1ntico Que Nunca",
         "url": "https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 241640,
       "name": "T\u00fa Pasaje al Olvido",
       "url": "https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "La Voz Popular de Am\u00e9rica",
+        "url": "https://open.spotify.com/album/6ymFtmeQp25jwk5KOOZ5qZ"
+      },
+      "artists": [
+        {
+          "name": "Francy",
+          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
+        },
+        {
+          "name": "Paola Jara",
+          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Que Sufra, Que Chupe y Que Llore",
+      "url": "https://open.spotify.com/track/28GsDpLgTP6lP897aAmSa9"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Que Gran Relajo",
-        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
-      },
-      "artists": [
-        {
-          "name": "Jose A. Bedoya y Su Conjunto",
-          "url": "https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh"
-        }
-      ],
-      "duration_ms": 173413,
-      "name": "El Negro Picante",
-      "url": "https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Mano a Mano",
         "url": "https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 165640,
       "name": "Mujer Traidora",
       "url": "https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Jose A. Bedoya y Su Conjunto",
+          "url": "https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh"
+        }
+      ],
+      "duration_ms": 173413,
+      "name": "El Negro Picante",
+      "url": "https://open.spotify.com/track/5iIE3Qxd7IawB6AbXILRNm"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
-        "name": "Que Gran Relajo",
-        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
-      },
-      "artists": [
-        {
-          "name": "Jose A. Bedoya y Su Conjunto",
-          "url": "https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "El Mecedor",
-      "url": "https://open.spotify.com/track/33Kh403s4v1rrOiOOHkja7"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 237253,
       "name": "Las Cale\u00f1as Son Como las Flores",
       "url": "https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
+        "name": "Que Gran Relajo",
+        "url": "https://open.spotify.com/album/2RVseF0K75urCaJDlE5QV1"
+      },
+      "artists": [
+        {
+          "name": "Jose A. Bedoya y Su Conjunto",
+          "url": "https://open.spotify.com/artist/6OHqNNrJaoz5qQb5PNGdNh"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "El Mecedor",
+      "url": "https://open.spotify.com/track/33Kh403s4v1rrOiOOHkja7"
     },
     {
       "added_at": "2026-02-23 16:04:48",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-02-23 16:04:48",
       "album": {
+        "name": "Amandonos",
+        "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
+      },
+      "artists": [
+        {
+          "name": "Los Coyotes",
+          "url": "https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5"
+        }
+      ],
+      "duration_ms": 153176,
+      "name": "El Jinete Perdido",
+      "url": "https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9"
+    },
+    {
+      "added_at": "2026-02-23 16:04:48",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
-    },
-    {
-      "added_at": "2026-02-23 16:04:48",
-      "album": {
-        "name": "Amandonos",
-        "url": "https://open.spotify.com/album/3ugQU48SaahgO7iyE2G74c"
-      },
-      "artists": [
-        {
-          "name": "Los Coyotes",
-          "url": "https://open.spotify.com/artist/5XOBNlLuIkIxcIocbZJJy5"
-        }
-      ],
-      "duration_ms": 153176,
-      "name": "El Jinete Perdido",
-      "url": "https://open.spotify.com/track/0laa8LQmctEf0Eyg47ioC9"
     },
     {
       "added_at": "2026-02-23 16:04:48",

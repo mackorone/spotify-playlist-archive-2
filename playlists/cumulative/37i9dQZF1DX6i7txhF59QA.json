@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Collection of props Vol.2",
+        "url": "https://open.spotify.com/album/7pp8oIqyGKc6kXxab1RCny"
+      },
+      "artists": [
+        {
+          "name": "JD1",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        }
+      ],
+      "date_added": "2026-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230314,
+      "name": "A Lie",
+      "url": "https://open.spotify.com/track/4hSnhaX6Yf6Zv8RIqrqL8Q"
+    },
+    {
+      "album": {
         "name": "Love call center PART35",
         "url": "https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ"
       },
@@ -520,7 +538,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 191960,
       "name": "A Real Man",
       "url": "https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj"

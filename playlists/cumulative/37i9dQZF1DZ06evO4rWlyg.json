@@ -463,6 +463,36 @@
     },
     {
       "album": {
+        "name": "Berghain (Remix)",
+        "url": "https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR"
+      },
+      "artists": [
+        {
+          "name": "Conrad Taylor",
+          "url": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        },
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154954,
+      "name": "Berghain - Remix",
+      "url": "https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw"
+    },
+    {
+      "album": {
         "name": "Debut",
         "url": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX"
       },

@@ -817,6 +817,24 @@
     },
     {
       "album": {
+        "name": "A Love Cliche",
+        "url": "https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV"
+      },
+      "artists": [
+        {
+          "name": "Kim Siwon",
+          "url": "https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147222,
+      "name": "A Love Cliche",
+      "url": "https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY"
+    },
+    {
+      "album": {
         "name": "Rotary",
         "url": "https://open.spotify.com/album/7CbrplovlgNSO5Qo8X7sVa"
       },
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 353016,
       "name": "Ding!",
       "url": "https://open.spotify.com/track/0XzBowyHOl3RMbVN1Nt2JG"
@@ -4968,6 +4986,24 @@
       "duration_ms": 231476,
       "name": "Drifter",
       "url": "https://open.spotify.com/track/3dSCkpgpRjNMdNRT9l2qlw"
+    },
+    {
+      "album": {
+        "name": "Dum Dum",
+        "url": "https://open.spotify.com/album/4tW7iqlQKEYZduKgk2dorr"
+      },
+      "artists": [
+        {
+          "name": "The Suicide Diary",
+          "url": "https://open.spotify.com/artist/4HUeHAi0WnFW27XL87fVWi"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Dum Dum",
+      "url": "https://open.spotify.com/track/7LejDiEo66ywqax0uwYAQp"
     },
     {
       "album": {
@@ -11546,7 +11582,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 216000,
       "name": "lost & found",
       "url": "https://open.spotify.com/track/1Qn1DdATozoac8hFISJg4z"
@@ -14540,6 +14576,24 @@
       "duration_ms": 177831,
       "name": "ONLY YOU",
       "url": "https://open.spotify.com/track/3QzMvxm28IaEAOpwpkzgqQ"
+    },
+    {
+      "album": {
+        "name": "Orange",
+        "url": "https://open.spotify.com/album/2uGiyZCf0yRDnfX4nmZK2W"
+      },
+      "artists": [
+        {
+          "name": "Yeonwoo",
+          "url": "https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "Orange",
+      "url": "https://open.spotify.com/track/3nrorWOmfweHzDtiCLZrJE"
     },
     {
       "album": {
@@ -19654,7 +19708,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 252000,
       "name": "The Hedgehog Who Loved a Chestnut Burr",
       "url": "https://open.spotify.com/track/0A1myH9fu09orCGJnyZez0"

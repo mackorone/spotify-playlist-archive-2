@@ -1,12 +1,12 @@
 {
   "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
-  "num_followers": 774086,
+  "num_followers": 774307,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAACVbYiJvVpVUZj7qYlt07u+",
+  "snapshot_id": "aatqgAAAAAAkAvKF1C15WalUsqEPvnOe",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "El Cristal",
+      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mesa Para Dos",
         "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 195883,
       "name": "Se Portaba Mal",
       "url": "https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mon Laferte (Vol. 1)",
-        "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "El Cristal",
-      "url": "https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6"
     },
     {
       "added_at": null,

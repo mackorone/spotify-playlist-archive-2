@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: waterbaby
 
-831 songs - 2 day 0 hr 9 min
+832 songs - 2 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [Don't Ask](https://open.spotify.com/track/79bBVxV5lVioQrTtc9Nvgo) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [Don't Ask](https://open.spotify.com/album/3845UbclK8HF1EKsgT6Lc4) | 4:05 | 2024-06-27 | 2024-08-16 |
 | [Don't Be Seen With Me](https://open.spotify.com/track/1jNFU8ildH4gY9q4mbfjr3) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Don't Be Seen With Me](https://open.spotify.com/album/7F5HfT9IoL2JZEtYas8Dwz) | 4:25 | 2025-02-21 | 2025-05-09 |
 | [Don't Cheese Me Off](https://open.spotify.com/track/27uWMEs9zo3Yc2ZfgNvRKR) | [Getdown Services](https://open.spotify.com/artist/4OTD2AbOu5iBqSWk3NfwG5) | [Crumbs 2](https://open.spotify.com/album/3bVyAHsbBLE7QetQnl0EE9) | 1:47 | 2025-11-07 |  |
+| [Don't Fight the Young](https://open.spotify.com/track/0c5rkpUD7WOQtAGX3yCDR6) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [HELP\(2\)](https://open.spotify.com/album/1Qh1lG1yAjP3f8MeOuriGa) | 2:27 | 2026-03-06 |  |
 | [Don't Go Back To Paris](https://open.spotify.com/track/0jeGTzkvrNRBC8Dt8bsDRN) | [Remy Bond](https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo) | [Paris / San Francisco](https://open.spotify.com/album/2VFJG91yaQl6TuCWpP95bw) | 3:47 | 2024-08-15 | 2024-11-29 |
 | [Don't Rush](https://open.spotify.com/track/64h4VxiD7jCJpXJJwyK37L) | [Salamay](https://open.spotify.com/artist/6IAMyGk690Lb56glwkxTx0), [Chi\-chi](https://open.spotify.com/artist/0K6RidDQWBqLafRTP2GeMV) | [Don't Rush](https://open.spotify.com/album/32OPaZroLXHPY7orBxHmnD) | 4:02 | 2025-02-28 | 2025-05-30 |
 | [don't want u to die](https://open.spotify.com/track/2RKFPVUnx3jtvsTBSC8Tif) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [don't want u to die](https://open.spotify.com/album/6GiCET4YvGHfvcnHi4KZJB) | 3:08 | 2024-07-04 | 2024-08-24 |
@@ -480,7 +481,7 @@
 | [Mockingjay](https://open.spotify.com/track/22hjpM2j5KWg7zNyve4T1g) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O), [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Mockingjay](https://open.spotify.com/album/2vuLW3TUCDbcikyzgITy6o) | 3:01 | 2025-09-11 | 2026-02-06 |
 | [Moments Die](https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Moments Die](https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1) | 4:06 | 2024-06-27 | 2024-07-27 |
 | [Monster](https://open.spotify.com/track/7GTRVLTJSVznirWBWaOIjn) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Maybe I Got It Wrong](https://open.spotify.com/album/17kKCC9o9E9kb4BdrQL94G) | 2:48 | 2025-11-07 | 2025-12-13 |
-| [monty \(＾ᴥ＾\)](https://open.spotify.com/track/0EFMiBoeQrnAdvjIoTLF9L) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [monty \(＾ᴥ＾\)](https://open.spotify.com/album/7dNu9LO0fxjOBRuawtQu1v) | 2:39 | 2025-10-23 |  |
+| [monty \(＾ᴥ＾\)](https://open.spotify.com/track/0EFMiBoeQrnAdvjIoTLF9L) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi), [Yvette Young](https://open.spotify.com/artist/502QOcjJiKbhtG2MyrFkc8) | [monty \(＾ᴥ＾\)](https://open.spotify.com/album/7dNu9LO0fxjOBRuawtQu1v) | 2:39 | 2025-10-23 | 2026-03-09 |
 | [Mood Swings \- Spotify Singles](https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [Spotify Singles](https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn) | 2:33 | 2024-06-27 | 2024-10-18 |
 | [Mood To Make Love](https://open.spotify.com/track/7I6ULQAi5q2zmabIXA7w2w) | [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Mood To Make Love](https://open.spotify.com/album/1sWbpBdEa9Z3VYeh1TRpZg) | 3:51 | 2024-06-27 | 2024-07-19 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-25 |  |

@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-369 songs - 20 hr 40 min
+372 songs - 20 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 | 2025-12-28 | 2026-01-25 |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Beggin' \- Cover](https://open.spotify.com/track/4E5qkEZy9dxONym38rdU9b) | [R.A.L.P.H.](https://open.spotify.com/artist/0LdP1ZUQhcxTZj5DeRT4cY), [Samuele Mariani](https://open.spotify.com/artist/3TRmdsBjoc62qFy7jEuqeG) | [Beggin' \(Cover\)](https://open.spotify.com/album/52qB0QzvjWURwEGs72iEuq) | 3:38 | 2026-02-08 |  |
+| [Bellissimo](https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md) | [Crawl Town](https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd) | [Bellissimo](https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ) | 2:40 | 2026-03-08 |  |
 | [Bet that](https://open.spotify.com/track/18qtR7u4LsdxpE5klxjSDk) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Bet that](https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW) | 1:45 | 2025-11-13 | 2026-01-05 |
 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-28 | 2026-01-25 |
 | [Better Now](https://open.spotify.com/track/7DBegQYOfNSU6yldagfco6) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Better Now](https://open.spotify.com/album/2BRvr1z1PMXALclzfx99Zq) | 3:15 | 2026-02-15 |  |
@@ -262,6 +263,7 @@
 | [Pretty Girl \(Omoge\)](https://open.spotify.com/track/721oF59742gpHE5ZcPW7gJ) | [Milarey](https://open.spotify.com/artist/7cUBzBUNpkuIjcfzhf1ImT) | [Renascentia](https://open.spotify.com/album/6qL5Fn9lV0MxTpQG29XlYG) | 2:30 | 2025-11-17 | 2026-01-05 |
 | [Problems](https://open.spotify.com/track/5MxRhv2q5dGPZSLrpDpabU) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Nothing to Flex](https://open.spotify.com/album/0VempJuNZuz1GP3GSARn0p) | 3:43 | 2025-10-30 | 2025-12-01 |
 | [Prophecy](https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ) | [HBKMETRIII](https://open.spotify.com/artist/77fYc2hHg47Zmlfjh4cLhH) | [Prophecy](https://open.spotify.com/album/44CWFTTNEkwZgOEp7ZXiwv) | 2:21 | 2025-12-30 | 2026-01-25 |
+| [Pure Class](https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY) | 2:59 | 2026-03-08 |  |
 | [Rain](https://open.spotify.com/track/13XK1nYPylUfYF0FtxCvVB) | [Zoe Tedeschi](https://open.spotify.com/artist/1SJpmtRt9oC0NU3R9cqNc3) | [Rain](https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk) | 3:03 | 2026-01-04 | 2026-02-21 |
 | [Ramounie](https://open.spotify.com/track/6xWlprrLSpaNMK6tnaZ0NZ) | [DJ ToloV](https://open.spotify.com/artist/5EovaKhTCk7aUZ2iYy26t7) | [Ramounie](https://open.spotify.com/album/5595pglhwoIHAFB0PvmAKr) | 3:55 | 2025-11-16 | 2026-01-05 |
 | [RAP DE MINECRAFT](https://open.spotify.com/track/2TVIBaCN7AoJ2okpNAIxx5) | [Kalibre Brown](https://open.spotify.com/artist/5ukaoYh4Cp7e4zp1gRM1bp) | [RAP DE MINECRAFT](https://open.spotify.com/album/53ImTr4XsTPc5vMk6uMbRk) | 2:10 | 2025-11-30 | 2026-01-05 |
@@ -273,6 +275,7 @@
 | [Recorramos La Ciudad](https://open.spotify.com/track/2zUAMwoBg9iC3Mhs9EiF9o) | [Cheo MC](https://open.spotify.com/artist/52uwZEe4PbjQGc2NshIbrM) | [Recorramos La Ciudad](https://open.spotify.com/album/04biMfu7QdHLpgR43tK4mf) | 3:16 | 2025-11-13 | 2026-01-05 |
 | [Remedy Show](https://open.spotify.com/track/2qkvsI8NAf5cq4qmNM2NZ5) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Remedy Show](https://open.spotify.com/album/6eaiUGRsmpH6UPPXRcsiWP) | 2:29 | 2026-03-07 |  |
 | [Ridiculous](https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII) | [Jody Lo](https://open.spotify.com/artist/3B0ssaf53mJDwpO1lXe2B2) | [Ridiculous](https://open.spotify.com/album/4p3IxHthUEfy1wUfUUchxH) | 2:28 | 2026-02-16 |  |
+| [RIEN AU FINAL](https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe) | [Dracy Drace](https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr), [wiz beatz](https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo) | [A DEUX](https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh) | 2:38 | 2026-03-08 |  |
 | [Robocop](https://open.spotify.com/track/1GQrrXpf35AYMDfuc4a5CW) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0rznfmsxNj6GewVHUoyP12) | 4:03 | 2025-11-01 | 2025-12-01 |
 | [Rockstar](https://open.spotify.com/track/5xePohNIJrQi9AwgZMTbd6) | [Dersanger](https://open.spotify.com/artist/5CapMNHkBB40oR5V8BOAX9), [Ignoto Music](https://open.spotify.com/artist/7utJKHbQcZNkYBtJiFNpQa) | [Rockstar](https://open.spotify.com/album/6XRzx8zwdVwcUIfxG9Ommo) | 2:49 | 2026-01-18 | 2026-02-21 |
 | [Rollercoaster](https://open.spotify.com/track/34sMc8ETsF8MszlYl4TtpW) | [Arctic Lights](https://open.spotify.com/artist/3cd4BlvueSaLJrLKVo4Qq6) | [Rollercoaster](https://open.spotify.com/album/7nb8lrg9F5kZLLFrPEjIQ1) | 3:08 | 2025-11-17 | 2026-01-05 |

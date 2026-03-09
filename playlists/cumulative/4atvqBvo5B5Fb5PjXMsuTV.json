@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date. Updated 08 Mar 23:11 UTC.",
+  "description": "Playlist abandoned. More info in r&#x2F;Listige",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -6002,6 +6002,24 @@
       "duration_ms": 259776,
       "name": "And I Dance",
       "url": "https://open.spotify.com/track/0mSJhqC5mFP84d5mn9k92I"
+    },
+    {
+      "album": {
+        "name": "Andromeda",
+        "url": "https://open.spotify.com/album/1d9iKxp2hDB6cyQUkFI6Zq"
+      },
+      "artists": [
+        {
+          "name": "Chrissy Chlapecka",
+          "url": "https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147096,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/5OxCvTFjCMDEi01lTc6bNp"
     },
     {
       "album": {
@@ -22018,6 +22036,24 @@
       "duration_ms": 259626,
       "name": "Come To Brazil",
       "url": "https://open.spotify.com/track/53NkQOx965C85o2Xxv5ZyC"
+    },
+    {
+      "album": {
+        "name": "come to brazil (versions)",
+        "url": "https://open.spotify.com/album/0dQOIH8OHaxqdNdMkqJfK8"
+      },
+      "artists": [
+        {
+          "name": "bbnogames",
+          "url": "https://open.spotify.com/artist/58G2GxRyvmhDDXOojbE8Fw"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158212,
+      "name": "come to brazil - slowed",
+      "url": "https://open.spotify.com/track/6Su1l7ifGyoQ5v5bRI4pcm"
     },
     {
       "album": {
@@ -71648,7 +71684,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 179560,
       "name": "Needle Guy",
       "url": "https://open.spotify.com/track/62m3y5RL0VGhxbV9zy0fDz"
@@ -85603,6 +85639,28 @@
     },
     {
       "album": {
+        "name": "RESPONSE",
+        "url": "https://open.spotify.com/album/6v9EOy6nsgZqP7KuhBlSN3"
+      },
+      "artists": [
+        {
+          "name": "SUPXR",
+          "url": "https://open.spotify.com/artist/3hjxN8peYczDSaHuwVwvFt"
+        },
+        {
+          "name": "ISSBROKIE",
+          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150327,
+      "name": "RESPONSE",
+      "url": "https://open.spotify.com/track/5sPu4SXUN9lGQ4ioDC29XV"
+    },
+    {
+      "album": {
         "name": "Respuesta (feat. Lenier)",
         "url": "https://open.spotify.com/album/22S26dPKIJlolWDT98aujN"
       },
@@ -95368,7 +95426,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 231840,
       "name": "Soul Unusual",
       "url": "https://open.spotify.com/track/6BfV3hFXiw94mmtFEF7tu7"
@@ -107760,7 +107818,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 179906,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/1Dit5cKN2ktAceRIsSIwdk"

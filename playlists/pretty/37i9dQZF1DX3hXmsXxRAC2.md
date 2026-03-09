@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 
 > Las voces que inmortalizaron las canciones del Divo de Juárez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,712 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,731 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 42 | [Insensible](https://open.spotify.com/track/0R3jFSMsqwOlzGH5itZj4r) | [Saul El Jaguar Alarcón](https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro) | [Lo Mejor De](https://open.spotify.com/album/1VMDxbzjwAjfQIdK5tgeTJ) | 2:37 |
 | 43 | [No Discutamos](https://open.spotify.com/track/0188QTNiBTbPuMagX7kuxG) | [Chuy Lizarraga y Su Banda Tierra Sinaloense](https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr) | [No Discutamos](https://open.spotify.com/album/58C2v3TjmeUw5vT8uXix4f) | 3:40 |
 | 44 | [Querida \- Remasterizado](https://open.spotify.com/track/2e28L2PaIKf79jxwxahRfh) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:31 |
-| 45 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
-| 46 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
-| 47 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:59 |
+| 45 | [Debo Hacerlo / Caray / Querida / Me Nace del Corazón \(Popurri Juan Gabriel\)](https://open.spotify.com/track/4Qs25xEVE1V9R4gdROQjMQ) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [En Acustico](https://open.spotify.com/album/0dDs36Bq7YwLekfMWGGicw) | 5:19 |
+| 46 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6) | [Yolanda Del Rio](https://open.spotify.com/artist/0QdXxfTxlrbEQSY6FaxqaC) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 2:59 |
+| 47 | [Querida](https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 4:55 |
 | 48 | [Si Quieres Verme Llorar](https://open.spotify.com/track/54fKo3mRZqO1nriQ8j3sqr) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Juan Gabriel y Lo Mas Romantico De](https://open.spotify.com/album/2nC10KHMdLet5RLY2FRN4v) | 2:30 |
 | 49 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:00 |
 | 50 | [Siempre en Mi Mente](https://open.spotify.com/track/68l8HTNeB8mDv2Yl3C3DSF) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Bueninvento](https://open.spotify.com/album/0rmEiygdtUfM8jeJ7i1Hvp) | 4:04 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3hXmsXxRAC2.md) - [plain]
 | 63 | [No Tengo Dinero](https://open.spotify.com/track/2F4LFkeiKg5OLvohNkBN5D) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Juan Gabriel, el Divo y Sus Divas](https://open.spotify.com/album/3xCWhY4rgMsS2eLBajXuid) | 3:14 |
 | 64 | [Hasta Que Te Conocí](https://open.spotify.com/track/1UtS5UawZztSP0cQ9IAIVf) | [Julia de Castro](https://open.spotify.com/artist/2LshxksS43zLzIpiyP8zgG) | [La Historiadora](https://open.spotify.com/album/5APouCNoMeEJV2BhsjGYLl) | 3:01 |
 | 65 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Vargas Ritual Chavela](https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw) | 3:08 |
-| 66 | [Así Fue \- En Vivo](https://open.spotify.com/track/0u9bj1NhkqZxqJKWml17YI) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9) | 7:56 |
-| 67 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 |
+| 66 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 |
+| 67 | [Así Fue \- En Vivo](https://open.spotify.com/track/0u9bj1NhkqZxqJKWml17YI) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [10 Años \(En Vivo\)](https://open.spotify.com/album/4D3w10tAtPiZ0MtJTP9pt9) | 7:56 |
 | 68 | [Ya Lo Pasado Pasado \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/7bAZfbX3ElF6b3deYNBKlF) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 2:39 |
 | 69 | [Costumbres](https://open.spotify.com/track/0onqUSXlBN3jzAvbdJttvM) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Fue un Placer Conocerte: Gracias Juan Gabriel, Vol\. 1](https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV) | 4:44 |
 | 70 | [Me Gustas Mucho](https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 2:50 |

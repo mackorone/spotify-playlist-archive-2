@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2698,
+  "num_followers": 2699,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARf5v1X6k7FXn3+hXyN/BGQ/jwB9Rb",
+  "snapshot_id": "AAARgLgwrtD5XH7gFyY9L4fiJQ6eXnY+",
   "tracks": [
+    {
+      "added_at": "2026-03-08 14:55:55",
+      "album": {
+        "name": "Con le ali spezzate",
+        "url": "https://open.spotify.com/album/0XtbJj0QQwLWvtFcP26Cup"
+      },
+      "artists": [
+        {
+          "name": "DreamerWild",
+          "url": "https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj"
+        }
+      ],
+      "duration_ms": 160051,
+      "name": "Con le ali spezzate",
+      "url": "https://open.spotify.com/track/4ubgpYL4IiexE4tQO2Ln0l"
+    },
     {
       "added_at": "2026-03-07 08:46:29",
       "album": {

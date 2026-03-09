@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Kristian Kristensen, Metropolen og mange flere!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,452 likes - 96 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,453 likes - 96 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

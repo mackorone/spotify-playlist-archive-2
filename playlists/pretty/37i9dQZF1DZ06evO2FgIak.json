@@ -1,12 +1,12 @@
 {
   "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
-  "num_followers": 51924,
+  "num_followers": 51925,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD8j1aQ9uAHYDGod7Khn1TR",
+  "snapshot_id": "aatqgAAAAAC/U9CeY4fQ8oYcIm5NLUzl",
   "tracks": [
     {
       "added_at": null,
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 200434,
-      "name": "Honey Bee",
-      "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/2ehO3e7Bp6PnyqTWCqErMs"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+      "duration_ms": 200434,
+      "name": "Honey Bee",
+      "url": "https://open.spotify.com/track/2XwAWk73TyUGjXkYFBz8Ys"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
-        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "Crawlin' Kingsnake",
-      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 183880,
       "name": "Mad Love (I Want You To Love Me) - Single Version",
       "url": "https://open.spotify.com/track/6KRVb1xpxVOdg4Q2jn36e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
-        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
-      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
+        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 280293,
+      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
+      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last Waltz (Deluxe Version)",
         "url": "https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 368773,
       "name": "Caldonia (feat. Muddy Waters) - Concert Version",
       "url": "https://open.spotify.com/track/2AU5y0y0mGPkwTt0znU7P5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 201800,
+      "name": "Standing Around Crying - Single Version",
+      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
     },
     {
       "added_at": null,
@@ -827,22 +843,6 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Standing Around Crying - Single Version",
-      "url": "https://open.spotify.com/track/7MJo1p0HB6HyXZhEOMIR7O"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saga Blues: Natural Born Lover 1954-1958",
-        "url": "https://open.spotify.com/album/7MDOsIzQ653hvBoBY19KGP"
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165840,
-      "name": "I Want To Be Loved",
-      "url": "https://open.spotify.com/track/348vMftVTCp10l8C90s2kE"
+      "duration_ms": 174200,
+      "name": "Louisiana Blues",
+      "url": "https://open.spotify.com/track/25fwvbLBDoj0FclO5XC1jT"
     }
   ],
   "unique_name": "This Is Muddy Waters",

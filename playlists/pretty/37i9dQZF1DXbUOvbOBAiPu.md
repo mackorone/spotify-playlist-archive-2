@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Harry Styles, Ayra Starr, Jennifer Lopez x David Guetta and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,094 likes - 114 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,097 likes - 114 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

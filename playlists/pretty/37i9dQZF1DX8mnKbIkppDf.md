@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mnKbIkppDf.md) - [plain]
 
 > De genomineerden: Song, Album,  Nieuwkomer, Pop, Hiphop, Hollands, Nederlandstalig, Alternative, Soul/R&B/Funk, Dance & Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,792 likes - 33 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 33 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

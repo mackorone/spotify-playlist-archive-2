@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-837 songs - 2 day 7 hr 10 min
+838 songs - 2 day 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [LUCKY](https://open.spotify.com/track/5EutOJtNnuuIiyKsI1PfLi) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [LUCKY](https://open.spotify.com/album/5n23bJMXQyVCVVkKWumfEg) | 3:29 | 2025-07-22 | 2026-02-06 |
 | [Lullaby](https://open.spotify.com/track/2aKlVurHnMwaeF4vJADyE2) | [Yuyu](https://open.spotify.com/artist/4OTSiRMbLZrza8dQsoTUBy) | [Lullaby](https://open.spotify.com/album/1rcTGibD8vsMI7pHB0K3dI) | 3:14 | 2023-09-26 | 2023-10-04 |
 | [Lullaby](https://open.spotify.com/track/2ggV2CZgdulUzjNDS4qKK3) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [Lullaby](https://open.spotify.com/album/1NXZyQ7OF9Ct6pLi7E39UQ) | 3:14 | 2023-09-26 | 2023-09-28 |
-| [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 | 2026-02-05 |  |
+| [LとR](https://open.spotify.com/track/5MCaQgkjsaR8djogfrqI3z) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [LとR](https://open.spotify.com/album/4g5hgAFN90DBWd6OqVjJJJ) | 3:16 | 2026-02-05 | 2026-03-09 |
 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 | 2025-11-19 |  |
 | [MAGICAL DESTROYER](https://open.spotify.com/track/09hJ0h06g0xbqQddx21ssG) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [MAGICAL DESTROYER](https://open.spotify.com/album/7LtA97RybPQ1EJA03SQtzV) | 3:47 | 2023-04-11 | 2023-05-17 |
 | [Magnet](https://open.spotify.com/track/3PPYJUWuuV3ezNaQsqWEYN) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [Magnet](https://open.spotify.com/album/3Qby5b5433xma3rFRsCapw) | 3:18 | 2024-03-26 | 2024-03-30 |
@@ -779,6 +779,7 @@
 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 | 2025-01-30 |  |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-16 | 2026-02-25 |
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
+| [瞬間、シンフォニー。](https://open.spotify.com/track/1INp0oeWE7AtvQDOJsgtcr) | [40mP](https://open.spotify.com/artist/69jNq4RZ3PvQJvMeqtdz7O), [かぐや\(cv.夏吉ゆうこ\)](https://open.spotify.com/artist/2pxkowIU5N8WKEPOYLdres) | [超かぐや姫！](https://open.spotify.com/album/4jjF5DPbuso1zCAw7rzyZR) | 4:20 | 2026-03-03 |  |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |
 | [祝福](https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [祝福](https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4) | 3:16 | 2023-01-17 | 2024-02-14 |
 | [私は最強 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/7bmAgiUc4W4bfyZRCc6lOh) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [私は最強 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/4kSYCYHzG8vyNQcROLlHUq) | 4:17 | 2022-06-21 | 2024-02-14 |

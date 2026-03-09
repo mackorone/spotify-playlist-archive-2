@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,214 likes - 50 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,216 likes - 50 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 49 | [Don't Make Me Do It](https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Tomorrow Never Comes](https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD) | 0:58 |
 | 50 | [Sex & Death](https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB), [Killed By Deaf](https://open.spotify.com/artist/6wGlLIhHRd6ipikm5x3EnB) | [Sex & Death](https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2) | 2:04 |
 
-Snapshot ID: `aaoZAAAAAABg397YOPKo96/Pt3bwRk7p`
+Snapshot ID: `aatqgAAAAACyl6sxb3LkczG9aev0VGmD`

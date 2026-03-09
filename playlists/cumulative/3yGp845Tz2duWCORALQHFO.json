@@ -1649,6 +1649,24 @@
     },
     {
       "album": {
+        "name": "Above The Sky",
+        "url": "https://open.spotify.com/album/3FswxKuzz32i2vLUZOlYo5"
+      },
+      "artists": [
+        {
+          "name": "Domestique",
+          "url": "https://open.spotify.com/artist/6hOUe5iEVbbezCH4n6uiYR"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "Above The Sky",
+      "url": "https://open.spotify.com/track/1jbVB9IEqvvF8fJ2rQvwP6"
+    },
+    {
+      "album": {
         "name": "Above the Waves",
         "url": "https://open.spotify.com/album/3hF3bqDuoz0DRF43CnvZTs"
       },

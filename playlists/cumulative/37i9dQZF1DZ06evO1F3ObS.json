@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 214013,
       "name": "\u30b3\u30fb\u30b3\u30fb\u30ed",
       "url": "https://open.spotify.com/track/5Cin0YCToQrQo7cECQa37X"
@@ -2138,6 +2138,24 @@
       "duration_ms": 640626,
       "name": "\u79c1\u305f\u3061\u306e\u8b83\u6b4c",
       "url": "https://open.spotify.com/track/2pcSKo69fqz0J8t0ZwheFg"
+    },
+    {
+      "album": {
+        "name": "\u7d50\u3005\u306e\u5504",
+        "url": "https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219773,
+      "name": "\u7d50\u3005\u306e\u5504",
+      "url": "https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou"
     },
     {
       "album": {

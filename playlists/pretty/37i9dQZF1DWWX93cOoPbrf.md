@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Geovany Montaño,  Panchito Arredondo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 959,653 likes - 86 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 959,792 likes - 86 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

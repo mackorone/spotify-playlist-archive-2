@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,326 likes - 115 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,422 likes - 115 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 4 | [Bésame Mucho](https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 2:36 |
 | 5 | [Un homme et une femme \- Instrumental](https://open.spotify.com/track/062Cv5UXgBHWkMoRScGkt0) | [Francis Lai](https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn) | [Un homme et une femme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk) | 2:41 |
 | 6 | [And I Love Her](https://open.spotify.com/track/4dXGnnDDLXZwsXAuHx9RMS) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Santo & Johnny](https://open.spotify.com/album/66NAHdCgY1qfLsuvpOMA68) | 2:10 |
-| 7 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 |
-| 8 | [The Good, The Bad and The Ugly \- Il Buono, Il Brutto, Il Cattivo \(Titles\)](https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad and The Ugly \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq) | 2:42 |
+| 7 | [The Good, The Bad and The Ugly \- Il Buono, Il Brutto, Il Cattivo \(Titles\)](https://open.spotify.com/track/2IJJszwGK4NWmh3bNK6CPD) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [The Good, The Bad and The Ugly \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/1pDYxCrFTy971V4zaN5Anq) | 2:42 |
+| 8 | [Piano](https://open.spotify.com/track/6sLnc93kXhAMGZ9wyxYZMT) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Las No\. 1 Instrumentales](https://open.spotify.com/album/6jAwjKibWTDSJq1Qfbieeb) | 4:43 |
 | 9 | [Stranger In Paradise](https://open.spotify.com/track/1hnfgLEOOLp2wPry0LOS8q) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Say It With Music](https://open.spotify.com/album/2HaTpISphxy0IvOVvNaIdO) | 3:03 |
 | 10 | [BLUE DOLPHIN](https://open.spotify.com/track/6fCG4O6PPW77XXlfVNmXHl) | [Stephen Schlaks](https://open.spotify.com/artist/2bxTIn8Z3fDtIPTFC7JypL), [Michel](https://open.spotify.com/artist/26DaTPOYW2gXfXBIwghsKn) | [...SI CI SONO ANCH'IO \(BLUE DOLPHIN\)](https://open.spotify.com/album/6g1x6yCSdaPFQk9iHZYMYS) | 2:59 |
 | 11 | [Se Busca](https://open.spotify.com/track/7HL3Q21K6uNqkcvjAyuBGq) | [Bodas y 15 Años](https://open.spotify.com/artist/04sebPl4wYSF8dSZTg35ss) | [20 Valses Instrumentales](https://open.spotify.com/album/2hsUBi8Ua1fykAlfRa2Rd5) | 3:26 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 79 | [Beer Barrel Polka](https://open.spotify.com/track/0TfEddOVb6s6qhzb6GVdTn) | [André Popp](https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ) | [The Big Bands Collection, Vol\. 18/23: André Popp \- Delirium in Hi\-Fi](https://open.spotify.com/album/1AlBfGcQSHZMAGvVo42l0X) | 2:40 |
 | 80 | [Capullito de Aleli](https://open.spotify.com/track/6WlYy1nXmehizsvKs1EZV8) | [Pepe Jaramillo](https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0) | [Al Sur de la Frontera](https://open.spotify.com/album/5lVxK9CLDOrkS8vDtGpnc4) | 1:51 |
 | 81 | [The Lonely Shepherd](https://open.spotify.com/track/3OQEVjVEQ6CvfAJ6XhTs6c) | [Zamfir](https://open.spotify.com/artist/5V2pWwhu3KcEtgwkjMOcwQ) | [Kill Bill Vol\. 1 Original Soundtrack \(PA Version\)](https://open.spotify.com/album/1FpzNqDbugk77xUj0qOrtQ) | 4:20 |
-| 82 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
-| 83 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
-| 84 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
+| 82 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
+| 83 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
+| 84 | [Love's Theme](https://open.spotify.com/track/6wjY4ksLjCWU5D3lnNBAhy) | [The Love Unlimited Orchestra](https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH) | [The Best Of Love Unlimited Orchestra](https://open.spotify.com/album/7rUZRoEDIcsRXSB86xFMBk) | 4:08 |
 | 85 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
 | 86 | [Route 101](https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:22 |
 | 87 | [Before the Rain](https://open.spotify.com/track/3sUILx2NgEorGwIr4sNiTM) | [Lee Oskar](https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o) | [Before The Rain](https://open.spotify.com/album/57AGQL2GDbyMDKx68P6xhg) | 8:15 |

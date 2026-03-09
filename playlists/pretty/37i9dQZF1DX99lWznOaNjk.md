@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX99lWznOaNjk.md) - [plain]
 
 > Today's biggest and most exciting videos\. Music videos available only on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,790 likes - 32 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,925 likes - 32 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

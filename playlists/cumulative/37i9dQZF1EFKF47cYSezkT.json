@@ -789,6 +789,24 @@
     },
     {
       "album": {
+        "name": "Hot Pink Baby",
+        "url": "https://open.spotify.com/album/5dvokJiAQ8BOyW67GyHlVP"
+      },
+      "artists": [
+        {
+          "name": "Flight School",
+          "url": "https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "Hot Pink Baby",
+      "url": "https://open.spotify.com/track/7cBadBYT0YMaWv8yA6uMZm"
+    },
+    {
+      "album": {
         "name": "I Could Get Used To This",
         "url": "https://open.spotify.com/album/1Q6TuFF5GjmICIEVSkFCyd"
       },
@@ -1194,10 +1212,28 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 219772,
       "name": "morning light",
       "url": "https://open.spotify.com/track/5AYlX4QZwH2njZlFG8ZrC5"
+    },
+    {
+      "album": {
+        "name": "SYNCHRONICITY",
+        "url": "https://open.spotify.com/album/5epFPEGNPEK9eaDSSZ9qjX"
+      },
+      "artists": [
+        {
+          "name": "Aaron Hibell",
+          "url": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219772,
+      "name": "morning light",
+      "url": "https://open.spotify.com/track/5WWvty8DHVRYcfPSTl7u6a"
     },
     {
       "album": {

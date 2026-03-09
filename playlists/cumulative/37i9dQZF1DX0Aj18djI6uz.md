@@ -4,7 +4,7 @@
 
 > 블랙핑크가 직접 국립중앙박물관의 유물들을 설명해주는 스포티파이 공식 도슨트 플레이리스트입니다\. \(This is a Spotify official docent playlist, featuring the members of BLACKPINK as they personally guide you through the artifacts of the National Museum of Korea.\)
 
-17 songs - 27 min 16 sec
+21 songs - 32 min 33 sec
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,10 @@
 | [\[JISOO\_KOR\] 경천사 십층석탑 \(Ten\-story Stone Pagoda of Gyeongcheonsa Temple\)](https://open.spotify.com/track/2xny8gHPIWAt2KUmL7CyRR) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 1:05 | 2026-02-26 |  |
 | [\[JISOO\_KOR\] 금제 새날개모양 관모 장식 \(Gold Wing\-shaped Crown Ornament\)](https://open.spotify.com/track/1kxNZx1ui4mFEhwOYO4W57) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 1:14 | 2026-02-26 |  |
 | [\[JISOO\_KOR\] 반가사유상 \(Pensive Bodhisattva\)](https://open.spotify.com/track/3bkgIPnMHjSgAsIcOfXlH2) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 1:10 | 2026-02-26 |  |
+| [\[LISA\_TH\] 감산사 석조미륵보살입상 \(Stone Standing Maitreya Bodhisattva from Gamsansa Temple Site\)](https://open.spotify.com/track/0S5kTz5RkOU13o7A4MDvFg) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:19 | 2026-03-09 |  |
+| [\[LISA\_TH\] 경천사 십층석탑 \(Ten\-story Stone Pagoda of Gyeongcheonsa Temple\)](https://open.spotify.com/track/2ImVQZai7wHXuOian38Ljk) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:22 | 2026-03-09 |  |
+| [\[LISA\_TH\] 금제 새날개모양 관모 장식 \(Gold Wing\-shaped Crown Ornament\)](https://open.spotify.com/track/6ogfOreljzaUAVilXAeyiO) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:23 | 2026-03-09 |  |
+| [\[LISA\_TH\] 반가사유상 \(Pensive Bodhisattva\)](https://open.spotify.com/track/3LEgK3D6m54csJJk2I2keB) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/148qyaMaezFTIH1JTEwRTV) | 1:11 | 2026-03-09 |  |
 | [\[ROSÉ\_ENG\] 경주 부부총 금귀걸이 \(Gold Earrings\)](https://open.spotify.com/track/0EtllbfjCQByNJ2aZoAF6Y) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 0:43 | 2026-02-26 |  |
 | [\[ROSÉ\_ENG\] 금동관음보살좌상 \(Gilt\-bronze Seated Avalokitesvara Bodhisattva\)](https://open.spotify.com/track/15Jz6VRtAwvBZ91wm5LiS4) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 1:06 | 2026-02-26 |  |
 | [\[ROSÉ\_ENG\] 백자 달항아리 \(White Porcelain Moon Jar\)](https://open.spotify.com/track/5fkudJSJpKukRoewSpZLMX) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/artist/6bHtAZbc9VDyls6YkF6jIj) | [BLACKPINK X National Museum of Korea](https://open.spotify.com/album/47CEsMMS73Ocbjroltq7es) | 0:55 | 2026-02-26 |  |

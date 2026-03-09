@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Isaiah Falls
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,115,274 likes - 250 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,281 likes - 250 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

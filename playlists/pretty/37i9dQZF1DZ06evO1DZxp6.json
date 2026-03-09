@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 241410,
+  "num_followers": 241425,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADTHVNzCQGMaPBKS2FDthyh",
+  "snapshot_id": "aatqgAAAAAAmbiejM+gQqhLYiDa/FnBE",
   "tracks": [
     {
       "added_at": null,
@@ -567,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Algo Sucede",
-        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+        "name": "Cuentito",
+        "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
       },
       "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 200706,
-      "name": "Tu Calor",
-      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
+      "duration_ms": 194826,
+      "name": "La Mirada",
+      "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
     },
     {
       "added_at": null,
@@ -599,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuentito",
-        "url": "https://open.spotify.com/album/5zxLdqam10PFUdmTwlS4cQ"
+        "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
       },
       "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 194826,
-      "name": "La Mirada",
-      "url": "https://open.spotify.com/track/5WVNH596PKYYbZqa7Gj2VI"
+      "duration_ms": 200706,
+      "name": "Tu Calor",
+      "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
     },
     {
       "added_at": null,

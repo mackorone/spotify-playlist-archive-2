@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 
 > Agárrense fuerte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,297 likes - 55 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,309 likes - 55 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 31 | [Without You](https://open.spotify.com/track/0aW5JH6RnfTv5cGvPS3cca) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Earth Is...](https://open.spotify.com/album/3tbuKVVtZTGT7iwZo60sN3) | 4:32 |
 | 32 | [Eternal Flame](https://open.spotify.com/track/5g3ZD7PmrEQlQZKDW91yGG) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC), [Susanna Hoffs](https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL) | [Everything](https://open.spotify.com/album/7mpaRCyqIZ5Tj5wTB5612U) | 3:55 |
 | 33 | [Take My Breath Away \(as heard in Top Gun\) \(Re\-Recorded / Remastered\)](https://open.spotify.com/track/28ZCSdsVrt0BCaBhRI0HXq) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away \(as heard in Top Gun\) \(Re\-Recorded / Remastered\)](https://open.spotify.com/album/565HTqHjIx6LIELWCWjt8F) | 4:09 |
-| 34 | [Mandy](https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Ultimate Manilow](https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG) | 3:17 |
+| 34 | [Mandy \- Single Version](https://open.spotify.com/track/4oV4dVj0evVFhjPLvUz8w8) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Ultimate Manilow](https://open.spotify.com/album/2GAmoT3vdSG2OKA1pwFjwG) | 3:17 |
 | 35 | [Say You, Say Me](https://open.spotify.com/track/1Ih6wTuQems9OkYTzcZdhM) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [The Definitive Collection](https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q) | 4:02 |
 | 36 | [Still Got The Blues](https://open.spotify.com/track/5rpo9tGeFdtPSQtE5bbPDL) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [The Platinum Collection](https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl) | 6:12 |
 | 37 | [The Lady In Red](https://open.spotify.com/track/1GeNWyZtCHbcp3ZWp8GTOO) | [Chris de Burgh](https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U) | [Into The Light](https://open.spotify.com/album/5Yi08NDFoVAnvHoXqpp9O5) | 4:16 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsv1Yhw5QfW.md) - [plain]
 | 45 | [Everybody Hurts](https://open.spotify.com/track/4tCWWnk3BXinf7FllmSyHW) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:18 |
 | 46 | [Heaven](https://open.spotify.com/track/3wvfuyGNtR7ySfRkhtXtO9) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless](https://open.spotify.com/album/0dLBZmYzmQRZOz4cJG05DA) | 4:03 |
 | 47 | [I Wish It Would Rain Down](https://open.spotify.com/track/7pJLv39T2zogTmKRJbx2lf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously](https://open.spotify.com/album/041chign4EX8Qmq9hlsSe9) | 5:27 |
-| 48 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 |
-| 49 | [You're The Inspiration](https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [20 Mejores Melodias Encadenadas Vol.5](https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA) | 3:49 |
+| 48 | [You're The Inspiration](https://open.spotify.com/track/2Z7bUp8cJKTM9eoj7hvWXG) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [20 Mejores Melodias Encadenadas Vol.5](https://open.spotify.com/album/26czPJ2HW2iFWXEEOUcpqA) | 3:49 |
+| 49 | [Someone Like You](https://open.spotify.com/track/19RKuCdPh68WknFtjG9BJN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21' Sampler](https://open.spotify.com/album/74fjslPVQH60ns7vRlv3tW) | 4:45 |
 | 50 | [Love Of My Life](https://open.spotify.com/track/29YPctSVbfAND4qhT15lUO) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Night At The Opera](https://open.spotify.com/album/4wy9Np1Skr6jQ46nrbFQ8L) | 3:37 |
 | 51 | [Angie](https://open.spotify.com/track/1qZyPLjhDZCxOnGySMdfHu) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [GRRR! \(Deluxe Version\)](https://open.spotify.com/album/3LcLR5Mpdj6C5jiaReLvDt) | 4:31 |
 | 52 | [The One](https://open.spotify.com/track/3YpkVhRNeKVaSXUaG2TKs9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Greatest Hits 1970\-2002](https://open.spotify.com/album/6nvd1pwRgLrMez7fIiDq8z) | 5:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\.  Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,961 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,013 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 6 | [git](https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Virtüöz](https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ) | 2:38 |
 | 7 | [Aşkın Ertesi](https://open.spotify.com/track/1XPzrCHbRbhLngUgkPW76c) | [Bahadır Tatlıöz](https://open.spotify.com/artist/2cJHtXWQuFgxQ0GkpE7dNR) | [Aşkın Ertesi](https://open.spotify.com/album/1v0x4JmlMlpSCqyd4yZeLI) | 2:59 |
 | 8 | [Seni Düşündüm](https://open.spotify.com/track/6oZ8BPQSQog7Q3LPUVgxCr) | [Çağla](https://open.spotify.com/artist/6z5LOKPoOll2mbBqsQrMqp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Seni Düşündüm](https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH) | 3:16 |
-| 9 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
-| 10 | [Halef Selef](https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:56 |
+| 9 | [Halef Selef](https://open.spotify.com/track/4uu0DhZGJpk5rRrTlrNMq7) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [CURCUNA](https://open.spotify.com/album/5CQCXwMHs5IuOOKpCUqaDD) | 1:56 |
+| 10 | [Bir Çift Göz](https://open.spotify.com/track/0DDTcst1ymDkTla649Mu0H) | [Norm Ender](https://open.spotify.com/artist/3S6gaE89XewFAvZqsMuJDJ), [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Bir Çift Göz](https://open.spotify.com/album/2LyB2W3XhNwMdZ2Ww9NlVH) | 3:27 |
 | 11 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 |
 | 12 | [Sen Kaldın](https://open.spotify.com/track/0VOnehekjQz9cvUwLzmYSQ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:32 |
 | 13 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 39 | [Beni Unutma](https://open.spotify.com/track/1nTP1D8Fz1lHFdFNudiCdp) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Beni Unutma](https://open.spotify.com/album/2jt5o80d0JDe0NMjwXewrM) | 3:10 |
 | 40 | [Aşiyan](https://open.spotify.com/track/00Yab3ZoSz1nfy6iyGPJOG) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [Aşiyan](https://open.spotify.com/album/5Cv1gREuQjfm8vM2b0SrsT) | 2:43 |
 | 41 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 |
-| 42 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
-| 43 | [Bir Taraf Seç](https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Önsöz](https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR) | 4:37 |
+| 42 | [Bir Taraf Seç](https://open.spotify.com/track/6o9js86rcF8IXhFKJmrKnb) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Önsöz](https://open.spotify.com/album/24MwD4s7ScUSlSREViF2eR) | 4:37 |
+| 43 | [HALLETTİM](https://open.spotify.com/track/7pMTiGccgdL0PIvV21LSxN) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 1:58 |
 | 44 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 |
 | 45 | [Uçurum](https://open.spotify.com/track/2nmoY1LP8PBiOzJlYZzMAe) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Uçurum](https://open.spotify.com/album/7xZExmlepVR9qRmdWNOFhu) | 3:14 |
 | 46 | [Delirme](https://open.spotify.com/track/406d7gGhsq9TWw1OKMojxC) | [Fettah Can](https://open.spotify.com/artist/17fJCykpa2EqIioh0zamN9) | [Sen En Çok Aşksın](https://open.spotify.com/album/58wGB7x2oPTBxEPaul9oMw) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 49 | [Vursunlar \- Roman Version](https://open.spotify.com/track/4NVORBJGV2lcttgSE8vZks) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P), [Gökhan Namlı](https://open.spotify.com/artist/5bwgqxjC9Gh77Re63SHKxc) | [Vursunlar \(Roman Version\)](https://open.spotify.com/album/6ln0LvC52yulV78k184v1c) | 2:37 |
 | 50 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 |
 
-Snapshot ID: `AAAAAJBTKFVKJAIz/APXfBPVhtZcjo6B`
+Snapshot ID: `AAAAANIpsmB0JvUcMO+GLrQY1HrCHcuk`

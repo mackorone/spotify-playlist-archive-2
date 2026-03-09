@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158938,
+  "num_followers": 158931,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,30 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
+        "name": "Pedras no Caminho",
+        "url": "https://open.spotify.com/album/4kuJH4uki3ayfHC9SYRNJB"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        },
+        {
+          "name": "EME Lab",
+          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
+        }
+      ],
+      "duration_ms": 159374,
+      "name": "Pedras no Caminho",
+      "url": "https://open.spotify.com/track/71b7yoPiWC5fYss6x1fWx7"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
         "name": "FIM DO NADA",
         "url": "https://open.spotify.com/album/4ieTgQMc5iTm5EHAui9wsc"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 206549,
       "name": "De Longe. - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
-        "name": "Pedras no Caminho",
-        "url": "https://open.spotify.com/album/4kuJH4uki3ayfHC9SYRNJB"
-      },
-      "artists": [
-        {
-          "name": "R\u00f4 Rosa",
-          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
-        },
-        {
-          "name": "Patricio Sid",
-          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
-        },
-        {
-          "name": "EME Lab",
-          "url": "https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48"
-        }
-      ],
-      "duration_ms": 159374,
-      "name": "Pedras no Caminho",
-      "url": "https://open.spotify.com/track/71b7yoPiWC5fYss6x1fWx7"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
+        "name": "Solidificando a Caminhada",
+        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
+      },
+      "artists": [
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        }
+      ],
+      "duration_ms": 129962,
+      "name": "Solidificando a Caminhada",
+      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
         "name": "Tira, Coloca De Volta",
         "url": "https://open.spotify.com/album/7279dbuQMxbyWBysyJXbQE"
       },
@@ -779,26 +795,6 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
-        "name": "AIRBNB",
-        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        },
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "AIRBNB",
-      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -827,6 +823,26 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
+        "name": "AIRBNB",
+        "url": "https://open.spotify.com/album/3NLPJ8I2HZrE9XIGuiaL3x"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        },
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "AIRBNB",
+      "url": "https://open.spotify.com/track/4fHx6m5TVZWvzGH8ME5OPD"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
         "name": "Oriente Ac\u00fastico",
         "url": "https://open.spotify.com/album/3WJzYyIeffgxWIT0o0N7J1"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 215936,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/6MjNdgoDAWesTjXUYg1ETC"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
-        "name": "Solidificando a Caminhada",
-        "url": "https://open.spotify.com/album/46PONjnLVfZkw3Oyg9qTgb"
-      },
-      "artists": [
-        {
-          "name": "MC Rodolfinho",
-          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
-        }
-      ],
-      "duration_ms": 129962,
-      "name": "Solidificando a Caminhada",
-      "url": "https://open.spotify.com/track/0WHHtSyBfAcWB4OnM1tIiE"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
         "name": "Eles N\u00e3o Querem",
         "url": "https://open.spotify.com/album/1ER0jvXi2w22WXbbmlx215"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 226000,
       "name": "Eles N\u00e3o Querem",
       "url": "https://open.spotify.com/track/3SmLoXukiJkTD3fZGBb37V"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -963,26 +963,6 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
-        "name": "Mensagem",
-        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
-      },
-      "artists": [
-        {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
-        },
-        {
-          "name": "lowz",
-          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Mensagem",
-      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -1015,26 +995,22 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
-        "name": "ALAKASAM",
-        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+        "name": "Mensagem",
+        "url": "https://open.spotify.com/album/2NPc3kgr2YdiElHG3CKA26"
       },
       "artists": [
         {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
         },
         {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "lowz",
+          "url": "https://open.spotify.com/artist/03t6CvukafsNbQU1OD2n3q"
         }
       ],
-      "duration_ms": 212400,
-      "name": "Sem Press\u00e3o",
-      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
+      "duration_ms": 139000,
+      "name": "Mensagem",
+      "url": "https://open.spotify.com/track/7kfXIHFbBINJeUtXaPodZw"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -1063,6 +1039,30 @@
       "duration_ms": 169043,
       "name": "quem dera fosse...",
       "url": "https://open.spotify.com/track/2kmITcoAdnL8D7YPfwgklS"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
+        "name": "ALAKASAM",
+        "url": "https://open.spotify.com/album/6OvCm5b3mYCKuNEzFB63A6"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "Sem Press\u00e3o",
+      "url": "https://open.spotify.com/track/3kljvt39F20M9GWxS32jSy"
     },
     {
       "added_at": "2026-03-06 13:35:42",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
-        "name": "Desumanos",
-        "url": "https://open.spotify.com/album/7m8D1tFI46VTCMqLkE5ofm"
-      },
-      "artists": [
-        {
-          "name": "Mc PP da VS",
-          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
-        },
-        {
-          "name": "Dj Nene",
-          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Desumanos",
-      "url": "https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL"
-    },
-    {
-      "added_at": "2026-03-06 13:35:42",
-      "album": {
         "name": "Conex\u00e3o",
         "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
       },
@@ -1347,18 +1327,50 @@
     {
       "added_at": "2026-03-06 13:35:42",
       "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+        "name": "Desumanos",
+        "url": "https://open.spotify.com/album/7m8D1tFI46VTCMqLkE5ofm"
       },
       "artists": [
         {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Dj Nene",
+          "url": "https://open.spotify.com/artist/5iR3NEmAFbIBa7v8y3fRbM"
         }
       ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+      "duration_ms": 181935,
+      "name": "Desumanos",
+      "url": "https://open.spotify.com/track/0fwrL9qubr4ZQ2obD3V3NL"
+    },
+    {
+      "added_at": "2026-03-06 13:35:42",
+      "album": {
+        "name": "Bate A Onda",
+        "url": "https://open.spotify.com/album/5a6vhhBt57N7ICELNkJ7Z1"
+      },
+      "artists": [
+        {
+          "name": "Rio Santana",
+          "url": "https://open.spotify.com/artist/3mLdH6xxrscTf2poCN9Kzy"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Bate A Onda",
+      "url": "https://open.spotify.com/track/4fS2nX8MqXNoj3blmhKN37"
     }
   ],
   "unique_name": "Resenha na Praia",

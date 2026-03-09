@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABArQU5I9w9aZEt6/lnOTqI",
+  "snapshot_id": "aatqgAAAAABwBKYjjs/DOndZJWj0gJrP",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Many Moods of Marco Polo Vol. 1",
-        "url": "https://open.spotify.com/album/5fKB6tISAVk4LsLwqfc5dZ"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Go Easy",
-      "url": "https://open.spotify.com/track/3Wcz9J5H5loYF15Eolg3dO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YEYO",
         "url": "https://open.spotify.com/album/2omBpLdhqRgjBneDnziZpp"
       },
@@ -271,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Many Moods of Marco Polo Vol. 1",
+        "url": "https://open.spotify.com/album/5fKB6tISAVk4LsLwqfc5dZ"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Go Easy",
+      "url": "https://open.spotify.com/track/3Wcz9J5H5loYF15Eolg3dO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Port Authority",
         "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
@@ -287,6 +287,30 @@
       "duration_ms": 255373,
       "name": "Marquee",
       "url": "https://open.spotify.com/track/5Tmh2XPCW0auf6wjl01yrW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A-F-R-O Polo",
+        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Eamon",
+          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
+        }
+      ],
+      "duration_ms": 198063,
+      "name": "Use These Blues",
+      "url": "https://open.spotify.com/track/48pIgKjY6Kv85eXqXKmBe7"
     },
     {
       "added_at": null,
@@ -331,30 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
-      },
-      "artists": [
-        {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Eamon",
-          "url": "https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9"
-        }
-      ],
-      "duration_ms": 198063,
-      "name": "Use These Blues",
-      "url": "https://open.spotify.com/track/48pIgKjY6Kv85eXqXKmBe7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Thine Own Self Be True",
         "url": "https://open.spotify.com/album/2Y8Px6d8XUQWKkdae7dvCx"
       },
@@ -387,6 +387,26 @@
       "duration_ms": 282509,
       "name": "Blind",
       "url": "https://open.spotify.com/track/0V3qefVBv8sEgd28502ctw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
+      },
+      "artists": [
+        {
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
     },
     {
       "added_at": null,
@@ -428,29 +448,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 180419,
-      "name": "Abuela Intergal\u00e1ctica",
-      "url": "https://open.spotify.com/track/50yszd1hmHfhMm1rYdi9FY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
-      },
-      "artists": [
-        {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
+      "duration_ms": 137909,
+      "name": "Entra en el Caos",
+      "url": "https://open.spotify.com/track/2kWS5dNpHpP96LjsxuIQE6"
     },
     {
       "added_at": null,
@@ -471,6 +471,26 @@
       "duration_ms": 176000,
       "name": "Masta Polo",
       "url": "https://open.spotify.com/track/5ex4p15gOujE73EzSiQtIH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
+      },
+      "artists": [
+        {
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 238538,
+      "name": "Przyjaciel Diab\u0142a",
+      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
     },
     {
       "added_at": null,
@@ -512,29 +532,9 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 137909,
-      "name": "Entra en el Caos",
-      "url": "https://open.spotify.com/track/2kWS5dNpHpP96LjsxuIQE6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kartagina",
-        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
-      },
-      "artists": [
-        {
-          "name": "O.S.T.R.",
-          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 238538,
-      "name": "Przyjaciel Diab\u0142a",
-      "url": "https://open.spotify.com/track/0h8DtGEXqTMkHnUZn0ZELH"
+      "duration_ms": 180419,
+      "name": "Abuela Intergal\u00e1ctica",
+      "url": "https://open.spotify.com/track/50yszd1hmHfhMm1rYdi9FY"
     },
     {
       "added_at": null,
@@ -559,6 +559,26 @@
       "duration_ms": 186728,
       "name": "God Bodies (feat. Trini Boy)",
       "url": "https://open.spotify.com/track/70GcVz2uqmKSwDZtXCM3gx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A-F-R-O Polo",
+        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+      },
+      "artists": [
+        {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 184083,
+      "name": "Sunshine and Flowers",
+      "url": "https://open.spotify.com/track/66S6z2ipM0PwKtYtx9DjGR"
     },
     {
       "added_at": null,
@@ -631,22 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+        "name": "Port Authority",
+        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
       },
       "artists": [
         {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
-        },
-        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Copywrite",
+          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
         }
       ],
-      "duration_ms": 184083,
-      "name": "Sunshine and Flowers",
-      "url": "https://open.spotify.com/track/66S6z2ipM0PwKtYtx9DjGR"
+      "duration_ms": 264960,
+      "name": "Get Busy",
+      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
       "duration_ms": 238252,
       "name": "Cur$ed (What's Wrong Remix)",
       "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Port Authority",
-        "url": "https://open.spotify.com/album/2XQ6iUt1Guqgyqg9hNfJzc"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Copywrite",
-          "url": "https://open.spotify.com/artist/05YQdfjpG35u5fmVn7Y0sc"
-        }
-      ],
-      "duration_ms": 264960,
-      "name": "Get Busy",
-      "url": "https://open.spotify.com/track/5GJAJ214LcuJOztQMJKoqP"
     },
     {
       "added_at": null,
@@ -955,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Double Barrel",
+        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "DJ Revolution",
+          "url": "https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Double Barrel",
+      "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Newport Authority 2",
         "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
       },
@@ -1011,30 +1035,6 @@
       "duration_ms": 180036,
       "name": "Fro Armstrong",
       "url": "https://open.spotify.com/track/0Dj6QsaAEkO1iUvB545pYm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Double Barrel",
-        "url": "https://open.spotify.com/album/7uXm1HHw3rQZMCoGQadLSY"
-      },
-      "artists": [
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
-        },
-        {
-          "name": "DJ Revolution",
-          "url": "https://open.spotify.com/artist/5OsTd4JBco0XckFuy3vCql"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Double Barrel",
-      "url": "https://open.spotify.com/track/7G44SyqP1cQqyeKcje7f3k"
     },
     {
       "added_at": null,
@@ -1107,22 +1107,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O Polo",
-        "url": "https://open.spotify.com/album/31UBDei39FVTvh7rug1IO9"
+        "name": "Kartagina",
+        "url": "https://open.spotify.com/album/4wIe5GXBI0sYcraJCbckdz"
       },
       "artists": [
         {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+          "name": "O.S.T.R.",
+          "url": "https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Lil Fame",
+          "url": "https://open.spotify.com/artist/0GgrhOQXAZ98HE5O3l6N4u"
         }
       ],
-      "duration_ms": 187288,
-      "name": "Nightmare on Fro Street",
-      "url": "https://open.spotify.com/track/3rUC43tk61HOOsSeZrPYjE"
+      "duration_ms": 315369,
+      "name": "Kartagina",
+      "url": "https://open.spotify.com/track/1jzwJF5fHMx6TJMc9QTvYF"
     }
   ],
   "unique_name": "This Is Marco Polo",

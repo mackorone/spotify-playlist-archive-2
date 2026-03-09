@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7EYxnpva8IlIgJ42z96zXH.md) - [plain]
 
 > Get your pump on with the best upbeat tracks for your workout, whether at run club, your pilates class, or at the gym!
 
-[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,235 likes - 94 songs - 4 hr 56 min
+[Filtr Australia	](https://open.spotify.com/user/sonymusicaustralia) - 30,232 likes - 94 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

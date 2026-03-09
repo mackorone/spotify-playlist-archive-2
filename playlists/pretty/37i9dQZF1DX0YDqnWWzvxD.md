@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,043 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,200 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 58 | [Waves Music Relax](https://open.spotify.com/track/54MYgK99jBfryPIeg60h7l) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Sleep Music With Ambient Nature](https://open.spotify.com/album/2NE9EajerIuNkd0iH1bRNM) | 2:28 |
 | 59 | [Life of Birds](https://open.spotify.com/track/2HQaSnot7REe09dDN15fmB) | [Nature Sound Series](https://open.spotify.com/artist/3AsV51V7gZis4KfroWFhIE) | [Ambient Nature \- Sounds of Nature, Natural Pain Relief, Healing Nature Sounds](https://open.spotify.com/album/2mj9nbOdnnrWUJZxCQ8VDe) | 3:51 |
 | 60 | [Breath Exercises for Deep Sleep](https://open.spotify.com/track/4ikhF7qyaB7MjaT6knCHPi) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Sleep Meditation – Bedtime Mindfulness, Evening Prayers, Calming New Age Music, Falling Asleep, Spiritual Night, Sweet Dreams, Deep State of Relaxation, Magical Healing](https://open.spotify.com/album/7ynhGYMPvCLsQ6kVPkp8Af) | 3:49 |
-| 61 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
-| 62 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
-| 63 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
-| 64 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 61 | [Silently Falling](https://open.spotify.com/track/1uH3TovSPAvbpVaXjNGpjL) | [Wissal Sakti](https://open.spotify.com/artist/1FiERGNLIiWDYa2nA0TcGD) | [Silently Falling](https://open.spotify.com/album/0gRoVemj1NS2g96DClsXYX) | 2:36 |
+| 62 | [Two](https://open.spotify.com/track/14MR12RkIvXHeqgaJI0ngI) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Minimalia](https://open.spotify.com/album/1SbxGyn4KxQU7yRfJFtRPB) | 3:08 |
+| 63 | [Healing Sounds \(Nature Music\)](https://open.spotify.com/track/4LvyEkOkfoEWut29WU2KrR) | [Naomi Read](https://open.spotify.com/artist/6IxiB8NRLg48ySGkunEYxx) | [101 Minutes Relaxing Sounds of Nature Music for Sleeping, Relaxation](https://open.spotify.com/album/5RzQ5hreVnPZVKctWQzsqO) | 5:03 |
+| 64 | [Healing](https://open.spotify.com/track/7H8JMDinIdUPYLWKBgcLJT) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk) | [Yoga Music](https://open.spotify.com/album/13MrYs2p8gjLMnUMDbuipS) | 5:35 |
 | 65 | [Relaxing Native Flute](https://open.spotify.com/track/3Zt5D4DF4mSM149SowYRml) | [Selene Noor](https://open.spotify.com/artist/0sCHQabXuyunefTr2LtNFi) | [Indian Music for Relaxation – Oriental Music, Music for Deep Meditation, Indian Flute, Native American Music, Sounds of Nature, Reiki Massage & Chakra Healing](https://open.spotify.com/album/6twkMgxOvXOxQsu9kBBCkW) | 3:41 |
 | 66 | [Spheres Of The Angels](https://open.spotify.com/track/6ioQi5nd8gxD2RE3iZqik1) | [Shajan](https://open.spotify.com/artist/6gNMvkr78Olrxyw9tFa3Lv) | [The Healing Touch \- Music for Reiki and Meditation, Vol\. 2](https://open.spotify.com/album/69jtcMWOhK48aAPC52ZRwp) | 15:03 |
 | 67 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 |

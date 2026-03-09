@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,847 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,874 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,13 +77,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 67 | [UFO](https://open.spotify.com/track/7pA7CZIJUpcD5X0QpLlESx) | [UFOs](https://open.spotify.com/artist/0kw2GuzHR64XkVjWNpVjvd), [Braxe + Falcon](https://open.spotify.com/artist/10sZHUBkoiCLucz4bbCEBA), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [DJ Falcon](https://open.spotify.com/artist/7mLoDOOVW8VlPUTii10xH5) | [UFO](https://open.spotify.com/album/09YQF72oh6MHqCuuXx8F5C) | 4:33 |
 | 68 | [Oh Baby](https://open.spotify.com/track/3OICfhRje9Hy4Pq0UQ4Dhr) | [Archie Holmes](https://open.spotify.com/artist/1FAe23gB6feByMu2oQUI4J) | [Oh Baby](https://open.spotify.com/album/1O0ETP1RoxA65mE6ehlZ57) | 3:00 |
 | 69 | [Could Have Been So Good](https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Could Have Been So Good](https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8) | 3:26 |
-| 70 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
+| 70 | [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 |
 | 71 | [Make Me Feel Better \- 2025 Edit](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(2025 Edit\)](https://open.spotify.com/album/1w9U8eM9PXqN3DPgiS2NiE) | 2:27 |
 | 72 | [1991](https://open.spotify.com/track/0xJA9Yc2qB9I5Rhs6UNK7Q) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [1991](https://open.spotify.com/album/5rBFtrFPKWL2s7aSRNpUfn) | 2:48 |
 | 73 | [Medicine](https://open.spotify.com/track/3bQNPMF0fYb51E81ocMWzC) | [No Suits](https://open.spotify.com/artist/1B62oENW0VGjnBBUvwkYtX) | [Medicine](https://open.spotify.com/album/7l5iYdcArdn3BSdFZsIABG) | 2:48 |
 | 74 | [lately in the void](https://open.spotify.com/track/6vMRtaCVRTsGC90Zy6KW5D) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [lately in the void](https://open.spotify.com/album/4XvEJfv4s9F0j3aD5zibjS) | 3:41 |
 | 75 | [someone](https://open.spotify.com/track/2RYZvP3DX7lj8Yzpv63UYF) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [someone](https://open.spotify.com/album/53w2Th0lIwncJDoLhhfz9a) | 3:30 |
-| 76 | [Carla's Song](https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:13 |
+| 76 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 | 77 | [Tieduprightnow](https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Tieduprightnow](https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW) | 4:09 |
 | 78 | [Nowhere \(feat\. Mei Anima\)](https://open.spotify.com/track/3eYZL4ZmfvqJdGGVWOdTcv) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [mei anima](https://open.spotify.com/artist/3094owiC8qRlWKgip3Y85A) | [Nowhere \(feat\. Mei Anima\)](https://open.spotify.com/album/0whsMMavHPlWZiWO4uipZH) | 2:32 |
 | 79 | [Let's Go Back](https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Let's Go Back](https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul) | 2:49 |

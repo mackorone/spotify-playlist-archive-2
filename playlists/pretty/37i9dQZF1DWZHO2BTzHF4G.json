@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2000s.",
-  "num_followers": 64615,
+  "num_followers": 64688,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Rock n Roll Jesus",
         "url": "https://open.spotify.com/album/2xChdOg0PvxzHzE1BooUpI"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 297586,
       "name": "All Summer Long",
       "url": "https://open.spotify.com/track/5rX6C5QVvvZB7XckETNych"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Everything You Want",
-        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
-      },
-      "artists": [
-        {
-          "name": "Vertical Horizon",
-          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
-        }
-      ],
-      "duration_ms": 257066,
-      "name": "Everything You Want",
-      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 205066,
       "name": "Have A Nice Day",
       "url": "https://open.spotify.com/track/6JWddKPdqvDc2WkPEi9grC"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Everything You Want",
+        "url": "https://open.spotify.com/album/2gJ6axVHAsQmmO6nslQRN1"
+      },
+      "artists": [
+        {
+          "name": "Vertical Horizon",
+          "url": "https://open.spotify.com/artist/6Hizgjo92FnMp8wGaRUNTn"
+        }
+      ],
+      "duration_ms": 257066,
+      "name": "Everything You Want",
+      "url": "https://open.spotify.com/track/4cKGldbhGJniI8BrB3K6tb"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -995,8 +995,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "All the Right Reasons (Walmart Exclusive Edition)",
+        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
       },
       "artists": [
         {
@@ -1004,9 +1004,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Savin' Me",
-      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
+      "duration_ms": 252040,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1075,8 +1075,8 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "All the Right Reasons (Walmart Exclusive Edition)",
-        "url": "https://open.spotify.com/album/74qGFpCx9XpFaZUnqqdDtb"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 252040,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3RlsVPIIs5KFhLFhxZ4iDF"
+      "duration_ms": 219320,
+      "name": "Savin' Me",
+      "url": "https://open.spotify.com/track/4Gd9PUEuOTOJtbgd4YxLXM"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Walk Idiot Walk",
-      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
-    },
-    {
-      "added_at": "2024-07-12 15:02:20",
-      "album": {
         "name": "The Back Room",
         "url": "https://open.spotify.com/album/13NKtscRQRvQAXR4fY7kO5"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 226426,
       "name": "Munich",
       "url": "https://open.spotify.com/track/1TF8mSG5YHyaS4o3NeBSAo"
+    },
+    {
+      "added_at": "2024-07-12 15:02:20",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Walk Idiot Walk",
+      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "Rock Steady",
-        "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
+        "name": "An End Has a Start",
+        "url": "https://open.spotify.com/album/3csSbF72syMhIYq89doRha"
       },
       "artists": [
         {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
         }
       ],
-      "duration_ms": 242586,
-      "name": "Hella Good",
-      "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
+      "duration_ms": 297640,
+      "name": "Smokers Outside the Hospital Doors",
+      "url": "https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB"
     },
     {
       "added_at": "2024-07-12 15:02:20",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-07-12 15:02:20",
       "album": {
-        "name": "An End Has a Start",
-        "url": "https://open.spotify.com/album/3csSbF72syMhIYq89doRha"
+        "name": "Rock Steady",
+        "url": "https://open.spotify.com/album/6ENy8DWFCnqF4dfaeH6352"
       },
       "artists": [
         {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
         }
       ],
-      "duration_ms": 297640,
-      "name": "Smokers Outside the Hospital Doors",
-      "url": "https://open.spotify.com/track/7CPiFuM7R0Os87sl3UJqPB"
+      "duration_ms": 242586,
+      "name": "Hella Good",
+      "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
     },
     {
       "added_at": "2024-07-12 15:02:20",

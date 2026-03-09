@@ -1,6 +1,6 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 83584,
+  "num_followers": 83640,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
+        "name": "Number Five",
+        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 394506,
+      "name": "Journey to the Stars",
+      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
         "name": "Public Eye",
         "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 450666,
       "name": "September in the Rain",
       "url": "https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
-        "name": "Number Five",
-        "url": "https://open.spotify.com/album/1aszus6tJ9oA3VpDkkkxCZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 394506,
-      "name": "Journey to the Stars",
-      "url": "https://open.spotify.com/track/2D8g6GNzX487MmeHLh5BRd"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Jumpin' With Jonah",
-        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
-      },
-      "artists": [
-        {
-          "name": "Jonah Jones",
-          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Moten Swing - Remastered",
-      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "The Magnificent Thad Jones (Remastered)",
         "url": "https://open.spotify.com/album/5ZaHEBnWWXSD3zvfiY6pju"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 447173,
       "name": "If I Love Again - 2007 Digital Remaster/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/79G0U4pmuiCdxPdOym0REw"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Jumpin' With Jonah",
+        "url": "https://open.spotify.com/album/7LUrssAM48grNDmYreSiXS"
+      },
+      "artists": [
+        {
+          "name": "Jonah Jones",
+          "url": "https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Moten Swing - Remastered",
+      "url": "https://open.spotify.com/track/3sWqSY5y19xWDjjG58jtBS"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Off To The Races (Remastered)",
-        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 426480,
-      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Simply Stated",
         "url": "https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 600493,
       "name": "Dear Old Stockholm",
       "url": "https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Off To The Races (Remastered)",
+        "url": "https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 426480,
+      "name": "Paul's Pal - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 429666,
-      "name": "Concentric Circles",
-      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Byrd's Eye View",
         "url": "https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 603293,
       "name": "El Sino",
       "url": "https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 429666,
+      "name": "Concentric Circles",
+      "url": "https://open.spotify.com/track/7x2rOBlvoS4c4wkb0IQwj7"
     },
     {
       "added_at": "2025-09-10 12:53:12",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-09-10 12:53:12",
       "album": {
-        "name": "Selected Recordings",
-        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Stanko Quartet",
-          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
-        }
-      ],
-      "duration_ms": 552600,
-      "name": "Tales For A Girl, 12",
-      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
-    },
-    {
-      "added_at": "2025-09-10 12:53:12",
-      "album": {
         "name": "Noir en rouge (Live in Paris)",
         "url": "https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 487946,
       "name": "Re-invention - Live in Paris",
       "url": "https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6"
+    },
+    {
+      "added_at": "2025-09-10 12:53:12",
+      "album": {
+        "name": "Selected Recordings",
+        "url": "https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Stanko Quartet",
+          "url": "https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP"
+        }
+      ],
+      "duration_ms": 552600,
+      "name": "Tales For A Girl, 12",
+      "url": "https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR"
     },
     {
       "added_at": "2025-09-10 12:53:12",

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1262441,
+  "num_followers": 1262505,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD59UUx9TeeO7vK442APwjz",
+  "snapshot_id": "aatqgAAAAAB+UtfXxclMCYjhSBWUPUW/",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Line On The Horizon",
-        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
+        "name": "Pop",
+        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 324013,
-      "name": "Magnificent",
-      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
+      "duration_ms": 276800,
+      "name": "Staring At The Sun",
+      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop",
-        "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
+        "name": "No Line On The Horizon",
+        "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 276800,
-      "name": "Staring At The Sun",
-      "url": "https://open.spotify.com/track/3fsTb3a8l5kJrtzpl04Ljr"
+      "duration_ms": 324013,
+      "name": "Magnificent",
+      "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Bruno Mars",
-  "num_followers": 791585,
+  "num_followers": 791562,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1489,20 +1489,20 @@
       "url": "https://open.spotify.com/track/6pNrdoEgWVcHvKxrsvHMKL"
     },
     {
-      "added_at": "2026-01-23 06:08:35",
+      "added_at": "2025-03-21 05:07:45",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+        "name": "HEART OF THE MATTER",
+        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
       },
       "artists": [
         {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+          "name": "Sedric Perry",
+          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
         }
       ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
+      "duration_ms": 226779,
+      "name": "HEART OF THE MATTER",
+      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
     },
     {
       "added_at": "2025-08-15 19:53:41",
@@ -1521,20 +1521,20 @@
       "url": "https://open.spotify.com/track/32ifMUB1J4IPP08kd0NI1u"
     },
     {
-      "added_at": "2025-03-21 05:07:45",
+      "added_at": "2026-01-23 06:08:35",
       "album": {
-        "name": "HEART OF THE MATTER",
-        "url": "https://open.spotify.com/album/0OOVrSL0zg5FMqus5AvW1b"
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
       },
       "artists": [
         {
-          "name": "Sedric Perry",
-          "url": "https://open.spotify.com/artist/4Z6yPeF2Ytgp3tZATwf6Jw"
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
         }
       ],
-      "duration_ms": 226779,
-      "name": "HEART OF THE MATTER",
-      "url": "https://open.spotify.com/track/4HFhHdiyYQyPcvMmHOHjcz"
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2025-11-14 12:04:27",
@@ -1585,24 +1585,20 @@
       "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
-      "added_at": "2025-09-26 04:57:19",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Here For It All",
-        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
+        "name": "That's You",
+        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
       },
       "artists": [
         {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 224788,
-      "name": "Play This Song (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+      "duration_ms": 319454,
+      "name": "That's You",
+      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
     },
     {
       "added_at": "2025-07-25 09:47:40",
@@ -1621,20 +1617,24 @@
       "url": "https://open.spotify.com/track/2mUmgRb8J6Y1TUbyP3rJXI"
     },
     {
-      "added_at": "2023-11-10 05:00:00",
+      "added_at": "2025-09-26 04:57:19",
       "album": {
-        "name": "That's You",
-        "url": "https://open.spotify.com/album/4oFFTDK2Af6FOPvoafwKjV"
+        "name": "Here For It All",
+        "url": "https://open.spotify.com/album/6MljmKZLh52AUR1v5WpWst"
       },
       "artists": [
         {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
         }
       ],
-      "duration_ms": 319454,
-      "name": "That's You",
-      "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+      "duration_ms": 224788,
+      "name": "Play This Song (feat. Anderson .Paak)",
+      "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
     },
     {
       "added_at": "2025-04-25 07:19:25",
@@ -1749,22 +1749,6 @@
       "url": "https://open.spotify.com/track/1dSNkTpk8Ow57UVBdYHymH"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Here To Stay",
-        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 202139,
-      "name": "Here To Stay",
-      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
-    },
-    {
       "added_at": "2024-09-13 09:22:53",
       "album": {
         "name": "The Love Is Gone",
@@ -1781,6 +1765,22 @@
       "url": "https://open.spotify.com/track/4wCKB3BbfuPItNfp0yCg3k"
     },
     {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/2uWegW1sXYuKFTu9OpU7DA"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 202139,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Gold",
@@ -1795,26 +1795,6 @@
       "duration_ms": 248837,
       "name": "In Your Own Home",
       "url": "https://open.spotify.com/track/342lDmTXJPrWwYxeCvYc0t"
-    },
-    {
-      "added_at": "2026-01-16 18:49:38",
-      "album": {
-        "name": "Don't Play - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51"
-      },
-      "artists": [
-        {
-          "name": "Jill Scott",
-          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
-        }
-      ],
-      "duration_ms": 179500,
-      "name": "Don't Play - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
     },
     {
       "added_at": "2024-06-28 04:00:00",
@@ -1855,6 +1835,26 @@
     {
       "added_at": "2026-01-16 18:49:38",
       "album": {
+        "name": "Don't Play - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4VoV1cJ3ql4COea87NNZ51"
+      },
+      "artists": [
+        {
+          "name": "Jill Scott",
+          "url": "https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Don't Play - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2416mFSovCiMHfpvExCNaa"
+    },
+    {
+      "added_at": "2026-01-16 18:49:38",
+      "album": {
         "name": "NOTHING IS REAL",
         "url": "https://open.spotify.com/album/30V0p5iiu7YQXoz47Tek3v"
       },
@@ -1873,22 +1873,6 @@
       "url": "https://open.spotify.com/track/24TSN5Uo9nyALzxWCJPuSe"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Can I Call You Rose? (Cover)",
-        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Can I Call You Rose? - Cover",
-      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
-    },
-    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "Live For You",
@@ -1903,6 +1887,22 @@
       "duration_ms": 210320,
       "name": "Live For You",
       "url": "https://open.spotify.com/track/2XekPGzt01OOtaRY9oAV1b"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Can I Call You Rose? (Cover)",
+        "url": "https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Can I Call You Rose? - Cover",
+      "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
     },
     {
       "added_at": "2024-11-15 07:05:31",
@@ -1961,22 +1961,6 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Come Around and Love Me",
-        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
-    },
-    {
       "added_at": "2025-11-07 07:43:36",
       "album": {
         "name": "Make Me Feel",
@@ -1991,6 +1975,22 @@
       "duration_ms": 183499,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
+    },
+    {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Come Around and Love Me",
+        "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -2011,6 +2011,22 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+    },
+    {
+      "added_at": "2024-10-25 07:15:59",
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
+      },
+      "artists": [
+        {
+          "name": "Allen Stone",
+          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+        }
+      ],
+      "duration_ms": 223522,
+      "name": "Sweet Little Rainbows",
+      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "added_at": "2025-11-21 11:03:13",
@@ -2043,22 +2059,6 @@
       "duration_ms": 117985,
       "name": "IDK",
       "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
-    },
-    {
-      "added_at": "2024-10-25 07:15:59",
-      "album": {
-        "name": "Mystery",
-        "url": "https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S"
-      },
-      "artists": [
-        {
-          "name": "Allen Stone",
-          "url": "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
-        }
-      ],
-      "duration_ms": 223522,
-      "name": "Sweet Little Rainbows",
-      "url": "https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2181,26 +2181,6 @@
       "url": "https://open.spotify.com/track/2uVhDVhCRhye33a9blkdKu"
     },
     {
-      "added_at": "2026-01-23 06:08:35",
-      "album": {
-        "name": "CAMPILATION",
-        "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
-      },
-      "artists": [
-        {
-          "name": "Camper",
-          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 190090,
-      "name": "LOVE ME (feat. Stevie Wonder)",
-      "url": "https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27"
-    },
-    {
       "added_at": "2025-12-05 07:50:19",
       "album": {
         "name": "High Road",
@@ -2231,6 +2211,26 @@
       "duration_ms": 178891,
       "name": "If The Love Goes",
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
+    },
+    {
+      "added_at": "2026-01-23 06:08:35",
+      "album": {
+        "name": "CAMPILATION",
+        "url": "https://open.spotify.com/album/3ZvwuyvY78GsvVFkYk0wXD"
+      },
+      "artists": [
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 190090,
+      "name": "LOVE ME (feat. Stevie Wonder)",
+      "url": "https://open.spotify.com/track/5HPvBWjFHAO01Zt22uDU27"
     },
     {
       "added_at": "2024-11-01 04:00:00",
@@ -2269,30 +2269,6 @@
       "url": "https://open.spotify.com/track/7spQZCB1AyKJlGwEFwyvv4"
     },
     {
-      "added_at": "2026-01-16 18:49:38",
-      "album": {
-        "name": "Lead It Up",
-        "url": "https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB"
-      },
-      "artists": [
-        {
-          "name": "GENA",
-          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
-        },
-        {
-          "name": "Liv.e",
-          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        }
-      ],
-      "duration_ms": 168510,
-      "name": "Lead It Up",
-      "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
-    },
-    {
       "added_at": "2024-06-14 07:12:33",
       "album": {
         "name": "Why Lawd?",
@@ -2315,6 +2291,30 @@
       "duration_ms": 167894,
       "name": "MoveOn",
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
+    },
+    {
+      "added_at": "2026-01-16 18:49:38",
+      "album": {
+        "name": "Lead It Up",
+        "url": "https://open.spotify.com/album/63449DHEaCWCuCwgn8A4bB"
+      },
+      "artists": [
+        {
+          "name": "GENA",
+          "url": "https://open.spotify.com/artist/1ptSYluUqpp93ZRQEYJ4bE"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 168510,
+      "name": "Lead It Up",
+      "url": "https://open.spotify.com/track/4vcdHDZWVNRCOrEq1LlvsU"
     },
     {
       "added_at": "2025-12-12 18:54:21",
@@ -2417,22 +2417,6 @@
       "url": "https://open.spotify.com/track/6Dae6DNW72nLZ6KGyE7aeH"
     },
     {
-      "added_at": "2025-09-12 20:59:08",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2447,6 +2431,22 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
+      "added_at": "2025-09-12 20:59:08",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/4Mrqm0SLoMDGBbHNKAxJbz"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0DkjaDx0bP6vFrIbeROUot"
     },
     {
       "added_at": "2026-01-23 06:08:35",
@@ -2501,26 +2501,6 @@
       "url": "https://open.spotify.com/track/4nYMxYwlymkLGpP1nBtkJV"
     },
     {
-      "added_at": "2026-01-09 20:11:29",
-      "album": {
-        "name": "Come Get My Love",
-        "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
-      },
-      "artists": [
-        {
-          "name": "Ezra",
-          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
-        },
-        {
-          "name": "ZaeFyeHunnit",
-          "url": "https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1"
-        }
-      ],
-      "duration_ms": 218998,
-      "name": "Come Get My Love",
-      "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
-    },
-    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Stare at Me",
@@ -2539,6 +2519,26 @@
       "duration_ms": 235658,
       "name": "Stare at Me",
       "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+    },
+    {
+      "added_at": "2026-01-09 20:11:29",
+      "album": {
+        "name": "Come Get My Love",
+        "url": "https://open.spotify.com/album/17dAEF9B4dPdOD3iwS5BbK"
+      },
+      "artists": [
+        {
+          "name": "Ezra",
+          "url": "https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN"
+        },
+        {
+          "name": "ZaeFyeHunnit",
+          "url": "https://open.spotify.com/artist/4ZLNPoLvO7VkH4wGsqFiO1"
+        }
+      ],
+      "duration_ms": 218998,
+      "name": "Come Get My Love",
+      "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
     },
     {
       "added_at": "2026-01-09 07:03:52",
@@ -2625,22 +2625,6 @@
       "url": "https://open.spotify.com/track/1kJK2dkXbMw8yOMFEuJUm7"
     },
     {
-      "added_at": "2024-11-15 07:05:31",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/078mNMvgotfFlDzQge83em"
-      },
-      "artists": [
-        {
-          "name": "Tiana Major9",
-          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
-        }
-      ],
-      "duration_ms": 186259,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/62JbZPGa7SEYbF0rJJXT05"
-    },
-    {
       "added_at": "2025-07-25 09:47:40",
       "album": {
         "name": "Twisting (feat. Leon Thomas)",
@@ -2659,6 +2643,22 @@
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
+    },
+    {
+      "added_at": "2025-02-28 06:27:22",
+      "album": {
+        "name": "Hands",
+        "url": "https://open.spotify.com/album/1A1JfvF0eBrUhq7nBbSg8R"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/6VMccRKaAXbFyUgVFwzuKu"
     }
   ],
   "unique_name": "Soul Coffee",

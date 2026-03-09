@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,466 likes - 402 songs - 22 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,465 likes - 402 songs - 22 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 61 | [Help Me Out](https://open.spotify.com/track/76hFpagPBZ6X5s0oqMbJ5Q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:13 |
 | 62 | [Uh Huh](https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:58 |
 | 63 | [TIMEZONE](https://open.spotify.com/track/4Tbuh5q66Ygubei5Xru4jB) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:59 |
-| 64 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 |
-| 65 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
+| 64 | [Internet Girl](https://open.spotify.com/track/3THVfoVD5kdCxPviVaCPi7) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Internet Girl](https://open.spotify.com/album/4yQ0HUnygkBjf33hvA71MF) | 2:43 |
+| 65 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 |
 | 66 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
 | 67 | [How Does It Feel To Be Forgotten](https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/5v7xYJyke25Nmt3l2R7YkR) | 2:41 |
 | 68 | [Mean Girls](https://open.spotify.com/track/5AspWMn9KWy9VxeIhZnRcu) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [BEAUTIFUL CHAOS](https://open.spotify.com/album/7zDBcYSeMAVESJXnVJnzM4) | 3:36 |
@@ -223,8 +223,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 213 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
 | 214 | [Words](https://open.spotify.com/track/49uVH18E8TveD5iSGyhZS5) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Wonderland](https://open.spotify.com/album/2vMjiqNP4eulgUhHaOA2Tc) | 3:38 |
 | 215 | [Edibles.](https://open.spotify.com/track/5pMXGENa0LbcXSNXDeWHMb) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:49 |
-| 216 | [Young Man](https://open.spotify.com/track/3Dp2kZ4749xnDo1DTpRvMM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:09 |
-| 217 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
+| 216 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
+| 217 | [Young Man](https://open.spotify.com/track/3Dp2kZ4749xnDo1DTpRvMM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 4:09 |
 | 218 | [Good Day To Have A Great Day](https://open.spotify.com/track/3XY1FU9onLzMYjhnuh82lZ) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Good Day To Have A Great Day](https://open.spotify.com/album/1VY1VTUW4pUigvEKOBwJex) | 3:01 |
 | 219 | [Touch Myself](https://open.spotify.com/track/5pLF4Gf07VZTg8QqX3wDHi) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [No Hard Feelings](https://open.spotify.com/album/5eQYimKiQfEGaUGtnOlRUZ) | 3:09 |
 | 220 | [Bully](https://open.spotify.com/track/1p5qUDJr3cuyh1X3H1ToeS) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Greetings From Your Hometown](https://open.spotify.com/album/6iMMJ5UlCv9glyse2I2YgR) | 3:13 |
@@ -305,8 +305,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 295 | [Home Alone](https://open.spotify.com/track/1y9tWIZvkOumFGxzsVGbUk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Andrew Barth Feldman](https://open.spotify.com/artist/7JdtavLedJga3j8YZlff5R), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 2:55 |
 | 296 | [Splash](https://open.spotify.com/track/0uce96UnSAGDTyle6gUwtk) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like \(Deluxe\)](https://open.spotify.com/album/4axtAJxO6n73s5ZGBxWAio) | 3:50 |
 | 297 | [Girl](https://open.spotify.com/track/5ivWE6sPYcfXZVoWYengDm) | [Jess Kent](https://open.spotify.com/artist/6UAI6cR7qAewlSTWkRc7wI) | [Girl](https://open.spotify.com/album/7qosKl4ysUy3tB5SlJURDf) | 3:34 |
-| 298 | [No Excuses](https://open.spotify.com/track/6FULKWyBIm4qKMCYT7DXcV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 2:49 |
-| 299 | [Kids Can't Sleep](https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:39 |
+| 298 | [Kids Can't Sleep](https://open.spotify.com/track/1WOypvJUxOp7wM8F3ByEnP) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:39 |
+| 299 | [No Excuses](https://open.spotify.com/track/6FULKWyBIm4qKMCYT7DXcV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 2:49 |
 | 300 | [AGONIA](https://open.spotify.com/track/4uuyY7ENKhsKlO83KT4BFF) | [Kayfex](https://open.spotify.com/artist/1q5Pr05duW9ClrbnBlu4Jb), [Isabela Merced](https://open.spotify.com/artist/76cV7SMu4Depi5jgVD3vHa) | [AGONIA](https://open.spotify.com/album/3yai1RNgc2aaBrGwa0D09T) | 3:44 |
 | 301 | [Mine](https://open.spotify.com/track/3aqwrBlRv9nW5mh3bpvwrP) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [Mine](https://open.spotify.com/album/4kG4CWxqFpeTQ43aV6Se6t) | 3:04 |
 | 302 | [Remember When](https://open.spotify.com/track/1dDz7OLLRxKLT0NU6QjlgD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [A Very Jonas Christmas Movie \(Original Soundtrack\)](https://open.spotify.com/album/1IJDQOKfMGSDKy1St3nJVc) | 3:11 |
@@ -407,8 +407,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 397 | [Follow Me](https://open.spotify.com/track/1yXfzJv2XPRkb0yO1mdEH7) | [James Eagle](https://open.spotify.com/artist/3wwS8vlx9xmeH9fRrVjAgc) | [Garden Music](https://open.spotify.com/album/2a8A9URycJ8IZZjOPUt5pY) | 1:41 |
 | 398 | [Disco \- Extended](https://open.spotify.com/track/3aVttrUSwGUJUJZudd0zgi) | [Jack Armano](https://open.spotify.com/artist/3876m9vL2h0q8uTsJ80GkQ) | [Disco](https://open.spotify.com/album/3OLkHq4ckTvyH1NG0dek2S) | 6:39 |
 | 399 | [Soul](https://open.spotify.com/track/1UmAfq4IIWeCIwNgXr47M0) | [Trey Michaels](https://open.spotify.com/artist/6z64Nyr3o6Yqb0U34kz7Tj) | [Soul](https://open.spotify.com/album/5mOSnguVg9gTIOiel0d6jO) | 2:50 |
-| 400 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
-| 401 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 400 | [Hold Out](https://open.spotify.com/track/6c65pbTsWaRowkkFhBPRrR) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Hold Out](https://open.spotify.com/album/3WH3rUjZNuKvXOEMruRmk2) | 3:32 |
+| 401 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 402 | [Killing Me \- MissisBliss, Jordan \(ES\) Remix](https://open.spotify.com/track/4fZ8XO8vMzcljxOQLa3eXl) | [Jordan \(ES\)](https://open.spotify.com/artist/1gl8rc6F9a4BXOHa3ypGHk), [Oscar Vera](https://open.spotify.com/artist/0saYjOjp2B19PdPJU5VBXs), [MissisBliss](https://open.spotify.com/artist/72NF2nTtoePYZEAQwXp3b6) | [I Belive EP](https://open.spotify.com/album/4tHjtUEDMsWnT5Ob7KWmyk) | 5:32 |
 
-Snapshot ID: `AcLhjAAAAADq62WBowMyuPJy8HbXUd71`
+Snapshot ID: `AcLnLAAAAABXk35B2H0aIhf+RqDv2IDg`

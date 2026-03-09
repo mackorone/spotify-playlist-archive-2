@@ -1,6 +1,6 @@
 {
   "description": "Songs to celebrate the life, death, and resurrection of our Lord Jesus all in one collection.",
-  "num_followers": 82731,
+  "num_followers": 82726,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "TEN",
-        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 310200,
-      "name": "Because Of Christ",
-      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Forever Amen",
         "url": "https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY"
       },
@@ -1455,18 +1435,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "CAIN - EP",
-        "url": "https://open.spotify.com/album/3CniQsVV0nPx2OoUQh0CfZ"
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU"
       },
       "artists": [
         {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
         }
       ],
-      "duration_ms": 198747,
-      "name": "Yes He Can",
-      "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+      "duration_ms": 310200,
+      "name": "Because Of Christ",
+      "url": "https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "CAIN - EP",
+        "url": "https://open.spotify.com/album/3CniQsVV0nPx2OoUQh0CfZ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 198747,
+      "name": "Yes He Can",
+      "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Yes I Will",
         "url": "https://open.spotify.com/album/0OOv0GLx4DQc5tPTkRo6sz"
       },
@@ -1499,6 +1499,26 @@
       "duration_ms": 234731,
       "name": "Yes I Will",
       "url": "https://open.spotify.com/track/5vMzNmHm2ec2zrqiYhkQzZ"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "My Utmost For His Highest",
+        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Rebecca St. James",
+          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
+        }
+      ],
+      "duration_ms": 201401,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "My Utmost For His Highest",
-        "url": "https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Rebecca St. James",
-          "url": "https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9"
-        }
-      ],
-      "duration_ms": 201401,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/0tXaXcuDbaX0Jhzns45Gx5"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Love Has A Name (Studio Version)",
         "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
       },
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 205666,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Here (Live)",
         "url": "https://open.spotify.com/album/2XysmxL6KnVvYr8oWRxFp1"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 468208,
       "name": "Come Alive (Resurrection Power) - Live",
       "url": "https://open.spotify.com/track/75iZxAhIjxwBed9QbkAuxy"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/3aF9nF67exVSCjr4yQTi9i"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 205666,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/0JL62s3HOx8rf2qTv7EG8J"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Hymns For The Christian Life",
-        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
-      },
-      "artists": [
-        {
-          "name": "Keith & Kristyn Getty",
-          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Christ Is Risen, He Is Risen Indeed",
-      "url": "https://open.spotify.com/track/4o0n1yoeqKglpnlDgprRzL"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 292289,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "Hymns For The Christian Life",
+        "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
+      },
+      "artists": [
+        {
+          "name": "Keith & Kristyn Getty",
+          "url": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "Christ Is Risen, He Is Risen Indeed",
+      "url": "https://open.spotify.com/track/4o0n1yoeqKglpnlDgprRzL"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1803,8 +1803,8 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "The Narrow Sea",
-        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
+        "name": "Valley of the Shadow",
+        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
       "artists": [
         {
@@ -1812,9 +1812,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 313489,
-      "name": "O Rock Eternal",
-      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+      "duration_ms": 256127,
+      "name": "Glory & Grace",
+      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -1887,8 +1887,8 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Valley of the Shadow",
-        "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
+        "name": "The Narrow Sea",
+        "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
       "artists": [
         {
@@ -1896,9 +1896,9 @@
           "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
         }
       ],
-      "duration_ms": 256127,
-      "name": "Glory & Grace",
-      "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+      "duration_ms": 313489,
+      "name": "O Rock Eternal",
+      "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2023,22 +2023,18 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Holy Jesus",
-        "url": "https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2"
+        "name": "Hallelujah For The Cross",
+        "url": "https://open.spotify.com/album/4lEgT0xxX67pJMBg8h5iRh"
       },
       "artists": [
         {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        },
-        {
-          "name": "Mariah McManus Goss",
-          "url": "https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 448503,
-      "name": "Holy Jesus - Live",
-      "url": "https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8"
+      "duration_ms": 224520,
+      "name": "Hallelujah For The Cross",
+      "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2075,18 +2071,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Hallelujah For The Cross",
-        "url": "https://open.spotify.com/album/4lEgT0xxX67pJMBg8h5iRh"
+        "name": "Holy Jesus",
+        "url": "https://open.spotify.com/album/2XzkenTIwnHipgyRC61WQ2"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        },
+        {
+          "name": "Mariah McManus Goss",
+          "url": "https://open.spotify.com/artist/4NFdgVfqbDIAzHDhQKB6In"
         }
       ],
-      "duration_ms": 224520,
-      "name": "Hallelujah For The Cross",
-      "url": "https://open.spotify.com/track/6TVUJKNnDfvPM6jtXWMcrO"
+      "duration_ms": 448503,
+      "name": "Holy Jesus - Live",
+      "url": "https://open.spotify.com/track/1NcL8hR3dfpDyUwNqQLbY8"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "My Weapon",
-        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        }
-      ],
-      "duration_ms": 261093,
-      "name": "My Weapon",
-      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "What You Could Do With Me",
         "url": "https://open.spotify.com/album/4uy0OpUiNRU5mXvrFavQze"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 231550,
       "name": "What You Could Do With Me",
       "url": "https://open.spotify.com/track/5IJ3tn2MfGpGJ7GEGN3vhV"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "My Weapon",
+        "url": "https://open.spotify.com/album/4aa25Bj7KAhlasScyTGaP5"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "duration_ms": 261093,
+      "name": "My Weapon",
+      "url": "https://open.spotify.com/track/0EkyU9Ms0g7F2RJJgoypHa"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Majestic (Live)",
+        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 324186,
+      "name": "How Majestic - Live",
+      "url": "https://open.spotify.com/track/6MgpaHK6rYW49Hrb5r63jT"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Music Inspired By The Story",
         "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 249000,
       "name": "The Passover Song (feat. Sean Carter)",
       "url": "https://open.spotify.com/track/4IM3k6CREQ4buhuklvqpa8"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "Majestic (Live)",
-        "url": "https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 324186,
-      "name": "How Majestic - Live",
-      "url": "https://open.spotify.com/track/6MgpaHK6rYW49Hrb5r63jT"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
-      },
-      "artists": [
-        {
-          "name": "I AM THEY",
-          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
-        }
-      ],
-      "duration_ms": 238306,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
         "name": "Beautiful Scandalous Night",
         "url": "https://open.spotify.com/album/6PUBCDO50871bMiebc5s6e"
       },
@@ -2439,6 +2423,22 @@
     {
       "added_at": "2025-04-17 21:35:44",
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/0F7SPP7Wt7C9NP80JPDPdj"
+      },
+      "artists": [
+        {
+          "name": "I AM THEY",
+          "url": "https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX"
+        }
+      ],
+      "duration_ms": 238306,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/7reASFw2ZMgqahFJc6CMgl"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
         "name": "Take Everything",
         "url": "https://open.spotify.com/album/5J96GAXxf64WebV0PynLQI"
       },
@@ -2451,6 +2451,22 @@
       "duration_ms": 249302,
       "name": "You Saved My Soul",
       "url": "https://open.spotify.com/track/45TADaAANvRW361FGzVdIK"
+    },
+    {
+      "added_at": "2025-04-17 21:35:44",
+      "album": {
+        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
+        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
+      },
+      "artists": [
+        {
+          "name": "Caroline Cobb",
+          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
+        }
+      ],
+      "duration_ms": 212466,
+      "name": "He Is Risen",
+      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
     },
     {
       "added_at": "2025-04-17 21:35:44",
@@ -2503,22 +2519,6 @@
       "duration_ms": 256734,
       "name": "My Hope Secure",
       "url": "https://open.spotify.com/track/4C5FUrMegjnMuBdvtPDn2k"
-    },
-    {
-      "added_at": "2025-04-17 21:35:44",
-      "album": {
-        "name": "The Blood + the Breath: Songs That Tell the Story of Redemption",
-        "url": "https://open.spotify.com/album/1rxue9XMuS2bqtExqQdHON"
-      },
-      "artists": [
-        {
-          "name": "Caroline Cobb",
-          "url": "https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "He Is Risen",
-      "url": "https://open.spotify.com/track/00qxf1td5rL2dVFzbFa5qH"
     },
     {
       "added_at": "2025-04-17 21:35:44",

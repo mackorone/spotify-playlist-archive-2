@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from the continent and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 234 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 252 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 49 | [Not Drinking Anymore](https://open.spotify.com/track/4oiNNzI9HIylMF43MpJidg) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Not Drinking Anymore](https://open.spotify.com/album/5OaWbqgtoNMDubbCYnkUuU) | 4:06 |
 | 50 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 51 | [SORE LOSER](https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [SORE LOSER](https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d) | 2:06 |
-| 52 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
-| 53 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
+| 52 | [Sinatanale](https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [TSIE](https://open.spotify.com/artist/2ewKf83wdAUxvWU2J1fIhF) | [Sinatanale](https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ) | 3:34 |
+| 53 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 |
 | 54 | [Yalwa](https://open.spotify.com/track/45wZB5tjked2XJN1AB8lcR) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Yalwa](https://open.spotify.com/album/6K8LNHPN2rCs6ljbCxREYO) | 2:34 |
 | 55 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 56 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 75 | [Old Hometown](https://open.spotify.com/track/38X6XU5060U7FtTSYG8wFm) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Old Hometown](https://open.spotify.com/album/5SNQz2A3Q6E7v6vpEPzrA0) | 2:38 |
 | 76 | [changing](https://open.spotify.com/track/2UmxbPzKRhZoi3uEBV7FOY) | [tan sholto](https://open.spotify.com/artist/7ARldRXJIb2tVzOwo3pq3V) | [changing](https://open.spotify.com/album/3lkvhqFjk0FSeYcJvszsmC) | 3:18 |
 | 77 | [Isineke](https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Isineke](https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3) | 3:26 |
-| 78 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
-| 79 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
-| 80 | [Ayaye](https://open.spotify.com/track/59ArIIBJ8oCy7LnoA8DqYS) | [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Muhamago](https://open.spotify.com/artist/2FL6QKPB10NHx7Mz3984a1), [Neil Darmon](https://open.spotify.com/artist/5fRLbonokHsHrJ4QYAEPmy), [Marcia Buwa](https://open.spotify.com/artist/3ylkymU6NJUnfJlE4TDzU8) | [Ayaye](https://open.spotify.com/album/6NuWQ7ufbJr5blrk5lcpeP) | 3:23 |
+| 78 | [WATSHO](https://open.spotify.com/track/6KHlZfxzzMNv0u7hsbWDak) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [WATSHO](https://open.spotify.com/album/2DLHXKEqhzvWbaEmmpdrgy) | 3:22 |
+| 79 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
+| 80 | [take it & leave](https://open.spotify.com/track/3Ix57xjmVUtHS9bJsstXiY) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [take it & leave](https://open.spotify.com/album/57hsyg2gKZM8JKGnOkZCdc) | 4:08 |
 
 Snapshot ID: `AAAAANwlI8HPvJN3cn9IOZ2RrT6wNSyu`

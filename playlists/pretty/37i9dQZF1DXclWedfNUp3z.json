@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 271629,
+  "num_followers": 271697,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -63,18 +63,30 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "The Sounds of Nature",
-        "url": "https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp"
+        "name": "Attract",
+        "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
       },
       "artists": [
         {
-          "name": "Forest Walks",
-          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
+          "name": "Equanimous",
+          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
+        },
+        {
+          "name": "Ruby Chase",
+          "url": "https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq"
+        },
+        {
+          "name": "Bliss Looper",
+          "url": "https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN"
+        },
+        {
+          "name": "OPUS",
+          "url": "https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU"
         }
       ],
-      "duration_ms": 184409,
-      "name": "The Sounds of Nature",
-      "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
+      "duration_ms": 174855,
+      "name": "Integration",
+      "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -111,30 +123,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Attract",
-        "url": "https://open.spotify.com/album/5J2fHqmcPXesKLfGDFtekA"
+        "name": "The Sounds of Nature",
+        "url": "https://open.spotify.com/album/2FFBrD5XOhYuWvgcjkp9Rp"
       },
       "artists": [
         {
-          "name": "Equanimous",
-          "url": "https://open.spotify.com/artist/33W9Pu3NHtSlqbaOI6pqXn"
-        },
-        {
-          "name": "Ruby Chase",
-          "url": "https://open.spotify.com/artist/7z3jWevFVKWVvlSbPVpjeq"
-        },
-        {
-          "name": "Bliss Looper",
-          "url": "https://open.spotify.com/artist/2vcc8a70GimYU5JkdSngnN"
-        },
-        {
-          "name": "OPUS",
-          "url": "https://open.spotify.com/artist/4iLJWObQDJTdSs6nmll4zU"
+          "name": "Forest Walks",
+          "url": "https://open.spotify.com/artist/18InfiT5lp2g36MZgGqjZW"
         }
       ],
-      "duration_ms": 174855,
-      "name": "Integration",
-      "url": "https://open.spotify.com/track/2Rdu1w66Rt2AKdbU9a5RfQ"
+      "duration_ms": 184409,
+      "name": "The Sounds of Nature",
+      "url": "https://open.spotify.com/track/2pnF9tTiEf4kxKD81scld8"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "From Shores To Mountains",
+        "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
+      },
+      "artists": [
+        {
+          "name": "The 2 Inversions",
+          "url": "https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "From Shores To Mountains",
+      "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Film Still / The Sea",
         "url": "https://open.spotify.com/album/5hNCHDOKsp1go4MpfnQjaq"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 312000,
       "name": "Film Still / The Sea",
       "url": "https://open.spotify.com/track/7pDwKh76SxyY1t8a1i0nE6"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "From Shores To Mountains",
-        "url": "https://open.spotify.com/album/1jtEPkPm0pQeNBJ6ygS8OO"
-      },
-      "artists": [
-        {
-          "name": "The 2 Inversions",
-          "url": "https://open.spotify.com/artist/2v62tGVulAui917rxpcmVJ"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "From Shores To Mountains",
-      "url": "https://open.spotify.com/track/5kOy4Ap0QsN24vCL9H3KTt"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
+        "name": "4T Recordings",
+        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 197249,
+      "name": "4T Recordings",
+      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
         "name": "Watermelon Well",
         "url": "https://open.spotify.com/album/0nNsXUIdgSoz2kVRbOyRDL"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 221647,
       "name": "Watermelon Well",
       "url": "https://open.spotify.com/track/4P0VaKvN6XffglDI00Kxr3"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "4T Recordings",
-        "url": "https://open.spotify.com/album/1TP8nDCTDUaVGFr6lfQ61r"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 197249,
-      "name": "4T Recordings",
-      "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Hornworm Metamorphosis",
-        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
       },
       "artists": [
         {
@@ -1448,9 +1448,25 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 104000,
-      "name": "Hornworm Metamorphosis",
-      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+      "duration_ms": 197142,
+      "name": "Dragonfly",
+      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+    },
+    {
+      "added_at": "2026-02-19 13:37:51",
+      "album": {
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+      },
+      "artists": [
+        {
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+        }
+      ],
+      "duration_ms": 123953,
+      "name": "Yip, Yip, Yip",
+      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1475,18 +1491,18 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
         }
       ],
-      "duration_ms": 123953,
-      "name": "Yip, Yip, Yip",
-      "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
     },
     {
       "added_at": "2026-02-19 13:37:51",
@@ -1507,24 +1523,8 @@
     {
       "added_at": "2026-02-19 13:37:51",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
-    },
-    {
-      "added_at": "2026-02-19 13:37:51",
-      "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/1tnFjROKdsPB8Kb1PMOruy"
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
       },
       "artists": [
         {
@@ -1532,9 +1532,9 @@
           "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Dragonfly",
-      "url": "https://open.spotify.com/track/4macbsL1U1qhQD9Ixj5OVa"
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
     },
     {
       "added_at": "2026-02-19 13:37:51",

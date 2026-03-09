@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 15743,
+  "num_followers": 15757,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
-        "name": "Ojitos Chinos",
-        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 141575,
-      "name": "Ojitos Chinos",
-      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
         "name": "Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/2B8V0BWHYqDKaBgzfoGc4v"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180652,
       "name": "Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/3HtgDkkz75AuFIPA8Pfw6X"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
+        "name": "Ojitos Chinos",
+        "url": "https://open.spotify.com/album/0zwvkTHUGRjbcWUDCXEkXk"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 141575,
+      "name": "Ojitos Chinos",
+      "url": "https://open.spotify.com/track/2HixgseTWGGRlziKcE1Cyh"
     },
     {
       "added_at": "2026-02-27 04:59:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
-        "name": "Sol Y Lluvia",
-        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
         "name": "Emocional",
         "url": "https://open.spotify.com/album/14rF7fiIcUBsg17Arf3VJM"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 189333,
       "name": "Emocional",
       "url": "https://open.spotify.com/track/2mob68KQblU3mK2hIdF9R1"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
+        "name": "Sol Y Lluvia",
+        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
     },
     {
       "added_at": "2026-02-27 04:59:16",
@@ -1735,6 +1735,26 @@
     {
       "added_at": "2026-02-27 04:59:16",
       "album": {
+        "name": "Calor",
+        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 200769,
+      "name": "Calor",
+      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
+    },
+    {
+      "added_at": "2026-02-27 04:59:16",
+      "album": {
         "name": "ASTROPICAL",
         "url": "https://open.spotify.com/album/4dkik5WazJ0OoZHrdpbot8"
       },
@@ -1755,26 +1775,6 @@
       "duration_ms": 176666,
       "name": "Coraz\u00f3n Adentro (Escorpio)",
       "url": "https://open.spotify.com/track/10ehMz8cxmyxUjTrY35Op6"
-    },
-    {
-      "added_at": "2026-02-27 04:59:16",
-      "album": {
-        "name": "Calor",
-        "url": "https://open.spotify.com/album/6hVQWYPgrsqSvplVaujDvn"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 200769,
-      "name": "Calor",
-      "url": "https://open.spotify.com/track/2AwbTqtfhjdN8bexfe5WyE"
     },
     {
       "added_at": "2026-02-27 04:59:16",

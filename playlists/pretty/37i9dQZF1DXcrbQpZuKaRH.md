@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,196 likes - 125 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,251 likes - 125 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 124 | [Hilow](https://open.spotify.com/track/2U6t8MSkOASKbaefjLs9Ut) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Hilow](https://open.spotify.com/album/4CkGV5W10Agf45RDQjjZrv) | 3:43 |
 | 125 | [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 |
 
-Snapshot ID: `AAAAAMTF3YAcfo5akSnvd3LuEiWji1Zh`
+Snapshot ID: `AAAAAOSvnB+L7ITm3ZNIUxC/yeqSs9Th`

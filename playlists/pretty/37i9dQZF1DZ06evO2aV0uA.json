@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 142888,
+  "num_followers": 142913,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAalm9xSbKWXZhFvnBeAnHc",
+  "snapshot_id": "aatqgAAAAADVTRu0yhQ8HuAhwKo9ne5G",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wrath (Special Edition)",
         "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 226493,
       "name": "Set To Fail",
       "url": "https://open.spotify.com/track/4MMGq2YxRFyMMUhxaAQdQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
     },
     {
       "added_at": null,

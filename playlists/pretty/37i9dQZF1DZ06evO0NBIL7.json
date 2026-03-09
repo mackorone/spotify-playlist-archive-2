@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAR9aI9m5xeb2Dtpz4sHmfh",
+  "snapshot_id": "aatqgAAAAADzrV0id+JBf5MhXt/T8lF0",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 251544,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
+      "duration_ms": 190560,
+      "name": "You Had Me At Hello",
+      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 190560,
-      "name": "You Had Me At Hello",
-      "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "all good",
-        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 210729,
-      "name": "Exit Oblivion",
-      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
+      "duration_ms": 224063,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/5877Qf8ngG156ZgtFbB7V0"
+        "name": "all good",
+        "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 224063,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/673L79ex3TRCLsZdvMMwFY"
+      "duration_ms": 210729,
+      "name": "Exit Oblivion",
+      "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
     },
     {
       "added_at": null,

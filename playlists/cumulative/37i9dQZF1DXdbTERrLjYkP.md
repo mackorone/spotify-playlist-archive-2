@@ -2,7 +2,7 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent writing their own songs\. Cover: Emyrson Fiona
+> Discover the next wave of talent writing their own songs\. Cover: Emyrson Flora
 
 1,023 songs - 2 day 7 hr 6 min
 

@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 220407,
+  "num_followers": 220430,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAB0/v++VtoslvcMH9JjtAWC",
+  "snapshot_id": "aatqgAAAAADucOjbwykxq7APl4q08+e1",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 643127,
+      "name": "Blue Train",
+      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 329986,
       "name": "The Feeling Of Jazz",
       "url": "https://open.spotify.com/track/6aQjtWVOYLhaatELyPBt12"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 643127,
-      "name": "Blue Train",
-      "url": "https://open.spotify.com/track/3zIuHdD8dkh1vPxQu334T7"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Duke Ellington & John Coltrane",
         "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
       },
@@ -683,22 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+        "name": "Kenny Burrell & John Coltrane",
+        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         },
         {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 259866,
-      "name": "Autumn Serenade",
-      "url": "https://open.spotify.com/track/3lrcl8bNSUkHMjHEtP5yC1"
+      "duration_ms": 190573,
+      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
+      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
     },
     {
       "added_at": null,
@@ -735,26 +755,6 @@
       "duration_ms": 542400,
       "name": "Someday My Prince Will Come (feat. John Coltrane, Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/0PHqHvmg4TIaANfbsvDMTR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kenny Burrell & John Coltrane",
-        "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 190573,
-      "name": "Why Was I Born? - Rudy Van Gelder Remaster 1958",
-      "url": "https://open.spotify.com/track/5LnChMpPDKhkyE6wJjVGn1"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soultrane",
-        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 293240,
-      "name": "Theme For Ernie",
-      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenor Conclave",
         "url": "https://open.spotify.com/album/6jiJtqQZ1fKpxf7IhQ9ZGK"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 904493,
       "name": "How Deep Is The Ocean?",
       "url": "https://open.spotify.com/track/1xhjDUztnjD42UfY72Atg6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soultrane",
+        "url": "https://open.spotify.com/album/7pU5qUNqbOMToIyqzF0Nmg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 293240,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/0H2iAE7Y1ivCZ5YzEf3NMT"
     },
     {
       "added_at": null,
@@ -971,22 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coltrane's Sound",
-        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 337133,
-      "name": "Body and Soul",
-      "url": "https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tenor Madness",
         "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
       },
@@ -1023,8 +1007,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+        "name": "Coltrane's Sound",
+        "url": "https://open.spotify.com/album/2h8x8HL7N3grURq1OM77ja"
       },
       "artists": [
         {
@@ -1032,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 550189,
-      "name": "Moment's Notice",
-      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
+      "duration_ms": 337133,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/26bnmztmGcY03sO1uWmoTd"
     },
     {
       "added_at": null,
@@ -1051,6 +1035,22 @@
       "duration_ms": 418246,
       "name": "Mr. P.C. - Mono",
       "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 550189,
+      "name": "Moment's Notice",
+      "url": "https://open.spotify.com/track/3GXYGbyvprPqiH9do6ewY3"
     }
   ],
   "unique_name": "This Is John Coltrane",

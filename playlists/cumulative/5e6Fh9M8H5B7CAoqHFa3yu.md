@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,909 songs - 4 day 18 hr 15 min
+1,911 songs - 4 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [Carosello](https://open.spotify.com/track/6kmlwM94J4MmnBEgAH3Oeb) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Carosello](https://open.spotify.com/album/0nlIJ1YO4UbYIYl5mNe1gp) | 3:35 | 2025-05-06 |  |
 | [Castles In The Sand](https://open.spotify.com/track/69BPGdSMjgoqMc7ARHTWD3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Castles In The Sand](https://open.spotify.com/album/0DAvX41yl9ymrUie0E6Dp9) | 3:57 | 2026-02-05 |  |
 | [Catch a Vibe](https://open.spotify.com/track/2LXdb1bFCf6rdl9W8kE9Te) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:19 | 2024-06-30 |  |
+| [Catch A Wave](https://open.spotify.com/track/71NOaWAnbzTlUjmXT718MP) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Death of the Party](https://open.spotify.com/album/5dBxgjLQ6wWiqyhSgChjDy) | 3:58 | 2026-03-08 |  |
 | [Catena Aurea](https://open.spotify.com/track/1yiiFvAPbIaKGkbwjecgEP) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Catena Aurea](https://open.spotify.com/album/56e8OMpTfiEI8L3MMrrdrS) | 2:21 | 2025-10-27 |  |
 | [Catene](https://open.spotify.com/track/1cyaPTY0zHygxGUhIEKvXV) | [Nessuno Escluso](https://open.spotify.com/artist/1qbcBzHSadFTxZWg8gVenZ) | [Catene](https://open.spotify.com/album/69h0mfiUvARQf417CCVAkM) | 3:52 | 2024-10-13 |  |
 | [Causeless Shall Not Come](https://open.spotify.com/track/62iMW0wwToL65MyYuM7cdw) | [Mikey Dub](https://open.spotify.com/artist/7rRgU2EvtyQkvbywoymLUD), [Don Hartley](https://open.spotify.com/artist/0SfhVh8KZdNxqRvIvQyCTb) | [Causeless Shall Not Come](https://open.spotify.com/album/7dj9AEsY6krvVoWOQq9eYv) | 4:10 | 2024-03-23 |  |
@@ -430,6 +431,7 @@
 | [Dreams Come True](https://open.spotify.com/track/55f022GPJlyXA4ZnPHofKQ) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Dreams Come True](https://open.spotify.com/album/6sFJJG5apP7qoWahwaeAvQ) | 2:16 | 2025-08-09 |  |
 | [Drifter's Mind](https://open.spotify.com/track/7tZpt1z5unaqVvd5GfZaUD) | [Dubcitium](https://open.spotify.com/artist/3vb7BXwVSGwsLCmNnqL4AV) | [Drifter's Mind EP](https://open.spotify.com/album/58wdujL0AZOYkc0723H5Kc) | 4:20 | 2024-06-30 |  |
 | [Drifting](https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT) | [Rythmora](https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9) | [Drifting](https://open.spotify.com/album/5Y28dauWThEhzg0yaQM4kE) | 2:08 | 2025-10-21 |  |
+| [Drifting Away](https://open.spotify.com/track/5XyDKHvBLPUQjmev14xOVg) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3) | [Drifting Away](https://open.spotify.com/album/1oN3fHZvxNl4hZXD9pZ3D8) | 3:26 | 2026-03-08 |  |
 | [Drilling 4 Black Gold](https://open.spotify.com/track/16lq7Qholf7soy69oXCnb3) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Drilling 4 Black Gold](https://open.spotify.com/album/4Kdmee7t25mzd2Q5Hqvj9W) | 2:20 | 2026-02-05 |  |
 | [DRIPPIN PIMPIN](https://open.spotify.com/track/2AeBrHrV1qn4ZlYY2NuGkF) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
 | [Droga Dura](https://open.spotify.com/track/3XDwalTiYckfpWShJZJHAd) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Droga Dura](https://open.spotify.com/album/4weXx6BxafREowHuA35xQR) | 3:25 | 2026-01-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 642157,
+  "num_followers": 642206,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANcg23tu7hb8hmxPHEa7gOmh77sr",
+  "snapshot_id": "AAAAADNX1zJzcwq//bSbapHLr0kkDQ/1",
   "tracks": [
     {
       "added_at": "2026-03-06 10:30:45",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
-        "name": "Erlk\u00f6nig",
-        "url": "https://open.spotify.com/album/0eYMNcQ8Ngg5Yc9v4k0Fdu"
-      },
-      "artists": [
-        {
-          "name": "L\u016bcadelic",
-          "url": "https://open.spotify.com/artist/65WfmKecS1GdKkxURvvY1s"
-        }
-      ],
-      "duration_ms": 156529,
-      "name": "Erlk\u00f6nig",
-      "url": "https://open.spotify.com/track/5YqhT9Jiw4wz1qliKQksoZ"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
         "name": "Turn The Lights Off",
         "url": "https://open.spotify.com/album/2dFpvDuPJp8QOKDfVEcrzw"
       },
@@ -407,26 +391,6 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
-        "name": "Blind vor Liebe",
-        "url": "https://open.spotify.com/album/66r9ZQtjWbTeKQCwLBK7Tk"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Vivi Minu",
-          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
-        }
-      ],
-      "duration_ms": 153352,
-      "name": "Blind vor Liebe",
-      "url": "https://open.spotify.com/track/7aRf9f0EGLHvrFRoPGsGxV"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
       },
@@ -447,6 +411,26 @@
       "duration_ms": 151589,
       "name": "Boyz In Paris (with VINAI)",
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
+        "name": "Blind vor Liebe",
+        "url": "https://open.spotify.com/album/66r9ZQtjWbTeKQCwLBK7Tk"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Vivi Minu",
+          "url": "https://open.spotify.com/artist/1jk3Oyy4oKxYMYuvG4b3DH"
+        }
+      ],
+      "duration_ms": 153352,
+      "name": "Blind vor Liebe",
+      "url": "https://open.spotify.com/track/7aRf9f0EGLHvrFRoPGsGxV"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -523,30 +507,6 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
-        "name": "WAS LOS?",
-        "url": "https://open.spotify.com/album/4vy3eIgkTlLqxoaQJciQgF"
-      },
-      "artists": [
-        {
-          "name": "Zensery",
-          "url": "https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        },
-        {
-          "name": "District Red",
-          "url": "https://open.spotify.com/artist/6vE6w11R6JasBRdD6juhqO"
-        }
-      ],
-      "duration_ms": 147617,
-      "name": "WAS LOS?",
-      "url": "https://open.spotify.com/track/31baymElZm1jcHdVZejQyF"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -567,6 +527,30 @@
       "duration_ms": 144562,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
+        "name": "WAS LOS?",
+        "url": "https://open.spotify.com/album/4vy3eIgkTlLqxoaQJciQgF"
+      },
+      "artists": [
+        {
+          "name": "Zensery",
+          "url": "https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf"
+        },
+        {
+          "name": "Zombic",
+          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
+        },
+        {
+          "name": "District Red",
+          "url": "https://open.spotify.com/artist/6vE6w11R6JasBRdD6juhqO"
+        }
+      ],
+      "duration_ms": 147617,
+      "name": "WAS LOS?",
+      "url": "https://open.spotify.com/track/31baymElZm1jcHdVZejQyF"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -627,22 +611,6 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
-        "name": "Baby Bell",
-        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
-      },
-      "artists": [
-        {
-          "name": "Breitner",
-          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
-        }
-      ],
-      "duration_ms": 159565,
-      "name": "Baby Bell",
-      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
+        "name": "Baby Bell",
+        "url": "https://open.spotify.com/album/57kEzJP6946zerd9ut7aMF"
+      },
+      "artists": [
+        {
+          "name": "Breitner",
+          "url": "https://open.spotify.com/artist/51nc2EzirxJ4U2nqjXezl6"
+        }
+      ],
+      "duration_ms": 159565,
+      "name": "Baby Bell",
+      "url": "https://open.spotify.com/track/6790Rqyau5Ol6mxj2UbTP3"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -743,22 +727,6 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
-        "name": "SCHREI NACH LIEBE",
-        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
-      },
-      "artists": [
-        {
-          "name": "Michael Klotz",
-          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
-        }
-      ],
-      "duration_ms": 149612,
-      "name": "SCHREI NACH LIEBE",
-      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
       },
@@ -779,6 +747,22 @@
       "duration_ms": 163783,
       "name": "Praise The Lord (Da Shine) (feat. Skepta) - Durdenhauer Edit",
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
+        "name": "SCHREI NACH LIEBE",
+        "url": "https://open.spotify.com/album/5QIaC3d8OLlygvDAANvgHu"
+      },
+      "artists": [
+        {
+          "name": "Michael Klotz",
+          "url": "https://open.spotify.com/artist/4i8fdH54Ielws2ghRMPKGh"
+        }
+      ],
+      "duration_ms": 149612,
+      "name": "SCHREI NACH LIEBE",
+      "url": "https://open.spotify.com/track/3QNc1m52Gwrow7nAZf3raw"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
         "name": "Rotes Halsband",
         "url": "https://open.spotify.com/album/3QzGvskUTso0GJshmKTzFx"
       },
@@ -863,22 +863,6 @@
       "duration_ms": 133618,
       "name": "Rotes Halsband",
       "url": "https://open.spotify.com/track/32igCcGjazdDWcxYFaaATV"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -1323,6 +1307,26 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
+        "name": "All of the Lights",
+        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
+      },
+      "artists": [
+        {
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "Caro van Ee",
+          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "All of the Lights",
+      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
         "name": "Craving 4 U (feat. bbyclose)",
         "url": "https://open.spotify.com/album/6VIs4Ijm0PCcaIFZdaRlY0"
       },
@@ -1343,26 +1347,6 @@
       "duration_ms": 139300,
       "name": "Craving 4 U (feat. bbyclose)",
       "url": "https://open.spotify.com/track/2j6CAcq3nUjNCdEAE9xYpZ"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
-        "name": "All of the Lights",
-        "url": "https://open.spotify.com/album/69PbEmFXdjV6D5icCoDU3F"
-      },
-      "artists": [
-        {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
-        },
-        {
-          "name": "Caro van Ee",
-          "url": "https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "All of the Lights",
-      "url": "https://open.spotify.com/track/0hSU77xrJln8H28BKrSx4R"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -1479,6 +1463,22 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
         "name": "7 Seconds (feat. Shamiya Battles) [Radio Edit]",
         "url": "https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG"
       },
@@ -1495,22 +1495,6 @@
       "duration_ms": 92226,
       "name": "7 Seconds (feat. Shamiya Battles) - Radio Edit",
       "url": "https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -1559,6 +1543,22 @@
     {
       "added_at": "2026-03-06 10:30:45",
       "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
         "name": "Motto",
         "url": "https://open.spotify.com/album/279qpRKsE7c6mv0U3I3BGP"
       },
@@ -1575,22 +1575,6 @@
       "duration_ms": 161392,
       "name": "Motto",
       "url": "https://open.spotify.com/track/0yeFZfAw5Ua5JMon1v46GZ"
-    },
-    {
-      "added_at": "2026-03-06 10:30:45",
-      "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
     },
     {
       "added_at": "2026-03-06 10:30:45",
@@ -1843,6 +1827,26 @@
       "duration_ms": 164750,
       "name": "HERZ MACHT BAMM",
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
+    },
+    {
+      "added_at": "2026-03-06 10:30:45",
+      "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
     }
   ],
   "unique_name": "schiebt anders",

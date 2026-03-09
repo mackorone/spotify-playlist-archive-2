@@ -1,6 +1,6 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1753666,
+  "num_followers": 1753678,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-02-20 05:00:35",
       "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 272626,
+      "name": "Holding On to You",
+      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
+    },
+    {
+      "added_at": "2026-02-20 05:00:35",
+      "album": {
         "name": "The Rest of Our Life",
         "url": "https://open.spotify.com/album/4VKhC1dO9LPiKc1N7TJHRx"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 224531,
       "name": "The Rest of Our Life",
       "url": "https://open.spotify.com/track/19P6cJstaoQJHtHW3HOGcg"
-    },
-    {
-      "added_at": "2026-02-20 05:00:35",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Holding On to You",
-      "url": "https://open.spotify.com/track/7A35lRz4cm0QkbnlNAJPtm"
     },
     {
       "added_at": "2026-02-20 05:00:35",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-122 songs - 6 hr 18 min
+123 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Heartbreaker](https://open.spotify.com/track/4k0pqjIpfO7WV3eFUTgL9m) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Heartbreaker](https://open.spotify.com/album/3aDLPo5dzrgHUYJlmp2YBM) | 3:42 | 2025-07-03 |  |
 | [Heaven Without You](https://open.spotify.com/track/4CeXqDnd36kBb2j88h67it) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1eCGY9WJpYgtaFh1Lk2KNo) | 3:22 | 2025-07-03 |  |
 | [Hey Seventeen](https://open.spotify.com/track/2kgyTEylub11rjvxOUjdhX) | [Henry Patterson](https://open.spotify.com/artist/7ag9fFv8ZHKcjh4w5J4p6P) | [The Heavy Kinda Feeling EP](https://open.spotify.com/album/09aNITIqqQVM6WDtLq1UPA) | 2:56 | 2025-07-03 |  |
-| [High](https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [High / Higher](https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR) | 2:57 | 2025-07-03 |  |
+| [High](https://open.spotify.com/track/3bIoJjL2VH2U9nInHQYHgv) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [High / Higher](https://open.spotify.com/album/1UeBb2lT6mMln7aveePUMR) | 2:57 | 2025-07-03 | 2026-03-09 |
+| [High](https://open.spotify.com/track/4tROPhh9tkSqwLwYMeCgjQ) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Never Thought I Could \(Part 1\)](https://open.spotify.com/album/0euzHteEKLaGh5q1yVyGQS) | 2:57 | 2026-03-08 |  |
 | [Hold on to Hope](https://open.spotify.com/track/5go7tHxS8ac3oC42Ugbwpu) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Canvas](https://open.spotify.com/album/2l2BPv4eVYXFY3Es8mvFui) | 2:26 | 2025-07-03 |  |
 | [Hollywood Blvd](https://open.spotify.com/track/7uPT70qnevznWJPDyagERP) | [Celine del Carmen](https://open.spotify.com/artist/0Uio2mqycWxzpG1LUatzu3) | [Hollywood Blvd](https://open.spotify.com/album/6UY6KsTCaBaqZctMgSDggD) | 2:40 | 2025-07-03 |  |
 | [Hot Honey](https://open.spotify.com/track/7fZtgiJSNJ2QarKKKSssBp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [Hot Honey](https://open.spotify.com/album/2OB4KiVHmAuD7CGpMmiqC5) | 2:47 | 2025-07-03 |  |

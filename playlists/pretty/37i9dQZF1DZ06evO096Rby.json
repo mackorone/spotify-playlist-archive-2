@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 54173,
+  "num_followers": 54218,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABjiXXEoEHCxTb3DQtFEHOE",
+  "snapshot_id": "aatqgAAAAAAjCCi+z5q4Ao8XXdqjMf+e",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El De Las Mieles",
+        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 205141,
+      "name": "El De Las Mieles",
+      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vencedor",
         "url": "https://open.spotify.com/album/6cDOkIgadHgQ30JIaxGTAV"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 183311,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/50oepi2tLLJMl8rAsEyRRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El De Las Mieles",
-        "url": "https://open.spotify.com/album/6RiQR16JyRg0cCSLhDklP0"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 205141,
-      "name": "El De Las Mieles",
-      "url": "https://open.spotify.com/track/23YQI4C7gVxBxlbtn62Lvv"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
       "duration_ms": 215061,
       "name": "Tatuajes",
       "url": "https://open.spotify.com/track/5pkv0CmgCpjhaOb2jATdrx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Es Por Ti",
+        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Juanpa Salazar",
+          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 201258,
       "name": "Sentimientos De Carton - En Vivo",
       "url": "https://open.spotify.com/track/2I24ChV8vV9MFxT3ju4Z54"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Es Por Ti",
-        "url": "https://open.spotify.com/album/4oGlytrjITiA75RXzWJt3f"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Juanpa Salazar",
-          "url": "https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/1wAa4SwcmuffVDXwL6PpPY"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dos Banderas",
-        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158405,
-      "name": "Dos Banderas",
-      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Banda y Norte\u00f1o",
         "url": "https://open.spotify.com/album/6ofKDT8xaWhO6VIpaf3wdp"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 180229,
       "name": "El Don Nadie - En Vivo",
       "url": "https://open.spotify.com/track/3AxzKzoESCwJcwFFpXlQNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dos Banderas",
+        "url": "https://open.spotify.com/album/5S1KTpUqsbol9Jv4BWh1dF"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158405,
+      "name": "Dos Banderas",
+      "url": "https://open.spotify.com/track/7rQsXHsDTqqHtXS8qj8AQd"
     },
     {
       "added_at": null,
@@ -915,22 +915,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Due\u00f1o De Ti",
-        "url": "https://open.spotify.com/album/3ctmLBJM30egURMmsMqH3b"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
       },
       "artists": [
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Banda Los Populares Del Llano",
-          "url": "https://open.spotify.com/artist/60NAmAuK8ApLhjIMwMIAfv"
         }
       ],
-      "duration_ms": 213646,
-      "name": "Due\u00f1o De Ti",
-      "url": "https://open.spotify.com/track/21k5A1NMuiqhFBSzLcuoOa"
+      "duration_ms": 172000,
+      "name": "Fruta Prohibida - En Vivo",
+      "url": "https://open.spotify.com/track/1T7YWrunbux383JYtEdWwD"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

@@ -2336,10 +2336,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 267946,
       "name": "There Will Be Time",
       "url": "https://open.spotify.com/track/3BqDKQg8onwppXlPw4SYnZ"
+    },
+    {
+      "album": {
+        "name": "There Will Be Time",
+        "url": "https://open.spotify.com/album/4v0aEIqB0z9a2X5cIPqDSx"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267946,
+      "name": "There Will Be Time",
+      "url": "https://open.spotify.com/track/6mTD3aXNuNU6gWz7ba9bmd"
     },
     {
       "album": {

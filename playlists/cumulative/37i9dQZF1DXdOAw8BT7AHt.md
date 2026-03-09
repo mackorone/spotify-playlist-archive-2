@@ -4,7 +4,7 @@
 
 > The best in every corner of modern punk rock\. Cover: Upchuck
 
-624 songs - 1 day 7 hr 11 min
+626 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [How Does It Feel?](https://open.spotify.com/track/36Bf1RIqi0QbYiX8QEQmfZ) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [How Does It Feel?](https://open.spotify.com/album/6pQXmyYZy2SBDwc4h8EZji) | 1:35 | 2022-12-02 | 2023-05-18 |
 | [How To Live With Yourself](https://open.spotify.com/track/2MfVLc5DOoOYxPhlvd7afG) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/2IvgPVP1I1BDZwsWe8EaZU) | 2:45 | 2023-11-13 | 2024-04-19 |
 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-08 | 2023-11-11 |
+| [Hymn From The Hills](https://open.spotify.com/track/0iTVNYA62gvB7IaYY4Pm36) | [Poison Ruïn](https://open.spotify.com/artist/0WHVA5E3ZEY5mxGkMYqPuB) | [Hymn From The Hills](https://open.spotify.com/album/2GRydM8GnaMXnLZDQTxJfl) | 4:38 | 2026-03-06 |  |
 | [Hyperpop Killed My Dog](https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Hyperpop Killed My Dog](https://open.spotify.com/album/675h9RsyoZUx8lWpulipzu) | 2:02 | 2025-09-04 | 2026-02-20 |
 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 | 2024-06-27 |  |
 | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 | 2026-02-20 |  |
@@ -291,7 +292,7 @@
 | [I Hate the Internet](https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [I Hate the Internet / True Devotion](https://open.spotify.com/album/54w7HgMTJI295pdatRThsz) | 2:53 | 2025-02-07 | 2025-02-20 |
 | [i know computer](https://open.spotify.com/track/6BkoN5C3zXneLNa4nciVQn) | [Mclusky](https://open.spotify.com/artist/3xA9AB0f4BVjsSlyQc12iE) | [i know computer](https://open.spotify.com/album/3i6qKYoMeTRjsdyZD0uO3a) | 2:19 | 2026-02-06 |  |
 | [I Know Where Mark Chen Lives](https://open.spotify.com/track/7zvZ18HvFVsR9O9B0vn47c) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [I Used To Go To This Bar](https://open.spotify.com/album/2PomJEqfBluQI4uE6hPQEJ) | 1:50 | 2026-02-06 |  |
-| [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 | 2025-02-21 |  |
+| [I really am feeling better](https://open.spotify.com/track/2EmYu5EQnSpb2I0nW6hIlw) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [I really am feeling better](https://open.spotify.com/album/1C6nIy0zYyRMnEOMBRmh7C) | 2:04 | 2025-02-21 | 2026-03-09 |
 | [I See How It Is](https://open.spotify.com/track/3lPMIuABEuCPZVCVNavUxq) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Eternal Youth](https://open.spotify.com/album/0R0mH2K2OsB8tDTtvOT4UX) | 2:32 | 2025-10-03 |  |
 | [I should've listened to my friends](https://open.spotify.com/track/5JFYTUEMFKVJafHr4S89kr) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [I should've listened to my friends](https://open.spotify.com/album/60TpcJV38QMJlRB0bBt3VO) | 2:46 | 2022-12-02 | 2023-03-26 |
 | [I Steal What I Want](https://open.spotify.com/track/38nBmYPehTU8sYl19qHVJi) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [THE FUTURE IS HERE AND EVERYTHING NEEDS TO BE DESTROYED](https://open.spotify.com/album/4bTc11nxlikKJqEEY8rMqJ) | 2:06 | 2025-07-31 | 2025-09-05 |
@@ -344,7 +345,7 @@
 | [Long Way](https://open.spotify.com/track/3MSJ93sNe4MM4zNuRANVcw) | [Filth is Eternal](https://open.spotify.com/artist/0BqcFG3uqS8l59OsCtIiH0) | [Long Way](https://open.spotify.com/album/0k5hWPZTrpxZh1dAUcqj9s) | 2:23 | 2026-02-13 |  |
 | [Look Down On Us](https://open.spotify.com/track/7yIyR2o9DGWKhVrTe37FLs) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Look Down On Us](https://open.spotify.com/album/3CxAKlsE2UUbX1O80xwAqY) | 9:58 | 2025-05-08 | 2025-09-16 |
 | [LOOK OUT FOR ME](https://open.spotify.com/track/3gX1APRlWGUJF9DIYdD1gx) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [LOOK OUT FOR ME](https://open.spotify.com/album/0BUO6QDa4EBoVuMumIaAza) | 6:43 | 2025-07-31 |  |
-| [Look Up](https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Look Up](https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o) | 2:35 | 2026-02-06 |  |
+| [Look Up](https://open.spotify.com/track/5ctd0rOQS8Xzl7QKwvBrVN) | [Alex Melton](https://open.spotify.com/artist/2Y3LFSXIRTjJZyjIA22qJA) | [Look Up](https://open.spotify.com/album/5N5wUMnGZZGfF2DxFL3e9o) | 2:35 | 2026-02-06 | 2026-03-09 |
 | [Lose Your Way & Find Yourself](https://open.spotify.com/track/1YQ8XXekRidvp3AqQ8ihmM) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Lose Your Way & Find Yourself](https://open.spotify.com/album/2uK8FWZRtauDSnYvWWmD3A) | 3:13 | 2025-09-11 | 2026-02-07 |
 | [LOSER](https://open.spotify.com/track/6HOsksISHjFGsjk0vzK0S6) | [LOWLIVES](https://open.spotify.com/artist/7Hg9yStqSEaKmwPxFlWeE2) | [LOSER](https://open.spotify.com/album/6stziyO40ovFZGQN71pB67) | 3:22 | 2024-05-31 | 2024-10-11 |
 | [Losing My Mind](https://open.spotify.com/track/2bBMQ7SebBsgJFM6j4wgfz) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Losing My Mind](https://open.spotify.com/album/4cVwNDeIhkhkBItY85YgVf) | 3:52 | 2022-12-02 | 2023-11-11 |
@@ -619,6 +620,7 @@
 | [Who’s Having Fun?](https://open.spotify.com/track/3AQU5I1rfYAPorSF4RyK31) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Who’s Having Fun?](https://open.spotify.com/album/23p4BaOChW46rIFZAnuoJr) | 2:52 | 2025-09-04 | 2025-12-12 |
 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 | 2022-12-02 | 2023-11-18 |
 | [Will](https://open.spotify.com/track/2yYos0GmwgrPZAHOnpsSdM) | [Love Rarely](https://open.spotify.com/artist/3vfL7qtWVnyObFrObnBkmM) | [Will](https://open.spotify.com/album/1YAmfQGybwywqGhljGAwhe) | 3:18 | 2026-02-06 |  |
+| [WIRED](https://open.spotify.com/track/0kS71QsF9XfcrV07J3KRmF) | [Basement](https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c) | [WIRED / Broken By Design](https://open.spotify.com/album/1ZrrDRubcm6BnwzadNcJnP) | 2:33 | 2026-03-06 |  |
 | [Wishing You Hell](https://open.spotify.com/track/5wqujlOPZBrYe1YFMpReEd) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Wishing You Hell](https://open.spotify.com/album/1JbhrcxEaF8NnGdxjTTnsa) | 3:14 | 2022-12-02 | 2023-11-18 |
 | [Wisteria](https://open.spotify.com/track/7q5j5GjFRsu5C8udZqjrKO) | [Michael Cera Palin](https://open.spotify.com/artist/4GyAROzBnWHCBr638r5TVP) | [Wisteria](https://open.spotify.com/album/2PYOmDSmGSY36LGjGMLB8A) | 4:52 | 2025-02-07 | 2025-03-03 |
 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 | 2023-11-13 | 2025-02-08 |

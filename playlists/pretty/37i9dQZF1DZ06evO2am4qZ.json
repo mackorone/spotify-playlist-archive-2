@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAABh/CUt4bCcHStlVFUeYXGq",
+  "snapshot_id": "aatqgAAAAADwwXWbsJOZFW6zPdWPo9HN",
   "tracks": [
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GIRLS Deluxe",
         "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tate Tuesday, Vol. 1",
         "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 157575,
       "name": "Straight",
       "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Don't Cry",
-        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
-      },
-      "artists": [
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 262178,
-      "name": "A Ballad for Homegirls (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
     },
     {
       "added_at": null,
@@ -815,6 +795,26 @@
       "duration_ms": 172993,
       "name": "DAMN DANIEL (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/7yAhHmdoPORDtJIxtugoNY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Don't Cry",
+        "url": "https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr"
+      },
+      "artists": [
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 262178,
+      "name": "A Ballad for Homegirls (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/2onp5lGTSamwuGlmfeHNJW"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
-      },
-      "artists": [
-        {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WukiWorld",
         "url": "https://open.spotify.com/album/523y2Ub7mQPON9romO2APM"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 168094,
       "name": "Hey Ladies",
       "url": "https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
+      },
+      "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 209577,
+      "name": "Dirty Girl (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
     }
   ],
   "unique_name": "This Is Baby Tate",

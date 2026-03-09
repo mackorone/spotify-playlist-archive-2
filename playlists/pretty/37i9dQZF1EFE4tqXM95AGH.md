@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,377 likes - 186 songs - 10 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,377 likes - 187 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 102 | [Bad Feeling](https://open.spotify.com/track/5L3rFG7ttfr4OK87dbUfle) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:26 |
 | 103 | [Lucifer](https://open.spotify.com/track/56xB3EGgd7qxfzAVji8Fh2) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/5y9Fis539BaAsi7MmHKHm2) | 3:19 |
 | 104 | [Vintage](https://open.spotify.com/track/2t8MNKWuCNh8eZFZ4ANZRR) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:39 |
-| 105 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
-| 106 | [The Hurtin' Kind](https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:06 |
+| 105 | [The Hurtin' Kind](https://open.spotify.com/track/0WEnbKV0sLhYjiA9H7Bfqk) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Stampede](https://open.spotify.com/album/3vi7hLbbjQBJypfAA2gafE) | 3:06 |
+| 106 | [All the Rage](https://open.spotify.com/track/6LU5xomPbOc1XADDwU0L36) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [All the Rage](https://open.spotify.com/album/2AxFTHoqk5jY7yRlUkS0GG) | 3:06 |
 | 107 | [Galaxy \(feat\. Stan Walker\)](https://open.spotify.com/track/1joM5RLNRDmsR2AiF5XaRF) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY) | [Get 'Em Girls](https://open.spotify.com/album/7t6s6NWaLUEkRQEDqp8yNN) | 4:04 |
 | 108 | [Kid Wonder](https://open.spotify.com/track/3UlnJciJMXFgnIubWkoghm) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 2:47 |
 | 109 | [Private Life](https://open.spotify.com/track/3FkyJH5uE5XmN3voocBcYK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 4:23 |
@@ -183,16 +183,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 173 | [Get To Know You](https://open.spotify.com/track/7a9zJFrD6coK0js8mUstZI) | [Timomatic](https://open.spotify.com/artist/3jEg5HvT2cuJQDjwjZxTb0) | [Timomatic](https://open.spotify.com/album/2tbVb2SlU8ovbP2sx7CsSF) | 3:40 |
 | 174 | [Gagging For You](https://open.spotify.com/track/036coFgVsED857VDnMMuRW) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Gagging For You](https://open.spotify.com/album/24WxSNj5eqgQDrKZ9WH8sI) | 2:05 |
 | 175 | [Going Down Tonight](https://open.spotify.com/track/7b1X67lWMeRBc4YlODBtgW) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z) | [Going Down Tonight](https://open.spotify.com/album/4N5Hh3zfIpllkeZspmqh7s) | 2:28 |
-| 176 | [Not Today](https://open.spotify.com/track/2RZCuOGKcbo7o6EOwZXhRA) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:47 |
-| 177 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 |
-| 178 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
-| 179 | [Jesus Fucking Slays](https://open.spotify.com/track/23BWnKflS7OIhUV4TJNwRQ) | [Breland](https://open.spotify.com/artist/2dCmeVluj7wt6kLjV0ApeF) | [Jesus Fucking Slays](https://open.spotify.com/album/0WKiLaO2inOaA5CrdieKuw) | 2:37 |
-| 180 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
-| 181 | [Rock Hard](https://open.spotify.com/track/39x4G6gNmj0L24pILg9oqk) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Rock Hard](https://open.spotify.com/album/6PksrWCNFp5Amz30JdDmwf) | 2:04 |
-| 182 | [Floorplay](https://open.spotify.com/track/6LNwGowDW741T0D45pH1bb) | [Catalin Josan](https://open.spotify.com/artist/2HgAvmFuJvLChOQdWBiHL3), [Iuliana Puschila](https://open.spotify.com/artist/3vYjigSUFK0cdBYQSL5Kqb) | [Floorplay](https://open.spotify.com/album/2TwpvBLA8eFLWlmAMF54AH) | 3:24 |
-| 183 | [Sticks](https://open.spotify.com/track/69gjEy2qUdJXfprRH9Hf12) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Double Wide Diva \- The Stories Behind The Songs \(Commentary\)](https://open.spotify.com/album/4knnl4FcACpR2rxjvWbLwU) | 2:45 |
-| 184 | [Disappear](https://open.spotify.com/track/1mJ1NQ2G4X9RQFy3E11uBH) | [John Flanagan](https://open.spotify.com/artist/414VQBxBU77hmOMirRzJa5) | [Pretty Lies](https://open.spotify.com/album/5wgf91xHhh58uPwRbq8hHA) | 4:04 |
-| 185 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
-| 186 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
+| 176 | [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 |
+| 177 | [Not Today](https://open.spotify.com/track/2RZCuOGKcbo7o6EOwZXhRA) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:47 |
+| 178 | [I Wanna Lose](https://open.spotify.com/track/0X2kBitXUuyANRUMKKSBbi) | [J Rice](https://open.spotify.com/artist/5UOLfDoNQJBGlGAKQg9Iwc) | [12+](https://open.spotify.com/album/0KMy4eY3BziwZPkVfFHP5v) | 3:30 |
+| 179 | [chateau](https://open.spotify.com/track/58aMAhdMkN5OO4y9oRjd8E) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [star scum city](https://open.spotify.com/album/0T5M2ccVJg6rJZaLAp5xmZ) | 3:41 |
+| 180 | [Jesus Fucking Slays](https://open.spotify.com/track/23BWnKflS7OIhUV4TJNwRQ) | [Breland](https://open.spotify.com/artist/2dCmeVluj7wt6kLjV0ApeF) | [Jesus Fucking Slays](https://open.spotify.com/album/0WKiLaO2inOaA5CrdieKuw) | 2:37 |
+| 181 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
+| 182 | [Rock Hard](https://open.spotify.com/track/39x4G6gNmj0L24pILg9oqk) | [Queens of the Universe](https://open.spotify.com/artist/3QSHpTssLhVDrExX1O22Js) | [Rock Hard](https://open.spotify.com/album/6PksrWCNFp5Amz30JdDmwf) | 2:04 |
+| 183 | [Floorplay](https://open.spotify.com/track/6LNwGowDW741T0D45pH1bb) | [Catalin Josan](https://open.spotify.com/artist/2HgAvmFuJvLChOQdWBiHL3), [Iuliana Puschila](https://open.spotify.com/artist/3vYjigSUFK0cdBYQSL5Kqb) | [Floorplay](https://open.spotify.com/album/2TwpvBLA8eFLWlmAMF54AH) | 3:24 |
+| 184 | [Sticks](https://open.spotify.com/track/69gjEy2qUdJXfprRH9Hf12) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Double Wide Diva \- The Stories Behind The Songs \(Commentary\)](https://open.spotify.com/album/4knnl4FcACpR2rxjvWbLwU) | 2:45 |
+| 185 | [Disappear](https://open.spotify.com/track/1mJ1NQ2G4X9RQFy3E11uBH) | [John Flanagan](https://open.spotify.com/artist/414VQBxBU77hmOMirRzJa5) | [Pretty Lies](https://open.spotify.com/album/5wgf91xHhh58uPwRbq8hHA) | 4:04 |
+| 186 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
+| 187 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcLhtAAAAADRO3aiBia4I03rvzlvQglM`
+Snapshot ID: `AcLnGAAAAABVzTN1EJbtfJniqtDGPiFH`

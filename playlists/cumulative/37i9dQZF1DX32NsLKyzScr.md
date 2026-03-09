@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,373 songs - 3 day 2 hr 38 min
+1,374 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [Life Like This](https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Life Like This](https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM) | 3:07 | 2022-07-01 | 2022-09-05 |
 | [Lifeline](https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Lifeline](https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ) | 3:19 | 2025-02-28 |  |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-26 | 2025-08-02 |
+| [Lift Me Up](https://open.spotify.com/track/6flTr5BDb7OQN7nZCs8xmR) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [Twin Diplomacy](https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq), [Liv Grace Blue](https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl) | [Lift Me Up](https://open.spotify.com/album/2NnCa9OR5WBlOFU9JIPnpn) | 4:30 | 2026-03-06 |  |
 | [light years \(feat\. Inéz\)](https://open.spotify.com/track/2wRKES8HKm4EutRHz7JD1x) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5) | [light years \(feat\. Inéz\)](https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI) | 3:40 | 2025-03-28 |  |
 | [Lighter](https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lighter](https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h) | 3:07 | 2025-11-03 | 2025-12-05 |
 | [Lights Down Low](https://open.spotify.com/track/4j8l7PDZ9Y6J4XaKiAJMDo) | [NERVO](https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Lights Down Low](https://open.spotify.com/album/0CNI0GdthKzauEeT0BJYQe) | 2:52 | 2021-09-25 | 2022-03-12 |
@@ -907,7 +908,7 @@
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-07 | 2025-08-02 |
 | [Pump It Up](https://open.spotify.com/track/3tFz7n9OKBDMvrQmqE0oMR) | [Danko](https://open.spotify.com/artist/60sVnCJWU7WHTMSzK0HzPW) | [Pump It Up](https://open.spotify.com/album/2ttfC47P8tqCeHbge1rcag) | 2:52 | 2020-09-21\* | 2021-01-23 |
 | [Pump Pump](https://open.spotify.com/track/2XZ2MGJeyAeUVoDg4U2bMO) | [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Fake](https://open.spotify.com/album/24s9nNeIlOzCHW2Hf0tUN7) | 3:09 | 2020-09-21\* | 2020-11-27 |
-| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 |  |
+| [Pump Up The Jam](https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ) | [Laherte](https://open.spotify.com/artist/1iHLjX5K4nfcDZGj0Z2lkP) | [Pump Up The Jam](https://open.spotify.com/album/18KZc0cUxOnJnUdWnczZNO) | 3:27 | 2026-01-09 | 2026-03-09 |
 | [Punisher](https://open.spotify.com/track/2wrnoLYgHFZi7uCOIBMge9) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C) | [Punisher](https://open.spotify.com/album/7oHZGknKLXJeZjiqvGrqYs) | 3:00 | 2020-09-21\* | 2021-01-23 |
 | [Push It](https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Push It](https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL) | 4:08 | 2023-11-13 | 2024-01-11 |
 | [Pyro](https://open.spotify.com/track/4NFHCQx4IcrNPERC8Vn79a) | [Koos](https://open.spotify.com/artist/3A8Fbum6y0H2ijJSRaDNtB) | [Pyro](https://open.spotify.com/album/1gM4NZCQNOohwbr0BL30f4) | 3:07 | 2020-09-21\* | 2020-11-03 |

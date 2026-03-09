@@ -1,6 +1,6 @@
 {
   "description": "love is in the air...breathe in",
-  "num_followers": 57153,
+  "num_followers": 57195,
   "original_name": "AfroBae",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,26 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
+      },
+      "artists": [
+        {
+          "name": "RnBoi",
+          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 137390,
+      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "Birthday",
         "url": "https://open.spotify.com/album/0x1Q0qm394QlhVrqdVMI5d"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 155753,
       "name": "Birthday",
       "url": "https://open.spotify.com/track/0703G3CAQ3oDJAzaVIvUJ9"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/0ZqiMWe35VRRPpsmva9rVT"
-      },
-      "artists": [
-        {
-          "name": "RnBoi",
-          "url": "https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 137390,
-      "name": "MON B\u00c9B\u00c9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/4mfloKPJmGAOkTxCxQPujM"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "That Way",
-        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 155428,
-      "name": "That Way",
-      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "DEARLY",
         "url": "https://open.spotify.com/album/3dfR0xyuDq6CSeUlw7XN0w"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "That Way",
+        "url": "https://open.spotify.com/album/6NlpkuCdrj36zSuSnqnDP1"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 155428,
+      "name": "That Way",
+      "url": "https://open.spotify.com/track/3xJToX5HgVTY3XC1Xvw9MF"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -663,6 +663,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "FOR YOU",
+        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 148672,
+      "name": "FOR YOU",
+      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "Get Better",
         "url": "https://open.spotify.com/album/17I2YoaxrsB4l5ztvZkjHy"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 195600,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/5nmYNuBSh99LNDdZ0iSe2O"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "FOR YOU",
-        "url": "https://open.spotify.com/album/6hFthTS1JDZZeXmNHNCXpV"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "FOR YOU",
-      "url": "https://open.spotify.com/track/4oACaY1ep3NULWvjh9xqak"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 159335,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "STINGY",
         "url": "https://open.spotify.com/album/39iGK6XDM9VBIURDthep4V"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 220206,
       "name": "STINGY",
       "url": "https://open.spotify.com/track/0BLBUWKNlHGV9BcQ9yZQF3"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "Choice",
-        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
-      },
-      "artists": [
-        {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
-        }
-      ],
-      "duration_ms": 159335,
-      "name": "Choice",
-      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Love & Hustle",
-        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 180612,
-      "name": "Princess Treatment",
-      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "Go Crazy",
         "url": "https://open.spotify.com/album/1kyywoFIbu2xBRi90JyiNE"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 156000,
       "name": "Go Crazy",
       "url": "https://open.spotify.com/track/7jZaRjGVgywP7xgaJJ8Imp"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "Love & Hustle",
+        "url": "https://open.spotify.com/album/1Ls0a3Dh4vKHKwL1Y3OuD7"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 180612,
+      "name": "Princess Treatment",
+      "url": "https://open.spotify.com/track/1cKWbkAzK87PElmioUP01o"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Awilo",
+        "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
+      },
+      "artists": [
+        {
+          "name": "Patomant",
+          "url": "https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Awilo",
+      "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "Crazily",
         "url": "https://open.spotify.com/album/0C9ArjDsTSnFiJjUzLMi3k"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 149333,
       "name": "Crazily",
       "url": "https://open.spotify.com/track/2PMC6BUbCK4zjDarK65Lxk"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "Awilo",
-        "url": "https://open.spotify.com/album/0pTcPLooJt0PwLrkWeOjIS"
-      },
-      "artists": [
-        {
-          "name": "Patomant",
-          "url": "https://open.spotify.com/artist/3Ceutye6nW8egv4yMn0jc5"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Awilo",
-      "url": "https://open.spotify.com/track/416l8GO5tPk5Xk85mKL7Tj"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Super",
-        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
-      },
-      "artists": [
-        {
-          "name": "CupidSZN",
-          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Super",
-      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "Wins & Losses",
         "url": "https://open.spotify.com/album/57SzMLliAmulps9UDpDOLk"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 179825,
       "name": "Wins & Losses",
       "url": "https://open.spotify.com/track/7ax7PkGEpJueZLT0nD6sBS"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "Super",
+        "url": "https://open.spotify.com/album/0XsJxNAIkFEWrHSuWYgHK5"
+      },
+      "artists": [
+        {
+          "name": "CupidSZN",
+          "url": "https://open.spotify.com/artist/150lmofYTz4i9fnVzM6AZZ"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Super",
+      "url": "https://open.spotify.com/track/0xwse66NecVRYCb7Bsdj15"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
+        "name": "Kontrollah",
+        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
+      },
+      "artists": [
+        {
+          "name": "Otega",
+          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
+        }
+      ],
+      "duration_ms": 155924,
+      "name": "Kontrollah",
+      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
         "name": "Mwah!",
         "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 128000,
       "name": "Mwah!",
       "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
-        "name": "Kontrollah",
-        "url": "https://open.spotify.com/album/1OjyeaV3NEYPdU34VGEBVl"
-      },
-      "artists": [
-        {
-          "name": "Otega",
-          "url": "https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs"
-        }
-      ],
-      "duration_ms": 155924,
-      "name": "Kontrollah",
-      "url": "https://open.spotify.com/track/23CKcQHyGq8UR44R6XXuEE"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Sorry I'm Busy",
-        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
-      },
-      "artists": [
-        {
-          "name": "Lovn",
-          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
-        }
-      ],
-      "duration_ms": 142709,
-      "name": "Sorry I'm Busy",
-      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
-    },
-    {
-      "added_at": "2026-03-06 00:01:15",
-      "album": {
         "name": "SAILOR (with Oxlade)",
         "url": "https://open.spotify.com/album/70bcwlOQC9FKbbKovrL0MB"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 189570,
       "name": "Anini (Thief)",
       "url": "https://open.spotify.com/track/5CUw1nny9nrGDefmlOYFJv"
+    },
+    {
+      "added_at": "2026-03-06 00:01:15",
+      "album": {
+        "name": "Sorry I'm Busy",
+        "url": "https://open.spotify.com/album/1lZd6dVzx246LSOxv54c4w"
+      },
+      "artists": [
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        }
+      ],
+      "duration_ms": 142709,
+      "name": "Sorry I'm Busy",
+      "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1471,26 +1471,22 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Yin Yang",
-        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
+        "name": "Dive In",
+        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
       },
       "artists": [
         {
-          "name": "TiMi",
-          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
         },
         {
-          "name": "Kpee",
-          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
-        },
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         }
       ],
-      "duration_ms": 194098,
-      "name": "Soldier",
-      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
+      "duration_ms": 195589,
+      "name": "Dive In",
+      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
     },
     {
       "added_at": "2026-03-06 00:01:15",
@@ -1511,22 +1507,26 @@
     {
       "added_at": "2026-03-06 00:01:15",
       "album": {
-        "name": "Dive In",
-        "url": "https://open.spotify.com/album/4sYyq8J4gHzzTIoYg2Bxos"
+        "name": "Yin Yang",
+        "url": "https://open.spotify.com/album/7IU7fW4ehUnTiyaZZm9zRb"
       },
       "artists": [
         {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+          "name": "TiMi",
+          "url": "https://open.spotify.com/artist/0BQyOgobSOkQ7u4vTG7fPJ"
         },
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Kpee",
+          "url": "https://open.spotify.com/artist/0R0U0reEPZrIBPCu9dp1Jf"
+        },
+        {
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
         }
       ],
-      "duration_ms": 195589,
-      "name": "Dive In",
-      "url": "https://open.spotify.com/track/4Ws9OfmKBzjw7FaJV0Xp1A"
+      "duration_ms": 194098,
+      "name": "Soldier",
+      "url": "https://open.spotify.com/track/1DP4141W3KiwsYaZSAWUb7"
     }
   ],
   "unique_name": "AfroBae",

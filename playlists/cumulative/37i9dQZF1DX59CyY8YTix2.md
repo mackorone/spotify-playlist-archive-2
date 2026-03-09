@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ハク。
 
-2,005 songs - 5 day 4 hr 14 min
+2,006 songs - 5 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1553,7 +1553,7 @@
 | [冬と遠雷](https://open.spotify.com/track/0oLeOJHCrcX7EAd0dBn1m3) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [冬と遠雷](https://open.spotify.com/album/1J2fzWz5TDZawMgnYv975G) | 3:23 | 2023-12-12 | 2023-12-20 |
 | [出ていけ！カレシ！](https://open.spotify.com/track/25zrDXmnAZulWCfljroSc9) | [ボタニカルな暮らし。](https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5) | [出ていけ！カレシ！](https://open.spotify.com/album/6FucYwKJxu8VRNCzvrMWIx) | 4:21 | 2024-01-02 | 2024-02-07 |
 | [出日和](https://open.spotify.com/track/6Zp8sDgJ0jIXmcISf4CcOe) | [最果テルーティン](https://open.spotify.com/artist/2yAThkujbnqrhoqPMdoxpX) | [出日和](https://open.spotify.com/album/46FUXEtT2s7OXcjhnWAWlN) | 4:27 | 2022-06-07 | 2022-07-17 |
-| [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 | 2024-04-23 |  |
+| [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 | 2024-04-23 | 2026-03-09 |
 | [初恋は](https://open.spotify.com/track/7ySqZBex82WHNXxuAdtQWt) | [Karin.](https://open.spotify.com/artist/0PZn9J0BdIbkiYVvfzP0eg) | [初恋は](https://open.spotify.com/album/50PHL83RxPE1uECcv2ZxQZ) | 4:35 | 2023-02-15 | 2023-02-22 |
 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 | 2024-05-13 |  |
 | [前説ADvance](https://open.spotify.com/track/4BmL1q2aXSsgOJkGExlIjZ) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [前説ADvance](https://open.spotify.com/album/7B3cMK62VedHD4Jjqf7Fce) | 4:11 | 2022-08-30 | 2022-09-07 |
@@ -1739,6 +1739,7 @@
 | [春に迷い込んで](https://open.spotify.com/track/2l3caWJIq9PLMQkNrl98ZU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [春に迷い込んで](https://open.spotify.com/album/2n3vgzctnQifXRmJhRsCS8) | 5:10 | 2022-05-26 | 2022-07-27 |
 | [春の嵐](https://open.spotify.com/track/5OZAEbUCMvJFdZiNM5RJwr) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [春の嵐](https://open.spotify.com/album/56E3hBtUr13pElaE9XPDTO) | 4:35 | 2025-06-17 | 2025-09-24 |
 | [春はグラデーション](https://open.spotify.com/track/3h8LPb3uuQu20hSgQftGDr) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [春はグラデーション](https://open.spotify.com/album/2OOwhS1081u3gK30zV6rNC) | 4:05 | 2023-05-18 | 2023-08-02 |
+| [春色ベイビーブルー](https://open.spotify.com/track/5Hbb4cnIX5APVIn7Z14TqG) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [春色ベイビーブルー](https://open.spotify.com/album/2OAAFRsMA5IkOD5wGSxtCt) | 4:07 | 2026-03-03 |  |
 | [春荒らし](https://open.spotify.com/track/0P3S2XjVi8AzTGCcshYKhT) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [ビアトリス](https://open.spotify.com/album/15s87sPhqCsoeUXfPdnEA2) | 4:50 | 2024-02-13 | 2024-02-15 |
 | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 | 2025-01-21 |  |
 | [普通のロック](https://open.spotify.com/track/3YolTYm3e3Bc23wosdUs70) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [E\-Peanut](https://open.spotify.com/album/1n6UmAxDAo3JMcKhKWcDu6) | 3:20 | 2022-08-30 | 2022-09-07 |

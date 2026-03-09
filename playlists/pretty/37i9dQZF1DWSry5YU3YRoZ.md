@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,552 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,556 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 39 | [Snow spectacle](https://open.spotify.com/track/6YQHxc0WEKExeX0MO6qPuS) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Snow spectacle](https://open.spotify.com/album/2ASa3WNjYa7fZ2jR90GzLo) | 3:11 |
 | 40 | [그 밤](https://open.spotify.com/track/30Ruc6AbbIZ1MN4tSUjKGd) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Sentimental](https://open.spotify.com/album/4xU2M05RpGxtCm7Db6qZy3) | 4:34 |
 | 41 | [Just the two of us](https://open.spotify.com/track/7sZUzmcbOwDq3ABOts0K37) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:14 |
-| 42 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
-| 43 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
-| 44 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
-| 45 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
-| 46 | [unveil](https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [unveil](https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly) | 3:54 |
+| 42 | [dear my loves](https://open.spotify.com/track/7bBOlkeTkj8kDHVI1k4xzo) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [To.](https://open.spotify.com/album/4XChcwxga72OlkK56y7jZ6) | 3:15 |
+| 43 | [ONGI \(Warmth\)](https://open.spotify.com/track/3MEaqIYpWxPO30o87Pq8AG) | [Kim Boogyeong](https://open.spotify.com/artist/0C7Ij4sLjSJFlbOUq8POVs) | [ONGI \(Warmth\)](https://open.spotify.com/album/4CqQGQCrm0S9iHFhTwHYeD) | 4:52 |
+| 44 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
+| 45 | [Scent Of Night](https://open.spotify.com/track/719AXwgUQbtIc3Dg1l4lg9) | [Choi Jungyoon](https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi) | [bright \#7](https://open.spotify.com/album/5sOHiVp8mCwlhs7VuaRsCG) | 4:43 |
+| 46 | [꿈\(Dream\)](https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL) | [naso\(나소\)](https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj) | [Dream\(꿈\)](https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF) | 2:33 |
 | 47 | [Choose You](https://open.spotify.com/track/6sTvm65LQPE0kjBVTVjVOm) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 4:05 |
-| 48 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
-| 49 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
-| 50 | [꿈\(Dream\)](https://open.spotify.com/track/6ymeSINIohMTFXuKm9fWEL) | [naso\(나소\)](https://open.spotify.com/artist/0itd1HH3C6EgLLjhIkkYBj) | [Dream\(꿈\)](https://open.spotify.com/album/6XgPs1WzuRhSyuRbpK22ZF) | 2:33 |
+| 48 | [unveil](https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [unveil](https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly) | 3:54 |
+| 49 | [Prayers of a Hedgehog](https://open.spotify.com/track/2mUleIbjQ4nuVn9Cro8J0C) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Adventure](https://open.spotify.com/album/4i6gtCu9JPnMSRGPmOLpF2) | 3:24 |
+| 50 | [They say, that is the love](https://open.spotify.com/track/5Nr9gmv0Y6PlY2GnooFDzN) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:44 |
 
 Snapshot ID: `AAAAAE7VGpxn3MqviFV2Xl4jBCzRs6e7`

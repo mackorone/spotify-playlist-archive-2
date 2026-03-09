@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:7ll9lIFnSZ6CGl1MjZ4mrw\">Bono / Burattini</a> on cover. Artwork by Thami Nabil",
-  "num_followers": 192396,
+  "num_followers": 192411,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -27,18 +27,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Remsc\u00e9la",
-        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
+        "name": "director's cut",
+        "url": "https://open.spotify.com/album/0xwQc1659hI1sFCtCaAiZh"
       },
       "artists": [
         {
-          "name": "Milkweed",
-          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
+          "name": "Samba Jean-Baptiste",
+          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
         }
       ],
-      "duration_ms": 201375,
-      "name": "How Conchobor was Begotten",
-      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
+      "duration_ms": 146765,
+      "name": "director's cut",
+      "url": "https://open.spotify.com/track/61b3uyJnNh7d1v5NU7ttiT"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "director's cut",
-        "url": "https://open.spotify.com/album/0xwQc1659hI1sFCtCaAiZh"
+        "name": "Remsc\u00e9la",
+        "url": "https://open.spotify.com/album/1cRGZJ3uHgg7Hav6SY10jX"
       },
       "artists": [
         {
-          "name": "Samba Jean-Baptiste",
-          "url": "https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5"
+          "name": "Milkweed",
+          "url": "https://open.spotify.com/artist/2n8wLKXfDnrSoZ9hKffIVW"
         }
       ],
-      "duration_ms": 146765,
-      "name": "director's cut",
-      "url": "https://open.spotify.com/track/61b3uyJnNh7d1v5NU7ttiT"
+      "duration_ms": 201375,
+      "name": "How Conchobor was Begotten",
+      "url": "https://open.spotify.com/track/7EX6x6SUSu0sv6Soc2Z4dR"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "The Sludge of the Land",
-        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
-      },
-      "artists": [
-        {
-          "name": "Babau",
-          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
-        }
-      ],
-      "duration_ms": 291792,
-      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
-      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "By Night",
         "url": "https://open.spotify.com/album/5ozUmbzo5jhtPz4WvJpOEI"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 159642,
       "name": "By Night",
       "url": "https://open.spotify.com/track/7Aeix3UGJHLTbwLxChbTUE"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "The Sludge of the Land",
+        "url": "https://open.spotify.com/album/4HZ9GCqvFEraON1Vf3YQQ6"
+      },
+      "artists": [
+        {
+          "name": "Babau",
+          "url": "https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU"
+        }
+      ],
+      "duration_ms": 291792,
+      "name": "The sound of a continent moving\u2026 animals, plants and minerals included",
+      "url": "https://open.spotify.com/track/1QbN0pkKWRDE0eEIvGVOUJ"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -735,6 +735,26 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
+      },
+      "artists": [
+        {
+          "name": "Kety Fusco",
+          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 240407,
+      "name": "SHE",
+      "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Eager Buyers",
         "url": "https://open.spotify.com/album/4Ve1ECxzd1MOwMWf2JyMl7"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 342303,
       "name": "It\u2019s A Hole",
       "url": "https://open.spotify.com/track/6WGxYf5cue8eRU0CZVKnca"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "SHE",
-        "url": "https://open.spotify.com/album/04E1DZvgKUNoY7jkV4d3Ne"
-      },
-      "artists": [
-        {
-          "name": "Kety Fusco",
-          "url": "https://open.spotify.com/artist/0zBxGJNVKeETQsG7prk6jR"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 240407,
-      "name": "SHE",
-      "url": "https://open.spotify.com/track/5qnRuL9oYnrVz5bgjJ5Ytm"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Surt\u00f9m",
-        "url": "https://open.spotify.com/album/4NsyYFWO27hfETGC7w2WK5"
-      },
-      "artists": [
-        {
-          "name": "Massimo Silverio",
-          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
-        }
-      ],
-      "duration_ms": 321946,
-      "name": "Aven\u00e2l",
-      "url": "https://open.spotify.com/track/1JvuhqlW3X2uFLvtstIraT"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Neu Om",
         "url": "https://open.spotify.com/album/1ZEnvSQvz6yEdrtMiKqYvO"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 273257,
       "name": "Maithuna",
       "url": "https://open.spotify.com/track/1B8nx9V9al92x816HiMTFC"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Surt\u00f9m",
+        "url": "https://open.spotify.com/album/4NsyYFWO27hfETGC7w2WK5"
+      },
+      "artists": [
+        {
+          "name": "Massimo Silverio",
+          "url": "https://open.spotify.com/artist/70EQNEibJfmCE7J5k4t1JI"
+        }
+      ],
+      "duration_ms": 321946,
+      "name": "Aven\u00e2l",
+      "url": "https://open.spotify.com/track/1JvuhqlW3X2uFLvtstIraT"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Goldfish",
-        "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Goldfish",
-      "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
         "url": "https://open.spotify.com/album/6m01hmvzFV2dr8tZepEaD0"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 255154,
       "name": "\u7d76\u6ec5\u306b\u3088\u308d\u3057\u304f",
       "url": "https://open.spotify.com/track/2M3SZ8gwKEHwKCTvbHQ0fN"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
+      },
+      "artists": [
+        {
+          "name": "Oxis",
+          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Harsh & Exciting",
+        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
+      },
+      "artists": [
+        {
+          "name": "Moonrisers",
+          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
+        }
+      ],
+      "duration_ms": 301606,
+      "name": "Circle Of The Seasons",
+      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "HM2BB",
         "url": "https://open.spotify.com/album/4chfyR1rKNlVBKMxt6l8IN"
       },
@@ -1135,34 +1151,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Harsh & Exciting",
-        "url": "https://open.spotify.com/album/7GcFUyGVIEDAr2Lq9R6v7t"
+        "name": "TIDE/TIED",
+        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
       "artists": [
         {
-          "name": "Moonrisers",
-          "url": "https://open.spotify.com/artist/7H57cSuMs5vyMbaLbQjxc7"
+          "name": "Thanya Iyer",
+          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
         }
       ],
-      "duration_ms": 301606,
-      "name": "Circle Of The Seasons",
-      "url": "https://open.spotify.com/track/2tpiICm8dyCjY1j0HRsM4Z"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "My Goddess",
-        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
-      },
-      "artists": [
-        {
-          "name": "Etyen",
-          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
-        }
-      ],
-      "duration_ms": 250209,
-      "name": "My Goddess",
-      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
+      "duration_ms": 343545,
+      "name": "I am here now",
+      "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "TIDE/TIED",
-        "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
+        "name": "My Goddess",
+        "url": "https://open.spotify.com/album/2mssMFJJ4A9RFsdf50TF0X"
       },
       "artists": [
         {
-          "name": "Thanya Iyer",
-          "url": "https://open.spotify.com/artist/5t5C8BHZ8ch5p0wvbcWh6P"
+          "name": "Etyen",
+          "url": "https://open.spotify.com/artist/1QpBNgqTcCpBJvm4hecQPk"
         }
       ],
-      "duration_ms": 343545,
-      "name": "I am here now",
-      "url": "https://open.spotify.com/track/6Bar5d1K7Rd2w2lB7FRaXd"
+      "duration_ms": 250209,
+      "name": "My Goddess",
+      "url": "https://open.spotify.com/track/2eodSefe9eTElhTNuFGyKy"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Windows",
-        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
-      },
-      "artists": [
-        {
-          "name": "Scratching",
-          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
-        }
-      ],
-      "duration_ms": 221960,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Alwa6an \u0627\u0644\u0648\u0637\u0646",
         "url": "https://open.spotify.com/album/2hgThzc4MM3pw3b0tWpG7q"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Windows",
+        "url": "https://open.spotify.com/album/0sMeW7EWTcCKtrbHmTdeFn"
+      },
+      "artists": [
+        {
+          "name": "Scratching",
+          "url": "https://open.spotify.com/artist/2aiw7FN8gIGcTQcoU6cEFn"
+        }
+      ],
+      "duration_ms": 221960,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/2dlInC7fYSDzTXKOVMlmLD"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "Sonny Gray",
         "url": "https://open.spotify.com/album/1fXY2l6fVkSNL8xWC54KZR"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 238625,
       "name": "I Am The Cucumber Man",
       "url": "https://open.spotify.com/track/6G0LBBs1XDry3cauKvXYHT"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Zabrisky",
+        "url": "https://open.spotify.com/album/2XME3qJh3OUldzAtq2PjXJ"
+      },
+      "artists": [
+        {
+          "name": "Real Timpani",
+          "url": "https://open.spotify.com/artist/7n47nWRWiMl1rbgspp7YsA"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Zabrisky",
+      "url": "https://open.spotify.com/track/6YGOza9ccQXGqq87VpqpVT"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1499,6 +1515,38 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Body Roll",
+        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
+      },
+      "artists": [
+        {
+          "name": "Adrian Sherwood",
+          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
+        }
+      ],
+      "duration_ms": 215826,
+      "name": "Body Roll",
+      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
+      },
+      "artists": [
+        {
+          "name": "Zutzut",
+          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
+        }
+      ],
+      "duration_ms": 216287,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "TIDE/TIED",
         "url": "https://open.spotify.com/album/0E1b7Ob71SBCqDNq8QzKMO"
       },
@@ -1531,38 +1579,6 @@
       "duration_ms": 217570,
       "name": "De lijn der verwachting - Willem Ardui remix",
       "url": "https://open.spotify.com/track/4RcEJ02h5cQx7cE8BhtTvj"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Body Roll",
-        "url": "https://open.spotify.com/album/5BzvKV2NobLTNcy3b15VNl"
-      },
-      "artists": [
-        {
-          "name": "Adrian Sherwood",
-          "url": "https://open.spotify.com/artist/4vZIz0gG5DD3Qj9MB6kclW"
-        }
-      ],
-      "duration_ms": 215826,
-      "name": "Body Roll",
-      "url": "https://open.spotify.com/track/5ELkW9AejyHpKzRDDAgNvh"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/2n4hkKpBjThYOsTp2RnZ9a"
-      },
-      "artists": [
-        {
-          "name": "Zutzut",
-          "url": "https://open.spotify.com/artist/0UGj9ZE04f5PZoP0ukud33"
-        }
-      ],
-      "duration_ms": 216287,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/3GFF6qIBsyzl6GJRM6irnj"
     },
     {
       "added_at": "2026-03-06 05:00:16",
@@ -1663,6 +1679,26 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
+        "name": "Kampana - Vibration, trembling",
+        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
+      },
+      "artists": [
+        {
+          "name": "Jan Kadereit",
+          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
+        },
+        {
+          "name": "Gamelan Salukat",
+          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
+        }
+      ],
+      "duration_ms": 390959,
+      "name": "Kampana - Vibration, trembling",
+      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
+    },
+    {
+      "added_at": "2026-03-06 05:00:16",
+      "album": {
         "name": "63N3RD",
         "url": "https://open.spotify.com/album/6X206Ws0Yw2mpA6m7kagU4"
       },
@@ -1695,26 +1731,6 @@
     {
       "added_at": "2026-03-06 05:00:16",
       "album": {
-        "name": "Kampana - Vibration, trembling",
-        "url": "https://open.spotify.com/album/4PKFMgHF91f8bSZUb4VsfG"
-      },
-      "artists": [
-        {
-          "name": "Jan Kadereit",
-          "url": "https://open.spotify.com/artist/7471nwLmVL3nQLysLfeGFV"
-        },
-        {
-          "name": "Gamelan Salukat",
-          "url": "https://open.spotify.com/artist/2pciUK7qPMybdj0Bp6lpkL"
-        }
-      ],
-      "duration_ms": 390959,
-      "name": "Kampana - Vibration, trembling",
-      "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
         "name": "Dreamlike Places",
         "url": "https://open.spotify.com/album/1fyk4sOhs0IaWQTBb4onha"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 289611,
       "name": "Subway Surfer",
       "url": "https://open.spotify.com/track/1oJyBtv3pSCDxrb3KgRjwV"
-    },
-    {
-      "added_at": "2026-03-06 05:00:16",
-      "album": {
-        "name": "SCORPIO FALLING",
-        "url": "https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 126267,
-      "name": "Ghost Ryder",
-      "url": "https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 278516,
+  "num_followers": 278472,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Todo Es Posible En Navidad (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 249080,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0UJe4H1dCiTk51ux3tW6jU"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Santa Para Que Porfa",
         "url": "https://open.spotify.com/album/6y60Q4HPD3K9V0anQN0y2P"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 176571,
       "name": "Santa Para Que Porfa",
       "url": "https://open.spotify.com/track/52qnXpspvSfn6VK96iADHG"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Todo Es Posible En Navidad (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4QWP3XZIkvXSp5s5VgOy6q"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 249080,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0UJe4H1dCiTk51ux3tW6jU"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
-      },
-      "artists": [
-        {
-          "name": "seye",
-          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Un Vaquero En Navidad (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/53N3BvckuE8dwVPMNNNdfB"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "seye",
+          "url": "https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT"
         }
       ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+      "duration_ms": 123333,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -719,6 +703,22 @@
       "duration_ms": 186775,
       "name": "Navisad",
       "url": "https://open.spotify.com/track/4DrWtI8bBJ8rHqV2h53T9o"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        }
+      ],
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -791,6 +791,26 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "gracias navidad",
+        "url": "https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "duration_ms": 251914,
+      "name": "gracias navidad",
+      "url": "https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 189204,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "gracias navidad",
-        "url": "https://open.spotify.com/album/1PYtTDrXh3rQ1GE3GVBtWW"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        },
-        {
-          "name": "NEON16",
-          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
-        }
-      ],
-      "duration_ms": 251914,
-      "name": "gracias navidad",
-      "url": "https://open.spotify.com/track/2mbxn4DJb1jn7xFLY0VFs7"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Solo En Navidad",
-        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 191117,
-      "name": "Solo En Navidad",
-      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "La Navidad Comenz\u00f3",
         "url": "https://open.spotify.com/album/0hAbjmOFoi35grgTjnQjU2"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 199829,
       "name": "La Navidad Comenz\u00f3",
       "url": "https://open.spotify.com/track/0EUjKWaJ3CgAWbNDJ2DkDd"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Solo En Navidad",
+        "url": "https://open.spotify.com/album/3d9VV0ryiHnQKcBYPCzCGs"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "Solo En Navidad",
+      "url": "https://open.spotify.com/track/1mUWJgTCug0Fq1vLtdqUjl"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Emanuel - Spotify Singles Holiday",
         "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 242666,
       "name": "Emanuel - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
     },
     {
       "added_at": "2025-12-12 05:00:40",

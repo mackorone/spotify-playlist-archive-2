@@ -1,6 +1,6 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 360866,
+  "num_followers": 360908,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Glimmer / Change",
-        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
-      },
-      "artists": [
-        {
-          "name": "AGST",
-          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Glimmer",
-      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "#TRUE FUTURE",
         "url": "https://open.spotify.com/album/6SLyPIUAwo7KiCnGFsB9f3"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 138666,
       "name": "keep down flyday",
       "url": "https://open.spotify.com/track/04XgDULx8qLzMVaTxXGI6c"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Glimmer / Change",
+        "url": "https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC"
+      },
+      "artists": [
+        {
+          "name": "AGST",
+          "url": "https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Glimmer",
+      "url": "https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "The Sweetest Dream",
-        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
-      },
-      "artists": [
-        {
-          "name": "Desired",
-          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
-        }
-      ],
-      "duration_ms": 220055,
-      "name": "Eyes on Me",
-      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Welcome To The Alley",
         "url": "https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 161959,
       "name": "Like My Love",
       "url": "https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "The Sweetest Dream",
+        "url": "https://open.spotify.com/album/0aazBbDWVGrdX0dPHhcj3A"
+      },
+      "artists": [
+        {
+          "name": "Desired",
+          "url": "https://open.spotify.com/artist/6LC1S5ypWENVcHPlTruKKt"
+        }
+      ],
+      "duration_ms": 220055,
+      "name": "Eyes on Me",
+      "url": "https://open.spotify.com/track/2KsIlbHyTl7wJaG0fOLs34"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Paradise Break",
-        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
+        "name": "Tropical Feeling",
+        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
       },
       "artists": [
         {
-          "name": "Sparkly Night",
-          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
+          "name": "Skule Toyama",
+          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
         }
       ],
-      "duration_ms": 175567,
-      "name": "Lady Paradise",
-      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
+      "duration_ms": 292939,
+      "name": "Tropical Feeling",
+      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Tropical Feeling",
-        "url": "https://open.spotify.com/album/2bUGIHbRURIAphBRHd5f4K"
+        "name": "Paradise Break",
+        "url": "https://open.spotify.com/album/6PbGSUZ6oaSXT82SRE6Vzf"
       },
       "artists": [
         {
-          "name": "Skule Toyama",
-          "url": "https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2"
+          "name": "Sparkly Night",
+          "url": "https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN"
         }
       ],
-      "duration_ms": 292939,
-      "name": "Tropical Feeling",
-      "url": "https://open.spotify.com/track/76swBwQesVkyBnSkqpEphn"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "SAILORSATURDAYS",
-        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
-      },
-      "artists": [
-        {
-          "name": "Kokonoku",
-          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "SAILORSATURDAYS",
-      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
+      "duration_ms": 175567,
+      "name": "Lady Paradise",
+      "url": "https://open.spotify.com/track/5v6UbRijN2QIvkEK4Alssb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1203,22 +1187,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Dance Tonite",
-        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+        "name": "SAILORSATURDAYS",
+        "url": "https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
-        },
-        {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Kokonoku",
+          "url": "https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Dance Tonite",
-      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
+      "duration_ms": 240000,
+      "name": "SAILORSATURDAYS",
+      "url": "https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1239,6 +1219,26 @@
       "duration_ms": 259673,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Dance Tonite",
+        "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
+      },
+      "artists": [
+        {
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+        },
+        {
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Dance Tonite",
+      "url": "https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Virtual Girls Band a.k.a. Sparkle",
-        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
-      },
-      "artists": [
-        {
-          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
-          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
-        }
-      ],
-      "duration_ms": 186664,
-      "name": "Break Your Heart",
-      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Cheetahs in Barcelona",
         "url": "https://open.spotify.com/album/3dkGNzkrkpvJ7cwBvNOFAC"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 169714,
       "name": "Cheetahs in Barcelona",
       "url": "https://open.spotify.com/track/3XhZJpfEiaV0TMqxMohGFk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Virtual Girls Band a.k.a. Sparkle",
+        "url": "https://open.spotify.com/album/4lduHCRgtsSJWm8ktzp5mf"
+      },
+      "artists": [
+        {
+          "name": "CHANCE \u30c7\u30e9\u30bd\u30a6\u30eb",
+          "url": "https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh"
+        }
+      ],
+      "duration_ms": 186664,
+      "name": "Break Your Heart",
+      "url": "https://open.spotify.com/track/0Opv7LwmfN6g0fCS0Zu2hG"
     },
     {
       "added_at": "2023-07-18 02:21:29",

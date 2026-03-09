@@ -11562,7 +11562,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -14556,6 +14556,28 @@
       "duration_ms": 136991,
       "name": "Dark Thoughts",
       "url": "https://open.spotify.com/track/7EW7Yivb93qKAtp5qEm5of"
+    },
+    {
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/1aXE1L3MSBmnsNGO5HwKQC"
+      },
+      "artists": [
+        {
+          "name": "marli",
+          "url": "https://open.spotify.com/artist/1UYBl1b6pewBi9Ee06Rvfp"
+        },
+        {
+          "name": "Philemon",
+          "url": "https://open.spotify.com/artist/13k83FRrq682vqOpI7epwJ"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106480,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/3DHO3GvZhb49NuJRn8AlaP"
     },
     {
       "album": {
@@ -34662,7 +34684,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 154745,
       "name": "LOVE U ANYWAY",
       "url": "https://open.spotify.com/track/7zirvOKv5Yi0WsXuq8f7xi"
@@ -43596,7 +43618,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 147013,
       "name": "Paint By Numbers",
       "url": "https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ"
@@ -57788,7 +57810,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -58770,7 +58792,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 202881,
       "name": "TRIPPIN",
       "url": "https://open.spotify.com/track/4ml1Eq4wmcdfN0Q6pNEly7"
@@ -59644,7 +59666,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 182088,
       "name": "undressed",
       "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
@@ -61400,7 +61422,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-04",
+      "date_removed": null,
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/51tf2J1gGNLG0IIvLquE64"

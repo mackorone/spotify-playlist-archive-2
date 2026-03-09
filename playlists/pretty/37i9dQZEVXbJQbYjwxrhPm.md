@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,508 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,511 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Ne me zasluzhavash](https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O) | [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn), [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG) | [Dokato sartseto bie](https://open.spotify.com/album/4WIsDXVbpQ86N4brU4jVUl) | 3:33 |
 | 50 | [Мръсна жега](https://open.spotify.com/track/2H8IhpLx4fuPMHToqHzGpi) | [Ivayla](https://open.spotify.com/artist/29Hsg37sCbjeeCdDA0HIgt), [Adam](https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK) | [Мръсна жега](https://open.spotify.com/album/2fPRJqUgWOtvfKZPs6lZII) | 2:36 |
 
-Snapshot ID: `MT+LQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MUDcwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

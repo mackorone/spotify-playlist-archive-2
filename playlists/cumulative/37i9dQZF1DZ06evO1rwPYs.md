@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-158 songs - 10 hr 9 min
+159 songs - 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,8 +118,9 @@
 | [Para Ti Mi Boogaloo](https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [¡La Excitante Celia Cruz!](https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw) | 2:32 | 2021-12-28 | 2023-12-14 |
 | [Patria y Vida \- Salsa](https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO) | [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [El Funky](https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm), [Maykel Osorbo](https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u), [Arturo Sandoval](https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ) | [Patria y Vida \(Salsa\)](https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF) | 4:05 | 2023-10-10 | 2025-03-12 |
 | [Perdón](https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4), [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa), [Justi Barreto](https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2) | [Homenaje A Beny Moré](https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY) | 3:17 | 2022-01-12 | 2023-02-17 |
-| [Plazos Traicioneros](https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mucho Love](https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp) | 2:51 | 2023-09-18 |  |
+| [Plazos Traicioneros](https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Mucho Love](https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp) | 2:51 | 2023-09-18 | 2026-03-09 |
 | [Plazos Traicioneros](https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Fania Classics: Celia Cruz & Willie Colón](https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht) | 2:53 | 2021-12-29 | 2023-09-19 |
+| [Plazos Traicioneros \- Remastered 2024](https://open.spotify.com/track/7Ml5UAdvDfXljFSwHCHwTj) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Only They Could Have Made This Album \(Remastered 2024\)](https://open.spotify.com/album/7JCLehSDJvpbC1NGmypzlM) | 2:52 | 2026-03-09 |  |
 | [Por Si Acaso No Regreso](https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Siempre Viviré](https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj) | 5:47 | 2021-12-28 |  |
 | [Que Le Den Candela](https://open.spotify.com/track/1gMOBywJqIUBLOnFpGqMLK) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Carnaval De Exitos](https://open.spotify.com/album/4O1Y013q4dkng1GGwaEgwM) | 3:52 | 2025-02-19 | 2026-02-26 |
 | [Que Le Den Candela](https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Irrepetible](https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS) | 3:52 | 2021-12-28 |  |

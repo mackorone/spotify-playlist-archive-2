@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,969 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,981 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 36 | [Fan Mail \- Remastered](https://open.spotify.com/track/4BMbD4jHKpmukraBqxUWKJ) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:38 |
 | 37 | [Man Overboard \- Remastered 2001](https://open.spotify.com/track/2miornYLAQaVJBSTKb48Go) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:22 |
 | 38 | [Do The Dark \- Remastered 2001](https://open.spotify.com/track/6MpYCxZDkkFLuHbXkLyxeo) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:51 |
-| 39 | [Doom or Destiny](https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 2:54 |
-| 40 | [Llámame \(Call Me\)](https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 6:20 |
+| 39 | [Llámame \(Call Me\)](https://open.spotify.com/track/3m2zWFVdi4LXMSw6YyQ6PP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Call Me](https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K) | 6:20 |
+| 40 | [Doom or Destiny](https://open.spotify.com/track/6hdSNAiwhc0lHCs4LQtk2n) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 2:54 |
 | 41 | [Sunday Girl \- French Version](https://open.spotify.com/track/7y9i0rBNyVTIdW2WU2u8SP) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Sunday Girl](https://open.spotify.com/album/5iga5wn8c1N1Q1V56hflCw) | 3:14 |
 | 42 | [Angels On The Balcony \- Remastered 2001](https://open.spotify.com/track/3c0LYepWCH4Xu9JKCKQLaA) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:47 |
 | 43 | [Contact In Red Square \- Remastered](https://open.spotify.com/track/3CsLJ6hYYgtoUKSSgvvga4) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [Soul Train](https://open.spotify.com/track/7CmF9SN9l1pM0frifWOR7w) | [Just Loud](https://open.spotify.com/artist/7xAO3x13zwxGoIM7N3pXL9), [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Just Loud](https://open.spotify.com/album/63EtAEjDS7lOyOl2lJeriG) | 2:59 |
 | 50 | [Walk Like Me \- Remastered 2001](https://open.spotify.com/track/3D4vCxJemidHRGSj85GnqN) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 3:44 |
 
-Snapshot ID: `aaoZAAAAAADBiGrD8H9XoCVpu4Z+dWvQ`
+Snapshot ID: `aatqgAAAAAAih35a270BzPO4PG4Qg6Vp`

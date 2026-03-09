@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: NELL\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,142 songs - 2 day 21 hr 25 min
+1,144 songs - 2 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A Kid From Bathroom](https://open.spotify.com/track/42viEIOYM4blJHf95e5Fy1) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [C](https://open.spotify.com/album/7e5sJT4ByH3fVYXvHoMYdt) | 2:43 | 2022-04-22 | 2022-07-24 |
 | [A Long Dream](https://open.spotify.com/track/2LQJZcCEfTG1v087gaaMMj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/41NYtKrSofLWaxOZNs1Atb) | 4:18 | 2025-03-17 | 2025-04-12 |
 | [A Long Dream 긴 꿈](https://open.spotify.com/track/0h5XgxN8lwqFCZXyGSCRch) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream 긴 꿈](https://open.spotify.com/album/14MzJLQEjGoWplHYwe3JiJ) | 4:18 | 2022-04-22 | 2022-07-29 |
+| [A Love Cliche](https://open.spotify.com/track/2UeMHseXwiwB4zpdAIy0DY) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [A Love Cliche](https://open.spotify.com/album/1HzfxIBaNo2V7ECZaDQ3FV) | 2:27 | 2026-03-09 |  |
 | [A Minute, A Second](https://open.spotify.com/track/5QB4UqWDiTnKdmW4QXHj70) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A Minute, A Second](https://open.spotify.com/album/72jVNugN4j3KraXGzGEki2) | 3:12 | 2026-01-27 | 2026-01-29 |
 | [A Night in Taipei \(feat\. Sonny Zero\)](https://open.spotify.com/track/6v5q3Q6lXiqhIyJnBDavie) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [A Night in Taipei](https://open.spotify.com/album/03rs2tBu3qAikl97HKBbXa) | 2:29 | 2024-11-29 | 2025-01-31 |
 | [A Sleepless Night](https://open.spotify.com/track/7wlCdfpxaWQPaxspDIN3wX) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [X](https://open.spotify.com/album/5jV0o8IBkyrptifJWnXB0u) | 2:45 | 2024-10-16 | 2025-04-12 |
@@ -396,7 +397,7 @@
 | [Hero](https://open.spotify.com/track/0qpUF29Va52nwO9OijdZTg) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Hero](https://open.spotify.com/album/177rk2soHgPKt1uN1MF8Ta) | 3:01 | 2024-05-08 | 2024-05-10 |
 | [Hero](https://open.spotify.com/track/3qDFTgwGko13BbFYoSiDgh) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/5CBLXresvf69JUSU9TsR0r) | 3:16 | 2025-03-17 | 2025-04-12 |
 | [HERO IN THE MIRROR](https://open.spotify.com/track/2UhA1gWKnQNlfE3YiAV3BN) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 3:22 | 2024-03-21 | 2024-05-10 |
-| [Heukseok\-dong](https://open.spotify.com/track/1YAOfACashdIviwvQbXodh) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Sanullim 50th Anniversary full length album Vol\. 3](https://open.spotify.com/album/3U0OA2EGUsG8HV7EwOLua5) | 6:53 | 2026-03-04 |  |
+| [Heukseok\-dong](https://open.spotify.com/track/1YAOfACashdIviwvQbXodh) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Sanullim 50th Anniversary full length album Vol\. 3](https://open.spotify.com/album/3U0OA2EGUsG8HV7EwOLua5) | 6:53 | 2026-03-04 | 2026-03-09 |
 | [Heukseok\-dong](https://open.spotify.com/track/2aEaejrhOecAdVvifXidcm) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [Heukseok\-dong 〈Sanullim's 50th Anniversary Collaboration Album〉](https://open.spotify.com/album/1h3aXRHMtuiUTnEymDWKGo) | 6:53 | 2025-07-10 | 2025-07-15 |
 | [Hey Boy !](https://open.spotify.com/track/5acMkZJUeNP9NVyvaZEoQ0) | [Claire Hau](https://open.spotify.com/artist/3mhfsEXzcPMT1WP4s6XqCS) | [Hey Boy !](https://open.spotify.com/album/3et0pb0CVdufpFGSwzTDf4) | 3:21 | 2024-04-30 | 2024-05-10 |
 | [Hey Buddy](https://open.spotify.com/track/3M8wH1NBH8dwXtPA15a8kf) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [Hey Buddy](https://open.spotify.com/album/2HDFYIbqGYdkTNEl0gPrn3) | 2:47 | 2022-06-13 | 2022-06-19 |
@@ -608,7 +609,7 @@
 | [melon](https://open.spotify.com/track/4anw7njgXqWoNABbWwAbEO) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Since the World is About to End](https://open.spotify.com/album/0ACwMoxFMS9lTsuWcRs4WB) | 5:02 | 2022-04-12 | 2022-07-10 |
 | [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-02 | 2025-02-11 |
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
-| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-10 |  |
+| [Memory](https://open.spotify.com/track/4l3EaJebI5YOPEU4o0Xllr) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Soar \- The 2nd Album](https://open.spotify.com/album/1gd5hT2aso74mriSsCKDb9) | 3:03 | 2025-06-10 | 2026-03-09 |
 | [Mercury](https://open.spotify.com/track/1Q1lThtKTcrM96wfrh8O6y) | [oomool](https://open.spotify.com/artist/6Hd7QIFavcdnS1Iiri4ssH) | [Mercury](https://open.spotify.com/album/5rEOxoegOUSR6UW1wqkU12) | 5:13 | 2022-06-13 | 2022-06-19 |
 | [Midnight Alley](https://open.spotify.com/track/2BG6adTppcsyXEavjbKwDE) | [TransFixion](https://open.spotify.com/artist/6HpuWuyK8mHYcbFoxPbDg3) | [Midnight Alley 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/6PhsAyoYrGki4rpw0AKQYg) | 3:24 | 2024-12-23 | 2025-03-07 |
 | [Midnight Train 심야행](https://open.spotify.com/track/5frQVgA52nXd4SqlGaQn3H) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/0LnLkLjqu2sk3i0He64odF) | 4:17 | 2022-04-21 | 2022-07-29 |
@@ -1047,6 +1048,7 @@
 | [Welcome to the Show](https://open.spotify.com/track/6je5cTal6PyeITNrOzkCoS) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Fourever](https://open.spotify.com/album/29pgfsXVV0cLsvfylWRZJ9) | 3:37 | 2024-03-18 |  |
 | [We′re Never Going Back](https://open.spotify.com/track/3E9si0gRkModamhgTBWTk3) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [OVER//DRIVE](https://open.spotify.com/album/0eddSmD2hjsYT7cHsYcQOd) | 3:00 | 2026-01-21 | 2026-02-07 |
 | [Whale](https://open.spotify.com/track/4UnBxdw1l3J31WBsgmHezz) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Whale](https://open.spotify.com/album/33xJchEJEX9MMspAs6JY9n) | 3:19 | 2022-04-12 | 2023-08-28 |
+| [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 | 2026-03-09 |  |
 | [What I Want To Say](https://open.spotify.com/track/7uJTJ5dlGhPeQ9IS8VReF6) | [Jung Dong Ha](https://open.spotify.com/artist/5Y5c91VcBMoVZbYBZdoRnu) | [What I Want To Say \(Police University OST Part.6\)](https://open.spotify.com/album/0i1PtAZNjiF9IIxm4i0N2m) | 3:18 | 2022-06-13 | 2022-06-15 |
 | [What the Ggang?](https://open.spotify.com/track/0YedxsBCjTOvmcWnNo2lmT) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Again my life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/09NmQllkYN634Ft01Vde3i) | 3:00 | 2022-04-21 | 2022-06-23 |
 | [What's Up](https://open.spotify.com/track/1IEpD04PV3DYiVzR84Qdr4) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:24 | 2024-07-15 | 2024-07-24 |

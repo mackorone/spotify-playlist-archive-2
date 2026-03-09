@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,353 likes - 202 songs - 12 hr 35 min
+[newfoundsound](https://open.spotify.com/user/newfoundsound) - 1,352 likes - 209 songs - 13 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -210,5 +210,12 @@ pretty - [cumulative](/playlists/cumulative/1nydLfizjzY84t5hAoc5ct.md) - [plain]
 | 200 | [Blood / Water](https://open.spotify.com/track/7HNrmyAXCBMsqZ3r11R6Z8) | [Above as Below](https://open.spotify.com/artist/7IYn8BSTZMool0yTmw5uL3) | [Blood / Water](https://open.spotify.com/album/0Xu6PwA7vRTsftxYX0KueC) | 4:29 |
 | 201 | [Here To Stay](https://open.spotify.com/track/3Q0CCmpgxZ22Ul1t6OyWN6) | [Lewis Wiles](https://open.spotify.com/artist/5NE6yiNIyVj0T8tWCFbT4G) | [Here To Stay](https://open.spotify.com/album/3uJthhjP1KSDCHlmXTzUmz) | 3:23 |
 | 202 | [International Radio Star](https://open.spotify.com/track/7hoHVAVvZJbku8CTsBVdEC) | [Bela and The Lugosis](https://open.spotify.com/artist/690j7ypcDuaN0b3KcZzs78) | [International Radio Star](https://open.spotify.com/album/1NqOdon7S5dZYKWiW1Tt7I) | 3:07 |
+| 203 | [Found My Reason Why](https://open.spotify.com/track/6HggbroGS2csvv000ntCLY) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Found My Reason Why](https://open.spotify.com/album/01iKKKRuQXXe0Lid1irXHb) | 4:38 |
+| 204 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 205 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 206 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 207 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 208 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
+| 209 | [Noise & Confusion](https://open.spotify.com/track/3nIZheQu8GzGKGGSsfPkVl) | [The Rooks](https://open.spotify.com/artist/1jZcBwfO8dcdTQw9wEpQ7x) | [Noise & Confusion](https://open.spotify.com/album/3Q5qO9vqvJSEvtHCQeQpd2) | 5:10 |
 
-Snapshot ID: `AAB1dqeiPHUK+wJWhRp/61GSscDpqqjB`
+Snapshot ID: `AAB1fWAg4rsNtBRxILa2yv9YZdoNHLyR`

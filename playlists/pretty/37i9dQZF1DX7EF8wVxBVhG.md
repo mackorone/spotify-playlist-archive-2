@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 
 > Enhance your concentration by traveling through different brainwave frequencies until you reach peak awareness in Gamma state.
 
-[Spotify](https://open.spotify.com/user/spotify) - 856,069 likes - 108 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 856,348 likes - 108 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7EF8wVxBVhG.md) - [plain]
 | 107 | [Auditory Aura \(Alpha Binaural 67.8 Hz \- 77 Hz\)](https://open.spotify.com/track/42a5SqK0vcoDGxX4HJhlaY) | [Suburban DZ](https://open.spotify.com/artist/33eIaajbND4MYRXV3roJ5Q) | [Echoic Elixir \(Alpha Binaural 122 Hz \- 110 Hz\)](https://open.spotify.com/album/69fzUDpLXS9UN3BkewmujN) | 3:12 |
 | 108 | [Pasadena 65Hz \- 67Hz](https://open.spotify.com/track/2izGpvovzV40efrRgnG87o) | [Inner Society](https://open.spotify.com/artist/1eAKHzxuj5hu1fFP38wzFx) | [Pasadena 65Hz \- 67Hz](https://open.spotify.com/album/6jBVUioNs14SgxlrprDSZ1) | 3:34 |
 
-Snapshot ID: `AAAAAOIUJhwUVB7OhBtimBw9mn1OxMsK`
+Snapshot ID: `AAAAAARLwvnikg7Vb9RgJM8A0bMcOK3T`

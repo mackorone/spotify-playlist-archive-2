@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Harry Styles, Paul Aro, Stephen Sanchez, Armada dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,416 likes - 89 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,437 likes - 89 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 13 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |
 | 14 | [moonboy](https://open.spotify.com/track/4YoU6VbOH4KigttoGoPFjT) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [moonboy](https://open.spotify.com/album/7Ix2gCc8OGassm8RdqLCMa) | 2:53 |
 | 15 | [better without me.](https://open.spotify.com/track/5EngqDwTf0sZ9v70mueRdI) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn), [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [better without me.](https://open.spotify.com/album/36yJOEUq5FtaO6ArH1LyuM) | 3:08 |
-| 16 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
+| 16 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
 | 17 | [ATTITUDE](https://open.spotify.com/track/6QIY4JAyzPH6UuFsyndaPs) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [ATTITUDE](https://open.spotify.com/album/39wwc39ALeKhi3LP1xerOw) | 3:05 |
 | 18 | [Tweak](https://open.spotify.com/track/3BuaksAZoXoIr8NoxAsIOO) | [GIRLSET](https://open.spotify.com/artist/3D2TVeexyIXOtc8F4qEZ6P) | [Tweak](https://open.spotify.com/album/0VeiKxNxcCRrzgNHuhyMXu) | 2:28 |
 | 19 | [Honey Honey](https://open.spotify.com/track/282XNtIdfDh0NupdD8zBzp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 2:38 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Harry Styles, Jennifer Lopez, TOMORA,  ずっと真夜中でいいのに。 and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,576 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,564 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 37 | [Turn Your Heart Back On](https://open.spotify.com/track/4713XrbD4hGM1YYQkqRbZM) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Atlanta](https://open.spotify.com/album/0D5Js6PSJm4xsy872qRBgf) | 3:07 |
 | 38 | [Hunnybån](https://open.spotify.com/track/2eSa7Je2y3AfxAzDpYKY1E) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Hunnybån / Fine Curls](https://open.spotify.com/album/6ZyUFM1QJYUdSjGNpjAp6M) | 2:41 |
 | 39 | [Earth, Wind & California](https://open.spotify.com/track/18o7eKxV5q5vdj2Qa1hF0L) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Jean](https://open.spotify.com/album/27SQuR7jPiGkJJXl8njEqY) | 3:04 |
-| 40 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
+| 40 | [What A Love](https://open.spotify.com/track/0uWkK3kmlhxtBtbXGZcgPU) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:18 |
 | 41 | [Unang Kilig](https://open.spotify.com/track/7mfaRuBDtbywhmLSoPSscp) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Unang Kilig / Honey Honey](https://open.spotify.com/album/3KDnE33OQ0tkI2qtvoVA0r) | 3:37 |
 | 42 | [Apambichao](https://open.spotify.com/track/2bGtRhJdSGIjxrBtewOJqV) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Apambichao](https://open.spotify.com/album/48mh6SriOYbsgsJ5KgdV4B) | 2:27 |
 | 43 | [Más Cara](https://open.spotify.com/track/0RrwwLDXmvCGXXzuDgwvOZ) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Más Cara](https://open.spotify.com/album/1xrj7cbZtRtEt1KjXNFQ26) | 2:35 |

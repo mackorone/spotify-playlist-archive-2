@@ -1,6 +1,6 @@
 {
   "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese women rock icons. Cover: \u30cf\u30af\u3002",
-  "num_followers": 59461,
+  "num_followers": 59466,
   "original_name": "She Rocks",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
-        "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
-      },
-      "artists": [
-        {
-          "name": "\u7d2b \u4eca",
-          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
-        }
-      ],
-      "duration_ms": 193301,
-      "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
-      "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
         "name": "\u521d\u604b\u30ad\u30e9\u30fc",
         "url": "https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 132472,
       "name": "\u521d\u604b\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
+        "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
+        "url": "https://open.spotify.com/album/4f5zQzbqzu69iAhNsRU0hI"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "duration_ms": 193301,
+      "name": "\u30a6\u30ef\u30b5\u306e\u3042\u306e\u5b50",
+      "url": "https://open.spotify.com/track/44LBQojtOWIv0mgiaOlp0u"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -467,18 +467,18 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "\u6709\u5fc3\u8ad6",
-        "url": "https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV"
+        "name": "BONE BORN BOMB",
+        "url": "https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC"
       },
       "artists": [
         {
-          "name": "ZUTOMAYO",
-          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
         }
       ],
-      "duration_ms": 248600,
-      "name": "\u6709\u5fc3\u8ad6",
-      "url": "https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy"
+      "duration_ms": 184921,
+      "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30c3\u30ad\u30fc\u30c1\u30e3\u30c3\u30d4\u30fc",
+      "url": "https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "BONE BORN BOMB",
-        "url": "https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC"
+        "name": "\u6709\u5fc3\u8ad6",
+        "url": "https://open.spotify.com/album/1ipf6VYiymoeUxWPULNwtV"
       },
       "artists": [
         {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
         }
       ],
-      "duration_ms": 184921,
-      "name": "\u30cf\u30c3\u30d4\u30fc\u30e9\u30c3\u30ad\u30fc\u30c1\u30e3\u30c3\u30d4\u30fc",
-      "url": "https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX"
+      "duration_ms": 248600,
+      "name": "\u6709\u5fc3\u8ad6",
+      "url": "https://open.spotify.com/track/0p07bRejRNjkMkjwEKqYJy"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -739,22 +739,18 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "DISASTERPIECE",
-        "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
+        "name": "illusion",
+        "url": "https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ"
       },
       "artists": [
         {
-          "name": "Mori Calliope",
-          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
-        },
-        {
-          "name": "10-FEET",
-          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 225826,
-      "name": "\u5929\u8a85 & Mercy",
-      "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
+      "duration_ms": 195733,
+      "name": "illusion",
+      "url": "https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -775,18 +771,22 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "illusion",
-        "url": "https://open.spotify.com/album/7tOkQxseZlORjYoyUkE0MZ"
+        "name": "DISASTERPIECE",
+        "url": "https://open.spotify.com/album/6KjTMgxqXazmTzIpzmQ4Dk"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        },
+        {
+          "name": "10-FEET",
+          "url": "https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h"
         }
       ],
-      "duration_ms": 195733,
-      "name": "illusion",
-      "url": "https://open.spotify.com/track/1BpjLA9nQYf06iNZaK8eWZ"
+      "duration_ms": 225826,
+      "name": "\u5929\u8a85 & Mercy",
+      "url": "https://open.spotify.com/track/4yPQdCSNYZq7xjWZpjY6mc"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "\u30cf\u30af",
-        "url": "https://open.spotify.com/album/6qzDuc2mTw5idG6g6vT5QL"
-      },
-      "artists": [
-        {
-          "name": "Atarayo",
-          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
-        }
-      ],
-      "duration_ms": 220199,
-      "name": "\u30cf\u30af",
-      "url": "https://open.spotify.com/track/6rcu3zzJEHEZaiCnGHI1pR"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
         "name": "Whitoxin",
         "url": "https://open.spotify.com/album/2OSTqjT8ESEOYbasGPRjra"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 249360,
       "name": "Whitoxin",
       "url": "https://open.spotify.com/track/7HGUFKQkVQMgPhMIm2GDfl"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
+        "name": "\u30cf\u30af",
+        "url": "https://open.spotify.com/album/6qzDuc2mTw5idG6g6vT5QL"
+      },
+      "artists": [
+        {
+          "name": "Atarayo",
+          "url": "https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh"
+        }
+      ],
+      "duration_ms": 220199,
+      "name": "\u30cf\u30af",
+      "url": "https://open.spotify.com/track/6rcu3zzJEHEZaiCnGHI1pR"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "Rookies",
-        "url": "https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u"
-      },
-      "artists": [
-        {
-          "name": "Conton Candy",
-          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
-        }
-      ],
-      "duration_ms": 206833,
-      "name": "Rookies",
-      "url": "https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
         "name": "THE GOLDEN PROTOTYPE.",
         "url": "https://open.spotify.com/album/6bSIAAgutYicD50L9Bt2yl"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 230232,
       "name": "\u6771\u4eac\u30b4\u30c3\u30c9\u30b9\u30c8\u30ea\u30fc\u30c8\u30dc\u30fc\u30a4\u30ba",
       "url": "https://open.spotify.com/track/2nXJEs0KZQeNbPBNq9LFuJ"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
+        "name": "Rookies",
+        "url": "https://open.spotify.com/album/1yS8JPw8shuUuc1hTMeB8u"
+      },
+      "artists": [
+        {
+          "name": "Conton Candy",
+          "url": "https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq"
+        }
+      ],
+      "duration_ms": 206833,
+      "name": "Rookies",
+      "url": "https://open.spotify.com/track/3a6OZDaosgpHJaKDn5fBJU"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "Channel U",
-        "url": "https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s"
-      },
-      "artists": [
-        {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "PLAYER 1",
-      "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
         "name": "FEVER TIME",
         "url": "https://open.spotify.com/album/1GH05jA1VSvhAggqUMzK9x"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 224628,
       "name": "FEVER TIME",
       "url": "https://open.spotify.com/track/3kkhOcPI0S9t2UQuheTT3V"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
+        "name": "Channel U",
+        "url": "https://open.spotify.com/album/086HxFr00ZoUPUewk20f6s"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "PLAYER 1",
+      "url": "https://open.spotify.com/track/6pEUfda5EvMmTcCjdoh6Bm"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
-      },
-      "artists": [
-        {
-          "name": "Kucci",
-          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
         "name": "Good Morning",
         "url": "https://open.spotify.com/album/5lf6d24IOe7lkGxaDQ6zE0"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 183413,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/4PCu8xygJhOG4TLNNw3LO4"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
+        "name": "\u30e9\u30a4\u30a2\u30fc",
+        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
+      },
+      "artists": [
+        {
+          "name": "Kucci",
+          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2026-03-03 15:00:34",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2026-03-03 15:00:34",
       "album": {
+        "name": "\u6625\u8272\u30d9\u30a4\u30d3\u30fc\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/2OAAFRsMA5IkOD5wGSxtCt"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        }
+      ],
+      "duration_ms": 247173,
+      "name": "\u6625\u8272\u30d9\u30a4\u30d3\u30fc\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5Hbb4cnIX5APVIn7Z14TqG"
+    },
+    {
+      "added_at": "2026-03-03 15:00:34",
+      "album": {
         "name": "CRAZZZY",
         "url": "https://open.spotify.com/album/6epSwi19HQpi4fZERo4jni"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 224661,
       "name": "\u30e9\u30f4\u30a3\u30f3\u30b0",
       "url": "https://open.spotify.com/track/59xh3LFvPldQlJbLVnFC6K"
-    },
-    {
-      "added_at": "2026-03-03 15:00:34",
-      "album": {
-        "name": "\u521d\u604b",
-        "url": "https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45"
-      },
-      "artists": [
-        {
-          "name": "Blooming Bungei",
-          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "\u521d\u604b",
-      "url": "https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W"
     }
   ],
   "unique_name": "She Rocks",

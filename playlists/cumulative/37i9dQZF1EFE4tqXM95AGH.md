@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-255 songs - 13 hr 53 min
+256 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 | 2022-09-08 |  |
 | [Someone Else](https://open.spotify.com/track/28HfRT3Zjmt1KgIZFjlWlW) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 3:04 | 2021-12-27 |  |
 | [Someone For Me](https://open.spotify.com/track/4RqWoB5cfvROXfgO8pYKzL) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:34 | 2024-10-30 |  |
+| [Spring Break](https://open.spotify.com/track/29h7ks5IrRhTqU526S4h5O) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild EP](https://open.spotify.com/album/44rmDQS0jLvhACOXnfF8RK) | 3:16 | 2026-03-08 |  |
 | [Sticks](https://open.spotify.com/track/0U05dcNIHjP8sPWm6vxJ8W) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Double Wide Diva](https://open.spotify.com/album/4n5NG3MFeRomRqPpEeCEMC) | 2:45 | 2022-10-08 | 2026-02-23 |
 | [Sticks](https://open.spotify.com/track/69gjEy2qUdJXfprRH9Hf12) | [Ginger Minj](https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE) | [Double Wide Diva \- The Stories Behind The Songs \(Commentary\)](https://open.spotify.com/album/4knnl4FcACpR2rxjvWbLwU) | 2:45 | 2026-02-22 |  |
 | [STUD](https://open.spotify.com/track/1trCZF4aa39AhDCfTBw8Qn) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:29 | 2021-12-27 |  |

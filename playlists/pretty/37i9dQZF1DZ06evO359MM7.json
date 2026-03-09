@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Baby. The essential tracks, all in one playlist.",
-  "num_followers": 445011,
+  "num_followers": 445026,
   "original_name": "This Is Lil Baby",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAADye73R5yLvpbUtJkXfN6BC",
+  "snapshot_id": "aatqgAAAAAA485uTbhY/WghIeyfTh5wd",
   "tracks": [
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Voice of the Heroes",
-        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 235014,
-      "name": "Rich Off Pain (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon",
         "url": "https://open.spotify.com/album/3HrEoVcXbsvjY0KD2AIcNu"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 190476,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/0wzYHglk05SfNFN1aTRTlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 235014,
+      "name": "Rich Off Pain (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
     },
     {
       "added_at": null,
@@ -631,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOW OR NEVER II",
-        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
-      },
-      "artists": [
-        {
-          "name": "Tkandz",
-          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 158357,
-      "name": "NOW OR NEVER II",
-      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hollywood's Bleeding",
         "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 218320,
       "name": "On The Road (feat. Meek Mill & Lil Baby)",
       "url": "https://open.spotify.com/track/12Fkyg9lpmaz2zmKOfw2Y2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOW OR NEVER II",
+        "url": "https://open.spotify.com/album/4Qm3agfa6jg4nescfzLyy3"
+      },
+      "artists": [
+        {
+          "name": "Tkandz",
+          "url": "https://open.spotify.com/artist/4Uwx6qzRn0kA9sz6cCDpBO"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 158357,
+      "name": "NOW OR NEVER II",
+      "url": "https://open.spotify.com/track/3WIV7gukpFbj7YotPoUVb2"
     },
     {
       "added_at": null,

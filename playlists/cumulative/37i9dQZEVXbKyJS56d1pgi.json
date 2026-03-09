@@ -2334,6 +2334,28 @@
     {
       "album": {
         "name": "Amo Minha Favela",
+        "url": "https://open.spotify.com/album/0gQOFivOUvP08YHVZqX4mi"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119538,
+      "name": "Amo Minha Favela",
+      "url": "https://open.spotify.com/track/2FBgVaH95hUfKBK8GUbvju"
+    },
+    {
+      "album": {
+        "name": "Amo Minha Favela",
         "url": "https://open.spotify.com/album/20s95PaYtUZtoplbDIBetb"
       },
       "artists": [
@@ -2348,7 +2370,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 119769,
       "name": "Amo Minha Favela",
       "url": "https://open.spotify.com/track/4S1SaaCxQ87nXpA2EfYFj4"
@@ -5878,7 +5900,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 253653,
       "name": "Carla's Song",
       "url": "https://open.spotify.com/track/3QuRLv8zkIYH31O5VgEpmo"
@@ -8212,7 +8234,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 194880,
       "name": "Dance No More",
       "url": "https://open.spotify.com/track/0VV0AMmgLBUhzuFedr3F3e"
@@ -11000,7 +11022,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
@@ -13300,7 +13322,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-03",
+      "date_removed": null,
       "duration_ms": 174110,
       "name": "Fui Mlk",
       "url": "https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6"
@@ -20060,7 +20082,7 @@
       ],
       "date_added": "2026-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
@@ -21068,7 +21090,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -26098,7 +26120,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 147013,
       "name": "Paint By Numbers",
       "url": "https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ"
@@ -27218,7 +27240,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 173613,
       "name": "Pobre Ex-Namorado",
       "url": "https://open.spotify.com/track/2AXo4bZh5m5XkuANOjNnk7"
@@ -27424,7 +27446,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 216026,
       "name": "Pop",
       "url": "https://open.spotify.com/track/028i7HBfp8uE5epmx5ieMA"
@@ -27652,10 +27674,44 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"
+    },
+    {
+      "album": {
+        "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+        "url": "https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B"
+      },
+      "artists": [
+        {
+          "name": "DJ Japa NK",
+          "url": "https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "DJ DAVI DOGDOG",
+          "url": "https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
+      "url": "https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l"
     },
     {
       "album": {
@@ -30554,7 +30610,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 229560,
       "name": "Season 2 Weight Loss",
       "url": "https://open.spotify.com/track/6GteP2UCnpHRWSZTL63QHe"
@@ -35370,7 +35426,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 169960,
       "name": "The Waiting Game",
       "url": "https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN"
@@ -39642,7 +39698,7 @@
       ],
       "date_added": "2025-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-08",
+      "date_removed": null,
       "duration_ms": 263767,
       "name": "\u00c1lcool & Prazer",
       "url": "https://open.spotify.com/track/6qAwPDEkGruLmGooPRL1Gb"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 
 > A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 \- Possible Musics'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,502 likes - 70 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,501 likes - 70 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 44 | [Paper Marble](https://open.spotify.com/track/4CUwlWnCgjWI434Gy0NwPo) | [David Kuckhermann](https://open.spotify.com/artist/4Yp7P4A82tNbZmMYRTSW9c) | [The Path of the Metal Turtle](https://open.spotify.com/album/2j4wLYGVcXgaleCBlvFA7o) | 6:15 |
 | 45 | [Goo \- Joseph Shabason Remix](https://open.spotify.com/track/5uLvP7lZsXe62sg03Ly2s1) | [Murmur](https://open.spotify.com/artist/2XtXQPXn2iPxMm1zyJNlYb), [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Goo \(Joseph Shabason Remix\)](https://open.spotify.com/album/1IuHXILpwXzjM5sm9LDElB) | 4:14 |
 | 46 | [Omprovo](https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Oquo](https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv) | 2:40 |
-| 47 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
-| 48 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
+| 47 | [Empire II](https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Aka / Darbari / Java](https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK) | 4:53 |
+| 48 | [Come Back To Bali](https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi) | [Idee Du Femelle](https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm) | [Sequences](https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B) | 7:37 |
 | 49 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 |
 | 50 | [Acryl](https://open.spotify.com/track/56Wpf80guuziEQ5Yz2nI5V) | [Damian Dalla Torre](https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9) | [I Can Feel My Dreams](https://open.spotify.com/album/14SSpIBg8GGfVgThO9VlTB) | 2:54 |
 | 51 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvTQHhm7Jtf.md) - [plain]
 | 55 | [Lucerne Valley](https://open.spotify.com/track/4pWYWHh0tXLyo2hcNKAIHk) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Reflections \- Mojave Desert](https://open.spotify.com/album/2A9lnshn6QxS5SmbCsCuu0) | 3:38 |
 | 56 | [Desert Wax](https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil) | [S A D](https://open.spotify.com/artist/3iCMhOPsGRUGXAOhHaS6PU) | [Children of the Sun](https://open.spotify.com/album/7JqhSihASq4Jl5SWxeUTdV) | 4:45 |
 | 57 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 |
-| 58 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
-| 59 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
+| 58 | [Blåne II](https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK) | [Inge Weatherhead Breistein](https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG), [Haav](https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy) | [Blåne II](https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx) | 4:31 |
+| 59 | [Mamba Negra](https://open.spotify.com/track/2u1zyhCb148EO2sE1rxrB1) | [Almanacs](https://open.spotify.com/artist/4SmpLc2aX1YGPXfkVmWKNa) | [Spirits of the River](https://open.spotify.com/album/1GkkDQSiVjWYfP3EICID4X) | 5:09 |
 | 60 | [DLY](https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85) | [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [DLY](https://open.spotify.com/album/5C1BwLLRKqfaqQEPcaaf5r) | 4:59 |
 | 61 | [Tide Pool Portals to Another World](https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq) | [Signal Quest](https://open.spotify.com/artist/4yv67wG6XrMRwgphaW6nwC), [Lynn Avery](https://open.spotify.com/artist/1sniKBvInfBWCIkzFMUshP), [Cole Pulice](https://open.spotify.com/artist/7JUWlvLs6PzPMLryj6sdCh), [Mitch Stahlmann](https://open.spotify.com/artist/4bFkPBikiARS6thM04w2Pe) | [Hypermyth](https://open.spotify.com/album/1UKcHlLvCZxRgVjeK8ZouF) | 5:57 |
 | 62 | [Porpita](https://open.spotify.com/track/753ILqOdh4VSmGahUIi4oM) | [Miguel Atwood\-Ferguson](https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri) | [Les Jardins Mystiques Vol.1](https://open.spotify.com/album/4oIYiCrzOUVZvpxCopDB7e) | 3:26 |

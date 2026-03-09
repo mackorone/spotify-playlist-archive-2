@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 
 > Bu yıl yıldızı parlayanlar, editörlerimizin seçkisiyle\. Kapak: manifest
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,642 likes - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,641 likes - 29 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,17 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZAK3RRptBVW.md) - [plain]
 | 16 | [Zilli](https://open.spotify.com/track/4UKyuJy0GqMDrcg3IkddDi) | [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Zilli](https://open.spotify.com/album/0Qjs9wm0hCo0MKA6b8RYnX) | 2:12 |
 | 17 | [Bal Böceği](https://open.spotify.com/track/4P1xU6Qiz34UknVAV1kdin) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [Bal Böceği](https://open.spotify.com/album/4Sw0ElAaK2JH9e9ROh2tlf) | 2:18 |
 | 18 | [Yardım Et](https://open.spotify.com/track/5MaSC11m8OwbLE4cyv8vAf) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj) | [Yardım Et](https://open.spotify.com/album/0Di7jwZSFv24OsAUoa2U6M) | 2:36 |
-| 19 | [Eylülzede](https://open.spotify.com/track/3N2dY8tyTp7XGhsTSigaxT) | [Nikbinler](https://open.spotify.com/artist/1jd75hi1uo8CqDnDtVJcnz) | [Eylülzede](https://open.spotify.com/album/4F0m8knXbdGm0PJpaarwCF) | 4:29 |
-| 20 | [A LE LE](https://open.spotify.com/track/7g9wLhlweXiO3bpqWnHLRZ) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [A LE LE](https://open.spotify.com/album/0oSiUTvZHKK7seUBmQX5QV) | 2:51 |
-| 21 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 |
-| 22 | [İntikam Alıyorsun](https://open.spotify.com/track/1sJ3Iy4fJdou7wAAKRMHDZ) | [Başar Keklik](https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o) | [İntikam Alıyorsun](https://open.spotify.com/album/7a1GFQ6xht7ewdFqyQchtu) | 2:49 |
-| 23 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
-| 24 | [YARA](https://open.spotify.com/track/3pIFDu5vsPbkPYouOYsiM3) | [Enes Güneş](https://open.spotify.com/artist/7AYR5K0eZCV2XIe39SiaWG) | [YARA](https://open.spotify.com/album/0ZRiR9WVvQybVRb0VyLseB) | 2:46 |
-| 25 | [HITMAN](https://open.spotify.com/track/4SEPA6FVCHjCYhKCVWhKmf) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [HITMAN&VAKKO](https://open.spotify.com/album/2QfeXYMQJ7nDwWVZswDhFu) | 1:36 |
-| 26 | [Aşk Durdukça](https://open.spotify.com/track/1yBuzU3MYbsMgmuQktNq8J) | [Karaf](https://open.spotify.com/artist/3olb2kGgNI9UuUjHJpYK0o) | [Aşk Durdukça](https://open.spotify.com/album/1u6PI2FwkZRxAGyhXRpkx6) | 3:59 |
-| 27 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 |
-| 28 | [Kendi Kendime](https://open.spotify.com/track/4eYUFOGBZ1VZpxyPw3a3q4) | [Şahiden](https://open.spotify.com/artist/5HK7EM8b8bRtBdblgV5esY) | [Kendi Kendime](https://open.spotify.com/album/5Cg1MaP163rkt5erThhQFP) | 3:59 |
-| 29 | [Eski Ben Öldü](https://open.spotify.com/track/5QSOz8bWkWy3argEtNk5Pg) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Eski Ben Öldü](https://open.spotify.com/album/5aPBAFiN7jXPq8DiEgyRCY) | 2:29 |
-| 30 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 |
+| 19 | [A LE LE](https://open.spotify.com/track/7g9wLhlweXiO3bpqWnHLRZ) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [A LE LE](https://open.spotify.com/album/0oSiUTvZHKK7seUBmQX5QV) | 2:51 |
+| 20 | [TAMAM SENSİN](https://open.spotify.com/track/6oc2WQSZv5jZ1XXFw37GiS) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [TAMAM SENSİN](https://open.spotify.com/album/3UrsDDzsM6SPz13RE47RVR) | 2:22 |
+| 21 | [İntikam Alıyorsun](https://open.spotify.com/track/1sJ3Iy4fJdou7wAAKRMHDZ) | [Başar Keklik](https://open.spotify.com/artist/5m5Z5rAO3wYF1rvJmzhv7o) | [İntikam Alıyorsun](https://open.spotify.com/album/7a1GFQ6xht7ewdFqyQchtu) | 2:49 |
+| 22 | [Bende Katilime Aşıktım](https://open.spotify.com/track/5dOsHFII8HF05Cq6BoZDOa) | [Yıldırım Elmas](https://open.spotify.com/artist/464lu5xDniFcO7vYC5K8Ox) | [Bende Katilime Aşıktım](https://open.spotify.com/album/51iuFHmvwb5h5E4oMhzmHu) | 2:41 |
+| 23 | [YARA](https://open.spotify.com/track/3pIFDu5vsPbkPYouOYsiM3) | [Enes Güneş](https://open.spotify.com/artist/7AYR5K0eZCV2XIe39SiaWG) | [YARA](https://open.spotify.com/album/0ZRiR9WVvQybVRb0VyLseB) | 2:46 |
+| 24 | [HITMAN](https://open.spotify.com/track/4SEPA6FVCHjCYhKCVWhKmf) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [HITMAN&VAKKO](https://open.spotify.com/album/2QfeXYMQJ7nDwWVZswDhFu) | 1:36 |
+| 25 | [Aşk Durdukça](https://open.spotify.com/track/1yBuzU3MYbsMgmuQktNq8J) | [Karaf](https://open.spotify.com/artist/3olb2kGgNI9UuUjHJpYK0o) | [Aşk Durdukça](https://open.spotify.com/album/1u6PI2FwkZRxAGyhXRpkx6) | 3:59 |
+| 26 | [Senden Hatıra](https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec) | [Kerim Araz](https://open.spotify.com/artist/2xNgzwX6A9orF0QEJph5Eb), [Sevgim Yılmaz](https://open.spotify.com/artist/1oh1jFXcJYVg7g1E2Yb3PO) | [Senden Hatıra](https://open.spotify.com/album/4ZSLSrIk7vuIvh18qEXELD) | 3:19 |
+| 27 | [Kendi Kendime](https://open.spotify.com/track/4eYUFOGBZ1VZpxyPw3a3q4) | [Şahiden](https://open.spotify.com/artist/5HK7EM8b8bRtBdblgV5esY) | [Kendi Kendime](https://open.spotify.com/album/5Cg1MaP163rkt5erThhQFP) | 3:59 |
+| 28 | [Eski Ben Öldü](https://open.spotify.com/track/5QSOz8bWkWy3argEtNk5Pg) | [EFO](https://open.spotify.com/artist/0lZydBbYE6m9mwNXB0qpsC) | [Eski Ben Öldü](https://open.spotify.com/album/5aPBAFiN7jXPq8DiEgyRCY) | 2:29 |
+| 29 | [Katilime Aşıktım](https://open.spotify.com/track/1Okel22j5wxQ08BJtdIXGm) | [Mehmet Elmas](https://open.spotify.com/artist/10BA29Asr9YbvkcBFJixDb) | [Katilime Aşıktım](https://open.spotify.com/album/3o1EIMxZ3Xaec4AqFRnadQ) | 2:15 |
 
-Snapshot ID: `AAAAAB7iKA7cpiRfS6TU2qC5G7DuKMRP`
+Snapshot ID: `AAAAAOshmmLIb3y8deVvazYUWtQzw8Cu`

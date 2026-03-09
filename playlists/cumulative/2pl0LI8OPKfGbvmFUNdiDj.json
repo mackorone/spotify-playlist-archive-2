@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Bellissimo",
+        "url": "https://open.spotify.com/album/13zIjaUWbrWZ0MNlJ9h1AQ"
+      },
+      "artists": [
+        {
+          "name": "Crawl Town",
+          "url": "https://open.spotify.com/artist/4qjmL9io1J7QYLvDhhTPDd"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bellissimo",
+      "url": "https://open.spotify.com/track/5xrZSCxudVpzlF9XXDQ6Md"
+    },
+    {
+      "album": {
         "name": "Bet that",
         "url": "https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW"
       },
@@ -4709,6 +4727,24 @@
     },
     {
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/4h7XcpvcKu0yTU5ZaJfwSY"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Broadcast",
+          "url": "https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179075,
+      "name": "Pure Class",
+      "url": "https://open.spotify.com/track/2szx8uXP3tKkmmLYWzKNgP"
+    },
+    {
+      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/3Z3sd1x32IUjs4u9dkMevk"
       },
@@ -4908,6 +4944,28 @@
       "duration_ms": 148604,
       "name": "Ridiculous",
       "url": "https://open.spotify.com/track/47qSQWO2wok6EKRZV2ACII"
+    },
+    {
+      "album": {
+        "name": "A DEUX",
+        "url": "https://open.spotify.com/album/7J56vsYcm4StAiKupVqoqh"
+      },
+      "artists": [
+        {
+          "name": "Dracy Drace",
+          "url": "https://open.spotify.com/artist/1o6LtXhpbTN1DsxuXEJ0mr"
+        },
+        {
+          "name": "wiz beatz",
+          "url": "https://open.spotify.com/artist/1M1KSRzo4svI2Pvp6s58Qo"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158461,
+      "name": "RIEN AU FINAL",
+      "url": "https://open.spotify.com/track/6rmnhkP5lHQQXlA7SHfNUe"
     },
     {
       "album": {

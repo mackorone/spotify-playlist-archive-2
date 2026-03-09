@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,598 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,607 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,18 +13,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 3 | [No Lo Hice Bien](https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:03 |
 | 4 | [Por Enamorarme](https://open.spotify.com/track/0iremOzugHPnOUyijt3U1c) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 2:56 |
 | 5 | [Según Tus Labios](https://open.spotify.com/track/0l7okR2i9ylxm1GbauQHzE) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 3:15 |
-| 6 | [Con Cartitas Y Whatsapp](https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:34 |
+| 6 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
 | 7 | [Qué Caro Estoy Pagando](https://open.spotify.com/track/1JU9KfQidaLyx80ixZr66t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 2:35 |
 | 8 | [Como Fue](https://open.spotify.com/track/7HZdXepTypKMzcHr1IeqLz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 3:14 |
-| 9 | [Aquí Sigues Tú](https://open.spotify.com/track/4JBVBolRrTPpRYjBGBaQot) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Aquí Sigues Tú](https://open.spotify.com/album/1NO5Jfuoe0b34Tszpk41wj) | 4:22 |
-| 10 | [Y Si Capeas](https://open.spotify.com/track/0E6g2ECvCoHIGtQTErHLkN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Y Si Capeas](https://open.spotify.com/album/3NdwMk3O7Tg3C716PqSSR6) | 2:53 |
+| 9 | [Con Cartitas Y Whatsapp](https://open.spotify.com/track/6ghJqEFJbYzHbTb59uoR0z) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:34 |
+| 10 | [Nació Pa'Leyenda](https://open.spotify.com/track/1X0mEBSYCiV93EESxc2vwf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 2:20 |
 | 11 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
 | 12 | [Que Se Canse De Llamar](https://open.spotify.com/track/5uuGyl8rBklVaYd0rcMziI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 2:43 |
-| 13 | [Nació Pa'Leyenda](https://open.spotify.com/track/1X0mEBSYCiV93EESxc2vwf) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 2:20 |
-| 14 | [No Puedo Olvidarla \- En Vivo](https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:46 |
+| 13 | [Y Si Capeas](https://open.spotify.com/track/0E6g2ECvCoHIGtQTErHLkN) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Y Si Capeas](https://open.spotify.com/album/3NdwMk3O7Tg3C716PqSSR6) | 2:53 |
+| 14 | [Mi Soledad](https://open.spotify.com/track/3Bqrzz0mct6zzIyYeXjSK2) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 2:41 |
 | 15 | [Ya lo Superé](https://open.spotify.com/track/7KLvYoh4CK9FSzQvQGmCTh) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:49 |
 | 16 | [Sera Que Estoy Enamorado](https://open.spotify.com/track/4ER0P4JmprpIBRQZr31qnQ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 3:02 |
-| 17 | [Mi Soledad](https://open.spotify.com/track/3Bqrzz0mct6zzIyYeXjSK2) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2SqFgos4euGZwKMiGZ4YEJ) | 2:41 |
+| 17 | [No Puedo Olvidarla \- En Vivo](https://open.spotify.com/track/2QLbhv0Q4iRgSpQxMu2eyi) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Entre Cuerdas y Recuerdos \(En Vivo\)](https://open.spotify.com/album/0PRUW6gyaSHBNAep6I4EQV) | 3:46 |
 | 18 | [Hay Niveles](https://open.spotify.com/track/7MGstXu3DxRkIZR20X4TPF) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [P Chonch](https://open.spotify.com/artist/3gonXKaPxROrPGKTgFlk5w) | [Hay Niveles](https://open.spotify.com/album/2YAsxLU1gVuByZyFqOLHgb) | 4:12 |
 | 19 | [Te Voy a Olvidar](https://open.spotify.com/track/3L9b67Rz7l93Wl6rSUwsIY) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 2:43 |
 | 20 | [Cuanto Te Quiero](https://open.spotify.com/track/7pm5uUs8o5GE9T5oIAbeED) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/0rLXapbkgFxBsutqWfvijP) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [Alguien Como Tú](https://open.spotify.com/track/3j6kzaCBhFDkRkh8z5091f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/09wUfoNd6G7TR1o5E9ezMQ) | 3:21 |
 | 50 | [Cuéntame Tus Penas](https://open.spotify.com/track/0nV0bBujp9cSXnTMlFqOW0) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Rey del Corrido: Ayer, Hoy y Siempre, Vol\. 1](https://open.spotify.com/album/3j0SuYEsquaXM4ShuqjgLl) | 3:54 |
 
-Snapshot ID: `aaoZAAAAAADFgXnIC0+x+K7eWVaCubo6`
+Snapshot ID: `aatqgAAAAADbokdseWKa022hxsQ34BXY`

@@ -15677,6 +15677,28 @@
     },
     {
       "album": {
+        "name": "Rushin'",
+        "url": "https://open.spotify.com/album/2W4GySd634Iw00St35XHZx"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne Morez",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Malcolm Zeller",
+          "url": "https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm"
+        }
+      ],
+      "date_added": "2026-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164885,
+      "name": "Rushin'",
+      "url": "https://open.spotify.com/track/2AvLE4tKf2GF5JSbQiUZY7"
+    },
+    {
+      "album": {
         "name": "RVN (Raven)",
         "url": "https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB"
       },

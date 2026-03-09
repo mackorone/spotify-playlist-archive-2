@@ -4448,7 +4448,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 268560,
       "name": "Sugar Clouds",
       "url": "https://open.spotify.com/track/4khcWhsdxVNvSQeNsIYDLM"
@@ -5138,6 +5138,24 @@
       "duration_ms": 290986,
       "name": "Trade it for the Night",
       "url": "https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc"
+    },
+    {
+      "album": {
+        "name": "Tell Me How You Really Feel",
+        "url": "https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Tarver",
+          "url": "https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn"
+        }
+      ],
+      "date_added": "2026-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183569,
+      "name": "Trust Myself",
+      "url": "https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q"
     },
     {
       "album": {

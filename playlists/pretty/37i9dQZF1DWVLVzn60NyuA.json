@@ -1,6 +1,6 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 498146,
+  "num_followers": 498169,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "LATINA FOREVA",
-        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 159452,
-      "name": "LATINA FOREVA",
-      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/2DOF69xUSSBvWZ173pgEId"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 178144,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/0xjmTJrupL1MA0kDLgqUkR"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "LATINA FOREVA",
+        "url": "https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 159452,
+      "name": "LATINA FOREVA",
+      "url": "https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Carpe Diem",
+        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171764,
+      "name": "Infinity (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Carpe Diem",
-        "url": "https://open.spotify.com/album/6fG2eFCgUmytQWL6umtsCh"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171764,
-      "name": "Infinity (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/5DS9LiyEdw2zY8bM6kjjgM"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "No Holding Back",
         "url": "https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 202013,
       "name": "No Letting Go",
       "url": "https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -683,6 +667,22 @@
       "duration_ms": 155293,
       "name": "Finesse",
       "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 232155,
       "name": "Diana",
       "url": "https://open.spotify.com/track/6g8vNyogMW32lhHlNcDiwX"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Love Me JeJe",
-        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Love Me JeJe",
-      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "adedamola",
-        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165139,
-      "name": "everyday",
-      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Baddies",
         "url": "https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 207403,
       "name": "Baddies",
       "url": "https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165139,
+      "name": "everyday",
+      "url": "https://open.spotify.com/track/03VSnJoeuY3BtyuZ8RSSF4"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1867,26 +1867,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Big Thug Boys (Dj Yo! Remix)",
-        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
-      },
-      "artists": [
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        },
-        {
-          "name": "Dj Yo!",
-          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
-        }
-      ],
-      "duration_ms": 174774,
-      "name": "Big Thug Boys (Dj Yo! Remix)",
-      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Cool Me Down (feat. Wizkid)",
         "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 208758,
       "name": "Cool Me Down (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Big Thug Boys (Dj Yo! Remix)",
+        "url": "https://open.spotify.com/album/325V7bs8JbRVesHY65GwjK"
+      },
+      "artists": [
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        },
+        {
+          "name": "Dj Yo!",
+          "url": "https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy"
+        }
+      ],
+      "duration_ms": 174774,
+      "name": "Big Thug Boys (Dj Yo! Remix)",
+      "url": "https://open.spotify.com/track/50OUQ4zH8PfuQzuDyZw2Of"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -1951,46 +1951,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Basshall Party",
-        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
-      },
-      "artists": [
-        {
-          "name": "Blaiz Fayah",
-          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
-        },
-        {
-          "name": "Tribal Kush",
-          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
-        }
-      ],
-      "duration_ms": 123647,
-      "name": "Basshall Party",
-      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Cheat On Me (feat. Dave)",
-        "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 222640,
-      "name": "Cheat On Me (feat. Dave)",
-      "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "All for U (Ameyatchi)",
         "url": "https://open.spotify.com/album/42yVoeB1Bs9lE6uXi7zU2m"
       },
@@ -2015,6 +1975,26 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Cheat On Me (feat. Dave)",
+        "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Cheat On Me (feat. Dave)",
+      "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -2031,6 +2011,26 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Basshall Party",
+        "url": "https://open.spotify.com/album/2tZq04GF07vJqZR8QZKGCY"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        }
+      ],
+      "duration_ms": 123647,
+      "name": "Basshall Party",
+      "url": "https://open.spotify.com/track/372CY1De8YoTGDmquFrIVc"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 169413,
+      "name": "Commando",
+      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "N\u00e3o Deixa",
         "url": "https://open.spotify.com/album/7iVGJ5tk05XHR4NVd9vztR"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 196948,
       "name": "N\u00e3o Deixa",
       "url": "https://open.spotify.com/track/1WuLD3wxu9e9vYkmrPHYqD"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/11sPQhjZhUDue2hWycZJyX"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 169413,
-      "name": "Commando",
-      "url": "https://open.spotify.com/track/4tAX2qe0TX7O69B65OQmCg"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2667,30 +2667,6 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
-        "name": "Shamajo",
-        "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
-      },
-      "artists": [
-        {
-          "name": "Badbwoy",
-          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
-        },
-        {
-          "name": "JMANI",
-          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
-        },
-        {
-          "name": "C-Mart",
-          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Shamajo",
-      "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
         "name": "Tayo",
         "url": "https://open.spotify.com/album/7bYbluaYSIJ8VhkpoDgS85"
       },
@@ -2735,6 +2711,30 @@
     {
       "added_at": "2026-02-26 23:00:40",
       "album": {
+        "name": "Shamajo",
+        "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Shamajo",
+      "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/7fxSDn1vvLJc7dd7ZMgtVM"
       },
@@ -2747,6 +2747,22 @@
       "duration_ms": 206657,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4RtUyJA9AXqBHG0QeqJfkl"
+    },
+    {
+      "added_at": "2026-02-26 23:00:40",
+      "album": {
+        "name": "Do You Mind?",
+        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 147174,
+      "name": "Do You Mind?",
+      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2026-02-26 23:00:40",
@@ -2767,22 +2783,6 @@
       "duration_ms": 154772,
       "name": "Vitamine (Remix) feat. Ya Levis",
       "url": "https://open.spotify.com/track/0cuBU0NjEZImmFEFn7kVsb"
-    },
-    {
-      "added_at": "2026-02-26 23:00:40",
-      "album": {
-        "name": "Do You Mind?",
-        "url": "https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 147174,
-      "name": "Do You Mind?",
-      "url": "https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX"
     },
     {
       "added_at": "2026-02-26 23:00:40",

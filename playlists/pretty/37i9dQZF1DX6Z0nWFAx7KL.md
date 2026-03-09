@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy music ☀️☺️
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,394 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,398 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 26 | [Call Me Up](https://open.spotify.com/track/7xlPrYqBpWc1fjrfA3zP53) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [Movement II](https://open.spotify.com/album/53o2yMucNXQc8kOYdpF2mD) | 3:02 |
 | 27 | [Lately](https://open.spotify.com/track/5SAHh4L4iGDtVMV8aOpoBY) | [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77), [Chilled Virus](https://open.spotify.com/artist/5qW3AAg0mG1Sy76GL3jABM) | [Lately](https://open.spotify.com/album/4yvA9kj2sxiSkD4CK4vNYY) | 2:25 |
 | 28 | [Eyes All Over Mine](https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B) | [Dawty](https://open.spotify.com/artist/0E4HZTP1Z1d4gOJmWrkZpe), [Joshua Robbie](https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ), [Preston Harris](https://open.spotify.com/artist/7bHa4QW7xGwlDTHmmIvLV8) | [Eyes All Over Mine](https://open.spotify.com/album/2sin8txJflst7fhouxDKy6) | 2:32 |
-| 29 | [Million Dollar Smile](https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd) | [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf) | [Million Dollar Smile](https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl) | 2:28 |
-| 30 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
+| 29 | [Underwater](https://open.spotify.com/track/1PwlrZradTFeRQg23BUZyv) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV) | [Underwater](https://open.spotify.com/album/1xH1qluXzXDhZFeaIUx5ud) | 3:33 |
+| 30 | [Million Dollar Smile](https://open.spotify.com/track/2N3S5G1dwo8t1Z3ai6ONHd) | [Jorden Dux](https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf) | [Million Dollar Smile](https://open.spotify.com/album/6ZaCi17yD3AYjAIoKI2pHl) | 2:28 |
 | 31 | [The Sun Will Come Again](https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 4:02 |
 | 32 | [Crazy](https://open.spotify.com/track/4JZ6Elf98LpgS4zgK4vGqT) | [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Arthur](https://open.spotify.com/artist/79N6rjBT1it5T9yDObqFF3), [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU) | [Crazy](https://open.spotify.com/album/2gfGTqZZLEmn9ATxYef7Xa) | 2:18 |
 | 33 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |

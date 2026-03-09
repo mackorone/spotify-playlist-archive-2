@@ -837,6 +837,36 @@
     },
     {
       "album": {
+        "name": "Salto de Fe",
+        "url": "https://open.spotify.com/album/46onTMzi9FlGypnp4NgzqI"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241656,
+      "name": "Le Pido a la Noche",
+      "url": "https://open.spotify.com/track/0QU3Pzrlf2MpWA25c4EwSb"
+    },
+    {
+      "album": {
         "name": "Le Pido a la Noche",
         "url": "https://open.spotify.com/album/5A2O82embthnUakFLo7US1"
       },
@@ -860,7 +890,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 241656,
       "name": "Le Pido a la Noche",
       "url": "https://open.spotify.com/track/1qb2uXjDs1Oms1RLJkJP4q"

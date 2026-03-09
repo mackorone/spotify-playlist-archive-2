@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,466 likes - 344 songs - 21 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,469 likes - 344 songs - 21 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -322,8 +322,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 312 | [Everything You Needed](https://open.spotify.com/track/3Hjl3OZnxOVGMFHvlzGzkI) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Hidden Gems](https://open.spotify.com/album/7gcHB4LFJHHv8EMJo2cVdm) | 3:50 |
 | 313 | [Ever \- Original Mix](https://open.spotify.com/track/76M3CpU4603Wnhx70fKs3b) | [Audio Werner](https://open.spotify.com/artist/3sAiPMoERiyl61BoNpOI1l) | [Rushograph EP](https://open.spotify.com/album/24mLp734ROBxISw2bGf4vP) | 11:01 |
 | 314 | [Sweat and Tears](https://open.spotify.com/track/7xlqKLHfdjxerFBsR36Ylc) | [Natalie Portman](https://open.spotify.com/artist/1r3yFdQpEfM9Ip9rNRLzL1) | [Vox Lux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gUQpFwlWfvGD8HTUZenEL) | 2:42 |
-| 315 | [Shine Bright](https://open.spotify.com/track/77FZ3b95yGO3hVGh11LioI) | [Arianna Lupo](https://open.spotify.com/artist/19ybsqqHaPqep7UEOTBCAe), [DJ Nicolas](https://open.spotify.com/artist/0d653z0OSCAYQboQQHruq4), [DJ Combo](https://open.spotify.com/artist/0QZeOX6E29ggbNH9kul2yu) | [Shine Bright](https://open.spotify.com/album/2n7bSvVcrWdSzcEZDCCUyB) | 3:31 |
-| 316 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 315 | [Suitcase](https://open.spotify.com/track/7sj2ICJy6txmIl1KlpOBKJ) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Chandelier](https://open.spotify.com/album/4m1gjdCj0lHYrAcxMdVcZL) | 3:15 |
+| 316 | [Shine Bright](https://open.spotify.com/track/77FZ3b95yGO3hVGh11LioI) | [Arianna Lupo](https://open.spotify.com/artist/19ybsqqHaPqep7UEOTBCAe), [DJ Nicolas](https://open.spotify.com/artist/0d653z0OSCAYQboQQHruq4), [DJ Combo](https://open.spotify.com/artist/0QZeOX6E29ggbNH9kul2yu) | [Shine Bright](https://open.spotify.com/album/2n7bSvVcrWdSzcEZDCCUyB) | 3:31 |
 | 317 | [Invisible](https://open.spotify.com/track/1iGuKE8E1uucTbPJU8YxNX) | [Ibiza DJ Rockerz](https://open.spotify.com/artist/7pTPF0ZF5srnzww30vGXOB) | [30 Ibiza DJ Dance Party Club Anthems, Vol\. 3](https://open.spotify.com/album/05zbDls7NrOXb3guLDY2gC) | 3:44 |
 | 318 | [The Game](https://open.spotify.com/track/6oA2kJr0ikewIje1n70fvb) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Pepsi Beats Of The Beautiful Game](https://open.spotify.com/album/5wHA4s2p9RbfUbirl0kdfx) | 2:59 |
 | 319 | [Some Kind of Love Song](https://open.spotify.com/track/6cFNWEKNMStIVX5VuDX5dd) | [Freak Kitchen](https://open.spotify.com/artist/0HtEZODdzPzZhdehDcF3fX) | [Appetizer](https://open.spotify.com/album/4Tli7Q4t0RVhVRr9jiBDo2) | 4:05 |
@@ -353,4 +353,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 343 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 344 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `AcLhtAAAAADQ8hpem6M1HRgNTmGujjKM`
+Snapshot ID: `AcLnVAAAAAB6mPrsjHFGRackLpciWheM`

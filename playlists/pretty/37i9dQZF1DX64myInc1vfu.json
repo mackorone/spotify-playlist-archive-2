@@ -1,6 +1,6 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
-  "num_followers": 103576,
+  "num_followers": 103594,
   "original_name": "boleritos",
   "owner": {
     "name": "Spotify",
@@ -675,22 +675,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "Noche No Te Vayas",
-        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 170868,
-      "name": "Noche No Te Vayas",
-      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Un Amor Que Se Termina",
         "url": "https://open.spotify.com/album/6EQ8v7E4ScyyNTyLzvMpJI"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 156056,
       "name": "Un Amor Que Se Termina",
       "url": "https://open.spotify.com/track/6XHYHcPiGFicC1zpTUscVm"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "Noche No Te Vayas",
+        "url": "https://open.spotify.com/album/4dIQv03uoEgeOwwqvm7eQ8"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 170868,
+      "name": "Noche No Te Vayas",
+      "url": "https://open.spotify.com/track/7jSq4TdhiHgZ6uYdUEW9Pv"
     },
     {
       "added_at": "2025-10-24 04:00:22",
@@ -831,26 +831,6 @@
     {
       "added_at": "2025-10-24 04:00:22",
       "album": {
-        "name": "D\u00e9jame Conocerte",
-        "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
-      },
-      "artists": [
-        {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 217658,
-      "name": "D\u00e9jame Conocerte",
-      "url": "https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU"
-    },
-    {
-      "added_at": "2025-10-24 04:00:22",
-      "album": {
         "name": "Para No Romperme",
         "url": "https://open.spotify.com/album/4uBW6lEyQZtqMokjqkmNHh"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 171413,
       "name": "Para No Romperme",
       "url": "https://open.spotify.com/track/7BcgW4kJU9ERyAB0EBx7Xr"
+    },
+    {
+      "added_at": "2025-10-24 04:00:22",
+      "album": {
+        "name": "D\u00e9jame Conocerte",
+        "url": "https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 217658,
+      "name": "D\u00e9jame Conocerte",
+      "url": "https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU"
     },
     {
       "added_at": "2025-10-24 04:00:22",

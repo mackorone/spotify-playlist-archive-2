@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-517 songs - 1 day 7 hr 29 min
+518 songs - 1 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Come Rewind](https://open.spotify.com/track/7e9HZORJeoSsGdr7V0576n) | [Local Singles](https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp) | [Come Rewind](https://open.spotify.com/album/7HkLCS51r4jEUCEuKqDXet) | 3:31 | 2024-03-24 | 2024-05-20 |
 | [Come To The Floor](https://open.spotify.com/track/7gcxKyJ1IaAT8YxDB6xioU) | [INDECK.](https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY), [Gadelha](https://open.spotify.com/artist/5XaHVa9jDH2whq7OBfzmmI) | [Come To The Floor](https://open.spotify.com/album/41ZyOyV6qzyWjyYhJXz0If) | 3:00 | 2023-01-22 | 2023-02-13 |
 | [Como?](https://open.spotify.com/track/1zEsqQNC0KrX8cxdBuuTyg) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Como?](https://open.spotify.com/album/7pDO9G4lpBP2vjOZWflOuQ) | 2:35 | 2023-07-16 | 2023-08-09 |
+| [Con le ali spezzate](https://open.spotify.com/track/4ubgpYL4IiexE4tQO2Ln0l) | [DreamerWild](https://open.spotify.com/artist/31lDG1hUYSmIw5jYclernj) | [Con le ali spezzate](https://open.spotify.com/album/0XtbJj0QQwLWvtFcP26Cup) | 2:40 | 2026-03-08 |  |
 | [Concrete Jungle](https://open.spotify.com/track/71cjuvx4ylaoLZJHSyHew2) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE) | [Concrete Jungle](https://open.spotify.com/album/3amdSKG2ydGodVwnWUx9OZ) | 2:36 | 2023-04-30 | 2023-05-23 |
 | [conexion paranormal](https://open.spotify.com/track/3oHgG69SLHaaZQE8SFP1x4) | [fabiom\_dj](https://open.spotify.com/artist/4OzRJdzcb3HQXpRpG1jJIP) | [latin house](https://open.spotify.com/album/0geGNzCW92yXGPo02EakYb) | 3:40 | 2026-01-08 | 2026-02-23 |
 | [Country Life \- Sosa UK Remix](https://open.spotify.com/track/04rMkHgKEFa7ipvuGOs4Ti) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Country Life \(Sosa UK Remix\)](https://open.spotify.com/album/19guSndSzg8Y6TXWZExmHj) | 4:56 | 2023-04-30 | 2023-05-23 |

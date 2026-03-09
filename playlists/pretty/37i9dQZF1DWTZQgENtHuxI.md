@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 
 > Sortez les pantalons pattes d‘eph et les chemises en satin !
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,276 likes - 50 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,280 likes - 50 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 14 | [Just an Illusion](https://open.spotify.com/track/4QT3YKobBj4BI7xCYRLr9u) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [In the Heat of the Night](https://open.spotify.com/album/7FbF8LUVnfmJWkzYfBrvt6) | 6:27 |
 | 15 | [I'm So Excited](https://open.spotify.com/track/2u8MGAiS2hBVE7GZzTZLQI) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Best Of](https://open.spotify.com/album/4ZcnXch8ZI9zlizDVTea1X) | 3:49 |
 | 16 | [Disco Inferno](https://open.spotify.com/track/5jUA1njy3h6ynHLvPdEVHt) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Inferno](https://open.spotify.com/album/4MgYPs5CBEwzmekSVNOiL3) | 10:59 |
-| 17 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
-| 18 | [Le Freak \- Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Les Plus Grands Success De Chic \- Chic's Greatest Hits](https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc) | 3:35 |
+| 17 | [Le Freak \- Edit](https://open.spotify.com/track/6Lphpr9Z6H282Sguw0dUWa) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Les Plus Grands Success De Chic \- Chic's Greatest Hits](https://open.spotify.com/album/0VpPfXytCLshrjZFHKQHyc) | 3:35 |
+| 18 | [I Can't Wait](https://open.spotify.com/track/0KCCNoVVXBatkTRvKOEf2t) | [Nu Shooz](https://open.spotify.com/artist/2The4Ur661sLPGndcUuuLu) | [Poolside](https://open.spotify.com/album/2cVH1uyLsHNv5LfZmL1eMX) | 5:26 |
 | 19 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 |
 | 20 | [Act Like You Know](https://open.spotify.com/track/1AOacbO5iSMxrGMihq9QDA) | [Fat Larry's Band](https://open.spotify.com/artist/0DapOnrmvQGwToOmgk6Fz8) | [Breakin' Out](https://open.spotify.com/album/7EJ7WCaYLgelKpBONqOCaN) | 6:30 |
 | 21 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZQgENtHuxI.md) - [plain]
 | 36 | [Où sont les femmes](https://open.spotify.com/track/1QhmS32Uo9BZCznhbYBRyY) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Best Of](https://open.spotify.com/album/0AOw7IUisWy0h8VjcP6CGp) | 6:16 |
 | 37 | [Cette année\-là](https://open.spotify.com/track/1nZMyRPYCe4ElwXggr9FJo) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Best Of](https://open.spotify.com/album/5UnV3CeKQ4r3uoW0koFS08) | 3:12 |
 | 38 | [She Can't Love You](https://open.spotify.com/track/5m2tbFHvChBEIRGBObZTVz) | [Chemise](https://open.spotify.com/artist/38yRIy4CLmtrEEedZzjNoS) | [Star Funk, Vol\. 1](https://open.spotify.com/album/69MSI2BPQ0bUCOwI8xgC69) | 5:09 |
-| 39 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
-| 40 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 39 | [I Will Survive \- Extended Version](https://open.spotify.com/track/619REdZwzaCVSkSueKqPS1) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [Silver Collection](https://open.spotify.com/album/3t4vQKksE3hxfsYS8Nr6cP) | 7:56 |
+| 40 | [You Got What It Takes](https://open.spotify.com/track/7gLflLqsZlOeLSlkx6XHrW) | [Bobby Thurston](https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l) | [You Got What It Takes](https://open.spotify.com/album/0uw28qwpfGCHCV4SDCOO7c) | 9:33 |
 | 41 | [Beat the Street](https://open.spotify.com/track/41F97acqBc7aMzwD224kRR) | [Sharon Redd](https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY) | [Beat the Street: The Very Best of Sharon Redd](https://open.spotify.com/album/3EOCA2DlYoeTIYjQauWDXM) | 6:15 |
 | 42 | [Do What You Wanna Do](https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK) | [T\-Connection](https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS) | [Something For The Weekend](https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5) | 7:17 |
 | 43 | [Spacer](https://open.spotify.com/track/3gzFESmUSfoFWeehf2rNOl) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Intégrale \(exclus À 17 ans "At Seventeen", En duo avec Claude François\)](https://open.spotify.com/album/6wzJnPvJwYOzW5LMjAdfNc) | 5:54 |

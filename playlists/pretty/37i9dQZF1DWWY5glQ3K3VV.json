@@ -1,6 +1,6 @@
 {
   "description": "SPINGERE",
-  "num_followers": 113775,
+  "num_followers": 113805,
   "original_name": "Club Rap ",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
+        "name": "30\u00baC",
+        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "duration_ms": 142615,
+      "name": "30\u00baC",
+      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
         "name": "Serio",
         "url": "https://open.spotify.com/album/1ic2J2plYa6rkNs2KeGav3"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 218769,
       "name": "Serio (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/2Cm9pUNjLYpLo2gjIiTBPa"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
-        "name": "30\u00baC",
-        "url": "https://open.spotify.com/album/66o9NYg61y0te154pzWWth"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        }
-      ],
-      "duration_ms": 142615,
-      "name": "30\u00baC",
-      "url": "https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -999,26 +999,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 119217,
-      "name": "BIKINI (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
         "url": "https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 196000,
       "name": "Fuego Del Calor (feat. Ozuna, Tyga & Capo Plaza)",
       "url": "https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 119217,
+      "name": "BIKINI (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
     },
     {
       "added_at": "2026-02-12 23:01:39",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2026-02-12 23:01:39",
       "album": {
-        "name": "Supercar",
-        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
-      },
-      "artists": [
-        {
-          "name": "N\u00e9za",
-          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Supercar",
-      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
-    },
-    {
-      "added_at": "2026-02-12 23:01:39",
-      "album": {
         "name": "Glory Days EP",
         "url": "https://open.spotify.com/album/2rxe8Kwyd417YSYmSXs0CI"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 157795,
       "name": "BISEX (feat. Yung Snapp)",
       "url": "https://open.spotify.com/track/1N7cE9RdKR5FRkB9cxsjH4"
+    },
+    {
+      "added_at": "2026-02-12 23:01:39",
+      "album": {
+        "name": "Supercar",
+        "url": "https://open.spotify.com/album/0NP8M8kOGShVj1YQrvN2sf"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9za",
+          "url": "https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Supercar",
+      "url": "https://open.spotify.com/track/45Z5FthR22V4kAe49KLke1"
     },
     {
       "added_at": "2026-02-12 23:01:39",

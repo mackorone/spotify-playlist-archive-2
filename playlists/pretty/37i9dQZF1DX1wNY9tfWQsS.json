@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Jill Scott",
-  "num_followers": 756090,
+  "num_followers": 756249,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ75NVHPGnsFFj7P/rz7PP0frEj4",
+  "snapshot_id": "AAAAAFFJULsyCvjHfefpcqjvBOXelZ+8",
   "tracks": [
     {
       "added_at": "2026-01-16 18:16:35",
@@ -189,10 +189,10 @@
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
     },
     {
-      "added_at": "2024-02-07 18:14:04",
+      "added_at": "2024-08-13 17:24:58",
       "album": {
-        "name": "Love Deluxe",
-        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
       "artists": [
         {
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2026-02-27 07:34:19",
@@ -289,10 +289,10 @@
       "url": "https://open.spotify.com/track/49uWjZ0INI41gLJVi8DxIf"
     },
     {
-      "added_at": "2024-08-13 17:24:58",
+      "added_at": "2024-02-07 18:14:04",
       "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+        "name": "Love Deluxe",
+        "url": "https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+      "duration_ms": 218000,
+      "name": "Like a Tattoo",
+      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg"
     },
     {
       "added_at": "2026-02-27 07:34:19",

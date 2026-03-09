@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,358 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,465 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 25 | [Mal Amor](https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Baila Santa Fe](https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU) | 3:09 |
 | 26 | [Vete](https://open.spotify.com/track/2P1NF2ouvMc3aOjeXdfynr) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [Vete](https://open.spotify.com/album/2ULTMUo5UesStNSxif1lgR) | 3:35 |
 | 27 | [El Hospicio](https://open.spotify.com/track/4I17shszGarI3lEcneeEEK) | [Simplemente Naguel](https://open.spotify.com/artist/4fARNbsdisPYTZtwYzAayh) | [Simplemente Nagüel](https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh) | 3:01 |
-| 28 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
-| 29 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
+| 28 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
+| 29 | [Que Será de Ti](https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inolvidables](https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf) | 3:27 |
 | 30 | [Sufrirás](https://open.spotify.com/track/67mz9xVvjR9Fdkmsl63H5g) | [Coty](https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB), [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [El Más Parrandero](https://open.spotify.com/album/56Ip4hVgF8pO1pxQjwkjLd) | 4:30 |
 | 31 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 |
 | 32 | [Vuelve Mi Amor](https://open.spotify.com/track/1YQExirdEk4Xh525kr4SHW) | [Los Leales](https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv) | [Exitos de oro](https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf) | 3:06 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 66 | [Como Fui a Enamorarme de Ti](https://open.spotify.com/track/0il6l9iz9KKcLPJR6RCSiJ) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Como Fui a Enamorarme de Ti](https://open.spotify.com/album/4FcwPA4QdPzgXsDykQHblR) | 4:14 |
 | 67 | [Unx100to](https://open.spotify.com/track/7kr36sySH1DHmWxII9fGou) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Un x100to](https://open.spotify.com/album/4SKmMNd4CTjfgWLX3YpJJe) | 3:24 |
 | 68 | [Baja un Poco la Voz](https://open.spotify.com/track/13cpioQX2dqSURrBSitugf) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 2:19 |
-| 69 | [Apaga La Tele](https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Apaga La Tele](https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy) | 2:54 |
+| 69 | [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 |
 | 70 | [Dudas](https://open.spotify.com/track/3YHqpfq0Kd9zyF3qPFQxpO) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:36 |
-| 71 | [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 |
+| 71 | [Apaga La Tele](https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Apaga La Tele](https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy) | 2:54 |
 | 72 | [Dos Veces](https://open.spotify.com/track/0UG7McSo7BCbyWiAqeggFD) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Dos Veces](https://open.spotify.com/album/1r06JQ4uRLVdKcTwpTlNgc) | 3:29 |
 | 73 | [Conversemos](https://open.spotify.com/track/78bITNyNWSjv5FIMEWRIKN) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ), [Diana Rios](https://open.spotify.com/artist/6V7Cx9UlMce4CLLoZ5Sndi) | [Conversemos](https://open.spotify.com/album/4sMiUgRzHLcY5MgQkfGJvz) | 2:27 |
 | 74 | [Placer y Olvido](https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Placer y Olvido](https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm) | 3:53 |

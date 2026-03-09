@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Ayra Starr, Skyla Tyla, Haeven, Njerae, Juno and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,570 likes - 59 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,628 likes - 59 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 93355,
+  "num_followers": 93392,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
         "name": "Dark Smile",
         "url": "https://open.spotify.com/album/7FUkQyx2A9SfDaBWpvbEFc"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 216705,
       "name": "Dark Smile",
       "url": "https://open.spotify.com/track/73zL3n9NzWIXVtvhlUnsXB"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -915,26 +915,6 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "Jackpot Killah",
-        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
-      },
-      "artists": [
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        },
-        {
-          "name": "Tharken",
-          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Jackpot Killah",
-      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
-    },
-    {
-      "added_at": "2026-03-06 14:54:04",
-      "album": {
         "name": "Ratata",
         "url": "https://open.spotify.com/album/3I3GpEWOKHlSdYpSgAZizM"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 334545,
       "name": "Ratata",
       "url": "https://open.spotify.com/track/46SkUOFgA5eM4uW3tHrt81"
+    },
+    {
+      "added_at": "2026-03-06 14:54:04",
+      "album": {
+        "name": "Jackpot Killah",
+        "url": "https://open.spotify.com/album/0ZQhWfxL3wxl5Acu2SPDz0"
+      },
+      "artists": [
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        },
+        {
+          "name": "Tharken",
+          "url": "https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Jackpot Killah",
+      "url": "https://open.spotify.com/track/09iyKXX1dreXl6FYwbMbe7"
     },
     {
       "added_at": "2026-03-06 14:54:04",
@@ -1003,26 +1003,22 @@
     {
       "added_at": "2026-03-06 14:54:04",
       "album": {
-        "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) (Satirized & Noxiouz Remix)",
-        "url": "https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5"
+        "name": "WaKe uP",
+        "url": "https://open.spotify.com/album/2mWlG9WfU0uZm7phfziGyQ"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Adjuzt",
+          "url": "https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8"
         },
         {
-          "name": "Satirized",
-          "url": "https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh"
-        },
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+          "name": "Akimbo",
+          "url": "https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e"
         }
       ],
-      "duration_ms": 190666,
-      "name": "The Underground Network (Official REBELLiON Indoor 2025 Anthem) - Satirized & Noxiouz Remix",
-      "url": "https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK"
+      "duration_ms": 145903,
+      "name": "WaKe uP",
+      "url": "https://open.spotify.com/track/0brNPyga2O0lge8kHREHOK"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

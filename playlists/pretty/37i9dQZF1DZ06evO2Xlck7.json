@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3528,
+  "num_followers": 3529,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAA4feJjfeKS8kgWgan+3SmE",
+  "snapshot_id": "aatqgAAAAAA11uY+GFgyHbvWtE7sboYL",
   "tracks": [
     {
       "added_at": null,
@@ -360,15 +360,15 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 221493,
-      "name": "Brother Bleed Brother",
-      "url": "https://open.spotify.com/track/41qfZhfPtV8PQri1HbyFcD"
+      "duration_ms": 202320,
+      "name": "Revelation Song",
+      "url": "https://open.spotify.com/track/7E5QeI7XaPzFY2bZyEaXbq"
     },
     {
       "added_at": null,
       "album": {
         "name": "Back To Oblivion",
-        "url": "https://open.spotify.com/album/4LIRDaRJB513KCSoNk7rAl"
+        "url": "https://open.spotify.com/album/0dY8ThxoO4nikAn1fRw76X"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 218746,
-      "name": "Picasso Trigger",
-      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
+      "duration_ms": 328773,
+      "name": "Inferium",
+      "url": "https://open.spotify.com/track/3VEfpFBPKMnsbhrgHXw1Bl"
     }
   ],
   "unique_name": "This Is Finch",

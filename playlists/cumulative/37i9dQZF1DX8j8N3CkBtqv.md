@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Sameer Rahat, Yudee, Yoki and other exciting artists.
 
-1,370 songs - 3 day 2 hr 58 min
+1,371 songs - 3 day 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Heartbreak 2020](https://open.spotify.com/track/0PIyGX9ZcJWNnyEtQfMNAW) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Heartbreak 2020](https://open.spotify.com/album/2zjPqiapUHz5lSNL8NImwp) | 2:52 | 2024-06-21 | 2024-07-19 |
 | [Heartrate](https://open.spotify.com/track/5eIpJTGFOmhTvqhoSUgatA) | [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs), [Alawn](https://open.spotify.com/artist/63v5XfKCQ3evu4ySkziIEZ) | [Heartrate](https://open.spotify.com/album/1T2eznFNyLN4vDATnHpcRy) | 2:42 | 2024-12-13 | 2025-01-11 |
 | [Heaven Made Ishq](https://open.spotify.com/track/1Hdb1FkpQG4gv4Y2lMGqqR) | [Vinay Katoch](https://open.spotify.com/artist/0X7ulxroScmdiJuVS2nAce) | [Heaven Made Ishq](https://open.spotify.com/album/7kCEhdHENF145d0HDSPiUU) | 3:44 | 2023-10-13 | 2023-11-18 |
+| [Heer Ban Jaana](https://open.spotify.com/track/2oE0RhekiMezHkYtbS6ViV) | [Bharat Chandak](https://open.spotify.com/artist/42x6GyehEtbb2gToHIc3lF) | [Heer Ban Jaana](https://open.spotify.com/album/2fXnxMWKlzT5QUxO5Lf5OR) | 2:33 | 2026-03-06 |  |
 | [Heeriye](https://open.spotify.com/track/5AknaLNrNTCBYr5L62XhJK) | [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc), [Aasa Singh](https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF) | [Heeriye](https://open.spotify.com/album/4aMIA4pmWtLP4VoLveg8dj) | 3:35 | 2024-08-23 | 2024-11-09 |
 | [Hey Aisha](https://open.spotify.com/track/5MBc50q8DgItOwgeHx5zav) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Hey Aisha](https://open.spotify.com/album/23ikRwidyOtMo336MTwyBS) | 2:42 | 2025-03-21 | 2025-04-03 |
 | [HIGHER](https://open.spotify.com/track/33VAfRjgStvGDJAo7mFNsw) | [pho](https://open.spotify.com/artist/0eAgLEZjRTeUe2UqQhH9YC), [Vaaman](https://open.spotify.com/artist/3NyL2PjsPYCVImosIiU6hS) | [TERMINAL 2](https://open.spotify.com/album/7cHBjPv8ndxvqB3coYrPx5) | 3:12 | 2026-02-06 |  |
@@ -736,7 +737,7 @@
 | [Last Love](https://open.spotify.com/track/2a834KnEujzAKxO6OxPw6n) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [Saaheal](https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM) | [Last Love](https://open.spotify.com/album/2Q3FYaYV9ECw8MXUiM3YG7) | 3:36 | 2025-07-04 | 2025-10-11 |
 | [lately](https://open.spotify.com/track/1Kjn4ZIItYAlWKnV2do5P8) | [zefaan](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V) | [lately](https://open.spotify.com/album/7CDs4rG7lzxKTwMryMtLwr) | 2:20 | 2024-07-05 | 2024-08-03 |
 | [Laut Aao Na](https://open.spotify.com/track/4ByPoS1tU7Gvbimkj29GQu) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Laut Aao Na](https://open.spotify.com/album/6zNjyPHHO10rc7L1Yxr41O) | 3:47 | 2024-02-16 | 2024-07-13 |
-| [Layla](https://open.spotify.com/track/2VWy04Y3R1DxtOnCK7KxR9) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Layla](https://open.spotify.com/album/1tSKC4kZI9hVE2UwROObZu) | 3:14 | 2026-02-20 |  |
+| [Layla](https://open.spotify.com/track/2VWy04Y3R1DxtOnCK7KxR9) | [Chayan](https://open.spotify.com/artist/7unUdPbyPyy71g6WeD0M4U) | [Layla](https://open.spotify.com/album/1tSKC4kZI9hVE2UwROObZu) | 3:14 | 2026-02-20 | 2026-03-09 |
 | [Lazeez](https://open.spotify.com/track/4mUhdsCpbiIJ8d0iPFmJeL) | [W.i.S.H.](https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k) | [Lazeez](https://open.spotify.com/album/4ssEr8PGrOhPXoccbgiQHF) | 3:11 | 2024-03-01 | 2024-04-19 |
 | [Le Chal Saaware](https://open.spotify.com/track/5CgDshGtLBPRG7b6KpYi4k) | [Agnee](https://open.spotify.com/artist/66VUlJ41NQs9bRTflM4eGA), [Abbas Tyrewala](https://open.spotify.com/artist/5eaK14k9NKZ4L6M8ROLntF) | [Le Chal Saaware](https://open.spotify.com/album/7cNrBjZmzGAPthUftiNL3c) | 4:24 | 2024-07-26 | 2024-09-21 |
 | [Le Ja Re](https://open.spotify.com/track/4b0zJze6X4NL3s1N0TT729) | [Tapas Kalai](https://open.spotify.com/artist/0guDWAQ2Bj73Q8wIv38BKq), [SoulTrax](https://open.spotify.com/artist/5xyovpABCtEybs55kIQg1b) | [Le Ja Re](https://open.spotify.com/album/68Exb1as3S5FHYM0yQUUB6) | 3:58 | 2024-06-14 | 2024-07-27 |

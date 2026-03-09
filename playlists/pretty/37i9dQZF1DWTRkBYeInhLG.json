@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 500383,
+  "num_followers": 500398,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 222893,
-      "name": "Teman Hidup",
-      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
+      "duration_ms": 240493,
+      "name": "Sewindu",
+      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Sewindu",
-      "url": "https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub"
+      "duration_ms": 222893,
+      "name": "Teman Hidup",
+      "url": "https://open.spotify.com/track/1U1qumuS2O5Qttw8G7UXOZ"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Dari Mata",
         "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 223462,
       "name": "Dari Mata",
       "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Teman Bahagia",
-        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 208104,
-      "name": "Teman Bahagia",
-      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 197813,
       "name": "Air & Api",
       "url": "https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Teman Bahagia",
+        "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 208104,
+      "name": "Teman Bahagia",
+      "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
     },
     {
       "added_at": "2026-02-27 14:15:43",

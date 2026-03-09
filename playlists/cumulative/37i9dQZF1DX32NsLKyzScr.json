@@ -14457,6 +14457,32 @@
     },
     {
       "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/2NnCa9OR5WBlOFU9JIPnpn"
+      },
+      "artists": [
+        {
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
+        },
+        {
+          "name": "Twin Diplomacy",
+          "url": "https://open.spotify.com/artist/5rweLVovWSRNfeuVvzPcCq"
+        },
+        {
+          "name": "Liv Grace Blue",
+          "url": "https://open.spotify.com/artist/5Cb72YLWR9MV0z46xNpmEl"
+        }
+      ],
+      "date_added": "2026-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270648,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/6flTr5BDb7OQN7nZCs8xmR"
+    },
+    {
+      "album": {
         "name": "light years (feat. In\u00e9z)",
         "url": "https://open.spotify.com/album/3Ze2F3oYCJnaotDZBVWMkI"
       },
@@ -19942,7 +19968,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 207619,
       "name": "Pump Up The Jam",
       "url": "https://open.spotify.com/track/4ksPwUFgqXopEItcz0sqEQ"

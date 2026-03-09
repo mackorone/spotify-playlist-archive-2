@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Gretel
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,735 likes - 81 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,640 likes - 81 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

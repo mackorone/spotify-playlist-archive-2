@@ -4,7 +4,7 @@
 
 > Naya Hip\-Hop Hindi! Cover: Agsy
 
-1,428 songs - 2 day 22 hr 10 min
+1,429 songs - 2 day 22 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Hyper](https://open.spotify.com/track/1N8uO24yosegs3bZTmCWCU) | [Pankaj Saini](https://open.spotify.com/artist/3er6Z09NSRHHyPK3UGac4B), [Kalki 3.0](https://open.spotify.com/artist/4Yl4KFvI4aTzwVpIgv0GqW) | [Hyper](https://open.spotify.com/album/0atYbHR8EsbUaF7yzRsUT8) | 2:17 | 2025-04-18 | 2025-06-06 |
 | [I Don't Give A Damn](https://open.spotify.com/track/0wf99R9UA3Emmjc7RKFAGF) | [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V), [Rajat Dalal](https://open.spotify.com/artist/2Md4wjP63NS3gSQjqMa43T), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [I Don't Give A Damn](https://open.spotify.com/album/0vj79foRPnZwVGsySugFBn) | 2:41 | 2025-05-09 | 2025-06-28 |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2023-03-29 | 2023-04-17 |
+| [I know](https://open.spotify.com/track/1um9mOzoPD9rxWSwMyuHRh) | [KARYAWAAHI](https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [I know](https://open.spotify.com/album/0oi3kQBV7JFSL1P5MHKDha) | 2:50 | 2026-03-08 |  |
 | [I Know](https://open.spotify.com/track/7tmaLjBQuHbzOqIluTcF34) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8) | [Deleted Text](https://open.spotify.com/album/6IVe1w4JtyOVxDMErHfoiX) | 2:54 | 2024-06-22 | 2024-08-24 |
 | [I'M OK](https://open.spotify.com/track/0SVOjIRYYVorM94stw77WA) | [Lv94](https://open.spotify.com/artist/2WJBAL3GFX2OeSKd59xhur) | [I'M OK](https://open.spotify.com/album/6eOGkKV2PBk1Dxhyx73XOV) | 2:11 | 2025-11-28 | 2025-12-20 |
 | [ICE](https://open.spotify.com/track/6gjarl3YlvQtnvGCZQ4IRK) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 2:48 | 2023-03-29 | 2023-04-17 |
@@ -1267,7 +1268,7 @@
 | [Tarne Laga](https://open.spotify.com/track/7Du7CwlZn6SA3Xn32yBa1l) | [Ruhaan79](https://open.spotify.com/artist/5SF0jmBaNgXoDE7VuUypTL), [Palaq](https://open.spotify.com/artist/4iFnBgFGTFdnxiD73QqTxE) | [Tarne Laga](https://open.spotify.com/album/0xbrAOUQkhoMX0IgaFiWcr) | 3:27 | 2024-04-19 | 2024-04-27 |
 | [TASKAR](https://open.spotify.com/track/6EVxFgKHC2vVH9BtJPyo4Y) | [Kalakaar AR](https://open.spotify.com/artist/6qHcAljoxXVb02uB1p3O2h), [KRYP](https://open.spotify.com/artist/0WvLCY2EVY1VGvWzakkNo6), [TronK](https://open.spotify.com/artist/70zQDrIuxuXgnvDdFH2VYL) | [X’PERT](https://open.spotify.com/album/3kJwx8ysK7qVzTcbcDkje4) | 3:16 | 2025-05-23 | 2025-07-02 |
 | [Tasveer](https://open.spotify.com/track/3I5UzEN7TFZC7cMD0pp7qA) | [LAYZEE](https://open.spotify.com/artist/5Z5jmpQJfkXiVA3ywg0ETZ), [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi) | [Tasveer](https://open.spotify.com/album/7LKgtg5vfTFgb96haepR6t) | 3:20 | 2025-02-07 | 2025-03-29 |
-| [Tateeree](https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Simran Jaglan](https://open.spotify.com/artist/54x8gJEux02W45CsSv87om), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tateeree](https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp) | 2:31 | 2026-03-03 |  |
+| [Tateeree](https://open.spotify.com/track/1rfuOlNBcEs5aH9HfcSgtm) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Simran Jaglan](https://open.spotify.com/artist/54x8gJEux02W45CsSv87om), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Tateeree](https://open.spotify.com/album/7GAfN8pBjCvds6aYImN5hp) | 2:31 | 2026-03-03 | 2026-03-09 |
 | [TATHYA](https://open.spotify.com/track/0jBftnxpYmpxGFYSYGSbga) | [ARPAN](https://open.spotify.com/artist/1D7FiSH9LR4FWspYKq28T6), [Nazz](https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB) | [TATHYA](https://open.spotify.com/album/53VZRmMGUeB2o94pXtwMOc) | 2:07 | 2024-08-16 | 2024-09-17 |
 | [Teen Tigaada Kaam Bigaada](https://open.spotify.com/track/6uyCb8gHGCVxZsu5SNtGcG) | [Kavira](https://open.spotify.com/artist/55dZoBgHhr0ADAVN55kjRY) | [Teen Tigaada Kaam Bigaada](https://open.spotify.com/album/18IwDDvyVZ2QYbTOzq6kUx) | 3:24 | 2026-02-27 |  |
 | [TEJI](https://open.spotify.com/track/5rMArknJ3HLIETReN6tE8I) | [Dhanji](https://open.spotify.com/artist/1OVeQPd27s1MkICbzBfZTV), [unfuckman](https://open.spotify.com/artist/07GlkSE03UKsOS90sHgOIC) | [RUAB \(DIRECTOR's CUT\)](https://open.spotify.com/album/0qgwm14ol8RcBzJOGuQmGh) | 2:34 | 2024-12-13 | 2025-02-08 |

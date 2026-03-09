@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Hits 1972",
+        "url": "https://open.spotify.com/album/7JYjOSnsG8doJy8KF0u7zT"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2026-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "Corrido De Chito Cano",
+      "url": "https://open.spotify.com/track/7IpB7WrNvlvAKghweng9VS"
+    },
+    {
+      "album": {
         "name": "Corridos Con",
         "url": "https://open.spotify.com/album/7y9jDwPPG28iiioNFnrvYY"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-03-09",
       "duration_ms": 207751,
       "name": "Corrido de Chito Cano",
       "url": "https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X"

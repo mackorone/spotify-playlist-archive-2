@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: Mary Middlefield",
-  "num_followers": 45972,
+  "num_followers": 46276,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "effy stonem",
-        "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
-      },
-      "artists": [
-        {
-          "name": "liska",
-          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
-        }
-      ],
-      "duration_ms": 191373,
-      "name": "effy stonem",
-      "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/6FvF6G3r7GPDXY77RfRopF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 181714,
       "name": "Problema",
       "url": "https://open.spotify.com/track/0vxoQhXYBcTtvk9XZRkyDz"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "effy stonem",
+        "url": "https://open.spotify.com/album/3vmu817adQqXT4VCNbuI1t"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "duration_ms": 191373,
+      "name": "effy stonem",
+      "url": "https://open.spotify.com/track/5eKOnBoLoDfuW00kDvn4s4"
     },
     {
       "added_at": "2026-03-06 09:09:52",
@@ -399,38 +399,6 @@
     {
       "added_at": "2026-03-06 09:09:52",
       "album": {
-        "name": "sad baddie anthem EP",
-        "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
-      },
-      "artists": [
-        {
-          "name": "verifiziert",
-          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
-        }
-      ],
-      "duration_ms": 137436,
-      "name": "sad baddie anthem",
-      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
-        "name": "St\u00fcck f\u00fcr St\u00fcck / Grau",
-        "url": "https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx"
-      },
-      "artists": [
-        {
-          "name": "Eli Preiss",
-          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
-        }
-      ],
-      "duration_ms": 152100,
-      "name": "Grau",
-      "url": "https://open.spotify.com/track/54uul8HLG0lp8sgOOuFW45"
-    },
-    {
-      "added_at": "2026-03-06 09:09:52",
-      "album": {
         "name": "TWIN",
         "url": "https://open.spotify.com/album/3BqlDx8gKqfieGWdYD1emh"
       },
@@ -459,6 +427,38 @@
       "duration_ms": 131000,
       "name": "Che Che",
       "url": "https://open.spotify.com/track/4kpIsRCP8Ab6vY1kS3HIIm"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "sad baddie anthem EP",
+        "url": "https://open.spotify.com/album/4xbhzAzIldP3XfdgSiBXXw"
+      },
+      "artists": [
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "duration_ms": 137436,
+      "name": "sad baddie anthem",
+      "url": "https://open.spotify.com/track/2LNsZbDPc4zermXO0u6xfi"
+    },
+    {
+      "added_at": "2026-03-06 09:09:52",
+      "album": {
+        "name": "St\u00fcck f\u00fcr St\u00fcck / Grau",
+        "url": "https://open.spotify.com/album/1K34SZ3lGBwifnsQcdcrFx"
+      },
+      "artists": [
+        {
+          "name": "Eli Preiss",
+          "url": "https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID"
+        }
+      ],
+      "duration_ms": 152100,
+      "name": "Grau",
+      "url": "https://open.spotify.com/track/54uul8HLG0lp8sgOOuFW45"
     },
     {
       "added_at": "2026-03-06 09:09:52",

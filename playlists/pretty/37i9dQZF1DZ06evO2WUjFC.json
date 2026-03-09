@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAD+Nm3rNGQcbSoh6HudQb+H",
+  "snapshot_id": "aatqgAAAAADfgMLplLzWl/ONS2LvJv5B",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fiesta Privada Desde El 602 (En Vivo)",
+        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 46418,
+      "name": "Intro - En Vivo",
+      "url": "https://open.spotify.com/track/0oIJMtVil8q5xCVmLfzTXa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATALOGADO",
         "url": "https://open.spotify.com/album/0dWmtSyvO2o7ytt5wURXUB"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 127481,
       "name": "CATALOGADO",
       "url": "https://open.spotify.com/track/1uB0VyV5AfRIaBq6hJWeRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta Privada Desde El 602 (En Vivo)",
-        "url": "https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 46418,
-      "name": "Intro - En Vivo",
-      "url": "https://open.spotify.com/track/0oIJMtVil8q5xCVmLfzTXa"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CON LA COCHI [VOL II (EN VIVO)]",
+        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 185391,
+      "name": "Mami - En Vivo",
+      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EN VIVO DESDE EL VALLE",
         "url": "https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 218623,
       "name": "VENGO A VER UNOS OJOS - En Vivo",
       "url": "https://open.spotify.com/track/6IoSW6YT3ZUuO1H9ofvoVU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CON LA COCHI [VOL II (EN VIVO)]",
-        "url": "https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 185391,
-      "name": "Mami - En Vivo",
-      "url": "https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8"
     },
     {
       "added_at": null,
@@ -683,30 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Velas Encendidas",
-        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
-      },
-      "artists": [
-        {
-          "name": "Gerencia AGC",
-          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Jul Diez",
-          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
-        }
-      ],
-      "duration_ms": 190042,
-      "name": "Velas Encendidas",
-      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LA CAPITAL",
         "url": "https://open.spotify.com/album/2nGXA6aI0CcSX6e9curx7T"
       },
@@ -723,6 +699,26 @@
       "duration_ms": 210256,
       "name": "LA CAPITAL",
       "url": "https://open.spotify.com/track/2NnxDhtPyWgASTDVp8MnnM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
+        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 242061,
+      "name": "Culiacan Se Estremecia",
+      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
     },
     {
       "added_at": null,
@@ -763,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Awuites Solo Son Unos Dop3kidz$",
-        "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 242061,
-      "name": "Culiacan Se Estremecia",
-      "url": "https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sue\u00f1os De La Calle (Vol. 1)",
         "url": "https://open.spotify.com/album/0jw8F2KGYttGhV5duwgmyx"
       },
@@ -807,6 +783,30 @@
       "duration_ms": 157205,
       "name": "Sue\u00f1os De La Calle: X Ella",
       "url": "https://open.spotify.com/track/7pYuADOcpDjrzCRk7AKUQN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Velas Encendidas",
+        "url": "https://open.spotify.com/album/49E2apylgdz013orZ7Og0o"
+      },
+      "artists": [
+        {
+          "name": "Gerencia AGC",
+          "url": "https://open.spotify.com/artist/2noO9VOPzhyY4cUMFv6vYs"
+        },
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Jul Diez",
+          "url": "https://open.spotify.com/artist/1Yu84HbHhGHeS7aorDMqA5"
+        }
+      ],
+      "duration_ms": 190042,
+      "name": "Velas Encendidas",
+      "url": "https://open.spotify.com/track/0znVaRjI56esCo5I9YZs23"
     },
     {
       "added_at": null,

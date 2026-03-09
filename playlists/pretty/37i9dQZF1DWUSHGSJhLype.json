@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Manu, L\u00e9o Santana",
-  "num_followers": 761128,
+  "num_followers": 761125,
   "original_name": "Puro Suco do Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -431,62 +431,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Superfantasticamente (Superfantastico)",
-        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 151136,
-      "name": "Superfantasticamente (Superfantastico)",
-      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
-      },
-      "artists": [
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 195794,
-      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
-        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
-        "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 160223,
-      "name": "Marquinha De Fitinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
         "url": "https://open.spotify.com/album/0fCdf2W6IcPdWaFceqJMLo"
       },
@@ -511,6 +455,62 @@
       "duration_ms": 176400,
       "name": "QUANDO VOC\u00ca SE FOI CHOREI (SORRI, SOU REI)",
       "url": "https://open.spotify.com/track/4YQ37NPJlIUMFo8Kq51heS"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/1TDPdTrinPDX4tZTwYOE1v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 195794,
+      "name": "Cora\u00e7\u00e3o Partido (Coraz\u00f3n Part\u00edo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YlfGwNizEKy299l1PVggn"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Superfantasticamente (Superfantastico)",
+        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 151136,
+      "name": "Superfantasticamente (Superfantastico)",
+      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "L\u00e9o Santana 20 Anos - DNA De GG (Ao Vivo / Parte 1)",
+        "url": "https://open.spotify.com/album/3SqKJaLr8HxJfC3UdDR5ie"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 160223,
+      "name": "Marquinha De Fitinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/0TBwd8gAbZV8uPo1Ub6Ymb"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
+        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
+        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
+      },
+      "artists": [
+        {
+          "name": "Filho do Piseiro",
+          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
+        }
+      ],
+      "duration_ms": 136333,
+      "name": "Raparigas",
+      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
         "name": "MTG NA IMAGINA\u00c7\u00c3O (TOPO SESSIONS VOL. 1)",
         "url": "https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 144923,
       "name": "MTG NA IMAGINA\u00c7\u00c3O - TOPO SESSIONS VOL. 1",
       "url": "https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
-        "name": "S\u00f3 Poesias No M\u00e9dio Grave (Vol.1)",
-        "url": "https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS"
-      },
-      "artists": [
-        {
-          "name": "Filho do Piseiro",
-          "url": "https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW"
-        }
-      ],
-      "duration_ms": 136333,
-      "name": "Raparigas",
-      "url": "https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -695,6 +695,26 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 160846,
       "name": "Sei Que Tu Me Odeia",
       "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Vampirinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Vampirinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "Encosta na Parede",
         "url": "https://open.spotify.com/album/4Lx2IrKx6HwDR1kEfXh2F0"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 131822,
       "name": "Encosta na Parede",
       "url": "https://open.spotify.com/track/4EVIYtNeI4O8h0lmE0wycC"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Vampirinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15uji3y7dXE6BVJFrPEk7U"
+      },
+      "artists": [
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "Vampirinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/4e5wmQErWzLAYvKH80eVxU"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Minha Gata",
-        "url": "https://open.spotify.com/album/5lrnxnLc0Lx29BwXYAWDUA"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 149779,
-      "name": "Minha Gata",
-      "url": "https://open.spotify.com/track/3V2LWPOBUqtzKcsCDtCMIj"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "Cama Embrasa",
         "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 178000,
       "name": "Cama Embrasa",
       "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Minha Gata",
+        "url": "https://open.spotify.com/album/5lrnxnLc0Lx29BwXYAWDUA"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 149779,
+      "name": "Minha Gata",
+      "url": "https://open.spotify.com/track/3V2LWPOBUqtzKcsCDtCMIj"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 158432,
+      "name": "J\u00e1 Que Me Ensinou a Beber",
+      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
         "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
         "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 159082,
       "name": "DENTRO DA LAND ROVER - Ao Vivo",
       "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 158432,
-      "name": "J\u00e1 Que Me Ensinou a Beber",
-      "url": "https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O"
     },
     {
       "added_at": "2026-03-06 14:05:04",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2026-03-06 14:05:04",
       "album": {
-        "name": "Voc\u00ea \u00e9 Meu M\u00f4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf"
-      },
-      "artists": [
-        {
-          "name": "Kamisa 10",
-          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
-    },
-    {
-      "added_at": "2026-03-06 14:05:04",
-      "album": {
         "name": "Toda Natural",
         "url": "https://open.spotify.com/album/3Sw2TWkrbFeKZG70tHPRdO"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 150857,
       "name": "Toda Natural",
       "url": "https://open.spotify.com/track/1d3yKikiwWVJOfFCdpvaZV"
+    },
+    {
+      "added_at": "2026-03-06 14:05:04",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Meu M\u00f4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf"
+      },
+      "artists": [
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "duration_ms": 146186,
+      "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
     },
     {
       "added_at": "2026-03-06 14:05:04",

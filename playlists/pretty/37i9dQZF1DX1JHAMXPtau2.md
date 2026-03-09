@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 
 > Soft and cozy piano versions of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,393 likes - 43 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,388 likes - 43 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JHAMXPtau2.md) - [plain]
 | 42 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/5DLLYzJ575Fm5nO9JMz1Qb) | [Rebecca McCarthey](https://open.spotify.com/artist/6jwFngKucSiFvC4ZnyNuSq) | [Christmas In New York](https://open.spotify.com/album/2f1Yvqn1ObgJjAZahXKAsW) | 3:38 |
 | 43 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
 
-Snapshot ID: `AAAAAP/lFQ/SGaIfoI811fauZfiT8ISd`
+Snapshot ID: `AAAAACeYl9Bkl/k57+lxyFznblUUyzor`

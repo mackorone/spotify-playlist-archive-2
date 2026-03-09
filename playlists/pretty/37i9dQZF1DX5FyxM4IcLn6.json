@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 166899,
+  "num_followers": 166916,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 241948,
+      "name": "Crybaby",
+      "url": "https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "SOS Deluxe: LANA",
-        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 241948,
-      "name": "Crybaby",
-      "url": "https://open.spotify.com/track/1g7pFO1WtclKCuIQiS8sNM"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Inhale / Exhale",
+        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 236080,
+      "name": "Music is Better",
+      "url": "https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -863,18 +879,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Inhale / Exhale",
-        "url": "https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP"
+        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
+        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 236080,
-      "name": "Music is Better",
-      "url": "https://open.spotify.com/track/4NlxBNd38G9nXjCVrbBYre"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -899,26 +919,6 @@
       "duration_ms": 429454,
       "name": "I Know A Name",
       "url": "https://open.spotify.com/track/4TXK7iqOnXCr8XWyj3b4dJ"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
-        "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Sinners",
-        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Sinners",
-      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "F1 The Album",
         "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 300113,
       "name": "Bad As I Used To Be",
       "url": "https://open.spotify.com/track/11AfHdYnWqd8ez0u3VHw6E"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Sinners",
+        "url": "https://open.spotify.com/album/3aUKmF2jQ0QPBe9QrNFLFr"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Sinners",
+      "url": "https://open.spotify.com/track/0OyWRjMMbPKwnBtWdLg4Ws"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "BLOOM",
-        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 318121,
-      "name": "Overqualified",
-      "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "SINF\u00d3NICO (En Vivo)",
         "url": "https://open.spotify.com/album/6qBMMQeQLfUxEs47lK085F"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 189000,
       "name": "Encantadora - Sinf\u00f3nico En Vivo",
       "url": "https://open.spotify.com/track/06BMQ0taPFJjI4IDDkjZ00"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "BLOOM",
+        "url": "https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 318121,
+      "name": "Overqualified",
+      "url": "https://open.spotify.com/track/3lHwn0uVcDUXusIKOoBVHp"
     },
     {
       "added_at": "2025-11-12 17:50:29",

@@ -1,6 +1,6 @@
 {
   "description": "Die Musik f\u00fcr die H\u00fctten Gaudi!",
-  "num_followers": 491984,
+  "num_followers": 492004,
   "original_name": "Apr\u00e8s Ski Party 2026",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
-        "name": "Oben ohne",
-        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "Oben ohne",
-      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 150413,
       "name": "Easy Peasy",
       "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
     },
     {
       "added_at": "2026-03-06 10:05:36",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Marc Pircher",
-          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "7 S\u00fcnden - Party Mix",
-      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 150090,
       "name": "Mein kleines Herz (Bam Bam)",
       "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     },
     {
       "added_at": "2026-03-06 10:05:36",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
-        "name": "Saufi saufi",
-        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
-      },
-      "artists": [
-        {
-          "name": "Tobee",
-          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
-        }
-      ],
-      "duration_ms": 206302,
-      "name": "Saufi saufi",
-      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1275,6 +1259,22 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
         "name": "MDMA",
         "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
       },
@@ -1287,6 +1287,22 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2026-03-06 10:05:36",
@@ -1307,22 +1323,6 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2026-03-06 10:05:36",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
         "name": "Midnight Lady",
         "url": "https://open.spotify.com/album/68DOa8MyHEElxIOhatDQJN"
       },
@@ -1403,22 +1419,6 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
-        "name": "Finchi's Love Tape",
-        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 170773,
-      "name": "FiNCHiBOY",
-      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
         "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
         "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
       },
@@ -1431,26 +1431,6 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2026-03-06 10:05:36",
-      "album": {
-        "name": "Lass uns nicht geh'n (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/5LwpB5j8Z7iIm3zosk0SKf"
-      },
-      "artists": [
-        {
-          "name": "Cat Ballou",
-          "url": "https://open.spotify.com/artist/6d5CGj93XLaqmyt10XgL8O"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Lass uns nicht geh'n - Stereoact Remix",
-      "url": "https://open.spotify.com/track/72FeMSpQJwXnhPT2sPjdqA"
     },
     {
       "added_at": "2026-03-06 10:05:36",
@@ -1471,18 +1451,38 @@
     {
       "added_at": "2026-03-06 10:05:36",
       "album": {
-        "name": "Karnevalsmaus",
-        "url": "https://open.spotify.com/album/3P7BTUakbhneeNQd7RLA1K"
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
       },
       "artists": [
         {
-          "name": "Druckluft",
-          "url": "https://open.spotify.com/artist/0frz3O8M5bimsfjqGKcAL9"
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 193884,
-      "name": "Karnevalsmaus",
-      "url": "https://open.spotify.com/track/1lIKCHfDSK5NRXtCatnsrx"
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+    },
+    {
+      "added_at": "2026-03-06 10:05:36",
+      "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
     }
   ],
   "unique_name": "Apr\u00e8s Ski Party 2026",

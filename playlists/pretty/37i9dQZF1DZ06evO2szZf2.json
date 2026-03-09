@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35321,
+  "num_followers": 35323,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aaoZAAAAAAAD9GeLolj9q5+DrJJfFICA",
+  "snapshot_id": "aatqgAAAAAD2c4o4CUcWNCTL8A10nP6S",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Marra de Bandido",
+        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
+      },
+      "artists": [
+        {
+          "name": "Michele Andrade",
+          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "HITZIN",
+          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
+        }
+      ],
+      "duration_ms": 118586,
+      "name": "Marra de Bandido",
+      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Dos Casados 2",
         "url": "https://open.spotify.com/album/65N2IuNmZV2KWP1Qoc5uvX"
       },
@@ -379,30 +403,6 @@
       "duration_ms": 1113600,
       "name": "Set Dos Casados 2",
       "url": "https://open.spotify.com/track/7KM3s9TZZ3yJDSP9rIkcbc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marra de Bandido",
-        "url": "https://open.spotify.com/album/2u4mR0k6kBJKTAO9p92le7"
-      },
-      "artists": [
-        {
-          "name": "Michele Andrade",
-          "url": "https://open.spotify.com/artist/4DGPK44xtNPRNQSH2Bg73a"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "HITZIN",
-          "url": "https://open.spotify.com/artist/2iGkYTfLmeZeAs9zAoVG6Z"
-        }
-      ],
-      "duration_ms": 118586,
-      "name": "Marra de Bandido",
-      "url": "https://open.spotify.com/track/3q3rhHGxVcTfZvkE1b2Jgw"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Acredito No Amor",
         "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 103384,
       "name": "Como Acredito No Amor",
       "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Rel\u00edquia 2",
         "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 136356,
       "name": "Medley Rel\u00edquia 2",
       "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Novo Imp\u00e9rio",
-          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
-        }
-      ],
-      "duration_ms": 197480,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
-      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sentando no Pula Pula",
         "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 174962,
       "name": "Sentando no Pula Pula",
       "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
     },
     {
       "added_at": null,
@@ -1147,26 +1147,6 @@
       "duration_ms": 179076,
       "name": "Meca Lacrada (Batom da Virginia)",
       "url": "https://open.spotify.com/track/6OJpjoJKH3sSpxHqTEdtp7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Na Chapa",
-        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
-      },
-      "artists": [
-        {
-          "name": "DJ Mandrake 100% Original",
-          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Na Chapa",
-      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
     },
     {
       "added_at": null,
@@ -1211,6 +1191,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mochila nas Costas / Empurra Empurra",
+        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+      },
+      "artists": [
+        {
+          "name": "DJ Felipe \u00danico",
+          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        }
+      ],
+      "duration_ms": 241777,
+      "name": "Mochila nas Costas / Empurra Empurra",
+      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abril",
         "url": "https://open.spotify.com/album/2u68fnThe5A4mChFQrtqvi"
       },
@@ -1235,26 +1239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mochila nas Costas / Empurra Empurra",
-        "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
+        "name": "Na Chapa",
+        "url": "https://open.spotify.com/album/6WAjvoPfdjjETMTMULlcMl"
       },
       "artists": [
         {
-          "name": "DJ Felipe \u00danico",
-          "url": "https://open.spotify.com/artist/4SWOPPVmBsxVY8MZxXkk2S"
+          "name": "DJ Mandrake 100% Original",
+          "url": "https://open.spotify.com/artist/6ZZ2yR3x1jcHyx7EheNf8M"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Topre",
-          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
         }
       ],
-      "duration_ms": 241777,
-      "name": "Mochila nas Costas / Empurra Empurra",
-      "url": "https://open.spotify.com/track/49N07rRWNp03L2HPCogaF0"
+      "duration_ms": 125538,
+      "name": "Na Chapa",
+      "url": "https://open.spotify.com/track/1ZiA8va8siGNP0uDVQ5sUV"
     },
     {
       "added_at": null,
@@ -1343,6 +1343,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3 No Aquecimento",
         "url": "https://open.spotify.com/album/3Kot1u0EnG4vFmjouH3ylx"
       },
@@ -1375,26 +1395,6 @@
       "duration_ms": 140160,
       "name": "S\u00f3 No Aquecimento",
       "url": "https://open.spotify.com/track/6dqp2TrrFUyqxXHMGbBeml"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
-      },
-      "artists": [
-        {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
     },
     {
       "added_at": null,
